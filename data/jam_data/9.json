@@ -1,0 +1,3572 @@
+{
+  "n": 9,
+  "name": "Pirate Software - Game Jam 15",
+  "url": "https://itch.io/jam/pirate15",
+  "theme": "Shadows and Alchemy",
+  "slug": "pirate15",
+  "jamMeta": {
+    "jamType": "ongoing",
+    "joined": "",
+    "entries": "2,354",
+    "title": "Pirate Software - Game Jam 15",
+    "jamURL": "https://itch.io/jam/pirate15",
+    "hosts": {
+      "Pirate Software": "https://piratesoftware.itch.io",
+      "#PirateJam": "https://bsky.app/hashtag/PirateJam"
+    },
+    "jamID": "388807"
+  },
+  "totalEntries": 2280,
+  "ranked": true,
+  "hasCategories": true,
+  "needsManualSelection": false,
+  "categories": [
+    "Playability",
+    "Theme",
+    "Cleverness",
+    "Artistic Style"
+  ],
+  "topGames": [
+    {
+      "gameId": 2828412,
+      "gameUrl": "https://kristoff-red.itch.io/umblight",
+      "overallRank": 1,
+      "topCategories": [
+        "Playability",
+        "Theme",
+        "Cleverness",
+        "Artistic Style"
+      ],
+      "resultData": {
+        "id": 2828412,
+        "contributors": [
+          {
+            "name": "Kristoff Red",
+            "id": 4775962
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzE3MTQ4ODM1LnBuZw==/300x240%23c/IZ902C.png",
+        "title": "Umblight (Jam Version)",
+        "score": 5,
+        "rank": 1,
+        "raw_score": 5,
+        "rating_count": 2,
+        "criteria": [
+          {
+            "name": "Playability",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Theme",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Cleverness",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Artistic Style",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          }
+        ],
+        "url": "https://itch.io/jam/pirate15/rate/2828412"
+      },
+      "entryData": {
+        "created_at": "2024-07-31 08:23:34",
+        "id": 570540,
+        "url": "/jam/pirate15/rate/2828412",
+        "game": {
+          "title": "Umblight (Jam Version)",
+          "cover": "https://img.itch.zone/aW1nLzE3MTQ4ODM1LnBuZw==/300x240%23c/IZ902C.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 2828412,
+          "url": "https://kristoff-red.itch.io/umblight",
+          "cover_color": "#1f0a08",
+          "short_text": "An RPG rogue-like, where you combine cards to defeat your enemy.",
+          "user": {
+            "url": "https://kristoff-red.itch.io",
+            "name": "Kristoff Red",
+            "id": 4775962
+          }
+        },
+        "coolness": 0,
+        "rating_count": 2
+      },
+      "details": {
+        "title": "Umblight (Jam Version)",
+        "description": "PLEASE USE FULL SCREEN\nGame was only tested on Chrome. If you're having lag or any issues, please try using Chrome.\nWishlist on Steam!\n\n\nCombine your cards into stronger ones\n\nTravel between rooms, and collect loot\n\nControls: \nMouse, scroll wheel for looking up and down in fights.\n\nGame design document\nThe OST can be found here\nUpdate 1.1b:\nDying now properly resets activated skills and special card deck.\nTutorial does not repeat anymore after dying.\nA softlock related to scene loading was fixed. This bug used to cause cards not being able to be dragged around.\nShadow cards now show a \"?\" for power value instead of just hiding it.\nThe narrator only announces new items you haven't seen when opening treasure. This is saved into your savefile and should speed up gameplay by a lot.\nDoor interactions have been changed slightly.\nFights don't start immediately after the narrator stops talking. You need to click on the table now to start the fight. This gives the player time to change their deck if necessary.\nCard slots can no longer get stuck after removing a card too quickly. (at least in theory?)\nHitbox of fight triggers were modified so that they can't be pressed at the same time as the deck button.\nAdded an \"erase save data\" button to the bottom left corner of settings. This also resets tutorial progress.\nCertain rooms have shorter dialogue after you entered them more than twice. This is saved in your save data.\n\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjgyODQxMi8xNzE0OTI3Ni5wbmc=/original/rKEIJK.png",
+          "https://img.itch.zone/aW1hZ2UvMjgyODQxMi8xNzE0OTI3Ny5wbmc=/original/5nYPl5.png",
+          "https://img.itch.zone/aW1hZ2UvMjgyODQxMi8xNzE0OTI3OC5wbmc=/original/7pHMNt.png",
+          "https://img.itch.zone/aW1hZ2UvMjgyODQxMi8xNzE0OTI3OS5wbmc=/original/tlP8eZ.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.6 out of 5 stars(20 total ratings)",
+          "Author": "Kristoff Red",
+          "Genre": "Card Game, Adventure, Role Playing, Strategy",
+          "Made with": "Godot",
+          "Tags": "2D, 3D, Deck Building, Godot, Pixel Art, Roguelike"
+        }
+      }
+    },
+    {
+      "gameId": 2836897,
+      "gameUrl": "https://boxpenguingames.itch.io/refresh",
+      "overallRank": 1,
+      "topCategories": [
+        "Playability",
+        "Artistic Style"
+      ],
+      "resultData": {
+        "id": 2836897,
+        "contributors": [
+          {
+            "name": "Box Penguin Games",
+            "id": 5302264
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzE3MTI1Nzc4LnBuZw==/300x240%23c/%2FNt%2BN2.png",
+        "title": "Refresh: A Tale of Two Tabs",
+        "score": 5,
+        "rank": 1,
+        "raw_score": 5,
+        "rating_count": 2,
+        "criteria": [
+          {
+            "name": "Playability",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Theme",
+            "score": 4,
+            "rank": 233,
+            "raw_score": 4
+          },
+          {
+            "name": "Cleverness",
+            "score": 4.5,
+            "rank": 227,
+            "raw_score": 4.5
+          },
+          {
+            "name": "Artistic Style",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          }
+        ],
+        "url": "https://itch.io/jam/pirate15/rate/2836897"
+      },
+      "entryData": {
+        "created_at": "2024-07-30 20:24:28",
+        "id": 569255,
+        "url": "/jam/pirate15/rate/2836897",
+        "game": {
+          "title": "Refresh: A Tale of Two Tabs",
+          "cover": "https://img.itch.zone/aW1nLzE3MTI1Nzc4LnBuZw==/300x240%23c/%2FNt%2BN2.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 2836897,
+          "url": "https://boxpenguingames.itch.io/refresh",
+          "cover_color": "#00232c",
+          "short_text": "Break the laws of time and space to brew a refreshing potion",
+          "user": {
+            "url": "https://boxpenguingames.itch.io",
+            "name": "Box Penguin Games",
+            "id": 5302264
+          }
+        },
+        "coolness": 0,
+        "rating_count": 2
+      },
+      "details": {
+        "title": "Refresh: A Tale of Two Tabs",
+        "description": "\nWishlist my new game on Steam!\n\nDisclaimer: This clues in this game are very cryptic so I added a helpful hint section at the end of the description. The hints are in a relatively chronological order. Good Luck!\nGame Design Document (puzzle spoilers): https://docs.google.com/document/d/e/2PACX-1vSkQShIfZdUmYfO_xDETLXGTGpuKZ4QU_AGl...\nBrew up a nice refreshment as Keek the frog. You may have to break a few time-space continuum laws to do it but it'll be worth it!\nDON'T PLAY ON EDGE BROWSER, the jump height is lower for some reason. Chrome or Firefox recommended. Jump height is also messed up by performance so refresh if it gets laggy. There has been one case where the meta mechanics were not working, to avoid this you should either close all other tabs unrelated to the game, especially other itch.io tabs or clear your cache/try a different browser.\nMove - Arrows/WASD\nJump - Space/Up\nInteract/Place - Down\nRefresh Tab - Manual refresh is part of the game\nUnsoftlock - U (only for if you get completely trapped even after refreshing the tab, you should not be regularly using this: resets position, destroys items, and resets cauldron,  not part of any puzzle solutions)\nSong - Luciid by TeraVex https://www.newgrounds.com/audio/listen/905077\nThis game has meta mechanics, allow pop ups, its part of the game. Keep an open mind, clues are important!\nMade in 2 weeks for the Pirate Software (before the controversy) - Game Jam 15. The theme was Shadows and Alchemy. The main goal of the game is to gather ingredients to make a brew (alchemy), and the shadow theme is implemented but I cannot say how without spoilers.\nHints (spoilers):\n\n  Click to reveal (Items)\nHow each item works: The white item is lead (Pb), it makes you heavy and unable to jump high but allows you to break some floors if you fall from a great enough height. The fire acts like a mobile light and can also burn wood. The crystal switches your gravity when you jump but only a certain amount of times before it breaks. The block allows you to place one square block in front of you that you can jump on.\n\n\n  Click to reveal (The Button)\nThe big red button simply opens another tab of the game but only two tabs are required to beat it so don't let it clog up your browser by pressing it a million times.\n\n\n  Click to reveal (Refreshing)\nSome information can be saved across a refresh but only when specific conditions are met.\n\n\n  Click to reveal (Coordinate Display)\nThis clue reveals what would be saved when the game is refreshed but mainly how to save your position across a refresh. Pay close attention to your positioning in relation to the light when you refresh.\n\n\n  Click to reveal (Two Tabs)\nCross-Tab Communication: some information can be transmitted from one tab of the game to another. The phrase \"Last Light\" is important here.\n\n\n  Click to reveal (Button Mural)\nThis mural reveals how to save an item you are holding across a refresh and how to bring it into a position with light using another tab. Pay close attention to your positioning in relation to the light on both tabs.\n\n\n  Click to reveal (Hidden Mural)\nMural behind wall: Using knowledge from previous hints this mural should be reachable. However, here is what it says: There is a special event that occurs during the first minute of each refresh which is revealed by the timer next to the mural. If a wooden or cracked wall is broken during this event, it will start broken in the next refresh.\n\n\n  Click to reveal (Lift Mural)\nThe lift is special in that it can be activated from anywhere using previously learned mechanics. Think about why there are two images in the mural and the difference between them.\n\n\n  Click to reveal (Putting it all Together)\nEven after knowing all the meta mechanics the final solution can be quite difficult to discover, probably to its detriment, but here are a few hints on how to figure it out. Your goal is to bring all of the ingredients to the cauldron in one tab because the state of the cauldron cannot be saved across tabs or refreshes.\n\n\n  Click to reveal (Which Wall?)\nYou only have enough time to break one wall during the glitch, so which one? You need to break the cracked floor to the far left that leads down into the lower level.\n\n\n  Click to reveal (Order of Operation)\nThe items will be brought to the cauldron in the following order: Fire, Lead, Crystal.\n\n\n  Click to reveal (Item Uses)\nFire: The fire will be used to burn the wall to the right of the cauldron before being deposited.\nLead: The lead will be used to break the wall into the lower level and the wall above the cauldron room.\nCrystal: The crystal will be used to get the block.\nBlock: The block will be used to create a path to the cauldron for the lead.\nLift: The lift will be used to retrieve the crystal.\n\n\n  Click to reveal (The Crystal's Path)\nThe crystal will not need to regain it's uses via a refresh.\nBefore you even grab the crystal, the floor leading to the lower level, the floor above the cauldron, and the wall to the right of the cauldron will be broken.\nThere exists a path that allows you to get up to where the block is stored with 2 crystal uses left, you will need to drop the crystal while on the ceiling but you will need to retrieve it from the ground.\n\n\n  Click to reveal (The Final Solution)\nThe game can be beaten with just two tabs. Step one is to open two tabs in the default set-up with the player in the cauldron room and no items used or walls broken. In your “main” tab, grab the lead and climb up the stairs to break the cracked floor on the far left, wait for the glitch to occur and then break the floor, remain in the dark and then switch to your other tab. In this tab, break the same floor (glitch does not matter here) and bring the fire up to where you would be able to jump down and break the cracked floor in the gravity crystal room. Then switch to your other tab and refresh. You should now have the lead and be able to jump down and break the floor, landing in the hole in the cauldron room. Drop the lead and go get the fire, if done correctly the wall blocking the fire from getting out of the bottom level should already be broken. Bring the fire to the wooden wall in the room to the right of the cauldron and burn it, then deposit the fire in the cauldron. Next go get the gravity crystal and use it twice to get out and then hold left falling through the hole where the ground was. Keep holding left, this should bring you to the lower level and then go right to the room with the hole in the ceiling below the cauldron room. Go up there and hold right and travel up to the block item, drop the crystal on the ceiling inside the tunnel leading to the block item where there is a 1 block gap between the floor and the ceiling (so that it has 2 uses left and you can re-grab it from the floor later). Now grab the block and bring it down to where the lead is, this will allow you to bring the lead up to the cauldron. Finally, position yourself above where the rising platform would come through the floor. Activate the platform in the other tab and quickly switch back so that it brings you up to where you left the gravity crystal. Grab the crystal and use the last two clicks to escape through the left path and bring it to the cauldron.\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjgzNjg5Ny8xNzEzNjMyNy5naWY=/original/jhsdH2.gif",
+          "https://img.itch.zone/aW1hZ2UvMjgzNjg5Ny8xNzEzNjMyNS5naWY=/original/LU9pzf.gif",
+          "https://img.itch.zone/aW1hZ2UvMjgzNjg5Ny8xNzEzNjMyNi5naWY=/original/RNidbR.gif"
+        ],
+        "moreInfo": {
+          "Updated": "28 days ago",
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Box Penguin Games",
+          "Genre": "Puzzle, Platformer",
+          "Made with": "Unity",
+          "Tags": "2D, Experimental, metroidbrainia, Metroidvania, Pixel Art, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 2838529,
+      "gameUrl": "https://sploosh-o.itch.io/shadows-under-no-moon",
+      "overallRank": 1,
+      "topCategories": [
+        "Playability",
+        "Theme",
+        "Cleverness",
+        "Artistic Style"
+      ],
+      "resultData": {
+        "id": 2838529,
+        "contributors": [
+          {
+            "name": "Sploosh_O",
+            "id": 11059091
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzE3MjIwMjk0LnBuZw==/300x240%23c/PpL9uf.png",
+        "title": "Shadows Under No Moon",
+        "score": 5,
+        "rank": 1,
+        "raw_score": 5,
+        "rating_count": 1,
+        "criteria": [
+          {
+            "name": "Theme",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Playability",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Cleverness",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Artistic Style",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          }
+        ],
+        "url": "https://itch.io/jam/pirate15/rate/2838529"
+      },
+      "entryData": {
+        "created_at": "2024-07-28 16:19:23",
+        "id": 567621,
+        "url": "/jam/pirate15/rate/2838529",
+        "game": {
+          "title": "Shadows Under No Moon",
+          "platforms": [
+            "web"
+          ],
+          "id": 2838529,
+          "url": "https://sploosh-o.itch.io/shadows-under-no-moon",
+          "cover": "https://img.itch.zone/aW1nLzE3MjIwMjk0LnBuZw==/300x240%23c/PpL9uf.png",
+          "short_text": "A short adventure game about restoring light to a land of darkness",
+          "user": {
+            "url": "https://sploosh-o.itch.io",
+            "name": "Sploosh_O",
+            "id": 11059091
+          }
+        },
+        "coolness": 0,
+        "rating_count": 1
+      },
+      "details": {
+        "title": "Shadows Under No Moon",
+        "description": "A short adventure game I made for Pirate software game jam 15. My first time using UE4 and packaging to html5. I also went on vacation part way through the jam so I didn't get to add options or any menu features, sorry! SPRINT IS V BECAUSE LEFT SHIFT WAS NOT WORKING NO MATTER WHAT I DID.\nAttributions\n\"snow_crunch_close_step_boot.wav\" by Geoff-Bremner-Audio @ https://freesound.org/people/Geoff-Bremner-Audio/sounds/647284/\n\"Mask Breathing (for Killer or other).ogg\" by AWESOMETRAINMASTER1 @ https://freesound.org/people/AWESOMETRAINMASTER1/sounds/543010/\n\"Squeels.wav\" by taure @ https://freesound.org/people/taure/sounds/387070/\n\"Gong 002.wav\" by tec_studio @ https://freesound.org/people/tec_studio/sounds/361494/\n\"Fire Crackle and Flames 002\" by TheWoodlandNomad @ https://freesound.org/people/TheWoodlandNomad/sounds/363092/\n\"Soft Wind\" by florianreichelt @ https://freesound.org/people/florianreichelt/sounds/459977/\n\"03 Filling glass water bottle and tank refill.wav\" by itinerantmonk108 @ https://freesound.org/people/itinerantmonk108/sounds/557548/\nGDD: https://docs.google.com/document/d/1LQ1tm5rpAG6hW7k6c3P446t7kg7fa7dolabGIABu3po/...\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE3MjIwMjk0LnBuZw==/original/jmebQr.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Author": "Sploosh_O",
+          "Genre": "Adventure"
+        }
+      }
+    },
+    {
+      "gameId": 2838689,
+      "gameUrl": "https://sudodave.itch.io/die-portent",
+      "overallRank": 1,
+      "topCategories": [
+        "Playability",
+        "Theme",
+        "Cleverness",
+        "Artistic Style"
+      ],
+      "resultData": {
+        "id": 2838689,
+        "contributors": [
+          {
+            "name": "SudoDave",
+            "id": 6414399
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzE3MTM5MDk3LnBuZw==/300x240%23c/%2B0tUd6.png",
+        "title": "Die & Portent",
+        "score": 5,
+        "rank": 1,
+        "raw_score": 5,
+        "rating_count": 3,
+        "criteria": [
+          {
+            "name": "Playability",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Theme",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Cleverness",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Artistic Style",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          }
+        ],
+        "url": "https://itch.io/jam/pirate15/rate/2838689"
+      },
+      "entryData": {
+        "created_at": "2024-07-30 23:26:34",
+        "id": 569485,
+        "url": "/jam/pirate15/rate/2838689",
+        "game": {
+          "title": "Die & Portent",
+          "cover": "https://img.itch.zone/aW1nLzE3MTM5MDk3LnBuZw==/300x240%23c/%2B0tUd6.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 2838689,
+          "url": "https://sudodave.itch.io/die-portent",
+          "cover_color": "#290d2c",
+          "short_text": "Top down strategy roguelike",
+          "user": {
+            "url": "https://sudodave.itch.io",
+            "name": "SudoDave",
+            "id": 6414399
+          }
+        },
+        "coolness": 0,
+        "rating_count": 3
+      },
+      "details": {
+        "title": "Die & Portent",
+        "description": "This is a turn based strategy roguelike in a similar vein to X-com, but at the start of each encounter the dice of fate will portent your coming encounter.  This determines your starting buffs.  Right-click to pan, Click to select and move units, pickup and apply items.\n~4,000 lines of code!Game Design Doc: https://docs.google.com/document/d/1JYqFQluIJLpXCDi3gTteGELupQHUzSW3ReJzafGQ03I/...\nDev Diary: https://docs.google.com/document/d/1MzrGJZPna_XlfGspptHn1LvO8yikktZLj8C8f63al4Q/...\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjgzODY4OS8xNzE1MTI2OS5wbmc=/original/N7gqrA.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "SudoDave",
+          "Genre": "Strategy",
+          "Made with": "Godot",
+          "Tags": "Dark, Magic, Roguelike, Singleplayer, Top-Down"
+        }
+      }
+    },
+    {
+      "gameId": 2838755,
+      "gameUrl": "https://litmit.itch.io/sunless-stronghold",
+      "overallRank": 1,
+      "topCategories": [
+        "Playability",
+        "Artistic Style"
+      ],
+      "resultData": {
+        "id": 2838755,
+        "contributors": [
+          {
+            "name": "LitMit",
+            "id": 10896102
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzE2OTg2NDEwLnBuZw==/300x240%23c/PuJeGW.png",
+        "title": "Sunless Stronghold",
+        "score": 5,
+        "rank": 1,
+        "raw_score": 5,
+        "rating_count": 1,
+        "criteria": [
+          {
+            "name": "Playability",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Theme",
+            "score": 3,
+            "rank": 653,
+            "raw_score": 3
+          },
+          {
+            "name": "Cleverness",
+            "score": 3,
+            "rank": 755,
+            "raw_score": 3
+          },
+          {
+            "name": "Artistic Style",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          }
+        ],
+        "url": "https://itch.io/jam/pirate15/rate/2838755"
+      },
+      "entryData": {
+        "created_at": "2024-07-28 15:40:33",
+        "id": 567604,
+        "url": "/jam/pirate15/rate/2838755",
+        "game": {
+          "title": "Sunless Stronghold",
+          "cover": "https://img.itch.zone/aW1nLzE2OTg2NDEwLnBuZw==/300x240%23c/PuJeGW.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 2838755,
+          "url": "https://litmit.itch.io/sunless-stronghold",
+          "cover_color": "#232323",
+          "short_text": "Stealth Platformer",
+          "user": {
+            "url": "https://litmit.itch.io",
+            "name": "LitMit",
+            "id": 10896102
+          }
+        },
+        "coolness": 0,
+        "rating_count": 1
+      },
+      "details": {
+        "title": "Sunless Stronghold",
+        "description": "SUNLESS STRONGHOLD\n\n\nA man shares his belief on the infamous \"Which came first? The Chicken or The Egg?\" discussion, and gets thrown out and turned into a shadow by an alchemist with anger issues.\nPlay 5 Short levels where you sneak around guards, platform, discover and drink magical potions that the clumsy alchemist man left around his castle.\n\nControls! :\nA/D - Walk\nSpace - Jump\nShift - Shrink\nCTRL - Phase\nE - Cast Spell\nTAB  - Pause\n\n\n\nShadow Form! :\nPhase through the cracks in wood walls by pressing CTRL!  Be aware of your mana bar!\nDon't alert the guards by walking directly behind or infront of them, just stand still! They won't notice you... unless you're standing inside a torch's light, maybe just don't do that... not even Phasing will help you in that situation.\n\nSpells from potions! :\nBlue Fire - Red fire is bright and scary, so use this cooler spell to burn wooden crates in your way, maybe above an enemy to drop something on him...\nShock - Why is electricity in a medieval game? who cares! knock out multiple enemies in a flash, maybe even power a lever with it!\n\nSee a glitch?  no you didn't!\nUPDATE (29/07) : Added secret circles to find in Levels 2-5 + Added Balance + Added more to the tutorial.\n\nA Game for Pirate Software's Game Jam #15",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjgzODc1NS8xNjk2MzAzNC5wbmc=/original/M7sNUW.png",
+          "https://img.itch.zone/aW1hZ2UvMjgzODc1NS8xNzA5OTE5MS5wbmc=/original/sjwk06.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "LitMit",
+          "Genre": "Platformer",
+          "Made with": "Godot, Bosca Ceoil, Bfxr",
+          "Tags": "Medieval, No AI, Pixel Art, Stealth",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 2839507,
+      "gameUrl": "https://mauricebutler.itch.io/shadow-beast",
+      "overallRank": 1,
+      "topCategories": [
+        "Playability",
+        "Cleverness"
+      ],
+      "resultData": {
+        "id": 2839507,
+        "contributors": [
+          {
+            "name": "mauricebutler",
+            "id": 1216890
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzE3MDk3MTA0LnBuZw==/300x240%23c/KeoZYY.png",
+        "title": "Shadow Beast",
+        "score": 5,
+        "rank": 1,
+        "raw_score": 5,
+        "rating_count": 2,
+        "criteria": [
+          {
+            "name": "Playability",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Theme",
+            "score": 4.5,
+            "rank": 196,
+            "raw_score": 4.5
+          },
+          {
+            "name": "Cleverness",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Artistic Style",
+            "score": 4.5,
+            "rank": 328,
+            "raw_score": 4.5
+          }
+        ],
+        "url": "https://itch.io/jam/pirate15/rate/2839507"
+      },
+      "entryData": {
+        "created_at": "2024-07-30 06:57:34",
+        "id": 568920,
+        "url": "/jam/pirate15/rate/2839507",
+        "game": {
+          "title": "Shadow Beast",
+          "cover": "https://img.itch.zone/aW1nLzE3MDk3MTA0LnBuZw==/300x240%23c/KeoZYY.png",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "id": 2839507,
+          "url": "https://mauricebutler.itch.io/shadow-beast",
+          "cover_color": "#eeeeee",
+          "short_text": "Master the form of shadow to further your Alchemical knowledge",
+          "user": {
+            "url": "https://mauricebutler.itch.io",
+            "name": "mauricebutler",
+            "id": 1216890
+          }
+        },
+        "coolness": 0,
+        "rating_count": 2
+      },
+      "details": {
+        "title": "Shadow Beast",
+        "description": "\nMade for Pirate Software Game Jam #15\nYou control an aspiring alchemist, who can use a special potion to temporarily transform into a shadow beast.\nWhen in shadow form, you can not interact with the physical world, but can pass through obstacles like gates and be unharmed by spikes. Be careful though, as you are vulnerable to light sources. \nChange form between shadow and corporeal to solve puzzles, find secrets and navigate the rooms of the Order of Alchemists to obtain the tomes of hidden knowledge to further your studies.\n\nKeyboard\nWASD  -> Move\nSpace -> Jump\nShift -> Use a potion to transform into a shadow beast.\nDelete -> Restart level\n\nController\n\nLeft Analog Stick  -> Move\n\nBottom Button (Xbox A, Sony Cross, Nintendo B) -> Jump\nRight Bumper / Trigger (Xbox RT / RB, Sony R1 / R2, Nintendo Right Shoulder) -> Use a potion to transform into a shadow beast.\n\nTop Button (Xbox Y, Sony Triangle, Nintendo X) -> Restart level\n\nAll levels are able to be 100% completed, including obtaining secrets in 1 run. Not all levels are easy though...\n\nGame Design Document\nhttps://docs.google.com/document/d/1QV6AA4ohYmAlo65IXNTYwmIkld5AMUwahtlBwiyrvu8/...",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjgzOTUwNy8xNzA5NzEwOS5naWY=/original/o390mc.gif",
+          "https://img.itch.zone/aW1hZ2UvMjgzOTUwNy8xNzA5NzExNC5naWY=/original/EZh1XE.gif",
+          "https://img.itch.zone/aW1hZ2UvMjgzOTUwNy8xNzA5NzEyNi5naWY=/original/6eowCf.gif"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 3.5 out of 5 stars(2 total ratings)",
+          "Author": "mauricebutler",
+          "Genre": "Platformer",
+          "Made with": "Godot"
+        }
+      }
+    },
+    {
+      "gameId": 2839709,
+      "gameUrl": "https://bubble5297.itch.io/reactive-survival",
+      "overallRank": 1,
+      "topCategories": [
+        "Playability"
+      ],
+      "resultData": {
+        "id": 2839709,
+        "contributors": [
+          {
+            "name": "Bubble",
+            "id": 3847747
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzE3MTI5NzA5LmpwZw==/300x240%23c/1R14rG.jpg",
+        "title": "Reactive Survival",
+        "score": 5,
+        "rank": 1,
+        "raw_score": 5,
+        "rating_count": 3,
+        "criteria": [
+          {
+            "name": "Playability",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Theme",
+            "score": 3.3333333333333,
+            "rank": 645,
+            "raw_score": 3.3333333333333
+          },
+          {
+            "name": "Cleverness",
+            "score": 3,
+            "rank": 755,
+            "raw_score": 3
+          },
+          {
+            "name": "Artistic Style",
+            "score": 4,
+            "rank": 401,
+            "raw_score": 4
+          }
+        ],
+        "url": "https://itch.io/jam/pirate15/rate/2839709"
+      },
+      "entryData": {
+        "created_at": "2024-07-29 23:22:08",
+        "id": 568764,
+        "url": "/jam/pirate15/rate/2839709",
+        "game": {
+          "title": "Reactive Survival",
+          "cover": "https://img.itch.zone/aW1nLzE3MTI5NzA5LmpwZw==/300x240%23c/1R14rG.jpg",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 2839709,
+          "url": "https://bubble5297.itch.io/reactive-survival",
+          "cover_color": "#130825",
+          "short_text": "SHOOT THE GHOSTSS",
+          "user": {
+            "url": "https://bubble5297.itch.io",
+            "name": "Bubble",
+            "id": 3847747
+          }
+        },
+        "coolness": 0,
+        "rating_count": 3
+      },
+      "details": {
+        "title": "Reactive Survival",
+        "description": "Shoot-em up based on elemental reactions. Sadly it's not an MMO made in 2 weeks.\nReactiveSurvival - BurningBloom build\n\nIS THAT A BIRD? A PLANE? nope, just a huge explosion from mixing fire and electric.\n(Also try watering the grass... and then burn that grass)\nTry mixing different elements, don't use just 1 type, base your combos on the \"reacts with:\" icons or just check the GDD, it has every effect and reaction at the end.\n\nPersonal Record : 4507 (Normal)\nRECORDS \n(write a comment or tell me on discord at bubble5297 to update)\n\nEasy\n  747 (From DevPie - Submitted The Novice)\nNormal\n 6056 (From Jossulus - Submitted Umbra Sanguinis)\nHard \n1863 (From Gr0n - Submitted Witching Rush Hour)\nSuper Hard\n 3475 (From SnakeYO)\n\n\n\n\n\nControls:\nmovement - wasd\nShoot -  Left Click (you can hold)\nSpecial -  Right Click (unlocked at level 20)\nChange slot with:\n-   shift / ctrl\n-  mouse wheel\n-  numbers (1 to 4)\nGame Design Document\n\nAssets by Kenney:\nkenney.nl/assets/tiny-dungeon\nMusic:\nhttps://opengameart.org/content/high-tech-lab\nhttps://opengameart.org/content/fast-fight-battle-music",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjgzOTcwOS8xNzEyNDE1OC5naWY=/original/hPVYXw.gif",
+          "https://img.itch.zone/aW1hZ2UvMjgzOTcwOS8xNzEzMjkyMi5wbmc=/original/q48Tqs.png",
+          "https://img.itch.zone/aW1hZ2UvMjgzOTcwOS8xNzEyNDE1My5wbmc=/original/ogz2Gn.png",
+          "https://img.itch.zone/aW1hZ2UvMjgzOTcwOS8xNzEzOTg4Ni5qcGc=/original/UtJ6B7.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjgzOTcwOS8xNzEyNDE5MC5wbmc=/original/ui0iVl.png",
+          "https://img.itch.zone/aW1hZ2UvMjgzOTcwOS8xNzIyMzg2Ni5qcGc=/original/49wVRc.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjgzOTcwOS8xNzE4MDM0MC5qcGc=/original/idfpby.jpg"
+        ],
+        "moreInfo": {
+          "Status": "On hold",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.5 out of 5 stars(2 total ratings)",
+          "Author": "Bubble",
+          "Genre": "Action",
+          "Made with": "Aseprite, Godot, Bfxr",
+          "Tags": "2D, Aseprite, Godot, Pixel Art, Roguelike, Shoot 'Em Up, Top-Down",
+          "Average session": "About an hour",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 2840263,
+      "gameUrl": "https://denkithegamer.itch.io/alchemistsdungeon",
+      "overallRank": 1,
+      "topCategories": [
+        "Playability",
+        "Artistic Style"
+      ],
+      "resultData": {
+        "id": 2840263,
+        "contributors": [
+          {
+            "name": "DenkiTheGamer",
+            "id": 10453183
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzE3MTQ1NTE1LnBuZw==/300x240%23c/fhXWp3.png",
+        "title": "Alchemist's Dungeon",
+        "score": 5,
+        "rank": 1,
+        "raw_score": 5,
+        "rating_count": 1,
+        "criteria": [
+          {
+            "name": "Playability",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Theme",
+            "score": 3,
+            "rank": 653,
+            "raw_score": 3
+          },
+          {
+            "name": "Cleverness",
+            "score": 3,
+            "rank": 755,
+            "raw_score": 3
+          },
+          {
+            "name": "Artistic Style",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          }
+        ],
+        "url": "https://itch.io/jam/pirate15/rate/2840263"
+      },
+      "entryData": {
+        "created_at": "2024-07-31 05:35:24",
+        "id": 570101,
+        "url": "/jam/pirate15/rate/2840263",
+        "game": {
+          "title": "Alchemist's Dungeon",
+          "cover": "https://img.itch.zone/aW1nLzE3MTQ1NTE1LnBuZw==/300x240%23c/fhXWp3.png",
+          "platforms": [
+            "windows",
+            "linux",
+            "web"
+          ],
+          "id": 2840263,
+          "url": "https://denkithegamer.itch.io/alchemistsdungeon",
+          "cover_color": "#000000",
+          "short_text": "A small roguelike made for the Pirate Software Game Jam in 14 Days",
+          "user": {
+            "url": "https://denkithegamer.itch.io",
+            "name": "DenkiTheGamer",
+            "id": 10453183
+          }
+        },
+        "coolness": 0,
+        "rating_count": 1
+      },
+      "details": {
+        "title": "Alchemist's Dungeon",
+        "description": "A small roguelike made for the Pirate Software Game Jam 15 in 14 Days\nImportant info if you play in the Browser:Please move your mouse to the center of your screen before you close the Brewing Menu or else you won't be able to look around\nStory:You play as an Alchemist who is fighting through a Dungeon to find a Magical Scroll that grants the reader immense power\nControls:WASD: MoveSpace: JumpLeft Mouse Button: Throw PotionsTAB: Open/Close Brewing MenuScroll Wheel / Numbers 1-5: Select Slot\nElemental Types:Check the GDD to help with the strengths and weaknesses of each type!\nPost-Jam Update 1:- Made the game a lot easier- Changed the way potions are thrown- Added permanent progression in form of upgrades applied at the bookshelf- Added a way to make the game harder through sacrifices- Changed the boss fight at the end- Added new music for the boss fight- Made the tutorial optional- Added an option to change the mouse sensitivity- Fixed UI scaling for resolutions higher than 1920x1080- Fixed tooltips for items- Many more minor bugfixes\nGDD:https://docs.google.com/document/d/1Fnzwyfjlit4wwiH1ghsLRvE8TwD8_XBlcx-8QdvvknA/edit?usp=sharing",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjg0MDI2My8xNzE0NTE5NC5wbmc=/original/oRSziG.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0MDI2My8xNzE0NTE5NS5wbmc=/original/cvlAOG.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0MDI2My8xNzE0NTE5Ny5wbmc=/original/BKWBOX.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0MDI2My8xNzE0NTE5OS5wbmc=/original/Kd1vfQ.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, Linux",
+          "Author": "DenkiTheGamer",
+          "Genre": "Action",
+          "Made with": "Blender, Godot, Krita",
+          "Tags": "Godot, Roguelike",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 2840507,
+      "gameUrl": "https://sh4itan.itch.io/devvoid",
+      "overallRank": 1,
+      "topCategories": [
+        "Playability",
+        "Artistic Style"
+      ],
+      "resultData": {
+        "id": 2840507,
+        "contributors": [
+          {
+            "name": "sh4itan",
+            "id": 11095923
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzE3MDU1MjcxLnBuZw==/300x240%23c/URsCv0.png",
+        "title": "DevVoid (WIP v0.6.1)",
+        "score": 5,
+        "rank": 1,
+        "raw_score": 5,
+        "rating_count": 1,
+        "criteria": [
+          {
+            "name": "Playability",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Theme",
+            "score": 3,
+            "rank": 653,
+            "raw_score": 3
+          },
+          {
+            "name": "Cleverness",
+            "score": 4,
+            "rank": 282,
+            "raw_score": 4
+          },
+          {
+            "name": "Artistic Style",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          }
+        ],
+        "url": "https://itch.io/jam/pirate15/rate/2840507"
+      },
+      "entryData": {
+        "created_at": "2024-07-22 16:22:00",
+        "id": 565763,
+        "url": "/jam/pirate15/rate/2840507",
+        "game": {
+          "title": "DevVoid (WIP v0.6.1)",
+          "cover": "https://img.itch.zone/aW1nLzE3MDU1MjcxLnBuZw==/300x240%23c/URsCv0.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 2840507,
+          "url": "https://sh4itan.itch.io/devvoid",
+          "cover_color": "#5b5b5b",
+          "short_text": "puzzle platformer",
+          "user": {
+            "url": "https://sh4itan.itch.io",
+            "name": "sh4itan",
+            "id": 11095923
+          }
+        },
+        "coolness": 0,
+        "rating_count": 1
+      },
+      "details": {
+        "title": "DevVoid (WIP v0.6.1)",
+        "description": "Disclaimer: Work in progress. There is a complete experience, but it lacks minor tweaks and an overhaul of the current level design.\nThis game is being made while competing in the Pirate Software Game Jam of '24. It's also my first deep dive into game dev, please be nice :)\nStory\nYou're an aspiring alchemist that made one mistake, and one mistake only. By trying some forbidden techniques you devoided the world of all it's color, and it's life. Every inhabitant of your town has ben tansmuted into a basic element. You however... remain intact. It's your mission to reverse what you've done, to right what you've wronged. Collect resources, follow your handy recipe guide and restore life!\nControls\nLeft: ARight: DSprint: ShiftJump: SpaceInteract: E (and 1-3)Inventory: TabUse Mouse for drag & dropCombine: C\nCredits\nCharacter/NPC spritesheet: PenzillaMusic & Sound effects: r3config\nGDD: Game Design Document  (in case the download button looks too scetchy for a google doc)",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE3MDU1MjcxLnBuZw==/original/azLrRX.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Author": "sh4itan",
+          "Genre": "Platformer, Puzzle",
+          "Made with": "GameMaker",
+          "Tags": "2D, Pixel Art, Side Scroller, Singleplayer",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 2840644,
+      "gameUrl": "https://pablopenna.itch.io/out-of-philosophers-stones",
+      "overallRank": 1,
+      "topCategories": [
+        "Playability"
+      ],
+      "resultData": {
+        "id": 2840644,
+        "contributors": [
+          {
+            "name": "pablopenna",
+            "id": 1903525
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzE3MTIyNzIwLnBuZw==/300x240%23c/cbIh8S.png",
+        "title": "Out Of Philosopher's Stones",
+        "score": 5,
+        "rank": 1,
+        "raw_score": 5,
+        "rating_count": 1,
+        "criteria": [
+          {
+            "name": "Playability",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Theme",
+            "score": 3,
+            "rank": 653,
+            "raw_score": 3
+          },
+          {
+            "name": "Cleverness",
+            "score": 2,
+            "rank": 1471,
+            "raw_score": 2
+          },
+          {
+            "name": "Artistic Style",
+            "score": 3,
+            "rank": 970,
+            "raw_score": 3
+          }
+        ],
+        "url": "https://itch.io/jam/pirate15/rate/2840644"
+      },
+      "entryData": {
+        "created_at": "2024-07-29 20:52:10",
+        "id": 568692,
+        "url": "/jam/pirate15/rate/2840644",
+        "game": {
+          "title": "Out Of Philosopher's Stones",
+          "platforms": [
+            "web"
+          ],
+          "id": 2840644,
+          "url": "https://pablopenna.itch.io/out-of-philosophers-stones",
+          "cover_color": "#000000",
+          "cover": "https://img.itch.zone/aW1nLzE3MTIyNzIwLnBuZw==/300x240%23c/cbIh8S.png",
+          "user": {
+            "url": "https://pablopenna.itch.io",
+            "name": "pablopenna",
+            "id": 1903525
+          }
+        },
+        "coolness": 0,
+        "rating_count": 1
+      },
+      "details": {
+        "title": "Out Of Philosopher's Stones",
+        "description": "Flasky McFlask is in trouble. The shadows have reduced Alchemy Village to rubble and only he remains alive. Without Philosopher's Stones, Alchemists stand no chance against the shadows. However, Flasky McFlask is not somebody that gives up easily. He might have run out of Philosopher's Stones, but he is not out of options.\nGame Objective\nSurvive in the arena by evading bullets and killing enemies.\nEnemies drop ingredients when killed. Mixing ingredients is crucial - their effects will allow you to survive for longer.\nAs Alchemists used to say:\nRoses are redViolets are blueMix some ingredientsor you are screwed\nCan you reach a score of over 500?\nControls\nWASD - Move aroundMouse - AimLeft Click/Space - FireShift - Walk. Reduces move speed while pressed, useful for evading bullets 1,2,3 - Mix ingredients in the inventory. Two ingredients will create a weapon effect. Try different combinations and learn to use them to your advantage. There is a total of  four different weapon effects.T - Toggle fullscreenM - Toggle music\nGame Design Document\n https://docs.google.com/document/d/1TyoQE06wHbHzO-LcOq5t7q8QkPlqd8dycI5I6Aken-A/...\n\n\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE3MTIyNzIwLnBuZw==/original/J3TJ6M.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "pablopenna",
+          "Genre": "Shooter",
+          "Made with": "Aseprite, Godot",
+          "Links": "GDD"
+        }
+      }
+    },
+    {
+      "gameId": 2841137,
+      "gameUrl": "https://scheifen.itch.io/what-a-vivid-imagination",
+      "overallRank": 1,
+      "topCategories": [
+        "Playability",
+        "Cleverness",
+        "Artistic Style"
+      ],
+      "resultData": {
+        "id": 2841137,
+        "contributors": [
+          {
+            "name": "Scheifen",
+            "id": 4051580
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzE3MTIyNjAyLnBuZw==/300x240%23c/TNMUKC.png",
+        "title": "What Vivid Imagination",
+        "score": 5,
+        "rank": 1,
+        "raw_score": 5,
+        "rating_count": 1,
+        "criteria": [
+          {
+            "name": "Playability",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Cleverness",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Theme",
+            "score": 3,
+            "rank": 653,
+            "raw_score": 3
+          },
+          {
+            "name": "Artistic Style",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          }
+        ],
+        "url": "https://itch.io/jam/pirate15/rate/2841137"
+      },
+      "entryData": {
+        "created_at": "2024-07-28 04:27:03",
+        "id": 567440,
+        "url": "/jam/pirate15/rate/2841137",
+        "game": {
+          "title": "What Vivid Imagination",
+          "platforms": [
+            "web"
+          ],
+          "id": 2841137,
+          "url": "https://scheifen.itch.io/what-a-vivid-imagination",
+          "cover": "https://img.itch.zone/aW1nLzE3MTIyNjAyLnBuZw==/300x240%23c/TNMUKC.png",
+          "short_text": "Shadow Jumping Platformer",
+          "user": {
+            "url": "https://scheifen.itch.io",
+            "name": "Scheifen",
+            "id": 4051580
+          }
+        },
+        "coolness": 0,
+        "rating_count": 1
+      },
+      "details": {
+        "title": "What Vivid Imagination",
+        "description": "WIP for PirateSoftware Gamejam 2024\nWatch the shadows\nGDD - Google Doc\nAD to moveW for small jumpS for crouch and collect flowersSpace for charge jumpR to respawn in case of emergency!Left click for swing  (WIP)",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE3MTIyNjAyLnBuZw==/original/QW0Zau.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Author": "Scheifen",
+          "Genre": "Platformer",
+          "Made with": "GameMaker"
+        }
+      }
+    },
+    {
+      "gameId": 2841229,
+      "gameUrl": "https://poppkeys.itch.io/alcolormy",
+      "overallRank": 1,
+      "topCategories": [
+        "Playability",
+        "Theme",
+        "Cleverness",
+        "Artistic Style"
+      ],
+      "resultData": {
+        "id": 2841229,
+        "contributors": [
+          {
+            "name": "Popp Keys Games",
+            "id": 9425645
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzE3MTQ0MjUxLnBuZw==/300x240%23c/wZjuGv.png",
+        "title": "ALCOLORMY",
+        "score": 5,
+        "rank": 1,
+        "raw_score": 5,
+        "rating_count": 1,
+        "criteria": [
+          {
+            "name": "Playability",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Theme",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Cleverness",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Artistic Style",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          }
+        ],
+        "url": "https://itch.io/jam/pirate15/rate/2841229"
+      },
+      "entryData": {
+        "created_at": "2024-07-30 22:06:14",
+        "id": 569381,
+        "url": "/jam/pirate15/rate/2841229",
+        "game": {
+          "title": "ALCOLORMY",
+          "cover": "https://img.itch.zone/aW1nLzE3MTQ0MjUxLnBuZw==/300x240%23c/wZjuGv.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 2841229,
+          "url": "https://poppkeys.itch.io/alcolormy",
+          "cover_color": "#5d5d5d",
+          "short_text": "Precision Puzzle Platformer with color theory!",
+          "user": {
+            "url": "https://poppkeys.itch.io",
+            "name": "Popp Keys Games",
+            "id": 9425645
+          }
+        },
+        "coolness": 0,
+        "rating_count": 1
+      },
+      "details": {
+        "title": "ALCOLORMY",
+        "description": "CONTROLS:\nMovement/Navigate menu - WASD\nJump/Accept - Spacebar\nDash - K\nLaunch Potion - J\nPause Game/Options - P\nABOUT:\nBlop has let a Shadow Blop loose and it's draining light and color from the Lab! Platform your way through the lab to catch him while mixing and matching your color potions to match and alter your environment!\nMade in two weeks as part of Pirate Software's Game Jam 15\nTheme: \"Shadows and Alchemy\"\nGame Design Document viewable here and linked in the downloads.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjg0MTIyOS8xNzE0MTQ0NS5wbmc=/original/wZul4S.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0MTIyOS8xNzE0MTQ0Mi5wbmc=/original/t44mL1.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0MTIyOS8xNzE0MTQ0My5wbmc=/original/3ldkmN.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0MTIyOS8xNzE0MTQ0NC5wbmc=/original/kyKoGg.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Author": "Popp Keys Games",
+          "Genre": "Platformer",
+          "Tags": "Colorful, Puzzle-Platformer"
+        }
+      }
+    },
+    {
+      "gameId": 2842178,
+      "gameUrl": "https://lateafcoffee.itch.io/shadow-realm",
+      "overallRank": 1,
+      "topCategories": [
+        "Playability",
+        "Theme",
+        "Cleverness",
+        "Artistic Style"
+      ],
+      "resultData": {
+        "id": 2842178,
+        "contributors": [
+          {
+            "name": "LateAFCoffee",
+            "id": 834547
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzE3MjA5NzA5LnBuZw==/300x240%23c/YVNBgq.png",
+        "title": "Shadow Realm",
+        "score": 5,
+        "rank": 1,
+        "raw_score": 5,
+        "rating_count": 1,
+        "criteria": [
+          {
+            "name": "Playability",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Theme",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Cleverness",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Artistic Style",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          }
+        ],
+        "url": "https://itch.io/jam/pirate15/rate/2842178"
+      },
+      "entryData": {
+        "created_at": "2024-07-31 10:12:08",
+        "id": 570831,
+        "url": "/jam/pirate15/rate/2842178",
+        "game": {
+          "title": "Shadow Realm",
+          "cover": "https://img.itch.zone/aW1nLzE3MjA5NzA5LnBuZw==/300x240%23c/YVNBgq.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 2842178,
+          "url": "https://lateafcoffee.itch.io/shadow-realm",
+          "cover_color": "#000000",
+          "short_text": "Top Down + Bullet Hell + Looter Shooter",
+          "user": {
+            "url": "https://lateafcoffee.itch.io",
+            "name": "LateAFCoffee",
+            "id": 834547
+          }
+        },
+        "coolness": 0,
+        "rating_count": 1
+      },
+      "details": {
+        "title": "Shadow Realm",
+        "description": "Bullet Hell / Looter Shooter / RPG with 2D + 3D pixel art visuals\nFight back monsters from the Shadow Realm!\n\nWarning !! There is no saving data !!\nSide note, I believe a last minute patch moments before submission caused the music to break. Might wanna play this one without any sound  O_o\nGame Design Document  -- https://docs.google.com/document/d/1RJ8BlB0KJgzaEfaO2cvPQhj7O-C3diTEP9dVUIKnOBM/... \n\nDeveloper Note\nThere are no extra items for abilities, armors, and rings at the moment. Also, no other class than the knight is available. I ran out of time :(\nIt is also has not been balanced at all, so some things might be overpowered while others are weak.\nThere is no end, but there are 9 UT weapons, try to find them all. Most of those weapons are created by crafting them through the alchemy station, but some are drops from enemies.\n\nLet me know if I should tweak some things!!\n\nA game by: Binaya Shrestha & Alok Shrestha",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjg0MjE3OC8xNzE0ODg5My5wbmc=/original/YE0iZk.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0MjE3OC8xNzE0ODg5Mi5wbmc=/original/yA87sB.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0MjE3OC8xNzE0ODg5Ny5wbmc=/original/lMyCjw.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0MjE3OC8xNzE0ODg5Ni5wbmc=/original/sf41MY.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0MjE3OC8xNzE0ODg5NC5wbmc=/original/Lcz7ow.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0MjE3OC8xNzE0ODg5NS5wbmc=/original/HdObfp.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "LateAFCoffee",
+          "Genre": "Action, Role Playing",
+          "Made with": "GameMaker",
+          "Tags": "2D, 3D, Bullet Hell, GameMaker, Pixel Art"
+        }
+      }
+    },
+    {
+      "gameId": 2842222,
+      "gameUrl": "https://faff0.itch.io/gamejamshadowalchemy",
+      "overallRank": 1,
+      "topCategories": [
+        "Playability",
+        "Theme",
+        "Cleverness",
+        "Artistic Style"
+      ],
+      "resultData": {
+        "id": 2842222,
+        "contributors": [
+          {
+            "name": "Faff0",
+            "id": 9652963
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzE3MTM1OTM1LnBuZw==/300x240%23c/OfMGN7.png",
+        "title": "Fading Light",
+        "score": 5,
+        "rank": 1,
+        "raw_score": 5,
+        "rating_count": 1,
+        "criteria": [
+          {
+            "name": "Theme",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Playability",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Cleverness",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Artistic Style",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          }
+        ],
+        "url": "https://itch.io/jam/pirate15/rate/2842222"
+      },
+      "entryData": {
+        "created_at": "2024-07-30 19:06:13",
+        "id": 569185,
+        "url": "/jam/pirate15/rate/2842222",
+        "game": {
+          "title": "Fading Light",
+          "platforms": [
+            "web"
+          ],
+          "id": 2842222,
+          "url": "https://faff0.itch.io/gamejamshadowalchemy",
+          "cover": "https://img.itch.zone/aW1nLzE3MTM1OTM1LnBuZw==/300x240%23c/OfMGN7.png",
+          "user": {
+            "url": "https://faff0.itch.io",
+            "name": "Faff0",
+            "id": 9652963
+          }
+        },
+        "coolness": 0,
+        "rating_count": 1
+      },
+      "details": {
+        "title": "Fading Light",
+        "description": "GDD: https://docs.google.com/document/d/1S5sgjmL8KpSsxFBkb-Bq3_I7BKXIweMZ/edit?usp=sh...Survive as long as possible in this frenetic tower defense where you have to run into the shadows to find ancient powerful ingredients necessary to create your defense!\nCommands:WASD for movementTAB to open inventoryPoint and press G to spawn the gold tower of king MidaPoint and press F to spawn the green tower of forgotten lightPoint and press H to spawn a pyramid of mysterious light\nRecipy:3 purple worm blood -> 1  pyramid of mysterious light (Spawn near distance)3 green decomposed light -> 1  green tower of forgotten light (Spawn medium distance)3 liquified gold essence -> 1 gold tower of king Mida (Spawn far distance)\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjg0MjIyMi8xNzEzNTgzNS5wbmc=/original/r8YgIL.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0MjIyMi8xNzEzNTg5Ny5wbmc=/original/gPWAC%2F.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Author": "Faff0",
+          "Genre": "Strategy",
+          "Made with": "Godot",
+          "Tags": "2D, Arcade, Isometric, Pixel Art, Tower Defense"
+        }
+      }
+    },
+    {
+      "gameId": 2842357,
+      "gameUrl": "https://michaju.itch.io/shift-matters",
+      "overallRank": 1,
+      "topCategories": [
+        "Playability",
+        "Theme",
+        "Cleverness",
+        "Artistic Style"
+      ],
+      "resultData": {
+        "id": 2842357,
+        "contributors": [
+          {
+            "name": "Michaju",
+            "id": 1410215
+          },
+          {
+            "name": "pio154",
+            "id": 9819977
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzE3MTE4NTI2LnBuZw==/300x240%23c/omLXlf.png",
+        "title": "Shift Matters",
+        "score": 5,
+        "rank": 1,
+        "raw_score": 5,
+        "rating_count": 1,
+        "criteria": [
+          {
+            "name": "Playability",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Cleverness",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Theme",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Artistic Style",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          }
+        ],
+        "url": "https://itch.io/jam/pirate15/rate/2842357"
+      },
+      "entryData": {
+        "coolness": 0,
+        "created_at": "2024-07-30 23:12:18",
+        "id": 569462,
+        "url": "/jam/pirate15/rate/2842357",
+        "game": {
+          "title": "Shift Matters",
+          "platforms": [
+            "web"
+          ],
+          "id": 2842357,
+          "url": "https://michaju.itch.io/shift-matters",
+          "cover_color": "#070109",
+          "cover": "https://img.itch.zone/aW1nLzE3MTE4NTI2LnBuZw==/300x240%23c/omLXlf.png",
+          "user": {
+            "url": "https://michaju.itch.io",
+            "name": "Michaju",
+            "id": 1410215
+          }
+        },
+        "contributors": [
+          {
+            "name": "Michaju",
+            "url": "https://michaju.itch.io"
+          },
+          {
+            "name": "pio154",
+            "url": "https://pio154.itch.io"
+          }
+        ],
+        "rating_count": 1
+      },
+      "details": {
+        "title": "Shift Matters",
+        "description": "Made for the  15th Pirate Software Game Jam.If you like the game, consider subscribing to our YouTube channel for more games and stuff like that in the future: https://www.youtube.com/@NerDuoo\nShift Mattersis a puzzle game about shifting through different states of matter and utilizing their different properties.Arrow keys - to move\n\n\tEsc - to pause\n\n\tR - to restart\n\nGame Design Document: https://docs.google.com/document/d/1Ef6iukghwq7W-PxiczoC7Blc7FxOCx5rlIMqxOcLQ2k/...",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE3MTE4NTI2LnBuZw==/original/x0qIgq.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Authors": "Michaju, pio154",
+          "Genre": "Puzzle",
+          "Made with": "Godot"
+        }
+      }
+    },
+    {
+      "gameId": 2842385,
+      "gameUrl": "https://pancakeraichu.itch.io/the-adventures-of-cube-wizard",
+      "overallRank": 1,
+      "topCategories": [
+        "Playability",
+        "Cleverness",
+        "Artistic Style"
+      ],
+      "resultData": {
+        "id": 2842385,
+        "contributors": [
+          {
+            "name": "PancakeRaichu",
+            "id": 3017714
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzE3MDM0NzE3LnBuZw==/300x240%23c/MrQEoi.png",
+        "title": "The Adventures of Cube Wizard",
+        "score": 5,
+        "rank": 1,
+        "raw_score": 5,
+        "rating_count": 1,
+        "criteria": [
+          {
+            "name": "Playability",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Theme",
+            "score": 4,
+            "rank": 233,
+            "raw_score": 4
+          },
+          {
+            "name": "Cleverness",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Artistic Style",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          }
+        ],
+        "url": "https://itch.io/jam/pirate15/rate/2842385"
+      },
+      "entryData": {
+        "created_at": "2024-07-30 22:52:47",
+        "id": 569430,
+        "url": "/jam/pirate15/rate/2842385",
+        "game": {
+          "title": "The Adventures of Cube Wizard",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 2842385,
+          "url": "https://pancakeraichu.itch.io/the-adventures-of-cube-wizard",
+          "cover_color": "#474b4f",
+          "cover": "https://img.itch.zone/aW1nLzE3MDM0NzE3LnBuZw==/300x240%23c/MrQEoi.png",
+          "user": {
+            "url": "https://pancakeraichu.itch.io",
+            "name": "PancakeRaichu",
+            "id": 3017714
+          }
+        },
+        "coolness": 0,
+        "rating_count": 1
+      },
+      "details": {
+        "title": "The Adventures of Cube Wizard",
+        "description": "The Adventures of Cube Wizard is an Action RPG game where you play as the Cube Wizard as he sets out on a quest to save the realm from the ever spreading shadows.\nControls:WASD - MovementShift - DashSpace - InteractLeft Click - AttackScroll/1-5 - Swap Weapon\n\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE3MDM0NzE3LnBuZw==/original/b50niF.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "PancakeRaichu",
+          "Genre": "Role Playing",
+          "Made with": "GameMaker",
+          "Tags": "Action RPG"
+        }
+      }
+    },
+    {
+      "gameId": 2842401,
+      "gameUrl": "https://arashnamaki.itch.io/zillow",
+      "overallRank": 1,
+      "topCategories": [
+        "Playability",
+        "Theme",
+        "Cleverness",
+        "Artistic Style"
+      ],
+      "resultData": {
+        "id": 2842401,
+        "contributors": [
+          {
+            "name": "ArashNamaki",
+            "id": 8732982
+          },
+          {
+            "name": "Sina",
+            "id": 6367853
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzE3MTM5MzcyLnBuZw==/300x240%23c/DPp4fZ.png",
+        "title": "ZILLOW",
+        "score": 5,
+        "rank": 1,
+        "raw_score": 5,
+        "rating_count": 1,
+        "criteria": [
+          {
+            "name": "Playability",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Theme",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Cleverness",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Artistic Style",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          }
+        ],
+        "url": "https://itch.io/jam/pirate15/rate/2842401"
+      },
+      "entryData": {
+        "coolness": 0,
+        "created_at": "2024-07-31 12:42:05",
+        "id": 571573,
+        "url": "/jam/pirate15/rate/2842401",
+        "game": {
+          "title": "ZILLOW",
+          "cover": "https://img.itch.zone/aW1nLzE3MTM5MzcyLnBuZw==/300x240%23c/DPp4fZ.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 2842401,
+          "url": "https://arashnamaki.itch.io/zillow",
+          "cover_color": "#0F001F",
+          "short_text": "It’s dark outside, don’t stay too long despite being ready for that.",
+          "user": {
+            "url": "https://arashnamaki.itch.io",
+            "name": "ArashNamaki",
+            "id": 8732982
+          }
+        },
+        "contributors": [
+          {
+            "name": "ArashNamaki",
+            "url": "https://arashnamaki.itch.io"
+          },
+          {
+            "name": "Sina",
+            "url": "https://drxenon.itch.io"
+          }
+        ],
+        "rating_count": 1
+      },
+      "details": {
+        "title": "ZILLOW",
+        "description": ">Description<\n“Zillow” is a first-person survival crafting game about a lost alchemist in the jungle. The darkness has surrounded the jungle, and you have to purify it by defeating the Corruption. You are afraid of shadows and the darkness, but you are able to fight against the shadow by your alchemistic knowledge. It’s dark outside, don’t stay too long despite being ready for that.\n\n>Controls<\n>Movements: W: move forward,  A: move left     S: move back     D: move right\n>Run: Shift               >Jump:  Space              >Interact with objects: E \n>LMB: Throw Arrow/Potion/ Use Potions\n>RMB: Switch between Arrow mode and Potion mode\n>Tab: Open the inventory\n>1,2,3: Switch between available potions or Arrows in its mode\n>P: Pause the game\n>How To play \"ZILLOW\"<\nZillow is a windows/Web game that can be both played in this page, or you can download the .rar version to play locally.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjg0MjQwMS8xNzEzOTM4NC5wbmc=/original/Z7IKS8.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0MjQwMS8xNzE1MzIyOC5wbmc=/original/My1A%2By.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0MjQwMS8xNzE1MzIzNi5wbmc=/original/azw3il.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0MjQwMS8xNzE1MzI3MC5wbmc=/original/AvlLgD.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0MjQwMS8xNzE1MzI2Ni5wbmc=/original/97SDsc.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0MjQwMS8xNzE1MzI3NS5wbmc=/original/3Uf2f0.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Authors": "ArashNamaki, Sina",
+          "Genre": "Survival",
+          "Made with": "Unity",
+          "Tags": "alchemy, Crafting, First-Person, Forest, Shadows"
+        }
+      }
+    },
+    {
+      "gameId": 2842410,
+      "gameUrl": "https://vkint.itch.io/the-weight-of-gold",
+      "overallRank": 1,
+      "topCategories": [
+        "Playability",
+        "Cleverness"
+      ],
+      "resultData": {
+        "id": 2842410,
+        "contributors": [
+          {
+            "name": "VKint",
+            "id": 983443
+          },
+          {
+            "name": "ChanJohann",
+            "id": 2307915
+          },
+          {
+            "name": "Joel Hanson",
+            "id": 1290605
+          },
+          {
+            "name": "Carl Bisenius",
+            "id": 7312656
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzE3MTU1MTE3LmpwZw==/300x240%23c/y%2FQJyV.jpg",
+        "title": "The Weight of Gold",
+        "score": 5,
+        "rank": 1,
+        "raw_score": 5,
+        "rating_count": 1,
+        "criteria": [
+          {
+            "name": "Playability",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Theme",
+            "score": 4,
+            "rank": 233,
+            "raw_score": 4
+          },
+          {
+            "name": "Cleverness",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Artistic Style",
+            "score": 4,
+            "rank": 401,
+            "raw_score": 4
+          }
+        ],
+        "url": "https://itch.io/jam/pirate15/rate/2842410"
+      },
+      "entryData": {
+        "coolness": 0,
+        "created_at": "2024-07-31 12:46:16",
+        "id": 571619,
+        "url": "/jam/pirate15/rate/2842410",
+        "game": {
+          "title": "The Weight of Gold",
+          "cover": "https://img.itch.zone/aW1nLzE3MTU1MTE3LmpwZw==/300x240%23c/y%2FQJyV.jpg",
+          "platforms": [
+            "web"
+          ],
+          "id": 2842410,
+          "url": "https://vkint.itch.io/the-weight-of-gold",
+          "cover_color": "#65430e",
+          "short_text": "Gilly was here",
+          "user": {
+            "url": "https://vkint.itch.io",
+            "name": "VKint",
+            "id": 983443
+          }
+        },
+        "contributors": [
+          {
+            "name": "VKint",
+            "url": "https://vkint.itch.io"
+          },
+          {
+            "name": "ChanJohann",
+            "url": "https://chanjohann.itch.io"
+          },
+          {
+            "name": "Joel Hanson",
+            "url": "https://squizy.itch.io"
+          },
+          {
+            "name": "Carl Bisenius",
+            "url": "https://carlbisenius.itch.io"
+          }
+        ],
+        "rating_count": 1
+      },
+      "details": {
+        "title": "The Weight of Gold",
+        "description": "HINT: press TAB once you get to the main level, if you're ever lost.\nGame Design Doc - https://docs.google.com/document/d/1cEUq0v_Ru22i87QfFiYtXfOiVeG02sdIS7bwAgGXLOA/...\nStep into the boots of a brave man lost in the vast desert. With your new shady business partner, you can transform enemies into precious gold at his shop. Use your loot to power up your throwable concoction and uncover the ancient secrets buried beneath the sands. Your adventure awaits—are you ready to master the desert?\nDEVELOPERS' NOTE\nDue to the last minute issues that we ran into with FMOD compatibility with WebGL, our latest builds were coming out with no sound. Unfortunately, we were forced to upload an earlier build that had audio tho some things were not finished back then - so the balancing and features are not as up to date as they should have been. Biggest problems with this build that have already been fixed once:\nBug that sometimes bricks conversations and soft-locks the game. If you're stuck in the intro scene and can't progress through dialogue, press ESC and click \"Skip intro?\". That will put you into the main game. Same thing if you happen to get stuck in the dialogue in the main scene. Just press ESC and hit \"Restart?\".Final boss is missing hitbox colliders - he cannot actually hit you with most of his attacks. Have fun with this free boss!Gilly having very unclear dialogue. One example is a massive hint in one of his speeches in the intro scene: pressing TAB will bring up a help menu if you're feeling lost. Bug that causes the ending cutscene when our player will reach the full \"corruption\" will not trigger. If you see Gilly standing in the boss arena and silently judging you, just know you were about to get hit by the worst ending possible.\nDue to this:\nWe have provided a windows build with these fixes WHICH WILL NOT BE RANKED OR CONSIDERED FOR THE RATINGS, it's just for people who want to see the endings:https://drive.google.com/file/d/1d32iD-tlcNcpwZc5khWEJ0zUSuCsF4-0/view \nAgain, we encourage you to judge the game entirely based on the WebGL build. Leave your rating first, then feel free to try out the windows build with the functional endings. That way, it's only fair to the rest of the competition. \nTHE DAY 15 PATCH IS COMING, AND IT WILL BE GLORIOUS!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjg0MjQxMC8xNzE1OTU0MC5naWY=/original/I31gQC.gif",
+          "https://img.itch.zone/aW1hZ2UvMjg0MjQxMC8xNzE1OTYyNi5naWY=/original/WuBOhw.gif",
+          "https://img.itch.zone/aW1hZ2UvMjg0MjQxMC8xNzE1OTY1OS5naWY=/original/mr3FsR.gif",
+          "https://img.itch.zone/aW1hZ2UvMjg0MjQxMC8xNzE1OTY2MC5naWY=/original/Bry4tk.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Authors": "VKint, ChanJohann, Joel Hanson, Carl Bisenius",
+          "Genre": "Action",
+          "Made with": "Unity"
+        }
+      }
+    },
+    {
+      "gameId": 2842425,
+      "gameUrl": "https://itsdawg43.itch.io/danethealchemistvstheforcesofevil",
+      "overallRank": 1,
+      "topCategories": [
+        "Playability",
+        "Theme",
+        "Cleverness",
+        "Artistic Style"
+      ],
+      "resultData": {
+        "id": 2842425,
+        "contributors": [
+          {
+            "name": "dawg",
+            "id": 8059865
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzE3MTM5NzQyLnBuZw==/300x240%23c/dXT45g.png",
+        "title": "Dane the Alchemist VS. The Forces of Evil",
+        "score": 5,
+        "rank": 1,
+        "raw_score": 5,
+        "rating_count": 1,
+        "criteria": [
+          {
+            "name": "Playability",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Theme",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Cleverness",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Artistic Style",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          }
+        ],
+        "url": "https://itch.io/jam/pirate15/rate/2842425"
+      },
+      "entryData": {
+        "created_at": "2024-07-31 08:12:45",
+        "id": 570513,
+        "url": "/jam/pirate15/rate/2842425",
+        "game": {
+          "title": "Dane the Alchemist VS. The Forces of Evil",
+          "platforms": [
+            "web"
+          ],
+          "id": 2842425,
+          "url": "https://itsdawg43.itch.io/danethealchemistvstheforcesofevil",
+          "cover": "https://img.itch.zone/aW1nLzE3MTM5NzQyLnBuZw==/300x240%23c/dXT45g.png",
+          "short_text": "Brew potions and recruit adventurers to fight against the monsters of the night!",
+          "user": {
+            "url": "https://itsdawg43.itch.io",
+            "name": "dawg",
+            "id": 8059865
+          }
+        },
+        "coolness": 0,
+        "rating_count": 1
+      },
+      "details": {
+        "title": "Dane the Alchemist VS. The Forces of Evil",
+        "description": "Play in fullscreen for the best experience.\nCreated for Pirate Software Game Jam 15\nView the Game Design Document\nDane is your average every-day peasant, running errands and living a normal day-to-day life... that is, until he discovers a mysterious book containing the knowledge of alchemy. Now, his new goal is to become a great adventurer! Brew potions and recruit party members to fight against monsters in auto-battler style combat.\nHow to play:\nTo brew potions, navigate the instruction book to the page of the potion you want to make. Add the appropriate ingredients, adjust the heat level to the specified amount, then complete the specified amount of full mixes.\nRecruit at least 1 party member to fight monsters with, then enter the battle. Use your potions to your advantage to defeat enemies and support your teammates.\nControls:- Potion Brewing -Navigate and interact with the mouseSpace or Left Click to time indicator in the brewing minigame- Combat - \n1-9 - Select potionsLeft click an entity to apply potion directly, press \"Splash!\" for a slightly weaker effect, but applied to all entities on the respective side\nCredits:\nProgramming and art by ItsDawg43\nMusic by Wither Gates\nFont by Daniel Linssen",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE3MTM5NzQyLnBuZw==/original/rK6Jwz.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "dawg",
+          "Genre": "Strategy, Role Playing",
+          "Made with": "Unity",
+          "Tags": "2D, Cooking, Pixel Art, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 2842590,
+      "gameUrl": "https://bubbleshade.itch.io/dont-touch-the-pavement",
+      "overallRank": 1,
+      "topCategories": [
+        "Playability",
+        "Cleverness"
+      ],
+      "resultData": {
+        "id": 2842590,
+        "contributors": [
+          {
+            "name": "BubbleShade",
+            "id": 3076044
+          },
+          {
+            "name": "Sketched Doughnut",
+            "id": 11170221
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzE3MDg4NDk5LnBuZw==/300x240%23c/YEaNyS.png",
+        "title": "Don't Touch the Pavement",
+        "score": 5,
+        "rank": 1,
+        "raw_score": 5,
+        "rating_count": 1,
+        "criteria": [
+          {
+            "name": "Playability",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Theme",
+            "score": 3,
+            "rank": 653,
+            "raw_score": 3
+          },
+          {
+            "name": "Cleverness",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Artistic Style",
+            "score": 4,
+            "rank": 401,
+            "raw_score": 4
+          }
+        ],
+        "url": "https://itch.io/jam/pirate15/rate/2842590"
+      },
+      "entryData": {
+        "coolness": 0,
+        "created_at": "2024-07-31 00:06:26",
+        "id": 569551,
+        "url": "/jam/pirate15/rate/2842590",
+        "game": {
+          "title": "Don't Touch the Pavement",
+          "cover": "https://img.itch.zone/aW1nLzE3MDg4NDk5LnBuZw==/300x240%23c/YEaNyS.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 2842590,
+          "url": "https://bubbleshade.itch.io/dont-touch-the-pavement",
+          "cover_color": "#9800f2",
+          "short_text": "A Puzzle game where where you manipulate shadows to avoid burning your feet on the pavement",
+          "user": {
+            "url": "https://bubbleshade.itch.io",
+            "name": "BubbleShade",
+            "id": 3076044
+          }
+        },
+        "contributors": [
+          {
+            "name": "BubbleShade",
+            "url": "https://bubbleshade.itch.io"
+          },
+          {
+            "name": "Sketched Doughnut",
+            "url": "https://sketched-doughnut.itch.io"
+          }
+        ],
+        "rating_count": 1
+      },
+      "details": {
+        "title": "Don't Touch the Pavement",
+        "description": "Uh oh! Looks like you forgot to bring your shoes on your commute to work! How ever are you going to reach your office without burning your poor, bare feet on the pavement?\nNever fear, for while you may have forgotten your shoes, you at least remembered your handy sun-repositioning device, as well as several elixir vials to power it!\nNavigate your way through 10 levels, avoiding burning your feet by manipulating the sun to transform shadows to quell the searing heat of the pavement and allow safe passage, while making sure to conserve elixir .\nTheme\nWe took the interpretation of shadows quite literally, objects cast shadows based off of the position of the sun.\nFor alchemy, we chose the definition of transformation, by combining the position of the sun, with the objects on the street, you are transforming the shadows in order to create a safe path across the street\nControls\nWASD - Move the character\nArrow keys / Click and drag the slider at the bottom to move the sun.R to restart level\nF to interact\nESC to pause\nIf you need to skip a level, you can press escape to open the pause menu and go to the level select.\nCredits:\nBubbleShade: Programming, Art, Game design, Audio\nSketched Doughnut: Moral support, Mortal Enemy. Programming\nGame Design Document:\nhttps://docs.google.com/document/d/1eACxo87dVvR_nQalr1WrlH06l9jjPEzAi71NvhB4mIo/...\n\nThis our submission for the 2024 Pirate Software Game Jam, with the theme of Shadows and Alchemy.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjg0MjU5MC8xNzEyNTU2Ny5wbmc=/original/I8nHEq.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0MjU5MC8xNzEyNTU3OC5wbmc=/original/wMw%2Ffx.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0MjU5MC8xNzEyNjUxNC5wbmc=/original/EuuLxl.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Authors": "BubbleShade, Sketched Doughnut",
+          "Genre": "Puzzle",
+          "Made with": "Aseprite, Godot",
+          "Tags": "2D, Casual",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 2843254,
+      "gameUrl": "https://thesquawkyraven.itch.io/adoctorsrent",
+      "overallRank": 1,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "id": 2843254,
+        "contributors": [
+          {
+            "name": "TheSquawkyRaven",
+            "id": 202279
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzE3MTE0NDg1LnBuZw==/300x240%23c/06Lodg.png",
+        "title": "A Doctor's Rent",
+        "score": 5,
+        "rank": 1,
+        "raw_score": 5,
+        "rating_count": 1,
+        "criteria": [
+          {
+            "name": "Theme",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Playability",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Cleverness",
+            "score": 4,
+            "rank": 282,
+            "raw_score": 4
+          },
+          {
+            "name": "Artistic Style",
+            "score": 4,
+            "rank": 401,
+            "raw_score": 4
+          }
+        ],
+        "url": "https://itch.io/jam/pirate15/rate/2843254"
+      },
+      "entryData": {
+        "created_at": "2024-07-29 09:28:34",
+        "id": 568162,
+        "url": "/jam/pirate15/rate/2843254",
+        "game": {
+          "title": "A Doctor's Rent",
+          "cover": "https://img.itch.zone/aW1nLzE3MTE0NDg1LnBuZw==/300x240%23c/06Lodg.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 2843254,
+          "url": "https://thesquawkyraven.itch.io/adoctorsrent",
+          "cover_color": "#6a201d",
+          "short_text": "Mix cures, administer to patients, turn them into monsters...... and beat rent.",
+          "user": {
+            "url": "https://thesquawkyraven.itch.io",
+            "name": "TheSquawkyRaven",
+            "id": 202279
+          }
+        },
+        "coolness": 0,
+        "rating_count": 1
+      },
+      "details": {
+        "title": "A Doctor's Rent",
+        "description": "A Doctor's Rent is a simulation game where you create cures using multiple ingredients, then apply to the patients.\nBusiness is slow, but rent is tight. To have more patients, you may need to do something sinister...You'll lose if you are 50 coins in debt. Or you're rich if you have 300 coins.\nControls - Escape or Enter for Pause Menu. Mouse for everything else.\nMac users: The game may not run well on Mac.\nGDD Link",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjg0MzI1NC8xNzExMzAwNi5naWY=/original/K6XUKW.gif",
+          "https://img.itch.zone/aW1hZ2UvMjg0MzI1NC8xNzExMzA4Ni5wbmc=/original/fXIJPc.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0MzI1NC8xNzExMzA4Ny5wbmc=/original/et8Oj%2B.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0MzI1NC8xNzExMzA4OS5wbmc=/original/lqToJV.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.3 out of 5 stars(3 total ratings)",
+          "Author": "TheSquawkyRaven",
+          "Genre": "Simulation",
+          "Made with": "Godot",
+          "Tags": "2D, craf, Horror, physi, simulat"
+        }
+      }
+    },
+    {
+      "gameId": 2844846,
+      "gameUrl": "https://dinomc.itch.io/rock-digger",
+      "overallRank": 1,
+      "topCategories": [
+        "Theme",
+        "Artistic Style"
+      ],
+      "resultData": {
+        "id": 2844846,
+        "contributors": [
+          {
+            "name": "DinoMC",
+            "id": 190021
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzE3NDgyODE2LnBuZw==/300x240%23c/sLxahd.png",
+        "title": "Rock Digger",
+        "score": 5,
+        "rank": 1,
+        "raw_score": 5,
+        "rating_count": 1,
+        "criteria": [
+          {
+            "name": "Theme",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Playability",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Cleverness",
+            "score": 4,
+            "rank": 282,
+            "raw_score": 4
+          },
+          {
+            "name": "Artistic Style",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          }
+        ],
+        "url": "https://itch.io/jam/pirate15/rate/2844846"
+      },
+      "entryData": {
+        "created_at": "2024-07-31 12:57:13",
+        "id": 571794,
+        "url": "/jam/pirate15/rate/2844846",
+        "game": {
+          "title": "Rock Digger",
+          "cover": "https://img.itch.zone/aW1nLzE3NDgyODE2LnBuZw==/300x240%23c/sLxahd.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 2844846,
+          "url": "https://dinomc.itch.io/rock-digger",
+          "cover_color": "#eeeeee",
+          "short_text": "Play as Frankenstone the living rock, and become a rock-digging rock star!",
+          "user": {
+            "url": "https://dinomc.itch.io",
+            "name": "DinoMC",
+            "id": 190021
+          }
+        },
+        "coolness": 0,
+        "rating_count": 1
+      },
+      "details": {
+        "title": "Rock Digger",
+        "description": "NOTE: Web version is broken for now, please try the downloadable demo on Steam in the meantime : https://store.steampowered.com/app/3096260/Rock_Digger/Rock Digger, the mining adventure where you play as a rock!\nExplore an alien planet!\nDig for minerals and use them to upgrade your body with Alchemy.\nUnearth Lost Alien Technologies and powers.\nThrow A Billion Pickaxes?\nEventually reach deep enough underground to mine the core of the planet! And then... get blasted to a new planet!\n\nA relaxing digging game, inspired by Dome Keeper but with no enemies and no timers!\n\nControls :\nWASD (or regional equivalent) : Move\nSpace : Jump\nF : Interact\nMouse Movement : AimLeft click : Throw a pickaxeRight click : Vacuum ores\nDemo 0.2.0(Jam judges, in case the GDD \"external link\" doesn't work : Link)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjg0NDg0Ni8xNzE1ODgzMS5wbmc=/original/Iz2mjE.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0NDg0Ni8xNzE1ODkwNC5wbmc=/original/wrTAGJ.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0NDg0Ni8xNzE1ODg0MC5wbmc=/original/8bVEUP.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0NDg0Ni8xNzE1ODg0Mi5wbmc=/original/tGoWpL.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0NDg0Ni8xNzE1ODg0Ni5wbmc=/original/a%2BCGXZ.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0NDg0Ni8xNzE5MTg4NC5wbmc=/original/BcS5j8.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows",
+          "Author": "DinoMC",
+          "Genre": "Platformer",
+          "Made with": "Godot",
+          "Tags": "2D, Aliens, digging, Exploration, mining, planet, Roguelike, Space"
+        }
+      }
+    },
+    {
+      "gameId": 2847346,
+      "gameUrl": "https://shaneheldsinger.itch.io/shadowpaw",
+      "overallRank": 1,
+      "topCategories": [
+        "Theme",
+        "Cleverness",
+        "Artistic Style"
+      ],
+      "resultData": {
+        "id": 2847346,
+        "contributors": [
+          {
+            "name": "ShaneHeldsinger",
+            "id": 9217450
+          },
+          {
+            "name": "Marco Ribeiro",
+            "id": 9393459
+          },
+          {
+            "name": "Mohini_T",
+            "id": 11238641
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzE3MTQxMjg3LmdpZg==/300x240%23c/Q67hhy.gif",
+        "title": "Shadowpaw",
+        "score": 5,
+        "rank": 1,
+        "raw_score": 5,
+        "rating_count": 1,
+        "criteria": [
+          {
+            "name": "Playability",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Theme",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Cleverness",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Artistic Style",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          }
+        ],
+        "url": "https://itch.io/jam/pirate15/rate/2847346"
+      },
+      "entryData": {
+        "coolness": 0,
+        "created_at": "2024-07-31 06:31:39",
+        "id": 570231,
+        "url": "/jam/pirate15/rate/2847346",
+        "game": {
+          "id": 2847346,
+          "url": "https://shaneheldsinger.itch.io/shadowpaw",
+          "cover_color": "#151c30",
+          "user": {
+            "url": "https://shaneheldsinger.itch.io",
+            "name": "ShaneHeldsinger",
+            "id": 9217450
+          },
+          "title": "Shadowpaw",
+          "platforms": [
+            "web"
+          ],
+          "gif_cover": "https://img.itch.zone/aW1nLzE3MTQxMjg3LmdpZg==/original/wRwoLQ.gif",
+          "cover": "https://img.itch.zone/aW1nLzE3MTQxMjg3LmdpZg==/300x240%23c/Q67hhy.gif",
+          "short_text": "An accident in the lab leaves your cat frozen and without its shadow. Can you save your cat?"
+        },
+        "contributors": [
+          {
+            "name": "ShaneHeldsinger",
+            "url": "https://shaneheldsinger.itch.io"
+          },
+          {
+            "name": "Marco Ribeiro",
+            "url": "https://ribeirompl.itch.io"
+          },
+          {
+            "name": "Mohini_T",
+            "url": "https://mohini-t.itch.io"
+          }
+        ],
+        "rating_count": 1
+      },
+      "details": {
+        "title": "Shadowpaw",
+        "description": "\nShadowPaw\nShadowPaw  is a 2D platformer made for Pirate Software's 15th game jam.\nAn accident in the lab leaves your cat frozen and without its shadow. Can you save your cat?\nWalkthrough Video (Spoilers)\nGame Design Document\nControls (default)\nArrow keys/WASD to move\nSpace bar to jump\nInteract is J/Enter\nCredits\nGame Created by: Marco Ribeiro, Mohini Takoorparsadh, ShaneHeldsingerLead Artist: Mohini TakoorparsadhLead Developer: Marco RibeiroLevel Design and Sound Design: ShaneHeldsinger (feat. Mohini's cat)Music: ShaneHeldsinger (Special Thanks to Hanna)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjg0NzM0Ni8xNzE0Njg2Ny5wbmc=/original/EwLz32.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0NzM0Ni8xNzE0Njg2Ni5wbmc=/original/mIgb%2Bd.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0NzM0Ni8xNzE0Njg2OS5wbmc=/original/SM%2BtLl.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0NzM0Ni8xNzE0Njg2OC5wbmc=/original/n491MA.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.0 out of 5 stars(2 total ratings)",
+          "Authors": "ShaneHeldsinger, Marco Ribeiro, Mohini_T",
+          "Genre": "Platformer, Puzzle",
+          "Made with": "Godot",
+          "Tags": "Cats"
+        }
+      }
+    },
+    {
+      "gameId": 2847369,
+      "gameUrl": "https://prvak.itch.io/shadowtail",
+      "overallRank": 1,
+      "topCategories": [
+        "Theme",
+        "Artistic Style"
+      ],
+      "resultData": {
+        "id": 2847369,
+        "contributors": [
+          {
+            "name": "Prvaak",
+            "id": 814645
+          },
+          {
+            "name": "Maotica",
+            "id": 8019022
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzE3MTMzMjIwLnBuZw==/300x240%23c/gM%2BrKD.png",
+        "title": "Shadowtail",
+        "score": 5,
+        "rank": 1,
+        "raw_score": 5,
+        "rating_count": 1,
+        "criteria": [
+          {
+            "name": "Playability",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Theme",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Cleverness",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Artistic Style",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          }
+        ],
+        "url": "https://itch.io/jam/pirate15/rate/2847369"
+      },
+      "entryData": {
+        "coolness": 0,
+        "created_at": "2024-07-30 20:35:03",
+        "id": 569268,
+        "url": "/jam/pirate15/rate/2847369",
+        "game": {
+          "title": "Shadowtail",
+          "cover": "https://img.itch.zone/aW1nLzE3MTMzMjIwLnBuZw==/300x240%23c/gM%2BrKD.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 2847369,
+          "url": "https://prvak.itch.io/shadowtail",
+          "cover_color": "#694f62",
+          "short_text": "Short puzzle game about crafting potions as a mouse",
+          "user": {
+            "url": "https://prvak.itch.io",
+            "name": "Prvaak",
+            "id": 814645
+          }
+        },
+        "contributors": [
+          {
+            "name": "Prvaak",
+            "url": "https://prvak.itch.io"
+          },
+          {
+            "name": "Maotica",
+            "url": "https://maotica.itch.io"
+          }
+        ],
+        "rating_count": 1
+      },
+      "details": {
+        "title": "Shadowtail",
+        "description": "About Shadowtail:\n  \nShadowtail is a puzzle and maze game where the goal is to mix  ingredients into potions that have special effects on the player. The  goal of the game is to rescue a fellow mouse that is trapped in a cage  through exploration and potion crafting. Shadowtail was developed as part of the 2024 PirateSoftware Game Jam under the theme Shadows and Alchemy.\nControls:\n    \nWASD - Move\nSpace - Jump or Climb\nE - Pick Up or Drop Item\nF - Use or Read Item\nP - Pause MenuR - Show known recipesF11/Escape - Toggle Fullscreen Mode\nGame Design Document:\nThe game design document can be found here as well as in the downloads below. The Google Drive document contains additional information about the planning and development of Shadowtail.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjg0NzM2OS8xNzEzMDkxMi5wbmc=/original/jIG6s3.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0NzM2OS8xNzEzMDkxMS5wbmc=/original/6tnaTT.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0NzM2OS8xNzEzMDkxNC5wbmc=/original/Nx%2B9OL.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0NzM2OS8xNzEzMDkxMC5wbmc=/original/y8NwFE.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.5 out of 5 stars(2 total ratings)",
+          "Authors": "Prvaak, Maotica",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "2D, Godot, Indie, Short, Singleplayer, Top-Down",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": 2848860,
+      "gameUrl": "https://ds12q.itch.io/sjayla-piratejam15",
+      "overallRank": 1,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "id": 2848860,
+        "contributors": [
+          {
+            "name": "Ds12q",
+            "id": 9269806
+          },
+          {
+            "name": "ajaassel",
+            "id": 11235437
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzE3MTUxNTczLnBuZw==/300x240%23c/NdXXT4.png",
+        "title": "Sunscreen Vampire",
+        "score": 5,
+        "rank": 1,
+        "raw_score": 5,
+        "rating_count": 1,
+        "criteria": [
+          {
+            "name": "Playability",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Theme",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Cleverness",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Artistic Style",
+            "score": 3,
+            "rank": 970,
+            "raw_score": 3
+          }
+        ],
+        "url": "https://itch.io/jam/pirate15/rate/2848860"
+      },
+      "entryData": {
+        "coolness": 0,
+        "created_at": "2024-07-30 10:59:06",
+        "id": 568961,
+        "url": "/jam/pirate15/rate/2848860",
+        "game": {
+          "title": "Sunscreen Vampire",
+          "cover": "https://img.itch.zone/aW1nLzE3MTUxNTczLnBuZw==/300x240%23c/NdXXT4.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 2848860,
+          "url": "https://ds12q.itch.io/sjayla-piratejam15",
+          "cover_color": "#040e2d",
+          "short_text": "\"Sunscreen Vampire\" PirateJam15(Shadows & Alchemy)",
+          "user": {
+            "url": "https://ds12q.itch.io",
+            "name": "Ds12q",
+            "id": 9269806
+          }
+        },
+        "contributors": [
+          {
+            "name": "Ds12q",
+            "url": "https://ds12q.itch.io"
+          },
+          {
+            "name": "ajaassel",
+            "url": "https://ajaassel.itch.io"
+          }
+        ],
+        "rating_count": 1
+      },
+      "details": {
+        "title": "Sunscreen Vampire",
+        "description": "Sunscreen Vampire\nIt is 1876, you are Barnabos Callins, alchemist vampire living in a European city.You wake up to find you have used up your last bottle of sunscreen! The only thing that keeps a vampire alive in direct sunlight. You have got to stick to the shadows or else....Now go and find the ingredients to make a new bottle and avoid both the sun and the townspeople.Use your alchemy skills to transmute found components into useful concoctions to create new shadows or \"remove\" the townspeople.This game was made for the Piratesoftware Gamejam 15.\nControls:\nWASD to move\nE to interact with item and objects\nQ open use menu\nR open inventory menu\nC sneak toggle\nF & G rotate camera\nESC & P pause gameMouse menus/ui input and action selection,confirmation,cancel input\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjg0ODg2MC8xNzE1MDA3NS5naWY=/original/B79g6H.gif",
+          "https://img.itch.zone/aW1hZ2UvMjg0ODg2MC8xNzEzMDE3Ny5wbmc=/original/0gBW79.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0ODg2MC8xNzE1MDAyNC5naWY=/original/QOmgPZ.gif",
+          "https://img.itch.zone/aW1hZ2UvMjg0ODg2MC8xNzE1MDA5MC5naWY=/original/rTOvgi.gif",
+          "https://img.itch.zone/aW1hZ2UvMjg0ODg2MC8xNzE1MDA5Ni5wbmc=/original/ZRItv%2B.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Authors": "Ds12q, ajaassel",
+          "Genre": "Adventure",
+          "Tags": "alchemy, Shadows, Unreal Engine"
+        }
+      }
+    },
+    {
+      "gameId": 2849425,
+      "gameUrl": "https://voirax.itch.io/perfect-conditions",
+      "overallRank": 1,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "id": 2849425,
+        "contributors": [
+          {
+            "name": "Voirax",
+            "id": 5472596
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzE3MTM4ODA4LnBuZw==/300x240%23c/HPRA%2Bv.png",
+        "title": "Perfect Conditions",
+        "score": 5,
+        "rank": 1,
+        "raw_score": 5,
+        "rating_count": 1,
+        "criteria": [
+          {
+            "name": "Playability",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Theme",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Cleverness",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Artistic Style",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          }
+        ],
+        "url": "https://itch.io/jam/pirate15/rate/2849425"
+      },
+      "entryData": {
+        "created_at": "2024-07-30 22:54:07",
+        "id": 569433,
+        "url": "/jam/pirate15/rate/2849425",
+        "game": {
+          "title": "Perfect Conditions",
+          "cover": "https://img.itch.zone/aW1nLzE3MTM4ODA4LnBuZw==/300x240%23c/HPRA%2Bv.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 2849425,
+          "url": "https://voirax.itch.io/perfect-conditions",
+          "cover_color": "#0a0a0a",
+          "short_text": "Short game about building an alchemy laboratory",
+          "user": {
+            "url": "https://voirax.itch.io",
+            "name": "Voirax",
+            "id": 5472596
+          }
+        },
+        "coolness": 0,
+        "rating_count": 1
+      },
+      "details": {
+        "title": "Perfect Conditions",
+        "description": "Game made for Pirate Software - Game Jam 15\nPerfect Conditions  is a short game about building a perfect alchemy laboratory while keeping an eye on the quality of produced products by supplying stations with correct amounts of different types of light.\nControlls:\nMouseSpacebar\nMade with:\nGodotKritaFl Studio 20\nGame design document HERE",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjg0OTQyNS8xNzEzNjI0MC5wbmc=/original/zWdjbU.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0OTQyNS8xNzEzNjI0Mi5wbmc=/original/Zr6YSV.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0OTQyNS8xNzEzNjI0My5wbmc=/original/lJpZNt.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows",
+          "Author": "Voirax",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "2D, Economy, Simple",
+          "Average session": "A few minutes"
+        }
+      }
+    },
+    {
+      "gameId": 2850045,
+      "gameUrl": "https://edelerde.itch.io/umbras-cauldron",
+      "overallRank": 1,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "id": 2850045,
+        "contributors": [
+          {
+            "name": "EdelErde",
+            "id": 10778104
+          },
+          {
+            "name": "Lerolan",
+            "id": 5139069
+          },
+          {
+            "name": "zittrich",
+            "id": 3964869
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzE3MTI5MDE1LnBuZw==/300x240%23c/sAfNZ8.png",
+        "title": "Umbra's Cauldron",
+        "score": 5,
+        "rank": 1,
+        "raw_score": 5,
+        "rating_count": 1,
+        "criteria": [
+          {
+            "name": "Theme",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Playability",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Cleverness",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Artistic Style",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          }
+        ],
+        "url": "https://itch.io/jam/pirate15/rate/2850045"
+      },
+      "entryData": {
+        "coolness": 0,
+        "created_at": "2024-07-30 18:46:06",
+        "id": 569176,
+        "url": "/jam/pirate15/rate/2850045",
+        "game": {
+          "title": "Umbra's Cauldron",
+          "cover": "https://img.itch.zone/aW1nLzE3MTI5MDE1LnBuZw==/300x240%23c/sAfNZ8.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 2850045,
+          "url": "https://edelerde.itch.io/umbras-cauldron",
+          "cover_color": "#4d3f56",
+          "short_text": "Progress through The 7 Stages of Alchemical Transformation",
+          "user": {
+            "url": "https://edelerde.itch.io",
+            "name": "EdelErde",
+            "id": 10778104
+          }
+        },
+        "contributors": [
+          {
+            "name": "EdelErde",
+            "url": "https://edelerde.itch.io"
+          },
+          {
+            "name": "Lerolan",
+            "url": "https://lerolan.itch.io"
+          },
+          {
+            "name": "zittrich",
+            "url": "https://zittrich.itch.io"
+          }
+        ],
+        "rating_count": 1
+      },
+      "details": {
+        "title": "Umbra's Cauldron",
+        "description": "\nUMBRA'S CAULDRON is a card-based 2D game, where absolutely everything is a card! Dive into a magical shadow world and help unfold the secrets of the living cauldron looking to find a new physical husk.\nCombine cards, sell cards, create new ones, buy card packs and go through the seven stages of alchemical transformation!\nThe demo ends after bringing your first shadow into life and unlocking a chest.\nCONTROLSClick Cards with your left mouse button to Drag & Drop them around your alchemy worktable!\nGDDhttps://docs.google.com/document/d/1fuglvVaSmKmNAgi_Gzge6cMDB3bKxuvfZGQRAD5fb2g/...\n\nCREDITSProduction Design, Programming: Jonas GruetzmacherProgramming, Level Design: Jan HildebrandtArt, Animation: Selina Stückler\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjg1MDA0NS8xNzEzNTIzNS5wbmc=/original/TdoUAf.png",
+          "https://img.itch.zone/aW1hZ2UvMjg1MDA0NS8xNzEzNTM2OS5wbmc=/original/loDhcC.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.8 out of 5 stars(4 total ratings)",
+          "Authors": "EdelErde, Lerolan, zittrich",
+          "Genre": "Card Game, Simulation, Strategy",
+          "Made with": "Unity",
+          "Tags": "2D, Fantasy, Minimalist, Singleplayer, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 2850421,
+      "gameUrl": "https://gr0n.itch.io/witching-rush-hour",
+      "overallRank": 1,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "id": 2850421,
+        "contributors": [
+          {
+            "name": "Gr0n",
+            "id": 703737
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzE3MTgyMjM5LnBuZw==/300x240%23c/uKTcJ7.png",
+        "title": "Witching Rush Hour",
+        "score": 5,
+        "rank": 1,
+        "raw_score": 5,
+        "rating_count": 1,
+        "criteria": [
+          {
+            "name": "Theme",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Playability",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Cleverness",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Artistic Style",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          }
+        ],
+        "url": "https://itch.io/jam/pirate15/rate/2850421"
+      },
+      "entryData": {
+        "created_at": "2024-07-30 23:28:32",
+        "id": 569487,
+        "url": "/jam/pirate15/rate/2850421",
+        "game": {
+          "title": "Witching Rush Hour",
+          "cover": "https://img.itch.zone/aW1nLzE3MTgyMjM5LnBuZw==/300x240%23c/uKTcJ7.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 2850421,
+          "url": "https://gr0n.itch.io/witching-rush-hour",
+          "cover_color": "#210b19",
+          "short_text": "Survive the darkest night with only your broom, and a cauldron.",
+          "user": {
+            "url": "https://gr0n.itch.io",
+            "name": "Gr0n",
+            "id": 703737
+          }
+        },
+        "coolness": 0,
+        "rating_count": 1
+      },
+      "details": {
+        "title": "Witching Rush Hour",
+        "description": "\nIt's almost the witching hour. Soon the land will become enveloped in shadow and be dangerous to traverse. All witches have ascended into the sky with their brooms. All witches except you, who still hasn't been able to fly. The other witches decided to aid you, by dropping wood for your cauldron from the sky. All that's left for you is use what ingredients you come by and try to survive the Witching Hour.Can you find all 29 potions?\nCreated for the 15th Pirate Software GameJam\nDefault Controls:\n[W,A,S,D] - Move\n[E] - Pick up/ Throw (Towards mouse cursor)\n[SPACE] - Attack\n[SHIFT] - Dash\n[ESCAPE] - Pause\nHardware Acceleration on your browser VERY recommended\n--------------------------------------------------\nHigh Scores:\n1: Faulko/35:29 ( The Little Alchemist )\n2: Lunar/31:25 ( MagiCat )\n3: Ecks/21:09 ( Blood X Thirsty )\n4: Kelvin/18:57 ( Alkimia Shadowing )\n5: Tetragraviton/17:12 ( Temple of Occultation )\n(Highscores locked, thank you for participating)\n--------------------------------------------------\nMain Surival Theme - taken from free asset from:\n https://shononoki.itch.io/free-rpg-music-pack-2------------------------------------------------------------\nGDD DOCUMENT:\nhttps://docs.google.com/document/d/1J6dPccKa26ocq1atisFIYLcNdkYCKBIxja7h8fSWpGg/...",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjg1MDQyMS8xNzM3ODEzNi5wbmc=/original/%2F9Tbzl.png",
+          "https://img.itch.zone/aW1hZ2UvMjg1MDQyMS8xNzM3ODEwNC5wbmc=/original/rGPKBE.png",
+          "https://img.itch.zone/aW1hZ2UvMjg1MDQyMS8xNzM3ODEyNi5wbmc=/original/yHXkjG.png",
+          "https://img.itch.zone/aW1hZ2UvMjg1MDQyMS8xNzE2OTU5OC5wbmc=/original/oxFiFF.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.5 out of 5 stars(10 total ratings)",
+          "Author": "Gr0n",
+          "Genre": "Survival",
+          "Made with": "Godot",
+          "Tags": "2D, alchemy, Godot, My First Game Jam, Perma Death, Pixel Art, Roguelite, Shadows, Tower Defense",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse, Gamepad (any)",
+          "Accessibility": "Configurable controls"
+        }
+      }
+    },
+    {
+      "gameId": 2850488,
+      "gameUrl": "https://zololgo.itch.io/alchemage-crossy-shadows",
+      "overallRank": 1,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "id": 2850488,
+        "contributors": [
+          {
+            "name": "zololgo",
+            "id": 714352
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzE3MTUzNjgzLmpwZw==/300x240%23c/Lt%2BMTL.jpg",
+        "title": "AlcheMage: Crossy Shadows",
+        "score": 5,
+        "rank": 1,
+        "raw_score": 5,
+        "rating_count": 1,
+        "criteria": [
+          {
+            "name": "Playability",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Theme",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Cleverness",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Artistic Style",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          }
+        ],
+        "url": "https://itch.io/jam/pirate15/rate/2850488"
+      },
+      "entryData": {
+        "created_at": "2024-07-31 12:37:41",
+        "id": 571535,
+        "url": "/jam/pirate15/rate/2850488",
+        "game": {
+          "title": "AlcheMage: Crossy Shadows",
+          "platforms": [
+            "web"
+          ],
+          "id": 2850488,
+          "url": "https://zololgo.itch.io/alchemage-crossy-shadows",
+          "cover": "https://img.itch.zone/aW1nLzE3MTUzNjgzLmpwZw==/300x240%23c/Lt%2BMTL.jpg",
+          "user": {
+            "url": "https://zololgo.itch.io",
+            "name": "zololgo",
+            "id": 714352
+          }
+        },
+        "coolness": 0,
+        "rating_count": 1
+      },
+      "details": {
+        "title": "AlcheMage: Crossy Shadows",
+        "description": "About\n\"AlcheMage: Crossy Shadows\" is a top-down arcade game providing a fun, and addictive experience, where players control an AlcheMage, progressing in a world covered in darkness, using the alchemical staff  to bring light and to turn metallic rocks into gold to collect them.\n\nHow to play\nMovement: Arrow keys\nGame design document \nhttps://docs.google.com/document/d/1foaZU3YF7flAYxq3SWKVQYpNkG834TNoBRdQ0XLH5jE/...\n___________________________________________\n\nMade in 2 days for the  July 2024 Pirate Software Jam (Theme: Shadows - Alchemy)\nPlease note, this is an incomplete game, with missing features.",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE3MTUzNjgzLmpwZw==/original/F%2FkgSB.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Author": "zololgo",
+          "Genre": "Platformer",
+          "Made with": "Unity"
+        }
+      }
+    },
+    {
+      "gameId": 2851268,
+      "gameUrl": "https://lythox.itch.io/night-spirits-survivor",
+      "overallRank": 1,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "id": 2851268,
+        "contributors": [
+          {
+            "name": "Tom",
+            "id": 9825262
+          },
+          {
+            "name": "Evan",
+            "id": 7194133
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzE3MDQyMjc2LnBuZw==/300x240%23c/KSU1Gv.png",
+        "title": "Night Spirits Survivor",
+        "score": 5,
+        "rank": 1,
+        "raw_score": 5,
+        "rating_count": 1,
+        "criteria": [
+          {
+            "name": "Playability",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Theme",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Cleverness",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Artistic Style",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          }
+        ],
+        "url": "https://itch.io/jam/pirate15/rate/2851268"
+      },
+      "entryData": {
+        "coolness": 0,
+        "created_at": "2024-07-31 10:45:11",
+        "id": 570949,
+        "url": "/jam/pirate15/rate/2851268",
+        "game": {
+          "title": "Night Spirits Survivor",
+          "cover": "https://img.itch.zone/aW1nLzE3MDQyMjc2LnBuZw==/300x240%23c/KSU1Gv.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 2851268,
+          "url": "https://lythox.itch.io/night-spirits-survivor",
+          "cover_color": "#2d2d2d",
+          "short_text": "Alchemy And Shadows",
+          "user": {
+            "url": "https://lythox.itch.io",
+            "name": "Tom",
+            "id": 9825262
+          }
+        },
+        "contributors": [
+          {
+            "name": "Tom",
+            "url": "https://lythox.itch.io"
+          },
+          {
+            "name": "Evan",
+            "url": "https://evanvhg.itch.io"
+          }
+        ],
+        "rating_count": 1
+      },
+      "details": {
+        "title": "Night Spirits Survivor",
+        "description": "GDD : Game Design Document (Google Docs)This is just a prototype, not a fully polished game.Each night spirits want to come to your house.\nHopefully, you can see it arriving as its shadow goes over you. Pay attention to the shape of the shadow to determine the type of spirit that is attacking you !\nMatch the shadow with its monster and cook the corresponding potion to protect you, and maybe survive until the next day....\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjg1MTI2OC8xNzA0MjI3NS5wbmc=/original/WEUeer.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Authors": "Tom, Evan",
+          "Genre": "Survival",
+          "Made with": "Unity",
+          "Tags": "High Score, Shadows",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 2853781,
+      "gameUrl": "https://mymo-in-bb.itch.io/eilidh",
+      "overallRank": 1,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "id": 2853781,
+        "contributors": [
+          {
+            "name": "Mymo in B♭",
+            "id": 3654951
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzE3MTQ5MjE0LnBuZw==/300x240%23c/sEHwef.png",
+        "title": "The New Life of Eilidh Mhorganach",
+        "score": 5,
+        "rank": 1,
+        "raw_score": 5,
+        "rating_count": 1,
+        "criteria": [
+          {
+            "name": "Playability",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Theme",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Cleverness",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Artistic Style",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          }
+        ],
+        "url": "https://itch.io/jam/pirate15/rate/2853781"
+      },
+      "entryData": {
+        "created_at": "2024-07-31 09:55:04",
+        "id": 570779,
+        "url": "/jam/pirate15/rate/2853781",
+        "game": {
+          "title": "The New Life of Eilidh Mhorganach",
+          "cover": "https://img.itch.zone/aW1nLzE3MTQ5MjE0LnBuZw==/300x240%23c/sEHwef.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 2853781,
+          "url": "https://mymo-in-bb.itch.io/eilidh",
+          "cover_color": "#000000",
+          "short_text": "A story of a blind alchemist",
+          "user": {
+            "url": "https://mymo-in-bb.itch.io",
+            "name": "Mymo in B♭",
+            "id": 3654951
+          }
+        },
+        "coolness": 0,
+        "rating_count": 1
+      },
+      "details": {
+        "title": "The New Life of Eilidh Mhorganach",
+        "description": "alpha 0.1.2\nGame Design Document: https://docs.google.com/document/d/1AmKhM2CuI5zyGDIGjhFqBwJ5MlTM252TnVWseGmBF9A/...\nIf the audio doesn't start immediately upon the game loading, please press space.\nThis game is made using the Godot Engine 4.2.2, so it requires SharedArrayBuffer to be turned on, which may cause issues in some browsers. If you're having trouble starting the game, please try it in a different browser.\nCredits:\nPlaytesting, QA, gameplay consultation, proof-reading, and voice of Eilidh, Calum, the Narrator, and UI elements by Kris\nConcept, direction, programming, dialogues, music, clarinet and recorder samples, and voice of Leagsaidh, Màiri and Uilleam by Mymo (also known as Rosie)\nSound effects used:\n- Crickets At Night - Clean sound by Defelozedd94 -- https://freesound.org/s/522298/ -- License: Creative Commons 0\n- Pot_Lid.mp3 by schoman3 -- https://freesound.org/s/507452/ -- License: Creative Commons 0\n- plate on table by ventousawins -- https://freesound.org/s/681421/ -- License: Creative Commons 0\n- Flipping through a book.mp3 by Zeinel -- https://freesound.org/s/483364/ -- License: Creative Commons 0\n- Toss book on bed (throw set down land pick up) 01.wav by cmorris035 -- https://freesound.org/s/319153/ -- License: Creative Commons 0\n- bird chirps4.wav by keweldog -- https://freesound.org/s/182795/ -- License: Creative Commons 0\n- Foley Outdoor Footsteps Grass at Delta de l'Ebre by bitlab_coop -- https://freesound.org/s/487001/ -- License: Creative Commons 0\n- Opening Closing Old Wooden Door by deleted_user_7146007 -- https://freesound.org/s/383838/ -- License: Creative Commons 0\n- Fireplace crackling wood little flame.wav by BonnyOrbit -- https://freesound.org/s/484338/ -- License: Creative Commons 0\n- LargeWoodenShip.mp3 by PimFeijen -- https://freesound.org/s/195193/ -- License: Creative Commons 0\nChanges in alpha 0.1.2  (31.7.2024 13:30 CEST; 11:30am UTC):- Fixed a bug where there was an extra entry in the fail dialogue for the third day, that wasn't linked to any line. The entry was removed, as originally intended.",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE3MTQ5MjE0LnBuZw==/original/0WgQiV.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Mymo in B♭",
+          "Genre": "Rhythm",
+          "Made with": "Godot"
+        }
+      }
+    },
+    {
+      "gameId": 2842909,
+      "gameUrl": "https://someasianguy.itch.io/in-the-forest",
+      "overallRank": 1,
+      "topCategories": [
+        "Cleverness"
+      ],
+      "resultData": {
+        "id": 2842909,
+        "contributors": [
+          {
+            "name": "SomeAsianGuy",
+            "id": 3966940
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzE3MDg2NzI0LnBuZw==/300x240%23c/QOx%2BmM.png",
+        "title": "In The Forest - Game Jam Version",
+        "score": 5,
+        "rank": 1,
+        "raw_score": 5,
+        "rating_count": 1,
+        "criteria": [
+          {
+            "name": "Playability",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Cleverness",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Theme",
+            "score": 4,
+            "rank": 233,
+            "raw_score": 4
+          },
+          {
+            "name": "Artistic Style",
+            "score": 4,
+            "rank": 401,
+            "raw_score": 4
+          }
+        ],
+        "url": "https://itch.io/jam/pirate15/rate/2842909"
+      },
+      "entryData": {
+        "created_at": "2024-07-31 01:11:00",
+        "id": 569630,
+        "url": "/jam/pirate15/rate/2842909",
+        "game": {
+          "title": "In The Forest - Game Jam Version",
+          "cover": "https://img.itch.zone/aW1nLzE3MDg2NzI0LnBuZw==/300x240%23c/QOx%2BmM.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 2842909,
+          "url": "https://someasianguy.itch.io/in-the-forest",
+          "cover_color": "#111111",
+          "short_text": "A short, retro 3D, horror game about banishing an entity in the darkness.",
+          "user": {
+            "url": "https://someasianguy.itch.io",
+            "name": "SomeAsianGuy",
+            "id": 3966940
+          }
+        },
+        "coolness": 0,
+        "rating_count": 1
+      },
+      "details": {
+        "title": "In The Forest - Game Jam Version",
+        "description": "🚨 CONTROLS LISTED BELOW 🚨\nA prototype game made for Pirate Software's 15th game jam.\nThere are massive stutters when initially loading the world, which I think is because of all of the audio being preloaded at once and all of the foliage.\n\nBACKGROUND\nOne late summer, sometime in the 1980s, campers began to go missing at a campground. Jake, a conspiracist and self-proclaimed alchemist, arrives at the campground to investigate and see if his suspicions are true.\n\nGAME DESIGN DOC: GOOGLE DOC\nEXPECTED PLAYTIME: 6-12 minutes\nCONTROLS ( ACTION - INPUT )\nOpen pause menu - TabMove - WASDLook - MouseZoom - Hold Right ClickRun - Hold Left ShiftJump - SpacebarInteract - ELantern - 1Polaroid - 2Journal - 3Use tool - Left ClickCharge lantern/switch journal pages - Scroll wheel\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjg0MjkwOS8xNzE0ODczNS5naWY=/original/ndRWHo.gif",
+          "https://img.itch.zone/aW1hZ2UvMjg0MjkwOS8xNzEyNzUzMS5wbmc=/original/f49PFF.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0MjkwOS8xNzEyNzUzMy5wbmc=/original/T1%2FLbu.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0MjkwOS8xNzEyNzUzMi5wbmc=/original/nL3McM.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0MjkwOS8xNzE0ODgzMy5wbmc=/original/1K7G9A.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "SomeAsianGuy",
+          "Genre": "Adventure",
+          "Made with": "Blender, Godot, Audacity, Krita",
+          "Tags": "3D, Dark, First-Person, Forest, Game Jam, Godot, Horror, pirate-software, Retro, Singleplayer",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse",
+          "Accessibility": "Subtitles"
+        }
+      }
+    },
+    {
+      "gameId": 2843018,
+      "gameUrl": "https://cptdrunkbear.itch.io/abysseus",
+      "overallRank": 1,
+      "topCategories": [
+        "Cleverness",
+        "Artistic Style"
+      ],
+      "resultData": {
+        "id": 2843018,
+        "contributors": [
+          {
+            "name": "Captain Bear Games",
+            "id": 504708
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzE3MTExODEyLnBuZw==/300x240%23c/g9LkTM.png",
+        "title": "Abysseus",
+        "score": 5,
+        "rank": 1,
+        "raw_score": 5,
+        "rating_count": 1,
+        "criteria": [
+          {
+            "name": "Playability",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Theme",
+            "score": 4,
+            "rank": 233,
+            "raw_score": 4
+          },
+          {
+            "name": "Cleverness",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Artistic Style",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          }
+        ],
+        "url": "https://itch.io/jam/pirate15/rate/2843018"
+      },
+      "entryData": {
+        "created_at": "2024-07-31 02:21:44",
+        "id": 569720,
+        "url": "/jam/pirate15/rate/2843018",
+        "game": {
+          "title": "Abysseus",
+          "cover": "https://img.itch.zone/aW1nLzE3MTExODEyLnBuZw==/300x240%23c/g9LkTM.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 2843018,
+          "url": "https://cptdrunkbear.itch.io/abysseus",
+          "cover_color": "#000000",
+          "short_text": "A Short Underwater Game Made for Pirate Game Jam",
+          "user": {
+            "url": "https://cptdrunkbear.itch.io",
+            "name": "Captain Bear Games",
+            "id": 504708
+          }
+        },
+        "coolness": 0,
+        "rating_count": 1
+      },
+      "details": {
+        "title": "Abysseus",
+        "description": "Dive deep and seek the treasures of the gods... but beware, for under the waves, danger lurks.\nControlsMove: WASDAttack: SpaceAbility: Shift\nDevelopersNimrita Kaur, Allison Westphal, and Connor Dietrich\nAssetshttps://polyhaven.comhttps://opengameart.org/https://www.turbosquid.com/https://www.mixamo.com\nGame Design Documenthttps://docs.google.com/document/d/1g8wFDT43BhfHyG2Yx6NAgl7fSrqEebILDJcosYUTMuY/...\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjg0MzAxOC8xNzE1NDY3OS5wbmc=/original/BChD2M.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0MzAxOC8xNzE1NDY3OC5wbmc=/original/MIrHsb.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0MzAxOC8xNzE1NDY4MC5wbmc=/original/huDKdu.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Captain Bear Games",
+          "Genre": "Adventure",
+          "Made with": "Unity",
+          "Tags": "2D, Action-Adventure, Atmospheric, Spooky, underwater"
+        }
+      }
+    },
+    {
+      "gameId": 2843072,
+      "gameUrl": "https://hellodrak.itch.io/reigncloud",
+      "overallRank": 1,
+      "topCategories": [
+        "Cleverness",
+        "Artistic Style"
+      ],
+      "resultData": {
+        "id": 2843072,
+        "contributors": [
+          {
+            "name": "Drak",
+            "id": 4796783
+          },
+          {
+            "name": "Matt Burroughs",
+            "id": 2054092
+          },
+          {
+            "name": "jjsteeple",
+            "id": 665232
+          },
+          {
+            "name": "Mary",
+            "id": 9316669
+          },
+          {
+            "name": "RedRupee",
+            "id": 11152661
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzE3MTQxMTA3LnBuZw==/300x240%23c/odVJXd.png",
+        "title": "Reigncloud",
+        "score": 5,
+        "rank": 1,
+        "raw_score": 5,
+        "rating_count": 1,
+        "criteria": [
+          {
+            "name": "Playability",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Theme",
+            "score": 3,
+            "rank": 653,
+            "raw_score": 3
+          },
+          {
+            "name": "Cleverness",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Artistic Style",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          }
+        ],
+        "url": "https://itch.io/jam/pirate15/rate/2843072"
+      },
+      "entryData": {
+        "coolness": 0,
+        "created_at": "2024-07-31 05:35:37",
+        "id": 570103,
+        "url": "/jam/pirate15/rate/2843072",
+        "game": {
+          "title": "Reigncloud",
+          "cover": "https://img.itch.zone/aW1nLzE3MTQxMTA3LnBuZw==/300x240%23c/odVJXd.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 2843072,
+          "url": "https://hellodrak.itch.io/reigncloud",
+          "cover_color": "#FDFCDC",
+          "short_text": "Play as a cloud in an open-world simulation! Combine moisture, electricity, temperature and wind to transform the world!",
+          "user": {
+            "url": "https://hellodrak.itch.io",
+            "name": "Drak",
+            "id": 4796783
+          }
+        },
+        "contributors": [
+          {
+            "name": "Drak",
+            "url": "https://hellodrak.itch.io"
+          },
+          {
+            "name": "Matt Burroughs",
+            "url": "https://mattburro.itch.io"
+          },
+          {
+            "name": "jjsteeple",
+            "url": "https://jjsteeple.itch.io"
+          },
+          {
+            "name": "Mary",
+            "url": "https://applebard.itch.io"
+          },
+          {
+            "name": "RedRupee",
+            "url": "https://redrupee.itch.io"
+          }
+        ],
+        "rating_count": 1
+      },
+      "details": {
+        "title": "Reigncloud",
+        "description": "Reigncloud is a playful open world environment simulation where you play as a cloud! By combining moisture, electricity, temperature, and wind - you can transform the world!\nA first-person open-world game where you control a cloud and use its shadow to interact with the world! Combine elements like wind, lightning, rain, and snow to transform the world to your liking!\nWe recommend playing this game on Chrome browser. We observed performance issues when testing on Firefox. The world is 8sq km with a draw distance of 3km, so performance is being stretched.\nControls:\nMove: WASD\nLook: Move Mouse\nRain/Snow: Hold Left Click\nLightning strike: Right Click\nLeave Clouds: Spacebar\nChange Camera: C\n\nCreated by:\nJosh Poland\nDrak (hellodrak)\nMatt Burroughs\nMary Lewis (applebard)RedRupee\nProgramming by:\n\nJosh Poland\nDrak (hellodrak)\nMatt Burroughs\nMary Lewis (applebard)\nMusic by:\n\nMary Lewis (applebard)\nAssets by:\n\nKenneyKay LousbergDrak (hellodrak)\n\nWorld Generation by:\nJosh Poland\nMouth Sounds by:\nMatt Burroughs\nBased On An Original Idea By:\nJosh Poland\nGame Engine: Godot\nThis game was made in 2 weeks for the Pirate Software Gamejam - 15 (Theme: Alchemy & Shadows)\nGame Design Document: https://docs.google.com/document/d/1k6czuGxZ7WGLbujlG5tt3oOMgnAzLy9ue9PpMNO-fWY/...",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjg0MzA3Mi8xNzE0NTMwMS5naWY=/original/GB7iFg.gif",
+          "https://img.itch.zone/aW1hZ2UvMjg0MzA3Mi8xNzE0NTQzNS5wbmc=/original/Y9DjNB.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0MzA3Mi8xNzE0NTMwOS5wbmc=/original/AItug%2F.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0MzA3Mi8xNzE0NTQzOS5wbmc=/original/COzABB.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0MzA3Mi8xNzE0NTQ0MC5wbmc=/original/doj4JU.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Authors": "Drak, Matt Burroughs, jjsteeple, Mary, RedRupee",
+          "Genre": "Simulation, Puzzle",
+          "Made with": "Godot",
+          "Tags": "3D, Atmospheric, Casual, cloud, Cozy, Godot, Indie, Low-poly, Short",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse",
+          "Accessibility": "Interactive tutorial"
+        }
+      }
+    },
+    {
+      "gameId": 2843678,
+      "gameUrl": "https://bubblegummage.itch.io/journey-of-the-shadow-king",
+      "overallRank": 1,
+      "topCategories": [
+        "Cleverness"
+      ],
+      "resultData": {
+        "id": 2843678,
+        "contributors": [
+          {
+            "name": "BubblegumMage",
+            "id": 1348374
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzE3MDg2NzM1LnBuZw==/300x240%23c/Prt67c.png",
+        "title": "The Journey of Gumdrop",
+        "score": 5,
+        "rank": 1,
+        "raw_score": 5,
+        "rating_count": 1,
+        "criteria": [
+          {
+            "name": "Playability",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Theme",
+            "score": 3,
+            "rank": 653,
+            "raw_score": 3
+          },
+          {
+            "name": "Cleverness",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Artistic Style",
+            "score": 4,
+            "rank": 401,
+            "raw_score": 4
+          }
+        ],
+        "url": "https://itch.io/jam/pirate15/rate/2843678"
+      },
+      "entryData": {
+        "created_at": "2024-07-26 02:19:36",
+        "id": 566831,
+        "url": "/jam/pirate15/rate/2843678",
+        "game": {
+          "title": "The Journey of Gumdrop",
+          "cover": "https://img.itch.zone/aW1nLzE3MDg2NzM1LnBuZw==/300x240%23c/Prt67c.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 2843678,
+          "url": "https://bubblegummage.itch.io/journey-of-the-shadow-king",
+          "cover_color": "#16171a",
+          "short_text": "Defeat the shadow monsters in this fun twin-stick shooter",
+          "user": {
+            "url": "https://bubblegummage.itch.io",
+            "name": "BubblegumMage",
+            "id": 1348374
+          }
+        },
+        "coolness": 0,
+        "rating_count": 1
+      },
+      "details": {
+        "title": "The Journey of Gumdrop",
+        "description": "Due to issues with Godot 4.x web exports the game runs poorly in non-chromium browsers (Firefox, Safari, etc). Play in Chrome for the best experience.\n                                     \n\nThe Shadow realm's monsters are rampaging across the land - only Gumdrop, the kingdoms alchemist has the power to defeat the Shadow realm and save the land.\nSee developer HIGH SCORE in the screenshots if you want to attempt to beat it\n\n\n\nA controller / gamepad is recommended\nMove: wasd / left stick\nShoot: arrow keys / right stick\nAccept / Use : Space / Right bumper / A button\nBack / Switch Realms : L Shift / Left bumper / B button\n\n\n\nDeveloped for the 2024  Pirate Software Game Jam 15\nThe Journey of Gumdrop is a spiritual successor to one of my previous game jam games Journey to Black Keep\nDeveloped entirely by me!\nCredit to Abstraction for the music\n\n\nGDD:\nhttps://docs.google.com/document/d/1QZHxl30WNeqkZwsTNPb6fnr9WjGV957m_KtvumJT1Bs/...",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjg0MzY3OC8xNzA3NDQ5My5wbmc=/original/8oJ18F.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0MzY3OC8xNzA2MjE0NS5wbmc=/original/RJeXDs.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "BubblegumMage",
+          "Genre": "Action",
+          "Made with": "Godot",
+          "Tags": "2D, Anime, Arcade, Pixel Art, Retro, Twin Stick Shooter",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Xbox controller"
+        }
+      }
+    },
+    {
+      "gameId": 2844337,
+      "gameUrl": "https://addvill.itch.io/shadows-of-burning-light",
+      "overallRank": 1,
+      "topCategories": [
+        "Cleverness"
+      ],
+      "resultData": {
+        "id": 2844337,
+        "contributors": [
+          {
+            "name": "addvill",
+            "id": 7685422
+          },
+          {
+            "name": "jcoch",
+            "id": 10937672
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzE3MTQwNDA1LnBuZw==/300x240%23c/y8NDtj.png",
+        "title": "Shadows of Burning Light",
+        "score": 5,
+        "rank": 1,
+        "raw_score": 5,
+        "rating_count": 1,
+        "criteria": [
+          {
+            "name": "Playability",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Theme",
+            "score": 4,
+            "rank": 233,
+            "raw_score": 4
+          },
+          {
+            "name": "Cleverness",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Artistic Style",
+            "score": 3,
+            "rank": 970,
+            "raw_score": 3
+          }
+        ],
+        "url": "https://itch.io/jam/pirate15/rate/2844337"
+      },
+      "entryData": {
+        "coolness": 0,
+        "created_at": "2024-07-31 01:12:14",
+        "id": 569633,
+        "url": "/jam/pirate15/rate/2844337",
+        "game": {
+          "title": "Shadows of Burning Light",
+          "platforms": [
+            "web"
+          ],
+          "id": 2844337,
+          "url": "https://addvill.itch.io/shadows-of-burning-light",
+          "cover_color": "#242930",
+          "cover": "https://img.itch.zone/aW1nLzE3MTQwNDA1LnBuZw==/300x240%23c/y8NDtj.png",
+          "user": {
+            "url": "https://addvill.itch.io",
+            "name": "addvill",
+            "id": 7685422
+          }
+        },
+        "contributors": [
+          {
+            "name": "addvill",
+            "url": "https://addvill.itch.io"
+          },
+          {
+            "name": "jcoch",
+            "url": "https://jcoch.itch.io"
+          }
+        ],
+        "rating_count": 1
+      },
+      "details": {
+        "title": "Shadows of Burning Light",
+        "description": "Thanks for checking out \"Shadows of Burning Lights.\" This is very much an MVP to explore the idea of a game using afterimages as the main mechanic. In this demo, there is a small puzzle to get out of a room.\nHint: afterimages are made by staring at the torches and can interact with other things",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE3MTQwNDA1LnBuZw==/original/KOgGFF.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Authors": "addvill, jcoch",
+          "Genre": "Adventure, Puzzle",
+          "Made with": "Godot",
+          "Tags": "Dungeon Crawler, First-Person, Pixel Art, Singleplayer",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,3766 @@
+{
+  "n": 76,
+  "name": "1-BIT JAM #2",
+  "url": "https://itch.io/jam/1-bit-jam-n2",
+  "theme": "Two colors, You Start With Everything And End With Nothing",
+  "slug": "1-bit-jam-n2",
+  "jamMeta": {
+    "jamType": "ended",
+    "ratings": "3,144",
+    "entries": "301",
+    "title": "1-BIT JAM #2 (With Awards)",
+    "jamURL": "https://itch.io/jam/1-bit-jam-n2",
+    "hosts": {
+      "MYline media 👤": "https://mylinemedia.itch.io",
+      "#blackandwhitegamejam": "https://bsky.app/hashtag/blackandwhitegamejam"
+    },
+    "jamID": "382528"
+  },
+  "totalEntries": 290,
+  "ranked": true,
+  "hasCategories": true,
+  "needsManualSelection": false,
+  "categories": [
+    "Gameplay",
+    "Music",
+    "Art",
+    "Theme",
+    "Originality",
+    "Is the graphics 1 bit?"
+  ],
+  "topGames": [
+    {
+      "gameId": 2366663,
+      "gameUrl": "https://frankyfrankfrank.itch.io/nothing-door-jam",
+      "overallRank": 3,
+      "topCategories": [
+        "Gameplay",
+        "Theme",
+        "Originality"
+      ],
+      "resultData": {
+        "score": 4.3833333333333,
+        "id": 2366663,
+        "rating_count": 60,
+        "cover_url": "https://img.itch.zone/aW1nLzE0MDU2Njk3LnBuZw==/300x240%23c/7hkudy.png",
+        "url": "https://itch.io/jam/1-bit-jam-n2/rate/2366663",
+        "title": "Nothing Door - Jam Version",
+        "contributors": [
+          {
+            "name": "Adam Frank",
+            "id": 8829200
+          },
+          {
+            "name": "SpoilsportStudio",
+            "id": 9184999
+          }
+        ],
+        "rank": 3,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 4.45,
+            "rank": 1,
+            "raw_score": 4.45
+          },
+          {
+            "name": "Art",
+            "score": 4.1333333333333,
+            "rank": 40,
+            "raw_score": 4.1333333333333
+          },
+          {
+            "name": "Music",
+            "score": 3.8333333333333,
+            "rank": 27,
+            "raw_score": 3.8333333333333
+          },
+          {
+            "name": "Theme",
+            "score": 4.4833333333333,
+            "rank": 10,
+            "raw_score": 4.4833333333333
+          },
+          {
+            "name": "Originality",
+            "score": 4.45,
+            "rank": 8,
+            "raw_score": 4.45
+          },
+          {
+            "name": "Is the graphics 1 bit?",
+            "score": 4.95,
+            "rank": 39,
+            "raw_score": 4.95
+          }
+        ],
+        "raw_score": 4.3833333333333
+      },
+      "entryData": {
+        "coolness": 48,
+        "created_at": "2023-11-14 05:39:19",
+        "id": 474054,
+        "contributors": [
+          {
+            "name": "Adam Frank",
+            "url": "https://frankyfrankfrank.itch.io"
+          },
+          {
+            "name": "SpoilsportStudio",
+            "url": "https://spoilsportstudio.itch.io"
+          }
+        ],
+        "game": {
+          "title": "Nothing Door - Jam Version",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Adam Frank",
+            "url": "https://frankyfrankfrank.itch.io",
+            "id": 8829200
+          },
+          "url": "https://frankyfrankfrank.itch.io/nothing-door-jam",
+          "short_text": "It lets nothing through... except you.",
+          "id": 2366663,
+          "cover": "https://img.itch.zone/aW1nLzE0MDU2Njk3LnBuZw==/300x240%23c/7hkudy.png",
+          "cover_color": "#000000"
+        },
+        "url": "/jam/1-bit-jam-n2/rate/2366663",
+        "rating_count": 60
+      },
+      "details": {
+        "title": "Nothing Door - Jam Version",
+        "description": "A puzzle game from a dark dimension.\nwww.nothing-door.com\nDon't displease the Nothing Door.\n\n\n\nControls\n\nEnemies\n\n\n\n\n\nRatsnake - Alive\n\n\nSkullfreak - Undead\n\n\nClamper - Machine\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjM2NjY2My8xNDI2ODE2Ny5wbmc=/original/et1C5P.png",
+          "https://img.itch.zone/aW1hZ2UvMjM2NjY2My8xNDI2ODE2NS5wbmc=/original/g9gVCs.png",
+          "https://img.itch.zone/aW1hZ2UvMjM2NjY2My8xNDI2ODE2OS5wbmc=/original/hV88xh.png",
+          "https://img.itch.zone/aW1hZ2UvMjM2NjY2My8xNDI2ODE2OC5wbmc=/original/YWUHWf.png",
+          "https://img.itch.zone/aW1hZ2UvMjM2NjY2My8xNDI2ODE2Ni5wbmc=/original/Br2Zwq.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.7 out of 5 stars(17 total ratings)",
+          "Authors": "Adam Frank, SpoilsportStudio",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "1-bit, Casual, Cute, Dark, Dungeon Crawler, Pixel Art, Retro, Simple, Singleplayer",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard",
+          "Links": "Homepage"
+        }
+      }
+    },
+    {
+      "gameId": 2365677,
+      "gameUrl": "https://vidarn.itch.io/founding",
+      "overallRank": 4,
+      "topCategories": [
+        "Gameplay",
+        "Music",
+        "Art",
+        "Originality"
+      ],
+      "resultData": {
+        "score": 4.3641975308642,
+        "id": 2365677,
+        "rating_count": 27,
+        "cover_url": "https://img.itch.zone/aW1nLzE0MDY4NzM2LmdpZg==/300x240%23c/59SNpS.gif",
+        "url": "https://itch.io/jam/1-bit-jam-n2/rate/2365677",
+        "title": "Founding",
+        "contributors": [
+          {
+            "name": "vidarn",
+            "id": 92182
+          }
+        ],
+        "rank": 4,
+        "criteria": [
+          {
+            "name": "Music",
+            "score": 4.3703703703704,
+            "rank": 4,
+            "raw_score": 4.3703703703704
+          },
+          {
+            "name": "Gameplay",
+            "score": 4.4444444444444,
+            "rank": 2,
+            "raw_score": 4.4444444444444
+          },
+          {
+            "name": "Art",
+            "score": 4.8148148148148,
+            "rank": 1,
+            "raw_score": 4.8148148148148
+          },
+          {
+            "name": "Theme",
+            "score": 3.3703703703704,
+            "rank": 90,
+            "raw_score": 3.3703703703704
+          },
+          {
+            "name": "Is the graphics 1 bit?",
+            "score": 4.7037037037037,
+            "rank": 134,
+            "raw_score": 4.7037037037037
+          },
+          {
+            "name": "Originality",
+            "score": 4.4814814814815,
+            "rank": 6,
+            "raw_score": 4.4814814814815
+          }
+        ],
+        "raw_score": 4.3641975308642
+      },
+      "entryData": {
+        "coolness": 5,
+        "created_at": "2023-11-17 22:36:29",
+        "id": 474788,
+        "game": {
+          "gif_cover": "https://img.itch.zone/aW1nLzE0MDY4NzM2LmdpZg==/original/obekW%2B.gif",
+          "url": "https://vidarn.itch.io/founding",
+          "short_text": "A short puzzle game about founding cities",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "vidarn",
+            "url": "https://vidarn.itch.io",
+            "id": 92182
+          },
+          "title": "Founding",
+          "id": 2365677,
+          "cover": "https://img.itch.zone/aW1nLzE0MDY4NzM2LmdpZg==/300x240%23c/59SNpS.gif",
+          "cover_color": "#000000"
+        },
+        "url": "/jam/1-bit-jam-n2/rate/2365677",
+        "rating_count": 27
+      },
+      "details": {
+        "title": "Founding",
+        "description": "How to play\nUse the mouse to drag game pieces. Your goal is to get all pieces onto the board. Each type of piece has restrictions on where it can be placed.\nPress the button in the bottom right corner of the game window if you want to make it fullscreen.\nThis game was made for the 1-bit jam. It only has two colors on screen at all times. The theme for the jam was \"You Start With Everything And End With Nothing\"\nNote for 1-bit jam judging\nThe game is playable on phones as well as desktop computers, but the port to mobile was made after the jam submission ended. The game is functionally identical whichever way you play it, but for the intents of judging you might want to use a computer.\nPUZZLE SOLUTIONS\nPuzzle 1\nPuzzle 2\nPuzzle 3\nPuzzle 4\nPuzzle 5\nPuzzle 6\nPuzzle 7HINT:Place the bridge first\nPuzzle 8\nPuzzle 9\nPuzzle 10\nPuzzle 11",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjM2NTY3Ny8xNDA1NDE4NC5naWY=/original/uFYbdd.gif",
+          "https://img.itch.zone/aW1hZ2UvMjM2NTY3Ny8xNDA1NDIwOS5wbmc=/original/Jj%2FP4b.png",
+          "https://img.itch.zone/aW1hZ2UvMjM2NTY3Ny8xNDA1NDIyMS5wbmc=/original/%2FYjy0c.png",
+          "https://img.itch.zone/aW1hZ2UvMjM2NTY3Ny8xNDE2NTM2Ni5wbmc=/original/bLUwxE.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.9 out of 5 stars(8 total ratings)",
+          "Author": "vidarn",
+          "Genre": "Puzzle",
+          "Tags": "Cats, Cozy, Hand-drawn, Mouse only, Relaxing, Tabletop, Two colors",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Accessibility": "One button"
+        }
+      }
+    },
+    {
+      "gameId": 2374393,
+      "gameUrl": "https://aedorian.itch.io/mob-fight",
+      "overallRank": 12,
+      "topCategories": [
+        "Gameplay",
+        "Theme"
+      ],
+      "resultData": {
+        "score": 4.1833333333333,
+        "id": 2374393,
+        "rating_count": 10,
+        "cover_url": "https://img.itch.zone/aW1nLzE0MDYyODA3LnBuZw==/300x240%23c/hvKAD3.png",
+        "url": "https://itch.io/jam/1-bit-jam-n2/rate/2374393",
+        "title": "Mob Fight",
+        "contributors": [
+          {
+            "name": "aedorian",
+            "id": 7909688
+          }
+        ],
+        "rank": 12,
+        "criteria": [
+          {
+            "name": "Music",
+            "score": 3.8,
+            "rank": 32,
+            "raw_score": 3.8
+          },
+          {
+            "name": "Art",
+            "score": 3.6,
+            "rank": 84,
+            "raw_score": 3.6
+          },
+          {
+            "name": "Gameplay",
+            "score": 4.4,
+            "rank": 3,
+            "raw_score": 4.4
+          },
+          {
+            "name": "Theme",
+            "score": 4.5,
+            "rank": 8,
+            "raw_score": 4.5
+          },
+          {
+            "name": "Originality",
+            "score": 3.9,
+            "rank": 50,
+            "raw_score": 3.9
+          },
+          {
+            "name": "Is the graphics 1 bit?",
+            "score": 4.9,
+            "rank": 63,
+            "raw_score": 4.9
+          }
+        ],
+        "raw_score": 4.1833333333333
+      },
+      "entryData": {
+        "coolness": 7,
+        "created_at": "2023-11-18 18:57:50",
+        "id": 475280,
+        "game": {
+          "title": "Mob Fight",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "aedorian",
+            "url": "https://aedorian.itch.io",
+            "id": 7909688
+          },
+          "url": "https://aedorian.itch.io/mob-fight",
+          "short_text": "Foes don't get stronger- you get weaker!",
+          "id": 2374393,
+          "cover": "https://img.itch.zone/aW1nLzE0MDYyODA3LnBuZw==/300x240%23c/hvKAD3.png",
+          "cover_color": "#19171d"
+        },
+        "url": "/jam/1-bit-jam-n2/rate/2374393",
+        "rating_count": 10
+      },
+      "details": {
+        "title": "Mob Fight",
+        "description": "\nIn the middle of a mob, fight for as long as possible!\nBut be careful, you start with every upgrade and end with none.\n\n- move with WASD\n- punch with left click, guard with right click\nCan you reach the end??\nCode, pixel art and music by me - made in 1 week for 1-Bit Jam #2",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjM3NDM5My8xNDA2Mjc5NC5wbmc=/original/oPq2AV.png",
+          "https://img.itch.zone/aW1hZ2UvMjM3NDM5My8xNDA2MjY4NC5wbmc=/original/1KHLKJ.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Author": "aedorian",
+          "Genre": "Fighting, Survival",
+          "Made with": "Unity",
+          "Tags": "2D, Pixel Art, Roguelite, Short"
+        }
+      }
+    },
+    {
+      "gameId": 2372760,
+      "gameUrl": "https://originalstone8.itch.io/dungeon-escape",
+      "overallRank": 10,
+      "topCategories": [
+        "Gameplay",
+        "Theme",
+        "Originality"
+      ],
+      "resultData": {
+        "score": 4.2575757575758,
+        "id": 2372760,
+        "rating_count": 11,
+        "cover_url": "https://img.itch.zone/aW1nLzE0MDYxNDQzLnBuZw==/300x240%23c/6%2FiSsK.png",
+        "url": "https://itch.io/jam/1-bit-jam-n2/rate/2372760",
+        "title": "Dungeon Escape",
+        "contributors": [
+          {
+            "name": "OriginalStone8",
+            "id": 8319868
+          }
+        ],
+        "rank": 10,
+        "criteria": [
+          {
+            "name": "Art",
+            "score": 3.6363636363636,
+            "rank": 79,
+            "raw_score": 3.6363636363636
+          },
+          {
+            "name": "Gameplay",
+            "score": 4.3636363636364,
+            "rank": 5,
+            "raw_score": 4.3636363636364
+          },
+          {
+            "name": "Music",
+            "score": 3.7272727272727,
+            "rank": 38,
+            "raw_score": 3.7272727272727
+          },
+          {
+            "name": "Theme",
+            "score": 4.5454545454545,
+            "rank": 7,
+            "raw_score": 4.5454545454545
+          },
+          {
+            "name": "Originality",
+            "score": 4.5454545454545,
+            "rank": 4,
+            "raw_score": 4.5454545454545
+          },
+          {
+            "name": "Is the graphics 1 bit?",
+            "score": 4.7272727272727,
+            "rank": 120,
+            "raw_score": 4.7272727272727
+          }
+        ],
+        "raw_score": 4.2575757575758
+      },
+      "entryData": {
+        "coolness": 5,
+        "created_at": "2023-11-18 12:18:30",
+        "id": 475031,
+        "game": {
+          "title": "Dungeon Escape",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "OriginalStone8",
+            "url": "https://originalstone8.itch.io",
+            "id": 8319868
+          },
+          "url": "https://originalstone8.itch.io/dungeon-escape",
+          "short_text": "Escape the dungeon with a hole in you'r pocket.",
+          "id": 2372760,
+          "cover": "https://img.itch.zone/aW1nLzE0MDYxNDQzLnBuZw==/300x240%23c/6%2FiSsK.png",
+          "cover_color": "#232323"
+        },
+        "url": "/jam/1-bit-jam-n2/rate/2372760",
+        "rating_count": 11
+      },
+      "details": {
+        "title": "Dungeon Escape",
+        "description": "The game is an entry for the \"1-BIT JAM #2\" with the theme:\n\"You start with everything and end with nothing\"\n\nABOUT THE GAME:\nYou'r goal is to escape the dungeon but there's a problem, you kinda of have a hole in you'r pocket... that means each step you take you leave a coin behind you and that's also why you can't move with zero coins. You can of course go back through you'r trail and collect the coins\nYou start with all you'r coins and by the end you'r left with nothing. In order to leave through the exit you must have only one coin to leave behind you and you must also have all 3 keys!\nThe game includes 18 levels that get progressively harder. \nIn those levels you'll discover a variety of obstacles some times they help and sometimes they don't, These are the obstacles you will find:\nButton - press the button(stand on it) to make things apear/disapear/both/nothing.Broken Tiles - once you leave a broken tile a hole will apear going in that hole will restart the level.Tunnel - when entering a tunnel you'll be teleported to a random tunnel exit in the level.Chest - the chest may give you coins or take some.\nCONTROLS:\nW A S D / Arrows - to move\nCREDITS:\nMusic - (OpenGameArt) https://opengameart.org/\nArt & SFX - Mine",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjM3Mjc2MC8xNDA2MDQ0MC5naWY=/original/8zpjga.gif",
+          "https://img.itch.zone/aW1hZ2UvMjM3Mjc2MC8xNDA2MDQzNy5naWY=/original/uesvKO.gif",
+          "https://img.itch.zone/aW1hZ2UvMjM3Mjc2MC8xNDA2MDQzOS5naWY=/original/Gk%2FY4e.gif",
+          "https://img.itch.zone/aW1hZ2UvMjM3Mjc2MC8xNDA2MDUxNS5naWY=/original/4ln0IA.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "OriginalStone8",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "2D, Dark, Fantasy, Indie, Pixel Art, Retro, Short, Singleplayer, Top-Down"
+        }
+      }
+    },
+    {
+      "gameId": 2361897,
+      "gameUrl": "https://wistpotion.itch.io/clamber",
+      "overallRank": 9,
+      "topCategories": [
+        "Gameplay",
+        "Music"
+      ],
+      "resultData": {
+        "score": 4.2795698924731,
+        "id": 2361897,
+        "rating_count": 31,
+        "cover_url": "https://img.itch.zone/aW1nLzE0MDYwNDAxLnBuZw==/300x240%23c/%2F9Q6t3.png",
+        "url": "https://itch.io/jam/1-bit-jam-n2/rate/2361897",
+        "title": "Clamber",
+        "contributors": [
+          {
+            "name": "Wistpotion",
+            "id": 1440359
+          },
+          {
+            "name": "Ro",
+            "id": 9203646
+          },
+          {
+            "name": "newlifeplus",
+            "id": 4653180
+          }
+        ],
+        "rank": 9,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 4.3225806451613,
+            "rank": 6,
+            "raw_score": 4.3225806451613
+          },
+          {
+            "name": "Music",
+            "score": 4.258064516129,
+            "rank": 7,
+            "raw_score": 4.258064516129
+          },
+          {
+            "name": "Art",
+            "score": 4.4193548387097,
+            "rank": 17,
+            "raw_score": 4.4193548387097
+          },
+          {
+            "name": "Is the graphics 1 bit?",
+            "score": 4.6774193548387,
+            "rank": 136,
+            "raw_score": 4.6774193548387
+          },
+          {
+            "name": "Theme",
+            "score": 3.6774193548387,
+            "rank": 58,
+            "raw_score": 3.6774193548387
+          },
+          {
+            "name": "Originality",
+            "score": 4.3225806451613,
+            "rank": 13,
+            "raw_score": 4.3225806451613
+          }
+        ],
+        "raw_score": 4.2795698924731
+      },
+      "entryData": {
+        "coolness": 10,
+        "created_at": "2023-11-18 14:39:24",
+        "id": 475107,
+        "contributors": [
+          {
+            "name": "Wistpotion",
+            "url": "https://wistpotion.itch.io"
+          },
+          {
+            "name": "Ro",
+            "url": "https://rostarx.itch.io"
+          },
+          {
+            "name": "newlifeplus",
+            "url": "https://newlifeplus.itch.io"
+          }
+        ],
+        "game": {
+          "title": "Clamber",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "Wistpotion",
+            "url": "https://wistpotion.itch.io",
+            "id": 1440359
+          },
+          "url": "https://wistpotion.itch.io/clamber",
+          "short_text": "A deckbuilder where you pet your dog and climb a mountain",
+          "id": 2361897,
+          "cover": "https://img.itch.zone/aW1nLzE0MDYwNDAxLnBuZw==/300x240%23c/%2F9Q6t3.png",
+          "cover_color": "#0b031a"
+        },
+        "url": "/jam/1-bit-jam-n2/rate/2361897",
+        "rating_count": 31
+      },
+      "details": {
+        "title": "Clamber",
+        "description": "Released under the Studio Hemvist label. \n\nSo what is this?\n\nWell it's a deckbuilder. Play cards to climb the mountain, reach checkpoints to get new cards, build a deck that can take you to the top! That said, the mountain is not kind and will require you to sacrifice parts of your deck along the way.\nThe game is 10-15 minutes and there is an ending, so keep on going even if it feels tough!\n\nCredits!\n\nDeveloped for 1-bit jam #2 by:\nro (aka @rosdump_ on insta)- arts and game + story design \nnewlife+ - music and audio\n\ngustaf (aka gustaf) - playtesting\n\nisabelle fougner axrup (aka wistpotion) - the other stuff\n  \nCheck out the label Studio Hemvist on socials (tiktok really) for high quality shitposting (and when the time feels right, quite decently acceptable games)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjM2MTg5Ny8xNDA2MDE4MS5naWY=/original/SLt%2Bg7.gif",
+          "https://img.itch.zone/aW1hZ2UvMjM2MTg5Ny8xNDA2MDE4Mi5naWY=/original/bXptSv.gif",
+          "https://img.itch.zone/aW1hZ2UvMjM2MTg5Ny8xNDA2MDE4MC5wbmc=/original/woapje.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows",
+          "Publisher": "",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Authors": "Wistpotion, Ro, newlifeplus",
+          "Genre": "Card Game",
+          "Made with": "Krita, FL Studio, Defold",
+          "Tags": "2D, Deck Building, Horror, Short",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Mouse, Touchscreen"
+        }
+      }
+    },
+    {
+      "gameId": 2374283,
+      "gameUrl": "https://oddspiral.itch.io/one-bit-warrior",
+      "overallRank": 43,
+      "topCategories": [
+        "Gameplay",
+        "Theme"
+      ],
+      "resultData": {
+        "score": 3.8148148148148,
+        "id": 2374283,
+        "rating_count": 18,
+        "cover_url": "https://img.itch.zone/aW1nLzE0MDYwODQxLnBuZw==/300x240%23c/BdxTow.png",
+        "url": "https://itch.io/jam/1-bit-jam-n2/rate/2374283",
+        "title": "One Bit Warrior",
+        "contributors": [
+          {
+            "name": "oddspiral",
+            "id": 1497955
+          }
+        ],
+        "rank": 43,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 4.2777777777778,
+            "rank": 7,
+            "raw_score": 4.2777777777778
+          },
+          {
+            "name": "Music",
+            "score": 2.5,
+            "rank": 187,
+            "raw_score": 2.5
+          },
+          {
+            "name": "Art",
+            "score": 3.8888888888889,
+            "rank": 57,
+            "raw_score": 3.8888888888889
+          },
+          {
+            "name": "Theme",
+            "score": 4.5555555555556,
+            "rank": 6,
+            "raw_score": 4.5555555555556
+          },
+          {
+            "name": "Originality",
+            "score": 3.6111111111111,
+            "rank": 80,
+            "raw_score": 3.6111111111111
+          },
+          {
+            "name": "Is the graphics 1 bit?",
+            "score": 4.0555555555556,
+            "rank": 214,
+            "raw_score": 4.0555555555556
+          }
+        ],
+        "raw_score": 3.8148148148148
+      },
+      "entryData": {
+        "coolness": 0,
+        "created_at": "2023-11-18 14:52:07",
+        "id": 475129,
+        "game": {
+          "title": "One Bit Warrior",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "oddspiral",
+            "url": "https://oddspiral.itch.io",
+            "id": 1497955
+          },
+          "url": "https://oddspiral.itch.io/one-bit-warrior",
+          "short_text": "Discard an item after each level",
+          "id": 2374283,
+          "cover": "https://img.itch.zone/aW1nLzE0MDYwODQxLnBuZw==/300x240%23c/BdxTow.png",
+          "cover_color": "#000000"
+        },
+        "url": "/jam/1-bit-jam-n2/rate/2374283",
+        "rating_count": 18
+      },
+      "details": {
+        "title": "One Bit Warrior",
+        "description": "Controls:[ESC] restart / exit[W] jump[A] move left[D] move right[SPACE] swing[Q] throw[E] dash[S] slam\nCredits:art/animations created with free assets from Penusbmicfrog enemy from this asset\nNotes:created with GameMakerprojected started with this template from Shaun Spaldinglevel layouts with LDtkother software: Photoshop and Aseprite",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjM3NDI4My8xNDA2MDU0MC5wbmc=/original/aIIS4C.png",
+          "https://img.itch.zone/aW1hZ2UvMjM3NDI4My8xNDA2MDg5NS5wbmc=/original/rdy9iD.png",
+          "https://img.itch.zone/aW1hZ2UvMjM3NDI4My8xNDA2MDkzMi5wbmc=/original/icottU.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "oddspiral",
+          "Made with": "GameMaker"
+        }
+      }
+    },
+    {
+      "gameId": 2371519,
+      "gameUrl": "https://littlepuly.itch.io/celestial-soulmates",
+      "overallRank": 8,
+      "topCategories": [
+        "Gameplay",
+        "Art"
+      ],
+      "resultData": {
+        "score": 4.2833333333333,
+        "id": 2371519,
+        "rating_count": 40,
+        "cover_url": "https://img.itch.zone/aW1nLzE0MDQ5Mzg4LnBuZw==/300x240%23c/cUDqhk.png",
+        "url": "https://itch.io/jam/1-bit-jam-n2/rate/2371519",
+        "title": "Celestial Soulmates",
+        "contributors": [
+          {
+            "name": "littlepuly",
+            "id": 4144828
+          },
+          {
+            "name": "Hegpie",
+            "id": 6346265
+          },
+          {
+            "name": "kfir_geva",
+            "id": 9204481
+          }
+        ],
+        "rank": 8,
+        "criteria": [
+          {
+            "name": "Art",
+            "score": 4.8,
+            "rank": 2,
+            "raw_score": 4.8
+          },
+          {
+            "name": "Gameplay",
+            "score": 4.275,
+            "rank": 8,
+            "raw_score": 4.275
+          },
+          {
+            "name": "Music",
+            "score": 3.95,
+            "rank": 21,
+            "raw_score": 3.95
+          },
+          {
+            "name": "Theme",
+            "score": 3.825,
+            "rank": 48,
+            "raw_score": 3.825
+          },
+          {
+            "name": "Originality",
+            "score": 4.025,
+            "rank": 36,
+            "raw_score": 4.025
+          },
+          {
+            "name": "Is the graphics 1 bit?",
+            "score": 4.825,
+            "rank": 99,
+            "raw_score": 4.825
+          }
+        ],
+        "raw_score": 4.2833333333333
+      },
+      "entryData": {
+        "coolness": 38,
+        "created_at": "2023-11-18 12:34:51",
+        "id": 475039,
+        "contributors": [
+          {
+            "name": "littlepuly",
+            "url": "https://littlepuly.itch.io"
+          },
+          {
+            "name": "Hegpie",
+            "url": "https://hegpie.itch.io"
+          },
+          {
+            "name": "kfir_geva",
+            "url": "https://kfir-geva.itch.io"
+          }
+        ],
+        "game": {
+          "title": "Celestial Soulmates",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "littlepuly",
+            "url": "https://littlepuly.itch.io",
+            "id": 4144828
+          },
+          "url": "https://littlepuly.itch.io/celestial-soulmates",
+          "short_text": "A romantic platformer about loss",
+          "id": 2371519,
+          "cover": "https://img.itch.zone/aW1nLzE0MDQ5Mzg4LnBuZw==/300x240%23c/cUDqhk.png",
+          "cover_color": "#ffffff"
+        },
+        "url": "/jam/1-bit-jam-n2/rate/2371519",
+        "rating_count": 40
+      },
+      "details": {
+        "title": "Celestial Soulmates",
+        "description": "Help Lucy the devil find a way back to Mike, her angel boyfriend.Your journey will not be easy, as the ground below you withers and rots.Can you really be with him, or are you truly destined to lose everything?\nTrade the souls of your celestial enemies to gain powerful artifacts.Chain unlockable abilities to rush past a flurry of foes.Escape in the nick of time from the curse that haunts you.\nControls:WASD or arrow keys to move and jumpLEFT MOUSE BUTTON to aim and shoot while in air.RIGHT MOUSE BUTTON for active ability.\nIf you get stuck, feel free to activate assist mode in the options. This mode will grant you invincibility and help you get to the end of the story.\n This game was made in a week for the 1-bit jam #2\n\"You start with everything and end with nothing\"\n\nWe worked really hard and are extremely proud of the result.  Enjoy!\n\nProgramming, development and Sound effects by littlepuly . Art, animation and writing by Hegpie .Music by Kfir Geva - https://linktr.ee/kfirgeva",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjM3MTUxOS8xNDA1NDM3NC5wbmc=/original/L9P5sX.png",
+          "https://img.itch.zone/aW1hZ2UvMjM3MTUxOS8xNDA1NDM0OS5wbmc=/original/DP2qku.png",
+          "https://img.itch.zone/aW1hZ2UvMjM3MTUxOS8xNDA1NDM2Mi5wbmc=/original/Vg2HEG.png",
+          "https://img.itch.zone/aW1hZ2UvMjM3MTUxOS8xNDA1NDMyOS5wbmc=/original/Cpu%2BDc.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Authors": "littlepuly, Hegpie, kfir_geva",
+          "Genre": "Platformer, Action",
+          "Made with": "Unity",
+          "Tags": "Animation, Black and White, Cute, Hand-drawn, Romance, Short, Speedrun, storygame"
+        }
+      }
+    },
+    {
+      "gameId": 2369255,
+      "gameUrl": "https://fava-beans.itch.io/miss-cupcake-sprinkletop",
+      "overallRank": 7,
+      "topCategories": [
+        "Gameplay",
+        "Art"
+      ],
+      "resultData": {
+        "score": 4.3153153153153,
+        "id": 2369255,
+        "rating_count": 37,
+        "cover_url": "https://img.itch.zone/aW1nLzE0MDMyNDExLnBuZw==/300x240%23c/Za71Al.png",
+        "url": "https://itch.io/jam/1-bit-jam-n2/rate/2369255",
+        "title": "Miss Cupcake Sprinkletop",
+        "contributors": [
+          {
+            "name": "Fava Beans",
+            "id": 2781420
+          }
+        ],
+        "rank": 7,
+        "criteria": [
+          {
+            "name": "Music",
+            "score": 3.8648648648649,
+            "rank": 25,
+            "raw_score": 3.8648648648649
+          },
+          {
+            "name": "Gameplay",
+            "score": 4.1891891891892,
+            "rank": 9,
+            "raw_score": 4.1891891891892
+          },
+          {
+            "name": "Art",
+            "score": 4.6756756756757,
+            "rank": 6,
+            "raw_score": 4.6756756756757
+          },
+          {
+            "name": "Originality",
+            "score": 4.1891891891892,
+            "rank": 26,
+            "raw_score": 4.1891891891892
+          },
+          {
+            "name": "Theme",
+            "score": 4,
+            "rank": 32,
+            "raw_score": 4
+          },
+          {
+            "name": "Is the graphics 1 bit?",
+            "score": 4.972972972973,
+            "rank": 36,
+            "raw_score": 4.972972972973
+          }
+        ],
+        "raw_score": 4.3153153153153
+      },
+      "entryData": {
+        "coolness": 9,
+        "created_at": "2023-11-15 18:04:42",
+        "id": 474311,
+        "game": {
+          "title": "Miss Cupcake Sprinkletop",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Fava Beans",
+            "url": "https://fava-beans.itch.io",
+            "id": 2781420
+          },
+          "url": "https://fava-beans.itch.io/miss-cupcake-sprinkletop",
+          "short_text": "Chuck presents as an overly enthusiastic Christmas elf",
+          "id": 2369255,
+          "cover": "https://img.itch.zone/aW1nLzE0MDMyNDExLnBuZw==/300x240%23c/Za71Al.png",
+          "cover_color": "#000000"
+        },
+        "url": "/jam/1-bit-jam-n2/rate/2369255",
+        "rating_count": 37
+      },
+      "details": {
+        "title": "Miss Cupcake Sprinkletop",
+        "description": "\n\n\nThis is a short, chaotic game made in a few days for 1-Bit Jam #2 \nin which you play as an elf who doesn't know her own strength.\n\nIt's Christmas Eve! That means it's time for Santa's presents to be delivered to all the good little boys and girls... and adults, pets, and everything in between. Santa's generosity extends to all. But he can't do it himself though. He gets help from his little elves who are just as thrilled to deliver presents as he is. Among them, no elf is as excited as Cupcake Sprinkletop! One could say she's a little too excited.\n\nThe game:\nYour job is to deliver all the presents you're holding. How many you have is shown at the top-left corner of the screen. You can't proceed to the next level until that number is 0. Not just that number but also the little number below it which shows how many are currently out and not delivered to somebody. If you can't do that before the clock runs out you will lose and Cupcake will tear her employee ID.\nLook for characters and objects with a thick outline. This means they can receive a present. This includes people, cats, dogs, and doors.\nWatch out for hazards. Ghosts will cause you to go down a floor if touched and fire, if touched, will send you to the last elevator you stepped out of.\nControls:\nA, D or Arrow Keys to move\nW, UP, or Space to jump\nAim and LMB to throw gifts.\nQ and S to operate elevators\n\nThe Theme:\nThe theme of this jam was: \"You start with everything and end with nothing\". After a little thinking, I came up with the idea of gifting. I thought that would fit with the theme perfectly. And it's that time of year again to do exactly that (at the time this is being published). \n\nCredits:\nMusic by Juhani Junkala: https://opengameart.org/users/subspaceaudio\nSound Effects from Zapsplat: https://www.zapsplat.com/",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjM2OTI1NS8xNDAzMjY2OC5wbmc=/original/N59Lyl.png",
+          "https://img.itch.zone/aW1hZ2UvMjM2OTI1NS8xNDAzMjY3MS5wbmc=/original/xb77MT.png",
+          "https://img.itch.zone/aW1hZ2UvMjM2OTI1NS8xNDAzMjY3MC5wbmc=/original/MJUrrf.png",
+          "https://img.itch.zone/aW1hZ2UvMjM2OTI1NS8xNDAzMjY2OS5wbmc=/original/EJbiqB.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 3.0 out of 5 stars(1 total ratings)",
+          "Author": "Fava Beans",
+          "Genre": "Action",
+          "Made with": "GDevelop",
+          "Tags": "1-bit, 2D, Christmas, Comedy, Cute, Female Protagonist, Funny, Pixel Art, Short",
+          "Average session": "A few minutes"
+        }
+      }
+    },
+    {
+      "gameId": 2370202,
+      "gameUrl": "https://undergrowth-games.itch.io/cosmic-leap",
+      "overallRank": 5,
+      "topCategories": [
+        "Gameplay",
+        "Music",
+        "Is the graphics 1 bit?"
+      ],
+      "resultData": {
+        "score": 4.3333333333333,
+        "id": 2370202,
+        "rating_count": 8,
+        "cover_url": "https://img.itch.zone/aW1nLzE0MDM3MzkxLnBuZw==/300x240%23c/9mF6kW.png",
+        "url": "https://itch.io/jam/1-bit-jam-n2/rate/2370202",
+        "title": "Cosmic Leap (jam version)",
+        "contributors": [
+          {
+            "name": "Undergrowth Games",
+            "id": 9141292
+          }
+        ],
+        "rank": 5,
+        "criteria": [
+          {
+            "name": "Art",
+            "score": 4,
+            "rank": 50,
+            "raw_score": 4
+          },
+          {
+            "name": "Gameplay",
+            "score": 4.125,
+            "rank": 10,
+            "raw_score": 4.125
+          },
+          {
+            "name": "Music",
+            "score": 4.625,
+            "rank": 1,
+            "raw_score": 4.625
+          },
+          {
+            "name": "Is the graphics 1 bit?",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Theme",
+            "score": 4.25,
+            "rank": 17,
+            "raw_score": 4.25
+          },
+          {
+            "name": "Originality",
+            "score": 4,
+            "rank": 40,
+            "raw_score": 4
+          }
+        ],
+        "raw_score": 4.3333333333333
+      },
+      "entryData": {
+        "coolness": 1,
+        "created_at": "2023-11-16 03:25:27",
+        "id": 474375,
+        "game": {
+          "title": "Cosmic Leap (jam version)",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Undergrowth Games",
+            "url": "https://undergrowth-games.itch.io",
+            "id": 9141292
+          },
+          "url": "https://undergrowth-games.itch.io/cosmic-leap",
+          "short_text": "A platformer where your jump slowly degrades",
+          "id": 2370202,
+          "cover": "https://img.itch.zone/aW1nLzE0MDM3MzkxLnBuZw==/300x240%23c/9mF6kW.png",
+          "cover_color": "#600ba0"
+        },
+        "url": "/jam/1-bit-jam-n2/rate/2370202",
+        "rating_count": 8
+      },
+      "details": {
+        "title": "Cosmic Leap (jam version)",
+        "description": "FULLSCREEN PLEASE!!!!!!\nIn this game, every time you jump it gets slightly lower, but the stars replenish your jump height.\nIn development to add more levels. \nArt and programming by me, and music and sound design by https://youtube.com/@jofes4306?si=PhUW4VJykxnpSGeZ\nThis is my first game jam game and first game using Godot :)",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE0MDM3MzkxLnBuZw==/original/FJzSYB.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Author": "Undergrowth Games",
+          "Genre": "Platformer",
+          "Made with": "Godot",
+          "Tags": "1-bit, 2D, Pixel Art, Singleplayer, Space"
+        }
+      }
+    },
+    {
+      "gameId": 2373648,
+      "gameUrl": "https://fikifiki.itch.io/digital-distrib",
+      "overallRank": 18,
+      "topCategories": [
+        "Music",
+        "Originality"
+      ],
+      "resultData": {
+        "score": 4.1071428571429,
+        "id": 2373648,
+        "rating_count": 14,
+        "cover_url": "https://img.itch.zone/aW1nLzE0MDcyNjMxLmdpZg==/300x240%23c/iKGLbD.gif",
+        "url": "https://itch.io/jam/1-bit-jam-n2/rate/2373648",
+        "title": "Digital Distrib",
+        "contributors": [
+          {
+            "name": "Fiki",
+            "id": 3055774
+          }
+        ],
+        "rank": 18,
+        "criteria": [
+          {
+            "name": "Music",
+            "score": 4.4285714285714,
+            "rank": 2,
+            "raw_score": 4.4285714285714
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.7857142857143,
+            "rank": 33,
+            "raw_score": 3.7857142857143
+          },
+          {
+            "name": "Art",
+            "score": 4.2142857142857,
+            "rank": 31,
+            "raw_score": 4.2142857142857
+          },
+          {
+            "name": "Is the graphics 1 bit?",
+            "score": 4.9285714285714,
+            "rank": 51,
+            "raw_score": 4.9285714285714
+          },
+          {
+            "name": "Originality",
+            "score": 4.5714285714286,
+            "rank": 3,
+            "raw_score": 4.5714285714286
+          },
+          {
+            "name": "Theme",
+            "score": 2.7142857142857,
+            "rank": 191,
+            "raw_score": 2.7142857142857
+          }
+        ],
+        "raw_score": 4.1071428571429
+      },
+      "entryData": {
+        "coolness": 32,
+        "created_at": "2023-11-18 08:19:44",
+        "id": 474963,
+        "game": {
+          "gif_cover": "https://img.itch.zone/aW1nLzE0MDcyNjMxLmdpZg==/original/nyiORR.gif",
+          "url": "https://fikifiki.itch.io/digital-distrib",
+          "short_text": "An intriguing terminal game, manage a network of airborne couriers to conduct illicit transactions.",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "Fiki",
+            "url": "https://fikifiki.itch.io",
+            "id": 3055774
+          },
+          "title": "Digital Distrib",
+          "id": 2373648,
+          "cover": "https://img.itch.zone/aW1nLzE0MDcyNjMxLmdpZg==/300x240%23c/iKGLbD.gif",
+          "cover_color": "#000000"
+        },
+        "url": "/jam/1-bit-jam-n2/rate/2373648",
+        "rating_count": 14
+      },
+      "details": {
+        "title": "Digital Distrib",
+        "description": "An intriguing terminal game, manage a network of airborne couriers to conduct illicit transactions.\nHow to Play:\nIn this game most of your actions are done through the game terminal by inserting commands.Commands and items are not case-sensitive, so you can enter them with or without capitalization, it wouldn't affect the validity of the input line.\nYour goal is to sell air cargo packages that you have in the inventory window each cycle with the planes you have, and once you have collected enough cash, you can end the cycle with <terminate> and purchase upgrades.\nThese four steps in order will help you determine what to do next:\n<ping> an item from inventory, returns interested countries<load> the item into a plane <route> the plane to one of the  interested country <dispatch> plane to make the airdrop and transaction\nPlease refer back to the command list using the <help> command, as it will show you how each command is written and what they do.\nCommands:\n<help> returns a list of commands\n<ping [Item ID]> \nSignals the item to interested parties\n<load [Item ID] [Plane ID]> \nLoads specified item into the specified plane\n<unload [Plane ID]> \nUnloads the specified plane from carried items\n<route [Plane ID] [Country]> \nSets the destination of the given plane to the specified country\n<dispatch [Plane ID]>\n  Specified plane departs to its predetermined destination\n<repair [Plane ID]> \nRepairs a specified plane to its best condition      \n<initialize> or <init>\n  Starts the system\n<terminate> or <end> \nEnds the cycle, saves progress\n<more> \nLoad more commands\n<rename [Plane ID] [New ID]> \nRenames specified plane ID to a new one (Requires special ability from shop)\n<force [Item ID] [Country]> \nForce sells a product to a country (Requires special ability from shop)\n<balance> Returns the total amount of money in the vault\n<dialogue> Revisits old conversation logs\n<dev> Activates dev mode\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjM3MzY0OC8xNDA1Nzc4Ni5wbmc=/original/SkPy05.png",
+          "https://img.itch.zone/aW1hZ2UvMjM3MzY0OC8xNDA3NDI3MS5wbmc=/original/BteaiG.png",
+          "https://img.itch.zone/aW1hZ2UvMjM3MzY0OC8xNDA1OTMwMS5wbmc=/original/MpwbVz.png",
+          "https://img.itch.zone/aW1hZ2UvMjM3MzY0OC8xNDA1NzgyOS5wbmc=/original/VUcQf3.png",
+          "https://img.itch.zone/aW1hZ2UvMjM3MzY0OC8xNDA1OTMyMC5wbmc=/original/%2B0CY65.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Author": "Fiki",
+          "Genre": "Simulation",
+          "Tags": "1-bit, Dark, fantasy-console, Typing, Working Simulator"
+        }
+      }
+    },
+    {
+      "gameId": 2366813,
+      "gameUrl": "https://the-syncr0.itch.io/chromaze",
+      "overallRank": 120,
+      "topCategories": [
+        "Music"
+      ],
+      "resultData": {
+        "score": 3.3541666666667,
+        "id": 2366813,
+        "rating_count": 8,
+        "cover_url": "https://img.itch.zone/aW1nLzE0MDE3NTE0LnBuZw==/300x240%23c/sjsXQ1.png",
+        "url": "https://itch.io/jam/1-bit-jam-n2/rate/2366813",
+        "title": "Chromaze",
+        "contributors": [
+          {
+            "name": "the_syncr0",
+            "id": 2842106
+          }
+        ],
+        "rank": 120,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 3.125,
+            "rank": 96,
+            "raw_score": 3.125
+          },
+          {
+            "name": "Music",
+            "score": 4.375,
+            "rank": 3,
+            "raw_score": 4.375
+          },
+          {
+            "name": "Originality",
+            "score": 3.125,
+            "rank": 155,
+            "raw_score": 3.125
+          },
+          {
+            "name": "Theme",
+            "score": 2.75,
+            "rank": 183,
+            "raw_score": 2.75
+          },
+          {
+            "name": "Art",
+            "score": 2,
+            "rank": 273,
+            "raw_score": 2
+          },
+          {
+            "name": "Is the graphics 1 bit?",
+            "score": 4.75,
+            "rank": 112,
+            "raw_score": 4.75
+          }
+        ],
+        "raw_score": 3.3541666666667
+      },
+      "entryData": {
+        "coolness": 16,
+        "created_at": "2023-11-18 03:43:57",
+        "id": 474887,
+        "game": {
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "the_syncr0",
+            "url": "https://the-syncr0.itch.io",
+            "id": 2842106
+          },
+          "url": "https://the-syncr0.itch.io/chromaze",
+          "title": "Chromaze",
+          "id": 2366813,
+          "cover": "https://img.itch.zone/aW1nLzE0MDE3NTE0LnBuZw==/300x240%23c/sjsXQ1.png",
+          "cover_color": "#000000"
+        },
+        "url": "/jam/1-bit-jam-n2/rate/2366813",
+        "rating_count": 8
+      },
+      "details": {
+        "title": "Chromaze",
+        "description": "Chromaze is a game where \"you start with everything and end with nothing\". \nGame jam game\n\nPost your best times in the comments\n-- CONTROLS: --\nSPACE / ENTER: Start game.ARROW KEYS / WASD: Movement\n-- CREDITS: --\n\nthe_syncr0\natoi()jhaeka (Music): itch.io",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE0MDE3NTE0LnBuZw==/original/V32NIW.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows",
+          "Author": "the_syncr0",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "1-bit, Abstract, Speedrun, Two colors"
+        }
+      }
+    },
+    {
+      "gameId": 2373917,
+      "gameUrl": "https://elismolha.itch.io/pinky",
+      "overallRank": 30,
+      "topCategories": [
+        "Music",
+        "Art"
+      ],
+      "resultData": {
+        "score": 3.9420289855072,
+        "id": 2373917,
+        "rating_count": 23,
+        "cover_url": "https://img.itch.zone/aW1nLzE0MDU4MTcwLnBuZw==/300x240%23c/WZiTMp.png",
+        "url": "https://itch.io/jam/1-bit-jam-n2/rate/2373917",
+        "title": "Pinky's Dream",
+        "contributors": [
+          {
+            "name": "ELÍ SMOLHA",
+            "id": 4699256
+          },
+          {
+            "name": "runnwg",
+            "id": 8584160
+          }
+        ],
+        "rank": 30,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 2.7826086956522,
+            "rank": 153,
+            "raw_score": 2.7826086956522
+          },
+          {
+            "name": "Music",
+            "score": 4.3478260869565,
+            "rank": 5,
+            "raw_score": 4.3478260869565
+          },
+          {
+            "name": "Art",
+            "score": 4.7391304347826,
+            "rank": 4,
+            "raw_score": 4.7391304347826
+          },
+          {
+            "name": "Theme",
+            "score": 3,
+            "rank": 136,
+            "raw_score": 3
+          },
+          {
+            "name": "Originality",
+            "score": 4.2608695652174,
+            "rank": 21,
+            "raw_score": 4.2608695652174
+          },
+          {
+            "name": "Is the graphics 1 bit?",
+            "score": 4.5217391304348,
+            "rank": 165,
+            "raw_score": 4.5217391304348
+          }
+        ],
+        "raw_score": 3.9420289855072
+      },
+      "entryData": {
+        "coolness": 71,
+        "created_at": "2023-11-18 10:23:55",
+        "id": 475000,
+        "contributors": [
+          {
+            "name": "ELÍ SMOLHA",
+            "url": "https://elismolha.itch.io"
+          },
+          {
+            "name": "runnwg",
+            "url": "https://runnwg.itch.io"
+          }
+        ],
+        "game": {
+          "title": "Pinky's Dream",
+          "platforms": [
+            "windows"
+          ],
+          "user": {
+            "name": "ELÍ SMOLHA",
+            "url": "https://elismolha.itch.io",
+            "id": 4699256
+          },
+          "url": "https://elismolha.itch.io/pinky",
+          "short_text": "A lynchesque roadtrip in the quest for the lost love: a narrative DRIVEn game.",
+          "id": 2373917,
+          "cover": "https://img.itch.zone/aW1nLzE0MDU4MTcwLnBuZw==/300x240%23c/WZiTMp.png",
+          "cover_color": "#15001a"
+        },
+        "url": "/jam/1-bit-jam-n2/rate/2373917",
+        "rating_count": 23
+      },
+      "details": {
+        "title": "Pinky's Dream",
+        "description": "The game is inspired by the song 'Pinky's Dream' by Karen O and David Lynch. Embark on a mystical road trip where you'll encounter various characters each with their own unique stories. Your advice will be crucial to them, and every word you choose could determine their fate... and yours. Discover all the endings and immerse yourself in the eerie world of 'Pinky's Dream.'\nWe are immensely proud to have released a complete game in such a short time. We plan to continue refining and expanding it. Stay tuned!Development & Design: Eli SmolhaStory: Eli Smolha & RunnwgEditing: BrisingamenMusic: Sasha Starost & Feel GainsbourgArt: Eli's suffering and DALL-E.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjM3MzkxNy8xNDA1ODA2Ny5wbmc=/original/vG4u2Z.png",
+          "https://img.itch.zone/aW1hZ2UvMjM3MzkxNy8xNDA1ODA2OS5wbmc=/original/nA4HJ8.png",
+          "https://img.itch.zone/aW1hZ2UvMjM3MzkxNy8xNDA1ODA2OC5wbmc=/original/yR0%2FBq.png",
+          "https://img.itch.zone/aW1hZ2UvMjM3MzkxNy8xNDA1ODA3MC5wbmc=/original/S%2FU9wi.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "ELÍ SMOLHA, runnwg",
+          "Genre": "Interactive Fiction",
+          "Tags": "1-bit, Atmospheric, Creepy, LÖVE, Narrative, Queer, Roadtrip, Singleplayer, Story Rich"
+        }
+      }
+    },
+    {
+      "gameId": 2373328,
+      "gameUrl": "https://kepsert.itch.io/rustlin-jimmies",
+      "overallRank": 15,
+      "topCategories": [
+        "Music"
+      ],
+      "resultData": {
+        "score": 4.1666666666667,
+        "id": 2373328,
+        "rating_count": 10,
+        "cover_url": "https://img.itch.zone/aW1nLzE0MDU4OTgxLnBuZw==/300x240%23c/CcYlFj.png",
+        "url": "https://itch.io/jam/1-bit-jam-n2/rate/2373328",
+        "title": "Rustlin' Jimmies",
+        "contributors": [
+          {
+            "name": "KepFox",
+            "id": 4248793
+          }
+        ],
+        "rank": 15,
+        "criteria": [
+          {
+            "name": "Music",
+            "score": 4.3,
+            "rank": 6,
+            "raw_score": 4.3
+          },
+          {
+            "name": "Art",
+            "score": 3.8,
+            "rank": 67,
+            "raw_score": 3.8
+          },
+          {
+            "name": "Gameplay",
+            "score": 4.1,
+            "rank": 12,
+            "raw_score": 4.1
+          },
+          {
+            "name": "Theme",
+            "score": 4.1,
+            "rank": 27,
+            "raw_score": 4.1
+          },
+          {
+            "name": "Originality",
+            "score": 3.9,
+            "rank": 50,
+            "raw_score": 3.9
+          },
+          {
+            "name": "Is the graphics 1 bit?",
+            "score": 4.8,
+            "rank": 103,
+            "raw_score": 4.8
+          }
+        ],
+        "raw_score": 4.1666666666667
+      },
+      "entryData": {
+        "coolness": 9,
+        "created_at": "2023-11-18 03:27:13",
+        "id": 474882,
+        "game": {
+          "title": "Rustlin' Jimmies",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "KepFox",
+            "url": "https://kepsert.itch.io",
+            "id": 4248793
+          },
+          "url": "https://kepsert.itch.io/rustlin-jimmies",
+          "short_text": "A reverse Snake, bullet hell, roguelike. Jimmies be rustlin'!",
+          "id": 2373328,
+          "cover": "https://img.itch.zone/aW1nLzE0MDU4OTgxLnBuZw==/300x240%23c/CcYlFj.png",
+          "cover_color": "#000000"
+        },
+        "url": "/jam/1-bit-jam-n2/rate/2373328",
+        "rating_count": 10
+      },
+      "details": {
+        "title": "Rustlin' Jimmies",
+        "description": "Oh boy, Jimmy and his gang of friends, all named Jimmy, are fighting one hell of a battle against some weird-ass army of heckin' drones!? Get strong, be agile, be water, be snake. But most of all, make sure you preserve that energy! You don't want them Jimmies to run out of that juicy juice. Don't let these drones get the best of you, don't let them rustle your Jimmies! Even if you do get rustled, let's give 'em a good fight!\n-----------------------------------\nCONTROLS\nMovement: [WASD] or [Arrow Keys] / [Left Stick] or [D-pad]\nDash (Once upgraded): [Space] or [1] / [South Button]\nBurst (Once upgraded): [Z] or [2] / [West Button]\nTeleport (Once upgraded): [X] or [3] / [North Button]\nInvulnerability (Once upgraded): [C] or [4] / [East Button]\n-----------------------------------\nWORD FROM THE DEV\nThis game was made in approximately a week for the 1-bit jam #2. The rule is that it had to be 1bit. The theme was \"Start with everything, end with nothing\" so we're basically playing reverse snake. The main menu music is an original soundtrack I used in a previous game jam, everything else is brand new, by me (including the gameplay music :)) \nADDITIONAL CREDITS:\nFonts / Itch Cover + Banner: StoffCreates\n\n(Many different upgrade options, including additional perks to abilities to make them more viable as builds, were left unexplored due to time constraints. Many enemy/attack types and a different game mode too. Potential post-jam though!)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjM3MzMyOC8xNDA1NTc0OC5naWY=/original/sY%2BhNY.gif",
+          "https://img.itch.zone/aW1hZ2UvMjM3MzMyOC8xNDA1NDkyNS5wbmc=/original/ZboJ8a.png",
+          "https://img.itch.zone/aW1hZ2UvMjM3MzMyOC8xNDA1NDkyNi5wbmc=/original/ynGfPl.png",
+          "https://img.itch.zone/aW1hZ2UvMjM3MzMyOC8xNDA1NDkyNy5wbmc=/original/bL4KYF.png",
+          "https://img.itch.zone/aW1hZ2UvMjM3MzMyOC8xNDA1NDkyOC5wbmc=/original/v%2FQb%2Bu.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "KepFox",
+          "Genre": "Action",
+          "Made with": "Unity",
+          "Tags": "1bit, Arcade, chiptune, Cult Classic, old-school, Pixel Art, Snake"
+        }
+      }
+    },
+    {
+      "gameId": 2367178,
+      "gameUrl": "https://maxolib.itch.io/knitten",
+      "overallRank": 1,
+      "topCategories": [
+        "Music",
+        "Art",
+        "Theme",
+        "Originality"
+      ],
+      "resultData": {
+        "score": 4.4444444444444,
+        "id": 2367178,
+        "rating_count": 48,
+        "cover_url": "https://img.itch.zone/aW1nLzE0MDUwMjEzLmpwZw==/300x240%23c/JlQZqZ.jpg",
+        "url": "https://itch.io/jam/1-bit-jam-n2/rate/2367178",
+        "title": "Knitten",
+        "contributors": [
+          {
+            "name": "Maxolib",
+            "id": 1851092
+          },
+          {
+            "name": "PRINTmov",
+            "id": 1965361
+          },
+          {
+            "name": "Tempoprimo",
+            "id": 9180490
+          },
+          {
+            "name": "jammiea",
+            "id": 9136510
+          }
+        ],
+        "rank": 1,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 3.8333333333333,
+            "rank": 28,
+            "raw_score": 3.8333333333333
+          },
+          {
+            "name": "Music",
+            "score": 4.2291666666667,
+            "rank": 8,
+            "raw_score": 4.2291666666667
+          },
+          {
+            "name": "Art",
+            "score": 4.6458333333333,
+            "rank": 7,
+            "raw_score": 4.6458333333333
+          },
+          {
+            "name": "Theme",
+            "score": 4.6666666666667,
+            "rank": 4,
+            "raw_score": 4.6666666666667
+          },
+          {
+            "name": "Originality",
+            "score": 4.4375,
+            "rank": 9,
+            "raw_score": 4.4375
+          },
+          {
+            "name": "Is the graphics 1 bit?",
+            "score": 4.8541666666667,
+            "rank": 94,
+            "raw_score": 4.8541666666667
+          }
+        ],
+        "raw_score": 4.4444444444444
+      },
+      "entryData": {
+        "coolness": 48,
+        "created_at": "2023-11-17 17:40:00",
+        "id": 474732,
+        "contributors": [
+          {
+            "name": "Maxolib",
+            "url": "https://maxolib.itch.io"
+          },
+          {
+            "name": "PRINTmov",
+            "url": "https://printmov.itch.io"
+          },
+          {
+            "name": "Tempoprimo",
+            "url": "https://tempoprimo.itch.io"
+          },
+          {
+            "name": "jammiea",
+            "url": "https://jammiea.itch.io"
+          }
+        ],
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Maxolib",
+            "url": "https://maxolib.itch.io",
+            "id": 1851092
+          },
+          "url": "https://maxolib.itch.io/knitten",
+          "title": "Knitten",
+          "id": 2367178,
+          "cover": "https://img.itch.zone/aW1nLzE0MDUwMjEzLmpwZw==/300x240%23c/JlQZqZ.jpg",
+          "cover_color": "#ffffff"
+        },
+        "url": "/jam/1-bit-jam-n2/rate/2367178",
+        "rating_count": 48
+      },
+      "details": {
+        "title": "Knitten",
+        "description": "Winner of 1-BIT JAM #2.The game was created in 1 week.\nStory\nHit the yarn into the goal. \n⚠︎⚠︎  BEWARE the other cats!! ⚠︎⚠︎ They also want to play with your yarn!\n⋆｡°✩Try to collect all the stars to challenge yourself✩°｡⋆\n\nControls\nUse your mouse to control the yarn.Use up all yarn within the goal area to win.If there is too much yarn left, the other cat will be able to knock it away.\n\nOur Team \na.m.jim.w - Initial Concept / 3D Modeler / Level Design /GraphicsMaxolib - Programmer / Gameplay / Visual & ShadersPRINTmov - Programmer / Controls / Menu UITempoprimo - Music Composer / Sound Effects / Graphics\n\n           へ   ♡   ╱|、      ૮  -   ՛ )      (`   -  7       /   ⁻  ៸|       |、⁻〵 乀 (ˍ, ل ل      じしˍ,)ノ\nFeel free to leave the commeows below.\nEnjoy !! ฅ^•ﻌ•^ฅ\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjM2NzE3OC8xNDA1MjI5OS5naWY=/original/p7k9uP.gif",
+          "https://img.itch.zone/aW1hZ2UvMjM2NzE3OC8xNDA1MDE0MC5wbmc=/original/WYwgZL.png",
+          "https://img.itch.zone/aW1hZ2UvMjM2NzE3OC8xNDA1MDE0MS5wbmc=/original/mSBOrL.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.6 out of 5 stars(5 total ratings)",
+          "Authors": "Maxolib, PRINTmov, Tempoprimo, jammiea",
+          "Genre": "Strategy",
+          "Made with": "Unity",
+          "Tags": "1-bit, Cats, Cute, Golf, Indie, Singleplayer, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 2373385,
+      "gameUrl": "https://certifiedbozo.itch.io/decay",
+      "overallRank": 53,
+      "topCategories": [
+        "Music"
+      ],
+      "resultData": {
+        "score": 3.7647058823529,
+        "id": 2373385,
+        "rating_count": 17,
+        "cover_url": "https://img.itch.zone/aW1nLzE0MDU0OTczLnBuZw==/300x240%23c/2aI4bs.png",
+        "url": "https://itch.io/jam/1-bit-jam-n2/rate/2373385",
+        "title": "Decay",
+        "contributors": [
+          {
+            "name": "certifiedbozo",
+            "id": 6414538
+          }
+        ],
+        "rank": 53,
+        "criteria": [
+          {
+            "name": "Art",
+            "score": 4.1764705882353,
+            "rank": 35,
+            "raw_score": 4.1764705882353
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.5882352941176,
+            "rank": 41,
+            "raw_score": 3.5882352941176
+          },
+          {
+            "name": "Music",
+            "score": 4.1764705882353,
+            "rank": 9,
+            "raw_score": 4.1764705882353
+          },
+          {
+            "name": "Is the graphics 1 bit?",
+            "score": 4.8823529411765,
+            "rank": 72,
+            "raw_score": 4.8823529411765
+          },
+          {
+            "name": "Theme",
+            "score": 3.2941176470588,
+            "rank": 97,
+            "raw_score": 3.2941176470588
+          },
+          {
+            "name": "Originality",
+            "score": 2.4705882352941,
+            "rank": 232,
+            "raw_score": 2.4705882352941
+          }
+        ],
+        "raw_score": 3.7647058823529
+      },
+      "entryData": {
+        "coolness": 11,
+        "created_at": "2023-11-18 00:06:48",
+        "id": 474826,
+        "game": {
+          "title": "Decay",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "certifiedbozo",
+            "url": "https://certifiedbozo.itch.io",
+            "id": 6414538
+          },
+          "url": "https://certifiedbozo.itch.io/decay",
+          "short_text": "shoot down your foes before you decay",
+          "id": 2373385,
+          "cover": "https://img.itch.zone/aW1nLzE0MDU0OTczLnBuZw==/300x240%23c/2aI4bs.png",
+          "cover_color": "#3e232c"
+        },
+        "url": "/jam/1-bit-jam-n2/rate/2373385",
+        "rating_count": 17
+      },
+      "details": {
+        "title": "Decay",
+        "description": "your body slowly decays, and hordes of enemies are attacking you. shoot them down before you are nothing, and dodge their attacks and bullets.\nfeatures - \n10 unique and difficult enemies and a boss, 12 waves of enemies, an easy mode for those who struggle, an enemy data page with all you need to know to destroy your enemies, simple-to-learn gameplay, and more.\n\nwasd and mouse to move and shoot.\n\nmade for the 1-bit jam 2. the game didn't end up as polished as i wanted, but i had a lot of plans and didn't have as much time as i'd hoped. the jam was still realy fun, though. have fun!   :)",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE0MDU0OTczLnBuZw==/original/t7z3Z9.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "certifiedbozo",
+          "Genre": "Shooter",
+          "Made with": "Construct",
+          "Tags": "1-bit, Bullet Hell, Top-Down, Top down shooter"
+        }
+      }
+    },
+    {
+      "gameId": 2372661,
+      "gameUrl": "https://void-metallurgy.itch.io/diminishing-returns",
+      "overallRank": 16,
+      "topCategories": [
+        "Music",
+        "Is the graphics 1 bit?"
+      ],
+      "resultData": {
+        "score": 4.1428571428571,
+        "id": 2372661,
+        "rating_count": 7,
+        "cover_url": "https://img.itch.zone/aW1nLzE0MDUwODk1LnBuZw==/300x240%23c/zpksK0.png",
+        "url": "https://itch.io/jam/1-bit-jam-n2/rate/2372661",
+        "title": "Diminishing Returns",
+        "contributors": [
+          {
+            "name": "Void_Metallurgy",
+            "id": 6167924
+          }
+        ],
+        "rank": 16,
+        "criteria": [
+          {
+            "name": "Music",
+            "score": 4.1428571428571,
+            "rank": 10,
+            "raw_score": 4.1428571428571
+          },
+          {
+            "name": "Art",
+            "score": 4.2857142857143,
+            "rank": 27,
+            "raw_score": 4.2857142857143
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.5714285714286,
+            "rank": 43,
+            "raw_score": 3.5714285714286
+          },
+          {
+            "name": "Theme",
+            "score": 4.1428571428571,
+            "rank": 25,
+            "raw_score": 4.1428571428571
+          },
+          {
+            "name": "Originality",
+            "score": 3.7142857142857,
+            "rank": 65,
+            "raw_score": 3.7142857142857
+          },
+          {
+            "name": "Is the graphics 1 bit?",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          }
+        ],
+        "raw_score": 4.1428571428571
+      },
+      "entryData": {
+        "coolness": 12,
+        "created_at": "2023-11-17 15:54:19",
+        "id": 474694,
+        "game": {
+          "title": "Diminishing Returns",
+          "user": {
+            "name": "Void_Metallurgy",
+            "url": "https://void-metallurgy.itch.io",
+            "id": 6167924
+          },
+          "url": "https://void-metallurgy.itch.io/diminishing-returns",
+          "short_text": "From VOID, CHAOS. From CHAOS, CHANGE.",
+          "id": 2372661,
+          "cover": "https://img.itch.zone/aW1nLzE0MDUwODk1LnBuZw==/300x240%23c/zpksK0.png",
+          "cover_color": "#1e1c32"
+        },
+        "url": "/jam/1-bit-jam-n2/rate/2372661",
+        "rating_count": 7
+      },
+      "details": {
+        "title": "Diminishing Returns",
+        "description": "Can you lose all the cards in your hands before you lose everything?\nThe universe is vanishing into the VOID. Win a card game agaisnt Death to stop the process.\nYou win by losing all of the cards in your hands, and you lose cards by matching them. \n5 rules to match cards.  3 loops to try and stop the VOID. \nBe careful, though - with every failed loop, a part of the universe will dissappear forever -taking part of the game with it.\nDIMINISHING RETUNRS is an ever chaning game about a deteriorating universe. About 15-30 minutes of game time.\nPlease leave a comment for any notes/improvements you think should be implemented in the game! I would love to hear your feedback.\nCredits:\nCode, Art, and Design - VoidMetallurgy\nMusic - TurtleBox\nSFX - Kenny assets (casino and sci-fi packs)\nFont - Alagard by Hewet Tsoi\nPalette - NOIRE TRUTH by Cheeseismysoul\nMade for the 1-Bit game jam, November 2023UPDATE 1.01 : fixed and smoothed card selection process\nUPDATE 1.0: fixed a number of game breaking bugs",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjM3MjY2MS8xNDA1MDkwNC5wbmc=/original/NQHosM.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Void_Metallurgy",
+          "Genre": "Card Game",
+          "Tags": "1-bit, Short"
+        }
+      }
+    },
+    {
+      "gameId": 2373871,
+      "gameUrl": "https://dantedevs.itch.io/1bit-kitty",
+      "overallRank": 54,
+      "topCategories": [
+        "Art"
+      ],
+      "resultData": {
+        "score": 3.7604166666667,
+        "id": 2373871,
+        "rating_count": 16,
+        "cover_url": "https://img.itch.zone/aW1nLzE0MDU3NjE3LnBuZw==/300x240%23c/ncM%2BAb.png",
+        "url": "https://itch.io/jam/1-bit-jam-n2/rate/2373871",
+        "title": "1bit kitty",
+        "contributors": [
+          {
+            "name": "dantedevs",
+            "id": 4588574
+          }
+        ],
+        "rank": 54,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 3.3125,
+            "rank": 76,
+            "raw_score": 3.3125
+          },
+          {
+            "name": "Art",
+            "score": 4.75,
+            "rank": 3,
+            "raw_score": 4.75
+          },
+          {
+            "name": "Music",
+            "score": 3.25,
+            "rank": 99,
+            "raw_score": 3.25
+          },
+          {
+            "name": "Theme",
+            "score": 2.75,
+            "rank": 183,
+            "raw_score": 2.75
+          },
+          {
+            "name": "Is the graphics 1 bit?",
+            "score": 4.875,
+            "rank": 74,
+            "raw_score": 4.875
+          },
+          {
+            "name": "Originality",
+            "score": 3.625,
+            "rank": 76,
+            "raw_score": 3.625
+          }
+        ],
+        "raw_score": 3.7604166666667
+      },
+      "entryData": {
+        "coolness": 6,
+        "created_at": "2023-11-18 12:04:09",
+        "id": 475026,
+        "game": {
+          "title": "1bit kitty",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "dantedevs",
+            "url": "https://dantedevs.itch.io",
+            "id": 4588574
+          },
+          "url": "https://dantedevs.itch.io/1bit-kitty",
+          "short_text": "Life was carefree and easy in Kitty Cat Village, until shadow monsters showed up! Can our brave heroes save their home?",
+          "id": 2373871,
+          "cover": "https://img.itch.zone/aW1nLzE0MDU3NjE3LnBuZw==/300x240%23c/ncM%2BAb.png",
+          "cover_color": "#2e3037"
+        },
+        "url": "/jam/1-bit-jam-n2/rate/2373871",
+        "rating_count": 16
+      },
+      "details": {
+        "title": "1bit kitty",
+        "description": "CONTROLS\nMovement - WASD\nAttack - Arrow keys / IJKL\nDash - Spacebar\nInteract - E\n* We recommend turning on hardware acceleration if you are playing in browser!!\nFor updates and news join our discord here:)\n_______________________________________________________________________________________\nCredits\nfroggy - art/design/dialogue - Twitter / Twitch / WebsiteDante - programming/development - TwitterKevin - programming/development/dialogue - TwitterBen C - music/sound design\n_____________________________________________________________________________________\nExtras\nWe hope you have fun with this silly little action RPG!  My friends and I worked really hard on putting our hearts and souls into this game. There was blood, sweat, and tears shed throughout the 8 days it took for us to make 1bit kitty. Nevertheless, we are so proud of what we've accomplished and just hope that you enjoy it! :-)\n\nLife was carefree and easy in Kitty Cat Village, until shadow monsters showed up! Can our brave heroes save their home?\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjM3Mzg3MS8xNDA1OTI2OC5wbmc=/original/a%2FJC23.png",
+          "https://img.itch.zone/aW1hZ2UvMjM3Mzg3MS8xNDA1OTI2OS5wbmc=/original/ZcVcD7.png",
+          "https://img.itch.zone/aW1hZ2UvMjM3Mzg3MS8xNDA1OTI3MS5wbmc=/original/tYtLN8.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "dantedevs",
+          "Genre": "Role Playing, Action, Adventure",
+          "Made with": "Godot",
+          "Tags": "Atmospheric, Cute, Fantasy, Indie, Pixel Art, Retro, Singleplayer, Top-Down"
+        }
+      }
+    },
+    {
+      "gameId": 2360448,
+      "gameUrl": "https://sabrinathecookie.itch.io/crypt-fiends",
+      "overallRank": 33,
+      "topCategories": [
+        "Art"
+      ],
+      "resultData": {
+        "score": 3.9047619047619,
+        "id": 2360448,
+        "rating_count": 7,
+        "cover_url": "https://img.itch.zone/aW1nLzE0MDU4OTU4LnBuZw==/300x240%23c/qZ8TWx.png",
+        "url": "https://itch.io/jam/1-bit-jam-n2/rate/2360448",
+        "title": "Crypt Fiends",
+        "contributors": [
+          {
+            "name": "SabrinaTheCookie",
+            "id": 4176933
+          },
+          {
+            "name": "Seong",
+            "id": 1023448
+          },
+          {
+            "name": "ThisIsDioni",
+            "id": 6377204
+          },
+          {
+            "name": "Oliver Coates",
+            "id": 5210024
+          },
+          {
+            "name": "Ben Lightfoot",
+            "id": 8786217
+          },
+          {
+            "name": "chiyaa",
+            "id": 8142289
+          },
+          {
+            "name": "Lunar Ladybird Games",
+            "id": 6948605
+          },
+          {
+            "name": "Gyroscopik",
+            "id": 1922522
+          }
+        ],
+        "rank": 33,
+        "criteria": [
+          {
+            "name": "Music",
+            "score": 4.1428571428571,
+            "rank": 10,
+            "raw_score": 4.1428571428571
+          },
+          {
+            "name": "Art",
+            "score": 4.7142857142857,
+            "rank": 5,
+            "raw_score": 4.7142857142857
+          },
+          {
+            "name": "Gameplay",
+            "score": 3,
+            "rank": 115,
+            "raw_score": 3
+          },
+          {
+            "name": "Originality",
+            "score": 3.2857142857143,
+            "rank": 123,
+            "raw_score": 3.2857142857143
+          },
+          {
+            "name": "Theme",
+            "score": 3.4285714285714,
+            "rank": 74,
+            "raw_score": 3.4285714285714
+          },
+          {
+            "name": "Is the graphics 1 bit?",
+            "score": 4.8571428571429,
+            "rank": 84,
+            "raw_score": 4.8571428571429
+          }
+        ],
+        "raw_score": 3.9047619047619
+      },
+      "entryData": {
+        "coolness": 0,
+        "created_at": "2023-11-17 09:26:37",
+        "id": 474596,
+        "contributors": [
+          {
+            "name": "SabrinaTheCookie",
+            "url": "https://sabrinathecookie.itch.io"
+          },
+          {
+            "name": "Seong",
+            "url": "https://seongyher.itch.io"
+          },
+          {
+            "name": "ThisIsDioni",
+            "url": "https://thisisdioni.itch.io"
+          },
+          {
+            "name": "Oliver Coates",
+            "url": "https://olivercoates1.itch.io"
+          },
+          {
+            "name": "Ben Lightfoot",
+            "url": "https://ben-lightfoot.itch.io"
+          },
+          {
+            "name": "chiyaa",
+            "url": "https://chiyaa.itch.io"
+          },
+          {
+            "name": "Lunar Ladybird Games",
+            "url": "https://lunar-ladybird-games.itch.io"
+          },
+          {
+            "name": "Gyroscopik",
+            "url": "https://gyroscopik.itch.io"
+          }
+        ],
+        "game": {
+          "title": "Crypt Fiends",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "SabrinaTheCookie",
+            "url": "https://sabrinathecookie.itch.io",
+            "id": 4176933
+          },
+          "url": "https://sabrinathecookie.itch.io/crypt-fiends",
+          "short_text": "A tower defence where you play every level at once",
+          "id": 2360448,
+          "cover": "https://img.itch.zone/aW1nLzE0MDU4OTU4LnBuZw==/300x240%23c/qZ8TWx.png",
+          "cover_color": "#000000"
+        },
+        "url": "/jam/1-bit-jam-n2/rate/2360448",
+        "rating_count": 7
+      },
+      "details": {
+        "title": "Crypt Fiends",
+        "description": "Awaken, my lord! \nCovetous marauders approach our crypt even as we speak. They seek to pilfer our royal treasury at the lowest level of our structure. We must defend our gold from these so-called \"Heroes of the Kingdom\" at all cost (a strong economy is the backbone of a successful society after all). We cannot allow them to escape with the gold at the bottom of the crypt, or it may spell the end of our ungodly kingdom, I'm afraid (the treasury has begun to run dry from all of the graveyards we have been building). Luckily, you possess the ability to create deadly towers out of nothing but freshly harvested souls of dead adventurers.\nTraverse the depths of the underground structure with W/S or Up/Down and inspect every corner of your dominion with A/D or Left/Right. Conjure up defensive structures with Left Mouse Click onto the grids of every level.\n=======================================\n\"You Start with Everything and End with Nothing\"1-Bit Jam #2: https://itch.io/jam/1-bit-jam-n2",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjM2MDQ0OC8xNDA1OTM3MS5qcGVn/original/64WP8F.jpeg",
+          "https://img.itch.zone/aW1hZ2UvMjM2MDQ0OC8xNDA1ODk3NC5qcGVn/original/3YjXBL.jpeg"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Authors": "SabrinaTheCookie, Seong, ThisIsDioni, Oliver Coates, Ben Lightfoot, chiyaa, Lunar Ladybird Games, Gyroscopik",
+          "Genre": "Strategy",
+          "Tags": "1-bit, Atmospheric, Indie, Retro, Shaders, Tower Defense, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 2374352,
+      "gameUrl": "https://colorivine.itch.io/suro",
+      "overallRank": 6,
+      "topCategories": [
+        "Art"
+      ],
+      "resultData": {
+        "score": 4.3181818181818,
+        "id": 2374352,
+        "rating_count": 11,
+        "cover_url": "https://img.itch.zone/aW1nLzE0MDY1NDQ0LnBuZw==/300x240%23c/svasGM.png",
+        "url": "https://itch.io/jam/1-bit-jam-n2/rate/2374352",
+        "title": "Suro - Herald of the Dices",
+        "contributors": [
+          {
+            "name": "colorivine",
+            "id": 3751778
+          },
+          {
+            "name": "Sakipe",
+            "id": 6106305
+          }
+        ],
+        "rank": 6,
+        "criteria": [
+          {
+            "name": "Music",
+            "score": 4,
+            "rank": 18,
+            "raw_score": 4
+          },
+          {
+            "name": "Art",
+            "score": 4.6363636363636,
+            "rank": 8,
+            "raw_score": 4.6363636363636
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.8181818181818,
+            "rank": 29,
+            "raw_score": 3.8181818181818
+          },
+          {
+            "name": "Theme",
+            "score": 4.3636363636364,
+            "rank": 13,
+            "raw_score": 4.3636363636364
+          },
+          {
+            "name": "Originality",
+            "score": 4.2727272727273,
+            "rank": 20,
+            "raw_score": 4.2727272727273
+          },
+          {
+            "name": "Is the graphics 1 bit?",
+            "score": 4.8181818181818,
+            "rank": 101,
+            "raw_score": 4.8181818181818
+          }
+        ],
+        "raw_score": 4.3181818181818
+      },
+      "entryData": {
+        "coolness": 0,
+        "created_at": "2023-11-18 14:57:58",
+        "id": 475159,
+        "contributors": [
+          {
+            "name": "colorivine",
+            "url": "https://colorivine.itch.io"
+          },
+          {
+            "name": "Sakipe",
+            "url": "https://sakipe.itch.io"
+          }
+        ],
+        "game": {
+          "title": "Suro - Herald of the Dices",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "colorivine",
+            "url": "https://colorivine.itch.io",
+            "id": 3751778
+          },
+          "url": "https://colorivine.itch.io/suro",
+          "short_text": "Roll your dices to break free!",
+          "id": 2374352,
+          "cover": "https://img.itch.zone/aW1nLzE0MDY1NDQ0LnBuZw==/300x240%23c/svasGM.png",
+          "cover_color": "#000000"
+        },
+        "url": "/jam/1-bit-jam-n2/rate/2374352",
+        "rating_count": 11
+      },
+      "details": {
+        "title": "Suro - Herald of the Dices",
+        "description": "SURO\n1 Bit Jam 2023 - You Start With Everything and End With Nothing\nA game by Victor TOUROUL (Developer - Additional Game Design - 2D Artist)&Hugo HADET (Game Design - Card Design - Sound Design) \nPatch Notes :V1.0  :The game as we submitted it to the Jam\nV1.1 : Fixed a bug where you could buy cards already in your hand.Fixed the Down button animationBalanced the prices of the cardsCorrected some of the card descriptionsSome miscellaneaous sprite added",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjM3NDM1Mi8xNDA2MTY1MC5wbmc=/original/RkD7E6.png",
+          "https://img.itch.zone/aW1hZ2UvMjM3NDM1Mi8xNDA2MTY1NC5wbmc=/original/Oyzi83.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Authors": "colorivine, Sakipe",
+          "Made with": "Construct",
+          "Tags": "1-bit, Dice, Roguelite"
+        }
+      }
+    },
+    {
+      "gameId": 2374023,
+      "gameUrl": "https://lyrdinn.itch.io/curses-for-sale",
+      "overallRank": 19,
+      "topCategories": [
+        "Art"
+      ],
+      "resultData": {
+        "score": 4.1052631578947,
+        "id": 2374023,
+        "rating_count": 19,
+        "cover_url": "https://img.itch.zone/aW1nLzE0MDU5MTIzLnBuZw==/300x240%23c/G0eVRt.png",
+        "url": "https://itch.io/jam/1-bit-jam-n2/rate/2374023",
+        "title": "Curses for Sale",
+        "contributors": [
+          {
+            "name": "Lyrdinn",
+            "id": 1612329
+          },
+          {
+            "name": "Shafoo",
+            "id": 1315512
+          },
+          {
+            "name": "Kodaen",
+            "id": 8804625
+          },
+          {
+            "name": "Nino Sandlarz",
+            "id": 4984382
+          }
+        ],
+        "rank": 19,
+        "criteria": [
+          {
+            "name": "Music",
+            "score": 3.8421052631579,
+            "rank": 26,
+            "raw_score": 3.8421052631579
+          },
+          {
+            "name": "Art",
+            "score": 4.6315789473684,
+            "rank": 9,
+            "raw_score": 4.6315789473684
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.0526315789474,
+            "rank": 107,
+            "raw_score": 3.0526315789474
+          },
+          {
+            "name": "Theme",
+            "score": 4,
+            "rank": 32,
+            "raw_score": 4
+          },
+          {
+            "name": "Is the graphics 1 bit?",
+            "score": 4.7368421052632,
+            "rank": 118,
+            "raw_score": 4.7368421052632
+          },
+          {
+            "name": "Originality",
+            "score": 4.3684210526316,
+            "rank": 12,
+            "raw_score": 4.3684210526316
+          }
+        ],
+        "raw_score": 4.1052631578947
+      },
+      "entryData": {
+        "coolness": 7,
+        "created_at": "2023-11-18 14:24:32",
+        "id": 475085,
+        "contributors": [
+          {
+            "name": "Lyrdinn",
+            "url": "https://lyrdinn.itch.io"
+          },
+          {
+            "name": "Shafoo",
+            "url": "https://shafoo.itch.io"
+          },
+          {
+            "name": "Kodaen",
+            "url": "https://kodaen.itch.io"
+          },
+          {
+            "name": "Nino Sandlarz",
+            "url": "https://ninosandlarz.itch.io"
+          }
+        ],
+        "game": {
+          "title": "Curses for Sale",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Lyrdinn",
+            "url": "https://lyrdinn.itch.io",
+            "id": 1612329
+          },
+          "url": "https://lyrdinn.itch.io/curses-for-sale",
+          "short_text": "Sell all your shop's cursed items before your customers get too scared and leave!",
+          "id": 2374023,
+          "cover": "https://img.itch.zone/aW1nLzE0MDU5MTIzLnBuZw==/300x240%23c/G0eVRt.png",
+          "cover_color": "#561613"
+        },
+        "url": "/jam/1-bit-jam-n2/rate/2374023",
+        "rating_count": 19
+      },
+      "details": {
+        "title": "Curses for Sale",
+        "description": "Sell all your shop's cursed items before your customers get scared and leave!\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - \nControls:\n \n- WASD/ Arrow keys to move\n- SPACEBAR to carry a customer or an item\n - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - \nA casual game made for the 1-bit game jam: https://itch.io/jam/1-bit-jam-n2 \n\"You start with everything and end with nothing\"\nMade with Unity 2021.3.30f1",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjM3NDAyMy8xNDA2MTE1NC5wbmc=/original/zviDfG.png",
+          "https://img.itch.zone/aW1hZ2UvMjM3NDAyMy8xNDA2MTE1Ni5wbmc=/original/LDiDbA.png",
+          "https://img.itch.zone/aW1hZ2UvMjM3NDAyMy8xNDA2MTE1My5wbmc=/original/8IwuKD.png",
+          "https://img.itch.zone/aW1hZ2UvMjM3NDAyMy8xNDA2MTE1Mi5wbmc=/original/ig6u7R.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Authors": "Lyrdinn, Shafoo, Kodaen, Nino Sandlarz",
+          "Genre": "Action",
+          "Made with": "Unity",
+          "Tags": "1-bit, Casual, Hand-drawn",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Accessibility": "High-contrast"
+        }
+      }
+    },
+    {
+      "gameId": 2375226,
+      "gameUrl": "https://gorzylla.itch.io/star-keeper",
+      "overallRank": 67,
+      "topCategories": [
+        "Art"
+      ],
+      "resultData": {
+        "score": 3.6666666666667,
+        "id": 2375226,
+        "rating_count": 8,
+        "cover_url": "https://img.itch.zone/aW1nLzE0MDY2MDU4LnBuZw==/300x240%23c/p90EqZ.png",
+        "url": "https://itch.io/jam/1-bit-jam-n2/rate/2375226",
+        "title": "Star Keeper",
+        "contributors": [
+          {
+            "name": "gorzylla",
+            "id": 8101919
+          }
+        ],
+        "rank": 67,
+        "criteria": [
+          {
+            "name": "Music",
+            "score": 3,
+            "rank": 127,
+            "raw_score": 3
+          },
+          {
+            "name": "Art",
+            "score": 4.625,
+            "rank": 10,
+            "raw_score": 4.625
+          },
+          {
+            "name": "Gameplay",
+            "score": 2.875,
+            "rank": 136,
+            "raw_score": 2.875
+          },
+          {
+            "name": "Is the graphics 1 bit?",
+            "score": 4.875,
+            "rank": 74,
+            "raw_score": 4.875
+          },
+          {
+            "name": "Originality",
+            "score": 3.875,
+            "rank": 52,
+            "raw_score": 3.875
+          },
+          {
+            "name": "Theme",
+            "score": 2.75,
+            "rank": 183,
+            "raw_score": 2.75
+          }
+        ],
+        "raw_score": 3.6666666666667
+      },
+      "entryData": {
+        "coolness": 0,
+        "created_at": "2023-11-21 22:03:06",
+        "id": 476678,
+        "game": {
+          "title": "Star Keeper",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "gorzylla",
+            "url": "https://gorzylla.itch.io",
+            "id": 8101919
+          },
+          "url": "https://gorzylla.itch.io/star-keeper",
+          "short_text": "Fight darkness & restore the light of the stars",
+          "id": 2375226,
+          "cover": "https://img.itch.zone/aW1nLzE0MDY2MDU4LnBuZw==/300x240%23c/p90EqZ.png",
+          "cover_color": "#071821"
+        },
+        "url": "/jam/1-bit-jam-n2/rate/2375226",
+        "rating_count": 8
+      },
+      "details": {
+        "title": "Star Keeper",
+        "description": "An ancient Darkness has awoken and taken the light of the heavens. Only the light of the Everstar can rekindle flames in the Altar of Stars.\nAs Star Keeper, it is your duty to restore light and save the world from crumbling. \nTHIS IS A DEMO\nThis Gameboy game is a RPG adventure puzzle platformer where you play the role of the Star Keeper, a guardian responsible for keeping the light of the stars aflame. \nFuture updates include: more levels, more puzzles, new enemies, a combat system, a story and more! \n\nHOW TO PLAY:  \nKeyboard & Gameboy controls \n \nZ = A button to JUMP & INTERACT\nX = B button\nL Shift = Select button\nEnter = Start button\nW, A, S, D = Arrow buttons to MOVE \n\nCREDITS: \n \nGame design, art & programming by me \n \nMusic by Mr. V & the Mod Archive\n \nGBStudio Platformer+ Plugin by Hauntology\nThis project is made with GBStudio for Pizza Jam with the themes \"Space Walker & The Zodiac*\n\nNOTES: **This is a work in progress! Check Dev Logs for progress updates.Some parts of the game are pretty laggy as I'm trying to figure out the coding.  Please  leave comments and feedback if you have any on how to improve. Thank you!\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjM3NTIyNi8xNDA2Njg4OC5wbmc=/original/v7xr3g.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Author": "gorzylla",
+          "Genre": "Role Playing, Adventure, Platformer",
+          "Tags": "1bit, Fantasy, gbstudio, Narrative, Puzzle-Platformer"
+        }
+      }
+    },
+    {
+      "gameId": 2374029,
+      "gameUrl": "https://tomtom8888.itch.io/body-parts-madness",
+      "overallRank": 95,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "score": 3.4814814814815,
+        "id": 2374029,
+        "rating_count": 9,
+        "cover_url": "https://img.itch.zone/aW1nLzE0MDU4OTExLnBuZw==/300x240%23c/de3qsC.png",
+        "url": "https://itch.io/jam/1-bit-jam-n2/rate/2374029",
+        "title": "Body Parts Madness",
+        "contributors": [
+          {
+            "name": "tomtom8888",
+            "id": 8633946
+          }
+        ],
+        "rank": 95,
+        "criteria": [
+          {
+            "name": "Music",
+            "score": 1.3333333333333,
+            "rank": 267,
+            "raw_score": 1.3333333333333
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.1111111111111,
+            "rank": 97,
+            "raw_score": 3.1111111111111
+          },
+          {
+            "name": "Art",
+            "score": 2.7777777777778,
+            "rank": 185,
+            "raw_score": 2.7777777777778
+          },
+          {
+            "name": "Theme",
+            "score": 4.8888888888889,
+            "rank": 1,
+            "raw_score": 4.8888888888889
+          },
+          {
+            "name": "Originality",
+            "score": 3.7777777777778,
+            "rank": 61,
+            "raw_score": 3.7777777777778
+          },
+          {
+            "name": "Is the graphics 1 bit?",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          }
+        ],
+        "raw_score": 3.4814814814815
+      },
+      "entryData": {
+        "coolness": 2,
+        "created_at": "2023-11-18 11:44:50",
+        "id": 475020,
+        "game": {
+          "title": "Body Parts Madness",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "tomtom8888",
+            "url": "https://tomtom8888.itch.io",
+            "id": 8633946
+          },
+          "url": "https://tomtom8888.itch.io/body-parts-madness",
+          "short_text": "Where Is My Leg?",
+          "id": 2374029,
+          "cover": "https://img.itch.zone/aW1nLzE0MDU4OTExLnBuZw==/300x240%23c/de3qsC.png",
+          "cover_color": "#000000"
+        },
+        "url": "/jam/1-bit-jam-n2/rate/2374029",
+        "rating_count": 9
+      },
+      "details": {
+        "title": "Body Parts Madness",
+        "description": "This is a game for the 1-bit game jam.\nPlay while losing a body part each level!\nWill you be able to complete all the levels?\nPLEASE RUN IN FULL SCREEN-MODE!!How To Play:\nControls:\nLeft And Right: AS Or Arrow Keys\nJump: Space Or Up Arrow KeyTo pass to the next level touch the flag at the end of the levelAvoid the white balls they are your enemies",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE0MDU4OTExLnBuZw==/original/t%2BfL5O.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "tomtom8888",
+          "Genre": "Action, Adventure, Platformer",
+          "Made with": "Unity",
+          "Tags": "2D"
+        }
+      }
+    },
+    {
+      "gameId": 2362076,
+      "gameUrl": "https://reungames.itch.io/player",
+      "overallRank": 29,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "score": 3.9473684210526,
+        "id": 2362076,
+        "rating_count": 19,
+        "cover_url": "https://img.itch.zone/aW1nLzE0MDU5NTEyLnBuZw==/300x240%23c/eXL9QX.png",
+        "url": "https://itch.io/jam/1-bit-jam-n2/rate/2362076",
+        "title": "Player | Игрок",
+        "contributors": [
+          {
+            "name": "REUN",
+            "id": 7357791
+          }
+        ],
+        "rank": 29,
+        "criteria": [
+          {
+            "name": "Music",
+            "score": 2.6842105263158,
+            "rank": 168,
+            "raw_score": 2.6842105263158
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.0526315789474,
+            "rank": 107,
+            "raw_score": 3.0526315789474
+          },
+          {
+            "name": "Art",
+            "score": 4.4210526315789,
+            "rank": 16,
+            "raw_score": 4.4210526315789
+          },
+          {
+            "name": "Originality",
+            "score": 4.2105263157895,
+            "rank": 25,
+            "raw_score": 4.2105263157895
+          },
+          {
+            "name": "Theme",
+            "score": 4.7368421052632,
+            "rank": 2,
+            "raw_score": 4.7368421052632
+          },
+          {
+            "name": "Is the graphics 1 bit?",
+            "score": 4.5789473684211,
+            "rank": 151,
+            "raw_score": 4.5789473684211
+          }
+        ],
+        "raw_score": 3.9473684210526
+      },
+      "entryData": {
+        "coolness": 17,
+        "created_at": "2023-11-18 12:59:47",
+        "id": 475045,
+        "game": {
+          "title": "Player | Игрок",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "REUN",
+            "url": "https://reungames.itch.io",
+            "id": 7357791
+          },
+          "url": "https://reungames.itch.io/player",
+          "short_text": "Gamble",
+          "id": 2362076,
+          "cover": "https://img.itch.zone/aW1nLzE0MDU5NTEyLnBuZw==/300x240%23c/eXL9QX.png",
+          "cover_color": "#000000"
+        },
+        "url": "/jam/1-bit-jam-n2/rate/2362076",
+        "rating_count": 19
+      },
+      "details": {
+        "title": "Player | Игрок",
+        "description": "*use arrows to move in casinoFact: 90% of gambling addicts quit right before they're about to hit big.\n\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjM2MjA3Ni8xNDA1OTYwMC5wbmc=/original/M8jojV.png",
+          "https://img.itch.zone/aW1hZ2UvMjM2MjA3Ni8xNDA1OTU5Ny5wbmc=/original/RPrAB9.png",
+          "https://img.itch.zone/aW1hZ2UvMjM2MjA3Ni8xNDA1OTU5Ni5wbmc=/original/UCQqM%2B.png",
+          "https://img.itch.zone/aW1hZ2UvMjM2MjA3Ni8xNDA1OTU5OC5wbmc=/original/x%2B959y.png"
+        ],
+        "moreInfo": {
+          "Updated": "20 days ago",
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "REUN",
+          "Made with": "Unity",
+          "Tags": "1-bit, 2D, Atmospheric, Dark, Pixel Art, Point & Click, Retro, Singleplayer, storygame"
+        }
+      }
+    },
+    {
+      "gameId": 2374266,
+      "gameUrl": "https://boschybee.itch.io/firesale",
+      "overallRank": 2,
+      "topCategories": [
+        "Theme",
+        "Originality"
+      ],
+      "resultData": {
+        "score": 4.4090909090909,
+        "id": 2374266,
+        "rating_count": 11,
+        "cover_url": "https://img.itch.zone/aW1nLzE0MDYwMTc2LnBuZw==/300x240%23c/9X%2FfNo.png",
+        "url": "https://itch.io/jam/1-bit-jam-n2/rate/2374266",
+        "title": "Firesale",
+        "contributors": [
+          {
+            "name": "BoschyBee",
+            "id": 2100187
+          },
+          {
+            "name": "TheShoes",
+            "id": 3182417
+          }
+        ],
+        "rank": 2,
+        "criteria": [
+          {
+            "name": "Music",
+            "score": 3.9090909090909,
+            "rank": 24,
+            "raw_score": 3.9090909090909
+          },
+          {
+            "name": "Gameplay",
+            "score": 4.0909090909091,
+            "rank": 13,
+            "raw_score": 4.0909090909091
+          },
+          {
+            "name": "Art",
+            "score": 4.3636363636364,
+            "rank": 23,
+            "raw_score": 4.3636363636364
+          },
+          {
+            "name": "Theme",
+            "score": 4.7272727272727,
+            "rank": 3,
+            "raw_score": 4.7272727272727
+          },
+          {
+            "name": "Originality",
+            "score": 4.4545454545455,
+            "rank": 7,
+            "raw_score": 4.4545454545455
+          },
+          {
+            "name": "Is the graphics 1 bit?",
+            "score": 4.9090909090909,
+            "rank": 60,
+            "raw_score": 4.9090909090909
+          }
+        ],
+        "raw_score": 4.4090909090909
+      },
+      "entryData": {
+        "coolness": 0,
+        "created_at": "2023-11-18 14:36:45",
+        "id": 475101,
+        "contributors": [
+          {
+            "name": "BoschyBee",
+            "url": "https://boschybee.itch.io"
+          },
+          {
+            "name": "TheShoes",
+            "url": "https://theshoes.itch.io"
+          }
+        ],
+        "game": {
+          "title": "Firesale",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "BoschyBee",
+            "url": "https://boschybee.itch.io",
+            "id": 2100187
+          },
+          "url": "https://boschybee.itch.io/firesale",
+          "short_text": "A totally normal game about running up to people and selling your wares",
+          "id": 2374266,
+          "cover": "https://img.itch.zone/aW1nLzE0MDYwMTc2LnBuZw==/300x240%23c/9X%2FfNo.png",
+          "cover_color": "#000000"
+        },
+        "url": "/jam/1-bit-jam-n2/rate/2374266",
+        "rating_count": 11
+      },
+      "details": {
+        "title": "Firesale",
+        "description": "A totally normal game about running up to people and selling your wares after a demon curses you.\n'WASD' to move\nPress 'E' to pick up items\nPress 'Left Click' or 'Space' to use Power-ups.\nRun into People to start a \"Conversation\"\n(To leave the shop look for the hole in the wall)\n\n\nDev Team:\nMichael BoschwitzBrett SchumacherJonas BullAva SmithAudrey GasserKerri Newcomer\nAdditional Assets: \nSFX - KenneyNL Misc Sprites - Petricake Games Various Stock Photos - PexelsMusic - Sleaves of Black by OKAM",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjM3NDI2Ni8xNDA2MDM3MC5wbmc=/original/V38LZo.png",
+          "https://img.itch.zone/aW1hZ2UvMjM3NDI2Ni8xNDA2MDM2OS5wbmc=/original/eAi4I2.png",
+          "https://img.itch.zone/aW1hZ2UvMjM3NDI2Ni8xNDA2MDM2Ny5wbmc=/original/CNsGVI.png",
+          "https://img.itch.zone/aW1hZ2UvMjM3NDI2Ni8xNDA2MDQwOC5wbmc=/original/flSZMa.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Authors": "BoschyBee, TheShoes",
+          "Genre": "Action",
+          "Made with": "Unity",
+          "Tags": "1-bit, Comedy, Experimental, Fantasy, Funny, microgames, minigames, Short, Top-Down, warioware"
+        }
+      }
+    },
+    {
+      "gameId": 2373542,
+      "gameUrl": "https://citchvin.itch.io/ruin-your-reputation",
+      "overallRank": 65,
+      "topCategories": [
+        "Theme",
+        "Originality"
+      ],
+      "resultData": {
+        "score": 3.6833333333333,
+        "id": 2373542,
+        "rating_count": 10,
+        "cover_url": "https://img.itch.zone/aW1nLzE0MDU2MTEwLnBuZw==/300x240%23c/2x%2F67s.png",
+        "url": "https://itch.io/jam/1-bit-jam-n2/rate/2373542",
+        "title": "Ruin Your Reputation",
+        "contributors": [
+          {
+            "name": "Citchvin",
+            "id": 8161226
+          }
+        ],
+        "rank": 65,
+        "criteria": [
+          {
+            "name": "Music",
+            "score": 2.8,
+            "rank": 155,
+            "raw_score": 2.8
+          },
+          {
+            "name": "Gameplay",
+            "score": 2.9,
+            "rank": 130,
+            "raw_score": 2.9
+          },
+          {
+            "name": "Originality",
+            "score": 4.5,
+            "rank": 5,
+            "raw_score": 4.5
+          },
+          {
+            "name": "Art",
+            "score": 2.4,
+            "rank": 238,
+            "raw_score": 2.4
+          },
+          {
+            "name": "Theme",
+            "score": 4.6,
+            "rank": 5,
+            "raw_score": 4.6
+          },
+          {
+            "name": "Is the graphics 1 bit?",
+            "score": 4.9,
+            "rank": 63,
+            "raw_score": 4.9
+          }
+        ],
+        "raw_score": 3.6833333333333
+      },
+      "entryData": {
+        "coolness": 0,
+        "created_at": "2023-11-18 02:36:36",
+        "id": 474869,
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Citchvin",
+            "url": "https://citchvin.itch.io",
+            "id": 8161226
+          },
+          "url": "https://citchvin.itch.io/ruin-your-reputation",
+          "short_text": "Lose your fans!",
+          "id": 2373542,
+          "cover": "https://img.itch.zone/aW1nLzE0MDU2MTEwLnBuZw==/300x240%23c/2x%2F67s.png",
+          "title": "Ruin Your Reputation"
+        },
+        "url": "/jam/1-bit-jam-n2/rate/2373542",
+        "rating_count": 10
+      },
+      "details": {
+        "title": "Ruin Your Reputation",
+        "description": "You are rich, famous, and you hate it.  You need a way to lose all of your loyal followers.\nLog on to Twitter to find what people are talking about, then read the news to find out the least popular opinions. All you need to do is say the worst opinion possible, and you'll lose your fans in no time!\nOnly a mouse is needed.",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE0MDU2MTEwLnBuZw==/original/V4N%2BaO.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Citchvin",
+          "Genre": "Puzzle",
+          "Made with": "Unity"
+        }
+      }
+    },
+    {
+      "gameId": 2370852,
+      "gameUrl": "https://steack.itch.io/oblivion",
+      "overallRank": 20,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "score": 4.0902777777778,
+        "id": 2370852,
+        "rating_count": 24,
+        "cover_url": "https://img.itch.zone/aW1nLzE0MDQwMzE5LnBuZw==/300x240%23c/5IwOkT.png",
+        "url": "https://itch.io/jam/1-bit-jam-n2/rate/2370852",
+        "title": "Oblivion",
+        "contributors": [
+          {
+            "name": "Steack",
+            "id": 5120819
+          }
+        ],
+        "rank": 20,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 3.7916666666667,
+            "rank": 32,
+            "raw_score": 3.7916666666667
+          },
+          {
+            "name": "Art",
+            "score": 3.875,
+            "rank": 61,
+            "raw_score": 3.875
+          },
+          {
+            "name": "Music",
+            "score": 3.8333333333333,
+            "rank": 27,
+            "raw_score": 3.8333333333333
+          },
+          {
+            "name": "Theme",
+            "score": 4.5,
+            "rank": 8,
+            "raw_score": 4.5
+          },
+          {
+            "name": "Originality",
+            "score": 3.7083333333333,
+            "rank": 68,
+            "raw_score": 3.7083333333333
+          },
+          {
+            "name": "Is the graphics 1 bit?",
+            "score": 4.8333333333333,
+            "rank": 96,
+            "raw_score": 4.8333333333333
+          }
+        ],
+        "raw_score": 4.0902777777778
+      },
+      "entryData": {
+        "coolness": 117,
+        "created_at": "2023-11-16 14:39:35",
+        "id": 474459,
+        "game": {
+          "title": "Oblivion",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "Steack",
+            "url": "https://steack.itch.io",
+            "id": 5120819
+          },
+          "url": "https://steack.itch.io/oblivion",
+          "short_text": "JRPG for the 1-bit Game Jam #2.",
+          "id": 2370852,
+          "cover": "https://img.itch.zone/aW1nLzE0MDQwMzE5LnBuZw==/300x240%23c/5IwOkT.png",
+          "cover_color": "#000000"
+        },
+        "url": "/jam/1-bit-jam-n2/rate/2370852",
+        "rating_count": 24
+      },
+      "details": {
+        "title": "Oblivion",
+        "description": "Video\n\n\n\nResult : #20 / 314Oblivion is a JRPG 1 bit for the 1-bit Game Jam #2.\nTheme : You Start With Everything And End With Nothing\nPlay with Mouse only !\nI recommend to play in Full Screen (right bottom corner).",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE0MDQwMzE5LnBuZw==/original/fLwmEo.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Author": "Steack",
+          "Genre": "Role Playing",
+          "Made with": "Unity",
+          "Tags": "1-bit, Fantasy, JRPG, Pixel Art, Retro"
+        }
+      }
+    },
+    {
+      "gameId": 2373935,
+      "gameUrl": "https://sylvallion.itch.io/geometrica",
+      "overallRank": 41,
+      "topCategories": [
+        "Originality",
+        "Is the graphics 1 bit?"
+      ],
+      "resultData": {
+        "score": 3.8333333333333,
+        "id": 2373935,
+        "rating_count": 11,
+        "cover_url": "https://img.itch.zone/aW1nLzE0MDYwNTE2LnBuZw==/300x240%23c/j8iJMh.png",
+        "url": "https://itch.io/jam/1-bit-jam-n2/rate/2373935",
+        "title": "Geometrica",
+        "contributors": [
+          {
+            "name": "Sylv'Allion",
+            "id": 8819512
+          }
+        ],
+        "rank": 41,
+        "criteria": [
+          {
+            "name": "Music",
+            "score": 2.5454545454545,
+            "rank": 181,
+            "raw_score": 2.5454545454545
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.4545454545455,
+            "rank": 60,
+            "raw_score": 3.4545454545455
+          },
+          {
+            "name": "Art",
+            "score": 3.8181818181818,
+            "rank": 66,
+            "raw_score": 3.8181818181818
+          },
+          {
+            "name": "Theme",
+            "score": 3.3636363636364,
+            "rank": 91,
+            "raw_score": 3.3636363636364
+          },
+          {
+            "name": "Originality",
+            "score": 4.8181818181818,
+            "rank": 1,
+            "raw_score": 4.8181818181818
+          },
+          {
+            "name": "Is the graphics 1 bit?",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          }
+        ],
+        "raw_score": 3.8333333333333
+      },
+      "entryData": {
+        "coolness": 96,
+        "created_at": "2023-11-18 10:21:32",
+        "id": 474998,
+        "game": {
+          "platforms": [
+            "windows"
+          ],
+          "user": {
+            "name": "Sylv'Allion",
+            "url": "https://sylvallion.itch.io",
+            "id": 8819512
+          },
+          "url": "https://sylvallion.itch.io/geometrica",
+          "short_text": "Play some puzzle with procedurally generated shapes. Will you be able to guess the right combinations ?",
+          "id": 2373935,
+          "cover": "https://img.itch.zone/aW1nLzE0MDYwNTE2LnBuZw==/300x240%23c/j8iJMh.png",
+          "title": "Geometrica"
+        },
+        "url": "/jam/1-bit-jam-n2/rate/2373935",
+        "rating_count": 11
+      },
+      "details": {
+        "title": "Geometrica",
+        "description": "Submission for 1-bit jam #2\nTheme : You Start With Everything And End With Nothing\n\nAttention! Unidentified object approaching!\nTry to guess each shape by interweaving different geometric figures, in order to cancel their imminent impact on the planet. But for this you will have to shake your brain, because it is not enough to reproduce the shape with the same color. You have to use opposite colors!\nClick on the different settings.\nThe first geometric shape generated is in the background. The following ones stick on top.\nThe scale of the figure refers to its size relative to the parent.\nYou made a mistake? You can always undo your choices to go back.\nWhen you think that everything is good, you just have to validate, and... hope that the generated form can cancel the other one! And of course, you have to choose every parameters at your disposition.\nExtract the .exe and the .pck in the same folder",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjM3MzkzNS8xNDA2MDgzOS5wbmc=/original/gKv%2BQc.png",
+          "https://img.itch.zone/aW1hZ2UvMjM3MzkzNS8xNDA2MDUyMC5wbmc=/original/1KdeR4.png",
+          "https://img.itch.zone/aW1hZ2UvMjM3MzkzNS8xNDA2MDUyMS5wbmc=/original/uUgrfs.png",
+          "https://img.itch.zone/aW1hZ2UvMjM3MzkzNS8xNDA2MDUyMy5wbmc=/original/KRzX5t.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Author": "Sylv'Allion",
+          "Genre": "Puzzle",
+          "Tags": "1bit, Black and White, Space"
+        }
+      }
+    },
+    {
+      "gameId": 2373348,
+      "gameUrl": "https://slavacat.itch.io/goo",
+      "overallRank": 47,
+      "topCategories": [
+        "Originality"
+      ],
+      "resultData": {
+        "score": 3.8030303030303,
+        "id": 2373348,
+        "rating_count": 11,
+        "cover_url": "https://img.itch.zone/aW1nLzE0MDU0NzQ2LnBuZw==/300x240%23c/%2FhZ2iK.png",
+        "url": "https://itch.io/jam/1-bit-jam-n2/rate/2373348",
+        "title": "Goo",
+        "contributors": [
+          {
+            "name": "slavacat",
+            "id": 2265078
+          }
+        ],
+        "rank": 47,
+        "criteria": [
+          {
+            "name": "Music",
+            "score": 3.5454545454545,
+            "rank": 59,
+            "raw_score": 3.5454545454545
+          },
+          {
+            "name": "Art",
+            "score": 3.0909090909091,
+            "rank": 132,
+            "raw_score": 3.0909090909091
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.8181818181818,
+            "rank": 29,
+            "raw_score": 3.8181818181818
+          },
+          {
+            "name": "Theme",
+            "score": 2.7272727272727,
+            "rank": 190,
+            "raw_score": 2.7272727272727
+          },
+          {
+            "name": "Is the graphics 1 bit?",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Originality",
+            "score": 4.6363636363636,
+            "rank": 2,
+            "raw_score": 4.6363636363636
+          }
+        ],
+        "raw_score": 3.8030303030303
+      },
+      "entryData": {
+        "coolness": 24,
+        "created_at": "2023-11-17 23:45:10",
+        "id": 474815,
+        "game": {
+          "title": "Goo",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "slavacat",
+            "url": "https://slavacat.itch.io",
+            "id": 2265078
+          },
+          "url": "https://slavacat.itch.io/goo",
+          "short_text": "We're all in this together",
+          "id": 2373348,
+          "cover": "https://img.itch.zone/aW1nLzE0MDU0NzQ2LnBuZw==/300x240%23c/%2FhZ2iK.png",
+          "cover_color": "#000000"
+        },
+        "url": "/jam/1-bit-jam-n2/rate/2373348",
+        "rating_count": 11
+      },
+      "details": {
+        "title": "Goo",
+        "description": "Controls as follows if they are unclear in the game:\n[Space] - Create node\n[Backspace] - Delete Node\n[Arrows] - Move Node\n[WASD] - Target Node\n\nStart with everything, end with nothing: You start with all the nodes, and end with none (or very few) by the end.\n\nPhysics are wacky on webver--please use the executable if you desire a more accurate experience.\n\nMusic by: https://timbeek.itch.io/dystopian [Slowed]",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE0MDU0NzQ2LnBuZw==/original/tJbBOf.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Author": "slavacat",
+          "Genre": "Puzzle, Platformer, Simulation",
+          "Made with": "Godot",
+          "Tags": "2D, goo, Physics",
+          "Average session": "About a half-hour",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": 2302062,
+      "gameUrl": "https://gramubyto.itch.io/deep-ascend",
+      "overallRank": 11,
+      "topCategories": [
+        "Is the graphics 1 bit?"
+      ],
+      "resultData": {
+        "score": 4.2380952380952,
+        "id": 2302062,
+        "rating_count": 7,
+        "cover_url": "https://img.itch.zone/aW1nLzE0MDYwOTU0LmdpZg==/300x240%23c/ginpGR.gif",
+        "url": "https://itch.io/jam/1-bit-jam-n2/rate/2302062",
+        "title": "Deep Ascend",
+        "contributors": [
+          {
+            "name": "GramuByto",
+            "id": 1607219
+          }
+        ],
+        "rank": 11,
+        "criteria": [
+          {
+            "name": "Music",
+            "score": 3.5714285714286,
+            "rank": 51,
+            "raw_score": 3.5714285714286
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.8571428571429,
+            "rank": 26,
+            "raw_score": 3.8571428571429
+          },
+          {
+            "name": "Art",
+            "score": 4.4285714285714,
+            "rank": 14,
+            "raw_score": 4.4285714285714
+          },
+          {
+            "name": "Theme",
+            "score": 4.4285714285714,
+            "rank": 12,
+            "raw_score": 4.4285714285714
+          },
+          {
+            "name": "Is the graphics 1 bit?",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Originality",
+            "score": 4.1428571428571,
+            "rank": 32,
+            "raw_score": 4.1428571428571
+          }
+        ],
+        "raw_score": 4.2380952380952
+      },
+      "entryData": {
+        "coolness": 3,
+        "created_at": "2023-11-18 14:55:55",
+        "id": 475149,
+        "game": {
+          "gif_cover": "https://img.itch.zone/aW1nLzE0MDYwOTU0LmdpZg==/original/K3%2F%2Fjf.gif",
+          "url": "https://gramubyto.itch.io/deep-ascend",
+          "short_text": "GET TO THE SURFACE!!!",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "GramuByto",
+            "url": "https://gramubyto.itch.io",
+            "id": 1607219
+          },
+          "title": "Deep Ascend",
+          "id": 2302062,
+          "cover": "https://img.itch.zone/aW1nLzE0MDYwOTU0LmdpZg==/300x240%23c/ginpGR.gif",
+          "cover_color": "#0b4877"
+        },
+        "url": "/jam/1-bit-jam-n2/rate/2302062",
+        "rating_count": 7
+      },
+      "details": {
+        "title": "Deep Ascend",
+        "description": "You managed to get into the suit before the underwater base completely flooded. Your suit is partially destroyed due to the explosion only giving you moments before you suffocate. Get to the safe areas to recover where you'll also get random tools to help you get to the surface!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjMwMjA2Mi8xNDA2MDg3Ni5wbmc=/original/ml0oVK.png",
+          "https://img.itch.zone/aW1hZ2UvMjMwMjA2Mi8xNDA2MDg3Ny5wbmc=/original/mm4i3s.png",
+          "https://img.itch.zone/aW1hZ2UvMjMwMjA2Mi8xNDA2MDg3OC5wbmc=/original/BvQsvd.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Author": "GramuByto",
+          "Genre": "Puzzle",
+          "Made with": "Godot"
+        }
+      }
+    },
+    {
+      "gameId": 2374321,
+      "gameUrl": "https://stevepixelface.itch.io/super-disappearing-world",
+      "overallRank": 13,
+      "topCategories": [
+        "Is the graphics 1 bit?"
+      ],
+      "resultData": {
+        "score": 4.1818181818182,
+        "id": 2374321,
+        "rating_count": 22,
+        "cover_url": "https://img.itch.zone/aW1nLzE0MDYxMDUzLnBuZw==/300x240%23c/T813AE.png",
+        "url": "https://itch.io/jam/1-bit-jam-n2/rate/2374321",
+        "title": "Super Disappearing World",
+        "contributors": [
+          {
+            "name": "StevePixelFace",
+            "id": 8495
+          }
+        ],
+        "rank": 13,
+        "criteria": [
+          {
+            "name": "Music",
+            "score": 3.8181818181818,
+            "rank": 31,
+            "raw_score": 3.8181818181818
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.9545454545455,
+            "rank": 22,
+            "raw_score": 3.9545454545455
+          },
+          {
+            "name": "Art",
+            "score": 4.0454545454545,
+            "rank": 48,
+            "raw_score": 4.0454545454545
+          },
+          {
+            "name": "Theme",
+            "score": 4.4545454545455,
+            "rank": 11,
+            "raw_score": 4.4545454545455
+          },
+          {
+            "name": "Originality",
+            "score": 3.8181818181818,
+            "rank": 57,
+            "raw_score": 3.8181818181818
+          },
+          {
+            "name": "Is the graphics 1 bit?",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          }
+        ],
+        "raw_score": 4.1818181818182
+      },
+      "entryData": {
+        "coolness": 21,
+        "created_at": "2023-11-18 14:47:09",
+        "id": 475117,
+        "game": {
+          "title": "Super Disappearing World",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "StevePixelFace",
+            "url": "https://stevepixelface.itch.io",
+            "id": 8495
+          },
+          "url": "https://stevepixelface.itch.io/super-disappearing-world",
+          "short_text": "Rescue Doug from the Disappearing World!",
+          "id": 2374321,
+          "cover": "https://img.itch.zone/aW1nLzE0MDYxMDUzLnBuZw==/300x240%23c/T813AE.png",
+          "cover_color": "#72a488"
+        },
+        "url": "/jam/1-bit-jam-n2/rate/2374321",
+        "rating_count": 22
+      },
+      "details": {
+        "title": "Super Disappearing World",
+        "description": "ABOUT\nYour mate Doug is missing! Doug went adventuring in the Disappearing World and hasn't returned. It's up to you to go find him!\nWatch out! Things may seem like they have disappeared down there, but just because you can't see them doesn't mean they aren't there.\nCreated in 24hrs for the 1-BIT JAM #2. Vote here.\n\n\n\nHOW TO PLAY\nUse the arrow keys for movement and space to jump.\n\nCREDITS\nMusic - Andrea Baroni UPDATEv1.1 Hardcore Mode + Music loop bug fix",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjM3NDMyMS8xNDA2MDg5Mi5wbmc=/original/nVDf%2Fu.png",
+          "https://img.itch.zone/aW1hZ2UvMjM3NDMyMS8xNDA2MDg0Ni5wbmc=/original/%2BT02P5.png",
+          "https://img.itch.zone/aW1hZ2UvMjM3NDMyMS8xNDA2MDg0Ny5wbmc=/original/bPdcCc.png",
+          "https://img.itch.zone/aW1hZ2UvMjM3NDMyMS8xNDA2MDg0OC5wbmc=/original/uDJwXe.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "StevePixelFace",
+          "Genre": "Platformer",
+          "Tags": "1-bit, 8-Bit, Godot, Pixel Art, Short, Simple"
+        }
+      }
+    },
+    {
+      "gameId": 2374382,
+      "gameUrl": "https://munnchai.itch.io/up-and-away1",
+      "overallRank": 27,
+      "topCategories": [
+        "Is the graphics 1 bit?"
+      ],
+      "resultData": {
+        "score": 3.962962962963,
+        "id": 2374382,
+        "rating_count": 9,
+        "cover_url": "https://img.itch.zone/aW1nLzE0MDYxMzIyLmpwZw==/300x240%23c/vtEftF.jpg",
+        "url": "https://itch.io/jam/1-bit-jam-n2/rate/2374382",
+        "title": "Up and Away",
+        "contributors": [
+          {
+            "name": "Munn Chai",
+            "id": 9139659
+          }
+        ],
+        "rank": 27,
+        "criteria": [
+          {
+            "name": "Music",
+            "score": 2.8888888888889,
+            "rank": 142,
+            "raw_score": 2.8888888888889
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.6666666666667,
+            "rank": 34,
+            "raw_score": 3.6666666666667
+          },
+          {
+            "name": "Art",
+            "score": 4.5555555555556,
+            "rank": 11,
+            "raw_score": 4.5555555555556
+          },
+          {
+            "name": "Originality",
+            "score": 4,
+            "rank": 40,
+            "raw_score": 4
+          },
+          {
+            "name": "Is the graphics 1 bit?",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Theme",
+            "score": 3.6666666666667,
+            "rank": 59,
+            "raw_score": 3.6666666666667
+          }
+        ],
+        "raw_score": 3.962962962963
+      },
+      "entryData": {
+        "coolness": 0,
+        "created_at": "2023-11-18 14:59:32",
+        "id": 475171,
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Munn Chai",
+            "url": "https://munnchai.itch.io",
+            "id": 9139659
+          },
+          "url": "https://munnchai.itch.io/up-and-away1",
+          "title": "Up and Away",
+          "cover": "https://img.itch.zone/aW1nLzE0MDYxMzIyLmpwZw==/300x240%23c/vtEftF.jpg",
+          "id": 2374382
+        },
+        "url": "/jam/1-bit-jam-n2/rate/2374382",
+        "rating_count": 9
+      },
+      "details": {
+        "title": "Up and Away",
+        "description": "Up and Away\nExplore this rapidly flooding world, meet friendly companions, and escape the planet using the town scientist's newest invention. \nAlthough, with so little time to spare, who can you save?\nControls\nA - LeftD - RightSpace - JumpE - Interact\n\nMade in Godot\nAlso on: https://github.com/Aledax/1BitGameJam",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE0MDYxMzIyLmpwZw==/original/LmemOF.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 1.0 out of 5 stars(1 total ratings)",
+          "Author": "Munn Chai",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "2D, Atmospheric, Indie, Pixel Art, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 2373046,
+      "gameUrl": "https://evigouroux.itch.io/pure-spite",
+      "overallRank": 28,
+      "topCategories": [
+        "Is the graphics 1 bit?"
+      ],
+      "resultData": {
+        "score": 3.9555555555556,
+        "id": 2373046,
+        "rating_count": 15,
+        "cover_url": "https://img.itch.zone/aW1nLzE0MDUyODA0LnBuZw==/300x240%23c/SUu3a3.png",
+        "url": "https://itch.io/jam/1-bit-jam-n2/rate/2373046",
+        "title": "Pure Spite",
+        "contributors": [
+          {
+            "name": "evigouroux",
+            "id": 3742045
+          }
+        ],
+        "rank": 28,
+        "criteria": [
+          {
+            "name": "Art",
+            "score": 3.8,
+            "rank": 67,
+            "raw_score": 3.8
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.9333333333333,
+            "rank": 23,
+            "raw_score": 3.9333333333333
+          },
+          {
+            "name": "Music",
+            "score": 3.1333333333333,
+            "rank": 114,
+            "raw_score": 3.1333333333333
+          },
+          {
+            "name": "Originality",
+            "score": 3.6666666666667,
+            "rank": 72,
+            "raw_score": 3.6666666666667
+          },
+          {
+            "name": "Is the graphics 1 bit?",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Theme",
+            "score": 4.2,
+            "rank": 19,
+            "raw_score": 4.2
+          }
+        ],
+        "raw_score": 3.9555555555556
+      },
+      "entryData": {
+        "coolness": 77,
+        "created_at": "2023-11-17 19:42:28",
+        "id": 474755,
+        "game": {
+          "user": {
+            "name": "evigouroux",
+            "url": "https://evigouroux.itch.io",
+            "id": 3742045
+          },
+          "id": 2373046,
+          "title": "Pure Spite",
+          "url": "https://evigouroux.itch.io/pure-spite",
+          "cover": "https://img.itch.zone/aW1nLzE0MDUyODA0LnBuZw==/300x240%23c/SUu3a3.png",
+          "cover_color": "#000000"
+        },
+        "url": "/jam/1-bit-jam-n2/rate/2373046",
+        "rating_count": 15
+      },
+      "details": {
+        "title": "Pure Spite",
+        "description": "\nCreated in one week for the second 1Bit Jam using Gamemaker Studio 2\nAll assets and code were made during the jam except for its sound effects and music.\nSound effect : Kronbitshttps://kronbits.itch.io/retrosfx\nMusics : Nebula Audiohttps://nebula-audio.itch.io/space-sci-fi-cinematic-pack-i\n\nPlay as one of the last earthling mech pilots. A man with a death wish  on a mad crusade against the Thuxites motivated by absolute spite.\nLevel every maps with your weapons and gadget but beware : after every mission you will lose one of them.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjM3MzA0Ni8xNDA2MzQ3Ny5wbmc=/original/f%2BJIR%2B.png",
+          "https://img.itch.zone/aW1hZ2UvMjM3MzA0Ni8xNDA2MzQ3Ni5wbmc=/original/tyS00G.png",
+          "https://img.itch.zone/aW1hZ2UvMjM3MzA0Ni8xNDA2MzQ3OC5wbmc=/original/t9n%2FAO.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Author": "evigouroux",
+          "Genre": "Action",
+          "Tags": "2D, Black and White, run-and-gun, Sci-fi, Shoot 'Em Up"
+        }
+      }
+    },
+    {
+      "gameId": 2373995,
+      "gameUrl": "https://steffenjoergensen.itch.io/terminal-tile",
+      "overallRank": 40,
+      "topCategories": [
+        "Is the graphics 1 bit?"
+      ],
+      "resultData": {
+        "score": 3.8461538461538,
+        "id": 2373995,
+        "rating_count": 13,
+        "cover_url": "https://img.itch.zone/aW1nLzE0MDU4NjcyLnBuZw==/300x240%23c/HYnoQy.png",
+        "url": "https://itch.io/jam/1-bit-jam-n2/rate/2373995",
+        "title": "Terminal Tile",
+        "contributors": [
+          {
+            "name": "SteffenJoergensen",
+            "id": 9015887
+          }
+        ],
+        "rank": 40,
+        "criteria": [
+          {
+            "name": "Music",
+            "score": 3.6153846153846,
+            "rank": 48,
+            "raw_score": 3.6153846153846
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.2307692307692,
+            "rank": 86,
+            "raw_score": 3.2307692307692
+          },
+          {
+            "name": "Art",
+            "score": 3.1538461538462,
+            "rank": 125,
+            "raw_score": 3.1538461538462
+          },
+          {
+            "name": "Originality",
+            "score": 3.9230769230769,
+            "rank": 48,
+            "raw_score": 3.9230769230769
+          },
+          {
+            "name": "Theme",
+            "score": 4.1538461538462,
+            "rank": 23,
+            "raw_score": 4.1538461538462
+          },
+          {
+            "name": "Is the graphics 1 bit?",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          }
+        ],
+        "raw_score": 3.8461538461538
+      },
+      "entryData": {
+        "coolness": 0,
+        "created_at": "2023-11-18 12:00:29",
+        "id": 475024,
+        "game": {
+          "title": "Terminal Tile",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "SteffenJoergensen",
+            "url": "https://steffenjoergensen.itch.io",
+            "id": 9015887
+          },
+          "url": "https://steffenjoergensen.itch.io/terminal-tile",
+          "short_text": "Think before moving!",
+          "id": 2373995,
+          "cover": "https://img.itch.zone/aW1nLzE0MDU4NjcyLnBuZw==/300x240%23c/HYnoQy.png",
+          "cover_color": "#16161b"
+        },
+        "url": "/jam/1-bit-jam-n2/rate/2373995",
+        "rating_count": 13
+      },
+      "details": {
+        "title": "Terminal Tile",
+        "description": "Two-Toned Goodness!\nThis game was made as an entry to 1-Bit Jam #2. Besides the obvious limitation of using only two colors, the theme of this game jam was \"You start with everything and end with nothing\" - and what more claustrophobic than a shrinking play area?\nI tried putting some thought behind this game, and I quickly realized how hard it is to make strategic games.\n\nInstructions\nYou must move to an adjacent tile.For every move you make an event happens.Sometimes the events cause a tile to dissapear.You might wanna collect the teleporter before it's lost.Try to position yourself on the Terminal Tile.\n\nI can't reach 10 streak myself, lol. Good luck!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjM3Mzk5NS8xNDA1ODg2My5wbmc=/original/ArK4RF.png",
+          "https://img.itch.zone/aW1hZ2UvMjM3Mzk5NS8xNDA1ODg2NC5wbmc=/original/%2BcNhQ8.png",
+          "https://img.itch.zone/aW1hZ2UvMjM3Mzk5NS8xNDA1ODg2NS5wbmc=/original/4E6tEC.png",
+          "https://img.itch.zone/aW1hZ2UvMjM3Mzk5NS8xNDA1ODg2Ny5wbmc=/original/mxxZkD.png",
+          "https://img.itch.zone/aW1hZ2UvMjM3Mzk5NS8xNDA1ODg2Ni5wbmc=/original/lrGx%2FG.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "SteffenJoergensen",
+          "Genre": "Strategy, Puzzle",
+          "Made with": "Godot",
+          "Tags": "1-bit, 8-Bit, Godot, Indie, Isometric, Minimalist, Pixel Art, Singleplayer, Tileset"
+        }
+      }
+    },
+    {
+      "gameId": 2373249,
+      "gameUrl": "https://manic-melancholia.itch.io/decay-of-opulence-jam",
+      "overallRank": 41,
+      "topCategories": [
+        "Is the graphics 1 bit?"
+      ],
+      "resultData": {
+        "score": 3.8333333333333,
+        "id": 2373249,
+        "rating_count": 7,
+        "cover_url": "https://img.itch.zone/aW1nLzE0MDU0NzY4LnBuZw==/300x240%23c/W735V6.png",
+        "url": "https://itch.io/jam/1-bit-jam-n2/rate/2373249",
+        "title": "Decay of Opulence (Game Jam)",
+        "contributors": [
+          {
+            "name": "Manic",
+            "id": 4289246
+          },
+          {
+            "name": "DignifiedDonut",
+            "id": 2660271
+          }
+        ],
+        "rank": 41,
+        "criteria": [
+          {
+            "name": "Music",
+            "score": 4.1428571428571,
+            "rank": 10,
+            "raw_score": 4.1428571428571
+          },
+          {
+            "name": "Art",
+            "score": 4.1428571428571,
+            "rank": 39,
+            "raw_score": 4.1428571428571
+          },
+          {
+            "name": "Gameplay",
+            "score": 2.8571428571429,
+            "rank": 142,
+            "raw_score": 2.8571428571429
+          },
+          {
+            "name": "Is the graphics 1 bit?",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          },
+          {
+            "name": "Theme",
+            "score": 3.1428571428571,
+            "rank": 119,
+            "raw_score": 3.1428571428571
+          },
+          {
+            "name": "Originality",
+            "score": 3.7142857142857,
+            "rank": 65,
+            "raw_score": 3.7142857142857
+          }
+        ],
+        "raw_score": 3.8333333333333
+      },
+      "entryData": {
+        "coolness": 7,
+        "created_at": "2023-11-18 04:35:13",
+        "id": 474896,
+        "contributors": [
+          {
+            "name": "Manic",
+            "url": "https://manic-melancholia.itch.io"
+          },
+          {
+            "name": "DignifiedDonut",
+            "url": "https://dignifieddonut.itch.io"
+          }
+        ],
+        "game": {
+          "title": "Decay of Opulence (Game Jam)",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Manic",
+            "url": "https://manic-melancholia.itch.io",
+            "id": 4289246
+          },
+          "url": "https://manic-melancholia.itch.io/decay-of-opulence-jam",
+          "short_text": "Explore the ruins of your town and meet crazy fanatics.",
+          "id": 2373249,
+          "cover": "https://img.itch.zone/aW1nLzE0MDU0NzY4LnBuZw==/300x240%23c/W735V6.png",
+          "cover_color": "#000000"
+        },
+        "url": "/jam/1-bit-jam-n2/rate/2373249",
+        "rating_count": 7
+      },
+      "details": {
+        "title": "Decay of Opulence (Game Jam)",
+        "description": "Updates:\nAdded downloadable executable for windows.Added collision in the church so you can't walk into the void.Made the nail bat weaker.Removed bug that didn't allow the battle music to play.Fixed some grammar mistakes.WASD keys and Z should work on the battle screen now.\nFeatures:\nTwo Branching StorylinesTwo Final Boss FightsTwo Story EncountersA Nail Bat!Haunting Pixel Art & AnimationOriginal Adaptive ScoreAn Octopus Ghost?A Raven on a Pumpkin?\nControls:\nMovement - WASD / Arrow KeysInteract - Space / Z\nThe theme was \"You Start With Everything And End With Nothing\" so I decided to be creative and start in a town that had everything it needed to survive and prosper but now it has gone to ruin. Explore the ruins and you'll meet some people who want you to do a few favors for them.The last few games that I have made have been created relatively quickly so I decided to challenge myself even further for this jam. There were plenty of times when I got stressed out but after cutting many ideas, I completed my game. There are a ton of things I want to add to this game, but I am happy with how it came out for this jam.Code & art - Manic (me)\nEnemy Art - Dissolved_Sam\nMusic & SFX - DignifiedDonut\n**Font Credits:** - \"DOUBLE HOMICIDE\" font by Font End Dev\nMade with Godot 4.1 and Aseprite.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjM3MzI0OS8xNDA1NDk0Ny5wbmc=/original/KyRKQQ.png",
+          "https://img.itch.zone/aW1hZ2UvMjM3MzI0OS8xNDA1NDk0OC5wbmc=/original/dOm91Q.png",
+          "https://img.itch.zone/aW1hZ2UvMjM3MzI0OS8xNDA1NDk0OS5wbmc=/original/CJZFva.png",
+          "https://img.itch.zone/aW1hZ2UvMjM3MzI0OS8xNDA1NDk1MS5wbmc=/original/%2B89Xfz.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Authors": "Manic, DignifiedDonut",
+          "Genre": "Role Playing",
+          "Made with": "Godot",
+          "Tags": "1-bit, Atmospheric, Black and White, Creepy, Godot, Horror, Pixel Art, Turn-based"
+        }
+      }
+    }
+  ]
+}

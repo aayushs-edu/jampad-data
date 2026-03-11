@@ -1,0 +1,2523 @@
+{
+  "n": 1,
+  "name": "GMTK Game Jam 2025",
+  "url": "https://itch.io/jam/gmtk-2025",
+  "theme": "Loop",
+  "slug": "gmtk-2025",
+  "jamMeta": {
+    "jamType": "ended",
+    "ratings": "197,073",
+    "entries": "9,551",
+    "title": "GMTK Game Jam 2025",
+    "jamURL": "https://itch.io/jam/gmtk-2025",
+    "hosts": {
+      "Game Maker's Toolkit": "https://gmtk.itch.io",
+      "#GMTKJam": "https://bsky.app/hashtag/GMTKJam"
+    },
+    "jamID": "385727"
+  },
+  "totalEntries": 9264,
+  "ranked": true,
+  "hasCategories": true,
+  "needsManualSelection": false,
+  "categories": [
+    "Creativity",
+    "Narrative",
+    "Audio",
+    "Enjoyment",
+    "Artwork"
+  ],
+  "topGames": [
+    {
+      "gameId": 3774197,
+      "gameUrl": "https://twice-twice.itch.io/mobias-trip",
+      "overallRank": 1,
+      "topCategories": [
+        "Creativity",
+        "Narrative",
+        "Audio",
+        "Enjoyment",
+        "Artwork"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "twice-twice",
+            "id": 9385065
+          },
+          {
+            "name": "wilfredtheboss",
+            "id": 3988287
+          },
+          {
+            "name": "jneen",
+            "id": 1281001
+          },
+          {
+            "name": "Canyyon",
+            "id": 9257509
+          },
+          {
+            "name": "Stevo19",
+            "id": 6767438
+          },
+          {
+            "name": "HackaKat",
+            "id": 5818361
+          },
+          {
+            "name": "basilicon",
+            "id": 6812548
+          },
+          {
+            "name": "marble_smm",
+            "id": 14491001
+          },
+          {
+            "name": "Clankk",
+            "id": 8095915
+          }
+        ],
+        "title": "Mobia's Trip",
+        "rank": 1,
+        "url": "https://itch.io/jam/gmtk-2025/rate/3774197",
+        "cover_url": "https://img.itch.zone/aW1nLzIyNTc3ODk5LnBuZw==/300x240%23c/1S9z8F.png",
+        "id": 3774197,
+        "criteria": [
+          {
+            "name": "Narrative",
+            "score": 3.7906976744186,
+            "rank": 353,
+            "raw_score": 3.7906976744186
+          },
+          {
+            "name": "Creativity",
+            "score": 4.8139534883721,
+            "rank": 2,
+            "raw_score": 4.8139534883721
+          },
+          {
+            "name": "Artwork",
+            "score": 4.2558139534884,
+            "rank": 458,
+            "raw_score": 4.2558139534884
+          },
+          {
+            "name": "Audio",
+            "score": 4.0697674418605,
+            "rank": 168,
+            "raw_score": 4.0697674418605
+          },
+          {
+            "name": "Enjoyment",
+            "score": 4.3023255813953,
+            "rank": 91,
+            "raw_score": 4.3023255813953
+          },
+          {
+            "name": "Mark's Favourites",
+            "score": 0,
+            "rank": 1,
+            "raw_score": 0
+          }
+        ],
+        "rating_count": 43
+      },
+      "entryData": {
+        "coolness": 33,
+        "created_at": "2025-08-03 16:43:37",
+        "id": 741300,
+        "contributors": [
+          {
+            "name": "twice-twice",
+            "url": "https://twice-twice.itch.io"
+          },
+          {
+            "name": "wilfredtheboss",
+            "url": "https://wilfredtheboss.itch.io"
+          },
+          {
+            "name": "jneen",
+            "url": "https://jneen.itch.io"
+          },
+          {
+            "name": "Canyyon",
+            "url": "https://canyyon.itch.io"
+          },
+          {
+            "name": "Stevo19",
+            "url": "https://stevo19.itch.io"
+          },
+          {
+            "name": "HackaKat",
+            "url": "https://hackakat.itch.io"
+          },
+          {
+            "name": "basilicon",
+            "url": "https://basilicon.itch.io"
+          },
+          {
+            "name": "marble_smm",
+            "url": "https://marble-smm.itch.io"
+          },
+          {
+            "name": "Clankk",
+            "url": "https://clankk.itch.io"
+          }
+        ],
+        "game": {
+          "title": "Mobia's Trip",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "user": {
+            "name": "twice-twice",
+            "url": "https://twice-twice.itch.io",
+            "id": 9385065
+          },
+          "url": "https://twice-twice.itch.io/mobias-trip",
+          "short_text": "Screen-wrap your way around the world!",
+          "id": 3774197,
+          "cover": "https://img.itch.zone/aW1nLzIyNTc3ODk5LnBuZw==/300x240%23c/1S9z8F.png",
+          "cover_color": "#2e3b32"
+        },
+        "url": "/jam/gmtk-2025/rate/3774197",
+        "rating_count": 43
+      },
+      "details": {
+        "title": "Mobia's Trip",
+        "description": "Make sure you read the controls!\nNative Windows, Mac, and Linux (x64) versions also available below. If you don't hear music or have performance issues, please try one of those!\n\n\nMobia wanders off into the mist... everything looks so familiar!\nMobia's Trip is a puzzle platformer about screen loops and strange geometry. Position your firefly correctly to phase through walls, gain momentum, and perform cool rolling tricks to unlock new areas!\nWho knows what secrets the forest might hold!\n\n\n08/08/2025 v2 patch notes \n- reimplemented sign that explains controls for locking\n- Fixed issue where respawning would sometimes cause you to be stuck inside the wall\n- Made intro segment less confusing by making shining light brighter\n- Fixed issue where intro segment light wouldn't cut to black\n- Fixed bug where you could regain control after the credits started rolling\n- Updated ending animation\nWant more from us?\nWishlist our game on steam!\nWe're working on a full game, that's also a puzzle platformer! Play the free demo and drop us a wishlist, it helps a ton!https://store.steampowered.com/app/2755990/Miss_Paint/Join our discord server!https://discord.gg/kt8CEd3fTN",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzc3NDE5Ny8yMjU0NDgxNy5wbmc=/original/NUCecd.png",
+          "https://img.itch.zone/aW1hZ2UvMzc3NDE5Ny8yMjUzOTAyMC5wbmc=/original/%2BBm%2B8D.png",
+          "https://img.itch.zone/aW1hZ2UvMzc3NDE5Ny8yMjU0NDg1NS5wbmc=/original/zHWJE9.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 4.9 out of 5 stars(60 total ratings)",
+          "Authors": "twice-twice, wilfredtheboss, jneen, Canyyon, Stevo19, HackaKat, basilicon, marble_smm, Clankk",
+          "Made with": "Godot"
+        }
+      }
+    },
+    {
+      "gameId": 3776578,
+      "gameUrl": "https://goosemachine.itch.io/photoloop",
+      "overallRank": 1,
+      "topCategories": [
+        "Creativity",
+        "Narrative",
+        "Audio",
+        "Enjoyment",
+        "Artwork"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Goose Machine",
+            "id": 13412342
+          },
+          {
+            "name": "felixrl",
+            "id": 1007396
+          },
+          {
+            "name": "jaq!",
+            "id": 11373414
+          },
+          {
+            "name": "y1hua",
+            "id": 11956363
+          },
+          {
+            "name": "Munn Chai",
+            "id": 9139659
+          },
+          {
+            "name": "Simrit",
+            "id": 13944511
+          },
+          {
+            "name": "tyih985",
+            "id": 11951862
+          },
+          {
+            "name": "snbl",
+            "id": 11954665
+          }
+        ],
+        "title": "PhotoLoop",
+        "rank": 1,
+        "url": "https://itch.io/jam/gmtk-2025/rate/3776578",
+        "cover_url": "https://img.itch.zone/aW1nLzIyNDgxODAzLnBuZw==/300x240%23c/Ekizwu.png",
+        "id": 3776578,
+        "criteria": [
+          {
+            "name": "Enjoyment",
+            "score": 4.1176470588235,
+            "rank": 246,
+            "raw_score": 4.1176470588235
+          },
+          {
+            "name": "Narrative",
+            "score": 4.2156862745098,
+            "rank": 90,
+            "raw_score": 4.2156862745098
+          },
+          {
+            "name": "Artwork",
+            "score": 4.6078431372549,
+            "rank": 81,
+            "raw_score": 4.6078431372549
+          },
+          {
+            "name": "Creativity",
+            "score": 4.6862745098039,
+            "rank": 7,
+            "raw_score": 4.6862745098039
+          },
+          {
+            "name": "Audio",
+            "score": 4.1176470588235,
+            "rank": 137,
+            "raw_score": 4.1176470588235
+          },
+          {
+            "name": "Mark's Favourites",
+            "score": 0,
+            "rank": 1,
+            "raw_score": 0
+          }
+        ],
+        "rating_count": 51
+      },
+      "entryData": {
+        "coolness": 54,
+        "created_at": "2025-08-03 06:52:02",
+        "id": 734557,
+        "contributors": [
+          {
+            "name": "Goose Machine",
+            "url": "https://goosemachine.itch.io"
+          },
+          {
+            "name": "felixrl",
+            "url": "https://felixrl.itch.io"
+          },
+          {
+            "name": "jaq!",
+            "url": "https://jaqlynai.itch.io"
+          },
+          {
+            "name": "y1hua",
+            "url": "https://y1hua.itch.io"
+          },
+          {
+            "name": "Munn Chai",
+            "url": "https://munnchai.itch.io"
+          },
+          {
+            "name": "Simrit",
+            "url": "https://simrit.itch.io"
+          },
+          {
+            "name": "tyih985",
+            "url": "https://tyih985.itch.io"
+          },
+          {
+            "name": "snbl",
+            "url": "https://asnbl.itch.io"
+          }
+        ],
+        "game": {
+          "title": "PhotoLoop",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Goose Machine",
+            "url": "https://goosemachine.itch.io",
+            "id": 13412342
+          },
+          "url": "https://goosemachine.itch.io/photoloop",
+          "short_text": "Edit photos for commissioners using your horribly outdated editing software, PhotoLoop!",
+          "id": 3776578,
+          "cover": "https://img.itch.zone/aW1nLzIyNDgxODAzLnBuZw==/300x240%23c/Ekizwu.png",
+          "cover_color": "#6F8C80"
+        },
+        "url": "/jam/gmtk-2025/rate/3776578",
+        "rating_count": 51
+      },
+      "details": {
+        "title": "PhotoLoop",
+        "description": "PhotoLoop\nPhotoLoop is a casual game about editing photos using an outdated editing software that only has the lasso tool. Make sure to make your edits clean and concise, or you might not be able to pay your rent due in five days!\nLeave your best edits in the comments below!\nControls\nThis game can be played completely using the mouse. There are some keyboard shortcuts in the PhotoLoop App. \nCTRL + X: Cut selectionCTRL + C: Copy selectionCTRL + V: Paste selection\nListen to the soundtrack here\nInterested in chatting/our other games? Join our Discord!\n.\n.\n.\n(Pssst... We are also working on a forest builder tower defense called NuTREEnts, which you can wishlist on Steam!)\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzc3NjU3OC8yMjQ4MTUyMS5wbmc=/original/S0aAHz.png",
+          "https://img.itch.zone/aW1hZ2UvMzc3NjU3OC8yMjQ4MTUyMC5wbmc=/original/4dcd8E.png",
+          "https://img.itch.zone/aW1hZ2UvMzc3NjU3OC8yMjQ4MTUxOS5wbmc=/original/Imb7E0.png",
+          "https://img.itch.zone/aW1hZ2UvMzc3NjU3OC8yMjQ4MTUxOC5wbmc=/original/DiROM2.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.6 out of 5 stars(30 total ratings)",
+          "Authors": "Goose Machine, felixrl, jaq!, y1hua, Munn Chai, Simrit, tyih985, snbl",
+          "Genre": "Puzzle",
+          "Made with": "Godot, Bfxr, Logic Pro",
+          "Tags": "2D, Casual, No AI, Singleplayer",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 3779248,
+      "gameUrl": "https://slamdan.itch.io/side-effects",
+      "overallRank": 1,
+      "topCategories": [
+        "Creativity",
+        "Narrative",
+        "Audio",
+        "Enjoyment",
+        "Artwork"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "SlamDan",
+            "id": 9307464
+          },
+          {
+            "name": "JonShmon",
+            "id": 1457004
+          },
+          {
+            "name": "Barnaff",
+            "id": 7210589
+          },
+          {
+            "name": "SirNewton",
+            "id": 693282
+          },
+          {
+            "name": "Sham",
+            "id": 635998
+          },
+          {
+            "name": "MudiDudi",
+            "id": 14498040
+          }
+        ],
+        "title": "SIDE EFFECTS",
+        "rank": 1,
+        "url": "https://itch.io/jam/gmtk-2025/rate/3779248",
+        "cover_url": "https://img.itch.zone/aW1nLzIyNDg5MjY5LnBuZw==/300x240%23c/s1PTQR.png",
+        "id": 3779248,
+        "criteria": [
+          {
+            "name": "Creativity",
+            "score": 4.6829268292683,
+            "rank": 8,
+            "raw_score": 4.6829268292683
+          },
+          {
+            "name": "Narrative",
+            "score": 3.1829268292683,
+            "rank": 1169,
+            "raw_score": 3.1829268292683
+          },
+          {
+            "name": "Audio",
+            "score": 4.1219512195122,
+            "rank": 135,
+            "raw_score": 4.1219512195122
+          },
+          {
+            "name": "Artwork",
+            "score": 4.2926829268293,
+            "rank": 411,
+            "raw_score": 4.2926829268293
+          },
+          {
+            "name": "Enjoyment",
+            "score": 4.280487804878,
+            "rank": 99,
+            "raw_score": 4.280487804878
+          },
+          {
+            "name": "Mark's Favourites",
+            "score": 0,
+            "rank": 1,
+            "raw_score": 0
+          }
+        ],
+        "rating_count": 82
+      },
+      "entryData": {
+        "coolness": 67,
+        "created_at": "2025-08-03 10:31:41",
+        "id": 735611,
+        "contributors": [
+          {
+            "name": "SlamDan",
+            "url": "https://slamdan.itch.io"
+          },
+          {
+            "name": "JonShmon",
+            "url": "https://jonshmon.itch.io"
+          },
+          {
+            "name": "Barnaff",
+            "url": "https://barnaff.itch.io"
+          },
+          {
+            "name": "SirNewton",
+            "url": "https://sirnewton.itch.io"
+          },
+          {
+            "name": "Sham",
+            "url": "https://shamvoxel.itch.io"
+          },
+          {
+            "name": "MudiDudi",
+            "url": "https://mudidudi.itch.io"
+          }
+        ],
+        "game": {
+          "title": "SIDE EFFECTS",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "SlamDan",
+            "url": "https://slamdan.itch.io",
+            "id": 9307464
+          },
+          "url": "https://slamdan.itch.io/side-effects",
+          "short_text": "Nothing Says Loop Like A Good Ol' Cube",
+          "id": 3779248,
+          "cover": "https://img.itch.zone/aW1nLzIyNDg5MjY5LnBuZw==/300x240%23c/s1PTQR.png",
+          "cover_color": "#000000"
+        },
+        "url": "/jam/gmtk-2025/rate/3779248",
+        "rating_count": 82
+      },
+      "details": {
+        "title": "SIDE EFFECTS",
+        "description": "How to Play\nRMB - Rotate CameraLMB - Interact with CubeThe cube is the loop. Turn it once, and everything changes. Turn it again, and you're back where you started... but different!\nRotate rows and columns of the 2x2x2 cube to move objects across different faces.\nEach face has a unique effect, watch the icons above each one. Water hydrates. Fire incinerates. Time does weird stuff.\nSequence matters: Water → Sun = blooming flower. Sun → Water = plant soup.\nYour goal: Get every object into its final form (flower, chick, robot, etc.) and land them all on the same side of the cube.\nObjects loop through life cycles: dead trees can regrow, robots can reboot, frogs can become eggs again. Use the loop. Abuse the loop. Worship the loop. Loop de Loop.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzc3OTI0OC8yMjQ4OTMxOC5wbmc=/original/%2Fj6yNR.png",
+          "https://img.itch.zone/aW1hZ2UvMzc3OTI0OC8yMjQ4OTMxNy5wbmc=/original/1Heblb.png",
+          "https://img.itch.zone/aW1hZ2UvMzc3OTI0OC8yMjQ4OTI4My5wbmc=/original/QVtfwm.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.6 out of 5 stars(7 total ratings)",
+          "Authors": "SlamDan, JonShmon, Barnaff, SirNewton, Sham, MudiDudi",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "Game Maker's Toolkit Jam"
+        }
+      }
+    },
+    {
+      "gameId": 3780775,
+      "gameUrl": "https://lightpotato.itch.io/infinite-energy",
+      "overallRank": 1,
+      "topCategories": [
+        "Creativity",
+        "Narrative",
+        "Audio",
+        "Enjoyment",
+        "Artwork"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "LightPotato",
+            "id": 1528853
+          }
+        ],
+        "title": "Infinite Energy",
+        "rank": 1,
+        "url": "https://itch.io/jam/gmtk-2025/rate/3780775",
+        "cover_url": "https://img.itch.zone/aW1nLzIyNTAwMjA1LnBuZw==/300x240%23c/X3%2F%2By8.png",
+        "id": 3780775,
+        "criteria": [
+          {
+            "name": "Creativity",
+            "score": 4.6524390243902,
+            "rank": 10,
+            "raw_score": 4.6524390243902
+          },
+          {
+            "name": "Artwork",
+            "score": 4.0731707317073,
+            "rank": 767,
+            "raw_score": 4.0731707317073
+          },
+          {
+            "name": "Narrative",
+            "score": 3.1036585365854,
+            "rank": 1335,
+            "raw_score": 3.1036585365854
+          },
+          {
+            "name": "Audio",
+            "score": 3.859756097561,
+            "rank": 373,
+            "raw_score": 3.859756097561
+          },
+          {
+            "name": "Enjoyment",
+            "score": 4.5731707317073,
+            "rank": 13,
+            "raw_score": 4.5731707317073
+          },
+          {
+            "name": "Mark's Favourites",
+            "score": 0,
+            "rank": 1,
+            "raw_score": 0
+          }
+        ],
+        "rating_count": 164
+      },
+      "entryData": {
+        "coolness": 17,
+        "created_at": "2025-08-03 13:49:11",
+        "id": 737093,
+        "game": {
+          "title": "Infinite Energy",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "LightPotato",
+            "url": "https://lightpotato.itch.io",
+            "id": 1528853
+          },
+          "url": "https://lightpotato.itch.io/infinite-energy",
+          "short_text": "puzzle game with irl mechanics",
+          "id": 3780775,
+          "cover": "https://img.itch.zone/aW1nLzIyNTAwMjA1LnBuZw==/300x240%23c/X3%2F%2By8.png",
+          "cover_color": "#8bb5e5"
+        },
+        "url": "/jam/gmtk-2025/rate/3780775",
+        "rating_count": 164
+      },
+      "details": {
+        "title": "Infinite Energy",
+        "description": "Connect extension cords so you can generate infinite energy!!!\nAll necessary information about the game is presented in the manual in-game\n[Music]\nMusMus - diastereomer\nhttps://www.youtube.com/watch?v=99nk5QuTU3k\n[Inspirations]\nPaisible Soirée au fil d'Étoiles by troleoleo, schouery, flugudu, Toffeevore\nhttps://troleoleo.itch.io/paisible-soiree-etoiles\nPolychrome by ImMaxX1\nhttps://www.youtube.com/watch?v=iVBU-iyHQ8k\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzc4MDc3NS8yMjUwMjQ0OS5wbmc=/original/ZqHqtu.png",
+          "https://img.itch.zone/aW1hZ2UvMzc4MDc3NS8yMjUwMjQ0Ny5wbmc=/original/5xcup2.png",
+          "https://img.itch.zone/aW1hZ2UvMzc4MDc3NS8yMjUwMjQ1MC5wbmc=/original/3FHHUs.png",
+          "https://img.itch.zone/aW1hZ2UvMzc4MDc3NS8yMjUwMjQ0OC5wbmc=/original/IXdw61.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.8 out of 5 stars(202 total ratings)",
+          "Author": "LightPotato",
+          "Genre": "Puzzle",
+          "Made with": "Godot"
+        }
+      }
+    },
+    {
+      "gameId": 3767593,
+      "gameUrl": "https://mattgoode.itch.io/songrunner",
+      "overallRank": 1,
+      "topCategories": [
+        "Creativity",
+        "Narrative",
+        "Audio",
+        "Enjoyment",
+        "Artwork"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "MattGoode",
+            "id": 2571637
+          }
+        ],
+        "title": "SongRunner",
+        "rank": 1,
+        "url": "https://itch.io/jam/gmtk-2025/rate/3767593",
+        "cover_url": "https://img.itch.zone/aW1nLzI1NDE4Mjk0LnBuZw==/300x240%23c/EgbaKA.png",
+        "id": 3767593,
+        "criteria": [
+          {
+            "name": "Enjoyment",
+            "score": 4.1896551724138,
+            "rank": 161,
+            "raw_score": 4.1896551724138
+          },
+          {
+            "name": "Creativity",
+            "score": 4.6379310344828,
+            "rank": 11,
+            "raw_score": 4.6379310344828
+          },
+          {
+            "name": "Narrative",
+            "score": 2.0689655172414,
+            "rank": 5277,
+            "raw_score": 2.0689655172414
+          },
+          {
+            "name": "Artwork",
+            "score": 3.2586206896552,
+            "rank": 3086,
+            "raw_score": 3.2586206896552
+          },
+          {
+            "name": "Mark's Favourites",
+            "score": 0,
+            "rank": 1,
+            "raw_score": 0
+          },
+          {
+            "name": "Audio",
+            "score": 4.4827586206897,
+            "rank": 22,
+            "raw_score": 4.4827586206897
+          }
+        ],
+        "rating_count": 58
+      },
+      "entryData": {
+        "coolness": 20,
+        "created_at": "2025-08-03 09:09:57",
+        "id": 735165,
+        "game": {
+          "title": "SongRunner",
+          "platforms": [
+            "windows"
+          ],
+          "user": {
+            "name": "MattGoode",
+            "url": "https://mattgoode.itch.io",
+            "id": 2571637
+          },
+          "url": "https://mattgoode.itch.io/songrunner",
+          "short_text": "A music-based platformer made for the 2025 GMTK Game Jam",
+          "id": 3767593,
+          "cover": "https://img.itch.zone/aW1nLzI1NDE4Mjk0LnBuZw==/300x240%23c/EgbaKA.png",
+          "cover_color": "#632a24"
+        },
+        "url": "/jam/gmtk-2025/rate/3767593",
+        "rating_count": 58
+      },
+      "details": {
+        "title": "SongRunner",
+        "description": "This is SongRunner!\nSongRunner is a puzzle platformer where the platforms are your own musical loops! Speed through dozens of handcrafted single-screen platforming challenges while creating platforms in time with a high energy original soundtrack! \nMade for Game Maker's Toolkit's 2025 game jam (and featured as a favorite!). The original jam submission version for Windows can be downloaded below.\nControls\nCreate platforms: Keyboard keys 1-8 (use the number keys above QWERTY) Move: Left/Right Arrows or A / DJump: SpaceReset level: Tab\nGame Tips\nPlayed notes will \"snap\" into place. If they snap over a level platform, the note will be discarded. If they snap over another existing note, the existing note will be discarded. Level timers start when the player leaves the starting platform or plays any note. Earn a yellow star for completing levels before the star time bar runs out! Earn blue stars by... um... wait how do you earn blue stars..?\nCredits\ncolor palette inspiration - https://www.pixilart.com/palettes/wolf-32-13141font - https://fonts.google.com/share?selection.family=Bagel+Fat+Oneinput icons - https://kenney.nl/assets/input-promptskey art - https://www.artstation.com/philcavalcanti",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzc2NzU5My8yNTQxODMwNy5wbmc=/original/AKMOWs.png",
+          "https://img.itch.zone/aW1hZ2UvMzc2NzU5My8yNTQxODMwMy5wbmc=/original/1QfBIW.png",
+          "https://img.itch.zone/aW1hZ2UvMzc2NzU5My8yNTQxODMwNC5wbmc=/original/nVHNls.png",
+          "https://img.itch.zone/aW1hZ2UvMzc2NzU5My8yNTQxODMwOC5wbmc=/original/KuL0TN.png",
+          "https://img.itch.zone/aW1hZ2UvMzc2NzU5My8yNTQxODMwNi5wbmc=/original/pVUayR.png",
+          "https://img.itch.zone/aW1hZ2UvMzc2NzU5My8yNTQxODMwNS5wbmc=/original/t3wPvH.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.5 out of 5 stars(19 total ratings)",
+          "Author": "MattGoode",
+          "Genre": "Platformer",
+          "Tags": "Music, No AI, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 3778350,
+      "gameUrl": "https://haastregt.itch.io/loophole-pie",
+      "overallRank": 1,
+      "topCategories": [
+        "Creativity",
+        "Narrative",
+        "Audio",
+        "Enjoyment",
+        "Artwork"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "haastregt",
+            "id": 5854373
+          }
+        ],
+        "title": "Loophole Pie",
+        "rank": 1,
+        "url": "https://itch.io/jam/gmtk-2025/rate/3778350",
+        "cover_url": "https://img.itch.zone/aW1nLzIyNTgzMDI5LnBuZw==/300x240%23c/OsV8sk.png",
+        "id": 3778350,
+        "criteria": [
+          {
+            "name": "Enjoyment",
+            "score": 4.2619047619048,
+            "rank": 110,
+            "raw_score": 4.2619047619048
+          },
+          {
+            "name": "Artwork",
+            "score": 3.3333333333333,
+            "rank": 2803,
+            "raw_score": 3.3333333333333
+          },
+          {
+            "name": "Narrative",
+            "score": 3.6190476190476,
+            "rank": 524,
+            "raw_score": 3.6190476190476
+          },
+          {
+            "name": "Creativity",
+            "score": 4.6190476190476,
+            "rank": 13,
+            "raw_score": 4.6190476190476
+          },
+          {
+            "name": "Audio",
+            "score": 3.1904761904762,
+            "rank": 2132,
+            "raw_score": 3.1904761904762
+          },
+          {
+            "name": "Mark's Favourites",
+            "score": 0,
+            "rank": 1,
+            "raw_score": 0
+          }
+        ],
+        "rating_count": 42
+      },
+      "entryData": {
+        "coolness": 23,
+        "created_at": "2025-08-03 08:56:21",
+        "id": 735094,
+        "game": {
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "haastregt",
+            "url": "https://haastregt.itch.io",
+            "id": 5854373
+          },
+          "url": "https://haastregt.itch.io/loophole-pie",
+          "short_text": "Made for GMTK game jam 2025",
+          "id": 3778350,
+          "cover": "https://img.itch.zone/aW1nLzIyNTgzMDI5LnBuZw==/300x240%23c/OsV8sk.png",
+          "title": "Loophole Pie"
+        },
+        "url": "/jam/gmtk-2025/rate/3778350",
+        "rating_count": 42
+      },
+      "details": {
+        "title": "Loophole Pie",
+        "description": "DEV UPDATE: I started development on a co-op version of this concept that will be more elaborate and polished than this 4-day prototype! If you want to stay updated on this project, consider following me on itch or checking out my youtube channel, I will be posting updates there: Haastregt - YouTubeTry to get to the fresh pie the neighbours baked! They keep imposing rules to avoid you getting to it based on your last run. Try to find new loopholes to get to the pie!I found about 20 ways to get to the pie myself, but you may find new or other ways! Post a comment what your most creative loophole was!\nKnown issues:- For aspect ratios other than 16:9, the UI will look a bit messed up. You can still play in the browser in HD by playing minimized to overcome this issue. If you have a FullHD, QHD or 4K screen, make sure to press the full-screen button when playing in the browser!- The physics are a little bit wonky sometimes.\nWatch the video for an idea of what loopholes are possible, but again you might have found others that I didn't! \nI hope you enjoy! Feedback is appreciated!\nCredits:- Linnea: Without her support I would not have been able to put in the time and effort this weekend.  She also was a great playtester!\n- Character & Animation: asset made by João Baltieri- Background music: Claude Debussy Prelude 1 No. 12 Minstrels, played by Walter Gieseking (1953)- Sound effects from Mixkit: paper, opening fence, pickup item, wood breaking, metal/stone/wood landing, bird sounds, compost sounds, falling tree- Fonts: Rushing Shine by MJType, Anima Ace by BlamBot- Speech/thought bubbles by macrovector: link\nAll other assets were created by me during the game jam.Either play in the browser or download the windows build. \nFor the windows build, unzip the folder and double-click the .exe file to start the game",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzc3ODM1MC8yMjU4MzI2NS5naWY=/original/Dxn5fM.gif",
+          "https://img.itch.zone/aW1hZ2UvMzc3ODM1MC8yMjU4MzI2NC5naWY=/original/UKhOrb.gif",
+          "https://img.itch.zone/aW1hZ2UvMzc3ODM1MC8yMjU4MzI2Mi5naWY=/original/6c7Qwb.gif",
+          "https://img.itch.zone/aW1hZ2UvMzc3ODM1MC8yMjU4MzI2My5naWY=/original/IymyBf.gif",
+          "https://img.itch.zone/aW1hZ2UvMzc3ODM1MC8yMjU4MzI2MS5naWY=/original/6j3GSn.gif"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.5 out of 5 stars(24 total ratings)",
+          "Author": "haastregt",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "3D, Indie, loop"
+        }
+      }
+    },
+    {
+      "gameId": 3767969,
+      "gameUrl": "https://cozyfroggames.itch.io/curse-of-the-amethyst-skull",
+      "overallRank": 1,
+      "topCategories": [
+        "Creativity",
+        "Narrative",
+        "Audio",
+        "Enjoyment",
+        "Artwork"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Cozy Frog Games",
+            "id": 11345438
+          }
+        ],
+        "title": "Curse of the Amethyst Skull",
+        "rank": 1,
+        "url": "https://itch.io/jam/gmtk-2025/rate/3767969",
+        "cover_url": "https://img.itch.zone/aW1nLzIyNDI3ODM1LnBuZw==/300x240%23c/CcuPTk.png",
+        "id": 3767969,
+        "criteria": [
+          {
+            "name": "Narrative",
+            "score": 4.5,
+            "rank": 11,
+            "raw_score": 4.5
+          },
+          {
+            "name": "Creativity",
+            "score": 4.5909090909091,
+            "rank": 20,
+            "raw_score": 4.5909090909091
+          },
+          {
+            "name": "Artwork",
+            "score": 4.6818181818182,
+            "rank": 53,
+            "raw_score": 4.6818181818182
+          },
+          {
+            "name": "Audio",
+            "score": 4.3181818181818,
+            "rank": 58,
+            "raw_score": 4.3181818181818
+          },
+          {
+            "name": "Enjoyment",
+            "score": 4.6363636363636,
+            "rank": 9,
+            "raw_score": 4.6363636363636
+          },
+          {
+            "name": "Mark's Favourites",
+            "score": 0,
+            "rank": 1,
+            "raw_score": 0
+          }
+        ],
+        "rating_count": 22
+      },
+      "entryData": {
+        "coolness": 20,
+        "created_at": "2025-08-03 16:21:07",
+        "id": 740071,
+        "game": {
+          "title": "Curse of the Amethyst Skull",
+          "platforms": [
+            "windows",
+            "linux"
+          ],
+          "user": {
+            "name": "Cozy Frog Games",
+            "url": "https://cozyfroggames.itch.io",
+            "id": 11345438
+          },
+          "url": "https://cozyfroggames.itch.io/curse-of-the-amethyst-skull",
+          "short_text": "GMTK 2025. Following the letter of a famous explorer you journey into the legendary Temple of the Amethyst skull.",
+          "id": 3767969,
+          "cover": "https://img.itch.zone/aW1nLzIyNDI3ODM1LnBuZw==/300x240%23c/CcuPTk.png",
+          "cover_color": "#a3393d"
+        },
+        "url": "/jam/gmtk-2025/rate/3767969",
+        "rating_count": 22
+      },
+      "details": {
+        "title": "Curse of the Amethyst Skull",
+        "description": "You receive a mysterious letter claiming to be from a famous adventurer, along with a notepad and unfinished map leading you to the legendary Temple of the Amethyst Skull. Each time the ruins defeat an adventurer, a new one is lured in,  receiving the map and notebook from the previous explorer. You will be learning from your mistakes while solving puzzles, dodging deadly traps and hunting for an ancient treasure in this hybrid old-school dungeon crawler meets point and click adventure that has you equal parts archaeologist and cartographer.\n Can you stop the cycle of adventurers meeting grizzly ends and break the Curse of the Amethyst Skull for good?\nThe blue question marks on the main screen and when the map is open, show the tutorials for the game.\nMade for GMTK 2025 using the Godot Engine.\n\nDeveloped by Cozy Frog Games\nArt, 3D Modelling and Voice acting by Matsta76\nCoding by Lady Strella\nMusic and SFX from Pixabay\n\nIf you enjoyed our game this year, please consider checking out our most recent game on Steam called Interstellar Plunderer.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzc2Nzk2OS8yMjUxODI1Ni5wbmc=/original/OUqn4q.png",
+          "https://img.itch.zone/aW1hZ2UvMzc2Nzk2OS8yMjUxODI1My5wbmc=/original/aKz%2BYH.png",
+          "https://img.itch.zone/aW1hZ2UvMzc2Nzk2OS8yMjUxODI1NS5wbmc=/original/eErzWz.png",
+          "https://img.itch.zone/aW1hZ2UvMzc2Nzk2OS8yMjUxODI1NC5wbmc=/original/e9Fxjy.png",
+          "https://img.itch.zone/aW1hZ2UvMzc2Nzk2OS8yMjUxODMyNS5wbmc=/original/HGyMz0.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows, Linux",
+          "Rating": "Rated 4.7 out of 5 stars(12 total ratings)",
+          "Author": "Cozy Frog Games",
+          "Genre": "Puzzle, Adventure",
+          "Tags": "3D, Atmospheric, Godot, Retro, Short"
+        }
+      }
+    },
+    {
+      "gameId": 3766680,
+      "gameUrl": "https://thecubox.itch.io/voodloop",
+      "overallRank": 1,
+      "topCategories": [
+        "Creativity",
+        "Narrative",
+        "Audio",
+        "Enjoyment",
+        "Artwork"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "CUBOX",
+            "id": 2264315
+          },
+          {
+            "name": "Nate Sassoon",
+            "id": 12602411
+          }
+        ],
+        "title": "VoodLoop",
+        "rank": 1,
+        "url": "https://itch.io/jam/gmtk-2025/rate/3766680",
+        "cover_url": "https://img.itch.zone/aW1nLzIyNTU0NDAwLmdpZg==/300x240%23c/ZH%2F4a4.gif",
+        "id": 3766680,
+        "criteria": [
+          {
+            "name": "Creativity",
+            "score": 4.5731707317073,
+            "rank": 25,
+            "raw_score": 4.5731707317073
+          },
+          {
+            "name": "Mark's Favourites",
+            "score": 0,
+            "rank": 1,
+            "raw_score": 0
+          },
+          {
+            "name": "Audio",
+            "score": 4.5487804878049,
+            "rank": 13,
+            "raw_score": 4.5487804878049
+          },
+          {
+            "name": "Narrative",
+            "score": 3.0731707317073,
+            "rank": 1387,
+            "raw_score": 3.0731707317073
+          },
+          {
+            "name": "Enjoyment",
+            "score": 4.3414634146341,
+            "rank": 73,
+            "raw_score": 4.3414634146341
+          },
+          {
+            "name": "Artwork",
+            "score": 4.6341463414634,
+            "rank": 67,
+            "raw_score": 4.6341463414634
+          }
+        ],
+        "rating_count": 82
+      },
+      "entryData": {
+        "coolness": 35,
+        "created_at": "2025-08-01 10:37:33",
+        "id": 731505,
+        "contributors": [
+          {
+            "name": "CUBOX",
+            "url": "https://thecubox.itch.io"
+          },
+          {
+            "name": "Nate Sassoon",
+            "url": "https://natesassoon.itch.io"
+          }
+        ],
+        "game": {
+          "gif_cover": "https://img.itch.zone/aW1nLzIyNTU0NDAwLmdpZg==/original/I%2FBWjQ.gif",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "CUBOX",
+            "url": "https://thecubox.itch.io",
+            "id": 2264315
+          },
+          "url": "https://thecubox.itch.io/voodloop",
+          "title": "VoodLoop",
+          "id": 3766680,
+          "cover": "https://img.itch.zone/aW1nLzIyNTU0NDAwLmdpZg==/300x240%23c/ZH%2F4a4.gif",
+          "cover_color": "#0d0cff"
+        },
+        "url": "/jam/gmtk-2025/rate/3766680",
+        "rating_count": 82
+      },
+      "details": {
+        "title": "VoodLoop",
+        "description": "ESCAPE!\nYou must solve different puzzles, timing your cards in the right combination inside your loop\n\n⚠IMPORTANT ⚠\n\n\nAudio might not work properly on Safari\n\nCREDITS:\nCode & Art: Cubox\nSoundtracks and SFX: Nate Sasson\nSome SFX: Pixbay",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzc2NjY4MC8yMjU0MDExNi5wbmc=/original/qykTyF.png",
+          "https://img.itch.zone/aW1hZ2UvMzc2NjY4MC8yMjU0MDExMC5wbmc=/original/B4wkVv.png",
+          "https://img.itch.zone/aW1hZ2UvMzc2NjY4MC8yMjU0MDQ0MC5wbmc=/original/HC5G9N.png",
+          "https://img.itch.zone/aW1hZ2UvMzc2NjY4MC8yMjUzOTY3OC5wbmc=/original/8IJOAM.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.7 out of 5 stars(11 total ratings)",
+          "Authors": "CUBOX, Nate Sassoon",
+          "Made with": "Construct"
+        }
+      }
+    },
+    {
+      "gameId": 3772656,
+      "gameUrl": "https://whitehawk9571.itch.io/rhythmetric",
+      "overallRank": 1,
+      "topCategories": [
+        "Creativity",
+        "Narrative",
+        "Audio",
+        "Enjoyment",
+        "Artwork"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Gawyn Games",
+            "id": 2439551
+          }
+        ],
+        "title": "RHYTHMETRIC",
+        "rank": 1,
+        "url": "https://itch.io/jam/gmtk-2025/rate/3772656",
+        "cover_url": "https://img.itch.zone/aW1nLzIyNTEzNjUyLnBuZw==/300x240%23c/6A7YJf.png",
+        "id": 3772656,
+        "criteria": [
+          {
+            "name": "Enjoyment",
+            "score": 4.6666666666667,
+            "rank": 5,
+            "raw_score": 4.6666666666667
+          },
+          {
+            "name": "Audio",
+            "score": 4.8095238095238,
+            "rank": 2,
+            "raw_score": 4.8095238095238
+          },
+          {
+            "name": "Mark's Favourites",
+            "score": 0,
+            "rank": 1,
+            "raw_score": 0
+          },
+          {
+            "name": "Creativity",
+            "score": 4.5714285714286,
+            "rank": 26,
+            "raw_score": 4.5714285714286
+          },
+          {
+            "name": "Narrative",
+            "score": 2.2857142857143,
+            "rank": 4104,
+            "raw_score": 2.2857142857143
+          },
+          {
+            "name": "Artwork",
+            "score": 4.5714285714286,
+            "rank": 96,
+            "raw_score": 4.5714285714286
+          }
+        ],
+        "rating_count": 21
+      },
+      "entryData": {
+        "coolness": 20,
+        "created_at": "2025-08-03 16:02:16",
+        "id": 739405,
+        "game": {
+          "title": "RHYTHMETRIC",
+          "platforms": [
+            "windows"
+          ],
+          "user": {
+            "name": "Gawyn Games",
+            "url": "https://whitehawk9571.itch.io",
+            "id": 2439551
+          },
+          "url": "https://whitehawk9571.itch.io/rhythmetric",
+          "short_text": "Choose your rhythm wisely if you hope to defeat your geometric foes!",
+          "id": 3772656,
+          "cover": "https://img.itch.zone/aW1nLzIyNTEzNjUyLnBuZw==/300x240%23c/6A7YJf.png",
+          "cover_color": "#eeeeee"
+        },
+        "url": "/jam/gmtk-2025/rate/3772656",
+        "rating_count": 21
+      },
+      "details": {
+        "title": "RHYTHMETRIC",
+        "description": "PLAY IN FULLSCREEN WITH SOUND ON FOR THE BEST EXPERIENCE!\nDefeat your geometric foes by placing attack, move, and shield elements in a rhythmic sequence to catchy music loops. \nWarning: Levels 4 and 5 are difficult (but passable)!\n\nControls:\n\nA - Attack, S - Shield, D - Dash. Each in the direction of your mouse or cursor.\nMade for Mark Brown's GMTK Game Jam 2025. Jam theme: Loop!\nThis game pays homage to Soul Knight, Geometry Wars, and Laserwave from the 2020 GMTK Game Jam.\nNOTE: Because this is a graphics intensive game, it did not run well in Web GL, so my jam entry this year is an executable. Download the zip and extract it. RHYTHMETRIC.exe will be in the folder. Thanks for playing!\n\nWill be developed into a full Steam release!\nJoin the discord here: https://discord.gg/pzZnD5Av2hThank you everyone for your interest! I'm currently working on college apps, so progress might be slow for a short while!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzc3MjY1Ni8yMjUxODAyMC5wbmc=/original/5vr5ZJ.png",
+          "https://img.itch.zone/aW1hZ2UvMzc3MjY1Ni8yMjUwMDM5My5wbmc=/original/6FAKuj.png",
+          "https://img.itch.zone/aW1hZ2UvMzc3MjY1Ni8yMjUxODAxOS5wbmc=/original/t%2Bbs9w.png",
+          "https://img.itch.zone/aW1hZ2UvMzc3MjY1Ni8yMjQ5OTM3MC5wbmc=/original/zM9yYp.png",
+          "https://img.itch.zone/aW1hZ2UvMzc3MjY1Ni8yMjQ5OTc3NS5wbmc=/original/iXYG9u.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.9 out of 5 stars(10 total ratings)",
+          "Author": "Gawyn Games",
+          "Genre": "Rhythm",
+          "Tags": "2D, Arcade, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 3766642,
+      "gameUrl": "https://mrnoupgames.itch.io/night-oclock",
+      "overallRank": 1,
+      "topCategories": [
+        "Creativity",
+        "Narrative",
+        "Audio",
+        "Enjoyment",
+        "Artwork"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "MrNoupGames",
+            "id": 1656488
+          }
+        ],
+        "title": "Night OClock",
+        "rank": 1,
+        "url": "https://itch.io/jam/gmtk-2025/rate/3766642",
+        "cover_url": "https://img.itch.zone/aW1nLzIyNTMyMzY5LmpwZWc=/300x240%23c/%2B1UrsP.jpeg",
+        "id": 3766642,
+        "criteria": [
+          {
+            "name": "Creativity",
+            "score": 4.53125,
+            "rank": 45,
+            "raw_score": 4.53125
+          },
+          {
+            "name": "Narrative",
+            "score": 4.59375,
+            "rank": 6,
+            "raw_score": 4.59375
+          },
+          {
+            "name": "Mark's Favourites",
+            "score": 0,
+            "rank": 1,
+            "raw_score": 0
+          },
+          {
+            "name": "Audio",
+            "score": 4.3125,
+            "rank": 61,
+            "raw_score": 4.3125
+          },
+          {
+            "name": "Enjoyment",
+            "score": 4.3125,
+            "rank": 84,
+            "raw_score": 4.3125
+          },
+          {
+            "name": "Artwork",
+            "score": 4.5,
+            "rank": 149,
+            "raw_score": 4.5
+          }
+        ],
+        "rating_count": 32
+      },
+      "entryData": {
+        "coolness": 26,
+        "created_at": "2025-08-03 16:37:12",
+        "id": 740896,
+        "game": {
+          "title": "Night OClock",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "MrNoupGames",
+            "url": "https://mrnoupgames.itch.io",
+            "id": 1656488
+          },
+          "url": "https://mrnoupgames.itch.io/night-oclock",
+          "short_text": "Solve puzzles during a time loop to uncover the identity of a murderer.",
+          "id": 3766642,
+          "cover": "https://img.itch.zone/aW1nLzIyNTMyMzY5LmpwZWc=/300x240%23c/%2B1UrsP.jpeg",
+          "cover_color": "#000000"
+        },
+        "url": "/jam/gmtk-2025/rate/3766642",
+        "rating_count": 32
+      },
+      "details": {
+        "title": "Night OClock",
+        "description": "You’re a detective who came to a mansion to solve a murder.\n \nBut during the investigation, you were poisoned — with only one minute left to live.\n \nEach time you die, time resets. The mansion returns to its original state… but your memories and items remain.\n \nUsing this cursed loop to your advantage, can you solve the puzzles the victim left behind and uncover the truth before time runs out?\nWASD to Move (or ZQSD)Shift to RunSpace to Jump and ClimbLeft Click to Push Objects\n\n\nCREDITS:\n- 3D Models from Sketchfab: Peter Nox, StevenTB, RG Poly, KOMiRA, ROY, em_kei, Maxine, Pippa, dodopro505, Blank2574, Alex Krush, Unreal Designer, Mehdi Shahsavan, Inknot\n- SFX: Nox_Sound, flamesound\n- Textures: FreeStylized.com, Shaz, AmbientCg.com\n- Donwload the .zip file\n- Extract it\n- Execute \"Night OClock.exe\"\n- Enjoy the game, rate and leave a comment :)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzc2NjY0Mi8yMjU1MjU1My5qcGVn/original/hYKJ1v.jpeg",
+          "https://img.itch.zone/aW1hZ2UvMzc2NjY0Mi8yMjUzMTI2Mi5qcGVn/original/TeGG2j.jpeg",
+          "https://img.itch.zone/aW1hZ2UvMzc2NjY0Mi8yMjU1MjUyNy5qcGVn/original/9LJkbP.jpeg",
+          "https://img.itch.zone/aW1hZ2UvMzc2NjY0Mi8yMjUzMjM0MC5qcGVn/original/LfEsUu.jpeg",
+          "https://img.itch.zone/aW1hZ2UvMzc2NjY0Mi8yMjUzMjk1MS5qcGVn/original/hhIQgy.jpeg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.6 out of 5 stars(28 total ratings)",
+          "Author": "MrNoupGames",
+          "Genre": "Puzzle, Platformer",
+          "Made with": "Unity, Blender, GIMP, Audacity",
+          "Tags": "3D Platformer, Dark, Game Maker's Toolkit Jam, Mystery, Unity",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard",
+          "Accessibility": "Subtitles, Interactive tutorial"
+        }
+      }
+    },
+    {
+      "gameId": 3773189,
+      "gameUrl": "https://quentindelvallet.itch.io/killover",
+      "overallRank": 1,
+      "topCategories": [
+        "Creativity",
+        "Narrative",
+        "Audio",
+        "Enjoyment",
+        "Artwork"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Quentin Delvallet",
+            "id": 680256
+          }
+        ],
+        "title": "KILLOVER",
+        "rank": 1,
+        "url": "https://itch.io/jam/gmtk-2025/rate/3773189",
+        "cover_url": "https://img.itch.zone/aW1nLzIyNDgxOTc2LmdpZg==/300x240%23c/67yvil.gif",
+        "id": 3773189,
+        "criteria": [
+          {
+            "name": "Enjoyment",
+            "score": 4.5927601809955,
+            "rank": 10,
+            "raw_score": 4.5927601809955
+          },
+          {
+            "name": "Creativity",
+            "score": 4.5294117647059,
+            "rank": 47,
+            "raw_score": 4.5294117647059
+          },
+          {
+            "name": "Narrative",
+            "score": 2.6425339366516,
+            "rank": 2591,
+            "raw_score": 2.6425339366516
+          },
+          {
+            "name": "Audio",
+            "score": 4.0588235294118,
+            "rank": 178,
+            "raw_score": 4.0588235294118
+          },
+          {
+            "name": "Artwork",
+            "score": 4.2579185520362,
+            "rank": 457,
+            "raw_score": 4.2579185520362
+          },
+          {
+            "name": "Mark's Favourites",
+            "score": 0,
+            "rank": 1,
+            "raw_score": 0
+          }
+        ],
+        "rating_count": 442
+      },
+      "entryData": {
+        "coolness": 46,
+        "created_at": "2025-08-03 06:44:05",
+        "id": 734510,
+        "game": {
+          "gif_cover": "https://img.itch.zone/aW1nLzIyNDgxOTc2LmdpZg==/original/FEA%2FYE.gif",
+          "url": "https://quentindelvallet.itch.io/killover",
+          "short_text": "Shoot your past selves",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "Quentin Delvallet",
+            "url": "https://quentindelvallet.itch.io",
+            "id": 680256
+          },
+          "title": "KILLOVER",
+          "id": 3773189,
+          "cover": "https://img.itch.zone/aW1nLzIyNDgxOTc2LmdpZg==/300x240%23c/67yvil.gif",
+          "cover_color": "#eeeeee"
+        },
+        "url": "/jam/gmtk-2025/rate/3773189",
+        "rating_count": 442
+      },
+      "details": {
+        "title": "KILLOVER",
+        "description": "Kill the past over and over\nLoop each time you kill all your previous lives, but beware not to be shot or touch them for an indomitable death.\n\n  \n\nClean the floor fast in this stylish third-person shooter to score high and aim for the top of the online leaderboard.\n\n\nMove with WASD (or ZQSD for AZERTY keyboards)\nAim with RIGHT CLICK or SHIFT\nShoot with LEFT CLICK, jump with SPACE\nThrow the sword with RIGHT CLICK\nP to pause, but you won't escape your past\nFullscreen button on the bottom right of the game\n\n  \nAssets credits:\n\n  Kenney:  Blaster Kit\n\n\n  poly.pizza:  Party Glasses\n\n\n  Vitalezzz:  Hunter-class Lifeform\n\n\n  Kevin Iglesias:  Human ;Character Dummy\nBe sure to check Mister Kil escapes from the Killer Robots Mountain, the newest adventures of the KILLOVER protagonist!\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzc3MzE4OS8yMjQ2Nzc3Mi5wbmc=/original/DUe5Q1.png",
+          "https://img.itch.zone/aW1hZ2UvMzc3MzE4OS8yMzE5MTE3My5wbmc=/original/BZ7H4J.png",
+          "https://img.itch.zone/aW1hZ2UvMzc3MzE4OS8yMjQ2Nzc2OS5wbmc=/original/kFNjol.png",
+          "https://img.itch.zone/aW1hZ2UvMzc3MzE4OS8yMjQ2Nzc4NC5wbmc=/original/NLFVMU.png",
+          "https://img.itch.zone/aW1hZ2UvMzc3MzE4OS8yMzE5MTE3NC5wbmc=/original/fdWEwi.png",
+          "https://img.itch.zone/aW1hZ2UvMzc3MzE4OS8yMjQ2Nzc3MS5wbmc=/original/xCbWIQ.png",
+          "https://img.itch.zone/aW1hZ2UvMzc3MzE4OS8yMjQ2Nzc3MC5wbmc=/original/kZfMpp.png",
+          "https://img.itch.zone/aW1hZ2UvMzc3MzE4OS8yMzE5MTE3MC5wbmc=/original/eszaVp.png",
+          "https://img.itch.zone/aW1hZ2UvMzc3MzE4OS8yMzE5MTE2OS5wbmc=/original/0iMxvz.png",
+          "https://img.itch.zone/aW1hZ2UvMzc3MzE4OS8yMzE5MTE3MS5wbmc=/original/jido4T.png",
+          "https://img.itch.zone/aW1hZ2UvMzc3MzE4OS8yMzE5MTE3Mi5wbmc=/original/hi2yRo.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Release date": "Aug 03, 2025",
+          "Rating": "Rated 4.8 out of 5 stars(121 total ratings)",
+          "Author": "Quentin Delvallet",
+          "Genre": "Action, Shooter",
+          "Made with": "Godot",
+          "Tags": "3D, Arcade, Game Maker's Toolkit Jam, gun, loop, Short, stylish, Third-Person Shooter",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 3765634,
+      "gameUrl": "https://waeaves.itch.io/goop-snake",
+      "overallRank": 1,
+      "topCategories": [
+        "Creativity",
+        "Narrative",
+        "Audio",
+        "Enjoyment",
+        "Artwork"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "emma",
+            "id": 13400209
+          }
+        ],
+        "title": "Goop Snake ⭐️",
+        "rank": 1,
+        "url": "https://itch.io/jam/gmtk-2025/rate/3765634",
+        "cover_url": "https://img.itch.zone/aW1nLzIyNTU4NTg5LmdpZg==/300x240%23c/UHS7D4.gif",
+        "id": 3765634,
+        "criteria": [
+          {
+            "name": "Creativity",
+            "score": 4.5245901639344,
+            "rank": 53,
+            "raw_score": 4.5245901639344
+          },
+          {
+            "name": "Narrative",
+            "score": 2.8524590163934,
+            "rank": 1897,
+            "raw_score": 2.8524590163934
+          },
+          {
+            "name": "Audio",
+            "score": 3.8196721311475,
+            "rank": 422,
+            "raw_score": 3.8196721311475
+          },
+          {
+            "name": "Enjoyment",
+            "score": 4.4098360655738,
+            "rank": 40,
+            "raw_score": 4.4098360655738
+          },
+          {
+            "name": "Artwork",
+            "score": 4.1967213114754,
+            "rank": 545,
+            "raw_score": 4.1967213114754
+          },
+          {
+            "name": "Mark's Favourites",
+            "score": 0,
+            "rank": 1,
+            "raw_score": 0
+          }
+        ],
+        "rating_count": 61
+      },
+      "entryData": {
+        "coolness": 16,
+        "created_at": "2025-08-02 22:37:49",
+        "id": 733200,
+        "game": {
+          "gif_cover": "https://img.itch.zone/aW1nLzIyNTU4NTg5LmdpZg==/original/wgc%2Fhd.gif",
+          "url": "https://waeaves.itch.io/goop-snake",
+          "short_text": "#slippery",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "emma",
+            "url": "https://waeaves.itch.io",
+            "id": 13400209
+          },
+          "title": "Goop Snake ⭐️",
+          "id": 3765634,
+          "cover": "https://img.itch.zone/aW1nLzIyNTU4NTg5LmdpZg==/300x240%23c/UHS7D4.gif",
+          "cover_color": "#cecece"
+        },
+        "url": "/jam/gmtk-2025/rate/3765634",
+        "rating_count": 61
+      },
+      "details": {
+        "title": "Goop Snake ⭐️",
+        "description": "You're goopy snake: hitting yourself is no concern! The intersected segments happily oblige and slip-slide\n    out of the way. Your goal: find the drain and slip-slop down it.\nContort into whatever shape you need to and solve puzzles as a slime snake!\n\nControls are:\nWASD or arrow keys to movespace to huck an apple back upq to quitr to resetm to toggle sound! <- (this one wasnt communicated within the game at all lol)secret button combinations that are a secretttt\n\nMade for GMTK 2025! I made all the art and programmed this in PixiJS with Vite build tooling ^_^\n\n    cheaters only section\n    I left developer shortcuts in the game! So that you can get back faster if u lose your progress. They include the following:\n    \n            \n        \n            \n                1+2+3\n                go to debug page (includes cut/weird levels + the hub levels)\n            \n            \n                2+b+q\n                complete current level\n            \n                1+4+b+↑\n                complete all levels\n            \n        \n    \n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzc2NTYzNC8yMjU1MDY3Ny5naWY=/original/Mfms8W.gif",
+          "https://img.itch.zone/aW1hZ2UvMzc2NTYzNC8yMjU1MDY5My5wbmc=/original/XxhRQN.png",
+          "https://img.itch.zone/aW1hZ2UvMzc2NTYzNC8yMjQxMzg1OS5naWY=/original/mgLky4.gif"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.8 out of 5 stars(52 total ratings)",
+          "Author": "emma",
+          "Genre": "Puzzle",
+          "Tags": "Snake"
+        }
+      }
+    },
+    {
+      "gameId": 3773811,
+      "gameUrl": "https://tetraminose.itch.io/bootloop",
+      "overallRank": 1,
+      "topCategories": [
+        "Creativity",
+        "Narrative",
+        "Audio",
+        "Enjoyment",
+        "Artwork"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Tetraminose",
+            "id": 2123401
+          },
+          {
+            "name": "datagoblin",
+            "id": 115869
+          },
+          {
+            "name": "sunnexo",
+            "id": 2743462
+          },
+          {
+            "name": "Cruise Elroy",
+            "id": 753578
+          },
+          {
+            "name": "Stellazium",
+            "id": 7903509
+          }
+        ],
+        "title": "BOOTLOOP",
+        "rank": 1,
+        "url": "https://itch.io/jam/gmtk-2025/rate/3773811",
+        "cover_url": "https://img.itch.zone/aW1nLzIyNTM0NjAzLnBuZw==/300x240%23c/nVZ6EI.png",
+        "id": 3773811,
+        "criteria": [
+          {
+            "name": "Artwork",
+            "score": 4.8366013071895,
+            "rank": 7,
+            "raw_score": 4.8366013071895
+          },
+          {
+            "name": "Creativity",
+            "score": 4.5098039215686,
+            "rank": 61,
+            "raw_score": 4.5098039215686
+          },
+          {
+            "name": "Narrative",
+            "score": 3.0653594771242,
+            "rank": 1408,
+            "raw_score": 3.0653594771242
+          },
+          {
+            "name": "Enjoyment",
+            "score": 4.6470588235294,
+            "rank": 8,
+            "raw_score": 4.6470588235294
+          },
+          {
+            "name": "Audio",
+            "score": 4.5424836601307,
+            "rank": 14,
+            "raw_score": 4.5424836601307
+          },
+          {
+            "name": "Mark's Favourites",
+            "score": 0,
+            "rank": 1,
+            "raw_score": 0
+          }
+        ],
+        "rating_count": 153
+      },
+      "entryData": {
+        "coolness": 16,
+        "created_at": "2025-08-03 17:31:24",
+        "id": 743600,
+        "contributors": [
+          {
+            "name": "Tetraminose",
+            "url": "https://tetraminose.itch.io"
+          },
+          {
+            "name": "datagoblin",
+            "url": "https://datagoblin.itch.io"
+          },
+          {
+            "name": "sunnexo",
+            "url": "https://sunnexo.itch.io"
+          },
+          {
+            "name": "Cruise Elroy",
+            "url": "https://cruise-elroy.itch.io"
+          },
+          {
+            "name": "Stellazium",
+            "url": "https://stellazium.itch.io"
+          }
+        ],
+        "game": {
+          "title": "BOOTLOOP",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Tetraminose",
+            "url": "https://tetraminose.itch.io",
+            "id": 2123401
+          },
+          "url": "https://tetraminose.itch.io/bootloop",
+          "short_text": "Loop around the circuit - a shocking roguelike game",
+          "id": 3773811,
+          "cover": "https://img.itch.zone/aW1nLzIyNTM0NjAzLnBuZw==/300x240%23c/nVZ6EI.png",
+          "cover_color": "#eeeeee"
+        },
+        "url": "/jam/gmtk-2025/rate/3773811",
+        "rating_count": 153
+      },
+      "details": {
+        "title": "BOOTLOOP",
+        "description": "This game is playable using either keyboard and mouse, or the arrow keys and Z/X/C.\n  Want to be notified when the full game releases? Subscribe to our mailing list!  \n\n\nE̴R̷R̴O̶R̵:̴ ̸B̷O̷O̵T̶L̴O̶O̶P̸ ̶D̴E̷T̷E̸C̸T̷E̴D̵Electrocute your enemies and loop around thecircuit in this shocking roguelike game!How many viruses will you destroy before perishing?Made in 4 days for the GMTK Game Jam 2025Theme: \"LOOP\"\n\n\n\n\nmeet team BOOTI !\n\npixels\naudio\nconcept\ncode\n\n\n\ndatagoblin\nTetra\nsunnexo\nStellazium\nCruiseElroy\n\n\nSoundtrack\nListen to the soundtrack on Soundcloud:https://soundcloud.com/sunnyxosauce/sets/bootloop-ost\nCredits:\nPIXEL ART:  Tetraminose - DataGoblinPROGRAMMING:  Cruise ElroyMUSIC & SFX:  SunnexoCONCEPT ART & BANNER: Stellazium\n\n\n\n\n\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzc3MzgxMS8yMjUzMzQxNi5naWY=/original/JrTT9n.gif",
+          "https://img.itch.zone/aW1hZ2UvMzc3MzgxMS8yMjUzMzgwMi5wbmc=/original/IXgO5X.png",
+          "https://img.itch.zone/aW1hZ2UvMzc3MzgxMS8yMjUzNTEyNS5wbmc=/original/r0Bbuz.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.8 out of 5 stars(89 total ratings)",
+          "Authors": "Tetraminose, datagoblin, sunnexo, Cruise Elroy, Stellazium",
+          "Genre": "Action",
+          "Made with": "GameMaker",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 3776915,
+      "gameUrl": "https://joespacio.itch.io/draftula",
+      "overallRank": 1,
+      "topCategories": [
+        "Creativity",
+        "Narrative",
+        "Audio",
+        "Enjoyment",
+        "Artwork"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "joespacio",
+            "id": 252264
+          }
+        ],
+        "title": "Draftula",
+        "rank": 1,
+        "url": "https://itch.io/jam/gmtk-2025/rate/3776915",
+        "cover_url": "https://img.itch.zone/aW1nLzIzODgzNTI3LnBuZw==/300x240%23c/3m1qgO.png",
+        "id": 3776915,
+        "criteria": [
+          {
+            "name": "Artwork",
+            "score": 4.1875,
+            "rank": 556,
+            "raw_score": 4.1875
+          },
+          {
+            "name": "Narrative",
+            "score": 3.9375,
+            "rank": 250,
+            "raw_score": 3.9375
+          },
+          {
+            "name": "Creativity",
+            "score": 4.5,
+            "rank": 62,
+            "raw_score": 4.5
+          },
+          {
+            "name": "Enjoyment",
+            "score": 4.8125,
+            "rank": 1,
+            "raw_score": 4.8125
+          },
+          {
+            "name": "Mark's Favourites",
+            "score": 0,
+            "rank": 1,
+            "raw_score": 0
+          },
+          {
+            "name": "Audio",
+            "score": 4.125,
+            "rank": 131,
+            "raw_score": 4.125
+          }
+        ],
+        "rating_count": 16
+      },
+      "entryData": {
+        "coolness": 24,
+        "created_at": "2025-08-03 16:36:23",
+        "id": 740851,
+        "game": {
+          "title": "Draftula",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "joespacio",
+            "url": "https://joespacio.itch.io",
+            "id": 252264
+          },
+          "url": "https://joespacio.itch.io/draftula",
+          "short_text": "A spooky tetris roguelike",
+          "id": 3776915,
+          "cover": "https://img.itch.zone/aW1nLzIzODgzNTI3LnBuZw==/300x240%23c/3m1qgO.png",
+          "cover_color": "#140c17"
+        },
+        "url": "/jam/gmtk-2025/rate/3776915",
+        "rating_count": 16
+      },
+      "details": {
+        "title": "Draftula",
+        "description": "Please Note: I'm using experimental branch of Godot for my web builds, so there may be issues depending on what browser you are using. If you run into any issues, please let me know what browser you are playing it on as well. In the worst case scenario, it may be better to download the Windows version instead.\n\nEvery 100  years, Count Draftula returns to wreck havoc on this Mortal World. He remains in power until a hero of mankind strong enough to defeat him shows up to topple his reign.\nBut before that, Draftula has to build his castle first. \nBuild up the castle by placing rooms strategically to get bonuses. Spend Gems between centuries to get new rooms and build your home ever higher. Will you be able to build a Castle tall enough to escape this loop of Rebirth and Defeat.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzc3NjkxNS8yMzg4MzU5NS5wbmc=/original/b7a%2BSD.png",
+          "https://img.itch.zone/aW1hZ2UvMzc3NjkxNS8yMzg4MzU5Ni5wbmc=/original/FYY5T2.png",
+          "https://img.itch.zone/aW1hZ2UvMzc3NjkxNS8yMzg4MzU5Ny5wbmc=/original/94L3b2.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.6 out of 5 stars(43 total ratings)",
+          "Author": "joespacio",
+          "Genre": "Puzzle, Strategy",
+          "Made with": "Godot",
+          "Tags": "Roguelike, Roguelite"
+        }
+      }
+    },
+    {
+      "gameId": 3776462,
+      "gameUrl": "https://amptomp.itch.io/walk-it",
+      "overallRank": 1,
+      "topCategories": [
+        "Creativity",
+        "Narrative",
+        "Audio",
+        "Enjoyment",
+        "Artwork"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "amptomp",
+            "id": 6936427
+          },
+          {
+            "name": "Max Colet",
+            "id": 14660779
+          },
+          {
+            "name": "tupperwarefan",
+            "id": 4183443
+          }
+        ],
+        "title": "Walk It!",
+        "rank": 1,
+        "url": "https://itch.io/jam/gmtk-2025/rate/3776462",
+        "cover_url": "https://img.itch.zone/aW1nLzIyNTY4NDIyLmdpZg==/300x240%23c/BiUUc2.gif",
+        "id": 3776462,
+        "criteria": [
+          {
+            "name": "Creativity",
+            "score": 4.4918032786885,
+            "rank": 75,
+            "raw_score": 4.4918032786885
+          },
+          {
+            "name": "Enjoyment",
+            "score": 4.327868852459,
+            "rank": 79,
+            "raw_score": 4.327868852459
+          },
+          {
+            "name": "Narrative",
+            "score": 3.3934426229508,
+            "rank": 830,
+            "raw_score": 3.3934426229508
+          },
+          {
+            "name": "Artwork",
+            "score": 4.5409836065574,
+            "rank": 118,
+            "raw_score": 4.5409836065574
+          },
+          {
+            "name": "Audio",
+            "score": 4,
+            "rank": 205,
+            "raw_score": 4
+          },
+          {
+            "name": "Mark's Favourites",
+            "score": 0,
+            "rank": 1,
+            "raw_score": 0
+          }
+        ],
+        "rating_count": 61
+      },
+      "entryData": {
+        "coolness": 74,
+        "created_at": "2025-08-03 16:29:37",
+        "id": 740477,
+        "contributors": [
+          {
+            "name": "amptomp",
+            "url": "https://amptomp.itch.io"
+          },
+          {
+            "name": "Max Colet",
+            "url": "https://mvxou.itch.io"
+          },
+          {
+            "name": "tupperwarefan",
+            "url": "https://tupperwarefan.itch.io"
+          }
+        ],
+        "game": {
+          "gif_cover": "https://img.itch.zone/aW1nLzIyNTY4NDIyLmdpZg==/original/yGt4KT.gif",
+          "url": "https://amptomp.itch.io/walk-it",
+          "short_text": "boots & cats & boots & cats &",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "amptomp",
+            "url": "https://amptomp.itch.io",
+            "id": 6936427
+          },
+          "title": "Walk It!",
+          "id": 3776462,
+          "cover": "https://img.itch.zone/aW1nLzIyNTY4NDIyLmdpZg==/300x240%23c/BiUUc2.gif",
+          "cover_color": "#000000"
+        },
+        "url": "/jam/gmtk-2025/rate/3776462",
+        "rating_count": 61
+      },
+      "details": {
+        "title": "Walk It!",
+        "description": "play on the beat! (arrow keys / wasd)start on the first beat (after the boop)reach the goal on the last beat\nyou can use 'R' to reset the levelcreated for gmtk 2025, was in mark's top 20!\nknown bug: web player doesn't like the beeps, for some they start gradually decreasing in volume. if that occurs, recommend downloading!\nDEVLOG\n\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzc3NjQ2Mi8yMjUyMzc4Ni5naWY=/original/8xMqWP.gif",
+          "https://img.itch.zone/aW1hZ2UvMzc3NjQ2Mi8yMjU4NDU2NS5naWY=/original/DC6qsG.gif",
+          "https://img.itch.zone/aW1hZ2UvMzc3NjQ2Mi8yMjUyMjgwNC5wbmc=/original/SdGR5a.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.8 out of 5 stars(20 total ratings)",
+          "Authors": "amptomp, Max Colet, tupperwarefan",
+          "Genre": "Rhythm, Puzzle",
+          "Made with": "Godot",
+          "Tags": "2D, Game Maker's Toolkit Jam, Godot, Hand-drawn, Short, Singleplayer",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 3777149,
+      "gameUrl": "https://q34dev.itch.io/cooking-by-the-numbers",
+      "overallRank": 1,
+      "topCategories": [
+        "Creativity",
+        "Narrative",
+        "Audio",
+        "Enjoyment",
+        "Artwork"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Q34",
+            "id": 5366412
+          }
+        ],
+        "title": "Cooking (by the) Numbers",
+        "rank": 1,
+        "url": "https://itch.io/jam/gmtk-2025/rate/3777149",
+        "cover_url": "https://img.itch.zone/aW1nLzIyNTg3NjIwLnBuZw==/300x240%23c/9WYS6k.png",
+        "id": 3777149,
+        "criteria": [
+          {
+            "name": "Narrative",
+            "score": 3.4,
+            "rank": 816,
+            "raw_score": 3.4
+          },
+          {
+            "name": "Artwork",
+            "score": 4.44,
+            "rank": 217,
+            "raw_score": 4.44
+          },
+          {
+            "name": "Audio",
+            "score": 3.8,
+            "rank": 437,
+            "raw_score": 3.8
+          },
+          {
+            "name": "Creativity",
+            "score": 4.48,
+            "rank": 82,
+            "raw_score": 4.48
+          },
+          {
+            "name": "Mark's Favourites",
+            "score": 0,
+            "rank": 1,
+            "raw_score": 0
+          },
+          {
+            "name": "Enjoyment",
+            "score": 4.44,
+            "rank": 30,
+            "raw_score": 4.44
+          }
+        ],
+        "rating_count": 25
+      },
+      "entryData": {
+        "coolness": 23,
+        "created_at": "2025-08-03 04:01:11",
+        "id": 733917,
+        "game": {
+          "title": "Cooking (by the) Numbers",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Q34",
+            "url": "https://q34dev.itch.io",
+            "id": 5366412
+          },
+          "url": "https://q34dev.itch.io/cooking-by-the-numbers",
+          "short_text": "Robots eat numbers.",
+          "id": 3777149,
+          "cover": "https://img.itch.zone/aW1nLzIyNTg3NjIwLnBuZw==/300x240%23c/9WYS6k.png",
+          "cover_color": "#381d4e"
+        },
+        "url": "/jam/gmtk-2025/rate/3777149",
+        "rating_count": 25
+      },
+      "details": {
+        "title": "Cooking (by the) Numbers",
+        "description": "Made in 96 hours for the GMTK Game Jam 2025.\nTheme: LOOP\n\nRobots need to eat too.\n\nCreate an interconnected machine that will produce the perfect numbered meal for your hungry robotic clients. Insert a starter number and watch it get modified by nodes using mathematical equations.\nIt's a puzzle game in which levels have multiple solutions. You construct your answer!\n\nControls:\nLeft Mouse Button - grab and move nodes and number balls.\nRight Mouse Button - delete nodes and lines.\n(To delete a placed connection point, aim at the tile's edge and press RMB)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzc3NzE0OS8yMjU0ODA3NS5wbmc=/original/vf0Wo8.png",
+          "https://img.itch.zone/aW1hZ2UvMzc3NzE0OS8yMjU0ODA3OS5wbmc=/original/AAQblS.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.4 out of 5 stars(25 total ratings)",
+          "Author": "Q34",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "2D, Cooking, Math, Robots, Sci-fi"
+        }
+      }
+    },
+    {
+      "gameId": 3783923,
+      "gameUrl": "https://pixel-error.itch.io/like-a-record",
+      "overallRank": 1,
+      "topCategories": [
+        "Creativity",
+        "Narrative",
+        "Audio",
+        "Enjoyment",
+        "Artwork"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Pixel Error",
+            "id": 205108
+          },
+          {
+            "name": "KotixTov",
+            "id": 4152558
+          },
+          {
+            "name": "SerxGameDev",
+            "id": 8030997
+          },
+          {
+            "name": "PrRobo",
+            "id": 3904957
+          },
+          {
+            "name": "Someday-not-today",
+            "id": 1221783
+          },
+          {
+            "name": "Kolificent",
+            "id": 4916132
+          }
+        ],
+        "title": "Like a Record",
+        "rank": 1,
+        "url": "https://itch.io/jam/gmtk-2025/rate/3783923",
+        "cover_url": "https://img.itch.zone/aW1nLzIyNTI4MjIzLnBuZw==/300x240%23c/CCdPwx.png",
+        "id": 3783923,
+        "criteria": [
+          {
+            "name": "Audio",
+            "score": 4.0588235294118,
+            "rank": 178,
+            "raw_score": 4.0588235294118
+          },
+          {
+            "name": "Narrative",
+            "score": 2.8529411764706,
+            "rank": 1892,
+            "raw_score": 2.8529411764706
+          },
+          {
+            "name": "Creativity",
+            "score": 4.4411764705882,
+            "rank": 111,
+            "raw_score": 4.4411764705882
+          },
+          {
+            "name": "Enjoyment",
+            "score": 4.4117647058824,
+            "rank": 39,
+            "raw_score": 4.4117647058824
+          },
+          {
+            "name": "Artwork",
+            "score": 4.5,
+            "rank": 149,
+            "raw_score": 4.5
+          },
+          {
+            "name": "Mark's Favourites",
+            "score": 0,
+            "rank": 1,
+            "raw_score": 0
+          }
+        ],
+        "rating_count": 34
+      },
+      "entryData": {
+        "coolness": 13,
+        "created_at": "2025-08-03 16:57:39",
+        "id": 742409,
+        "contributors": [
+          {
+            "name": "Pixel Error",
+            "url": "https://pixel-error.itch.io"
+          },
+          {
+            "name": "KotixTov",
+            "url": "https://kotixtov.itch.io"
+          },
+          {
+            "name": "SerxGameDev",
+            "url": "https://serxgamedev.itch.io"
+          },
+          {
+            "name": "PrRobo",
+            "url": "https://prrobo.itch.io"
+          },
+          {
+            "name": "Someday-not-today",
+            "url": "https://someday-not-today.itch.io"
+          },
+          {
+            "name": "Kolificent",
+            "url": "https://kolificent.itch.io"
+          }
+        ],
+        "game": {
+          "title": "Like a Record",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "Pixel Error",
+            "url": "https://pixel-error.itch.io",
+            "id": 205108
+          },
+          "url": "https://pixel-error.itch.io/like-a-record",
+          "short_text": "Outspin your opponent with deadly twists",
+          "id": 3783923,
+          "cover": "https://img.itch.zone/aW1nLzIyNTI4MjIzLnBuZw==/300x240%23c/CCdPwx.png",
+          "cover_color": "#15161c"
+        },
+        "url": "/jam/gmtk-2025/rate/3783923",
+        "rating_count": 34
+      },
+      "details": {
+        "title": "Like a Record",
+        "description": "you find yourself in front of a peculiar arcade cabinet where you have to play your cards right in this ever spinning turn based strategy.count both your and your opponent's turns right to beat a menacing eldritch being that stands between you and victory (ps. the being may or may not be just an ordinary grandpa)summon creatures! use buffs! disrupt your opponent's rotations in the name of winning!controls:\nuse your mouse pointer to rearrange your cards and then click that play button once you're readyinstallation:\nnot required but just download & unpack the archive if you wish",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIyNTI4MjIzLnBuZw==/original/FrP%2Fzy.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.8 out of 5 stars(4 total ratings)",
+          "Authors": "Pixel Error, KotixTov, SerxGameDev, PrRobo, Someday-not-today, Kolificent",
+          "Genre": "Card Game",
+          "Made with": "Unity",
+          "Tags": "Game Maker's Toolkit Jam, PSX (PlayStation)"
+        }
+      }
+    },
+    {
+      "gameId": 3778651,
+      "gameUrl": "https://vermillion-indie.itch.io/while-1",
+      "overallRank": 1,
+      "topCategories": [
+        "Creativity",
+        "Narrative",
+        "Audio",
+        "Enjoyment",
+        "Artwork"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Vermillion",
+            "id": 2480392
+          }
+        ],
+        "title": "While 1",
+        "rank": 1,
+        "url": "https://itch.io/jam/gmtk-2025/rate/3778651",
+        "cover_url": "https://img.itch.zone/aW1nLzI1MDA3ODkzLnBuZw==/300x240%23c/2IRGmt.png",
+        "id": 3778651,
+        "criteria": [
+          {
+            "name": "Creativity",
+            "score": 4.4102564102564,
+            "rank": 142,
+            "raw_score": 4.4102564102564
+          },
+          {
+            "name": "Narrative",
+            "score": 3.2051282051282,
+            "rank": 1137,
+            "raw_score": 3.2051282051282
+          },
+          {
+            "name": "Enjoyment",
+            "score": 4.7179487179487,
+            "rank": 2,
+            "raw_score": 4.7179487179487
+          },
+          {
+            "name": "Artwork",
+            "score": 4.1282051282051,
+            "rank": 664,
+            "raw_score": 4.1282051282051
+          },
+          {
+            "name": "Mark's Favourites",
+            "score": 0,
+            "rank": 1,
+            "raw_score": 0
+          },
+          {
+            "name": "Audio",
+            "score": 4.3076923076923,
+            "rank": 62,
+            "raw_score": 4.3076923076923
+          }
+        ],
+        "rating_count": 39
+      },
+      "entryData": {
+        "coolness": 37,
+        "created_at": "2025-08-03 09:22:23",
+        "id": 735236,
+        "game": {
+          "title": "While 1",
+          "platforms": [
+            "windows"
+          ],
+          "user": {
+            "name": "Vermillion",
+            "url": "https://vermillion-indie.itch.io",
+            "id": 2480392
+          },
+          "url": "https://vermillion-indie.itch.io/while-1",
+          "short_text": "​Ever wonder what happens when you accidentally run an infinite loop?",
+          "id": 3778651,
+          "cover": "https://img.itch.zone/aW1nLzI1MDA3ODkzLnBuZw==/300x240%23c/2IRGmt.png",
+          "cover_color": "#000000"
+        },
+        "url": "/jam/gmtk-2025/rate/3778651",
+        "rating_count": 39
+      },
+      "details": {
+        "title": "While 1",
+        "description": "Ever wonder what happens when you accidentally run an infinite loop? Use your mouse to avoid obstacles and keep the loop going!\nMade for GMTK 2025. With the exception of the music, this was my first solo dev jam entry. Hope you enjoy!\nHow to play:\nMouse movement to move around the screen\"F\" or \"F11\" to toggle fullscreenFor accessibility, \"F1\" to skip to the next level if you need it\nMusic used (with explicit permission) by Lchavasse: https://www.youtube.com/@Lchavasse/videosIf your computer is blocking the .zip download, try the Installer Option!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzc3ODY1MS8yMjQ4NTY0Ny5wbmc=/original/FbDqIm.png",
+          "https://img.itch.zone/aW1hZ2UvMzc3ODY1MS8yMjQ4NTY0OC5wbmc=/original/rdPhWS.png",
+          "https://img.itch.zone/aW1hZ2UvMzc3ODY1MS8yMjQ4NTY1MC5wbmc=/original/f9FB8P.png",
+          "https://img.itch.zone/aW1hZ2UvMzc3ODY1MS8yMjQ4NTY0OS5wbmc=/original/54yxyQ.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.9 out of 5 stars(24 total ratings)",
+          "Author": "Vermillion",
+          "Tags": "2D, Arcade, chiptune, Minimalist, Mouse only, Pixel Art"
+        }
+      }
+    },
+    {
+      "gameId": 3775614,
+      "gameUrl": "https://antidissmist.itch.io/caw-across-time",
+      "overallRank": 1,
+      "topCategories": [
+        "Creativity",
+        "Narrative",
+        "Audio",
+        "Enjoyment",
+        "Artwork"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Antidissmist",
+            "id": 1909473
+          },
+          {
+            "name": "Leko",
+            "id": 1709429
+          },
+          {
+            "name": "natanco",
+            "id": 6344721
+          },
+          {
+            "name": "TheGreenDS",
+            "id": 11390337
+          },
+          {
+            "name": "Haasio",
+            "id": 4372261
+          }
+        ],
+        "title": "Caw Across Time",
+        "rank": 1,
+        "url": "https://itch.io/jam/gmtk-2025/rate/3775614",
+        "cover_url": "https://img.itch.zone/aW1nLzIyNDgzMjU3LnBuZw==/300x240%23c/F4kA7O.png",
+        "id": 3775614,
+        "criteria": [
+          {
+            "name": "Narrative",
+            "score": 4.1951219512195,
+            "rank": 100,
+            "raw_score": 4.1951219512195
+          },
+          {
+            "name": "Creativity",
+            "score": 4.390243902439,
+            "rank": 168,
+            "raw_score": 4.390243902439
+          },
+          {
+            "name": "Enjoyment",
+            "score": 4.2926829268293,
+            "rank": 97,
+            "raw_score": 4.2926829268293
+          },
+          {
+            "name": "Audio",
+            "score": 4.219512195122,
+            "rank": 85,
+            "raw_score": 4.219512195122
+          },
+          {
+            "name": "Artwork",
+            "score": 4.7317073170732,
+            "rank": 31,
+            "raw_score": 4.7317073170732
+          },
+          {
+            "name": "Mark's Favourites",
+            "score": 0,
+            "rank": 1,
+            "raw_score": 0
+          }
+        ],
+        "rating_count": 41
+      },
+      "entryData": {
+        "coolness": 20,
+        "created_at": "2025-08-03 16:47:37",
+        "id": 741608,
+        "contributors": [
+          {
+            "name": "Antidissmist",
+            "url": "https://antidissmist.itch.io"
+          },
+          {
+            "name": "Leko",
+            "url": "https://leko20.itch.io"
+          },
+          {
+            "name": "natanco",
+            "url": "https://natanco.itch.io"
+          },
+          {
+            "name": "TheGreenDS",
+            "url": "https://thegreends.itch.io"
+          },
+          {
+            "name": "Haasio",
+            "url": "https://haasio.itch.io"
+          }
+        ],
+        "game": {
+          "title": "Caw Across Time",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "Antidissmist",
+            "url": "https://antidissmist.itch.io",
+            "id": 1909473
+          },
+          "url": "https://antidissmist.itch.io/caw-across-time",
+          "short_text": "Team up with your future self to scale a mysterious clocktower!",
+          "id": 3775614,
+          "cover": "https://img.itch.zone/aW1nLzIyNDgzMjU3LnBuZw==/300x240%23c/F4kA7O.png",
+          "cover_color": "#000000"
+        },
+        "url": "/jam/gmtk-2025/rate/3775614",
+        "rating_count": 41
+      },
+      "details": {
+        "title": "Caw Across Time",
+        "description": "Ring ring, it's your future cawing! In Caw Across Time, you play as a curious crow attempting to solve the mystery of a strange ancient clocktower.\n\nRequest items from your future self to solve puzzles, but be sure to close each time loop to maintain the law of caw-sality!\nOriginally made in 96 hours for the GMTK Game Jam 2025!______________________________________________________\nCONTROLS:\nWASDMove and jumpLeft ClickCall / Request ObjectsEInteractPSkip levelRRestart LevelQDrop KeyFSwitch SelvesESCMenu / Hang up phone\n______________________________________________________\nCREDITS:\nAntidissmist - Programming, Design, SFXLeko – Design, Art, Music, SFXNatanco - Art, DesignTheGreenDS - Design, Music, SFXHaasio - Art, Playtesting\nWindows Defender might incorrectly flag the game as a virus, and you'll need to allow it to run. Sorry for the inconvenience! ",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzc3NTYxNC8yMjUxNzY3Mi5naWY=/original/nJMyAO.gif",
+          "https://img.itch.zone/aW1hZ2UvMzc3NTYxNC8yMjUxODU0OC5naWY=/original/RHgwaK.gif",
+          "https://img.itch.zone/aW1hZ2UvMzc3NTYxNC8yMjUxOTMwNi5naWY=/original/Fiz7Ag.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.9 out of 5 stars(22 total ratings)",
+          "Authors": "Antidissmist, Leko, natanco, TheGreenDS, Haasio",
+          "Genre": "Puzzle",
+          "Made with": "GameMaker",
+          "Tags": "Cute, Puzzle-Platformer, Time Travel",
+          "Average session": "About a half-hour",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 3772210,
+      "gameUrl": "https://zelophed.itch.io/circuit-breaker",
+      "overallRank": 1,
+      "topCategories": [
+        "Creativity",
+        "Narrative",
+        "Audio",
+        "Enjoyment",
+        "Artwork"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "zelophed",
+            "id": 4536442
+          },
+          {
+            "name": "Kryppers",
+            "id": 4537443
+          }
+        ],
+        "title": "Circuit Breaker",
+        "rank": 1,
+        "url": "https://itch.io/jam/gmtk-2025/rate/3772210",
+        "cover_url": "https://img.itch.zone/aW1nLzIyNTQ4MDU3LnBuZw==/300x240%23c/oYmVkb.png",
+        "id": 3772210,
+        "criteria": [
+          {
+            "name": "Audio",
+            "score": 4.1290322580645,
+            "rank": 129,
+            "raw_score": 4.1290322580645
+          },
+          {
+            "name": "Creativity",
+            "score": 4.3870967741935,
+            "rank": 173,
+            "raw_score": 4.3870967741935
+          },
+          {
+            "name": "Narrative",
+            "score": 3.3225806451613,
+            "rank": 949,
+            "raw_score": 3.3225806451613
+          },
+          {
+            "name": "Enjoyment",
+            "score": 4.4193548387097,
+            "rank": 35,
+            "raw_score": 4.4193548387097
+          },
+          {
+            "name": "Artwork",
+            "score": 4.6129032258065,
+            "rank": 78,
+            "raw_score": 4.6129032258065
+          },
+          {
+            "name": "Mark's Favourites",
+            "score": 0,
+            "rank": 1,
+            "raw_score": 0
+          }
+        ],
+        "rating_count": 31
+      },
+      "entryData": {
+        "coolness": 6,
+        "created_at": "2025-08-03 16:55:09",
+        "id": 742192,
+        "contributors": [
+          {
+            "name": "zelophed",
+            "url": "https://zelophed.itch.io"
+          },
+          {
+            "name": "Kryppers",
+            "url": "https://kryppers.itch.io"
+          }
+        ],
+        "game": {
+          "title": "Circuit Breaker",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "zelophed",
+            "url": "https://zelophed.itch.io",
+            "id": 4536442
+          },
+          "url": "https://zelophed.itch.io/circuit-breaker",
+          "short_text": "You find yourself in the Circuit.  Can you escape the machine?",
+          "id": 3772210,
+          "cover": "https://img.itch.zone/aW1nLzIyNTQ4MDU3LnBuZw==/300x240%23c/oYmVkb.png",
+          "cover_color": "#0e1a25"
+        },
+        "url": "/jam/gmtk-2025/rate/3772210",
+        "rating_count": 31
+      },
+      "details": {
+        "title": "Circuit Breaker",
+        "description": "You find yourself in the Circuit. Can you escape the machine?Circuit Breaker is a 2D puzzle Platformer built for GMTK Gamejam 2025.\n-\n \nControls: \nA/D - Move left and Right\n W/Space - Jump E - Interact Esc - Pause\n-\n \nGame made by: Kryppers Jassafras Simibubi StarlotteJozufozu\nGamez7\nZelophed\n \n-\nIf you are using Firefox, clicking \"Run Game\" will cause a popup to appear instead of playing embedded, sorry.\n-\nFonts use are Dogica and ItemWorks. \nAll other Assets were made by the team for the Jam.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzc3MjIxMC8yMjUzMjg0Ni5wbmc=/original/p29Pde.png",
+          "https://img.itch.zone/aW1hZ2UvMzc3MjIxMC8yMjU0ODA4MC5wbmc=/original/5ALhPN.png",
+          "https://img.itch.zone/aW1hZ2UvMzc3MjIxMC8yMjU1Mzc4OC5wbmc=/original/Ueq%2Btb.png",
+          "https://img.itch.zone/aW1hZ2UvMzc3MjIxMC8yMjUzMjg0NC5wbmc=/original/CneDeq.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.9 out of 5 stars(22 total ratings)",
+          "Authors": "zelophed, Kryppers",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "Puzzle-Platformer"
+        }
+      }
+    }
+  ]
+}

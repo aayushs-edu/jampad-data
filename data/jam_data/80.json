@@ -1,0 +1,866 @@
+{
+  "n": 80,
+  "name": "2019 Epic MegaJam",
+  "url": "https://itch.io/jam/2019-epic-megajam",
+  "theme": "DOWN TO EARTH",
+  "slug": "2019-epic-megajam",
+  "jamMeta": {
+    "jamType": "ongoing",
+    "joined": "",
+    "entries": "436",
+    "title": "2019 Epic MegaJam",
+    "jamURL": "https://itch.io/jam/2019-epic-megajam",
+    "hosts": {
+      "Unreal Engine": "https://unrealengine.itch.io",
+      "#UnrealJam": "https://bsky.app/hashtag/UnrealJam"
+    },
+    "jamID": "11973"
+  },
+  "totalEntries": 421,
+  "ranked": true,
+  "hasCategories": false,
+  "needsManualSelection": false,
+  "categories": [],
+  "topGames": [
+    {
+      "gameId": 517788,
+      "gameUrl": "https://two-star-games.itch.io/my-friend-is-a-raven",
+      "overallRank": 1,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "field_responses": [
+          "6991:Platform1"
+        ],
+        "created_at": "2019-11-19 09:14:27",
+        "rating_count": 0,
+        "coolness": 0,
+        "game": {
+          "title": "My Friend is a Raven",
+          "cover_color": "#000000",
+          "short_text": "You must speak with the raven...",
+          "platforms": [
+            "windows"
+          ],
+          "id": 517788,
+          "user": {
+            "url": "https://two-star-games.itch.io",
+            "name": "Two Star Games",
+            "id": 1887387
+          },
+          "gif_cover": "https://img.itch.zone/aW1nLzI2OTk2MTMuZ2lm/original/%2F9pjEC.gif",
+          "cover": "https://img.itch.zone/aW1nLzI2OTk2MTMuZ2lm/300x240%23c/l9dI0l.gif",
+          "url": "https://two-star-games.itch.io/my-friend-is-a-raven"
+        },
+        "id": 95880,
+        "url": "/jam/2019-epic-megajam/rate/517788"
+      },
+      "details": {
+        "title": "My Friend is a Raven",
+        "description": "\n\nPlay as Lutum, the last man alive after a devastating plague has swept the Earth clean.\nThe world of man has fallen into ruins.  Everyone that was once alive, now lies in their grave, returned to the Earth that they were born of.   You return to your old apartment one last time, in search of a sickened raven.  You must speak to him, and discover why such a calamity has spread across the world.\nComplete different puzzles, to unlock all four unique endings, and uncover the whole story behind Lutum, and the elusive raven.\nIf you enjoyed Cloud Climber, be sure to check out my other game Choo-Choo Charles on Steam!\n\n\n\n\nIf you want updates on my newest projects, you can follow me on Twitter here!\n\n\nMy Friend is a Raven will download inside a compressed file.  Simply unzip the file, and open the application named \"My Friend Is A Raven\".",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNTE3Nzg4LzI2OTczNDIucG5n/original/XYg8kp.png",
+          "https://img.itch.zone/aW1hZ2UvNTE3Nzg4LzI2OTczMzgucG5n/original/06mpQt.png",
+          "https://img.itch.zone/aW1hZ2UvNTE3Nzg4LzI2OTczNDEucG5n/original/xaiVqA.png",
+          "https://img.itch.zone/aW1hZ2UvNTE3Nzg4LzI2OTczNDAucG5n/original/I2sCxk.png",
+          "https://img.itch.zone/aW1hZ2UvNTE3Nzg4LzI2OTczNDMucG5n/original/dy59j1.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.5 out of 5 stars(90 total ratings)",
+          "Author": "Two Star Games",
+          "Genre": "Adventure",
+          "Made with": "Unreal Engine, GIMP, Audacity",
+          "Tags": "3D, Atmospheric, Creepy, Hand-drawn, Horror, Post-apocalyptic, Psychological Horror, Short, Side Scroller, Story Rich",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Accessibility": "Color-blind friendly, Subtitles",
+          "Mentions": "itch.io Recommends: tabletop and jam gam..."
+        }
+      }
+    },
+    {
+      "gameId": 521488,
+      "gameUrl": "https://darkroomgames.itch.io/catnip",
+      "overallRank": 2,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "field_responses": [
+          "6991:Platform1"
+        ],
+        "created_at": "2019-11-22 03:53:47",
+        "rating_count": 0,
+        "coolness": 0,
+        "game": {
+          "platforms": [
+            "windows"
+          ],
+          "title": "Catnip",
+          "cover": "https://img.itch.zone/aW1nLzI3MTI5MjQucG5n/300x240%23c/HjNO2G.png",
+          "user": {
+            "url": "https://darkroomgames.itch.io",
+            "name": "Darkroom Games",
+            "id": 1909487
+          },
+          "short_text": "A groovy feline rhythmn game for the 2019 Epic MegaJam",
+          "id": 521488,
+          "url": "https://darkroomgames.itch.io/catnip"
+        },
+        "id": 96651,
+        "url": "/jam/2019-epic-megajam/rate/521488"
+      },
+      "details": {
+        "title": "Catnip",
+        "description": "= A groovy feline rhythm game =\nDoes anyone really know what their cat gets up to when they head out? Take a journey inside the mind of a cat as he explores a space full of his favourite things on his meanderings back home.\nClick the left mouse button on the beats when the rings glow, avoid any pink obstacles! Make sure to play until the end...\nThis game was created for the 2019 Epic MegaJam. We used the spacecats modifier.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNTIxNDg4LzI3MDc1ODgucG5n/original/03VTWq.png",
+          "https://img.itch.zone/aW1hZ2UvNTIxNDg4LzI3MDc1ODkucG5n/original/AZ%2F8eu.png",
+          "https://img.itch.zone/aW1hZ2UvNTIxNDg4LzI3MDc1NzMucG5n/original/qHwc7s.png",
+          "https://img.itch.zone/aW1hZ2UvNTIxNDg4LzI3MDc1NzIucG5n/original/snizz2.png",
+          "https://img.itch.zone/aW1hZ2UvNTIxNDg4LzI3MDc1NzUucG5n/original/BvLbz4.png",
+          "https://img.itch.zone/aW1hZ2UvNTIxNDg4LzI3MDc1NzQucG5n/original/LJkD%2Bh.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(5 total ratings)",
+          "Author": "Darkroom Games",
+          "Genre": "Rhythm",
+          "Tags": "Abstract, Creative, Space, spacecats, Unreal Engine"
+        }
+      }
+    },
+    {
+      "gameId": 521486,
+      "gameUrl": "https://bkizzle444.itch.io/homeland",
+      "overallRank": 3,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "field_responses": [
+          "6991:Platform1"
+        ],
+        "coolness": 0,
+        "created_at": "2019-11-22 04:16:29",
+        "rating_count": 0,
+        "id": 96697,
+        "game": {
+          "platforms": [
+            "windows"
+          ],
+          "title": "HomeLand",
+          "user": {
+            "url": "https://bkizzle444.itch.io",
+            "name": "bkizzle444",
+            "id": 34228
+          },
+          "cover": "https://img.itch.zone/aW1nLzI3MTE1ODgucG5n/300x240%23c/ohNy8J.png",
+          "cover_color": "#000000",
+          "short_text": "A 2.5D Lovecraftian space opera set on an unfamiliar Earth made in 1 week for Epic's Annual Game Jame",
+          "id": 521486,
+          "url": "https://bkizzle444.itch.io/homeland"
+        },
+        "contributors": [
+          {
+            "name": "bkizzle444",
+            "url": "https://bkizzle444.itch.io"
+          },
+          {
+            "name": "Jenkuma",
+            "url": "https://jenkuma.itch.io"
+          }
+        ],
+        "url": "/jam/2019-epic-megajam/rate/521486"
+      },
+      "details": {
+        "title": "HomeLand",
+        "description": "A 2.5D Lovecraftian space opera set on an unfamiliar Earth. You are here to uncover the remnants of what Earth once was in hopes to uncover the truth of who you are.\nController Recommended\nW/A/S/D movementEscape/Start to show in game controls1. Download Zipped folder.  \n2. Unzip folder. \n3. Open EXE file.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNTIxNDg2LzI3MDc4MDUucG5n/original/MhpGIy.png",
+          "https://img.itch.zone/aW1hZ2UvNTIxNDg2LzI3MDc4MDYucG5n/original/eSUaDl.png",
+          "https://img.itch.zone/aW1hZ2UvNTIxNDg2LzI3MDc4MDcucG5n/original/Ijs7xZ.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "bkizzle444, Jenkuma",
+          "Genre": "Adventure, Shooter",
+          "Made with": "Unreal Engine",
+          "Tags": "25d, 2D, Game Jam, Horror, Lovecraftian Horror, megajam, Sci-fi, Singleplayer, Space"
+        }
+      }
+    },
+    {
+      "gameId": 521627,
+      "gameUrl": "https://simonashcroftgd.itch.io/life-as-we-know-it",
+      "overallRank": 4,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "field_responses": [
+          "6991:Platform1"
+        ],
+        "created_at": "2019-11-22 09:50:24",
+        "rating_count": 0,
+        "coolness": 0,
+        "game": {
+          "title": "Life As We Know It",
+          "cover": "https://img.itch.zone/aW1nLzI3MDgyMTYucG5n/300x240%23c/lTXsD2.png",
+          "user": {
+            "url": "https://simonashcroftgd.itch.io",
+            "name": "SimonAshcroftGD",
+            "id": 1909065
+          },
+          "short_text": "A base building/Action game made for Epic MegaJam 2019",
+          "id": 521627,
+          "url": "https://simonashcroftgd.itch.io/life-as-we-know-it"
+        },
+        "id": 97003,
+        "url": "/jam/2019-epic-megajam/rate/521627"
+      },
+      "details": {
+        "title": "Life As We Know It",
+        "description": "Team Name - Lunchbox Games\nTeam Members -\n Simon Ashcroft  - siashcroft@live.co.uk\nLewis Wright - lwright13@uclan.ac.uk\nLukas Kyc - lkyc@uclan.ac.uk\nAdam Kay - akay5@uclan.@ac.uk\nJacob Simpson - jsimpson13@uclan.ac.uk\nGame Name - Life As We Know It\nNo content made before the jam.\nAll content made by team members. (Animations from Mixamo)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNTIxNjI3LzI3MDgyMjEucG5n/original/1i%2FVfk.png",
+          "https://img.itch.zone/aW1hZ2UvNTIxNjI3LzI3MDgyMzAucG5n/original/KMBRer.png",
+          "https://img.itch.zone/aW1hZ2UvNTIxNjI3LzI3MDgyNDQucG5n/original/ST0h7L.png",
+          "https://img.itch.zone/aW1hZ2UvNTIxNjI3LzI3MDgyNDkucG5n/original/pdP85s.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Rating": "Rated 4.5 out of 5 stars(2 total ratings)",
+          "Author": "SimonAshcroftGD",
+          "Genre": "Adventure, Action, Survival",
+          "Tags": "3D, Atmospheric, Game Design, Sci-fi, Singleplayer, Space, Top-Down"
+        }
+      }
+    },
+    {
+      "gameId": 520671,
+      "gameUrl": "https://luxireally.itch.io/down-to-earth",
+      "overallRank": 5,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "field_responses": [
+          "6991:Platform1"
+        ],
+        "created_at": "2019-11-21 17:46:57",
+        "rating_count": 0,
+        "coolness": 0,
+        "game": {
+          "title": "// Down to Earth //",
+          "cover_color": "#773b7f",
+          "short_text": "You're a witch trying to get back to Earth after crash landing on a mysterious planet... the space cats are not pleased.",
+          "price": "$3",
+          "platforms": [
+            "windows"
+          ],
+          "id": 520671,
+          "user": {
+            "url": "https://luxireally.itch.io",
+            "name": "LUXI",
+            "id": 1204307
+          },
+          "cover": "https://img.itch.zone/aW1nLzI3MDMyOTgucG5n/300x240%23c/jL%2BfLA.png",
+          "url": "https://luxireally.itch.io/down-to-earth"
+        },
+        "id": 96258,
+        "url": "/jam/2019-epic-megajam/rate/520671"
+      },
+      "details": {
+        "title": "// Down to Earth //",
+        "description": "This is a game called \"Down to Earth\" (named after the theme of the game jam) created in 7 days, if you want to see it expanded and turned into a full game definitely leave a comment below! \nI made all the pixel art and models myself using Blender and Piskel, I also created the soundtrack during the timeframe of the game jam using Ableton Live, it is included in a folder named \"MUSIC\" so definitely check that out. \nSome of the textures are from the startup content that I modified and also a couple sound effects are from a royalty free website called soundbible. If you want to see my other work check out http://www.luxireally.com or http://www.wickedalley.com\nThis was one of the most fun times I've had making a quick little jam game!Thanks so much for playing! xoxo",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNTIwNjcxLzI3MDMzNDYuanBn/original/hi1fmp.jpg",
+          "https://img.itch.zone/aW1hZ2UvNTIwNjcxLzI3MDMzNDcuanBn/original/tGWA3q.jpg",
+          "https://img.itch.zone/aW1hZ2UvNTIwNjcxLzI3MDMzNDguanBn/original/Wdo7ao.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 3.6 out of 5 stars(44 total ratings)",
+          "Author": "LUXI",
+          "Genre": "Action, Adventure, Shooter",
+          "Tags": "Fantasy, First-Person, Pixel Art, Retro, Singleplayer, solo-dev, soundtrack, vaporwave"
+        }
+      }
+    },
+    {
+      "gameId": 521422,
+      "gameUrl": "https://562interactive.itch.io/smeltdown",
+      "overallRank": 6,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "field_responses": [
+          "6991:Platform1"
+        ],
+        "created_at": "2019-11-22 04:39:18",
+        "rating_count": 0,
+        "coolness": 0,
+        "game": {
+          "platforms": [
+            "windows"
+          ],
+          "title": "Smeltdown!",
+          "user": {
+            "url": "https://562interactive.itch.io",
+            "name": "562Interactive",
+            "id": 558052
+          },
+          "cover": "https://img.itch.zone/aW1nLzI3MDc5MjYucG5n/300x240%23c/XxxlSe.png",
+          "cover_color": "#131319",
+          "short_text": "Dungeon to Table Artisanal Weapon Forging",
+          "id": 521422,
+          "url": "https://562interactive.itch.io/smeltdown"
+        },
+        "id": 96754,
+        "url": "/jam/2019-epic-megajam/rate/521422"
+      },
+      "details": {
+        "title": "Smeltdown!",
+        "description": "Welcome to the world of Alluria.  Not everyone can be a hero, some just make the weapons!  Become a blacksmith in a fantasy world, mine and forge to commercial success.  Will you be the blacksmith to the heroes of myth or will you have a smeltdown from the realities of retail work!\nJoin our community discord:  \nhttps://discord.gg/alluris\nGameplay video:\nhttps://youtu.be/EY-CRvEm7-8Unzip, launch the executable, and enjoy!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNTIxNDIyLzI3MDgwOTQucG5n/original/XnqM1b.png",
+          "https://img.itch.zone/aW1hZ2UvNTIxNDIyLzI3MDgwOTMucG5n/original/mh%2FXAT.png",
+          "https://img.itch.zone/aW1hZ2UvNTIxNDIyLzI3MDgwOTYuanBn/original/aVoTzH.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 3.0 out of 5 stars(4 total ratings)",
+          "Author": "562Interactive",
+          "Genre": "Role Playing, Simulation",
+          "Tags": "3D, Crafting, Fantasy, Management, Swords, Top-Down, Tycoon"
+        }
+      }
+    },
+    {
+      "gameId": 521288,
+      "gameUrl": "https://loonyware.itch.io/data-lost-around-the-sun",
+      "overallRank": 7,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "field_responses": [
+          "6991:Platform1"
+        ],
+        "created_at": "2019-11-22 04:29:40",
+        "rating_count": 0,
+        "coolness": 0,
+        "game": {
+          "platforms": [
+            "windows"
+          ],
+          "title": "Data Lost Around The Sun",
+          "user": {
+            "url": "https://loonyware.itch.io",
+            "name": "loonyware",
+            "id": 1910979
+          },
+          "cover": "https://img.itch.zone/aW1nLzI3MDYzNjEucG5n/300x240%23c/HmVouf.png",
+          "cover_color": "#0a0b13",
+          "short_text": "Retro puzzle game about surviving with your cat on a rouge space station",
+          "id": 521288,
+          "url": "https://loonyware.itch.io/data-lost-around-the-sun"
+        },
+        "id": 96719,
+        "url": "/jam/2019-epic-megajam/rate/521288"
+      },
+      "details": {
+        "title": "Data Lost Around The Sun",
+        "description": "Computer malfunction sends you way off your orbit into the depths of the Solar System. You're left on your own with a sole companion, a cat named Data.\nThe computer managing the station cannot be trusted, so you'll have to tend to all systems. Day after day you'll have to arrange the solar panels, check life support system connections, rearrange lighting in botanics and tweak feeding tubes in a meat growing lab. Your only joy will be times spent playing with Data.\nYou'll have to be down-to-earth to safely get back down to earth.\nThis is a small pixel-art puzzle game created for EPIC MegaJam 2019 \nWe hope you would like it! :)\nWould you like to know more?\nVisit our website: http://loonyware.com/\nor Twitter: https://twitter.com/loonyware\nControls: mouse (point&click style)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNTIxMjg4LzI3MDkyNjkucG5n/original/IgEhdj.png",
+          "https://img.itch.zone/aW1hZ2UvNTIxMjg4LzI3MDkyNzEucG5n/original/atcsLc.png",
+          "https://img.itch.zone/aW1hZ2UvNTIxMjg4LzI3MDgzMzMucG5n/original/qp6l5F.png",
+          "https://img.itch.zone/aW1hZ2UvNTIxMjg4LzI3MDgzMzYucG5n/original/6isckW.png",
+          "https://img.itch.zone/aW1hZ2UvNTIxMjg4LzI3MDgzMzUucG5n/original/9Xdjam.png",
+          "https://img.itch.zone/aW1hZ2UvNTIxMjg4LzI3MDgzMzQucG5n/original/JQUB14.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.0 out of 5 stars(2 total ratings)",
+          "Author": "loonyware",
+          "Genre": "Puzzle",
+          "Made with": "Unreal Engine",
+          "Tags": "2D, Cats, Pixel Art, Sci-fi, Side Scroller, Space",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 520971,
+      "gameUrl": "https://lumisoft.itch.io/between-worlds",
+      "overallRank": 8,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "field_responses": [
+          "6991:Platform1"
+        ],
+        "created_at": "2019-11-22 03:23:56",
+        "rating_count": 0,
+        "coolness": 0,
+        "game": {
+          "platforms": [
+            "windows"
+          ],
+          "title": "Between Worlds",
+          "cover": "https://img.itch.zone/aW1nLzI3MDQ3OTIucG5n/300x240%23c/FsKRfr.png",
+          "user": {
+            "url": "https://lumisoft.itch.io",
+            "name": "lumisoft",
+            "id": 1722928
+          },
+          "id": 520971,
+          "url": "https://lumisoft.itch.io/between-worlds"
+        },
+        "id": 96617,
+        "url": "/jam/2019-epic-megajam/rate/520971"
+      },
+      "details": {
+        "title": "Between Worlds",
+        "description": "Between Worlds is a interactive story game made during Epic's Megajam 2019. It's an unfortunate story about a family that has gone through the worst times in life. It's a mystery novel about being stuck inbetween afterlife. Main character has unfinished business and is denied eternal peace. His soul is stuck in limbo where he tries to re-connect with his long lost family!\nINSTRUCTIONSWASD - to moveOnce in house level - you are supposed to follow soul orb to go through the story.We had to cut the story short due to time limitation - so ending might be somewhere confusing, but we plan on continueing development after Megajam and plan on bringing more detailed story with multiple chapters and added gameplay elements.\nIt's currently in DEMO stage that was specially developed for Megajam with topic Down To Earth. Story is unfinished and planned to unfold in upcoming chapters.\n\nTeam name.\n  \nLumisoft\n\nList any content that was created before the jam that was included in the final submission:\n  \n \n  \nOur pre-made assets were:\n  \nKitchen appliances were half made before Jam,we had to rebuild the set for them to work properly in Unreal Engine.Kids play kitchen\n  Baby changing table\n  Bird house on the wallEntrance door\n  Lamp in baby’s bedroom\n Everything else was made during the Megajam.We included our daughter Nellie as voice actor for one of the characters.\n \n  \nAssets that were not made by us:\n  \n1)Flowers – Flower and Plants Nature Pack 2)Trees,grass and landscape material- Environment Set Pack\n  3)Dining Table, Chandelier – 3D modelling Tools (Textures changed)\n  4)Chairs, glasses, dishes, statue – Crazy Insane Dining Set (Textures changed)\n  5)Most textures came from Quicksell Megascans, Texture Heaven, Cc0textures\n  6)Sky – Good Sky Pack\n  7)Plants – Houseplant Pack\n  8)Books – HQ Residental House Pack, Interior Toolkit Vol 1 Pack\n  9)Sofa – Free Furniture Pack (Textures changed)\n  10)TV – Interior Toolkit Vol 1 Pack\n  11)Royalty Free  Music - Aussens@iter (http://dig.ccmixter.org/files/tobias_weber/56664), Doxent Zsigmond (http://dig.ccmixter.org/files/doxent/45486)12)Font - https://www.1001fonts.com/ruthie-font.html   13)Sounds from Soundly\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNTIwOTcxLzI3MDc1NDUucG5n/original/5zCIKw.png",
+          "https://img.itch.zone/aW1hZ2UvNTIwOTcxLzI3MDc1NDgucG5n/original/QzzpMf.png",
+          "https://img.itch.zone/aW1hZ2UvNTIwOTcxLzI3MDc1NDMucG5n/original/Wnoqyk.png",
+          "https://img.itch.zone/aW1hZ2UvNTIwOTcxLzI3MDc1NDQucG5n/original/vz51Oo.png",
+          "https://img.itch.zone/aW1hZ2UvNTIwOTcxLzI3MDc1NDYucG5n/original/Q176cI.png",
+          "https://img.itch.zone/aW1hZ2UvNTIwOTcxLzI3MDc1NDIucG5n/original/s3C0UZ.png",
+          "https://img.itch.zone/aW1hZ2UvNTIwOTcxLzI3MDc1NDcucG5n/original/j50eOZ.png",
+          "https://img.itch.zone/aW1hZ2UvNTIwOTcxLzI3MDc1NDkucG5n/original/YNNer%2B.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(3 total ratings)",
+          "Author": "lumisoft",
+          "Genre": "Interactive Fiction",
+          "Tags": "megajam, ue4jam, Unreal Engine"
+        }
+      }
+    },
+    {
+      "gameId": 521511,
+      "gameUrl": "https://jestersheepy.itch.io/planted",
+      "overallRank": 9,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "field_responses": [
+          "6991:Platform1"
+        ],
+        "created_at": "2019-11-22 04:29:03",
+        "rating_count": 0,
+        "coolness": 0,
+        "game": {
+          "platforms": [
+            "windows"
+          ],
+          "title": "Planted",
+          "user": {
+            "url": "https://jestersheepy.itch.io",
+            "name": "Jestersheepy",
+            "id": 97737
+          },
+          "cover": "https://img.itch.zone/aW1nLzI3MDc3NjEucG5n/300x240%23c/I72B%2Bf.png",
+          "cover_color": "#202020",
+          "short_text": "Go Plant Yourself",
+          "id": 521511,
+          "url": "https://jestersheepy.itch.io/planted"
+        },
+        "id": 96717,
+        "url": "/jam/2019-epic-megajam/rate/521511"
+      },
+      "details": {
+        "title": "Planted",
+        "description": "You have travelled far and wide for the perfect planet. Have you found the sublime place to plant yourself?\nTravel 'Down to Earth' in this third person platformer, vividly rendered environments test your ability to reach what could be the best place you have ever planted yourself. \nCreated by the following 5 for the Epic Mega Jam 2019:-Michael Hyman-David Nicholls-Liam Grice-Sarah Hull-Shaun BakerController partially supported (In game, not menus).\nKeyboard and Mouse. ",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNTIxNTExLzI3MDc4MzEuanBn/original/aj5pjt.jpg",
+          "https://img.itch.zone/aW1hZ2UvNTIxNTExLzI3MDc4MjkuanBn/original/j8PMi5.jpg",
+          "https://img.itch.zone/aW1hZ2UvNTIxNTExLzI3MDgwMjcuanBn/original/e8gDyp.jpg",
+          "https://img.itch.zone/aW1hZ2UvNTIxNTExLzI3MDc4MjguanBn/original/K1rHp8.jpg",
+          "https://img.itch.zone/aW1hZ2UvNTIxNTExLzI3MDc4MzAuanBn/original/r5gJj5.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.5 out of 5 stars(6 total ratings)",
+          "Author": "Jestersheepy",
+          "Genre": "Adventure, Platformer",
+          "Tags": "artgame, nature, Stealth"
+        }
+      }
+    },
+    {
+      "gameId": 521394,
+      "gameUrl": "https://yarpoplar.itch.io/lights-up",
+      "overallRank": 10,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "field_responses": [
+          "6991:Platform1"
+        ],
+        "coolness": 0,
+        "created_at": "2019-11-22 04:59:38",
+        "rating_count": 0,
+        "id": 96878,
+        "game": {
+          "title": "Light Up",
+          "cover": "https://img.itch.zone/aW1nLzI3MDc5OTYucG5n/300x240%23c/j3u1dp.png",
+          "user": {
+            "url": "https://yarpoplar.itch.io",
+            "name": "yarpoplar",
+            "id": 1727665
+          },
+          "short_text": "Live a life of lone lighthouse keeper on his flying island.",
+          "id": 521394,
+          "url": "https://yarpoplar.itch.io/lights-up"
+        },
+        "contributors": [
+          {
+            "name": "yarpoplar",
+            "url": "https://yarpoplar.itch.io"
+          },
+          {
+            "name": "Enka",
+            "url": "https://enka-s.itch.io"
+          }
+        ],
+        "url": "/jam/2019-epic-megajam/rate/521394"
+      },
+      "details": {
+        "title": "Light Up",
+        "description": "Light Up.\nMeditative simulator of lighthouse watcher life. This game was made for #UE4JAM, theme was \"down to earth\". We're living simple life of down to earth personTeam Name:Light up team\nControls:\nKeyboard:Move - WASDUse - Space BarTake - EJournal - Q\nTEAM\nVlad BoykoNikita SmirnovAleksey ReznikovAlbert DulaevAlex VinogradovNo content was created before jam.Sound effects from Soundly\nMusic from https://www.s-cheremisinov.com/",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNTIxMzk0LzI3MDc5OTguanBn/original/KTss6l.jpg",
+          "https://img.itch.zone/aW1hZ2UvNTIxMzk0LzI3MDgwMDAuanBn/original/XyM2cO.jpg",
+          "https://img.itch.zone/aW1hZ2UvNTIxMzk0LzI3MDgwMDEuanBn/original/vsr8bY.jpg",
+          "https://img.itch.zone/aW1hZ2UvNTIxMzk0LzI3MDgwMDcuanBn/original/UGOO7H.jpg",
+          "https://img.itch.zone/aW1hZ2UvNTIxMzk0LzI3MDgwMDYuanBn/original/KQSWgr.jpg",
+          "https://img.itch.zone/aW1hZ2UvNTIxMzk0LzI3MDgwMDguanBn/original/TYo74U.jpg",
+          "https://img.itch.zone/aW1hZ2UvNTIxMzk0LzI3MDgwMTcuanBn/original/WTzKT9.jpg",
+          "https://img.itch.zone/aW1hZ2UvNTIxMzk0LzI3MDgwMjQucG5n/original/A5E%2F1%2B.png",
+          "https://img.itch.zone/aW1hZ2UvNTIxMzk0LzI3MDgwMjkucG5n/original/5U8eU3.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Authors": "yarpoplar, Enka",
+          "Tags": "3D, Relaxing, Top-Down"
+        }
+      }
+    },
+    {
+      "gameId": 520947,
+      "gameUrl": "https://asobulab.itch.io/cosmo-and-yuuko",
+      "overallRank": 11,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "field_responses": [
+          "6991:Platform1",
+          "6991:Platform2"
+        ],
+        "coolness": 0,
+        "created_at": "2019-11-21 18:47:26",
+        "rating_count": 0,
+        "id": 96271,
+        "game": {
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ],
+          "title": "Cosmo And Yuuko: A Space Adventure",
+          "user": {
+            "url": "https://asobulab.itch.io",
+            "name": "asobulab",
+            "id": 1052355
+          },
+          "cover": "https://img.itch.zone/aW1nLzI3MDQ4MjYucG5n/300x240%23c/5aK3%2BW.png",
+          "cover_color": "#0f0e3d",
+          "short_text": "Two cats with an imagination climb on a washing machine headed to the stars! Look out for the deadly cateroids!",
+          "id": 520947,
+          "url": "https://asobulab.itch.io/cosmo-and-yuuko"
+        },
+        "contributors": [
+          {
+            "name": "asobulab",
+            "url": "https://asobulab.itch.io"
+          },
+          {
+            "name": "Willy Watson",
+            "url": "https://willywatson.itch.io"
+          },
+          {
+            "name": "Deviot",
+            "url": "https://deviot.itch.io"
+          },
+          {
+            "name": "SaltyJo",
+            "url": "https://saltyjo.itch.io"
+          }
+        ],
+        "url": "/jam/2019-epic-megajam/rate/520947"
+      },
+      "details": {
+        "title": "Cosmo And Yuuko: A Space Adventure",
+        "description": "Cosmo and Yuuko A Space Adventure\nA Game by Pastel Sushi Club for the Epic Mega Jam 2019\nWinner of Honorable Mention in Epic Mega Jam 2019\nJoin Cosmo and Yuuko on a journey to the stars aboard the best spaceship ever, The Kleen Masheen! Press the right buttons in the screen or the ship will overheat! Watch out for Cateroids on the way down, Mom is cooking dinner!\nFeatures  3 custom made songs and full leaderboard functionality, cool cutscenes and its available on all 3 desktop platforms! \nSubmit your score to our leaderboard, and see who can get back to Earth faster!\nTeam Pastel Sushi Club is\n                \nDevelopment: AsobuLab and WillyWatson\nDesign and Planning:  Garet Nicholas (aka Deviot)\nArt (unless otherwise noted): Joyce Lau (aka SaltyyJo)Music: James FurukawaWindows: Just unzip and start SpaceCats.exe\nMac: Just unzip and start SpaceCats.app",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNTIwOTQ3LzI3MDQ4NjIucG5n/original/amf9SH.png",
+          "https://img.itch.zone/aW1hZ2UvNTIwOTQ3LzI3MDQ4NDEucG5n/original/qn25Z5.png",
+          "https://img.itch.zone/aW1hZ2UvNTIwOTQ3LzI3MDQ4MzkucG5n/original/RKbAOn.png",
+          "https://img.itch.zone/aW1hZ2UvNTIwOTQ3LzI3MDQ4NDQucG5n/original/NIYbFy.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS, Linux",
+          "Rating": "Rated 5.0 out of 5 stars(5 total ratings)",
+          "Authors": "asobulab, Willy Watson, Deviot, SaltyJo",
+          "Genre": "Action",
+          "Made with": "Unreal Engine",
+          "Tags": "Cats, Cute, Game Jam, Hand-drawn, Typing, Unreal Engine, Wholesome",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": 520867,
+      "gameUrl": "https://dwunkypengy.itch.io/greg-the-great-evil",
+      "overallRank": 12,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "field_responses": [
+          "6991:Platform1"
+        ],
+        "created_at": "2019-11-21 15:22:44",
+        "rating_count": 0,
+        "coolness": 0,
+        "game": {
+          "platforms": [
+            "windows"
+          ],
+          "title": "Greg & the Great Evil!",
+          "cover": "https://img.itch.zone/aW1nLzI3MDQ0NDcucG5n/300x240%23c/f9%2FQ66.png",
+          "user": {
+            "url": "https://dwunkypengy.itch.io",
+            "name": "dwunkypengy",
+            "id": 1907830
+          },
+          "short_text": "A  quaint dungeon card game",
+          "id": 520867,
+          "url": "https://dwunkypengy.itch.io/greg-the-great-evil"
+        },
+        "id": 96220,
+        "url": "/jam/2019-epic-megajam/rate/520867"
+      },
+      "details": {
+        "title": "Greg & the Great Evil!",
+        "description": "A  quaint card game where you play as Greg the mighty Lunar Paladin who has found himself plunging down to earth in order to defeat a great evil!You fall into a room wielding nothing but your cards. Your goal is to clear as many rooms as you can before fighting the final boss. Good luck!Unzip the files and run the DTE.exe",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzI3MDQ0NDcucG5n/original/Bfl0Nu.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.5 out of 5 stars(4 total ratings)",
+          "Author": "dwunkypengy",
+          "Genre": "Strategy",
+          "Average session": "About a half-hour",
+          "Languages": "English"
+        }
+      }
+    },
+    {
+      "gameId": 521629,
+      "gameUrl": "https://bioxide.itch.io/potodontdie",
+      "overallRank": 13,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "field_responses": [
+          "6991:Platform1"
+        ],
+        "created_at": "2019-11-22 04:54:54",
+        "rating_count": 0,
+        "coolness": 0,
+        "game": {
+          "platforms": [
+            "windows"
+          ],
+          "title": "Poto Dont Die",
+          "cover": "https://img.itch.zone/aW1nLzI3MjE1OTMucG5n/300x240%23c/lmr4k3.png",
+          "cover_color": "#000000",
+          "user": {
+            "url": "https://bioxide.itch.io",
+            "name": "BioXide",
+            "id": 1885665
+          },
+          "id": 521629,
+          "url": "https://bioxide.itch.io/potodontdie"
+        },
+        "id": 96840,
+        "url": "/jam/2019-epic-megajam/rate/521629"
+      },
+      "details": {
+        "title": "Poto Dont Die",
+        "description": "Gameplay:\n\nPoto, an interdimensional space cat  that collects a powerful essence in these dimensions called \"Aether\" has been summoned back by some old friends to do some favors.\nPLEASE READ THE IN-GAME TEXT OR THE TIPS BELOW! There's 3 levels to complete, including the starting area which acts as a hub!\nPoto Dont Die:\n- Gravity defying platforming with very fluid physics based movement system, challenging gameplay and eye pleasing graphics\n- Inspired by old school platformers like Banjo Kazooie and Conkers Bad Fur Day\nGame was done for the unreal mega jam 2019, if you enjoyed please leave some comments, I'm eager to see what people think about the game.\nInstructions:\nYou can find the controls on the settings in the main menu and in-game by pressing ESC or start on the gamepad, there's dialogue in the game that tells you what to you, but just collect all aether (Glowing purple things) from all levels and then return to the home level to the end the game, you can do some crazy physics movement in this game by fully exploiting the grappling hook and  jetpack.\nTips if you're lost:\n- Go up the platforming section and grab the hook then look for the 22 aethers (collectible blue things), they're above the starting area, look at the yellow triangle icons and land on those platforms with the grappling hook\n- You can move in zero-g by simply moving forward and pointing the camera where you want to go\n- You lose oxygen when in zero-g areas, you gain oxygen waiting in non zero-g areas\n- You can grapple to enemies to damage them and finish them off with a combo or use it like a whip and attack from a distance by hooking and then unhooking quick\n- Make sure to grab the jetpack, you'll find it on the last platform, it has a blue triangle if you go to the starting area and look upwards\n- Once you collect all 22, you'll unlock the two portals in the starting area, from there you can go to the other levels and even return back to the starting area by standing on the portals and holding F or gamepad face button top (Triangle in PS4 or Y in Xbox) for the duration of the sequence (the screen will turn white entirely)\n- To finish the game you need to collect all aether from both levels and return back to the starting area, there's no aether on the planets, just the platforms and both maps are on a straight line pretty much (I placed UI markers on the ending spots in the maps, just follow that path), you'll hear a sound once you collect all in a level1. Download the game\n2. Unzip and run PotoDontDie.exe\n3. If it fails go to FarFrontierStudios_PotoDontDie\\Engine\\Extras\\Redist\\en-us and install the prereqs",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNTIxNjI5LzI3MDgwNzcuanBn/original/kFmtVD.jpg",
+          "https://img.itch.zone/aW1hZ2UvNTIxNjI5LzI3MDgwNzguanBn/original/cc6qTB.jpg",
+          "https://img.itch.zone/aW1hZ2UvNTIxNjI5LzI3MjE2MTcuanBn/original/X1ddqI.jpg",
+          "https://img.itch.zone/aW1hZ2UvNTIxNjI5LzI3MjE2MjAuanBn/original/h%2FAxF0.jpg",
+          "https://img.itch.zone/aW1hZ2UvNTIxNjI5LzI3MjE2MTguanBn/original/fucxER.jpg",
+          "https://img.itch.zone/aW1hZ2UvNTIxNjI5LzI3MjE2MTkuanBn/original/I12bZB.jpg",
+          "https://img.itch.zone/aW1hZ2UvNTIxNjI5LzI3MjE2MjMuanBn/original/rlhrca.jpg",
+          "https://img.itch.zone/aW1hZ2UvNTIxNjI5LzI3MjE2MjEuanBn/original/ZNrE5g.jpg",
+          "https://img.itch.zone/aW1hZ2UvNTIxNjI5LzI3MjE2MjQuanBn/original/HFT%2FX8.jpg",
+          "https://img.itch.zone/aW1hZ2UvNTIxNjI5LzI3MjE2MjIuanBn/original/Eof%2BKC.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "BioXide",
+          "Genre": "Platformer, Adventure",
+          "Tags": "3D, 3D Platformer, Action-Adventure, Cats, Game Jam, Gravity, Singleplayer, Unreal Engine"
+        }
+      }
+    },
+    {
+      "gameId": 521336,
+      "gameUrl": "https://realityarts.itch.io/welcome",
+      "overallRank": 14,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "field_responses": [
+          "6991:Platform1"
+        ],
+        "created_at": "2019-11-22 00:57:40",
+        "rating_count": 0,
+        "coolness": 0,
+        "game": {
+          "platforms": [
+            "windows"
+          ],
+          "title": "Welcome",
+          "cover": "https://img.itch.zone/aW1nLzI3MDY1NzUuanBn/300x240%23c/3V%2BGlt.jpg",
+          "user": {
+            "url": "https://realityarts.itch.io",
+            "name": "realityarts",
+            "id": 1907773
+          },
+          "short_text": "A journey from the Unknown to Life and Beyond....",
+          "id": 521336,
+          "url": "https://realityarts.itch.io/welcome"
+        },
+        "id": 96475,
+        "url": "/jam/2019-epic-megajam/rate/521336"
+      },
+      "details": {
+        "title": "Welcome",
+        "description": "Entry for Epic Megajam 2019.\nThis is the last phase of your journey. Journey from the depths of the Abyss, to Life itself. This is a dramatic audio visual surreal experience for the theme of \"Down to Earth\".",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNTIxMzM2LzI3MDY1NzYuanBn/original/X7x4hO.jpg",
+          "https://img.itch.zone/aW1hZ2UvNTIxMzM2LzI3MDY1NzcuanBn/original/tdhP6i.jpg",
+          "https://img.itch.zone/aW1hZ2UvNTIxMzM2LzI3MDY1ODEuanBn/original/fH%2FSUJ.jpg",
+          "https://img.itch.zone/aW1hZ2UvNTIxMzM2LzI3MDY1NzkuanBn/original/ZfZwJZ.jpg",
+          "https://img.itch.zone/aW1hZ2UvNTIxMzM2LzI3MDY1NzguanBn/original/MijKzp.jpg",
+          "https://img.itch.zone/aW1hZ2UvNTIxMzM2LzI3MDY1ODAuanBn/original/0t5hcw.jpg",
+          "https://img.itch.zone/aW1hZ2UvNTIxMzM2LzI3MDY1ODIuanBn/original/JAxIdV.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.0 out of 5 stars(3 total ratings)",
+          "Author": "realityarts",
+          "Tags": "dreamy, epic, Surreal, unreal"
+        }
+      }
+    },
+    {
+      "gameId": 521652,
+      "gameUrl": "https://23edsa.itch.io/throw-it-down-to-earth",
+      "overallRank": 15,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "field_responses": [
+          "6991:Platform1"
+        ],
+        "coolness": 0,
+        "created_at": "2019-11-22 06:01:28",
+        "rating_count": 0,
+        "id": 96942,
+        "game": {
+          "title": "Throw it down (to Earth)",
+          "cover": "https://img.itch.zone/aW1nLzI3MDgxMTUucG5n/300x240%23c/CkKKmp.png",
+          "user": {
+            "url": "https://23edsa.itch.io",
+            "name": "23edsa",
+            "id": 1908688
+          },
+          "short_text": "This game is about a kid with big imagination and his cat",
+          "id": 521652,
+          "url": "https://23edsa.itch.io/throw-it-down-to-earth"
+        },
+        "contributors": [
+          {
+            "name": "23edsa",
+            "url": "https://23edsa.itch.io"
+          },
+          {
+            "name": "Fl3xo",
+            "url": "https://fl3xo.itch.io"
+          },
+          {
+            "name": "fluffy pisya",
+            "url": "https://fluffy-pisya.itch.io"
+          },
+          {
+            "name": "opnmnv",
+            "url": "https://opnmnv.itch.io"
+          },
+          {
+            "name": "ed__m",
+            "url": "https://ed-m.itch.io"
+          }
+        ],
+        "url": "/jam/2019-epic-megajam/rate/521652"
+      },
+      "details": {
+        "title": "Throw it down (to Earth)",
+        "description": "This game is about a kid with big imagination and his cat. Is there really anything that can stand in the way of a surely very important mission on every planet of their home?",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNTIxNjUyLzI3MDgxNjUuZ2lm/original/cJ10rH.gif",
+          "https://img.itch.zone/aW1hZ2UvNTIxNjUyLzI3MDgxNjMucG5n/original/GC%2BBYB.png",
+          "https://img.itch.zone/aW1hZ2UvNTIxNjUyLzI3MDgyMDYucG5n/original/7rRte5.png",
+          "https://img.itch.zone/aW1hZ2UvNTIxNjUyLzI3MDgyMDUuanBn/original/Bo4fMR.jpg",
+          "https://img.itch.zone/aW1hZ2UvNTIxNjUyLzI3MDgyMDcuanBn/original/EirG%2BR.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Authors": "23edsa, Fl3xo, fluffy pisya, opnmnv, ed__m",
+          "Tags": "Funny, Game Jam, Physics, ue4"
+        }
+      }
+    }
+  ]
+}

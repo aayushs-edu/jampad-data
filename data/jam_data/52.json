@@ -1,0 +1,4568 @@
+{
+  "n": 52,
+  "name": "Patch Notes v1.0",
+  "url": "https://itch.io/jam/patch-notes-v-1-0",
+  "theme": "The Error Is the Feature",
+  "slug": "patch-notes-v-1-0",
+  "jamMeta": {
+    "jamType": "ended",
+    "ratings": "5,220",
+    "entries": "472",
+    "title": "Patch Notes v1.0",
+    "jamURL": "https://itch.io/jam/patch-notes-v-1-0",
+    "hosts": {
+      "Indieformer": "https://indieformer.itch.io",
+      "#PatchNotesJamV1": "https://bsky.app/hashtag/PatchNotesJamV1"
+    },
+    "jamID": "407475"
+  },
+  "totalEntries": 438,
+  "ranked": true,
+  "hasCategories": true,
+  "needsManualSelection": false,
+  "categories": [
+    "Art",
+    "Gameplay",
+    "Sound Design",
+    "Theme Integration",
+    "Innovation",
+    "Fun Factor"
+  ],
+  "topGames": [
+    {
+      "gameId": 3883389,
+      "gameUrl": "https://predicteddice.itch.io/elusivenoise",
+      "overallRank": 11,
+      "topCategories": [
+        "Art",
+        "Sound Design"
+      ],
+      "resultData": {
+        "id": 3883389,
+        "score": 3.8650793650794,
+        "cover_url": "https://img.itch.zone/aW1nLzIzMTY4ODUyLmdpZg==/300x240%23c/eiqB5c.gif",
+        "raw_score": 3.8650793650794,
+        "rating_count": 21,
+        "criteria": [
+          {
+            "name": "Art",
+            "score": 4.7619047619048,
+            "raw_score": 4.7619047619048,
+            "rank": 1
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.6666666666667,
+            "raw_score": 3.6666666666667,
+            "rank": 37
+          },
+          {
+            "name": "Sound Design",
+            "score": 4.1428571428571,
+            "raw_score": 4.1428571428571,
+            "rank": 5
+          },
+          {
+            "name": "Theme Integration",
+            "score": 3.4761904761905,
+            "raw_score": 3.4761904761905,
+            "rank": 92
+          },
+          {
+            "name": "Innovation",
+            "score": 3.8095238095238,
+            "raw_score": 3.8095238095238,
+            "rank": 23
+          },
+          {
+            "name": "Fun Factor",
+            "score": 3.3333333333333,
+            "raw_score": 3.3333333333333,
+            "rank": 79
+          }
+        ],
+        "contributors": [
+          {
+            "name": "PredictedDice",
+            "id": 5240307
+          },
+          {
+            "name": "Kenuen",
+            "id": 9410733
+          },
+          {
+            "name": "NyafaMafin",
+            "id": 11099054
+          },
+          {
+            "name": "SHPVZB",
+            "id": 12771951
+          },
+          {
+            "name": "Sedji1",
+            "id": 14885664
+          }
+        ],
+        "url": "https://itch.io/jam/patch-notes-v-1-0/rate/3883389",
+        "rank": 11,
+        "title": "Elusive Noise"
+      },
+      "entryData": {
+        "coolness": 26,
+        "rating_count": 21,
+        "created_at": "2025-09-15 06:51:21",
+        "id": 765418,
+        "contributors": [
+          {
+            "name": "PredictedDice",
+            "url": "https://predicteddice.itch.io"
+          },
+          {
+            "name": "Kenuen",
+            "url": "https://kenuen.itch.io"
+          },
+          {
+            "name": "NyafaMafin",
+            "url": "https://nyafamafin.itch.io"
+          },
+          {
+            "name": "SHPVZB",
+            "url": "https://shpvzb.itch.io"
+          },
+          {
+            "name": "Sedji1",
+            "url": "https://sedji1.itch.io"
+          }
+        ],
+        "game": {
+          "short_text": "Her flaw was their frequency",
+          "id": 3883389,
+          "user": {
+            "name": "PredictedDice",
+            "url": "https://predicteddice.itch.io",
+            "id": 5240307
+          },
+          "url": "https://predicteddice.itch.io/elusivenoise",
+          "cover": "https://img.itch.zone/aW1nLzIzMTY4ODUyLmdpZg==/300x240%23c/eiqB5c.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzIzMTY4ODUyLmdpZg==/original/8szjrZ.gif",
+          "platforms": [
+            "windows",
+            "linux",
+            "web"
+          ],
+          "cover_color": "#193d3f",
+          "title": "Elusive Noise"
+        },
+        "url": "/jam/patch-notes-v-1-0/rate/3883389",
+        "field_responses": [
+          "37077:2",
+          "38986:2"
+        ]
+      },
+      "details": {
+        "title": "Elusive Noise",
+        "description": "Olivia always believed the voices in her head were just a cruel error.\nBut now she understands: they were not an error.\nThey were a gift. A connection. A key to a reality beyond our own.\nAnd the door has finally appeared.\nWill you help her unlock it?\n\nTechnical notes:\nThere might be small audio defects in a browser version of the game. So it's better to download Windows version if possible.Linux version has not been tested!\n\nGenre: Puzzle, Psychological Horror\nTeam: Frogware Games\nTeam members:\nGame Designer: PredictedDiceProgrammer: KenuenArtist: NyafaMafinNarrative Designer: SHPVZBComposer: Sedji1\n\nAI Disclosure\nWe used AI for:\nVoiceoverTranslation and shortening of the text Very few code snipets",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzg4MzM4OS8yMzE3MDAxNy5wbmc=/original/PjCbje.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4MzM4OS8yMzE2OTk4OC5wbmc=/original/7XFxbC.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4MzM4OS8yMzE2OTk4Ny5wbmc=/original/sETqfj.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows, Linux",
+          "Authors": "PredictedDice, Kenuen, NyafaMafin, SHPVZB, Sedji1",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "2D, Horror, Multiple Endings, Psychological Horror, storygame"
+        }
+      }
+    },
+    {
+      "gameId": 3878433,
+      "gameUrl": "https://musniro.itch.io/outoftunes",
+      "overallRank": 19,
+      "topCategories": [
+        "Art",
+        "Sound Design"
+      ],
+      "resultData": {
+        "id": 3878433,
+        "score": 3.7638888888889,
+        "cover_url": "https://img.itch.zone/aW1nLzIzMTgzOTE3LmdpZg==/300x240%23c/WmPVCH.gif",
+        "raw_score": 3.7638888888889,
+        "rating_count": 12,
+        "criteria": [
+          {
+            "name": "Art",
+            "score": 4.75,
+            "raw_score": 4.75,
+            "rank": 2
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.4166666666667,
+            "raw_score": 3.4166666666667,
+            "rank": 67
+          },
+          {
+            "name": "Sound Design",
+            "score": 4.5833333333333,
+            "raw_score": 4.5833333333333,
+            "rank": 1
+          },
+          {
+            "name": "Theme Integration",
+            "score": 2.75,
+            "raw_score": 2.75,
+            "rank": 192
+          },
+          {
+            "name": "Innovation",
+            "score": 3.5,
+            "raw_score": 3.5,
+            "rank": 53
+          },
+          {
+            "name": "Fun Factor",
+            "score": 3.5833333333333,
+            "raw_score": 3.5833333333333,
+            "rank": 44
+          }
+        ],
+        "contributors": [
+          {
+            "name": "musniro",
+            "id": 628031
+          },
+          {
+            "name": "MusiGator",
+            "id": 12468975
+          },
+          {
+            "name": "Nicholas Singer",
+            "id": 1851428
+          }
+        ],
+        "url": "https://itch.io/jam/patch-notes-v-1-0/rate/3878433",
+        "rank": 19,
+        "title": "Out of Tunes"
+      },
+      "entryData": {
+        "coolness": 17,
+        "rating_count": 12,
+        "created_at": "2025-09-15 18:17:12",
+        "id": 765716,
+        "contributors": [
+          {
+            "name": "musniro",
+            "url": "https://musniro.itch.io"
+          },
+          {
+            "name": "MusiGator",
+            "url": "https://musigator.itch.io"
+          },
+          {
+            "name": "Nicholas Singer",
+            "url": "https://nicholassinger.itch.io"
+          }
+        ],
+        "game": {
+          "short_text": "Find your voice",
+          "id": 3878433,
+          "user": {
+            "name": "musniro",
+            "url": "https://musniro.itch.io",
+            "id": 628031
+          },
+          "url": "https://musniro.itch.io/outoftunes",
+          "cover": "https://img.itch.zone/aW1nLzIzMTgzOTE3LmdpZg==/300x240%23c/WmPVCH.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzIzMTgzOTE3LmdpZg==/original/kgasbP.gif",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#eeeeee",
+          "title": "Out of Tunes"
+        },
+        "url": "/jam/patch-notes-v-1-0/rate/3878433",
+        "field_responses": [
+          "37077:1",
+          "38986:2"
+        ]
+      },
+      "details": {
+        "title": "Out of Tunes",
+        "description": "After a traumatic event, Rustwing the digital parrot has been transported to the future and has forgotten how to sing.  Help them find their voice again, one note at a time, by observing the ecosystem, learning from other creatures, and overcoming challenges.\nThis short point and click adventure is about music, recovery, and finding your place in an environment.\n\nControls:\n point & click keys 1,2,3,4,5 on your keyboard\n\nIf you get stuck anywhere, use the following debug command:\nPress control+enterType one of the following in the text box and press 'goto':\nclassroompostdisco_ext",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzg3ODQzMy8yNTIxNTQ1Mi5wbmc=/original/Cn3kN6.png",
+          "https://img.itch.zone/aW1hZ2UvMzg3ODQzMy8yNTIxNTQ0Ny5wbmc=/original/lSOwEU.png",
+          "https://img.itch.zone/aW1hZ2UvMzg3ODQzMy8yNTIxNTQ5OC5wbmc=/original/ppVKl5.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows",
+          "Authors": "musniro, MusiGator, Nicholas Singer"
+        }
+      }
+    },
+    {
+      "gameId": 3883783,
+      "gameUrl": "https://arkicade.itch.io/boxed-in",
+      "overallRank": 18,
+      "topCategories": [
+        "Art",
+        "Sound Design"
+      ],
+      "resultData": {
+        "id": 3883783,
+        "score": 3.7708333333333,
+        "cover_url": "https://img.itch.zone/aW1nLzIzMTcwNDYzLnBuZw==/300x240%23c/CMcZCJ.png",
+        "raw_score": 3.7708333333333,
+        "rating_count": 16,
+        "criteria": [
+          {
+            "name": "Art",
+            "score": 4.5625,
+            "raw_score": 4.5625,
+            "rank": 3
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.875,
+            "raw_score": 3.875,
+            "rank": 18
+          },
+          {
+            "name": "Sound Design",
+            "score": 4.125,
+            "raw_score": 4.125,
+            "rank": 6
+          },
+          {
+            "name": "Theme Integration",
+            "score": 3.4375,
+            "raw_score": 3.4375,
+            "rank": 94
+          },
+          {
+            "name": "Innovation",
+            "score": 3,
+            "raw_score": 3,
+            "rank": 122
+          },
+          {
+            "name": "Fun Factor",
+            "score": 3.625,
+            "raw_score": 3.625,
+            "rank": 43
+          }
+        ],
+        "contributors": [
+          {
+            "name": "arkicade",
+            "id": 267626
+          }
+        ],
+        "url": "https://itch.io/jam/patch-notes-v-1-0/rate/3883783",
+        "rank": 18,
+        "title": "Boxed In"
+      },
+      "entryData": {
+        "coolness": 29,
+        "rating_count": 16,
+        "created_at": "2025-09-14 22:04:23",
+        "id": 764954,
+        "game": {
+          "short_text": "Think INSIDE the box",
+          "cover": "https://img.itch.zone/aW1nLzIzMTcwNDYzLnBuZw==/300x240%23c/CMcZCJ.png",
+          "platforms": [
+            "windows",
+            "osx",
+            "web"
+          ],
+          "id": 3883783,
+          "cover_color": "#a8c8a6",
+          "user": {
+            "name": "arkicade",
+            "url": "https://arkicade.itch.io",
+            "id": 267626
+          },
+          "url": "https://arkicade.itch.io/boxed-in",
+          "title": "Boxed In"
+        },
+        "url": "/jam/patch-notes-v-1-0/rate/3883783",
+        "field_responses": [
+          "37077:2",
+          "38986:2"
+        ]
+      },
+      "details": {
+        "title": "Boxed In",
+        "description": "\n- CONTROLS -\nWASD or arrow keys to move\"U\" or \"Z\" to undo move\"R\" to restart level\"Q\" to quit\n\n- RULES -\nOBJECTIVE: Push all the boxes into the storage locations\nYou can push boxes by \"colliding\" with it.Push all boxes into a storage location (circle tile) to progress to the nextERROR: If you collide with a box that is against a wall you can move inside the boxIf you aren't hearing sound in WEB, try clicking on the screen.\n.\n\n\n- ABOUT -\nBoxed In is a cute, cozy game about pushing boxes. Fini, the fiddler crab, has massive claws. While he has been ostracized by other crabs, his insecurity may be his greatest strength (literally). Fini is soon working for the FishBox company, where they deliver fish to different animals. Help Fini move the boxes of fish to the correct locations to feed his friends!\nBoxed In was made in 2 days for the Patch Notes Game Jam #1 with the theme: THE ERROR IS THE FEATURE. Normally, in block pushing games (sokoban) you can't \"move into\" the box. But in Boxed In, you are able to \"go into\" the box only if the box is facing a wall in the same direction of your movement.\n.\n\n- CREDITS -\narkicade: Programming and Art\nPodington Bear: MusicLokiF, JSFXR: Sound effects\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzg4Mzc4My8yMzE3MDU2Ny5wbmc=/original/p1jEDq.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4Mzc4My8yMzE3MDU2NS5wbmc=/original/CYLBrW.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4Mzc4My8yMzE3MDU2Ni5wbmc=/original/D3FxuW.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "arkicade",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "Cozy, Cute, No AI, Relaxing, Retro, Singleplayer, Sokoban"
+        }
+      }
+    },
+    {
+      "gameId": 3878965,
+      "gameUrl": "https://cdzero.itch.io/blueroom",
+      "overallRank": 81,
+      "topCategories": [
+        "Art"
+      ],
+      "resultData": {
+        "id": 3878965,
+        "score": 3.2407407407407,
+        "cover_url": "https://img.itch.zone/aW1nLzIzMTcwNDE4LnBuZw==/300x240%23c/36TLAz.png",
+        "raw_score": 3.2407407407407,
+        "rating_count": 18,
+        "criteria": [
+          {
+            "name": "Art",
+            "score": 4.5555555555556,
+            "raw_score": 4.5555555555556,
+            "rank": 4
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.3333333333333,
+            "raw_score": 3.3333333333333,
+            "rank": 75
+          },
+          {
+            "name": "Sound Design",
+            "score": 3.1666666666667,
+            "raw_score": 3.1666666666667,
+            "rank": 89
+          },
+          {
+            "name": "Theme Integration",
+            "score": 2.2222222222222,
+            "raw_score": 2.2222222222222,
+            "rank": 273
+          },
+          {
+            "name": "Innovation",
+            "score": 2.7222222222222,
+            "raw_score": 2.7222222222222,
+            "rank": 167
+          },
+          {
+            "name": "Fun Factor",
+            "score": 3.4444444444444,
+            "raw_score": 3.4444444444444,
+            "rank": 59
+          }
+        ],
+        "contributors": [
+          {
+            "name": "CdZero",
+            "id": 6805613
+          },
+          {
+            "name": "MnemonicMask (NotchNotch)",
+            "id": 7386534
+          },
+          {
+            "name": "Chris DuBrock",
+            "id": 8559375
+          },
+          {
+            "name": "cizclera",
+            "id": 12580726
+          }
+        ],
+        "url": "https://itch.io/jam/patch-notes-v-1-0/rate/3878965",
+        "rank": 81,
+        "title": "Blue Room"
+      },
+      "entryData": {
+        "coolness": 7,
+        "rating_count": 18,
+        "created_at": "2025-09-14 22:52:23",
+        "id": 765013,
+        "contributors": [
+          {
+            "name": "CdZero",
+            "url": "https://cdzero.itch.io"
+          },
+          {
+            "name": "MnemonicMask (NotchNotch)",
+            "url": "https://notchnotch.itch.io"
+          },
+          {
+            "name": "Chris DuBrock",
+            "url": "https://chris-dubrock.itch.io"
+          },
+          {
+            "name": "cizclera",
+            "url": "https://cizclera.itch.io"
+          }
+        ],
+        "game": {
+          "short_text": "Search your surroundings for clues to turn on that computer.",
+          "cover": "https://img.itch.zone/aW1nLzIzMTcwNDE4LnBuZw==/300x240%23c/36TLAz.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 3878965,
+          "cover_color": "#1d2f4b",
+          "user": {
+            "name": "CdZero",
+            "url": "https://cdzero.itch.io",
+            "id": 6805613
+          },
+          "url": "https://cdzero.itch.io/blueroom",
+          "title": "Blue Room"
+        },
+        "url": "/jam/patch-notes-v-1-0/rate/3878965",
+        "field_responses": [
+          "37077:1",
+          "38986:2"
+        ]
+      },
+      "details": {
+        "title": "Blue Room",
+        "description": "\n\n\n              Search your surroundings for clues to turn on that computer.\n              Playthrough time: 10- 12 minutes\n             Marin:                            Code             Cizclera:                        Game Design             Chris DuBrock:         Audio             MnemonicMask:     Art               Made in 3 days for the Patch Notes Jam.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzg3ODk2NS8yMzE2NjMyMy5wbmc=/original/5CJQas.png",
+          "https://img.itch.zone/aW1hZ2UvMzg3ODk2NS8yMzE2ODc5Mi5wbmc=/original/71fbK5.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "CdZero, MnemonicMask (NotchNotch), Chris DuBrock, cizclera",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "Point & Click"
+        }
+      }
+    },
+    {
+      "gameId": 3883867,
+      "gameUrl": "https://ericcool09.itch.io/balance",
+      "overallRank": 52,
+      "topCategories": [
+        "Art"
+      ],
+      "resultData": {
+        "id": 3883867,
+        "score": 3.4958333333333,
+        "cover_url": "https://img.itch.zone/aW1nLzI0NTcyNjE1LmdpZg==/300x240%23c/70z%2FQx.gif",
+        "raw_score": 3.4958333333333,
+        "rating_count": 40,
+        "criteria": [
+          {
+            "name": "Judge's Ranking",
+            "score": 0,
+            "raw_score": 0,
+            "rank": 1
+          },
+          {
+            "name": "Art",
+            "score": 4.55,
+            "raw_score": 4.55,
+            "rank": 5
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.575,
+            "raw_score": 3.575,
+            "rank": 44
+          },
+          {
+            "name": "Sound Design",
+            "score": 3.525,
+            "raw_score": 3.525,
+            "rank": 45
+          },
+          {
+            "name": "Theme Integration",
+            "score": 2.1,
+            "raw_score": 2.1,
+            "rank": 299
+          },
+          {
+            "name": "Innovation",
+            "score": 3.525,
+            "raw_score": 3.525,
+            "rank": 52
+          },
+          {
+            "name": "Fun Factor",
+            "score": 3.7,
+            "raw_score": 3.7,
+            "rank": 35
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Ericcool09",
+            "id": 11984900
+          }
+        ],
+        "url": "https://itch.io/jam/patch-notes-v-1-0/rate/3883867",
+        "rank": 52,
+        "title": "BALANCE"
+      },
+      "entryData": {
+        "coolness": 0,
+        "rating_count": 40,
+        "created_at": "2025-09-15 01:15:24",
+        "id": 765120,
+        "game": {
+          "short_text": "A infinity balance game",
+          "id": 3883867,
+          "user": {
+            "name": "Ericcool09",
+            "url": "https://ericcool09.itch.io",
+            "id": 11984900
+          },
+          "url": "https://ericcool09.itch.io/balance",
+          "cover": "https://img.itch.zone/aW1nLzI0NTcyNjE1LmdpZg==/300x240%23c/70z%2FQx.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzI0NTcyNjE1LmdpZg==/original/TpBEU7.gif",
+          "platforms": [
+            "windows",
+            "osx",
+            "android",
+            "web"
+          ],
+          "cover_color": "#ffdb16",
+          "title": "BALANCE"
+        },
+        "url": "/jam/patch-notes-v-1-0/rate/3883867",
+        "field_responses": [
+          "37077:2",
+          "38986:2"
+        ]
+      },
+      "details": {
+        "title": "BALANCE",
+        "description": "BALANCE: A infinity balance game\nWelcome to Balance, an infinite game like 2048, Flappy Bird, Snake, or others, with the sole goal of beating your record and having fun.\n\nHOW TO PLAY\nIf the scale touches the ground, the pieces will reset, and if any piece falls to the ground, you will lose points. Earn points by leaving pieces on the scale and getting upgrades during the game from Birdnessman.\nABOUT BIRDNESSMAN\nAt school, I used to draw characters in my planner whenever I got bored in class. That’s where my ideas for game jams come from, since if you look closely, each of my games is accompanied by the drawing that inspired me to create it.\nFONT\nThe text font used for this project is m6x11plus, designed by Daniel Linssen. \n\nIts official website can be found here: https://managore.itch.io/m6x11\nSOFTWARE\nEngine: Godot Engine\nArt & Animation: Aseprite\nMusic & SFX: FL Studio & Audacity",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzg4Mzg2Ny8yMzE4NDY0NC5wbmc=/original/%2BACVsH.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4Mzg2Ny8yMzE4NTA1NC5wbmc=/original/JPDOWK.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4Mzg2Ny8yMzE4NDY1Ny5wbmc=/original/NHuWbt.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4Mzg2Ny8yMzE4NTE2OC5wbmc=/original/VQW0s3.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Android",
+          "Author": "Ericcool09",
+          "Genre": "Simulation",
+          "Made with": "Godot"
+        }
+      }
+    },
+    {
+      "gameId": 3884608,
+      "gameUrl": "https://lekotopaz.itch.io/playdotexe",
+      "overallRank": 21,
+      "topCategories": [
+        "Art"
+      ],
+      "resultData": {
+        "id": 3884608,
+        "score": 3.7579908675799,
+        "cover_url": "https://img.itch.zone/aW1nLzIzMTc0OTQ1LnBuZw==/300x240%23c/de4y5n.png",
+        "raw_score": 3.7579908675799,
+        "rating_count": 73,
+        "criteria": [
+          {
+            "name": "Art",
+            "score": 4.4794520547945,
+            "raw_score": 4.4794520547945,
+            "rank": 6
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.8356164383562,
+            "raw_score": 3.8356164383562,
+            "rank": 22
+          },
+          {
+            "name": "Sound Design",
+            "score": 3.6986301369863,
+            "raw_score": 3.6986301369863,
+            "rank": 22
+          },
+          {
+            "name": "Theme Integration",
+            "score": 3.6301369863014,
+            "raw_score": 3.6301369863014,
+            "rank": 69
+          },
+          {
+            "name": "Innovation",
+            "score": 3.027397260274,
+            "raw_score": 3.027397260274,
+            "rank": 121
+          },
+          {
+            "name": "Fun Factor",
+            "score": 3.8767123287671,
+            "raw_score": 3.8767123287671,
+            "rank": 23
+          }
+        ],
+        "contributors": [
+          {
+            "name": "LekoTopaz",
+            "id": 2214560
+          },
+          {
+            "name": "Bing-Z",
+            "id": 13678372
+          }
+        ],
+        "url": "https://itch.io/jam/patch-notes-v-1-0/rate/3884608",
+        "rank": 21,
+        "title": "Play.exe"
+      },
+      "entryData": {
+        "coolness": 25,
+        "rating_count": 73,
+        "created_at": "2025-09-15 05:25:50",
+        "id": 765302,
+        "contributors": [
+          {
+            "name": "LekoTopaz",
+            "url": "https://lekotopaz.itch.io"
+          },
+          {
+            "name": "Bing-Z",
+            "url": "https://bing-z.itch.io"
+          }
+        ],
+        "game": {
+          "short_text": "Computer virus survivor",
+          "cover": "https://img.itch.zone/aW1nLzIzMTc0OTQ1LnBuZw==/300x240%23c/de4y5n.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 3884608,
+          "cover_color": "#a255a5",
+          "user": {
+            "name": "LekoTopaz",
+            "url": "https://lekotopaz.itch.io",
+            "id": 2214560
+          },
+          "url": "https://lekotopaz.itch.io/playdotexe",
+          "title": "Play.exe"
+        },
+        "url": "/jam/patch-notes-v-1-0/rate/3884608",
+        "field_responses": [
+          "37077:2",
+          "38986:2"
+        ]
+      },
+      "details": {
+        "title": "Play.exe",
+        "description": "A goofy survivor-like shoot'em up where you play as a lovely little malware going rampart in a personal computer.\nDestroy the incoming files-monsters trying to boot you out of the PC. Collect their corrupted data and create malicious code to power yourself up. Some upgrades are scripts that give you more fire power, while some are straight up standalone program that breaks how things work. The more volatile it is, the more points you get. Careful, these scripts are not immune to your destruction either. Maybe you'll be clever enough to find a way to circumvent that problem\nSurvive as long as you can and make the system as broken as possible while you're at it. After all this is what you're made for. Have fun!\nMade with my friend in 3 days for Patch Notes v1.0 Game Jam.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzg4NDYwOC8yMzE3NTA1Ny5wbmc=/original/rUWPb9.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4NDYwOC8yMzE3NTA1OC5wbmc=/original/bzMPxC.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4NDYwOC8yMzE3NTA2MC5wbmc=/original/GsuA1f.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4NDYwOC8yMzE3NTA2MS5wbmc=/original/Ls47vA.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4NDYwOC8yMzE3NTA1OS5wbmc=/original/EQF9Sb.png"
+        ],
+        "moreInfo": {
+          "Updated": "15 days ago",
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.3 out of 5 stars(3 total ratings)",
+          "Authors": "LekoTopaz, Bing-Z",
+          "Genre": "Action",
+          "Made with": "Godot",
+          "Tags": "2D, Bullet Hell, Pixel Art, Roguelike, Survivor-like"
+        }
+      }
+    },
+    {
+      "gameId": 3884266,
+      "gameUrl": "https://antsfood.itch.io/w2000",
+      "overallRank": 43,
+      "topCategories": [
+        "Art"
+      ],
+      "resultData": {
+        "id": 3884266,
+        "score": 3.575,
+        "cover_url": "https://img.itch.zone/aW1nLzIzMTgzODQwLnBuZw==/300x240%23c/I9xpHo.png",
+        "raw_score": 3.575,
+        "rating_count": 20,
+        "criteria": [
+          {
+            "name": "Art",
+            "score": 4.45,
+            "raw_score": 4.45,
+            "rank": 7
+          },
+          {
+            "name": "Gameplay",
+            "score": 3,
+            "raw_score": 3,
+            "rank": 118
+          },
+          {
+            "name": "Sound Design",
+            "score": 3.7,
+            "raw_score": 3.7,
+            "rank": 21
+          },
+          {
+            "name": "Theme Integration",
+            "score": 3.7,
+            "raw_score": 3.7,
+            "rank": 55
+          },
+          {
+            "name": "Innovation",
+            "score": 3.05,
+            "raw_score": 3.05,
+            "rank": 118
+          },
+          {
+            "name": "Fun Factor",
+            "score": 3.55,
+            "raw_score": 3.55,
+            "rank": 50
+          }
+        ],
+        "contributors": [
+          {
+            "name": "AntsFood",
+            "id": 6565116
+          }
+        ],
+        "url": "https://itch.io/jam/patch-notes-v-1-0/rate/3884266",
+        "rank": 43,
+        "title": "W2000_CHAN_>W<.exe"
+      },
+      "entryData": {
+        "coolness": 10,
+        "rating_count": 20,
+        "created_at": "2025-09-15 01:25:25",
+        "id": 765124,
+        "game": {
+          "short_text": "Boot up an old computer and meet virtual Windows assistant: W2000_CHAN_>W<.exe !",
+          "cover": "https://img.itch.zone/aW1nLzIzMTgzODQwLnBuZw==/300x240%23c/I9xpHo.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 3884266,
+          "cover_color": "#000000",
+          "user": {
+            "name": "AntsFood",
+            "url": "https://antsfood.itch.io",
+            "id": 6565116
+          },
+          "url": "https://antsfood.itch.io/w2000",
+          "title": "W2000_CHAN_>W<.exe"
+        },
+        "url": "/jam/patch-notes-v-1-0/rate/3884266",
+        "field_responses": [
+          "37077:2",
+          "38986:2"
+        ]
+      },
+      "details": {
+        "title": "W2000_CHAN_>W<.exe",
+        "description": "--EPILEPSY WARNING!--\nBoot up an old computer and meet virtual Windows assistant: W2000_CHAN_>W<.exe !\nHelp her delete some files and scan the old hardware!\nMake sure not to delete her in the process though nya>W<!!!\n\nGameplay time: 5-10 minutes !\nCredits:\nantsfood - game, story\nsinkofrogs - art",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzg4NDI2Ni8yMzE3NTIzMi5wbmc=/original/e%2B5qmd.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4NDI2Ni8yMzE3NTIzMS5wbmc=/original/GmgR4O.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4NDI2Ni8yMzE3NTIzMC5wbmc=/original/87yzSQ.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4NDI2Ni8yMzE3NTIzMy5wbmc=/original/B%2Bjmw8.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "AntsFood",
+          "Genre": "Visual Novel",
+          "Made with": "Godot",
+          "Tags": "Horror, Retro, Short"
+        }
+      }
+    },
+    {
+      "gameId": 3876931,
+      "gameUrl": "https://lestavol.itch.io/no-launch-the-game",
+      "overallRank": 8,
+      "topCategories": [
+        "Art",
+        "Fun Factor"
+      ],
+      "resultData": {
+        "id": 3876931,
+        "score": 3.8827160493827,
+        "cover_url": "https://img.itch.zone/aW1nLzIzMjA3NjQyLmdpZg==/300x240%23c/2KJIWp.gif",
+        "raw_score": 3.8827160493827,
+        "rating_count": 54,
+        "criteria": [
+          {
+            "name": "Judge's Ranking",
+            "score": 0,
+            "raw_score": 0,
+            "rank": 1
+          },
+          {
+            "name": "Art",
+            "score": 4.4074074074074,
+            "raw_score": 4.4074074074074,
+            "rank": 8
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.9444444444444,
+            "raw_score": 3.9444444444444,
+            "rank": 13
+          },
+          {
+            "name": "Sound Design",
+            "score": 3.8333333333333,
+            "raw_score": 3.8333333333333,
+            "rank": 16
+          },
+          {
+            "name": "Theme Integration",
+            "score": 3.6481481481481,
+            "raw_score": 3.6481481481481,
+            "rank": 61
+          },
+          {
+            "name": "Innovation",
+            "score": 3.3888888888889,
+            "raw_score": 3.3888888888889,
+            "rank": 67
+          },
+          {
+            "name": "Fun Factor",
+            "score": 4.0740740740741,
+            "raw_score": 4.0740740740741,
+            "rank": 9
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Lestavol",
+            "id": 11141043
+          },
+          {
+            "name": "gnomik_dimbucho",
+            "id": 14822846
+          },
+          {
+            "name": "King_Kai258",
+            "id": 1879390
+          },
+          {
+            "name": "tp39",
+            "id": 11355749
+          },
+          {
+            "name": "Cabage",
+            "id": 2135061
+          },
+          {
+            "name": "Uma Alma",
+            "id": 9333431
+          },
+          {
+            "name": "SOMETHING",
+            "id": 9386810
+          },
+          {
+            "name": "mo memo",
+            "id": 12112898
+          }
+        ],
+        "url": "https://itch.io/jam/patch-notes-v-1-0/rate/3876931",
+        "rank": 8,
+        "title": "No Launch"
+      },
+      "entryData": {
+        "coolness": 107,
+        "rating_count": 54,
+        "created_at": "2025-09-14 13:35:29",
+        "id": 764674,
+        "contributors": [
+          {
+            "name": "Lestavol",
+            "url": "https://lestavol.itch.io"
+          },
+          {
+            "name": "gnomik_dimbucho",
+            "url": "https://gnomik-dimbucho.itch.io"
+          },
+          {
+            "name": "King_Kai258",
+            "url": "https://king-kai258.itch.io"
+          },
+          {
+            "name": "tp39",
+            "url": "https://tp39.itch.io"
+          },
+          {
+            "name": "Cabage",
+            "url": "https://cabagedev.itch.io"
+          },
+          {
+            "name": "Uma Alma",
+            "url": "https://uma-alma.itch.io"
+          },
+          {
+            "name": "SOMETHING",
+            "url": "https://a-something.itch.io"
+          },
+          {
+            "name": "mo memo",
+            "url": "https://momemo-music.itch.io"
+          }
+        ],
+        "game": {
+          "short_text": "Chaos Unleashed in this Card Game + Autobattler ... inside another broken game!",
+          "id": 3876931,
+          "user": {
+            "name": "Lestavol",
+            "url": "https://lestavol.itch.io",
+            "id": 11141043
+          },
+          "url": "https://lestavol.itch.io/no-launch-the-game",
+          "cover": "https://img.itch.zone/aW1nLzIzMjA3NjQyLmdpZg==/300x240%23c/2KJIWp.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzIzMjA3NjQyLmdpZg==/original/biDM1X.gif",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#000497",
+          "title": "No Launch"
+        },
+        "url": "/jam/patch-notes-v-1-0/rate/3876931",
+        "field_responses": [
+          "37077:2",
+          "38986:2"
+        ]
+      },
+      "details": {
+        "title": "No Launch",
+        "description": "Summon your minions and smash the bugs!\nA funky autobattler + card game that put you in the role of a developer whose game can’t even launch when the jam submission deadline is just hours away! Sounds familiar?\nHelp him fix the game in time by squashing those bugs and glitches by playing cards, buffing your army of AI chatbots and making the best use of unexpected new bugs opportunities.\nSome errors really do become features, embrace the chaos\n\nMade for the Patch Notes v1.0 game jam in 3 days!\nKnown issues (Will be Patched)\nSome errors has escaped the game and manifested IRL. Changes to the game file is currently prohibited so here are the pesky ones that you may want to know about:\nWeb version may lag a bit when playing the game for the first time, but clears up afterwards. You may also want to try the desktop version.(Game-breaking) Clicking one time too many on the start button on the main menu crashes the game. Clicking only once is fine.In-game menus have overlap issues if you hover your cards over them, otherwise works fine.\nCredits\nGame Designer - gnomik_dimbucho\nProgrammers - Cabage, Lestavol\nArtists - Something, Soul, king_kai\nSoundtrack Composer: TP39\nSFX Designer: Mo Memo\nDisclosure\nDespite the references, this game was made without the use of AI. Please enjoy the hard work of our human team :D",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzg3NjkzMS8yMzIwODE5Ni5wbmc=/original/P4ACp4.png",
+          "https://img.itch.zone/aW1hZ2UvMzg3NjkzMS8yMzE3NTYxNS5wbmc=/original/wQepX3.png",
+          "https://img.itch.zone/aW1hZ2UvMzg3NjkzMS8yMzE4NDQxMi5wbmc=/original/7kzsU%2F.png",
+          "https://img.itch.zone/aW1hZ2UvMzg3NjkzMS8yMzE3NTY0NC5wbmc=/original/X9CpfF.png",
+          "https://img.itch.zone/aW1hZ2UvMzg3NjkzMS8yMzE4MjYyMS5wbmc=/original/T5tKst.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows",
+          "Authors": "Lestavol, gnomik_dimbucho, King_Kai258, tp39, Cabage, Uma Alma, SOMETHING, mo memo",
+          "Genre": "Card Game",
+          "Made with": "Godot",
+          "Tags": "2D, Auto Battler, Comedy, Cyberpunk, Funny, Music, No AI, Pixel Art, Singleplayer",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Mouse, Touchscreen"
+        }
+      }
+    },
+    {
+      "gameId": 3884300,
+      "gameUrl": "https://grizzygames.itch.io/errorbound",
+      "overallRank": 88,
+      "topCategories": [
+        "Art"
+      ],
+      "resultData": {
+        "id": 3884300,
+        "score": 3.1818181818182,
+        "cover_url": "https://img.itch.zone/aW1nLzIzMTczMjUyLnBuZw==/300x240%23c/6IcmyA.png",
+        "raw_score": 3.1818181818182,
+        "rating_count": 11,
+        "criteria": [
+          {
+            "name": "Art",
+            "score": 4.3636363636364,
+            "raw_score": 4.3636363636364,
+            "rank": 9
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.1818181818182,
+            "raw_score": 3.1818181818182,
+            "rank": 99
+          },
+          {
+            "name": "Sound Design",
+            "score": 2.4545454545455,
+            "raw_score": 2.4545454545455,
+            "rank": 204
+          },
+          {
+            "name": "Theme Integration",
+            "score": 3,
+            "raw_score": 3,
+            "rank": 150
+          },
+          {
+            "name": "Innovation",
+            "score": 3.0909090909091,
+            "raw_score": 3.0909090909091,
+            "rank": 106
+          },
+          {
+            "name": "Fun Factor",
+            "score": 3,
+            "raw_score": 3,
+            "rank": 116
+          }
+        ],
+        "contributors": [
+          {
+            "name": "grizzy games",
+            "id": 4792952
+          }
+        ],
+        "url": "https://itch.io/jam/patch-notes-v-1-0/rate/3884300",
+        "rank": 88,
+        "title": "ErrorBound"
+      },
+      "entryData": {
+        "coolness": 0,
+        "rating_count": 11,
+        "created_at": "2025-09-15 03:01:02",
+        "id": 765190,
+        "game": {
+          "short_text": "A short retro puzzle game",
+          "cover": "https://img.itch.zone/aW1nLzIzMTczMjUyLnBuZw==/300x240%23c/6IcmyA.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 3884300,
+          "cover_color": "#382b26",
+          "user": {
+            "name": "grizzy games",
+            "url": "https://grizzygames.itch.io",
+            "id": 4792952
+          },
+          "url": "https://grizzygames.itch.io/errorbound",
+          "title": "ErrorBound"
+        },
+        "url": "/jam/patch-notes-v-1-0/rate/3884300",
+        "field_responses": [
+          "37077:2",
+          "38986:2"
+        ]
+      },
+      "details": {
+        "title": "ErrorBound",
+        "description": "A short game about moving blocks around to solve puzzles!\n- AWSD : move\n-Click : pick up / drop tiles",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzg4NDMwMC8yMzE3MzYzNS5wbmc=/original/8MS9lj.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4NDMwMC8yMzE3MzYzOS5wbmc=/original/xya4bI.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4NDMwMC8yMzE3MzY0MC5wbmc=/original/Na5hYC.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "grizzy games",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "Dungeon Crawler, Retro"
+        }
+      }
+    },
+    {
+      "gameId": 3883702,
+      "gameUrl": "https://cheese-toast-games.itch.io/kiwis-quest",
+      "overallRank": 106,
+      "topCategories": [
+        "Art"
+      ],
+      "resultData": {
+        "id": 3883702,
+        "score": 3.0833333333333,
+        "cover_url": "https://img.itch.zone/aW1nLzIzMTcwMTgzLnBuZw==/300x240%23c/nnemX6.png",
+        "raw_score": 3.0833333333333,
+        "rating_count": 18,
+        "criteria": [
+          {
+            "name": "Art",
+            "score": 4.3333333333333,
+            "raw_score": 4.3333333333333,
+            "rank": 10
+          },
+          {
+            "name": "Gameplay",
+            "score": 2.8888888888889,
+            "raw_score": 2.8888888888889,
+            "rank": 142
+          },
+          {
+            "name": "Sound Design",
+            "score": 2.7777777777778,
+            "raw_score": 2.7777777777778,
+            "rank": 147
+          },
+          {
+            "name": "Theme Integration",
+            "score": 3.0555555555556,
+            "raw_score": 3.0555555555556,
+            "rank": 146
+          },
+          {
+            "name": "Innovation",
+            "score": 2.3888888888889,
+            "raw_score": 2.3888888888889,
+            "rank": 231
+          },
+          {
+            "name": "Fun Factor",
+            "score": 3.0555555555556,
+            "raw_score": 3.0555555555556,
+            "rank": 114
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Cheese Toast Games",
+            "id": 10152656
+          },
+          {
+            "name": "Orangable",
+            "id": 13224522
+          }
+        ],
+        "url": "https://itch.io/jam/patch-notes-v-1-0/rate/3883702",
+        "rank": 106,
+        "title": "Kiwis Quest"
+      },
+      "entryData": {
+        "coolness": 20,
+        "rating_count": 18,
+        "created_at": "2025-09-14 22:31:05",
+        "id": 764999,
+        "contributors": [
+          {
+            "name": "Cheese Toast Games",
+            "url": "https://cheese-toast-games.itch.io"
+          },
+          {
+            "name": "Orangable",
+            "url": "https://orangable.itch.io"
+          }
+        ],
+        "game": {
+          "short_text": "Kiwis Quest is the tale of the great Adventurer Kiwi Mc Wallace and his climb to reach the top of the great Mount Denali",
+          "cover": "https://img.itch.zone/aW1nLzIzMTcwMTgzLnBuZw==/300x240%23c/nnemX6.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 3883702,
+          "cover_color": "#232551",
+          "user": {
+            "name": "Cheese Toast Games",
+            "url": "https://cheese-toast-games.itch.io",
+            "id": 10152656
+          },
+          "url": "https://cheese-toast-games.itch.io/kiwis-quest",
+          "title": "Kiwis Quest"
+        },
+        "url": "/jam/patch-notes-v-1-0/rate/3883702",
+        "field_responses": [
+          "37077:2",
+          "38986:2"
+        ]
+      },
+      "details": {
+        "title": "Kiwis Quest",
+        "description": "Kiwis Quest ist the epic tale of the great adventurer Kiwi Mc Wallace and his quest to climb the great Mount Denali. \nControls:\nPause: Tab\nLeft/Right : A/D or left and right arrow keys\nJump: Space\nHow does the game fit the theme:\nYou control the character Kiwi in a 2d platformer while the inputs get switched every couple seconds thus player has to adapt to the constantly new inputs\nHow many people have worked on this game: 3\nDevs:\nComfy mesh\nCheese Toast Games \nOrangable\n \nWhat assets did we use :\nMusic and sfx sourced from pixabay\nMade in 1 Day.",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIzMTcwMTgzLnBuZw==/original/jBiZpx.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "Cheese Toast Games, Orangable",
+          "Genre": "Platformer",
+          "Made with": "Godot",
+          "Tags": "2D, Atmospheric, Godot, Pixel Art"
+        }
+      }
+    },
+    {
+      "gameId": 3884438,
+      "gameUrl": "https://laminatedcheese.itch.io/instructions-unclear",
+      "overallRank": 4,
+      "topCategories": [
+        "Gameplay",
+        "Theme Integration",
+        "Innovation",
+        "Fun Factor"
+      ],
+      "resultData": {
+        "id": 3884438,
+        "score": 4.047619047619,
+        "cover_url": "https://img.itch.zone/aW1nLzIzMTc0MTkwLnBuZw==/300x240%23c/hp6TQf.png",
+        "raw_score": 4.047619047619,
+        "rating_count": 14,
+        "criteria": [
+          {
+            "name": "Art",
+            "score": 3.5,
+            "raw_score": 3.5,
+            "rank": 91
+          },
+          {
+            "name": "Gameplay",
+            "score": 4.3571428571429,
+            "raw_score": 4.3571428571429,
+            "rank": 1
+          },
+          {
+            "name": "Sound Design",
+            "score": 3.1428571428571,
+            "raw_score": 3.1428571428571,
+            "rank": 93
+          },
+          {
+            "name": "Theme Integration",
+            "score": 4.6428571428571,
+            "raw_score": 4.6428571428571,
+            "rank": 1
+          },
+          {
+            "name": "Innovation",
+            "score": 4.4285714285714,
+            "raw_score": 4.4285714285714,
+            "rank": 1
+          },
+          {
+            "name": "Fun Factor",
+            "score": 4.2142857142857,
+            "raw_score": 4.2142857142857,
+            "rank": 3
+          }
+        ],
+        "contributors": [
+          {
+            "name": "LaminatedCheese",
+            "id": 14814542
+          },
+          {
+            "name": "Callum",
+            "id": 14815832
+          }
+        ],
+        "url": "https://itch.io/jam/patch-notes-v-1-0/rate/3884438",
+        "rank": 4,
+        "title": "Instructions Unclear"
+      },
+      "entryData": {
+        "coolness": 9,
+        "rating_count": 14,
+        "created_at": "2025-09-15 04:09:48",
+        "id": 765248,
+        "contributors": [
+          {
+            "name": "LaminatedCheese",
+            "url": "https://laminatedcheese.itch.io"
+          },
+          {
+            "name": "Callum",
+            "url": "https://cmwaters.itch.io"
+          }
+        ],
+        "game": {
+          "short_text": "What happens when the game stops clearing the screen each frame?",
+          "cover": "https://img.itch.zone/aW1nLzIzMTc0MTkwLnBuZw==/300x240%23c/hp6TQf.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 3884438,
+          "cover_color": "#e1c971",
+          "user": {
+            "name": "LaminatedCheese",
+            "url": "https://laminatedcheese.itch.io",
+            "id": 14814542
+          },
+          "url": "https://laminatedcheese.itch.io/instructions-unclear",
+          "title": "Instructions Unclear"
+        },
+        "url": "/jam/patch-notes-v-1-0/rate/3884438",
+        "field_responses": [
+          "37077:2",
+          "38986:2"
+        ]
+      },
+      "details": {
+        "title": "Instructions Unclear",
+        "description": "\"Instructions Unclear\" is a game about what happens when a bug turns into a feature. \nWhat happens when a screen stops clearing itself each frame, and the player's previous movements become part of the level? What happens when the game starts breaking down and repeating itself in unpredictable ways?\nCan you debug this game and make it to the end?\n\nThis is a submission for the Patch Notes Sept 2025 game jam with the theme \"The Error is the Feature\". Built in 3 days, \"Instructions Unclear\" uses fully procedurally generated audio.\nControls:\nMovement: w/a/s/d or arrow keysReset: \"R\"Press \"A.N.Y.\" key ;)\n\nCreated by Callum Waters & Noam CohenThanks to Billy Rennekamp for support",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzg4NDQzOC8yMzE3Mzk4OC5wbmc=/original/nGNccI.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4NDQzOC8yMzE3Mzk5MC5wbmc=/original/uQmobv.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4NDQzOC8yMzE3Mzk5MS5wbmc=/original/nM6T5%2F.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4NDQzOC8yMzE3Mzk4Ny5wbmc=/original/0jz9ep.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4NDQzOC8yMzE3Mzk4OS5wbmc=/original/F6XXan.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Authors": "LaminatedCheese, Callum",
+          "Genre": "Platformer",
+          "Tags": "glitch, p5js, patch-notes, Procedural Generation"
+        }
+      }
+    },
+    {
+      "gameId": 3883573,
+      "gameUrl": "https://bdj7217.itch.io/passthrough",
+      "overallRank": 14,
+      "topCategories": [
+        "Gameplay",
+        "Fun Factor"
+      ],
+      "resultData": {
+        "id": 3883573,
+        "score": 3.8232323232323,
+        "cover_url": "https://img.itch.zone/aW1nLzIzMTgwNjU4LnBuZw==/300x240%23c/r4SgS7.png",
+        "raw_score": 3.8232323232323,
+        "rating_count": 33,
+        "criteria": [
+          {
+            "name": "Judge's Ranking",
+            "score": 0,
+            "raw_score": 0,
+            "rank": 1
+          },
+          {
+            "name": "Indieformer Pick",
+            "score": 0,
+            "raw_score": 0,
+            "rank": 1
+          },
+          {
+            "name": "Art",
+            "score": 4.0909090909091,
+            "raw_score": 4.0909090909091,
+            "rank": 22
+          },
+          {
+            "name": "Gameplay",
+            "score": 4.3333333333333,
+            "raw_score": 4.3333333333333,
+            "rank": 2
+          },
+          {
+            "name": "Sound Design",
+            "score": 3.5757575757576,
+            "raw_score": 3.5757575757576,
+            "rank": 38
+          },
+          {
+            "name": "Theme Integration",
+            "score": 3.3030303030303,
+            "raw_score": 3.3030303030303,
+            "rank": 109
+          },
+          {
+            "name": "Innovation",
+            "score": 3.4545454545455,
+            "raw_score": 3.4545454545455,
+            "rank": 59
+          },
+          {
+            "name": "Fun Factor",
+            "score": 4.1818181818182,
+            "raw_score": 4.1818181818182,
+            "rank": 4
+          }
+        ],
+        "contributors": [
+          {
+            "name": "BDJ",
+            "id": 7505510
+          }
+        ],
+        "url": "https://itch.io/jam/patch-notes-v-1-0/rate/3883573",
+        "rank": 14,
+        "title": "PASS//THROUGH"
+      },
+      "entryData": {
+        "coolness": 8,
+        "rating_count": 33,
+        "created_at": "2025-09-14 20:15:50",
+        "id": 764859,
+        "game": {
+          "short_text": "Fight enemies using your unique ability to glitch through walls!",
+          "cover": "https://img.itch.zone/aW1nLzIzMTgwNjU4LnBuZw==/300x240%23c/r4SgS7.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 3883573,
+          "cover_color": "#040e16",
+          "user": {
+            "name": "BDJ",
+            "url": "https://bdj7217.itch.io",
+            "id": 7505510
+          },
+          "url": "https://bdj7217.itch.io/passthrough",
+          "title": "PASS//THROUGH"
+        },
+        "url": "/jam/patch-notes-v-1-0/rate/3883573",
+        "field_responses": [
+          "37077:2",
+          "38986:2"
+        ]
+      },
+      "details": {
+        "title": "PASS//THROUGH",
+        "description": "Made within 3 days for the Patch Nodes v1.0 Jam",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzg4MzU3My8yMzIzMjc3OC5wbmc=/original/62SAD%2B.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4MzU3My8yMzIzMjc3OS5wbmc=/original/5xXTwQ.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4MzU3My8yMzIzMjc4MS5wbmc=/original/%2B9k1n9.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4MzU3My8yMzIzMjc4MC5wbmc=/original/zzIhMd.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "BDJ",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "Godot, Pixel Art, Turn-based"
+        }
+      }
+    },
+    {
+      "gameId": 3884051,
+      "gameUrl": "https://peterplaty.itch.io/okay-thats-intended",
+      "overallRank": 16,
+      "topCategories": [
+        "Gameplay",
+        "Innovation"
+      ],
+      "resultData": {
+        "id": 3884051,
+        "score": 3.8166666666667,
+        "cover_url": "https://img.itch.zone/aW1nLzIzMTcyODUwLnBuZw==/300x240%23c/idlHDL.png",
+        "raw_score": 3.8166666666667,
+        "rating_count": 30,
+        "criteria": [
+          {
+            "name": "Judge's Ranking",
+            "score": 0,
+            "raw_score": 0,
+            "rank": 1
+          },
+          {
+            "name": "Art",
+            "score": 3.6333333333333,
+            "raw_score": 3.6333333333333,
+            "rank": 75
+          },
+          {
+            "name": "Gameplay",
+            "score": 4.3333333333333,
+            "raw_score": 4.3333333333333,
+            "rank": 2
+          },
+          {
+            "name": "Sound Design",
+            "score": 3.2666666666667,
+            "raw_score": 3.2666666666667,
+            "rank": 71
+          },
+          {
+            "name": "Theme Integration",
+            "score": 3.4333333333333,
+            "raw_score": 3.4333333333333,
+            "rank": 96
+          },
+          {
+            "name": "Innovation",
+            "score": 4.2,
+            "raw_score": 4.2,
+            "rank": 2
+          },
+          {
+            "name": "Fun Factor",
+            "score": 4.0333333333333,
+            "raw_score": 4.0333333333333,
+            "rank": 11
+          }
+        ],
+        "contributors": [
+          {
+            "name": "PeterPlaty",
+            "id": 1559999
+          },
+          {
+            "name": "HelenDoesArt",
+            "id": 13309070
+          }
+        ],
+        "url": "https://itch.io/jam/patch-notes-v-1-0/rate/3884051",
+        "rank": 16,
+        "title": "Okay, that's intended!!"
+      },
+      "entryData": {
+        "coolness": 24,
+        "rating_count": 30,
+        "created_at": "2025-09-15 02:15:50",
+        "id": 765163,
+        "contributors": [
+          {
+            "name": "PeterPlaty",
+            "url": "https://peterplaty.itch.io"
+          },
+          {
+            "name": "HelenDoesArt",
+            "url": "https://helendoesart.itch.io"
+          }
+        ],
+        "game": {
+          "short_text": "A short game with a game-breaking bug",
+          "cover": "https://img.itch.zone/aW1nLzIzMTcyODUwLnBuZw==/300x240%23c/idlHDL.png",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "id": 3884051,
+          "cover_color": "#29adff",
+          "user": {
+            "name": "PeterPlaty",
+            "url": "https://peterplaty.itch.io",
+            "id": 1559999
+          },
+          "url": "https://peterplaty.itch.io/okay-thats-intended",
+          "title": "Okay, that's intended!!"
+        },
+        "url": "/jam/patch-notes-v-1-0/rate/3884051",
+        "field_responses": [
+          "37077:2",
+          "38986:2"
+        ]
+      },
+      "details": {
+        "title": "Okay, that's intended!!",
+        "description": "\nDig your way to the top! Pick any path you want to get there, anything goes as long as it works!\nThis game was made for the Patch Notes Game Jam. It fits the theme because it started as a platformer, but you clipped inside of walls instead of outside. Okay, that's intended!!\n\nCONTROLS\nThe game is fully playable with a controller\nPCControllerActionArrow keysD-padMove/JumpXA/XDash/Change direction\nYou can toggle the fullscreen by pressing the square icon on the right of the screen.\nYou can reset the cartridge with CTRL+R or by pressing \"ENTER > Reset Cartridge\".\n\nCREDITS\nGame design and code: PeterPlatyArt: HelenDoesArt\n\n\nSpecial thanks to Kenney for the tileset inspiration, and to all of my friends who playtested this!\nThank you so much for playing our game :)Download and unzip the files inside the same folder.\nThe Picotron cartridge can only be opened with Picotron.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzg4NDA1MS8yMzE3MzAwNC5wbmc=/original/2MKhzX.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4NDA1MS8yMzE3MzAwNi5wbmc=/original/c07V60.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4NDA1MS8yMzE3MzAwMi5wbmc=/original/7vkq9A.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4NDA1MS8yMzE3MzAwMy5wbmc=/original/An0bUN.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "PeterPlaty, HelenDoesArt",
+          "Genre": "Platformer, Action",
+          "Tags": "Casual, Experimental, picotron, Pixel Art, Retro, Short, Simple, Singleplayer, Speedrun",
+          "Average session": "A few seconds",
+          "Languages": "English",
+          "Inputs": "Keyboard, Gamepad (any)"
+        }
+      }
+    },
+    {
+      "gameId": 3876824,
+      "gameUrl": "https://gatheesha.itch.io/sanwardaka",
+      "overallRank": 2,
+      "topCategories": [
+        "Gameplay",
+        "Theme Integration",
+        "Innovation",
+        "Fun Factor"
+      ],
+      "resultData": {
+        "id": 3876824,
+        "score": 4.1269841269841,
+        "cover_url": "https://img.itch.zone/aW1nLzIzMTc2NTYzLmpwZw==/300x240%23c/GFr0OX.jpg",
+        "raw_score": 4.1269841269841,
+        "rating_count": 21,
+        "criteria": [
+          {
+            "name": "Art",
+            "score": 3.952380952381,
+            "raw_score": 3.952380952381,
+            "rank": 40
+          },
+          {
+            "name": "Gameplay",
+            "score": 4.2380952380952,
+            "raw_score": 4.2380952380952,
+            "rank": 4
+          },
+          {
+            "name": "Sound Design",
+            "score": 3.9047619047619,
+            "raw_score": 3.9047619047619,
+            "rank": 13
+          },
+          {
+            "name": "Theme Integration",
+            "score": 4.4285714285714,
+            "raw_score": 4.4285714285714,
+            "rank": 7
+          },
+          {
+            "name": "Innovation",
+            "score": 4.1428571428571,
+            "raw_score": 4.1428571428571,
+            "rank": 5
+          },
+          {
+            "name": "Fun Factor",
+            "score": 4.0952380952381,
+            "raw_score": 4.0952380952381,
+            "rank": 8
+          }
+        ],
+        "contributors": [
+          {
+            "name": "gath",
+            "id": 1328472
+          },
+          {
+            "name": "Ravien",
+            "id": 14843620
+          },
+          {
+            "name": "AMANDI_TH",
+            "id": 14886423
+          },
+          {
+            "name": "Inuka",
+            "id": 3775476
+          }
+        ],
+        "url": "https://itch.io/jam/patch-notes-v-1-0/rate/3876824",
+        "rank": 2,
+        "title": "Sanwardaka"
+      },
+      "entryData": {
+        "coolness": 11,
+        "rating_count": 21,
+        "created_at": "2025-09-15 05:37:57",
+        "id": 765318,
+        "contributors": [
+          {
+            "name": "gath",
+            "url": "https://gatheesha.itch.io"
+          },
+          {
+            "name": "Ravien",
+            "url": "https://ravienx-001.itch.io"
+          },
+          {
+            "name": "AMANDI_TH",
+            "url": "https://amandi-th.itch.io"
+          },
+          {
+            "name": "Inuka",
+            "url": "https://inuka69.itch.io"
+          }
+        ],
+        "game": {
+          "short_text": "a puzzel platformer that lets you satisfyingly hack through the levels with a broken pause menu.",
+          "cover": "https://img.itch.zone/aW1nLzIzMTc2NTYzLmpwZw==/300x240%23c/GFr0OX.jpg",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 3876824,
+          "cover_color": "#006aff",
+          "user": {
+            "name": "gath",
+            "url": "https://gatheesha.itch.io",
+            "id": 1328472
+          },
+          "url": "https://gatheesha.itch.io/sanwardaka",
+          "title": "Sanwardaka"
+        },
+        "url": "/jam/patch-notes-v-1-0/rate/3876824",
+        "field_responses": [
+          "37077:2",
+          "38986:2"
+        ]
+      },
+      "details": {
+        "title": "Sanwardaka",
+        "description": "INSUTRCTIONS\nWASD to moveESC, ENTER or P to bring up the pause menu.Use your mouse to interact with dialogues and menus.Heres a walk-through in case you got stuck on a particular level.\n\nABOUT\na game by ishcharya, amandi, inuka and gathsanwardaka (pronounced san-war-da-ka) means “developer” in sinhalese.\njam theme : \"error is the feature.\"\nthe developer got stuck on his own game while working on the pause menu, your job is to get him out of the game by navigating through the broken unfinished levels he had made. His pause menu however is itself broken, unstable and VERY powerful. Use it to bend the game rules and hack through his unfinished levels. Maybe have a little convo with the dev while on your way, hes been stuck there forever and he seems pretty lonely.\nDownload the windows build if you are having trouble with the web build (you shouldn't though)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzg3NjgyNC8yMzE3Njg1NC5qcGc=/original/zxFcYc.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzg3NjgyNC8yMzE3Njg1Ny5wbmc=/original/etapN1.png",
+          "https://img.itch.zone/aW1hZ2UvMzg3NjgyNC8yMzE3Njg1Ni5qcGc=/original/yMXNyH.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzg3NjgyNC8yMzE3Njg2Ny5wbmc=/original/3UA1Dx.png",
+          "https://img.itch.zone/aW1hZ2UvMzg3NjgyNC8yMzE3Njg1NS5qcGc=/original/pvNMcB.jpg"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "gath, Ravien, AMANDI_TH, Inuka",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "2D, Cute, Godot, Hand-drawn, Narrative, Puzzle-Platformer",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 3884562,
+      "gameUrl": "https://omich.itch.io/glitched-dungeon",
+      "overallRank": 1,
+      "topCategories": [
+        "Gameplay",
+        "Theme Integration",
+        "Fun Factor"
+      ],
+      "resultData": {
+        "id": 3884562,
+        "score": 4.1505376344086,
+        "cover_url": "https://img.itch.zone/aW1nLzIzMTc0MjI5LnBuZw==/300x240%23c/qoBygl.png",
+        "raw_score": 4.1505376344086,
+        "rating_count": 31,
+        "criteria": [
+          {
+            "name": "Indieformer Pick",
+            "score": 0,
+            "raw_score": 0,
+            "rank": 1
+          },
+          {
+            "name": "Judge's Ranking",
+            "score": 0,
+            "raw_score": 0,
+            "rank": 1
+          },
+          {
+            "name": "Art",
+            "score": 4.1935483870968,
+            "raw_score": 4.1935483870968,
+            "rank": 16
+          },
+          {
+            "name": "Gameplay",
+            "score": 4.2258064516129,
+            "raw_score": 4.2258064516129,
+            "rank": 5
+          },
+          {
+            "name": "Sound Design",
+            "score": 3.7741935483871,
+            "raw_score": 3.7741935483871,
+            "rank": 18
+          },
+          {
+            "name": "Theme Integration",
+            "score": 4.6129032258065,
+            "raw_score": 4.6129032258065,
+            "rank": 2
+          },
+          {
+            "name": "Innovation",
+            "score": 3.9354838709677,
+            "raw_score": 3.9354838709677,
+            "rank": 16
+          },
+          {
+            "name": "Fun Factor",
+            "score": 4.1612903225806,
+            "raw_score": 4.1612903225806,
+            "rank": 6
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Omich",
+            "id": 1023603
+          }
+        ],
+        "url": "https://itch.io/jam/patch-notes-v-1-0/rate/3884562",
+        "rank": 1,
+        "title": "Glitched Dungeon"
+      },
+      "entryData": {
+        "coolness": 20,
+        "rating_count": 31,
+        "created_at": "2025-09-15 04:17:18",
+        "id": 765256,
+        "game": {
+          "short_text": "Buggy platformer.",
+          "cover": "https://img.itch.zone/aW1nLzIzMTc0MjI5LnBuZw==/300x240%23c/qoBygl.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 3884562,
+          "cover_color": "#000000",
+          "user": {
+            "name": "Omich",
+            "url": "https://omich.itch.io",
+            "id": 1023603
+          },
+          "url": "https://omich.itch.io/glitched-dungeon",
+          "title": "Glitched Dungeon"
+        },
+        "url": "/jam/patch-notes-v-1-0/rate/3884562",
+        "field_responses": [
+          "37077:2",
+          "38986:2"
+        ]
+      },
+      "details": {
+        "title": "Glitched Dungeon",
+        "description": "Post-jam version: https://omich.itch.io/totally-normal-game\nYou have to go through a buggy game in which bugs are an integral part of the gameplay.\nAD - Move\nSpace - Jump\nS - Crouch / Ground slam (in the air)\nLMB - Attack\n\nMusic: \"My Last Dream\" by Pix.",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIzMTc0MjI5LnBuZw==/original/X9Jl5h.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(3 total ratings)",
+          "Author": "Omich",
+          "Genre": "Platformer, Action",
+          "Made with": "GameMaker",
+          "Tags": "2D, Experimental, Pixel Art"
+        }
+      }
+    },
+    {
+      "gameId": 3884589,
+      "gameUrl": "https://voidchair.itch.io/break-the-infinite",
+      "overallRank": 3,
+      "topCategories": [
+        "Gameplay",
+        "Sound Design",
+        "Fun Factor"
+      ],
+      "resultData": {
+        "id": 3884589,
+        "score": 4.1145833333333,
+        "cover_url": "https://img.itch.zone/aW1nLzIzMzc4ODY4LnBuZw==/300x240%23c/JpzDvr.png",
+        "raw_score": 4.1145833333333,
+        "rating_count": 16,
+        "criteria": [
+          {
+            "name": "Art",
+            "score": 4.1875,
+            "raw_score": 4.1875,
+            "rank": 17
+          },
+          {
+            "name": "Gameplay",
+            "score": 4.1875,
+            "raw_score": 4.1875,
+            "rank": 6
+          },
+          {
+            "name": "Sound Design",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 9
+          },
+          {
+            "name": "Theme Integration",
+            "score": 4.125,
+            "raw_score": 4.125,
+            "rank": 22
+          },
+          {
+            "name": "Innovation",
+            "score": 3.8125,
+            "raw_score": 3.8125,
+            "rank": 22
+          },
+          {
+            "name": "Fun Factor",
+            "score": 4.375,
+            "raw_score": 4.375,
+            "rank": 1
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Voidchair",
+            "id": 6126891
+          }
+        ],
+        "url": "https://itch.io/jam/patch-notes-v-1-0/rate/3884589",
+        "rank": 3,
+        "title": "Break the Infinite"
+      },
+      "entryData": {
+        "coolness": 7,
+        "rating_count": 16,
+        "created_at": "2025-09-15 06:57:39",
+        "id": 765440,
+        "game": {
+          "short_text": "Is there really a way?",
+          "cover": "https://img.itch.zone/aW1nLzIzMzc4ODY4LnBuZw==/300x240%23c/JpzDvr.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 3884589,
+          "cover_color": "#070707",
+          "user": {
+            "name": "Voidchair",
+            "url": "https://voidchair.itch.io",
+            "id": 6126891
+          },
+          "url": "https://voidchair.itch.io/break-the-infinite",
+          "title": "Break the Infinite"
+        },
+        "url": "/jam/patch-notes-v-1-0/rate/3884589",
+        "field_responses": [
+          "37077:2",
+          "38986:2"
+        ]
+      },
+      "details": {
+        "title": "Break the Infinite",
+        "description": "Every attempt always ends the same, there has to be some kind of fault in the system that can break this infinite cycle. \n\nControls:\n\nHold Right Click/Right Stick - Aim\nLeft Click/RB/RT - Shoot\nWASD/Left Joystick - Move\n\nMade in 72 hours for Patch Notes v1.0",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzg4NDU4OS8yMzM3ODc4Ny5naWY=/original/Y35%2FzZ.gif"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows",
+          "Author": "Voidchair",
+          "Made with": "Godot"
+        }
+      }
+    },
+    {
+      "gameId": 3880903,
+      "gameUrl": "https://felixleonggames.itch.io/they-move-too",
+      "overallRank": 20,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "id": 3880903,
+        "score": 3.7631578947368,
+        "cover_url": "https://img.itch.zone/aW1nLzIzMTcwMTY5LnBuZw==/300x240%23c/96fize.png",
+        "raw_score": 3.7631578947368,
+        "rating_count": 38,
+        "criteria": [
+          {
+            "name": "Art",
+            "score": 3.8684210526316,
+            "raw_score": 3.8684210526316,
+            "rank": 48
+          },
+          {
+            "name": "Gameplay",
+            "score": 4.1578947368421,
+            "raw_score": 4.1578947368421,
+            "rank": 7
+          },
+          {
+            "name": "Sound Design",
+            "score": 3.6578947368421,
+            "raw_score": 3.6578947368421,
+            "rank": 27
+          },
+          {
+            "name": "Theme Integration",
+            "score": 3.5526315789474,
+            "raw_score": 3.5526315789474,
+            "rank": 82
+          },
+          {
+            "name": "Innovation",
+            "score": 3.4210526315789,
+            "raw_score": 3.4210526315789,
+            "rank": 63
+          },
+          {
+            "name": "Fun Factor",
+            "score": 3.9210526315789,
+            "raw_score": 3.9210526315789,
+            "rank": 17
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Felix Leong",
+            "id": 6364341
+          }
+        ],
+        "url": "https://itch.io/jam/patch-notes-v-1-0/rate/3880903",
+        "rank": 20,
+        "title": "They Move Too"
+      },
+      "entryData": {
+        "coolness": 0,
+        "rating_count": 38,
+        "created_at": "2025-09-14 21:40:37",
+        "id": 764913,
+        "game": {
+          "short_text": "A puzzle-platformer where you move… and so does everything else.",
+          "cover": "https://img.itch.zone/aW1nLzIzMTcwMTY5LnBuZw==/300x240%23c/96fize.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 3880903,
+          "cover_color": "#a99d94",
+          "user": {
+            "name": "Felix Leong",
+            "url": "https://felixleonggames.itch.io",
+            "id": 6364341
+          },
+          "url": "https://felixleonggames.itch.io/they-move-too",
+          "title": "They Move Too"
+        },
+        "url": "/jam/patch-notes-v-1-0/rate/3880903",
+        "field_responses": [
+          "37077:1",
+          "38986:2"
+        ]
+      },
+      "details": {
+        "title": "They Move Too",
+        "description": "Submission to Patch Note Jam v1.0 with the theme \"The Error Is The Feature\".\n'They Move Too' is a wonky puzzle-platformer where your moves don’t just move you — the objects around you are 'bugged\" to move, jump, or even follow your every step! Figure out the way to get the cheese 🧀\nControls\n[A,D] or [Arrow Keys] to Move[W]  or [Spacebar] to Jump[R] to Retry\nCredits\nMade by: Felix LeongMusic: \"8 Bit Think\" By HeatleyBros\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzg4MDkwMy8yMzE3MDI4Mi5naWY=/original/oEAl2L.gif",
+          "https://img.itch.zone/aW1hZ2UvMzg4MDkwMy8yMzE3MDI4MC5naWY=/original/l6kzPJ.gif",
+          "https://img.itch.zone/aW1hZ2UvMzg4MDkwMy8yMzE3MDI4MS5naWY=/original/aWPI8b.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Felix Leong",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "Pixel Art, Puzzle-Platformer, Short"
+        }
+      }
+    },
+    {
+      "gameId": 3884178,
+      "gameUrl": "https://sneezuschrist.itch.io/feature-not-implemented",
+      "overallRank": 47,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "id": 3884178,
+        "score": 3.520202020202,
+        "cover_url": "https://img.itch.zone/aW1nLzIzMTc1NDM5LnBuZw==/300x240%23c/b0WGnS.png",
+        "raw_score": 3.520202020202,
+        "rating_count": 33,
+        "criteria": [
+          {
+            "name": "Art",
+            "score": 3.6666666666667,
+            "raw_score": 3.6666666666667,
+            "rank": 68
+          },
+          {
+            "name": "Gameplay",
+            "score": 4.1212121212121,
+            "raw_score": 4.1212121212121,
+            "rank": 8
+          },
+          {
+            "name": "Sound Design",
+            "score": 1.5757575757576,
+            "raw_score": 1.5757575757576,
+            "rank": 312
+          },
+          {
+            "name": "Theme Integration",
+            "score": 4.1515151515152,
+            "raw_score": 4.1515151515152,
+            "rank": 21
+          },
+          {
+            "name": "Innovation",
+            "score": 3.7272727272727,
+            "raw_score": 3.7272727272727,
+            "rank": 29
+          },
+          {
+            "name": "Fun Factor",
+            "score": 3.8787878787879,
+            "raw_score": 3.8787878787879,
+            "rank": 22
+          }
+        ],
+        "contributors": [
+          {
+            "name": "SneezusChrist",
+            "id": 5136411
+          },
+          {
+            "name": "Michael Fiorentino",
+            "id": 6331803
+          }
+        ],
+        "url": "https://itch.io/jam/patch-notes-v-1-0/rate/3884178",
+        "rank": 47,
+        "title": "Feature Not Implemented"
+      },
+      "entryData": {
+        "coolness": 13,
+        "rating_count": 33,
+        "created_at": "2025-09-15 06:05:52",
+        "id": 765341,
+        "contributors": [
+          {
+            "name": "SneezusChrist",
+            "url": "https://sneezuschrist.itch.io"
+          },
+          {
+            "name": "Michael Fiorentino",
+            "url": "https://michael-fiorentino.itch.io"
+          }
+        ],
+        "game": {
+          "short_text": "The Error Is The Feature",
+          "cover": "https://img.itch.zone/aW1nLzIzMTc1NDM5LnBuZw==/300x240%23c/b0WGnS.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 3884178,
+          "cover_color": "#161616",
+          "user": {
+            "name": "SneezusChrist",
+            "url": "https://sneezuschrist.itch.io",
+            "id": 5136411
+          },
+          "url": "https://sneezuschrist.itch.io/feature-not-implemented",
+          "title": "Feature Not Implemented"
+        },
+        "url": "/jam/patch-notes-v-1-0/rate/3884178",
+        "field_responses": [
+          "37077:2",
+          "38986:2"
+        ]
+      },
+      "details": {
+        "title": "Feature Not Implemented",
+        "description": "\"Feature Not Implemented\" is an FPS Puzzle Platformer, where you're supposed to be testing a new ability, but the feature hasn't been implemented yet.\nDeveloped in 72 hours as part of the 2025 Patch Notes game jam!\nChristopher Brownhill - Developer & Level DesignerMichael Fiorentino - Environment Artist",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzg4NDE3OC8yMzE3NTI3NC5wbmc=/original/FPvK06.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4NDE3OC8yMzE3NTI3OS5wbmc=/original/Fd68ft.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4NDE3OC8yMzE3NTI5My5naWY=/original/2EMBml.gif",
+          "https://img.itch.zone/aW1hZ2UvMzg4NDE3OC8yMzE3NTI3Ni5wbmc=/original/jBl%2BwH.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4NDE3OC8yMzE3NTI3NS5wbmc=/original/2S3dzN.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows",
+          "Authors": "SneezusChrist, Michael Fiorentino",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "3D Platformer"
+        }
+      }
+    },
+    {
+      "gameId": 3884816,
+      "gameUrl": "https://blaze42.itch.io/todo",
+      "overallRank": 33,
+      "topCategories": [
+        "Gameplay",
+        "Fun Factor"
+      ],
+      "resultData": {
+        "id": 3884816,
+        "score": 3.6666666666667,
+        "cover_url": "https://img.itch.zone/aW1nLzIzMTc1ODk2LnBuZw==/300x240%23c/lwTQLS.png",
+        "raw_score": 3.6666666666667,
+        "rating_count": 21,
+        "criteria": [
+          {
+            "name": "Art",
+            "score": 2.7619047619048,
+            "raw_score": 2.7619047619048,
+            "rank": 202
+          },
+          {
+            "name": "Gameplay",
+            "score": 4.0952380952381,
+            "raw_score": 4.0952380952381,
+            "rank": 9
+          },
+          {
+            "name": "Sound Design",
+            "score": 3,
+            "raw_score": 3,
+            "rank": 111
+          },
+          {
+            "name": "Theme Integration",
+            "score": 4.2857142857143,
+            "raw_score": 4.2857142857143,
+            "rank": 14
+          },
+          {
+            "name": "Innovation",
+            "score": 3.6190476190476,
+            "raw_score": 3.6190476190476,
+            "rank": 42
+          },
+          {
+            "name": "Fun Factor",
+            "score": 4.2380952380952,
+            "raw_score": 4.2380952380952,
+            "rank": 2
+          }
+        ],
+        "contributors": [
+          {
+            "name": "BLAZE42",
+            "id": 2466552
+          }
+        ],
+        "url": "https://itch.io/jam/patch-notes-v-1-0/rate/3884816",
+        "rank": 33,
+        "title": "TODO"
+      },
+      "entryData": {
+        "coolness": 4,
+        "rating_count": 21,
+        "created_at": "2025-09-15 07:04:44",
+        "id": 765470,
+        "game": {
+          "short_text": "Abuse unpatched bugs to traverse through impossible puzzles!",
+          "cover": "https://img.itch.zone/aW1nLzIzMTc1ODk2LnBuZw==/300x240%23c/lwTQLS.png",
+          "id": 3884816,
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "BLAZE42",
+            "url": "https://blaze42.itch.io",
+            "id": 2466552
+          },
+          "url": "https://blaze42.itch.io/todo",
+          "title": "TODO"
+        },
+        "url": "/jam/patch-notes-v-1-0/rate/3884816",
+        "field_responses": [
+          "37077:2",
+          "38986:2"
+        ]
+      },
+      "details": {
+        "title": "TODO",
+        "description": "Unfortunately, I couldn't finish this game on time... the levels are missing core elements and most shouldn’t be possible to solve. Don't worry! I've included my TODO list, where you can see all the bugs I never ended up fixing, maybe they'll help you traverse through the impossible puzzles? Please enjoy whatever is playable! And good luck!",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIzMTc1ODk2LnBuZw==/original/hNik2W.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "BLAZE42",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "3D, First-Person, glitch"
+        }
+      }
+    },
+    {
+      "gameId": 3883708,
+      "gameUrl": "https://camwatson.itch.io/friends-apart",
+      "overallRank": 80,
+      "topCategories": [
+        "Gameplay",
+        "Innovation"
+      ],
+      "resultData": {
+        "id": 3883708,
+        "score": 3.2575757575758,
+        "cover_url": "https://img.itch.zone/aW1nLzIzMTcwMTU0LnBuZw==/300x240%23c/YgvyRf.png",
+        "raw_score": 3.2575757575758,
+        "rating_count": 11,
+        "criteria": [
+          {
+            "name": "Art",
+            "score": 2.7272727272727,
+            "raw_score": 2.7272727272727,
+            "rank": 206
+          },
+          {
+            "name": "Gameplay",
+            "score": 4.0909090909091,
+            "raw_score": 4.0909090909091,
+            "rank": 10
+          },
+          {
+            "name": "Sound Design",
+            "score": 2.0909090909091,
+            "raw_score": 2.0909090909091,
+            "rank": 248
+          },
+          {
+            "name": "Theme Integration",
+            "score": 3.1818181818182,
+            "raw_score": 3.1818181818182,
+            "rank": 131
+          },
+          {
+            "name": "Innovation",
+            "score": 4.0909090909091,
+            "raw_score": 4.0909090909091,
+            "rank": 7
+          },
+          {
+            "name": "Fun Factor",
+            "score": 3.3636363636364,
+            "raw_score": 3.3636363636364,
+            "rank": 72
+          }
+        ],
+        "contributors": [
+          {
+            "name": "CamWatson",
+            "id": 9949263
+          }
+        ],
+        "url": "https://itch.io/jam/patch-notes-v-1-0/rate/3883708",
+        "rank": 80,
+        "title": "Friends Apart"
+      },
+      "entryData": {
+        "coolness": 10,
+        "rating_count": 11,
+        "created_at": "2025-09-14 21:50:18",
+        "id": 764928,
+        "game": {
+          "short_text": "Control 2 characters to make a path to the finish",
+          "cover": "https://img.itch.zone/aW1nLzIzMTcwMTU0LnBuZw==/300x240%23c/YgvyRf.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 3883708,
+          "cover_color": "#5e5d9b",
+          "user": {
+            "name": "CamWatson",
+            "url": "https://camwatson.itch.io",
+            "id": 9949263
+          },
+          "url": "https://camwatson.itch.io/friends-apart",
+          "title": "Friends Apart"
+        },
+        "url": "/jam/patch-notes-v-1-0/rate/3883708",
+        "field_responses": [
+          "37077:2",
+          "38986:2"
+        ]
+      },
+      "details": {
+        "title": "Friends Apart",
+        "description": "Control 2 characters to solve puzzles and get to the finish.\nVersion 1.1 includes new levels with an added Time mechanic.\nThere is an option to skip the the levels that include the time mechanic in the pause menu. I would recommend at least getting use to controls before doing this.\nVisuals in V1.1 have been updated as well\nWeb version is the newest (V1.1). \nThe original (V1.0) is available as download \n-CONTROLS-\nR - Restart level\nESC - Pause menu\nBLUE CHARACTER\nW/A/S/D - Move\nSHIFT (hold) - GRAB BUTTON\nwhile grabbing a button W/A/S/D will move platform instead\nQ (hold) - reverse time (only available in certain levels)\nGREEN CHARACTER\nI/J/K/L - Move\nSPACE or I - Jump\nU (hold) - reverse time (only available in certain levels)\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzg4MzcwOC8yNTE5Mjk1Ni5naWY=/original/8Kmim%2B.gif",
+          "https://img.itch.zone/aW1hZ2UvMzg4MzcwOC8yNTE5NDExNC5naWY=/original/d47a%2BR.gif",
+          "https://img.itch.zone/aW1hZ2UvMzg4MzcwOC8yNTE5Mjk1OS5naWY=/original/cIB%2Bve.gif",
+          "https://img.itch.zone/aW1hZ2UvMzg4MzcwOC8yNTE5Mjk0My5wbmc=/original/7LBwDh.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4MzcwOC8yNTE5Mjk0NS5wbmc=/original/irsSbm.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Author": "CamWatson",
+          "Genre": "Puzzle, Platformer",
+          "Made with": "Godot",
+          "Tags": "Relaxing"
+        }
+      }
+    },
+    {
+      "gameId": 3883652,
+      "gameUrl": "https://gedenteen.itch.io/anti-anti-cheat",
+      "overallRank": 58,
+      "topCategories": [
+        "Sound Design"
+      ],
+      "resultData": {
+        "id": 3883652,
+        "score": 3.4252873563218,
+        "cover_url": "https://img.itch.zone/aW1nLzIzMTczODU4LmdpZg==/300x240%23c/SJHqZB.gif",
+        "raw_score": 3.4252873563218,
+        "rating_count": 29,
+        "criteria": [
+          {
+            "name": "Art",
+            "score": 3.0689655172414,
+            "raw_score": 3.0689655172414,
+            "rank": 160
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.551724137931,
+            "raw_score": 3.551724137931,
+            "rank": 49
+          },
+          {
+            "name": "Sound Design",
+            "score": 4.448275862069,
+            "raw_score": 4.448275862069,
+            "rank": 2
+          },
+          {
+            "name": "Theme Integration",
+            "score": 2.6551724137931,
+            "raw_score": 2.6551724137931,
+            "rank": 215
+          },
+          {
+            "name": "Innovation",
+            "score": 3.0689655172414,
+            "raw_score": 3.0689655172414,
+            "rank": 113
+          },
+          {
+            "name": "Fun Factor",
+            "score": 3.7586206896552,
+            "raw_score": 3.7586206896552,
+            "rank": 29
+          }
+        ],
+        "contributors": [
+          {
+            "name": "gedenteen",
+            "id": 2005887
+          },
+          {
+            "name": "Ilya Fokin",
+            "id": 14995094
+          }
+        ],
+        "url": "https://itch.io/jam/patch-notes-v-1-0/rate/3883652",
+        "rank": 58,
+        "title": "Anti-Anti-Cheat"
+      },
+      "entryData": {
+        "coolness": 16,
+        "rating_count": 29,
+        "created_at": "2025-09-14 21:53:20",
+        "id": 764933,
+        "contributors": [
+          {
+            "name": "gedenteen",
+            "url": "https://gedenteen.itch.io"
+          },
+          {
+            "name": "Ilya Fokin",
+            "url": "https://ilya-fokin.itch.io"
+          }
+        ],
+        "game": {
+          "short_text": "Musical game about the battle between cheat and anti-cheat",
+          "id": 3883652,
+          "user": {
+            "name": "gedenteen",
+            "url": "https://gedenteen.itch.io",
+            "id": 2005887
+          },
+          "url": "https://gedenteen.itch.io/anti-anti-cheat",
+          "cover": "https://img.itch.zone/aW1nLzIzMTczODU4LmdpZg==/300x240%23c/SJHqZB.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzIzMTczODU4LmdpZg==/original/uyNJ28.gif",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#171e24",
+          "title": "Anti-Anti-Cheat"
+        },
+        "url": "/jam/patch-notes-v-1-0/rate/3883652",
+        "field_responses": [
+          "37077:1",
+          "38986:2"
+        ]
+      },
+      "details": {
+        "title": "Anti-Anti-Cheat",
+        "description": "This is musical game about the battle between cheat and anti-cheat.\nControls:WASD or arrows - movementP - open pause menu\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzg4MzY1Mi8yMzE3MDM3Mi5qcGc=/original/FQCYcG.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzg4MzY1Mi8yMzE3MDM3My5qcGc=/original/3EFmUY.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzg4MzY1Mi8yMzE3MDM3MS5qcGc=/original/pQbtxt.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Authors": "gedenteen, Ilya Fokin",
+          "Genre": "Action, Rhythm",
+          "Made with": "Unity",
+          "Tags": "2D, Arcade, Minimalist, Music"
+        }
+      }
+    },
+    {
+      "gameId": 3881206,
+      "gameUrl": "https://natural-power.itch.io/pong-the-dying-machine",
+      "overallRank": 12,
+      "topCategories": [
+        "Sound Design"
+      ],
+      "resultData": {
+        "id": 3881206,
+        "score": 3.8514492753623,
+        "cover_url": "https://img.itch.zone/aW1nLzIzMTU3MTA1LnBuZw==/300x240%23c/TswPAk.png",
+        "raw_score": 3.8514492753623,
+        "rating_count": 46,
+        "criteria": [
+          {
+            "name": "Judge's Ranking",
+            "score": 0,
+            "raw_score": 0,
+            "rank": 1
+          },
+          {
+            "name": "Art",
+            "score": 3.9782608695652,
+            "raw_score": 3.9782608695652,
+            "rank": 36
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.7173913043478,
+            "raw_score": 3.7173913043478,
+            "rank": 32
+          },
+          {
+            "name": "Sound Design",
+            "score": 4.195652173913,
+            "raw_score": 4.195652173913,
+            "rank": 3
+          },
+          {
+            "name": "Theme Integration",
+            "score": 4.304347826087,
+            "raw_score": 4.304347826087,
+            "rank": 13
+          },
+          {
+            "name": "Innovation",
+            "score": 3.2391304347826,
+            "raw_score": 3.2391304347826,
+            "rank": 81
+          },
+          {
+            "name": "Fun Factor",
+            "score": 3.6739130434783,
+            "raw_score": 3.6739130434783,
+            "rank": 38
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Natural Power",
+            "id": 11412600
+          }
+        ],
+        "url": "https://itch.io/jam/patch-notes-v-1-0/rate/3881206",
+        "rank": 12,
+        "title": "Pong: The Dying Machine"
+      },
+      "entryData": {
+        "coolness": 10,
+        "rating_count": 46,
+        "created_at": "2025-09-14 05:39:14",
+        "id": 764510,
+        "game": {
+          "short_text": "Pong, but the machine is glitching out!",
+          "cover": "https://img.itch.zone/aW1nLzIzMTU3MTA1LnBuZw==/300x240%23c/TswPAk.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 3881206,
+          "cover_color": "#0f0000",
+          "user": {
+            "name": "Natural Power",
+            "url": "https://natural-power.itch.io",
+            "id": 11412600
+          },
+          "url": "https://natural-power.itch.io/pong-the-dying-machine",
+          "title": "Pong: The Dying Machine"
+        },
+        "url": "/jam/patch-notes-v-1-0/rate/3881206",
+        "field_responses": [
+          "37077:2",
+          "38986:2"
+        ]
+      },
+      "details": {
+        "title": "Pong: The Dying Machine",
+        "description": "The classic game of Pong!But with a twistThe old machine you're playing on hasdeteriorated over time, and is throwingall kinds of glitches your way!Deal with the strange glitches and beatthe AI by getting 11 pointsor play against a friend at the same computer!\nControls:Move up with W or ArrowUpMove down with S or ArrowDownEnter/TAB to pause & view SettingsExtra Credits:CRT Monitor Shader: @c64cosminMusic & SFX: Pixabay",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIzMTU3MTA1LnBuZw==/original/T95p%2Fy.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Natural Power",
+          "Genre": "Sports",
+          "Made with": "Godot",
+          "Tags": "2D, Arcade, atari, Casual, glitch, minigames, Multiplayer, No AI, Retro, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 3884076,
+      "gameUrl": "https://qorked.itch.io/your-madly-annoying-friends-first-game-testing-session",
+      "overallRank": 27,
+      "topCategories": [
+        "Sound Design"
+      ],
+      "resultData": {
+        "id": 3884076,
+        "score": 3.71875,
+        "cover_url": "https://img.itch.zone/aW1nLzIzMTcyMDE1LnBuZw==/300x240%23c/xeWXP3.png",
+        "raw_score": 3.71875,
+        "rating_count": 32,
+        "criteria": [
+          {
+            "name": "Art",
+            "score": 3.1875,
+            "raw_score": 3.1875,
+            "rank": 143
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.40625,
+            "raw_score": 3.40625,
+            "rank": 69
+          },
+          {
+            "name": "Sound Design",
+            "score": 4.15625,
+            "raw_score": 4.15625,
+            "rank": 4
+          },
+          {
+            "name": "Theme Integration",
+            "score": 4.09375,
+            "raw_score": 4.09375,
+            "rank": 23
+          },
+          {
+            "name": "Innovation",
+            "score": 3.78125,
+            "raw_score": 3.78125,
+            "rank": 26
+          },
+          {
+            "name": "Fun Factor",
+            "score": 3.6875,
+            "raw_score": 3.6875,
+            "rank": 37
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Qorked",
+            "id": 10346582
+          },
+          {
+            "name": "Tyranicall",
+            "id": 12791835
+          }
+        ],
+        "url": "https://itch.io/jam/patch-notes-v-1-0/rate/3884076",
+        "rank": 27,
+        "title": "Your Madly Annoying Friends First Game Testing Session"
+      },
+      "entryData": {
+        "coolness": 2,
+        "rating_count": 32,
+        "created_at": "2025-09-15 00:39:14",
+        "id": 765098,
+        "contributors": [
+          {
+            "name": "Qorked",
+            "url": "https://qorked.itch.io"
+          },
+          {
+            "name": "Tyranicall",
+            "url": "https://tyranicall.itch.io"
+          }
+        ],
+        "game": {
+          "short_text": "You are a gameplay tester for your friends new platformer!",
+          "cover": "https://img.itch.zone/aW1nLzIzMTcyMDE1LnBuZw==/300x240%23c/xeWXP3.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 3884076,
+          "cover_color": "#333265",
+          "user": {
+            "name": "Qorked",
+            "url": "https://qorked.itch.io",
+            "id": 10346582
+          },
+          "url": "https://qorked.itch.io/your-madly-annoying-friends-first-game-testing-session",
+          "title": "Your Madly Annoying Friends First Game Testing Session"
+        },
+        "url": "/jam/patch-notes-v-1-0/rate/3884076",
+        "field_responses": [
+          "37077:2",
+          "38986:2"
+        ]
+      },
+      "details": {
+        "title": "Your Madly Annoying Friends First Game Testing Session",
+        "description": "Game byQuorked - Programming \nTyrannical - Music and SFX\n12Gauge - Art\nJanuary - Voice Acting\nStatic - Level Design",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIzMTcyMDE1LnBuZw==/original/ur8vQm.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "Qorked, Tyranicall",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "2D"
+        }
+      }
+    },
+    {
+      "gameId": 3883980,
+      "gameUrl": "https://nucleusgames.itch.io/unfixed-invaders",
+      "overallRank": 5,
+      "topCategories": [
+        "Sound Design",
+        "Theme Integration"
+      ],
+      "resultData": {
+        "id": 3883980,
+        "score": 4.0135135135135,
+        "cover_url": "https://img.itch.zone/aW1nLzIzMTcxNDk2LnBuZw==/300x240%23c/8aCnVQ.png",
+        "raw_score": 4.0135135135135,
+        "rating_count": 37,
+        "criteria": [
+          {
+            "name": "Indieformer Pick",
+            "score": 0,
+            "raw_score": 0,
+            "rank": 1
+          },
+          {
+            "name": "Judge's Ranking",
+            "score": 0,
+            "raw_score": 0,
+            "rank": 1
+          },
+          {
+            "name": "Art",
+            "score": 3.972972972973,
+            "raw_score": 3.972972972973,
+            "rank": 37
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.9189189189189,
+            "raw_score": 3.9189189189189,
+            "rank": 14
+          },
+          {
+            "name": "Sound Design",
+            "score": 4.0810810810811,
+            "raw_score": 4.0810810810811,
+            "rank": 7
+          },
+          {
+            "name": "Theme Integration",
+            "score": 4.3783783783784,
+            "raw_score": 4.3783783783784,
+            "rank": 8
+          },
+          {
+            "name": "Innovation",
+            "score": 3.8378378378378,
+            "raw_score": 3.8378378378378,
+            "rank": 19
+          },
+          {
+            "name": "Fun Factor",
+            "score": 3.8918918918919,
+            "raw_score": 3.8918918918919,
+            "rank": 19
+          }
+        ],
+        "contributors": [
+          {
+            "name": "NucleusGames",
+            "id": 12597340
+          },
+          {
+            "name": "lol44__44lol",
+            "id": 4853284
+          },
+          {
+            "name": "Griefergang",
+            "id": 12614204
+          }
+        ],
+        "url": "https://itch.io/jam/patch-notes-v-1-0/rate/3883980",
+        "rank": 5,
+        "title": "Unfixed Invaders"
+      },
+      "entryData": {
+        "coolness": 48,
+        "rating_count": 37,
+        "created_at": "2025-09-15 00:40:09",
+        "id": 765100,
+        "contributors": [
+          {
+            "name": "NucleusGames",
+            "url": "https://nucleusgames.itch.io"
+          },
+          {
+            "name": "lol44__44lol",
+            "url": "https://lol44-44lol.itch.io"
+          },
+          {
+            "name": "Griefergang",
+            "url": "https://griefergang.itch.io"
+          }
+        ],
+        "game": {
+          "short_text": "game might be broken",
+          "cover": "https://img.itch.zone/aW1nLzIzMTcxNDk2LnBuZw==/300x240%23c/8aCnVQ.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 3883980,
+          "cover_color": "#000000",
+          "user": {
+            "name": "NucleusGames",
+            "url": "https://nucleusgames.itch.io",
+            "id": 12597340
+          },
+          "url": "https://nucleusgames.itch.io/unfixed-invaders",
+          "title": "Unfixed Invaders"
+        },
+        "url": "/jam/patch-notes-v-1-0/rate/3883980",
+        "field_responses": [
+          "37077:2",
+          "38986:2"
+        ]
+      },
+      "details": {
+        "title": "Unfixed Invaders",
+        "description": "Play this broken version of the retro classic. Have fun!\nMovement: a d\nShoot: space\nOptions: tab\nCredits:\nCrepa (Coding)\nGriefergang (Sounds and Music)\nlol44 (Coding and Graphics)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzg4Mzk4MC8yMzE3MTQyNi5wbmc=/original/yUx%2Bpk.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4Mzk4MC8yMzE3MTQyOC5wbmc=/original/akP4gk.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4Mzk4MC8yMzE3MTQyOS5wbmc=/original/h4gnAt.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4Mzk4MC8yMzE3MTQzMi5wbmc=/original/1kDuFq.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4Mzk4MC8yMzE3MTQzNC5wbmc=/original/h5sonZ.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Authors": "NucleusGames, lol44__44lol, Griefergang",
+          "Genre": "Action",
+          "Made with": "Unity",
+          "Tags": "2D, 8-Bit, glitch, Indie, No AI, Pixel Art, Retro, Short, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 3884751,
+      "gameUrl": "https://slost.itch.io/break-the-logic",
+      "overallRank": 41,
+      "topCategories": [
+        "Sound Design"
+      ],
+      "resultData": {
+        "id": 3884751,
+        "score": 3.6031746031746,
+        "cover_url": "https://img.itch.zone/aW1nLzIzMTc1NDQ4LnBuZw==/300x240%23c/9ueo7T.png",
+        "raw_score": 3.6031746031746,
+        "rating_count": 21,
+        "criteria": [
+          {
+            "name": "Art",
+            "score": 2.9047619047619,
+            "raw_score": 2.9047619047619,
+            "rank": 174
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.7142857142857,
+            "raw_score": 3.7142857142857,
+            "rank": 33
+          },
+          {
+            "name": "Sound Design",
+            "score": 4.047619047619,
+            "raw_score": 4.047619047619,
+            "rank": 8
+          },
+          {
+            "name": "Theme Integration",
+            "score": 3.6666666666667,
+            "raw_score": 3.6666666666667,
+            "rank": 57
+          },
+          {
+            "name": "Innovation",
+            "score": 3.8095238095238,
+            "raw_score": 3.8095238095238,
+            "rank": 23
+          },
+          {
+            "name": "Fun Factor",
+            "score": 3.4761904761905,
+            "raw_score": 3.4761904761905,
+            "rank": 55
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Slost",
+            "id": 227144
+          }
+        ],
+        "url": "https://itch.io/jam/patch-notes-v-1-0/rate/3884751",
+        "rank": 41,
+        "title": "Break the Logic!"
+      },
+      "entryData": {
+        "coolness": 26,
+        "rating_count": 21,
+        "created_at": "2025-09-15 06:01:57",
+        "id": 765336,
+        "game": {
+          "short_text": "A reverse puzzle that you have to destroy all the equations.",
+          "cover": "https://img.itch.zone/aW1nLzIzMTc1NDQ4LnBuZw==/300x240%23c/9ueo7T.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 3884751,
+          "cover_color": "#e53b44",
+          "user": {
+            "name": "Slost",
+            "url": "https://slost.itch.io",
+            "id": 227144
+          },
+          "url": "https://slost.itch.io/break-the-logic",
+          "title": "Break the Logic!"
+        },
+        "url": "/jam/patch-notes-v-1-0/rate/3884751",
+        "field_responses": [
+          "37077:2",
+          "38986:2"
+        ]
+      },
+      "details": {
+        "title": "Break the Logic!",
+        "description": "You play as “I”, representing yourself. Your goal is to break all the equation blocks on the screen and make them invalid. Sounds easy, right? But be careful, every move you make comes at a cost.\nHow to Play\n \n \nBreak all the equations by pushing the blocksYou can only move 9 stepsCollect “<3” to refill your stepsDon’t get stuck!\nControls\nArrow keys to moveR/F5 to restart the level\nCredits\nPrograming by SlostGraphics by SlostGame Design by SlostMusic by SlostCover Art by GEMINIHeavily inspired by Baba Is You",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzg4NDc1MS8yMzE3NTg5MC5wbmc=/original/1cNyvG.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4NDc1MS8yMzE4MjE1OS5wbmc=/original/TYibml.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4NDc1MS8yMzE4MjE0OC5wbmc=/original/3OzQnF.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Slost",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "Godot, logic, mathematics, reverse-puzzle"
+        }
+      }
+    },
+    {
+      "gameId": 3882895,
+      "gameUrl": "https://innocent-soul.itch.io/error-hiker",
+      "overallRank": 7,
+      "topCategories": [
+        "Sound Design",
+        "Fun Factor"
+      ],
+      "resultData": {
+        "id": 3882895,
+        "score": 3.9097222222222,
+        "cover_url": "https://img.itch.zone/aW1nLzIzMTY1OTcxLnBuZw==/300x240%23c/bHZQPS.png",
+        "raw_score": 3.9097222222222,
+        "rating_count": 24,
+        "criteria": [
+          {
+            "name": "Art",
+            "score": 3.7083333333333,
+            "raw_score": 3.7083333333333,
+            "rank": 62
+          },
+          {
+            "name": "Gameplay",
+            "score": 4.0833333333333,
+            "raw_score": 4.0833333333333,
+            "rank": 11
+          },
+          {
+            "name": "Sound Design",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 9
+          },
+          {
+            "name": "Theme Integration",
+            "score": 3.875,
+            "raw_score": 3.875,
+            "rank": 40
+          },
+          {
+            "name": "Innovation",
+            "score": 3.625,
+            "raw_score": 3.625,
+            "rank": 41
+          },
+          {
+            "name": "Fun Factor",
+            "score": 4.1666666666667,
+            "raw_score": 4.1666666666667,
+            "rank": 5
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Innocent Soul",
+            "id": 13138449
+          }
+        ],
+        "url": "https://itch.io/jam/patch-notes-v-1-0/rate/3882895",
+        "rank": 7,
+        "title": "Error Hiker (PATCH NOTES 2025)"
+      },
+      "entryData": {
+        "coolness": 40,
+        "rating_count": 24,
+        "created_at": "2025-09-14 14:40:08",
+        "id": 764704,
+        "game": {
+          "short_text": "A short puzzle where you should use \"bugs\" to complete the game.",
+          "cover": "https://img.itch.zone/aW1nLzIzMTY1OTcxLnBuZw==/300x240%23c/bHZQPS.png",
+          "id": 3882895,
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "Innocent Soul",
+            "url": "https://innocent-soul.itch.io",
+            "id": 13138449
+          },
+          "url": "https://innocent-soul.itch.io/error-hiker",
+          "title": "Error Hiker (PATCH NOTES 2025)"
+        },
+        "url": "/jam/patch-notes-v-1-0/rate/3882895",
+        "field_responses": [
+          "37077:2",
+          "38986:2"
+        ]
+      },
+      "details": {
+        "title": "Error Hiker (PATCH NOTES 2025)",
+        "description": "A short puzzle adventure where you should use all kind of bugs to get to the end!\nBugs are mostly actually game mechanics, and the puzzle itself is designed to be quite easy, as the goal is to show unique game mechanics.\nThis is a game made for PATCH NOTES game jam (2025). Theme: \"The Error Is the Feature\"\nControls:\nWASD / arrows to movespace / E tp use thingsmouse clicks to change volume in the first room\nOur team:\nInnocent Soul (lead)AlexMayPool (support)\nMusic and sounds: CC0.\n\"Bugged\" mechanics (spoilers, but you can read if you are stuck on a level):\n\"glitchy\" objects are either illusionary or boxes, not moving because of solid object ahead counts as walking, dying resets the room, but not money/sword, UI is actually a floor, you can replace numbers on the UI to make game changes, you can visit first room with a sword to go to \"any room\" room and beat the gameCheats (game is fully beatable without cheats, there are no softlocks if you just use \"bugs\"):\nF1 to activate cheats\nF2 to get a sword\n0-9 to switch level (holding shift makes 1->11, 2->12, etc)\nCtrl get a coin\nR restart room\n\nIf you like this game, consider giving my other games a try.",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIzMTY1OTcxLnBuZw==/original/JaYESa.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Author": "Innocent Soul",
+          "Genre": "Puzzle",
+          "Made with": "GameMaker",
+          "Tags": "16x16, 2D, GameMaker, glitch, No AI, Pixel Art, Retro, Sokoban"
+        }
+      }
+    },
+    {
+      "gameId": 3882777,
+      "gameUrl": "https://tba-studio.itch.io/trashdev",
+      "overallRank": 6,
+      "topCategories": [
+        "Theme Integration",
+        "Innovation"
+      ],
+      "resultData": {
+        "id": 3882777,
+        "score": 3.962962962963,
+        "cover_url": "https://img.itch.zone/aW1nLzIzMTc3MjU4LnBuZw==/300x240%23c/ZaAAWh.png",
+        "raw_score": 3.962962962963,
+        "rating_count": 18,
+        "criteria": [
+          {
+            "name": "Art",
+            "score": 3.7777777777778,
+            "raw_score": 3.7777777777778,
+            "rank": 54
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.8888888888889,
+            "raw_score": 3.8888888888889,
+            "rank": 16
+          },
+          {
+            "name": "Sound Design",
+            "score": 3.4444444444444,
+            "raw_score": 3.4444444444444,
+            "rank": 50
+          },
+          {
+            "name": "Theme Integration",
+            "score": 4.5,
+            "raw_score": 4.5,
+            "rank": 3
+          },
+          {
+            "name": "Innovation",
+            "score": 4.1666666666667,
+            "raw_score": 4.1666666666667,
+            "rank": 4
+          },
+          {
+            "name": "Fun Factor",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 12
+          }
+        ],
+        "contributors": [
+          {
+            "name": "TBA Studio",
+            "id": 11980849
+          }
+        ],
+        "url": "https://itch.io/jam/patch-notes-v-1-0/rate/3882777",
+        "rank": 6,
+        "title": "I AM TRASH DEV"
+      },
+      "entryData": {
+        "coolness": 14,
+        "rating_count": 18,
+        "created_at": "2025-09-15 06:06:19",
+        "id": 765342,
+        "game": {
+          "short_text": "A game full of errors. It's on purpose... I promise!",
+          "cover": "https://img.itch.zone/aW1nLzIzMTc3MjU4LnBuZw==/300x240%23c/ZaAAWh.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 3882777,
+          "cover_color": "#f9f6e6",
+          "user": {
+            "name": "TBA Studio",
+            "url": "https://tba-studio.itch.io",
+            "id": 11980849
+          },
+          "url": "https://tba-studio.itch.io/trashdev",
+          "title": "I AM TRASH DEV"
+        },
+        "url": "/jam/patch-notes-v-1-0/rate/3882777",
+        "field_responses": [
+          "37077:2",
+          "38986:2"
+        ]
+      },
+      "details": {
+        "title": "I AM TRASH DEV",
+        "description": "ABOUT THE GAME\n\"A game built on errors. Yes, you read that right!\"\nPlay as a trash developer, striving to make the crappiest game ever.  Mix combinations of world/character errors, bring chaos and mayhem into this piece of software!  Don't worry, go ahead and play with variety of errors to create your own features. This is a crash-proof game... I hope.\nFeatures:\nVariety of Errors: Experiment with up to 16 unique errors that can break either the world or the player.Unlock Trophies: Collect hidden trophies by utilizing error combinations.Pixel Chaos: Explore a quirky, pixel-art world that’s as charming as it is unpredictable.\nHow to Play:\nA: Move LeftD: Move RightSpace: JumpUse either mouse/keyboard to navigate the UI\nThink you can break the game?  Try it out and find all those medals!\n\nPATCH NOTES V1.0 GAME JAM SUBMISSION DETAILS\nTeam Name: TBA StudioTeam Members:Alfred JhonatanChristopher TessyDixon WillowJuan CarlosVincent",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzg4Mjc3Ny8yMzE3NTMxMi5wbmc=/original/cQhnWI.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4Mjc3Ny8yMzE3Mjc4Mi5wbmc=/original/HZDct9.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4Mjc3Ny8yMzE3Mjc4MC5wbmc=/original/w%2BLN6k.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4Mjc3Ny8yMzE3Mjc4My5wbmc=/original/LaMA7o.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4Mjc3Ny8yMzE3Mjc4MS5wbmc=/original/9PeaHk.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows",
+          "Author": "TBA Studio",
+          "Genre": "Platformer",
+          "Made with": "Unity",
+          "Tags": "Pixel Art, Sandbox, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 3884856,
+      "gameUrl": "https://bladik17.itch.io/test-our-game-pls",
+      "overallRank": 40,
+      "topCategories": [
+        "Theme Integration"
+      ],
+      "resultData": {
+        "id": 3884856,
+        "score": 3.625,
+        "cover_url": "https://img.itch.zone/aW1nLzIzMjAyNzEzLnBuZw==/300x240%23c/dzs5Ms.png",
+        "raw_score": 3.625,
+        "rating_count": 12,
+        "criteria": [
+          {
+            "name": "Art",
+            "score": 3.25,
+            "raw_score": 3.25,
+            "rank": 133
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.5,
+            "raw_score": 3.5,
+            "rank": 57
+          },
+          {
+            "name": "Sound Design",
+            "score": 2.9166666666667,
+            "raw_score": 2.9166666666667,
+            "rank": 128
+          },
+          {
+            "name": "Theme Integration",
+            "score": 4.5,
+            "raw_score": 4.5,
+            "rank": 3
+          },
+          {
+            "name": "Innovation",
+            "score": 3.8333333333333,
+            "raw_score": 3.8333333333333,
+            "rank": 20
+          },
+          {
+            "name": "Fun Factor",
+            "score": 3.75,
+            "raw_score": 3.75,
+            "rank": 30
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Bladik17",
+            "id": 10747954
+          }
+        ],
+        "url": "https://itch.io/jam/patch-notes-v-1-0/rate/3884856",
+        "rank": 40,
+        "title": "Test Our Game Pls"
+      },
+      "entryData": {
+        "coolness": 0,
+        "rating_count": 12,
+        "created_at": "2025-09-15 08:51:31",
+        "id": 765525,
+        "game": {
+          "short_text": "Very buggy and silly game for the Patch Notes game jam, 2025.",
+          "cover": "https://img.itch.zone/aW1nLzIzMjAyNzEzLnBuZw==/300x240%23c/dzs5Ms.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 3884856,
+          "cover_color": "#2a46ff",
+          "user": {
+            "name": "Bladik17",
+            "url": "https://bladik17.itch.io",
+            "id": 10747954
+          },
+          "url": "https://bladik17.itch.io/test-our-game-pls",
+          "title": "Test Our Game Pls"
+        },
+        "url": "/jam/patch-notes-v-1-0/rate/3884856",
+        "field_responses": [
+          "37077:2",
+          "38986:2"
+        ]
+      },
+      "details": {
+        "title": "Test Our Game Pls",
+        "description": "Hello, dear Tester! We invite you to test our brand-new game! Come to our office tommorrow! By that time, we'll be ready to bring you our wonderful new platformer, which my our development team will be working worked hard on.\nThis silly very little game was made made with Unity by 3 friends: me (Bladik), https://l140.itch.io/ and https://bryzzz-best.itch.io/We created it in 3 days for Patch Notes game jam by Itch Io, 2025.\nControls:\nWASD Move and jump, obviouslySpaceChange your stateEInteract\nYou can try use gamepad, but we didn't finish controls for it, as I remember. Interacts won't work, I think. Soooo better to use keyboard.\nHalf (the awful one) of tiles and sprites were made by me with paper, pen and was pencils or somethink like this.\nThe other half is here: https://assetstore.unity.com/packages/2d/environments/medieval-pixel-art-asset-f...\nWhere are the sounds from idk, ask https://bryzzz-best.itch.io/",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzg4NDg1Ni8yMzE3NzAyNC5wbmc=/original/SWGMV6.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4NDg1Ni8yMzE3NzAyNS5wbmc=/original/eV8qml.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4NDg1Ni8yMzE3NzAyNi5wbmc=/original/sFqIzU.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4NDg1Ni8yMzE3NzAyNy5wbmc=/original/%2Fk0cuV.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4NDg1Ni8yMzE3NzAyOC5wbmc=/original/lPCNf0.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Publisher": "",
+          "Release date": "Sep 15, 2025",
+          "Author": "Bladik17",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "Comedy, Singleplayer",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Accessibility": "Subtitles"
+        }
+      }
+    },
+    {
+      "gameId": 3884216,
+      "gameUrl": "https://ericksonsoftware.itch.io/debug",
+      "overallRank": 113,
+      "topCategories": [
+        "Theme Integration"
+      ],
+      "resultData": {
+        "id": 3884216,
+        "score": 3.0555555555556,
+        "cover_url": "",
+        "raw_score": 3.0555555555556,
+        "rating_count": 9,
+        "criteria": [
+          {
+            "name": "Art",
+            "score": 2.3333333333333,
+            "raw_score": 2.3333333333333,
+            "rank": 256
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.3333333333333,
+            "raw_score": 3.3333333333333,
+            "rank": 75
+          },
+          {
+            "name": "Sound Design",
+            "score": 1.7777777777778,
+            "raw_score": 1.7777777777778,
+            "rank": 286
+          },
+          {
+            "name": "Theme Integration",
+            "score": 4.4444444444444,
+            "raw_score": 4.4444444444444,
+            "rank": 5
+          },
+          {
+            "name": "Innovation",
+            "score": 3.7777777777778,
+            "raw_score": 3.7777777777778,
+            "rank": 27
+          },
+          {
+            "name": "Fun Factor",
+            "score": 2.6666666666667,
+            "raw_score": 2.6666666666667,
+            "rank": 174
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Erickson Software",
+            "id": 9441068
+          }
+        ],
+        "url": "https://itch.io/jam/patch-notes-v-1-0/rate/3884216",
+        "rank": 113,
+        "title": "Debug"
+      },
+      "entryData": {
+        "coolness": 0,
+        "rating_count": 9,
+        "created_at": "2025-09-15 04:09:46",
+        "id": 765247,
+        "game": {
+          "short_text": "Fix your coworker's buggy JavaScript code",
+          "cover": "",
+          "id": 3884216,
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Erickson Software",
+            "url": "https://ericksonsoftware.itch.io",
+            "id": 9441068
+          },
+          "url": "https://ericksonsoftware.itch.io/debug",
+          "title": "Debug"
+        },
+        "url": "/jam/patch-notes-v-1-0/rate/3884216",
+        "field_responses": [
+          "37077:2",
+          "38986:2"
+        ]
+      },
+      "details": {
+        "title": "Debug",
+        "description": "Made for Patch Notes Game Jam [9/12 - 9/14]\nExperience coding in JavaScript is required to play this.Source code: EricksonSoftware/Debug: Patch Notes Game Jam (Sept 12)",
+        "screenshots": [],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Erickson Software",
+          "Genre": "Educational, Puzzle",
+          "Made with": "Godot",
+          "Tags": "coding"
+        }
+      }
+    },
+    {
+      "gameId": 3883832,
+      "gameUrl": "https://ratart-studio.itch.io/sokobug",
+      "overallRank": 13,
+      "topCategories": [
+        "Theme Integration",
+        "Fun Factor"
+      ],
+      "resultData": {
+        "id": 3883832,
+        "score": 3.84375,
+        "cover_url": "https://img.itch.zone/aW1nLzIzMTcwNTE3LnBuZw==/300x240%23c/N%2FUvs%2F.png",
+        "raw_score": 3.84375,
+        "rating_count": 16,
+        "criteria": [
+          {
+            "name": "Art",
+            "score": 3.4375,
+            "raw_score": 3.4375,
+            "rank": 101
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.8125,
+            "raw_score": 3.8125,
+            "rank": 24
+          },
+          {
+            "name": "Sound Design",
+            "score": 3.875,
+            "raw_score": 3.875,
+            "rank": 15
+          },
+          {
+            "name": "Theme Integration",
+            "score": 4.4375,
+            "raw_score": 4.4375,
+            "rank": 6
+          },
+          {
+            "name": "Innovation",
+            "score": 3.375,
+            "raw_score": 3.375,
+            "rank": 69
+          },
+          {
+            "name": "Fun Factor",
+            "score": 4.125,
+            "raw_score": 4.125,
+            "rank": 7
+          }
+        ],
+        "contributors": [
+          {
+            "name": "RatArt Studio",
+            "id": 832009
+          }
+        ],
+        "url": "https://itch.io/jam/patch-notes-v-1-0/rate/3883832",
+        "rank": 13,
+        "title": "Sokobug"
+      },
+      "entryData": {
+        "coolness": 13,
+        "rating_count": 16,
+        "created_at": "2025-09-14 22:40:26",
+        "id": 765001,
+        "game": {
+          "short_text": "A bug-centric sokoban like experience. Made for the Patch Notes Jam 2025.",
+          "cover": "https://img.itch.zone/aW1nLzIzMTcwNTE3LnBuZw==/300x240%23c/N%2FUvs%2F.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 3883832,
+          "cover_color": "#eeeeee",
+          "user": {
+            "name": "RatArt Studio",
+            "url": "https://ratart-studio.itch.io",
+            "id": 832009
+          },
+          "url": "https://ratart-studio.itch.io/sokobug",
+          "title": "Sokobug"
+        },
+        "url": "/jam/patch-notes-v-1-0/rate/3883832",
+        "field_responses": [
+          "37077:2",
+          "38986:2"
+        ]
+      },
+      "details": {
+        "title": "Sokobug",
+        "description": "Sokobug\n\n\n\"An unforgettable experience.\" - a paid reviewer\n\"Sure! Here is a positive review for a game.\" - ChatGPT\n\"This sucks!\" - Quality Assurance Team\n\nBugs. Bugs are everywhere. Solve them? Oh, why, if you can ignore and solve them later?\nA(n) (un)forgettable gaming experience full of broken pieces and messed up sprites.\nHow-to\nReach the ladder to proceed to the next level.\nUse the arrow keys to move the player.\nWalls are walls, barrels are barrels...\nAbout\nThe game was developed by RatArt Studio in a day for the Patch Notes Jam 2025.\nWe messed up the jam start date, and the next day the team was occupied in:\nfeeding the cat - (succedeed, Vincenzo - find him on ArtStation)making the most fabulous ice creams - (succedeed, Gionni - find him on Instagram)finding a girlfriend - (failed, Dario - he published once a piece on SoundCloud)\nAll the assets were made in-house with love during the day with the exception of some sound effects (blips and bloops) taken from the 8 Bit Sound Pack by SoundsByDane.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzg4MzgzMi8yMzE3MDUxNS5wbmc=/original/yNo70Z.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4MzgzMi8yMzE3MDUxMy5wbmc=/original/81Xovh.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4MzgzMi8yMzE3MDUxNC5wbmc=/original/y7LRC1.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "RatArt Studio",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "2D, Cats, Godot, Hand-drawn, maze, No AI, patch-note-jam, Sokoban"
+        }
+      }
+    },
+    {
+      "gameId": 3883625,
+      "gameUrl": "https://notnokn.itch.io/generic-platformer",
+      "overallRank": 43,
+      "topCategories": [
+        "Theme Integration"
+      ],
+      "resultData": {
+        "id": 3883625,
+        "score": 3.575,
+        "cover_url": "https://img.itch.zone/aW1nLzIzMTY5NjE5LnBuZw==/300x240%23c/Z5oj05.png",
+        "raw_score": 3.575,
+        "rating_count": 20,
+        "criteria": [
+          {
+            "name": "Art",
+            "score": 3.2,
+            "raw_score": 3.2,
+            "rank": 138
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.7,
+            "raw_score": 3.7,
+            "rank": 36
+          },
+          {
+            "name": "Sound Design",
+            "score": 3.1,
+            "raw_score": 3.1,
+            "rank": 99
+          },
+          {
+            "name": "Theme Integration",
+            "score": 4.35,
+            "raw_score": 4.35,
+            "rank": 9
+          },
+          {
+            "name": "Innovation",
+            "score": 3.7,
+            "raw_score": 3.7,
+            "rank": 34
+          },
+          {
+            "name": "Fun Factor",
+            "score": 3.4,
+            "raw_score": 3.4,
+            "rank": 65
+          }
+        ],
+        "contributors": [
+          {
+            "name": "UnSADISTS",
+            "id": 4817286
+          }
+        ],
+        "url": "https://itch.io/jam/patch-notes-v-1-0/rate/3883625",
+        "rank": 43,
+        "title": "Generic Platformer"
+      },
+      "entryData": {
+        "coolness": 15,
+        "rating_count": 20,
+        "created_at": "2025-09-15 08:30:37",
+        "id": 765518,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzIzMTY5NjE5LnBuZw==/300x240%23c/Z5oj05.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 3883625,
+          "cover_color": "#e0ffff",
+          "user": {
+            "name": "UnSADISTS",
+            "url": "https://notnokn.itch.io",
+            "id": 4817286
+          },
+          "url": "https://notnokn.itch.io/generic-platformer",
+          "title": "Generic Platformer"
+        },
+        "url": "/jam/patch-notes-v-1-0/rate/3883625",
+        "field_responses": [
+          "37077:2",
+          "38986:2"
+        ]
+      },
+      "details": {
+        "title": "Generic Platformer",
+        "description": "You've been hired to play test a generic platformer, but the game itself seems rather unfinished with countless bugs. Perhaps you can use them while playing?\nPAUSE OVER THE PURPLE SPOTS (As shown below)\n\n\nWASD / Arrows - Move\nSpace / Up Arrow / W - Jump\nP - PauseShift - Rubberband (Rewinds you 3 seconds if you mess up, turn on in menu)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzg4MzYyNS8yMzIwNjc1NC5wbmc=/original/tRoRjn.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4MzYyNS8yMzIwNjc1Mi5wbmc=/original/9a3DqU.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4MzYyNS8yMzIwNjc1MS5wbmc=/original/RBNnlc.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4MzYyNS8yMzIwNjc1MC5wbmc=/original/h%2FSymp.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4MzYyNS8yMzIwNjc1My5wbmc=/original/ddRQly.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Author": "UnSADISTS",
+          "Genre": "Platformer, Puzzle",
+          "Made with": "Godot",
+          "Tags": "2D, Puzzle-Platformer"
+        }
+      }
+    },
+    {
+      "gameId": 3884277,
+      "gameUrl": "https://kart-camp-ix.itch.io/glitch-quest",
+      "overallRank": 54,
+      "topCategories": [
+        "Theme Integration"
+      ],
+      "resultData": {
+        "id": 3884277,
+        "score": 3.4907407407407,
+        "cover_url": "https://img.itch.zone/aW1nLzIzMTcyNTg1LnBuZw==/300x240%23c/xVYuVw.png",
+        "raw_score": 3.4907407407407,
+        "rating_count": 18,
+        "criteria": [
+          {
+            "name": "Art",
+            "score": 3.1666666666667,
+            "raw_score": 3.1666666666667,
+            "rank": 146
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.7222222222222,
+            "raw_score": 3.7222222222222,
+            "rank": 31
+          },
+          {
+            "name": "Sound Design",
+            "score": 2.5,
+            "raw_score": 2.5,
+            "rank": 189
+          },
+          {
+            "name": "Theme Integration",
+            "score": 4.3333333333333,
+            "raw_score": 4.3333333333333,
+            "rank": 10
+          },
+          {
+            "name": "Innovation",
+            "score": 3.7222222222222,
+            "raw_score": 3.7222222222222,
+            "rank": 30
+          },
+          {
+            "name": "Fun Factor",
+            "score": 3.5,
+            "raw_score": 3.5,
+            "rank": 53
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Kart Camp IX",
+            "id": 14857602
+          }
+        ],
+        "url": "https://itch.io/jam/patch-notes-v-1-0/rate/3884277",
+        "rank": 54,
+        "title": "gl.itch quest"
+      },
+      "entryData": {
+        "coolness": 5,
+        "rating_count": 18,
+        "created_at": "2025-09-15 01:56:51",
+        "id": 765154,
+        "game": {
+          "short_text": "Use game-breaking bugs to finish a game your boss doesn't want you to! Made for the Patch Notes game jam.",
+          "cover": "https://img.itch.zone/aW1nLzIzMTcyNTg1LnBuZw==/300x240%23c/xVYuVw.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 3884277,
+          "cover_color": "#000000",
+          "user": {
+            "name": "Kart Camp IX",
+            "url": "https://kart-camp-ix.itch.io",
+            "id": 14857602
+          },
+          "url": "https://kart-camp-ix.itch.io/glitch-quest",
+          "title": "gl.itch quest"
+        },
+        "url": "/jam/patch-notes-v-1-0/rate/3884277",
+        "field_responses": [
+          "37077:2",
+          "38986:2"
+        ]
+      },
+      "details": {
+        "title": "gl.itch quest",
+        "description": "In gl.itch quest, find game-breaking bugs and use them to complete levels which you shouldn't be able to.\nCreated for the 2025 Patch Notes game jam.WASD or arrow keys to move, space or / to attack, and Esc or P to pause (surprisingly important!) ",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIzMTcyNTg1LnBuZw==/original/bv0iwa.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Kart Camp IX",
+          "Genre": "Puzzle",
+          "Made with": "Godot"
+        }
+      }
+    },
+    {
+      "gameId": 3882578,
+      "gameUrl": "https://nocturnalnemesis.itch.io/resized-reality",
+      "overallRank": 22,
+      "topCategories": [
+        "Innovation"
+      ],
+      "resultData": {
+        "id": 3882578,
+        "score": 3.7444444444444,
+        "cover_url": "https://img.itch.zone/aW1nLzIzMTY2NzMwLmdpZg==/300x240%23c/NKRAFH.gif",
+        "raw_score": 3.7444444444444,
+        "rating_count": 15,
+        "criteria": [
+          {
+            "name": "Art",
+            "score": 3.4666666666667,
+            "raw_score": 3.4666666666667,
+            "rank": 96
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.8,
+            "raw_score": 3.8,
+            "rank": 25
+          },
+          {
+            "name": "Sound Design",
+            "score": 3.1333333333333,
+            "raw_score": 3.1333333333333,
+            "rank": 96
+          },
+          {
+            "name": "Theme Integration",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 29
+          },
+          {
+            "name": "Innovation",
+            "score": 4.2,
+            "raw_score": 4.2,
+            "rank": 2
+          },
+          {
+            "name": "Fun Factor",
+            "score": 3.8666666666667,
+            "raw_score": 3.8666666666667,
+            "rank": 26
+          }
+        ],
+        "contributors": [
+          {
+            "name": "NocturnalNemesis",
+            "id": 3146275
+          },
+          {
+            "name": "BlackRaven9120",
+            "id": 740010
+          },
+          {
+            "name": "IWishMilkCookies",
+            "id": 5921501
+          },
+          {
+            "name": "minoarno",
+            "id": 2082060
+          },
+          {
+            "name": "peperinoplis",
+            "id": 4891482
+          }
+        ],
+        "url": "https://itch.io/jam/patch-notes-v-1-0/rate/3882578",
+        "rank": 22,
+        "title": "RESIZED REALITY"
+      },
+      "entryData": {
+        "coolness": 7,
+        "rating_count": 15,
+        "created_at": "2025-09-14 19:05:49",
+        "id": 764822,
+        "contributors": [
+          {
+            "name": "NocturnalNemesis",
+            "url": "https://nocturnalnemesis.itch.io"
+          },
+          {
+            "name": "BlackRaven9120",
+            "url": "https://blackraven9120.itch.io"
+          },
+          {
+            "name": "IWishMilkCookies",
+            "url": "https://iwishmilkcookies.itch.io"
+          },
+          {
+            "name": "minoarno",
+            "url": "https://apoppe.itch.io"
+          },
+          {
+            "name": "peperinoplis",
+            "url": "https://peperinoplis.itch.io"
+          }
+        ],
+        "game": {
+          "short_text": "The bug isn’t a just a feature — it’s the only way forward.",
+          "id": 3882578,
+          "user": {
+            "name": "NocturnalNemesis",
+            "url": "https://nocturnalnemesis.itch.io",
+            "id": 3146275
+          },
+          "url": "https://nocturnalnemesis.itch.io/resized-reality",
+          "cover": "https://img.itch.zone/aW1nLzIzMTY2NzMwLmdpZg==/300x240%23c/NKRAFH.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzIzMTY2NzMwLmdpZg==/original/aJD6j%2B.gif",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#232A5B",
+          "title": "RESIZED REALITY"
+        },
+        "url": "/jam/patch-notes-v-1-0/rate/3882578",
+        "field_responses": [
+          "37077:1",
+          "38986:2"
+        ]
+      },
+      "details": {
+        "title": "RESIZED REALITY",
+        "description": "Step into a neon-soaked cyberspace where reality is unstable, and every error is a hidden mechanic.\nIn Resized Reality, you’ll bend the rules of a 2D cyberpunk world by exploiting glitches, resizing windows, utilizing falling UI elements, and even phasing through walls.\nWhat begins as a system malfunction quickly becomes your greatest tool for survival.Solve platforming puzzles not by avoiding errors, but by embracing them.\n\n\nKEY FEATURES\n  Phase through walls to uncover hidden paths\n\nUI buttons fall and reshape the world around you\n\n \nResize the game window to manipulate the level itself\n\n\nCONTROLS\n  Arrow Keys / WASD → Move Space → Jump Mouse → Resize window & interact with UI\n\nCREDITS\n  Game Design & Programming: Aaron FransArno PoppeTom AlbrechtJonas BruylantAndrew (Music & SFX) Art/UI/Font Assets: GUI for Cyberpunk Pixel Art by Craftpix.netCyberpunk Characters Pixel Art by Craftpix.netIndustrial Zone Tileset Pixel Art by Craftpix.net\n\nINSTALLATION\n  Download the build for your system (Windows).\n   Extract and run the executable.\n   Or play directly in browser below!\n  \n\nJAM INFO\nThis game was created in Patch Notes game jam, under the theme “The Error is the Feature.”",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzg4MjU3OC8yMzE2Nzk5NC5wbmc=/original/eXMEsr.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4MjU3OC8yMzE2Nzk5My5wbmc=/original/fQcFCk.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4MjU3OC8yMzE2Nzk5Ni5wbmc=/original/MqB5Qo.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "NocturnalNemesis, BlackRaven9120, IWishMilkCookies, minoarno, peperinoplis",
+          "Genre": "Platformer, Puzzle",
+          "Tags": "bug, Cyberpunk, platform",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 3884310,
+      "gameUrl": "https://c4ndies.itch.io/its-u-and-i",
+      "overallRank": 30,
+      "topCategories": [
+        "Innovation"
+      ],
+      "resultData": {
+        "id": 3884310,
+        "score": 3.6984126984127,
+        "cover_url": "https://img.itch.zone/aW1nLzIzMTcyOTYwLnBuZw==/300x240%23c/uQhHRH.png",
+        "raw_score": 3.6984126984127,
+        "rating_count": 21,
+        "criteria": [
+          {
+            "name": "Art",
+            "score": 3.2857142857143,
+            "raw_score": 3.2857142857143,
+            "rank": 124
+          },
+          {
+            "name": "Gameplay",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 12
+          },
+          {
+            "name": "Sound Design",
+            "score": 2.8095238095238,
+            "raw_score": 2.8095238095238,
+            "rank": 144
+          },
+          {
+            "name": "Theme Integration",
+            "score": 4.047619047619,
+            "raw_score": 4.047619047619,
+            "rank": 28
+          },
+          {
+            "name": "Innovation",
+            "score": 4.0952380952381,
+            "raw_score": 4.0952380952381,
+            "rank": 6
+          },
+          {
+            "name": "Fun Factor",
+            "score": 3.952380952381,
+            "raw_score": 3.952380952381,
+            "rank": 15
+          }
+        ],
+        "contributors": [
+          {
+            "name": "c4ndies",
+            "id": 14660803
+          }
+        ],
+        "url": "https://itch.io/jam/patch-notes-v-1-0/rate/3884310",
+        "rank": 30,
+        "title": "Its U & I"
+      },
+      "entryData": {
+        "coolness": 16,
+        "rating_count": 21,
+        "created_at": "2025-09-15 02:36:36",
+        "id": 765174,
+        "game": {
+          "short_text": "when the bug in the code becomes a feature",
+          "cover": "https://img.itch.zone/aW1nLzIzMTcyOTYwLnBuZw==/300x240%23c/uQhHRH.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 3884310,
+          "cover_color": "#443e4a",
+          "user": {
+            "name": "c4ndies",
+            "url": "https://c4ndies.itch.io",
+            "id": 14660803
+          },
+          "url": "https://c4ndies.itch.io/its-u-and-i",
+          "title": "Its U & I"
+        },
+        "url": "/jam/patch-notes-v-1-0/rate/3884310",
+        "field_responses": [
+          "37077:2",
+          "38986:2"
+        ]
+      },
+      "details": {
+        "title": "Its U & I",
+        "description": "About:\nYou're an explorer that suddenly found yourself lost in the deep abandoned caves with nothing but a backpack that seems to have a unique power. Seeing the cliffs and terrain are too high for you to reach. In your despair you hear your backpack suddenly speak.. \nCan you make it out of the caves and return back to civilization?Credits:\n1-Bit Input Prompts Pixel 16x by Kenney - input prompt art assetsUI Pack - Pixel Adventure by Kenney - UI componentsTreasure Hunters Asset Pack by PixelFrog - terrain and various object assetsat01 Pixel Font by GrafxKid - pixel font\nAll other assets: character art, music, code are created from scratchGame Jam:Game made for the Indieformer Game Jam. Theme is: The Error is the feature. The idea is to think outside the box and make a feature out of what normally would be a bug or error. Given the 3 day time limit, I focused on one core feature and built the game mechanics out of it into a puzzle 2d platformer game. I leveraged an 'error' in the 'UI' hence the name U and I ;). Play for yourself and utilize the error to your advantage! \n\nPost Jam Updates:\n\nFixed a real(?) bug in the viewport sizing causing playability issues across different devices\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzg4NDMxMC8yMzE3Mjk2NS5wbmc=/original/kehxfa.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4NDMxMC8yMzIxODQzOS5wbmc=/original/wlKYlc.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4NDMxMC8yMzIxODQ0MC5wbmc=/original/4EWwVb.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4NDMxMC8yMzIxODQ0NC5wbmc=/original/GFdh5k.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "c4ndies",
+          "Genre": "Puzzle, Platformer",
+          "Made with": "Godot",
+          "Tags": "2D, Pixel Art, Short"
+        }
+      }
+    },
+    {
+      "gameId": 3882920,
+      "gameUrl": "https://jidosc.itch.io/bugger",
+      "overallRank": 15,
+      "topCategories": [
+        "Innovation"
+      ],
+      "resultData": {
+        "id": 3882920,
+        "score": 3.8205128205128,
+        "cover_url": "https://img.itch.zone/aW1nLzIzMTY5MjgyLnBuZw==/300x240%23c/kMOWKi.png",
+        "raw_score": 3.8205128205128,
+        "rating_count": 13,
+        "criteria": [
+          {
+            "name": "Art",
+            "score": 3.6923076923077,
+            "raw_score": 3.6923076923077,
+            "rank": 66
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.8461538461538,
+            "raw_score": 3.8461538461538,
+            "rank": 21
+          },
+          {
+            "name": "Sound Design",
+            "score": 3.6153846153846,
+            "raw_score": 3.6153846153846,
+            "rank": 31
+          },
+          {
+            "name": "Theme Integration",
+            "score": 4.3076923076923,
+            "raw_score": 4.3076923076923,
+            "rank": 12
+          },
+          {
+            "name": "Innovation",
+            "score": 4.0769230769231,
+            "raw_score": 4.0769230769231,
+            "rank": 8
+          },
+          {
+            "name": "Fun Factor",
+            "score": 3.3846153846154,
+            "raw_score": 3.3846153846154,
+            "rank": 69
+          }
+        ],
+        "contributors": [
+          {
+            "name": "jidosc",
+            "id": 3102092
+          },
+          {
+            "name": "Kesomannen",
+            "id": 6816649
+          }
+        ],
+        "url": "https://itch.io/jam/patch-notes-v-1-0/rate/3882920",
+        "rank": 15,
+        "title": "Bugger"
+      },
+      "entryData": {
+        "coolness": 7,
+        "rating_count": 13,
+        "created_at": "2025-09-14 19:07:38",
+        "id": 764823,
+        "contributors": [
+          {
+            "name": "jidosc",
+            "url": "https://jidosc.itch.io"
+          },
+          {
+            "name": "Kesomannen",
+            "url": "https://kesomannen69.itch.io"
+          }
+        ],
+        "game": {
+          "short_text": "Control 2 bugs and complete the platformer.",
+          "cover": "https://img.itch.zone/aW1nLzIzMTY5MjgyLnBuZw==/300x240%23c/kMOWKi.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 3882920,
+          "cover_color": "#00320a",
+          "user": {
+            "name": "jidosc",
+            "url": "https://jidosc.itch.io",
+            "id": 3102092
+          },
+          "url": "https://jidosc.itch.io/bugger",
+          "title": "Bugger"
+        },
+        "url": "/jam/patch-notes-v-1-0/rate/3882920",
+        "field_responses": [
+          "37077:2",
+          "38986:2"
+        ]
+      },
+      "details": {
+        "title": "Bugger",
+        "description": "Take control of a little critter and, with the help of an infiltrating beetle, cause errors in the game's code in order to progress through platforming challenges.\nMade in three days for the Patch Notes Game Jam 2025\nControls\nMove: A/DJump: SpaceReset: R\nCredits\njidosc - art and codeKesomannen - level design and code\nMusic from #Uppbeat (free for Creators!):https://uppbeat.io/t/danijel-zambo/game-overLicense code: IYZXFLH1JHABANBZ\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzg4MjkyMC8yMzE2NjAyOC5wbmc=/original/UQllOu.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4MjkyMC8yMzE2NjAzMC5wbmc=/original/bk%2BL9k.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4MjkyMC8yMzE2NjAyOS5wbmc=/original/MBS4CB.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Authors": "jidosc, Kesomannen",
+          "Genre": "Platformer",
+          "Made with": "Godot",
+          "Tags": "2D"
+        }
+      }
+    },
+    {
+      "gameId": 3881851,
+      "gameUrl": "https://ventura.itch.io/flawed-heist",
+      "overallRank": 26,
+      "topCategories": [
+        "Innovation"
+      ],
+      "resultData": {
+        "id": 3881851,
+        "score": 3.7261904761905,
+        "cover_url": "https://img.itch.zone/aW1nLzIzMTU5ODU1LnBuZw==/300x240%23c/V4F4O9.png",
+        "raw_score": 3.7261904761905,
+        "rating_count": 14,
+        "criteria": [
+          {
+            "name": "Art",
+            "score": 4.0714285714286,
+            "raw_score": 4.0714285714286,
+            "rank": 26
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.7142857142857,
+            "raw_score": 3.7142857142857,
+            "rank": 33
+          },
+          {
+            "name": "Sound Design",
+            "score": 3,
+            "raw_score": 3,
+            "rank": 111
+          },
+          {
+            "name": "Theme Integration",
+            "score": 3.7857142857143,
+            "raw_score": 3.7857142857143,
+            "rank": 47
+          },
+          {
+            "name": "Innovation",
+            "score": 4.0714285714286,
+            "raw_score": 4.0714285714286,
+            "rank": 9
+          },
+          {
+            "name": "Fun Factor",
+            "score": 3.7142857142857,
+            "raw_score": 3.7142857142857,
+            "rank": 32
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Ventura",
+            "id": 14417193
+          },
+          {
+            "name": "Xeight",
+            "id": 2071778
+          }
+        ],
+        "url": "https://itch.io/jam/patch-notes-v-1-0/rate/3881851",
+        "rank": 26,
+        "title": "Flawed Heist"
+      },
+      "entryData": {
+        "coolness": 12,
+        "rating_count": 14,
+        "created_at": "2025-09-14 20:22:38",
+        "id": 764864,
+        "contributors": [
+          {
+            "name": "Ventura",
+            "url": "https://ventura.itch.io"
+          },
+          {
+            "name": "Xeight",
+            "url": "https://x8c8r.itch.io"
+          }
+        ],
+        "game": {
+          "short_text": "Infiltrate a bank with the help of a god-like NPC",
+          "cover": "https://img.itch.zone/aW1nLzIzMTU5ODU1LnBuZw==/300x240%23c/V4F4O9.png",
+          "platforms": [
+            "windows",
+            "linux",
+            "web"
+          ],
+          "id": 3881851,
+          "cover_color": "#eeeeee",
+          "user": {
+            "name": "Ventura",
+            "url": "https://ventura.itch.io",
+            "id": 14417193
+          },
+          "url": "https://ventura.itch.io/flawed-heist",
+          "title": "Flawed Heist"
+        },
+        "url": "/jam/patch-notes-v-1-0/rate/3881851",
+        "field_responses": [
+          "37077:2",
+          "38986:2"
+        ]
+      },
+      "details": {
+        "title": "Flawed Heist",
+        "description": "\nREAD BEFORE PLAYING!\nThis game is a submission to the Patch Notes Game Jam, with the theme \"The Error Is the Feature\".\n\n-Fullscreen and Windows version is recommended-\n\n\n\nHOW TO PLAY\nYou are a Game Tester, tasked with testing a game about breaking into a vault. All you have to do - Is break in, steal a valuable object, and get out without being spotted by the guards.\nUnfortunately, the developers are quite bad at managing, leading to them constantly overwriting each other's changes and making the game unplayable.\nLuckily for you - The developers added a companion, who they may have left in to train for a bit too long, leading to them becoming acutely aware of the game's code. Also luckily - You have a terminal which you can use to communicate with them, and ask for boons to help you beat the levels.\n\n\nCONTROLS\nA, D  and  ARROW KEYS\nMove\nSPACE, W and UP ARROWJumpENTERTerminalESCPauseR\nRestart\n\nCredits\nMusic by Dave758https://itch.io/profile/dave758Code, Design and SFX by x8c8rhttps://x8c8r.itch.io/\nArt by Venturahttps://itch.io/profile/jesuslvsu\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzg4MTg1MS8yMzE2Njk5NC5wbmc=/original/ejOC%2FR.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, Linux",
+          "Authors": "Ventura, Xeight",
+          "Genre": "Platformer, Strategy",
+          "Made with": "Aseprite, Godot",
+          "Tags": "2D, Experimental, Godot, Heist, immersive-sim, Pixel Art, Puzzle-Platformer, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 3881508,
+      "gameUrl": "https://03c0.itch.io/oculohedron",
+      "overallRank": 159,
+      "topCategories": [
+        "Innovation"
+      ],
+      "resultData": {
+        "id": 3881508,
+        "score": 2.8125,
+        "cover_url": "https://img.itch.zone/aW1nLzIzMTU4MTk1LnBuZw==/300x240%23c/GeCGj9.png",
+        "raw_score": 2.8125,
+        "rating_count": 16,
+        "criteria": [
+          {
+            "name": "Art",
+            "score": 2.5,
+            "raw_score": 2.5,
+            "rank": 238
+          },
+          {
+            "name": "Gameplay",
+            "score": 3,
+            "raw_score": 3,
+            "rank": 118
+          },
+          {
+            "name": "Sound Design",
+            "score": 2.1875,
+            "raw_score": 2.1875,
+            "rank": 234
+          },
+          {
+            "name": "Theme Integration",
+            "score": 2.4375,
+            "raw_score": 2.4375,
+            "rank": 245
+          },
+          {
+            "name": "Innovation",
+            "score": 4.0625,
+            "raw_score": 4.0625,
+            "rank": 10
+          },
+          {
+            "name": "Fun Factor",
+            "score": 2.6875,
+            "raw_score": 2.6875,
+            "rank": 170
+          }
+        ],
+        "contributors": [
+          {
+            "name": "03c0",
+            "id": 14829256
+          }
+        ],
+        "url": "https://itch.io/jam/patch-notes-v-1-0/rate/3881508",
+        "rank": 159,
+        "title": "Oculohedron"
+      },
+      "entryData": {
+        "coolness": 13,
+        "rating_count": 16,
+        "created_at": "2025-09-15 06:37:25",
+        "id": 765378,
+        "game": {
+          "short_text": "You wake up in the calibration room. Every blink alters the space. This was never just a test.",
+          "cover": "https://img.itch.zone/aW1nLzIzMTU4MTk1LnBuZw==/300x240%23c/GeCGj9.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 3881508,
+          "cover_color": "#fff3b1",
+          "user": {
+            "name": "03c0",
+            "url": "https://03c0.itch.io",
+            "id": 14829256
+          },
+          "url": "https://03c0.itch.io/oculohedron",
+          "title": "Oculohedron"
+        },
+        "url": "/jam/patch-notes-v-1-0/rate/3881508",
+        "field_responses": [
+          "37077:2",
+          "38986:2"
+        ]
+      },
+      "details": {
+        "title": "Oculohedron",
+        "description": "A perception-driven labyrinth where reality bends with every blink.\nBrink through the hoops....and mysterious lights?\n🎮 Controls\n  WASD – Move\n   Shift + WASD – Sprint\n   Space – JumpC – Crouch\nBlink – Detected through your webcam (or press B if no webcam is available)\n\nHINT: If you don't have a webcam or do not like to blink often, press B when you feel lost! Also, blinking near the lights take you to the next level.\nAdditional keys can be rebound through the in-game options menu.\nIn Oculohedron, perception isn't just a theme:  it's your tool, your weapon, and your undoing.\nNavigate shifting rooms, solve blink-sensitive puzzles, and uncover a space that responds to how (and when) you see it. Every mechanic ties into a single idea: what if space itself had an opinion about you?\n \nHeads up: This game uses your webcam ONLY LOCALLY to detect blinking.\n\nNo uploads, no cloud, no funny business. You can even run it in airplane mode or yank the internet cord for extra peace of mind.\n\nI’ve poured a ton of love, weird ideas, and late-night tinkering into this prototype.\n\nIf you give it a try, blink your way through the madness, and maybe leave a comment after?\n\nI'd seriously love to hear what broke, what worked, or if anything made you go \"Oh!\"\n\n\nWindows\n  Download and unzip the folder.\n   Run blinkd.exe (this enables blink detection).\n   Launch the game .exe file.\n  Both programs must stay open while playing.\n    All required DLLs are already included (x86_64) - no extra installs needed.\n  \nWeb\n  Just run in your browser.\n   Allow webcam access when prompted: it's used for blink detection.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzg4MTUwOC8yMzE3NjAyMy5wbmc=/original/U6Meo8.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4MTUwOC8yMzE3NjAyNC5wbmc=/original/8tnNqI.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4MTUwOC8yMzE3NjAyNy5wbmc=/original/ueOPmt.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4MTUwOC8yMzE4MDI2Ny5wbmc=/original/VWqrZC.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows",
+          "Author": "03c0",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "3D"
+        }
+      }
+    },
+    {
+      "gameId": 3883052,
+      "gameUrl": "https://unnamedcollective.itch.io/retriggered",
+      "overallRank": 10,
+      "topCategories": [
+        "Fun Factor"
+      ],
+      "resultData": {
+        "id": 3883052,
+        "score": 3.8819444444444,
+        "cover_url": "https://img.itch.zone/aW1nLzIzMTcxMDYyLmdpZg==/300x240%23c/YmXXdB.gif",
+        "raw_score": 3.8819444444444,
+        "rating_count": 24,
+        "criteria": [
+          {
+            "name": "Indieformer Pick",
+            "score": 0,
+            "raw_score": 0,
+            "rank": 1
+          },
+          {
+            "name": "Art",
+            "score": 4.2916666666667,
+            "raw_score": 4.2916666666667,
+            "rank": 11
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.875,
+            "raw_score": 3.875,
+            "rank": 18
+          },
+          {
+            "name": "Sound Design",
+            "score": 3.625,
+            "raw_score": 3.625,
+            "rank": 29
+          },
+          {
+            "name": "Theme Integration",
+            "score": 3.75,
+            "raw_score": 3.75,
+            "rank": 52
+          },
+          {
+            "name": "Innovation",
+            "score": 3.7083333333333,
+            "raw_score": 3.7083333333333,
+            "rank": 32
+          },
+          {
+            "name": "Fun Factor",
+            "score": 4.0416666666667,
+            "raw_score": 4.0416666666667,
+            "rank": 10
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Temporarily Unnamed Collective",
+            "id": 974403
+          }
+        ],
+        "url": "https://itch.io/jam/patch-notes-v-1-0/rate/3883052",
+        "rank": 10,
+        "title": "Retriggered"
+      },
+      "entryData": {
+        "coolness": 20,
+        "rating_count": 24,
+        "created_at": "2025-09-14 22:46:14",
+        "id": 765009,
+        "game": {
+          "gif_cover": "https://img.itch.zone/aW1nLzIzMTcxMDYyLmdpZg==/original/miFHGn.gif",
+          "cover": "https://img.itch.zone/aW1nLzIzMTcxMDYyLmdpZg==/300x240%23c/YmXXdB.gif",
+          "cover_color": "#eeeeee",
+          "id": 3883052,
+          "platforms": [
+            "windows",
+            "linux"
+          ],
+          "user": {
+            "name": "Temporarily Unnamed Collective",
+            "url": "https://unnamedcollective.itch.io",
+            "id": 974403
+          },
+          "url": "https://unnamedcollective.itch.io/retriggered",
+          "title": "Retriggered"
+        },
+        "url": "/jam/patch-notes-v-1-0/rate/3883052",
+        "field_responses": [
+          "37077:2",
+          "38986:2"
+        ]
+      },
+      "details": {
+        "title": "Retriggered",
+        "description": "The bullets you fired won't destroy on hit as it should due to a bug?That's a feature!Shoot them again and watch your true powers unfold.\nMade in 72h for Patch Notes Jam by Constantin\nControls\n\n    \n    \n        Left ClickFire Bullet\n        Right ClickPause\n        Mouse ScrollSelect Bullet\n        WASDMove\n    \n\nPost Jam changes\nBetter enemy health scalingClearer selected bullet indicatorFixed a bug with the Hand Size upgrade",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzg4MzA1Mi8yMzE3MDg4MS5wbmc=/original/dRSsi0.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4MzA1Mi8yMzE3MDg4NC5wbmc=/original/gLDOia.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4MzA1Mi8yMzE3MDg4Mi5wbmc=/original/1HmuQc.png",
+          "https://img.itch.zone/aW1hZ2UvMzg4MzA1Mi8yMzE3MDg4My5wbmc=/original/76xHqx.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, Linux",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Temporarily Unnamed Collective",
+          "Genre": "Action",
+          "Tags": "3D, Colorful, Deck Building, Minimalist, Roguelike, Roguelite, Survivor-like"
+        }
+      }
+    }
+  ]
+}

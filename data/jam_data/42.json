@@ -1,0 +1,283 @@
+{
+  "n": 42,
+  "name": "Pirate Software - Game Jam 17",
+  "url": "https://itch.io/jam/pirate17",
+  "theme": "Only One",
+  "slug": "pirate17",
+  "jamMeta": {
+    "jamType": "ongoing",
+    "joined": "",
+    "entries": "412",
+    "title": "Pirate Software - Game Jam 17",
+    "jamURL": "https://itch.io/jam/pirate17",
+    "hosts": {
+      "Pirate Software": "https://piratesoftware.itch.io",
+      "#PirateJam": "https://bsky.app/hashtag/PirateJam"
+    },
+    "jamID": "403948"
+  },
+  "totalEntries": 400,
+  "ranked": true,
+  "hasCategories": false,
+  "needsManualSelection": false,
+  "categories": [],
+  "topGames": [
+    {
+      "gameId": null,
+      "gameUrl": "https://mauiimakesgames.itch.io/one-pop-planet",
+      "overallRank": 1,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "One Pop Planet",
+        "description": "MAJOR UPDATE 0.03 - Weather has arrived! -\nMeteor and Ice storms can now trigger upon reaching a high enough level.Updates to effects, level scaling, point system, controls, main menu, game logo, and probably a bunch of other things I can't remember.\nOne planet,One buttonFour directions!\nAn escalating puzzle game inspired by games such as Wetrix, Puyo Puyo, and Tetris, where the pieces fall from all four directions. Match sun, water, and earth to feed your planet and explore the galaxy!\n\nFIRST PLACE IN THE PIRATE SOFTWARE GAME JAM 17Game Jam iteration consists of base matching  puzzle mechanics, with more mechanisms in mind, such as disasters and  environments like black holes, freezing pieces, and more. With the  potential to expand with other modes including Multiplayer, Challenge  stages, and more!\n    \nGame Design Doc\n\nCONTROLS:\n\nSpacebar: Fire pieces(NOTE: Pieces bounce back and forth, so you can wait and fire when ready. They do speed up though!)\nCREDITS:Programming / Design / Pixel Art / SoundmauiimakesgamesLyndon Patrick CullenWith music from Ovani Sound\n\nPROGRAMS:Programming - GDevelopPixel Art - AsepriteSound - JFXR\n\nKNOWN ISSUES:- Menus requires a mouse for now, sorry! -- Music skips on first loop during combos -- Onboarding is minimal, note that launchers bounce back and forth so you can wait for the right shot if you need. They do speed up though! -- Menu transition triggered automatically for some players -- Please comment if you find bugs, cheers! -",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzc2MjY3Mi8yMjM5OTMxMC5qcGc=/original/YKUx8t.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzc2MjY3Mi8yMjM5OTMxMi5qcGc=/original/GS3Zp6.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzc2MjY3Mi8yMjM5OTMxMS5qcGc=/original/yfO%2BtM.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzc2MjY3Mi8yMzcyNTQ1MS5wbmc=/original/E1J6li.png",
+          "https://img.itch.zone/aW1hZ2UvMzc2MjY3Mi8yMzcyNTQ1MC5wbmc=/original/dfNJoq.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.8 out of 5 stars(5 total ratings)",
+          "Author": "Mauii Makes Games",
+          "Genre": "Puzzle",
+          "Made with": "GDevelop",
+          "Tags": "jam, Tetris"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://scheifen.itch.io/bright-veil",
+      "overallRank": 2,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "Bright Veil - Jam Version",
+        "description": "To anyone still interested, I've got a working prototype of the game up now! Its less \"complete\" and self-contained than this Jam version, but more of the vibe I am going for with the game overall. https://scheifen.itch.io/bright-veil-alpha A sole survival game in one color. \nSeek shelter and fires to keep warm. If your temperature (top left) drops too low, you'll start taking damage. \nMove with arrow keys or WASD. Interact with E or Space, and use the mouse wheel or W/S to navigate interact options. Press ESC to exit interact options. \nBe careful though— Along with the overnight end of summer, there's been rumors of people disappearing in the snow. \nhttps://docs.google.com/document/d/1EOB5cUPwJdmMPZv2yo-E_3ZSzIM55Iq-lflnsanOz1c/...\n--------------\nThank you to everyone who played from the jam! \n\nI plan to keep working on this project, but the second week of the jam work picked up so I took shortcuts to finish on time. Before expanding on the game, there are lots of shortcuts to undo and fixes to make. \n\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIyMzkxMDcyLnBuZw==/original/57u4bV.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Author": "Scheifen",
+          "Genre": "Survival"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://malfet.itch.io/square-one",
+      "overallRank": 3,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "Back to square one",
+        "description": "It's a simple game, you move around stuff and get all tiles to show ones.\nThere are 30 levels in the game, and it should take about 30 to 60 minutes to finish everything.There is a level editor, so feel free to share your levels with others!\nas a quick note, this is my first game.",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIyMzQwODIwLnBuZw==/original/ZcL2KN.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.7 out of 5 stars(12 total ratings)",
+          "Author": "Malfet",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "2D, No AI, Short, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://neqdos.itch.io/world-break",
+      "overallRank": 4,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "World Break",
+        "description": "World Break is a puzzle-adventure game where you have only one  minute before the world breaks. Collect items, traverse the map, reach  the core and fix the time loop.\nThe game was made for Pirate Software - Game Jam 17.\n    \nIt is recommended to play without fullscreen (due to weird game resolution).\n\n\n\nMusic was made by Pixelated\nArt was made by Cherry\n    \nProgramming and game design by Neqdos\n\n\n    \nControls:\nWASD / Arrow keysMovingSpace  / EnterUsing Items, ActionEInteractR (hold)RestartGDrop ItemESC  / TABPause Menu\nGame is also compatible with a controller (except some of the UI)\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzc2Njk3OC8yMjQyMDg3OS5wbmc=/original/KoZK2o.png",
+          "https://img.itch.zone/aW1hZ2UvMzc2Njk3OC8yMjQyMDg4MC5wbmc=/original/TOUcYg.png",
+          "https://img.itch.zone/aW1hZ2UvMzc2Njk3OC8yMjQyMDg4Mi5wbmc=/original/m2lkTc.png",
+          "https://img.itch.zone/aW1hZ2UvMzc2Njk3OC8yMjQyMDg4My5wbmc=/original/L6olxX.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "Nekudo, cherry, pixelated",
+          "Genre": "Puzzle, Adventure, Role Playing",
+          "Made with": "Aseprite, Godot, Renoise",
+          "Tags": "2D, Godot, Indie, No AI, Pixel Art, Retro, Singleplayer",
+          "Average session": "About an hour",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://jcanabal.itch.io/only-one-dollar",
+      "overallRank": 5,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "Only One Dollar",
+        "description": "Only One Dollar\" is a decision-based puzzle adventure where you play as a homeless person trying to survive. Each decision can lead you to a different ending, just like in real life. You are guaranteed only one dollar per day from someone who looks after you. Will you survive, or will you die?\nThis is my participation for the Pirate Software - Game Jam 17\nControls\nArrow Keys / WASD - Movement\n1 2 3 4 - Inventory access\nE - Main interactions\nSpace - Specific actions\n Credits \nArt, game design and programming made by meSoundeffects from Freesound (CreativeCommon0) and mofified also by me\n\nPD: Due to the lack of time, many ideas had to be reduced or cut entirely. I’d like to revisit and expand on them in the future. Please keep that in mind if the game feels overly simple at first glance.\nKnown Bugs\nOn Friday, the game will be locked. Sorry for the inconvenience. Anyway, the game's end can be reached before that.There is a also another bug related to the state machine that can make the player static after waking up or showing the player awake with the \"wake-up\" action active. This usually happens when a talk command is triggered while sleeping.Some users can experience high-frequency clicking sounds during conversations\n\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzc2MDUzNi8yMjUxNDQ1NS5wbmc=/original/j6LiL9.png",
+          "https://img.itch.zone/aW1hZ2UvMzc2MDUzNi8yMjQxODc0Ni5wbmc=/original/PdARww.png",
+          "https://img.itch.zone/aW1hZ2UvMzc2MDUzNi8yMjQxODc0NC5wbmc=/original/Cb8xNe.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Author": "jcanabal",
+          "Genre": "Adventure, Puzzle, Survival",
+          "Made with": "Godot",
+          "Tags": "homeless, jam, Pixel Art"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://moonkey1.itch.io/staff-only-2",
+      "overallRank": 6,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "Fearsome Five - A Staff Only Adventure",
+        "description": "\nGame Overview:The Fearsome Five: Krosh the Orc Warriror, Snorbo the Gnome Wizard, Bramble the Satyr Trapper,  George the Elf Ranger, and Fizzwick the Human Alchemist.They are the strongest of the land, hired to take out the greedy Goblin King once and for all!\n\n\n.... Or not?\nControls:Middle MB / WASD / cursor to edge of screen  to pan\nScroll for zoom\nLeft Click  to move / commit card\nSpacebar to snap back to Staff\nBakcspace / Delete / Right MB to deselect card\n\nGame made by:Moonkey - Programming / The MachineCraftglu - Artist / PrinterLochie - All-rounder / Baby Daddy\nRyria - Programming / Busy boyOnionSkin - Animation /  Mob Boss\nMusic:\"Adventures in Adventureland\", \"Circus of Freaks\", \"Fuzzball Parade\", \"Our Story Begins\", and \"Farting Around\" by Kevin MacLeod (incompetech.com)Licensed under Creative Commons: By Attribution 4.0 Licensehttp://creativecommons.org/licenses/by/4.0/\n\"Melodic Mayhem\" sound bundle and pixabay.com.\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzc0NjU1My8yMjM5Njg4MS5wbmc=/original/iJ%2FYUB.png",
+          "https://img.itch.zone/aW1hZ2UvMzc0NjU1My8yMjM5Njg4My5wbmc=/original/bnrJ0p.png",
+          "https://img.itch.zone/aW1hZ2UvMzc0NjU1My8yMjM5NjEwMy5naWY=/original/TGxaMB.gif",
+          "https://img.itch.zone/aW1hZ2UvMzc0NjU1My8yMjM5NjEwNC5naWY=/original/i0ljkj.gif",
+          "https://img.itch.zone/aW1hZ2UvMzc0NjU1My8yMjM5Njg2MS5naWY=/original/nINh%2Fl.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(4 total ratings)",
+          "Authors": "Moonkey1, Colin136, Lochie, craftglu, Ryria",
+          "Genre": "Strategy, Card Game",
+          "Made with": "Godot",
+          "Tags": "Tactical, Tactical RPG",
+          "Average session": "A few minutes",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://voirax.itch.io/press-one-to-confirm",
+      "overallRank": 7,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "Press One To Confirm",
+        "description": "Press One To Confirm is a plot oriented game about being stuck in space with weird things happening around you\n\nControlls:\nMouse - moving and interacting with objectsC key - skipping dialogue\n\nMade With:\nGodot 4.4.1Fl Studio 2024KritaAsepriteBlender 4.4\n\n\nSubmission for Pirate Software - Game Jam 17",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzc0ODYxNS8yMjQxNzYxMi5wbmc=/original/Ab83jq.png",
+          "https://img.itch.zone/aW1hZ2UvMzc0ODYxNS8yMjQxNzYxMS5wbmc=/original/Ip%2FGK9.png",
+          "https://img.itch.zone/aW1hZ2UvMzc0ODYxNS8yMjQxNzYxMy5wbmc=/original/pYhRNi.png",
+          "https://img.itch.zone/aW1hZ2UvMzc0ODYxNS8yMjQxNzYxNC5wbmc=/original/KjlDx6.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Author": "Voirax",
+          "Genre": "Role Playing",
+          "Made with": "Godot"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://yourfavoritedm.itch.io/one-last-job",
+      "overallRank": 8,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "One Last Job",
+        "description": "UPDATE 1\n \n🏆 Leaderboards Added Your crew number and remaining time are now recorded for all to see. Think you can pull off the fastest escape?\n \n🖥️ Aspect Ratio Fixes Resolved an issue where the game window wouldn’t resize correctly on different screen resolutions and browsers.\n \n⚙️ Performance Improvements The game runs slightly smoother in browser. More optimization passes are planned for future builds.\n \n📜 Story Text Refined The opening narration has been reworked for better pacing, tone, and consistency.\n \n💰 Reduced Loot Requirement You’ll now need a little less cash to make your getaway — reduced from $100,000 to $90,000.\n\n\n---------------------------------------------------------------------------------------\nOne Last Job is a stealth heist game with a slight complication: you can only communicate with your crew using a single button.\nTap [SPACEBAR] to turn right.\nHold [SPACEBAR] to stop moving.\nGuide your crew through an art museum full of valuable loot, patrolling guards, and tight timing. You’ve got five minutes to grab enough loot to make the job worth it and get to the van before the alarm triggers. Only one button. Only one shot.\n---------------------------------------------------------------------------------------\nCreated by YourFavoriteDM for the 2025 Pirate Software Game Jam 17. [ WINNING 8TH PLACE ]\n\n---------------------------------------------------------------------------------------\n\nChiptune Heist Music by Bertsz --https://freesound.org/s/545454/ -- License: Creative Commons 0\nGame Design Document https://docs.google.com/document/d/1mTg0P4Ds59lKVHGDoMxvY8hwOJr3MbMHYkIC5Qs4mQQ/edit?usp=sharing",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzc1OTUyOS8yMjM5MjE0OC5wbmc=/original/WL%2F%2F3B.png",
+          "https://img.itch.zone/aW1hZ2UvMzc1OTUyOS8yMjM5MjE1MC5wbmc=/original/Iyi08V.png",
+          "https://img.itch.zone/aW1hZ2UvMzc1OTUyOS8yMjM5MjE1Mi5wbmc=/original/1Nyvsw.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(3 total ratings)",
+          "Author": "YourFavoriteDM",
+          "Made with": "Godot",
+          "Tags": "Heist, High Score, My First Game Jam, one-button, Singleplayer, Speedrun, Stealth"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://fechobab.itch.io/just-one-1-bit-game",
+      "overallRank": 9,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "Just One 1-Bit Game",
+        "description": "\nJust One 1-Bit Game is a combination of a puzzle and a precision mini-game.\nThere is ONLY ONE simple game for you to beat, BUT once you beat it, you need to beat it again, and this time inputs are taken from the game you just beat.\nYou can enter fullscreen mode by pressing button in bottom-right corner.\nThe game consists of a total of 7 levels.\n\nControls (the game also supports controller inputs):\n\nHold LMB / Space / 'A' button on controller - Increase motivation (move slider handle up)\nWASD / Arrow keys / Left stick on controller - Move character\nR / 'Select' button on controller - Restart current level\n\n\nDeveloped for Pirate Software - Game Jam 17. The game got into the top 10 games of the jam.\n\n\nGame by Fechobab\nAdditional assets by Ansdor, Lazy Fox, Dani Maccari\nBGM by Yuli, Yosuke Matsuura and Noru from https://dova-s.jp/EN/\n\nNote: The Windows version of the game differs slightly from the web version due to limitations of the game engine. The Windows version is the intended way to play the game, but the web version is also really close to that experience.",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIyNDA2ODIwLnBuZw==/original/TDAIdp.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Author": "fechobab",
+          "Genre": "Puzzle",
+          "Made with": "GameMaker",
+          "Tags": "1-bit, minigames, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://gogoio123.itch.io/one-hp",
+      "overallRank": 10,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "One HP",
+        "description": "https://store.steampowered.com/app/3928970/ParryMaster/We officially released the full version of the game on steam!There is also a demo, so you should try the demo first---One hp, one button, one skill game.\nPress ANY key to activate shield.\nUpgrade to survive.\n(Recommend to adjust the screen scale a bit like 70%)\nGDD: https://docs.google.com/document/d/141NFRsRb5hbUBw_Om_rUqQpeAD9S-nkNzK8Q0O2fJUY/...",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzc1MDUzNS8yMjMzNDY3OS5wbmc=/original/99EogQ.png",
+          "https://img.itch.zone/aW1hZ2UvMzc1MDUzNS8yMjMzNDY5MC5wbmc=/original/OU3GWI.png",
+          "https://img.itch.zone/aW1hZ2UvMzc1MDUzNS8yMjMzNDY4MS5wbmc=/original/lx%2Fxao.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.4 out of 5 stars(13 total ratings)",
+          "Author": "gogoio123",
+          "Genre": "Survival",
+          "Made with": "Unity",
+          "Tags": "Incremental, Roguelite, Tower Defense"
+        }
+      }
+    }
+  ]
+}

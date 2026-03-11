@@ -1,0 +1,4266 @@
+{
+  "n": 20,
+  "name": "Game Off 2021",
+  "url": "https://itch.io/jam/game-off-2021",
+  "theme": "BUG",
+  "slug": "game-off-2021",
+  "jamMeta": {
+    "jamType": "ended",
+    "ratings": "6,335",
+    "entries": "502",
+    "title": "Game Off 2021",
+    "jamURL": "https://itch.io/jam/game-off-2021",
+    "hosts": {
+      "GitHub": "https://github.itch.io",
+      "Lee Reilly": "https://leereilly.itch.io",
+      "#GitHubGameOff": "https://bsky.app/hashtag/GitHubGameOff"
+    },
+    "jamID": "264680"
+  },
+  "totalEntries": 488,
+  "ranked": true,
+  "hasCategories": true,
+  "needsManualSelection": false,
+  "categories": [
+    "Overall",
+    "Gameplay",
+    "Graphics",
+    "Audio",
+    "Theme interpretation",
+    "Innovation"
+  ],
+  "topGames": [
+    {
+      "gameId": 1299219,
+      "gameUrl": "https://anttihaavikko.itch.io/domino",
+      "overallRank": 1,
+      "topCategories": [
+        "Overall",
+        "Gameplay",
+        "Graphics",
+        "Audio",
+        "Innovation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "anttihaavikko",
+            "id": 194445
+          }
+        ],
+        "rank": 1,
+        "url": "https://itch.io/jam/game-off-2021/rate/1299219",
+        "title": "do;MIN(0)",
+        "rating_count": 32,
+        "raw_score": 4.5625,
+        "cover_url": "https://img.itch.zone/aW1nLzc1NTc1MzQuZ2lm/300x240%23c/peAdm4.gif",
+        "score": 4.5625,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 4.5625,
+            "rank": 1,
+            "raw_score": 4.5625
+          },
+          {
+            "name": "Gameplay",
+            "score": 4.5625,
+            "rank": 1,
+            "raw_score": 4.5625
+          },
+          {
+            "name": "Graphics",
+            "score": 4.5,
+            "rank": 7,
+            "raw_score": 4.5
+          },
+          {
+            "name": "Audio",
+            "score": 4.375,
+            "rank": 2,
+            "raw_score": 4.375
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 4,
+            "rank": 46,
+            "raw_score": 4
+          },
+          {
+            "name": "Innovation",
+            "score": 4.5,
+            "rank": 3,
+            "raw_score": 4.5
+          }
+        ],
+        "id": 1299219
+      },
+      "entryData": {
+        "created_at": "2021-11-30 16:59:53",
+        "id": 272975,
+        "url": "/jam/game-off-2021/rate/1299219",
+        "game": {
+          "title": "do;MIN(0)",
+          "cover": "https://img.itch.zone/aW1nLzc1NTc1MzQuZ2lm/300x240%23c/peAdm4.gif",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "id": 1299219,
+          "url": "https://anttihaavikko.itch.io/domino",
+          "cover_color": "#000000",
+          "gif_cover": "https://img.itch.zone/aW1nLzc1NTc1MzQuZ2lm/original/dD4gcT.gif",
+          "user": {
+            "url": "https://anttihaavikko.itch.io",
+            "name": "anttihaavikko",
+            "id": 194445
+          }
+        },
+        "coolness": 3,
+        "rating_count": 32
+      },
+      "details": {
+        "title": "do;MIN(0)",
+        "description": "Start with a deck of just few simple cards and proceed to use it to beat stages by placing the cards on the field so that the pips connect. After each beaten stage you can not only pick a new additional card to add to your deck but also one of the presented special code injections that affect how the game will play out.\nYou can then continue going on until you can't beat the par score of the stage anymore. How high can you climb on the online leaderboards?\nMade for GitHub Game Off 2021 during November 2021 using the following tools:\n- Unity 2021.1- Inkscape- krita- Garage Band- Audacity",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTI5OTIxOS83NTU3NDg1LmpwZw==/original/Olw2qj.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTI5OTIxOS83NTU3NDg2LmpwZw==/original/Pw5jOj.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTI5OTIxOS83NTU3NDg3LmpwZw==/original/cc3nYC.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTI5OTIxOS83NTU3NDg4LmpwZw==/original/xTVkmY.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTI5OTIxOS83NTU3NDg5LmpwZw==/original/SVt8xI.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTI5OTIxOS83NTU3NDkwLmpwZw==/original/DGrdna.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 4.6 out of 5 stars(64 total ratings)",
+          "Author": "anttihaavikko",
+          "Genre": "Card Game, Puzzle",
+          "Made with": "Unity",
+          "Tags": "2D, Arcade, Board Game, Deck Building, GitHub, Mouse only, Roguelite, Singleplayer, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 1297280,
+      "gameUrl": "https://bauxite.itch.io/bendyworm",
+      "overallRank": 2,
+      "topCategories": [
+        "Overall",
+        "Gameplay",
+        "Graphics",
+        "Innovation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "bauxite",
+            "id": 74288
+          }
+        ],
+        "rank": 2,
+        "url": "https://itch.io/jam/game-off-2021/rate/1297280",
+        "title": "BENDYWORM",
+        "rating_count": 12,
+        "raw_score": 4.5,
+        "cover_url": "https://img.itch.zone/aW1nLzc1NTY5MzAucG5n/300x240%23c/iDxw6O.png",
+        "score": 4.5,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 4.5,
+            "rank": 2,
+            "raw_score": 4.5
+          },
+          {
+            "name": "Gameplay",
+            "score": 4.1666666666667,
+            "rank": 9,
+            "raw_score": 4.1666666666667
+          },
+          {
+            "name": "Graphics",
+            "score": 4.5,
+            "rank": 7,
+            "raw_score": 4.5
+          },
+          {
+            "name": "Audio",
+            "score": 4,
+            "rank": 11,
+            "raw_score": 4
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 4,
+            "rank": 46,
+            "raw_score": 4
+          },
+          {
+            "name": "Innovation",
+            "score": 4.5833333333333,
+            "rank": 2,
+            "raw_score": 4.5833333333333
+          }
+        ],
+        "id": 1297280
+      },
+      "entryData": {
+        "created_at": "2021-12-01 13:21:21",
+        "id": 273338,
+        "url": "/jam/game-off-2021/rate/1297280",
+        "game": {
+          "title": "BENDYWORM",
+          "cover": "https://img.itch.zone/aW1nLzc1NTY5MzAucG5n/300x240%23c/iDxw6O.png",
+          "platforms": [
+            "windows",
+            "linux"
+          ],
+          "id": 1297280,
+          "url": "https://bauxite.itch.io/bendyworm",
+          "cover_color": "#311021",
+          "short_text": "A platformer where the entire world bends like a worm",
+          "user": {
+            "url": "https://bauxite.itch.io",
+            "name": "bauxite",
+            "id": 74288
+          }
+        },
+        "coolness": 4,
+        "rating_count": 12
+      },
+      "details": {
+        "title": "BENDYWORM",
+        "description": "\nBENDYWORM is a platformer with a twist: the entire world bends and twists around you as your progress through the level. Why? Because you're inside of a gigantic worm, and worms are bendy.\nThe game is made for Github Game Off 2021.\n\nControls\n(note - only keyboard input prompts are shown in game; gamepad button prompts are missing but they still work)\n\n\n\nKeyboard\nGamepad\nAction\n\n\n\n\nArrow keys\nLeft Stick or DPad\nMove\n\n\nZ or Space\nA (XBox) / B (Nintendo)\nJump (hold to jump higher)\n\n\nX\nX (Xbox) / Y (Nintendo)\nShoot (hold to charge beam)\n\n\nEnter or Space\nA (XBox) / B (Nintendo)\nAccept/Continue\n\n\nEscape\nSTART\nOpen pause menu\n\n\n\n\nSource code\nThe source code is available here: https://github.com/Bauxitedev/bendyworm\n\nSoundtrack\nThe soundtrack is available here:\nhttps://bandcamp.com/EmbeddedPlayer/album=3250622351/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/\n\nFAQ\nI want to run the game in windowed mode, not in fullscreen. How?\nPress [ESC] to open the pause menu, then toggle \"Fullscreen\" to run the game in windowed mode.\nThe game runs slowly. What to do?\nIn the main game, press [ESC] to open the pause menu. Then uncheck \"Fullscreen\" to run the game in windowed mode, and reduce the size of the window. This makes the game run at a lower resolution, which should increase performance on lower-end GPUs.\nAlternatively, if you want to play the game in fullscreen mode anyway, you can reduce your desktop resolution by right clicking the desktop and selecting \"Display Settings\" (e.g. if you're on a 1080p screen, you can drop down the resolution to 720p and it should run much faster)\nI beat the game and I want to replay it. How?\nAfter watching the credits, enter the main game again, press [ESC] to open the pause menu, and then select \"Delete Save and Start Over\".\n\nKnown issues\n\nGamepad input prompts are missing, only keyboard input prompts are shown (see above for gamepad controls)\n\n\nDonate\nIf you like the game, consider buying the game or buying me a coffee:\n\nAdditionally, you may enjoy my previous game, Meteorite, as well.\n\nLicense\nMIT for the code, CC BY 3.0 for the assets. (attribute to Bauxitedev or one of the authors below, depending on assets used)\nAttribution:\n\nBrain 3D model by kpaulsen (CC BY 3.0)\nGodot Pixel Logo based on the work by herrwoland (CC0)\nKeyboard icons based on the work by TRBRY (CC BY 3.0)\nSome sounds used from Kenney's Retro Sound Pack (CC0)\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTI5NzI4MC83NTU4MDE4LmdpZg==/original/Jrw7hz.gif",
+          "https://img.itch.zone/aW1hZ2UvMTI5NzI4MC83NTU2MzA4LmdpZg==/original/TPpwQv.gif",
+          "https://img.itch.zone/aW1hZ2UvMTI5NzI4MC83NTU4MDIzLmdpZg==/original/hsUFz%2B.gif",
+          "https://img.itch.zone/aW1hZ2UvMTI5NzI4MC83NTQ2NzM0LnBuZw==/original/%2Bqa43D.png",
+          "https://img.itch.zone/aW1hZ2UvMTI5NzI4MC83NTQ2NzMzLnBuZw==/original/ljssM%2B.png",
+          "https://img.itch.zone/aW1hZ2UvMTI5NzI4MC83NTQ2NzM2LnBuZw==/original/vwKc9Q.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, Linux",
+          "Rating": "Rated 4.0 out of 5 stars(7 total ratings)",
+          "Author": "bauxite",
+          "Genre": "Platformer, Action, Shooter",
+          "Made with": "Blender, Aseprite, Tiled, Godot",
+          "Tags": "1-bit, 2D, Godot, Minimalist, Pixel Art, Puzzle-Platformer, Side Scroller",
+          "Code license": "MIT License",
+          "Asset license": "Creative Commons Attribution v4.0 International",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Gamepad (any)",
+          "Accessibility": "Subtitles",
+          "Links": "Source code, Twitter/X"
+        }
+      }
+    },
+    {
+      "gameId": 1299900,
+      "gameUrl": "https://raformatico.itch.io/hivemind",
+      "overallRank": 3,
+      "topCategories": [
+        "Overall",
+        "Graphics",
+        "Audio",
+        "Theme interpretation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Raformatico",
+            "id": 2900972
+          },
+          {
+            "name": "jjramos",
+            "id": 547954
+          },
+          {
+            "name": "BuendiaGames",
+            "id": 1239986
+          },
+          {
+            "name": "Fran Arroyo",
+            "id": 3769250
+          }
+        ],
+        "rank": 3,
+        "url": "https://itch.io/jam/game-off-2021/rate/1299900",
+        "title": "Hivemind",
+        "rating_count": 14,
+        "raw_score": 4.4285714285714,
+        "cover_url": "https://img.itch.zone/aW1nLzc1NjEwMjAuanBn/300x240%23c/WbzR%2Fg.jpg",
+        "score": 4.4285714285714,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 4.4285714285714,
+            "rank": 3,
+            "raw_score": 4.4285714285714
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.4285714285714,
+            "rank": 78,
+            "raw_score": 3.4285714285714
+          },
+          {
+            "name": "Graphics",
+            "score": 4.8571428571429,
+            "rank": 1,
+            "raw_score": 4.8571428571429
+          },
+          {
+            "name": "Audio",
+            "score": 4.2142857142857,
+            "rank": 5,
+            "raw_score": 4.2142857142857
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 4.7142857142857,
+            "rank": 1,
+            "raw_score": 4.7142857142857
+          },
+          {
+            "name": "Innovation",
+            "score": 3.7142857142857,
+            "rank": 52,
+            "raw_score": 3.7142857142857
+          }
+        ],
+        "id": 1299900
+      },
+      "entryData": {
+        "coolness": 18,
+        "created_at": "2021-12-01 21:15:31",
+        "id": 273533,
+        "url": "/jam/game-off-2021/rate/1299900",
+        "game": {
+          "title": "Hivemind",
+          "cover": "https://img.itch.zone/aW1nLzc1NjEwMjAuanBn/300x240%23c/WbzR%2Fg.jpg",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ],
+          "id": 1299900,
+          "url": "https://raformatico.itch.io/hivemind",
+          "cover_color": "#eeeeee",
+          "short_text": "Help Bugatti connect again to HIVEMIND.",
+          "user": {
+            "url": "https://raformatico.itch.io",
+            "name": "Raformatico",
+            "id": 2900972
+          }
+        },
+        "contributors": [
+          {
+            "name": "Raformatico",
+            "url": "https://raformatico.itch.io"
+          },
+          {
+            "name": "jjramos",
+            "url": "https://jjramos.itch.io"
+          },
+          {
+            "name": "BuendiaGames",
+            "url": "https://buendiagames.itch.io"
+          },
+          {
+            "name": "Fran Arroyo",
+            "url": "https://franarroyo.itch.io"
+          }
+        ],
+        "rating_count": 14
+      },
+      "details": {
+        "title": "Hivemind",
+        "description": "HIVEMIND\nWe end up in the third position in the Github Game Off 2021 (first in Graphics and Theme interpretation). Thank you for your support!Source code: https://github.com/raformatico/HivemindBeing an insect wasn't bad.\nI lived day to day with my comrades, all for one and one for all.\n  \nBut evolution was capricious and decided to play with me.\n  \nI evolved, losing the connection with the HIVEMIND. Now, I can't understand the rest of the insects. They can't understand me either. Although with a lot of concentration i can connect with them at a basic level.\nI hope to collect enough lymph to make a decent offering to \"Mother Bug\"...\n... Only she can undo my curse and connect me back to HIVEMIND.\nPlease, Mother Bug... hear my prayers!\n'○.○'\nDiscover this world, help \"Bugatti\" to explore and find enough yellow balls \"lymph\" and climb to the sacred portal in Mother Bug's mountain to complete the adventure!\nMouse & Keyboard:  w/a/s/d (move) ·  w/a/s/d + shift (run) ·  spacebar (jump) · LMB (fly) · RMB (connect) · mouselook (free view) · RMB + mouselook (interact).\nGamepad:  L stick button (move) · L stick button + RT (run) · A (jump) · X (fly) · RB (connect) · RSB (free view) · RB + RSB (interact).\nWe are a Spanish team and this is our submission for Game Off 2021. Hope you like it!!\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTI5OTkwMC83NTY5MDY1LmpwZw==/original/Ovn6ss.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTI5OTkwMC83NTY5MDk5LnBuZw==/original/quPI4a.png",
+          "https://img.itch.zone/aW1hZ2UvMTI5OTkwMC83NTY5MTQ1LnBuZw==/original/xNWPcl.png",
+          "https://img.itch.zone/aW1hZ2UvMTI5OTkwMC83NTY5MTY3LnBuZw==/original/%2F6gZ%2Fa.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows, macOS, Linux",
+          "Rating": "Rated 3.7 out of 5 stars(3 total ratings)",
+          "Authors": "Raformatico, jjramos, BuendiaGames, Fran Arroyo",
+          "Genre": "Puzzle, Interactive Fiction, Platformer",
+          "Made with": "Blender, Godot, Inkscape, Krita",
+          "Tags": "3D, Atmospheric, Blender, Exploration, Godot, scienci-fiction, Singleplayer",
+          "Code license": "MIT License",
+          "Asset license": "Creative Commons Attribution_NonCommercial_NoDerivatives v4.0 International",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse, Xbox controller",
+          "Links": "Source code, Game Art, Programmer, Programmer, Soundtrack"
+        }
+      }
+    },
+    {
+      "gameId": 1299979,
+      "gameUrl": "https://clawboomgames.itch.io/doorframe-oz",
+      "overallRank": 4,
+      "topCategories": [
+        "Overall",
+        "Gameplay",
+        "Innovation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "ClawBoomGames",
+            "id": 2314317
+          },
+          {
+            "name": "7SevenStudios",
+            "id": 3591822
+          }
+        ],
+        "rank": 4,
+        "url": "https://itch.io/jam/game-off-2021/rate/1299979",
+        "title": "Doorframe OZ",
+        "rating_count": 37,
+        "raw_score": 4.2702702702703,
+        "cover_url": "https://img.itch.zone/aW1nLzc1NjIyODkucG5n/300x240%23c/xH3oW7.png",
+        "score": 4.2702702702703,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 4.2702702702703,
+            "rank": 4,
+            "raw_score": 4.2702702702703
+          },
+          {
+            "name": "Gameplay",
+            "score": 4.1891891891892,
+            "rank": 8,
+            "raw_score": 4.1891891891892
+          },
+          {
+            "name": "Graphics",
+            "score": 4.1351351351351,
+            "rank": 32,
+            "raw_score": 4.1351351351351
+          },
+          {
+            "name": "Audio",
+            "score": 3.7027027027027,
+            "rank": 47,
+            "raw_score": 3.7027027027027
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 4.2702702702703,
+            "rank": 15,
+            "raw_score": 4.2702702702703
+          },
+          {
+            "name": "Innovation",
+            "score": 4.2432432432432,
+            "rank": 9,
+            "raw_score": 4.2432432432432
+          }
+        ],
+        "id": 1299979
+      },
+      "entryData": {
+        "coolness": 29,
+        "created_at": "2021-12-01 04:23:36",
+        "id": 273233,
+        "url": "/jam/game-off-2021/rate/1299979",
+        "game": {
+          "title": "Doorframe OZ",
+          "cover": "https://img.itch.zone/aW1nLzc1NjIyODkucG5n/300x240%23c/xH3oW7.png",
+          "platforms": [
+            "windows",
+            "osx",
+            "web"
+          ],
+          "id": 1299979,
+          "url": "https://clawboomgames.itch.io/doorframe-oz",
+          "cover_color": "#1039aa",
+          "short_text": "Stop the evil virus from taking over your 2000's PC!",
+          "user": {
+            "url": "https://clawboomgames.itch.io",
+            "name": "ClawBoomGames",
+            "id": 2314317
+          }
+        },
+        "contributors": [
+          {
+            "name": "ClawBoomGames",
+            "url": "https://clawboomgames.itch.io"
+          },
+          {
+            "name": "7SevenStudios",
+            "url": "https://7sevenstudios.itch.io"
+          }
+        ],
+        "rating_count": 37
+      },
+      "details": {
+        "title": "Doorframe OZ",
+        "description": "You turned on your old computer to find that a virus has taken over! Quick, remove all of the infected files and kill the virus with just your mouse cursor. Be careful though, if your health reaches 0, the computer will bug out and blue screen!\nCan you make it on the top 10 online leaderboard? Good luck!\n\n(All programming, art, and music was made by ClawBoomGames and 7SevenStudios in 1 month for the GitHub Game-Off 2021 Jam)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTI5OTk3OS83NTYyMTY1LnBuZw==/original/BfxUpI.png",
+          "https://img.itch.zone/aW1hZ2UvMTI5OTk3OS83NTYzMDE0LmdpZg==/original/VdKqFa.gif",
+          "https://img.itch.zone/aW1hZ2UvMTI5OTk3OS83NTYzMDE4LmdpZg==/original/Phj8kA.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS",
+          "Rating": "Rated 4.7 out of 5 stars(13 total ratings)",
+          "Authors": "ClawBoomGames, 7SevenStudios",
+          "Genre": "Action, Simulation",
+          "Made with": "Unity",
+          "Tags": "Bullet Hell"
+        }
+      }
+    },
+    {
+      "gameId": 1301247,
+      "gameUrl": "https://thewinrawr.itch.io/godot-platformer-exe",
+      "overallRank": 5,
+      "topCategories": [
+        "Overall",
+        "Gameplay",
+        "Theme interpretation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "WinRawr",
+            "id": 567866
+          }
+        ],
+        "rank": 5,
+        "url": "https://itch.io/jam/game-off-2021/rate/1301247",
+        "title": "godot_platformer.exe",
+        "rating_count": 46,
+        "raw_score": 4.2608695652174,
+        "cover_url": "https://img.itch.zone/aW1nLzc1NjkzNzEucG5n/300x240%23c/xipjFj.png",
+        "score": 4.2608695652174,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 4.2608695652174,
+            "rank": 5,
+            "raw_score": 4.2608695652174
+          },
+          {
+            "name": "Gameplay",
+            "score": 4.1521739130435,
+            "rank": 10,
+            "raw_score": 4.1521739130435
+          },
+          {
+            "name": "Graphics",
+            "score": 3.6086956521739,
+            "rank": 106,
+            "raw_score": 3.6086956521739
+          },
+          {
+            "name": "Audio",
+            "score": 3.7608695652174,
+            "rank": 42,
+            "raw_score": 3.7608695652174
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 4.5217391304348,
+            "rank": 3,
+            "raw_score": 4.5217391304348
+          },
+          {
+            "name": "Innovation",
+            "score": 4.195652173913,
+            "rank": 12,
+            "raw_score": 4.195652173913
+          }
+        ],
+        "id": 1301247
+      },
+      "entryData": {
+        "created_at": "2021-12-01 21:21:08",
+        "id": 273542,
+        "url": "/jam/game-off-2021/rate/1301247",
+        "game": {
+          "title": "godot_platformer.exe",
+          "cover": "https://img.itch.zone/aW1nLzc1NjkzNzEucG5n/300x240%23c/xipjFj.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 1301247,
+          "url": "https://thewinrawr.itch.io/godot-platformer-exe",
+          "cover_color": "#000000",
+          "short_text": "It's just a regular platformer, right?",
+          "user": {
+            "url": "https://thewinrawr.itch.io",
+            "name": "WinRawr",
+            "id": 567866
+          }
+        },
+        "coolness": 5,
+        "rating_count": 46
+      },
+      "details": {
+        "title": "godot_platformer.exe",
+        "description": "CONTROLS\nWASD/Arrow keys - Move\nSpace bar/W/Up - Jump\nShift - Shoot\nESC - Hold to quit\nMade for Github's Game Off 2021 Jam. Inspired by Alphaland, a cool Flash game I played a really long time ago.",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzc1NjkzNzEucG5n/original/0u%2BDe%2F.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.0 out of 5 stars(27 total ratings)",
+          "Author": "WinRawr",
+          "Genre": "Platformer",
+          "Tags": "2D, Abstract, Creepy, Horror, jumping, Metroidvania, Short"
+        }
+      }
+    },
+    {
+      "gameId": 1261773,
+      "gameUrl": "https://vlopes.itch.io/bug-on-the-moon",
+      "overallRank": 6,
+      "topCategories": [
+        "Overall",
+        "Gameplay",
+        "Innovation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Vlopes",
+            "id": 1877693
+          }
+        ],
+        "rank": 6,
+        "url": "https://itch.io/jam/game-off-2021/rate/1261773",
+        "title": "Bug on the moon 🌘🐛",
+        "rating_count": 22,
+        "raw_score": 4.2272727272727,
+        "cover_url": "https://img.itch.zone/aW1nLzc1MzIwOTQuZ2lm/300x240%23c/KEG3AE.gif",
+        "score": 4.2272727272727,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 4.2272727272727,
+            "rank": 6,
+            "raw_score": 4.2272727272727
+          },
+          {
+            "name": "Gameplay",
+            "score": 4.2272727272727,
+            "rank": 7,
+            "raw_score": 4.2272727272727
+          },
+          {
+            "name": "Graphics",
+            "score": 3.8636363636364,
+            "rank": 63,
+            "raw_score": 3.8636363636364
+          },
+          {
+            "name": "Audio",
+            "score": 3.6818181818182,
+            "rank": 52,
+            "raw_score": 3.6818181818182
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 4.1363636363636,
+            "rank": 27,
+            "raw_score": 4.1363636363636
+          },
+          {
+            "name": "Innovation",
+            "score": 4.4545454545455,
+            "rank": 5,
+            "raw_score": 4.4545454545455
+          }
+        ],
+        "id": 1261773
+      },
+      "entryData": {
+        "created_at": "2021-12-01 00:26:20",
+        "id": 273179,
+        "url": "/jam/game-off-2021/rate/1261773",
+        "game": {
+          "id": 1261773,
+          "url": "https://vlopes.itch.io/bug-on-the-moon",
+          "cover_color": "#110f1e",
+          "user": {
+            "url": "https://vlopes.itch.io",
+            "name": "Vlopes",
+            "id": 1877693
+          },
+          "title": "Bug on the moon 🌘🐛",
+          "platforms": [
+            "web"
+          ],
+          "gif_cover": "https://img.itch.zone/aW1nLzc1MzIwOTQuZ2lm/original/0LDe19.gif",
+          "cover": "https://img.itch.zone/aW1nLzc1MzIwOTQuZ2lm/300x240%23c/KEG3AE.gif",
+          "short_text": "Debug a robot on the moon"
+        },
+        "coolness": 25,
+        "rating_count": 22
+      },
+      "details": {
+        "title": "Bug on the moon 🌘🐛",
+        "description": "Game :\nLast year for Game off 2020 I made my first game jam, this year for the Game off 2021 I made a sequel of this game.\nDescription :\nAfter having successfully landed on the moon. It appears that your robot suffers from some bugs. \nYour goal is to fix the bugs and reach the main room to complete your mission.\nInstructions :\nMove your robot with \"WASD\" keys and use your mouse to put the good value on code emplacement.\nGame jam results : \nCriteriaRankScore*Raw ScoreInnovation#54.4554.455Overall#64.2274.227Gameplay#74.2274.227Theme interpretation#274.1364.136Audio#523.6823.682Graphics#633.8643.864\nCredits :\nMusic :\nBy the great JC https://soundcloud.com/julescournut\nSounds :\nhttps://freesound.org/people/HerraBilbo/sounds/361570/\n\nhttps://freesound.org/people/jacksonacademyashmore/sounds/402816/\n\nhttps://freesound.org/people/Iwiploppenisse/sounds/156031/\n\nhttps://freesound.org/people/florianreichelt/sounds/563765/\nGraphics :\n\nhttps://opengameart.org/content/pixel-explosion-12-frames\nhttps://opengameart.org/content/190-pixel-art-assets-sci-fi-forest\nOther by me\nEffects :\nhttps://assetstore.unity.com/packages/tools/particles-effects/lightning-bolt-effect-for-unity-59471#description\n\nhttps://assetstore.unity.com/packages/vfx/particles/fire-explosions/fire-kit-dyn...\n\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTI2MTc3My83NTYxNTYzLnBuZw==/original/uUa8lE.png",
+          "https://img.itch.zone/aW1hZ2UvMTI2MTc3My83NTYxNTU5LnBuZw==/original/DdxBbO.png",
+          "https://img.itch.zone/aW1hZ2UvMTI2MTc3My83NTYxNTYwLmpwZw==/original/Qtzq7F.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTI2MTc3My83NTYxNTYxLnBuZw==/original/xLxPTK.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.8 out of 5 stars(6 total ratings)",
+          "Author": "Vlopes",
+          "Genre": "Platformer",
+          "Made with": "Unity",
+          "Tags": "moon, Pixel Art, Space",
+          "Average session": "A few minutes",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 1278722,
+      "gameUrl": "https://nisovin.itch.io/bumblebee-blitz",
+      "overallRank": 7,
+      "topCategories": [
+        "Overall",
+        "Gameplay"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Nisovin",
+            "id": 191188
+          }
+        ],
+        "rank": 7,
+        "url": "https://itch.io/jam/game-off-2021/rate/1278722",
+        "title": "Bumblebee Blitz",
+        "rating_count": 9,
+        "raw_score": 4.2222222222222,
+        "cover_url": "https://img.itch.zone/aW1nLzc1MDA0ODEucG5n/300x240%23c/3ZI8Zy.png",
+        "score": 4.2222222222222,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 4.2222222222222,
+            "rank": 7,
+            "raw_score": 4.2222222222222
+          },
+          {
+            "name": "Gameplay",
+            "score": 4.3333333333333,
+            "rank": 3,
+            "raw_score": 4.3333333333333
+          },
+          {
+            "name": "Graphics",
+            "score": 3.5555555555556,
+            "rank": 113,
+            "raw_score": 3.5555555555556
+          },
+          {
+            "name": "Audio",
+            "score": 3.6666666666667,
+            "rank": 54,
+            "raw_score": 3.6666666666667
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 4.1111111111111,
+            "rank": 29,
+            "raw_score": 4.1111111111111
+          },
+          {
+            "name": "Innovation",
+            "score": 4.1111111111111,
+            "rank": 16,
+            "raw_score": 4.1111111111111
+          }
+        ],
+        "id": 1278722
+      },
+      "entryData": {
+        "created_at": "2021-12-01 01:47:03",
+        "id": 273187,
+        "url": "/jam/game-off-2021/rate/1278722",
+        "game": {
+          "title": "Bumblebee Blitz",
+          "platforms": [
+            "web"
+          ],
+          "id": 1278722,
+          "url": "https://nisovin.itch.io/bumblebee-blitz",
+          "cover_color": "#428A72",
+          "cover": "https://img.itch.zone/aW1nLzc1MDA0ODEucG5n/300x240%23c/3ZI8Zy.png",
+          "user": {
+            "url": "https://nisovin.itch.io",
+            "name": "Nisovin",
+            "id": 191188
+          }
+        },
+        "coolness": 0,
+        "rating_count": 9
+      },
+      "details": {
+        "title": "Bumblebee Blitz",
+        "description": "About\nTwo teams of bumblebees have arrived to compete in the Bumblebee Blitz competition! Collect nectar from flowers to help lead your team to victory!\nVery loosely inspired by a certain wizard sport.\nGameplay\nCollect nectar from yellow flowers and carry it back to your hive to earn 10 pointsCarrying the nectar makes you slow, so pass it to allies when possibleBump into bees from the enemy team to force them to drop the nectarUse the red nectar to shoot at other beesWatch out for the purple super flowers! The first team to collect it gains 25 pointsLook out for ladybugs as well, catching one earns your team 3 points\nControls\nMouse/Keyboard:Left-click to move toward mouseHold and release right-click to use ability (boost, pass, shoot)Esc to open game menuEnter to chat\nController:Left stick to moveHold and release A/X button to use ability (boost, pass, shoot)\nTouch screen: (works but isn't great)Hold touch to move toward fingerDouble tap and hold to use ability\nNotes\nThis game has multiplayer. Hopefully it's working, but if the server is down you can still play offline. The netcode isn't really well optimized so it can be a bit laggy, and I'm sure it's full of plenty of bugs. Still, it seems to at least work!",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzc1MDA0ODEucG5n/original/olYW7i.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.3 out of 5 stars(3 total ratings)",
+          "Author": "Nisovin"
+        }
+      }
+    },
+    {
+      "gameId": 1290857,
+      "gameUrl": "https://octobass.itch.io/dont-bug-me",
+      "overallRank": 8,
+      "topCategories": [
+        "Overall",
+        "Theme interpretation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "octobass",
+            "id": 917388
+          },
+          {
+            "name": "adamskipadamski",
+            "id": 3685762
+          },
+          {
+            "name": "Madmouseman",
+            "id": 3670124
+          },
+          {
+            "name": "Odettica",
+            "id": 5148745
+          },
+          {
+            "name": "majicmoo",
+            "id": 259499
+          }
+        ],
+        "rank": 8,
+        "url": "https://itch.io/jam/game-off-2021/rate/1290857",
+        "title": "Don't Bug Me!",
+        "rating_count": 44,
+        "raw_score": 4.1590909090909,
+        "cover_url": "https://img.itch.zone/aW1nLzc1Njc2OTYuZ2lm/300x240%23c/%2BWlVfq.gif",
+        "score": 4.1590909090909,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 4.1590909090909,
+            "rank": 8,
+            "raw_score": 4.1590909090909
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.7727272727273,
+            "rank": 29,
+            "raw_score": 3.7727272727273
+          },
+          {
+            "name": "Graphics",
+            "score": 4.3863636363636,
+            "rank": 13,
+            "raw_score": 4.3863636363636
+          },
+          {
+            "name": "Audio",
+            "score": 3.6818181818182,
+            "rank": 52,
+            "raw_score": 3.6818181818182
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 4.3636363636364,
+            "rank": 7,
+            "raw_score": 4.3636363636364
+          },
+          {
+            "name": "Innovation",
+            "score": 4.0909090909091,
+            "rank": 18,
+            "raw_score": 4.0909090909091
+          }
+        ],
+        "id": 1290857
+      },
+      "entryData": {
+        "coolness": 7,
+        "created_at": "2021-12-01 19:34:27",
+        "id": 273461,
+        "url": "/jam/game-off-2021/rate/1290857",
+        "game": {
+          "id": 1290857,
+          "url": "https://octobass.itch.io/dont-bug-me",
+          "cover_color": "#d1668c",
+          "user": {
+            "url": "https://octobass.itch.io",
+            "name": "octobass",
+            "id": 917388
+          },
+          "title": "Don't Bug Me!",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "gif_cover": "https://img.itch.zone/aW1nLzc1Njc2OTYuZ2lm/original/PZZH58.gif",
+          "cover": "https://img.itch.zone/aW1nLzc1Njc2OTYuZ2lm/300x240%23c/%2BWlVfq.gif",
+          "short_text": "A puzzle game about annoying people!"
+        },
+        "contributors": [
+          {
+            "name": "octobass",
+            "url": "https://octobass.itch.io"
+          },
+          {
+            "name": "adamskipadamski",
+            "url": "https://adamskipadamski.itch.io"
+          },
+          {
+            "name": "Madmouseman",
+            "url": "https://madmouseman.itch.io"
+          },
+          {
+            "name": "Odettica",
+            "url": "https://odettica.itch.io"
+          },
+          {
+            "name": "majicmoo",
+            "url": "https://majicmoo.itch.io"
+          }
+        ],
+        "rating_count": 44
+      },
+      "details": {
+        "title": "Don't Bug Me!",
+        "description": "A puzzle game about annoying people made for Github Game Off 2021. Fill up the Bugged-o-meter and search for collectable bugs!\n\nControls:\nLeft Click to interact\nHold left click to drag, and release to drop and combine\nEscape or P to pause (P will work better in the browser)\nIf you are stuck on a level, you can skip it from the pause menu and come back to it later!\n\nCredits:\nProgramming: Adam, Halden, and Megan\nMusic and sound effects: Halden\nArt: Odette and Megan\n\nSupported Browsers: Chrome, Firefox, Edge",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTI5MDg1Ny83NTYxMDM1LmdpZg==/original/uQlZq9.gif",
+          "https://img.itch.zone/aW1hZ2UvMTI5MDg1Ny83NTYxMDMzLmdpZg==/original/XaVDZe.gif",
+          "https://img.itch.zone/aW1hZ2UvMTI5MDg1Ny83NTYxMDM0LmdpZg==/original/y0X5Od.gif",
+          "https://img.itch.zone/aW1hZ2UvMTI5MDg1Ny83NTYxMDMxLmdpZg==/original/VzaNPd.gif",
+          "https://img.itch.zone/aW1hZ2UvMTI5MDg1Ny83NTYxMDMyLmdpZg==/original/q9qooT.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.5 out of 5 stars(147 total ratings)",
+          "Authors": "octobass, adamskipadamski, Madmouseman, Odettica, majicmoo",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "2D, Pixel Art, Point & Click"
+        }
+      }
+    },
+    {
+      "gameId": 1292547,
+      "gameUrl": "https://nilolo.itch.io/cordyception",
+      "overallRank": 9,
+      "topCategories": [
+        "Overall"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "nilolo",
+            "id": 4950721
+          },
+          {
+            "name": "OrangeJam",
+            "id": 4577535
+          }
+        ],
+        "rank": 9,
+        "url": "https://itch.io/jam/game-off-2021/rate/1292547",
+        "title": "Cordyception",
+        "rating_count": 34,
+        "raw_score": 4.0882352941176,
+        "cover_url": "https://img.itch.zone/aW1nLzc1NTA1MTcucG5n/300x240%23c/JcOPri.png",
+        "score": 4.0882352941176,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 4.0882352941176,
+            "rank": 9,
+            "raw_score": 4.0882352941176
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.9705882352941,
+            "rank": 17,
+            "raw_score": 3.9705882352941
+          },
+          {
+            "name": "Graphics",
+            "score": 4.1176470588235,
+            "rank": 33,
+            "raw_score": 4.1176470588235
+          },
+          {
+            "name": "Audio",
+            "score": 3.9117647058824,
+            "rank": 22,
+            "raw_score": 3.9117647058824
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 4.2647058823529,
+            "rank": 16,
+            "raw_score": 4.2647058823529
+          },
+          {
+            "name": "Innovation",
+            "score": 3.6176470588235,
+            "rank": 68,
+            "raw_score": 3.6176470588235
+          }
+        ],
+        "id": 1292547
+      },
+      "entryData": {
+        "coolness": 60,
+        "created_at": "2021-12-01 13:03:10",
+        "id": 273337,
+        "url": "/jam/game-off-2021/rate/1292547",
+        "game": {
+          "title": "Cordyception",
+          "cover": "https://img.itch.zone/aW1nLzc1NTA1MTcucG5n/300x240%23c/JcOPri.png",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "id": 1292547,
+          "url": "https://nilolo.itch.io/cordyception",
+          "cover_color": "#392626",
+          "short_text": "A parasitic bullet-hell adventure",
+          "user": {
+            "url": "https://nilolo.itch.io",
+            "name": "nilolo",
+            "id": 4950721
+          }
+        },
+        "contributors": [
+          {
+            "name": "nilolo",
+            "url": "https://nilolo.itch.io"
+          },
+          {
+            "name": "OrangeJam",
+            "url": "https://orangejam.itch.io"
+          }
+        ],
+        "rating_count": 34
+      },
+      "details": {
+        "title": "Cordyception",
+        "description": "Play as a worker ant whose existence in its colony gets completely overthrown by a parasitic infection. Survive using your newfound abilities in top-down bullet-hell fashion.\nWe recommend to play this game with keyboard and mouse. Playing with a gamepad is also possible. If you have an older system we recommend downloading the executable file for better performance.\nHere is more information on the real-life fungus.\n\nCredits\nA game by Nitai Heeb and Nils Wallenfang.\nMajority of Art by Stefan Horrmann\nEpic Battle Music by Arthur Maxant\nMenu and intro music by Jonas Lemmen & Markus Horrmann.\nSmaller art contributions made by Navid Jansen, Erman Baglan, Niels Asselborn, Cedric Haaks, Dominik Goebels.\nThis game was created as an entry to Game Off 2021.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTI5MjU0Ny83NTY2NDI5LnBuZw==/original/X6Zip2.png",
+          "https://img.itch.zone/aW1hZ2UvMTI5MjU0Ny83NTY2NDM1LnBuZw==/original/0CDn6b.png",
+          "https://img.itch.zone/aW1hZ2UvMTI5MjU0Ny83NTUwMzQ4LnBuZw==/original/d67WIH.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 4.0 out of 5 stars(3 total ratings)",
+          "Authors": "nilolo, OrangeJam",
+          "Genre": "Action, Adventure",
+          "Made with": "Aseprite, Godot",
+          "Tags": "2D, Action-Adventure, Bullet Hell, Short, Top-Down",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse, Gamepad (any)"
+        }
+      }
+    },
+    {
+      "gameId": 1292241,
+      "gameUrl": "https://crankky.itch.io/pathdroid",
+      "overallRank": 10,
+      "topCategories": [
+        "Overall"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "crankky",
+            "id": 3499334
+          },
+          {
+            "name": "viper161616",
+            "id": 295800
+          },
+          {
+            "name": "moarvespenegas",
+            "id": 2000643
+          }
+        ],
+        "rank": 10,
+        "url": "https://itch.io/jam/game-off-2021/rate/1292241",
+        "title": "PatchDroid",
+        "rating_count": 55,
+        "raw_score": 4.0727272727273,
+        "cover_url": "https://img.itch.zone/aW1nLzc1Njc3NzkucG5n/300x240%23c/NaBoyQ.png",
+        "score": 4.0727272727273,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 4.0727272727273,
+            "rank": 10,
+            "raw_score": 4.0727272727273
+          },
+          {
+            "name": "Gameplay",
+            "score": 4.0909090909091,
+            "rank": 11,
+            "raw_score": 4.0909090909091
+          },
+          {
+            "name": "Graphics",
+            "score": 4.3818181818182,
+            "rank": 17,
+            "raw_score": 4.3818181818182
+          },
+          {
+            "name": "Audio",
+            "score": 3.8363636363636,
+            "rank": 31,
+            "raw_score": 3.8363636363636
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 3.8909090909091,
+            "rank": 69,
+            "raw_score": 3.8909090909091
+          },
+          {
+            "name": "Innovation",
+            "score": 3.4727272727273,
+            "rank": 86,
+            "raw_score": 3.4727272727273
+          }
+        ],
+        "id": 1292241
+      },
+      "entryData": {
+        "coolness": 34,
+        "created_at": "2021-11-30 23:24:58",
+        "id": 273160,
+        "url": "/jam/game-off-2021/rate/1292241",
+        "game": {
+          "title": "PatchDroid",
+          "cover": "https://img.itch.zone/aW1nLzc1Njc3NzkucG5n/300x240%23c/NaBoyQ.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 1292241,
+          "url": "https://crankky.itch.io/pathdroid",
+          "cover_color": "#130d2f",
+          "short_text": "Manipulate the bugged firewall panels to fix the firewall and keep the viruses out.",
+          "user": {
+            "url": "https://crankky.itch.io",
+            "name": "crankky",
+            "id": 3499334
+          }
+        },
+        "contributors": [
+          {
+            "name": "crankky",
+            "url": "https://crankky.itch.io"
+          },
+          {
+            "name": "viper161616",
+            "url": "https://viper161616.itch.io"
+          },
+          {
+            "name": "moarvespenegas",
+            "url": "https://moarvespenegas.itch.io"
+          }
+        ],
+        "rating_count": 55
+      },
+      "details": {
+        "title": "PatchDroid",
+        "description": "The new OS update was not QA'd sufficiently... and it broke all your firewall nodes! Guide your bug-patching android to fix them all and re-secure the firewall.\nManipulate the bugged panels to fix the firewall and keep the viruses out.\n\nControls:\nAWSD to move (can use arrows as well)\nSPACE to jump\nSHIFT to dash\nAWSD to direct dash (can use arrows as well)\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTI5MjI0MS83NTY3MzAxLmdpZg==/original/TU%2FB20.gif",
+          "https://img.itch.zone/aW1hZ2UvMTI5MjI0MS83NTY3Mjg3LmdpZg==/original/7deguZ.gif",
+          "https://img.itch.zone/aW1hZ2UvMTI5MjI0MS83NTY3MTc4LnBuZw==/original/38yLej.png",
+          "https://img.itch.zone/aW1hZ2UvMTI5MjI0MS83NTY3MjE2LnBuZw==/original/muhnkr.png",
+          "https://img.itch.zone/aW1hZ2UvMTI5MjI0MS83NTY3MjQxLnBuZw==/original/kDgFJs.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.8 out of 5 stars(4 total ratings)",
+          "Authors": "crankky, viper161616, moarvespenegas",
+          "Genre": "Platformer, Puzzle",
+          "Made with": "Unity",
+          "Tags": "2D, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 1300856,
+      "gameUrl": "https://huntrt.itch.io/apex-colony",
+      "overallRank": 29,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Huntrt",
+            "id": 1489711
+          }
+        ],
+        "rank": 29,
+        "url": "https://itch.io/jam/game-off-2021/rate/1300856",
+        "title": "Apex Colony",
+        "rating_count": 17,
+        "raw_score": 3.8823529411765,
+        "cover_url": "https://img.itch.zone/aW1nLzI1ODA0OTc2LnBuZw==/300x240%23c/OtgicU.png",
+        "score": 3.8823529411765,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 3.8823529411765,
+            "rank": 29,
+            "raw_score": 3.8823529411765
+          },
+          {
+            "name": "Gameplay",
+            "score": 4.2941176470588,
+            "rank": 4,
+            "raw_score": 4.2941176470588
+          },
+          {
+            "name": "Graphics",
+            "score": 3.2352941176471,
+            "rank": 178,
+            "raw_score": 3.2352941176471
+          },
+          {
+            "name": "Audio",
+            "score": 1.5294117647059,
+            "rank": 382,
+            "raw_score": 1.5294117647059
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 4.1176470588235,
+            "rank": 28,
+            "raw_score": 4.1176470588235
+          },
+          {
+            "name": "Innovation",
+            "score": 4.0588235294118,
+            "rank": 21,
+            "raw_score": 4.0588235294118
+          }
+        ],
+        "id": 1300856
+      },
+      "entryData": {
+        "created_at": "2021-12-01 19:31:25",
+        "id": 273460,
+        "url": "/jam/game-off-2021/rate/1300856",
+        "game": {
+          "title": "Apex Colony",
+          "cover": "https://img.itch.zone/aW1nLzI1ODA0OTc2LnBuZw==/300x240%23c/OtgicU.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 1300856,
+          "url": "https://huntrt.itch.io/apex-colony",
+          "cover_color": "#a0724c",
+          "short_text": "An lone ant try to form it own super colony",
+          "user": {
+            "url": "https://huntrt.itch.io",
+            "name": "Huntrt",
+            "id": 1489711
+          }
+        },
+        "coolness": 34,
+        "rating_count": 17
+      },
+      "details": {
+        "title": "Apex Colony",
+        "description": "A rogue-lite game where you control a lone ant that tries to form a super colony by feeding eggs to more allies or buying items from shop to upgrade the colony.\n\nKEYACTIONLeft-clickMove all allies antRight-clickDrag to command attack.Pick and drop the item from shop to apply it onto allies.Middle-clickHalt all allies ant movement.WASDMove camera.ESwitch camera mode.Scroll whellZoom.SpaceProgress to next level after meeting kill count.\nYou can change keybinds freely in the settings.It is recommended to read \"How to Play?\" in-game for more details. \n\n\nCredits: \nAn thank to arongranberg for the a* path finding system. Get it here.An thank to Raph Levien for the Inconsolata font.Woods by axtoncrolley at OpenGameArt.Winters by Muncheybobo at OpenGameArt.fields_theme by adn_adn at OpenGameArt.drifter by cinameng at OpenGameArt.daydream by Tsorthan Grove at OpenGameArt.blue ice by Tsorthan Grove at OpenGameArt.barren planet by Tsorthan Grove at OpenGameArt.somber temple by Tsorthan Grove at OpenGameArt.sleepy head by Tsorthan Grove at OpenGameArt.gem/refraction/shimmer by Tsorthan Grove at OpenGameArt.CC-BY 3.0 CC-BY 4.0The rest of programming and art were made by Huntrt.\nSource Code - Github",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTMwMDg1Ni8yNTgwNDk4MS5wbmc=/original/0e2xE6.png",
+          "https://img.itch.zone/aW1hZ2UvMTMwMDg1Ni8yNTgwNDk4MC5wbmc=/original/LNwjTM.png",
+          "https://img.itch.zone/aW1hZ2UvMTMwMDg1Ni8yNTgwNDk4Mi5wbmc=/original/NW6iab.png",
+          "https://img.itch.zone/aW1hZ2UvMTMwMDg1Ni8yNTgwNDk4NC5wbmc=/original/IUMjYr.png",
+          "https://img.itch.zone/aW1hZ2UvMTMwMDg1Ni8yNTgwNDk4My5wbmc=/original/IfApHX.png",
+          "https://img.itch.zone/aW1hZ2UvMTMwMDg1Ni8yNTgwNDk3OS5wbmc=/original/CBdCsf.png"
+        ],
+        "moreInfo": {
+          "Updated": "13 days ago",
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.4 out of 5 stars(8 total ratings)",
+          "Author": "Huntrt",
+          "Genre": "Strategy",
+          "Made with": "Unity",
+          "Tags": "ant, Dungeon Crawler, GitHub, Open Source, Procedural Generation, Real time strategy, Roguelite, Top-Down, Unity",
+          "Code license": "MIT License",
+          "Asset license": "Creative Commons Zero v1.0 Universal",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse",
+          "Accessibility": "Configurable controls"
+        }
+      }
+    },
+    {
+      "gameId": 1292500,
+      "gameUrl": "https://petpumpkin.itch.io/squashy-bug",
+      "overallRank": 12,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Pet Pumpkin",
+            "id": 1638436
+          },
+          {
+            "name": "BarryLawnmower",
+            "id": 1749503
+          }
+        ],
+        "rank": 12,
+        "url": "https://itch.io/jam/game-off-2021/rate/1292500",
+        "title": "squashy bug",
+        "rating_count": 18,
+        "raw_score": 4.0555555555556,
+        "cover_url": "https://img.itch.zone/aW1nLzc1Mzg3MTMucG5n/300x240%23c/IqBmfk.png",
+        "score": 4.0555555555556,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 4.0555555555556,
+            "rank": 12,
+            "raw_score": 4.0555555555556
+          },
+          {
+            "name": "Gameplay",
+            "score": 4.2777777777778,
+            "rank": 5,
+            "raw_score": 4.2777777777778
+          },
+          {
+            "name": "Graphics",
+            "score": 3.6666666666667,
+            "rank": 90,
+            "raw_score": 3.6666666666667
+          },
+          {
+            "name": "Audio",
+            "score": 3.5555555555556,
+            "rank": 69,
+            "raw_score": 3.5555555555556
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 4.2777777777778,
+            "rank": 13,
+            "raw_score": 4.2777777777778
+          },
+          {
+            "name": "Innovation",
+            "score": 3.6666666666667,
+            "rank": 59,
+            "raw_score": 3.6666666666667
+          }
+        ],
+        "id": 1292500
+      },
+      "entryData": {
+        "coolness": 10,
+        "created_at": "2021-12-01 19:44:15",
+        "id": 273468,
+        "url": "/jam/game-off-2021/rate/1292500",
+        "game": {
+          "title": "squashy bug",
+          "cover": "https://img.itch.zone/aW1nLzc1Mzg3MTMucG5n/300x240%23c/IqBmfk.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 1292500,
+          "url": "https://petpumpkin.itch.io/squashy-bug",
+          "cover_color": "#f25f5c",
+          "short_text": "squash the bugs with maximum efficiency",
+          "user": {
+            "url": "https://petpumpkin.itch.io",
+            "name": "Pet Pumpkin",
+            "id": 1638436
+          }
+        },
+        "contributors": [
+          {
+            "name": "Pet Pumpkin",
+            "url": "https://petpumpkin.itch.io"
+          },
+          {
+            "name": "BarryLawnmower",
+            "url": "https://barrylawnmower.itch.io"
+          }
+        ],
+        "rating_count": 18
+      },
+      "details": {
+        "title": "squashy bug",
+        "description": "Squash bugs! \nThe more, the better! \nBe the best squasher in the world!\nControls:\nButtonControlClickStompARotate LeftDRotate RightMMute / Unmute Audio\nCreated in November 2021 for the Game Off 2021 Jam by Barry Lawnmower and Pet Pumpkin\nMade with:- Unity- Blender- Ableton Live\nPackages Used: - Bezier Path Creator- Text Animator- DOTween Pro- Ultimate Sound FX Bundle\nWith some sound effects from: https://freesound.org/\nYou can check out the mess on Github",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzc1Mzg3MTMucG5n/original/zwiD%2FA.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.5 out of 5 stars(2 total ratings)",
+          "Authors": "Pet Pumpkin, BarryLawnmower",
+          "Made with": "Unity",
+          "Tags": "3D, Arcade, bugs, Casual, Colorful, High Score, Isometric, Low-poly, Music, Short"
+        }
+      }
+    },
+    {
+      "gameId": 1261240,
+      "gameUrl": "https://prodigalson.itch.io/shield-of-faith",
+      "overallRank": 14,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "ProdigalSon Games",
+            "id": 662125
+          },
+          {
+            "name": "Drums",
+            "id": 673908
+          }
+        ],
+        "rank": 14,
+        "url": "https://itch.io/jam/game-off-2021/rate/1261240",
+        "title": "Shield of Faith",
+        "rating_count": 27,
+        "raw_score": 4,
+        "cover_url": "https://img.itch.zone/aW1nLzc2Nzk0MzIuanBn/300x240%23c/MumiuP.jpg",
+        "score": 4,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 4,
+            "rank": 14,
+            "raw_score": 4
+          },
+          {
+            "name": "Gameplay",
+            "score": 4.2592592592593,
+            "rank": 6,
+            "raw_score": 4.2592592592593
+          },
+          {
+            "name": "Graphics",
+            "score": 4.2592592592593,
+            "rank": 25,
+            "raw_score": 4.2592592592593
+          },
+          {
+            "name": "Audio",
+            "score": 3.9259259259259,
+            "rank": 20,
+            "raw_score": 3.9259259259259
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 3.5925925925926,
+            "rank": 135,
+            "raw_score": 3.5925925925926
+          },
+          {
+            "name": "Innovation",
+            "score": 3.6296296296296,
+            "rank": 65,
+            "raw_score": 3.6296296296296
+          }
+        ],
+        "id": 1261240
+      },
+      "entryData": {
+        "coolness": 20,
+        "created_at": "2021-12-01 07:04:57",
+        "id": 273261,
+        "url": "/jam/game-off-2021/rate/1261240",
+        "game": {
+          "title": "Shield of Faith",
+          "cover": "https://img.itch.zone/aW1nLzc2Nzk0MzIuanBn/300x240%23c/MumiuP.jpg",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 1261240,
+          "url": "https://prodigalson.itch.io/shield-of-faith",
+          "cover_color": "#000000",
+          "short_text": "Use your shield of faith to defeat fear",
+          "user": {
+            "url": "https://prodigalson.itch.io",
+            "name": "ProdigalSon Games",
+            "id": 662125
+          }
+        },
+        "contributors": [
+          {
+            "name": "ProdigalSon Games",
+            "url": "https://prodigalson.itch.io"
+          },
+          {
+            "name": "Drums",
+            "url": "https://drums.itch.io"
+          }
+        ],
+        "rating_count": 27
+      },
+      "details": {
+        "title": "Shield of Faith",
+        "description": "STORYFear and doubt have manifested themselves as bees that are pestering you and preventing you from enjoying life. Pick up the Shield of Faith and show FEAR that it is a LIAR! You don't have to fear or doubt anymore, as the Shield of Faith will protect you.\nGAMEPLAY- Throw & Recall your shield to defeat bees and solve puzzles- Get combos for a higher score- Collect the hidden scriptures- Don't lose Faith\nCONTROLS\nCREDITSNelson L: Lead ProgrammerMichael P: Lead Designer\nTOOLS & ASSETS\nUnity 2021\nMixamo Photoshophttps://sketchfab.com/3d-models/viass-delivery-man-02fbdce233f349408df7e42437b8e...https://assetstore.unity.com/packages/3d/characters/animals/fantasy-bee-135487https://kenney.nl/assets/platformer-kit",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTI2MTI0MC83NTYzNTI5LmpwZw==/original/EcY7EP.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTI2MTI0MC83NTYzNTMwLmpwZw==/original/K%2BJI0q.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTI2MTI0MC83NTYzNTMyLmpwZw==/original/6WBtKp.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTI2MTI0MC83NTYzNTMxLmpwZw==/original/d4QUXw.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows",
+          "Release date": "Dec 01, 2021",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "ProdigalSon Games, Drums",
+          "Genre": "Action, Adventure, Puzzle",
+          "Made with": "Unity, Bfxr, Adobe Photoshop, Audacity",
+          "Tags": "3D, autoscroll, Low-poly, Short, Singleplayer, Top-Down, Unity",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse",
+          "Links": "Source code"
+        }
+      }
+    },
+    {
+      "gameId": 1290295,
+      "gameUrl": "https://sweetheartsquad.itch.io/we-follow-the-fickle-path",
+      "overallRank": 14,
+      "topCategories": [
+        "Graphics",
+        "Audio",
+        "Theme interpretation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "SweetHeart Squad",
+            "id": 51832
+          },
+          {
+            "name": "Sean",
+            "id": 49698
+          },
+          {
+            "name": "IAN MARTIN",
+            "id": 29793
+          },
+          {
+            "name": "Michael",
+            "id": 757324
+          }
+        ],
+        "rank": 14,
+        "url": "https://itch.io/jam/game-off-2021/rate/1290295",
+        "title": "We Follow The Fickle Path",
+        "rating_count": 22,
+        "raw_score": 4,
+        "cover_url": "https://img.itch.zone/aW1nLzc3ODk0MjEuZ2lm/300x240%23c/l2lc8Z.gif",
+        "score": 4,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 4,
+            "rank": 14,
+            "raw_score": 4
+          },
+          {
+            "name": "Gameplay",
+            "score": 2.8181818181818,
+            "rank": 205,
+            "raw_score": 2.8181818181818
+          },
+          {
+            "name": "Graphics",
+            "score": 4.8181818181818,
+            "rank": 2,
+            "raw_score": 4.8181818181818
+          },
+          {
+            "name": "Audio",
+            "score": 4.3181818181818,
+            "rank": 3,
+            "raw_score": 4.3181818181818
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 4.5909090909091,
+            "rank": 2,
+            "raw_score": 4.5909090909091
+          },
+          {
+            "name": "Innovation",
+            "score": 3.6818181818182,
+            "rank": 58,
+            "raw_score": 3.6818181818182
+          }
+        ],
+        "id": 1290295
+      },
+      "entryData": {
+        "coolness": 34,
+        "created_at": "2021-11-28 22:28:38",
+        "id": 272172,
+        "url": "/jam/game-off-2021/rate/1290295",
+        "game": {
+          "id": 1290295,
+          "url": "https://sweetheartsquad.itch.io/we-follow-the-fickle-path",
+          "cover_color": "#000000",
+          "user": {
+            "url": "https://sweetheartsquad.itch.io",
+            "name": "SweetHeart Squad",
+            "id": 51832
+          },
+          "title": "We Follow The Fickle Path",
+          "platforms": [
+            "web"
+          ],
+          "gif_cover": "https://img.itch.zone/aW1nLzc3ODk0MjEuZ2lm/original/JhkrbX.gif",
+          "cover": "https://img.itch.zone/aW1nLzc3ODk0MjEuZ2lm/300x240%23c/l2lc8Z.gif",
+          "short_text": "A story about ants."
+        },
+        "contributors": [
+          {
+            "name": "SweetHeart Squad",
+            "url": "https://sweetheartsquad.itch.io"
+          },
+          {
+            "name": "Sean",
+            "url": "https://seansleblanc.itch.io"
+          },
+          {
+            "name": "IAN MARTIN",
+            "url": "https://ianmart1n.itch.io"
+          },
+          {
+            "name": "Michael",
+            "url": "https://sweetheart-michael.itch.io"
+          }
+        ],
+        "rating_count": 22
+      },
+      "details": {
+        "title": "We Follow The Fickle Path",
+        "description": "A sister is One, and one may be lost.\nA sister of Many, will always have sisters.\n\nMade by Sean, Michael, and IAN for Game Off 2021.\nSpanish (Latin America) translation by David Pérez.French translation by IAN.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTI5MDI5NS83NTM0NjczLnBuZw==/original/ay2ud0.png",
+          "https://img.itch.zone/aW1hZ2UvMTI5MDI5NS83NTM0Njc0LnBuZw==/original/%2FWZJs2.png",
+          "https://img.itch.zone/aW1hZ2UvMTI5MDI5NS83NTM0Njc1LnBuZw==/original/BrAP%2FA.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.7 out of 5 stars(33 total ratings)",
+          "Authors": "SweetHeart Squad, Sean, IAN MARTIN, Michael",
+          "Genre": "Visual Novel",
+          "Made with": "Aseprite, PixiJS, Clip Studio Paint",
+          "Tags": "2D, Atmospheric, Black and White, Coming Of Age, Female Protagonist, Furry, Hand-drawn, Multiple Endings, Singleplayer, Story Rich",
+          "Average session": "About a half-hour",
+          "Languages": "English, Spanish; Latin America, French",
+          "Inputs": "Keyboard, Mouse, Xbox controller, Gamepad (any), Touchscreen",
+          "Accessibility": "Color-blind friendly",
+          "Links": "Source code"
+        }
+      }
+    },
+    {
+      "gameId": 1301327,
+      "gameUrl": "https://lunid.itch.io/skittering-peaks",
+      "overallRank": 25,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "lunid",
+            "id": 2305371
+          }
+        ],
+        "rank": 25,
+        "url": "https://itch.io/jam/game-off-2021/rate/1301327",
+        "title": "skittering peaks",
+        "rating_count": 13,
+        "raw_score": 3.9230769230769,
+        "cover_url": "https://img.itch.zone/aW1nLzc1Nzg0NzkucG5n/300x240%23c/8LABCo.png",
+        "score": 3.9230769230769,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 3.9230769230769,
+            "rank": 25,
+            "raw_score": 3.9230769230769
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.2307692307692,
+            "rank": 120,
+            "raw_score": 3.2307692307692
+          },
+          {
+            "name": "Graphics",
+            "score": 4.6923076923077,
+            "rank": 3,
+            "raw_score": 4.6923076923077
+          },
+          {
+            "name": "Audio",
+            "score": 3.7692307692308,
+            "rank": 39,
+            "raw_score": 3.7692307692308
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 3.7692307692308,
+            "rank": 102,
+            "raw_score": 3.7692307692308
+          },
+          {
+            "name": "Innovation",
+            "score": 3.3846153846154,
+            "rank": 99,
+            "raw_score": 3.3846153846154
+          }
+        ],
+        "id": 1301327
+      },
+      "entryData": {
+        "created_at": "2021-12-01 21:35:02",
+        "id": 273584,
+        "url": "/jam/game-off-2021/rate/1301327",
+        "game": {
+          "title": "skittering peaks",
+          "cover": "https://img.itch.zone/aW1nLzc1Nzg0NzkucG5n/300x240%23c/8LABCo.png",
+          "platforms": [
+            "windows",
+            "osx"
+          ],
+          "id": 1301327,
+          "url": "https://lunid.itch.io/skittering-peaks",
+          "cover_color": "#000000",
+          "short_text": "bugs and ghosts! (demo out now!)",
+          "user": {
+            "url": "https://lunid.itch.io",
+            "name": "lunid",
+            "id": 2305371
+          }
+        },
+        "coolness": 1,
+        "rating_count": 13
+      },
+      "details": {
+        "title": "skittering peaks",
+        "description": "demo here :)\nhttps://lunid.itch.io/skitteringpines\n\n\n\n[enter] / [return]  \nto Interact with doors, characters,  etc.\n\n\n\n\nthis is the game jam version\nenjoy the product of one month of sleep deprivation and insanity\n\n\n\n\ncredits:\nmade with unity urp, blender, and a piano\nall assets were made during the jam from scratch\n-\ngrass shader is by the amazing MinionsArt!!\ntoon and water shaders were based on  tutorials by Binary Lunar\n\n\n\n\n\nalso, the end title has the wrong year. yeah.\n\n\n(font is patrick hand)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTMwMTMyNy83NTc4NDgwLnBuZw==/original/UDagBs.png",
+          "https://img.itch.zone/aW1hZ2UvMTMwMTMyNy83NTc4NDgzLnBuZw==/original/sOhFOO.png",
+          "https://img.itch.zone/aW1hZ2UvMTMwMTMyNy83NTc4NDgxLnBuZw==/original/XIM3w0.png",
+          "https://img.itch.zone/aW1hZ2UvMTMwMTMyNy83NTc4NDgyLnBuZw==/original/w6pVNj.png",
+          "https://img.itch.zone/aW1hZ2UvMTMwMTMyNy83NTc4NDg0LnBuZw==/original/Esj%2Fu%2B.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows, macOS",
+          "Author": "lunid",
+          "Genre": "Adventure",
+          "Tags": "3D, Atmospheric, Dark, Horror, Short"
+        }
+      }
+    },
+    {
+      "gameId": 1300387,
+      "gameUrl": "https://charlesthedev.itch.io/bugged-out",
+      "overallRank": 56,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Charlesthedev",
+            "id": 4194440
+          },
+          {
+            "name": "Bhamjo",
+            "id": 5076567
+          }
+        ],
+        "rank": 56,
+        "url": "https://itch.io/jam/game-off-2021/rate/1300387",
+        "title": "Bugged Out",
+        "rating_count": 23,
+        "raw_score": 3.695652173913,
+        "cover_url": "https://img.itch.zone/aW1nLzc1NjM4NjkucG5n/300x240%23c/vS231s.png",
+        "score": 3.695652173913,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 3.695652173913,
+            "rank": 56,
+            "raw_score": 3.695652173913
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.0434782608696,
+            "rank": 160,
+            "raw_score": 3.0434782608696
+          },
+          {
+            "name": "Graphics",
+            "score": 4.5652173913043,
+            "rank": 4,
+            "raw_score": 4.5652173913043
+          },
+          {
+            "name": "Audio",
+            "score": 3.4782608695652,
+            "rank": 84,
+            "raw_score": 3.4782608695652
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 4.304347826087,
+            "rank": 11,
+            "raw_score": 4.304347826087
+          },
+          {
+            "name": "Innovation",
+            "score": 3.304347826087,
+            "rank": 118,
+            "raw_score": 3.304347826087
+          }
+        ],
+        "id": 1300387
+      },
+      "entryData": {
+        "coolness": 38,
+        "created_at": "2021-12-01 18:10:45",
+        "id": 273420,
+        "url": "/jam/game-off-2021/rate/1300387",
+        "game": {
+          "title": "Bugged Out",
+          "cover": "https://img.itch.zone/aW1nLzc1NjM4NjkucG5n/300x240%23c/vS231s.png",
+          "platforms": [
+            "windows",
+            "osx"
+          ],
+          "id": 1300387,
+          "url": "https://charlesthedev.itch.io/bugged-out",
+          "cover_color": "#e6ffd1",
+          "short_text": "A Retro Adventure Inspired by Megaman & Gunstar Heroes",
+          "user": {
+            "url": "https://charlesthedev.itch.io",
+            "name": "Charlesthedev",
+            "id": 4194440
+          }
+        },
+        "contributors": [
+          {
+            "name": "Charlesthedev",
+            "url": "https://charlesthedev.itch.io"
+          },
+          {
+            "name": "Bhamjo",
+            "url": "https://bhamjo.itch.io"
+          }
+        ],
+        "rating_count": 23
+      },
+      "details": {
+        "title": "Bugged Out",
+        "description": "A Retro 2d side-scroller Adventure Inspired by Megaman & Gunstar Heroes\n\nA loveletter to 90s and 80's gaming\nPete the Pest Exterminator is Shrunk to the size of a bug by Mad Scientist Dr Dronenburg. Jump, Blast and dodge your way through 3 levels and 3 bosses as you conquer Dronenburg’s mansion in this bitesize, side scrolling retro adventure with gameplay inspired by 80’s & 90’s videogames such as Megaman, Contra and Gunstar Heroes. \n\n(This game was made from scratch in 3 weeks for the 2021 Git hub game off)\n\nControls :\n\nMove Right =  D \n Move Left   =  A\n\nJump =               W\n\nShoot (In facing direction) = SPACEBAR\n\n\nLevels :\n\nGarden\nSlugworth (Boss)\nKitchen\nB0tfly (Boss)\nBedroom / Attic\nDr Dronenburg (Boss)\n\n*The music in the game is minimal  to simulate the feeling of playing oldchool consoles like Atari, with the only sounds being the haunting simple retro sound effects which give us all that warm familiar feeling of nostalgia.\n\nThis is our first ever game jam ( Started 1 week late) and first finished game created with the Unity engine. \n\nI (@Charlesthedev) created the Art, Game Design and programming\nMy brother (@Bhamjo) Created the narrative & dialogue. we did all of this in under 3 weeks.\nYou can download the soundtrack we used for free - check out the mega talented Deviruchi:\nhttps://xdeviruchi.itch.io/8-bit-fantasy-adventure-music-pack\nHere is the link to the GITHUB depository :\nhttps://github.com/Charlesthed3v/Bugoutgamejam\n* Web version is scheduled to be available within the next week due to technical difficulties.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTMwMDM4Ny83NTY3MzMxLmdpZg==/original/w%2B7tm6.gif",
+          "https://img.itch.zone/aW1hZ2UvMTMwMDM4Ny83NTY3MzMwLmdpZg==/original/TpoBA%2B.gif",
+          "https://img.itch.zone/aW1hZ2UvMTMwMDM4Ny83NTY3MzMyLmdpZg==/original/aPHlC5.gif",
+          "https://img.itch.zone/aW1hZ2UvMTMwMDM4Ny83NTY3MzI5LmdpZg==/original/wVscvt.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS",
+          "Rating": "Rated 3.0 out of 5 stars(1 total ratings)",
+          "Authors": "Charlesthedev, Bhamjo",
+          "Genre": "Shooter",
+          "Tags": "2D, atari, gunstar-heroes, megaman, Pixel Art, Retro, Side Scroller, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 1299458,
+      "gameUrl": "https://shroomcraft-games.itch.io/boog-doodles",
+      "overallRank": 53,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Shroomcraft Games",
+            "id": 1510263
+          },
+          {
+            "name": "Krqck",
+            "id": 3695332
+          },
+          {
+            "name": "Marun",
+            "id": 5044703
+          },
+          {
+            "name": "Anatole Arakelov",
+            "id": 5044687
+          }
+        ],
+        "rank": 53,
+        "url": "https://itch.io/jam/game-off-2021/rate/1299458",
+        "title": "Boog Doodles",
+        "rating_count": 11,
+        "raw_score": 3.7272727272727,
+        "cover_url": "https://img.itch.zone/aW1nLzc1Njc1MDQucG5n/300x240%23c/G0SHpp.png",
+        "score": 3.7272727272727,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 3.7272727272727,
+            "rank": 53,
+            "raw_score": 3.7272727272727
+          },
+          {
+            "name": "Gameplay",
+            "score": 3,
+            "rank": 163,
+            "raw_score": 3
+          },
+          {
+            "name": "Graphics",
+            "score": 4.5454545454545,
+            "rank": 5,
+            "raw_score": 4.5454545454545
+          },
+          {
+            "name": "Audio",
+            "score": 3.2727272727273,
+            "rank": 136,
+            "raw_score": 3.2727272727273
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 4.0909090909091,
+            "rank": 33,
+            "raw_score": 4.0909090909091
+          },
+          {
+            "name": "Innovation",
+            "score": 3.5454545454545,
+            "rank": 77,
+            "raw_score": 3.5454545454545
+          }
+        ],
+        "id": 1299458
+      },
+      "entryData": {
+        "coolness": 13,
+        "created_at": "2021-12-01 20:48:38",
+        "id": 273502,
+        "url": "/jam/game-off-2021/rate/1299458",
+        "game": {
+          "title": "Boog Doodles",
+          "cover": "https://img.itch.zone/aW1nLzc1Njc1MDQucG5n/300x240%23c/G0SHpp.png",
+          "id": 1299458,
+          "url": "https://shroomcraft-games.itch.io/boog-doodles",
+          "cover_color": "#daf0a8",
+          "short_text": "Explore a quirky world with fantastical bugs",
+          "user": {
+            "url": "https://shroomcraft-games.itch.io",
+            "name": "Shroomcraft Games",
+            "id": 1510263
+          }
+        },
+        "contributors": [
+          {
+            "name": "Shroomcraft Games",
+            "url": "https://shroomcraft-games.itch.io"
+          },
+          {
+            "name": "Krqck",
+            "url": "https://krqck.itch.io"
+          },
+          {
+            "name": "Marun",
+            "url": "https://marun.itch.io"
+          },
+          {
+            "name": "Anatole Arakelov",
+            "url": "https://grampa-arakel.itch.io"
+          }
+        ],
+        "rating_count": 11
+      },
+      "details": {
+        "title": "Boog Doodles",
+        "description": "Boog Doodles is a chill narrative game about a young artist on her journey to draw all the fantastic bugs in the land of Slava.The locations and characters are inspired by Slavic culture and mythology.And this game was made during the \"Game off 2021 game jam\" the theme was \"bugs\".\nSome of the doodles from the journal:\n\nTeam:\nAnatole Arakelov: 3D Artist/ 2D Artist\nGarabed Khachadour:  World designer/3D Artist\nMaretta Aivazian:: 2D Artist\nCharbel Bechara: Programmer\nJonathan Urso: Sound Designer",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTI5OTQ1OC83NTg3OTcwLmpwZw==/original/rdKisR.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTI5OTQ1OC83NTg3NDkxLmpwZw==/original/oS5B9L.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTI5OTQ1OC83NTg3NDkzLmpwZw==/original/9hcq0K.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTI5OTQ1OC83NTg3NDkyLmpwZw==/original/vuplHX.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTI5OTQ1OC83NTY1NDY4LnBuZw==/original/JJRnk8.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Rating": "Rated 5.0 out of 5 stars(4 total ratings)",
+          "Authors": "Shroomcraft Games, Krqck, Marun, Anatole Arakelov",
+          "Genre": "Adventure",
+          "Tags": "3D, Atmospheric, bugs, Drawing, mythology, Narrative, sketching, slavic, Story Rich"
+        }
+      }
+    },
+    {
+      "gameId": 1280661,
+      "gameUrl": "https://soapykelp.itch.io/gnatscapade",
+      "overallRank": 79,
+      "topCategories": [
+        "Graphics",
+        "Theme interpretation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "soapykelp",
+            "id": 5098256
+          }
+        ],
+        "rank": 79,
+        "url": "https://itch.io/jam/game-off-2021/rate/1280661",
+        "title": "Gnatscapade",
+        "rating_count": 17,
+        "raw_score": 3.5882352941176,
+        "cover_url": "https://img.itch.zone/aW1nLzc0NjI1MzEucG5n/300x240%23c/saLP%2Fb.png",
+        "score": 3.5882352941176,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 3.5882352941176,
+            "rank": 79,
+            "raw_score": 3.5882352941176
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.2352941176471,
+            "rank": 117,
+            "raw_score": 3.2352941176471
+          },
+          {
+            "name": "Graphics",
+            "score": 4.5294117647059,
+            "rank": 6,
+            "raw_score": 4.5294117647059
+          },
+          {
+            "name": "Audio",
+            "score": 3.1764705882353,
+            "rank": 150,
+            "raw_score": 3.1764705882353
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 4.4117647058824,
+            "rank": 5,
+            "raw_score": 4.4117647058824
+          },
+          {
+            "name": "Innovation",
+            "score": 3.1176470588235,
+            "rank": 153,
+            "raw_score": 3.1176470588235
+          }
+        ],
+        "id": 1280661
+      },
+      "entryData": {
+        "created_at": "2021-11-27 22:05:28",
+        "id": 271656,
+        "url": "/jam/game-off-2021/rate/1280661",
+        "game": {
+          "title": "Gnatscapade",
+          "cover": "https://img.itch.zone/aW1nLzc0NjI1MzEucG5n/300x240%23c/saLP%2Fb.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 1280661,
+          "url": "https://soapykelp.itch.io/gnatscapade",
+          "cover_color": "#d1d7d0",
+          "short_text": "A gnat survival game",
+          "user": {
+            "url": "https://soapykelp.itch.io",
+            "name": "soapykelp",
+            "id": 5098256
+          }
+        },
+        "coolness": 9,
+        "rating_count": 17
+      },
+      "details": {
+        "title": "Gnatscapade",
+        "description": "Play as an overzealous gnat with the compulsion to lay eggs in someone's beautiful garden. It's you and your babies vs the humans!\nMove your cursor around to avoid threats and to lay eggs in the pots. How long can you and your kin survive?",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTI4MDY2MS83NDYyNjExLnBuZw==/original/tX6IJ5.png",
+          "https://img.itch.zone/aW1hZ2UvMTI4MDY2MS83NDYyNjEwLnBuZw==/original/uTkd8D.png",
+          "https://img.itch.zone/aW1hZ2UvMTI4MDY2MS83NDYyNjA5LnBuZw==/original/5xkhHS.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Author": "soapykelp",
+          "Genre": "Survival",
+          "Made with": "Unity",
+          "Tags": "2D, Colorful, Cute, Mouse only, Relaxing, Short, Side Scroller, Singleplayer, Unity",
+          "Code license": "MIT License",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 1291602,
+      "gameUrl": "https://atheniann.itch.io/boutheina-time",
+      "overallRank": 28,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "atheniann",
+            "id": 1649700
+          },
+          {
+            "name": "Yaz",
+            "id": 3428438
+          },
+          {
+            "name": "Chryss55555",
+            "id": 3149913
+          }
+        ],
+        "rank": 28,
+        "url": "https://itch.io/jam/game-off-2021/rate/1291602",
+        "title": "Boutheina: A Bug's Adventure",
+        "rating_count": 86,
+        "raw_score": 3.8837209302326,
+        "cover_url": "https://img.itch.zone/aW1nLzc1NDAxODMucG5n/300x240%23c/yfLCmm.png",
+        "score": 3.8837209302326,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 3.8837209302326,
+            "rank": 28,
+            "raw_score": 3.8837209302326
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.3720930232558,
+            "rank": 90,
+            "raw_score": 3.3720930232558
+          },
+          {
+            "name": "Graphics",
+            "score": 4.5,
+            "rank": 7,
+            "raw_score": 4.5
+          },
+          {
+            "name": "Audio",
+            "score": 3.7441860465116,
+            "rank": 45,
+            "raw_score": 3.7441860465116
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 3.906976744186,
+            "rank": 62,
+            "raw_score": 3.906976744186
+          },
+          {
+            "name": "Innovation",
+            "score": 4.1860465116279,
+            "rank": 13,
+            "raw_score": 4.1860465116279
+          }
+        ],
+        "id": 1291602
+      },
+      "entryData": {
+        "coolness": 51,
+        "created_at": "2021-12-01 21:34:54",
+        "id": 273582,
+        "url": "/jam/game-off-2021/rate/1291602",
+        "game": {
+          "title": "Boutheina: A Bug's Adventure",
+          "cover": "https://img.itch.zone/aW1nLzc1NDAxODMucG5n/300x240%23c/yfLCmm.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 1291602,
+          "url": "https://atheniann.itch.io/boutheina-time",
+          "cover_color": "#5f7c3d",
+          "short_text": "Join Boutheina on her journey to take down the Frog King!",
+          "user": {
+            "url": "https://atheniann.itch.io",
+            "name": "atheniann",
+            "id": 1649700
+          }
+        },
+        "contributors": [
+          {
+            "name": "atheniann",
+            "url": "https://atheniann.itch.io"
+          },
+          {
+            "name": "Yaz",
+            "url": "https://yazl.itch.io"
+          },
+          {
+            "name": "Chryss55555",
+            "url": "https://chryss55555.itch.io"
+          }
+        ],
+        "rating_count": 86
+      },
+      "details": {
+        "title": "Boutheina: A Bug's Adventure",
+        "description": "Note: Click on \"ESC\" key to adjust sensitivity - helps with drawing the flower!\n\nIt's a bugs world after all -\nSnoop around and use your flower stem to unlock new items you can use to progress! Help Boutheina rescue her friends from the unfortunate fate that has befallen them. Embark on a journey accross a bug's small world, where all things are large in comparison. Use your abilities to make your way around mean frogs and acquire disposable items.\nItems for DAYS!\n\nMeet VICIOUS Opponents!\n\nDev Team:\nGameplay Devs: Dakota Hall @dakotahall & Johnny Wan @johnnywan\n\nGame Design & Music : Athena Dai @atheniann\n\nArt & Animations: Yaz L  @yazl\n\nGithub Repo:\nhttps://github.com/athenadai27/GithubGameJam",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTI5MTYwMi83NTY4ODM0LnBuZw==/original/XiavUz.png",
+          "https://img.itch.zone/aW1hZ2UvMTI5MTYwMi83NTY4ODMzLnBuZw==/original/y3h%2FKD.png",
+          "https://img.itch.zone/aW1hZ2UvMTI5MTYwMi83NTY4ODM2LnBuZw==/original/iMRbB7.png",
+          "https://img.itch.zone/aW1hZ2UvMTI5MTYwMi83NTY4ODM1LnBuZw==/original/0PNj0K.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Authors": "atheniann, Yaz, Chryss55555",
+          "Genre": "Puzzle, Adventure",
+          "Made with": "Unity",
+          "Tags": "2D, Casual, Cute, Narrative, Puzzle-Platformer, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 1277246,
+      "gameUrl": "https://emofield.itch.io/bug",
+      "overallRank": 92,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Eric",
+            "id": 879286
+          }
+        ],
+        "rank": 92,
+        "url": "https://itch.io/jam/game-off-2021/rate/1277246",
+        "title": "B.U.G.",
+        "rating_count": 12,
+        "raw_score": 3.5,
+        "cover_url": "https://img.itch.zone/aW1nLzc1Njc3MzUucG5n/300x240%23c/L00%2B7j.png",
+        "score": 3.5,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 3.5,
+            "rank": 92,
+            "raw_score": 3.5
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.0833333333333,
+            "rank": 151,
+            "raw_score": 3.0833333333333
+          },
+          {
+            "name": "Graphics",
+            "score": 4.4166666666667,
+            "rank": 10,
+            "raw_score": 4.4166666666667
+          },
+          {
+            "name": "Audio",
+            "score": 3.4166666666667,
+            "rank": 98,
+            "raw_score": 3.4166666666667
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 3.1666666666667,
+            "rank": 200,
+            "raw_score": 3.1666666666667
+          },
+          {
+            "name": "Innovation",
+            "score": 3.25,
+            "rank": 128,
+            "raw_score": 3.25
+          }
+        ],
+        "id": 1277246
+      },
+      "entryData": {
+        "created_at": "2021-11-30 04:03:44",
+        "id": 272843,
+        "url": "/jam/game-off-2021/rate/1277246",
+        "game": {
+          "title": "B.U.G.",
+          "cover": "https://img.itch.zone/aW1nLzc1Njc3MzUucG5n/300x240%23c/L00%2B7j.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 1277246,
+          "url": "https://emofield.itch.io/bug",
+          "cover_color": "#ffffff",
+          "short_text": "A handful of mini-games all having the acronym BUG!",
+          "user": {
+            "url": "https://emofield.itch.io",
+            "name": "Eric",
+            "id": 879286
+          }
+        },
+        "coolness": 0,
+        "rating_count": 12
+      },
+      "details": {
+        "title": "B.U.G.",
+        "description": "A collection of quick mini-games to complete before time runs out!\nDRAG BLUE objects & CLICK YELLOW objects.\nSubmitted for the 2021 GitHub Game Off.\n=====\nThis is my third solo game jam, and I'd love to hear your feedback in the comments!\nThank you for checking it out!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTI3NzI0Ni83NTY3NzM5LnBuZw==/original/MwCpJ7.png",
+          "https://img.itch.zone/aW1hZ2UvMTI3NzI0Ni83NTY3NzQwLnBuZw==/original/QNYiMF.png",
+          "https://img.itch.zone/aW1hZ2UvMTI3NzI0Ni83NTY3NzM4LnBuZw==/original/Fh%2Bibv.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Author": "Eric",
+          "Made with": "Unity",
+          "Tags": "minigames"
+        }
+      }
+    },
+    {
+      "gameId": 1298371,
+      "gameUrl": "https://douglasorr.itch.io/fad",
+      "overallRank": 92,
+      "topCategories": [
+        "Audio",
+        "Innovation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "DouglasOrr",
+            "id": 3486471
+          }
+        ],
+        "rank": 92,
+        "url": "https://itch.io/jam/game-off-2021/rate/1298371",
+        "title": "FAD",
+        "rating_count": 10,
+        "raw_score": 3.5,
+        "cover_url": "https://img.itch.zone/aW1nLzc1NTI0NzAucG5n/300x240%23c/zxq%2FCm.png",
+        "score": 3.5,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 3.5,
+            "rank": 92,
+            "raw_score": 3.5
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.5,
+            "rank": 64,
+            "raw_score": 3.5
+          },
+          {
+            "name": "Graphics",
+            "score": 2.2,
+            "rank": 335,
+            "raw_score": 2.2
+          },
+          {
+            "name": "Audio",
+            "score": 4.4,
+            "rank": 1,
+            "raw_score": 4.4
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 2.1,
+            "rank": 358,
+            "raw_score": 2.1
+          },
+          {
+            "name": "Innovation",
+            "score": 4.7,
+            "rank": 1,
+            "raw_score": 4.7
+          }
+        ],
+        "id": 1298371
+      },
+      "entryData": {
+        "created_at": "2021-12-01 02:28:05",
+        "id": 273198,
+        "url": "/jam/game-off-2021/rate/1298371",
+        "game": {
+          "title": "FAD",
+          "cover": "https://img.itch.zone/aW1nLzc1NTI0NzAucG5n/300x240%23c/zxq%2FCm.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 1298371,
+          "url": "https://douglasorr.itch.io/fad",
+          "cover_color": "#000000",
+          "short_text": "Ears only",
+          "user": {
+            "url": "https://douglasorr.itch.io",
+            "name": "DouglasOrr",
+            "id": 3486471
+          }
+        },
+        "coolness": 7,
+        "rating_count": 10
+      },
+      "details": {
+        "title": "FAD",
+        "description": "Q: How good are your ears?\nFAD is an audio 👂-only game in which you're guided through an underwater maze by a mysterious radio contact 📻.\nInterrupting a routine dive, your submarine has just caught a massive electromagnetic pulse, knocking out all the cameras. You have only the most primitive technology on the boat and a mysterious radio contact called Marsha to guide you. How far can you get using just your ears to navigate? And who is Marsha?\nWhat people aren't saying about this game:\n\nThe game no one was looking for!\nMy screen is blank, 1 star.\nA real ear-opener!\nI don't know what they see in this game.\nThe only fad that was never popular.\nHmm... I don't like the sound of that.\n\nNote\nThis is my submission for GitHub Game Off 2021, and in that spirit here is the code. It is somewhat of a crazy experiment, but hope there's some fun hiding in there somewhere. Enjoy (the game, probably not the code)!",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzc1NTI0NzAucG5n/original/%2FTG2Bq.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "DouglasOrr",
+          "Genre": "Adventure, Simulation",
+          "Tags": "1d, Minimalist",
+          "Code license": "MIT License",
+          "Average session": "About a half-hour",
+          "Inputs": "Keyboard",
+          "Links": "Source code"
+        }
+      }
+    },
+    {
+      "gameId": 1264842,
+      "gameUrl": "https://diego-escalante.itch.io/fireflies",
+      "overallRank": 59,
+      "topCategories": [
+        "Audio"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Diego Escalante",
+            "id": 3671803
+          }
+        ],
+        "rank": 59,
+        "url": "https://itch.io/jam/game-off-2021/rate/1264842",
+        "title": "Fireflies",
+        "rating_count": 22,
+        "raw_score": 3.6818181818182,
+        "cover_url": "https://img.itch.zone/aW1nLzc1NjQzMzUucG5n/300x240%23c/Iw50Zh.png",
+        "score": 3.6818181818182,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 3.6818181818182,
+            "rank": 59,
+            "raw_score": 3.6818181818182
+          },
+          {
+            "name": "Gameplay",
+            "score": 3,
+            "rank": 163,
+            "raw_score": 3
+          },
+          {
+            "name": "Graphics",
+            "score": 4.0909090909091,
+            "rank": 36,
+            "raw_score": 4.0909090909091
+          },
+          {
+            "name": "Audio",
+            "score": 4.2727272727273,
+            "rank": 4,
+            "raw_score": 4.2727272727273
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 4.0454545454545,
+            "rank": 40,
+            "raw_score": 4.0454545454545
+          },
+          {
+            "name": "Innovation",
+            "score": 3.3636363636364,
+            "rank": 103,
+            "raw_score": 3.3636363636364
+          }
+        ],
+        "id": 1264842
+      },
+      "entryData": {
+        "created_at": "2021-12-01 11:13:58",
+        "id": 273317,
+        "url": "/jam/game-off-2021/rate/1264842",
+        "game": {
+          "title": "Fireflies",
+          "cover": "https://img.itch.zone/aW1nLzc1NjQzMzUucG5n/300x240%23c/Iw50Zh.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 1264842,
+          "url": "https://diego-escalante.itch.io/fireflies",
+          "cover_color": "#000000",
+          "short_text": "A short peaceful game about catching fireflies in a forest at night.",
+          "user": {
+            "url": "https://diego-escalante.itch.io",
+            "name": "Diego Escalante",
+            "id": 3671803
+          }
+        },
+        "coolness": 24,
+        "rating_count": 22
+      },
+      "details": {
+        "title": "Fireflies",
+        "description": "Description:\nCatch and release fireflies in the middle of the forest at night. Find a way to open the door in front of you. This is a very short game (5-10 minutes) that is heavily focused on mood and atmospheric elements. (But no scary elements!) Wear your headphones!\nJam Details:\n\nThis game was made in the month of November for the GitHub Game Off 2021 jam. The theme of the jam was \"bug.\" The game received the following rankings:\nCategory\nRank (out of 531 entries)\nOverall\n59\nGameplay\n163Audio\n4\nGraphics\n36Innovation\n103Theme\n40\nThe game was featured in the GitHub Blog!\nLinks:Jam Submission PageSource Code\nTools Used:\n\n\n\nUnity as the game engine.\nBlender for graphics.\nAbleton for sound editing.\nJetbrains Rider as my IDE of choice.\nSpacescape by Alex Peterson for the game's skybox.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTI2NDg0Mi83NTY0MzcwLnBuZw==/original/uWYu43.png",
+          "https://img.itch.zone/aW1hZ2UvMTI2NDg0Mi83NTY0MzcxLnBuZw==/original/UHOWFg.png",
+          "https://img.itch.zone/aW1hZ2UvMTI2NDg0Mi83NTY0MzcyLnBuZw==/original/ZchHoi.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 3.0 out of 5 stars(1 total ratings)",
+          "Author": "Diego Escalante",
+          "Made with": "Unity"
+        }
+      }
+    },
+    {
+      "gameId": 1300425,
+      "gameUrl": "https://nycelly.itch.io/codebreakers",
+      "overallRank": 13,
+      "topCategories": [
+        "Audio"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Nycelly",
+            "id": 1882543
+          },
+          {
+            "name": "ULion",
+            "id": 1882551
+          }
+        ],
+        "rank": 13,
+        "url": "https://itch.io/jam/game-off-2021/rate/1300425",
+        "title": "CodeBreakers",
+        "rating_count": 7,
+        "raw_score": 4.2857142857143,
+        "cover_url": "https://img.itch.zone/aW1nLzc1NzE1NDMuZ2lm/300x240%23c/Fp14qb.gif",
+        "score": 4.0089186286864,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 4.0089186286864,
+            "rank": 13,
+            "raw_score": 4.2857142857143
+          },
+          {
+            "name": "Gameplay",
+            "score": 4.0089186286864,
+            "rank": 14,
+            "raw_score": 4.2857142857143
+          },
+          {
+            "name": "Graphics",
+            "score": 3.7416573867739,
+            "rank": 83,
+            "raw_score": 4
+          },
+          {
+            "name": "Audio",
+            "score": 4.1425492496426,
+            "rank": 6,
+            "raw_score": 4.4285714285714
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 3.7416573867739,
+            "rank": 108,
+            "raw_score": 4
+          },
+          {
+            "name": "Innovation",
+            "score": 3.7416573867739,
+            "rank": 48,
+            "raw_score": 4
+          }
+        ],
+        "id": 1300425
+      },
+      "entryData": {
+        "coolness": 7,
+        "created_at": "2021-12-01 09:34:01",
+        "id": 273299,
+        "url": "/jam/game-off-2021/rate/1300425",
+        "game": {
+          "id": 1300425,
+          "url": "https://nycelly.itch.io/codebreakers",
+          "cover_color": "#2f3681",
+          "user": {
+            "url": "https://nycelly.itch.io",
+            "name": "Nycelly",
+            "id": 1882543
+          },
+          "title": "CodeBreakers",
+          "platforms": [
+            "windows"
+          ],
+          "gif_cover": "https://img.itch.zone/aW1nLzc1NzE1NDMuZ2lm/original/V2aCZF.gif",
+          "cover": "https://img.itch.zone/aW1nLzc1NzE1NDMuZ2lm/300x240%23c/Fp14qb.gif",
+          "short_text": "Debug to the rhythm!"
+        },
+        "contributors": [
+          {
+            "name": "Nycelly",
+            "url": "https://nycelly.itch.io"
+          },
+          {
+            "name": "ULion",
+            "url": "https://ulion.itch.io"
+          }
+        ],
+        "rating_count": 7
+      },
+      "details": {
+        "title": "CodeBreakers",
+        "description": "In this juicy, turn-based rhythm game, play as soldiers known as CodeBreakers whose job is to squash bugs in the CyberSpace! Fight in the beat of the music, and strategize how to exterminate these nasty pests in CodeBreakers!\nControls\nArrow Keys: UI Navigation\nSpacebar: Action\nCredits\nULion: Programming, Game Design\nNycelly: Music, Audio, Art, Programming\nExtra Help:\nGlumnior: Narrative, Playtesting, Game Design\nBelp: Art, Playtesting\nChangelog\n1.0.2 (Dec 2, 2021): Fix alt-tab unpausing the game when the game is paused.1.0.1 (Dec 2, 2021): Bug fixes, and game balancing.1.0.0 (Dec 1, 2021): Published game.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTMwMDQyNS83NTY0MTQyLnBuZw==/original/1VlfcG.png",
+          "https://img.itch.zone/aW1hZ2UvMTMwMDQyNS83NTY0MTI5LnBuZw==/original/ooF3Or.png",
+          "https://img.itch.zone/aW1hZ2UvMTMwMDQyNS83NTY0MTMxLnBuZw==/original/26Uoos.png",
+          "https://img.itch.zone/aW1hZ2UvMTMwMDQyNS83NTY0MTMyLnBuZw==/original/SngZC8.png",
+          "https://img.itch.zone/aW1hZ2UvMTMwMDQyNS83NTY0MTM2LnBuZw==/original/e93wx1.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.5 out of 5 stars(2 total ratings)",
+          "Authors": "Nycelly, ULion",
+          "Genre": "Rhythm",
+          "Tags": "2D, Music, Pixel Art, Turn-based Strategy"
+        }
+      }
+    },
+    {
+      "gameId": 1300356,
+      "gameUrl": "https://ethverie.itch.io/memoria-castaway",
+      "overallRank": 96,
+      "topCategories": [
+        "Audio"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "ethverie",
+            "id": 4915960
+          },
+          {
+            "name": "shuttlefrog",
+            "id": 711684
+          }
+        ],
+        "rank": 96,
+        "url": "https://itch.io/jam/game-off-2021/rate/1300356",
+        "title": "memoria castaway",
+        "rating_count": 7,
+        "raw_score": 3.7142857142857,
+        "cover_url": "https://img.itch.zone/aW1nLzc1NzA3NjIucG5n/300x240%23c/EfSc0M.png",
+        "score": 3.4743961448615,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 3.4743961448615,
+            "rank": 96,
+            "raw_score": 3.7142857142857
+          },
+          {
+            "name": "Gameplay",
+            "score": 2.538981798168,
+            "rank": 254,
+            "raw_score": 2.7142857142857
+          },
+          {
+            "name": "Graphics",
+            "score": 4.1425492496426,
+            "rank": 31,
+            "raw_score": 4.4285714285714
+          },
+          {
+            "name": "Audio",
+            "score": 4.1425492496426,
+            "rank": 6,
+            "raw_score": 4.4285714285714
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 1.6035674514745,
+            "rank": 433,
+            "raw_score": 1.7142857142857
+          },
+          {
+            "name": "Innovation",
+            "score": 2.1380899352994,
+            "rank": 309,
+            "raw_score": 2.2857142857143
+          }
+        ],
+        "id": 1300356
+      },
+      "entryData": {
+        "coolness": 4,
+        "created_at": "2021-12-01 08:02:14",
+        "id": 273279,
+        "url": "/jam/game-off-2021/rate/1300356",
+        "game": {
+          "title": "memoria castaway",
+          "cover": "https://img.itch.zone/aW1nLzc1NzA3NjIucG5n/300x240%23c/EfSc0M.png",
+          "platforms": [
+            "windows"
+          ],
+          "id": 1300356,
+          "url": "https://ethverie.itch.io/memoria-castaway",
+          "cover_color": "#f1c7ac",
+          "short_text": "fish up your memories or forget it all",
+          "user": {
+            "url": "https://ethverie.itch.io",
+            "name": "ethverie",
+            "id": 4915960
+          }
+        },
+        "contributors": [
+          {
+            "name": "ethverie",
+            "url": "https://ethverie.itch.io"
+          },
+          {
+            "name": "shuttlefrog",
+            "url": "https://shuttlefrog.itch.io"
+          }
+        ],
+        "rating_count": 7
+      },
+      "details": {
+        "title": "memoria castaway",
+        "description": "The ocean spans endlessly around my listless body and swallows the vast sky, threatening to swallow me too. It laps away at my consciousness, until I melt away into its embrace. Time stretches and expands, and I can’t tell if it’s been minutes or days or months. I can't remember anything.\n    \nMemoria Castaway is a point-and-click visual novel with fishing minigames. Follow our protagonist as they fish their way through their memories and, for better or worse, remember why they forgot them in the first place.\nControls: Click, Space, or Enter to interact.\nCreated for Game Off 2021. This game may not seem like it follows the theme but I swear it will become more clear in the future. Or maybe, you've simply forgotten how it relates...\nThis is a prototype, and is not the whole game. Stay tuned for when we release the completed game! Please don't yell at us for bugs, they were intentionally added to make this prototype still meet the game jam's theme and also this was made in under a month.\nKnown bugs: It's possible to get stuck on the fishing stage, due to fish no longer noticing the bob. If this happens, please use the skip button to skip past the fishing stage.\nCredits\nGame programming, background / character art, SFX by Froggo (shuttlefrog @ itch / twitter)\nNarrative writing, concept / level / character design, UI programming by Kain (ethverie @ itch / twitter)\nOpen source music by: MusMus, TAM Music, Purrple Cat",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTMwMDM1Ni83NTYzNzU5LnBuZw==/original/qYmgoR.png",
+          "https://img.itch.zone/aW1hZ2UvMTMwMDM1Ni83NTYzNzUxLnBuZw==/original/UzIS0Z.png",
+          "https://img.itch.zone/aW1hZ2UvMTMwMDM1Ni83NTYzOTk0LnBuZw==/original/egmXC3.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.3 out of 5 stars(4 total ratings)",
+          "Authors": "ethverie, shuttlefrog",
+          "Genre": "Visual Novel",
+          "Made with": "Godot",
+          "Tags": "2D, Atmospheric, Fishing, Point & Click, Short, Singleplayer",
+          "Average session": "About a half-hour"
+        }
+      }
+    },
+    {
+      "gameId": 1297644,
+      "gameUrl": "https://itsbugseasonteam.itch.io/its-bug-season",
+      "overallRank": 27,
+      "topCategories": [
+        "Audio"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "ItsBugSeasonTeam",
+            "id": 5135366
+          },
+          {
+            "name": "JulioPaniaguaM",
+            "id": 5145212
+          },
+          {
+            "name": "ArtemAnikin",
+            "id": 3932839
+          }
+        ],
+        "rank": 27,
+        "url": "https://itch.io/jam/game-off-2021/rate/1297644",
+        "title": "It´s Bug Season!",
+        "rating_count": 28,
+        "raw_score": 3.8928571428571,
+        "cover_url": "https://img.itch.zone/aW1nLzc1NjYwNjIucG5n/300x240%23c/%2FJl5m0.png",
+        "score": 3.8928571428571,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 3.8928571428571,
+            "rank": 27,
+            "raw_score": 3.8928571428571
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.25,
+            "rank": 115,
+            "raw_score": 3.25
+          },
+          {
+            "name": "Graphics",
+            "score": 4.1785714285714,
+            "rank": 28,
+            "raw_score": 4.1785714285714
+          },
+          {
+            "name": "Audio",
+            "score": 4.0714285714286,
+            "rank": 8,
+            "raw_score": 4.0714285714286
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 4.2142857142857,
+            "rank": 23,
+            "raw_score": 4.2142857142857
+          },
+          {
+            "name": "Innovation",
+            "score": 3.7142857142857,
+            "rank": 52,
+            "raw_score": 3.7142857142857
+          }
+        ],
+        "id": 1297644
+      },
+      "entryData": {
+        "coolness": 10,
+        "created_at": "2021-12-01 21:07:57",
+        "id": 273523,
+        "url": "/jam/game-off-2021/rate/1297644",
+        "game": {
+          "title": "It´s Bug Season!",
+          "cover": "https://img.itch.zone/aW1nLzc1NjYwNjIucG5n/300x240%23c/%2FJl5m0.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 1297644,
+          "url": "https://itsbugseasonteam.itch.io/its-bug-season",
+          "cover_color": "#ffffff",
+          "short_text": "Manage a whole ecosystem in order to withstand a fearsome winter",
+          "user": {
+            "url": "https://itsbugseasonteam.itch.io",
+            "name": "ItsBugSeasonTeam",
+            "id": 5135366
+          }
+        },
+        "contributors": [
+          {
+            "name": "ItsBugSeasonTeam",
+            "url": "https://itsbugseasonteam.itch.io"
+          },
+          {
+            "name": "JulioPaniaguaM",
+            "url": "https://juliopaniaguam.itch.io"
+          },
+          {
+            "name": "ArtemAnikin",
+            "url": "https://artemanikin.itch.io"
+          }
+        ],
+        "rating_count": 28
+      },
+      "details": {
+        "title": "It´s Bug Season!",
+        "description": "You'll have a year in this bug-infested forest to prepare for winter\nFind and catch bugs all around the forest, gather up as many insects as you can and expand your production until you get the necessary resources to be able to hibernate safely\nFeatures\n4 Unique insects to expand your forest with, each one with their own funcionality and resourceDiferent seasons that go by will have different effects for your forestWith each winter comes a huge storm in form of a resource-check you will need to surpass, you can expend all the surplus to get stronger for the next yearWatch how your forests gets richer the more you advance into the gameWatch out for different events that may shake things off, a drought or even a storm can alter up your progression\nControls\nWASD to change between camerasClick to interactEsc to Pause\nCredits\nJulio Paniagua Marin: Design & Programming.\nManuel Dominguez Candau: Design & Testing.\nArtem Anikin Zhytsky: Design & Visuals.\nGame made for the 2021 Github Game Off.Download and extract the .rar and open the .exe file.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTI5NzY0NC83NTY4MzcxLnBuZw==/original/JQ3Z2g.png",
+          "https://img.itch.zone/aW1hZ2UvMTI5NzY0NC83NTY4NTU2LnBuZw==/original/wwxpjf.png",
+          "https://img.itch.zone/aW1hZ2UvMTI5NzY0NC83NTY4NDU5LnBuZw==/original/s1oFXa.png",
+          "https://img.itch.zone/aW1hZ2UvMTI5NzY0NC83NTY4MzczLnBuZw==/original/T5s7Z%2F.png",
+          "https://img.itch.zone/aW1hZ2UvMTI5NzY0NC83NTY4MzcyLnBuZw==/original/2L1SoX.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 3.0 out of 5 stars(3 total ratings)",
+          "Authors": "ItsBugSeasonTeam, JulioPaniaguaM, ArtemAnikin",
+          "Genre": "Simulation, Strategy",
+          "Made with": "Unity, Blender, Adobe Photoshop, FL Studio",
+          "Tags": "Atmospheric, Clicker, Colorful, Endless, Forest, Incremental, Low-poly, nature, Point & Click",
+          "Average session": "A few minutes",
+          "Languages": "English"
+        }
+      }
+    },
+    {
+      "gameId": 1299715,
+      "gameUrl": "https://ldweller.itch.io/oshi",
+      "overallRank": 47,
+      "topCategories": [
+        "Audio"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "ldweller",
+            "id": 5048767
+          },
+          {
+            "name": "ZrEx",
+            "id": 4814743
+          },
+          {
+            "name": "stefanomusilli",
+            "id": 646619
+          },
+          {
+            "name": "Melomadness",
+            "id": 4493658
+          }
+        ],
+        "rank": 47,
+        "url": "https://itch.io/jam/game-off-2021/rate/1299715",
+        "title": "Oshi",
+        "rating_count": 39,
+        "raw_score": 3.7692307692308,
+        "cover_url": "https://img.itch.zone/aW1nLzc1NjgxNDgucG5n/300x240%23c/zLXIN6.png",
+        "score": 3.7692307692308,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 3.7692307692308,
+            "rank": 47,
+            "raw_score": 3.7692307692308
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.3076923076923,
+            "rank": 104,
+            "raw_score": 3.3076923076923
+          },
+          {
+            "name": "Graphics",
+            "score": 4.0512820512821,
+            "rank": 41,
+            "raw_score": 4.0512820512821
+          },
+          {
+            "name": "Audio",
+            "score": 4.0512820512821,
+            "rank": 9,
+            "raw_score": 4.0512820512821
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 4.025641025641,
+            "rank": 43,
+            "raw_score": 4.025641025641
+          },
+          {
+            "name": "Innovation",
+            "score": 3.2820512820513,
+            "rank": 124,
+            "raw_score": 3.2820512820513
+          }
+        ],
+        "id": 1299715
+      },
+      "entryData": {
+        "coolness": 87,
+        "created_at": "2021-12-01 20:54:01",
+        "id": 273509,
+        "url": "/jam/game-off-2021/rate/1299715",
+        "game": {
+          "title": "Oshi",
+          "cover": "https://img.itch.zone/aW1nLzc1NjgxNDgucG5n/300x240%23c/zLXIN6.png",
+          "platforms": [
+            "windows",
+            "osx"
+          ],
+          "id": 1299715,
+          "url": "https://ldweller.itch.io/oshi",
+          "cover_color": "#882724",
+          "short_text": "Lost and alone, get Oshi home with the help of her many-legged friends!",
+          "user": {
+            "url": "https://ldweller.itch.io",
+            "name": "ldweller",
+            "id": 5048767
+          }
+        },
+        "contributors": [
+          {
+            "name": "ldweller",
+            "url": "https://ldweller.itch.io"
+          },
+          {
+            "name": "ZrEx",
+            "url": "https://abdulla-ali-waleed.itch.io"
+          },
+          {
+            "name": "stefanomusilli",
+            "url": "https://stefanomusilli.itch.io"
+          },
+          {
+            "name": "Melomadness",
+            "url": "https://melomadness.itch.io"
+          }
+        ],
+        "rating_count": 39
+      },
+      "details": {
+        "title": "Oshi",
+        "description": "Caught in a sudden downpour and washed away, Oshi - the brave young explorer must now find her way home through and adventure through the world she's never seen.\n\n**Update**\nWith the nature of the Jam, the 2 new files do not contain changes/fixes! We want the game to be presented as it was when the Jam ended! The only change is however an uploaded Mac version and a level-select page so users can skip levels if they wish!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTI5OTcxNS83NTY4MTM3LnBuZw==/original/zwDlpx.png",
+          "https://img.itch.zone/aW1hZ2UvMTI5OTcxNS83NTY4MTMzLnBuZw==/original/CFyguv.png",
+          "https://img.itch.zone/aW1hZ2UvMTI5OTcxNS83NTY4MTI2LnBuZw==/original/%2BaLhli.png",
+          "https://img.itch.zone/aW1hZ2UvMTI5OTcxNS83NTY4MTMwLnBuZw==/original/j0d82C.png",
+          "https://img.itch.zone/aW1hZ2UvMTI5OTcxNS83NTY4MTI4LnBuZw==/original/XXQhQy.png",
+          "https://img.itch.zone/aW1hZ2UvMTI5OTcxNS83NTY4MTM2LnBuZw==/original/b1nXix.png",
+          "https://img.itch.zone/aW1hZ2UvMTI5OTcxNS83NTY4MTM1LnBuZw==/original/5Ancvi.png",
+          "https://img.itch.zone/aW1hZ2UvMTI5OTcxNS83NTY4MTI3LnBuZw==/original/%2BHwoOX.png",
+          "https://img.itch.zone/aW1hZ2UvMTI5OTcxNS83NTY4MTMxLnBuZw==/original/w2Du%2B5.png",
+          "https://img.itch.zone/aW1hZ2UvMTI5OTcxNS83NTY4MTMyLnBuZw==/original/vpckUZ.png",
+          "https://img.itch.zone/aW1hZ2UvMTI5OTcxNS83NTY4MTI5LnBuZw==/original/bbYuLx.png",
+          "https://img.itch.zone/aW1hZ2UvMTI5OTcxNS83NTY4MTI1LnBuZw==/original/P%2FAcqt.png",
+          "https://img.itch.zone/aW1hZ2UvMTI5OTcxNS83NTY4MTM0LnBuZw==/original/mk172x.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows, macOS",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Authors": "ldweller, ZrEx, stefanomusilli, Melomadness",
+          "Genre": "Adventure",
+          "Tags": "Casual, Exploration, Female Protagonist, Isometric, My First Game Jam, Pixel Art, Short"
+        }
+      }
+    },
+    {
+      "gameId": 1291063,
+      "gameUrl": "https://starzonmyarmz.itch.io/trapped",
+      "overallRank": 77,
+      "topCategories": [
+        "Audio"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "starzonmyarmz",
+            "id": 1377064
+          }
+        ],
+        "rank": 77,
+        "url": "https://itch.io/jam/game-off-2021/rate/1291063",
+        "title": "trapped",
+        "rating_count": 22,
+        "raw_score": 3.5909090909091,
+        "cover_url": "https://img.itch.zone/aW1nLzc1MzI0NTAucG5n/300x240%23c/nybqld.png",
+        "score": 3.5909090909091,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 3.5909090909091,
+            "rank": 77,
+            "raw_score": 3.5909090909091
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.1818181818182,
+            "rank": 131,
+            "raw_score": 3.1818181818182
+          },
+          {
+            "name": "Graphics",
+            "score": 3.3636363636364,
+            "rank": 149,
+            "raw_score": 3.3636363636364
+          },
+          {
+            "name": "Audio",
+            "score": 4.0454545454545,
+            "rank": 10,
+            "raw_score": 4.0454545454545
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 3.6818181818182,
+            "rank": 121,
+            "raw_score": 3.6818181818182
+          },
+          {
+            "name": "Innovation",
+            "score": 4.0909090909091,
+            "rank": 18,
+            "raw_score": 4.0909090909091
+          }
+        ],
+        "id": 1291063
+      },
+      "entryData": {
+        "created_at": "2021-11-27 18:38:48",
+        "id": 271623,
+        "url": "/jam/game-off-2021/rate/1291063",
+        "game": {
+          "title": "trapped",
+          "cover": "https://img.itch.zone/aW1nLzc1MzI0NTAucG5n/300x240%23c/nybqld.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 1291063,
+          "url": "https://starzonmyarmz.itch.io/trapped",
+          "cover_color": "#000",
+          "short_text": "A survival game about a fly trying to survive after mysteriously being sucked into a phone",
+          "user": {
+            "url": "https://starzonmyarmz.itch.io",
+            "name": "starzonmyarmz",
+            "id": 1377064
+          }
+        },
+        "coolness": 37,
+        "rating_count": 22
+      },
+      "details": {
+        "title": "trapped",
+        "description": "Created for the #GitHubGameOff 2021. A survival game about a fly trying to survive after mysteriously being sucked into a phone. Tilt your phone to move the fly around to avoid colliding with the various shapes on screen.\nThis game features a minimalistic atmosphere and artwork, combined with originally composed/performed music. Built using HTML, CSS, and JS on top of the p5.js framework, as well as some p5.js plugins. Check out the source code if that tickles your fancy.\nIf you like the music, check out the soundtrack!\n\n\n\n\n\nThis game is designed to be played on a mobile device, and requires permission to use it's motion sensors. Because of how Itch embeds work, some mobile devices (such as iPhones) are unable to grant access. To work around this limitation, this game is hosted on GitHub Pages: https://starzonmyarmz.github.io/trapped/.\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTI5MTA2My83NTMyNDUxLnBuZw==/original/NQFhR6.png",
+          "https://img.itch.zone/aW1hZ2UvMTI5MTA2My83NTMyNDUzLnBuZw==/original/wZt2Uq.png",
+          "https://img.itch.zone/aW1hZ2UvMTI5MTA2My83NTMyNDUyLnBuZw==/original/vHnzAG.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "starzonmyarmz",
+          "Genre": "Survival",
+          "Made with": "Aseprite, p5.js",
+          "Tags": "GitHub, mobile, p5js",
+          "Code license": "MIT License",
+          "Average session": "A few minutes",
+          "Inputs": "Accelerometer, Smartphone",
+          "Links": "Twitter/X, Source code, Homepage"
+        }
+      }
+    },
+    {
+      "gameId": 1277446,
+      "gameUrl": "https://thealliones.itch.io/bugs-inc",
+      "overallRank": 60,
+      "topCategories": [
+        "Theme interpretation",
+        "Innovation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "TheAlliones",
+            "id": 5012193
+          }
+        ],
+        "rank": 60,
+        "url": "https://itch.io/jam/game-off-2021/rate/1277446",
+        "title": "Bugs Inc.",
+        "rating_count": 9,
+        "raw_score": 3.6666666666667,
+        "cover_url": "https://img.itch.zone/aW1nLzc1Mzk4NDMuanBn/300x240%23c/x%2BinH6.jpg",
+        "score": 3.6666666666667,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 3.6666666666667,
+            "rank": 60,
+            "raw_score": 3.6666666666667
+          },
+          {
+            "name": "Gameplay",
+            "score": 4,
+            "rank": 15,
+            "raw_score": 4
+          },
+          {
+            "name": "Graphics",
+            "score": 3.4444444444444,
+            "rank": 132,
+            "raw_score": 3.4444444444444
+          },
+          {
+            "name": "Audio",
+            "score": 3.4444444444444,
+            "rank": 92,
+            "raw_score": 3.4444444444444
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 4.4444444444444,
+            "rank": 4,
+            "raw_score": 4.4444444444444
+          },
+          {
+            "name": "Innovation",
+            "score": 4.2222222222222,
+            "rank": 10,
+            "raw_score": 4.2222222222222
+          }
+        ],
+        "id": 1277446
+      },
+      "entryData": {
+        "created_at": "2021-11-29 14:42:00",
+        "id": 272501,
+        "url": "/jam/game-off-2021/rate/1277446",
+        "game": {
+          "title": "Bugs Inc.",
+          "platforms": [
+            "web"
+          ],
+          "id": 1277446,
+          "url": "https://thealliones.itch.io/bugs-inc",
+          "cover_color": "#0e1f1b",
+          "cover": "https://img.itch.zone/aW1nLzc1Mzk4NDMuanBn/300x240%23c/x%2BinH6.jpg",
+          "user": {
+            "url": "https://thealliones.itch.io",
+            "name": "TheAlliones",
+            "id": 5012193
+          }
+        },
+        "coolness": 5,
+        "rating_count": 9
+      },
+      "details": {
+        "title": "Bugs Inc.",
+        "description": "Bugs inc.\nIn this puzzel Platformer you play as 5 Different Bugs, to reach the end of each level.Have fun!\nControls:- A D or  Arrow Keys to move- W or Space to jump- Q to switch between Bugs\nFind the Source Code at GitHub.",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzc1Mzk4NDMuanBn/original/Sjv8fO.jpg"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Author": "TheAlliones",
+          "Genre": "Platformer, Puzzle",
+          "Made with": "Unity",
+          "Tags": "2D"
+        }
+      }
+    },
+    {
+      "gameId": 1300984,
+      "gameUrl": "https://dezhango.itch.io/venus-pie-trap",
+      "overallRank": 60,
+      "topCategories": [
+        "Theme interpretation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "dezhango",
+            "id": 4980439
+          },
+          {
+            "name": "zed_studios",
+            "id": 222338
+          }
+        ],
+        "rank": 60,
+        "url": "https://itch.io/jam/game-off-2021/rate/1300984",
+        "title": "Venus Pie Trap",
+        "rating_count": 24,
+        "raw_score": 3.6666666666667,
+        "cover_url": "https://img.itch.zone/aW1nLzc1Njc5MTgucG5n/300x240%23c/wCG5LL.png",
+        "score": 3.6666666666667,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 3.6666666666667,
+            "rank": 60,
+            "raw_score": 3.6666666666667
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.6666666666667,
+            "rank": 41,
+            "raw_score": 3.6666666666667
+          },
+          {
+            "name": "Graphics",
+            "score": 3.5833333333333,
+            "rank": 112,
+            "raw_score": 3.5833333333333
+          },
+          {
+            "name": "Audio",
+            "score": 3.2916666666667,
+            "rank": 131,
+            "raw_score": 3.2916666666667
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 4.375,
+            "rank": 6,
+            "raw_score": 4.375
+          },
+          {
+            "name": "Innovation",
+            "score": 3.5833333333333,
+            "rank": 75,
+            "raw_score": 3.5833333333333
+          }
+        ],
+        "id": 1300984
+      },
+      "entryData": {
+        "coolness": 6,
+        "created_at": "2021-12-01 18:50:57",
+        "id": 273444,
+        "url": "/jam/game-off-2021/rate/1300984",
+        "game": {
+          "title": "Venus Pie Trap",
+          "cover": "https://img.itch.zone/aW1nLzc1Njc5MTgucG5n/300x240%23c/wCG5LL.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 1300984,
+          "url": "https://dezhango.itch.io/venus-pie-trap",
+          "cover_color": "#4f6781",
+          "short_text": "Stop the flies from contaminating the pie!",
+          "user": {
+            "url": "https://dezhango.itch.io",
+            "name": "dezhango",
+            "id": 4980439
+          }
+        },
+        "contributors": [
+          {
+            "name": "dezhango",
+            "url": "https://dezhango.itch.io"
+          },
+          {
+            "name": "zed_studios",
+            "url": "https://zed-studios.itch.io"
+          }
+        ],
+        "rating_count": 24
+      },
+      "details": {
+        "title": "Venus Pie Trap",
+        "description": "Flies are on their way to spoil the freshly baked pie. Luckily, the baker has planted some venus flytraps to guard his prize. Devour the flies before they ruin the pie!\nControls: Q, W, E keys to move the venus flytraps\nNote: If the game doesn't load, try refreshing the page. If that doesn't work, try in a different browser.",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzc1Njc5MTgucG5n/original/Y7lYPd.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Authors": "dezhango, zed_studios",
+          "Tags": "2D, High Score, minigames, Pixel Art, Tower Defense"
+        }
+      }
+    },
+    {
+      "gameId": 1298667,
+      "gameUrl": "https://patrickbard.itch.io/bugnic",
+      "overallRank": 53,
+      "topCategories": [
+        "Theme interpretation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "patrickbard",
+            "id": 1189591
+          },
+          {
+            "name": "giupetry",
+            "id": 4819393
+          }
+        ],
+        "rank": 53,
+        "url": "https://itch.io/jam/game-off-2021/rate/1298667",
+        "title": "Bugnic",
+        "rating_count": 22,
+        "raw_score": 3.7272727272727,
+        "cover_url": "https://img.itch.zone/aW1nLzc1NjU5MDMucG5n/300x240%23c/ubisTl.png",
+        "score": 3.7272727272727,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 3.7272727272727,
+            "rank": 53,
+            "raw_score": 3.7272727272727
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.5454545454545,
+            "rank": 56,
+            "raw_score": 3.5454545454545
+          },
+          {
+            "name": "Graphics",
+            "score": 3.5,
+            "rank": 121,
+            "raw_score": 3.5
+          },
+          {
+            "name": "Audio",
+            "score": 3.3636363636364,
+            "rank": 106,
+            "raw_score": 3.3636363636364
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 4.3636363636364,
+            "rank": 7,
+            "raw_score": 4.3636363636364
+          },
+          {
+            "name": "Innovation",
+            "score": 3.0454545454545,
+            "rank": 164,
+            "raw_score": 3.0454545454545
+          }
+        ],
+        "id": 1298667
+      },
+      "entryData": {
+        "coolness": 18,
+        "created_at": "2021-12-01 03:52:46",
+        "id": 273227,
+        "url": "/jam/game-off-2021/rate/1298667",
+        "game": {
+          "title": "Bugnic",
+          "platforms": [
+            "android",
+            "web"
+          ],
+          "id": 1298667,
+          "url": "https://patrickbard.itch.io/bugnic",
+          "cover_color": "#eeeeee",
+          "cover": "https://img.itch.zone/aW1nLzc1NjU5MDMucG5n/300x240%23c/ubisTl.png",
+          "user": {
+            "url": "https://patrickbard.itch.io",
+            "name": "patrickbard",
+            "id": 1189591
+          }
+        },
+        "contributors": [
+          {
+            "name": "patrickbard",
+            "url": "https://patrickbard.itch.io"
+          },
+          {
+            "name": "giupetry",
+            "url": "https://giupetry.itch.io"
+          }
+        ],
+        "rating_count": 22
+      },
+      "details": {
+        "title": "Bugnic",
+        "description": "BUGNIC\nhttps://github.com/patrickbard/bugnic\nYou and your miss go out to a picnic, but lots of bugs got in your way.\nAs a fancy frog that you are, you do not want to get your hands dirty so you use a flyswatter.\n\nDuring game play, use ESC/SPACE to pause.\nUse your mouse to control the flyswatter and left click to strike a hit.\nTake notice that there is a slight delay between clicking and actually hitting your targets... and you can use that in your advantage.\nTry to kill as many bugs as you can before too many of them got out of your view.\nLICENSING:Mike Franklyn songs provided by Epidemic Sounds\n\nWinner Winner! by Kevin MacLeod\nLink: https://incompetech.filmmusic.io/song/4630-winner-winner-\nLicense: https://filmmusic.io/standard-license\n\nFlighty Theme by Kevin MacLeod\nLink: https://incompetech.filmmusic.io/song/3764-flighty-theme\nLicense: https://filmmusic.io/standard-license\n\nThe Forest and the Trees by Kevin MacLeod\nLink: https://incompetech.filmmusic.io/song/4494-the-forest-and-the-trees\nLicense: https://filmmusic.io/standard-license\n\nFluffing a Duck by Kevin MacLeod\nLink: https://incompetech.filmmusic.io/song/3766-fluffing-a-duck\nLicense: https://filmmusic.io/standard-license\n\nComic Hero by Kevin MacLeod\nLink: https://incompetech.filmmusic.io/song/3532-comic-hero\nLicense: https://filmmusic.io/standard-license\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTI5ODY2Ny83NTY5MzcyLmpwZw==/original/kJy7%2Bb.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTI5ODY2Ny83NTY5MzczLmpwZw==/original/Ya4kE9.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTI5ODY2Ny83NTY5Mzc0LmpwZw==/original/7FZNMi.jpg"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Android",
+          "Authors": "patrickbard, giupetry",
+          "Made with": "Unity",
+          "Average session": "A few minutes"
+        }
+      }
+    },
+    {
+      "gameId": 1296812,
+      "gameUrl": "https://mama-goblin-games.itch.io/feature",
+      "overallRank": 43,
+      "topCategories": [
+        "Theme interpretation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Mama Goblin Games",
+            "id": 4063273
+          }
+        ],
+        "rank": 43,
+        "url": "https://itch.io/jam/game-off-2021/rate/1296812",
+        "title": "Feature",
+        "rating_count": 18,
+        "raw_score": 3.7777777777778,
+        "cover_url": "https://img.itch.zone/aW1nLzc2MDAwOTgucG5n/300x240%23c/4s1nqe.png",
+        "score": 3.7777777777778,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 3.7777777777778,
+            "rank": 43,
+            "raw_score": 3.7777777777778
+          },
+          {
+            "name": "Gameplay",
+            "score": 4,
+            "rank": 15,
+            "raw_score": 4
+          },
+          {
+            "name": "Graphics",
+            "score": 2.7777777777778,
+            "rank": 255,
+            "raw_score": 2.7777777777778
+          },
+          {
+            "name": "Audio",
+            "score": 3,
+            "rank": 171,
+            "raw_score": 3
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 4.3333333333333,
+            "rank": 9,
+            "raw_score": 4.3333333333333
+          },
+          {
+            "name": "Innovation",
+            "score": 4.1666666666667,
+            "rank": 14,
+            "raw_score": 4.1666666666667
+          }
+        ],
+        "id": 1296812
+      },
+      "entryData": {
+        "created_at": "2021-12-01 12:58:32",
+        "id": 273336,
+        "url": "/jam/game-off-2021/rate/1296812",
+        "game": {
+          "title": "Feature",
+          "cover": "https://img.itch.zone/aW1nLzc2MDAwOTgucG5n/300x240%23c/4s1nqe.png",
+          "platforms": [
+            "windows",
+            "osx",
+            "web"
+          ],
+          "id": 1296812,
+          "url": "https://mama-goblin-games.itch.io/feature",
+          "cover_color": "#000000",
+          "short_text": "It's not a bug. A puzzle platformer about causing bugs... um, features.",
+          "user": {
+            "url": "https://mama-goblin-games.itch.io",
+            "name": "Mama Goblin Games",
+            "id": 4063273
+          }
+        },
+        "coolness": 19,
+        "rating_count": 18
+      },
+      "details": {
+        "title": "Feature",
+        "description": "It's not a bug. A puzzle platformer about messing up code.\nIn this puzzle platformer, you'll jump your way through levels, messing with the code of the game to create bugs features that allow you to make it to the end of the level. Slamming on parts of the code that are exposed through the protective mesh allow you to change the code of the game itself.\nThis game was created during the 2021 GitHub Game Off as an interpretation of this years theme: Bug! This was a family effort between father and sons (12 and 14) where the kids did most of the work and the father played a supporting role in our first game jam. After the game jam is over, we'll add way more levels and new pieces of code to manipulate to create more bugs features.\nFor transparency for the game jam reviewers: we uploaded the web version of the game after the submission deadline, but we haven't made any changes to the game in that time - just added web/HTML5 as a option so you can try it in your browser without installing.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTI5NjgxMi83NTYzMDY1LnBuZw==/original/ufs3Dj.png",
+          "https://img.itch.zone/aW1hZ2UvMTI5NjgxMi83NTQ0ODUyLnBuZw==/original/CDBvyo.png",
+          "https://img.itch.zone/aW1hZ2UvMTI5NjgxMi83NTQ0ODc3LnBuZw==/original/aIkxY%2B.png",
+          "https://img.itch.zone/aW1hZ2UvMTI5NjgxMi83NTQ0ODQ4LnBuZw==/original/VNNWAb.png",
+          "https://img.itch.zone/aW1hZ2UvMTI5NjgxMi83NTQ0ODQ5LnBuZw==/original/ZHFrE8.png",
+          "https://img.itch.zone/aW1hZ2UvMTI5NjgxMi83NTQ0ODUwLnBuZw==/original/ESVXcP.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows, macOS",
+          "Author": "Mama Goblin Games",
+          "Genre": "Platformer, Puzzle",
+          "Made with": "GameMaker, GIMP",
+          "Tags": "2D, GitHub, My First Game Jam, Puzzle-Platformer",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard",
+          "Accessibility": "Interactive tutorial",
+          "Links": "Homepage"
+        }
+      }
+    },
+    {
+      "gameId": 1300817,
+      "gameUrl": "https://alexvwegen.itch.io/bugs-on-the-meadow",
+      "overallRank": 110,
+      "topCategories": [
+        "Theme interpretation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "alexvwegen",
+            "id": 5145248
+          }
+        ],
+        "rank": 110,
+        "url": "https://itch.io/jam/game-off-2021/rate/1300817",
+        "title": "Bugs On The Meadow",
+        "rating_count": 15,
+        "raw_score": 3.4,
+        "cover_url": "https://img.itch.zone/aW1nLzc1NjYyNjcucG5n/300x240%23c/wPPSQs.png",
+        "score": 3.4,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 3.4,
+            "rank": 110,
+            "raw_score": 3.4
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.2,
+            "rank": 128,
+            "raw_score": 3.2
+          },
+          {
+            "name": "Graphics",
+            "score": 4.4,
+            "rank": 11,
+            "raw_score": 4.4
+          },
+          {
+            "name": "Audio",
+            "score": 3.5333333333333,
+            "rank": 75,
+            "raw_score": 3.5333333333333
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 4.3333333333333,
+            "rank": 9,
+            "raw_score": 4.3333333333333
+          },
+          {
+            "name": "Innovation",
+            "score": 3.4,
+            "rank": 98,
+            "raw_score": 3.4
+          }
+        ],
+        "id": 1300817
+      },
+      "entryData": {
+        "created_at": "2021-12-01 16:13:12",
+        "id": 273381,
+        "url": "/jam/game-off-2021/rate/1300817",
+        "game": {
+          "title": "Bugs On The Meadow",
+          "cover": "https://img.itch.zone/aW1nLzc1NjYyNjcucG5n/300x240%23c/wPPSQs.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 1300817,
+          "url": "https://alexvwegen.itch.io/bugs-on-the-meadow",
+          "cover_color": "#eeeeee",
+          "short_text": "Be a bee, collect pollen & save some flowers.",
+          "user": {
+            "url": "https://alexvwegen.itch.io",
+            "name": "alexvwegen",
+            "id": 5145248
+          }
+        },
+        "coolness": 0,
+        "rating_count": 15
+      },
+      "details": {
+        "title": "Bugs On The Meadow",
+        "description": " You play a small bee on a small, flowered meadow. Just fly from flower to flower, collect pollen, seed new flowers - life could be just honey for you. \nIf only there wasn't this one bug who started eating your beloved flowers. And damn, it even gets children...\nTo collect pollen, fly to a flower and hit and hold space (it gets stucked sometimes, just try again or try another flower). Planting a seed with right click costs 30 pollen. Gameover when there are no flowers left on the little meadow. Play it right here in the browser or download the zip, unpack it and fire the .exe ! :-)",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzc1NjYyNjcucG5n/original/W7NXDy.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "alexvwegen",
+          "Genre": "Survival",
+          "Made with": "Unity",
+          "Tags": "Atmospheric, nature, Short"
+        }
+      }
+    },
+    {
+      "gameId": 1300677,
+      "gameUrl": "https://christopherbot.itch.io/decomposer",
+      "overallRank": 140,
+      "topCategories": [
+        "Innovation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "christopherbot",
+            "id": 1336001
+          }
+        ],
+        "rank": 140,
+        "url": "https://itch.io/jam/game-off-2021/rate/1300677",
+        "title": "Decomposer",
+        "rating_count": 28,
+        "raw_score": 3.25,
+        "cover_url": "https://img.itch.zone/aW1nLzc1NjU1NjYucG5n/300x240%23c/UYa%2B5j.png",
+        "score": 3.25,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 3.25,
+            "rank": 140,
+            "raw_score": 3.25
+          },
+          {
+            "name": "Gameplay",
+            "score": 2.5,
+            "rank": 265,
+            "raw_score": 2.5
+          },
+          {
+            "name": "Graphics",
+            "score": 3.3928571428571,
+            "rank": 140,
+            "raw_score": 3.3928571428571
+          },
+          {
+            "name": "Audio",
+            "score": 3.8928571428571,
+            "rank": 24,
+            "raw_score": 3.8928571428571
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 3.3928571428571,
+            "rank": 165,
+            "raw_score": 3.3928571428571
+          },
+          {
+            "name": "Innovation",
+            "score": 4.4642857142857,
+            "rank": 4,
+            "raw_score": 4.4642857142857
+          }
+        ],
+        "id": 1300677
+      },
+      "entryData": {
+        "created_at": "2021-12-01 14:14:21",
+        "id": 273351,
+        "url": "/jam/game-off-2021/rate/1300677",
+        "game": {
+          "title": "Decomposer",
+          "platforms": [
+            "web"
+          ],
+          "id": 1300677,
+          "url": "https://christopherbot.itch.io/decomposer",
+          "cover": "https://img.itch.zone/aW1nLzc1NjU1NjYucG5n/300x240%23c/UYa%2B5j.png",
+          "short_text": "A music creation game with a pesky twist",
+          "user": {
+            "url": "https://christopherbot.itch.io",
+            "name": "christopherbot",
+            "id": 1336001
+          }
+        },
+        "coolness": 27,
+        "rating_count": 28
+      },
+      "details": {
+        "title": "Decomposer",
+        "description": "Decomposer\nA music creation game where pesky bugs will try to ruin your composition. Bump into them to shoo them away.\nYou can save up to two songs to your local storage and load them later for playback.\n\nThe game is built with Phaser 3.Player controls:W / Up - jumpA / Left - move leftD / Right - move right\nNote controls:Click - place or remove note in range\nPlayback shortcuts:Space - play/pauseZ - go to beginningX - seek backwardC - seek forward\nShare you music with others in the comment\n\nHacks incoming... :)Get your song dataYou can get retrieve the data for the song by opening the browser developer tools  (right click on the page + `Inspect`) and navigating to:`Application > Local Storage` (Chrome)`Storage > Local Storage` (Firefox) and clicking the url that is NOT christopherbot.itch.io. In here, look for `decomposer_game_save_1` or `decomposer_game_save_2` and copy the Value.\nPaste this into a comment for others to copy.To play someone else's song, copy their Value. It should look something like this:[{\"x\":155,\"y\":505},{\"x\":205,\"y\":470},{\"x\":255,\"y\":435},{\"x\":305,\"y\":382.5}]Make sure the game is started and then in the browser developer tools, navigate to:`Application > Local Storage` (Chrome)`Storage > Local Storage` (Firefox)and click on the url that is NOT christopherbot.itch.io.Enter a new Key Value pair with the following:Key: decomposer_game_save_1 (or decomposer_game_save_1)Value: <the_copied_value>\nYou will be able to load the respective slot and playback the song.\nHappy composing!\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTMwMDY3Ny83NTY1NTczLnBuZw==/original/CV6eva.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "christopherbot",
+          "Genre": "Simulation, Platformer",
+          "Tags": "2D, bug, keyboard, mouse, mushroom, Music, Music Production, phaser3, piano"
+        }
+      }
+    },
+    {
+      "gameId": 1278918,
+      "gameUrl": "https://aesaire.itch.io/withoutabandonware",
+      "overallRank": 75,
+      "topCategories": [
+        "Innovation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Aesaire",
+            "id": 2054459
+          },
+          {
+            "name": "Bechstein",
+            "id": 98972
+          },
+          {
+            "name": "elisewongcreations",
+            "id": 5141840
+          },
+          {
+            "name": "XaviourNyx",
+            "id": 5148415
+          },
+          {
+            "name": "valaryon",
+            "id": 2552715
+          },
+          {
+            "name": "aaronlws",
+            "id": 2841656
+          }
+        ],
+        "rank": 75,
+        "url": "https://itch.io/jam/game-off-2021/rate/1278918",
+        "title": "Without Abandonware",
+        "rating_count": 15,
+        "raw_score": 3.6,
+        "cover_url": "https://img.itch.zone/aW1nLzc1NjU2MTkucG5n/300x240%23c/t2bfG%2F.png",
+        "score": 3.6,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 3.6,
+            "rank": 75,
+            "raw_score": 3.6
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.7333333333333,
+            "rank": 30,
+            "raw_score": 3.7333333333333
+          },
+          {
+            "name": "Graphics",
+            "score": 3.3333333333333,
+            "rank": 156,
+            "raw_score": 3.3333333333333
+          },
+          {
+            "name": "Audio",
+            "score": 3.7333333333333,
+            "rank": 46,
+            "raw_score": 3.7333333333333
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 2.7333333333333,
+            "rank": 265,
+            "raw_score": 2.7333333333333
+          },
+          {
+            "name": "Innovation",
+            "score": 4.3333333333333,
+            "rank": 6,
+            "raw_score": 4.3333333333333
+          }
+        ],
+        "id": 1278918
+      },
+      "entryData": {
+        "coolness": 14,
+        "created_at": "2021-12-01 17:05:13",
+        "id": 273393,
+        "url": "/jam/game-off-2021/rate/1278918",
+        "game": {
+          "title": "Without Abandonware",
+          "cover": "https://img.itch.zone/aW1nLzc1NjU2MTkucG5n/300x240%23c/t2bfG%2F.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 1278918,
+          "url": "https://aesaire.itch.io/withoutabandonware",
+          "cover_color": "#eeeeee",
+          "short_text": "Movement subverting puzzle platformer",
+          "user": {
+            "url": "https://aesaire.itch.io",
+            "name": "Aesaire",
+            "id": 2054459
+          }
+        },
+        "contributors": [
+          {
+            "name": "Aesaire",
+            "url": "https://aesaire.itch.io"
+          },
+          {
+            "name": "Bechstein",
+            "url": "https://bechstein.itch.io"
+          },
+          {
+            "name": "elisewongcreations",
+            "url": "https://elisewongcreations.itch.io"
+          },
+          {
+            "name": "XaviourNyx",
+            "url": "https://xaviournyx.itch.io"
+          },
+          {
+            "name": "valaryon",
+            "url": "https://valaryon.itch.io"
+          },
+          {
+            "name": "aaronlws",
+            "url": "https://aaronlws.itch.io"
+          }
+        ],
+        "rating_count": 15
+      },
+      "details": {
+        "title": "Without Abandonware",
+        "description": "Say goodbye to the arrow keys or the joystick.\nBounce on surfaces. Activate gravity at will. Run on walls. Traditional platform rules don't apply,  every level is turned on it's head.Follow a video game bug through a series of levels from different games.CreditsGame Development:https://aaronlws.itch.io/Game Design:https://aesaire.itch.io/https://itch.io/profile/xaviournyxArt:https://itch.io/profile/valaryonhttps://bechstein.itch.io/https://itch.io/profile/elisewongcreationsMusic, Sound Design:https://aesaire.itch.io/",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTI3ODkxOC83NTY1ODQxLmpwZw==/original/ykk%2BBb.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTI3ODkxOC83NTY1ODYyLmpwZw==/original/MOl5i5.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTI3ODkxOC83NTY1OTI5LmpwZw==/original/eT2Qzr.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTI3ODkxOC83NTY1ODYzLmpwZw==/original/gVnI8B.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "Aesaire, Bechstein, elisewongcreations, XaviourNyx, valaryon, aaronlws",
+          "Genre": "Platformer, Adventure, Puzzle",
+          "Made with": "Unity",
+          "Tags": "2D, chiptune, Pixel Art, Puzzle-Platformer, Retro, Singleplayer, Unity",
+          "Average session": "A few minutes",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": 1290277,
+      "gameUrl": "https://programmingincluded.itch.io/synthesiaequinox",
+      "overallRank": 224,
+      "topCategories": [
+        "Innovation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "ProgrammingIncluded",
+            "id": 3656585
+          },
+          {
+            "name": "hirudan",
+            "id": 3477923
+          },
+          {
+            "name": "cantataku",
+            "id": 3671119
+          },
+          {
+            "name": "TellerRomantique",
+            "id": 3523044
+          }
+        ],
+        "rank": 224,
+        "url": "https://itch.io/jam/game-off-2021/rate/1290277",
+        "title": "SYNTHESIA=NOX",
+        "rating_count": 10,
+        "raw_score": 2.9,
+        "cover_url": "https://img.itch.zone/aW1nLzc1Njc5OTkucG5n/300x240%23c/TYVt9i.png",
+        "score": 2.9,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 2.9,
+            "rank": 224,
+            "raw_score": 2.9
+          },
+          {
+            "name": "Gameplay",
+            "score": 2.5,
+            "rank": 265,
+            "raw_score": 2.5
+          },
+          {
+            "name": "Graphics",
+            "score": 2.3,
+            "rank": 315,
+            "raw_score": 2.3
+          },
+          {
+            "name": "Audio",
+            "score": 3.8,
+            "rank": 36,
+            "raw_score": 3.8
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 3.5,
+            "rank": 143,
+            "raw_score": 3.5
+          },
+          {
+            "name": "Innovation",
+            "score": 4.3,
+            "rank": 7,
+            "raw_score": 4.3
+          }
+        ],
+        "id": 1290277
+      },
+      "entryData": {
+        "coolness": 5,
+        "created_at": "2021-12-01 21:51:55",
+        "id": 273600,
+        "url": "/jam/game-off-2021/rate/1290277",
+        "game": {
+          "title": "SYNTHESIA=NOX",
+          "cover": "https://img.itch.zone/aW1nLzc1Njc5OTkucG5n/300x240%23c/TYVt9i.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 1290277,
+          "url": "https://programmingincluded.itch.io/synthesiaequinox",
+          "cover_color": "#5989a3",
+          "short_text": "Do not spare the corruption.",
+          "user": {
+            "url": "https://programmingincluded.itch.io",
+            "name": "ProgrammingIncluded",
+            "id": 3656585
+          }
+        },
+        "contributors": [
+          {
+            "name": "ProgrammingIncluded",
+            "url": "https://programmingincluded.itch.io"
+          },
+          {
+            "name": "hirudan",
+            "url": "https://hirudan.itch.io"
+          },
+          {
+            "name": "cantataku",
+            "url": "https://cantataku.itch.io"
+          },
+          {
+            "name": "TellerRomantique",
+            "url": "https://tellerromantique.itch.io"
+          }
+        ],
+        "rating_count": 10
+      },
+      "details": {
+        "title": "SYNTHESIA=NOX",
+        "description": ":: Controls ::\nWASD - movement\nMouse - aim\nSpacebar - shoot\nLMB - view entity source code\n:: HELP ::\n- Avoid the hail of enemy bullets as you proceed to confront the source of the corruption plaguing Selene's mind.\n- Hack your foes! Click on an enemy to view its source code, and then modify it in the editor on the right-hand side of the screen. Your changes will be directly injected into the enemy and modify their behavior. Javascript is still the language of choice in year 22xx.\n:: CREDITS ::\nProgrammingIncluded || Software Architect, Art Designer, Illustrator\nhirudan || Software Developer\ncantataku || Music Composer, SFX Designer\nTeller Romantique || Title Designer\n:: STORY ::\nAfter the events of LUNAR=N0X, a battered ChronoSlip probe delivered the scavenged carcass and consciousness of the synthetic humanoid prognostication entity, the all-driver SELENE, to a secret research station orbiting a moon of Planet 1423. Within its stygian depths, a lone scientist scrambles against time to curb the corruption spreading in the rapidly fragmenting mind of the all-driver so that her wisdom can again guide the Mandate.\nHack the consciousness of an artificial omnipotence. Do not spare the corruption. Selene must survive.",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzc1Njc5OTkucG5n/original/M%2BV6QE.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Authors": "ProgrammingIncluded, hirudan, cantataku, TellerRomantique",
+          "Genre": "Action",
+          "Tags": "Hacking, Sci-fi, Synthwave, Twin Stick Shooter"
+        }
+      }
+    },
+    {
+      "gameId": 1280944,
+      "gameUrl": "https://mrbundles.itch.io/squorm",
+      "overallRank": 19,
+      "topCategories": [
+        "Innovation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "MrBundles",
+            "id": 2294830
+          }
+        ],
+        "rank": 19,
+        "url": "https://itch.io/jam/game-off-2021/rate/1280944",
+        "title": "Squorm",
+        "rating_count": 64,
+        "raw_score": 3.96875,
+        "cover_url": "https://img.itch.zone/aW1nLzc1NzEyMjMucG5n/300x240%23c/wFmyhd.png",
+        "score": 3.96875,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 3.96875,
+            "rank": 19,
+            "raw_score": 3.96875
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.859375,
+            "rank": 23,
+            "raw_score": 3.859375
+          },
+          {
+            "name": "Graphics",
+            "score": 3.625,
+            "rank": 101,
+            "raw_score": 3.625
+          },
+          {
+            "name": "Audio",
+            "score": 3.640625,
+            "rank": 58,
+            "raw_score": 3.640625
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 3.890625,
+            "rank": 70,
+            "raw_score": 3.890625
+          },
+          {
+            "name": "Innovation",
+            "score": 4.296875,
+            "rank": 8,
+            "raw_score": 4.296875
+          }
+        ],
+        "id": 1280944
+      },
+      "entryData": {
+        "created_at": "2021-12-01 21:33:38",
+        "id": 273577,
+        "url": "/jam/game-off-2021/rate/1280944",
+        "game": {
+          "title": "Squorm",
+          "cover": "https://img.itch.zone/aW1nLzc1NzEyMjMucG5n/300x240%23c/wFmyhd.png",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "id": 1280944,
+          "url": "https://mrbundles.itch.io/squorm",
+          "cover_color": "#313638",
+          "short_text": "A Study in Movement",
+          "user": {
+            "url": "https://mrbundles.itch.io",
+            "name": "MrBundles",
+            "id": 2294830
+          }
+        },
+        "coolness": 20,
+        "rating_count": 64
+      },
+      "details": {
+        "title": "Squorm",
+        "description": "This is my submission to the  Github Game Off 2021 (Theme: Bug)\nSource: https://github.com/MrBundles/Game_Off_2021_Bug\nA Study in Worm-Like Movement in a Minimalistic Art Style\n\nNote: Please see known issues below, and let me know if you find any other game-breaking bugs while you play.\n\n- Controls -\nMouse - The Sqworm will move towards anywhere you click (don't drag)\n\n- Use of Theme -\n\nThe player controls a worm-like character.\n\n- Known Issues -\n\n-Switches will sometimes stop working if pulled several times in quick succession. This issue can be resolved by resetting the level.\n-Sqworm can occasionally get stuck in certain positions. This issue can be resolved by resetting the level.\n\n- Updates -\nRev 1.3 resolved the following issues\n- Completing a level does not unlock it on the level select screen. As a result the player could not revisit levels to play them again.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTI4MDk0NC83NTcxNDE5LmdpZg==/original/iTqBh4.gif",
+          "https://img.itch.zone/aW1hZ2UvMTI4MDk0NC83NTcxNDE3LmdpZg==/original/REPPLX.gif",
+          "https://img.itch.zone/aW1hZ2UvMTI4MDk0NC83NTcxNDc4LmdpZg==/original/Lk4REf.gif",
+          "https://img.itch.zone/aW1hZ2UvMTI4MDk0NC83NTcxNDE4LmdpZg==/original/M29wTA.gif",
+          "https://img.itch.zone/aW1hZ2UvMTI4MDk0NC83NTcxNDc3LmdpZg==/original/L%2FndBT.gif",
+          "https://img.itch.zone/aW1hZ2UvMTI4MDk0NC83NTcxNDc5LmdpZg==/original/UXjQz9.gif"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "MrBundles",
+          "Genre": "Platformer, Puzzle",
+          "Made with": "Godot, Inkscape, FL Studio",
+          "Tags": "GitHub, Godot, Physics, Puzzle-Platformer, worm",
+          "Average session": "A few seconds",
+          "Inputs": "Mouse"
+        }
+      }
+    }
+  ]
+}

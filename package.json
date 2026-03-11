@@ -1,0 +1,15 @@
+{
+  "name": "jampad-data",
+  "version": "1.0.0",
+  "description": "Data collection and processing scripts for Jampad",
+  "scripts": {
+    "collect": "node scripts/collect_jam_data.js",
+    "dry-run": "node scripts/collect_jam_data.js --dry-run",
+    "test-jam": "node scripts/collect_jam_data.js --dry-run --jam 1"
+  },
+  "dependencies": {
+    "itch-scraper": "^2.1.0",
+    "itchy": "TasfiqulTapu/itchy",
+    "p-limit": "^4.0.0"
+  }
+}

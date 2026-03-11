@@ -1,0 +1,3426 @@
+{
+  "n": 34,
+  "name": "Gamedev.js Jam 2025",
+  "url": "https://itch.io/jam/gamedevjs-2025",
+  "theme": "Balance",
+  "slug": "gamedevjs-2025",
+  "jamMeta": {
+    "jamType": "ended",
+    "ratings": "8,538",
+    "entries": "411",
+    "title": "Gamedev.js Jam 2025",
+    "jamURL": "https://itch.io/jam/gamedevjs-2025",
+    "hosts": {
+      "End3r": "https://end3r.itch.io",
+      "Enclave Games": "https://enclavegames.itch.io",
+      "#gamedevjs": "https://bsky.app/hashtag/gamedevjs"
+    },
+    "jamID": "388329"
+  },
+  "totalEntries": 405,
+  "ranked": true,
+  "hasCategories": true,
+  "needsManualSelection": false,
+  "categories": [
+    "Gameplay",
+    "Theme",
+    "Innovation",
+    "Graphics",
+    "Audio"
+  ],
+  "topGames": [
+    {
+      "gameId": 3440198,
+      "gameUrl": "https://logos-psychagogia.itch.io/time-survivor",
+      "overallRank": 44,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Logos Psychagogia",
+            "id": 2408893
+          }
+        ],
+        "id": 3440198,
+        "rank": 44,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 4.2909090909091,
+            "rank": 1,
+            "score": 4.2909090909091
+          },
+          {
+            "name": "Theme",
+            "raw_score": 2.8727272727273,
+            "rank": 254,
+            "score": 2.8727272727273
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.3636363636364,
+            "rank": 72,
+            "score": 3.3636363636364
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.6,
+            "rank": 90,
+            "score": 3.6
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.7090909090909,
+            "rank": 19,
+            "score": 3.7090909090909
+          }
+        ],
+        "rating_count": 55,
+        "url": "https://itch.io/jam/gamedevjs-2025/rate/3440198",
+        "title": "Time Survivor",
+        "cover_url": "https://img.itch.zone/aW1nLzIzNjQ4OTc2LnBuZw==/300x240%23c/i1SlMm.png",
+        "raw_score": 3.5672727272727,
+        "score": 3.5672727272727
+      },
+      "entryData": {
+        "created_at": "2025-04-26 14:58:21",
+        "game": {
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "Logos Psychagogia",
+            "url": "https://logos-psychagogia.itch.io",
+            "id": 2408893
+          },
+          "title": "Time Survivor",
+          "id": 3440198,
+          "short_text": "Minimal Survivor Incremental",
+          "cover": "https://img.itch.zone/aW1nLzIzNjQ4OTc2LnBuZw==/300x240%23c/i1SlMm.png",
+          "cover_color": "#14141f",
+          "url": "https://logos-psychagogia.itch.io/time-survivor"
+        },
+        "id": 689137,
+        "coolness": 89,
+        "rating_count": 55,
+        "url": "/jam/gamedevjs-2025/rate/3440198"
+      },
+      "details": {
+        "title": "Time Survivor",
+        "description": "Wishlist on Steam: Time Survivor\n\nDEMO is also OUT on Steam!\n\n    https://store.steampowered.com/widget/3653480/\n\n\nWE HIGHLY RECOMMEND TO DOWNLOAD THE GAME FOR THE BEST EXPERIENCE!\nFight against Time itself!Collect resources and invest them in the Upgrade tree to get stronger!But be careful!Balance your Upgrades as some make you progress faster but also make the enemies stronger!Will you be able to defeat the boss?\nJoin us on Discord and share your best time! If you like the game we would love your feedback!\n\n\n\n[incrementaldb_verification: LogosPsychagogia]\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzQ0MDE5OC8yMzAwMjg4NC5wbmc=/original/TTbQk5.png",
+          "https://img.itch.zone/aW1hZ2UvMzQ0MDE5OC8yMzAwMjkwNC5wbmc=/original/eR%2B2NN.png",
+          "https://img.itch.zone/aW1hZ2UvMzQ0MDE5OC8yMzAwMjg4Ni5wbmc=/original/hEO9iu.png",
+          "https://img.itch.zone/aW1hZ2UvMzQ0MDE5OC8yMzAwMjg4OC5wbmc=/original/hpLoNk.png",
+          "https://img.itch.zone/aW1hZ2UvMzQ0MDE5OC8yMzAwMjg4NS5wbmc=/original/h2cSXN.png",
+          "https://img.itch.zone/aW1hZ2UvMzQ0MDE5OC8yMzAwMjg4Ny5wbmc=/original/Oie8YU.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.6 out of 5 stars(87 total ratings)",
+          "Author": "Logos Psychagogia",
+          "Genre": "Action, Strategy, Survival",
+          "Made with": "Godot",
+          "Tags": "2D, Arena Shooter, Fast-Paced, Incremental, Retro, Roguelite, Survivor-like",
+          "Links": "Steam"
+        }
+      }
+    },
+    {
+      "gameId": 3504916,
+      "gameUrl": "https://doodleduckgames.itch.io/stacked",
+      "overallRank": 14,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Doodle Duck",
+            "id": 8420273
+          }
+        ],
+        "id": 3504916,
+        "rank": 14,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 4.2727272727273,
+            "rank": 2,
+            "score": 4.2727272727273
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.030303030303,
+            "rank": 35,
+            "score": 4.030303030303
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.6363636363636,
+            "rank": 43,
+            "score": 3.6363636363636
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.9090909090909,
+            "rank": 44,
+            "score": 3.9090909090909
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.5151515151515,
+            "rank": 43,
+            "score": 3.5151515151515
+          }
+        ],
+        "rating_count": 33,
+        "url": "https://itch.io/jam/gamedevjs-2025/rate/3504916",
+        "title": "Stacked",
+        "cover_url": "https://img.itch.zone/aW1nLzIwODk2NTAyLnBuZw==/300x240%23c/SK5eoT.png",
+        "raw_score": 3.8727272727273,
+        "score": 3.8727272727273
+      },
+      "entryData": {
+        "created_at": "2025-04-26 00:07:42",
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Doodle Duck",
+            "url": "https://doodleduckgames.itch.io",
+            "id": 8420273
+          },
+          "title": "Stacked",
+          "id": 3504916,
+          "short_text": "Stack blocks to protect, fix, and save the day!",
+          "cover": "https://img.itch.zone/aW1nLzIwODk2NTAyLnBuZw==/300x240%23c/SK5eoT.png",
+          "cover_color": "#feed67",
+          "url": "https://doodleduckgames.itch.io/stacked"
+        },
+        "id": 688754,
+        "coolness": 49,
+        "rating_count": 33,
+        "url": "/jam/gamedevjs-2025/rate/3504916"
+      },
+      "details": {
+        "title": "Stacked",
+        "description": "This game was made in 2 weeks for Gamedev.js Jam 2025.\nControls:\nLeft mouse button: grab and drop blocks onto the stage\nRight mouse button: rotate selected block (or erase blocks when nothing is currently selected)\nPlease note that this game is meant to be played with a mouse and doesn't work as intended on touch screens or mobile devices.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzUwNDkxNi8yMDkyNzgxNi5wbmc=/original/Ia2qRg.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwNDkxNi8yMDkyNzgxNy5wbmc=/original/KeNRf6.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Doodle Duck",
+          "Genre": "Puzzle, Strategy",
+          "Made with": "Unity, Inkscape",
+          "Tags": "2D, balance, blocks"
+        }
+      }
+    },
+    {
+      "gameId": 3471419,
+      "gameUrl": "https://stiggstogg.itch.io/balance",
+      "overallRank": 4,
+      "topCategories": [
+        "Gameplay",
+        "Theme",
+        "Innovation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Stiggstogg",
+            "id": 2307064
+          }
+        ],
+        "id": 3471419,
+        "rank": 4,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 4.2352941176471,
+            "rank": 3,
+            "score": 4.2352941176471
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.4117647058824,
+            "rank": 2,
+            "score": 4.4117647058824
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 4.0882352941176,
+            "rank": 8,
+            "score": 4.0882352941176
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.9705882352941,
+            "rank": 34,
+            "score": 3.9705882352941
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.7941176470588,
+            "rank": 14,
+            "score": 3.7941176470588
+          }
+        ],
+        "rating_count": 34,
+        "url": "https://itch.io/jam/gamedevjs-2025/rate/3471419",
+        "title": "Work-Life Balance",
+        "cover_url": "https://img.itch.zone/aW1nLzIwOTAwNTk5LnBuZw==/300x240%23c/DfNqaF.png",
+        "raw_score": 4.1,
+        "score": 4.1
+      },
+      "entryData": {
+        "created_at": "2025-04-26 13:32:14",
+        "field_responses": [
+          "29541:2",
+          "29541:3"
+        ],
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Stiggstogg",
+            "url": "https://stiggstogg.itch.io",
+            "id": 2307064
+          },
+          "title": "Work-Life Balance",
+          "id": 3471419,
+          "short_text": "Can you juggle two mini-games simultaneously? Balance work tasks and daily life under time pressure!",
+          "cover": "https://img.itch.zone/aW1nLzIwOTAwNTk5LnBuZw==/300x240%23c/DfNqaF.png",
+          "cover_color": "#5b6ee1",
+          "url": "https://stiggstogg.itch.io/balance"
+        },
+        "id": 689012,
+        "coolness": 63,
+        "rating_count": 34,
+        "url": "/jam/gamedevjs-2025/rate/3471419"
+      },
+      "details": {
+        "title": "Work-Life Balance",
+        "description": "You juggle two jobs and a whirlwind of daily life tasks. Each day, you must tackle one work task and one life task — simultaneously!Find your balance and complete all tasks across 4 demanding days to maximize your score and prove you can handle it all.Can you beat my high score of 30'599?\nThis is my submission to Gamedev.js Jam 2025!\nChallenges I participated for this jam:\n\nOpen Source Challenge by GitHub: Code is available on GitHub.\nBuild it with Phaser Challenge by Phaser Studio: Phaser framework was used to create this game.\nControls\nMouse and Touch\nHow to Play\nFor 4 days, you must juggle two roles—Accountant and Editor—while handling daily life tasks: Dancing Class and Lawn Mowing. Each day, complete one work and one life task simultaneously within 60 seconds.\nLife tasks earn you points.Work tasks apply a multiplier to those points.\nBalance your focus to maximize both!\nWork Tasks\nAccountant: Add cash and inventory to calculate total assets. Pick the correct answer from four options.Editor: Spot the typo among four words.\nLife Tasks\nDancing Class: Follow your teacher’s moves by raising your left or right hand up or down as shown in the speech bubble.Lawn Mowing: Steer your mower through the backyard by turning clockwise or anticlockwise to cut as much grass as possible.\nCredits and Tools\nSpecial thanks to my support and inspiration at home!\nThanks to my play testersGitHub Page\nCode: Home made typescript spaghetti code using WebStorm and bundled with vite.jsGraphics: Inspired by AI, hand drawn by me in AsepriteMusic: All by myself using Reaper, Focusrite Scarlett 2i2 interface, a ALESIS Q49 midi keyboard, Decent Sampler plugin, Soviet PIF Synth, Pocket Operators PO-32 tonic and PO-14 subSound effects: My Bosch PMF 220 CE as lawn mower (making off) and sounds from my Pocket Operators (PO-32 tonic and PO-14 sub) and jsfxrFramework: Phaser 3\nFonts: Luckiest Guy, Nunito and Special Elite from Google Fonts",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzQ3MTQxOS8yMDkwMDczNC5wbmc=/original/zWhd87.png",
+          "https://img.itch.zone/aW1hZ2UvMzQ3MTQxOS8yMDkwMDczNS5wbmc=/original/D9lqJ%2B.png",
+          "https://img.itch.zone/aW1hZ2UvMzQ3MTQxOS8yMDkwMDc1NC5wbmc=/original/5TSOLt.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Stiggstogg",
+          "Tags": "2D, Casual, High Score, multitasking, phaser, Pixel Art, Singleplayer, time, webgame"
+        }
+      }
+    },
+    {
+      "gameId": 3503980,
+      "gameUrl": "https://florian-castel.itch.io/split-push",
+      "overallRank": 9,
+      "topCategories": [
+        "Gameplay",
+        "Theme",
+        "Innovation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Florian Castel",
+            "id": 6317044
+          }
+        ],
+        "id": 3503980,
+        "rank": 9,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 4.2222222222222,
+            "rank": 4,
+            "score": 4.2222222222222
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.3703703703704,
+            "rank": 5,
+            "score": 4.3703703703704
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 4.1851851851852,
+            "rank": 4,
+            "score": 4.1851851851852
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.6666666666667,
+            "rank": 76,
+            "score": 3.6666666666667
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.6111111111111,
+            "rank": 30,
+            "score": 3.6111111111111
+          }
+        ],
+        "rating_count": 54,
+        "url": "https://itch.io/jam/gamedevjs-2025/rate/3503980",
+        "title": "Split Push",
+        "cover_url": "https://img.itch.zone/aW1nLzIwOTA0NzM0LmdpZg==/300x240%23c/8hZNAg.gif",
+        "raw_score": 4.0111111111111,
+        "score": 4.0111111111111
+      },
+      "entryData": {
+        "created_at": "2025-04-26 14:52:07",
+        "field_responses": [
+          "29541:2",
+          "29541:3",
+          "29541:4"
+        ],
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "id": 3503980,
+          "cover": "https://img.itch.zone/aW1nLzIwOTA0NzM0LmdpZg==/300x240%23c/8hZNAg.gif",
+          "cover_color": "#212121",
+          "title": "Split Push",
+          "short_text": "Push boxes, solve puzzles and shift the Balance!",
+          "gif_cover": "https://img.itch.zone/aW1nLzIwOTA0NzM0LmdpZg==/original/1wlLhh.gif",
+          "user": {
+            "name": "Florian Castel",
+            "url": "https://florian-castel.itch.io",
+            "id": 6317044
+          },
+          "url": "https://florian-castel.itch.io/split-push"
+        },
+        "id": 689103,
+        "coolness": 16,
+        "rating_count": 54,
+        "url": "/jam/gamedevjs-2025/rate/3503980"
+      },
+      "details": {
+        "title": "Split Push",
+        "description": "\n        Split Push\n        \n        \n            Push boxes, solve puzzles and shift the Balance! Push the boxes onto the targets. But be careful! Moving between the two game windows shifts the balance of the game.\n        \n        \n            \n        \n        Context\n        \n            This game was created in about a week for Gamedev.js Jam 2025 on the theme \"Balance\". The game uses the engine Phaser 3 and is written in TypeScript.\n        \n        Controls\n        \n            Arrow Keys or WASD: Move the character.\n            R: Restart the current level.U: Undo last move.\n        Assets used\n        \n            Music BRAIN TEASER 3 by Eric Matyas - www.soundimage.org\n            All the visuals and sound effects were created by me.\n        Source codeThe source code is available on my GitHub: https://github.com/CASTEL-Florian/SplitPush-GameDevJs2025Gameplay videoIf you want to see the solution of the puzzles, watch the gameplay video!\n\n    ",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzUwMzk4MC8yMDkwNTQzNi5wbmc=/original/7S9rD5.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwMzk4MC8yMDkwNTQzNy5wbmc=/original/OeY5cP.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.9 out of 5 stars(9 total ratings)",
+          "Author": "Florian Castel",
+          "Genre": "Puzzle",
+          "Tags": "2D, Singleplayer, Sokoban, Top-Down"
+        }
+      }
+    },
+    {
+      "gameId": 3503567,
+      "gameUrl": "https://deflig.itch.io/cursed-pawn",
+      "overallRank": 21,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "deflig",
+            "id": 11984005
+          }
+        ],
+        "id": 3503567,
+        "rank": 21,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 4.1724137931034,
+            "rank": 5,
+            "score": 4.1724137931034
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.1379310344828,
+            "rank": 196,
+            "score": 3.1379310344828
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.7586206896552,
+            "rank": 29,
+            "score": 3.7586206896552
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.9310344827586,
+            "rank": 40,
+            "score": 3.9310344827586
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.8103448275862,
+            "rank": 13,
+            "score": 3.8103448275862
+          }
+        ],
+        "rating_count": 58,
+        "url": "https://itch.io/jam/gamedevjs-2025/rate/3503567",
+        "title": "Cursed Pawn",
+        "cover_url": "https://img.itch.zone/aW1nLzIwOTUxNjM4LmpwZw==/300x240%23c/I75KeN.jpg",
+        "raw_score": 3.7620689655172,
+        "score": 3.7620689655172
+      },
+      "entryData": {
+        "created_at": "2025-04-26 08:00:29",
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "deflig",
+            "url": "https://deflig.itch.io",
+            "id": 11984005
+          },
+          "title": "Cursed Pawn",
+          "id": 3503567,
+          "short_text": "A CRAZY card-chess roguelike with UNIQUE mechanics.",
+          "cover": "https://img.itch.zone/aW1nLzIwOTUxNjM4LmpwZw==/300x240%23c/I75KeN.jpg",
+          "cover_color": "#000000",
+          "url": "https://deflig.itch.io/cursed-pawn"
+        },
+        "id": 688898,
+        "coolness": 0,
+        "rating_count": 58,
+        "url": "/jam/gamedevjs-2025/rate/3503567"
+      },
+      "details": {
+        "title": "Cursed Pawn",
+        "description": "Collect CURSES and POWER-UPS to win!\nBALANCE POWER-UPS AGAINST CURSES\nSIMPLE YET STRATEGIC MECHANICSBUILD YOUR CHESS DECK & POKER STACKWILL CURSES DESTROY YOU?\n\n\nControls: \nClick to select cards and targets. \nESC: Open Settings\n\nCREATED IN 2 WEEKS FOR Gamedev.js Jam 2025\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzUwMzU2Ny8yMDg5MDcyMy5naWY=/original/Lz5beA.gif",
+          "https://img.itch.zone/aW1hZ2UvMzUwMzU2Ny8yMDg5MDczMC5qcGc=/original/diMO3M.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzUwMzU2Ny8yMDg5MDc1OS5qcGc=/original/lQHWlB.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzUwMzU2Ny8yMDg5MDcyOC5qcGc=/original/qSEwZ7.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.9 out of 5 stars(15 total ratings)",
+          "Author": "deflig",
+          "Genre": "Card Game",
+          "Made with": "Godot",
+          "Tags": "Chess, Godot, Indie, No AI, Pixel Art, Roguelike, Roguelite, Turn-based, Turn-based Strategy",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Mouse, Touchscreen",
+          "Accessibility": "Interactive tutorial"
+        }
+      }
+    },
+    {
+      "gameId": 3475898,
+      "gameUrl": "https://fishojr.itch.io/sloshed",
+      "overallRank": 2,
+      "topCategories": [
+        "Gameplay",
+        "Theme",
+        "Innovation",
+        "Graphics"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "FishoJr",
+            "id": 5253067
+          },
+          {
+            "name": "willyx39",
+            "id": 13411342
+          }
+        ],
+        "id": 3475898,
+        "rank": 2,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 4.16,
+            "rank": 6,
+            "score": 4.16
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.52,
+            "rank": 1,
+            "score": 4.52
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 4.16,
+            "rank": 5,
+            "score": 4.16
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.4,
+            "rank": 3,
+            "score": 4.4
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.48,
+            "rank": 47,
+            "score": 3.48
+          }
+        ],
+        "rating_count": 25,
+        "url": "https://itch.io/jam/gamedevjs-2025/rate/3475898",
+        "title": "Sloshed: A long way to bed",
+        "cover_url": "https://img.itch.zone/aW1nLzIwODc3MTEyLmpwZw==/300x240%23c/KEjM5n.jpg",
+        "raw_score": 4.144,
+        "score": 4.144
+      },
+      "entryData": {
+        "created_at": "2025-04-21 17:06:09",
+        "field_responses": [
+          "29541:2"
+        ],
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "FishoJr",
+            "url": "https://fishojr.itch.io",
+            "id": 5253067
+          },
+          "title": "Sloshed: A long way to bed",
+          "id": 3475898,
+          "short_text": "Find your way to the bed without falling, standing still is also a good idea",
+          "cover": "https://img.itch.zone/aW1nLzIwODc3MTEyLmpwZw==/300x240%23c/KEjM5n.jpg",
+          "cover_color": "#141414",
+          "url": "https://fishojr.itch.io/sloshed"
+        },
+        "id": 687166,
+        "coolness": 24,
+        "url": "/jam/gamedevjs-2025/rate/3475898",
+        "rating_count": 25,
+        "contributors": [
+          {
+            "name": "FishoJr",
+            "url": "https://fishojr.itch.io"
+          },
+          {
+            "name": "willyx39",
+            "url": "https://willyx39.itch.io"
+          }
+        ]
+      },
+      "details": {
+        "title": "Sloshed: A long way to bed",
+        "description": " Sloshed: A Long Way to Bed\nYou've made it home, somehow. \nBut something feels off...\nVenture depeer and deeper into your subconcious in this movement-based rougelike experience.\n Your goal? Reach your bed. Your worst enemy? Yourself.\n \nScattered across your apartment are powerups to help you along the way and entities of dubious nature.\nThe more you move, the more disoriented you become. Drift in random directions, fight to stay upright, and avoid the painful shame of faceplanting into your coffee table. Stand still to regain focus — or hit Shift to sprint like a maniac... but be warned: it might just be the last thing you do (upright).\n\nFeatures\nA drunk physics-based character controller\nFull-body tilt and drift based on your intoxication\nWiggly camera, wobbly legs, questionable decisions\nSimple goal: reach the bed — if you can\nControls\nWASD — Move (kind of)\nShift — Run (not recommended)\nSpace — Dive (aim for the bed!) \nE— Use/Interact\nPowerups\nWater — Clears your head a bitHoly Water — Useful to banish evil spirits (use with E!)Getter Upper — Falling might not be the end anymore, for 1 time that isGuide Light — Lights up the way to bedFlashlight — To actually see where you're goingSpeed demon — Move faster than you should\nSticky feet — Helps against some enemies but makes you move slower\nDizzimeter — See how close you are to falling face first into the groundPowerup counter — See how many powerups are left to find in the level\nEnemies\nHoover— Watch out for the nasty robot vacuum, might make you tripHunter— A weird entity that might appear in your subconcious, be sure to reach the bed before it catches you!\nMade for Gamedev.js Jam 2025 by Fisho & Willyx – Theme: \"Balance\"",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIwODc3MTEyLmpwZw==/original/YmQGAn.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(3 total ratings)",
+          "Authors": "FishoJr, willyx39",
+          "Genre": "Platformer",
+          "Made with": "Unity",
+          "Tags": "Funny, rougelike, Speedrun",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 3506790,
+      "gameUrl": "https://seeone.itch.io/playtesters-and-co",
+      "overallRank": 3,
+      "topCategories": [
+        "Gameplay",
+        "Theme",
+        "Innovation",
+        "Graphics"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "SeeOne",
+            "id": 7056771
+          },
+          {
+            "name": "Lina_Zatmenie_Art",
+            "id": 12185380
+          },
+          {
+            "name": "RazorFlip (Composer/SFX)",
+            "id": 10275494
+          }
+        ],
+        "id": 3506790,
+        "rank": 3,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 4.0571428571429,
+            "rank": 7,
+            "score": 4.0571428571429
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.3428571428571,
+            "rank": 9,
+            "score": 4.3428571428571
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 4.1428571428571,
+            "rank": 7,
+            "score": 4.1428571428571
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.4857142857143,
+            "rank": 1,
+            "score": 4.4857142857143
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.6,
+            "rank": 32,
+            "score": 3.6
+          }
+        ],
+        "rating_count": 35,
+        "url": "https://itch.io/jam/gamedevjs-2025/rate/3506790",
+        "title": "Playtesters and Co.",
+        "cover_url": "https://img.itch.zone/aW1nLzIwOTA0MzQxLnBuZw==/300x240%23c/TRrQbF.png",
+        "raw_score": 4.1257142857143,
+        "score": 4.1257142857143
+      },
+      "entryData": {
+        "created_at": "2025-04-26 14:33:15",
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "SeeOne",
+            "url": "https://seeone.itch.io",
+            "id": 7056771
+          },
+          "title": "Playtesters and Co.",
+          "id": 3506790,
+          "short_text": "Balance, A game dev's worst enemy.",
+          "cover": "https://img.itch.zone/aW1nLzIwOTA0MzQxLnBuZw==/300x240%23c/TRrQbF.png",
+          "cover_color": "#000000",
+          "url": "https://seeone.itch.io/playtesters-and-co"
+        },
+        "id": 689063,
+        "coolness": 15,
+        "url": "/jam/gamedevjs-2025/rate/3506790",
+        "rating_count": 35,
+        "contributors": [
+          {
+            "name": "SeeOne",
+            "url": "https://seeone.itch.io"
+          },
+          {
+            "name": "Lina_Zatmenie_Art",
+            "url": "https://lina-zatmenie-art.itch.io"
+          },
+          {
+            "name": "RazorFlip (Composer/SFX)",
+            "url": "https://razorflip-composersfx.itch.io"
+          }
+        ]
+      },
+      "details": {
+        "title": "Playtesters and Co.",
+        "description": "Welcome to Playtesters and Co.\n\nYou have been selected to join the Balancing Program. Your assignment is to test five internal game builds, adjusting their difficulty parameters to achieve optimal balance. Your performance will be assessed based on accuracy and efficiency. A final grade will be issued upon program completion.\n \nProceed carefully. All decisions are final. \n\nNote: The black screen after pressing play means the game is loading. Please be patient. For the best experience, play at 100% browser scale.\n\nJam\nPlaced #3 for Community rankings and #1 In Graphics\nThis game was made in 8 days for Gamedev.js Jam 2025 \nTheme - Balance\nOur Take – We approached the theme a little differently, focusing on the game development meaning of \"balance\" — tweaking numbers, mechanics, and difficulty to create the best player experience.\n\nTeam\nKitongo - Game Art\nSeeOne - Programming + UI Art\nRazorflip - Music\n\nResources\nEverything except the SFX was made by us.\n\nFuture plans\n- Expanded Storyline\n- New games to balance\n- Better endings",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzUwNjc5MC8yMDkwNTE1OC5wbmc=/original/O0qkLf.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwNjc5MC8yMDkwNTE2MC5wbmc=/original/aRYtTZ.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwNjc5MC8yMDkwNTE2MS5wbmc=/original/6ULjHf.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwNjc5MC8yMDkwNTE1OS5wbmc=/original/6vLBLx.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Authors": "SeeOne, Lina_Zatmenie_Art, RazorFlip (Composer/SFX)",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "2D, Creepy, Mystery, Pixel Art, Retro, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 3477084,
+      "gameUrl": "https://dallamas-games.itch.io/slime-climb",
+      "overallRank": 104,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "DaLlamas Games",
+            "id": 9955533
+          }
+        ],
+        "id": 3477084,
+        "rank": 104,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 4.0555555555556,
+            "rank": 8,
+            "score": 4.0555555555556
+          },
+          {
+            "name": "Theme",
+            "raw_score": 2.1111111111111,
+            "rank": 362,
+            "score": 2.1111111111111
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 2.8333333333333,
+            "rank": 207,
+            "score": 2.8333333333333
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.9444444444444,
+            "rank": 38,
+            "score": 3.9444444444444
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.4444444444444,
+            "rank": 52,
+            "score": 3.4444444444444
+          }
+        ],
+        "rating_count": 18,
+        "url": "https://itch.io/jam/gamedevjs-2025/rate/3477084",
+        "title": "Slime Climb",
+        "cover_url": "https://img.itch.zone/aW1nLzIwODg0MDY2LmpwZw==/300x240%23c/Y2Qe8d.jpg",
+        "raw_score": 3.2777777777778,
+        "score": 3.2777777777778
+      },
+      "entryData": {
+        "created_at": "2025-04-22 21:30:24",
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "DaLlamas Games",
+            "url": "https://dallamas-games.itch.io",
+            "id": 9955533
+          },
+          "title": "Slime Climb",
+          "id": 3477084,
+          "short_text": "You and your friends have been captured by an evil witch. Climb your way through the witches' lair to save your friends.",
+          "cover": "https://img.itch.zone/aW1nLzIwODg0MDY2LmpwZw==/300x240%23c/Y2Qe8d.jpg",
+          "cover_color": "#000000",
+          "url": "https://dallamas-games.itch.io/slime-climb"
+        },
+        "id": 687643,
+        "coolness": 1,
+        "rating_count": 18,
+        "url": "/jam/gamedevjs-2025/rate/3477084"
+      },
+      "details": {
+        "title": "Slime Climb",
+        "description": "You and your friends have been captured by an evil witch.  Climb your way through the witches' lair to save your friends.\nControls (Touch Friendly)\nSpecial thanks to TheLavenderNarwhal for the art and animation.Music by DJARTMUSIC",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIwODg0MDY2LmpwZw==/original/2BzCHu.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "DaLlamas Games",
+          "Genre": "Platformer",
+          "Made with": "Aseprite, Godot",
+          "Tags": "2D, Pixel Art, Retro, Singleplayer",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Gamepad (any), Touchscreen"
+        }
+      }
+    },
+    {
+      "gameId": 3506469,
+      "gameUrl": "https://lemuronmars.itch.io/treemino",
+      "overallRank": 8,
+      "topCategories": [
+        "Gameplay",
+        "Theme",
+        "Audio"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "lemuronmars",
+            "id": 6231564
+          }
+        ],
+        "id": 3506469,
+        "rank": 8,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 4.015873015873,
+            "rank": 9,
+            "score": 4.015873015873
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.3650793650794,
+            "rank": 6,
+            "score": 4.3650793650794
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.7936507936508,
+            "rank": 24,
+            "score": 3.7936507936508
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.9206349206349,
+            "rank": 41,
+            "score": 3.9206349206349
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.968253968254,
+            "rank": 8,
+            "score": 3.968253968254
+          }
+        ],
+        "rating_count": 63,
+        "url": "https://itch.io/jam/gamedevjs-2025/rate/3506469",
+        "title": "Treemino",
+        "cover_url": "https://img.itch.zone/aW1nLzIwOTAzMjAzLnBuZw==/300x240%23c/j97Fwr.png",
+        "raw_score": 4.0126984126984,
+        "score": 4.0126984126984
+      },
+      "entryData": {
+        "created_at": "2025-04-26 13:03:18",
+        "field_responses": [
+          "29541:3"
+        ],
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "lemuronmars",
+            "url": "https://lemuronmars.itch.io",
+            "id": 6231564
+          },
+          "title": "Treemino",
+          "id": 3506469,
+          "short_text": "Create a tree out of shapes and colors, but remember to keep everything in balance!",
+          "cover": "https://img.itch.zone/aW1nLzIwOTAzMjAzLnBuZw==/300x240%23c/j97Fwr.png",
+          "cover_color": "#8cc2ff",
+          "url": "https://lemuronmars.itch.io/treemino"
+        },
+        "id": 688998,
+        "coolness": 87,
+        "rating_count": 63,
+        "url": "/jam/gamedevjs-2025/rate/3506469"
+      },
+      "details": {
+        "title": "Treemino",
+        "description": "Right Mouse - rotateLeft Mouse - placeHi and welcome to  Treemino !\nIn this game your goal is to score as much points, as you can.\nPress Right Mouse Button to rotate the figures and Left Mouse Button to place them on your tree.\nIf placed figures match by shape or color, you score points for each figure.\nThat's it, good luck!\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzUwNjQ2OS8yMDkwNDU3OS5naWY=/original/00qALl.gif",
+          "https://img.itch.zone/aW1hZ2UvMzUwNjQ2OS8yMDkwMzM2OC5wbmc=/original/jpEmKX.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwNjQ2OS8yMDkwMzM3MC5wbmc=/original/ck6tUk.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwNjQ2OS8yMDkwMzM2OS5wbmc=/original/fXzn%2BJ.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "lemuronmars",
+          "Genre": "Puzzle, Simulation",
+          "Tags": "2D, Arcade, Casual, Cute, Indie, Minimalist, Physics, Relaxing"
+        }
+      }
+    },
+    {
+      "gameId": 3502869,
+      "gameUrl": "https://joachimford.itch.io/balance-fish",
+      "overallRank": 12,
+      "topCategories": [
+        "Gameplay",
+        "Audio"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Hope41",
+            "id": 10321251
+          }
+        ],
+        "id": 3502869,
+        "rank": 12,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 4.0142857142857,
+            "rank": 10,
+            "score": 4.0142857142857
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.4571428571429,
+            "rank": 133,
+            "score": 3.4571428571429
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.9571428571429,
+            "rank": 13,
+            "score": 3.9571428571429
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.1714285714286,
+            "rank": 20,
+            "score": 4.1714285714286
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.8428571428571,
+            "rank": 10,
+            "score": 3.8428571428571
+          }
+        ],
+        "rating_count": 70,
+        "url": "https://itch.io/jam/gamedevjs-2025/rate/3502869",
+        "title": "Balance FISH",
+        "cover_url": "https://img.itch.zone/aW1nLzIwOTA0NTE4LnBuZw==/300x240%23c/xpXy%2FP.png",
+        "raw_score": 3.8885714285714,
+        "score": 3.8885714285714
+      },
+      "entryData": {
+        "created_at": "2025-04-26 12:09:44",
+        "field_responses": [
+          "29541:2"
+        ],
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Hope41",
+            "url": "https://joachimford.itch.io",
+            "id": 10321251
+          },
+          "title": "Balance FISH",
+          "id": 3502869,
+          "short_text": "Balance the grid, dive deep, and rescue the city! A puzzle adventure about balancing electricity.",
+          "cover": "https://img.itch.zone/aW1nLzIwOTA0NTE4LnBuZw==/300x240%23c/xpXy%2FP.png",
+          "cover_color": "#000000",
+          "url": "https://joachimford.itch.io/balance-fish"
+        },
+        "id": 688968,
+        "coolness": 75,
+        "rating_count": 70,
+        "url": "/jam/gamedevjs-2025/rate/3502869"
+      },
+      "details": {
+        "title": "Balance FISH",
+        "description": "Balance FISH\nBalance the Grid, Save the City!\n\nAs a deep-sea fish (with legs), restore balance to the power grid to bring your city back to life!\nStar on GithubVisit my website\n* * *\nQuick Info\n📱 Playable on mobile devices💻 Made for the Gamedev.js Jam 2025\nOverview\nPlug the cables into the substations to carry electricity further into the depths. Will the strange sea creatures help or hinder your quest to restore balance? ⚡\nControls\n🌊 Hold W or UP to swim forward (or walk)🐟 Press the LEFT or RIGHT keys (A or D) to rotate🔁 Hold down R to restart the level💥 Hold X to balance or detach cables\nBalance by Name, FISH by Nature\nHumanity knows very little about the depths of the ocean. But today a mysterious creature emerged from its depths: the Balance Fish.\nIt's a deeply unfortunate moment in the deep.\nYour underwater city's power supply has become unbalanced. Embark on a mission to harness energy from the Nuclear Reactor, balance the grid, and save the city! ⚡\nDeveloper Notes \nHello there! I'm Hope41 👋\nHere's some additional info about Balance FISH...\nMade in pure JavaScript, no libraries\nBalance FISH was made in 13 days for the Gamedev.js Jam 2025\nNo Artificial Intelligence was used to create this game\nMusic made on a whim one evening, when I realised the game might suffer without some noise to hum along to 🎶\nAll sound effects sourced from authentic Pixabay sounds\n\nThey say it's the weird games that get noticed. I'm not sure that's true - but hey, here we are anyway — with a strange, deep-sea fish (with legs, don't forget), trying to balance an electrical system to bring his underwater city back to life.\n* * *\nMore games at https://joachimford.uk!Follow me on GitHub!\n* * *\nI hope you enjoy playing Balance FISH!!Please share your own thoughts in the comments below ~",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzUwMjg2OS8yMDg4OTQxMC5wbmc=/original/7GTiew.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwMjg2OS8yMDkwMzg5MC5wbmc=/original/5BQeMI.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwMjg2OS8yMDg4OTQyMS5wbmc=/original/nuRjMA.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwMjg2OS8yMDg4OTQwOC5wbmc=/original/EJLHZU.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwMjg2OS8yMDg4OTQyMy5wbmc=/original/Y2GObL.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwMjg2OS8yMDg4OTQxMS5wbmc=/original/YS9ZRB.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwMjg2OS8yMDg4OTcwNi5wbmc=/original/FMlr5v.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwMjg2OS8yMDg4OTQxMi5wbmc=/original/UiAXZZ.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwMjg2OS8yMDg4OTQwNy5wbmc=/original/XIqSws.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwMjg2OS8yMDg4OTQyMi5wbmc=/original/DkeMMs.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwMjg2OS8yMDg4OTQ0Ni5wbmc=/original/CbFU28.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Author": "Hope41",
+          "Genre": "Adventure, Educational, Puzzle",
+          "Tags": "2D, Math, No AI",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Keyboard, Touchscreen",
+          "Accessibility": "Interactive tutorial",
+          "Links": "GitHub, Homepage"
+        }
+      }
+    },
+    {
+      "gameId": 3500898,
+      "gameUrl": "https://slimclic.itch.io/super-sober",
+      "overallRank": 16,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "slimclic",
+            "id": 3548630
+          }
+        ],
+        "id": 3500898,
+        "rank": 16,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.7052631578947,
+            "rank": 31,
+            "score": 3.7052631578947
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.4105263157895,
+            "rank": 3,
+            "score": 4.4105263157895
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.9052631578947,
+            "rank": 15,
+            "score": 3.9052631578947
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.7473684210526,
+            "rank": 62,
+            "score": 3.7473684210526
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.4842105263158,
+            "rank": 46,
+            "score": 3.4842105263158
+          }
+        ],
+        "rating_count": 95,
+        "url": "https://itch.io/jam/gamedevjs-2025/rate/3500898",
+        "title": "SUPER-SOBER",
+        "cover_url": "https://img.itch.zone/aW1nLzIwODc3ODk2LnBuZw==/300x240%23c/QRkDiY.png",
+        "raw_score": 3.8505263157895,
+        "score": 3.8505263157895
+      },
+      "entryData": {
+        "created_at": "2025-04-24 19:35:11",
+        "game": {
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "slimclic",
+            "url": "https://slimclic.itch.io",
+            "id": 3548630
+          },
+          "title": "SUPER-SOBER",
+          "id": 3500898,
+          "short_text": "A game by Slim. For the Gamedevjs Jam 2025. Theme: Balance.",
+          "cover": "https://img.itch.zone/aW1nLzIwODc3ODk2LnBuZw==/300x240%23c/QRkDiY.png",
+          "cover_color": "#0f0e0e",
+          "url": "https://slimclic.itch.io/super-sober"
+        },
+        "id": 688214,
+        "coolness": 417,
+        "rating_count": 95,
+        "url": "/jam/gamedevjs-2025/rate/3500898"
+      },
+      "details": {
+        "title": "SUPER-SOBER",
+        "description": "SUPER-SOBER is a game by Slim. Made for the Gamedevjs Jam 2025. Theme: Balance.\nBalance the character with drunk controls and try to reach home.\nInspired by an old Flash game I played when I was younger. Also inspired by games like Getting Over It and QWOP.\nThe player will face different obstacles, characters and two whole directions to explore. Learn with each attempt and unlock different endings. Challenge yourself with the easy to understand, but hard to master drunk controls.\nFeatures a whole new way to control the character with controls made from the ground up. \nMade with Godot 4.4.\nCredits:Road and Bus stop by https://elbolilloduro.itch.ioMain title music by https://opengameart.org/content/tragic-ambient-main-menuEDIT: The game turned out to be a little harder than expected on the Web Player version (because of complex stuff with the mouse movement).The game is completely beatable on both versions. But, the Windows Version is the one that was playtested the most, and represents better the level of difficulty that was intended.Thank you for playing this mess!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzUwMDg5OC8yMDg3NzgzMi5wbmc=/original/csLNPt.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwMDg5OC8yMDg3NzgzMy5wbmc=/original/kpOfKt.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwMDg5OC8yMDg3NzgwOC5wbmc=/original/wfIOsP.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwMDg5OC8yMDg3NzgxNS5wbmc=/original/inVfae.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwMDg5OC8yMDg3NzgzNC5wbmc=/original/zRMq2j.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwMDg5OC8yMDg3Nzg0MS5wbmc=/original/pMeRyi.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwMDg5OC8yMDg3Nzg1Ny5wbmc=/original/443ZSS.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.6 out of 5 stars(5 total ratings)",
+          "Author": "slimclic",
+          "Genre": "Adventure",
+          "Made with": "Godot",
+          "Tags": "balance"
+        }
+      }
+    },
+    {
+      "gameId": 3472342,
+      "gameUrl": "https://blivi0.itch.io/steady-store",
+      "overallRank": 5,
+      "topCategories": [
+        "Theme",
+        "Audio"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "blivi0",
+            "id": 12747681
+          },
+          {
+            "name": "Devillas",
+            "id": 4158200
+          },
+          {
+            "name": "Cuhrean",
+            "id": 13214637
+          },
+          {
+            "name": "MULTItype",
+            "id": 7089750
+          }
+        ],
+        "id": 3472342,
+        "rank": 5,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.975,
+            "rank": 11,
+            "score": 3.975
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.4,
+            "rank": 4,
+            "score": 4.4
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.9,
+            "rank": 16,
+            "score": 3.9
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.175,
+            "rank": 19,
+            "score": 4.175
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.025,
+            "rank": 7,
+            "score": 4.025
+          }
+        ],
+        "rating_count": 40,
+        "url": "https://itch.io/jam/gamedevjs-2025/rate/3472342",
+        "title": "Steady Store",
+        "cover_url": "https://img.itch.zone/aW1nLzIwODk5NDM5LnBuZw==/300x240%23c/Y2SOqH.png",
+        "raw_score": 4.095,
+        "score": 4.095
+      },
+      "entryData": {
+        "created_at": "2025-04-26 09:03:40",
+        "field_responses": [
+          "29541:2"
+        ],
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "blivi0",
+            "url": "https://blivi0.itch.io",
+            "id": 12747681
+          },
+          "title": "Steady Store",
+          "id": 3472342,
+          "short_text": "Short & Relaxing Puzzle Game",
+          "cover": "https://img.itch.zone/aW1nLzIwODk5NDM5LnBuZw==/300x240%23c/Y2SOqH.png",
+          "cover_color": "#0c93e0",
+          "url": "https://blivi0.itch.io/steady-store"
+        },
+        "id": 688918,
+        "coolness": 46,
+        "url": "/jam/gamedevjs-2025/rate/3472342",
+        "rating_count": 40,
+        "contributors": [
+          {
+            "name": "blivi0",
+            "url": "https://blivi0.itch.io"
+          },
+          {
+            "name": "Devillas",
+            "url": "https://devillas.itch.io"
+          },
+          {
+            "name": "Cuhrean",
+            "url": "https://cuhrean.itch.io"
+          },
+          {
+            "name": "MULTItype",
+            "url": "https://multitype.itch.io"
+          }
+        ]
+      },
+      "details": {
+        "title": "Steady Store",
+        "description": "See the full game on Steam.\nHave you ever wanted to organize both sides of your inventory? To make your journey more comfortable and avoid an aching back, try keeping your backpack balanced and steady!\n-- Credits --\nProgrammer - Blivi0Artist & Game Designer - DevillasSound Designer - Zac ChungComposer - MULTI",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzQ3MjM0Mi8yMDkwMDI1Ni5naWY=/original/KzOm%2Ff.gif",
+          "https://img.itch.zone/aW1hZ2UvMzQ3MjM0Mi8yMDkwMDI1Ny5naWY=/original/5mSKUQ.gif",
+          "https://img.itch.zone/aW1hZ2UvMzQ3MjM0Mi8yMDkwMDI5OS5wbmc=/original/3NKUDz.png",
+          "https://img.itch.zone/aW1hZ2UvMzQ3MjM0Mi8yMDkwMDI5Ny5wbmc=/original/lbgNU7.png",
+          "https://img.itch.zone/aW1hZ2UvMzQ3MjM0Mi8yMDkwMDI5OC5wbmc=/original/%2FTE78X.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "blivi0, Devillas, Cuhrean, MULTItype",
+          "Genre": "Puzzle",
+          "Made with": "Aseprite, Godot",
+          "Tags": "Casual, Cozy, Minimalist, Mouse only, Pixel Art, Point & Click, Relaxing, Short, Simple, Singleplayer",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Mouse",
+          "Accessibility": "One button"
+        }
+      }
+    },
+    {
+      "gameId": 3497645,
+      "gameUrl": "https://nonezonyx.itch.io/cobble-tower",
+      "overallRank": 40,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Aleksei Tokarev",
+            "id": 10934446
+          }
+        ],
+        "id": 3497645,
+        "rank": 40,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.4864864864865,
+            "rank": 57,
+            "score": 3.4864864864865
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.3513513513514,
+            "rank": 7,
+            "score": 4.3513513513514
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 2.8918918918919,
+            "rank": 183,
+            "score": 2.8918918918919
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4,
+            "rank": 28,
+            "score": 4
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.1891891891892,
+            "rank": 102,
+            "score": 3.1891891891892
+          }
+        ],
+        "rating_count": 37,
+        "url": "https://itch.io/jam/gamedevjs-2025/rate/3497645",
+        "title": "Cobble Tower",
+        "cover_url": "https://img.itch.zone/aW1nLzIwODY0MTgxLnBuZw==/300x240%23c/%2BzEYrY.png",
+        "raw_score": 3.5837837837838,
+        "score": 3.5837837837838
+      },
+      "entryData": {
+        "created_at": "2025-04-23 21:32:09",
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Aleksei Tokarev",
+            "url": "https://nonezonyx.itch.io",
+            "id": 10934446
+          },
+          "title": "Cobble Tower",
+          "id": 3497645,
+          "short_text": "Stack stones, defy gravity, and build whimsical cobble towers!",
+          "cover": "https://img.itch.zone/aW1nLzIwODY0MTgxLnBuZw==/300x240%23c/%2BzEYrY.png",
+          "cover_color": "#899c60",
+          "url": "https://nonezonyx.itch.io/cobble-tower"
+        },
+        "id": 687918,
+        "coolness": 0,
+        "rating_count": 37,
+        "url": "/jam/gamedevjs-2025/rate/3497645"
+      },
+      "details": {
+        "title": "Cobble Tower",
+        "description": "Cobble Tower is a game about stacking cobbles in different shapes.This was made in 3 days for Gamedev.js Jam 2025 in godot 4.4 \nMusic by Tallbeard Studios\nIcons by Leo Red",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzQ5NzY0NS8yMDg2NDI3Mi5wbmc=/original/KuUAKx.png",
+          "https://img.itch.zone/aW1hZ2UvMzQ5NzY0NS8yMDg2NDI3OS5wbmc=/original/i%2Frtzh.png",
+          "https://img.itch.zone/aW1hZ2UvMzQ5NzY0NS8yMDg2NDMwOS5wbmc=/original/%2FW1L2z.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.0 out of 5 stars(6 total ratings)",
+          "Author": "Aleksei Tokarev",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "Cute, Godot, Gravity, Indie, My First Game Jam, Non violent, Relaxing, Simple",
+          "Average session": "A few minutes",
+          "Inputs": "Keyboard, Mouse, Touchscreen, Smartphone"
+        }
+      }
+    },
+    {
+      "gameId": 3503588,
+      "gameUrl": "https://lydian4.itch.io/homeostasis",
+      "overallRank": 76,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "lydian",
+            "id": 11662636
+          }
+        ],
+        "id": 3503588,
+        "rank": 76,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.2857142857143,
+            "rank": 157,
+            "score": 3.0735042819929
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.6428571428571,
+            "rank": 8,
+            "score": 4.3429951810769
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.9285714285714,
+            "rank": 35,
+            "score": 3.6748420762958
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.0714285714286,
+            "rank": 244,
+            "score": 2.8730583505586
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.2142857142857,
+            "rank": 142,
+            "score": 3.0066889715148
+          }
+        ],
+        "rating_count": 14,
+        "url": "https://itch.io/jam/gamedevjs-2025/rate/3503588",
+        "title": "Homeostasis",
+        "cover_url": "https://img.itch.zone/aW1nLzIwODkwNjAwLnBuZw==/300x240%23c/bX3r7C.png",
+        "raw_score": 3.6285714285714,
+        "score": 3.3942177722878
+      },
+      "entryData": {
+        "created_at": "2025-04-25 16:32:05",
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "lydian",
+            "url": "https://lydian4.itch.io",
+            "id": 11662636
+          },
+          "title": "Homeostasis",
+          "id": 3503588,
+          "short_text": "Keep your vitals in balance.",
+          "cover": "https://img.itch.zone/aW1nLzIwODkwNjAwLnBuZw==/300x240%23c/bX3r7C.png",
+          "cover_color": "#ffffff",
+          "url": "https://lydian4.itch.io/homeostasis"
+        },
+        "id": 688633,
+        "coolness": 11,
+        "rating_count": 14,
+        "url": "/jam/gamedevjs-2025/rate/3503588"
+      },
+      "details": {
+        "title": "Homeostasis",
+        "description": "You are now in control of Gordon's body.\nGordon needs some help keeping his body in balance. Use your keyboard to control his vitals as you guide Gordon through his day. Sounds easy, right? Good luck.\nControls\nProgress through text: \"Up\".\nControl vitals: \"Up\", spacebar, \"Enter\", \"X\", \"C\".\nDetails\nThis game was made for the Gamedev.js 2025 game jam with the theme 'Balance'!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzUwMzU4OC8yMDg5MDgzOC5wbmc=/original/70ybeQ.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwMzU4OC8yMDg5MDg0NC5wbmc=/original/sTbZg3.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwMzU4OC8yMDg5MDg0Ny5wbmc=/original/yKOhxA.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwMzU4OC8yMDg5MDg0OC5wbmc=/original/epUhVc.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwMzU4OC8yMDg5MDg1OS5wbmc=/original/4wuTXh.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "lydian",
+          "Genre": "Survival",
+          "Made with": "Godot",
+          "Tags": "Arcade, Funny, Life Simulation, Pixel Art"
+        }
+      }
+    },
+    {
+      "gameId": 3479130,
+      "gameUrl": "https://aseelostudio.itch.io/atlas",
+      "overallRank": 33,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Aseelo Studio",
+            "id": 12588937
+          }
+        ],
+        "id": 3479130,
+        "rank": 33,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.4761904761905,
+            "rank": 60,
+            "score": 3.4761904761905
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.3333333333333,
+            "rank": 10,
+            "score": 4.3333333333333
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.3333333333333,
+            "rank": 76,
+            "score": 3.3333333333333
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.8095238095238,
+            "rank": 56,
+            "score": 3.8095238095238
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.1428571428571,
+            "rank": 110,
+            "score": 3.1428571428571
+          }
+        ],
+        "rating_count": 21,
+        "url": "https://itch.io/jam/gamedevjs-2025/rate/3479130",
+        "title": "Atlas",
+        "cover_url": "https://img.itch.zone/aW1nLzIwODk4NTE2LnBuZw==/300x240%23c/R77VqV.png",
+        "raw_score": 3.6190476190476,
+        "score": 3.6190476190476
+      },
+      "entryData": {
+        "created_at": "2025-04-26 03:57:29",
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Aseelo Studio",
+            "url": "https://aseelostudio.itch.io",
+            "id": 12588937
+          },
+          "title": "Atlas",
+          "id": 3479130,
+          "short_text": "Arcade goofy rogue-lite based on physics; balance everything on Atlas' shoulders!",
+          "cover": "https://img.itch.zone/aW1nLzIwODk4NTE2LnBuZw==/300x240%23c/R77VqV.png",
+          "cover_color": "#001946",
+          "url": "https://aseelostudio.itch.io/atlas"
+        },
+        "id": 688828,
+        "coolness": 31,
+        "rating_count": 21,
+        "url": "/jam/gamedevjs-2025/rate/3479130"
+      },
+      "details": {
+        "title": "Atlas",
+        "description": "Version 1.2\nThe game saves automatically your progress. It keeps them until you clear your browser's cache.\nControls:\nA / D to move left / right;\nleft-arrow / right-arrow to balance; (or Q / E)\nR to restart\nP / Esc to pause.\nSpacebar to thrust!\n\nBug Fixed:\n- Now all the objects in endless mode end the game if they fall.\n- Corrected all planks' inertia and momentum.\n\nAseeloStudio\nWritten by: shen\nGame Design: Gasper Pollonero, shen\nGame Programming: Gasper Pollonero\nIntro / UI Sound Design: shen\nArt Director: Sporca Carogna\n\nPlease feel free to leave a comment and let us know if you enjoyed playing and encounter any bug/issue.\n\nThank you for playing our game!\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIwODk4NTE2LnBuZw==/original/lNsIQU.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Aseelo Studio",
+          "Made with": "Godot",
+          "Tags": "2D, Casual, Colorful, Endless, Indie, Physics, Roguelite",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Keyboard",
+          "Accessibility": "Subtitles"
+        }
+      }
+    },
+    {
+      "gameId": 3501336,
+      "gameUrl": "https://adrien-gueret.itch.io/this-game-is-unbalanced",
+      "overallRank": 17,
+      "topCategories": [
+        "Innovation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "KorHosik",
+            "id": 2155274
+          }
+        ],
+        "id": 3501336,
+        "rank": 17,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.5277777777778,
+            "rank": 50,
+            "score": 3.5277777777778
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.3055555555556,
+            "rank": 11,
+            "score": 4.3055555555556
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 4.5,
+            "rank": 1,
+            "score": 4.5
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.6388888888889,
+            "rank": 85,
+            "score": 3.6388888888889
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.2777777777778,
+            "rank": 78,
+            "score": 3.2777777777778
+          }
+        ],
+        "rating_count": 36,
+        "url": "https://itch.io/jam/gamedevjs-2025/rate/3501336",
+        "title": "This game is unbalanced!",
+        "cover_url": "https://img.itch.zone/aW1nLzIwODc5NTA2LnBuZw==/300x240%23c/k5qUGv.png",
+        "raw_score": 3.85,
+        "score": 3.85
+      },
+      "entryData": {
+        "created_at": "2025-04-24 22:35:45",
+        "field_responses": [
+          "29541:2",
+          "29541:3",
+          "29541:4"
+        ],
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "KorHosik",
+            "url": "https://adrien-gueret.itch.io",
+            "id": 2155274
+          },
+          "title": "This game is unbalanced!",
+          "id": 3501336,
+          "short_text": "The game where YOU balance the game!",
+          "cover": "https://img.itch.zone/aW1nLzIwODc5NTA2LnBuZw==/300x240%23c/k5qUGv.png",
+          "cover_color": "#df8812",
+          "url": "https://adrien-gueret.itch.io/this-game-is-unbalanced"
+        },
+        "id": 688275,
+        "coolness": 29,
+        "rating_count": 36,
+        "url": "/jam/gamedevjs-2025/rate/3501336"
+      },
+      "details": {
+        "title": "This game is unbalanced!",
+        "description": "Game developers know that: it's hard to balance a game.\nYou create your nice game and your playtesters just say : \"This game is unbalanced!\".They all have their specific desires and their own concept of what a balanced game is... It's so hard to satisfy the players!\nIn \"This game is unbalanced!\", you watch a little monster play some games. Unfortunately they are all unbalanced for this little fella: either too easy or too difficult... So your goal is to balance them!\n-----\n\nA game created for GamedevJS 2024.Theme: BALANCE\n-----\nChallenges\n\nOpen Source ChallengeSource code is published here: https://github.com/adrien-gueret/this-game-is-unbalanced\nBuild it with Phaser ChallengeThis game is built with Phaser (even though I had never used the library before!It's my first game with it, I'm sure there are a lot of weird things in my code :D )$NOODS ChallengeGoal was to vibe code a Phaser game: I've heavily used Copilot and its agent mode to build this project. Learn more about that below.\n-----\n\nCredits\nGraphismsBackgrounds generated via ChatGPTSpritesheets create by myself on good-old Paint :)  AudioMusic from SUNO AISome sounds effect from KenneyOther sounds from jsfxrOne or two jingle effects were stored on my computer since quite a time now: I unfortunately don't remember where I get them ^^'Game conceptBy myselfCodeUsage of Phaser library Around 40% of the code written by myselfAround 60% of the code written by Copilot (see below to know more!)\n-----\n\nVibe coding? Is it worth it?\nIn order to create \"This game is unbalanced!\", my partner in crime was copilot. This game has been built in less than 13 days with Phaser... while I have 0 knowledge on Phaser.\nI've started asking Copilot to create a template for a Phaser project: it did a good job with importing correctly the library and creating a basic project architecture.\nThen I told Copilot my idea, with more or less precise specs, and it started to create Phaser scenes by itself! The result was quite impressive 'cause it was more or less what I had in mind. It was ugly, for sure, but it was a very good base for my game!\nThe next steps were quite easy: giving more instructions to Copilot, or very specific Phaser stuff. I've asked him how to add my own graphics, how to add spritesheets, how to animate them and so on. This step was the most important one: I've tried to understand the code it wrote for me, and I asked for some explanations when needed.\nHonestly, thanks to that, I've learned how to write a Phaser game without reading any docs nor tutorials! Quite impressive.\nAt first my goal was only to balance a platform game but, since vibe coding a Phaser game was fun and interesting, I wanted to go even further. What if I could code more types of games?\nThat's why \"This game is unbalanced!\" also have RPG-like fighting levels. Like the platforms ones, I've tried to understand how the generated code works, and I did a lot of refactors to make it better (well... better in my opinion at least!).\nTwo types of game weren't enough, so I've decided to vibe-code a third one: a racing game, ala \"Super Mario Kart\"! But it was a bit too ambitious... Impossible for Copilot to generate a Mode 7 effect, and I could not find any tutorials to create one by myself. I was a bit surprised, since Phaser seems to be very good for any 2D games!\nSo I gave up on the racing game and I switched to Match 3. The deadline  was approaching so I didn't refactor any of Copilot code on this one. The Match 3 Simulation file is probably the most hideous one on this project, with a lot of dead comments Frenglish stuff between almost 1500 lines... ^^'\nBut anyway.\nIt was very fun, and I thank the Gamedev.js organizers to encourage us to test vibe coding. \nBefore the jam I didn't know Phaser at all. But I was able to submit a full game built with it and containing 3 different types of mini-games.And I learnt how to use Phaser.\nAll thanks to Copilot.\nJust wow. \n--\nTo balance a bit this return of experience (hey, it is the theme of the gamejam after all!) please note I am a web developer for years now, I know how to code, I know good patterns and I can detect when the AI is trying to bullshit me.\nI am not sure the tool will be that efficient for a junior developer. It will certainly help it to start quicker, but without being able to understand the generated code it can be more harmful than helpful, I guess (just look at the Match 3 Simulation file, it's a total mess!).\nIf the user of the AI has the goal to learn and understand what the AI is generating, it could be the best educational support ever made.\nBut if its goal is to only click \"accept\" on everything the AI suggests in order to develop an app whatever the code quality. It could be the most efficient unmaintainable code generator ever made :)\n--\nOopsy, I've gone a bit beyond the scope of the game description. I may write an article about that one day! If so I'll put the link here.Edit: article written! You can read it here: https://medium.com/openclassrooms-produit-design-et-ing%C3%A9nierie/comment-jai-...(in french, sorry for that!)\nThanks for reading — I hope you had fun with my first Phaser game!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzUwMTMzNi8yMDg4MDI4NS5wbmc=/original/AKS3CP.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwMTMzNi8yMDg4MDI4MS5wbmc=/original/Al%2BWqe.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwMTMzNi8yMDg4MDI4Mi5wbmc=/original/QNbNwW.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwMTMzNi8yMDg4MDI4Ni5wbmc=/original/4Ddil8.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwMTMzNi8yMDg4MDI4NC5wbmc=/original/4gO4hN.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwMTMzNi8yMDg4MDI4My5wbmc=/original/SRsOJT.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "KorHosik",
+          "Genre": "Puzzle",
+          "Made with": "Phaser",
+          "Tags": "gamedevjs",
+          "Average session": "A few minutes",
+          "Languages": "English, French",
+          "Inputs": "Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 3499500,
+      "gameUrl": "https://ascheda1.itch.io/shaderclash",
+      "overallRank": 10,
+      "topCategories": [
+        "Innovation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "ascheda1",
+            "id": 5943877
+          }
+        ],
+        "id": 3499500,
+        "rank": 10,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.8181818181818,
+            "rank": 19,
+            "score": 3.8181818181818
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.2272727272727,
+            "rank": 19,
+            "score": 4.2272727272727
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 4.3636363636364,
+            "rank": 2,
+            "score": 4.3636363636364
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.8181818181818,
+            "rank": 55,
+            "score": 3.8181818181818
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.3181818181818,
+            "rank": 70,
+            "score": 3.3181818181818
+          }
+        ],
+        "rating_count": 22,
+        "url": "https://itch.io/jam/gamedevjs-2025/rate/3499500",
+        "title": "ShaderClash",
+        "cover_url": "https://img.itch.zone/aW1nLzIwODcyMTkyLnBuZw==/300x240%23c/aWgxyI.png",
+        "raw_score": 3.9090909090909,
+        "score": 3.9090909090909
+      },
+      "entryData": {
+        "created_at": "2025-04-24 11:52:06",
+        "field_responses": [
+          "29541:1",
+          "29541:2"
+        ],
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "ascheda1",
+            "url": "https://ascheda1.itch.io",
+            "id": 5943877
+          },
+          "title": "ShaderClash",
+          "id": 3499500,
+          "short_text": "shader multiplayer coop",
+          "cover": "https://img.itch.zone/aW1nLzIwODcyMTkyLnBuZw==/300x240%23c/aWgxyI.png",
+          "cover_color": "#000000",
+          "url": "https://ascheda1.itch.io/shaderclash"
+        },
+        "id": 688080,
+        "coolness": 7,
+        "rating_count": 22,
+        "url": "/jam/gamedevjs-2025/rate/3499500"
+      },
+      "details": {
+        "title": "ShaderClash",
+        "description": "DescriptionShader Clash is a multiplayer game (however single player can manage to play it as well). Players are overcomming obstacles together whilst balancing the shader plane division through multiple levels. Have fun!\nShader camera mechanicsThere are two planes in front of the camera, one inverts the colors and depicts only one players objects using stencil buffer and the other is depicting object for the second player only. However multiple objects are shared and so depicted on both sides of the shader division.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzQ5OTUwMC8yMDg3MTk1OS5wbmc=/original/g4trzm.png",
+          "https://img.itch.zone/aW1hZ2UvMzQ5OTUwMC8yMDg3MTQ2NS5wbmc=/original/nMDPEL.png",
+          "https://img.itch.zone/aW1hZ2UvMzQ5OTUwMC8yMDg3MTQ4NS5wbmc=/original/ukwII%2F.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "ascheda1",
+          "Genre": "Strategy",
+          "Made with": "Unity",
+          "Tags": "Multiplayer",
+          "Average session": "A few seconds",
+          "Languages": "English",
+          "Inputs": "Keyboard",
+          "Multiplayer": "Local multiplayer",
+          "Player count": "1 - 2"
+        }
+      }
+    },
+    {
+      "gameId": 3504301,
+      "gameUrl": "https://miotismon.itch.io/do-ducks-dream-of-algorithmic-worldgen",
+      "overallRank": 58,
+      "topCategories": [
+        "Innovation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Miotismon",
+            "id": 2631249
+          },
+          {
+            "name": "Overlite",
+            "id": 10068026
+          },
+          {
+            "name": "Incomputable",
+            "id": 2731840
+          }
+        ],
+        "id": 3504301,
+        "rank": 58,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.76,
+            "rank": 24,
+            "score": 3.76
+          },
+          {
+            "name": "Theme",
+            "raw_score": 2.64,
+            "rank": 298,
+            "score": 2.64
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 4.24,
+            "rank": 3,
+            "score": 4.24
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.28,
+            "rank": 144,
+            "score": 3.28
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.52,
+            "rank": 42,
+            "score": 3.52
+          }
+        ],
+        "rating_count": 25,
+        "url": "https://itch.io/jam/gamedevjs-2025/rate/3504301",
+        "title": "Do ducks dream of algorithmic worldgen",
+        "cover_url": "https://img.itch.zone/aW1nLzIwODkyODYxLnBuZw==/300x240%23c/MzEeKS.png",
+        "raw_score": 3.488,
+        "score": 3.488
+      },
+      "entryData": {
+        "created_at": "2025-04-25 20:41:52",
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Miotismon",
+            "url": "https://miotismon.itch.io",
+            "id": 2631249
+          },
+          "title": "Do ducks dream of algorithmic worldgen",
+          "id": 3504301,
+          "short_text": "Game about a duck stuck in an ever-changing dream",
+          "cover": "https://img.itch.zone/aW1nLzIwODkyODYxLnBuZw==/300x240%23c/MzEeKS.png",
+          "cover_color": "#2ce8f5",
+          "url": "https://miotismon.itch.io/do-ducks-dream-of-algorithmic-worldgen"
+        },
+        "id": 688698,
+        "coolness": 23,
+        "url": "/jam/gamedevjs-2025/rate/3504301",
+        "rating_count": 25,
+        "contributors": [
+          {
+            "name": "Miotismon",
+            "url": "https://miotismon.itch.io"
+          },
+          {
+            "name": "Overlite",
+            "url": "https://overlite.itch.io"
+          },
+          {
+            "name": "Incomputable",
+            "url": "https://incomputable.itch.io"
+          }
+        ]
+      },
+      "details": {
+        "title": "Do ducks dream of algorithmic worldgen",
+        "description": "The duck wants to sleep.\nJourney through the ever-changing archipelago in an attempt to turn the world into night. Collect resources to bridge the gap between islands and make a wish to turn the balance of the world from islands to space.\n\nControls:\nWASD/Arrow Keys - Movement\nSpace/X - Interact\n\nHow to play:\nMove around the islands collecting items by moving into them.\nCreate bridges between islands with interact button.\n\nWood is used to make bridges over water.\nStone is used to make bridges over lava.\nCrystals are used to make bridges over sky.\nSnowballs are traded for crystals by snowmen.\nCollect coins from chests, shipwrecks and buried treasure.\nCoins are used to transform whole islands through the monuments or wells.\n\nAvoid getting hit by the mysterious void tornados.\nInventory is shown on top of the character.\nWhen enough of the world is turned into space, a bed might appear.\nGame by: Noel, Miotismon & Overlite\n\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzUwNDMwMS8yMDg5MzA5MS5wbmc=/original/7AGLZz.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwNDMwMS8yMDg5MzA5Mi5wbmc=/original/EaeJgI.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwNDMwMS8yMDg5MzA5MC5wbmc=/original/gLMfb6.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "Miotismon, Overlite, Incomputable",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "2D, Cute, No AI, Pixel Art, Procedural Generation, Short, Singleplayer",
+          "Average session": "A few minutes"
+        }
+      }
+    },
+    {
+      "gameId": 3474474,
+      "gameUrl": "https://jaekit.itch.io/on-uo",
+      "overallRank": 6,
+      "topCategories": [
+        "Innovation",
+        "Graphics",
+        "Audio"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Jae",
+            "id": 10563637
+          },
+          {
+            "name": "jaagerz",
+            "id": 10545330
+          },
+          {
+            "name": "peygar",
+            "id": 13411471
+          }
+        ],
+        "id": 3474474,
+        "rank": 6,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.2307692307692,
+            "rank": 122,
+            "score": 3.2307692307692
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.2307692307692,
+            "rank": 17,
+            "score": 4.2307692307692
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 4.1538461538462,
+            "rank": 6,
+            "score": 4.1538461538462
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.4615384615385,
+            "rank": 2,
+            "score": 4.4615384615385
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.3333333333333,
+            "rank": 1,
+            "score": 4.3333333333333
+          }
+        ],
+        "rating_count": 39,
+        "url": "https://itch.io/jam/gamedevjs-2025/rate/3474474",
+        "title": "on/uo",
+        "cover_url": "https://img.itch.zone/aW1nLzIwODk4MTg5LnBuZw==/300x240%23c/NN40Y9.png",
+        "raw_score": 4.0820512820513,
+        "score": 4.0820512820513
+      },
+      "entryData": {
+        "created_at": "2025-04-26 05:47:35",
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Jae",
+            "url": "https://jaekit.itch.io",
+            "id": 10563637
+          },
+          "title": "on/uo",
+          "id": 3474474,
+          "short_text": "Keep the world balanced in this relaxing ethereal bullet-hell",
+          "cover": "https://img.itch.zone/aW1nLzIwODk4MTg5LnBuZw==/300x240%23c/NN40Y9.png",
+          "cover_color": "#000000",
+          "url": "https://jaekit.itch.io/on-uo"
+        },
+        "id": 688861,
+        "coolness": 18,
+        "url": "/jam/gamedevjs-2025/rate/3474474",
+        "rating_count": 39,
+        "contributors": [
+          {
+            "name": "Jae",
+            "url": "https://jaekit.itch.io"
+          },
+          {
+            "name": "jaagerz",
+            "url": "https://jaagerz.itch.io"
+          },
+          {
+            "name": "peygar",
+            "url": "https://peygar.itch.io"
+          }
+        ]
+      },
+      "details": {
+        "title": "on/uo",
+        "description": "⚠ PHOTO-SENSITIVITY WARNING ⚠\n-------------------------------------------\nAbout:\n    \nTouching an object on one side will teeter the balance towards the other.  Maintain the balance --- or willingly decide to break it and let one side take over. \n-------------------------------------------\n\nControls:\nWASD/Arrow keys - MOVE\nSpace - DASH\n-------------------------------------------\nOriginally made in two weeks for Gamedev.js Jam 2025\nArt/Level Design: Jae\nMusic/Sound: jaagerz\nProgramming: Jae, peygar",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzQ3NDQ3NC8yMDg5ODQ4Ni5wbmc=/original/FJtkhf.png",
+          "https://img.itch.zone/aW1hZ2UvMzQ3NDQ3NC8yMDg5ODM3Ni5wbmc=/original/7XtjBc.png",
+          "https://img.itch.zone/aW1hZ2UvMzQ3NDQ3NC8yMDg5ODM3OC5wbmc=/original/3UVHaz.png",
+          "https://img.itch.zone/aW1hZ2UvMzQ3NDQ3NC8yMDg5ODM3NS5wbmc=/original/utHBi0.png",
+          "https://img.itch.zone/aW1hZ2UvMzQ3NDQ3NC8yMDg5ODM3Ny5wbmc=/original/q%2FZYTQ.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Authors": "Jae, jaagerz, peygar",
+          "Genre": "Action, Rhythm",
+          "Made with": "Godot, Inkscape",
+          "Tags": "1-bit, 2D, Bullet Hell, Godot, Music, Relaxing, Short",
+          "Average session": "A few minutes",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": 3506952,
+      "gameUrl": "https://crky.itch.io/sliance",
+      "overallRank": 35,
+      "topCategories": [
+        "Innovation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "crky",
+            "id": 4157235
+          }
+        ],
+        "id": 3506952,
+        "rank": 35,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.8947368421053,
+            "rank": 15,
+            "score": 3.8947368421053
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.8947368421053,
+            "rank": 49,
+            "score": 3.8947368421053
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 4.0526315789474,
+            "rank": 9,
+            "score": 4.0526315789474
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.1052631578947,
+            "rank": 180,
+            "score": 3.1052631578947
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.1052631578947,
+            "rank": 123,
+            "score": 3.1052631578947
+          }
+        ],
+        "rating_count": 19,
+        "url": "https://itch.io/jam/gamedevjs-2025/rate/3506952",
+        "title": "SLIANCE",
+        "cover_url": "https://img.itch.zone/aW1nLzIyNDE0MjI4LnBuZw==/300x240%23c/db%2Bab7.png",
+        "raw_score": 3.6105263157895,
+        "score": 3.6105263157895
+      },
+      "entryData": {
+        "created_at": "2025-04-26 14:30:30",
+        "field_responses": [
+          "29541:3"
+        ],
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "crky",
+            "url": "https://crky.itch.io",
+            "id": 4157235
+          },
+          "title": "SLIANCE",
+          "id": 3506952,
+          "short_text": "slice and balance",
+          "cover": "https://img.itch.zone/aW1nLzIyNDE0MjI4LnBuZw==/300x240%23c/db%2Bab7.png",
+          "cover_color": "#f7e4ee",
+          "url": "https://crky.itch.io/sliance"
+        },
+        "id": 689056,
+        "coolness": 32,
+        "rating_count": 19,
+        "url": "/jam/gamedevjs-2025/rate/3506952"
+      },
+      "details": {
+        "title": "SLIANCE",
+        "description": "**NEW*  -> added a MASSIVE  update on 31-07-2025\nClick and drag to slice the yellow object on to the weighing plate on the left hand side of the weighing scale.\n**IMPORTANT** when slicing  the larger part remains.\nA physics based puzzle casual game where you click drag and slice and object on the left hand side of a chocolate weighing scale on to a chocolate plate in order to match  the weight of the confectionery on the right hand side of the weighing scale.\nCredits:\nHuge thanks to Emmanuel Feronato  of  https://emanueleferonato.com/ from whose work the slicing game mechanic was inspired from.\nPhaser  js framework by phaser studio https://phaser.io/\nMatter js  https://brm.io/matter-js/PolyK js https://polyk.ivank.net/Poly2Tri js https://r3mi.github.io/poly2tri.js/ Physics Editor https://www.codeandweb.com/physicseditor\nAssets\n Used modified kenny.nl assets -(cursor pack)Used free assets from Craftpix and  freepik \n\nThanks to https://gamedevjs.com/ for organizing the JAM \n\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzUwNjk1Mi8yMjQxNDIzMi5wbmc=/original/DedSGL.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwNjk1Mi8yMjQxNDIzNC5wbmc=/original/MPL3wo.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwNjk1Mi8yMjQxMzcxNS5wbmc=/original/u59sOo.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwNjk1Mi8yMjQxMzcxNi5wbmc=/original/tkVI8x.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwNjk1Mi8yMjQxMzcxOC5wbmc=/original/gCS6yD.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwNjk1Mi8yMjQxNDIzMy5wbmc=/original/SEd9JL.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwNjk1Mi8yMjQxMzcxNy5wbmc=/original/PyeDJ0.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwNjk1Mi8yMjQxMzcyMC5wbmc=/original/0nu%2FF6.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwNjk1Mi8yMjQxMzc1MS5wbmc=/original/I13KJA.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwNjk1Mi8yMjQxMzc1NS5wbmc=/original/TCkj2K.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwNjk1Mi8yMjQxMzc2Mi5wbmc=/original/5%2BX%2FNc.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwNjk1Mi8yMjQxMzc2NS5wbmc=/original/ZAtm%2Bp.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwNjk1Mi8yMjQxMzc3Mi5wbmc=/original/jUaiwT.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwNjk1Mi8yMjQxMzc3Ni5wbmc=/original/aqEdhd.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwNjk1Mi8yMjQxNDIzNS5wbmc=/original/%2BODfV%2F.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "crky",
+          "Genre": "Puzzle",
+          "Made with": "Phaser",
+          "Tags": "Cute, phaser3, Physics"
+        }
+      }
+    },
+    {
+      "gameId": 3505864,
+      "gameUrl": "https://enieme.itch.io/bun-survived",
+      "overallRank": 22,
+      "topCategories": [
+        "Innovation",
+        "Audio"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Enieme",
+            "id": 11831580
+          }
+        ],
+        "id": 3505864,
+        "rank": 22,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.5714285714286,
+            "rank": 89,
+            "score": 3.3407655239053
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.7857142857143,
+            "rank": 109,
+            "score": 3.5412114553396
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 4.2857142857143,
+            "rank": 10,
+            "score": 4.0089186286864
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.0714285714286,
+            "rank": 57,
+            "score": 3.808472697252
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.3571428571429,
+            "rank": 4,
+            "score": 4.0757339391645
+          }
+        ],
+        "rating_count": 14,
+        "url": "https://itch.io/jam/gamedevjs-2025/rate/3505864",
+        "title": "Bun Survived",
+        "cover_url": "https://img.itch.zone/aW1nLzIwOTAwMzQ5LnBuZw==/300x240%23c/0KyG37.png",
+        "raw_score": 4.0142857142857,
+        "score": 3.7550204488696
+      },
+      "entryData": {
+        "created_at": "2025-04-26 11:20:06",
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "title": "Bun Survived",
+          "id": 3505864,
+          "user": {
+            "name": "Enieme",
+            "url": "https://enieme.itch.io",
+            "id": 11831580
+          },
+          "cover": "https://img.itch.zone/aW1nLzIwOTAwMzQ5LnBuZw==/300x240%23c/0KyG37.png",
+          "cover_color": "#eeeeee",
+          "url": "https://enieme.itch.io/bun-survived"
+        },
+        "id": 688944,
+        "coolness": 19,
+        "rating_count": 14,
+        "url": "/jam/gamedevjs-2025/rate/3505864"
+      },
+      "details": {
+        "title": "Bun Survived",
+        "description": "Made in 5 days for the Gamedev.js Jam 2025 on the theme BALANCE.\nFeel free to leave a comment :) Feel free to email me at : eniemegame@gmail.com\nENJOY!\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzUwNTg2NC8yMDkwMDM3Ni5wbmc=/original/2Jn1om.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwNTg2NC8yMDkwMDM3Ny5wbmc=/original/uYl%2FV9.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwNTg2NC8yMDkwMDM3OC5wbmc=/original/Gqhjgl.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Enieme",
+          "Genre": "Puzzle",
+          "Tags": "Funny, Short, Singleplayer, storygame, Surreal"
+        }
+      }
+    },
+    {
+      "gameId": 3505330,
+      "gameUrl": "https://ex0o.itch.io/balaline",
+      "overallRank": 1,
+      "topCategories": [
+        "Graphics",
+        "Audio"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "ex0",
+            "id": 6332882
+          }
+        ],
+        "id": 3505330,
+        "rank": 1,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.9375,
+            "rank": 14,
+            "score": 3.9375
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.125,
+            "rank": 22,
+            "score": 4.125
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 4,
+            "rank": 11,
+            "score": 4
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.375,
+            "rank": 4,
+            "score": 4.375
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.3125,
+            "rank": 2,
+            "score": 4.3125
+          }
+        ],
+        "rating_count": 16,
+        "url": "https://itch.io/jam/gamedevjs-2025/rate/3505330",
+        "title": "balaline",
+        "cover_url": "https://img.itch.zone/aW1nLzIwOTA1MTkxLnBuZw==/300x240%23c/LW2BKQ.png",
+        "raw_score": 4.15,
+        "score": 4.15
+      },
+      "entryData": {
+        "created_at": "2025-04-26 01:53:26",
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "title": "balaline",
+          "id": 3505330,
+          "user": {
+            "name": "ex0",
+            "url": "https://ex0o.itch.io",
+            "id": 6332882
+          },
+          "cover": "https://img.itch.zone/aW1nLzIwOTA1MTkxLnBuZw==/300x240%23c/LW2BKQ.png",
+          "cover_color": "#291cba",
+          "url": "https://ex0o.itch.io/balaline"
+        },
+        "id": 688791,
+        "coolness": 4,
+        "rating_count": 16,
+        "url": "/jam/gamedevjs-2025/rate/3505330"
+      },
+      "details": {
+        "title": "balaline",
+        "description": "balaline is a puzzle-survival game with the goal to complete as many levels as possible within the time limit.\nYou control a line which separates two sides. Every level consists of randomly placed numbers. The goal in each level is to divide the numbers in a way that the sum is the same on both sides. \nIf you manage to do it, you get a few seconds additional time. If there is a difference you lose the amount in seconds.\nThe amount of time you gain or lose is affected by how quick you make your decision. The longer you take the less points or the more damage you get.\nNumbers that lay on the line won't be counted. You can use this to find unique solutions.\nControls\nmouse to move the linemousewheel to rotate the lineHold shift to rotate fasterHold ctrl to rotate slowerLeft mouse button or space to confirm your choice\nNote: It might not always be possible to perfectly divide the numbers, so you need to find the balance between looking for the solution and accepting a penalty.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzUwNTMzMC8yMDkwNTE5Ny5wbmc=/original/msrwnz.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwNTMzMC8yMDkwNTIyNS5wbmc=/original/74UTjt.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwNTMzMC8yMDkwNTExMS5wbmc=/original/ohlUzX.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwNTMzMC8yMDkwNTExNC5wbmc=/original/DuF6M6.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwNTMzMC8yMDkwNTExMi5wbmc=/original/AFnuRz.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwNTMzMC8yMDkwNTExNi5wbmc=/original/sOn%2FQw.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwNTMzMC8yMDkwNTExNS5wbmc=/original/Q1Lj0Q.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwNTMzMC8yMDkwNTExMy5wbmc=/original/ubId2X.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "ex0"
+        }
+      }
+    },
+    {
+      "gameId": 3491827,
+      "gameUrl": "https://jani-nykanen.itch.io/time-to-panic",
+      "overallRank": 79,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Jani Nykänen",
+            "id": 206861
+          }
+        ],
+        "id": 3491827,
+        "rank": 79,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.6923076923077,
+            "rank": 34,
+            "score": 3.6923076923077
+          },
+          {
+            "name": "Theme",
+            "raw_score": 2.8205128205128,
+            "rank": 261,
+            "score": 2.8205128205128
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 2.6666666666667,
+            "rank": 251,
+            "score": 2.6666666666667
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.3589743589744,
+            "rank": 5,
+            "score": 4.3589743589744
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.4102564102564,
+            "rank": 57,
+            "score": 3.4102564102564
+          }
+        ],
+        "rating_count": 39,
+        "url": "https://itch.io/jam/gamedevjs-2025/rate/3491827",
+        "title": "Time to Panic!",
+        "cover_url": "https://img.itch.zone/aW1nLzIwODQ4MjUzLnBuZw==/300x240%23c/pOBiSR.png",
+        "raw_score": 3.3897435897436,
+        "score": 3.3897435897436
+      },
+      "entryData": {
+        "created_at": "2025-04-22 19:52:33",
+        "field_responses": [
+          "29541:2"
+        ],
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Jani Nykänen",
+            "url": "https://jani-nykanen.itch.io",
+            "id": 206861
+          },
+          "title": "Time to Panic!",
+          "id": 3491827,
+          "short_text": "An intentionally frustrating tiny platformer thing with cute, colorful pixelart to maximize the pain.",
+          "cover": "https://img.itch.zone/aW1nLzIwODQ4MjUzLnBuZw==/300x240%23c/pOBiSR.png",
+          "cover_color": "#dc6c15",
+          "url": "https://jani-nykanen.itch.io/time-to-panic"
+        },
+        "id": 687617,
+        "coolness": 0,
+        "rating_count": 39,
+        "url": "/jam/gamedevjs-2025/rate/3491827"
+      },
+      "details": {
+        "title": "Time to Panic!",
+        "description": "Time to Panic! is a short platformer with intentionally slippery and frustrating controls. You play as some random guy whose bank account has been hacked, and you must stop the hacker before your bank account goes dry. Why? If the balance of your account hits zero, then the bank refuses to revive you if you die. Yes, that is perfectly cromulent logic.\nThe game was made within 10 days for Gamedev.js Jam 2025, so don't expect miracles, 'cause there sure ain't any.\n\nControls:\n(Gamepad controls inside parentheses)\nArrow keys/WASD (dpad/left stick): MoveSpace/Z/J/left mouse button (button A): Jump (press twice to double jump)Escape/Enter (uh... that menu button thing on modern Xbox pads): pauseEnter/Space (button A or  that menu button thing described above): accept stuff in the menus.\n\n\nSource code:\nHere: https://github.com/jani-nykanen/time-to-panic",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzQ5MTgyNy8yMDg0NTQxNi5wbmc=/original/NTHY0k.png",
+          "https://img.itch.zone/aW1hZ2UvMzQ5MTgyNy8yMDg0NTQxNy5wbmc=/original/SO4wOC.png",
+          "https://img.itch.zone/aW1hZ2UvMzQ5MTgyNy8yMDg0NTQxOC5wbmc=/original/kyFX8F.png",
+          "https://img.itch.zone/aW1hZ2UvMzQ5MTgyNy8yMDg0NTQyMC5wbmc=/original/eT%2Ft%2BE.png",
+          "https://img.itch.zone/aW1hZ2UvMzQ5MTgyNy8yMDg0NTQxOS5wbmc=/original/1NS6bq.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.4 out of 5 stars(7 total ratings)",
+          "Author": "Jani Nykänen",
+          "Genre": "Platformer, Action",
+          "Made with": "Tiled, Bfxr, GIMP",
+          "Tags": "2D, frustrating, Pixel Art, rage, rage-game, Retro",
+          "Code license": "MIT License",
+          "Asset license": "Creative Commons Attribution v4.0 International",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Xbox controller",
+          "Links": "GitHub"
+        }
+      }
+    },
+    {
+      "gameId": 3505808,
+      "gameUrl": "https://autumnspawn.itch.io/feed-the-demon",
+      "overallRank": 13,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "autumnspawn",
+            "id": 11732980
+          }
+        ],
+        "id": 3505808,
+        "rank": 13,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.75,
+            "rank": 25,
+            "score": 3.75
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.7142857142857,
+            "rank": 77,
+            "score": 3.7142857142857
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.75,
+            "rank": 30,
+            "score": 3.75
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.3571428571429,
+            "rank": 6,
+            "score": 4.3571428571429
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.8214285714286,
+            "rank": 11,
+            "score": 3.8214285714286
+          }
+        ],
+        "rating_count": 28,
+        "url": "https://itch.io/jam/gamedevjs-2025/rate/3505808",
+        "title": "Feed The Demon",
+        "cover_url": "https://img.itch.zone/aW1nLzIwOTAwNjY2LnBuZw==/300x240%23c/JFiJO1.png",
+        "raw_score": 3.8785714285714,
+        "score": 3.8785714285714
+      },
+      "entryData": {
+        "created_at": "2025-04-26 11:58:56",
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "autumnspawn",
+            "url": "https://autumnspawn.itch.io",
+            "id": 11732980
+          },
+          "title": "Feed The Demon",
+          "id": 3505808,
+          "short_text": "Hey! (hey!) You! (you!) Feed the demon!",
+          "cover": "https://img.itch.zone/aW1nLzIwOTAwNjY2LnBuZw==/300x240%23c/JFiJO1.png",
+          "cover_color": "#68252d",
+          "url": "https://autumnspawn.itch.io/feed-the-demon"
+        },
+        "id": 688965,
+        "coolness": 30,
+        "rating_count": 28,
+        "url": "/jam/gamedevjs-2025/rate/3505808"
+      },
+      "details": {
+        "title": "Feed The Demon",
+        "description": "Submission for Gamedev.js Jam 2025. Theme: Balance.\n\nCollect food while keeping your deeds balanced, then feed the demon!\nControls:\nW/A/S/D to move around.Left Mouse Click to attack.Space to feed the demon (only work at farm).E to interact.P to pause and or open game menu.\nNotes:\nPlease consider letting me know if you encounter any errors, bugs, or inconveniences.\nExternal Assets:\nMusic: SVL's RPG Music Pack by Shononoki.Font: monogram by datagoblin",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzUwNTgwOC8yMDkwMDUxNy5wbmc=/original/JNj11d.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwNTgwOC8yMDkwMjUyNS5wbmc=/original/HqeHCO.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwNTgwOC8yMDkwMjUyMy5wbmc=/original/1CqNMy.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwNTgwOC8yMDkwMjUyMS5wbmc=/original/TvKc9K.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "autumnspawn",
+          "Genre": "Action",
+          "Made with": "Unity, Aseprite",
+          "Tags": "2D, Pixel Art, Singleplayer",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 3506797,
+      "gameUrl": "https://korogames.itch.io/balanceem",
+      "overallRank": 24,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "koro.games",
+            "id": 1888918
+          },
+          {
+            "name": "filgreen3",
+            "id": 1217522
+          },
+          {
+            "name": "pe4Q07",
+            "id": 11894181
+          },
+          {
+            "name": "liberato",
+            "id": 2086813
+          }
+        ],
+        "id": 3506797,
+        "rank": 24,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.8108108108108,
+            "rank": 20,
+            "score": 3.8108108108108
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.0810810810811,
+            "rank": 212,
+            "score": 3.0810810810811
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.6486486486486,
+            "rank": 39,
+            "score": 3.6486486486486
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.3513513513514,
+            "rank": 7,
+            "score": 4.3513513513514
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.5945945945946,
+            "rank": 34,
+            "score": 3.5945945945946
+          }
+        ],
+        "rating_count": 37,
+        "url": "https://itch.io/jam/gamedevjs-2025/rate/3506797",
+        "title": "Balance'em",
+        "cover_url": "https://img.itch.zone/aW1nLzIwOTM3MzgxLmdpZg==/300x240%23c/CB2d1q.gif",
+        "raw_score": 3.6972972972973,
+        "score": 3.6972972972973
+      },
+      "entryData": {
+        "created_at": "2025-04-26 14:53:33",
+        "game": {
+          "platforms": [
+            "windows",
+            "osx",
+            "web"
+          ],
+          "id": 3506797,
+          "cover": "https://img.itch.zone/aW1nLzIwOTM3MzgxLmdpZg==/300x240%23c/CB2d1q.gif",
+          "cover_color": "#0d0b0b",
+          "title": "Balance'em",
+          "short_text": "Game that you balance for yourself",
+          "gif_cover": "https://img.itch.zone/aW1nLzIwOTM3MzgxLmdpZg==/original/LTTEOu.gif",
+          "user": {
+            "name": "koro.games",
+            "url": "https://korogames.itch.io",
+            "id": 1888918
+          },
+          "url": "https://korogames.itch.io/balanceem"
+        },
+        "id": 689110,
+        "coolness": 1,
+        "url": "/jam/gamedevjs-2025/rate/3506797",
+        "rating_count": 37,
+        "contributors": [
+          {
+            "name": "koro.games",
+            "url": "https://korogames.itch.io"
+          },
+          {
+            "name": "filgreen3",
+            "url": "https://filgreen3.itch.io"
+          },
+          {
+            "name": "pe4Q07",
+            "url": "https://pe4q07.itch.io"
+          },
+          {
+            "name": "liberato",
+            "url": "https://liberato.itch.io"
+          }
+        ]
+      },
+      "details": {
+        "title": "Balance'em",
+        "description": "This game is a merge of inventory managment dungeon-crawler with innovative system of personal balance. \nHow to play? \n\n\n\n\n\nYou enter a dungeon to beat bosses. To kill a boss you have to deplete one of 4 his stats: health, strength, agility or morale. You have a backpack with differen weird staff to deal damage or restore your own stats.\nBut what about the balance? Before each battle you set a score of stars. They affect bosses might and list of abilities. In the end it is up to you to collect as many stars from defeated bosses and run through the dungeon\nClaim your fame!\nMusic - Augmentality (Brandon Morris) Creepy Forest (F)\nTools:\nUnity, Aseprite\nIt is made by:\n\nfilgreen3 code/gamedesign/original ideape4Q07 art/gamedesignliberato code/gamedesign\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzUwNjc5Ny8yMDkwNzY0Ni5wbmc=/original/WOI4%2Bf.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwNjc5Ny8yMDkwNzQxOC5wbmc=/original/FS3DDJ.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwNjc5Ny8yMDkwNzY2OC5wbmc=/original/N9Gskk.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS",
+          "Rating": "Rated 4.4 out of 5 stars(16 total ratings)",
+          "Authors": "koro.games, filgreen3, pe4Q07, liberato",
+          "Genre": "Role Playing",
+          "Made with": "Unity",
+          "Tags": "Boss battle, Deck Building, Dungeon Crawler, Fantasy, Retro, Roguelike, Roguelite"
+        }
+      }
+    },
+    {
+      "gameId": 3483730,
+      "gameUrl": "https://leokuo0724.itch.io/balance-maatters",
+      "overallRank": 19,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Leo Kuo",
+            "id": 2757290
+          }
+        ],
+        "id": 3483730,
+        "rank": 19,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.6410256410256,
+            "rank": 40,
+            "score": 3.6410256410256
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4,
+            "rank": 36,
+            "score": 4
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.6410256410256,
+            "rank": 41,
+            "score": 3.6410256410256
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.3333333333333,
+            "rank": 8,
+            "score": 4.3333333333333
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.5641025641026,
+            "rank": 37,
+            "score": 3.5641025641026
+          }
+        ],
+        "rating_count": 39,
+        "url": "https://itch.io/jam/gamedevjs-2025/rate/3483730",
+        "title": "Balance Ma'atters",
+        "cover_url": "https://img.itch.zone/aW1nLzIwOTA0NjM5LnBuZw==/300x240%23c/xrKiez.png",
+        "raw_score": 3.8358974358974,
+        "score": 3.8358974358974
+      },
+      "entryData": {
+        "created_at": "2025-04-26 14:27:13",
+        "field_responses": [
+          "29541:2",
+          "29541:3"
+        ],
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Leo Kuo",
+            "url": "https://leokuo0724.itch.io",
+            "id": 2757290
+          },
+          "title": "Balance Ma'atters",
+          "id": 3483730,
+          "short_text": "Play cards, balance scales, defeat chaos.",
+          "cover": "https://img.itch.zone/aW1nLzIwOTA0NjM5LnBuZw==/300x240%23c/xrKiez.png",
+          "cover_color": "#442d26",
+          "url": "https://leokuo0724.itch.io/balance-maatters"
+        },
+        "id": 689052,
+        "coolness": 46,
+        "rating_count": 39,
+        "url": "/jam/gamedevjs-2025/rate/3483730"
+      },
+      "details": {
+        "title": "Balance Ma'atters",
+        "description": "Balance Ma’atters\nThe world’s out of balance. Again. As Ma’at, the goddess of truth and order, it’s up to you to fix the mess Apophis made — with nothing but a handful of cards.\nIn this quick and quirky card game, you’ll battle mischievous beasts, tip scales, and unleash massive attacks when balance is restored. Just be careful: a little tilt is fine, but if you fully tip those scales... well, chaos has a lot of free time.\n\n🕹️ How to Play:\n  Play cards to attack, defend, and shift the scales.Balance small scales to gain extra multipliers.Balance the large scale to unleash stored power. At the end of your turn, if a small scale is fully unbalanced, Ma’at will skip her next turn to recover.At the end of your turn, if the large scale is fully unbalanced, you immediately lose the battle.\n Stay calm. Stay steady. Save the world.\n⚡ Made for Gamedev.js jam 2025!\nBalance Ma’atters is a small, light-hearted project with a touch of roguelite.  Some fancy features didn’t make it this time, but hey, balance first, sparkle later. Thanks for playing and helping keep the universe scales steady!\n©️ Credit\nEquip Sound Effect by Homemade_SFX from PixabayHammer Fixing Sound Effect by freesound_community from PixabayError Sound Effect by Universfield from PixabayHit Sound Effect by Dennis from Pixabay",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzQ4MzczMC8yMDkwNTQ1MC5wbmc=/original/PenaVQ.png",
+          "https://img.itch.zone/aW1hZ2UvMzQ4MzczMC8yMDkwNTQ2MS5wbmc=/original/X4CYDG.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "Leo Kuo",
+          "Genre": "Card Game, Strategy",
+          "Tags": "Minimalist, mythology, phaser, Roguelite, Vector"
+        }
+      }
+    },
+    {
+      "gameId": 3501360,
+      "gameUrl": "https://klimogd.itch.io/burden",
+      "overallRank": 34,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "KlimoGD",
+            "id": 640996
+          }
+        ],
+        "id": 3501360,
+        "rank": 34,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.5,
+            "rank": 53,
+            "score": 3.5
+          },
+          {
+            "name": "Theme",
+            "raw_score": 2.7916666666667,
+            "rank": 268,
+            "score": 2.7916666666667
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.7916666666667,
+            "rank": 25,
+            "score": 3.7916666666667
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.3333333333333,
+            "rank": 8,
+            "score": 4.3333333333333
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.6666666666667,
+            "rank": 24,
+            "score": 3.6666666666667
+          }
+        ],
+        "rating_count": 24,
+        "url": "https://itch.io/jam/gamedevjs-2025/rate/3501360",
+        "title": "BURDEN",
+        "cover_url": "https://img.itch.zone/aW1nLzIwODkwMTQwLnBuZw==/300x240%23c/IW2S%2Fh.png",
+        "raw_score": 3.6166666666667,
+        "score": 3.6166666666667
+      },
+      "entryData": {
+        "created_at": "2025-04-26 12:10:27",
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "KlimoGD",
+            "url": "https://klimogd.itch.io",
+            "id": 640996
+          },
+          "title": "BURDEN",
+          "id": 3501360,
+          "short_text": "Avoid the traps of the Chained Queen",
+          "cover": "https://img.itch.zone/aW1nLzIwODkwMTQwLnBuZw==/300x240%23c/IW2S%2Fh.png",
+          "cover_color": "#130208",
+          "url": "https://klimogd.itch.io/burden"
+        },
+        "id": 688969,
+        "coolness": 9,
+        "rating_count": 24,
+        "url": "/jam/gamedevjs-2025/rate/3501360"
+      },
+      "details": {
+        "title": "BURDEN",
+        "description": "You are the last man standing against the Chained Queen.\nWill you be able to avoid all her traps and triumph over her trials?\nIn BURDEN, gather your courage and advance step by step through the Chained Queen's kingdom. In this retro-styled, chess-inspired game, you'll have to observe your surroundings, plan your moves, and capture all your opponent's pawns if you hope to survive.\nCONTROLS :\n- Right click in the left part of the game to move the camera and observe your surroundings.\n- Left click to drag and drop actions into your timeline.\nPress the start button to start your turn. But be aware! Your number of turn per level is limited!\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzUwMTM2MC8yMDkwMjQ0NS5wbmc=/original/5ghgKO.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwMTM2MC8yMDkwMjQ0OS5wbmc=/original/akEZZy.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwMTM2MC8yMDkwMjQ2NS5wbmc=/original/sjel84.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Author": "KlimoGD",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "Chess, Dark Fantasy, Dungeon Crawler, FPS, Gothic, Low-poly, PSX (PlayStation), Turn-based"
+        }
+      }
+    },
+    {
+      "gameId": 3505168,
+      "gameUrl": "https://doctor-succubus.itch.io/split-spell",
+      "overallRank": 7,
+      "topCategories": [
+        "Graphics",
+        "Audio"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Doctor_Succubus",
+            "id": 1758281
+          }
+        ],
+        "id": 3505168,
+        "rank": 7,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.7746478873239,
+            "rank": 23,
+            "score": 3.7746478873239
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.2535211267606,
+            "rank": 16,
+            "score": 4.2535211267606
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.7605633802817,
+            "rank": 28,
+            "score": 3.7605633802817
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.3098591549296,
+            "rank": 10,
+            "score": 4.3098591549296
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.056338028169,
+            "rank": 5,
+            "score": 4.056338028169
+          }
+        ],
+        "rating_count": 71,
+        "url": "https://itch.io/jam/gamedevjs-2025/rate/3505168",
+        "title": "Split Spell",
+        "cover_url": "https://img.itch.zone/aW1nLzIwODk2NjMzLnBuZw==/300x240%23c/c%2Fo5l%2B.png",
+        "raw_score": 4.030985915493,
+        "score": 4.030985915493
+      },
+      "entryData": {
+        "created_at": "2025-04-26 08:10:40",
+        "game": {
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "Doctor_Succubus",
+            "url": "https://doctor-succubus.itch.io",
+            "id": 1758281
+          },
+          "title": "Split Spell",
+          "id": 3505168,
+          "short_text": "Quick math dungeon",
+          "cover": "https://img.itch.zone/aW1nLzIwODk2NjMzLnBuZw==/300x240%23c/c%2Fo5l%2B.png",
+          "cover_color": "#C8E8C9",
+          "url": "https://doctor-succubus.itch.io/split-spell"
+        },
+        "id": 688902,
+        "coolness": 2,
+        "rating_count": 71,
+        "url": "/jam/gamedevjs-2025/rate/3505168"
+      },
+      "details": {
+        "title": "Split Spell",
+        "description": "Balance dice in your spell book to defeat the forces of evil!Use your mouse to play!\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzUwNTE2OC8yMDkwMDM2OC5naWY=/original/21DQKF.gif",
+          "https://img.itch.zone/aW1hZ2UvMzUwNTE2OC8yMDkwMDMxNy5naWY=/original/JhGjUx.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.8 out of 5 stars(20 total ratings)",
+          "Author": "Doctor_Succubus",
+          "Genre": "Puzzle",
+          "Made with": "GameMaker",
+          "Tags": "2D, Cute, Pixel Art"
+        }
+      }
+    },
+    {
+      "gameId": 3490686,
+      "gameUrl": "https://redfeng.itch.io/jazzjazzrevolution",
+      "overallRank": 52,
+      "topCategories": [
+        "Audio"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "redfeng",
+            "id": 7948068
+          },
+          {
+            "name": "0alx0",
+            "id": 11391613
+          },
+          {
+            "name": "sophieli8723",
+            "id": 11438786
+          },
+          {
+            "name": "mlumlu",
+            "id": 11427049
+          },
+          {
+            "name": "YY Sounds",
+            "id": 13211456
+          }
+        ],
+        "id": 3490686,
+        "rank": 52,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 2.9411764705882,
+            "rank": 182,
+            "score": 2.9411764705882
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.4117647058824,
+            "rank": 141,
+            "score": 3.4117647058824
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.3529411764706,
+            "rank": 73,
+            "score": 3.3529411764706
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.8235294117647,
+            "rank": 53,
+            "score": 3.8235294117647
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.1176470588235,
+            "rank": 3,
+            "score": 4.1176470588235
+          }
+        ],
+        "rating_count": 17,
+        "url": "https://itch.io/jam/gamedevjs-2025/rate/3490686",
+        "title": "Jazz Jazz Revolution",
+        "cover_url": "https://img.itch.zone/aW1nLzIwOTA1NDEyLnBuZw==/300x240%23c/lyyMC6.png",
+        "raw_score": 3.5294117647059,
+        "score": 3.5294117647059
+      },
+      "entryData": {
+        "created_at": "2025-04-26 15:58:23",
+        "field_responses": [
+          "29541:2"
+        ],
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "title": "Jazz Jazz Revolution",
+          "id": 3490686,
+          "user": {
+            "name": "redfeng",
+            "url": "https://redfeng.itch.io",
+            "id": 7948068
+          },
+          "cover": "https://img.itch.zone/aW1nLzIwOTA1NDEyLnBuZw==/300x240%23c/lyyMC6.png",
+          "cover_color": "#191919",
+          "url": "https://redfeng.itch.io/jazzjazzrevolution"
+        },
+        "id": 689175,
+        "coolness": 4,
+        "url": "/jam/gamedevjs-2025/rate/3490686",
+        "rating_count": 17,
+        "contributors": [
+          {
+            "name": "redfeng",
+            "url": "https://redfeng.itch.io"
+          },
+          {
+            "name": "0alx0",
+            "url": "https://0alx0.itch.io"
+          },
+          {
+            "name": "sophieli8723",
+            "url": "https://sophieli8723.itch.io"
+          },
+          {
+            "name": "mlumlu",
+            "url": "https://meganlu.itch.io"
+          },
+          {
+            "name": "YY Sounds",
+            "url": "https://yy-sounds.itch.io"
+          }
+        ]
+      },
+      "details": {
+        "title": "Jazz Jazz Revolution",
+        "description": "🎷 Jazz Jazz Revolution\nFeel the rhythm...\nBalance the sections...\nHold the music together...\nFinish the song.\n\nStep into Jazz Jazz Revolution, a fast-paced rhythm game where keeping the band in sync is just as important as hitting the notes.\nEach lane represents a different section of the ensemble — strings, brass, piano, drums, bass— and each has its own balance to maintain.\nPerfect timing keeps the group stable. Mistakes throw them out of rhythm, risking a complete collapse.\nSurvive the full performance by balancing precision, timing, and focus as the music grows more intense.\nEvery note matters. Every group counts.\nHold the band together — or watch the music fall apart.\n\nPlay Jazz Jazz Revolution and see if you can master the performance.\n\n🎵 Team\n\n    Coding: Redfeng & 0alx0\n    Art: Megan Lu & Sophie Li\n    Audio: Yu\n  ",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzQ5MDY4Ni8yMDkzMjUxMi5wbmc=/original/HeRzAv.png",
+          "https://img.itch.zone/aW1hZ2UvMzQ5MDY4Ni8yMDkzMjUxMS5wbmc=/original/8F6yAL.png",
+          "https://img.itch.zone/aW1hZ2UvMzQ5MDY4Ni8yMDkzMjUxMC5wbmc=/original/7PHk24.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Authors": "redfeng, 0alx0, sophieli8723, mlumlu, YY Sounds",
+          "Genre": "Rhythm",
+          "Made with": "Unity"
+        }
+      }
+    },
+    {
+      "gameId": 3507051,
+      "gameUrl": "https://teamelseware.itch.io/tickettoelsewhere",
+      "overallRank": 70,
+      "topCategories": [
+        "Audio"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Team ElseWare",
+            "id": 8353652
+          },
+          {
+            "name": "themusingowl",
+            "id": 13338861
+          },
+          {
+            "name": "Tintenseher (they/them)",
+            "id": 442252
+          },
+          {
+            "name": "swordofdestiny",
+            "id": 276123
+          },
+          {
+            "name": "CynderStorm",
+            "id": 8640377
+          },
+          {
+            "name": "barryk013",
+            "id": 5946879
+          },
+          {
+            "name": "Moustronaut",
+            "id": 5029353
+          }
+        ],
+        "id": 3507051,
+        "rank": 70,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 2.3478260869565,
+            "rank": 315,
+            "score": 2.3478260869565
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.6086956521739,
+            "rank": 91,
+            "score": 3.6086956521739
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.2173913043478,
+            "rank": 96,
+            "score": 3.2173913043478
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.9130434782609,
+            "rank": 42,
+            "score": 3.9130434782609
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.0434782608696,
+            "rank": 6,
+            "score": 4.0434782608696
+          }
+        ],
+        "rating_count": 23,
+        "url": "https://itch.io/jam/gamedevjs-2025/rate/3507051",
+        "title": "Ticket to Elsewhere",
+        "cover_url": "https://img.itch.zone/aW1nLzIwOTA1NDc1LnBuZw==/300x240%23c/GOmHoN.png",
+        "raw_score": 3.4260869565217,
+        "score": 3.4260869565217
+      },
+      "entryData": {
+        "created_at": "2025-04-26 14:59:06",
+        "game": {
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "Team ElseWare",
+            "url": "https://teamelseware.itch.io",
+            "id": 8353652
+          },
+          "title": "Ticket to Elsewhere",
+          "id": 3507051,
+          "short_text": "What will you place on the scales?",
+          "cover": "https://img.itch.zone/aW1nLzIwOTA1NDc1LnBuZw==/300x240%23c/GOmHoN.png",
+          "cover_color": "#ff028f",
+          "url": "https://teamelseware.itch.io/tickettoelsewhere"
+        },
+        "id": 689144,
+        "coolness": 17,
+        "url": "/jam/gamedevjs-2025/rate/3507051",
+        "rating_count": 23,
+        "contributors": [
+          {
+            "name": "Team ElseWare",
+            "url": "https://teamelseware.itch.io"
+          },
+          {
+            "name": "themusingowl",
+            "url": "https://themusingowl.itch.io"
+          },
+          {
+            "name": "Tintenseher (they/them)",
+            "url": "https://tintenseher.itch.io"
+          },
+          {
+            "name": "swordofdestiny",
+            "url": "https://swordofdestiny.itch.io"
+          },
+          {
+            "name": "CynderStorm",
+            "url": "https://cynderstorm.itch.io"
+          },
+          {
+            "name": "barryk013",
+            "url": "https://barryk013.itch.io"
+          },
+          {
+            "name": "Moustronaut",
+            "url": "https://moustronaut.itch.io"
+          }
+        ]
+      },
+      "details": {
+        "title": "Ticket to Elsewhere",
+        "description": "\"If this is a dream, it's the weirdest dream I've ever had...\"\nTicket to Elsewhere is a short narrative game about judging the life of someone who's passing through on their way to elsewhere, featuring the voice of Marty Vite. It was made in 13 days for the 2025 Gamedev.js Jam, and inspired by our previous title, An Oceanside Journey on the Elsewhere Express.ControlsThe game is entirely mouse-driven. Click-and-drag factors to the scale to weigh them, or to the Petitioner's portrait to ask about them.Just extract the .zip and play the .exe!",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIwOTA1NDc1LnBuZw==/original/9TsicD.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Authors": "Team ElseWare, themusingowl, Tintenseher (they/them), swordofdestiny, CynderStorm, barryk013, Moustronaut",
+          "Genre": "Visual Novel",
+          "Made with": "Godot",
+          "Tags": "2D, investigative, Narrative, No AI, Relaxing, Short, Singleplayer, Trains",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Mouse",
+          "Accessibility": "Subtitles, One button"
+        }
+      }
+    },
+    {
+      "gameId": 3505482,
+      "gameUrl": "https://electricram999.itch.io/haven",
+      "overallRank": 11,
+      "topCategories": [
+        "Audio"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "ElectricRam",
+            "id": 6955600
+          },
+          {
+            "name": "Pixel_Saiyan",
+            "id": 3344972
+          },
+          {
+            "name": "Instrumetal",
+            "id": 3221914
+          }
+        ],
+        "id": 3505482,
+        "rank": 11,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.5,
+            "rank": 53,
+            "score": 3.5
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.2307692307692,
+            "rank": 17,
+            "score": 4.2307692307692
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.6538461538462,
+            "rank": 38,
+            "score": 3.6538461538462
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.2307692307692,
+            "rank": 16,
+            "score": 4.2307692307692
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.8846153846154,
+            "rank": 9,
+            "score": 3.8846153846154
+          }
+        ],
+        "rating_count": 26,
+        "url": "https://itch.io/jam/gamedevjs-2025/rate/3505482",
+        "title": "H.A.V.E.N",
+        "cover_url": "https://img.itch.zone/aW1nLzIwODk4MzUyLnBuZw==/300x240%23c/1oT9OY.png",
+        "raw_score": 3.9,
+        "score": 3.9
+      },
+      "entryData": {
+        "created_at": "2025-04-26 04:13:24",
+        "field_responses": [
+          "29541:2"
+        ],
+        "game": {
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "ElectricRam",
+            "url": "https://electricram999.itch.io",
+            "id": 6955600
+          },
+          "title": "H.A.V.E.N",
+          "id": 3505482,
+          "short_text": "a short platformer about a robot in the apocylpse",
+          "cover": "https://img.itch.zone/aW1nLzIwODk4MzUyLnBuZw==/300x240%23c/1oT9OY.png",
+          "cover_color": "#000000",
+          "url": "https://electricram999.itch.io/haven"
+        },
+        "id": 688830,
+        "coolness": 8,
+        "url": "/jam/gamedevjs-2025/rate/3505482",
+        "rating_count": 26,
+        "contributors": [
+          {
+            "name": "ElectricRam",
+            "url": "https://electricram999.itch.io"
+          },
+          {
+            "name": "Pixel_Saiyan",
+            "url": "https://pixel-saiyan.itch.io"
+          },
+          {
+            "name": "Instrumetal",
+            "url": "https://instrumetal.itch.io"
+          }
+        ]
+      },
+      "details": {
+        "title": "H.A.V.E.N",
+        "description": "we did not have alot of time to make this game but its made! finished!\nA short game for the GAMEDEV.js jam 2025\nAssimilition is the goal, a future ravaged and dead, systems running amist the chaos you are the final conduit\nCONTROLS\nWASD or ZQSD for titlting and stretching\nX or SPACE to JUMP\nC to RIGHT CLICK to ATTACK\nTHE TEAM\nhttps://spookyman999.itch.io/ Programmer Artist, guy who does the lighting or something\nhttps://x.com/VihoMusic Music and SFX\nhttps://itch.io/profile/pixel-saiyan Art and SFX\nhttps://itch.io/profile/instrumetal Music and SFX\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzUwNTQ4Mi8yMDg5ODQ5MS5wbmc=/original/%2BJiVAE.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwNTQ4Mi8yMDg5ODQ4OS5wbmc=/original/c7FVaX.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwNTQ4Mi8yMDg5ODQ5Mi5wbmc=/original/AxeEe9.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwNTQ4Mi8yMDg5ODQ5MC5wbmc=/original/C1w9ne.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Authors": "ElectricRam, Pixel_Saiyan, Instrumetal",
+          "Genre": "Platformer",
+          "Made with": "Construct",
+          "Tags": "2D, Atmospheric, Pixel Art, Retro, Short, Singleplayer"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,922 @@
+{
+  "n": 98,
+  "name": "2020 Epic MegaJam",
+  "url": "https://itch.io/jam/2020-epic-megajam",
+  "theme": "It's been a long time, but we're not done yet",
+  "slug": "2020-epic-megajam",
+  "jamMeta": {
+    "jamType": "ongoing",
+    "joined": "",
+    "entries": "336",
+    "title": "2020 Epic MegaJam",
+    "jamURL": "https://itch.io/jam/2020-epic-megajam",
+    "hosts": {
+      "Unreal Engine": "https://unrealengine.itch.io",
+      "#UnrealJam": "https://bsky.app/hashtag/UnrealJam"
+    },
+    "jamID": "18908"
+  },
+  "totalEntries": 324,
+  "ranked": true,
+  "hasCategories": false,
+  "needsManualSelection": false,
+  "categories": [],
+  "topGames": [
+    {
+      "gameId": 850860,
+      "gameUrl": "https://panchinerino.itch.io/no-more-papers-please",
+      "overallRank": 1,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/2020-epic-megajam/rate/850860",
+        "game": {
+          "id": 850860,
+          "cover": "https://img.itch.zone/aW1nLzQ3NzcxNTEucG5n/300x240%23c/aBegh6.png",
+          "user": {
+            "url": "https://panchinerino.itch.io",
+            "id": 1216684,
+            "name": "Panchinerino"
+          },
+          "cover_color": "#e5e5e5",
+          "platforms": [
+            "windows"
+          ],
+          "url": "https://panchinerino.itch.io/no-more-papers-please",
+          "short_text": "It's been a long day, but you're almost done with work for the day...You think atleast.",
+          "title": "No more papers please"
+        },
+        "created_at": "2020-12-11 18:30:02",
+        "id": 177050,
+        "contributors": [
+          {
+            "name": "Panchinerino",
+            "url": "https://panchinerino.itch.io"
+          },
+          {
+            "name": "Urbancat",
+            "url": "https://urbancat.itch.io"
+          },
+          {
+            "name": "NotFrancis",
+            "url": "https://notfrancis.itch.io"
+          },
+          {
+            "name": "Flammyth",
+            "url": "https://flammyth.itch.io"
+          }
+        ],
+        "field_responses": [
+          "11110:Platform1"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "No more papers please",
+        "description": "You're almost done at work. You worked hard all day and have only a few tasks left to do and will be able to go home to your family... But it seems extra work is something you can't avoid.\nNo more papers please is a physics-based game about working over-time in a stressful job. Use the tools in your office to fill out the papers and put them in your scanner. Make sure you get the work done as soon as possible so you can go home to your family!\nThis game was made for the Epic Mega Jam 2020 with the theme \"It's been a long time, but we're not done yet\"\n\nOutside assets credits:\nCrowd audio (Used  for ambience)  - https://gamesounds.xyz/?dir=BBC%20Sound%20Effects%20LibraryLobby Time by Kevin MacLeod (Used for background music) - https://incompetech.filmmusic.io/song/3986-lobby-timeGameplay Font (For computers and title) -  https://www.dafont.com/gameplay.fontLawn mower sound (Used to master shredder audio) - https://www.freesoundslibrary.com/lawn-mower-sound/Hand Icons - (Used for cursor UI) - https://thenounproject.com/digithrust/collection/hand-gesture/?i=1164693DSEG Font - (Used for clock) - Copyright (c) 2017, keshikan (http://www.keshikan.net) with Reserved Font Name \"DSEG\".Typed Font (Public domain)  (Used for Speech bubble and generic UI font) - http://www.publicdomainfiles.com/show_file.php?id=13501609436782Coat rustle - (Used for ending) -  https://gamesounds.xyz/Sonniss.com%20-%20GDC%202016%20-%20Game%20Audio%20Bundle/...Door Close + Lock - (Used for ending) - https://gamesounds.xyz/Sonniss.com%20-%20GDC%202016%20-%20Game%20Audio%20Bundle/...paper flowers font - (Used for sticky notes)  - https://www.dafont.com/paper-flowers.fontCamera sfx - (Used for phone) - https://freesfx.co.uk/Harddrive shutdown - (Used for ending) - youtube linkUnzip the rar fileRun NoMorePapersPlease.exeEnjoy!\nIf the game says you are missing any prerequisites to run UE4 games, please make sure you install them manually if required.",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzQ3NzcxNTEucG5n/original/Nnxo2%2F.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.2 out of 5 stars(75 total ratings)",
+          "Authors": "Panchinerino, Urbancat, NotFrancis, Flammyth",
+          "Genre": "Simulation",
+          "Made with": "Unreal Engine",
+          "Tags": "Funny, Management, Physics, Point & Click, Short"
+        }
+      }
+    },
+    {
+      "gameId": 848640,
+      "gameUrl": "https://two-star-games.itch.io/cloud-climber",
+      "overallRank": 2,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "game": {
+          "platforms": [
+            "windows"
+          ],
+          "gif_cover": "https://img.itch.zone/aW1nLzQ3NjgzNjEuZ2lm/original/VvS51i.gif",
+          "url": "https://two-star-games.itch.io/cloud-climber",
+          "short_text": "A lighthearted walking sim about the end of humanity.",
+          "title": "Cloud Climber",
+          "cover": "https://img.itch.zone/aW1nLzQ3NjgzNjEuZ2lm/300x240%23c/FYd4fi.gif",
+          "id": 848640,
+          "cover_color": "#000000",
+          "user": {
+            "url": "https://two-star-games.itch.io",
+            "id": 1887387,
+            "name": "Two Star Games"
+          }
+        },
+        "url": "/jam/2020-epic-megajam/rate/848640",
+        "id": 176519,
+        "rating_count": 0,
+        "field_responses": [
+          "11110:Platform1"
+        ],
+        "coolness": 0,
+        "created_at": "2020-12-11 00:56:42"
+      },
+      "details": {
+        "title": "Cloud Climber",
+        "description": "A thousand years ago it stopped raining, and all Earth's water evaporated into the clouds.\n\nFor over a hundred years people have been building towers to attempt to reach the clouds, so they can get the water they need to survive.  And for over a hundred years they've failed.  It's been a long time, but you're not done building yet.\nExplore the last monuments of humanity, as one of the only people alive, while coming to terms with the bleak reality that lies ahead.\nIf you enjoyed Cloud Climber, be sure to check out my other game Choo-Choo Charles on Steam!\n\n\n\nFollow me on Twitter to get updates on my latest projects!\n\nDownload the zip file, decompress, and launch TowerGame.exe!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODQ4NjQwLzQ3Njg5OTguanBn/original/YPXuhS.jpg",
+          "https://img.itch.zone/aW1hZ2UvODQ4NjQwLzQ3Njg5OTkuanBn/original/VaU5gY.jpg",
+          "https://img.itch.zone/aW1hZ2UvODQ4NjQwLzQ3Njg5OTcuanBn/original/VY1Owu.jpg",
+          "https://img.itch.zone/aW1hZ2UvODQ4NjQwLzQ3NjkwMTUuanBn/original/o%2F0p57.jpg",
+          "https://img.itch.zone/aW1hZ2UvODQ4NjQwLzQ3NjkwMDAuanBn/original/6yvIn5.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.4 out of 5 stars(213 total ratings)",
+          "Author": "Two Star Games",
+          "Genre": "Adventure",
+          "Tags": "3D, Atmospheric, Casual, First-Person, Short, Singleplayer, Walking simulator, weird"
+        }
+      }
+    },
+    {
+      "gameId": 849929,
+      "gameUrl": "https://oursbleu.itch.io/desolate-drive",
+      "overallRank": 3,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/2020-epic-megajam/rate/849929",
+        "game": {
+          "id": 849929,
+          "user": {
+            "url": "https://oursbleu.itch.io",
+            "id": 584689,
+            "name": "OursBleu"
+          },
+          "cover_color": "#010B09",
+          "cover": "https://img.itch.zone/aW1nLzQ3Nzc2NTcucG5n/300x240%23c/wbzw%2Fj.png",
+          "url": "https://oursbleu.itch.io/desolate-drive",
+          "platforms": [
+            "windows"
+          ],
+          "title": "Desolate Drive"
+        },
+        "created_at": "2020-12-11 18:37:49",
+        "id": 177076,
+        "contributors": [
+          {
+            "name": "OursBleu",
+            "url": "https://oursbleu.itch.io"
+          },
+          {
+            "name": "Konstantin 'RZL' Löffler",
+            "url": "https://rzl.itch.io"
+          },
+          {
+            "name": "Jan Gortnar",
+            "url": "https://gortnar.itch.io"
+          },
+          {
+            "name": "Hristo Enchev",
+            "url": "https://mrtapa.itch.io"
+          },
+          {
+            "name": "whythisname",
+            "url": "https://whythisname.itch.io"
+          }
+        ],
+        "field_responses": [
+          "11110:Platform1"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Desolate Drive",
+        "description": "[POST-JAM Version 1]\nAdded achievementsAdded Endless modeImproved car controlsMade enemies more challengingLots of small adjustments\nDescription\nYou find yourself in an ominous world with only one goal:\nDestroy the towers.\nControls\nDrive : WASDShoot : Left mouse buttonBrake : SpaceBoost : Right mouse button or ShiftFlip: CtrlShow controls and current objective: TAB or ESC\nCredits\nGame created for the Epic MegaJam 2020\nBy Hristo Enchev, Jan Gortnar, Konstantin Loffler, Marc Vassallucci, Jeffrey Vermeer\nAll code and assets were created during the duration of this jam with the following exceptions:\n\"Tomorrow\" Font (Open Font License)\nWater Puddle Simulation based on Content Examples by EpicSound asset files from Soundly, with the exception of Car engine sounds mixed from epic sample projects like the Advanced Vehicle one. \nMusic is all under the Creative Commons license and it is from NIN Ghosts and various tracks from freemusicarchive.org.\n1. Nine Inch Nails - Ghosts 03:https://archive.org/details/NineInchNailsGhostsI-Ivblu-ray24bit96khz/NineInchNails-GhostsI-iv-033GhostsIblu-ray24bit96khz.flac#2. Nine Inch Nails - Ghosts 08: https://archive.org/details/NineInchNailsGhostsI-Ivblu-ray24bit96khz/NineInchNails-GhostsI-iv-088GhostsIblu-ray24bit96khz.flac#3. Antonio Bizarro - Events of Loving Gentleness:https://freemusicarchive.org/music/Antnio_Bizarro/City_of_Industry_Slow_Gun/11_antonio_bizarro_-_events_of_loving_gentleness4. Antonio Bizarro - Venus Fly Trap:https://freemusicarchive.org/music/Antnio_Bizarro/City_of_Industry_Slow_Gun/05_antonio_bizarro_-_venus_fly_trap5. Nurgul Jones & the Analog Death Cult - A Contest of Brutality:https://freemusicarchive.org/music/Nurgul_Jones/Hay_I_dont_feel_so_good_1090/Nurgul_Jones__the_Analog_Death_Cult_-_Hay_I_dont_feel_so_good_-_05_A_Contest_of_Brutality_1181",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODQ5OTI5LzQ3ODg4MTAuZ2lm/original/Vnt9JF.gif",
+          "https://img.itch.zone/aW1hZ2UvODQ5OTI5LzQ3NzgwNTYucG5n/original/00iD2Z.png",
+          "https://img.itch.zone/aW1hZ2UvODQ5OTI5LzQ3Nzc2NjMuanBn/original/P%2Bwagr.jpg",
+          "https://img.itch.zone/aW1hZ2UvODQ5OTI5LzQ3NzkwNzMucG5n/original/bQQxA1.png",
+          "https://img.itch.zone/aW1hZ2UvODQ5OTI5LzQ3NzkwMTUuanBn/original/cJdWLg.jpg",
+          "https://img.itch.zone/aW1hZ2UvODQ5OTI5LzQ3Nzc2NjEucG5n/original/Kdmklx.png",
+          "https://img.itch.zone/aW1hZ2UvODQ5OTI5LzQ3NzgwNDkucG5n/original/0ChtXZ.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.0 out of 5 stars(21 total ratings)",
+          "Authors": "OursBleu, Konstantin 'RZL' Löffler, Jan Gortnar, Hristo Enchev, whythisname",
+          "Genre": "Racing, Action, Shooter",
+          "Tags": "Sci-fi"
+        }
+      }
+    },
+    {
+      "gameId": 851658,
+      "gameUrl": "https://ju5t1nj.itch.io/highscore-killer",
+      "overallRank": 4,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "game": {
+          "user": {
+            "url": "https://ju5t1nj.itch.io",
+            "id": 249755,
+            "name": "ju5t1nj"
+          },
+          "id": 851658,
+          "cover": "https://img.itch.zone/aW1nLzQ3NzUzMzEuanBn/300x240%23c/hvaJWG.jpg",
+          "url": "https://ju5t1nj.itch.io/highscore-killer",
+          "short_text": "A short horror game for the 2020 Epic MegaJam.",
+          "title": "HighScore Killer"
+        },
+        "url": "/jam/2020-epic-megajam/rate/851658",
+        "id": 176931,
+        "rating_count": 0,
+        "field_responses": [
+          "11110:Platform1"
+        ],
+        "coolness": 0,
+        "created_at": "2020-12-11 16:48:10"
+      },
+      "details": {
+        "title": "HighScore Killer",
+        "description": "A short horror game created for the 2020 Epic MegaJam.\nArt, design, and programming by Justin J.\nMusic tracks composed by Matt Hodge.\nThis game was created with The Unreal Game Engine.&lt;a href=&quot;<a href=\"https://ju5t1nj.itch.io/highscore-killer-2\">Highscore&quot; class=&quot;redactor-linkify-object&quot;&gt;https://ju5t1nj.itch.io/highscore-killer-2&quot;&gt;Highscore</a> Killer 2 by ju5t1nj&lt;/a&gt;",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODUxNjU4LzQ3NzUzMjcuanBn/original/TgapR8.jpg",
+          "https://img.itch.zone/aW1hZ2UvODUxNjU4LzQ3NzUzMzAuanBn/original/YSQmeb.jpg",
+          "https://img.itch.zone/aW1hZ2UvODUxNjU4LzQ3NzUzMjguanBn/original/g3EtpK.jpg",
+          "https://img.itch.zone/aW1hZ2UvODUxNjU4LzQ3NzUzMjkuanBn/original/DbnSyw.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Rating": "Rated 4.1 out of 5 stars(14 total ratings)",
+          "Author": "ju5t1nj",
+          "Genre": "Interactive Fiction",
+          "Tags": "3D, Horror, Unreal Engine"
+        }
+      }
+    },
+    {
+      "gameId": 851881,
+      "gameUrl": "https://arnage.itch.io/babel-builder",
+      "overallRank": 5,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/2020-epic-megajam/rate/851881",
+        "game": {
+          "id": 851881,
+          "cover": "https://img.itch.zone/aW1nLzQ3Nzc1ODAucG5n/300x240%23c/T0J8ri.png",
+          "user": {
+            "url": "https://arnage.itch.io",
+            "id": 124379,
+            "name": "Arnage"
+          },
+          "cover_color": "#ffffff",
+          "platforms": [
+            "windows"
+          ],
+          "url": "https://arnage.itch.io/babel-builder",
+          "short_text": "Rally your people and make your tower reach the clouds",
+          "title": "Babel Builder"
+        },
+        "created_at": "2020-12-11 18:58:43",
+        "id": 177201,
+        "contributors": [
+          {
+            "name": "Arnage",
+            "url": "https://arnage.itch.io"
+          },
+          {
+            "name": "joelvneerbos",
+            "url": "https://joelvneerbos.itch.io"
+          },
+          {
+            "name": "ZKShao",
+            "url": "https://zkshao.itch.io"
+          },
+          {
+            "name": "Anyaki",
+            "url": "https://anyaki.itch.io"
+          }
+        ],
+        "field_responses": [
+          "11110:Platform1"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Babel Builder",
+        "description": "Note: VR recommended, but not required, both work just fine!(Tested with HTC Vive, Windows Mixed Reality, Oculus Rift and Oculus Quest 2 with Oculus Link, also see additional instructions for VR below)\nA tower building game made for the 2020 Epic MegaJam.\nGameplay instructions:\nDirect your citizens to build the world's highest tower, reaching beyond the clouds!\nPick up citizens and place them near trees or rocks to let them gather them.\nPlace your citizens near or on the tower to let them build.\nExplore your island to find more citizens to recruit.\nEnjoy the unique music all over the island played on various medieval instruments!\nControls:\nGrip button or right mouse button: pick up your citizens\nTrigger or left mouse button: throw your citizens (hold to throw further in non-VR)\nTouchpad, thumbstick, A or X button: teleport in VR (depending on your VR system)\nWASD: walk in non-VR\nAdditional Instructions for VR:\nTo throw in VR, hold down the trigger while holding citizens, move your controller in the direction you want to throw them and release the trigger while moving your controller. If done well, you should be able to throw your citizens quite far and/or high (higher than the finished tower). Be careful though, furniture was harmed during the making of this game.\nUnfortunately, throwing does not seem to work properly if you play the game through Virtual Desktop, however you can still play and finish the game.\nCredits:\nMade by:Arne BezuijenZhi Kang ShaoJoël van NeerbosMark Kloeg\nMusic recordings provided by:Mark Kloeg – Music, Harp, Clavichord, OrganettoDominique Bentvelsen – Double BassPedro Lopes e Castro – RecorderPaul Kloeg – LutePaul van Nispen – Dundun, BodhranSofia Diniz – Treble Viol\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODUxODgxLzQ3NzcwOTIucG5n/original/PgO%2FWR.png",
+          "https://img.itch.zone/aW1hZ2UvODUxODgxLzQ3NzcwOTQucG5n/original/5es10%2F.png",
+          "https://img.itch.zone/aW1hZ2UvODUxODgxLzQ3NzcwOTUucG5n/original/AjOmI8.png",
+          "https://img.itch.zone/aW1hZ2UvODUxODgxLzQ3NzcwOTMucG5n/original/sPK2%2F6.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Authors": "Arnage, joelvneerbos, ZKShao, Anyaki",
+          "Genre": "Strategy, Simulation",
+          "Made with": "Unreal Engine",
+          "Tags": "3D, babel, bruegel, Music, tower, Unreal Engine, Virtual Reality (VR)"
+        }
+      }
+    },
+    {
+      "gameId": 846309,
+      "gameUrl": "https://zakroutil.itch.io/last-colony",
+      "overallRank": 6,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "game": {
+          "id": 846309,
+          "cover": "https://img.itch.zone/aW1nLzQ3NDQ0NzAucG5n/300x240%23c/ykHPWA.png",
+          "user": {
+            "url": "https://zakroutil.itch.io",
+            "id": 1747100,
+            "name": "Zakroutil"
+          },
+          "cover_color": "#030c38",
+          "platforms": [
+            "windows"
+          ],
+          "url": "https://zakroutil.itch.io/last-colony",
+          "short_text": "​Minimalistic turn based strategy game about building and defending a colony.​",
+          "title": "LAST COLONY"
+        },
+        "url": "/jam/2020-epic-megajam/rate/846309",
+        "id": 175924,
+        "rating_count": 0,
+        "field_responses": [
+          "11110:Platform1"
+        ],
+        "coolness": 0,
+        "created_at": "2020-12-08 14:56:27"
+      },
+      "details": {
+        "title": "LAST COLONY",
+        "description": "---------------------------------------------------------\nMinimalistic turn based strategy game about building and defending a colony.\n\n---------------------------------------------------------\nLORE\nAfter 700 years you have awoken from cryosleep in the orbit of your new home. Sensors are however showing some unusual readings on the surface.\nYour homeworld exists no longer.You do not have anywhere to return. The only option is to deal with whatever may be down there and start a new life on this alien planet...\n---------------------------------------------------------\nKEY FEATURES\nExpand your colony using six different types of buildings. Each playthrough is unique thanks to randomized map.Defend your colony against enemy towers.Destroy enemy structures and secure the planet.\n\nv0.1.2 Allows you to change the colour scheme\n---------------------------------------------------------\n\nCONTROLS\nLeft click to select.Right click to hide currently open UI elements.Zoom using mouse wheel.Move around the map as you move your cursor.Press middle mouse button to lock/unlock camera position.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODQ2MzA5LzQ3NDQ0NjgucG5n/original/wkE0HX.png",
+          "https://img.itch.zone/aW1hZ2UvODQ2MzA5LzQ3NDQ0NjcucG5n/original/LmEF7%2B.png",
+          "https://img.itch.zone/aW1hZ2UvODQ2MzA5LzQ3NDQ0NjYucG5n/original/hjFndG.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows",
+          "Rating": "Rated 2.3 out of 5 stars(4 total ratings)",
+          "Author": "Zakroutil",
+          "Genre": "Strategy",
+          "Tags": "3D, Hex Based, Sci-fi, Top-Down, Turn-based, Unreal Engine"
+        }
+      }
+    },
+    {
+      "gameId": 851582,
+      "gameUrl": "https://codepeas.itch.io/get-life",
+      "overallRank": 7,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "game": {
+          "id": 851582,
+          "cover": "https://img.itch.zone/aW1nLzQ3NzUyNjcuanBn/300x240%23c/mROf%2Fx.jpg",
+          "user": {
+            "url": "https://codepeas.itch.io",
+            "id": 3677165,
+            "name": "codePeas"
+          },
+          "cover_color": "#dcd1c6",
+          "platforms": [
+            "windows"
+          ],
+          "url": "https://codepeas.itch.io/get-life",
+          "short_text": "live your life to the fullest in this life-sim but be quick cause death doesn't rest!",
+          "title": "Get Life"
+        },
+        "url": "/jam/2020-epic-megajam/rate/851582",
+        "id": 176929,
+        "rating_count": 0,
+        "field_responses": [
+          "11110:Platform1"
+        ],
+        "coolness": 0,
+        "created_at": "2020-12-11 16:47:47"
+      },
+      "details": {
+        "title": "Get Life",
+        "description": "Get Life\nLive your way of life but don't forget that death is always following you as Time flies by. If this game gets popular I'll add Multiplayer support :) have fun guys!\nFeatures:\nAge, happiness, and fitness influence Deaths' velocityLeaderboard newly addedMoney influences happinessRunning increases fitness and age slowlySome buildings unlock with fitting education or at the age of 18Death moves when you move and keeps moving slowly if you stand stillsome buildings may only be used oncecars can kill youyou move slower as a small child, so don't skip school\n\nControls:\nW, A, S, D to moveSpacebar to interact with buildingsController should work too but couldn't test it\n\nSourced:\nMixamo AnimationsAdvanced Magic FX 13 for the particle effects (https://www.unrealengine.com/marketplace/en-US/product/advancedmagicfx13)\n\nPrograms Used:\nUnreal Engine 4.25BlenderAdobe AuditionBosca Ceoil for the musicCondenser Mic for Sound effects\nMade in one week for the epic MegaJam 2020 solo Project\n\n© Kai Rövekamp",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODUxNTgyLzQ3NzUzMDMuanBn/original/y%2BZtc7.jpg",
+          "https://img.itch.zone/aW1hZ2UvODUxNTgyLzQ3NzUzMDguanBn/original/HXZcZ6.jpg",
+          "https://img.itch.zone/aW1hZ2UvODUxNTgyLzQ3NzUzMDUuanBn/original/ePkgwH.jpg",
+          "https://img.itch.zone/aW1hZ2UvODUxNTgyLzQ3NzUzMDcuanBn/original/AsOJcg.jpg",
+          "https://img.itch.zone/aW1hZ2UvODUxNTgyLzQ3NzUzMDQuanBn/original/w4aZSs.jpg",
+          "https://img.itch.zone/aW1hZ2UvODUxNTgyLzQ3NzUzMDIuanBn/original/wjc48c.jpg",
+          "https://img.itch.zone/aW1hZ2UvODUxNTgyLzQ3NzUzMDEuanBn/original/%2FZ4FYn.jpg",
+          "https://img.itch.zone/aW1hZ2UvODUxNTgyLzQ3NzUzMDYuanBn/original/rDssPT.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.8 out of 5 stars(4 total ratings)",
+          "Author": "codePeas",
+          "Genre": "Simulation, Adventure",
+          "Tags": "3D, Difficult, Fast-Paced, Game Jam, Life Simulation, Low-poly, megajam, megajam2020, Unreal Engine"
+        }
+      }
+    },
+    {
+      "gameId": 851818,
+      "gameUrl": "https://uddsmorex.itch.io/the-last-gasp",
+      "overallRank": 8,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/2020-epic-megajam/rate/851818",
+        "game": {
+          "id": 851818,
+          "cover": "https://img.itch.zone/aW1nLzczMjE2NTQucG5n/300x240%23c/rjs4EP.png",
+          "user": {
+            "url": "https://uddsmorex.itch.io",
+            "id": 1903815,
+            "name": "UddsMorex - Paulo"
+          },
+          "cover_color": "#191919",
+          "platforms": [
+            "windows"
+          ],
+          "url": "https://uddsmorex.itch.io/the-last-gasp",
+          "short_text": "Fight against the forces of darkness to avenge your death and to earn your eternal rest.",
+          "title": "The Last Gasp"
+        },
+        "created_at": "2020-12-11 20:36:58",
+        "id": 177292,
+        "contributors": [
+          {
+            "name": "UddsMorex - Paulo",
+            "url": "https://uddsmorex.itch.io"
+          },
+          {
+            "name": "JiRath",
+            "url": "https://jirath.itch.io"
+          },
+          {
+            "name": "scotdanielburns",
+            "url": "https://scotdanielburns.itch.io"
+          },
+          {
+            "name": "Arvuti",
+            "url": "https://arvuti.itch.io"
+          }
+        ],
+        "field_responses": [
+          "11110:Platform1"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "The Last Gasp",
+        "description": "\nThe world is clashed in an eternal conflict against the forces of darkness. In your past life you were a legendary warrior, who bested battle after battle and brought hope to the people. Unfortunately, due to your acclaimm Death has taken a special interest in you. And so, after finally falling in battle, instead of getting your well deserved rest, you must continue on fighting beyond the grave.\nIts been a long time, but we are not done yet.\nTeam Name:\nWaterMelon Games\nTeam Members:\n\nProgramming:\n\nGareth Aguilar - Ji_Rath\nMartin Viidik\nEnvironment Art:\nScot Daniel Burns\nCharacter Art:\nAdrian Horodisky\nPaulo Soares\nMusic by\nOskar Somnof\nControls:\nW/A/S/D - MoveE - Possess/Class special abilityR - Leave the bodyRight Mouse Button - Aim /Lock onLeft Mouse Button - Attack/ShootEscape - Pause\n\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODUxODE4LzQ4Njg4NzMucG5n/original/MqJ5dc.png",
+          "https://img.itch.zone/aW1hZ2UvODUxODE4LzQ4Njg4NzQucG5n/original/dnb4Sp.png",
+          "https://img.itch.zone/aW1hZ2UvODUxODE4LzQ4Njg4NzUucG5n/original/CwY6Gm.png",
+          "https://img.itch.zone/aW1hZ2UvODUxODE4LzQ3Nzc4MzgucG5n/original/nspTFd.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(4 total ratings)",
+          "Authors": "UddsMorex - Paulo, JiRath, scotdanielburns, Arvuti",
+          "Genre": "Adventure, Puzzle",
+          "Made with": "Unreal Engine",
+          "Tags": "3D, megajam, unrealjam",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 851521,
+      "gameUrl": "https://co5monaut.itch.io/do-not-take-your-eyes-away-from-the-red-fridge",
+      "overallRank": 9,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/2020-epic-megajam/rate/851521",
+        "game": {
+          "platforms": [
+            "windows"
+          ],
+          "gif_cover": "https://img.itch.zone/aW1nLzQ3NzQ4MjUuZ2lm/original/UT5Wdd.gif",
+          "url": "https://co5monaut.itch.io/do-not-take-your-eyes-away-from-the-red-fridge",
+          "short_text": "This is a small first-person horror game with experimental mechanics inspired by SCP, Twilight Zone, PS1.",
+          "title": "DO NOT TAKE YOUR EYES AWAY FROM THE RED FRIDGE",
+          "cover": "https://img.itch.zone/aW1nLzQ3NzQ4MjUuZ2lm/300x240%23c/wDSZ5l.gif",
+          "id": 851521,
+          "cover_color": "#8c2b13",
+          "user": {
+            "url": "https://co5monaut.itch.io",
+            "id": 107083,
+            "name": "CO5MONAUT"
+          }
+        },
+        "created_at": "2020-12-11 16:23:46",
+        "id": 176890,
+        "contributors": [
+          {
+            "name": "CO5MONAUT",
+            "url": "https://co5monaut.itch.io"
+          },
+          {
+            "name": "Lomaster",
+            "url": "https://lomaster.itch.io"
+          },
+          {
+            "name": "Mad Rabbit",
+            "url": "https://timz.itch.io"
+          },
+          {
+            "name": "olya_fry",
+            "url": "https://olya-fry.itch.io"
+          }
+        ],
+        "field_responses": [
+          "11110:Platform1"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "DO NOT TAKE YOUR EYES AWAY FROM THE RED FRIDGE",
+        "description": "\nDO NOT TAKE YOUR EYES AWAY FROM THE RED FRIDGE is a small first-person horror game with experimental mechanics inspired by SCP, Twilight Zone, and PS1-era horror games.\nKey Features:\nAn unconventional approach to horror games.Multiple stories in one game.Retro styling.\nWe named the game after the first story of our anthology.All you have to do is sit in your chair and look at the fridge, or there will be consequences. However, it's not that easy.The story began a few weeks ago when Frank and his daughter Lorie moved into an old house. The previous owner of the house had disappeared under unclear circumstances.One day, Frank found Lorie's favorite doll and crayons near the old red fridge in the basement. The fridge possessed otherworldly power, and anyone who looked away from it would no longer see daylight.Frank has been sitting in the basement looking at the red fridge for several days already. Yet not only the fear of a terrible death keeps him in the basement, but also the hope of getting his daughter back.\nYou can already download the first chapter as a demo.\n\n\nGameplay Instructions\nLMB click — to inspect objectsLMB hold — to drag objectsESC — to menu\n\nMade for #UnrealJam\nGameDesign — CO5MONAUT3D/Animation — Artem ZaitsevProgrammer — Stas PisarevSound — Konstantin Knerik2D — Olga Shershneva\n\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODUxNTIxLzQ3NzUzMTQucG5n/original/eO0YqB.png",
+          "https://img.itch.zone/aW1hZ2UvODUxNTIxLzQ3NzUzMTUucG5n/original/0u39jS.png",
+          "https://img.itch.zone/aW1hZ2UvODUxNTIxLzQ3NzUzMTYucG5n/original/pogpfh.png",
+          "https://img.itch.zone/aW1hZ2UvODUxNTIxLzQ3NzUzMTgucG5n/original/bFkiAH.png",
+          "https://img.itch.zone/aW1hZ2UvODUxNTIxLzQ3NzUzMjEucG5n/original/zmE4W2.png",
+          "https://img.itch.zone/aW1hZ2UvODUxNTIxLzQ3NzUzMjIucG5n/original/lBKN65.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 3.9 out of 5 stars(16 total ratings)",
+          "Authors": "CO5MONAUT, Lomaster, Mad Rabbit, olya_fry",
+          "Tags": "Atmospheric, binaural, Horror, ps1, Psychological Horror, Retro, scp",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 851078,
+      "gameUrl": "https://thecake.itch.io/the-first-ai",
+      "overallRank": 10,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "game": {
+          "id": 851078,
+          "cover": "https://img.itch.zone/aW1nLzQ3Nzg3NjYuZ2lm/300x240%23c/nh3C86.gif",
+          "user": {
+            "url": "https://thecake.itch.io",
+            "id": 1580462,
+            "name": "TheCake"
+          },
+          "cover_color": "#0e0f0e",
+          "gif_cover": "https://img.itch.zone/aW1nLzQ3Nzg3NjYuZ2lm/original/tqCGn%2F.gif",
+          "url": "https://thecake.itch.io/the-first-ai",
+          "platforms": [
+            "windows"
+          ],
+          "title": "The First AI"
+        },
+        "url": "/jam/2020-epic-megajam/rate/851078",
+        "id": 177028,
+        "rating_count": 0,
+        "field_responses": [
+          "11110:Platform1"
+        ],
+        "coolness": 0,
+        "created_at": "2020-12-11 18:21:12"
+      },
+      "details": {
+        "title": "The First AI",
+        "description": "Humanity has died out. An evolutionary mistake that has been in humans since the first day of existence.\nBut people were not ready to give up and leave without a trace. The whole world worked to transfer their consciousness into a temporary carrier, but they succeeded in something different.\nYou are the last running android. Up to this point, humans have failed to awaken consciousness in AI. But your creator believed that you have it, but is it so... You are the one who should answer to this question.\nBut that's not all.\nAfter seeing other androids, and looking at the world you are left in, would you still want to live in it or give life to others?\nYou will have to decide what will happen to the world next and whether such a place is worth living in it.\nThe game has 3 unique endings and takes 20-25 minutes to complete (one ending).\nControls\nUse WASD to move.Look at items and press E to interact with them. Use 1, 2, 3 in dialogs to answer.Press ESC or M to pause.\n\nThe game was created during 7 days for the 2020 Epic MegaJam. Theme: It’s been a long time, but we’re not done yet. #unrealjam",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODUxMDc4LzQ3NzU0MTAucG5n/original/aMhOQG.png",
+          "https://img.itch.zone/aW1hZ2UvODUxMDc4LzQ3NzU0MTMucG5n/original/6e4orN.png",
+          "https://img.itch.zone/aW1hZ2UvODUxMDc4LzQ3NzU1NDEucG5n/original/L1FhQ2.png",
+          "https://img.itch.zone/aW1hZ2UvODUxMDc4LzQ3NzU0MTQucG5n/original/vn9gfl.png",
+          "https://img.itch.zone/aW1hZ2UvODUxMDc4LzQ3NzU0MTYucG5n/original/lIjHT7.png",
+          "https://img.itch.zone/aW1hZ2UvODUxMDc4LzQ3Nzc3NTYucG5n/original/5hb5iQ.png",
+          "https://img.itch.zone/aW1hZ2UvODUxMDc4LzQ3Nzc3NzgucG5n/original/dvXxb%2F.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Rating": "Rated 3.0 out of 5 stars(1 total ratings)",
+          "Author": "TheCake",
+          "Genre": "Adventure",
+          "Tags": "3D, Atmospheric, Meaningful Choices, Short, Story Rich, Walking simulator"
+        }
+      }
+    },
+    {
+      "gameId": 851754,
+      "gameUrl": "https://cicadamikoto.itch.io/green-makeout-insurrection",
+      "overallRank": 11,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "game": {
+          "id": 851754,
+          "cover": "https://img.itch.zone/aW1nLzQ3NzU4NTIuanBlZw==/300x240%23c/g4t%2Fry.jpeg",
+          "user": {
+            "url": "https://cicadamikoto.itch.io",
+            "id": 2029065,
+            "name": "Cicada"
+          },
+          "cover_color": "#264861",
+          "platforms": [
+            "windows"
+          ],
+          "url": "https://cicadamikoto.itch.io/green-makeout-insurrection",
+          "short_text": "GMI",
+          "title": "Green Makeout Insurrection"
+        },
+        "url": "/jam/2020-epic-megajam/rate/851754",
+        "id": 177132,
+        "rating_count": 0,
+        "field_responses": [
+          "11110:Platform1",
+          "11110:Platform5"
+        ],
+        "coolness": 0,
+        "created_at": "2020-12-11 18:50:34"
+      },
+      "details": {
+        "title": "Green Makeout Insurrection",
+        "description": "A VR Dream Simulator/FPS about the struggles of doing a gamejam.\nAs a solo dev, you have to develop your game by day and sleep it all off at night. But who knows what manner of oddness, inspiration, or, dare we way, hope you may find in the nocturnal realm of slumber.\nSometimes, you work for so long on something, just to realize that the end is not even in sight.\nThe experience is never the same twice. Explore the world of dreams that are much more freeing than the bounds of your desk in the daytime.\nFeaturing entirely original music by Cicada, this game is sure to have you wondering what is wrong with you.\nSupported Platforms: SteamVR, Oculus (Developed and tested on Rift S)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODUxNzU0LzQ3NzU4MjYuanBlZw==/original/N7cK8P.jpeg",
+          "https://img.itch.zone/aW1hZ2UvODUxNzU0LzQ3NzU4MjgucG5n/original/Jc0vJt.png",
+          "https://img.itch.zone/aW1hZ2UvODUxNzU0LzQ3NzU4MjcucG5n/original/B1OIfT.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.7 out of 5 stars(3 total ratings)",
+          "Author": "Cicada",
+          "Genre": "Simulation, Shooter",
+          "Tags": "Aliens, Dreams, Game Jam, Music, Procedural Generation, PROCJAM, programming, Virtual Reality (VR), weird"
+        }
+      }
+    },
+    {
+      "gameId": 851286,
+      "gameUrl": "https://accelotl.itch.io/redead",
+      "overallRank": 12,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "game": {
+          "id": 851286,
+          "user": {
+            "url": "https://accelotl.itch.io",
+            "id": 3686100,
+            "name": "accelotl"
+          },
+          "cover_color": "#250305",
+          "cover": "https://img.itch.zone/aW1nLzQ3NzY5ODYucG5n/300x240%23c/WhWZIy.png",
+          "url": "https://accelotl.itch.io/redead",
+          "short_text": "Battle against the monsters of the underworld in this fast-paced, third person hack-and-slash.",
+          "title": "Re:Dead"
+        },
+        "url": "/jam/2020-epic-megajam/rate/851286",
+        "id": 176714,
+        "rating_count": 0,
+        "field_responses": [
+          "11110:Platform1"
+        ],
+        "coolness": 0,
+        "created_at": "2020-12-11 11:22:13"
+      },
+      "details": {
+        "title": "Re:Dead",
+        "description": "Battle against the monsters of the underworld in this fast-paced, third person hack-and-slash. Use your dashes and high mobility to maneuver around the underworld and kill as many monsters as you can.\n\"It's been a long time, but we're not done yet.\"\nIt's been a long time:  The longer you play, the more points the monsters will award to your score when you kill them. \nBut we are not done yet:  Giving up is not an option. Arise from the dead and get a second chance to kill more monsters!\nUse your surroundings to your advantage, buff yourself with more damage and lifesteal, dash to evade, teleport to your enemies and get the highest score you can!\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODUxMjg2LzQ4NzU2MjAuZ2lm/original/e%2FNUUB.gif",
+          "https://img.itch.zone/aW1hZ2UvODUxMjg2LzQ3NzI5OTgucG5n/original/HcrpGl.png",
+          "https://img.itch.zone/aW1hZ2UvODUxMjg2LzQ3NzMxNDEucG5n/original/leN%2B%2BU.png",
+          "https://img.itch.zone/aW1hZ2UvODUxMjg2LzQ3NzMxMzkucG5n/original/FyLY%2BA.png",
+          "https://img.itch.zone/aW1hZ2UvODUxMjg2LzQ3NzMxNDQucG5n/original/if%2FWyy.png",
+          "https://img.itch.zone/aW1hZ2UvODUxMjg2LzQ3NzMxNDAucG5n/original/6GTgLM.png",
+          "https://img.itch.zone/aW1hZ2UvODUxMjg2LzQ3NzMxNDIucG5n/original/yZPr9K.png",
+          "https://img.itch.zone/aW1hZ2UvODUxMjg2LzQ3NzMxNDMucG5n/original/WBRhQ0.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Rating": "Rated 5.0 out of 5 stars(5 total ratings)",
+          "Author": "accelotl",
+          "Genre": "Action",
+          "Tags": "Hack and Slash, Singleplayer, Swords, Third Person, Unreal Engine"
+        }
+      }
+    },
+    {
+      "gameId": 851566,
+      "gameUrl": "https://connecta.itch.io/forfaxs-castle",
+      "overallRank": 13,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/2020-epic-megajam/rate/851566",
+        "game": {
+          "platforms": [
+            "windows"
+          ],
+          "gif_cover": "https://img.itch.zone/aW1nLzQ3ODIxNTIuZ2lm/original/FuqXp3.gif",
+          "url": "https://connecta.itch.io/forfaxs-castle",
+          "short_text": "The cold rain is pouring down. Where am I? You make your way towards the castle in search of a way out.",
+          "title": "Forfax's Castle",
+          "cover": "https://img.itch.zone/aW1nLzQ3ODIxNTIuZ2lm/300x240%23c/givFAS.gif",
+          "id": 851566,
+          "cover_color": "#13131a",
+          "user": {
+            "url": "https://connecta.itch.io",
+            "id": 1600508,
+            "name": "Connecta"
+          }
+        },
+        "created_at": "2020-12-11 17:38:14",
+        "id": 176972,
+        "contributors": [
+          {
+            "name": "Connecta",
+            "url": "https://connecta.itch.io"
+          },
+          {
+            "name": "Tireless22",
+            "url": "https://tireless22.itch.io"
+          },
+          {
+            "name": "Trinxy",
+            "url": "https://trinxy.itch.io"
+          }
+        ],
+        "field_responses": [
+          "11110:Platform1"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Forfax's Castle",
+        "description": "The cold rain is pouring down. Where am I? Have I been here before? You make your way towards the castle in search of answers.\nThis is a game by 3 people for the Unreal Engine MegaJam 2020 on the theme: \"It's been a long time, but we're not done yet\"\nIt is probably to most ambitious jam we've made - we usually keep to third person and less combat'y stuff:)\nCombat Controls- Hold Right Mouse Button to block- Click Left Mouse Button for light attack- Hold Left Mouse Button for heavy attack- Press 3 to use health potion if one is available- Press E to interact with objectsMovement Controls- Use WASD to move- Hold SHIFT to sprint- Press SPACE to jump",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODUxNTY2LzQ3ODU2MzQuanBn/original/dkL8%2B1.jpg",
+          "https://img.itch.zone/aW1hZ2UvODUxNTY2LzQ3ODU2MzEuanBn/original/X7JCkI.jpg",
+          "https://img.itch.zone/aW1hZ2UvODUxNTY2LzQ3ODU2MzMuanBn/original/AGd2Pj.jpg",
+          "https://img.itch.zone/aW1hZ2UvODUxNTY2LzQ3ODU2MzUuanBn/original/ENnHSl.jpg",
+          "https://img.itch.zone/aW1hZ2UvODUxNTY2LzQ3ODU2MzIuanBn/original/Q1dKkv.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.3 out of 5 stars(4 total ratings)",
+          "Authors": "Connecta, Tireless22, Trinxy",
+          "Genre": "Action, Adventure",
+          "Made with": "Unreal Engine",
+          "Tags": "Action-Adventure, First-Person, melee, Singleplayer, Unreal Engine",
+          "Average session": "About a half-hour",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 791539,
+      "gameUrl": "https://sanchay.itch.io/crystal-cavern",
+      "overallRank": 14,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "game": {
+          "id": 791539,
+          "cover": "https://img.itch.zone/aW1nLzQ0MzE3ODAuanBn/300x240%23c/BAtAol.jpg",
+          "user": {
+            "url": "https://sanchay.itch.io",
+            "id": 3085657,
+            "name": "Sanchay"
+          },
+          "cover_color": "#000000",
+          "platforms": [
+            "windows"
+          ],
+          "url": "https://sanchay.itch.io/crystal-cavern",
+          "short_text": "YOU ARE A BALL IN SEARCH Of CRYSTALS IN A CAVERN.....duh.?",
+          "title": "Crystal Cavern--Epic Mega Jam 2020"
+        },
+        "url": "/jam/2020-epic-megajam/rate/791539",
+        "id": 176987,
+        "rating_count": 0,
+        "field_responses": [
+          "11110:Platform1"
+        ],
+        "coolness": 0,
+        "created_at": "2020-12-11 17:52:45"
+      },
+      "details": {
+        "title": "Crystal Cavern--Epic Mega Jam 2020",
+        "description": "You goal is to get all the crystals in the 5 caverns by doing some puzzles. You will fall ,Get back up again (and fall again until you win.\nNOTE:  Falling down into the abyss is bad but you will respawn in the same level but when you get hit by the cannons you instantly die and respawn back at LEVEL 1.\nControls:\nWASD/Movement controls i.e. W/forward S/backwards A/left D/right\nEdit on 15/04/2023=> It's been 2 years that his game has been out and thank you for all the love and support on this project! I am making this game free from now on.   P.S. No more updates will come outGameplay Footage:\n\n\n\nREQUIRMENTS:\nRam: 4Gb (Required)  6Gb (Recommended)   8Gb(Best experience)\nProcessor: AMD phenom ii x4 or above\nGraphics: Intel Intergrated or above",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzkxNTM5LzQ0MzE3OTEucG5n/original/oy4%2FWB.png",
+          "https://img.itch.zone/aW1hZ2UvNzkxNTM5LzQ0MzE3OTIucG5n/original/LbDu%2FB.png",
+          "https://img.itch.zone/aW1hZ2UvNzkxNTM5LzQ0MzE3OTQucG5n/original/4HAvnx.png",
+          "https://img.itch.zone/aW1hZ2UvNzkxNTM5LzQ0MzE3OTUucG5n/original/Lku7qf.png",
+          "https://img.itch.zone/aW1hZ2UvNzkxNTM5LzQ0MzE3OTMucG5n/original/zD4XZO.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(3 total ratings)",
+          "Author": "Sanchay",
+          "Genre": "Puzzle, Adventure",
+          "Tags": "3D, Top Down Adventure"
+        }
+      }
+    },
+    {
+      "gameId": 849924,
+      "gameUrl": "https://chrisn.itch.io/reklaim",
+      "overallRank": 15,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "game": {
+          "id": 849924,
+          "user": {
+            "url": "https://chrisn.itch.io",
+            "id": 1220660,
+            "name": "chrisn"
+          },
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzQ3Njk3NzMucG5n/300x240%23c/i0478k.png",
+          "url": "https://chrisn.itch.io/reklaim",
+          "short_text": "Jump your way through the power plant!",
+          "title": "Reklaim"
+        },
+        "url": "/jam/2020-epic-megajam/rate/849924",
+        "id": 176502,
+        "rating_count": 0,
+        "field_responses": [
+          "11110:Platform1"
+        ],
+        "coolness": 0,
+        "created_at": "2020-12-11 00:06:09"
+      },
+      "details": {
+        "title": "Reklaim",
+        "description": "(A submission to 2020 Epic MegaJam, game made by one person in six days.)\nPlot\nHumanity has ascended. \nIn a distant future, people started manifesting an ability to control elements. People wanted to become even stronger, so they started building a power amplifier that could elevate their abilities even further. After initial testing, the robots that helped build the facility have revolted, preventing people from starting the amplifier. Your task is to reclaim the building and start the amplifier.\nMechanics\nThe game is a 1st person platformer/turn based combat hybrid, alternating between two game modes.Better performance during platforming sections awards the player with better stats during fights with robots.During fights, the player can choose an element to attack and defend with on each turn, adding a rock-paper-scissors dynamic to the fights.Both keyboard and gamepad are supported, but keyboard is generally recommended due to better precision (though for better replayability, you should try both!).\nExtract zip and run UEJam3.exe from main directory.\nIf DualShock support is desired, add the game executable through Steam and launch it there.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODQ5OTI0LzQ3Njk3ODEuanBn/original/wXyhAf.jpg",
+          "https://img.itch.zone/aW1hZ2UvODQ5OTI0LzQ3Njk3NzkuanBn/original/%2BbHaAD.jpg",
+          "https://img.itch.zone/aW1hZ2UvODQ5OTI0LzQ3Njk3ODAuanBn/original/hzgp1t.jpg",
+          "https://img.itch.zone/aW1hZ2UvODQ5OTI0LzQ3Njk3NzguanBn/original/usoC1q.jpg",
+          "https://img.itch.zone/aW1hZ2UvODQ5OTI0LzQ3Njk3NzcuanBn/original/hNKV8J.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "chrisn",
+          "Genre": "Platformer",
+          "Made with": "Unreal Engine, Audacity, Adobe Illustrator, FL Studio, Wings3D",
+          "Tags": "3D, FPS, Minimalist, Parkour, rock-paper-scissors, Turn-based, Turn-Based Combat",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Keyboard, Xbox controller, Playstation controller"
+        }
+      }
+    }
+  ]
+}

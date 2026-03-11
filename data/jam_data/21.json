@@ -1,0 +1,4657 @@
+{
+  "n": 21,
+  "name": "GMTK Game Jam 2019",
+  "url": "https://itch.io/jam/gmtk-2019",
+  "theme": "Only One",
+  "slug": "gmtk-2019",
+  "jamMeta": {
+    "jamType": "ended",
+    "ratings": "46,600",
+    "entries": "2,543",
+    "title": "GMTK Game Jam 2019",
+    "jamURL": "https://itch.io/jam/gmtk-2019",
+    "hosts": {
+      "Game Maker's Toolkit": "https://gmtk.itch.io",
+      "#gmtkjam": "https://bsky.app/hashtag/gmtkjam"
+    },
+    "jamID": "10205"
+  },
+  "totalEntries": 2456,
+  "ranked": true,
+  "hasCategories": true,
+  "needsManualSelection": false,
+  "categories": [
+    "Design",
+    "Adherence to the Theme",
+    "Originality"
+  ],
+  "topGames": [
+    {
+      "gameId": 462807,
+      "gameUrl": "https://lukeinallcaps.itch.io/gooey-castle",
+      "overallRank": 1,
+      "topCategories": [
+        "Design",
+        "Adherence to the Theme",
+        "Originality"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "lukeinallcaps",
+            "id": 1121985
+          },
+          {
+            "name": "DankLoops",
+            "id": 1748670
+          },
+          {
+            "name": "jhusting",
+            "id": 1122048
+          },
+          {
+            "name": "xxDingusbuttxx",
+            "id": 1758186
+          },
+          {
+            "name": "ZackRLawrence",
+            "id": 1755336
+          }
+        ],
+        "rank": 1,
+        "url": "https://itch.io/jam/gmtk-2019/rate/462807",
+        "title": "Gooey Castle",
+        "rating_count": 73,
+        "raw_score": 4.8995433789954,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNzM2NzUucG5n/300x240%23c/00ZD%2Fv.png",
+        "score": 4.8995433789954,
+        "criteria": [
+          {
+            "name": "Design",
+            "score": 4.8904109589041,
+            "rank": 1,
+            "raw_score": 4.8904109589041
+          },
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.8904109589041,
+            "rank": 1,
+            "raw_score": 4.8904109589041
+          },
+          {
+            "name": "Originality",
+            "score": 4.9178082191781,
+            "rank": 2,
+            "raw_score": 4.9178082191781
+          }
+        ],
+        "id": 462807
+      },
+      "entryData": {
+        "coolness": 9,
+        "rating_count": 73,
+        "created_at": "2019-08-04 18:28:51",
+        "id": 81879,
+        "contributors": [
+          {
+            "name": "lukeinallcaps",
+            "url": "https://lukeinallcaps.itch.io"
+          },
+          {
+            "name": "DankLoops",
+            "url": "https://dankloops.itch.io"
+          },
+          {
+            "name": "jhusting",
+            "url": "https://jhusting.itch.io"
+          },
+          {
+            "name": "xxDingusbuttxx",
+            "url": "https://xxdingusbuttxx.itch.io"
+          },
+          {
+            "name": "ZackRLawrence",
+            "url": "https://zackrlawrence.itch.io"
+          }
+        ],
+        "url": "/jam/gmtk-2019/rate/462807",
+        "game": {
+          "short_text": "Three Player Co-op game where only one player can play a time",
+          "cover": "https://img.itch.zone/aW1nLzIzNzM2NzUucG5n/300x240%23c/00ZD%2Fv.png",
+          "id": 462807,
+          "cover_color": "#0a0919",
+          "user": {
+            "name": "lukeinallcaps",
+            "url": "https://lukeinallcaps.itch.io",
+            "id": 1121985
+          },
+          "url": "https://lukeinallcaps.itch.io/gooey-castle",
+          "title": "Gooey Castle"
+        }
+      },
+      "details": {
+        "title": "Gooey Castle",
+        "description": "\n\nOnly One player may play at a time in this 3 player couch co-op game!\nDefend the castle from the endless onslaught of evil oozes and protect your Queen! Manage your time and resources effectively by switching control between players. Fire exploding slime balls, collect enemy loot and convert it into usable resources,  repair your structures and fight fires cause by exploding meteorites.\nGrab two friends for an action-filled, frantic race against time!\nMade in Unreal Engine 4.\n\n\nMade by: \nLuke Mason (Visual Effects), Josh Husting (Programming, Design), Damen Birtola (Programming, Design), Zack Lawrence (Programming, Design, Sound), John Knaw (3D Art), Taylor Reyland (3D/2D Art, Design), Alex Perrotti (Sound, Design, 2D Art)\nTwitter: https://twitter.com/GooeyCastleThis game is designed to work with 3 players, however you can play with one (it's just a little easier). \nAfter launching the game, make sure to click on the screen. Then, press B on every controller you wish to play with. There is a known bug that could cause this sequence to break if player one isn't the first person to press B, so make sure they press B first if you are having that issue.\nYou can play the single player version with a keyboard, here are the control equivalents:\nMove - WASDA Button - F/Left ClickB Button - BStart - tabLeft Bumper - QRight Bumper - ERight Stick (Aim) - Move Mouse\nCheck out this great graphic I spent way too much time on!\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDYyODA3LzIzNjA4OTAuanBn/original/vPebt5.jpg",
+          "https://img.itch.zone/aW1hZ2UvNDYyODA3LzIzNjA5NDEucG5n/original/FrtAVX.png",
+          "https://img.itch.zone/aW1hZ2UvNDYyODA3LzIzNjA5MDIuanBn/original/z%2FVivv.jpg",
+          "https://img.itch.zone/aW1hZ2UvNDYyODA3LzIzNjA5MjkucG5n/original/ma1acN.png",
+          "https://img.itch.zone/aW1hZ2UvNDYyODA3LzIzODg3NTIuZ2lm/original/MIfLph.gif"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Authors": "lukeinallcaps, DankLoops, jhusting, xxDingusbuttxx, ZackRLawrence",
+          "Genre": "Adventure",
+          "Made with": "Unreal Engine",
+          "Tags": "3D, Cute, Fantasy, gmtk-game-jam, horde-mode, Local multiplayer, Multiplayer, Slime, Tower Defense, Unreal Engine",
+          "Multiplayer": "Local multiplayer",
+          "Player count": "Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 462468,
+      "gameUrl": "https://troleoleo.itch.io/paisible-apres-midi-au-fil-des-toiles",
+      "overallRank": 29,
+      "topCategories": [
+        "Design",
+        "Originality"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "troleoleo",
+            "id": 1019616
+          },
+          {
+            "name": "schouery",
+            "id": 1343745
+          }
+        ],
+        "rank": 29,
+        "url": "https://itch.io/jam/gmtk-2019/rate/462468",
+        "title": "Paisible après-midi au fil des toiles",
+        "rating_count": 13,
+        "raw_score": 4.4615384615385,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNTIzMDQucG5n/300x240%23c/S8zR1K.png",
+        "score": 4.4615384615385,
+        "criteria": [
+          {
+            "name": "Design",
+            "score": 4.7692307692308,
+            "rank": 2,
+            "raw_score": 4.7692307692308
+          },
+          {
+            "name": "Adherence to the Theme",
+            "score": 3.7692307692308,
+            "rank": 834,
+            "raw_score": 3.7692307692308
+          },
+          {
+            "name": "Originality",
+            "score": 4.8461538461538,
+            "rank": 7,
+            "raw_score": 4.8461538461538
+          }
+        ],
+        "id": 462468
+      },
+      "entryData": {
+        "coolness": 8,
+        "rating_count": 13,
+        "created_at": "2019-08-04 18:29:00",
+        "id": 81881,
+        "contributors": [
+          {
+            "name": "troleoleo",
+            "url": "https://troleoleo.itch.io"
+          },
+          {
+            "name": "schouery",
+            "url": "https://schouery.itch.io"
+          }
+        ],
+        "url": "/jam/gmtk-2019/rate/462468",
+        "game": {
+          "short_text": "Relaxing puzzle game about paintings and color",
+          "cover": "https://img.itch.zone/aW1nLzIzNTIzMDQucG5n/300x240%23c/S8zR1K.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 462468,
+          "cover_color": "#ede1c4",
+          "user": {
+            "name": "troleoleo",
+            "url": "https://troleoleo.itch.io",
+            "id": 1019616
+          },
+          "url": "https://troleoleo.itch.io/paisible-apres-midi-au-fil-des-toiles",
+          "title": "Paisible après-midi au fil des toiles"
+        }
+      },
+      "details": {
+        "title": "Paisible après-midi au fil des toiles",
+        "description": "Top 20 GMTK Jam 2019 ! (7:57)\nPaisible après-midi au fil des toiles (peaceful afternoon with the paintings) is a relaxing puzzle game.\nEverything is made with one shape, a rectangle, and you will create selection squares to change their colors and match the painting.\nThis game was done for the GMTK jam 2019❕ We just released the sequel for the GMTK Jam 2021 ❕https://troleoleo.itch.io/paisible-soiree-etoilesPaisible soirée au fil d'étoiles will make your day :)\nCredits:\nA game by Leo Lefebvre and Sacha Chouery.\nMusic and sounds by Iida Halttunen.\nSpecial thanks to Flo and ClaraGaming for their artistic advice and playtests.\nAll the painting we used belong the the public domain. They were made by fantastic artists, and you should definitely check their oeuvre.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDYyNDY4LzIzNTIzMTAucG5n/original/nbnYPw.png",
+          "https://img.itch.zone/aW1hZ2UvNDYyNDY4LzIzNTIzMTEucG5n/original/w5Wn82.png",
+          "https://img.itch.zone/aW1hZ2UvNDYyNDY4LzIzNTIzMTIucG5n/original/oGD65I.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.5 out of 5 stars(40 total ratings)",
+          "Authors": "troleoleo, schouery",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "Colorful, Game Maker's Toolkit Jam, Painting, Relaxing",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Mouse",
+          "Accessibility": "One button"
+        }
+      }
+    },
+    {
+      "gameId": 461608,
+      "gameUrl": "https://gustav-k.itch.io/block-steady",
+      "overallRank": 23,
+      "topCategories": [
+        "Design"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "gustav_k",
+            "id": 1736559
+          }
+        ],
+        "rank": 23,
+        "url": "https://itch.io/jam/gmtk-2019/rate/461608",
+        "title": "Block Steady",
+        "rating_count": 32,
+        "raw_score": 4.4791666666667,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNjEyMDkucG5n/300x240%23c/PfnrtQ.png",
+        "score": 4.4791666666667,
+        "criteria": [
+          {
+            "name": "Design",
+            "score": 4.75,
+            "rank": 3,
+            "raw_score": 4.75
+          },
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.125,
+            "rank": 499,
+            "raw_score": 4.125
+          },
+          {
+            "name": "Originality",
+            "score": 4.5625,
+            "rank": 40,
+            "raw_score": 4.5625
+          }
+        ],
+        "id": 461608
+      },
+      "entryData": {
+        "coolness": 23,
+        "rating_count": 32,
+        "created_at": "2019-08-04 13:45:29",
+        "id": 80916,
+        "game": {
+          "short_text": "Chunky jumpy platformer sprinkled with puzzle!",
+          "cover": "https://img.itch.zone/aW1nLzIzNjEyMDkucG5n/300x240%23c/PfnrtQ.png",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "id": 461608,
+          "cover_color": "#000052",
+          "user": {
+            "name": "gustav_k",
+            "url": "https://gustav-k.itch.io",
+            "id": 1736559
+          },
+          "url": "https://gustav-k.itch.io/block-steady",
+          "title": "Block Steady"
+        },
+        "url": "/jam/gmtk-2019/rate/461608"
+      },
+      "details": {
+        "title": "Block Steady",
+        "description": "Made for GMTK 2019 game jam. Topic: Only One\nChunky jumpy platformer sprinkled with puzzle!\nPlay with gamepad or keyboard.\nControls:\nMovement: Arrow keys / WASD\nAlternate jump buttons: Space, Z, W, Up\nCan you get through 16 levels of blocky carnage? Be the only block standing!The downloadable version of Block Steady includes a version for Windows, Linux, and OSX. \nChoose the folder of your operating system and extract it. Run the NW file.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDYxNjA4LzIzNjU0OTEuZ2lm/original/EfKk%2FR.gif",
+          "https://img.itch.zone/aW1hZ2UvNDYxNjA4LzIzNDc5ODUucG5n/original/4jf9Ze.png",
+          "https://img.itch.zone/aW1hZ2UvNDYxNjA4LzIzNDc5ODYucG5n/original/RosRLS.png",
+          "https://img.itch.zone/aW1hZ2UvNDYxNjA4LzIzNDc5ODgucG5n/original/AtKaDa.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 4.7 out of 5 stars(147 total ratings)",
+          "Author": "gustav_k",
+          "Genre": "Platformer, Puzzle",
+          "Made with": "Construct",
+          "Tags": "2D, Cute, Game Maker's Toolkit Jam, Pixel Art, Short"
+        }
+      }
+    },
+    {
+      "gameId": 462557,
+      "gameUrl": "https://powerstrugglegames.itch.io/super-polygon",
+      "overallRank": 41,
+      "topCategories": [
+        "Design"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Power Struggle Games",
+            "id": 40493
+          }
+        ],
+        "rank": 41,
+        "url": "https://itch.io/jam/gmtk-2019/rate/462557",
+        "title": "Super Polygon",
+        "rating_count": 13,
+        "raw_score": 4.4102564102564,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNTIxODIucG5n/300x240%23c/CCwAME.png",
+        "score": 4.4102564102564,
+        "criteria": [
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.0769230769231,
+            "rank": 544,
+            "raw_score": 4.0769230769231
+          },
+          {
+            "name": "Design",
+            "score": 4.6923076923077,
+            "rank": 4,
+            "raw_score": 4.6923076923077
+          },
+          {
+            "name": "Originality",
+            "score": 4.4615384615385,
+            "rank": 73,
+            "raw_score": 4.4615384615385
+          }
+        ],
+        "id": 462557
+      },
+      "entryData": {
+        "coolness": 3,
+        "rating_count": 13,
+        "created_at": "2019-08-04 18:04:56",
+        "id": 81660,
+        "game": {
+          "short_text": "One shape, one arena, one goal : use your only bullet to divide the polygons and feed off their vertices.",
+          "cover": "https://img.itch.zone/aW1nLzIzNTIxODIucG5n/300x240%23c/CCwAME.png",
+          "id": 462557,
+          "platforms": [
+            "windows"
+          ],
+          "user": {
+            "name": "Power Struggle Games",
+            "url": "https://powerstrugglegames.itch.io",
+            "id": 40493
+          },
+          "url": "https://powerstrugglegames.itch.io/super-polygon",
+          "title": "Super Polygon"
+        },
+        "url": "/jam/gmtk-2019/rate/462557"
+      },
+      "details": {
+        "title": "Super Polygon",
+        "description": "One shape, one arena, one goal : use your only bullet to divide the polygons and feed off their vertices.Produced byBarbapluleGarforBigMulSpecial thanksDuffFabiPigeatElianfrigofElwingTDkTitihttps://powerstruggle.games/Music by mulfactor: https://soundcloud.com/mulfactor",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDYyNTU3LzIzNTczOTUuZ2lm/original/4%2F8TL%2F.gif",
+          "https://img.itch.zone/aW1hZ2UvNDYyNTU3LzIzNTMwOTQucG5n/original/%2BERoyb.png",
+          "https://img.itch.zone/aW1hZ2UvNDYyNTU3LzIzNTI3NjcucG5n/original/lWUEDw.png",
+          "https://img.itch.zone/aW1hZ2UvNDYyNTU3LzIzNTI4MDMucG5n/original/S%2B5M9n.png",
+          "https://img.itch.zone/aW1hZ2UvNDYyNTU3LzIzNTI2MTIucG5n/original/41%2FHXO.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.2 out of 5 stars(6 total ratings)",
+          "Author": "Power Struggle Games",
+          "Tags": "Arcade, Game Maker's Toolkit Jam, Low-poly"
+        }
+      }
+    },
+    {
+      "gameId": 463742,
+      "gameUrl": "https://boz-float.itch.io/kickochet",
+      "overallRank": 4,
+      "topCategories": [
+        "Design",
+        "Adherence to the Theme"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Boz of Aesth",
+            "id": 81666
+          },
+          {
+            "name": "John Leon",
+            "id": 1754645
+          }
+        ],
+        "rank": 4,
+        "url": "https://itch.io/jam/gmtk-2019/rate/463742",
+        "title": "Kickochet",
+        "rating_count": 31,
+        "raw_score": 4.5913978494624,
+        "cover_url": "https://img.itch.zone/aW1nLzMxMTQwODAuZ2lm/300x240%23c/Z%2BTNLa.gif",
+        "score": 4.5913978494624,
+        "criteria": [
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.741935483871,
+            "rank": 18,
+            "raw_score": 4.741935483871
+          },
+          {
+            "name": "Design",
+            "score": 4.6129032258065,
+            "rank": 5,
+            "raw_score": 4.6129032258065
+          },
+          {
+            "name": "Originality",
+            "score": 4.4193548387097,
+            "rank": 94,
+            "raw_score": 4.4193548387097
+          }
+        ],
+        "id": 463742
+      },
+      "entryData": {
+        "coolness": 22,
+        "rating_count": 31,
+        "created_at": "2019-08-04 19:38:40",
+        "id": 83045,
+        "contributors": [
+          {
+            "name": "Boz of Aesth",
+            "url": "https://boz-float.itch.io"
+          },
+          {
+            "name": "John Leon",
+            "url": "https://electropunkzero.itch.io"
+          }
+        ],
+        "url": "/jam/gmtk-2019/rate/463742",
+        "game": {
+          "short_text": "A tough-as-nails-lite™ action game where you kick your only shuriken off walls, around puzzles, and through robots.",
+          "id": 463742,
+          "user": {
+            "name": "Boz of Aesth",
+            "url": "https://boz-float.itch.io",
+            "id": 81666
+          },
+          "url": "https://boz-float.itch.io/kickochet",
+          "cover": "https://img.itch.zone/aW1nLzMxMTQwODAuZ2lm/300x240%23c/Z%2BTNLa.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzMxMTQwODAuZ2lm/original/GW6di2.gif",
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#eeeeee",
+          "title": "Kickochet"
+        }
+      },
+      "details": {
+        "title": "Kickochet",
+        "description": "Kickochet is on hold indefinitely. Sign up to learn about our new games: https://aesth.substack.com/\n------------------\nKickochet is a tough-as-nails-lite™ action game (played with keyboard and mouse) where you skillfully kick and ricochet your only shuriken off walls, around puzzles, and through robot faces. Race the clock, rescue your ninja cat, and destroy Robo Corp before their cat memes take over the world!\n\nPosted May 29, 2021:Because Kickochet is on hold, the demo will now stay up permanently. It contains at least 1000 more hours work than the jam version that is usually up, so enjoy!\n\nPosted May 26, 2020:The demo has ended for now, returning to the gamejam version until the next release.\nPosted March 17, 2020:Kickochet is now available as free demo from now until April 16. This demo is longer than the average indie game demo so we're making it available only for this time period to garner feedback and make revisions. \n\n------\nKickochet was featured in the top 20 best games of GMTK 2019 gamejam!https://www.youtube.com/watch?v=o-WrQ77zUvA\n\n\nThe Making of Kickochet Game Jam (with tips for game jammers and a ton of gifs): https://medium.com/@caseyweeks/the-making-of-kickochet-a-gmtk2019-jam-game-f4931c670b32\n\nCredits: Project Lead, Programming, Game Design, Level Design: Casey \"Boz\" Weeks https://twitter.com/huminaboz\nGameplay Art: Mark Usmiani https://mark-usmiani.tumblr.com/ | https://twitter.com/MarkUsmianiArt \nMusic: Haberworks  https://soundcloud.com/haberworks \nCharacter Animation: John Hughes  www.johnhughesillustration.com | https://twitter.com/JohnHughesArt\nMisc Programming: John \"NanoDano\" Leon https://www.devdungeon.com/\nTitle and Story Art: c0hil https://www.instagram.com/c0hil/\nArt Direction/Concepts/Logo: KFlanLevel Design: Chris \"Crysalim\" Riccobono\n\nInquiries: aesthgame@gmail.com\nWindows: It's unity - open up the unity exe and you're good to go.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDYzNzQyLzMxMTM5OTkucG5n/original/bJhwwH.png",
+          "https://img.itch.zone/aW1hZ2UvNDYzNzQyLzMxMTM5OTMucG5n/original/iklwGJ.png",
+          "https://img.itch.zone/aW1hZ2UvNDYzNzQyLzMxMTM5OTgucG5n/original/zlYoNP.png",
+          "https://img.itch.zone/aW1hZ2UvNDYzNzQyLzMxMTM5OTYucG5n/original/trKfff.png",
+          "https://img.itch.zone/aW1hZ2UvNDYzNzQyLzMxMTM5OTcucG5n/original/kKLh2P.png"
+        ],
+        "moreInfo": {
+          "Status": "On hold",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.4 out of 5 stars(8 total ratings)",
+          "Authors": "Boz of Aesth, John Leon",
+          "Genre": "Action, Puzzle",
+          "Made with": "Unity",
+          "Tags": "2D, Difficult, Game Maker's Toolkit Jam, Ninja, Robots, Singleplayer, Sprites, Top-Down",
+          "Average session": "A few minutes",
+          "Inputs": "Keyboard, Mouse, Xbox controller",
+          "Accessibility": "Interactive tutorial"
+        }
+      }
+    },
+    {
+      "gameId": 463690,
+      "gameUrl": "https://arthur740210.itch.io/project1on",
+      "overallRank": 16,
+      "topCategories": [
+        "Design",
+        "Originality"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Tsunya2⁷2A(arthur740210)",
+            "id": 841339
+          },
+          {
+            "name": "murlokk",
+            "id": 1747355
+          },
+          {
+            "name": "PeDev",
+            "id": 1652507
+          }
+        ],
+        "rank": 16,
+        "url": "https://itch.io/jam/gmtk-2019/rate/463690",
+        "title": "PROJECT1ON",
+        "rating_count": 22,
+        "raw_score": 4.5151515151515,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNjE1OTgucG5n/300x240%23c/ya5P3G.png",
+        "score": 4.5151515151515,
+        "criteria": [
+          {
+            "name": "Design",
+            "score": 4.5909090909091,
+            "rank": 6,
+            "raw_score": 4.5909090909091
+          },
+          {
+            "name": "Originality",
+            "score": 4.7727272727273,
+            "rank": 9,
+            "raw_score": 4.7727272727273
+          },
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.1818181818182,
+            "rank": 420,
+            "raw_score": 4.1818181818182
+          }
+        ],
+        "id": 463690
+      },
+      "entryData": {
+        "coolness": 96,
+        "rating_count": 22,
+        "created_at": "2019-08-04 19:30:38",
+        "id": 82974,
+        "contributors": [
+          {
+            "name": "Tsunya2⁷2A(arthur740210)",
+            "url": "https://arthur740210.itch.io"
+          },
+          {
+            "name": "murlokk",
+            "url": "https://murlokk.itch.io"
+          },
+          {
+            "name": "PeDev",
+            "url": "https://pedev.itch.io"
+          }
+        ],
+        "url": "/jam/gmtk-2019/rate/463690",
+        "game": {
+          "short_text": "A Dimension Bending Puzzle Platformer, where you have Only One Plane in the 3D world. (Read the Details before playing)",
+          "cover": "https://img.itch.zone/aW1nLzIzNjE1OTgucG5n/300x240%23c/ya5P3G.png",
+          "platforms": [
+            "windows"
+          ],
+          "id": 463690,
+          "cover_color": "#e7ccca",
+          "user": {
+            "name": "Tsunya2⁷2A(arthur740210)",
+            "url": "https://arthur740210.itch.io",
+            "id": 841339
+          },
+          "url": "https://arthur740210.itch.io/project1on",
+          "title": "PROJECT1ON"
+        }
+      },
+      "details": {
+        "title": "PROJECT1ON",
+        "description": "PROJECT1ON is a puzzle platformer, where you can use \"only one\" slice of a 3D space as your platforms.  Made For GMTK GameJam 2019.\nControl will be taught in the game.\nAfter finishing the game, try again without using SHIFT.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDYzNjkwLzIzNTg0OTUuZ2lm/original/iGyHd0.gif"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.7 out of 5 stars(24 total ratings)",
+          "Authors": "Tsunya2⁷2A(arthur740210), murlokk, PeDev",
+          "Genre": "Platformer, Puzzle",
+          "Tags": "2D, 3D, Game Maker's Toolkit Jam"
+        }
+      }
+    },
+    {
+      "gameId": 461977,
+      "gameUrl": "https://tapehead-games.itch.io/one-action-heroes",
+      "overallRank": 44,
+      "topCategories": [
+        "Design"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Tapehead Games",
+            "id": 103275
+          }
+        ],
+        "rank": 44,
+        "url": "https://itch.io/jam/gmtk-2019/rate/461977",
+        "title": "One Action Heroes",
+        "rating_count": 118,
+        "raw_score": 4.3983050847458,
+        "cover_url": "https://img.itch.zone/aW1nLzI0MTI3NTYuZ2lm/300x240%23c/v9wUQm.gif",
+        "score": 4.3983050847458,
+        "criteria": [
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.3305084745763,
+            "rank": 284,
+            "raw_score": 4.3305084745763
+          },
+          {
+            "name": "Originality",
+            "score": 4.3050847457627,
+            "rank": 165,
+            "raw_score": 4.3050847457627
+          },
+          {
+            "name": "Design",
+            "score": 4.5593220338983,
+            "rank": 7,
+            "raw_score": 4.5593220338983
+          }
+        ],
+        "id": 461977
+      },
+      "entryData": {
+        "coolness": 196,
+        "rating_count": 118,
+        "created_at": "2019-08-04 18:47:21",
+        "id": 82186,
+        "game": {
+          "short_text": "A Game Maker's Toolkit Jam 2019 game made by sebastian landinger and waldemar umaniz",
+          "id": 461977,
+          "user": {
+            "name": "Tapehead Games",
+            "url": "https://tapehead-games.itch.io",
+            "id": 103275
+          },
+          "url": "https://tapehead-games.itch.io/one-action-heroes",
+          "cover": "https://img.itch.zone/aW1nLzI0MTI3NTYuZ2lm/300x240%23c/v9wUQm.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzI0MTI3NTYuZ2lm/original/Ogj38n.gif",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ],
+          "cover_color": "#0b1b24",
+          "title": "One Action Heroes"
+        },
+        "url": "/jam/gmtk-2019/rate/461977"
+      },
+      "details": {
+        "title": "One Action Heroes",
+        "description": "A Game Maker's Toolkit game jam 2019 game by @landinger and @wowa_u\n\nOur brave heroes must move through a winding dungeon. Traps doors small alleys in front of them! Every single one of the heroes can perform \"ONLY ONE\" movement.  Against all odds - can they find their way through tricky puzzles with friendship helpfulness and the will to combine their powers?\nHelp them and find out in \"One Action Heroes\"!\nControls (Tutorial is in the game)\nMove \"Prince horizontival the first\" with ARROW LEFT / ARROW RIGHT\n\nMove \"Duke vert the pure\" with ARROW UP / ARROW DOWN\n\n\"Grabaron the wise\" grabs/releases with SPACEBAR\n\n\n\n\nThis is a post jam version of our entry. It has some additional content we couldn't add within given time and specially important fixes. If you're interested in the original content then you'll can get them here https://tinyurl.com/y3maojxb",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDYxOTc3LzI0MTI2ODcuZ2lm/original/UyTycr.gif",
+          "https://img.itch.zone/aW1hZ2UvNDYxOTc3LzI0MTI1NDYucG5n/original/hJ1dV%2B.png",
+          "https://img.itch.zone/aW1hZ2UvNDYxOTc3LzI0MTI1NDMucG5n/original/SOhAkF.png",
+          "https://img.itch.zone/aW1hZ2UvNDYxOTc3LzI0MTI1NDQucG5n/original/xvvIDS.png",
+          "https://img.itch.zone/aW1hZ2UvNDYxOTc3LzI0MTI1NDUucG5n/original/V6tgnY.png",
+          "https://img.itch.zone/aW1hZ2UvNDYxOTc3LzIzNjExNjIuanBn/original/GZpUNp.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows, macOS, Linux",
+          "Rating": "Rated 4.6 out of 5 stars(53 total ratings)",
+          "Author": "Tapehead Games",
+          "Genre": "Puzzle",
+          "Tags": "2D, Casual, Cute, Difficult, Fantasy, Game Maker's Toolkit Jam, Singleplayer, Vector"
+        }
+      }
+    },
+    {
+      "gameId": 461864,
+      "gameUrl": "https://lucas-delvallet.itch.io/blobby-the-level-shrinker",
+      "overallRank": 18,
+      "topCategories": [
+        "Design"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Lucas Delvallet",
+            "id": 116765
+          }
+        ],
+        "rank": 18,
+        "url": "https://itch.io/jam/gmtk-2019/rate/461864",
+        "title": "Blobby the Level Shrinker",
+        "rating_count": 40,
+        "raw_score": 4.5,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNTEzMTAuZ2lm/300x240%23c/J3%2FsS3.gif",
+        "score": 4.5,
+        "criteria": [
+          {
+            "name": "Design",
+            "score": 4.55,
+            "rank": 8,
+            "raw_score": 4.55
+          },
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.4,
+            "rank": 216,
+            "raw_score": 4.4
+          },
+          {
+            "name": "Originality",
+            "score": 4.55,
+            "rank": 42,
+            "raw_score": 4.55
+          }
+        ],
+        "id": 461864
+      },
+      "entryData": {
+        "coolness": 29,
+        "rating_count": 40,
+        "created_at": "2019-08-04 16:31:32",
+        "id": 81228,
+        "game": {
+          "short_text": "Only one screen. The exit seems unreachable. Maybe you can shrink the fabric of reality ?",
+          "id": 461864,
+          "user": {
+            "name": "Lucas Delvallet",
+            "url": "https://lucas-delvallet.itch.io",
+            "id": 116765
+          },
+          "url": "https://lucas-delvallet.itch.io/blobby-the-level-shrinker",
+          "cover": "https://img.itch.zone/aW1nLzIzNTEzMTAuZ2lm/300x240%23c/J3%2FsS3.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzIzNTEzMTAuZ2lm/original/ZlnypK.gif",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#b7b7b7",
+          "title": "Blobby the Level Shrinker"
+        },
+        "url": "/jam/gmtk-2019/rate/461864"
+      },
+      "details": {
+        "title": "Blobby the Level Shrinker",
+        "description": "\nWelcome !\nYou are about to play a game that has been made in 48 hours for the GMTK Game Jam 2019 ! Cool, uh ? The theme is Only One. And all of this game is happening on only one screen... But with a twist !\nBlobby is a blob. As we all know, blobs are not very smart and this one just want you to guide him to the exit. How, you may ask. Well, that's simple ! You will have to shrink the very fabric of reality and ignore all basisc laws of physics. Eh,.. in other words, that means you are able to shrink the level in order to reach the unreachable exits.\nHere's a small gif that may help you understand\n\nThere is currently 4 levels available. These levels are not very difficult, but it may give you an idea of the main idea potential.\nYou control Blobby using the arrow keys and you can reset a level using the 'R' key. Though, I've tried to design the level so you cannot be stuck, so you may not need to reset a level :) You can use the escape key to quit the game.\n\n\nAbout\nThis game has been almost entirely made by Lucas Delvallet, that means idea, code, graphics, , level design.\nThe only music has been made by lifeasaghost and is available here : Jamie\nThe game has been made with the framework Monogame, using C#.Here are the results of the GMTK Game jam, thanks again everyone : \nAlso, you can read the making-of here !\nHave fun !You have extract the .zip folder before playing :)",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIzNTEzMTAuZ2lm/original/ZlnypK.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "Lucas Delvallet",
+          "Genre": "Puzzle",
+          "Tags": "2D, blob, Game Maker's Toolkit Jam, Short"
+        }
+      }
+    },
+    {
+      "gameId": 463136,
+      "gameUrl": "https://radcodex.itch.io/castle-demonstone",
+      "overallRank": 120,
+      "topCategories": [
+        "Design"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Rad Codex",
+            "id": 88779
+          }
+        ],
+        "rank": 120,
+        "url": "https://itch.io/jam/gmtk-2019/rate/463136",
+        "title": "Castle Demonstone",
+        "rating_count": 20,
+        "raw_score": 4.2333333333333,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNTQ4MzcuZ2lm/300x240%23c/Rlqz7f.gif",
+        "score": 4.2333333333333,
+        "criteria": [
+          {
+            "name": "Originality",
+            "score": 3.65,
+            "rank": 743,
+            "raw_score": 3.65
+          },
+          {
+            "name": "Design",
+            "score": 4.55,
+            "rank": 8,
+            "raw_score": 4.55
+          },
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.5,
+            "rank": 129,
+            "raw_score": 4.5
+          }
+        ],
+        "id": 463136
+      },
+      "entryData": {
+        "coolness": 2,
+        "rating_count": 20,
+        "created_at": "2019-08-04 19:15:56",
+        "id": 82781,
+        "game": {
+          "short_text": "Guide the 1-Slot warrior through treacherous Demonstone!",
+          "id": 463136,
+          "user": {
+            "name": "Rad Codex",
+            "url": "https://radcodex.itch.io",
+            "id": 88779
+          },
+          "url": "https://radcodex.itch.io/castle-demonstone",
+          "cover": "https://img.itch.zone/aW1nLzIzNTQ4MzcuZ2lm/300x240%23c/Rlqz7f.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzIzNTQ4MzcuZ2lm/original/NphUJC.gif",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#0f1a1d",
+          "title": "Castle Demonstone"
+        },
+        "url": "/jam/gmtk-2019/rate/463136"
+      },
+      "details": {
+        "title": "Castle Demonstone",
+        "description": "Guide the 1-Slot warrior through 12 levels of the treacherous Castle Demonstone!Controls: \nWASD or Arrow Keys - MoveSpace - Wait\nMade for GMTK's \"only one\"-themed 2019 game jam.To play, simply extract the .zip anywhere and run the .exe.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDYzMTM2LzIzNTc5MTMuZ2lm/original/a%2BfWFG.gif",
+          "https://img.itch.zone/aW1hZ2UvNDYzMTM2LzIzNTg0OTgucG5n/original/Tw0C3g.png",
+          "https://img.itch.zone/aW1hZ2UvNDYzMTM2LzIzNTg1MDEucG5n/original/PkYcUr.png",
+          "https://img.itch.zone/aW1hZ2UvNDYzMTM2LzIzNTg1MDUucG5n/original/QCK8gy.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.7 out of 5 stars(24 total ratings)",
+          "Author": "Rad Codex",
+          "Genre": "Puzzle",
+          "Tags": "Short, Top-Down, Turn-based"
+        }
+      }
+    },
+    {
+      "gameId": 458909,
+      "gameUrl": "https://seet.itch.io/missilecontrol",
+      "overallRank": 85,
+      "topCategories": [
+        "Design"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Seet",
+            "id": 1121100
+          },
+          {
+            "name": "Dia",
+            "id": 1712345
+          },
+          {
+            "name": "Steef",
+            "id": 1729828
+          }
+        ],
+        "rank": 85,
+        "url": "https://itch.io/jam/gmtk-2019/rate/458909",
+        "title": "MISSILE CONTROL",
+        "rating_count": 31,
+        "raw_score": 4.2903225806452,
+        "cover_url": "https://img.itch.zone/aW1nLzIzODQ0ODkucG5n/300x240%23c/nDwcCr.png",
+        "score": 4.2903225806452,
+        "criteria": [
+          {
+            "name": "Originality",
+            "score": 4.0967741935484,
+            "rank": 332,
+            "raw_score": 4.0967741935484
+          },
+          {
+            "name": "Design",
+            "score": 4.5483870967742,
+            "rank": 10,
+            "raw_score": 4.5483870967742
+          },
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.2258064516129,
+            "rank": 390,
+            "raw_score": 4.2258064516129
+          }
+        ],
+        "id": 458909
+      },
+      "entryData": {
+        "coolness": 12,
+        "rating_count": 31,
+        "created_at": "2019-08-04 19:06:17",
+        "id": 82581,
+        "contributors": [
+          {
+            "name": "Seet",
+            "url": "https://seet.itch.io"
+          },
+          {
+            "name": "Dia",
+            "url": "https://gedddia.itch.io"
+          },
+          {
+            "name": "Steef",
+            "url": "https://steefpls.itch.io"
+          }
+        ],
+        "url": "/jam/gmtk-2019/rate/458909",
+        "game": {
+          "short_text": "Neon. Synthwave. Powerups. Explosions.",
+          "cover": "https://img.itch.zone/aW1nLzIzODQ0ODkucG5n/300x240%23c/nDwcCr.png",
+          "platforms": [
+            "windows"
+          ],
+          "id": 458909,
+          "cover_color": "#16eaff",
+          "user": {
+            "name": "Seet",
+            "url": "https://seet.itch.io",
+            "id": 1121100
+          },
+          "url": "https://seet.itch.io/missilecontrol",
+          "title": "MISSILE CONTROL"
+        }
+      },
+      "details": {
+        "title": "MISSILE CONTROL",
+        "description": "Made for the GMTK Game Jam 2019Theme: \"Only One\".\nAn endless action arcade shooter. Fire missiles, guide them to enemies and blow them up. All with one button. Simple neon synthwave aesthetic.\nControls:Click anywhere to fire the missile, hold afterwards to guide it to your cursor, then let go to explode.\nWARNING: This game contains bright flashing effects which may potentially cause discomfort and trigger seizures for people with photosensitive epilepsy. Player discretion is advised.\nCredits:Steven Koe - Programming, Game DesignJedidiah Wong - Programming, Game DesignSeetoh Wei Tung - Game Design, Art, SoundRoyalty Free Synthwave by Nihilore",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDU4OTA5LzIzODI3ODguZ2lm/original/9JLkqR.gif",
+          "https://img.itch.zone/aW1hZ2UvNDU4OTA5LzIzODI3ODYuZ2lm/original/UUJZYX.gif",
+          "https://img.itch.zone/aW1hZ2UvNDU4OTA5LzIzNTA1NDMucG5n/original/tXVvsX.png",
+          "https://img.itch.zone/aW1hZ2UvNDU4OTA5LzIzODI3NzUucG5n/original/BrYlw%2B.png",
+          "https://img.itch.zone/aW1hZ2UvNDU4OTA5LzIzODI3ODMucG5n/original/Nuql7C.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Authors": "Seet, Dia, Steef",
+          "Genre": "Action, Shooter",
+          "Tags": "Arcade, Endless, Explosions, Game Maker's Toolkit Jam, Neon, Synthwave"
+        }
+      }
+    },
+    {
+      "gameId": 462613,
+      "gameUrl": "https://arabong.itch.io/naugthy-knight-jam",
+      "overallRank": 106,
+      "topCategories": [
+        "Design"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Arabong",
+            "id": 32954
+          }
+        ],
+        "rank": 106,
+        "url": "https://itch.io/jam/gmtk-2019/rate/462613",
+        "title": "Naughty Knight - JAM edition",
+        "rating_count": 86,
+        "raw_score": 4.2596899224806,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNzI0MjEucG5n/300x240%23c/ctXra6.png",
+        "score": 4.2596899224806,
+        "criteria": [
+          {
+            "name": "Adherence to the Theme",
+            "score": 3.8023255813953,
+            "rank": 801,
+            "raw_score": 3.8023255813953
+          },
+          {
+            "name": "Design",
+            "score": 4.546511627907,
+            "rank": 11,
+            "raw_score": 4.546511627907
+          },
+          {
+            "name": "Originality",
+            "score": 4.4302325581395,
+            "rank": 89,
+            "raw_score": 4.4302325581395
+          }
+        ],
+        "id": 462613
+      },
+      "entryData": {
+        "coolness": 10,
+        "rating_count": 86,
+        "created_at": "2019-08-04 18:30:18",
+        "id": 81900,
+        "game": {
+          "short_text": "A funny puzzle  game inspired by chess. Developed for the \"GMTK Game Jam 2019​\".",
+          "cover": "https://img.itch.zone/aW1nLzIzNzI0MjEucG5n/300x240%23c/ctXra6.png",
+          "platforms": [
+            "windows"
+          ],
+          "id": 462613,
+          "cover_color": "#000000",
+          "user": {
+            "name": "Arabong",
+            "url": "https://arabong.itch.io",
+            "id": 32954
+          },
+          "url": "https://arabong.itch.io/naugthy-knight-jam",
+          "title": "Naughty Knight - JAM edition"
+        },
+        "url": "/jam/gmtk-2019/rate/462613"
+      },
+      "details": {
+        "title": "Naughty Knight - JAM edition",
+        "description": "A funny puzzle  game inspired by chess where you control the knight only! No shooting at stuff, sorry!!!\nDeveloped for the \"GMTK Game Jam 2019\".\nAfter the jam, we are going to develop it for real! Stay tuned!\nArt: https://www.instagram.com/loti_art/\nFor more: \nMANNIPLES GAMES\nhttps://twitter.com/manniples\n\n\nEnjoy :)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDYyNjEzLzIzNzIwNDIuZ2lm/original/r1RRIo.gif",
+          "https://img.itch.zone/aW1hZ2UvNDYyNjEzLzIzNzIwODQuZ2lm/original/4Gn5RI.gif",
+          "https://img.itch.zone/aW1hZ2UvNDYyNjEzLzIzNTI4NTcucG5n/original/abCFtl.png",
+          "https://img.itch.zone/aW1hZ2UvNDYyNjEzLzIzNzIwODMuZ2lm/original/Wo81Y4.gif",
+          "https://img.itch.zone/aW1hZ2UvNDYyNjEzLzIzNTI4NTkucG5n/original/7fyT6B.png",
+          "https://img.itch.zone/aW1hZ2UvNDYyNjEzLzIzNzIwODUuZ2lm/original/Covntt.gif",
+          "https://img.itch.zone/aW1hZ2UvNDYyNjEzLzIzNTI4NTgucG5n/original/ghrLsm.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Author": "Arabong",
+          "Genre": "Puzzle, Platformer, Strategy",
+          "Tags": "3D, 3D Platformer, Animals, Chess, Horses, Puzzle-Platformer, Turn-based Strategy"
+        }
+      }
+    },
+    {
+      "gameId": 463815,
+      "gameUrl": "https://petermilko.itch.io/hotpotatododgeball",
+      "overallRank": 78,
+      "topCategories": [
+        "Design"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "petermilko",
+            "id": 660332
+          }
+        ],
+        "rank": 78,
+        "url": "https://itch.io/jam/gmtk-2019/rate/463815",
+        "title": "Hotpotato Dodgeball",
+        "rating_count": 11,
+        "raw_score": 4.3030303030303,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNTYzNjgucG5n/300x240%23c/IZsli%2F.png",
+        "score": 4.3030303030303,
+        "criteria": [
+          {
+            "name": "Originality",
+            "score": 4.0909090909091,
+            "rank": 334,
+            "raw_score": 4.0909090909091
+          },
+          {
+            "name": "Design",
+            "score": 4.5454545454545,
+            "rank": 12,
+            "raw_score": 4.5454545454545
+          },
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.2727272727273,
+            "rank": 336,
+            "raw_score": 4.2727272727273
+          }
+        ],
+        "id": 463815
+      },
+      "entryData": {
+        "coolness": 1,
+        "rating_count": 11,
+        "created_at": "2019-08-04 20:27:02",
+        "id": 83281,
+        "game": {
+          "short_text": "Dodgeball with a twist, it explodes if you hold it too long!",
+          "cover": "https://img.itch.zone/aW1nLzIzNTYzNjgucG5n/300x240%23c/IZsli%2F.png",
+          "id": 463815,
+          "cover_color": "#eeeeee",
+          "user": {
+            "name": "petermilko",
+            "url": "https://petermilko.itch.io",
+            "id": 660332
+          },
+          "url": "https://petermilko.itch.io/hotpotatododgeball",
+          "title": "Hotpotato Dodgeball"
+        },
+        "url": "/jam/gmtk-2019/rate/463815"
+      },
+      "details": {
+        "title": "Hotpotato Dodgeball",
+        "description": "Dodgeball with a twist, it explodes if you hold it too long!\n1 Ball 1 Life 1 Winner !!\n*plugin controllers to play multiplayer (2-4 players)\nGMTK Jam 2019 Submission",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIzNTYzNjgucG5n/original/Leh5tr.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Rating": "Rated 5.0 out of 5 stars(3 total ratings)",
+          "Author": "petermilko",
+          "Genre": "Action",
+          "Tags": "Arcade, dodgeball, Game Jam, Game Maker's Toolkit Jam, hotpotato, joystick, Multiplayer, pixel, Pixel Art",
+          "Average session": "A few seconds",
+          "Inputs": "Joystick"
+        }
+      }
+    },
+    {
+      "gameId": 462555,
+      "gameUrl": "https://matheuscunegato.itch.io/towerbag",
+      "overallRank": 6,
+      "topCategories": [
+        "Design",
+        "Adherence to the Theme"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "MatheusCunegato",
+            "id": 259052
+          },
+          {
+            "name": "dorodo",
+            "id": 1177027
+          }
+        ],
+        "rank": 6,
+        "url": "https://itch.io/jam/gmtk-2019/rate/462555",
+        "title": "TowerBag",
+        "rating_count": 292,
+        "raw_score": 4.5753424657534,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNTYwNjQuZ2lm/300x240%23c/FzLbka.gif",
+        "score": 4.5753424657534,
+        "criteria": [
+          {
+            "name": "Design",
+            "score": 4.5342465753425,
+            "rank": 13,
+            "raw_score": 4.5342465753425
+          },
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.791095890411,
+            "rank": 11,
+            "raw_score": 4.791095890411
+          },
+          {
+            "name": "Originality",
+            "score": 4.4006849315068,
+            "rank": 106,
+            "raw_score": 4.4006849315068
+          }
+        ],
+        "id": 462555
+      },
+      "entryData": {
+        "coolness": 6,
+        "rating_count": 292,
+        "created_at": "2019-08-04 19:13:55",
+        "id": 82744,
+        "contributors": [
+          {
+            "name": "MatheusCunegato",
+            "url": "https://matheuscunegato.itch.io"
+          },
+          {
+            "name": "dorodo",
+            "url": "https://dorodo.itch.io"
+          }
+        ],
+        "url": "/jam/gmtk-2019/rate/462555",
+        "game": {
+          "short_text": "A Tower Defense with only one Tower",
+          "id": 462555,
+          "user": {
+            "name": "MatheusCunegato",
+            "url": "https://matheuscunegato.itch.io",
+            "id": 259052
+          },
+          "url": "https://matheuscunegato.itch.io/towerbag",
+          "cover": "https://img.itch.zone/aW1nLzIzNTYwNjQuZ2lm/300x240%23c/FzLbka.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzIzNTYwNjQuZ2lm/original/cwfyaX.gif",
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#64bc3f",
+          "title": "TowerBag"
+        }
+      },
+      "details": {
+        "title": "TowerBag",
+        "description": "Play as a little lonely skull, carry your TowerBag and face the evil creatures of the forest. This is a Tower Defense Game, but with only one Tower. Arrow Keys/WASD to walk, Spacebar to grab the tower.Follow us on twitter!\nMatheus Cunegato (Game Designer and Programmer)\nhttps://twitter.com/MatheusCunegato\nRodolfo Salazar (Artist and Magician)\nhttps://twitter.com/_Dorodo\nWishlist our newest Tower Defense Game, Islets Defense!\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDYyNTU1LzIzNTUzMDAucG5n/original/bBrmsr.png",
+          "https://img.itch.zone/aW1hZ2UvNDYyNTU1LzIzNTU3MTkucG5n/original/ZJXdpn.png",
+          "https://img.itch.zone/aW1hZ2UvNDYyNTU1LzIzNTU3MjIucG5n/original/zDyfC1.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.7 out of 5 stars(375 total ratings)",
+          "Authors": "MatheusCunegato, dorodo",
+          "Made with": "GameMaker",
+          "Tags": "GameMaker, Game Maker's Toolkit Jam, Pixel Art, Tower Defense",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": 463179,
+      "gameUrl": "https://mindcopgames.itch.io/level1-1",
+      "overallRank": 15,
+      "topCategories": [
+        "Design"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "mindcopgames",
+            "id": 1742108
+          }
+        ],
+        "rank": 15,
+        "url": "https://itch.io/jam/gmtk-2019/rate/463179",
+        "title": "Level1_1",
+        "rating_count": 45,
+        "raw_score": 4.5185185185185,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNTc3MzYuanBn/300x240%23c/zsbJQ5.jpg",
+        "score": 4.5185185185185,
+        "criteria": [
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.6666666666667,
+            "rank": 32,
+            "raw_score": 4.6666666666667
+          },
+          {
+            "name": "Design",
+            "score": 4.5333333333333,
+            "rank": 14,
+            "raw_score": 4.5333333333333
+          },
+          {
+            "name": "Originality",
+            "score": 4.3555555555556,
+            "rank": 146,
+            "raw_score": 4.3555555555556
+          }
+        ],
+        "id": 463179
+      },
+      "entryData": {
+        "coolness": 46,
+        "rating_count": 45,
+        "created_at": "2019-08-04 18:53:57",
+        "id": 82314,
+        "game": {
+          "short_text": "Only one level. Unlocking characters will change everything.",
+          "cover": "https://img.itch.zone/aW1nLzIzNTc3MzYuanBn/300x240%23c/zsbJQ5.jpg",
+          "platforms": [
+            "windows"
+          ],
+          "id": 463179,
+          "cover_color": "#202020",
+          "user": {
+            "name": "mindcopgames",
+            "url": "https://mindcopgames.itch.io",
+            "id": 1742108
+          },
+          "url": "https://mindcopgames.itch.io/level1-1",
+          "title": "Level1_1"
+        },
+        "url": "/jam/gmtk-2019/rate/463179"
+      },
+      "details": {
+        "title": "Level1_1",
+        "description": "Update: There is now a postjam version that adds:2 characters (all 9 are now playable)Music!CheckpointsSmall things here and there like a new route for DashboyThere is only one level. You unlock new characters and that will change how you have to approach the level. But it will always be the same level.\nIt's a plattformer. Most gamepads are supported.\nSadly no music. Ran out of time :(Was made in 48 hours for the 2019 GMTK Gamejam with the theme: \"Only one\"unzipp and click the thing",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDYzMTc5LzIzNjcyMTIuanBn/original/MMuTal.jpg",
+          "https://img.itch.zone/aW1hZ2UvNDYzMTc5LzIzNjcyMTQuanBn/original/IL7KBd.jpg",
+          "https://img.itch.zone/aW1hZ2UvNDYzMTc5LzIzNjcyMTMuanBn/original/BkKHFF.jpg",
+          "https://img.itch.zone/aW1hZ2UvNDYzMTc5LzIzNjcyMTcuanBn/original/oCks7N.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.4 out of 5 stars(29 total ratings)",
+          "Author": "mindcopgames",
+          "Genre": "Platformer"
+        }
+      }
+    },
+    {
+      "gameId": 461132,
+      "gameUrl": "https://packrabbit.itch.io/blade-breaker",
+      "overallRank": 9,
+      "topCategories": [
+        "Design"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Zaz",
+            "id": 217643
+          }
+        ],
+        "rank": 9,
+        "url": "https://itch.io/jam/gmtk-2019/rate/461132",
+        "title": "Blade Breaker: Sword Taker",
+        "rating_count": 47,
+        "raw_score": 4.5531914893617,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNDU5OTkuanBn/300x240%23c/Y574Nc.jpg",
+        "score": 4.5531914893617,
+        "criteria": [
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.531914893617,
+            "rank": 117,
+            "raw_score": 4.531914893617
+          },
+          {
+            "name": "Design",
+            "score": 4.531914893617,
+            "rank": 15,
+            "raw_score": 4.531914893617
+          },
+          {
+            "name": "Originality",
+            "score": 4.5957446808511,
+            "rank": 33,
+            "raw_score": 4.5957446808511
+          }
+        ],
+        "id": 461132
+      },
+      "entryData": {
+        "coolness": 0,
+        "rating_count": 47,
+        "created_at": "2019-08-04 19:28:21",
+        "id": 82944,
+        "game": {
+          "short_text": "Bein' a samurai aint easy when you break every blade you use!",
+          "cover": "https://img.itch.zone/aW1nLzIzNDU5OTkuanBn/300x240%23c/Y574Nc.jpg",
+          "id": 461132,
+          "cover_color": "#fbe4c6",
+          "user": {
+            "name": "Zaz",
+            "url": "https://packrabbit.itch.io",
+            "id": 217643
+          },
+          "url": "https://packrabbit.itch.io/blade-breaker",
+          "title": "Blade Breaker: Sword Taker"
+        },
+        "url": "/jam/gmtk-2019/rate/461132"
+      },
+      "details": {
+        "title": "Blade Breaker: Sword Taker",
+        "description": "Bein' a samurai aint easy when you break every blade you use!\nBlade Breaker: Sword Taker is the story of Giri, a young Oni who wishes to become a samurai!Too bad she's too strong for her own good, every sword she uses just shatters like glass!Break swords! Take swords! Break more swords!\nIn BB:ST, your sword will break every time you manage to hit an enemy. Steal swords from the enemy and make them your own!Fight your way to victory, and claim the ultimate unbreakable blade!\n\nThis game was made for the GMTKJam, which has the theme of \"Only Once\".BB:ST incorporates \"Only One\" through its unique weapon system. Each weapon you pick up can only be used only one time before shattering, and the game's loop is built around killing enemies and stealing their weapons.\nThe game can be controlled with keyboard or gamepad.\nThank you for playing!\n\n\n\nCredits\nCharacter/Logo Design - @treedoesart\nBackground Art - @WelpWhyNot\nAnimation - @Drooling_Demon\nMusic - @FadingClubGames\nProgramming - @ZazSaysStuff",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDYxMTMyLzIzNDkxNzguanBn/original/5%2BjXIF.jpg",
+          "https://img.itch.zone/aW1hZ2UvNDYxMTMyLzIzNDYwMTUucG5n/original/tgPIav.png",
+          "https://img.itch.zone/aW1hZ2UvNDYxMTMyLzIzNDkxOTUucG5n/original/EHaXoi.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Rating": "Rated 4.7 out of 5 stars(12 total ratings)",
+          "Author": "Zaz",
+          "Genre": "Action, Platformer",
+          "Tags": "Game Maker's Toolkit Jam, Swords"
+        }
+      }
+    },
+    {
+      "gameId": 460897,
+      "gameUrl": "https://michim.itch.io/chickenhike",
+      "overallRank": 69,
+      "topCategories": [
+        "Design"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "michim",
+            "id": 1247064
+          },
+          {
+            "name": "manum",
+            "id": 1242874
+          }
+        ],
+        "rank": 69,
+        "url": "https://itch.io/jam/gmtk-2019/rate/460897",
+        "title": "Chicken Hike",
+        "rating_count": 41,
+        "raw_score": 4.3252032520325,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNTQzOTAucG5n/300x240%23c/vbRz%2Bn.png",
+        "score": 4.3252032520325,
+        "criteria": [
+          {
+            "name": "Design",
+            "score": 4.5121951219512,
+            "rank": 16,
+            "raw_score": 4.5121951219512
+          },
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.4146341463415,
+            "rank": 208,
+            "raw_score": 4.4146341463415
+          },
+          {
+            "name": "Originality",
+            "score": 4.0487804878049,
+            "rank": 373,
+            "raw_score": 4.0487804878049
+          }
+        ],
+        "id": 460897
+      },
+      "entryData": {
+        "coolness": 8,
+        "rating_count": 41,
+        "created_at": "2019-08-04 00:23:31",
+        "id": 80468,
+        "contributors": [
+          {
+            "name": "michim",
+            "url": "https://michim.itch.io"
+          },
+          {
+            "name": "manum",
+            "url": "https://manum.itch.io"
+          }
+        ],
+        "url": "/jam/gmtk-2019/rate/460897",
+        "game": {
+          "short_text": "Draw a single, continuous line to solve each puzzle.",
+          "cover": "https://img.itch.zone/aW1nLzIzNTQzOTAucG5n/300x240%23c/vbRz%2Bn.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 460897,
+          "cover_color": "#000000",
+          "user": {
+            "name": "michim",
+            "url": "https://michim.itch.io",
+            "id": 1247064
+          },
+          "url": "https://michim.itch.io/chickenhike",
+          "title": "Chicken Hike"
+        }
+      },
+      "details": {
+        "title": "Chicken Hike",
+        "description": "Update 2020-09The level selection for stages you have played before is now also available here, as well as some minor tweaks and new music.\nUpdate 2020-08:We have ported our game to Android and published it on the play store.There is a level select screen, which allows you to play any level you have previously reached. Scaling of buttons and the levels may be off on some screen sizes.Thanks everyone for the amazing response and kind words!\n-----\nControls:R or Middle Mouse button = RestartClick or hold Left Mouse button = Draw\nKeys need to be collected if the exit door is locked.Spikes will kill the Chicken, avoid them.The pencil will break if you try to draw in an area where the paper is torn off.\nEach puzzle must be solved by drawing a single continuous line. There are lots of possibilities to make the chicken move in the desired direction and even to make it climb some heights. But once a line is drawn, the chicken can not pass through it.\nThere is a total of 20 Levels!\n-----\nThe files available for download are the original files for the GMTK2019, the currently playable versions both here and in the playstore are newer.1. Download\n2. Install\n3. ???\n4. Profit\n(Or just play in browser)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDYwODk3LzIzNTA2MTYuanBn/original/61fSeL.jpg",
+          "https://img.itch.zone/aW1hZ2UvNDYwODk3LzIzNTA2MTcuanBn/original/ePZXTx.jpg",
+          "https://img.itch.zone/aW1hZ2UvNDYwODk3LzIzNTA2MTkuanBn/original/1oF705.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.4 out of 5 stars(68 total ratings)",
+          "Authors": "michim, manum",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "2D, Cute, Game Maker's Toolkit Jam, Hand-drawn, Minimalist, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 460201,
+      "gameUrl": "https://prodigalson.itch.io/buddy-system",
+      "overallRank": 24,
+      "topCategories": [
+        "Design"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "ProdigalSon Games",
+            "id": 662125
+          },
+          {
+            "name": "Chevy Thompson Games",
+            "id": 686420
+          },
+          {
+            "name": "Drums",
+            "id": 673908
+          }
+        ],
+        "rank": 24,
+        "url": "https://itch.io/jam/gmtk-2019/rate/460201",
+        "title": "Buddy System",
+        "rating_count": 55,
+        "raw_score": 4.4787878787879,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNDU3MzguanBn/300x240%23c/SPHflr.jpg",
+        "score": 4.4787878787879,
+        "criteria": [
+          {
+            "name": "Design",
+            "score": 4.5090909090909,
+            "rank": 17,
+            "raw_score": 4.5090909090909
+          },
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.5272727272727,
+            "rank": 119,
+            "raw_score": 4.5272727272727
+          },
+          {
+            "name": "Originality",
+            "score": 4.4,
+            "rank": 107,
+            "raw_score": 4.4
+          }
+        ],
+        "id": 460201
+      },
+      "entryData": {
+        "coolness": 46,
+        "rating_count": 55,
+        "created_at": "2019-08-04 18:50:40",
+        "id": 82250,
+        "contributors": [
+          {
+            "name": "ProdigalSon Games",
+            "url": "https://prodigalson.itch.io"
+          },
+          {
+            "name": "Chevy Thompson Games",
+            "url": "https://chevythompson.itch.io"
+          },
+          {
+            "name": "Drums",
+            "url": "https://drums.itch.io"
+          }
+        ],
+        "url": "/jam/gmtk-2019/rate/460201",
+        "game": {
+          "short_text": "Use teamwork to power two robots and solve puzzles",
+          "cover": "https://img.itch.zone/aW1nLzIzNDU3MzguanBn/300x240%23c/SPHflr.jpg",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 460201,
+          "cover_color": "#fca850",
+          "user": {
+            "name": "ProdigalSon Games",
+            "url": "https://prodigalson.itch.io",
+            "id": 662125
+          },
+          "url": "https://prodigalson.itch.io/buddy-system",
+          "title": "Buddy System"
+        }
+      },
+      "details": {
+        "title": "Buddy System",
+        "description": "Description:\nBoth robots need to get to their matching-color stations, but there is ONLY ONE battery! Help them work together as a team by throwing the battery to each other, whatever it takes.\nGameplay:\nMove the robots to strategic locations before tossing the battery to the other.Bounce the battery off of the walls for up to 3 times before it breaks.Placing a robot or battery on a conveyor belt will transport it to the other end.\nControls:\nMovement: WASD / Arrow KeysAim: Mouse CursorShoot Battery: LMBRecall Battery: LMB after shootingReset Level: ROpen Menu:  ESC\nTeam:\nLead Programmer: Nelson LModeler and Animator: Chevy TLevel Design and Graphics: Michael POriginal Music: Jesse P\nSource Code:https://github.com/nlaracuente/BuddySystemDownload .zipExtract .zip fileDouble-click on .exeAccept untrusted publisher",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDYwMjAxLzUwMTMyMTEucG5n/original/X63fMp.png",
+          "https://img.itch.zone/aW1hZ2UvNDYwMjAxLzUwMTMyMTIucG5n/original/m9hKe4.png",
+          "https://img.itch.zone/aW1hZ2UvNDYwMjAxLzUwMTMyMTMucG5n/original/vjd4Fp.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.4 out of 5 stars(22 total ratings)",
+          "Authors": "ProdigalSon Games, Chevy Thompson Games, Drums",
+          "Genre": "Puzzle, Strategy",
+          "Made with": "Unity, Blender, Adobe Photoshop, Audacity",
+          "Tags": "3D, Game Maker's Toolkit Jam, Physics, Unity",
+          "Average session": "A few seconds",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 463027,
+      "gameUrl": "https://jowent.itch.io/your-turn",
+      "overallRank": 25,
+      "topCategories": [
+        "Design"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Jowent",
+            "id": 729662
+          },
+          {
+            "name": "ChumasGames",
+            "id": 1702760
+          }
+        ],
+        "rank": 25,
+        "url": "https://itch.io/jam/gmtk-2019/rate/463027",
+        "title": "Your Turn - A GMTK Game Jam 2019 entry",
+        "rating_count": 12,
+        "raw_score": 4.4722222222222,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNTQyNzIucG5n/300x240%23c/t1hpb0.png",
+        "score": 4.4722222222222,
+        "criteria": [
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.5,
+            "rank": 129,
+            "raw_score": 4.5
+          },
+          {
+            "name": "Design",
+            "score": 4.5,
+            "rank": 18,
+            "raw_score": 4.5
+          },
+          {
+            "name": "Originality",
+            "score": 4.4166666666667,
+            "rank": 99,
+            "raw_score": 4.4166666666667
+          }
+        ],
+        "id": 463027
+      },
+      "entryData": {
+        "coolness": 7,
+        "rating_count": 12,
+        "created_at": "2019-08-04 18:44:49",
+        "id": 82130,
+        "contributors": [
+          {
+            "name": "Jowent",
+            "url": "https://jowent.itch.io"
+          },
+          {
+            "name": "ChumasGames",
+            "url": "https://chumasgames.itch.io"
+          }
+        ],
+        "url": "/jam/gmtk-2019/rate/463027",
+        "game": {
+          "short_text": "One turn strategy game",
+          "cover": "https://img.itch.zone/aW1nLzIzNTQyNzIucG5n/300x240%23c/t1hpb0.png",
+          "platforms": [
+            "windows"
+          ],
+          "id": 463027,
+          "cover_color": "#d3b6b6",
+          "user": {
+            "name": "Jowent",
+            "url": "https://jowent.itch.io",
+            "id": 729662
+          },
+          "url": "https://jowent.itch.io/your-turn",
+          "title": "Your Turn - A GMTK Game Jam 2019 entry"
+        }
+      },
+      "details": {
+        "title": "Your Turn - A GMTK Game Jam 2019 entry",
+        "description": "YOUR TURN\n--------------------The game has started, your main goal is to finish it with only one turn. This game has been inspired by some strategy games such as \"Into the breach\".\nCONTROLS:\nYou can move, push other pawns or evn shoot.Act by clicking in the pawn's tile and selecting the action with the \"Actions\" button.\nEach pawn can do 2 actions. You can move and shoot, push and shoot or even shooting twice, think about your actions!\nYou can always de-select and select another pawn.\nMoving:Your pawns will move in a range of 3 tiles. You can even walk through empty tiles.\nPushing:You can push in a range of 1 tile. Pushing other pawns will move them to the adjacent tile if there is no obstacle there. Otherwise, both pawns will be destroyed.\nShooting:Your shots will affect to the entire row, so be careful and don't kill your own pawns!\n\nHope you enjoy our game.\nThis game was made in 48 hours for GMTK Game Jam 2019\nby @CHUMASQUITO & @_jowent\n\nExtract the executable & play",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDYzMDI3LzIzNTQyNjQucG5n/original/cseoJ1.png",
+          "https://img.itch.zone/aW1hZ2UvNDYzMDI3LzIzNTQyNjYucG5n/original/BpMrbK.png",
+          "https://img.itch.zone/aW1hZ2UvNDYzMDI3LzIzNTQyNjkucG5n/original/fHJfzA.png",
+          "https://img.itch.zone/aW1hZ2UvNDYzMDI3LzIzNTQyNzEucG5n/original/Wo3CP%2F.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.5 out of 5 stars(2 total ratings)",
+          "Authors": "Jowent, ChumasGames",
+          "Genre": "Strategy",
+          "Tags": "Game Maker's Toolkit Jam, Turn-based"
+        }
+      }
+    },
+    {
+      "gameId": 464013,
+      "gameUrl": "https://dwightdavis.itch.io/echolocation",
+      "overallRank": 45,
+      "topCategories": [
+        "Design"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Dwight Davis",
+            "id": 1747342
+          }
+        ],
+        "rank": 45,
+        "url": "https://itch.io/jam/gmtk-2019/rate/464013",
+        "title": "Echolocation",
+        "rating_count": 26,
+        "raw_score": 4.3974358974359,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNTgzNzQucG5n/300x240%23c/A2xozw.png",
+        "score": 4.3974358974359,
+        "criteria": [
+          {
+            "name": "Design",
+            "score": 4.5,
+            "rank": 18,
+            "raw_score": 4.5
+          },
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.1538461538462,
+            "rank": 456,
+            "raw_score": 4.1538461538462
+          },
+          {
+            "name": "Originality",
+            "score": 4.5384615384615,
+            "rank": 43,
+            "raw_score": 4.5384615384615
+          }
+        ],
+        "id": 464013
+      },
+      "entryData": {
+        "coolness": 22,
+        "rating_count": 26,
+        "created_at": "2019-08-04 21:09:36",
+        "id": 83359,
+        "game": {
+          "short_text": "Navigate levels using only one of your senses - your hearing!",
+          "cover": "https://img.itch.zone/aW1nLzIzNTgzNzQucG5n/300x240%23c/A2xozw.png",
+          "id": 464013,
+          "cover_color": "#000000",
+          "user": {
+            "name": "Dwight Davis",
+            "url": "https://dwightdavis.itch.io",
+            "id": 1747342
+          },
+          "url": "https://dwightdavis.itch.io/echolocation",
+          "title": "Echolocation"
+        },
+        "url": "/jam/gmtk-2019/rate/464013"
+      },
+      "details": {
+        "title": "Echolocation",
+        "description": "Only one of the five senses\nThis game was created for the GMTK Game Jam. Using the jam's prompt \"only one,\" you must navigate levels and puzzles using only one of your senses - your sense of hearing. Use sound effects to triangulate your location, mark your progress on a map, and try to reach the end goal! But watch out, things aren't always as simple as they look (or sound).(Updated 8/31/19 to fix difficulty)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDY0MDEzLzIzNTk3NzQucG5n/original/aC3Q%2FH.png",
+          "https://img.itch.zone/aW1hZ2UvNDY0MDEzLzIzNTk3NzEucG5n/original/XL4mwB.png",
+          "https://img.itch.zone/aW1hZ2UvNDY0MDEzLzIzNTk3NzIucG5n/original/ikQ1Lr.png",
+          "https://img.itch.zone/aW1hZ2UvNDY0MDEzLzIzNTk3NzMucG5n/original/efDJWw.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Rating": "Rated 4.0 out of 5 stars(2 total ratings)",
+          "Author": "Dwight Davis",
+          "Genre": "Puzzle",
+          "Tags": "blind, Game Maker's Toolkit Jam, Minimalist, Pixel Art, sound, Top-Down"
+        }
+      }
+    },
+    {
+      "gameId": 462174,
+      "gameUrl": "https://semerus.itch.io/menu-eaters",
+      "overallRank": 99,
+      "topCategories": [
+        "Design"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "semerus",
+            "id": 1190712
+          },
+          {
+            "name": "sizrit",
+            "id": 1748712
+          }
+        ],
+        "rank": 99,
+        "url": "https://itch.io/jam/gmtk-2019/rate/462174",
+        "title": "Menu Eater",
+        "rating_count": 30,
+        "raw_score": 4.2666666666667,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNTEwNzIucG5n/300x240%23c/kkaugt.png",
+        "score": 4.2666666666667,
+        "criteria": [
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.1,
+            "rank": 516,
+            "raw_score": 4.1
+          },
+          {
+            "name": "Design",
+            "score": 4.5,
+            "rank": 18,
+            "raw_score": 4.5
+          },
+          {
+            "name": "Originality",
+            "score": 4.2,
+            "rank": 245,
+            "raw_score": 4.2
+          }
+        ],
+        "id": 462174
+      },
+      "entryData": {
+        "coolness": 6,
+        "rating_count": 30,
+        "created_at": "2019-08-04 17:01:13",
+        "id": 81336,
+        "contributors": [
+          {
+            "name": "semerus",
+            "url": "https://semerus.itch.io"
+          },
+          {
+            "name": "sizrit",
+            "url": "https://sizrit.itch.io"
+          }
+        ],
+        "url": "/jam/gmtk-2019/rate/462174",
+        "game": {
+          "short_text": "GMTK 2019 - Shooting Game with only one menu",
+          "cover": "https://img.itch.zone/aW1nLzIzNTEwNzIucG5n/300x240%23c/kkaugt.png",
+          "id": 462174,
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "semerus",
+            "url": "https://semerus.itch.io",
+            "id": 1190712
+          },
+          "url": "https://semerus.itch.io/menu-eaters",
+          "title": "Menu Eater"
+        }
+      },
+      "details": {
+        "title": "Menu Eater",
+        "description": "Controls:Arrows : MovementSpace : ShootQ E : Menu Buttons\nMenu Eaters is a shooting game where you can use \"only one\" control menu at a time. Have fun playing!\n\nCreated bysauna59479(유주원)semerus(김인성)sizrit(서정민)\nwith help from Rikuforever(이호중)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDYyMTc0LzIzNTQzOTMucG5n/original/qbmaND.png",
+          "https://img.itch.zone/aW1hZ2UvNDYyMTc0LzIzNTQzOTQucG5n/original/dc%2F2Ql.png",
+          "https://img.itch.zone/aW1hZ2UvNDYyMTc0LzIzNTQ0MDEucG5n/original/sCoOf1.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Authors": "semerus, sizrit",
+          "Genre": "Shooter",
+          "Made with": "Unity",
+          "Tags": "Game Maker's Toolkit Jam"
+        }
+      }
+    },
+    {
+      "gameId": 463068,
+      "gameUrl": "https://body51.itch.io/holy-arrow",
+      "overallRank": 36,
+      "topCategories": [
+        "Adherence to the Theme"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "BoDy51",
+            "id": 563379
+          }
+        ],
+        "rank": 36,
+        "url": "https://itch.io/jam/gmtk-2019/rate/463068",
+        "title": "Holy Arrow",
+        "rating_count": 24,
+        "raw_score": 4.4305555555556,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNTgxMjMucG5n/300x240%23c/itfMTd.png",
+        "score": 4.4305555555556,
+        "criteria": [
+          {
+            "name": "Design",
+            "score": 4.1666666666667,
+            "rank": 137,
+            "raw_score": 4.1666666666667
+          },
+          {
+            "name": "Originality",
+            "score": 4.25,
+            "rank": 197,
+            "raw_score": 4.25
+          },
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.875,
+            "rank": 2,
+            "raw_score": 4.875
+          }
+        ],
+        "id": 463068
+      },
+      "entryData": {
+        "coolness": 2,
+        "rating_count": 24,
+        "created_at": "2019-08-04 19:12:14",
+        "id": 82703,
+        "game": {
+          "short_text": "You have only one holy arrow. Only this can kill undeads.",
+          "cover": "https://img.itch.zone/aW1nLzIzNTgxMjMucG5n/300x240%23c/itfMTd.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 463068,
+          "cover_color": "#000000",
+          "user": {
+            "name": "BoDy51",
+            "url": "https://body51.itch.io",
+            "id": 563379
+          },
+          "url": "https://body51.itch.io/holy-arrow",
+          "title": "Holy Arrow"
+        },
+        "url": "/jam/gmtk-2019/rate/463068"
+      },
+      "details": {
+        "title": "Holy Arrow",
+        "description": "You have only one holy arrow. Only this can kill undeads.\nControls:\nMouse - lookWASD - moveLeft mouse button - shootSpacebar - jumpCome to the arrow to pickEscape - quit\n\nMade by: Artem Fesunenko",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDYzMDY4LzIzNTUyMzUucG5n/original/nR36yL.png",
+          "https://img.itch.zone/aW1hZ2UvNDYzMDY4LzIzNTgxMzIucG5n/original/iJsyn5.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.3 out of 5 stars(6 total ratings)",
+          "Author": "BoDy51",
+          "Genre": "Shooter",
+          "Made with": "Unity, MagicaVoxel",
+          "Tags": "3D, FPS, Skeletons, Unity, Voxel"
+        }
+      }
+    },
+    {
+      "gameId": 461174,
+      "gameUrl": "https://ebwaite.itch.io/owww",
+      "overallRank": 119,
+      "topCategories": [
+        "Adherence to the Theme"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "ebwaite",
+            "id": 1714789
+          }
+        ],
+        "rank": 119,
+        "url": "https://itch.io/jam/gmtk-2019/rate/461174",
+        "title": "One Wing World War",
+        "rating_count": 27,
+        "raw_score": 4.2345679012346,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNTA0NDMucG5n/300x240%23c/R6GR6t.png",
+        "score": 4.2345679012346,
+        "criteria": [
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.8518518518519,
+            "rank": 3,
+            "raw_score": 4.8518518518519
+          },
+          {
+            "name": "Design",
+            "score": 3.8148148148148,
+            "rank": 356,
+            "raw_score": 3.8148148148148
+          },
+          {
+            "name": "Originality",
+            "score": 4.037037037037,
+            "rank": 385,
+            "raw_score": 4.037037037037
+          }
+        ],
+        "id": 461174
+      },
+      "entryData": {
+        "coolness": 21,
+        "rating_count": 27,
+        "created_at": "2019-08-04 16:58:42",
+        "id": 81328,
+        "game": {
+          "short_text": "Your fighter only has one wing. How long can you make it?",
+          "cover": "https://img.itch.zone/aW1nLzIzNTA0NDMucG5n/300x240%23c/R6GR6t.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 461174,
+          "cover_color": "#414141",
+          "user": {
+            "name": "ebwaite",
+            "url": "https://ebwaite.itch.io",
+            "id": 1714789
+          },
+          "url": "https://ebwaite.itch.io/owww",
+          "title": "One Wing World War"
+        },
+        "url": "/jam/gmtk-2019/rate/461174"
+      },
+      "details": {
+        "title": "One Wing World War",
+        "description": "You've been hit by AA fire! You're down to just one wing! Wrestle control of your fighter plane using one key: SPACEBAR and shoot down enemy fighters. You've only got one life, how long can you last?\n\nCreated in 48 hours for the 2019 GMTK Game Jam: Only One",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIzNTA0NDMucG5n/original/fACQcg.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "ebwaite",
+          "Genre": "Action",
+          "Made with": "Unity",
+          "Tags": "Game Maker's Toolkit Jam"
+        }
+      }
+    },
+    {
+      "gameId": 462436,
+      "gameUrl": "https://boyar.itch.io/press-space-to-space-jump-in-space",
+      "overallRank": 21,
+      "topCategories": [
+        "Adherence to the Theme",
+        "Originality"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Boyar",
+            "id": 1741151
+          }
+        ],
+        "rank": 21,
+        "url": "https://itch.io/jam/gmtk-2019/rate/462436",
+        "title": "Press space to space jump in space",
+        "rating_count": 13,
+        "raw_score": 4.4871794871795,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNTI2NjIucG5n/300x240%23c/J5ei0w.png",
+        "score": 4.4871794871795,
+        "criteria": [
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.8461538461538,
+            "rank": 4,
+            "raw_score": 4.8461538461538
+          },
+          {
+            "name": "Originality",
+            "score": 4.6923076923077,
+            "rank": 18,
+            "raw_score": 4.6923076923077
+          },
+          {
+            "name": "Design",
+            "score": 3.9230769230769,
+            "rank": 274,
+            "raw_score": 3.9230769230769
+          }
+        ],
+        "id": 462436
+      },
+      "entryData": {
+        "coolness": 21,
+        "rating_count": 13,
+        "created_at": "2019-08-04 17:48:39",
+        "id": 81540,
+        "game": {
+          "short_text": "Shoot'em up, but you can use only one button",
+          "cover": "https://img.itch.zone/aW1nLzIzNTI2NjIucG5n/300x240%23c/J5ei0w.png",
+          "id": 462436,
+          "platforms": [
+            "windows"
+          ],
+          "user": {
+            "name": "Boyar",
+            "url": "https://boyar.itch.io",
+            "id": 1741151
+          },
+          "url": "https://boyar.itch.io/press-space-to-space-jump-in-space",
+          "title": "Press space to space jump in space"
+        },
+        "url": "/jam/gmtk-2019/rate/462436"
+      },
+      "details": {
+        "title": "Press space to space jump in space",
+        "description": "Do not be stupid, only one button can not replace the functionality of the whole keyboard. But here is only one key AND the ability to transfer it on the keyboard makes the possibilities unlimited! But, yes, using a keyboard to control a spaceship is a very bad idea in itself.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDYyNDM2LzIzNTI2NzUucG5n/original/jPXNB0.png",
+          "https://img.itch.zone/aW1hZ2UvNDYyNDM2LzIzNTI2NzIucG5n/original/xdJ%2FEV.png",
+          "https://img.itch.zone/aW1hZ2UvNDYyNDM2LzIzNTI2NzMucG5n/original/V3VdwY.png",
+          "https://img.itch.zone/aW1hZ2UvNDYyNDM2LzIzNTI2NzQucG5n/original/n1A%2FGO.png",
+          "https://img.itch.zone/aW1hZ2UvNDYyNDM2LzIzNTQxMDkucG5n/original/dVQIo2.png",
+          "https://img.itch.zone/aW1hZ2UvNDYyNDM2LzIzNTQxMDcucG5n/original/gammo6.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.5 out of 5 stars(2 total ratings)",
+          "Author": "Boyar",
+          "Genre": "Action",
+          "Tags": "2D, Game Maker's Toolkit Jam, Pixel Art"
+        }
+      }
+    },
+    {
+      "gameId": 463834,
+      "gameUrl": "https://unreal4reality.itch.io/evilbots-wreckening",
+      "overallRank": 21,
+      "topCategories": [
+        "Adherence to the Theme"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "UNreal4realITY",
+            "id": 1239289
+          }
+        ],
+        "rank": 21,
+        "url": "https://itch.io/jam/gmtk-2019/rate/463834",
+        "title": "Evilbots Wreckening",
+        "rating_count": 13,
+        "raw_score": 4.4871794871795,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNTY1ODYucG5n/300x240%23c/BF0Uxk.png",
+        "score": 4.4871794871795,
+        "criteria": [
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.8461538461538,
+            "rank": 4,
+            "raw_score": 4.8461538461538
+          },
+          {
+            "name": "Design",
+            "score": 4.0769230769231,
+            "rank": 176,
+            "raw_score": 4.0769230769231
+          },
+          {
+            "name": "Originality",
+            "score": 4.5384615384615,
+            "rank": 43,
+            "raw_score": 4.5384615384615
+          }
+        ],
+        "id": 463834
+      },
+      "entryData": {
+        "coolness": 0,
+        "rating_count": 13,
+        "created_at": "2019-08-04 19:54:34",
+        "id": 83154,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzIzNTY1ODYucG5n/300x240%23c/BF0Uxk.png",
+          "id": 463834,
+          "platforms": [
+            "windows"
+          ],
+          "user": {
+            "name": "UNreal4realITY",
+            "url": "https://unreal4reality.itch.io",
+            "id": 1239289
+          },
+          "url": "https://unreal4reality.itch.io/evilbots-wreckening",
+          "title": "Evilbots Wreckening"
+        },
+        "url": "/jam/gmtk-2019/rate/463834"
+      },
+      "details": {
+        "title": "Evilbots Wreckening",
+        "description": "A game uploaded for GMTK 2019 by the theme of \"only one\".\nIn this game you controll a Wrecking ball and you should smash the evil drones.\nTry to smash more drones for higher score",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDYzODM0LzIzNTczNDkucG5n/original/h%2F2kc6.png",
+          "https://img.itch.zone/aW1hZ2UvNDYzODM0LzIzNTczNTAucG5n/original/qA8n3N.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Author": "UNreal4realITY",
+          "Genre": "Action",
+          "Tags": "2D, Arcade, Pixel Art"
+        }
+      }
+    },
+    {
+      "gameId": 463130,
+      "gameUrl": "https://silvarc.itch.io/1d-chess",
+      "overallRank": 28,
+      "topCategories": [
+        "Adherence to the Theme"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Silvarc",
+            "id": 1428408
+          }
+        ],
+        "rank": 28,
+        "url": "https://itch.io/jam/gmtk-2019/rate/463130",
+        "title": "1D Chess",
+        "rating_count": 31,
+        "raw_score": 4.4623655913978,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNTQ3NjAucG5n/300x240%23c/q4XX%2Fp.png",
+        "score": 4.4623655913978,
+        "criteria": [
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.8387096774194,
+            "rank": 6,
+            "raw_score": 4.8387096774194
+          },
+          {
+            "name": "Design",
+            "score": 4.1290322580645,
+            "rank": 151,
+            "raw_score": 4.1290322580645
+          },
+          {
+            "name": "Originality",
+            "score": 4.4193548387097,
+            "rank": 94,
+            "raw_score": 4.4193548387097
+          }
+        ],
+        "id": 463130
+      },
+      "entryData": {
+        "coolness": 18,
+        "rating_count": 31,
+        "created_at": "2019-08-04 19:09:20",
+        "id": 82630,
+        "game": {
+          "short_text": "One-dimensional, chess-themed, simple puzzle game.",
+          "cover": "https://img.itch.zone/aW1nLzIzNTQ3NjAucG5n/300x240%23c/q4XX%2Fp.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 463130,
+          "cover_color": "#1E1E29",
+          "user": {
+            "name": "Silvarc",
+            "url": "https://silvarc.itch.io",
+            "id": 1428408
+          },
+          "url": "https://silvarc.itch.io/1d-chess",
+          "title": "1D Chess"
+        },
+        "url": "/jam/gmtk-2019/rate/463130"
+      },
+      "details": {
+        "title": "1D Chess",
+        "description": "Get the white king to be the rightmost piece!White always move first (but Black are equally cool).\nPlayed with mouse - drag and drop or click, scroll for zoom.If you get stuck, hold the restart button. There are some tips below if you're really stuck!\nAll feedback much appreciated! Remember to rate all the games and leave comments everywhere!!\n\nAdditional tips (may or may not be needed):1. You control both colors, but turns still apply.2. Pawns can't capture in one dimension.3. If one color doesn't have any pieces left, it still can't skip a turn (it's a dead end!).4. You don't have to capture everything, just get the white king to be the rightmost piece.5. Castling - an allied rook can swap with king if there are no pieces in between.6. The queen can't stop early and captures everything in her way!\n\n\"Only One\" dimension made from scratch in 48 hours using Unity for GMTK GameJam 2019.\nI ran out of time in some places, so the puzzle design isn't nearly as thought out as I wanted it to be. I am well aware of the typos :/ Also, the exit button apparently banishes you to the shadow realm so be careful ^^Fonts used:Gabrielle: https://www.dafont.com/gabrielle.font?l[]=10&l[]=1Chess Harlequin: http://www.enpassant.dk/chess/fontimg/harlequi.htm",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDYzMTMwLzIzNjA3NjAucG5n/original/TcYQZX.png",
+          "https://img.itch.zone/aW1hZ2UvNDYzMTMwLzIzNjA3NjEucG5n/original/O0ZOMH.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.5 out of 5 stars(15 total ratings)",
+          "Author": "Silvarc",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 460788,
+      "gameUrl": "https://hedberggames.itch.io/single-sighted",
+      "overallRank": 204,
+      "topCategories": [
+        "Adherence to the Theme"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "HedbergGames",
+            "id": 1320336
+          }
+        ],
+        "rank": 204,
+        "url": "https://itch.io/jam/gmtk-2019/rate/460788",
+        "title": "Single Sighted",
+        "rating_count": 12,
+        "raw_score": 4.1111111111111,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNDQ5MzYucG5n/300x240%23c/n9xb45.png",
+        "score": 4.1111111111111,
+        "criteria": [
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.8333333333333,
+            "rank": 7,
+            "raw_score": 4.8333333333333
+          },
+          {
+            "name": "Design",
+            "score": 3.0833333333333,
+            "rank": 984,
+            "raw_score": 3.0833333333333
+          },
+          {
+            "name": "Originality",
+            "score": 4.4166666666667,
+            "rank": 99,
+            "raw_score": 4.4166666666667
+          }
+        ],
+        "id": 460788
+      },
+      "entryData": {
+        "coolness": 14,
+        "rating_count": 12,
+        "created_at": "2019-08-04 13:41:52",
+        "id": 80912,
+        "game": {
+          "short_text": "You can only see one pixel! Can you rescue the lost cat?",
+          "cover": "https://img.itch.zone/aW1nLzIzNDQ5MzYucG5n/300x240%23c/n9xb45.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 460788,
+          "cover_color": "#649c77",
+          "user": {
+            "name": "HedbergGames",
+            "url": "https://hedberggames.itch.io",
+            "id": 1320336
+          },
+          "url": "https://hedberggames.itch.io/single-sighted",
+          "title": "Single Sighted"
+        },
+        "url": "/jam/gmtk-2019/rate/460788"
+      },
+      "details": {
+        "title": "Single Sighted",
+        "description": "Find the lost cat and bring her back home. The twist? You can only see one pixel in front of you!\nThis game requires audio - headphones recommended.\nControls:  Use Arrow Keys (or WASD)\nLeft/Right to turn \nUp/Down to move forward/backward \n\nThis game was created for the GMTK 2019 game jam. It's a game with only one pixel! \n",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIzNDQ5MzYucG5n/original/EswdNj.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Author": "HedbergGames",
+          "Made with": "Unity",
+          "Tags": "Cats, Experimental, Exploration, Game Maker's Toolkit Jam"
+        }
+      }
+    },
+    {
+      "gameId": 463025,
+      "gameUrl": "https://cxltfvke.itch.io/ricochet",
+      "overallRank": 143,
+      "topCategories": [
+        "Adherence to the Theme"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "CXLTFVKE",
+            "id": 1746339
+          }
+        ],
+        "rank": 143,
+        "url": "https://itch.io/jam/gmtk-2019/rate/463025",
+        "title": "Ricochet",
+        "rating_count": 11,
+        "raw_score": 4.1818181818182,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNTYxNzEucG5n/300x240%23c/T19pMK.png",
+        "score": 4.1818181818182,
+        "criteria": [
+          {
+            "name": "Design",
+            "score": 3.9090909090909,
+            "rank": 283,
+            "raw_score": 3.9090909090909
+          },
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.8181818181818,
+            "rank": 8,
+            "raw_score": 4.8181818181818
+          },
+          {
+            "name": "Originality",
+            "score": 3.8181818181818,
+            "rank": 560,
+            "raw_score": 3.8181818181818
+          }
+        ],
+        "id": 463025
+      },
+      "entryData": {
+        "coolness": 0,
+        "rating_count": 11,
+        "created_at": "2019-08-04 18:44:46",
+        "id": 82128,
+        "game": {
+          "short_text": "one bullet for all",
+          "cover": "https://img.itch.zone/aW1nLzIzNTYxNzEucG5n/300x240%23c/T19pMK.png",
+          "id": 463025,
+          "platforms": [
+            "windows"
+          ],
+          "user": {
+            "name": "CXLTFVKE",
+            "url": "https://cxltfvke.itch.io",
+            "id": 1746339
+          },
+          "url": "https://cxltfvke.itch.io/ricochet",
+          "title": "Ricochet"
+        },
+        "url": "/jam/gmtk-2019/rate/463025"
+      },
+      "details": {
+        "title": "Ricochet",
+        "description": "Puzzle Platformer for \"Only One\" Themed GMTK Game JamOne bullet to clear the room. Make it count.WASD + SPACE + Mouse \nR to reset level - esc reset game",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIzNTYxNzEucG5n/original/sHid1y.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.3 out of 5 stars(3 total ratings)",
+          "Author": "CXLTFVKE",
+          "Genre": "Puzzle",
+          "Tags": "Lo-fi, Puzzle-Platformer"
+        }
+      }
+    },
+    {
+      "gameId": 462733,
+      "gameUrl": "https://voonatnoon.itch.io/one-hand-drive",
+      "overallRank": 236,
+      "topCategories": [
+        "Adherence to the Theme"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "VoonAtNoon",
+            "id": 685298
+          }
+        ],
+        "rank": 236,
+        "url": "https://itch.io/jam/gmtk-2019/rate/462733",
+        "title": "One Hand Drive",
+        "rating_count": 11,
+        "raw_score": 4.0606060606061,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNTg3NzUucG5n/300x240%23c/%2BmVLuY.png",
+        "score": 4.0606060606061,
+        "criteria": [
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.8181818181818,
+            "rank": 8,
+            "raw_score": 4.8181818181818
+          },
+          {
+            "name": "Originality",
+            "score": 4.1818181818182,
+            "rank": 258,
+            "raw_score": 4.1818181818182
+          },
+          {
+            "name": "Design",
+            "score": 3.1818181818182,
+            "rank": 897,
+            "raw_score": 3.1818181818182
+          }
+        ],
+        "id": 462733
+      },
+      "entryData": {
+        "coolness": 9,
+        "rating_count": 11,
+        "created_at": "2019-08-04 18:46:33",
+        "id": 82171,
+        "game": {
+          "short_text": "Look Mom, One Hand! Drive through a course using Only One Hand.",
+          "cover": "https://img.itch.zone/aW1nLzIzNTg3NzUucG5n/300x240%23c/%2BmVLuY.png",
+          "platforms": [
+            "windows"
+          ],
+          "id": 462733,
+          "cover_color": "#eb949c",
+          "user": {
+            "name": "VoonAtNoon",
+            "url": "https://voonatnoon.itch.io",
+            "id": 685298
+          },
+          "url": "https://voonatnoon.itch.io/one-hand-drive",
+          "title": "One Hand Drive"
+        },
+        "url": "/jam/gmtk-2019/rate/462733"
+      },
+      "details": {
+        "title": "One Hand Drive",
+        "description": "This game was created for the 2019 GMTK Game Jam. The theme being,  \"Only One\", One Hand Drive gives you control over Only One input at a time.  You must balance speed and steering.\nControls:\nMouse: Moves Hand\nLeft Mouse: Grab Steering Wheel or Throttle\nR: Reset Level\nESC: Quit Game\nP.S. Thank you for taking the time to try this game. It was a lot of fun to create so I hope it's at least a little fun to play. The game jam was exactly what I needed to break my game maker's block. This game was created as a solo project and was my first time releasing a \"finished\" game. If I'm being honest this project turned out to be more of a proof of concept then a full fledged game. I'm hoping to expand on this idea in the future. If that interests you feel free to follow me on Twitter @VoonAtNoon. I'll post any developments there. Thanks again for playing!\nP.P.S. One of the inspirations for the design of this game was Mark Brown's video on the level design of Uncharted. I tried to implement some of the principles shown in that video to guide the player around the course. Spoilers (lol)! I tried to guide the player's eye towards the next gateway by framing it in the gateway they are approaching. There are some branching pathways. At one point two pathways intersect. The gate that both of these pathways go through frames two different gates depending on which direction the player approaches it from. The whole course is contiguous and even reverses in direction at one point. Hopefully this gives the player a feeling of flow, where at each point the direction is clear by not explicit.Download the zip folder and extract its contents. Do not remove the One Hand Drive application file from the folder.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDYyNzMzLzIzNjA2MjUuZ2lm/original/CjquFz.gif",
+          "https://img.itch.zone/aW1hZ2UvNDYyNzMzLzIzNjQzODAuZ2lm/original/vjoDn9.gif",
+          "https://img.itch.zone/aW1hZ2UvNDYyNzMzLzIzNjAzNzAuanBn/original/%2FNCn%2FQ.jpg",
+          "https://img.itch.zone/aW1hZ2UvNDYyNzMzLzIzNTk1ODAuanBn/original/S87sdM.jpg",
+          "https://img.itch.zone/aW1hZ2UvNDYyNzMzLzIzNTUwNzEuanBn/original/P6e5zM.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "VoonAtNoon",
+          "Genre": "Racing",
+          "Tags": "3D, Driving, First-Person, Game Maker's Toolkit Jam, Low-poly, My First Game Jam, Relaxing, Unreal Engine"
+        }
+      }
+    },
+    {
+      "gameId": 462574,
+      "gameUrl": "https://raw-egg-studio.itch.io/unloaded",
+      "overallRank": 10,
+      "topCategories": [
+        "Adherence to the Theme"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Raw Egg Studio",
+            "id": 666386
+          }
+        ],
+        "rank": 10,
+        "url": "https://itch.io/jam/gmtk-2019/rate/462574",
+        "title": "UNLOADED",
+        "rating_count": 48,
+        "raw_score": 4.5486111111111,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNTM0NTYucG5n/300x240%23c/VVQHGC.png",
+        "score": 4.5486111111111,
+        "criteria": [
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.7916666666667,
+            "rank": 10,
+            "raw_score": 4.7916666666667
+          },
+          {
+            "name": "Design",
+            "score": 4.4375,
+            "rank": 28,
+            "raw_score": 4.4375
+          },
+          {
+            "name": "Originality",
+            "score": 4.4166666666667,
+            "rank": 99,
+            "raw_score": 4.4166666666667
+          }
+        ],
+        "id": 462574
+      },
+      "entryData": {
+        "coolness": 15,
+        "rating_count": 48,
+        "created_at": "2019-08-04 18:06:20",
+        "id": 81671,
+        "game": {
+          "short_text": "A Bullet, a magnet and some blood...",
+          "cover": "https://img.itch.zone/aW1nLzIzNTM0NTYucG5n/300x240%23c/VVQHGC.png",
+          "id": 462574,
+          "cover_color": "#646464",
+          "user": {
+            "name": "Raw Egg Studio",
+            "url": "https://raw-egg-studio.itch.io",
+            "id": 666386
+          },
+          "url": "https://raw-egg-studio.itch.io/unloaded",
+          "title": "UNLOADED"
+        },
+        "url": "/jam/gmtk-2019/rate/462574"
+      },
+      "details": {
+        "title": "UNLOADED",
+        "description": "PEEEW! PEEEW! BOOM! BOOM!\nClick... Click...\nFUCK! I only have one bullet left...\nWhat will I do... OH!!??\nWhat is that? A magnet?\nHa HA! It will do the work... FUCK YEAH!!!\n\n\n\nA game made in under 48 hours for GMTK Game jam.\nCoding/ Artwork/ Game-design: Michael Psarommatis\nMusic/ Sound design: Oscar Aldred\nI know that it is a pain in the ass, but the game can't be played online.\nBut if you download it the chances are that you will like it. We hope so actually.\nJust download and play. No installation required.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDYyNTc0LzIzNzczNjguZ2lm/original/1%2Bzcr2.gif",
+          "https://img.itch.zone/aW1hZ2UvNDYyNTc0LzIzNzczNzEuZ2lm/original/setmuT.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Rating": "Rated 4.0 out of 5 stars(4 total ratings)",
+          "Author": "Raw Egg Studio",
+          "Genre": "Action, Shooter",
+          "Tags": "2D, Fast-Paced, Funny, Pixel Art, Violent",
+          "Average session": "A few minutes"
+        }
+      }
+    },
+    {
+      "gameId": 462604,
+      "gameUrl": "https://tectonicsoftware.itch.io/spinmerightround",
+      "overallRank": 52,
+      "topCategories": [
+        "Adherence to the Theme"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "tectonicsoftware",
+            "id": 1743640
+          }
+        ],
+        "rank": 52,
+        "url": "https://itch.io/jam/gmtk-2019/rate/462604",
+        "title": "Spin Me Right Round",
+        "rating_count": 14,
+        "raw_score": 4.3809523809524,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNTA0MjgucG5n/300x240%23c/Uv7%2FDL.png",
+        "score": 4.3809523809524,
+        "criteria": [
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.7857142857143,
+            "rank": 12,
+            "raw_score": 4.7857142857143
+          },
+          {
+            "name": "Originality",
+            "score": 4.2857142857143,
+            "rank": 174,
+            "raw_score": 4.2857142857143
+          },
+          {
+            "name": "Design",
+            "score": 4.0714285714286,
+            "rank": 180,
+            "raw_score": 4.0714285714286
+          }
+        ],
+        "id": 462604
+      },
+      "entryData": {
+        "coolness": 0,
+        "rating_count": 14,
+        "created_at": "2019-08-04 18:10:36",
+        "id": 81703,
+        "game": {
+          "short_text": "Only one direction, right round baby!",
+          "cover": "https://img.itch.zone/aW1nLzIzNTA0MjgucG5n/300x240%23c/Uv7%2FDL.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 462604,
+          "cover_color": "#eeeeee",
+          "user": {
+            "name": "tectonicsoftware",
+            "url": "https://tectonicsoftware.itch.io",
+            "id": 1743640
+          },
+          "url": "https://tectonicsoftware.itch.io/spinmerightround",
+          "title": "Spin Me Right Round"
+        },
+        "url": "/jam/gmtk-2019/rate/462604"
+      },
+      "details": {
+        "title": "Spin Me Right Round",
+        "description": "Solve fun puzzles by spinning your world in only one direction, in only one minute.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDYyNjA0LzIzNTMzMDUucG5n/original/%2Fjmg7t.png",
+          "https://img.itch.zone/aW1hZ2UvNDYyNjA0LzIzNTMzMjMucG5n/original/dsp4gl.png",
+          "https://img.itch.zone/aW1hZ2UvNDYyNjA0LzIzNTMzMjcucG5n/original/LrJ0Nd.png",
+          "https://img.itch.zone/aW1hZ2UvNDYyNjA0LzIzNTMzMTQucG5n/original/YQZz%2FF.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Author": "tectonicsoftware",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "Game Maker's Toolkit Jam"
+        }
+      }
+    },
+    {
+      "gameId": 462360,
+      "gameUrl": "https://keepcalmgaming.itch.io/b-sharp",
+      "overallRank": 190,
+      "topCategories": [
+        "Adherence to the Theme"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "keepcalmgaming",
+            "id": 1192507
+          }
+        ],
+        "rank": 190,
+        "url": "https://itch.io/jam/gmtk-2019/rate/462360",
+        "title": "B#",
+        "rating_count": 13,
+        "raw_score": 4.1282051282051,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNzA4NTAucG5n/300x240%23c/nVlmF4.png",
+        "score": 4.1282051282051,
+        "criteria": [
+          {
+            "name": "Originality",
+            "score": 4.0769230769231,
+            "rank": 344,
+            "raw_score": 4.0769230769231
+          },
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.7692307692308,
+            "rank": 13,
+            "raw_score": 4.7692307692308
+          },
+          {
+            "name": "Design",
+            "score": 3.5384615384615,
+            "rank": 589,
+            "raw_score": 3.5384615384615
+          }
+        ],
+        "id": 462360
+      },
+      "entryData": {
+        "coolness": 23,
+        "rating_count": 13,
+        "created_at": "2019-08-04 17:37:19",
+        "id": 81484,
+        "game": {
+          "short_text": "Tower Defense with only one tower",
+          "cover": "https://img.itch.zone/aW1nLzIzNzA4NTAucG5n/300x240%23c/nVlmF4.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 462360,
+          "cover_color": "#e8dbd9",
+          "user": {
+            "name": "keepcalmgaming",
+            "url": "https://keepcalmgaming.itch.io",
+            "id": 1192507
+          },
+          "url": "https://keepcalmgaming.itch.io/b-sharp",
+          "title": "B#"
+        },
+        "url": "/jam/gmtk-2019/rate/462360"
+      },
+      "details": {
+        "title": "B#",
+        "description": "B#\nRules: The tower is green and can be moved by clicking on special places on the wall.\nThe monsters are purple and move towards the center.\nIf they reach it — they subtract your lives.\nMove the tower to intercept.\nDon't lose.We made a game. Well, that’s already an achievement, but there’s more: it has an interesting concept. \nTopic of GMTK Game Jam 2019 is “only one”. We decided to make a tower defense game with only one tower. Instead of building new towers, you should change location of your tower to one of possible places. \nOther features of the game:– minimalistic design inspired of the lack of drawing skills;– monsters are evil and you can kill them;– soundtrack uses only one note – C. We decided C is a boring name, so we called our game B#;– no lootboxes;– no microtransactions. \nWe hope you’ll have as much fun as we did while developing B#. \nEnjoy!",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIzNzA4NTAucG5n/original/ie62fu.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Author": "keepcalmgaming",
+          "Genre": "Strategy",
+          "Made with": "Phaser",
+          "Tags": "Game Maker's Toolkit Jam, Tower Defense",
+          "Average session": "A few seconds",
+          "Inputs": "Mouse, Touchscreen",
+          "Links": "Blog"
+        }
+      }
+    },
+    {
+      "gameId": 460190,
+      "gameUrl": "https://pebblewheat.itch.io/pressspace",
+      "overallRank": 35,
+      "topCategories": [
+        "Adherence to the Theme"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "PebbleWheat",
+            "id": 1639919
+          }
+        ],
+        "rank": 35,
+        "url": "https://itch.io/jam/gmtk-2019/rate/460190",
+        "title": "Press Space",
+        "rating_count": 37,
+        "raw_score": 4.4324324324324,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNDgxMzcucG5n/300x240%23c/yZigvo.png",
+        "score": 4.4324324324324,
+        "criteria": [
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.7567567567568,
+            "rank": 14,
+            "raw_score": 4.7567567567568
+          },
+          {
+            "name": "Originality",
+            "score": 4.1621621621622,
+            "rank": 276,
+            "raw_score": 4.1621621621622
+          },
+          {
+            "name": "Design",
+            "score": 4.3783783783784,
+            "rank": 41,
+            "raw_score": 4.3783783783784
+          }
+        ],
+        "id": 460190
+      },
+      "entryData": {
+        "coolness": 30,
+        "rating_count": 37,
+        "created_at": "2019-08-04 14:23:27",
+        "id": 80959,
+        "game": {
+          "short_text": "Just press space.",
+          "cover": "https://img.itch.zone/aW1nLzIzNDgxMzcucG5n/300x240%23c/yZigvo.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 460190,
+          "cover_color": "#000000",
+          "user": {
+            "name": "PebbleWheat",
+            "url": "https://pebblewheat.itch.io",
+            "id": 1639919
+          },
+          "url": "https://pebblewheat.itch.io/pressspace",
+          "title": "Press Space"
+        },
+        "url": "/jam/gmtk-2019/rate/460190"
+      },
+      "details": {
+        "title": "Press Space",
+        "description": "Pressing space is fun! (Entry to GMTK Game Jam 2019)BlueRiff on twitter: @riff_blue(maybe making a full game out of this)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDYwMTkwLzIzNDgxNDEucG5n/original/m2hhMi.png",
+          "https://img.itch.zone/aW1hZ2UvNDYwMTkwLzIzNDgxNDIucG5n/original/V20FQN.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.0 out of 5 stars(4 total ratings)",
+          "Author": "PebbleWheat",
+          "Genre": "Platformer",
+          "Tags": "8-Bit, Pixel Art, Puzzle-Platformer"
+        }
+      }
+    },
+    {
+      "gameId": 462499,
+      "gameUrl": "https://ect.itch.io/w-rgb-cmy-k",
+      "overallRank": 202,
+      "topCategories": [
+        "Adherence to the Theme"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "ectcetera",
+            "id": 1679464
+          }
+        ],
+        "rank": 202,
+        "url": "https://itch.io/jam/gmtk-2019/rate/462499",
+        "title": "W RGB CMY K?",
+        "rating_count": 12,
+        "raw_score": 4.1111111111111,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNTI1MTEucG5n/300x240%23c/qpsTUO.png",
+        "score": 4.1111111111111,
+        "criteria": [
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.75,
+            "rank": 15,
+            "raw_score": 4.75
+          },
+          {
+            "name": "Originality",
+            "score": 4.1666666666667,
+            "rank": 270,
+            "raw_score": 4.1666666666667
+          },
+          {
+            "name": "Design",
+            "score": 3.4166666666667,
+            "rank": 684,
+            "raw_score": 3.4166666666667
+          }
+        ],
+        "id": 462499
+      },
+      "entryData": {
+        "coolness": 6,
+        "rating_count": 12,
+        "created_at": "2019-08-04 17:57:03",
+        "id": 81598,
+        "game": {
+          "short_text": "A game played in a single pixel.",
+          "cover": "https://img.itch.zone/aW1nLzIzNTI1MTEucG5n/300x240%23c/qpsTUO.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 462499,
+          "cover_color": "#000000",
+          "user": {
+            "name": "ectcetera",
+            "url": "https://ect.itch.io",
+            "id": 1679464
+          },
+          "url": "https://ect.itch.io/w-rgb-cmy-k",
+          "title": "W RGB CMY K?"
+        },
+        "url": "/jam/gmtk-2019/rate/462499"
+      },
+      "details": {
+        "title": "W RGB CMY K?",
+        "description": "W RGB CMY K? is a reaction and memory game played in a single pixel. It's an experiment in introducing mechanics with as little explanation as possible.\nThere are 12 levels  in the game. The controls are W, RGB, and CMY. K?\nThe game was created for the GMTK Game Jam 2019 with the theme \"Only One.\" The source code is available in this GitLab repository. Be warned, that code was written during a jam, and is very much a mess.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDYyNDk5LzIzNTI1NjkucG5n/original/XQLVgA.png",
+          "https://img.itch.zone/aW1hZ2UvNDYyNDk5LzIzNTMyOTkucG5n/original/Am4eyv.png",
+          "https://img.itch.zone/aW1hZ2UvNDYyNDk5LzIzNTI1NzgucG5n/original/G4bUr0.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "ectcetera",
+          "Tags": "Game Design, Minimalist"
+        }
+      }
+    },
+    {
+      "gameId": 460498,
+      "gameUrl": "https://walrus-gumboot.itch.io/one-shot-at-this",
+      "overallRank": 686,
+      "topCategories": [
+        "Adherence to the Theme"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "walrus-gumboot",
+            "id": 1630155
+          }
+        ],
+        "rank": 686,
+        "url": "https://itch.io/jam/gmtk-2019/rate/460498",
+        "title": "You Have One Shot At This",
+        "rating_count": 16,
+        "raw_score": 3.6458333333333,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNDk3MTMucG5n/300x240%23c/%2Bqf9F%2B.png",
+        "score": 3.6458333333333,
+        "criteria": [
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.75,
+            "rank": 15,
+            "raw_score": 4.75
+          },
+          {
+            "name": "Design",
+            "score": 2.9375,
+            "rank": 1126,
+            "raw_score": 2.9375
+          },
+          {
+            "name": "Originality",
+            "score": 3.25,
+            "rank": 1126,
+            "raw_score": 3.25
+          }
+        ],
+        "id": 460498
+      },
+      "entryData": {
+        "coolness": 7,
+        "rating_count": 16,
+        "created_at": "2019-08-04 16:04:12",
+        "id": 81159,
+        "game": {
+          "short_text": "This is my take on the GMTK Game Jam 2019. The theme is \"only one\".",
+          "cover": "https://img.itch.zone/aW1nLzIzNDk3MTMucG5n/300x240%23c/%2Bqf9F%2B.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 460498,
+          "cover_color": "#eeeeee",
+          "user": {
+            "name": "walrus-gumboot",
+            "url": "https://walrus-gumboot.itch.io",
+            "id": 1630155
+          },
+          "url": "https://walrus-gumboot.itch.io/one-shot-at-this",
+          "title": "You Have One Shot At This"
+        },
+        "url": "/jam/gmtk-2019/rate/460498"
+      },
+      "details": {
+        "title": "You Have One Shot At This",
+        "description": "Shoot all enemies. Seems simple enough, until you realize you have nothing but a single bullet left in your revolver.\nNote: if the controls don't seem to work at first, try clicking inside of the iframe that my game is contained in. That fixes the problem like 90% of the time.\nAlso note: I tried having the bullet be quick. I failed. \nAlso also note: due to some quirkiness with  JavaScript I couldn't get the assets to load. That's why there's no background music, and that's why I had to resort to placeholder graphics.  ¯\\_(ツ)_/¯\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIzNDk3MTMucG5n/original/sh3EDB.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "walrus-gumboot",
+          "Genre": "Shooter",
+          "Made with": "p5.js",
+          "Tags": "2D, Singleplayer",
+          "Code license": "GNU General Public License v3.0 (GPL)",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse",
+          "Accessibility": "Color-blind friendly, High-contrast, Interactive tutorial"
+        }
+      }
+    },
+    {
+      "gameId": 461705,
+      "gameUrl": "https://vlada.itch.io/the-last-1",
+      "overallRank": 566,
+      "topCategories": [
+        "Adherence to the Theme"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Vlada",
+            "id": 40191
+          }
+        ],
+        "rank": 566,
+        "url": "https://itch.io/jam/gmtk-2019/rate/461705",
+        "title": "The Last 1",
+        "rating_count": 23,
+        "raw_score": 3.7536231884058,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNjk4MTUucG5n/300x240%23c/Bu105n.png",
+        "score": 3.7536231884058,
+        "criteria": [
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.7391304347826,
+            "rank": 19,
+            "raw_score": 4.7391304347826
+          },
+          {
+            "name": "Originality",
+            "score": 2.9130434782609,
+            "rank": 1423,
+            "raw_score": 2.9130434782609
+          },
+          {
+            "name": "Design",
+            "score": 3.6086956521739,
+            "rank": 525,
+            "raw_score": 3.6086956521739
+          }
+        ],
+        "id": 461705
+      },
+      "entryData": {
+        "coolness": 4,
+        "rating_count": 23,
+        "created_at": "2019-08-04 14:40:23",
+        "id": 80995,
+        "game": {
+          "short_text": "1 Minute, 1 Gun. 1 Bullet. You have to be the last one.",
+          "cover": "https://img.itch.zone/aW1nLzIzNjk4MTUucG5n/300x240%23c/Bu105n.png",
+          "platforms": [
+            "windows"
+          ],
+          "id": 461705,
+          "cover_color": "#250d0d",
+          "user": {
+            "name": "Vlada",
+            "url": "https://vlada.itch.io",
+            "id": 40191
+          },
+          "url": "https://vlada.itch.io/the-last-1",
+          "title": "The Last 1"
+        },
+        "url": "/jam/gmtk-2019/rate/461705"
+      },
+      "details": {
+        "title": "The Last 1",
+        "description": "#gmtkjam\n1 Minute, 1 Gun. 1 Bullet. You have to be the last one.\nControls\nWASD to MovePoint with the mouse & Left Click to shoot.\nCredits\nMusic by Kevin MacLeod (Bossa Antigua)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDYxNzA1LzIzNDg0MjQucG5n/original/tNZbSk.png",
+          "https://img.itch.zone/aW1hZ2UvNDYxNzA1LzIzNDg0ODYucG5n/original/BQBrhy.png",
+          "https://img.itch.zone/aW1hZ2UvNDYxNzA1LzIzNDg0ODcucG5n/original/Rtcqy%2F.png",
+          "https://img.itch.zone/aW1hZ2UvNDYxNzA1LzIzNjYwODEuZ2lm/original/28mBVI.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Author": "Vlada",
+          "Genre": "Shooter",
+          "Made with": "GameMaker, Aseprite",
+          "Tags": "2D, Game Maker's Toolkit Jam, Pixel Art",
+          "Average session": "A few seconds",
+          "Languages": "English"
+        }
+      }
+    },
+    {
+      "gameId": 461350,
+      "gameUrl": "https://dialglex.itch.io/collateral-damage",
+      "overallRank": 183,
+      "topCategories": [
+        "Adherence to the Theme"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Digs",
+            "id": 49309
+          }
+        ],
+        "rank": 183,
+        "url": "https://itch.io/jam/gmtk-2019/rate/461350",
+        "title": "Collateral Damage!",
+        "rating_count": 15,
+        "raw_score": 4.1333333333333,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNDY4NzAucG5n/300x240%23c/Cc0oe4.png",
+        "score": 4.1333333333333,
+        "criteria": [
+          {
+            "name": "Originality",
+            "score": 3.6666666666667,
+            "rank": 721,
+            "raw_score": 3.6666666666667
+          },
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.7333333333333,
+            "rank": 20,
+            "raw_score": 4.7333333333333
+          },
+          {
+            "name": "Design",
+            "score": 4,
+            "rank": 215,
+            "raw_score": 4
+          }
+        ],
+        "id": 461350
+      },
+      "entryData": {
+        "coolness": 2,
+        "rating_count": 15,
+        "created_at": "2019-08-04 10:32:16",
+        "id": 80727,
+        "game": {
+          "short_text": "Slice through hordes of slimes with a single bullet!",
+          "cover": "https://img.itch.zone/aW1nLzIzNDY4NzAucG5n/300x240%23c/Cc0oe4.png",
+          "platforms": [
+            "windows"
+          ],
+          "id": 461350,
+          "cover_color": "#eeeeee",
+          "user": {
+            "name": "Digs",
+            "url": "https://dialglex.itch.io",
+            "id": 49309
+          },
+          "url": "https://dialglex.itch.io/collateral-damage",
+          "title": "Collateral Damage!"
+        },
+        "url": "/jam/gmtk-2019/rate/461350"
+      },
+      "details": {
+        "title": "Collateral Damage!",
+        "description": "A game where you have to slice through hordes of slimes with a single bullet. Made by a 16 year-old for the GMTK Game Jam 2019.",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIzNDY4NzAucG5n/original/y8EEAP.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Author": "Digs",
+          "Genre": "Shooter",
+          "Tags": "2D, Mouse only, Pixel Art, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 463556,
+      "gameUrl": "https://lazertrax.itch.io/one-dimension",
+      "overallRank": 13,
+      "topCategories": [
+        "Originality"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Lazertrax",
+            "id": 1221911
+          }
+        ],
+        "rank": 13,
+        "url": "https://itch.io/jam/gmtk-2019/rate/463556",
+        "title": "One Dimension",
+        "rating_count": 14,
+        "raw_score": 4.5238095238095,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNTU5OTkucG5n/300x240%23c/gtQPmR.png",
+        "score": 4.5238095238095,
+        "criteria": [
+          {
+            "name": "Design",
+            "score": 4.2142857142857,
+            "rank": 111,
+            "raw_score": 4.2142857142857
+          },
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.3571428571429,
+            "rank": 258,
+            "raw_score": 4.3571428571429
+          },
+          {
+            "name": "Originality",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          }
+        ],
+        "id": 463556
+      },
+      "entryData": {
+        "coolness": 5,
+        "rating_count": 14,
+        "created_at": "2019-08-04 19:17:38",
+        "id": 82803,
+        "game": {
+          "short_text": "Can you see in only 1 dimension?",
+          "cover": "https://img.itch.zone/aW1nLzIzNTU5OTkucG5n/300x240%23c/gtQPmR.png",
+          "platforms": [
+            "windows"
+          ],
+          "id": 463556,
+          "cover_color": "#001314",
+          "user": {
+            "name": "Lazertrax",
+            "url": "https://lazertrax.itch.io",
+            "id": 1221911
+          },
+          "url": "https://lazertrax.itch.io/one-dimension",
+          "title": "One Dimension"
+        },
+        "url": "/jam/gmtk-2019/rate/463556"
+      },
+      "details": {
+        "title": "One Dimension",
+        "description": "Play through 42 levels and try to figure out the hidden letter, number or object within each level.\nInstructions\nIn one dimension, you are presented with a simple screen where a number, letter or an actual object passes downwards through a 1 dimensional line horizontal line. So basically you're seeing a slice of the object at any given moment. \nUse your imagination to make out what the object is in your head then type its name to proceed to the next level.\n\nControls\nKeyboard :  to input  the name of the object\nEnter : to validate your input\nLeft and Right arrow keys :  to switch views in case of a 3D object.\n\nHope you enjoy playing it!\nGame Made for GMTK 2019  \nTheme : Only One\nMade in less than 12 hoursDownload, Unzip, and Enjoy :)",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIzNTU5OTkucG5n/original/N635RP.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.5 out of 5 stars(6 total ratings)",
+          "Author": "Lazertrax",
+          "Genre": "Puzzle",
+          "Tags": "Game Maker's Toolkit Jam, thinking",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": 460749,
+      "gameUrl": "https://renva.itch.io/monoduel",
+      "overallRank": 5,
+      "topCategories": [
+        "Originality"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Renva",
+            "id": 1304448
+          }
+        ],
+        "rank": 5,
+        "url": "https://itch.io/jam/gmtk-2019/rate/460749",
+        "title": "MonoDuel",
+        "rating_count": 12,
+        "raw_score": 4.5833333333333,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNDQ2NTEucG5n/300x240%23c/yWNCR5.png",
+        "score": 4.5833333333333,
+        "criteria": [
+          {
+            "name": "Design",
+            "score": 4.1666666666667,
+            "rank": 137,
+            "raw_score": 4.1666666666667
+          },
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.6666666666667,
+            "rank": 32,
+            "raw_score": 4.6666666666667
+          },
+          {
+            "name": "Originality",
+            "score": 4.9166666666667,
+            "rank": 3,
+            "raw_score": 4.9166666666667
+          }
+        ],
+        "id": 460749
+      },
+      "entryData": {
+        "coolness": 52,
+        "rating_count": 12,
+        "created_at": "2019-08-03 21:37:15",
+        "id": 80414,
+        "game": {
+          "short_text": "Battle yourself",
+          "cover": "https://img.itch.zone/aW1nLzIzNDQ2NTEucG5n/300x240%23c/yWNCR5.png",
+          "platforms": [
+            "windows"
+          ],
+          "id": 460749,
+          "cover_color": "#79d487",
+          "user": {
+            "name": "Renva",
+            "url": "https://renva.itch.io",
+            "id": 1304448
+          },
+          "url": "https://renva.itch.io/monoduel",
+          "title": "MonoDuel"
+        },
+        "url": "/jam/gmtk-2019/rate/460749"
+      },
+      "details": {
+        "title": "MonoDuel",
+        "description": "In this fighting game, there is only one player. Periodically switch between two versions of yourself, and use various ammunition to help your good side triumph!\nCreated for the GMTK game jam 2019.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDYwNzQ5LzIzNDQ2NTAucG5n/original/Ze3Vrv.png",
+          "https://img.itch.zone/aW1hZ2UvNDYwNzQ5LzIzNDQ2NDgucG5n/original/Wgj%2FGm.png",
+          "https://img.itch.zone/aW1hZ2UvNDYwNzQ5LzIzNDQ2NDkucG5n/original/rHXCqi.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Renva",
+          "Genre": "Action, Shooter",
+          "Tags": "2D, Game Maker's Toolkit Jam, High Score, Pixel Art, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 463202,
+      "gameUrl": "https://winterbeak.itch.io/sightline",
+      "overallRank": 8,
+      "topCategories": [
+        "Originality"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "winterbeak",
+            "id": 1706743
+          },
+          {
+            "name": "friste",
+            "id": 1635683
+          }
+        ],
+        "rank": 8,
+        "url": "https://itch.io/jam/gmtk-2019/rate/463202",
+        "title": "Sightline",
+        "rating_count": 18,
+        "raw_score": 4.5555555555556,
+        "cover_url": "https://img.itch.zone/aW1nLzY5NjkxMTEuZ2lm/300x240%23c/ng0u7M.gif",
+        "score": 4.5555555555556,
+        "criteria": [
+          {
+            "name": "Design",
+            "score": 4.2222222222222,
+            "rank": 108,
+            "raw_score": 4.2222222222222
+          },
+          {
+            "name": "Originality",
+            "score": 4.8888888888889,
+            "rank": 4,
+            "raw_score": 4.8888888888889
+          },
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.5555555555556,
+            "rank": 95,
+            "raw_score": 4.5555555555556
+          }
+        ],
+        "id": 463202
+      },
+      "entryData": {
+        "coolness": 16,
+        "rating_count": 18,
+        "created_at": "2019-08-04 18:55:24",
+        "id": 82358,
+        "contributors": [
+          {
+            "name": "winterbeak",
+            "url": "https://winterbeak.itch.io"
+          },
+          {
+            "name": "friste",
+            "url": "https://friste.itch.io"
+          }
+        ],
+        "url": "/jam/gmtk-2019/rate/463202",
+        "game": {
+          "short_text": "What would it be like to have 1D vision in a 2D world?",
+          "id": 463202,
+          "user": {
+            "name": "winterbeak",
+            "url": "https://winterbeak.itch.io",
+            "id": 1706743
+          },
+          "url": "https://winterbeak.itch.io/sightline",
+          "cover": "https://img.itch.zone/aW1nLzY5NjkxMTEuZ2lm/300x240%23c/ng0u7M.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzY5NjkxMTEuZ2lm/original/OevDbE.gif",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#ffffff",
+          "title": "Sightline"
+        }
+      },
+      "details": {
+        "title": "Sightline",
+        "description": "Despite living in a three dimensional world, our eyes view everything through a two dimensional image. The light in front of us is pressed onto a flat surface, a simple plane of colors which we call “sight”. Distance is an illusion and depth is a lie; only through size and movement can we truly tell how far something is. But century after century of living with these eyes, living with these lies, has had us grown used to viewing our three dimensions with a dimension of missing information.\nSo, how would we see if our world was two dimensional? Simple: we’d have only one dimension of sight.\n\nRequires a mouse and keyboard to play.\nProgramming and visuals by winterbeak. Audio by saiziju.\nSource code can be found here.\nThe jam version was made in 48 hours for GMTK’s 2019 Game Jam: Only One, and contained only 9 levels. The extended version was made after the jam, adding 21 levels and generally polishing up the experience.",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzY5NjkxMTEuZ2lm/original/OevDbE.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.9 out of 5 stars(14 total ratings)",
+          "Authors": "winterbeak, friste",
+          "Genre": "Puzzle",
+          "Made with": "pygame",
+          "Tags": "1d, 2D, First-Person, Game Maker's Toolkit Jam, mind-bending, Minimalist, python, Singleplayer, sourcecode, weird",
+          "Code license": "MIT License",
+          "Asset license": "Creative Commons Attribution v4.0 International",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse",
+          "Links": "Source code"
+        }
+      }
+    },
+    {
+      "gameId": 460400,
+      "gameUrl": "https://le-vingt-et-unieme.itch.io/share-your-word",
+      "overallRank": 54,
+      "topCategories": [
+        "Originality"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "LE VINGT-ET-UNIEME",
+            "id": 1703260
+          }
+        ],
+        "rank": 54,
+        "url": "https://itch.io/jam/gmtk-2019/rate/460400",
+        "title": "Share Your Word",
+        "rating_count": 36,
+        "raw_score": 4.3796296296296,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNDgwMTguZ2lm/300x240%23c/eG2Ymk.gif",
+        "score": 4.3796296296296,
+        "criteria": [
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.5833333333333,
+            "rank": 74,
+            "raw_score": 4.5833333333333
+          },
+          {
+            "name": "Originality",
+            "score": 4.8888888888889,
+            "rank": 4,
+            "raw_score": 4.8888888888889
+          },
+          {
+            "name": "Design",
+            "score": 3.6666666666667,
+            "rank": 469,
+            "raw_score": 3.6666666666667
+          }
+        ],
+        "id": 460400
+      },
+      "entryData": {
+        "coolness": 47,
+        "rating_count": 36,
+        "created_at": "2019-08-04 16:48:32",
+        "id": 81291,
+        "game": {
+          "short_text": "Everyone has the same encrypted text but YOUR game contains a unique word.",
+          "id": 460400,
+          "user": {
+            "name": "LE VINGT-ET-UNIEME",
+            "url": "https://le-vingt-et-unieme.itch.io",
+            "id": 1703260
+          },
+          "url": "https://le-vingt-et-unieme.itch.io/share-your-word",
+          "cover": "https://img.itch.zone/aW1nLzIzNDgwMTguZ2lm/300x240%23c/eG2Ymk.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzIzNDgwMTguZ2lm/original/EYmmVb.gif",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#ffffff",
+          "title": "Share Your Word"
+        },
+        "url": "/jam/gmtk-2019/rate/460400"
+      },
+      "details": {
+        "title": "Share Your Word",
+        "description": "\n--------------------------------------------------------------------------------------------------Everyone has the same encrypted text but YOUR game contains a unique word.\n---------------------------------------------------------------------------------------------------\nShare Your Word with the others (in the comment section) to complete the hidden text.\n---------------------------------------------------------------------------------------------------\nIf all words are found, I will release a build revealing the secret of the game.\n--------------------------------------------------------------------------------------------------- \nWords found : 39 out of 45 (from this page and GMTK Game Jam 2019 page)\n---------------------------------------------------------------------------------------------------\nDoxa. Fear.We sample them -- --- our souls -- repeat. And -- ----- looping; over and over again... ---, no chord can express the emptiness one feels When he realizes they are nothing Only a leap of faith builds happiness out of the void.--------------------------------------------------------------------------------------------------\n(WASD to move, MOUSE to look around, E to interact)\n(made for GMTK Game Jam 2019)\n(music from Myers Music)\n--------------------------------------------------------------------------------------------------",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDYwNDAwLzIzNDgyMzQucG5n/original/MrE15L.png",
+          "https://img.itch.zone/aW1hZ2UvNDYwNDAwLzIzNDgyMzUucG5n/original/GYU5XM.png",
+          "https://img.itch.zone/aW1hZ2UvNDYwNDAwLzIzNDk2NzgucG5n/original/ZhTbPG.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Release date": "Aug 04, 2019",
+          "Rating": "Rated 4.3 out of 5 stars(3 total ratings)",
+          "Author": "LE VINGT-ET-UNIEME",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "Co-op, Dark, Experimental, First-Person, Game Maker's Toolkit Jam, Multiplayer, Short, Unity",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 461098,
+      "gameUrl": "https://walaber-ent.itch.io/graph-ball",
+      "overallRank": 133,
+      "topCategories": [
+        "Originality"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Walaber Entertainment",
+            "id": 1287379
+          }
+        ],
+        "rank": 133,
+        "url": "https://itch.io/jam/gmtk-2019/rate/461098",
+        "title": "Graph Ball",
+        "rating_count": 37,
+        "raw_score": 4.2072072072072,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNDU4NTcucG5n/300x240%23c/Edmx9u.png",
+        "score": 4.2072072072072,
+        "criteria": [
+          {
+            "name": "Originality",
+            "score": 4.8648648648649,
+            "rank": 6,
+            "raw_score": 4.8648648648649
+          },
+          {
+            "name": "Design",
+            "score": 3.8918918918919,
+            "rank": 302,
+            "raw_score": 3.8918918918919
+          },
+          {
+            "name": "Adherence to the Theme",
+            "score": 3.8648648648649,
+            "rank": 760,
+            "raw_score": 3.8648648648649
+          }
+        ],
+        "id": 461098
+      },
+      "entryData": {
+        "coolness": 41,
+        "rating_count": 37,
+        "created_at": "2019-08-04 05:46:40",
+        "id": 80574,
+        "game": {
+          "short_text": "Physics puzzle where you have only 1 \"parameter\" you can draw a graph to control for each level.",
+          "cover": "https://img.itch.zone/aW1nLzIzNDU4NTcucG5n/300x240%23c/Edmx9u.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 461098,
+          "cover_color": "#eeeeee",
+          "user": {
+            "name": "Walaber Entertainment",
+            "url": "https://walaber-ent.itch.io",
+            "id": 1287379
+          },
+          "url": "https://walaber-ent.itch.io/graph-ball",
+          "title": "Graph Ball"
+        },
+        "url": "/jam/gmtk-2019/rate/461098"
+      },
+      "details": {
+        "title": "Graph Ball",
+        "description": "Entry in the \"Game Maker's Toolkit game{jam};\" for 2019, with the theme \"Only one\".\nIn this physics puzzle game prototype, you have only 1 \"parameter\" that you can sketch a graph to control in each level.  By manipulating the parameter over time, you can complete the level by getting the yellow balls into their yellow goal zones. \nIn this prototype there are 7 levels, 5 of which your graph controls the size of the ball, and 2 of which the graph controls the gravity of the level.\nThis concept could easily be expanded to any number of parameters upon which to base new and interesting levels.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDYxMDk4LzIzNDU5MjEuZ2lm/original/eCe%2F7C.gif",
+          "https://img.itch.zone/aW1hZ2UvNDYxMDk4LzIzNDU4ODAucG5n/original/WW3vdO.png",
+          "https://img.itch.zone/aW1hZ2UvNDYxMDk4LzIzNDU4ODEucG5n/original/SL5bSZ.png",
+          "https://img.itch.zone/aW1hZ2UvNDYxMDk4LzIzNDU4ODMucG5n/original/T2KOy3.png",
+          "https://img.itch.zone/aW1hZ2UvNDYxMDk4LzIzNDU4ODQucG5n/original/zmsxjX.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.8 out of 5 stars(5 total ratings)",
+          "Author": "Walaber Entertainment",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "graph, Math, Minimalist, Physics, Simple"
+        }
+      }
+    },
+    {
+      "gameId": 463734,
+      "gameUrl": "https://nikmikk.itch.io/door-knocker",
+      "overallRank": 12,
+      "topCategories": [
+        "Originality"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "NikMikk",
+            "id": 267453
+          }
+        ],
+        "rank": 12,
+        "url": "https://itch.io/jam/gmtk-2019/rate/463734",
+        "title": "Door Knocker",
+        "rating_count": 47,
+        "raw_score": 4.531914893617,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNTkwODQuZ2lm/300x240%23c/ITe8Rf.gif",
+        "score": 4.531914893617,
+        "criteria": [
+          {
+            "name": "Originality",
+            "score": 4.8297872340426,
+            "rank": 8,
+            "raw_score": 4.8297872340426
+          },
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.4042553191489,
+            "rank": 215,
+            "raw_score": 4.4042553191489
+          },
+          {
+            "name": "Design",
+            "score": 4.3617021276596,
+            "rank": 46,
+            "raw_score": 4.3617021276596
+          }
+        ],
+        "id": 463734
+      },
+      "entryData": {
+        "coolness": 23,
+        "rating_count": 47,
+        "created_at": "2019-08-04 19:36:55",
+        "id": 83029,
+        "game": {
+          "short_text": "It's time to place door and kick door, and that's all I do.",
+          "id": 463734,
+          "user": {
+            "name": "NikMikk",
+            "url": "https://nikmikk.itch.io",
+            "id": 267453
+          },
+          "url": "https://nikmikk.itch.io/door-knocker",
+          "cover": "https://img.itch.zone/aW1nLzIzNTkwODQuZ2lm/300x240%23c/ITe8Rf.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzIzNTkwODQuZ2lm/original/7iRjn5.gif",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#eeeeee",
+          "title": "Door Knocker"
+        },
+        "url": "/jam/gmtk-2019/rate/463734"
+      },
+      "details": {
+        "title": "Door Knocker",
+        "description": "There's only one door.It's time to place door and kick door, and that's all I do.\nMade by Something We Made + sick beats by Anes\nOur twitters:Elias AlbrechtLucas GullboNiklas Mikkelsen",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDYzNzM0LzIzNTkwNzYuZ2lm/original/NLPFEY.gif",
+          "https://img.itch.zone/aW1hZ2UvNDYzNzM0LzIzNTkxNzMuZ2lm/original/U2h31D.gif"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.4 out of 5 stars(16 total ratings)",
+          "Author": "NikMikk",
+          "Genre": "Action",
+          "Tags": "door, First-Person, kick-doors, kicking, kick-things"
+        }
+      }
+    },
+    {
+      "gameId": 461923,
+      "gameUrl": "https://snackycactus.itch.io/mr-flipper",
+      "overallRank": 59,
+      "topCategories": [
+        "Originality"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Willem Rosenthal",
+            "id": 4853
+          }
+        ],
+        "rank": 59,
+        "url": "https://itch.io/jam/gmtk-2019/rate/461923",
+        "title": "Mr. Flipper",
+        "rating_count": 139,
+        "raw_score": 4.3597122302158,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNTIxMDYucG5n/300x240%23c/6E80yJ.png",
+        "score": 4.3597122302158,
+        "criteria": [
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.3741007194245,
+            "rank": 245,
+            "raw_score": 4.3741007194245
+          },
+          {
+            "name": "Originality",
+            "score": 4.7697841726619,
+            "rank": 10,
+            "raw_score": 4.7697841726619
+          },
+          {
+            "name": "Design",
+            "score": 3.9352517985612,
+            "rank": 269,
+            "raw_score": 3.9352517985612
+          }
+        ],
+        "id": 461923
+      },
+      "entryData": {
+        "coolness": 8,
+        "rating_count": 139,
+        "created_at": "2019-08-04 17:58:38",
+        "id": 81613,
+        "game": {
+          "short_text": "A pinball world with only one flipper",
+          "cover": "https://img.itch.zone/aW1nLzIzNTIxMDYucG5n/300x240%23c/6E80yJ.png",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "id": 461923,
+          "cover_color": "#eeeeee",
+          "user": {
+            "name": "Willem Rosenthal",
+            "url": "https://snackycactus.itch.io",
+            "id": 4853
+          },
+          "url": "https://snackycactus.itch.io/mr-flipper",
+          "title": "Mr. Flipper"
+        },
+        "url": "/jam/gmtk-2019/rate/461923"
+      },
+      "details": {
+        "title": "Mr. Flipper",
+        "description": "You are Mr. Flipper,  the only Flipper in a pinball world.You can't wait for the ball to come to you, You'll have to move to the ball!\nFollow me at @willemrosenthal\nCREDITS:\nWillem Rosenthal - Design, Coding, Art, Sound - twitter\nbb tombo  - music -  twitter  soundcloud- - - - - - - -Mr. Flipper was made for the Game Maker's Toolkit Jam 2019 in less than 48 hoursCompatible with both keyboard and Joypad.Joypad will likely only work if you download the game.\n\nKeyboard controls: Arrow Keys, [X] and [Z] \nXbox Controller controls: Left Stick, A button and Right Trigger\nPlaystation Controller controls: Left Stick, X button and Right Trigger",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDYxOTIzLzIzNTA4OTEucG5n/original/rI%2BadF.png",
+          "https://img.itch.zone/aW1hZ2UvNDYxOTIzLzIzNTA4OTAucG5n/original/RHbiXl.png",
+          "https://img.itch.zone/aW1hZ2UvNDYxOTIzLzIzNTA4OTIucG5n/original/Larxl%2F.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 4.6 out of 5 stars(16 total ratings)",
+          "Author": "Willem Rosenthal",
+          "Genre": "Action",
+          "Made with": "Unity"
+        }
+      }
+    },
+    {
+      "gameId": 460869,
+      "gameUrl": "https://bynine.itch.io/self-reflection",
+      "overallRank": 31,
+      "topCategories": [
+        "Originality"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "bynine",
+            "id": 199224
+          }
+        ],
+        "rank": 31,
+        "url": "https://itch.io/jam/gmtk-2019/rate/460869",
+        "title": "Self Reflection",
+        "rating_count": 34,
+        "raw_score": 4.4509803921569,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNTc2MTQucG5n/300x240%23c/OCwYgj.png",
+        "score": 4.4509803921569,
+        "criteria": [
+          {
+            "name": "Design",
+            "score": 4.3235294117647,
+            "rank": 60,
+            "raw_score": 4.3235294117647
+          },
+          {
+            "name": "Originality",
+            "score": 4.7647058823529,
+            "rank": 11,
+            "raw_score": 4.7647058823529
+          },
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.2647058823529,
+            "rank": 348,
+            "raw_score": 4.2647058823529
+          }
+        ],
+        "id": 460869
+      },
+      "entryData": {
+        "coolness": 19,
+        "rating_count": 34,
+        "created_at": "2019-08-04 17:55:05",
+        "id": 81583,
+        "game": {
+          "short_text": "a Single Player Versus Game",
+          "cover": "https://img.itch.zone/aW1nLzIzNTc2MTQucG5n/300x240%23c/OCwYgj.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 460869,
+          "cover_color": "#eeeeee",
+          "user": {
+            "name": "bynine",
+            "url": "https://bynine.itch.io",
+            "id": 199224
+          },
+          "url": "https://bynine.itch.io/self-reflection",
+          "title": "Self Reflection"
+        },
+        "url": "/jam/gmtk-2019/rate/460869"
+      },
+      "details": {
+        "title": "Self Reflection",
+        "description": "CONTROLS - READ THIS!\nPress A and D to move and Space to shoot. You must fight against past versions of yourself. The arrow indicates which side your present self is in control of.\n\nGAME MAKER'S TOOLKIT JAM 2019\n(Vote for Self Reflection here!)\nSelf Reflection takes the concept of \"Only One\" and applies it to a multiplayer game - that is, your opponent is yourself. I've gone through some rough internal stuff recently and i guess you could say this is a reflection of that. You cannot truly win against yourself, but you can understand how you do things and how to react to it.\n\nCREDITS\nGil H. Steinberg - the wonderful music\nJarrod Roberts, \"dataecto\" - some very helpful playtesting. (check out dataecto's MGS inspired game from the same jam!)\nBynine - the rest of it. (that's me!)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDYwODY5LzIzNTA5NzYucG5n/original/oIKupJ.png",
+          "https://img.itch.zone/aW1hZ2UvNDYwODY5LzIzNTAxODgucG5n/original/Nv44Rw.png",
+          "https://img.itch.zone/aW1hZ2UvNDYwODY5LzIzNTAxODkucG5n/original/PDMdK1.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.3 out of 5 stars(4 total ratings)",
+          "Author": "bynine",
+          "Genre": "Shooter",
+          "Made with": "Unity",
+          "Tags": "Minimalist, Singleplayer, Versus",
+          "Average session": "A few minutes",
+          "Inputs": "Keyboard",
+          "Accessibility": "Color-blind friendly, High-contrast"
+        }
+      }
+    },
+    {
+      "gameId": 462231,
+      "gameUrl": "https://kornel.itch.io/20-000-pixels-under-the-sea",
+      "overallRank": 13,
+      "topCategories": [
+        "Originality"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Kornel",
+            "id": 974726
+          }
+        ],
+        "rank": 13,
+        "url": "https://itch.io/jam/gmtk-2019/rate/462231",
+        "title": "20 000 Pixels Under the Sea",
+        "rating_count": 42,
+        "raw_score": 4.5238095238095,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNjA4MDMucG5n/300x240%23c/imzp4B.png",
+        "score": 4.5238095238095,
+        "criteria": [
+          {
+            "name": "Originality",
+            "score": 4.7380952380952,
+            "rank": 12,
+            "raw_score": 4.7380952380952
+          },
+          {
+            "name": "Design",
+            "score": 4.1190476190476,
+            "rank": 156,
+            "raw_score": 4.1190476190476
+          },
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.7142857142857,
+            "rank": 25,
+            "raw_score": 4.7142857142857
+          }
+        ],
+        "id": 462231
+      },
+      "entryData": {
+        "coolness": 1,
+        "rating_count": 42,
+        "created_at": "2019-08-04 18:49:31",
+        "id": 82227,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzIzNjA4MDMucG5n/300x240%23c/imzp4B.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 462231,
+          "cover_color": "#2e424a",
+          "user": {
+            "name": "Kornel",
+            "url": "https://kornel.itch.io",
+            "id": 974726
+          },
+          "url": "https://kornel.itch.io/20-000-pixels-under-the-sea",
+          "title": "20 000 Pixels Under the Sea"
+        },
+        "url": "/jam/gmtk-2019/rate/462231"
+      },
+      "details": {
+        "title": "20 000 Pixels Under the Sea",
+        "description": "Game made for GMTK Game Jam 2019\nOne button only: SPACEBAR - control the whole Submarine by transmitting Morse codes. Fight those disgusting creatures from depths. Upgrade your Submarine. Survive all the waves!\n\n\n\nCredits\nAuthors:KornelKrzysztof KusMichał WildangerEndi Cornel\nSounds used:https://freesound.org/people/carmsie/sounds/329915/https://freesound.org/people/akelley6/sounds/453040/https://freesound.org/people/jobro/sounds/35529/https://freesound.org/people/klankbeeld/sounds/243351/https://freesound.org/people/InspectorJ/sounds/418387/\nFor license see https://creativecommons.org/licenses/by/3.0/ and https://creativecommons.org/licenses/by-nc/3.0/\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIzNjA4MDMucG5n/original/BTtL7I.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.4 out of 5 stars(11 total ratings)",
+          "Author": "Kornel",
+          "Genre": "Action",
+          "Made with": "Unity",
+          "Tags": "Game Maker's Toolkit Jam"
+        }
+      }
+    },
+    {
+      "gameId": 461221,
+      "gameUrl": "https://thevgm.itch.io/word-of-the-day",
+      "overallRank": 2,
+      "topCategories": [
+        "Originality"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Thevgm",
+            "id": 1744191
+          }
+        ],
+        "rank": 2,
+        "url": "https://itch.io/jam/gmtk-2019/rate/461221",
+        "title": "Word of the Day",
+        "rating_count": 11,
+        "raw_score": 4.6363636363636,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNDY0MjMucG5n/300x240%23c/r7mhZR.png",
+        "score": 4.6363636363636,
+        "criteria": [
+          {
+            "name": "Design",
+            "score": 4.4545454545455,
+            "rank": 24,
+            "raw_score": 4.4545454545455
+          },
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.7272727272727,
+            "rank": 22,
+            "raw_score": 4.7272727272727
+          },
+          {
+            "name": "Originality",
+            "score": 4.7272727272727,
+            "rank": 13,
+            "raw_score": 4.7272727272727
+          }
+        ],
+        "id": 461221
+      },
+      "entryData": {
+        "coolness": 0,
+        "rating_count": 11,
+        "created_at": "2019-08-04 08:57:06",
+        "id": 80661,
+        "game": {
+          "short_text": "A text adventure where only one word is visible at a time!",
+          "cover": "https://img.itch.zone/aW1nLzIzNDY0MjMucG5n/300x240%23c/r7mhZR.png",
+          "id": 461221,
+          "platforms": [
+            "windows",
+            "linux"
+          ],
+          "user": {
+            "name": "Thevgm",
+            "url": "https://thevgm.itch.io",
+            "id": 1744191
+          },
+          "url": "https://thevgm.itch.io/word-of-the-day",
+          "title": "Word of the Day"
+        },
+        "url": "/jam/gmtk-2019/rate/461221"
+      },
+      "details": {
+        "title": "Word of the Day",
+        "description": "A submission for GMTK's third game jam. The theme was \"only one\" and I was trying to think of types of games that by nature require more than one of something. How about a text adventure with only one word?\nI took the idea and ran with it, trying to come up with different and engaging mechanics that would only use one word at a time. After I got the main parts done I wrote dialog until around 2:00 in the morning, at which point I deemed it \"good enough.\"\nI hope you like it!Unzip the folder and open the directory that matches your system architecture (for example, on Windows you would open \"application.windows64\") and run the executable inside.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDYxMjIxLzIzNDY0MzQucG5n/original/2uZpKE.png",
+          "https://img.itch.zone/aW1hZ2UvNDYxMjIxLzIzNDYzNDQucG5n/original/CM0P1f.png",
+          "https://img.itch.zone/aW1hZ2UvNDYxMjIxLzIzNDYzNDUucG5n/original/BeAdvO.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, Linux",
+          "Rating": "Rated 4.1 out of 5 stars(11 total ratings)",
+          "Author": "Thevgm",
+          "Genre": "Interactive Fiction",
+          "Tags": "Funny, Game Maker's Toolkit Jam, Minimalist, Mouse only, My First Game Jam, Narrative, Open Source, Short"
+        }
+      }
+    },
+    {
+      "gameId": 461776,
+      "gameUrl": "https://edmond00.itch.io/the-turing-snake",
+      "overallRank": 101,
+      "topCategories": [
+        "Originality"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "edmond00",
+            "id": 659767
+          }
+        ],
+        "rank": 101,
+        "url": "https://itch.io/jam/gmtk-2019/rate/461776",
+        "title": "The Turing snake",
+        "rating_count": 34,
+        "raw_score": 4.2647058823529,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNjExMzcuZ2lm/300x240%23c/qu3buT.gif",
+        "score": 4.2647058823529,
+        "criteria": [
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.0294117647059,
+            "rank": 590,
+            "raw_score": 4.0294117647059
+          },
+          {
+            "name": "Originality",
+            "score": 4.7058823529412,
+            "rank": 14,
+            "raw_score": 4.7058823529412
+          },
+          {
+            "name": "Design",
+            "score": 4.0588235294118,
+            "rank": 189,
+            "raw_score": 4.0588235294118
+          }
+        ],
+        "id": 461776
+      },
+      "entryData": {
+        "coolness": 37,
+        "rating_count": 34,
+        "created_at": "2019-08-04 15:04:33",
+        "id": 81034,
+        "game": {
+          "short_text": "A snake variant inspired by the cellular automaton and the Turing machines.",
+          "id": 461776,
+          "user": {
+            "name": "edmond00",
+            "url": "https://edmond00.itch.io",
+            "id": 659767
+          },
+          "url": "https://edmond00.itch.io/the-turing-snake",
+          "cover": "https://img.itch.zone/aW1nLzIzNjExMzcuZ2lm/300x240%23c/qu3buT.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzIzNjExMzcuZ2lm/original/C2kwLV.gif",
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#111111",
+          "title": "The Turing snake"
+        },
+        "url": "/jam/gmtk-2019/rate/461776"
+      },
+      "details": {
+        "title": "The Turing snake",
+        "description": "You control a virtual snake in matrix of bits. Each part of the snake correspond to specific command (move, left, right,...) that will be executed only if its actual bit is 1. Set the proper bits on the matrix in order that the snake reach its targets.\nThis is a game made in one week-end for the GMTK jam 2019. The theme was \"Only one\". Here, set some bits to \"one\" is the only way to interact and progress. Like the classic Snake games, you spend all your time in only one simple map with only one element (the goal to reach). Finally, I tried to build some puzzle where you have to reach distant goal by only changing one bit of the matrix.\nControls :\nLeft click : switch a bit between 0 and 1.Space : run or retry if bocked. During run mode, the snake will move according to the commands that have a bit set to 1.Right click : In some levels, the snake has blue parts, click on it to change the command of this part of the snake.   \nThis game was made with Unity and the music and sound with https://beepbox.co.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDYxNzc2LzIzODAwNjgucG5n/original/jprml4.png",
+          "https://img.itch.zone/aW1hZ2UvNDYxNzc2LzIzODAwNjkucG5n/original/uysDlb.png",
+          "https://img.itch.zone/aW1hZ2UvNDYxNzc2LzIzODAwNzAucG5n/original/XllkSB.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.5 out of 5 stars(4 total ratings)",
+          "Author": "edmond00",
+          "Genre": "Puzzle, Educational",
+          "Made with": "Unity",
+          "Tags": "artificial-intelligence, Automation, cellular-automata, coding-game, Experimental, Retro, Snake, turing-machine"
+        }
+      }
+    },
+    {
+      "gameId": 462123,
+      "gameUrl": "https://olympusmonsgames.itch.io/rove",
+      "overallRank": 7,
+      "topCategories": [
+        "Originality"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Olympus Mons Games",
+            "id": 1743840
+          }
+        ],
+        "rank": 7,
+        "url": "https://itch.io/jam/gmtk-2019/rate/462123",
+        "title": "ROVE",
+        "rating_count": 10,
+        "raw_score": 4.5666666666667,
+        "cover_url": "https://img.itch.zone/aW1nLzIzODk1NDgucG5n/300x240%23c/k6kN%2BJ.png",
+        "score": 4.5666666666667,
+        "criteria": [
+          {
+            "name": "Originality",
+            "score": 4.7,
+            "rank": 15,
+            "raw_score": 4.7
+          },
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.6,
+            "rank": 59,
+            "raw_score": 4.6
+          },
+          {
+            "name": "Design",
+            "score": 4.4,
+            "rank": 36,
+            "raw_score": 4.4
+          }
+        ],
+        "id": 462123
+      },
+      "entryData": {
+        "coolness": 1,
+        "rating_count": 10,
+        "created_at": "2019-08-04 18:19:03",
+        "id": 81774,
+        "game": {
+          "short_text": "Rove the Martian landscape for safety. You have one charge on your Rover's battery. Use it wisely!",
+          "cover": "https://img.itch.zone/aW1nLzIzODk1NDgucG5n/300x240%23c/k6kN%2BJ.png",
+          "platforms": [
+            "windows"
+          ],
+          "id": 462123,
+          "cover_color": "#141414",
+          "user": {
+            "name": "Olympus Mons Games",
+            "url": "https://olympusmonsgames.itch.io",
+            "id": 1743840
+          },
+          "url": "https://olympusmonsgames.itch.io/rove",
+          "title": "ROVE"
+        },
+        "url": "/jam/gmtk-2019/rate/462123"
+      },
+      "details": {
+        "title": "ROVE",
+        "description": "One battery is all you have. You must find the hidden safe habitat somewhere on Mars. Ping for pylons on the surface that will lead you in the right direction. Careful, each ping uses a significant amount of precious battery!\n\nCONTROLS\nMovementPingShow MouseW A S DSpacebarTab\n\n*** We plan on continuing development of Rove. If you'd like to follow along with our progress, join us on the Olympus Mons Games Discord\nWe also stream development on Twitch regularly\nTwitter\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDYyMTIzLzIzODk1NDUucG5n/original/N3o9Pr.png",
+          "https://img.itch.zone/aW1hZ2UvNDYyMTIzLzIzNTA1MTMucG5n/original/6Szb0P.png",
+          "https://img.itch.zone/aW1hZ2UvNDYyMTIzLzIzNTA3MjQuZ2lm/original/ACPagk.gif",
+          "https://img.itch.zone/aW1hZ2UvNDYyMTIzLzIzNTEzMjQucG5n/original/t%2BO3IS.png",
+          "https://img.itch.zone/aW1hZ2UvNDYyMTIzLzIzNTEzNDEucG5n/original/Q40JuX.png",
+          "https://img.itch.zone/aW1hZ2UvNDYyMTIzLzIzNTU1MzIucG5n/original/NVozxu.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows",
+          "Author": "Olympus Mons Games",
+          "Genre": "Survival",
+          "Made with": "Unreal Engine",
+          "Tags": "Atmospheric, Exploration, mars, Relaxing, Roguelike, Sci-fi, Singleplayer, Space, Unreal Engine",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard",
+          "Accessibility": "Color-blind friendly"
+        }
+      }
+    },
+    {
+      "gameId": 463184,
+      "gameUrl": "https://csklimowski.itch.io/at-times-like-these",
+      "overallRank": 49,
+      "topCategories": [
+        "Originality"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Chris Klimowski",
+            "id": 690270
+          }
+        ],
+        "rank": 49,
+        "url": "https://itch.io/jam/gmtk-2019/rate/463184",
+        "title": "At Times Like These, There's Only One Thing To Say",
+        "rating_count": 20,
+        "raw_score": 4.3833333333333,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNTU1NjIucG5n/300x240%23c/fesxy8.png",
+        "score": 4.3833333333333,
+        "criteria": [
+          {
+            "name": "Originality",
+            "score": 4.7,
+            "rank": 15,
+            "raw_score": 4.7
+          },
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.55,
+            "rank": 101,
+            "raw_score": 4.55
+          },
+          {
+            "name": "Design",
+            "score": 3.9,
+            "rank": 297,
+            "raw_score": 3.9
+          }
+        ],
+        "id": 463184
+      },
+      "entryData": {
+        "coolness": 8,
+        "rating_count": 20,
+        "created_at": "2019-08-04 19:13:08",
+        "id": 82724,
+        "game": {
+          "short_text": "A visual novel where you get only one dialogue option.",
+          "cover": "https://img.itch.zone/aW1nLzIzNTU1NjIucG5n/300x240%23c/fesxy8.png",
+          "id": 463184,
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Chris Klimowski",
+            "url": "https://csklimowski.itch.io",
+            "id": 690270
+          },
+          "url": "https://csklimowski.itch.io/at-times-like-these",
+          "title": "At Times Like These, There's Only One Thing To Say"
+        },
+        "url": "/jam/gmtk-2019/rate/463184"
+      },
+      "details": {
+        "title": "At Times Like These, There's Only One Thing To Say",
+        "description": "In this thrilling visual novel, you have only one (1) option for what to say next! It's not what you say that matters, it's how you say it...Programming by Chris KlimowskiArt and music by Joseph Scheidemandel\nMade with Phaser.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDYzMTg0LzIzNTQ5MjQucG5n/original/m%2BO%2Bxj.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.8 out of 5 stars(6 total ratings)",
+          "Author": "Chris Klimowski",
+          "Genre": "Visual Novel",
+          "Tags": "Text based"
+        }
+      }
+    },
+    {
+      "gameId": 463862,
+      "gameUrl": "https://little-burrito.itch.io/only-one-word",
+      "overallRank": 173,
+      "topCategories": [
+        "Originality"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "little-burrito",
+            "id": 587713
+          }
+        ],
+        "rank": 173,
+        "url": "https://itch.io/jam/gmtk-2019/rate/463862",
+        "title": "Only one word",
+        "rating_count": 23,
+        "raw_score": 4.1449275362319,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNTcwNjcucG5n/300x240%23c/ups9qh.png",
+        "score": 4.1449275362319,
+        "criteria": [
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.6086956521739,
+            "rank": 58,
+            "raw_score": 4.6086956521739
+          },
+          {
+            "name": "Originality",
+            "score": 4.695652173913,
+            "rank": 17,
+            "raw_score": 4.695652173913
+          },
+          {
+            "name": "Design",
+            "score": 3.1304347826087,
+            "rank": 940,
+            "raw_score": 3.1304347826087
+          }
+        ],
+        "id": 463862
+      },
+      "entryData": {
+        "coolness": 9,
+        "rating_count": 23,
+        "created_at": "2019-08-04 20:01:38",
+        "id": 83189,
+        "game": {
+          "short_text": "Receive a Wikipedia article and find a word that occurs only once in the entire text. Plays best in Firefox.",
+          "cover": "https://img.itch.zone/aW1nLzIzNTcwNjcucG5n/300x240%23c/ups9qh.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 463862,
+          "cover_color": "#53777A",
+          "user": {
+            "name": "little-burrito",
+            "url": "https://little-burrito.itch.io",
+            "id": 587713
+          },
+          "url": "https://little-burrito.itch.io/only-one-word",
+          "title": "Only one word"
+        },
+        "url": "/jam/gmtk-2019/rate/463862"
+      },
+      "details": {
+        "title": "Only one word",
+        "description": "Receive a Wikipedia article and find a word that occurs only one time in the entire text.\nAre you fast? Can you find a word with 4 or less characters? How many attempts do you need? Post your results in the comments below!\nPlays best in Firefox (because the timer doesn't have decimals). There are 15 different articles of which you will be assigned one at random.\nNote: The game does not take into account text in info boxes.\n\nKnown bugs\nAfter managing to set up the Wikipedia connection, things went... a little quick...\nUser input not escaped before becoming regex :)Non-Firefox browsers show the time in unreadable format (like 0-10 decimals , changing each frame. Firefox which I used just shows whole numbers.)(Not sure if I can trust the javascript regex for word boundaries)The part with \"This article is about...\" pretty much always includes something unrelated to the article and should be ignored.\n\nOther thoughts and personal \nWith more time, I would have made the game flow better. Simple online high scores for different categories: shortest word, fastest time, fewest attempts needed. More carefully chosen articles as well perhaps (the current ones have roughly 15% words that only occur once), and maybe you would have to do 5 articles in a row so you get into the flow. Perhaps a scoring system that takes into account all the details that I think of as categories.\nFor personal reasons, I could only work on this game for 10 hours on the Sunday, most of which went to figuring out how to get the data from Wikipedia without getting stuck in cross-domain security stuff.",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIzNTcwNjcucG5n/original/uT5IeE.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "little-burrito",
+          "Genre": "Puzzle",
+          "Tags": "Game Maker's Toolkit Jam, wikipedia"
+        }
+      }
+    },
+    {
+      "gameId": 462244,
+      "gameUrl": "https://gasgiant.itch.io/punch-self",
+      "overallRank": 20,
+      "topCategories": [
+        "Originality"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Ivan Pensionerov",
+            "id": 659454
+          }
+        ],
+        "rank": 20,
+        "url": "https://itch.io/jam/gmtk-2019/rate/462244",
+        "title": "PUNCH(_SELF)",
+        "rating_count": 100,
+        "raw_score": 4.4933333333333,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNTE5MjguZ2lm/300x240%23c/sZ2xYL.gif",
+        "score": 4.4933333333333,
+        "criteria": [
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.61,
+            "rank": 56,
+            "raw_score": 4.61
+          },
+          {
+            "name": "Originality",
+            "score": 4.69,
+            "rank": 19,
+            "raw_score": 4.69
+          },
+          {
+            "name": "Design",
+            "score": 4.18,
+            "rank": 124,
+            "raw_score": 4.18
+          }
+        ],
+        "id": 462244
+      },
+      "entryData": {
+        "coolness": 46,
+        "rating_count": 100,
+        "created_at": "2019-08-04 17:43:38",
+        "id": 81521,
+        "game": {
+          "short_text": "​A fighting game with only one character.",
+          "id": 462244,
+          "user": {
+            "name": "Ivan Pensionerov",
+            "url": "https://gasgiant.itch.io",
+            "id": 659454
+          },
+          "url": "https://gasgiant.itch.io/punch-self",
+          "cover": "https://img.itch.zone/aW1nLzIzNTE5MjguZ2lm/300x240%23c/sZ2xYL.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzIzNTE5MjguZ2lm/original/mgvYMe.gif",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#b8b8b8",
+          "title": "PUNCH(_SELF)"
+        },
+        "url": "/jam/gmtk-2019/rate/462244"
+      },
+      "details": {
+        "title": "PUNCH(_SELF)",
+        "description": "A fighting game with only one character.\nDesigned and developed by Ivan Pensionerov for GMTK Game Jam 2019.\nMusic: \nSip The Slipple by Audionautix is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)Artist: http://audionautix.com/\nThought Bot by Audionautix is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)Artist: http://audionautix.com/",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDYyMjQ0LzIzNTI2NTguZ2lm/original/B2IRQW.gif",
+          "https://img.itch.zone/aW1hZ2UvNDYyMjQ0LzIzNTI2NjQuZ2lm/original/OW90%2B7.gif",
+          "https://img.itch.zone/aW1hZ2UvNDYyMjQ0LzIzNTIzNzUuZ2lm/original/vlcIpi.gif",
+          "https://img.itch.zone/aW1hZ2UvNDYyMjQ0LzIzNTIzNzkuZ2lm/original/SdlD6b.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 3.9 out of 5 stars(7 total ratings)",
+          "Author": "Ivan Pensionerov",
+          "Genre": "Fighting",
+          "Made with": "Unity",
+          "Tags": "Game Maker's Toolkit Jam"
+        }
+      }
+    },
+    {
+      "gameId": 462506,
+      "gameUrl": "https://jjmorgan.itch.io/intercom",
+      "overallRank": 3,
+      "topCategories": [
+        "Originality"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "J.J. Morgan",
+            "id": 1742470
+          }
+        ],
+        "rank": 3,
+        "url": "https://itch.io/jam/gmtk-2019/rate/462506",
+        "title": "Intercom",
+        "rating_count": 34,
+        "raw_score": 4.6176470588235,
+        "cover_url": "https://img.itch.zone/aW1nLzIzNjA0MzMucG5n/300x240%23c/J5%2BbJm.png",
+        "score": 4.6176470588235,
+        "criteria": [
+          {
+            "name": "Design",
+            "score": 4.4705882352941,
+            "rank": 23,
+            "raw_score": 4.4705882352941
+          },
+          {
+            "name": "Originality",
+            "score": 4.6764705882353,
+            "rank": 20,
+            "raw_score": 4.6764705882353
+          },
+          {
+            "name": "Adherence to the Theme",
+            "score": 4.7058823529412,
+            "rank": 26,
+            "raw_score": 4.7058823529412
+          }
+        ],
+        "id": 462506
+      },
+      "entryData": {
+        "coolness": 75,
+        "rating_count": 34,
+        "created_at": "2019-08-04 17:58:11",
+        "id": 81607,
+        "game": {
+          "short_text": "You have only one tone.",
+          "cover": "https://img.itch.zone/aW1nLzIzNjA0MzMucG5n/300x240%23c/J5%2BbJm.png",
+          "platforms": [
+            "windows"
+          ],
+          "id": 462506,
+          "cover_color": "#373737",
+          "user": {
+            "name": "J.J. Morgan",
+            "url": "https://jjmorgan.itch.io",
+            "id": 1742470
+          },
+          "url": "https://jjmorgan.itch.io/intercom",
+          "title": "Intercom"
+        },
+        "url": "/jam/gmtk-2019/rate/462506"
+      },
+      "details": {
+        "title": "Intercom",
+        "description": "A laboratory assistant finds himself alone and blinded in an abandoned laboratory that was once his home. His only hope of escape is you, and your only means of communication is an intercom that can only produce a single tone.\nControls:\nPress Space to BeepUpdate 2019/08/07: If you're having difficulty getting input commands to be recognized, here are some tips:There are only two kinds of tones/sounds you can make - \"short\" or \"long\" - depending on how long you hold space.For \"short\" tones, very quickly tap space.You do not need to hold space for longer than half a second for a \"long\" tone.\nMade for the 2019 Game Maker's Toolkit Game Jam.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDYyNTA2LzIzNTIzNjIucG5n/original/j%2F44rJ.png",
+          "https://img.itch.zone/aW1hZ2UvNDYyNTA2LzIzNTIzNjMucG5n/original/mAk54U.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.5 out of 5 stars(31 total ratings)",
+          "Author": "J.J. Morgan",
+          "Genre": "Platformer, Puzzle",
+          "Tags": "2D, Game Maker's Toolkit Jam, morse"
+        }
+      }
+    }
+  ]
+}

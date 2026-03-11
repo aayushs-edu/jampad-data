@@ -1,0 +1,3447 @@
+{
+  "n": 64,
+  "name": "GBJam 11",
+  "url": "https://itch.io/jam/gbjam-11",
+  "theme": "Gameboy, Space",
+  "slug": "gbjam-11",
+  "jamMeta": {
+    "jamType": "ended",
+    "ratings": "5,699",
+    "entries": "390",
+    "title": "GBJam 11",
+    "jamURL": "https://itch.io/jam/gbjam-11",
+    "hosts": {
+      "Polyducks": "https://polyducks.itch.io",
+      "timconceivable": "https://timconceivable.itch.io",
+      "Traslogan": "https://traslo.itch.io",
+      "arknano": "https://arknano.itch.io",
+      "tatltuae": "https://tatltuae.itch.io",
+      "#GBJAM": "https://bsky.app/hashtag/GBJAM"
+    },
+    "jamID": "325377"
+  },
+  "totalEntries": 375,
+  "ranked": true,
+  "hasCategories": true,
+  "needsManualSelection": false,
+  "categories": [
+    "Gameboy Soul",
+    "Gameplay",
+    "Graphics",
+    "Interpretation of the Secondary Theme",
+    "Soundtrack/SFX"
+  ],
+  "topGames": [
+    {
+      "gameId": 2280695,
+      "gameUrl": "https://singleshotgamer.itch.io/merc-boy",
+      "overallRank": 1,
+      "topCategories": [
+        "Gameboy Soul",
+        "Gameplay",
+        "Soundtrack/SFX"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "singleshotgamer",
+            "id": 1750810
+          },
+          {
+            "name": "forteXP",
+            "id": 769734
+          }
+        ],
+        "id": 2280695,
+        "rank": 1,
+        "criteria": [
+          {
+            "name": "Gameboy Soul",
+            "raw_score": 4.8125,
+            "rank": 1,
+            "score": 4.8125
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 4.75,
+            "rank": 1,
+            "score": 4.75
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.5625,
+            "rank": 12,
+            "score": 4.5625
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "raw_score": 4.1875,
+            "rank": 49,
+            "score": 4.1875
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "raw_score": 4.3125,
+            "rank": 10,
+            "score": 4.3125
+          }
+        ],
+        "rating_count": 16,
+        "url": "https://itch.io/jam/gbjam-11/rate/2280695",
+        "title": "Merc-Boy",
+        "cover_url": "https://img.itch.zone/aW1nLzEzNzE5NzU5LnBuZw==/300x240%23c/UCCeIJ.png",
+        "raw_score": 4.525,
+        "score": 4.525
+      },
+      "entryData": {
+        "coolness": 15,
+        "rating_count": 16,
+        "created_at": "2023-09-25 03:09:05",
+        "id": 459201,
+        "contributors": [
+          {
+            "name": "singleshotgamer",
+            "url": "https://singleshotgamer.itch.io"
+          },
+          {
+            "name": "forteXP",
+            "url": "https://fortexp.itch.io"
+          }
+        ],
+        "url": "/jam/gbjam-11/rate/2280695",
+        "game": {
+          "short_text": "Merc-Boy is a MEGAMAN-like action platformer. Made for GB Jam 11!",
+          "cover": "https://img.itch.zone/aW1nLzEzNzE5NzU5LnBuZw==/300x240%23c/UCCeIJ.png",
+          "platforms": [
+            "windows"
+          ],
+          "id": 2280695,
+          "cover_color": "#193d3f",
+          "user": {
+            "name": "singleshotgamer",
+            "url": "https://singleshotgamer.itch.io",
+            "id": 1750810
+          },
+          "url": "https://singleshotgamer.itch.io/merc-boy",
+          "title": "Merc-Boy"
+        }
+      },
+      "details": {
+        "title": "Merc-Boy",
+        "description": "About\nMade for GB Jam 11 - Space. Merc-Boy is a MEGA-MAN like action platformer.\nFace off against the space pirates in 5 levels of game-boy action! Pirates have invaded and occupied a space station. Take weapons from bosses you defeat to strengthen your arsenal and fight back against the pirate attack!\n\n⌨️Controls🎮\n\n⌨️Keyboard  main\n⌨️Keyboard  Alt\n🎮GamePad\n  Action\n\n\n\n\n⌨️Arrow Keys \n⌨️ WASD\n🎮 Left stick\nMove/Select\n⌨️X⌨️ J \n🎮A\nJump/Confirm\n⌨️Z⌨️K🎮B\nAttack/Cancel\n⌨️C\n⌨️L🎮Select\nToggle Weapons⌨️ECS\n⌨️Enter\n🎮Start\nMenu\n\n\nCredits:\nPrograming - SIngleShotGamer\nArt - SIngleShotGamer , Atoroth\nMusic - ForteXP\n\n\n    Update 1.0.1\n    - more bug fixes- changed item drop chances on some enemies- Fixed some boss patters- fixed incorrect music playing on bosses- Added new room to  lab X\nUnzip file, maker sure all include files are in the same folder, then run exe.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjI4MDY5NS8xMzUzNTM3NS5naWY=/original/sTt2mP.gif",
+          "https://img.itch.zone/aW1hZ2UvMjI4MDY5NS8xMzUxNjQzOC5wbmc=/original/81ha06.png",
+          "https://img.itch.zone/aW1hZ2UvMjI4MDY5NS8xMzUxNjQzOS5wbmc=/original/xLFWLP.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(4 total ratings)",
+          "Authors": "singleshotgamer, forteXP",
+          "Genre": "Action, Platformer, Shooter",
+          "Tags": "2D, Game Boy, GameMaker, gamepad, Retro, Sci-fi, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 2267323,
+      "gameUrl": "https://lyghtkruz.itch.io/corrupted-signal",
+      "overallRank": 8,
+      "topCategories": [
+        "Gameboy Soul"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "lyghtkruz@gmail.com",
+            "id": 1074792
+          },
+          {
+            "name": "Ferus Lem",
+            "id": 8416900
+          },
+          {
+            "name": "Nova Noodle",
+            "id": 4646251
+          },
+          {
+            "name": "LMGLolo",
+            "id": 1334110
+          },
+          {
+            "name": "mapr",
+            "id": 8120507
+          },
+          {
+            "name": "Osmicow",
+            "id": 2879244
+          }
+        ],
+        "id": 2267323,
+        "rank": 8,
+        "criteria": [
+          {
+            "name": "Graphics",
+            "raw_score": 4.5909090909091,
+            "rank": 11,
+            "score": 4.5909090909091
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "raw_score": 4.2727272727273,
+            "rank": 39,
+            "score": 4.2727272727273
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.5909090909091,
+            "rank": 83,
+            "score": 3.5909090909091
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "raw_score": 4.2727272727273,
+            "rank": 11,
+            "score": 4.2727272727273
+          },
+          {
+            "name": "Gameboy Soul",
+            "raw_score": 4.7272727272727,
+            "rank": 2,
+            "score": 4.7272727272727
+          }
+        ],
+        "rating_count": 22,
+        "url": "https://itch.io/jam/gbjam-11/rate/2267323",
+        "title": "Corrupted Signal",
+        "cover_url": "https://img.itch.zone/aW1nLzEzNTE5Mzk1LnBuZw==/300x240%23c/0Oyn%2Ba.png",
+        "raw_score": 4.2909090909091,
+        "score": 4.2909090909091
+      },
+      "entryData": {
+        "coolness": 41,
+        "rating_count": 22,
+        "created_at": "2023-09-25 06:17:52",
+        "id": 459296,
+        "contributors": [
+          {
+            "name": "lyghtkruz@gmail.com",
+            "url": "https://lyghtkruz.itch.io"
+          },
+          {
+            "name": "Ferus Lem",
+            "url": "https://ferus-lem.itch.io"
+          },
+          {
+            "name": "Nova Noodle",
+            "url": "https://nova-noodle.itch.io"
+          },
+          {
+            "name": "LMGLolo",
+            "url": "https://lmglolo.itch.io"
+          },
+          {
+            "name": "mapr",
+            "url": "https://mprc.itch.io"
+          },
+          {
+            "name": "Osmicow",
+            "url": "https://osmicow.itch.io"
+          }
+        ],
+        "url": "/jam/gbjam-11/rate/2267323",
+        "game": {
+          "short_text": "Gameboy Jam 11 - Space Themed RPG",
+          "cover": "https://img.itch.zone/aW1nLzEzNTE5Mzk1LnBuZw==/300x240%23c/0Oyn%2Ba.png",
+          "platforms": [
+            "windows",
+            "linux",
+            "web"
+          ],
+          "id": 2267323,
+          "cover_color": "#2d162c",
+          "user": {
+            "name": "lyghtkruz@gmail.com",
+            "url": "https://lyghtkruz.itch.io",
+            "id": 1074792
+          },
+          "url": "https://lyghtkruz.itch.io/corrupted-signal",
+          "title": "Corrupted Signal"
+        }
+      },
+      "details": {
+        "title": "Corrupted Signal",
+        "description": "Controls: - WASD / ARROW keys to move - , B button  / 10 Key 0  - . A button / 10 Key period - ' Select Button / 10 Key + Sign  - Enter  Start ButtonPlease note: You can't level above 5There is no Save Progress",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjI2NzMyMy8xMzUxNTU2OS5wbmc=/original/QuySv0.png",
+          "https://img.itch.zone/aW1hZ2UvMjI2NzMyMy8xMzUxNTU3MC5wbmc=/original/nbs%2Fue.png",
+          "https://img.itch.zone/aW1hZ2UvMjI2NzMyMy8xMzUxNTU3MS5wbmc=/original/pOrZZk.png",
+          "https://img.itch.zone/aW1hZ2UvMjI2NzMyMy8xMzUxNTU3Mi5wbmc=/original/FxNwQY.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, Linux",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "lyghtkruz@gmail.com, Ferus Lem, Nova Noodle, LMGLolo, mapr, Osmicow",
+          "Genre": "Role Playing",
+          "Made with": "Godot",
+          "Tags": "Sci-fi, Singleplayer, Solo RPG, Space"
+        }
+      }
+    },
+    {
+      "gameId": 2280636,
+      "gameUrl": "https://monstrous-entertainment.itch.io/unknown-space",
+      "overallRank": 30,
+      "topCategories": [
+        "Gameboy Soul"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Monstrous Entertainment",
+            "id": 7286320
+          }
+        ],
+        "id": 2280636,
+        "rank": 30,
+        "criteria": [
+          {
+            "name": "Gameboy Soul",
+            "raw_score": 4.6756756756757,
+            "rank": 3,
+            "score": 4.6756756756757
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.2702702702703,
+            "rank": 36,
+            "score": 4.2702702702703
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "raw_score": 3.6756756756757,
+            "rank": 78,
+            "score": 3.6756756756757
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "raw_score": 3.9459459459459,
+            "rank": 95,
+            "score": 3.9459459459459
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.7297297297297,
+            "rank": 61,
+            "score": 3.7297297297297
+          }
+        ],
+        "rating_count": 37,
+        "url": "https://itch.io/jam/gbjam-11/rate/2280636",
+        "title": "Unknown Space: GBJam11 Edition",
+        "cover_url": "https://img.itch.zone/aW1nLzEzNTI2Njg0LmdpZg==/300x240%23c/7sCTrW.gif",
+        "raw_score": 4.0594594594595,
+        "score": 4.0594594594595
+      },
+      "entryData": {
+        "coolness": 67,
+        "rating_count": 37,
+        "created_at": "2023-09-25 03:26:05",
+        "id": 459214,
+        "game": {
+          "short_text": "Action RPG set in space for Gameboy. GBJam11 Entry,",
+          "id": 2280636,
+          "user": {
+            "name": "Monstrous Entertainment",
+            "url": "https://monstrous-entertainment.itch.io",
+            "id": 7286320
+          },
+          "url": "https://monstrous-entertainment.itch.io/unknown-space",
+          "cover": "https://img.itch.zone/aW1nLzEzNTI2Njg0LmdpZg==/300x240%23c/7sCTrW.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzEzNTI2Njg0LmdpZg==/original/9MftFb.gif",
+          "platforms": [
+            "windows",
+            "linux",
+            "web"
+          ],
+          "cover_color": "#243242",
+          "title": "Unknown Space: GBJam11 Edition"
+        },
+        "url": "/jam/gbjam-11/rate/2280636"
+      },
+      "details": {
+        "title": "Unknown Space: GBJam11 Edition",
+        "description": "Game Description:\nThis game is our entry to GBJam11. It is an action RPG with a climactic shoot 'em up space battle!\n*Note the game is best played on the ROM version. The audio levelling still needs some adjustment but works best in the ROM.\nKeyboard Controls:\nArrow Keys: Move\n\nX = B (Attack, Cancel)\n\nZ = A (Action)\n\nEnter: Start Menu\n\nR Shift: Save Menu\n\nSpace Shooter Level:\n\nA: Laser\n\nB: Rocket\nXBOX Controller:\nD pad: Move\n\nA: Attack, Cancel\n\nB: Action\n\nStart: Start Menu\n\nSelect: Pause Menu\n\nSpace Shooter Level:\nB: Laser\n\nA: Rocket\n\n\nGame Credits\nDaniel Cox- Project Manager, StoryBen Topple  - Lead Game Designer, Art, Animation, Game DeveloperSirLampsAlot - Composer, Sound EffectsOphxnim - ComposerThomas M - Play Tester\nMade in GB Studio\nGameboy rom available to download below!\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjI4MDYzNi8xMzUxNDAwNS5wbmc=/original/S3bngy.png",
+          "https://img.itch.zone/aW1hZ2UvMjI4MDYzNi8xMzUxNDAwNi5wbmc=/original/j9b43M.png",
+          "https://img.itch.zone/aW1hZ2UvMjI4MDYzNi8xMzUxNDAwNy5wbmc=/original/1dxE%2Fb.png",
+          "https://img.itch.zone/aW1hZ2UvMjI4MDYzNi8xMzUxNDAwOC5wbmc=/original/wDVUVC.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, Linux",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Monstrous Entertainment",
+          "Genre": "Adventure, Action, Role Playing",
+          "Tags": "2D, Game Boy, GBJam, Pixel Art, Retro, Singleplayer, Space"
+        }
+      }
+    },
+    {
+      "gameId": 2281164,
+      "gameUrl": "https://danknstein.itch.io/gravity-boy",
+      "overallRank": 6,
+      "topCategories": [
+        "Gameboy Soul",
+        "Gameplay"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "DankNStein",
+            "id": 6686603
+          }
+        ],
+        "id": 2281164,
+        "rank": 6,
+        "criteria": [
+          {
+            "name": "Soundtrack/SFX",
+            "raw_score": 3.875,
+            "rank": 47,
+            "score": 3.875
+          },
+          {
+            "name": "Gameboy Soul",
+            "raw_score": 4.625,
+            "rank": 4,
+            "score": 4.625
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 4.5625,
+            "rank": 4,
+            "score": 4.5625
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4,
+            "rank": 75,
+            "score": 4
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "raw_score": 4.4375,
+            "rank": 16,
+            "score": 4.4375
+          }
+        ],
+        "rating_count": 16,
+        "url": "https://itch.io/jam/gbjam-11/rate/2281164",
+        "title": "Gravity Boy",
+        "cover_url": "https://img.itch.zone/aW1nLzEzNTE3NTQ2LnBuZw==/300x240%23c/7hloQw.png",
+        "raw_score": 4.3,
+        "score": 4.3
+      },
+      "entryData": {
+        "coolness": 6,
+        "rating_count": 16,
+        "created_at": "2023-09-25 10:48:11",
+        "id": 459468,
+        "game": {
+          "short_text": "12 Games in 12 Months: 8/12 (6th Place in GBJam 11 Sept 2023)",
+          "cover": "https://img.itch.zone/aW1nLzEzNTE3NTQ2LnBuZw==/300x240%23c/7hloQw.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 2281164,
+          "cover_color": "#4b564d",
+          "user": {
+            "name": "DankNStein",
+            "url": "https://danknstein.itch.io",
+            "id": 6686603
+          },
+          "url": "https://danknstein.itch.io/gravity-boy",
+          "title": "Gravity Boy"
+        },
+        "url": "/jam/gbjam-11/rate/2281164"
+      },
+      "details": {
+        "title": "Gravity Boy",
+        "description": "Made for GBJam 11.\nThe theme was SPACE.\nI made a gravity based puzzle platformer.\nWASD to move, K to jump, J to toggle gravity, Enter to Start.\nSound and Music by Peter K Sperring.\n12 Games in 12 Months: 8/12\n\nDankNStein Games #009",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzEzNTE3NTQ2LnBuZw==/original/DpXIgM.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "DankNStein",
+          "Genre": "Puzzle, Platformer",
+          "Made with": "Godot",
+          "Tags": "Game Boy, Gravity, Pixel Art, Space"
+        }
+      }
+    },
+    {
+      "gameId": 2280564,
+      "gameUrl": "https://the-sam.itch.io/space-landers",
+      "overallRank": 18,
+      "topCategories": [
+        "Gameboy Soul",
+        "Gameplay"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "The Sam",
+            "id": 2377889
+          },
+          {
+            "name": "MysticFox98",
+            "id": 2375135
+          }
+        ],
+        "id": 2280564,
+        "rank": 18,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 4.5,
+            "rank": 5,
+            "score": 4.5
+          },
+          {
+            "name": "Gameboy Soul",
+            "raw_score": 4.6,
+            "rank": 5,
+            "score": 4.6
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "raw_score": 3.5,
+            "rank": 108,
+            "score": 3.5
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.9,
+            "rank": 91,
+            "score": 3.9
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "raw_score": 4.5,
+            "rank": 13,
+            "score": 4.5
+          }
+        ],
+        "rating_count": 10,
+        "url": "https://itch.io/jam/gbjam-11/rate/2280564",
+        "title": "Space Landers",
+        "cover_url": "https://img.itch.zone/aW1nLzEzNTEzNjI1LnBuZw==/300x240%23c/gzqpIe.png",
+        "raw_score": 4.2,
+        "score": 4.2
+      },
+      "entryData": {
+        "coolness": 4,
+        "rating_count": 10,
+        "created_at": "2023-09-25 02:22:25",
+        "id": 459174,
+        "contributors": [
+          {
+            "name": "The Sam",
+            "url": "https://the-sam.itch.io"
+          },
+          {
+            "name": "MysticFox98",
+            "url": "https://jadahall-1998.itch.io"
+          }
+        ],
+        "url": "/jam/gbjam-11/rate/2280564",
+        "game": {
+          "short_text": "Park in the SPACE",
+          "cover": "https://img.itch.zone/aW1nLzEzNTEzNjI1LnBuZw==/300x240%23c/gzqpIe.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 2280564,
+          "cover_color": "#0f2a37",
+          "user": {
+            "name": "The Sam",
+            "url": "https://the-sam.itch.io",
+            "id": 2377889
+          },
+          "url": "https://the-sam.itch.io/space-landers",
+          "title": "Space Landers"
+        }
+      },
+      "details": {
+        "title": "Space Landers",
+        "description": "Welcome to the PARKINGSPACE!\nIn this short interactive space-based parking simulator for the Gameboy and Personal Computer, you have a test to pass! Fly across the rough and rocky terrain of various asteroids and moons in your fragile little rinky-dink ship, and earn your space driver's license!\nControls:\nIn this game, spacing is key. Fly through cramped low-gravity spaces, where even the slightest bump can spell your doom! You will need these controls if you are to survive:\nKeyboard:\nArrow Keys: Move (only when flying)Z: Fly (by the way, when the cutscenes say to press A just press Z instead)X: ShootEnter: Start\nGameboy:\nD-Pad: Move (only when flying)\nA: FlyB: ShootStart: Start\nUh, who makes this?\nThe Sam: Game Design, Level Design, Scripting, ArtMysticFox: Art and Level DesignIPEKEK: MusicSpecial thanks to Coffee \"Valen\" Bat for the wonderful sound effects package we used in the making of this game! Check it out here!\nThis game was made for GBJam 11. Behold!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjI4MDU2NC8xMzU0OTk4Ni5wbmc=/original/5jnSv7.png",
+          "https://img.itch.zone/aW1hZ2UvMjI4MDU2NC8xMzU0OTk4OC5wbmc=/original/YvEFTp.png",
+          "https://img.itch.zone/aW1hZ2UvMjI4MDU2NC8xMzU0OTk4Ny5wbmc=/original/XrKSFj.png",
+          "https://img.itch.zone/aW1hZ2UvMjI4MDU2NC8xMzU0OTk4OS5wbmc=/original/RKwiRz.png",
+          "https://img.itch.zone/aW1hZ2UvMjI4MDU2NC8xMzU0OTk5MC5wbmc=/original/Vgra1S.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "The Sam, MysticFox98",
+          "Genre": "Platformer",
+          "Tags": "2D, 8-Bit, Game Boy, GBJam, Pixel Art, Retro, Short, Singleplayer, Space"
+        }
+      }
+    },
+    {
+      "gameId": 2278658,
+      "gameUrl": "https://damianldf.itch.io/crowded-bus",
+      "overallRank": 25,
+      "topCategories": [
+        "Gameboy Soul",
+        "Interpretation of the Secondary Theme"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "DamianLDF",
+            "id": 2008397
+          }
+        ],
+        "id": 2278658,
+        "rank": 25,
+        "criteria": [
+          {
+            "name": "Gameboy Soul",
+            "raw_score": 4.6,
+            "rank": 5,
+            "score": 4.6
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.7333333333333,
+            "rank": 115,
+            "score": 3.7333333333333
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "raw_score": 3.3333333333333,
+            "rank": 141,
+            "score": 3.3333333333333
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "raw_score": 4.7333333333333,
+            "rank": 2,
+            "score": 4.7333333333333
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 4.1333333333333,
+            "rank": 23,
+            "score": 4.1333333333333
+          }
+        ],
+        "rating_count": 15,
+        "url": "https://itch.io/jam/gbjam-11/rate/2278658",
+        "title": "Crowded Bus",
+        "cover_url": "https://img.itch.zone/aW1nLzEzNTAxMzk0LnBuZw==/300x240%23c/TNa%2BWS.png",
+        "raw_score": 4.1066666666667,
+        "score": 4.1066666666667
+      },
+      "entryData": {
+        "coolness": 46,
+        "rating_count": 15,
+        "created_at": "2023-09-24 02:46:15",
+        "id": 458572,
+        "game": {
+          "short_text": "Find your way out of a crowded bus",
+          "cover": "https://img.itch.zone/aW1nLzEzNTAxMzk0LnBuZw==/300x240%23c/TNa%2BWS.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 2278658,
+          "cover_color": "#306850",
+          "user": {
+            "name": "DamianLDF",
+            "url": "https://damianldf.itch.io",
+            "id": 2008397
+          },
+          "url": "https://damianldf.itch.io/crowded-bus",
+          "title": "Crowded Bus"
+        },
+        "url": "/jam/gbjam-11/rate/2278658"
+      },
+      "details": {
+        "title": "Crowded Bus",
+        "description": "Web Controls:\nArrows+Z+X or WASD+J+KGameBoy controls:D-Pad to moveA to elbow peopleB or Select to restart the level",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjI3ODY1OC8xMzUwMTQyMy5wbmc=/original/2rVDJN.png",
+          "https://img.itch.zone/aW1hZ2UvMjI3ODY1OC8xMzUwMTQyMS5wbmc=/original/0dSkmY.png",
+          "https://img.itch.zone/aW1hZ2UvMjI3ODY1OC8xMzUwMTQyMi5wbmc=/original/rXMEKv.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "DamianLDF",
+          "Genre": "Puzzle",
+          "Made with": "GIMP, GB Studio",
+          "Tags": "Game Boy, Game Boy ROM, GBJam, Pixel Art, Retro"
+        }
+      }
+    },
+    {
+      "gameId": 2278857,
+      "gameUrl": "https://raptorspank.itch.io/deep-space-trucker",
+      "overallRank": 68,
+      "topCategories": [
+        "Gameboy Soul",
+        "Interpretation of the Secondary Theme"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Raptorspank",
+            "id": 6021994
+          }
+        ],
+        "id": 2278857,
+        "rank": 68,
+        "criteria": [
+          {
+            "name": "Gameboy Soul",
+            "raw_score": 4.6,
+            "rank": 5,
+            "score": 4.6
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "raw_score": 4.72,
+            "rank": 3,
+            "score": 4.72
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.32,
+            "rank": 124,
+            "score": 3.32
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.6,
+            "rank": 137,
+            "score": 3.6
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "raw_score": 2.76,
+            "rank": 220,
+            "score": 2.76
+          }
+        ],
+        "rating_count": 25,
+        "url": "https://itch.io/jam/gbjam-11/rate/2278857",
+        "title": "Deep Space Trucker 9",
+        "cover_url": "https://img.itch.zone/aW1nLzEzNjI5NjY5LnBuZw==/300x240%23c/ZNr4ts.png",
+        "raw_score": 3.8,
+        "score": 3.8
+      },
+      "entryData": {
+        "coolness": 85,
+        "rating_count": 25,
+        "created_at": "2023-09-25 06:23:26",
+        "id": 459299,
+        "game": {
+          "short_text": "Retro-style space trucker game about hauling cargo and paying off your debt.",
+          "cover": "https://img.itch.zone/aW1nLzEzNjI5NjY5LnBuZw==/300x240%23c/ZNr4ts.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 2278857,
+          "cover_color": "#86c06c",
+          "user": {
+            "name": "Raptorspank",
+            "url": "https://raptorspank.itch.io",
+            "id": 6021994
+          },
+          "url": "https://raptorspank.itch.io/deep-space-trucker",
+          "title": "Deep Space Trucker 9"
+        },
+        "url": "/jam/gbjam-11/rate/2278857"
+      },
+      "details": {
+        "title": "Deep Space Trucker 9",
+        "description": "My submission to GBJam 11, Deep Space Trucker 9 is a slice-of-life game about hauling cargo around to pay off your ship's debt. This will involve carefully choosing your cargo and taking advantage of different prices at each location. \nThe theme for the Jam was Space which this game showcases in a couple of unique ways. First, the most obvious is that the game takes place in space. However, a key component of the game is managing the space of your cargo hold by selecting different types of cargo and balancing the weight between the left and right holds. Finally, the player's ship also includes an option to re-arrange furniture to affect the space within your ship. \nAs a part of GBJam, the game is designed to look like a Gameboy game. However, the game was also made using GB Studio so you can also play the game on a similar platform by downloading the ROM and running the .gb file.This page is the original Jam version/post-jam version. The full in development game can be found here as Cos-Mack Trucker. \nControls:\nWASD/Arrow Keys - Move\nZ/J - Interact\nX/K - Cancel\nEnter - Start",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjI3ODg1Ny8xMzUxNTQxOC5naWY=/original/r6MxBk.gif",
+          "https://img.itch.zone/aW1hZ2UvMjI3ODg1Ny8xMzUxNTQ0MC5naWY=/original/%2BX4pbv.gif",
+          "https://img.itch.zone/aW1hZ2UvMjI3ODg1Ny8xMzY2OTMyMi5wbmc=/original/7CqCdE.png",
+          "https://img.itch.zone/aW1hZ2UvMjI3ODg1Ny8xMzUyNjI0OS5wbmc=/original/WU0%2Blr.png",
+          "https://img.itch.zone/aW1hZ2UvMjI3ODg1Ny8xMzUyNjI0Ny5wbmc=/original/q1dCIG.png",
+          "https://img.itch.zone/aW1hZ2UvMjI3ODg1Ny8xMzY2OTMyMC5wbmc=/original/Szat1M.png",
+          "https://img.itch.zone/aW1hZ2UvMjI3ODg1Ny8xMzUxNTM3Ni5wbmc=/original/Ip47jr.png",
+          "https://img.itch.zone/aW1hZ2UvMjI3ODg1Ny8xMzY2OTMyNS5wbmc=/original/yiAKpD.png",
+          "https://img.itch.zone/aW1hZ2UvMjI3ODg1Ny8xMzUxNTM3OS5wbmc=/original/oACLeo.png",
+          "https://img.itch.zone/aW1hZ2UvMjI3ODg1Ny8xMzUyNjI1MC5wbmc=/original/ynRjAD.png",
+          "https://img.itch.zone/aW1hZ2UvMjI3ODg1Ny8xMzUxNTM4OC5qcGc=/original/ZMmy6a.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjI3ODg1Ny8xMzUxNTM4OS5qcGc=/original/Ls1NnX.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows",
+          "Author": "Raptorspank",
+          "Genre": "Simulation",
+          "Made with": "Aseprite, Tiled, GB Studio",
+          "Tags": "Aliens, Asteroids, Casual, Game Boy, Game Boy ROM, GBJam, Sci-fi, Slice Of Life, Space, Space Sim",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": 2262604,
+      "gameUrl": "https://ryanflorestt.itch.io/hopscape",
+      "overallRank": 91,
+      "topCategories": [
+        "Gameboy Soul"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "TrustyTea",
+            "id": 7306742
+          },
+          {
+            "name": "strawberrycongee",
+            "id": 6642552
+          },
+          {
+            "name": "FrogFriendMax",
+            "id": 1270365
+          },
+          {
+            "name": "Emily S Behar",
+            "id": 4906080
+          }
+        ],
+        "id": 2262604,
+        "rank": 91,
+        "criteria": [
+          {
+            "name": "Soundtrack/SFX",
+            "raw_score": 3.8571428571429,
+            "rank": 49,
+            "score": 3.8571428571429
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.9285714285714,
+            "rank": 83,
+            "score": 3.9285714285714
+          },
+          {
+            "name": "Gameboy Soul",
+            "raw_score": 4.5714285714286,
+            "rank": 8,
+            "score": 4.5714285714286
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3,
+            "rank": 178,
+            "score": 3
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "raw_score": 3.1428571428571,
+            "rank": 254,
+            "score": 3.1428571428571
+          }
+        ],
+        "rating_count": 14,
+        "url": "https://itch.io/jam/gbjam-11/rate/2262604",
+        "title": "Hopscape",
+        "cover_url": "https://img.itch.zone/aW1nLzEzNDc2NDM1LmdpZg==/300x240%23c/32RYf9.gif",
+        "raw_score": 3.7,
+        "score": 3.7
+      },
+      "entryData": {
+        "coolness": 14,
+        "rating_count": 14,
+        "created_at": "2023-09-25 05:14:00",
+        "id": 459258,
+        "contributors": [
+          {
+            "name": "TrustyTea",
+            "url": "https://ryanflorestt.itch.io"
+          },
+          {
+            "name": "strawberrycongee",
+            "url": "https://strawberrycongee.itch.io"
+          },
+          {
+            "name": "FrogFriendMax",
+            "url": "https://frogfriendmax.itch.io"
+          },
+          {
+            "name": "Emily S Behar",
+            "url": "https://saberamesia.itch.io"
+          }
+        ],
+        "url": "/jam/gbjam-11/rate/2262604",
+        "game": {
+          "short_text": "Adventure game that challenges you to navigate a dungeon filled.. with missing spaces...",
+          "id": 2262604,
+          "user": {
+            "name": "TrustyTea",
+            "url": "https://ryanflorestt.itch.io",
+            "id": 7306742
+          },
+          "url": "https://ryanflorestt.itch.io/hopscape",
+          "cover": "https://img.itch.zone/aW1nLzEzNDc2NDM1LmdpZg==/300x240%23c/32RYf9.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzEzNDc2NDM1LmdpZg==/original/BCq%2Fyo.gif",
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#3a5068",
+          "title": "Hopscape"
+        }
+      },
+      "details": {
+        "title": "Hopscape",
+        "description": "Hopscape is an adventure game that challenges you to navigate a dungeon filled.. with missing spaces...\nYour mission: Clear rooms of varying types to reach the end of each level. But here's the twist - you get to choose which rooms fill those empty spaces! \nWill you opt for the path of least resistance, selecting rooms with fewer encounters? Or will you embrace the challenge and take on enemies for greater rewards? \n\nThe choice is yours!\nRoom TypeDescriptionPointsPotionHealing Time!+ 15 PointsQuestion Mark '?'Puzzle Room!+ 30 PointsSkullFight Enemies!+ 75 Points\nControl\nKey BoardGame PadMoveWSADD-Pad  ( left-stick is buggy :P )ConfirmKAAttackLBStartReturn/EnterStartSelectSpaceSelectComment your high score!Credits\nDevelopers: Ryan Flores, Robby\nGraphics & Character Design: @strawberrycongee\nComposer & Sound Designer: Emily S. Behar\nGame Concept: Max Webster\nLink to Repo: GitHub",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzEzNDc2NDM1LmdpZg==/original/BCq%2Fyo.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Authors": "TrustyTea, strawberrycongee, FrogFriendMax, Emily S Behar",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "Game Boy"
+        }
+      }
+    },
+    {
+      "gameId": 2279429,
+      "gameUrl": "https://doctor-succubus.itch.io/space-pirate-spritz",
+      "overallRank": 7,
+      "topCategories": [
+        "Gameboy Soul",
+        "Gameplay",
+        "Graphics",
+        "Soundtrack/SFX"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Doctor_Succubus",
+            "id": 1758281
+          }
+        ],
+        "id": 2279429,
+        "rank": 7,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 4.4057971014493,
+            "rank": 9,
+            "score": 4.4057971014493
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.6086956521739,
+            "rank": 8,
+            "score": 4.6086956521739
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "raw_score": 4.3768115942029,
+            "rank": 4,
+            "score": 4.3768115942029
+          },
+          {
+            "name": "Gameboy Soul",
+            "raw_score": 4.5507246376812,
+            "rank": 9,
+            "score": 4.5507246376812
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "raw_score": 3.5217391304348,
+            "rank": 190,
+            "score": 3.5217391304348
+          }
+        ],
+        "rating_count": 69,
+        "url": "https://itch.io/jam/gbjam-11/rate/2279429",
+        "title": "Space Pirate Spritz",
+        "cover_url": "https://img.itch.zone/aW1nLzEzNTE0ODI5LmdpZg==/300x240%23c/r0c68F.gif",
+        "raw_score": 4.2927536231884,
+        "score": 4.2927536231884
+      },
+      "entryData": {
+        "coolness": 65,
+        "rating_count": 69,
+        "created_at": "2023-09-24 18:49:35",
+        "id": 458803,
+        "game": {
+          "short_text": "Wacky little platformer - for GBJam11",
+          "id": 2279429,
+          "user": {
+            "name": "Doctor_Succubus",
+            "url": "https://doctor-succubus.itch.io",
+            "id": 1758281
+          },
+          "url": "https://doctor-succubus.itch.io/space-pirate-spritz",
+          "cover": "https://img.itch.zone/aW1nLzEzNTE0ODI5LmdpZg==/300x240%23c/r0c68F.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzEzNTE0ODI5LmdpZg==/original/SyOw0S.gif",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#1E1C1B",
+          "title": "Space Pirate Spritz"
+        },
+        "url": "/jam/gbjam-11/rate/2279429"
+      },
+      "details": {
+        "title": "Space Pirate Spritz",
+        "description": "Join Space Pirate Spritz on a wacky dash through the galaxy on the hunt for magical wish granting stars!\n\nIf your browser is being weird, try downloading the windows version below!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjI3OTQyOS8xMzUwNjQ0NC5naWY=/original/oXopon.gif",
+          "https://img.itch.zone/aW1hZ2UvMjI3OTQyOS8xMzUwNjQ0OS5naWY=/original/VgO9ef.gif",
+          "https://img.itch.zone/aW1hZ2UvMjI3OTQyOS8xMzUwNjU1MC5naWY=/original/FB6m3u.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.9 out of 5 stars(8 total ratings)",
+          "Author": "Doctor_Succubus",
+          "Genre": "Platformer",
+          "Made with": "GameMaker",
+          "Tags": "2D, Cute, Pixel Art, Retro, Short"
+        }
+      }
+    },
+    {
+      "gameId": 2270039,
+      "gameUrl": "https://fallingwallgames.itch.io/daggers-last-testament",
+      "overallRank": 75,
+      "topCategories": [
+        "Gameboy Soul"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "FallingWallGames",
+            "id": 3605964
+          }
+        ],
+        "id": 2270039,
+        "rank": 75,
+        "criteria": [
+          {
+            "name": "Gameboy Soul",
+            "raw_score": 4.5121951219512,
+            "rank": 10,
+            "score": 4.5121951219512
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.3414634146341,
+            "rank": 120,
+            "score": 3.3414634146341
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.1463414634146,
+            "rank": 57,
+            "score": 4.1463414634146
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "raw_score": 4.0731707317073,
+            "rank": 68,
+            "score": 4.0731707317073
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "raw_score": 2.8536585365854,
+            "rank": 212,
+            "score": 2.8536585365854
+          }
+        ],
+        "rating_count": 41,
+        "url": "https://itch.io/jam/gbjam-11/rate/2270039",
+        "title": "Dagger's Last Testament",
+        "cover_url": "https://img.itch.zone/aW1nLzEzNTExMTE0LnBuZw==/300x240%23c/Jy7ES1.png",
+        "raw_score": 3.7853658536585,
+        "score": 3.7853658536585
+      },
+      "entryData": {
+        "coolness": 72,
+        "rating_count": 41,
+        "created_at": "2023-09-24 22:15:15",
+        "id": 458967,
+        "game": {
+          "short_text": "A retired star pilot receives an unwelcome visit.",
+          "cover": "https://img.itch.zone/aW1nLzEzNTExMTE0LnBuZw==/300x240%23c/Jy7ES1.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 2270039,
+          "cover_color": "#306850",
+          "user": {
+            "name": "FallingWallGames",
+            "url": "https://fallingwallgames.itch.io",
+            "id": 3605964
+          },
+          "url": "https://fallingwallgames.itch.io/daggers-last-testament",
+          "title": "Dagger's Last Testament"
+        },
+        "url": "/jam/gbjam-11/rate/2270039"
+      },
+      "details": {
+        "title": "Dagger's Last Testament",
+        "description": "A retired star pilot receives an unwelcome visit. \nA button to interact, B button to shoot.\nKeyboard controls:\nWASD/Arrow keys to move.\nZ to interact, X to shoot.\nEnter = Start button\nBrowser version playable on mobile. ROM compatible with Gameboy emulators.\n\"Dagger's Last Testament\"\nCreated in 10 days for GBJam 11\nTheme: Space\nhttps://itch.io/jam/gbjam-11\nTools: GB Studio and Aseprite\n(c) 2023 Alexander KazazisThe ROM can be run on a Gameboy emulator.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjI3MDAzOS8xMzQ1MjE0NC5wbmc=/original/QHmuRd.png",
+          "https://img.itch.zone/aW1hZ2UvMjI3MDAzOS8xMzQ1MjE0NS5wbmc=/original/jJgiGU.png",
+          "https://img.itch.zone/aW1hZ2UvMjI3MDAzOS8xMzQ1MjE0OC5wbmc=/original/GZ0QZY.png",
+          "https://img.itch.zone/aW1hZ2UvMjI3MDAzOS8xMzQ1MjE0Ni5wbmc=/original/Y8vAxt.png",
+          "https://img.itch.zone/aW1hZ2UvMjI3MDAzOS8xMzQ1MjE0Ny5wbmc=/original/4j%2Fzy1.png",
+          "https://img.itch.zone/aW1hZ2UvMjI3MDAzOS8xMzUwNzQyNS5wbmc=/original/pJRsBO.png",
+          "https://img.itch.zone/aW1hZ2UvMjI3MDAzOS8xMzUwNzc0Mi5wbmc=/original/WtYViR.png",
+          "https://img.itch.zone/aW1hZ2UvMjI3MDAzOS8xMzUwNzQzMC5wbmc=/original/cxry8G.png",
+          "https://img.itch.zone/aW1hZ2UvMjI3MDAzOS8xMzUwNzQ0My5wbmc=/original/P7DeaN.png",
+          "https://img.itch.zone/aW1hZ2UvMjI3MDAzOS8xMzUxMTAzOS5wbmc=/original/2gW%2Fkh.png",
+          "https://img.itch.zone/aW1hZ2UvMjI3MDAzOS8xMzUxMTA0Mi5wbmc=/original/rsQmDA.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "FallingWallGames",
+          "Genre": "Adventure",
+          "Tags": "2D, Game Boy, Horror, Pixel Art, Retro, Sci-fi, Short, Singleplayer, Space, Story Rich"
+        }
+      }
+    },
+    {
+      "gameId": 2279189,
+      "gameUrl": "https://cosmiccrystal.itch.io/heros-hero",
+      "overallRank": 2,
+      "topCategories": [
+        "Gameplay",
+        "Graphics",
+        "Interpretation of the Secondary Theme"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Cosmic Crystal Games",
+            "id": 620451
+          },
+          {
+            "name": "Lymb0",
+            "id": 8807076
+          },
+          {
+            "name": "RedRageMage",
+            "id": 1774669
+          },
+          {
+            "name": "GameDevWhy",
+            "id": 6471986
+          }
+        ],
+        "id": 2279189,
+        "rank": 2,
+        "criteria": [
+          {
+            "name": "Soundtrack/SFX",
+            "raw_score": 4.05,
+            "rank": 29,
+            "score": 4.05
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 4.6,
+            "rank": 2,
+            "score": 4.6
+          },
+          {
+            "name": "Gameboy Soul",
+            "raw_score": 4.4,
+            "rank": 23,
+            "score": 4.4
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "raw_score": 4.6,
+            "rank": 5,
+            "score": 4.6
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.65,
+            "rank": 7,
+            "score": 4.65
+          }
+        ],
+        "rating_count": 20,
+        "url": "https://itch.io/jam/gbjam-11/rate/2279189",
+        "title": "Hero's Hero DX",
+        "cover_url": "https://img.itch.zone/aW1nLzEzNjYyNjA5LmdpZg==/300x240%23c/V8UXqO.gif",
+        "raw_score": 4.46,
+        "score": 4.46
+      },
+      "entryData": {
+        "coolness": 11,
+        "rating_count": 20,
+        "created_at": "2023-09-25 10:06:28",
+        "id": 459430,
+        "contributors": [
+          {
+            "name": "Cosmic Crystal Games",
+            "url": "https://cosmiccrystal.itch.io"
+          },
+          {
+            "name": "Lymb0",
+            "url": "https://lymb0.itch.io"
+          },
+          {
+            "name": "RedRageMage",
+            "url": "https://redragemage.itch.io"
+          },
+          {
+            "name": "GameDevWhy",
+            "url": "https://gamedevwhy.itch.io"
+          }
+        ],
+        "url": "/jam/gbjam-11/rate/2279189",
+        "game": {
+          "short_text": "A short arcade-puzzle adventure made for GB Jam 11!",
+          "id": 2279189,
+          "user": {
+            "name": "Cosmic Crystal Games",
+            "url": "https://cosmiccrystal.itch.io",
+            "id": 620451
+          },
+          "url": "https://cosmiccrystal.itch.io/heros-hero",
+          "cover": "https://img.itch.zone/aW1nLzEzNjYyNjA5LmdpZg==/300x240%23c/V8UXqO.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzEzNjYyNjA5LmdpZg==/original/GBWSPq.gif",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#eeeeee",
+          "title": "Hero's Hero DX"
+        }
+      },
+      "details": {
+        "title": "Hero's Hero DX",
+        "description": "About\nMade for GB Jam 11, 'HERO'S HERO' is a short and sweet action-puzzle adventure game with a focus on inventory management. Join Edgar and Tory on their quest to save the princess and return peace to the land, while trying not to run out of space for all your shiny loot!\nNew post-jam update available! Play it now in your browser! :D\nHow to Play\nMove Tory around the inventory with the D-Pad.Pickup and place items with the A button.Hold the B button to speed up loot spawning!Place items of the same type next to each other to merge them! They will be more effective!Make sure to keep your hero well-fed, armored up and equipped with weapons at all times!\n\nControls\nINPUTKeyboardKeyboard (Alternate)GamepadD-PadArrrowsWASDD-Pad or Left StickA ButtonZJAB ButtonXKBStartEnterEscStartSelectShiftTabSelect\n\nCredits\nTyler / TyBeamCannon\nRhys / KidCrystal\nAndrew / Astrophibian\nDanny / Limbow\nCarmichael / FluffyMecha",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjI3OTE4OS8xMzUxNzM0OS5wbmc=/original/1mBqTv.png",
+          "https://img.itch.zone/aW1hZ2UvMjI3OTE4OS8xMzUxNzM0OC5wbmc=/original/T%2FFOF7.png",
+          "https://img.itch.zone/aW1hZ2UvMjI3OTE4OS8xMzUxNzM1My5wbmc=/original/WUqzSC.png",
+          "https://img.itch.zone/aW1hZ2UvMjI3OTE4OS8xMzUxNzM1Mi5wbmc=/original/na4uap.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.9 out of 5 stars(15 total ratings)",
+          "Authors": "Cosmic Crystal Games, Lymb0, RedRageMage, GameDevWhy",
+          "Genre": "Puzzle, Action, Adventure, Role Playing",
+          "Made with": "GameMaker",
+          "Tags": "Arcade, Fantasy, Game Boy, GBJam, Pixel Art, Retro"
+        }
+      }
+    },
+    {
+      "gameId": 2277336,
+      "gameUrl": "https://zahranworrell.itch.io/ssth",
+      "overallRank": 19,
+      "topCategories": [
+        "Gameplay",
+        "Soundtrack/SFX"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "ZahranW",
+            "id": 1006521
+          }
+        ],
+        "id": 2277336,
+        "rank": 19,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 4.6,
+            "rank": 2,
+            "score": 4.6
+          },
+          {
+            "name": "Gameboy Soul",
+            "raw_score": 4.1,
+            "rank": 59,
+            "score": 4.1
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "raw_score": 3.35,
+            "rank": 229,
+            "score": 3.35
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.55,
+            "rank": 15,
+            "score": 4.55
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "raw_score": 4.35,
+            "rank": 6,
+            "score": 4.35
+          }
+        ],
+        "rating_count": 20,
+        "url": "https://itch.io/jam/gbjam-11/rate/2277336",
+        "title": "Starsign Treasure Hunter",
+        "cover_url": "https://img.itch.zone/aW1nLzEzNTM0MTc4LmdpZg==/300x240%23c/Dp%2FWVC.gif",
+        "raw_score": 4.19,
+        "score": 4.19
+      },
+      "entryData": {
+        "coolness": 10,
+        "rating_count": 20,
+        "created_at": "2023-09-24 09:13:23",
+        "id": 458625,
+        "game": {
+          "short_text": "Shoot the stars",
+          "id": 2277336,
+          "user": {
+            "name": "ZahranW",
+            "url": "https://zahranworrell.itch.io",
+            "id": 1006521
+          },
+          "url": "https://zahranworrell.itch.io/ssth",
+          "cover": "https://img.itch.zone/aW1nLzEzNTM0MTc4LmdpZg==/300x240%23c/Dp%2FWVC.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzEzNTM0MTc4LmdpZg==/original/3DJuZA.gif",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#000000",
+          "title": "Starsign Treasure Hunter"
+        },
+        "url": "/jam/gbjam-11/rate/2277336"
+      },
+      "details": {
+        "title": "Starsign Treasure Hunter",
+        "description": "\n\n\n\nStar Sign Treasure Hunter is an Item management RPG in which every day, the player can take some time to explore and find items useful items that must also be carefully selected to be sold to pay off their friend's rent.\n\nplease note that due to this game being made in a week, certain aspects are missing polish and or may be dysfunctional at times.\n\nGameplay:\n\nPlay through one week where every day you have time to explore a portion of a dungeon. Fight enemies and find treasure to amass wealth and help pay your friend's rent\nBattles:\nBattles are turn based. With the player always going first if they manage to land a first strike on their opponent by attacking them in the overworld.\nEach participant in a battle makes use of \"skills\" to attack enemies and support their allies. These skills cost SP to use, which can only be restored by items or by returning to the overworld.\nIf a participant (both the player's party and the opposing party) strikes an enemy with a skill of a type that the target is weak to, they will gain \"tempo\", which allows them to take another action for free. Alternatively, the player can choose to pass the turn to an ally to give them a small attack boost in addition to the extra turn (maximum of once per ally per round)\nItem fusion:\nCertain items in the game can be fused onto your allies to change their capabilities. A fusion item may change the ally's stats, type affinities, or available skills. These items are lost upon fusion.\nItem management:\nEach item the player will find has a monetary value as well as value inside of combat Every day, a select few items will be \"hot\" items. These items will sell for 3x their original price\n\nControls:\n\n\nGameplay controls\n\nGameboy\nKeyboard\nA\nX/J\nB\nC/K\nDpad\nCursor keys/WASD\nStart\nEnter\nSelect\nShift\n\nSystem controls\n\nFunction\nKeyboard\nResize window\n1-7\nToggle Audio\n-\nChange colorsSpace\nForce load gameCtrl+L\nMany controllers are supported\n\n\nCredits:\n\nKing W - Graphics, Writing, Scenario, Mapping, DesignZahran W - Programming, Sounds, Music\nhttps://bandcamp.com/EmbeddedPlayer/album=2799868462/size=large/bgcol=333333/linkcol=0f91ff/tracklist=false/artwork=small/transparent=true/\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjI3NzMzNi8xMzUyMzkxMC5naWY=/original/CwSqPe.gif",
+          "https://img.itch.zone/aW1hZ2UvMjI3NzMzNi8xMzUyMTI1MC5naWY=/original/qBQL6Q.gif",
+          "https://img.itch.zone/aW1hZ2UvMjI3NzMzNi8xMzUyMTI1NC5naWY=/original/OXM%2FY%2F.gif",
+          "https://img.itch.zone/aW1hZ2UvMjI3NzMzNi8xMzUyMTI1Mi5naWY=/original/XVPqZD.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.3 out of 5 stars(4 total ratings)",
+          "Author": "ZahranW",
+          "Genre": "Role Playing, Adventure",
+          "Made with": "Tiled, Clickteam Fusion, Pyxel Edit",
+          "Tags": "Game Boy, GBJam, JRPG, micro-rpg, Singleplayer, Space, Turn-based",
+          "Average session": "About an hour",
+          "Languages": "English",
+          "Inputs": "Keyboard, Xbox controller, Gamepad (any)"
+        }
+      }
+    },
+    {
+      "gameId": 2280162,
+      "gameUrl": "https://pocket-pulp.itch.io/over-the-moon",
+      "overallRank": 5,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Pocket Pulp",
+            "id": 8483037
+          }
+        ],
+        "id": 2280162,
+        "rank": 5,
+        "criteria": [
+          {
+            "name": "Soundtrack/SFX",
+            "raw_score": 4.0740740740741,
+            "rank": 26,
+            "score": 4.0740740740741
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.1481481481481,
+            "rank": 56,
+            "score": 4.1481481481481
+          },
+          {
+            "name": "Gameboy Soul",
+            "raw_score": 4.4074074074074,
+            "rank": 22,
+            "score": 4.4074074074074
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 4.4814814814815,
+            "rank": 6,
+            "score": 4.4814814814815
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "raw_score": 4.4074074074074,
+            "rank": 23,
+            "score": 4.4074074074074
+          }
+        ],
+        "rating_count": 27,
+        "url": "https://itch.io/jam/gbjam-11/rate/2280162",
+        "title": "Over the Moon",
+        "cover_url": "https://img.itch.zone/aW1nLzEzNTExNjA5LnBuZw==/300x240%23c/ggmEUj.png",
+        "raw_score": 4.3037037037037,
+        "score": 4.3037037037037
+      },
+      "entryData": {
+        "coolness": 31,
+        "rating_count": 27,
+        "created_at": "2023-09-24 22:50:51",
+        "id": 459004,
+        "game": {
+          "short_text": "A Game Boy inspired platformer made for GBJAM11.",
+          "cover": "https://img.itch.zone/aW1nLzEzNTExNjA5LnBuZw==/300x240%23c/ggmEUj.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 2280162,
+          "cover_color": "#3a3277",
+          "user": {
+            "name": "Pocket Pulp",
+            "url": "https://pocket-pulp.itch.io",
+            "id": 8483037
+          },
+          "url": "https://pocket-pulp.itch.io/over-the-moon",
+          "title": "Over the Moon"
+        },
+        "url": "/jam/gbjam-11/rate/2280162"
+      },
+      "details": {
+        "title": "Over the Moon",
+        "description": "About the Game\nOver the Moon is Pocket Pulp's submission for GBJAM11.\nYou must search all over the moon to find the missing parts to your cryogenic chamber in this cute platformer. \nGame Controls:\nKeyboardActionControllerArrowsMoveD-PadZPick Up / Put DownAXJumpBEnterReset / Teleport to CheckpointStart\n\nIf you have a USB controller it should work with the game. Go to our site where you can adjust music, sound and gamepad settings.\n\n\n\nWe incorporated the 'space' theme by first having a character who only had the space in their inventory to carry one item at a time. You will also find in the game play areas where there is not enough space for the character to fit while carrying an item.\nWe doubled down on the space theme by setting the game on a moon base. Players will find that gravity changes in our game. Both the location of the player, inside vs outside, and the objects carried by the player can change the gravity experienced.\n\nHow It Was Made\nThe game was made by 2 people without a game engine. The below tools were used to make the game:\nJavaScript (code)Asesprite (art)Pixaki (art)Tiled (level design)FamiStudio (music comp)jsfxr (sound fx)\nWe recorded us making the game for our YouTube channel. Watch the video on what we didon day 1 of the jam.\nThis is our first official game jam and are very much looking forward to hearing your thoughts on our submission.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjI4MDE2Mi8xMzUxMTYxMS5naWY=/original/zR3jHA.gif",
+          "https://img.itch.zone/aW1hZ2UvMjI4MDE2Mi8xMzUxMTYxMi5naWY=/original/sX1Ybh.gif",
+          "https://img.itch.zone/aW1hZ2UvMjI4MDE2Mi8xMzUxMTYxMy5naWY=/original/71E3ks.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "Pocket Pulp",
+          "Genre": "Platformer",
+          "Tags": "Game Boy, GBJam, gbjam11, Hand-drawn, Pixel Art, Retro, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 2258479,
+      "gameUrl": "https://croustade.itch.io/tiny-space-ninja",
+      "overallRank": 17,
+      "topCategories": [
+        "Gameplay",
+        "Soundtrack/SFX"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Croustade Team",
+            "id": 7036365
+          },
+          {
+            "name": "Juni‽",
+            "id": 2288452
+          },
+          {
+            "name": "Cédric Laroche",
+            "id": 2539866
+          },
+          {
+            "name": "Gabby Rondeau",
+            "id": 2520771
+          }
+        ],
+        "id": 2258479,
+        "rank": 17,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 4.4651162790698,
+            "rank": 7,
+            "score": 4.4651162790698
+          },
+          {
+            "name": "Gameboy Soul",
+            "raw_score": 3.6279069767442,
+            "rank": 157,
+            "score": 3.6279069767442
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "raw_score": 4.3488372093023,
+            "rank": 30,
+            "score": 4.3488372093023
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "raw_score": 4.3255813953488,
+            "rank": 9,
+            "score": 4.3255813953488
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.3255813953488,
+            "rank": 29,
+            "score": 4.3255813953488
+          }
+        ],
+        "rating_count": 43,
+        "url": "https://itch.io/jam/gbjam-11/rate/2258479",
+        "title": "Tiny Space Ninja",
+        "cover_url": "https://img.itch.zone/aW1nLzEzNTA5NDU1LnBuZw==/300x240%23c/huqi6r.png",
+        "raw_score": 4.2186046511628,
+        "score": 4.2186046511628
+      },
+      "entryData": {
+        "coolness": 35,
+        "rating_count": 43,
+        "created_at": "2023-09-25 02:38:49",
+        "id": 459182,
+        "contributors": [
+          {
+            "name": "Croustade Team",
+            "url": "https://croustade.itch.io"
+          },
+          {
+            "name": "Juni‽",
+            "url": "https://imjuniper.itch.io"
+          },
+          {
+            "name": "Cédric Laroche",
+            "url": "https://cedriclaroche.itch.io"
+          },
+          {
+            "name": "Gabby Rondeau",
+            "url": "https://gabbyrondeau.itch.io"
+          }
+        ],
+        "url": "/jam/gbjam-11/rate/2258479",
+        "game": {
+          "short_text": "Slash through an invasion of peeping aliens to save the mental health of the Space Station's astronauts – for GBJam 11",
+          "cover": "https://img.itch.zone/aW1nLzEzNTA5NDU1LnBuZw==/300x240%23c/huqi6r.png",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "id": 2258479,
+          "cover_color": "#222034",
+          "user": {
+            "name": "Croustade Team",
+            "url": "https://croustade.itch.io",
+            "id": 7036365
+          },
+          "url": "https://croustade.itch.io/tiny-space-ninja",
+          "title": "Tiny Space Ninja"
+        }
+      },
+      "details": {
+        "title": "Tiny Space Ninja",
+        "description": "Tiny Space Ninja\nThe International Space Station is being stalked by tiny peeping aliens again! Annoyed by this mild inconvenience, the station's astronauts have hired a tiny ninja caretaker to destroy these extraterrestrial pests and gain their privacy back.\nControls\n\nKeyboard\nGameboyCharge Sword (Hold) / Swipe (Release) / Select\nZ\nA\nCancel\nX\nB\nChoose Sword Direction\nArrow keys\nD-pad\n\nCredits\nCedric - Design, ArtGabby - Music, Design, ProgrammingJuni - Design, Programming\n \nTroubleshooting\nI can't play the web version on macOS\nIf the web version doesn't work, you can download the native version down below.This happens because Godot 4's web export currently can't run on macOS and iOS due to upstream bugs.\nIt says my browser is missing features\nYou need to update your browser or use another one.Godot requires support for WebAssembly, WebGL and SharedArrayBuffer. If your browser version is older than 2020, you might need to update it. Opening your browser's console should reveal more information.\nMy Mac gives me a security errorTo open the game on macOS, right-click the app and click Open, then click Open again in the popup.This is because of a feature called Gatekeeper, which verifies apps are legitimate. Since we do not have a developer account, the app is not notarized.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjI1ODQ3OS8xMzQ5ODY5OC5wbmc=/original/JEgcrR.png",
+          "https://img.itch.zone/aW1hZ2UvMjI1ODQ3OS8xMzUxMzc5Ny5wbmc=/original/eLjYqE.png",
+          "https://img.itch.zone/aW1hZ2UvMjI1ODQ3OS8xMzUxMzc5OS5wbmc=/original/bl%2Bf8z.png",
+          "https://img.itch.zone/aW1hZ2UvMjI1ODQ3OS8xMzUxMzgwMC5wbmc=/original/GvRMIo.png",
+          "https://img.itch.zone/aW1hZ2UvMjI1ODQ3OS8xMzUxMzgwMy5wbmc=/original/cEfTZ1.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Release date": "Sep 25, 2023",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Authors": "Croustade Team, Juni‽, Cédric Laroche, Gabby Rondeau",
+          "Genre": "Action",
+          "Made with": "Aseprite, Godot",
+          "Tags": "2D, 8-Bit, Aliens, Game Boy, GBJam, Indie, Ninja, Pixel Art, Retro, Short",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Gamepad (any)"
+        }
+      }
+    },
+    {
+      "gameId": 2278759,
+      "gameUrl": "https://redlaserbm.itch.io/prisonbreak",
+      "overallRank": 34,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "redlaserbm",
+            "id": 8606701
+          },
+          {
+            "name": "TortelliniLord",
+            "id": 1743521
+          }
+        ],
+        "id": 2278759,
+        "rank": 34,
+        "criteria": [
+          {
+            "name": "Soundtrack/SFX",
+            "raw_score": 3.8571428571429,
+            "rank": 49,
+            "score": 3.8571428571429
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 4.4285714285714,
+            "rank": 8,
+            "score": 4.4285714285714
+          },
+          {
+            "name": "Gameboy Soul",
+            "raw_score": 4.1904761904762,
+            "rank": 50,
+            "score": 4.1904761904762
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.4761904761905,
+            "rank": 169,
+            "score": 3.4761904761905
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "raw_score": 4.047619047619,
+            "rank": 75,
+            "score": 4.047619047619
+          }
+        ],
+        "rating_count": 21,
+        "url": "https://itch.io/jam/gbjam-11/rate/2278759",
+        "title": "Prison/break",
+        "cover_url": "https://img.itch.zone/aW1nLzEzNTAxOTIyLnBuZw==/300x240%23c/UYmLha.png",
+        "raw_score": 4,
+        "score": 4
+      },
+      "entryData": {
+        "coolness": 26,
+        "rating_count": 21,
+        "created_at": "2023-09-25 06:36:59",
+        "id": 459308,
+        "contributors": [
+          {
+            "name": "redlaserbm",
+            "url": "https://redlaserbm.itch.io"
+          },
+          {
+            "name": "TortelliniLord",
+            "url": "https://tortellinilord.itch.io"
+          }
+        ],
+        "url": "/jam/gbjam-11/rate/2278759",
+        "game": {
+          "short_text": "Free yourself from the walls that surround you....",
+          "cover": "https://img.itch.zone/aW1nLzEzNTAxOTIyLnBuZw==/300x240%23c/UYmLha.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 2278759,
+          "cover_color": "#1C1326",
+          "user": {
+            "name": "redlaserbm",
+            "url": "https://redlaserbm.itch.io",
+            "id": 8606701
+          },
+          "url": "https://redlaserbm.itch.io/prisonbreak",
+          "title": "Prison/break"
+        }
+      },
+      "details": {
+        "title": "Prison/break",
+        "description": "Stan is a felon convicted of a crime he adamantly denies involvement with. Although weak and feeble, with the power to manipulate the walls around, Stan plots his escape from a dungeon with 23 levels of increasing difficulty. Can you help Stan execute the ultimate prison-break?Controls -\nArrow keys to move\nZ for menu select and switching between controlling the player and the walls\nR to reset the level\nCredits:\nProgramming - redlaserbm, spoonoil\nGame Design - spoonoil, redlaserbm\nLevel Design - spoonoil, redlaserbm\nArt - redlaserbm, Aether_wWw\nMusic - redlaserbm\nPlaytesting - (TBA)\n(Created for GB Game Jam 11)",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzEzNTAxOTIyLnBuZw==/original/YiC9NF.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(4 total ratings)",
+          "Authors": "redlaserbm, TortelliniLord",
+          "Genre": "Puzzle",
+          "Made with": "GameMaker"
+        }
+      }
+    },
+    {
+      "gameId": 2280841,
+      "gameUrl": "https://teamslime.itch.io/scherzomachina",
+      "overallRank": 11,
+      "topCategories": [
+        "Gameplay",
+        "Graphics"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "team slime",
+            "id": 667730
+          }
+        ],
+        "id": 2280841,
+        "rank": 11,
+        "criteria": [
+          {
+            "name": "Soundtrack/SFX",
+            "raw_score": 4,
+            "rank": 34,
+            "score": 4
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 4.4,
+            "rank": 10,
+            "score": 4.4
+          },
+          {
+            "name": "Gameboy Soul",
+            "raw_score": 4.1,
+            "rank": 59,
+            "score": 4.1
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "raw_score": 4,
+            "rank": 77,
+            "score": 4
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.7,
+            "rank": 5,
+            "score": 4.7
+          }
+        ],
+        "rating_count": 10,
+        "url": "https://itch.io/jam/gbjam-11/rate/2280841",
+        "title": "scherzomachina",
+        "cover_url": "https://img.itch.zone/aW1nLzEzNTE3MTc1LmdpZg==/300x240%23c/1YeJc1.gif",
+        "raw_score": 4.24,
+        "score": 4.24
+      },
+      "entryData": {
+        "coolness": 12,
+        "rating_count": 10,
+        "created_at": "2023-09-25 10:12:09",
+        "id": 459435,
+        "game": {
+          "short_text": "a weapon-upgrading, surviving game",
+          "id": 2280841,
+          "user": {
+            "name": "team slime",
+            "url": "https://teamslime.itch.io",
+            "id": 667730
+          },
+          "url": "https://teamslime.itch.io/scherzomachina",
+          "cover": "https://img.itch.zone/aW1nLzEzNTE3MTc1LmdpZg==/300x240%23c/1YeJc1.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzEzNTE3MTc1LmdpZg==/original/96I2dc.gif",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ],
+          "cover_color": "#09282d",
+          "title": "scherzomachina"
+        },
+        "url": "/jam/gbjam-11/rate/2280841"
+      },
+      "details": {
+        "title": "scherzomachina",
+        "description": "Wires snake through the cockpit.\nYour eye is closed.\nEach connection completes the same way it has a thousand times before. The servos on your mech whir to life.\nThere's another wretched planet in ruins, but with no locals left to save, your orders are clear: KILL EVERYTHING.\nSlot mods into your weapon's upgrade matrix, unlock nodes on the grid to make permanent improvements to your mech, and then hop back into the action over and over again.\nWith 14 weapons, 81 mech upgrades, and even more unique mod combinations in your arsenal, you are Machine Lass! And you must eradicate the killer robots that ruined this world.\nRevel in the mechanical excess of SCHERZOMACHINA, an action roguelike from the creative minds behind Fallstar, Witch Machine, and Bloom Cavatina.\nINPUTS:\nZ - Confirm (A)X - Cancel (B)C - Start / Open optionsV - Select / Open upgrades menuArrow keys - Directional movement download, unzip, play. made with godot 4.1. mac and linux versions are completely untested. so, you know, buyer beware.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjI4MDg0MS8xMzUxNjkzNC5naWY=/original/Z5bu9Q.gif",
+          "https://img.itch.zone/aW1hZ2UvMjI4MDg0MS8xMzUxNjkzNS5naWY=/original/f68E5w.gif",
+          "https://img.itch.zone/aW1hZ2UvMjI4MDg0MS8xMzUxNjkzNi5naWY=/original/CvOXM5.gif",
+          "https://img.itch.zone/aW1hZ2UvMjI4MDg0MS8xMzUxNzA0NS5naWY=/original/wHY5Qx.gif",
+          "https://img.itch.zone/aW1hZ2UvMjI4MDg0MS8xMzUxNzA0Ni5naWY=/original/G0%2FqxR.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS, Linux",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "team slime",
+          "Genre": "Survival",
+          "Tags": "GBJam, Singleplayer, Survivor-like"
+        }
+      }
+    },
+    {
+      "gameId": 2276669,
+      "gameUrl": "https://astorguinipawa.itch.io/boxing-odyssey",
+      "overallRank": 22,
+      "topCategories": [
+        "Graphics",
+        "Soundtrack/SFX"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "AstorguiniPawa",
+            "id": 6227636
+          },
+          {
+            "name": "meely.px",
+            "id": 7672017
+          },
+          {
+            "name": "Zeoarts",
+            "id": 7500592
+          },
+          {
+            "name": "rakyoxx",
+            "id": 5602546
+          },
+          {
+            "name": "josenondark",
+            "id": 8570327
+          },
+          {
+            "name": "ophxnim",
+            "id": 8481668
+          }
+        ],
+        "id": 2276669,
+        "rank": 22,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.74,
+            "rank": 60,
+            "score": 3.74
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.86,
+            "rank": 1,
+            "score": 4.86
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "raw_score": 3.88,
+            "rank": 115,
+            "score": 3.88
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "raw_score": 4.38,
+            "rank": 3,
+            "score": 4.38
+          },
+          {
+            "name": "Gameboy Soul",
+            "raw_score": 3.94,
+            "rank": 91,
+            "score": 3.94
+          }
+        ],
+        "rating_count": 50,
+        "url": "https://itch.io/jam/gbjam-11/rate/2276669",
+        "title": "Boxing Odyssey",
+        "cover_url": "https://img.itch.zone/aW1nLzEzNTE0NjMxLnBuZw==/300x240%23c/t5HoLZ.png",
+        "raw_score": 4.16,
+        "score": 4.16
+      },
+      "entryData": {
+        "coolness": 3,
+        "rating_count": 50,
+        "created_at": "2023-09-25 09:39:05",
+        "id": 459414,
+        "contributors": [
+          {
+            "name": "AstorguiniPawa",
+            "url": "https://astorguinipawa.itch.io"
+          },
+          {
+            "name": "meely.px",
+            "url": "https://meelypx.itch.io"
+          },
+          {
+            "name": "Zeoarts",
+            "url": "https://zeoarts.itch.io"
+          },
+          {
+            "name": "rakyoxx",
+            "url": "https://rakyoxx.itch.io"
+          },
+          {
+            "name": "josenondark",
+            "url": "https://josenondark.itch.io"
+          },
+          {
+            "name": "ophxnim",
+            "url": "https://ophxnim.itch.io"
+          }
+        ],
+        "url": "/jam/gbjam-11/rate/2276669",
+        "game": {
+          "short_text": "Boxing Odyssey is a tribute to games like\"Punch Out\" and famous Aliens",
+          "cover": "https://img.itch.zone/aW1nLzEzNTE0NjMxLnBuZw==/300x240%23c/t5HoLZ.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 2276669,
+          "cover_color": "#081820",
+          "user": {
+            "name": "AstorguiniPawa",
+            "url": "https://astorguinipawa.itch.io",
+            "id": 6227636
+          },
+          "url": "https://astorguinipawa.itch.io/boxing-odyssey",
+          "title": "Boxing Odyssey"
+        }
+      },
+      "details": {
+        "title": "Boxing Odyssey",
+        "description": " \n(Still in development!!! one of the bugs is that the Alien in planet Xeneron can only be defeated  with a combo attack J + K )\n\nGet ready to punch enemies out of this astral plane  when \"Boxing Odyssey\" hits  planet earth TODAY!!!\n\nEmbark yourself in the adventure of \"Grey the Alien\" who seeks to become the best boxer in the universe by defeating other famous extraterrestrial characters who live in different planets waiting to encounter you! \n\nControls:\n WASD\nA - J\nB - KPress Start - SpaceJ + K: COMBO ATACK!!!\n\nArt direction & artworks: Zeoarts\nBackground art  assets & props: Meely.px\nAnimation: Josenondark\nProgrammers: Rakyoxx & AstorguiniPawa\nMusic: Ophxnim",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjI3NjY2OS8xMzUxNjA1MS5naWY=/original/VqrMRU.gif",
+          "https://img.itch.zone/aW1hZ2UvMjI3NjY2OS8xMzUxNjA1Mi5wbmc=/original/lMVkQj.png",
+          "https://img.itch.zone/aW1hZ2UvMjI3NjY2OS8xMzUxNjA1Ny5wbmc=/original/e6BKFn.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(3 total ratings)",
+          "Authors": "AstorguiniPawa, meely.px, Zeoarts, rakyoxx, josenondark, ophxnim",
+          "Genre": "Adventure",
+          "Made with": "Unity",
+          "Tags": "Fantasy, Pixel Art, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 2278627,
+      "gameUrl": "https://gallowaygames.itch.io/castle-of-the-cosmos",
+      "overallRank": 31,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Galloway Games",
+            "id": 4893005
+          }
+        ],
+        "id": 2278627,
+        "rank": 31,
+        "criteria": [
+          {
+            "name": "Gameboy Soul",
+            "raw_score": 4.1842105263158,
+            "rank": 52,
+            "score": 4.1842105263158
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "raw_score": 3.1052631578947,
+            "rank": 264,
+            "score": 3.1052631578947
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.9210526315789,
+            "rank": 40,
+            "score": 3.9210526315789
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.8157894736842,
+            "rank": 2,
+            "score": 4.8157894736842
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "raw_score": 4.2368421052632,
+            "rank": 14,
+            "score": 4.2368421052632
+          }
+        ],
+        "rating_count": 38,
+        "url": "https://itch.io/jam/gbjam-11/rate/2278627",
+        "title": "Castle of the Cosmos",
+        "cover_url": "https://img.itch.zone/aW1nLzEzNTEzMTMzLnBuZw==/300x240%23c/O4Av%2Bx.png",
+        "raw_score": 4.0526315789474,
+        "score": 4.0526315789474
+      },
+      "entryData": {
+        "coolness": 28,
+        "rating_count": 38,
+        "created_at": "2023-09-25 08:46:11",
+        "id": 459370,
+        "game": {
+          "short_text": "Carefully space your bouncing projectile in this exciting action platformer!",
+          "cover": "https://img.itch.zone/aW1nLzEzNTEzMTMzLnBuZw==/300x240%23c/O4Av%2Bx.png",
+          "platforms": [
+            "windows"
+          ],
+          "id": 2278627,
+          "cover_color": "#090c1e",
+          "user": {
+            "name": "Galloway Games",
+            "url": "https://gallowaygames.itch.io",
+            "id": 4893005
+          },
+          "url": "https://gallowaygames.itch.io/castle-of-the-cosmos",
+          "title": "Castle of the Cosmos"
+        },
+        "url": "/jam/gbjam-11/rate/2278627"
+      },
+      "details": {
+        "title": "Castle of the Cosmos",
+        "description": "CLICK HERE FOR WEB BUILD!\nThe lost princess of a ruined kingdom returns to her former home to cast out the celestial monster that has ravaged her once shining castle. Use her unique magic abilities to storm the castle and reclaim the throne in this thrilling action platformer!\nCreated for GBJam 11, Castle of the Cosmos features a unique damage mechanic involving a projectile that reflects off of walls and grows in strength with each reflection. This mechanic encourages players to think carefully about the spacing of their attacks, rather than just fire directly at oncoming enemies; the more walls the projectile bounces off of, the more damage you'll inflict. Experiment with both grounded and jumping throws to maximize your damage output and defeat all that stand in your way!\nControls\n\nWASD/Arrow Keys = MoveZ/Space = JumpX/Left Mouse = Throw ProjectileThe game features basic controller support as well, so feel free to try it with your preferred gamepad!\n\n\nCredits\nScenario and Design: Adam, Beaumont, Joey, Kitsu, Knight, Lexou, Picto, Prism, Shaunak, Soral\nArt and Animation: Adam, Beaumont, Knight, Lexou, Picto, Prism\nProgramming: Shaunak\nMusic/SFX: Joey, Lexou\n2023 Galloway Games\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjI3ODYyNy8xMzUxNjY2OS5wbmc=/original/N7m4f0.png",
+          "https://img.itch.zone/aW1hZ2UvMjI3ODYyNy8xMzUxNjM5My5wbmc=/original/2mg8FM.png",
+          "https://img.itch.zone/aW1hZ2UvMjI3ODYyNy8xMzUxNjM5OS5wbmc=/original/%2Bdfi2U.png",
+          "https://img.itch.zone/aW1hZ2UvMjI3ODYyNy8xMzUxNjYxMi5wbmc=/original/H0xfjg.png",
+          "https://img.itch.zone/aW1hZ2UvMjI3ODYyNy8xMzUxNjQwMS5wbmc=/original/svQiTO.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.3 out of 5 stars(3 total ratings)",
+          "Author": "Galloway Games",
+          "Genre": "Action, Platformer",
+          "Tags": "Game Boy, GBJam, Gothic, Medieval"
+        }
+      }
+    },
+    {
+      "gameId": 2280719,
+      "gameUrl": "https://captusstudio.itch.io/liminal-space",
+      "overallRank": 15,
+      "topCategories": [
+        "Graphics",
+        "Interpretation of the Secondary Theme"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Captus Studio",
+            "id": 8822898
+          }
+        ],
+        "id": 2280719,
+        "rank": 15,
+        "criteria": [
+          {
+            "name": "Graphics",
+            "raw_score": 4.8,
+            "rank": 3,
+            "score": 4.8
+          },
+          {
+            "name": "Gameboy Soul",
+            "raw_score": 4,
+            "rank": 75,
+            "score": 4
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "raw_score": 4.6,
+            "rank": 5,
+            "score": 4.6
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.5,
+            "rank": 92,
+            "score": 3.5
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "raw_score": 4.2,
+            "rank": 16,
+            "score": 4.2
+          }
+        ],
+        "rating_count": 10,
+        "url": "https://itch.io/jam/gbjam-11/rate/2280719",
+        "title": "Liminal Space",
+        "cover_url": "https://img.itch.zone/aW1nLzEzNTE0ODA5LnBuZw==/300x240%23c/2bpTdp.png",
+        "raw_score": 4.22,
+        "score": 4.22
+      },
+      "entryData": {
+        "coolness": 20,
+        "rating_count": 10,
+        "created_at": "2023-09-25 04:43:59",
+        "id": 459246,
+        "game": {
+          "short_text": "A Dark Dive into the Astral Abyss.",
+          "cover": "https://img.itch.zone/aW1nLzEzNTE0ODA5LnBuZw==/300x240%23c/2bpTdp.png",
+          "platforms": [
+            "windows"
+          ],
+          "id": 2280719,
+          "cover_color": "#000000",
+          "user": {
+            "name": "Captus Studio",
+            "url": "https://captusstudio.itch.io",
+            "id": 8822898
+          },
+          "url": "https://captusstudio.itch.io/liminal-space",
+          "title": "Liminal Space"
+        },
+        "url": "/jam/gbjam-11/rate/2280719"
+      },
+      "details": {
+        "title": "Liminal Space",
+        "description": "A frontier station at the fringes of civilization has fallen out of contact with neighboring outposts. Explore its empty halls in this short point-and-click adventure to find the cause of its radio silence.\nCreated in Godot in 10 days for GBJam11.\nMade with love, by the team at Captus Studio.\nC A P T U S !",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjI4MDcxOS8xMzUxNDMzNi5wbmc=/original/mf5z4S.png",
+          "https://img.itch.zone/aW1hZ2UvMjI4MDcxOS8xMzUxNDMzOC5wbmc=/original/bkhk%2Fl.png",
+          "https://img.itch.zone/aW1hZ2UvMjI4MDcxOS8xMzUxNDMzOS5wbmc=/original/LdIs%2Bc.png",
+          "https://img.itch.zone/aW1hZ2UvMjI4MDcxOS8xMzUxNDMzNy5wbmc=/original/4dXZhH.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "Captus Studio",
+          "Genre": "Adventure, Visual Novel",
+          "Tags": "Dark, Game Boy, Point & Click, Retro, Space"
+        }
+      }
+    },
+    {
+      "gameId": 2278870,
+      "gameUrl": "https://wysteriagames.itch.io/mystic-summon",
+      "overallRank": 118,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Wysteria",
+            "id": 3147799
+          },
+          {
+            "name": "Felipe Tavares",
+            "id": 106330
+          },
+          {
+            "name": "The.Json",
+            "id": 8752798
+          }
+        ],
+        "id": 2278870,
+        "rank": 118,
+        "criteria": [
+          {
+            "name": "Graphics",
+            "raw_score": 4.7368421052632,
+            "rank": 4,
+            "score": 4.7368421052632
+          },
+          {
+            "name": "Gameboy Soul",
+            "raw_score": 4,
+            "rank": 75,
+            "score": 4
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "raw_score": 2.3684210526316,
+            "rank": 348,
+            "score": 2.3684210526316
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.0526315789474,
+            "rank": 174,
+            "score": 3.0526315789474
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "raw_score": 3.7894736842105,
+            "rank": 66,
+            "score": 3.7894736842105
+          }
+        ],
+        "rating_count": 19,
+        "url": "https://itch.io/jam/gbjam-11/rate/2278870",
+        "title": "Mystic Summon",
+        "cover_url": "https://img.itch.zone/aW1nLzEzNzE1MDE2LmdpZg==/300x240%23c/mXUt7U.gif",
+        "raw_score": 3.5894736842105,
+        "score": 3.5894736842105
+      },
+      "entryData": {
+        "coolness": 13,
+        "rating_count": 19,
+        "created_at": "2023-09-25 10:40:24",
+        "id": 459456,
+        "contributors": [
+          {
+            "name": "Wysteria",
+            "url": "https://wysteriagames.itch.io"
+          },
+          {
+            "name": "Felipe Tavares",
+            "url": "https://felipetavares.itch.io"
+          },
+          {
+            "name": "The.Json",
+            "url": "https://iambecomejajin.itch.io"
+          }
+        ],
+        "url": "/jam/gbjam-11/rate/2278870",
+        "game": {
+          "short_text": "A Monster Collecting RPG",
+          "id": 2278870,
+          "user": {
+            "name": "Wysteria",
+            "url": "https://wysteriagames.itch.io",
+            "id": 3147799
+          },
+          "url": "https://wysteriagames.itch.io/mystic-summon",
+          "cover": "https://img.itch.zone/aW1nLzEzNzE1MDE2LmdpZg==/300x240%23c/mXUt7U.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzEzNzE1MDE2LmdpZg==/original/zldHTv.gif",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#DBF6F3",
+          "title": "Mystic Summon"
+        }
+      },
+      "details": {
+        "title": "Mystic Summon",
+        "description": "Our Submission for GBJam 11\n \nA witch in the clouds controls monsters to free the sky islands from mysterious dark portals.\n \nControls\nZASelect, InteractXBOpen Inventory, CancelEnterStartStart gameCtrlSelectRestartArrowsD-PadMove\n \nThe Team!\nMusic: The.JsonArt:  Felipe Tavares\n  \n\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjI3ODg3MC8xMzUxNzU4OC5naWY=/original/W0qFyd.gif",
+          "https://img.itch.zone/aW1hZ2UvMjI3ODg3MC8xMzUxNzU4OS5naWY=/original/Arnyqy.gif",
+          "https://img.itch.zone/aW1hZ2UvMjI3ODg3MC8xMzUxNzU4Ny5naWY=/original/zEwF82.gif",
+          "https://img.itch.zone/aW1hZ2UvMjI3ODg3MC8xMzUxNzU4Ni5naWY=/original/9Iu0RS.gif",
+          "https://img.itch.zone/aW1hZ2UvMjI3ODg3MC8xMzUxNzU4NS5naWY=/original/ZUpgL0.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Authors": "Wysteria, Felipe Tavares, The.Json",
+          "Genre": "Role Playing",
+          "Tags": "2D, gbjam11, Halloween, Pixel Art, pokemon"
+        }
+      }
+    },
+    {
+      "gameId": 2266695,
+      "gameUrl": "https://acheronti.itch.io/vector-vendetta",
+      "overallRank": 27,
+      "topCategories": [
+        "Graphics",
+        "Soundtrack/SFX"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Chaz Acheronti",
+            "id": 670407
+          },
+          {
+            "name": "Tetraminose",
+            "id": 2123401
+          },
+          {
+            "name": "DonutShoes",
+            "id": 1644411
+          },
+          {
+            "name": "Xykrotik",
+            "id": 1702659
+          }
+        ],
+        "id": 2266695,
+        "rank": 27,
+        "criteria": [
+          {
+            "name": "Graphics",
+            "raw_score": 4.672131147541,
+            "rank": 6,
+            "score": 4.672131147541
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "raw_score": 3.983606557377,
+            "rank": 90,
+            "score": 3.983606557377
+          },
+          {
+            "name": "Gameboy Soul",
+            "raw_score": 3.2295081967213,
+            "rank": 220,
+            "score": 3.2295081967213
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 4.1311475409836,
+            "rank": 25,
+            "score": 4.1311475409836
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "raw_score": 4.4426229508197,
+            "rank": 2,
+            "score": 4.4426229508197
+          }
+        ],
+        "rating_count": 61,
+        "url": "https://itch.io/jam/gbjam-11/rate/2266695",
+        "title": "Vector Vendetta [GBJAM 11]",
+        "cover_url": "https://img.itch.zone/aW1nLzEzNTIyOTMxLnBuZw==/300x240%23c/HvWyK9.png",
+        "raw_score": 4.0918032786885,
+        "score": 4.0918032786885
+      },
+      "entryData": {
+        "coolness": 27,
+        "rating_count": 61,
+        "created_at": "2023-09-25 10:05:44",
+        "id": 459429,
+        "contributors": [
+          {
+            "name": "Chaz Acheronti",
+            "url": "https://acheronti.itch.io"
+          },
+          {
+            "name": "Tetraminose",
+            "url": "https://tetraminose.itch.io"
+          },
+          {
+            "name": "DonutShoes",
+            "url": "https://donutshoesmusic.itch.io"
+          },
+          {
+            "name": "Xykrotik",
+            "url": "https://xykrotik.itch.io"
+          }
+        ],
+        "url": "/jam/gbjam-11/rate/2266695",
+        "game": {
+          "short_text": "Nostalgic Retro Space Fighter",
+          "cover": "https://img.itch.zone/aW1nLzEzNTIyOTMxLnBuZw==/300x240%23c/HvWyK9.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 2266695,
+          "cover_color": "#160721",
+          "user": {
+            "name": "Chaz Acheronti",
+            "url": "https://acheronti.itch.io",
+            "id": 670407
+          },
+          "url": "https://acheronti.itch.io/vector-vendetta",
+          "title": "Vector Vendetta [GBJAM 11]"
+        }
+      },
+      "details": {
+        "title": "Vector Vendetta [GBJAM 11]",
+        "description": "You are a Space Ranger in the Earth Defense Force charged with protecting your home from hostile invaders.\nWhen the leaders of the Galactic Legion decide to make Earth their new Galactic Mining Facility, it's up to YOU to stop the invasion and drive the alien forces out of our solar system.\n\nBlast your way to freedom and experience the glory of victory in this nostalgia-inspired space adventure!\n\nHow To Play\n\nMove - WASD / ARROWS     [ ANALOG / DPAD ]Shoot - J / Z     [ A / RT ]Missile - K / X      [ B / LT ]\nSpecial Effects\nP - Change PaletteB - Change Border\n\nGet the Vector Vendetta OST by DonutShoes here!\nhttps://donutshoes.bandcamp.com/album/vector-vendetta-ost\n\nThe Team:\nChaz Acheronti (@acheronti): Programmer, Game designer, Level designer, 3D Modelling \nDonutShoes (@DonutShoes): Music, SFX, Level designer\n\nTetra (@Tetraminose): Pixel art, Writing, 3D Modeling, Level designer\n\nJackson (@Xykrotik): SFX, Sound designer\nBrickbrker (@brickbrker): Cover art (itch.io page)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjI2NjY5NS8xMzUyNTM0Ni5wbmc=/original/sPpXpy.png",
+          "https://img.itch.zone/aW1hZ2UvMjI2NjY5NS8xMzUxNzY4OS5naWY=/original/q8HFcC.gif",
+          "https://img.itch.zone/aW1hZ2UvMjI2NjY5NS8xMzUxNzcyMC5naWY=/original/uY4ZTp.gif"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows",
+          "Release date": "Sep 25, 2023",
+          "Rating": "Rated 4.8 out of 5 stars(6 total ratings)",
+          "Authors": "Chaz Acheronti, Tetraminose, DonutShoes, Xykrotik",
+          "Genre": "Action",
+          "Made with": "Unity, Aseprite, FL Studio",
+          "Tags": "Arcade, First-Person, FPS, Game Boy, On-Rails Shooter, Pixel Art, Retro, Shoot 'Em Up, Space, Space Sim",
+          "Average session": "A few minutes",
+          "Languages": "English"
+        }
+      }
+    },
+    {
+      "gameId": 2264827,
+      "gameUrl": "https://shin.itch.io/galactic-valet",
+      "overallRank": 3,
+      "topCategories": [
+        "Graphics",
+        "Interpretation of the Secondary Theme"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "shin",
+            "id": 101638
+          }
+        ],
+        "id": 2264827,
+        "rank": 3,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 4.35,
+            "rank": 11,
+            "score": 4.35
+          },
+          {
+            "name": "Gameboy Soul",
+            "raw_score": 4.15,
+            "rank": 54,
+            "score": 4.15
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "raw_score": 4.8,
+            "rank": 1,
+            "score": 4.8
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.6,
+            "rank": 9,
+            "score": 4.6
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "raw_score": 4.15,
+            "rank": 20,
+            "score": 4.15
+          }
+        ],
+        "rating_count": 20,
+        "url": "https://itch.io/jam/gbjam-11/rate/2264827",
+        "title": "Galactic Valet",
+        "cover_url": "https://img.itch.zone/aW1nLzEzNTEzMjY2LnBuZw==/300x240%23c/VPBHRp.png",
+        "raw_score": 4.41,
+        "score": 4.41
+      },
+      "entryData": {
+        "coolness": 16,
+        "rating_count": 20,
+        "created_at": "2023-09-25 05:29:16",
+        "id": 459269,
+        "game": {
+          "short_text": "Park a variety of spaceships while dodging obstacles and safety regulations in this short Game Boy inspired game.",
+          "cover": "https://img.itch.zone/aW1nLzEzNTEzMjY2LnBuZw==/300x240%23c/VPBHRp.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 2264827,
+          "cover_color": "#eeeeee",
+          "user": {
+            "name": "shin",
+            "url": "https://shin.itch.io",
+            "id": 101638
+          },
+          "url": "https://shin.itch.io/galactic-valet",
+          "title": "Galactic Valet"
+        },
+        "url": "/jam/gbjam-11/rate/2264827"
+      },
+      "details": {
+        "title": "Galactic Valet",
+        "description": "Use arrow keys to play. Press up to start.  If you get stuck, press R to restart the level without resetting your tip. Please post a screenshot of your total tip in the comments below, along with any feedback!\nPark a variety of spaceships while dodging obstacles and safety regulations in this short Game Boy inspired game. Speedy, precise parking pays off- collect one of four different rewards at the end based on your total tip earned. Made in Godot 4 in 10 days for GBJam 11.\nCheck out our socials below for more:\nGame design, programming, art: Shin https://shin.itch.io/ https://twitter.com/shintendoYT\nMusic, sound design: InfernalBraxia https://infernalbraxia.itch.io/ https://twitter.com/IBraxia",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjI2NDgyNy8xMzUxMzIxNC5wbmc=/original/E2qNMu.png",
+          "https://img.itch.zone/aW1hZ2UvMjI2NDgyNy8xMzUxMzIxNi5wbmc=/original/zrlYgH.png",
+          "https://img.itch.zone/aW1hZ2UvMjI2NDgyNy8xMzUxMzIxNS5wbmc=/original/KjlODk.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(7 total ratings)",
+          "Author": "shin",
+          "Genre": "Action, Racing",
+          "Made with": "Godot",
+          "Tags": "2D, Arcade, Godot, monochrome, Pixel Art, Retro, Space"
+        }
+      }
+    },
+    {
+      "gameId": 2280142,
+      "gameUrl": "https://arisdead.itch.io/walls",
+      "overallRank": 83,
+      "topCategories": [
+        "Graphics",
+        "Interpretation of the Secondary Theme"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "arisdead",
+            "id": 8288265
+          }
+        ],
+        "id": 2280142,
+        "rank": 83,
+        "criteria": [
+          {
+            "name": "Graphics",
+            "raw_score": 4.6,
+            "rank": 9,
+            "score": 4.6
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "raw_score": 3.6666666666667,
+            "rank": 80,
+            "score": 3.6666666666667
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "raw_score": 4.6,
+            "rank": 5,
+            "score": 4.6
+          },
+          {
+            "name": "Gameboy Soul",
+            "raw_score": 2.2,
+            "rank": 336,
+            "score": 2.2
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.6666666666667,
+            "rank": 67,
+            "score": 3.6666666666667
+          }
+        ],
+        "rating_count": 15,
+        "url": "https://itch.io/jam/gbjam-11/rate/2280142",
+        "title": "W A L L S",
+        "cover_url": "https://img.itch.zone/aW1nLzEzNTEyNDg2LmdpZg==/300x240%23c/6V0o5b.gif",
+        "raw_score": 3.7466666666667,
+        "score": 3.7466666666667
+      },
+      "entryData": {
+        "coolness": 10,
+        "rating_count": 15,
+        "created_at": "2023-09-24 22:47:22",
+        "id": 459000,
+        "game": {
+          "short_text": "A Claustrophobic Horror Experience",
+          "id": 2280142,
+          "user": {
+            "name": "arisdead",
+            "url": "https://arisdead.itch.io",
+            "id": 8288265
+          },
+          "url": "https://arisdead.itch.io/walls",
+          "cover": "https://img.itch.zone/aW1nLzEzNTEyNDg2LmdpZg==/300x240%23c/6V0o5b.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzEzNTEyNDg2LmdpZg==/original/ahWcm6.gif",
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#1b1b1b",
+          "title": "W A L L S"
+        },
+        "url": "/jam/gbjam-11/rate/2280142"
+      },
+      "details": {
+        "title": "W A L L S",
+        "description": "W A L L S\nnever look away\n\n\n\n\nW A L L S is a claustrophobic horror game where the player's survival depends on maintaining their own space between the game's four walls that are closing in every second. Equipped with a flashlight (and a pistol if you can find it!) Your only defense is using light to push the walls back, but be careful of what else you uncover...\nCreated in participation of GBJam11 under the theme \"SPACE\", the game is rendered in 160 x 144, follows the original Gameboys control inputs, and is made up entirely out of only 4 colors.\n\nCONTROLS:\nWASD + JK\nor\nArrow Keys + XC\nor\nD-Pad + BA\n\nProgramming, Music/SFX, and Art by me",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjI4MDE0Mi8xMzUxNTA2My5wbmc=/original/Nw%2F575.png",
+          "https://img.itch.zone/aW1hZ2UvMjI4MDE0Mi8xMzUxNTA2Ni5wbmc=/original/A6Brcy.png",
+          "https://img.itch.zone/aW1hZ2UvMjI4MDE0Mi8xMzUxNTA2OS5wbmc=/original/7pgW1y.png",
+          "https://img.itch.zone/aW1hZ2UvMjI4MDE0Mi8xMzUxNTA2OC5wbmc=/original/P3XhpX.png",
+          "https://img.itch.zone/aW1hZ2UvMjI4MDE0Mi8xMzUxNTYwOC5wbmc=/original/nP7bss.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Author": "arisdead",
+          "Genre": "Survival",
+          "Tags": "Game Boy, gamepad, GBJam, Horror, Indie, minigames, Spooky, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 2266963,
+      "gameUrl": "https://reliable-plumbing-service.itch.io/car-go-space",
+      "overallRank": 4,
+      "topCategories": [
+        "Interpretation of the Secondary Theme",
+        "Soundtrack/SFX"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Reliable Plumbing Services",
+            "id": 6468604
+          },
+          {
+            "name": "Gamekrazzy",
+            "id": 1026562
+          },
+          {
+            "name": "OneThatEatYou",
+            "id": 1221584
+          },
+          {
+            "name": "qtp2t",
+            "id": 1579270
+          },
+          {
+            "name": "fatcatmilo",
+            "id": 2395169
+          }
+        ],
+        "id": 2266963,
+        "rank": 4,
+        "criteria": [
+          {
+            "name": "Graphics",
+            "raw_score": 4.3571428571429,
+            "rank": 25,
+            "score": 4.3571428571429
+          },
+          {
+            "name": "Gameboy Soul",
+            "raw_score": 4.4642857142857,
+            "rank": 14,
+            "score": 4.4642857142857
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "raw_score": 4.3571428571429,
+            "rank": 5,
+            "score": 4.3571428571429
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "raw_score": 4.6071428571429,
+            "rank": 4,
+            "score": 4.6071428571429
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 4.1071428571429,
+            "rank": 26,
+            "score": 4.1071428571429
+          }
+        ],
+        "rating_count": 28,
+        "url": "https://itch.io/jam/gbjam-11/rate/2266963",
+        "title": "Car-Go-Space",
+        "cover_url": "https://img.itch.zone/aW1nLzEzNTExMDU3LmdpZg==/300x240%23c/UQzD8B.gif",
+        "raw_score": 4.3785714285714,
+        "score": 4.3785714285714
+      },
+      "entryData": {
+        "coolness": 7,
+        "rating_count": 28,
+        "created_at": "2023-09-25 10:04:50",
+        "id": 459426,
+        "contributors": [
+          {
+            "name": "Reliable Plumbing Services",
+            "url": "https://reliable-plumbing-service.itch.io"
+          },
+          {
+            "name": "Gamekrazzy",
+            "url": "https://gamekrazzy.itch.io"
+          },
+          {
+            "name": "OneThatEatYou",
+            "url": "https://onethateatyou.itch.io"
+          },
+          {
+            "name": "qtp2t",
+            "url": "https://qtp2t.itch.io"
+          },
+          {
+            "name": "fatcatmilo",
+            "url": "https://fatcatmilo.itch.io"
+          }
+        ],
+        "url": "/jam/gbjam-11/rate/2266963",
+        "game": {
+          "short_text": "Space Delivery Shoot'Em Up",
+          "id": 2266963,
+          "user": {
+            "name": "Reliable Plumbing Services",
+            "url": "https://reliable-plumbing-service.itch.io",
+            "id": 6468604
+          },
+          "url": "https://reliable-plumbing-service.itch.io/car-go-space",
+          "cover": "https://img.itch.zone/aW1nLzEzNTExMDU3LmdpZg==/300x240%23c/UQzD8B.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzEzNTExMDU3LmdpZg==/original/HPbnP9.gif",
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#081820",
+          "title": "Car-Go-Space"
+        }
+      },
+      "details": {
+        "title": "Car-Go-Space",
+        "description": "It's your first day on the job here at Car-Go Delivery Co. Fly your truck through the galaxy and grow your financial assets while also upgrading your truck's capabilities.This game was made for GBJAM 11 in just 10 days!\nControls:\nStartEnter / ReturnMovementWASDArrow KeysShoot / Grab ItemJ\nCredits:\nGamekrazzy - Graphics And DesignOneThatEatYou - Programming And UIFatCatMilo - Programming And Level DesignTommisNoises - Music And SoundOST is here!https://www.youtube.com/playlist?list=PLpYbSjuDDAjytl6dxpdj-IEZdYRF3TSAt",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjI2Njk2My8xMzUxMjUyNC5wbmc=/original/ezjXbh.png",
+          "https://img.itch.zone/aW1hZ2UvMjI2Njk2My8xMzUxMjUyNS5wbmc=/original/HS01JU.png",
+          "https://img.itch.zone/aW1hZ2UvMjI2Njk2My8xMzUxNTMxNy5wbmc=/original/ybIXFB.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.0 out of 5 stars(2 total ratings)",
+          "Authors": "Reliable Plumbing Services, Gamekrazzy, OneThatEatYou, qtp2t, fatcatmilo",
+          "Genre": "Action",
+          "Tags": "Arcade, Game Boy, GBJam, Shoot 'Em Up, Space, truck"
+        }
+      }
+    },
+    {
+      "gameId": 2267272,
+      "gameUrl": "https://timconceivable.itch.io/cozycosmos",
+      "overallRank": 32,
+      "topCategories": [
+        "Interpretation of the Secondary Theme"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "timconceivable",
+            "id": 114368
+          },
+          {
+            "name": "Mellybelly",
+            "id": 28998
+          },
+          {
+            "name": "HyphenPixel",
+            "id": 4058779
+          }
+        ],
+        "id": 2267272,
+        "rank": 32,
+        "criteria": [
+          {
+            "name": "Soundtrack/SFX",
+            "raw_score": 3.8076923076923,
+            "rank": 61,
+            "score": 3.8076923076923
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.3461538461538,
+            "rank": 27,
+            "score": 4.3461538461538
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "raw_score": 4.5769230769231,
+            "rank": 8,
+            "score": 4.5769230769231
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.6538461538462,
+            "rank": 72,
+            "score": 3.6538461538462
+          },
+          {
+            "name": "Gameboy Soul",
+            "raw_score": 3.6923076923077,
+            "rank": 145,
+            "score": 3.6923076923077
+          }
+        ],
+        "rating_count": 26,
+        "url": "https://itch.io/jam/gbjam-11/rate/2267272",
+        "title": "Cozy Cosmos",
+        "cover_url": "https://img.itch.zone/aW1nLzEzNTE4MjQzLnBuZw==/300x240%23c/6GAyzo.png",
+        "raw_score": 4.0153846153846,
+        "score": 4.0153846153846
+      },
+      "entryData": {
+        "coolness": 9,
+        "rating_count": 26,
+        "created_at": "2023-09-22 17:53:28",
+        "id": 458199,
+        "contributors": [
+          {
+            "name": "timconceivable",
+            "url": "https://timconceivable.itch.io"
+          },
+          {
+            "name": "Mellybelly",
+            "url": "https://melanie-severs.itch.io"
+          },
+          {
+            "name": "HyphenPixel",
+            "url": "https://hyphenpixel.itch.io"
+          }
+        ],
+        "url": "/jam/gbjam-11/rate/2267272",
+        "game": {
+          "short_text": "fight to regain your stolen furniture in space!",
+          "cover": "https://img.itch.zone/aW1nLzEzNTE4MjQzLnBuZw==/300x240%23c/6GAyzo.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 2267272,
+          "cover_color": "#203671",
+          "user": {
+            "name": "timconceivable",
+            "url": "https://timconceivable.itch.io",
+            "id": 114368
+          },
+          "url": "https://timconceivable.itch.io/cozycosmos",
+          "title": "Cozy Cosmos"
+        }
+      },
+      "details": {
+        "title": "Cozy Cosmos",
+        "description": "NOTE: the PC build is recommended for the best play experience!\nthe music on the HTML5 version is a bit broken.  songs do not cut off when they should resulting in several overlapping tracks at the same time.  this is unfortunately an issue with the game engine's exporter and i have no idea how to fix it.  if you do only play this version, please give the soundtrack a listen on youtube (link below) so you can hear how wonderful it actually is!also it has come to our attention that some antivirus software may think the game contains a virus.  this seems to be an issue with all games made with GameMaker.  i can assure you it is safe to run and there are no viruses in the game files.the game isn't 100% finished, but the core gameplay is mostly there and there's some sense of a story to it... i think.  thanks for taking time to check it out!\n\nCONTROLS\nD-PadARROW KEYS or WASDmoveA buttonX or SPACEshoot (hold or press)B buttonCcollect furniture, use portalsSTART buttonENTERstart gameSELECT buttonPpause game\nlisten to the soundtrack on youtube!\n\n\nCREDITS\nart and animation: MellsBells18music and sounds: HyphenPixelcode: TimConceivable!palette: Moonlight GB by Tofu",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjI2NzI3Mi8xMzUyMTQ2OC5wbmc=/original/0Zb2c2.png",
+          "https://img.itch.zone/aW1hZ2UvMjI2NzI3Mi8xMzUzNDQ5MS5wbmc=/original/yJfjMt.png",
+          "https://img.itch.zone/aW1hZ2UvMjI2NzI3Mi8xMzUyMTQ3MC5wbmc=/original/PrJCZF.png",
+          "https://img.itch.zone/aW1hZ2UvMjI2NzI3Mi8xMzUyMTQ3My5wbmc=/original/qXvvVg.png",
+          "https://img.itch.zone/aW1hZ2UvMjI2NzI3Mi8xMzUzNDc0OS5wbmc=/original/g%2Bquy6.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "timconceivable, Mellybelly, HyphenPixel",
+          "Genre": "Action",
+          "Made with": "GameMaker, Aseprite",
+          "Tags": "2D, Game Boy, Pixel Art, Retro, Shoot 'Em Up",
+          "Average session": "About a half-hour",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": 2281116,
+      "gameUrl": "https://kattrali.itch.io/the-big-breakout",
+      "overallRank": 88,
+      "topCategories": [
+        "Interpretation of the Secondary Theme"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "kattrali",
+            "id": 487353
+          },
+          {
+            "name": "kyleff",
+            "id": 5138347
+          }
+        ],
+        "id": 2281116,
+        "rank": 88,
+        "criteria": [
+          {
+            "name": "Gameboy Soul",
+            "raw_score": 4.1818181818182,
+            "rank": 53,
+            "score": 4.1818181818182
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "raw_score": 3.0909090909091,
+            "rank": 182,
+            "score": 3.0909090909091
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "raw_score": 4.5454545454545,
+            "rank": 9,
+            "score": 4.5454545454545
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.2727272727273,
+            "rank": 132,
+            "score": 3.2727272727273
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.4545454545455,
+            "rank": 173,
+            "score": 3.4545454545455
+          }
+        ],
+        "rating_count": 11,
+        "url": "https://itch.io/jam/gbjam-11/rate/2281116",
+        "title": "The Big Breakout",
+        "cover_url": "https://img.itch.zone/aW1nLzEzNTE3MjI4LnBuZw==/300x240%23c/bsKvPj.png",
+        "raw_score": 3.7090909090909,
+        "score": 3.7090909090909
+      },
+      "entryData": {
+        "coolness": 10,
+        "rating_count": 11,
+        "created_at": "2023-09-25 10:11:27",
+        "id": 459434,
+        "contributors": [
+          {
+            "name": "kattrali",
+            "url": "https://kattrali.itch.io"
+          },
+          {
+            "name": "kyleff",
+            "url": "https://kyleff.itch.io"
+          }
+        ],
+        "url": "/jam/gbjam-11/rate/2281116",
+        "game": {
+          "short_text": "A puzzling adventure for the Game Boy",
+          "cover": "https://img.itch.zone/aW1nLzEzNTE3MjI4LnBuZw==/300x240%23c/bsKvPj.png",
+          "id": 2281116,
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "kattrali",
+            "url": "https://kattrali.itch.io",
+            "id": 487353
+          },
+          "url": "https://kattrali.itch.io/the-big-breakout",
+          "title": "The Big Breakout"
+        }
+      },
+      "details": {
+        "title": "The Big Breakout",
+        "description": "🔒 The Big Breakout!\nA very slightly puzzling game of escape for the Game Boy - your team on the outside can get you the items you need, but they have to fit in peculiar shapes to get to you so you can break out.\nPick items to take on your adventure, then run the scenario to see what happens. Good luck!\n\nYou can play The Big Breakout in the browser or in an emulator or on your actual Game Boy by downloading the ROM file provided. 🎮\nControls\nZ - A button\nX - B button\nWASD or arrow keys - directional pad\nEnter/Return - start button (runs the escape scenario)\nLeft shift - select button (opens the menu in from within levels)\n\nAbout\nA game by kattrali and kylef, made with GBDK-2020 for GBJam11!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjI4MTExNi8xMzUxNzIyOS5wbmc=/original/KJBo%2Fg.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Authors": "kattrali, kyleff",
+          "Genre": "Puzzle",
+          "Tags": "Game Boy, Game Boy ROM, Singleplayer",
+          "Average session": "A few minutes",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": 2281130,
+      "gameUrl": "https://em-blem.itch.io/starfleet-strategist",
+      "overallRank": 111,
+      "topCategories": [
+        "Interpretation of the Secondary Theme"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "em_blem",
+            "id": 8888359
+          },
+          {
+            "name": "Adyss",
+            "id": 8699360
+          }
+        ],
+        "id": 2281130,
+        "rank": 111,
+        "criteria": [
+          {
+            "name": "Gameboy Soul",
+            "raw_score": 3.9090909090909,
+            "rank": 102,
+            "score": 3.9090909090909
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "raw_score": 4.5454545454545,
+            "rank": 9,
+            "score": 4.5454545454545
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.4545454545455,
+            "rank": 100,
+            "score": 3.4545454545455
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "raw_score": 2.8181818181818,
+            "rank": 217,
+            "score": 2.8181818181818
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.3636363636364,
+            "rank": 185,
+            "score": 3.3636363636364
+          }
+        ],
+        "rating_count": 11,
+        "url": "https://itch.io/jam/gbjam-11/rate/2281130",
+        "title": "Starfleet strategist",
+        "cover_url": "https://img.itch.zone/aW1nLzEzNTE3MzYwLnBuZw==/300x240%23c/Q%2BQyIt.png",
+        "raw_score": 3.6181818181818,
+        "score": 3.6181818181818
+      },
+      "entryData": {
+        "coolness": 0,
+        "rating_count": 11,
+        "created_at": "2023-09-25 10:55:26",
+        "id": 459478,
+        "contributors": [
+          {
+            "name": "em_blem",
+            "url": "https://em-blem.itch.io"
+          },
+          {
+            "name": "Adyss",
+            "url": "https://adyss.itch.io"
+          }
+        ],
+        "url": "/jam/gbjam-11/rate/2281130",
+        "game": {
+          "short_text": "Entry for GBJam 11",
+          "cover": "https://img.itch.zone/aW1nLzEzNTE3MzYwLnBuZw==/300x240%23c/Q%2BQyIt.png",
+          "id": 2281130,
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "em_blem",
+            "url": "https://em-blem.itch.io",
+            "id": 8888359
+          },
+          "url": "https://em-blem.itch.io/starfleet-strategist",
+          "title": "Starfleet strategist"
+        }
+      },
+      "details": {
+        "title": "Starfleet strategist",
+        "description": "Starfleet strategist  \nYour starship fleet is strong, but the waves of alien attacks are relentless. Can your engineers improve your ships to stay ahead of the aliens’ growing fleet? Can your commanders set strategic formations for the battlefield? Choose wisely, or all is lost.\nControls\nMenu navigation: Arrow keys, enter, esc\n  \nRemove component from ship: Delete\n      \nCredits\n\nProgramming: Simo Korhonen\nArt & SFX: Emily Johnson\nMusic: Thijs Luttikhuis\nNote\nSadly few critical UI bugs made it to the last submitted version. Fixed version available here: https://adyss.itch.io/starfleet-strategist",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjI4MTEzMC8xMzUxNzgzNi5wbmc=/original/pftu%2Bs.png",
+          "https://img.itch.zone/aW1hZ2UvMjI4MTEzMC8xMzUxNzg0MC5wbmc=/original/SPHMbA.png",
+          "https://img.itch.zone/aW1hZ2UvMjI4MTEzMC8xMzUxNzgzNy5wbmc=/original/AUxVwG.png",
+          "https://img.itch.zone/aW1hZ2UvMjI4MTEzMC8xMzUxNzgzOS5wbmc=/original/c69Vtr.png",
+          "https://img.itch.zone/aW1hZ2UvMjI4MTEzMC8xMzUxNzgzOC5wbmc=/original/3db%2Fuq.png",
+          "https://img.itch.zone/aW1hZ2UvMjI4MTEzMC8xMzUxNzg0MS5wbmc=/original/u10eUm.png",
+          "https://img.itch.zone/aW1hZ2UvMjI4MTEzMC8xMzUxNzg0Mi5wbmc=/original/LmFCUE.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Authors": "em_blem, Adyss",
+          "Genre": "Strategy",
+          "Made with": "Godot",
+          "Tags": "Space"
+        }
+      }
+    },
+    {
+      "gameId": 2268379,
+      "gameUrl": "https://toadzillart.itch.io/cosmic-pulse",
+      "overallRank": 10,
+      "topCategories": [
+        "Soundtrack/SFX"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Toadzillart",
+            "id": 2306932
+          },
+          {
+            "name": "Beej",
+            "id": 8700360
+          }
+        ],
+        "id": 2268379,
+        "rank": 10,
+        "criteria": [
+          {
+            "name": "Graphics",
+            "raw_score": 4.5576923076923,
+            "rank": 13,
+            "score": 4.5576923076923
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.75,
+            "rank": 59,
+            "score": 3.75
+          },
+          {
+            "name": "Gameboy Soul",
+            "raw_score": 4.3076923076923,
+            "rank": 32,
+            "score": 4.3076923076923
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "raw_score": 4.1730769230769,
+            "rank": 51,
+            "score": 4.1730769230769
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "raw_score": 4.4615384615385,
+            "rank": 1,
+            "score": 4.4615384615385
+          }
+        ],
+        "rating_count": 52,
+        "url": "https://itch.io/jam/gbjam-11/rate/2268379",
+        "title": "Cosmic Pulse - GBJam11",
+        "cover_url": "https://img.itch.zone/aW1nLzEzNTE2OTU0LmdpZg==/300x240%23c/4b3E%2Fl.gif",
+        "raw_score": 4.25,
+        "score": 4.25
+      },
+      "entryData": {
+        "coolness": 21,
+        "rating_count": 52,
+        "created_at": "2023-09-24 14:25:15",
+        "id": 458697,
+        "contributors": [
+          {
+            "name": "Toadzillart",
+            "url": "https://toadzillart.itch.io"
+          },
+          {
+            "name": "Beej",
+            "url": "https://beejtunes.itch.io"
+          }
+        ],
+        "url": "/jam/gbjam-11/rate/2268379",
+        "game": {
+          "gif_cover": "https://img.itch.zone/aW1nLzEzNTE2OTU0LmdpZg==/original/srd%2BH1.gif",
+          "cover": "https://img.itch.zone/aW1nLzEzNTE2OTU0LmdpZg==/300x240%23c/4b3E%2Fl.gif",
+          "cover_color": "#584422",
+          "id": 2268379,
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Toadzillart",
+            "url": "https://toadzillart.itch.io",
+            "id": 2306932
+          },
+          "url": "https://toadzillart.itch.io/cosmic-pulse",
+          "title": "Cosmic Pulse - GBJam11"
+        }
+      },
+      "details": {
+        "title": "Cosmic Pulse - GBJam11",
+        "description": "Cosmic Pulse\n\nInspired by the timeless aesthetics and challenges of Game Boy classics, \"Cosmic Pulse\" is our proud submission for the GBJam11, made in 10 days! \n\nIn the vast, uncharted reaches of space, a lone spaceship drifts, its crew besieged by alien invaders. Enter PULSE, an advanced robot with a mission: navigate the ship's treacherous corridors, outwit extraterrestrial threats, and make heartbreaking choices to safeguard Earth. Dive deep into a tale of duty, sacrifice, and unexpected alliances. In \"Cosmic Pulse,\" every decision ripples through the cosmos. Will you rise to the challenge?\n\nControls\nGameBoyKeyboard 1Keyboard2AZWBXUPUp arrowDOWNDown arrowLEFTLeft arrowRIGHTRight arrowSTARTEnterSELECTC\n\nSoundtrack\nYou can access the game soundtrack here\n\nCredits\n\nToadzilla - Art, ProgrammingBeej - Music, SFX\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjI2ODM3OS8xMzUwNjA4NS5naWY=/original/lnMpBj.gif",
+          "https://img.itch.zone/aW1hZ2UvMjI2ODM3OS8xMzUwNjEyMC5naWY=/original/yAS4zB.gif",
+          "https://img.itch.zone/aW1hZ2UvMjI2ODM3OS8xMzUwNjI5Ny5naWY=/original/XhQo5h.gif",
+          "https://img.itch.zone/aW1hZ2UvMjI2ODM3OS8xMzUwNjM0MC5naWY=/original/Y1pZHo.gif",
+          "https://img.itch.zone/aW1hZ2UvMjI2ODM3OS8xMzUwNjM0My5naWY=/original/dM7%2Bph.gif"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(3 total ratings)",
+          "Authors": "Toadzillart, Beej",
+          "Genre": "Action, Adventure, Rhythm",
+          "Made with": "Godot",
+          "Tags": "Aliens, GBJam, gbjam11, Space"
+        }
+      }
+    },
+    {
+      "gameId": 2274693,
+      "gameUrl": "https://devgio.itch.io/packed-in",
+      "overallRank": 9,
+      "topCategories": [
+        "Soundtrack/SFX"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "DevGio",
+            "id": 6386029
+          },
+          {
+            "name": "rev.sat9",
+            "id": 1014526
+          }
+        ],
+        "id": 2274693,
+        "rank": 9,
+        "criteria": [
+          {
+            "name": "Gameboy Soul",
+            "raw_score": 4.4615384615385,
+            "rank": 15,
+            "score": 4.4615384615385
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 4.3461538461538,
+            "rank": 12,
+            "score": 4.3461538461538
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.8461538461538,
+            "rank": 99,
+            "score": 3.8461538461538
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "raw_score": 4.3461538461538,
+            "rank": 7,
+            "score": 4.3461538461538
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "raw_score": 4.3846153846154,
+            "rank": 26,
+            "score": 4.3846153846154
+          }
+        ],
+        "rating_count": 26,
+        "url": "https://itch.io/jam/gbjam-11/rate/2274693",
+        "title": "Packed In!",
+        "cover_url": "https://img.itch.zone/aW1nLzEzNDg5MzczLnBuZw==/300x240%23c/xpSQCN.png",
+        "raw_score": 4.2769230769231,
+        "score": 4.2769230769231
+      },
+      "entryData": {
+        "coolness": 20,
+        "rating_count": 26,
+        "created_at": "2023-09-24 20:28:54",
+        "id": 458870,
+        "contributors": [
+          {
+            "name": "DevGio",
+            "url": "https://devgio.itch.io"
+          },
+          {
+            "name": "rev.sat9",
+            "url": "https://revsat9.itch.io"
+          }
+        ],
+        "url": "/jam/gbjam-11/rate/2274693",
+        "game": {
+          "short_text": "Tetris-style game where your goal is to break the most tiles in a 5x5 grid area without running out of possible moves",
+          "cover": "https://img.itch.zone/aW1nLzEzNDg5MzczLnBuZw==/300x240%23c/xpSQCN.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 2274693,
+          "cover_color": "#4d222c",
+          "user": {
+            "name": "DevGio",
+            "url": "https://devgio.itch.io",
+            "id": 6386029
+          },
+          "url": "https://devgio.itch.io/packed-in",
+          "title": "Packed In!"
+        }
+      },
+      "details": {
+        "title": "Packed In!",
+        "description": "If the game is too small, zoom in on your browser\nMade for the GBJam 2023\nControls\nGameboy (Purely Aesthetical)KeyboardD-PadWASDBSpaceAKSelectLeft ShiftStartEnter\nGameplay\nPlace pieces to destroy rows and columns of tiles. The more tiles you destroy at once, the higher the points you will get. Make sure to plan ahead though, or you will find yourself out of space to place new pieces!\nCan you beat my High Score of 88030?\nMusic by sat9",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjI3NDY5My8xMzUyMDA4OC5wbmc=/original/G6l%2Bcp.png",
+          "https://img.itch.zone/aW1hZ2UvMjI3NDY5My8xMzUyMDA4Ny5wbmc=/original/z1rQ3K.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "DevGio, rev.sat9",
+          "Genre": "Action",
+          "Tags": "2D, Arcade, Endless, Fast-Paced, Game Boy, High Score, Management, Pixel Art, Retro, Tetris"
+        }
+      }
+    },
+    {
+      "gameId": 2264572,
+      "gameUrl": "https://indigomountain.itch.io/galactic-news",
+      "overallRank": 24,
+      "topCategories": [
+        "Soundtrack/SFX"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "indigomountain",
+            "id": 8789086
+          },
+          {
+            "name": "years",
+            "id": 6405027
+          },
+          {
+            "name": "goldfishparty",
+            "id": 8873193
+          },
+          {
+            "name": "Prim",
+            "id": 3247481
+          },
+          {
+            "name": "Craig Henderson",
+            "id": 8261902
+          }
+        ],
+        "id": 2264572,
+        "rank": 24,
+        "criteria": [
+          {
+            "name": "Soundtrack/SFX",
+            "raw_score": 4.3333333333333,
+            "rank": 8,
+            "score": 4.3333333333333
+          },
+          {
+            "name": "Gameboy Soul",
+            "raw_score": 4,
+            "rank": 75,
+            "score": 4
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.4444444444444,
+            "rank": 22,
+            "score": 4.4444444444444
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "raw_score": 4.1111111111111,
+            "rank": 57,
+            "score": 4.1111111111111
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.6666666666667,
+            "rank": 67,
+            "score": 3.6666666666667
+          }
+        ],
+        "rating_count": 18,
+        "url": "https://itch.io/jam/gbjam-11/rate/2264572",
+        "title": "Galactic News",
+        "cover_url": "https://img.itch.zone/aW1nLzEzNTE2ODg5LmdpZg==/300x240%23c/nkOd0I.gif",
+        "raw_score": 4.1111111111111,
+        "score": 4.1111111111111
+      },
+      "entryData": {
+        "coolness": 23,
+        "rating_count": 18,
+        "created_at": "2023-09-22 22:09:29",
+        "id": 458257,
+        "contributors": [
+          {
+            "name": "indigomountain",
+            "url": "https://indigomountain.itch.io"
+          },
+          {
+            "name": "years",
+            "url": "https://mikayears.itch.io"
+          },
+          {
+            "name": "goldfishparty",
+            "url": "https://goldfishparty.itch.io"
+          },
+          {
+            "name": "Prim",
+            "url": "https://primordialrune.itch.io"
+          },
+          {
+            "name": "Craig Henderson",
+            "url": "https://craig-henderson.itch.io"
+          }
+        ],
+        "url": "/jam/gbjam-11/rate/2264572",
+        "game": {
+          "short_text": "GBJAM 23 submission",
+          "id": 2264572,
+          "user": {
+            "name": "indigomountain",
+            "url": "https://indigomountain.itch.io",
+            "id": 8789086
+          },
+          "url": "https://indigomountain.itch.io/galactic-news",
+          "cover": "https://img.itch.zone/aW1nLzEzNTE2ODg5LmdpZg==/300x240%23c/nkOd0I.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzEzNTE2ODg5LmdpZg==/original/S3OMyL.gif",
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#eeeeee",
+          "title": "Galactic News"
+        }
+      },
+      "details": {
+        "title": "Galactic News",
+        "description": "In level select screen navigate down to select the upgrade shop!\n    When you've played the game already skip the cut scenes with start buttonWhen you crash a lot use the shields\n    \nKeyboard ControlsGamepad Controls:MOVEWASDDirectional padLEFT SHOOTJB / LRIGHT SHOOTLA / RSHIELDK / N / HSELECTGO BACKJBCONFIRMLAPAUSE/SKIPRETURN / MSTART",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjI2NDU3Mi8xMzUxNjk4NC5wbmc=/original/BnRCX6.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Authors": "indigomountain, years, goldfishparty, Prim, Craig Henderson",
+          "Genre": "Shooter",
+          "Made with": "Godot",
+          "Tags": "Space"
+        }
+      }
+    }
+  ]
+}

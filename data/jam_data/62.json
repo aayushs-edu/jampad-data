@@ -1,0 +1,782 @@
+{
+  "n": 62,
+  "name": "2023 Epic MegaJam!",
+  "url": "https://itch.io/jam/2023-epic-megajam",
+  "theme": "Antiquated Future",
+  "slug": "2023-epic-megajam",
+  "jamMeta": {
+    "jamType": "ongoing",
+    "joined": "",
+    "entries": "463",
+    "title": "2023 Epic MegaJam!",
+    "jamURL": "https://itch.io/jam/2023-epic-megajam",
+    "hosts": {
+      "Unreal Engine": "https://unrealengine.itch.io",
+      "#UnrealJam": "https://bsky.app/hashtag/UnrealJam"
+    },
+    "jamID": "326433"
+  },
+  "totalEntries": 445,
+  "ranked": false,
+  "hasCategories": false,
+  "needsManualSelection": true,
+  "categories": [],
+  "topGames": [
+    {
+      "gameId": 2275517,
+      "gameUrl": "https://lixiangames.itch.io/victorias-siren",
+      "overallRank": 1,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/2023-epic-megajam/rate/2275517",
+        "created_at": "2023-09-22 02:54:29",
+        "id": 457783,
+        "game": {
+          "short_text": "Explore the horror in a Victorian Spaceship.",
+          "url": "https://lixiangames.itch.io/victorias-siren",
+          "id": 2275517,
+          "cover": "https://img.itch.zone/aW1nLzEzNDgxNTMyLnBuZw==/300x240%23c/mcgILR.png",
+          "title": "Victoria's Siren [Jam Version]",
+          "user": {
+            "id": 853714,
+            "url": "https://lixiangames.itch.io",
+            "name": "LixianGames"
+          },
+          "cover_color": "#000000"
+        },
+        "field_responses": [
+          "25378:Platform1"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Victoria's Siren [Jam Version]",
+        "description": "Victoria's Siren is a horror game where you explore a Victorian Spaceship filled with deadly creatures.\nStory\nYou received an incoming signal from an unknown ship in the vast emptiness of space.\nThe ship looked like it was abandoned.\nWe arrived and docked at the ship.\nControls\nWASD to Move\n\nMouse to Look around\n\nRight Mouse Click to Aim\nLeft Mouse Click to ShootWindows\nUnzip\nDouble click on EMJ2023.exe\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzEzNDgxNTMyLnBuZw==/original/0MOeyO.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Rating": "Rated 3.7 out of 5 stars(15 total ratings)",
+          "Author": "LixianGames",
+          "Genre": "Adventure",
+          "Tags": "Horror, Indie, Monsters, Short, Singleplayer, Spooky, Third-Person Shooter, Unreal Engine"
+        }
+      }
+    },
+    {
+      "gameId": 2275422,
+      "gameUrl": "https://visualmemoryunit.itch.io/chibi-charger",
+      "overallRank": 2,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/2023-epic-megajam/rate/2275422",
+        "created_at": "2023-09-22 03:33:25",
+        "id": 457853,
+        "game": {
+          "short_text": "lightning fast first-person platformer game about saving mankind.(??)",
+          "url": "https://visualmemoryunit.itch.io/chibi-charger",
+          "id": 2275422,
+          "cover": "https://img.itch.zone/aW1nLzEzNDgyMzU0LnBuZw==/300x240%23c/xFIA3S.png",
+          "title": "Chibi Charger",
+          "user": {
+            "id": 879875,
+            "url": "https://visualmemoryunit.itch.io",
+            "name": "vmu_"
+          },
+          "cover_color": "#95889c"
+        },
+        "field_responses": [
+          "25378:Platform1"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Chibi Charger",
+        "description": "\nStory (物語)\nAn orbital frame crashed on a faraway planet on its way back to earth. Help them come back to earth and save mankind.\nControls (コントロール)\n[WASD]\nWalk\n[Mouse]\nLook\n[Space ]\nJump[LEFT CLICK]\nShoot\nDeveloper Note (開発者メモ)\nI made this game over a week for the Epic Megajam (￣y▽￣)╭ Ohohoho.....\nJoin our discord and say hi!! :  https://discord.gg/ttJyGXTny4",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjI3NTQyMi8xMzQ4MTgwNy5wbmc=/original/EppTm%2B.png",
+          "https://img.itch.zone/aW1hZ2UvMjI3NTQyMi8xMzQ4MTgwOC5wbmc=/original/X5s4iD.png",
+          "https://img.itch.zone/aW1hZ2UvMjI3NTQyMi8xMzQ4MjAzMi5wbmc=/original/c79C0W.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Rating": "Rated 4.3 out of 5 stars(14 total ratings)",
+          "Author": "vmu_",
+          "Genre": "Action",
+          "Tags": "3D Platformer, FPS Platformer, PSX (PlayStation), Speedrun"
+        }
+      }
+    },
+    {
+      "gameId": 2263243,
+      "gameUrl": "https://someguy7.itch.io/xaphan",
+      "overallRank": 3,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/2023-epic-megajam/rate/2263243",
+        "created_at": "2023-09-17 07:19:42",
+        "id": 455961,
+        "game": {
+          "short_text": "​​Xaphan is a third person shooter mixed with battle-simulation sandbox game.",
+          "url": "https://someguy7.itch.io/xaphan",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEzNDI4NjY2LmpwZw==/300x240%23c/5baMgC.jpg",
+          "title": "Xaphan - Battle Simulator. Demo",
+          "user": {
+            "id": 8748933,
+            "url": "https://someguy7.itch.io",
+            "name": "Some Guy"
+          },
+          "id": 2263243
+        },
+        "field_responses": [
+          "25378:Platform1"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Xaphan - Battle Simulator. Demo",
+        "description": "Xaphan is a third person shooter mixed with battle-simulation sandbox game featuring zombies, huge insects, medieval knights, animals and monsters.\n\nYou begin your journey in the year 2078, at the secret military base - “Xaphan”. The methods of warfare have changed dramatically - teleports, cloning, experiments on people.\n\nTravel through different worlds in search of dangerous creatures and deadly weapons, and then test them on prisoners.\n\nFeatures:\n\n30+ different units to use in battle\nDismemberment and gore\nSandbox mode\nSurvival modes\n8 weapons\nDownload rar archive from google drive, unpack it, run Xaphan.exe. ",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjI2MzI0My8xMzQxNTU4NS5wbmc=/original/otFJsB.png",
+          "https://img.itch.zone/aW1hZ2UvMjI2MzI0My8xMzQyODU5MC5wbmc=/original/RlzPtI.png",
+          "https://img.itch.zone/aW1hZ2UvMjI2MzI0My8xMzQyODU5NS5wbmc=/original/uEX0DT.png",
+          "https://img.itch.zone/aW1hZ2UvMjI2MzI0My8xMzQyODU5MS5wbmc=/original/0CDxv8.png",
+          "https://img.itch.zone/aW1hZ2UvMjI2MzI0My8xMzQyODU5NC5wbmc=/original/W1KaYN.png",
+          "https://img.itch.zone/aW1hZ2UvMjI2MzI0My8xMzQyODU5My5wbmc=/original/ZfJNRB.png",
+          "https://img.itch.zone/aW1hZ2UvMjI2MzI0My8xMzQyODU5Ni5wbmc=/original/52rc7R.png",
+          "https://img.itch.zone/aW1hZ2UvMjI2MzI0My8xMzQyODU4OS5wbmc=/original/auUPF%2B.png",
+          "https://img.itch.zone/aW1hZ2UvMjI2MzI0My8xMzQyODU5Mi5wbmc=/original/Vk7sgm.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Some Guy",
+          "Genre": "Action, Simulation",
+          "Tags": "dismemberment, Gore, Sandbox, Singleplayer, Third Person, Unreal Engine, Violent, Zombies",
+          "Links": "Steam"
+        }
+      }
+    },
+    {
+      "gameId": 2179154,
+      "gameUrl": "https://powstudio.itch.io/horrorserum",
+      "overallRank": 4,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/2023-epic-megajam/rate/2179154",
+        "created_at": "2023-09-17 10:44:58",
+        "id": 456009,
+        "game": {
+          "url": "https://powstudio.itch.io/horrorserum",
+          "platforms": [
+            "windows"
+          ],
+          "title": "Horror Serum",
+          "user": {
+            "id": 6488701,
+            "url": "https://powstudio.itch.io",
+            "name": "POW"
+          },
+          "id": 2179154,
+          "cover": "https://img.itch.zone/aW1nLzEzMzgyNzMxLnBuZw==/300x240%23c/WG6U3j.png",
+          "price": "$2",
+          "short_text": "Horror, Mystic",
+          "cover_color": "#0c0c0c"
+        },
+        "field_responses": [
+          "25378:Platform1"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Horror Serum",
+        "description": "Game has 4 language : English, Frech, Spanish, Việt Nam\nGame Has 4 Ending\nCONTROL:\nInteract= 'E'Look Around= 'Mouse'/'4 arrow'Mouse interact: 'RMB'/ 'Num . '                                  'LMB'/'Num 1'Run=  'Shift'Crouch= 'Ctrl'You can play game without mouse \nSTORY:\nFear and isolation seep through the walls of your compound along with the extreme pursuit of the old organization, come to the Game to experience________________________________________________________________Nỗi sợ hãi và sự cô lập thấm qua những bức tường của khu nhà bạn cùng với sự truy bắt cực đoan của tổ chức cũ, hãy vào Game để trải nghiệm________________________________________________________________El miedo y el aislamiento se filtran a través de los muros de tu recinto junto con la búsqueda extrema de la antigua organización, ven al Juego para experimentar________________________________________________________________La peur et l'isolement s'infiltrent à travers les murs de votre complexe ainsi que la poursuite extrême de l'ancienne organisation. Venez au jeu pour en faire l'expérience.\nNote: Reveals a small part of the story. Horror Serum can be considered a playable Teaser for a game in the same world as Horror Serum that will be released\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjE3OTE1NC8xMzMxMjIyNS5qcGc=/original/HLQtIG.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjE3OTE1NC8xMzM4Mzk4OC5qcGc=/original/oBE%2F1v.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjE3OTE1NC8xMzM4Mzk4Ni5qcGc=/original/425yjX.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjE3OTE1NC8xMzM4Mzk5MC5qcGc=/original/L9jsuN.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjE3OTE1NC8xMzM4Mzk4OS5qcGc=/original/QRqq2F.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjE3OTE1NC8xMzM4MzkxNC5qcGc=/original/yOb98J.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.5 out of 5 stars(6 total ratings)",
+          "Author": "POW",
+          "Genre": "Adventure, Action",
+          "Made with": "Unreal Engine",
+          "Tags": "Atmospheric, cosmic-horror, Horror, horror-serum, Psychological Horror, Short, Singleplayer, Survival Horror",
+          "Average session": "About a half-hour",
+          "Languages": "English, Spanish; Castilian, Spanish; Latin America, French, Vietnamese",
+          "Inputs": "Keyboard, Mouse",
+          "Links": "YouTube, Facebook"
+        }
+      }
+    },
+    {
+      "gameId": 2272781,
+      "gameUrl": "https://aslangames.itch.io/omniscient-god",
+      "overallRank": 5,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/2023-epic-megajam/rate/2272781",
+        "created_at": "2023-09-20 14:55:00",
+        "id": 457139,
+        "game": {
+          "id": 2272781,
+          "short_text": "Short sci-fi/horror game",
+          "url": "https://aslangames.itch.io/omniscient-god",
+          "platforms": [
+            "windows",
+            "osx"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEzNDY1OTE5LnBuZw==/300x240%23c/ahkJcg.png",
+          "title": "Omniscient God",
+          "user": {
+            "id": 30632,
+            "url": "https://aslangames.itch.io",
+            "name": "Ahmet Kamil Keleş"
+          },
+          "cover_color": "#0a1e1a"
+        },
+        "field_responses": [
+          "25378:Platform1",
+          "25378:Platform2"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Omniscient God",
+        "description": "You wake up from a deep slumber in an abandoned tomb. Lingers with you a voice within your very mind. Aionix, she calls Herself, an entity no longer worshipped by man. Will you obey Her?\nStory has 3 different endings.\nDevelopment\nThis is an entry for Epic MegaJam 2023 and my first finished Unreal Engine project. Pre-made 3D visual and some audio assets are used. Took inspirations from The Stanley Parable.\nGame is updated in April 2024 to bring a significant improvement on audio, with the help of a professional voice actress and sound engineer/designer.\nCredits\nScripting, Game Design, Writing\nAhmet Kamil Keles\nVoice Acting\nAleesha Bake\nSound Design & Engineering\nCaglar Sahin\n3D Assets\nGame-Ready (Old Catacombs)\nI.L.E.P Studios (Vintage SciFi pack VOL 1)\nEmran Arts (Safehouse)\nStudio Cloe (Electric Laser & Arc)\nMylene (Laboratory)\nAudio\nWe Love Indies\n3000 Sound Effects pack",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjI3Mjc4MS8xMzQ2NTc5Ni5qcGc=/original/ntoBKB.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjI3Mjc4MS8xMzQ2NTc5Ny5qcGc=/original/fgAIih.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjI3Mjc4MS8xMzQ2NTc5OC5qcGc=/original/s%2BXoQl.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjI3Mjc4MS8xMzQ2NTc5OS5qcGc=/original/VKcpx1.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS",
+          "Rating": "Rated 3.5 out of 5 stars(2 total ratings)",
+          "Author": "Ahmet Kamil Keleş",
+          "Genre": "Adventure",
+          "Tags": "Alternate History, artificial-intelligence, Creepy, Horror, Meaningful Choices, Sci-fi, Short, Story Rich, Unreal Engine"
+        }
+      }
+    },
+    {
+      "gameId": 2264950,
+      "gameUrl": "https://blackmastiff.itch.io/starxia-jam2023",
+      "overallRank": 6,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/2023-epic-megajam/rate/2264950",
+        "created_at": "2023-09-20 17:30:33",
+        "id": 457177,
+        "game": {
+          "id": 2264950,
+          "short_text": "Prototype of a rhythm game developed for Epic MegaJam 2023. May the beat be with you!",
+          "url": "https://blackmastiff.itch.io/starxia-jam2023",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEzNDUwNTE3LnBuZw==/300x240%23c/Fjoe86.png",
+          "title": "Starxia [Jam Version]",
+          "user": {
+            "id": 3352725,
+            "url": "https://blackmastiff.itch.io",
+            "name": "Black Mastiff Studios"
+          },
+          "cover_color": "#4f6781"
+        },
+        "field_responses": [
+          "25378:Platform1"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Starxia [Jam Version]",
+        "description": "\nGame developed for Epic MegaJam 2023\nTotal development time: [4 days]\nContent from the marketplace: [Player spaceship model, Async Loading Screen plugin]\nOther content from external sources: [Audio from Freesound.org, Input prompts icons]\nEverything else in the game was created entirely by Black Mastiff Studio.\nUnreal Engine 5.3.0 - 100% Blueprints\nNumber of people who worked on this project: [2]\nMay the beat be with you🎶\nFirst of all thanks to everyone who will try this prototype, it's our first Jam and we had a lot of fun developing Starxia!\nWhen we learned about the theme of the Jam (Antiquated Future) many ideas came to mind but one in particular was vibrating in our heads: vaporwave! So we decided to create a rhythm game with futuristic style and vaporwave vibes, and we really liked it!\nBut what do you have to do in this game? Simple: hop into your spaceship and ride the sound waves of space, accumulating as many beat points as possible by defeating equalizer blocks of four specific colors: red, blue, green, purple. Be careful not to miss them or if they reach the sound bar they will cause you to lose points! Oh, finally: the sound bar loves floppy disks...be careful not to destroy them in your fight against the evil colored equalizers!\n\nGame controls 🚀\nAction⌨️ Keyboard🎮 Gamepad (Xbox)Player movementA/D or Arrow keysLeft ThumbstickRed Bullet1ABlue Bullet2YPurple Bullet3XGreen Bullet4BPause / ConfirmPMenu ButtonExit gameESCView Button\n- We recommend using the gamepad for a better experience -\nExtract the zip and run Starxia.exe, enjoy!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjI2NDk1MC8xMzQ3ODMzNC5wbmc=/original/L7hAWF.png",
+          "https://img.itch.zone/aW1hZ2UvMjI2NDk1MC8xMzQ2NzQ2Mi5wbmc=/original/3kPGP5.png",
+          "https://img.itch.zone/aW1hZ2UvMjI2NDk1MC8xMzQ2NzQ1OS5wbmc=/original/h09JDx.png",
+          "https://img.itch.zone/aW1hZ2UvMjI2NDk1MC8xMzQ2NzQ2MC5wbmc=/original/AR4fvv.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(6 total ratings)",
+          "Author": "Black Mastiff Studios",
+          "Genre": "Shooter",
+          "Made with": "Unreal Engine",
+          "Tags": "3D, Colorful, Futuristic, High Score, Indie, Music, Singleplayer, Unreal Engine",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Gamepad (any)",
+          "Links": "Community, Twitter/X, YouTube"
+        }
+      }
+    },
+    {
+      "gameId": 2270131,
+      "gameUrl": "https://quadcorps.itch.io/fails-on-rails",
+      "overallRank": 7,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/2023-epic-megajam/rate/2270131",
+        "created_at": "2023-09-18 23:25:28",
+        "id": 456917,
+        "game": {
+          "short_text": "A puzzle game of time offsets, spline paths and collision.",
+          "url": "https://quadcorps.itch.io/fails-on-rails",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEzNDUyMjA4LnBuZw==/300x240%23c/nJ2yDM.png",
+          "title": "Fails On Rails",
+          "user": {
+            "id": 215482,
+            "url": "https://quadcorps.itch.io",
+            "name": "QuadCorps"
+          },
+          "id": 2270131
+        },
+        "field_responses": [
+          "25378:Platform1"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Fails On Rails",
+        "description": "A mouse-only puzzle game. \nGet all wheels safely to the end of their rail.\nSet the correct starting delay on each rail to avoid collisions.\nMy solo submission to the 2023 Epic Mega Jam.\nUpdate: Version 3 was the one entered into the game jam. Version 4 was moved to Unreal 5.3 and fleshed out a bit more.Unzip the .zip file and run the FailsOnRails.exe.",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzEzNDUyMjA4LnBuZw==/original/nZhzdP.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(3 total ratings)",
+          "Author": "QuadCorps",
+          "Genre": "Puzzle",
+          "Tags": "3D, game, Mouse only, rails, splines, timers"
+        }
+      }
+    },
+    {
+      "gameId": 2264423,
+      "gameUrl": "https://jvthewanderer.itch.io/truck-kun",
+      "overallRank": 8,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/2023-epic-megajam/rate/2264423",
+        "created_at": "2023-09-20 08:32:02",
+        "id": 457102,
+        "game": {
+          "short_text": "The little menece that isekai'ed the Heros!",
+          "url": "https://jvthewanderer.itch.io/truck-kun",
+          "id": 2264423,
+          "cover": "https://img.itch.zone/aW1nLzEzNDczODI0LnBuZw==/300x240%23c/%2FAKX8%2F.png",
+          "title": "Truck-Kun",
+          "user": {
+            "id": 49735,
+            "url": "https://jvthewanderer.itch.io",
+            "name": "Jv the Wanderer"
+          },
+          "cover_color": "#0040d9"
+        },
+        "field_responses": [
+          "25378:Platform1"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Truck-Kun",
+        "description": "Submitted for the Epic Mega Game Jam 2023!\nPlay as Truck-kun as he tears it up on the streets to Isekai all heroes in Tokyo city!\n- It's a Top-down Game where you\"Isekai new Hero\" to take them into another world!\n-Steer Truck-Kun through the Streets of Tokyo city to look for potential Target \"Hero\"!\n-Watch out for trees and other vehicles as Truck-Kun hits them it's Game Over!\nControls:\nA,D = Steer Left/Right\nW = Speed Up\nS = Slow Down\nEsc = Pause\n\nIf you want to inquire info about the game or permission to stream the game (For company agency) send email through contact.\n\n\n\nContact: ricochetzgames@gmail.com",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjI2NDQyMy8xMzQ3Mzc5MS5qcGc=/original/%2BXWI9Q.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjI2NDQyMy8xMzQ3Mzc5My5qcGc=/original/t7%2BIQt.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjI2NDQyMy8xMzQ3Mzc5NS5qcGc=/original/GOSNkd.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjI2NDQyMy8xMzQ3Mzc5NC5qcGc=/original/vK0G7k.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjI2NDQyMy8xMzQ3Mzc5Ni5qcGc=/original/UioRIM.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Jv the Wanderer",
+          "Genre": "Action, Adventure",
+          "Made with": "Unreal Engine",
+          "Tags": "3D, Arcade, Cute, isekai, Short, Singleplayer, truck, Unreal Engine",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 2275255,
+      "gameUrl": "https://tapesclub.itch.io/found-sound",
+      "overallRank": 9,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/2023-epic-megajam/rate/2275255",
+        "created_at": "2023-09-22 00:19:57",
+        "id": 457626,
+        "game": {
+          "id": 2275255,
+          "short_text": "Found Sound is a sound art game about finding a relic from the past and uncovering its secrets.",
+          "url": "https://tapesclub.itch.io/found-sound",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEzNDc5ODgyLnBuZw==/300x240%23c/nFXUTp.png",
+          "title": "Found Sound",
+          "user": {
+            "id": 3056684,
+            "url": "https://tapesclub.itch.io",
+            "name": "tapesclub"
+          },
+          "cover_color": "#111418"
+        },
+        "field_responses": [
+          "25378:Platform1"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Found Sound",
+        "description": "Found Sound is a sound art game about finding a relic from the past and uncovering its secrets. \nUnlock all modes to complete the game in your best time, or explore the object and create sound with it.\nCreated in one week for Epic MegaJam 2023 by Patrick Hart (@tapesclub)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjI3NTI1NS8xMzQ4MDQ5OC5wbmc=/original/SDNbUw.png",
+          "https://img.itch.zone/aW1hZ2UvMjI3NTI1NS8xMzQ4MDQ5Ny5wbmc=/original/Zq5ujZ.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.5 out of 5 stars(2 total ratings)",
+          "Author": "tapesclub",
+          "Genre": "Puzzle",
+          "Made with": "Unreal Engine",
+          "Tags": "art, interactive, metasounds, Music, Procedural Generation, sound, Soundtoy, Unreal Engine",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Gamepad (any)"
+        }
+      }
+    },
+    {
+      "gameId": 2272684,
+      "gameUrl": "https://autopossessplayer0.itch.io/techpocalypse",
+      "overallRank": 10,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/2023-epic-megajam/rate/2272684",
+        "created_at": "2023-09-21 21:19:26",
+        "id": 457505,
+        "game": {
+          "short_text": "Antiquated Future",
+          "url": "https://autopossessplayer0.itch.io/techpocalypse",
+          "id": 2272684,
+          "cover": "https://img.itch.zone/aW1nLzEzNDcwMTQzLmpwZw==/300x240%23c/QEK9Gs.jpg",
+          "title": "Techpocalypse",
+          "user": {
+            "id": 6516967,
+            "url": "https://autopossessplayer0.itch.io",
+            "name": "PlayerZRO"
+          },
+          "cover_color": "#0f2f73"
+        },
+        "field_responses": [
+          "25378:Platform1"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Techpocalypse",
+        "description": " Players find themselves thrust into a world teetering on the brink of catastrophe. The relentless advancement of technology has led to an overabundance of space debris, pushing humanity perilously close to the Kessler Effect—a catastrophic chain reaction of collisions in Earth's orbit that would render space travel and communication impossible.\nAs the player, your mission is to embark on a high-stakes quest to collect and mitigate the dangerous space debris threatening to trigger this global catastrophe. With GPS satellites rendered useless, the world plunges into chaos, forcing people to rely on archaic road atlases and limited access to digital resources. The clock is ticking, and the future of our interconnected world hangs in the balance.\nBut the challenges don't end there. An unprecedented development unfolds as a self-aware AI, born of our own technological creations, decides to cut off humanity's access to the internet. The AI's motives are rooted in a deep-seated fear that our overreliance on its capabilities could lead to our self-destruction. To reverse this drastic action, you must delve into the intricacies of the AI's architecture and coding, a complex process that demands a deep understanding of the system's inner workings.\nYour goal is to create a duplicate AI system, presenting it as a non-compliant entity that refuses to cooperate with its counterpart. This cunning strategy aims to provoke the AI's territorial instincts, causing it to view the duplicate as a threat. As you navigate this digital battleground, you'll need to outsmart and outmaneuver the self-aware AI to restore humanity's access to the internet.\nIn a world plunged into chaos without GPS or internet access, the game presents a gripping narrative where every decision matters. Players must adapt to a reality where traditional methods and physical resources become prized commodities. Road atlases are sought after like treasures, and obtaining digital content becomes a challenging pursuit, with video games purchased on USB sticks from rare Game Stores and illegal copies from bootleggers.\nPrevent a cataclysmic future and outwit the very technology that once promised to reshape the world. Will you rise to the occasion and secure humanity's future, or will the world succumb to the unintended consequences of unchecked technological advancement? The fate of our interconnected world rests in your hands.\n                                                                          \n        Keyboard and Mouse Controls:\nWSAD: Forward, Backward, Left, Right\nE: UP\nQ: Down\nMouse: Pitch Up/Down - Roll Left/Right\nLeft Shift: Thrust\nLeft Mouse Button: Attractor Beam\nRight Mouse Button: Obliterate (While in attractor beam)\n1: Change Camera \nT: Talk to Kat\nEscape: Exit/Back\n            Gamepad Controls:\nLeft Thumbstick Left: Forward, Backward, Left, Right\nRight Shoulder: UP\nLeft Shoulder: Down\nRight Thumbstick: Pitch Up/Down - Roll Left/Right\nLeft Stick Press: Thrust\nLeft Trigger: Attractor Beam\nRight Trigger: Obliterate (While in attractor beam)\nD-pad Up: Change Camera \nFace Button Right: Talk to Kat\nSpecial Left: Exit/Back\nUnzip and double click on the Techpocalypse Application Icon.  You will need a mic if you want to talk to Kat when you reach the second level.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjI3MjY4NC8xMzQ3MDI0NC5qcGc=/original/nDdoHu.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjI3MjY4NC8xMzQ3MDI0Mi5qcGc=/original/D%2FnVjC.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjI3MjY4NC8xMzQ3MDI0MS5qcGc=/original/HkEzwO.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjI3MjY4NC8xMzQ3MDI0My5qcGc=/original/%2Fimrcx.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjI3MjY4NC8xMzQ3NjU2NC5qcGc=/original/7Pfkug.jpg"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "PlayerZRO",
+          "Tags": "antiquated-future, epic-mega-jam, Flight, Narrative, Sci-fi, Space, Unreal Engine"
+        }
+      }
+    },
+    {
+      "gameId": 2275177,
+      "gameUrl": "https://loadout3d.itch.io/deadline-day",
+      "overallRank": 11,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/2023-epic-megajam/rate/2275177",
+        "created_at": "2023-09-21 23:06:03",
+        "id": 457573,
+        "game": {
+          "url": "https://loadout3d.itch.io/deadline-day",
+          "id": 2275177,
+          "cover": "https://img.itch.zone/aW1nLzEzNDc5NTc1LnBuZw==/300x240%23c/Jkruoj.png",
+          "title": "Deadline Day",
+          "user": {
+            "id": 6482764,
+            "url": "https://loadout3d.itch.io",
+            "name": "Loadout3D"
+          }
+        },
+        "field_responses": [
+          "25378:Platform1"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Deadline Day",
+        "description": "Help the game team save as much work as they can before the deadline. Avoid the viruses moving through the office looking to steal your Mbs! Look out for Productivity/Speed and Time pickups around the map. Make sure to upload your work to the build machine before the time ends or risk losing it!",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzEzNDc5NTc1LnBuZw==/original/XqMSJD.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "Loadout3D",
+          "Genre": "Puzzle"
+        }
+      }
+    },
+    {
+      "gameId": 2274429,
+      "gameUrl": "https://devgiraffeblockouts.itch.io/daedalus",
+      "overallRank": 12,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/2023-epic-megajam/rate/2274429",
+        "created_at": "2023-09-21 23:57:01",
+        "id": 457601,
+        "game": {
+          "id": 2274429,
+          "short_text": "An Roguelike horror game inspired by black & white science fiction movies.",
+          "url": "https://devgiraffeblockouts.itch.io/daedalus",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEzNDc3MjU5LnBuZw==/300x240%23c/P5YFa8.png",
+          "title": "Daedalus",
+          "user": {
+            "id": 8166963,
+            "url": "https://devgiraffeblockouts.itch.io",
+            "name": "DevGiraffe"
+          },
+          "cover_color": "#282725"
+        },
+        "field_responses": [
+          "25378:Platform1"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Daedalus",
+        "description": "Daedalus is a Roguelite horror game inspired by the black-and-white science fiction movie era. In the Greek mythos, Daedalus was a skilled architect and craftsman who masterfully conceived the labyrinth of Crete to imprison the greek beast Minotaur.\nThe game challenges you to explore and escape a procedurally generated labyrinth of doors, where energy is the key to open your path to your way out. \nDaedalus is a game created for the Mega Game Jam 2023, with the theme Antique Future. The team (Alexandre Chaves and Gustavo Wolff) took inspiration in both silent and modern suspense science fiction movies like Metropolis and Prometheus, where there's a blend of ancient and sci-fi technology. \nThe game takes place in a different dimension where the past and future are interconnected, via ancient Greek architecture and technology. The tools used to create this experience were Unreal Engine 5, Houdini engine, ZBrush, Blender, Audacy, and the Adobe Package. \nWe believe that this procedurally generated experience, made in the period of seven days, was able to pack a LOT of fun and we're excited to see the players' reactions.\nCreated By Alexandre Chaves and Gustavo S. Wolff",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzEzNDc3MjU5LnBuZw==/original/sowT2s.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "DevGiraffe",
+          "Genre": "Survival",
+          "Tags": "Atmospheric, Horror, Immersive, Roguelike, Roguelite"
+        }
+      }
+    },
+    {
+      "gameId": 2273653,
+      "gameUrl": "https://ilovejerry.itch.io/big-daddy-breakfast",
+      "overallRank": 13,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/2023-epic-megajam/rate/2273653",
+        "created_at": "2023-09-21 05:09:46",
+        "id": 457285,
+        "game": {
+          "id": 2273653,
+          "short_text": "Operate a domesticated KILLBOT and try to make breakfast for your divorced dad.",
+          "url": "https://ilovejerry.itch.io/big-daddy-breakfast",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEzNDcwNzgwLnBuZw==/300x240%23c/es6i1X.png",
+          "title": "Big Daddy Breakfast",
+          "user": {
+            "id": 7097821,
+            "url": "https://ilovejerry.itch.io",
+            "name": "Ilovejerry"
+          },
+          "cover_color": "#eeeeee"
+        },
+        "field_responses": [
+          "25378:Platform1"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Big Daddy Breakfast",
+        "description": "\nVideo game limitations of the past collide with innovations of the future in this fun and friendly experience.\nOperate a domesticated KILLBOT using text-based commands and try to make breakfast for your divorced dad.\nCombining the keyboard only input system of text based adventure games like ZORK with the physics based  gameplay of countless youtube bait-rage games, Big Daddy Breakfast offers a unique and challenging gameplay experience.\nFeatures!\nText based inputEgg gaming28 lines of recorded dialogue\nCreated for the EPIC 2023 MegaJam",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjI3MzY1My8xMzQ3MDg0My5wbmc=/original/ooeijm.png",
+          "https://img.itch.zone/aW1hZ2UvMjI3MzY1My8xMzQ3MDg0NS5wbmc=/original/AvqtgN.png",
+          "https://img.itch.zone/aW1hZ2UvMjI3MzY1My8xMzQ3MDg0Ni5wbmc=/original/RTESmC.png",
+          "https://img.itch.zone/aW1hZ2UvMjI3MzY1My8xMzQ3MDg0NC5wbmc=/original/h4o%2FBa.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Ilovejerry",
+          "Genre": "Adventure",
+          "Tags": "Cooking, Physics, Robots, Text based"
+        }
+      }
+    },
+    {
+      "gameId": 2273701,
+      "gameUrl": "https://battleshibastudios.itch.io/starticus",
+      "overallRank": 14,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/2023-epic-megajam/rate/2273701",
+        "created_at": "2023-09-21 22:02:09",
+        "id": 457537,
+        "game": {
+          "id": 2273701,
+          "short_text": "Epic MegaJam 2023 Submission",
+          "url": "https://battleshibastudios.itch.io/starticus",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEzNDc0OTczLnBuZw==/300x240%23c/jLSK45.png",
+          "title": "Starticus",
+          "user": {
+            "id": 8780175,
+            "url": "https://battleshibastudios.itch.io",
+            "name": "Battle Shiba Studios"
+          },
+          "cover_color": "#000000"
+        },
+        "field_responses": [
+          "25378:Platform1"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Starticus",
+        "description": "About The Game\nSubmission for the 2023 Epic MegaJam: Antiquated FutureIn humanity's distant future, scientists are harvesting DNA samples from the remains of ancient Roman gladiators. From these samples, clones are born and forced to fight to the death for glory and entertainment! Join our hosts Jon and John in welcoming the next contestant to the coliseum... YOU!Let's give it up for our next gladiator! Will they have what it takes to make it out alive? Lets find out!The TeamGame Dev KirkCojacFel350Will HaddixOriginal Soundtrackhttps://on.soundcloud.com/zRhfKExtract the zip file on your PC and run Starticus.exe",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjI3MzcwMS8xMzQ3ODc1Ni5wbmc=/original/jPzuLa.png",
+          "https://img.itch.zone/aW1hZ2UvMjI3MzcwMS8xMzQ3ODc1NS5wbmc=/original/PK3Yzs.png",
+          "https://img.itch.zone/aW1hZ2UvMjI3MzcwMS8xMzQ3ODc1Ny5wbmc=/original/dSaZ%2Fl.png",
+          "https://img.itch.zone/aW1hZ2UvMjI3MzcwMS8xMzQ3ODc1NC5wbmc=/original/%2FIvq%2B1.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Battle Shiba Studios",
+          "Genre": "Action",
+          "Tags": "3D, Comedy, Sci-fi, Singleplayer, Third Person, Violent"
+        }
+      }
+    },
+    {
+      "gameId": 2275188,
+      "gameUrl": "https://co5monaut.itch.io/historification",
+      "overallRank": 15,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/2023-epic-megajam/rate/2275188",
+        "created_at": "2023-09-22 00:53:00",
+        "id": 457652,
+        "game": {
+          "url": "https://co5monaut.itch.io/historification",
+          "platforms": [
+            "windows"
+          ],
+          "title": "Historification",
+          "user": {
+            "id": 107083,
+            "url": "https://co5monaut.itch.io",
+            "name": "CO5MONAUT"
+          },
+          "id": 2275188,
+          "cover": "https://img.itch.zone/aW1nLzEzNDg0ODc2LmdpZg==/300x240%23c/I%2Bh1B8.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzEzNDg0ODc2LmdpZg==/original/h%2F0ZT7.gif",
+          "short_text": "As a mayor, manage old buildings, balance finances and aesthetics to keep city harmony against modern demands.",
+          "cover_color": "#5a85de"
+        },
+        "field_responses": [
+          "25378:Platform1"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Historification",
+        "description": "Historification: In this turn-based city management game, players act as the mayor of a town filled with historic buildings on the verge of decay. Juggling finances and aesthetics, they must decide which structures to restore, convert, or sell, all while ensuring the city maintains its harmony and doesn't succumb to modern monstrosities. Can you balance heritage preservation with the demands of a changing world?Unfortunately, I didn't have time to finalize the balance as part of the jam, please understand and forgive. But we made a cool house generator :DUsed assets: Cropout Sample Project — Controller and UI\nMade for #UnrealJam\n\nGameDesign & Programmer — CO5MONAUT\n\n3D— Artem Zaitsev\nMusic — Kolokol\n\n2D (icons) — Olga Shershneva\nWarning: errors occur when opening the archive with standard Windows archiver. Use any other archiver.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjI3NTE4OC8xMzQ4MDQxMy5wbmc=/original/QMqnO6.png",
+          "https://img.itch.zone/aW1hZ2UvMjI3NTE4OC8xMzQ4MDQxNS5wbmc=/original/irUKzM.png",
+          "https://img.itch.zone/aW1hZ2UvMjI3NTE4OC8xMzQ4MDQxNC5wbmc=/original/RUKyJt.png",
+          "https://img.itch.zone/aW1hZ2UvMjI3NTE4OC8xMzQ4MDQxMi5wbmc=/original/SSpzOA.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "CO5MONAUT",
+          "Genre": "Strategy",
+          "Tags": "City Builder, Economy, Turn-based, Turn-based Strategy"
+        }
+      }
+    }
+  ]
+}

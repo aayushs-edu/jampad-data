@@ -1,0 +1,866 @@
+{
+  "n": 50,
+  "name": "2022 Epic MegaJam",
+  "url": "https://itch.io/jam/2022-epic-megajam",
+  "theme": "As Above So Below",
+  "slug": "2022-epic-megajam",
+  "jamMeta": {
+    "jamType": "ongoing",
+    "joined": "",
+    "entries": "509",
+    "title": "2022 Epic MegaJam",
+    "jamURL": "https://itch.io/jam/2022-epic-megajam",
+    "hosts": {
+      "Unreal Engine": "https://unrealengine.itch.io",
+      "#UnrealJam": "https://bsky.app/hashtag/UnrealJam"
+    },
+    "jamID": "321654"
+  },
+  "totalEntries": 489,
+  "ranked": false,
+  "hasCategories": false,
+  "needsManualSelection": true,
+  "categories": [],
+  "topGames": [
+    {
+      "gameId": 1685453,
+      "gameUrl": "https://tnnv.itch.io/reflections-of-the-past",
+      "overallRank": 1,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 0,
+        "id": 350742,
+        "field_responses": [
+          "18466:Platform1"
+        ],
+        "rating_count": 0,
+        "url": "/jam/2022-epic-megajam/rate/1685453",
+        "contributors": [
+          {
+            "name": "Tnnv",
+            "url": "https://tnnv.itch.io"
+          },
+          {
+            "name": "Patrick Spack",
+            "url": "https://patrick-spack.itch.io"
+          },
+          {
+            "name": "SoundChemist",
+            "url": "https://soundchemist.itch.io"
+          }
+        ],
+        "created_at": "2022-08-31 11:02:41",
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzk5Mjk4MDgucG5n/300x240%23c/Mz9crx.png",
+          "short_text": "Explore the Holy Cathedral and uncover its Demonic Secrets!",
+          "user": {
+            "url": "https://tnnv.itch.io",
+            "id": 1349753,
+            "name": "Tnnv"
+          },
+          "id": 1685453,
+          "title": "Reflections of the Past",
+          "url": "https://tnnv.itch.io/reflections-of-the-past",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#ffffff"
+        }
+      },
+      "details": {
+        "title": "Reflections of the Past",
+        "description": "After a long and difficult adventure, you finally reach your destination: The Holy Cathedral of Purity.\nIn \"Reflections of the Past\" you will shift into the reflections to a parallel world that was seemingly left untouched by time. Though something seems to not be right...Explore the holy cathedral and uncover its demonic secrets!Reflections of the Past is a project made for Epic MegaJam 2022.Game developers:Pavel TanonovPatrick SpackAlexander Hamparsomian",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTY4NTQ1My85OTI3MDk4LnBuZw==/original/A43ka2.png",
+          "https://img.itch.zone/aW1hZ2UvMTY4NTQ1My85OTI3MDk5LnBuZw==/original/t8dQXZ.png",
+          "https://img.itch.zone/aW1hZ2UvMTY4NTQ1My85OTI3MTA2LmpwZw==/original/0oJYXN.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Authors": "Tnnv, Patrick Spack, SoundChemist",
+          "Genre": "Adventure",
+          "Made with": "Unreal Engine",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse",
+          "Accessibility": "Subtitles"
+        }
+      }
+    },
+    {
+      "gameId": 1686360,
+      "gameUrl": "https://nariadchikov.itch.io/split-light",
+      "overallRank": 2,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 0,
+        "field_responses": [
+          "18466:Platform1"
+        ],
+        "id": 351365,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzk5MzI2OTguanBn/300x240%23c/zTdF7R.jpg",
+          "short_text": "Explore light dispersion in a puzzle game",
+          "user": {
+            "url": "https://nariadchikov.itch.io",
+            "id": 1768333,
+            "name": "Aleksandr Nariadchikov"
+          },
+          "id": 1686360,
+          "title": "Split Light",
+          "url": "https://nariadchikov.itch.io/split-light",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#2c2c2b"
+        },
+        "url": "/jam/2022-epic-megajam/rate/1686360",
+        "created_at": "2022-09-01 22:24:35",
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Split Light",
+        "description": "Solo-developed puzzle game for 2022 Epic MegaJam.\nThe game is built around NVIDIA Ray-Traced Caustic Effects.\n\nThe world is split into two identical parts, direct the light beam through it and reach the color sensors.\nUse different lenses, rotate them, and change their type and color in runtime.GPU that supports NVIDIA RTX is mandatory.\nThe game is running on experimental NVIDIA tech, so there is a small probability of having bugs connected to it.\nIf color sensors stop detecting color input, reopen the game (progress saves).\nThere is one reported case when full-windowed mode on the 2160p screen is not working correctly in regards to level completion validation (color sensors are not detecting clolor correctly). If it is the case for you, try to force windowed mode (preferably 1080p)\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTY4NjM2MC85OTMyNzY0LmpwZw==/original/aNcXHO.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY4NjM2MC85OTMyNzY2LmpwZw==/original/bSjlnx.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY4NjM2MC85OTMyNzY1LmpwZw==/original/ntInvn.jpg"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Aleksandr Nariadchikov",
+          "Genre": "Puzzle",
+          "Tags": "Experimental, light, Minimalist, Physics, PSX (PlayStation), ray-tracing, Retro, rtx, Short"
+        }
+      }
+    },
+    {
+      "gameId": 1687876,
+      "gameUrl": "https://dannysadman.itch.io/above-the-sky",
+      "overallRank": 3,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 0,
+        "field_responses": [
+          "18466:Platform1"
+        ],
+        "id": 351609,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzk5NDE4MzUuanBn/300x240%23c/vphMsW.jpg",
+          "short_text": "Through the worlds",
+          "user": {
+            "url": "https://dannysadman.itch.io",
+            "id": 6518551,
+            "name": "DannySadman"
+          },
+          "id": 1687876,
+          "title": "Above the sky",
+          "url": "https://dannysadman.itch.io/above-the-sky",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#000000"
+        },
+        "url": "/jam/2022-epic-megajam/rate/1687876",
+        "created_at": "2022-09-02 02:44:19",
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Above the sky",
+        "description": "\n\n\n\n\n\nA game made especially for 2022 Epic MegaJam Project was created from scratch from August 25th until September 1st 5 people worked on the prototype Music, sounds, complex models, code and drawings were done by us in the allotted amount of time. We are also working on our main project \"IMPULSE\" You can follow us on our Artstation\n3D assets prop - Quxel Bridge \nUnique assets (Skull demons, Dragon skull, Bones all, sharp chains, Altar spawn prop) - Made by us Unique weapon Hook - Made by us Unique Whales + rigg (animation) Made by us.Our solutions - Small and medium props paint for help ATLAS Texture 4k - ONE model \"Rock\" one model for the whole map for the sake of optimization with its other lower resolution versions - Vertexpaint shader. On some rocks in the location of the big cave\nArt, logo and cinematics also made by us during the jam\n Lighing - Spot Lighing, Ray lighting, Skylight - RTX GI - Raytracing shadow - Hardware raytracing lumen reflection And correct lighing 2 direction lighing, Skylighing, Skybox, Volumetric Fog, ExponentFog",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTY4Nzg3Ni85OTQyMzYzLnBuZw==/original/l7Z5Vc.png",
+          "https://img.itch.zone/aW1hZ2UvMTY4Nzg3Ni85OTQyMzc1LnBuZw==/original/9BNeyu.png",
+          "https://img.itch.zone/aW1hZ2UvMTY4Nzg3Ni85OTQyMzc4LnBuZw==/original/Su7ep1.png",
+          "https://img.itch.zone/aW1hZ2UvMTY4Nzg3Ni85OTQyMzg0LnBuZw==/original/sI9y%2F3.png",
+          "https://img.itch.zone/aW1hZ2UvMTY4Nzg3Ni85OTQyMzk5LnBuZw==/original/P3iUKJ.png",
+          "https://img.itch.zone/aW1hZ2UvMTY4Nzg3Ni85OTQyNDAwLnBuZw==/original/Ky4w7A.png",
+          "https://img.itch.zone/aW1hZ2UvMTY4Nzg3Ni85OTQyNDAzLnBuZw==/original/fgT2MB.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(3 total ratings)",
+          "Author": "DannySadman",
+          "Genre": "Platformer",
+          "Tags": "3D, Atmospheric, Doom, Fantasy, Indie, Music, Narrative, Singleplayer, Speedrun"
+        }
+      }
+    },
+    {
+      "gameId": 1687632,
+      "gameUrl": "https://gtnardy.itch.io/beneath-fateful-night",
+      "overallRank": 4,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 0,
+        "field_responses": [
+          "18466:Platform1"
+        ],
+        "id": 351496,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzk5NDIwNjUuanBn/300x240%23c/Ezu7uD.jpg",
+          "short_text": "You'll find yourself in complex story, and gradually piece together the dark secrets of what is happening.",
+          "user": {
+            "url": "https://gtnardy.itch.io",
+            "id": 1492055,
+            "name": "Gabriel Tanasovici Nardy"
+          },
+          "id": 1687632,
+          "title": "Beneath Fateful Night",
+          "url": "https://gtnardy.itch.io/beneath-fateful-night",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#000000"
+        },
+        "url": "/jam/2022-epic-megajam/rate/1687632",
+        "created_at": "2022-09-02 01:03:17",
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Beneath Fateful Night",
+        "description": "2022 Epic MegaJam\n\nDeveloped for a 7 days Game Jam using Free Marketplace Assets using Unreal Engine 5.\n\nIn this short horror game, you'll find yourself in a house where dreams and droplets collide. As you explore the eerie premises, you'll gradually piece together the dark secrets of what happened here. With each step, the dread builds, until you're faced with a horrifying truth that will leave you reeling.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTY4NzYzMi85OTQwODM0LmpwZw==/original/4BQq54.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzYzMi85OTQwODM1LmpwZw==/original/KeQI%2F8.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzYzMi85OTQwODM2LmpwZw==/original/ZA0RzW.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzYzMi85OTQwODM3LmpwZw==/original/jYxbg6.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzYzMi85OTQwODM4LmpwZw==/original/VN9LIZ.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzYzMi85OTQwODQ3LmpwZw==/original/fWai02.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzYzMi85OTQwODM5LmpwZw==/original/GI84Ho.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzYzMi85OTQwODQxLmpwZw==/original/xEY8r3.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzYzMi85OTQwODQwLmpwZw==/original/6m%2Bu9z.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzYzMi85OTQwODQyLmpwZw==/original/jDEvme.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzYzMi85OTQwODQzLmpwZw==/original/ghTCh1.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzYzMi85OTQwODQ2LmpwZw==/original/10c1LN.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzYzMi85OTQwODQ0LmpwZw==/original/z40rTa.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzYzMi85OTQwODQ1LmpwZw==/original/kKimAW.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.7 out of 5 stars(3 total ratings)",
+          "Author": "Gabriel Tanasovici Nardy",
+          "Genre": "Puzzle",
+          "Made with": "Unreal Engine",
+          "Tags": "3D, Creepy, Exploration, First-Person, Horror, Psychological Horror, Short, Singleplayer, suspense, Thriller",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse",
+          "Accessibility": "Subtitles"
+        }
+      }
+    },
+    {
+      "gameId": 1687882,
+      "gameUrl": "https://bohrium.itch.io/samurai-of-the-black-sun",
+      "overallRank": 5,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 0,
+        "field_responses": [
+          "18466:Platform1"
+        ],
+        "id": 351498,
+        "game": {
+          "user": {
+            "url": "https://bohrium.itch.io",
+            "id": 85791,
+            "name": "Bohrium"
+          },
+          "id": 1687882,
+          "title": "Samurai of the Black Sun",
+          "url": "https://bohrium.itch.io/samurai-of-the-black-sun",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzk5NDE5NjkuanBn/300x240%23c/w6MFZ7.jpg"
+        },
+        "url": "/jam/2022-epic-megajam/rate/1687882",
+        "created_at": "2022-09-02 01:03:42",
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Samurai of the Black Sun",
+        "description": "Big evil eclipse in the sky makes evil stuff happen on the ground. Necromancers, the undead, active volcanoes and more.\nThere's hidden scalability options by pressing CTRL+SHIFT 5, 6, 7, 8  in the gameplay bit that change the resolution scale. Kind of a last minute addition, so no proper menu for them. \nClicking on the skulls on the main menu map let you choose difficulty. It goes from really easy to regular (default and what you're meant to pick) to very hard.Just unzip it and launch the exe. There's a little readme with some extra notes for changing scalability options and stuff. Didn't have time to make proper menus for that.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTY4Nzg4Mi85OTQ2OTcwLnBuZw==/original/wDMsf4.png",
+          "https://img.itch.zone/aW1hZ2UvMTY4Nzg4Mi85OTQ3MzQ2LmdpZg==/original/u4Qpzv.gif",
+          "https://img.itch.zone/aW1hZ2UvMTY4Nzg4Mi85OTQ2OTcyLnBuZw==/original/6mVvT4.png",
+          "https://img.itch.zone/aW1hZ2UvMTY4Nzg4Mi85OTQ3MzQ1LmdpZg==/original/caRCPw.gif",
+          "https://img.itch.zone/aW1hZ2UvMTY4Nzg4Mi85OTQ2OTcxLnBuZw==/original/ShSjrD.png",
+          "https://img.itch.zone/aW1hZ2UvMTY4Nzg4Mi85OTQyMTA2LmpwZw==/original/qshTZa.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 3.0 out of 5 stars(1 total ratings)",
+          "Author": "Bohrium",
+          "Genre": "Action",
+          "Tags": "Souls-like, Unreal Engine"
+        }
+      }
+    },
+    {
+      "gameId": 1687221,
+      "gameUrl": "https://zander-games.itch.io/papenture",
+      "overallRank": 6,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 0,
+        "id": 351750,
+        "field_responses": [
+          "18466:Platform1"
+        ],
+        "rating_count": 0,
+        "url": "/jam/2022-epic-megajam/rate/1687221",
+        "contributors": [
+          {
+            "name": "Zander_Games",
+            "url": "https://zander-games.itch.io"
+          },
+          {
+            "name": "Al1xUnder",
+            "url": "https://al1xunder.itch.io"
+          },
+          {
+            "name": "Envie_2015",
+            "url": "https://envie-2015.itch.io"
+          },
+          {
+            "name": "Fallcoin",
+            "url": "https://fallcoin.itch.io"
+          },
+          {
+            "name": "Denissnigir",
+            "url": "https://denissnigir.itch.io"
+          },
+          {
+            "name": "ʁна",
+            "url": "https://vampussy.itch.io"
+          }
+        ],
+        "created_at": "2022-09-02 03:39:53",
+        "game": {
+          "short_text": "Adventure with a parallel realms mechanics",
+          "cover_color": "#465e43",
+          "id": 1687221,
+          "title": "Papenture",
+          "url": "https://zander-games.itch.io/papenture",
+          "cover": "https://img.itch.zone/aW1nLzk5Mzg4NDYucG5n/300x240%23c/B32p%2Bt.png",
+          "user": {
+            "url": "https://zander-games.itch.io",
+            "id": 3648972,
+            "name": "Zander_Games"
+          }
+        }
+      },
+      "details": {
+        "title": "Papenture",
+        "description": "This is what happens when artists didn't agree on visual style. Parallel universes! Switch between two realms in order to explore each of them. Pass items through the portal to see them transform and to help character on the other side.\n\nControls \n\nWASD — move \nLMB — attack/accelerate (when empty handed) \nE — pick up an item/use an item (if it's already picked up)\nQ — throw the item away\nZ — switch between characters (it's not working everywhere) \nAlt+f4 — quit the game :^)\n\nThe game was created for Unreal  MegaJam 2022. The theme was «As Above So Below» and the limitation we've decided to apply is «Use it or Lose it» the main point of which is to use only one texture map at once.\n\nAbout Limitation\nWe put all of our sprites on one list and created a material that scales to specific square on UV. Prepared models for each of every possible sprite. Background was cut into few pieces in order to fit the rest of the texture.\n\n\nFollow us on twitter! \nhttps://twitter.com/Zander__Games\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTY4NzIyMS85OTQzMzU0LnBuZw==/original/pkQ594.png",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzIyMS85OTQzMzU1LnBuZw==/original/iLOV5S.png",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzIyMS85OTQzMzU2LnBuZw==/original/mlNlmj.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "Zander_Games, Al1xUnder, Envie_2015, Fallcoin, Denissnigir, ʁна",
+          "Genre": "Adventure"
+        }
+      }
+    },
+    {
+      "gameId": 1687591,
+      "gameUrl": "https://fhayalonso.itch.io/eternity",
+      "overallRank": 7,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 0,
+        "field_responses": [
+          "18466:Platform1"
+        ],
+        "id": 351385,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzk5Mzk4NDYuanBn/300x240%23c/lodqQA.jpg",
+          "short_text": "AsAboveSoBelow",
+          "user": {
+            "url": "https://fhayalonso.itch.io",
+            "id": 3789436,
+            "name": "fhayalonso"
+          },
+          "id": 1687591,
+          "title": "Eternity",
+          "url": "https://fhayalonso.itch.io/eternity",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#eeeeee"
+        },
+        "url": "/jam/2022-epic-megajam/rate/1687591",
+        "created_at": "2022-09-01 22:44:16",
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Eternity",
+        "description": "\nYou wake up in a strange hospital, it seems that you have suffered a serious accident... what would have happened?\nVideo game made in Unreal engine, for the contest \"Epic MegaJam 2022\" Marketplace Assets",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTY4NzU5MS85OTQwMTY3LmpwZw==/original/nqLYag.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzU5MS85OTQwMTcwLmpwZw==/original/jfa0SS.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzU5MS85OTQwMTc4LmpwZw==/original/AErSsi.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzU5MS85OTQwMTcyLmpwZw==/original/Xo9CI%2F.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzU5MS85OTQwMTc1LmpwZw==/original/3evgg%2F.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzU5MS85OTQwMTc0LmpwZw==/original/iLNItO.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzU5MS85OTQwMTc2LmpwZw==/original/0onmV6.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzU5MS85OTQwMTczLmpwZw==/original/aeEYx3.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzU5MS85OTQwMTY4LmpwZw==/original/blLV3O.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzU5MS85OTQwMTc3LmpwZw==/original/3TiUDj.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzU5MS85OTQwMTY5LmpwZw==/original/Y6BCtb.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzU5MS85OTQwMTcxLmpwZw==/original/q%2FdoOp.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 3.0 out of 5 stars(2 total ratings)",
+          "Author": "fhayalonso",
+          "Genre": "Simulation",
+          "Tags": "Atmospheric, First-Person, Horror, Psychological Horror, Singleplayer, Unreal Engine"
+        }
+      }
+    },
+    {
+      "gameId": 1686159,
+      "gameUrl": "https://hottestman.itch.io/godsplay",
+      "overallRank": 8,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 0,
+        "field_responses": [
+          "18466:Platform1"
+        ],
+        "id": 351137,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzk5MzEyNTMuanBn/300x240%23c/ZERMIw.jpg",
+          "short_text": "The most pretentious and existential game you'll ever play in your life",
+          "user": {
+            "url": "https://hottestman.itch.io",
+            "id": 3208394,
+            "name": "HOTTEST MAN EVER"
+          },
+          "id": 1686159,
+          "title": "GOD'S PLAY",
+          "url": "https://hottestman.itch.io/godsplay",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#192227"
+        },
+        "url": "/jam/2022-epic-megajam/rate/1686159",
+        "created_at": "2022-09-01 16:18:50",
+        "rating_count": 0
+      },
+      "details": {
+        "title": "GOD'S PLAY",
+        "description": "A game by Yury Himin, made in Unreal Engine 5.\nMonologues by Alan Watts.\nSFX from youtube.\nAssets:\nCITY MODELS\nMUSIC\n\"Soulsearcher\" by Scott Buckley – scottbuckley.com.au\nCAR MODEL\n3D PEOPLE PACK\nGame is GPU-intensive. Best played in headphones.\nReserve 20-30 minutes before playing and take your time.\nDownload and unzip the archive.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTY4NjE1OS85OTM3NTI2LmdpZg==/original/rfgQF8.gif",
+          "https://img.itch.zone/aW1hZ2UvMTY4NjE1OS85OTM3NTI5LmdpZg==/original/OfMenC.gif",
+          "https://img.itch.zone/aW1hZ2UvMTY4NjE1OS85OTM3NTMwLmdpZg==/original/%2FgnJQn.gif",
+          "https://img.itch.zone/aW1hZ2UvMTY4NjE1OS85OTQ0MjA4LmpwZw==/original/riiv2D.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY4NjE1OS85OTQ0MjA2LmpwZw==/original/VaoVqz.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY4NjE1OS85OTQ0MjA3LmpwZw==/original/%2BF9Kvk.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY4NjE1OS85OTQ0MjEwLmpwZw==/original/qSCL9q.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY4NjE1OS85OTQ0MjA5LmpwZw==/original/4YGLCs.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY4NjE1OS85OTQ0MjA1LmpwZw==/original/NgehrP.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.5 out of 5 stars(2 total ratings)",
+          "Author": "HOTTEST MAN EVER",
+          "Tags": "artgame, Atmospheric, Casual, Experimental, Exploration, Mystery, Narrative, Short, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 1675249,
+      "gameUrl": "https://slovgoblin.itch.io/metamorphicrippers",
+      "overallRank": 9,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 0,
+        "field_responses": [
+          "18466:Platform1"
+        ],
+        "id": 348496,
+        "game": {
+          "short_text": "MetaRippers",
+          "cover_color": "#000000",
+          "id": 1675249,
+          "title": "MetaMorphic Rippers",
+          "url": "https://slovgoblin.itch.io/metamorphicrippers",
+          "cover": "https://img.itch.zone/aW1nLzEwMTgzNjcxLnBuZw==/300x240%23c/yiNEGs.png",
+          "user": {
+            "url": "https://slovgoblin.itch.io",
+            "id": 1025517,
+            "name": "SlovGoblin"
+          }
+        },
+        "url": "/jam/2022-epic-megajam/rate/1675249",
+        "created_at": "2022-08-27 10:39:42",
+        "rating_count": 0
+      },
+      "details": {
+        "title": "MetaMorphic Rippers",
+        "description": "\nImportant a Phone is Not Required to play this game\nDeveloped by SlovGoblin, MetaMorphic Rippers is a fast-paced arena Brawler that combines the Stylish Combat of a Hack and Slash Game With Transformations, Players can select each Class with unique attributes and abilities for you to master.\nKey Features\nFast-paced Arena Combatskill-based competition, and intense battlesIncredible, Diverse RipperSuits4 unique Classes each equipped with unique attributes and abilities to fit your play stylePick-ups are scattered across the map to help you in the Heat Of Battle.\nSteamStorePage\nCome join the discord to keep up to date on progress and catch the development streams on content, provide feedback on the game directly live, or hang out with the community and enjoy the fun.\nthank you much appreciated\nwhy discord?\nMakes it easier to provide a simple unified place for testers and fans to hang out and give comments.\nDiscord\nUpdates Can also be found here\nTwitter\nIndieDB\nRoadMap\nCatch Development Streams usually every day \nDevStream",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTY3NTI0OS8xMDE4MzY4OC5wbmc=/original/rl%2B2Jc.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3NTI0OS8xMDE4MzY5MC5wbmc=/original/Mxh%2F%2FY.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3NTI0OS8xMDE4MzY5MS5wbmc=/original/L3x5rn.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3NTI0OS8xMDE4MzcwMi5wbmc=/original/xUylvZ.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3NTI0OS8xMDE4MzcwMC5wbmc=/original/xFih0i.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3NTI0OS8xMDE4MzY5NC5wbmc=/original/uJh2Yn.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3NTI0OS8xMDE4MzY5NS5wbmc=/original/S19Ge7.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3NTI0OS8xMDE4MzY5OS5wbmc=/original/RZxvVL.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3NTI0OS8xMDE4MzY4Ni5wbmc=/original/vx0n%2FH.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3NTI0OS8xMDE4MzY5OC5wbmc=/original/wDauLc.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3NTI0OS8xMDE4MzY4NC5wbmc=/original/GgKvIi.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3NTI0OS8xMDE4MzY4My5wbmc=/original/y52HZa.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3NTI0OS8xMDE4MzY4MS5wbmc=/original/sWBAC0.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3NTI0OS8xMDE4MzY4Ny5wbmc=/original/Ro7xFx.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3NTI0OS8xMDE4MzY4Mi5wbmc=/original/xCSB8T.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3NTI0OS8xMDE4MzY4NS5wbmc=/original/ddnn%2FW.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3NTI0OS8xMDE4MzcwMS5wbmc=/original/OgM5zC.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3NTI0OS8xMDE4MzY5Ni5wbmc=/original/t2aCeF.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3NTI0OS8xMDE4MzY5My5wbmc=/original/m87vwb.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3NTI0OS8xMDE4MzY4OS5wbmc=/original/HpaqZc.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3NTI0OS8xMDE4MzY5Mi5wbmc=/original/ybrRrC.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3NTI0OS8xMDE4MzY5Ny5wbmc=/original/3Hwsgf.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "SlovGoblin",
+          "Genre": "Action, Fighting",
+          "Made with": "Unreal Engine, Blender, Clip Studio Paint",
+          "Tags": "Arcade, deathmatch, Fast-Paced, Indie, Multiplayer, PvP, Sci-fi, Unreal Engine",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse, Xbox controller, Gamepad (any), Playstation controller",
+          "Accessibility": "Color-blind friendly",
+          "Multiplayer": "Ad-hoc networked multiplayer",
+          "Links": "Steam, Twitter/X, YouTube, IndieDB"
+        }
+      }
+    },
+    {
+      "gameId": 1687351,
+      "gameUrl": "https://tashkas.itch.io/epic-games-megajam-22-the-rest",
+      "overallRank": 10,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 0,
+        "field_responses": [
+          "18466:Platform1"
+        ],
+        "id": 351203,
+        "game": {
+          "short_text": "Join a little adventure of wondering and searching in this, neet little voxel art game. find the peace in Rest.",
+          "user": {
+            "url": "https://tashkas.itch.io",
+            "id": 6467216,
+            "name": "Tashkas"
+          },
+          "id": 1687351,
+          "title": "Epic Games MegaJam '22 - The ResT",
+          "url": "https://tashkas.itch.io/epic-games-megajam-22-the-rest",
+          "cover": "https://img.itch.zone/aW1nLzE1NjE5MzI4LnBuZw==/300x240%23c/rcbviB.png"
+        },
+        "url": "/jam/2022-epic-megajam/rate/1687351",
+        "created_at": "2022-09-01 18:15:40",
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Epic Games MegaJam '22 - The ResT",
+        "description": "Join a little adventure of wondering and searching in this, neet little voxel art game. Find the peace in Rest. Explore worlds above and below... and also just enjoy the little journey... Find what you are looking for by solving puzzles....Download and Run game... and enjoy....",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTY4NzM1MS85OTQzMDc0LmpwZw==/original/7MB%2Bzp.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzM1MS85OTQzMDc3LmpwZw==/original/ED2f5c.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzM1MS85OTQzMDc1LmpwZw==/original/zEayuR.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzM1MS85OTQzMDc2LmpwZw==/original/K2bh1N.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzM1MS85OTM4NDE1LmpwZw==/original/tZ1IBe.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzM1MS8xNTYxOTMyNS5wbmc=/original/Jai2s1.png",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzM1MS85OTM4NDE3LmpwZw==/original/z0G8pp.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzM1MS85OTM4NDE2LmpwZw==/original/lFqLLp.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Tashkas",
+          "Genre": "Adventure",
+          "Tags": "Unreal Engine, Voxel"
+        }
+      }
+    },
+    {
+      "gameId": 1687738,
+      "gameUrl": "https://byteparrot.itch.io/the-fish-king",
+      "overallRank": 11,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 0,
+        "field_responses": [
+          "18466:Platform1"
+        ],
+        "id": 351749,
+        "game": {
+          "short_text": "the cycle of fish - difficulty is your choice",
+          "user": {
+            "url": "https://byteparrot.itch.io",
+            "id": 1601817,
+            "name": "byteparrot"
+          },
+          "id": 1687738,
+          "title": "The Fish King",
+          "url": "https://byteparrot.itch.io/the-fish-king",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzk5NDExNzAucG5n/300x240%23c/cxkVjp.png"
+        },
+        "url": "/jam/2022-epic-megajam/rate/1687738",
+        "created_at": "2022-09-02 03:39:53",
+        "rating_count": 0
+      },
+      "details": {
+        "title": "The Fish King",
+        "description": "StoryYou are a fish! Your goal: get food to survive!\nUnfortunately this is easier said than done! The King of the aquarium has the full power over the food distribution, and he wants you to work for him for which he will reward you with food!\nExplore the 3 caves of the aquarium and bring shiny diamonds to the King - but beware, these challenges are exhausting for little fish like you.\nLuckily, other fish of the aquarium are catching onto you and since you are their connection to the king and food, they are eager to work for you and are waiting until you give them their cut!\nWill you be a fair middle fish between king and the villagers? Or do you want to be on the throne yourself without caring for the others.DevelopmentThis game was made by twitch.tv/peekstone (Vods Available)  in 4 days for the Epic Mega Jam 2022ControlsThe game was made for the controller, but it can be played with Keyboard as well.ControllerKBInteract(A)(SPACE)Move(Left Stick)(WASD)Switch Path(Y)(L.SHIFT)Eat Snack(X)(CTRL)Dialog Choice(Left Stick)(WASD)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTY4NzczOC85OTQzNDUyLnBuZw==/original/31T%2BRn.png",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzczOC85OTQzNDUzLnBuZw==/original/P%2BNkJB.png",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzczOC85OTQzNDU3LnBuZw==/original/DJhv%2F8.png",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzczOC85OTQzNDU4LnBuZw==/original/M9vNo9.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.5 out of 5 stars(2 total ratings)",
+          "Author": "byteparrot",
+          "Genre": "Adventure",
+          "Tags": "Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 1687747,
+      "gameUrl": "https://stormyrise.itch.io/fast-food-cook",
+      "overallRank": 12,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 0,
+        "field_responses": [
+          "18466:Platform1"
+        ],
+        "id": 351427,
+        "game": {
+          "short_text": "Make pizza from in a fast food restaurant.",
+          "user": {
+            "url": "https://stormyrise.itch.io",
+            "id": 6237672,
+            "name": "StormyRise"
+          },
+          "id": 1687747,
+          "title": "Fast Food Cook",
+          "url": "https://stormyrise.itch.io/fast-food-cook",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzk5NDEyMjkucG5n/300x240%23c/SPMafh.png"
+        },
+        "url": "/jam/2022-epic-megajam/rate/1687747",
+        "created_at": "2022-09-01 23:50:40",
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Fast Food Cook",
+        "description": "This game and all the assets used in the game, was made entirely for Epic MegaJam 2022. \nThe connection with the theme : AS ABOVE SO BELOWThe goal is to reproduce the order, from the screen ABOVE, on the table BELOW. Did you get the idea? From ABOVE to BELOW ? \nIn this game, you are a cook in a Fast Food Restaurant, and you make pizzas. \nDownload, extract game files from ZIP archive or from the RAR archive, and just start the game from the .exe file.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTY4Nzc0Ny85OTQxMjMwLmpwZw==/original/DQF2Zv.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY4Nzc0Ny85OTQxMjMxLmpwZw==/original/SvcesK.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY4Nzc0Ny85OTQxMjM1LmpwZw==/original/Df7JeW.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY4Nzc0Ny85OTQxMjM2LmpwZw==/original/aE5ANo.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY4Nzc0Ny85OTQxMjM0LmpwZw==/original/%2B%2FB2wz.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "StormyRise",
+          "Genre": "Simulation",
+          "Tags": "3D, First-Person"
+        }
+      }
+    },
+    {
+      "gameId": 1687165,
+      "gameUrl": "https://neoxider.itch.io/slimeio",
+      "overallRank": 13,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 0,
+        "field_responses": [
+          "18466:Platform1"
+        ],
+        "id": 351146,
+        "game": {
+          "short_text": "Be the strongest by choosing the best stats",
+          "cover_color": "#91edf3",
+          "id": 1687165,
+          "title": "SlimeIO",
+          "url": "https://neoxider.itch.io/slimeio",
+          "cover": "https://img.itch.zone/aW1nLzEwOTcyNTU3LnBuZw==/300x240%23c/tlmCex.png",
+          "user": {
+            "url": "https://neoxider.itch.io",
+            "id": 6527588,
+            "name": "NeoXider"
+          }
+        },
+        "url": "/jam/2022-epic-megajam/rate/1687165",
+        "created_at": "2022-09-01 16:48:28",
+        "rating_count": 0
+      },
+      "details": {
+        "title": "SlimeIO",
+        "description": "Создание этой игры в одиночку\n\nИнструкции по геймплеюMove - wasdМышь - слева: атакаКлюч: 1-5 - добавить характеристикуКлавиша E - Используйте мышь для выбора характеристики\nЯ использовал свою музыку для своей игры. СаундКлауд:\nhttps://soundcloud.com/neoxider\n\nДля какой платформы создана ваша игра?Виндоус\nПеречислите все содержимое, созданное до джема.\n1. Мультяшный водный шейдер\n2. Лезвие Бесконечности: Эффекты\nПеречислите все содержимое, созданное до джема.1. Немного аудио\nСсылка на геймплейные кадры\n\n\n\nНекоторые вопросы:\nБудут ли дальнейшие обновления?Вероятно, да\nКем бы я хотел быть в GameDev?Геймдизайнер\nХотел бы я работать в команде?Да\n\nКакую версию движка вы использовали для создания своей записи? 4.27.2 \n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTY4NzE2NS85OTM3Nzc0LnBuZw==/original/pFb8eA.png",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzE2NS85OTM3Nzc1LnBuZw==/original/RLxMoz.png",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzE2NS85OTM3NzczLnBuZw==/original/lNFxHC.png",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzE2NS85OTM3NzY4LnBuZw==/original/01L6DB.png",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzE2NS85OTM3NzY3LnBuZw==/original/pM6obj.png",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzE2NS85OTM3NzcwLnBuZw==/original/6%2Fp%2B5G.png",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzE2NS85OTM3NzcxLnBuZw==/original/QCFHjS.png",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzE2NS85OTM3NzY5LnBuZw==/original/F1Vy7m.png",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzE2NS85OTM3NzcyLnBuZw==/original/xEc1A2.png",
+          "https://img.itch.zone/aW1hZ2UvMTY4NzE2NS8xMDA5MzYyMy5qcGc=/original/6sd%2Fsd.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "NeoXider",
+          "Tags": "3D, io-slime, Multiplayer, Singleplayer, Unreal Engine"
+        }
+      }
+    },
+    {
+      "gameId": 1683245,
+      "gameUrl": "https://meksdev.itch.io/defend-the-crystal",
+      "overallRank": 14,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 0,
+        "field_responses": [
+          "18466:Platform1"
+        ],
+        "id": 350368,
+        "game": {
+          "short_text": "You must defend the crystal from the invaders. Some come from above some come from below your task to destroy them.",
+          "user": {
+            "url": "https://meksdev.itch.io",
+            "id": 5712308,
+            "name": "MeksDev"
+          },
+          "id": 1683245,
+          "title": "Defend The Crystal",
+          "url": "https://meksdev.itch.io/defend-the-crystal",
+          "cover": "https://img.itch.zone/aW1nLzk5MTMyODMucG5n/300x240%23c/Zz7D9l.png"
+        },
+        "url": "/jam/2022-epic-megajam/rate/1683245",
+        "created_at": "2022-08-29 15:24:17",
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Defend The Crystal",
+        "description": "You have a crystal to defend. you kill the enemies that come in waves and upgrade your tank as much as you can. (upgrades in style of tf2 MVM)\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzk5MTMyODMucG5n/original/pLc6Nu.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "MeksDev"
+        }
+      }
+    },
+    {
+      "gameId": 1684261,
+      "gameUrl": "https://merekht.itch.io/the-tree-rhythmers",
+      "overallRank": 15,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 0,
+        "field_responses": [
+          "18466:Platform1"
+        ],
+        "id": 351406,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzk5NDYwNjUucG5n/300x240%23c/e6dtRO.png",
+          "short_text": "Grow your own tree in this relaxing rhythmic mini game. Made for Epic Mega Jam 2022",
+          "user": {
+            "url": "https://merekht.itch.io",
+            "id": 6540102,
+            "name": "Merekht"
+          },
+          "id": 1684261,
+          "title": "The Tree Rhythmers",
+          "url": "https://merekht.itch.io/the-tree-rhythmers",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#E6E3FF"
+        },
+        "url": "/jam/2022-epic-megajam/rate/1684261",
+        "created_at": "2022-09-01 23:19:30",
+        "rating_count": 0
+      },
+      "details": {
+        "title": "The Tree Rhythmers",
+        "description": "A relaxing game created as a submission to Epic MegaJam 2022.\nThe Tree Growth powered with Nature Growth Components Plugin\nGame Description:\nHit the notes on both Staffs to keep the tree growing.  \nThe notes in the top staff will feed the Crown of the tree, while the ones in the bottom staff feed the Roots of the tree.\nThe game features 4 tunes (shoutout to weloveindies.com ) that launch randomly each time you restart the game (R button).\nThe growing tree and dynamic weather are there to soothe player and distract from the daily routines.  \nThere is a hard mode, which is quite challenging for the single player, but divide the responsibility with a friend and you get pretty fun collaborative (or competitive if you'll look at the scoring) rhythm game.\nThanks for playing! I hope you'll enjoy!\n\nControls:\nMain menu: \nSpace bar - to start a simple  gameR - to restart the gameEsc - to exit the game\n\nHit the notes in the top staff: \nKeyboard: Up / W / Enter Gamepad: D-pad Up /  Face Button Top \nHit the notes in the bottom staff: \nKeyboard: Down/S/Gamepad: D-pad Down/ Face Button Bottom\n\nWhy is it important to grow a tree one may ask? Well look outside - there are not that many trees out there. \nSo whether you like the game or you don't I suggest you go and and plant a real tree :) It will feel good, trust me on this one!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTY4NDI2MS85OTQ2MDY0LnBuZw==/original/TeruFT.png",
+          "https://img.itch.zone/aW1hZ2UvMTY4NDI2MS85OTQ2MDYzLnBuZw==/original/Zz8YPD.png",
+          "https://img.itch.zone/aW1hZ2UvMTY4NDI2MS85OTQ2MDc2LnBuZw==/original/v8qX4y.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Merekht",
+          "Genre": "Rhythm",
+          "Tags": "nature"
+        }
+      }
+    }
+  ]
+}

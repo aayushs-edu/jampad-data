@@ -1,0 +1,2926 @@
+{
+  "n": 43,
+  "name": "Game Off 2019",
+  "url": "https://itch.io/jam/game-off-2019",
+  "theme": "LEAPS AND BOUNDS",
+  "slug": "game-off-2019",
+  "jamMeta": {
+    "jamType": "ended",
+    "ratings": "2,146",
+    "entries": "223",
+    "title": "Game Off 2019",
+    "jamURL": "https://itch.io/jam/game-off-2019",
+    "hosts": {
+      "GitHub": "https://github.itch.io",
+      "Lee Reilly": "https://leereilly.itch.io",
+      "#GitHubGameOff": "https://bsky.app/hashtag/GitHubGameOff"
+    },
+    "jamID": "9893"
+  },
+  "totalEntries": 216,
+  "ranked": true,
+  "hasCategories": true,
+  "needsManualSelection": false,
+  "categories": [
+    "Overall",
+    "Gameplay",
+    "Graphics",
+    "Audio",
+    "Innovation",
+    "Theme interpretation"
+  ],
+  "topGames": [
+    {
+      "gameId": 527199,
+      "gameUrl": "https://maximegammaitoni.itch.io/retrochase",
+      "overallRank": 2,
+      "topCategories": [
+        "Overall",
+        "Gameplay",
+        "Graphics",
+        "Audio",
+        "Theme interpretation"
+      ],
+      "resultData": {
+        "id": 527199,
+        "score": 4.4,
+        "cover_url": "https://img.itch.zone/aW1nLzI3MzkzOTgucG5n/300x240%23c/ahoUk0.png",
+        "raw_score": 4.4,
+        "rating_count": 15,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 4.4,
+            "raw_score": 4.4,
+            "rank": 2
+          },
+          {
+            "name": "Gameplay",
+            "score": 4.2,
+            "raw_score": 4.2,
+            "rank": 2
+          },
+          {
+            "name": "Graphics",
+            "score": 4.4,
+            "raw_score": 4.4,
+            "rank": 5
+          },
+          {
+            "name": "Audio",
+            "score": 3.9333333333333,
+            "raw_score": 3.9333333333333,
+            "rank": 4
+          },
+          {
+            "name": "Innovation",
+            "score": 3.9333333333333,
+            "raw_score": 3.9333333333333,
+            "rank": 13
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 4.2666666666667,
+            "raw_score": 4.2666666666667,
+            "rank": 3
+          }
+        ],
+        "contributors": [
+          {
+            "name": "MaximeGammaitoni",
+            "id": 1224329
+          },
+          {
+            "name": "Zstrik",
+            "id": 74905
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2019/rate/527199",
+        "rank": 2,
+        "title": "RetroChase"
+      },
+      "entryData": {
+        "rating_count": 15,
+        "created_at": "2019-12-01 21:35:18",
+        "coolness": 29,
+        "id": 98426,
+        "url": "/jam/game-off-2019/rate/527199",
+        "contributors": [
+          {
+            "name": "MaximeGammaitoni",
+            "url": "https://maximegammaitoni.itch.io"
+          },
+          {
+            "name": "Zstrik",
+            "url": "https://strik.itch.io"
+          }
+        ],
+        "game": {
+          "url": "https://maximegammaitoni.itch.io/retrochase",
+          "user": {
+            "name": "MaximeGammaitoni",
+            "url": "https://maximegammaitoni.itch.io",
+            "id": 1224329
+          },
+          "id": 527199,
+          "short_text": "Action puzzle game playable with mouse only",
+          "title": "RetroChase",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI3MzkzOTgucG5n/300x240%23c/ahoUk0.png"
+        }
+      },
+      "details": {
+        "title": "RetroChase",
+        "description": "Welcome to the Retro Chase game.\nIn this game you're a ninja of the future. \nYou can't walk but you can Teleport. You just need click to move. To leave the game press ECHAP button. Enjoy the game and the music.\nCode and GameDesign : John Touba (http://jo541.github.io/) and Maxime Gammaitoni (https://github.com/MaximeGammaitoni)Art: Mathieu Strzykala (https://github.com/cronostrik) and Denis KroczekMusic: Alexis ImperialMade with unity, just run\"retro_chase.exe\"",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNTI3MTk5LzI3Mzk0NjMucG5n/original/XRWdIz.png",
+          "https://img.itch.zone/aW1hZ2UvNTI3MTk5LzI3NDE1ODEuZ2lm/original/Iwvvya.gif",
+          "https://img.itch.zone/aW1hZ2UvNTI3MTk5LzI3NDE1ODIuZ2lm/original/ijTTVA.gif",
+          "https://img.itch.zone/aW1hZ2UvNTI3MTk5LzI3NDE1ODYuZ2lm/original/RC1goe.gif",
+          "https://img.itch.zone/aW1hZ2UvNTI3MTk5LzI3Mzk0NzAucG5n/original/y5sqlW.png",
+          "https://img.itch.zone/aW1hZ2UvNTI3MTk5LzI3Mzk0NjgucG5n/original/IJw61h.png",
+          "https://img.itch.zone/aW1hZ2UvNTI3MTk5LzI3Mzk0NjkucG5n/original/AQsaUt.png",
+          "https://img.itch.zone/aW1hZ2UvNTI3MTk5LzI3Mzk0NzEucG5n/original/FOmma5.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Authors": "MaximeGammaitoni, Zstrik",
+          "Genre": "Action",
+          "Tags": "action-puzzle-game, Game Jam, GitHub, Singleplayer, Synthwave"
+        }
+      }
+    },
+    {
+      "gameId": 526941,
+      "gameUrl": "https://yusungames.itch.io/blawk",
+      "overallRank": 3,
+      "topCategories": [
+        "Overall",
+        "Gameplay",
+        "Innovation",
+        "Theme interpretation"
+      ],
+      "resultData": {
+        "id": 526941,
+        "score": 4.3076923076923,
+        "cover_url": "https://img.itch.zone/aW1nLzI3NDM4NzkuZ2lm/300x240%23c/0APyE7.gif",
+        "raw_score": 4.3076923076923,
+        "rating_count": 13,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 4.3076923076923,
+            "raw_score": 4.3076923076923,
+            "rank": 3
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.9230769230769,
+            "raw_score": 3.9230769230769,
+            "rank": 10
+          },
+          {
+            "name": "Graphics",
+            "score": 3.9230769230769,
+            "raw_score": 3.9230769230769,
+            "rank": 14
+          },
+          {
+            "name": "Audio",
+            "score": 3.1538461538462,
+            "raw_score": 3.1538461538462,
+            "rank": 41
+          },
+          {
+            "name": "Innovation",
+            "score": 4.6153846153846,
+            "raw_score": 4.6153846153846,
+            "rank": 1
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 4.2307692307692,
+            "raw_score": 4.2307692307692,
+            "rank": 4
+          }
+        ],
+        "contributors": [
+          {
+            "name": "YusunG",
+            "id": 1113564
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2019/rate/526941",
+        "rank": 3,
+        "title": "BLAWK"
+      },
+      "entryData": {
+        "rating_count": 13,
+        "created_at": "2019-12-01 17:36:25",
+        "coolness": 23,
+        "id": 98256,
+        "url": "/jam/game-off-2019/rate/526941",
+        "game": {
+          "cover_color": "#42cafd",
+          "url": "https://yusungames.itch.io/blawk",
+          "short_text": "A Short Game on Creative Blawk - GitHub Game Off 2019 [[ 1st place innovation | 3rd place overall ]]",
+          "user": {
+            "name": "YusunG",
+            "url": "https://yusungames.itch.io",
+            "id": 1113564
+          },
+          "platforms": [
+            "windows"
+          ],
+          "title": "BLAWK",
+          "id": 526941,
+          "gif_cover": "https://img.itch.zone/aW1nLzI3NDM4NzkuZ2lm/original/6a1aJA.gif",
+          "cover": "https://img.itch.zone/aW1nLzI3NDM4NzkuZ2lm/300x240%23c/0APyE7.gif"
+        }
+      },
+      "details": {
+        "title": "BLAWK",
+        "description": "This little chick is feeling stuck 😢\nHelp him find ways to get rid of his blawk.\nControls:\n     Move the game window around\nAssets used:\n\nWindow scriptsYellowAfterlifeTilesetNauris AmatnieksCloudsMGGFontsDaniel Linssen - m6x11\nMade as a part of:\nGitHub Game Off 2019 - Leaps and Bounds\n\nNOTE: 1920x1080+ DISPLAY REQUIRED.\n\n - This game is not playable on lower resolution displays and will only use a 1920x1080 area on larger displays. Sorry for any inconveniences.\n\nRecommended resolution settings --->\n     [100% Scaling required]\nEdit: [Post jam version] contains an edit on level 2.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNTI2OTQxLzI3Mzc4NTAuZ2lm/original/RdyoVU.gif",
+          "https://img.itch.zone/aW1hZ2UvNTI2OTQxLzI3Mzc4NTEuZ2lm/original/X4FzSA.gif",
+          "https://img.itch.zone/aW1hZ2UvNTI2OTQxLzI3Mzc4NjcuZ2lm/original/H5Z7l4.gif",
+          "https://img.itch.zone/aW1hZ2UvNTI2OTQxLzI3NDM1MDcucG5n/original/5HUv2g.png",
+          "https://img.itch.zone/aW1hZ2UvNTI2OTQxLzI3MzgzMDQucG5n/original/BEs3b8.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Release date": "Dec 01, 2019",
+          "Rating": "Rated 4.3 out of 5 stars(3 total ratings)",
+          "Author": "YusunG",
+          "Genre": "Platformer",
+          "Made with": "GameMaker",
+          "Tags": "2D, Experimental, Physics, Pixel Art, Puzzle-Platformer",
+          "Average session": "A few minutes",
+          "Inputs": "Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 455692,
+      "gameUrl": "https://sharpfives.itch.io/gems",
+      "overallRank": 4,
+      "topCategories": [
+        "Overall",
+        "Graphics",
+        "Audio"
+      ],
+      "resultData": {
+        "id": 455692,
+        "score": 4.28125,
+        "cover_url": "https://img.itch.zone/aW1nLzI3MzczNjkucG5n/300x240%23c/SYg2ej.png",
+        "raw_score": 4.28125,
+        "rating_count": 32,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 4.28125,
+            "raw_score": 4.28125,
+            "rank": 4
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.84375,
+            "raw_score": 3.84375,
+            "rank": 13
+          },
+          {
+            "name": "Graphics",
+            "score": 4.5,
+            "raw_score": 4.5,
+            "rank": 3
+          },
+          {
+            "name": "Audio",
+            "score": 4.3125,
+            "raw_score": 4.3125,
+            "rank": 1
+          },
+          {
+            "name": "Innovation",
+            "score": 3.75,
+            "raw_score": 3.75,
+            "rank": 19
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 2.78125,
+            "raw_score": 2.78125,
+            "rank": 85
+          }
+        ],
+        "contributors": [
+          {
+            "name": "sharpfives",
+            "id": 921360
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2019/rate/455692",
+        "rank": 4,
+        "title": "The Gems"
+      },
+      "entryData": {
+        "rating_count": 32,
+        "created_at": "2019-12-01 15:41:59",
+        "coolness": 6,
+        "id": 98216,
+        "url": "/jam/game-off-2019/rate/455692",
+        "game": {
+          "cover_color": "#494a69",
+          "id": 455692,
+          "user": {
+            "name": "sharpfives",
+            "url": "https://sharpfives.itch.io",
+            "id": 921360
+          },
+          "url": "https://sharpfives.itch.io/gems",
+          "short_text": "A point-and-click / action adventure about a very, very important mission.",
+          "title": "The Gems",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI3MzczNjkucG5n/300x240%23c/SYg2ej.png"
+        }
+      },
+      "details": {
+        "title": "The Gems",
+        "description": "A point-and-click / action adventure made for GitHub Game Off 2019. Solve puzzles, fight enemies, overcome leaps and bounds to help solve a very important mission.\nCurrently only the Chrome browser has been fully tested. Please use the executable downloads otherwise. Enjoy!\nAll art, music, and software by @sharpfives. Listen to the soundtrack here\nSome sound effects from freesound.org",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDU1NjkyLzI3Mzc1MjIucG5n/original/kXvlx9.png",
+          "https://img.itch.zone/aW1hZ2UvNDU1NjkyLzI3Mzc1MjQucG5n/original/o6ykX1.png",
+          "https://img.itch.zone/aW1hZ2UvNDU1NjkyLzI3Mzc1MjMucG5n/original/PB73bG.png",
+          "https://img.itch.zone/aW1hZ2UvNDU1NjkyLzI3Mzc1MjUucG5n/original/4uSyHw.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 4.7 out of 5 stars(3 total ratings)",
+          "Author": "sharpfives",
+          "Genre": "Adventure, Action",
+          "Made with": "Aseprite, Tiled, Phaser",
+          "Tags": "2D, GitHub, Pixel Art, Point & Click",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 527091,
+      "gameUrl": "https://winterbeak.itch.io/noneuclilypads",
+      "overallRank": 5,
+      "topCategories": [
+        "Overall",
+        "Gameplay",
+        "Graphics",
+        "Innovation",
+        "Theme interpretation"
+      ],
+      "resultData": {
+        "id": 527091,
+        "score": 4.2222222222222,
+        "cover_url": "https://img.itch.zone/aW1nLzc4MDQxMDQuZ2lm/300x240%23c/V2Od2S.gif",
+        "raw_score": 4.2222222222222,
+        "rating_count": 18,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 4.2222222222222,
+            "raw_score": 4.2222222222222,
+            "rank": 5
+          },
+          {
+            "name": "Gameplay",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 7
+          },
+          {
+            "name": "Graphics",
+            "score": 4.1666666666667,
+            "raw_score": 4.1666666666667,
+            "rank": 9
+          },
+          {
+            "name": "Audio",
+            "score": 3.7777777777778,
+            "raw_score": 3.7777777777778,
+            "rank": 13
+          },
+          {
+            "name": "Innovation",
+            "score": 4.5,
+            "raw_score": 4.5,
+            "rank": 2
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 4.3888888888889,
+            "raw_score": 4.3888888888889,
+            "rank": 1
+          }
+        ],
+        "contributors": [
+          {
+            "name": "winterbeak",
+            "id": 1706743
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2019/rate/527091",
+        "rank": 5,
+        "title": "Noneuclilypads"
+      },
+      "entryData": {
+        "rating_count": 18,
+        "created_at": "2019-12-01 21:31:25",
+        "coolness": 10,
+        "id": 98418,
+        "url": "/jam/game-off-2019/rate/527091",
+        "game": {
+          "cover_color": "#01ffb6",
+          "url": "https://winterbeak.itch.io/noneuclilypads",
+          "short_text": "Grid-breaking frog-based puzzle-rogue",
+          "user": {
+            "name": "winterbeak",
+            "url": "https://winterbeak.itch.io",
+            "id": 1706743
+          },
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "title": "Noneuclilypads",
+          "id": 527091,
+          "gif_cover": "https://img.itch.zone/aW1nLzc4MDQxMDQuZ2lm/original/Ybxlku.gif",
+          "cover": "https://img.itch.zone/aW1nLzc4MDQxMDQuZ2lm/300x240%23c/V2Od2S.gif"
+        }
+      },
+      "details": {
+        "title": "Noneuclilypads",
+        "description": "NOTE: The downloadable is the preferred version. There are several minor differences in the web build that were required to make it run properly, the most noticeable being that purple slime now magically floats above water.\nA turn based puzzle-roguelike about breaking the bounds of the traditional grid. Exist in multiple grid spaces at once, and leap across three cells in only one step!\nIn a secluded wetland, miraculously untouched by human activity, there lies a phenomenal plant that cannot thrive anywhere else: the non-Euclidean lily pad. Anything standing on the surface of these plants experiences the strange sensation of being in multiple places at once.\n\nThe local wildlife seem well versed in the mechanics of these strange platforms, taking full advantage of their world-warping properties to live, travel, and hunt. Mastery of this aspect of the environment is necessary for survival, most especially for one spry red frog, who must stockpile enough body fat before the winter sets in...\n\nJust always remember to think before you leap.\nMade in a month's time for Github GameOff 2019. Requires a mouse to play!\nSounds taken from freesound.org. A list of links to the sounds used can be found here.\nProgrammed with Lua and Löve2D! Source code and assets can be found here.\nWeb build packaged with this tool.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNTI3MDkxLzI3NTAxMzAuZ2lm/original/enEY%2FN.gif",
+          "https://img.itch.zone/aW1hZ2UvNTI3MDkxLzI3NTAxMzQuZ2lm/original/jahY4y.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.0 out of 5 stars(3 total ratings)",
+          "Author": "winterbeak",
+          "Genre": "Puzzle, Strategy",
+          "Made with": "LÖVE",
+          "Tags": "GitHub, LÖVE, Pixel Art, Procedural Generation, Roguelike, sourcecode, Top-Down, Turn-based, Turn-based Strategy",
+          "Code license": "MIT License",
+          "Asset license": "Creative Commons Attribution v4.0 International",
+          "Average session": "About a half-hour",
+          "Inputs": "Mouse",
+          "Links": "Source code"
+        }
+      }
+    },
+    {
+      "gameId": 513331,
+      "gameUrl": "https://minibobbo.itch.io/ninja-training-simulator",
+      "overallRank": 6,
+      "topCategories": [
+        "Overall",
+        "Gameplay",
+        "Theme interpretation"
+      ],
+      "resultData": {
+        "id": 513331,
+        "score": 4.0434782608696,
+        "cover_url": "https://img.itch.zone/aW1nLzI2NjU2MDguZ2lm/300x240%23c/9CgLqW.gif",
+        "raw_score": 4.0434782608696,
+        "rating_count": 23,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 4.0434782608696,
+            "raw_score": 4.0434782608696,
+            "rank": 6
+          },
+          {
+            "name": "Gameplay",
+            "score": 4.1739130434783,
+            "raw_score": 4.1739130434783,
+            "rank": 4
+          },
+          {
+            "name": "Graphics",
+            "score": 3.4347826086957,
+            "raw_score": 3.4347826086957,
+            "rank": 49
+          },
+          {
+            "name": "Audio",
+            "score": 3.695652173913,
+            "raw_score": 3.695652173913,
+            "rank": 15
+          },
+          {
+            "name": "Innovation",
+            "score": 3.9130434782609,
+            "raw_score": 3.9130434782609,
+            "rank": 15
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 6
+          }
+        ],
+        "contributors": [
+          {
+            "name": "MiniBobbo",
+            "id": 266023
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2019/rate/513331",
+        "rank": 6,
+        "title": "Ninja Training Simulator"
+      },
+      "entryData": {
+        "rating_count": 23,
+        "created_at": "2019-12-01 18:57:38",
+        "coolness": 8,
+        "id": 98325,
+        "url": "/jam/game-off-2019/rate/513331",
+        "game": {
+          "gif_cover": "https://img.itch.zone/aW1nLzI2NjU2MDguZ2lm/original/D7FMt%2B.gif",
+          "short_text": "Ninja attack with leaps and bounds.  A game for GameOff 2019.",
+          "user": {
+            "name": "MiniBobbo",
+            "url": "https://minibobbo.itch.io",
+            "id": 266023
+          },
+          "url": "https://minibobbo.itch.io/ninja-training-simulator",
+          "platforms": [
+            "web"
+          ],
+          "title": "Ninja Training Simulator",
+          "id": 513331,
+          "cover": "https://img.itch.zone/aW1nLzI2NjU2MDguZ2lm/300x240%23c/9CgLqW.gif"
+        }
+      },
+      "details": {
+        "title": "Ninja Training Simulator",
+        "description": "Can be played entirely with the mouse.\nShortcut keys:\nR restarts the current level\nM returns to the main menu\nMusic and Sound Effects: JamesOliverMusic: https://jamesolivermusic.com/\nCode and Art: DaveB https://minibobbo.itch.io/\nHere's my current records.  Feel free to share yours in the comments!\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNTEzMzMxLzI3Mzg2MDQuZ2lm/original/tzMHMT.gif",
+          "https://img.itch.zone/aW1hZ2UvNTEzMzMxLzI3Mzg2MDYuZ2lm/original/E%2BO2ai.gif",
+          "https://img.itch.zone/aW1hZ2UvNTEzMzMxLzI3Mzg2MDkuZ2lm/original/GcKYgX.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "MiniBobbo",
+          "Genre": "Platformer",
+          "Tags": "Pixel Art, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 527077,
+      "gameUrl": "https://anttihaavikko.itch.io/cannonball-engineers",
+      "overallRank": 7,
+      "topCategories": [
+        "Overall",
+        "Graphics",
+        "Audio",
+        "Innovation"
+      ],
+      "resultData": {
+        "id": 527077,
+        "score": 3.972972972973,
+        "cover_url": "https://img.itch.zone/aW1nLzI3Mzg2NzYuZ2lm/300x240%23c/pylEot.gif",
+        "raw_score": 3.972972972973,
+        "rating_count": 37,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 3.972972972973,
+            "raw_score": 3.972972972973,
+            "rank": 7
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.5135135135135,
+            "raw_score": 3.5135135135135,
+            "rank": 27
+          },
+          {
+            "name": "Graphics",
+            "score": 4.5945945945946,
+            "raw_score": 4.5945945945946,
+            "rank": 2
+          },
+          {
+            "name": "Audio",
+            "score": 4.0810810810811,
+            "raw_score": 4.0810810810811,
+            "rank": 2
+          },
+          {
+            "name": "Innovation",
+            "score": 4.0810810810811,
+            "raw_score": 4.0810810810811,
+            "rank": 5
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 3.7027027027027,
+            "raw_score": 3.7027027027027,
+            "rank": 21
+          }
+        ],
+        "contributors": [
+          {
+            "name": "anttihaavikko",
+            "id": 194445
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2019/rate/527077",
+        "rank": 7,
+        "title": "Cannonball Engineers"
+      },
+      "entryData": {
+        "rating_count": 37,
+        "created_at": "2019-12-01 20:08:34",
+        "coolness": 0,
+        "id": 98361,
+        "url": "/jam/game-off-2019/rate/527077",
+        "game": {
+          "cover_color": "#A37046",
+          "title": "Cannonball Engineers",
+          "user": {
+            "name": "anttihaavikko",
+            "url": "https://anttihaavikko.itch.io",
+            "id": 194445
+          },
+          "url": "https://anttihaavikko.itch.io/cannonball-engineers",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "gif_cover": "https://img.itch.zone/aW1nLzI3Mzg2NzYuZ2lm/original/0r1H%2FF.gif",
+          "id": 527077,
+          "cover": "https://img.itch.zone/aW1nLzI3Mzg2NzYuZ2lm/300x240%23c/pylEot.gif"
+        }
+      },
+      "details": {
+        "title": "Cannonball Engineers",
+        "description": "It was the year 20XX and everything was fine and dandy. But then suddenly these weird anomalies started appearing all over the world and they had to call, The Cannonball Engineers.\nCannonball Engineers is a physics based puzzler that was created solely by me during a span of a month for #GitHugGameOff game jam.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNTI3MDc3LzI3Mzg3NzUucG5n/original/MZ0LXq.png",
+          "https://img.itch.zone/aW1hZ2UvNTI3MDc3LzI3Mzg3NzQucG5n/original/iCJU3z.png",
+          "https://img.itch.zone/aW1hZ2UvNTI3MDc3LzI3Mzg3NzYucG5n/original/4k3msl.png",
+          "https://img.itch.zone/aW1hZ2UvNTI3MDc3LzI3Mzg3NzcucG5n/original/B4GK%2Fl.png",
+          "https://img.itch.zone/aW1hZ2UvNTI3MDc3LzI3Mzg3NzgucG5n/original/AQsGCp.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 4.5 out of 5 stars(2 total ratings)",
+          "Author": "anttihaavikko",
+          "Genre": "Puzzle, Action",
+          "Made with": "Unity",
+          "Tags": "2D, Mouse only, Physics, Singleplayer, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 514005,
+      "gameUrl": "https://zeroji.itch.io/colorbound",
+      "overallRank": 8,
+      "topCategories": [
+        "Overall",
+        "Gameplay",
+        "Innovation"
+      ],
+      "resultData": {
+        "id": 514005,
+        "score": 3.96,
+        "cover_url": "https://img.itch.zone/aW1nLzI3NDExNzEucG5n/300x240%23c/u5s%2BXg.png",
+        "raw_score": 3.96,
+        "rating_count": 25,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 3.96,
+            "raw_score": 3.96,
+            "rank": 8
+          },
+          {
+            "name": "Gameplay",
+            "score": 4.16,
+            "raw_score": 4.16,
+            "rank": 5
+          },
+          {
+            "name": "Graphics",
+            "score": 3.16,
+            "raw_score": 3.16,
+            "rank": 67
+          },
+          {
+            "name": "Audio",
+            "score": 2.76,
+            "raw_score": 2.76,
+            "rank": 78
+          },
+          {
+            "name": "Innovation",
+            "score": 4.08,
+            "raw_score": 4.08,
+            "rank": 6
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 3.8,
+            "raw_score": 3.8,
+            "rank": 18
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Zeroji",
+            "id": 1888066
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2019/rate/514005",
+        "rank": 8,
+        "title": "Colorbound"
+      },
+      "entryData": {
+        "rating_count": 25,
+        "created_at": "2019-11-30 16:03:26",
+        "coolness": 27,
+        "id": 97999,
+        "url": "/jam/game-off-2019/rate/514005",
+        "game": {
+          "cover_color": "#000000",
+          "id": 514005,
+          "user": {
+            "name": "Zeroji",
+            "url": "https://zeroji.itch.io",
+            "id": 1888066
+          },
+          "url": "https://zeroji.itch.io/colorbound",
+          "short_text": "A color-based puzzling platformer",
+          "title": "Colorbound",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI3NDExNzEucG5n/300x240%23c/u5s%2BXg.png"
+        }
+      },
+      "details": {
+        "title": "Colorbound",
+        "description": "Colorbound is a puzzle platformer in which you change color to progress.\nGame jam rating note: if you're in a hurry, and you get stuck on a level, open menu (esc) and exit level, then go to the LEVELS menu to try other mechanics :)\nSave data\nColorbound uses cookies to store your progress if you play in browser. If you experience issue with this, please try to download the executable version.\nAccessibility\nColorblind mode can be enabled in the settings, and uses the ColorADD system.\nInput methods supported:\nKeyboard (A-D space or arrows) - this is the best supported optionGamepad (left stick or D-pad, A (Xbox) to jump) - all buttons are not supported in all browsers, only downloaded executable guarantees compatibilityTouch input (on touch-enabled computers and mobile devices) - the size of the controls can be changed in the settings\nKnown issues\nIn-browser game may take several reloads to work properlyPortals can be buggy. They're a last-day addition.\nIf you encounter an issue not mentioned above, please contact me at zzeroji@gmail.com or Zeroji#1117 on Discord, your feedback is very valuable!\nGameplay\nYou do not need to read this to play. However, if you're stuck, it might help!\nIn Colorbound, you can stand on platforms which have the same color as you, or one related to yours. Here's a quick reminder on color synthesis (see screenshots):\nOrange = Red + YellowGreen = Yellow + BluePurple = Blue + Red\nWhat this means is that if you're red, you can stand on orange, red, and purple platforms. If you're purple, you can stand on red, purple, and blue. Feel free to play around the introduction levels until you're familiar with this concept.\nThe exception is white: generally, if you're white, you don't interact with anything. But also, whatever your color is, you will interact with white elements.\nHere's a quick rundown of what elements you may encounter in-game:\nPlatforms. You can stand on them. Some of them move, at different speeds.Switchers. They allow you to change colors. It'd be boring otherwise.Walls. Like platforms, but vertical. If you're red, a red wall will block you.Buttons. They're linked to doors, a door can have multiple buttons, sometimes far apart. Some buttons stay pressed longer than others.Elevators. Or exit doors. The thing you have to reach to complete the level. They're special, because you have to be exactly the same color to open them.Spikes. Don't step on them, or be prepared to try again. And again.Checkpoints. They register your position and color, so that trying again is less frustrating. Slightly.Portals. You know. Speedy thing goes in, speedy thing comes out.\nSpecial thanks to...\nPralkarz for the idea that inspired the game's graphic designPaul Joannon for the Godot colorblindness plug-inlqdev for the awesome logo\nThanks to the people who built Godot Engine, Aseprite, Kolourpaint, rFXGen, VSCode, and those who made the Game Off possible.\nAnd all whose who tested Colorbound and gave feedback during the development phase: pixelherodev, DaveB, swalrus, Mariothedog, MeatyManLink, winterbeak, アセドロン, lqdev, Lyrcaxis, Manus, atnip, nickforall, Tom G777, train.gif, M4n1us, TheEighthSin, Adé, Lisa, Klaus, Andréa, Jeremy, and Audrey.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNTE0MDA1LzI3Mzk1MDQucG5n/original/vsanRh.png",
+          "https://img.itch.zone/aW1hZ2UvNTE0MDA1LzI3Mzk1MDEucG5n/original/94Op04.png",
+          "https://img.itch.zone/aW1hZ2UvNTE0MDA1LzI3Mzk1MDIucG5n/original/kmwpDL.png",
+          "https://img.itch.zone/aW1hZ2UvNTE0MDA1LzI3Mzk1MDMucG5n/original/gpALVB.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 4.0 out of 5 stars(2 total ratings)",
+          "Author": "Zeroji",
+          "Genre": "Platformer, Puzzle",
+          "Made with": "Aseprite, Godot",
+          "Tags": "2D, Colorful",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Gamepad (any)",
+          "Accessibility": "Color-blind friendly",
+          "Links": "Source code"
+        }
+      }
+    },
+    {
+      "gameId": 520994,
+      "gameUrl": "https://manus.itch.io/leapoundary",
+      "overallRank": 9,
+      "topCategories": [
+        "Overall",
+        "Graphics",
+        "Theme interpretation"
+      ],
+      "resultData": {
+        "id": 520994,
+        "score": 3.95,
+        "cover_url": "https://img.itch.zone/aW1nLzI3MjUwODYucG5n/300x240%23c/WxixVs.png",
+        "raw_score": 3.95,
+        "rating_count": 20,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 3.95,
+            "raw_score": 3.95,
+            "rank": 9
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.9,
+            "raw_score": 3.9,
+            "rank": 11
+          },
+          {
+            "name": "Graphics",
+            "score": 4.15,
+            "raw_score": 4.15,
+            "rank": 10
+          },
+          {
+            "name": "Audio",
+            "score": 3.4,
+            "raw_score": 3.4,
+            "rank": 28
+          },
+          {
+            "name": "Innovation",
+            "score": 3.5,
+            "raw_score": 3.5,
+            "rank": 34
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 3.95,
+            "raw_score": 3.95,
+            "rank": 10
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Manus",
+            "id": 863797
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2019/rate/520994",
+        "rank": 9,
+        "title": "Leapoundary"
+      },
+      "entryData": {
+        "rating_count": 20,
+        "created_at": "2019-12-01 04:18:16",
+        "coolness": 12,
+        "id": 98127,
+        "url": "/jam/game-off-2019/rate/520994",
+        "game": {
+          "cover_color": "#000000",
+          "id": 520994,
+          "user": {
+            "name": "Manus",
+            "url": "https://manus.itch.io",
+            "id": 863797
+          },
+          "url": "https://manus.itch.io/leapoundary",
+          "short_text": "Game about making leaps and bouncing off the walls",
+          "title": "Leapoundary",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI3MjUwODYucG5n/300x240%23c/WxixVs.png"
+        }
+      },
+      "details": {
+        "title": "Leapoundary",
+        "description": "Hey, this game has been officially released on Google Play, if you want to check full version, click here: https://play.google.com/store/apps/details?id=com.Manuscript.Leapoundary \nCheers!\nAbout:\nThis game was made for GameOff 2019 game jam (theme: \"Leaps and bounds\"). All the assets were made by myself apart from:\nhttps://assetstore.unity.com/packages/2d/gui/icons/clean-vector-icons-132084https://github.com/Elringus/SpriteGlow\n\nHow to play:\nAll you need is a mouse. Click in the direction you want to send the ball. Try to reach next blue circles by shooting towards them or bouncing off walls. But most important, have fun!\nLater I plan on making a mobile version of that game ;)\n\nSoftware used:\nPhotoshopUnity 2019.3 (beta)LMMSGitHub: https://github.com/Manus9696/Leapoundary\n\nThanks to everyone who played my game. I hope you experienced even a little joy by playing it :) Share your scores in the comments :D ",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNTIwOTk0LzI3MzU5OTgucG5n/original/tA%2Fetm.png",
+          "https://img.itch.zone/aW1hZ2UvNTIwOTk0LzI3MzYwMDAucG5n/original/KWcbhy.png",
+          "https://img.itch.zone/aW1hZ2UvNTIwOTk0LzI3MzYwMDEucG5n/original/Ze2%2B97.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows, macOS, Linux",
+          "Author": "Manus",
+          "Genre": "Strategy, Puzzle",
+          "Tags": "2D, Casual, githubgameoff, Relaxing, Short"
+        }
+      }
+    },
+    {
+      "gameId": 526163,
+      "gameUrl": "https://1mgames.itch.io/bbbounddd",
+      "overallRank": 10,
+      "topCategories": [
+        "Overall",
+        "Gameplay",
+        "Theme interpretation"
+      ],
+      "resultData": {
+        "id": 526163,
+        "score": 3.9230769230769,
+        "cover_url": "https://img.itch.zone/aW1nLzI3Mzc1MzEuanBn/300x240%23c/Csud4M.jpg",
+        "raw_score": 3.9230769230769,
+        "rating_count": 13,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 3.9230769230769,
+            "raw_score": 3.9230769230769,
+            "rank": 10
+          },
+          {
+            "name": "Gameplay",
+            "score": 4.1538461538462,
+            "raw_score": 4.1538461538462,
+            "rank": 6
+          },
+          {
+            "name": "Graphics",
+            "score": 3.2307692307692,
+            "raw_score": 3.2307692307692,
+            "rank": 62
+          },
+          {
+            "name": "Audio",
+            "score": 3.6153846153846,
+            "raw_score": 3.6153846153846,
+            "rank": 17
+          },
+          {
+            "name": "Innovation",
+            "score": 3.3846153846154,
+            "raw_score": 3.3846153846154,
+            "rank": 42
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 6
+          }
+        ],
+        "contributors": [
+          {
+            "name": "1mgames",
+            "id": 1879291
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2019/rate/526163",
+        "rank": 10,
+        "title": "BBBounDDD"
+      },
+      "entryData": {
+        "rating_count": 13,
+        "created_at": "2019-12-01 16:38:27",
+        "coolness": 6,
+        "id": 98238,
+        "url": "/jam/game-off-2019/rate/526163",
+        "game": {
+          "cover_color": "#1b1b1b",
+          "id": 526163,
+          "user": {
+            "name": "1mgames",
+            "url": "https://1mgames.itch.io",
+            "id": 1879291
+          },
+          "url": "https://1mgames.itch.io/bbbounddd",
+          "short_text": "Ultimate bounce game",
+          "title": "BBBounDDD",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI3Mzc1MzEuanBn/300x240%23c/Csud4M.jpg"
+        }
+      },
+      "details": {
+        "title": "BBBounDDD",
+        "description": "It is a game that aims to move up by dragging the mouse.\nIt is slow while dragging.\nSkills can be acquired between stages.\nTechnique is necessary, but there is no need to use a pickaxe.\nGame clear is yours if you show your skills!Participated in Game Off 2019.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNTI2MTYzLzI3Mzc1MzUucG5n/original/Sylmn5.png",
+          "https://img.itch.zone/aW1hZ2UvNTI2MTYzLzI3Mzc1NTYucG5n/original/B7UeJh.png",
+          "https://img.itch.zone/aW1hZ2UvNTI2MTYzLzI3Mzc1MzYucG5n/original/Qjokoc.png",
+          "https://img.itch.zone/aW1hZ2UvNTI2MTYzLzI3Mzc1NDUucG5n/original/jVKxtY.png",
+          "https://img.itch.zone/aW1hZ2UvNTI2MTYzLzI3Mzc1NDEucG5n/original/p798jy.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "1mgames",
+          "Genre": "Action",
+          "Made with": "Unity",
+          "Tags": "2D, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 526697,
+      "gameUrl": "https://leo-li.itch.io/slipi",
+      "overallRank": 19,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "id": 526697,
+        "score": 3.7,
+        "cover_url": "https://img.itch.zone/aW1nLzI3MzYzNTkucG5n/300x240%23c/NjOMOr.png",
+        "raw_score": 3.7,
+        "rating_count": 10,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 3.7,
+            "raw_score": 3.7,
+            "rank": 19
+          },
+          {
+            "name": "Gameplay",
+            "score": 4.2,
+            "raw_score": 4.2,
+            "rank": 2
+          },
+          {
+            "name": "Graphics",
+            "score": 3.1,
+            "raw_score": 3.1,
+            "rank": 72
+          },
+          {
+            "name": "Audio",
+            "score": 3,
+            "raw_score": 3,
+            "rank": 50
+          },
+          {
+            "name": "Innovation",
+            "score": 3.2,
+            "raw_score": 3.2,
+            "rank": 50
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 3,
+            "raw_score": 3,
+            "rank": 67
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Leo",
+            "id": 1043744
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2019/rate/526697",
+        "rank": 19,
+        "title": "Slipi"
+      },
+      "entryData": {
+        "rating_count": 10,
+        "created_at": "2019-12-01 08:41:41",
+        "coolness": 0,
+        "id": 98167,
+        "url": "/jam/game-off-2019/rate/526697",
+        "game": {
+          "cover_color": "#4e6675",
+          "id": 526697,
+          "user": {
+            "name": "Leo",
+            "url": "https://leo-li.itch.io",
+            "id": 1043744
+          },
+          "url": "https://leo-li.itch.io/slipi",
+          "short_text": "slide things where they need to be in this puzzle game",
+          "title": "Slipi",
+          "platforms": [
+            "android",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI3MzYzNTkucG5n/300x240%23c/NjOMOr.png"
+        }
+      },
+      "details": {
+        "title": "Slipi",
+        "description": "Navigate each piece to its corresponding goal in this simple mobile-style puzzle game.\narrow keys/WASD: slide piecesR: restart levelspace/enter: continue (after having finished a level)esc/backspace: exit level\nMy first attempt at a puzzle game. Made for Game Off 2019.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNTI2Njk3LzI3MzYzOTEucG5n/original/Qt5VyM.png",
+          "https://img.itch.zone/aW1hZ2UvNTI2Njk3LzI3MzYzOTMucG5n/original/te%2Bzhw.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Android",
+          "Rating": "Rated 2.0 out of 5 stars(1 total ratings)",
+          "Author": "Leo",
+          "Genre": "Puzzle",
+          "Made with": "Unity"
+        }
+      }
+    },
+    {
+      "gameId": 526931,
+      "gameUrl": "https://drcarlluo.itch.io/time-space-leaper",
+      "overallRank": 12,
+      "topCategories": [
+        "Gameplay",
+        "Graphics",
+        "Audio",
+        "Innovation"
+      ],
+      "resultData": {
+        "id": 526931,
+        "score": 3.8888888888889,
+        "cover_url": "https://img.itch.zone/aW1nLzI3NDA5MzYucG5n/300x240%23c/cK%2FJrS.png",
+        "raw_score": 3.8888888888889,
+        "rating_count": 18,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 3.8888888888889,
+            "raw_score": 3.8888888888889,
+            "rank": 12
+          },
+          {
+            "name": "Gameplay",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 7
+          },
+          {
+            "name": "Graphics",
+            "score": 4.0555555555556,
+            "raw_score": 4.0555555555556,
+            "rank": 11
+          },
+          {
+            "name": "Audio",
+            "score": 3.8888888888889,
+            "raw_score": 3.8888888888889,
+            "rank": 6
+          },
+          {
+            "name": "Innovation",
+            "score": 4.0555555555556,
+            "raw_score": 4.0555555555556,
+            "rank": 7
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 3.6666666666667,
+            "raw_score": 3.6666666666667,
+            "rank": 23
+          }
+        ],
+        "contributors": [
+          {
+            "name": "DrCarlLuo",
+            "id": 1713541
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2019/rate/526931",
+        "rank": 12,
+        "title": "Time Space Leaper"
+      },
+      "entryData": {
+        "rating_count": 18,
+        "created_at": "2019-12-01 19:56:01",
+        "coolness": 4,
+        "id": 98357,
+        "url": "/jam/game-off-2019/rate/526931",
+        "game": {
+          "cover_color": "#eeeeee",
+          "id": 526931,
+          "user": {
+            "name": "DrCarlLuo",
+            "url": "https://drcarlluo.itch.io",
+            "id": 1713541
+          },
+          "url": "https://drcarlluo.itch.io/time-space-leaper",
+          "short_text": "Go back to the former world several seconds earlier and utilize your \"former self\" to do something impossible!",
+          "title": "Time Space Leaper",
+          "platforms": [
+            "windows",
+            "osx"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI3NDA5MzYucG5n/300x240%23c/cK%2FJrS.png"
+        }
+      },
+      "details": {
+        "title": "Time Space Leaper",
+        "description": "This is a prototype game for Game Off 2019\n====================================\n\n[Background]\nAlyssa is a girl with a special power. She can view the world from a four-dimensional-time-space perspective. She can \"travel\" to the world that is several seconds earlier than where she is from. With this power, she can go back to a certain time point to turn everything to her advantage and what's more, she can even utilize the \"former herself\" to do something impossible with herself alone. Now, she is trapped in an mysterious place that is full of terror and danger. She needs to get out of this place.\n                \n[The Time Travel Mechanics & Utilize the \"Former You\"]\nThe idea of time manipulation in our game sounds very similar to the famous and classic game BRAID. However, \"going to the former world\" is different from \"rewinding the time\". The precise explanation of the time mechanic in our game is as follow: The protagonist \"travels\" to a parallel universe which is completely the same with the universe where she comes except that it is several seconds earlier. Then the protagonist enters this parallel universe by \"superposing\" herself to the exact same position from the universe where she came from. This is very similar to the time travel in the movie Avengers: Endgame.\nThe most important thing is, when you go to the world in the past, you shall see the \"former\" YOU. In fact, the core idea of our game is to \"utilize\"your former self, such as letting the your former self hold a door for you, standing on the your former self to jump higher, etc. (I don't want to spoil too much here). Utilizing the former self sounds like a simple mechanics at first, but remember, you can do time-traveling many times, so that there can not only be \"former you\" but also \"former former you\" and even \"former former former you\"... So, make sure you have really understood the explanation of time traveling in this game, or you can get confused at times XD. Also, we have put some restriction on your former self: first, the your former sef can exist for only six seconds(because you and the former you have some sort of power conflicts); second, there should be at most three \"YOUs\" in one world, or you are not able to go to that world.\nThe kiwifruit in the 4th level is an item that let you and your \"latest former you\" exchange position.\n\n[Controls]\n←, →: Movementspace: JumpHold [left shift] to enter the \"four-dimensional-time-space vision\" which freezes the time in the current world, and then use [A,D] to control the time point you want to travel back to\n[Notes from the Devs]\nAlthough Game Off 2019 is a one-month game jam, we joined the jam just one week ago... because our team members are really busy this month. Therefore, we don't have too much time to delve into the level design of our game and currently, there are only four levels in our game and we also don't have the time to design the boss level... We are so sorry for such a short game experience but we will complete this game after this game jam.\n[Dev Team Members]\nCode & Game Design | DrCarlLuoLevel Design |  MisdeerLinArtist | YanRu\n[Credits]\nThe protagonist character is made by Thomas: https://thomas-lean.itch.io/assetsTileset & traps textures: https://pixel-frog.itch.io/pixel-adventure-1 Turret Texture: https://ansimuz.itch.io/warped-cityBackground Texture: https://vnitti.itch.io/glacial-mountains-parallax-backgroundSome sound effects from freesound.orgBGM Yume(「夢」) by \"Amacha Music Studio\"(「甘茶の音楽工房」)",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzI3NDA5MzYucG5n/original/gxakI3.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows, macOS",
+          "Author": "DrCarlLuo",
+          "Genre": "Platformer, Puzzle",
+          "Tags": "2D, Pixel Art"
+        }
+      }
+    },
+    {
+      "gameId": 526614,
+      "gameUrl": "https://pilotinpyjamas.itch.io/cows",
+      "overallRank": 15,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "id": 526614,
+        "score": 3.8536585365854,
+        "cover_url": "https://img.itch.zone/aW1nLzI3MzU3NTYucG5n/300x240%23c/RQM8cK.png",
+        "raw_score": 3.8536585365854,
+        "rating_count": 41,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 3.8536585365854,
+            "raw_score": 3.8536585365854,
+            "rank": 15
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.9756097560976,
+            "raw_score": 3.9756097560976,
+            "rank": 9
+          },
+          {
+            "name": "Graphics",
+            "score": 3.7073170731707,
+            "raw_score": 3.7073170731707,
+            "rank": 26
+          },
+          {
+            "name": "Audio",
+            "score": 3.4634146341463,
+            "raw_score": 3.4634146341463,
+            "rank": 22
+          },
+          {
+            "name": "Innovation",
+            "score": 3.9024390243902,
+            "raw_score": 3.9024390243902,
+            "rank": 16
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 3.8048780487805,
+            "raw_score": 3.8048780487805,
+            "rank": 17
+          }
+        ],
+        "contributors": [
+          {
+            "name": "pilotInPyjamas",
+            "id": 1330724
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2019/rate/526614",
+        "rank": 15,
+        "title": "COWs"
+      },
+      "entryData": {
+        "rating_count": 41,
+        "created_at": "2019-12-01 03:25:20",
+        "coolness": 49,
+        "id": 98120,
+        "url": "/jam/game-off-2019/rate/526614",
+        "game": {
+          "cover_color": "#353535",
+          "id": 526614,
+          "user": {
+            "name": "pilotInPyjamas",
+            "url": "https://pilotinpyjamas.itch.io",
+            "id": 1330724
+          },
+          "url": "https://pilotinpyjamas.itch.io/cows",
+          "short_text": "Solve puzzles with turing complete bovines!",
+          "title": "COWs",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI3MzU3NTYucG5n/300x240%23c/RQM8cK.png"
+        }
+      },
+      "details": {
+        "title": "COWs",
+        "description": "A game about turing complete cows.Welcome to the Logically Executed Automatic Paddock, or LEAP for short, where we keep our cows. Whoops, did I say cow? I meant to say COW. That stands for \"Carry On Walking\".\nI suppose all of our COWs happen to be cows too. What a coincidence!\nOur COWs are bound together to solve puzzles. Some of our COWs are advanced enough that we call them COmputational Workers (COW for short). It's a logical LEAP, but you're BOUND to get it.\nControls:\nArrow keys: MoveMouse: Click on things.Spacebar: Pretty much everything else\nThis game is VERY EARLY IN DEVELOPMENT There may be bugs or incomplete sections to this game, including audio. You may have to click the screen to get some music.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNTI2NjE0LzI3MzU5MjIucG5n/original/%2BKxJwL.png",
+          "https://img.itch.zone/aW1hZ2UvNTI2NjE0LzI3MzU5MjQucG5n/original/qaDfkf.png",
+          "https://img.itch.zone/aW1hZ2UvNTI2NjE0LzI3MzU5MjEucG5n/original/pI0FMh.png",
+          "https://img.itch.zone/aW1hZ2UvNTI2NjE0LzI3MzU5MjMucG5n/original/z3dXnZ.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Author": "pilotInPyjamas",
+          "Genre": "Puzzle",
+          "Made with": "Rust",
+          "Tags": "16-bit, 2D, 8-Bit, Pixel Art, Tilemap",
+          "Code license": "Apache License 2.0",
+          "Asset license": "Creative Commons Attribution v4.0 International",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 526930,
+      "gameUrl": "https://hernz.itch.io/warden-of-the-isles",
+      "overallRank": 87,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "id": 526930,
+        "score": 2.8571428571429,
+        "cover_url": "https://img.itch.zone/aW1nLzI3Mzg3MTIuZ2lm/300x240%23c/b%2F3h7V.gif",
+        "raw_score": 2.8571428571429,
+        "rating_count": 7,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 2.8571428571429,
+            "raw_score": 2.8571428571429,
+            "rank": 87
+          },
+          {
+            "name": "Gameplay",
+            "score": 2.1428571428571,
+            "raw_score": 2.1428571428571,
+            "rank": 138
+          },
+          {
+            "name": "Graphics",
+            "score": 4.4285714285714,
+            "raw_score": 4.4285714285714,
+            "rank": 4
+          },
+          {
+            "name": "Audio",
+            "score": 3.2857142857143,
+            "raw_score": 3.2857142857143,
+            "rank": 38
+          },
+          {
+            "name": "Innovation",
+            "score": 2.1428571428571,
+            "raw_score": 2.1428571428571,
+            "rank": 129
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 3,
+            "raw_score": 3,
+            "rank": 67
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Hernz",
+            "id": 1434101
+          },
+          {
+            "name": "PatteDeCanard",
+            "id": 1178703
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2019/rate/526930",
+        "rank": 87,
+        "title": "Warden of the isles"
+      },
+      "entryData": {
+        "rating_count": 7,
+        "created_at": "2019-12-01 20:12:30",
+        "coolness": 0,
+        "id": 98363,
+        "url": "/jam/game-off-2019/rate/526930",
+        "contributors": [
+          {
+            "name": "Hernz",
+            "url": "https://hernz.itch.io"
+          },
+          {
+            "name": "PatteDeCanard",
+            "url": "https://pattedecanard.itch.io"
+          }
+        ],
+        "game": {
+          "cover_color": "#eeeeee",
+          "title": "Warden of the isles",
+          "user": {
+            "name": "Hernz",
+            "url": "https://hernz.itch.io",
+            "id": 1434101
+          },
+          "url": "https://hernz.itch.io/warden-of-the-isles",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ],
+          "gif_cover": "https://img.itch.zone/aW1nLzI3Mzg3MTIuZ2lm/original/%2BbomWe.gif",
+          "id": 526930,
+          "cover": "https://img.itch.zone/aW1nLzI3Mzg3MTIuZ2lm/300x240%23c/b%2F3h7V.gif"
+        }
+      },
+      "details": {
+        "title": "Warden of the isles",
+        "description": "Become the warden of the Isles. Leap from one island to the other to ensure the pink eggs are not eating all the grass again ! If you find some, push them over the bounds of the island.\nControls:\nWalk : WASDFly : MOUSE MOTIONPunch: LEFT CLICBig punch: RIGHT CLICFly/land : SPACE BARToggle fullscreen:  ESCAPERotate camera : Q/E\nTeam :\nHernz  (twitter)PatteDeCanaard (twitter)\nEngine/Tools:\nGodot 3.1KritaGimpBlenderLMMS\nAll the code, sounds and graphical assets have been created during the jam.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNTI2OTMwLzMxODU5NjQucG5n/original/8weV0w.png",
+          "https://img.itch.zone/aW1hZ2UvNTI2OTMwLzMxODU5NjUucG5n/original/4HPIRY.png",
+          "https://img.itch.zone/aW1hZ2UvNTI2OTMwLzMxODU5NjYucG5n/original/ss7WeY.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS, Linux",
+          "Authors": "Hernz, PatteDeCanard",
+          "Genre": "Adventure, Action",
+          "Made with": "Blender, Godot, GIMP, Krita",
+          "Tags": "3D, Flight, Godot, Top-Down, Top Down Adventure",
+          "Code license": "GNU General Public License v3.0 (GPL)",
+          "Average session": "A few minutes",
+          "Languages": "English"
+        }
+      }
+    },
+    {
+      "gameId": 527036,
+      "gameUrl": "https://nenko12.itch.io/samadditional",
+      "overallRank": 36,
+      "topCategories": [
+        "Graphics",
+        "Audio"
+      ],
+      "resultData": {
+        "id": 527036,
+        "score": 3.4285714285714,
+        "cover_url": "https://img.itch.zone/aW1nLzI3Mzk2MDguanBn/300x240%23c/ZV2zZ2.jpg",
+        "raw_score": 3.4285714285714,
+        "rating_count": 7,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 3.4285714285714,
+            "raw_score": 3.4285714285714,
+            "rank": 36
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.1428571428571,
+            "raw_score": 3.1428571428571,
+            "rank": 47
+          },
+          {
+            "name": "Graphics",
+            "score": 4.2857142857143,
+            "raw_score": 4.2857142857143,
+            "rank": 7
+          },
+          {
+            "name": "Audio",
+            "score": 3.8571428571429,
+            "raw_score": 3.8571428571429,
+            "rank": 9
+          },
+          {
+            "name": "Innovation",
+            "score": 2.7142857142857,
+            "raw_score": 2.7142857142857,
+            "rank": 80
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 2.2857142857143,
+            "raw_score": 2.2857142857143,
+            "rank": 135
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Nenko",
+            "id": 3663055
+          },
+          {
+            "name": "andreasable",
+            "id": 1884717
+          },
+          {
+            "name": "Zahkros",
+            "id": 1019309
+          },
+          {
+            "name": "m₂",
+            "id": 1415292
+          },
+          {
+            "name": "chip008",
+            "id": 1888567
+          },
+          {
+            "name": "Vinikholas",
+            "id": 1881633
+          },
+          {
+            "name": "alveromancy",
+            "id": 1874932
+          },
+          {
+            "name": "JoelQ",
+            "id": 1159156
+          },
+          {
+            "name": "virrepinnen",
+            "id": 1882567
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2019/rate/527036",
+        "rank": 36,
+        "title": "S.A.M. Additional"
+      },
+      "entryData": {
+        "rating_count": 7,
+        "created_at": "2019-12-01 19:22:30",
+        "coolness": 4,
+        "id": 98339,
+        "url": "/jam/game-off-2019/rate/527036",
+        "contributors": [
+          {
+            "name": "Nenko",
+            "url": "https://nenko12.itch.io"
+          },
+          {
+            "name": "andreasable",
+            "url": "https://andreasable.itch.io"
+          },
+          {
+            "name": "Zahkros",
+            "url": "https://zahkros.itch.io"
+          },
+          {
+            "name": "m₂",
+            "url": "https://msub2.itch.io"
+          },
+          {
+            "name": "chip008",
+            "url": "https://chip008.itch.io"
+          },
+          {
+            "name": "Vinikholas",
+            "url": "https://vinikholas.itch.io"
+          },
+          {
+            "name": "alveromancy",
+            "url": "https://alveromancy.itch.io"
+          },
+          {
+            "name": "JoelQ",
+            "url": "https://joelquey.itch.io"
+          },
+          {
+            "name": "virrepinnen",
+            "url": "https://virrepinnen.itch.io"
+          }
+        ],
+        "game": {
+          "url": "https://nenko12.itch.io/samadditional",
+          "user": {
+            "name": "Nenko",
+            "url": "https://nenko12.itch.io",
+            "id": 3663055
+          },
+          "id": 527036,
+          "short_text": "Obi Tech's first public demo of S.A.M. — an AI that makes video games.",
+          "title": "S.A.M. Additional",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI3Mzk2MDguanBn/300x240%23c/ZV2zZ2.jpg"
+        }
+      },
+      "details": {
+        "title": "S.A.M. Additional",
+        "description": "S.A.M.Additional\n\nEnjoy Obi Tech's first publicly accessible demo of S.A.M. - an AI capable of making video games. Currently, S.A.M. excels at creating puzzles for human enjoyment. S.A.M.  is still learning about other game genres.\nGenre: Story driven adventure puzzlePlatform: PCDeveloper: Timeshift Studios\nDevelopers: \n\nhttps://msub2.itch.io/ - SFX + Music\nhttps://joelquey.itch.io/ - Programmer\nhttps://chip008.itch.io/ - Artist / Designer\nhttps://zahkros.itch.io/ - Artist\nhttps://vinikholas.itch.io/  - Game & Level Designer\nhttps://onnion.itch.io/ - Programmer\nhttps://andreaslbs.itch.io/ - Artist / Designer\nhttps://virrepinnen.itch.io/ - Music\nhttps://alveromancy.itch.io/ - Writer / Designer\nOther collaborations: OrderedPlane - Voice of S.A.M.\nWuuhie - Programmer\nJowy - Artist \nDeveloped in November 2019 for Game Off JamUnzip the file, Open the folder and execute GameOff19.exe",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNTI3MDM2LzI3Mzk1NzMuanBn/original/7vcC48.jpg",
+          "https://img.itch.zone/aW1hZ2UvNTI3MDM2LzI3Mzg2OTUucG5n/original/K5nsGT.png",
+          "https://img.itch.zone/aW1hZ2UvNTI3MDM2LzI3Mzg2OTcucG5n/original/d5bd3W.png",
+          "https://img.itch.zone/aW1hZ2UvNTI3MDM2LzI3Mzk1NzIuanBn/original/oTRHJe.jpg",
+          "https://img.itch.zone/aW1hZ2UvNTI3MDM2LzI3NDE5ODYucG5n/original/qlMzPl.png",
+          "https://img.itch.zone/aW1hZ2UvNTI3MDM2LzI3NDE5OTAucG5n/original/H%2BFq0W.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Authors": "Nenko, andreasable, Zahkros, m₂, chip008, Vinikholas, alveromancy, JoelQ, virrepinnen",
+          "Genre": "Puzzle, Adventure",
+          "Tags": "Puzzle-Platformer, Singleplayer, Story Rich"
+        }
+      }
+    },
+    {
+      "gameId": 526683,
+      "gameUrl": "https://tripletapgames.itch.io/the-unknown",
+      "overallRank": 46,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "id": 526683,
+        "score": 3.2857142857143,
+        "cover_url": "https://img.itch.zone/aW1nLzExMDQ1MDcyLnBuZw==/300x240%23c/VLJKre.png",
+        "raw_score": 3.2857142857143,
+        "rating_count": 7,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 3.2857142857143,
+            "raw_score": 3.2857142857143,
+            "rank": 46
+          },
+          {
+            "name": "Gameplay",
+            "score": 2.8571428571429,
+            "raw_score": 2.8571428571429,
+            "rank": 75
+          },
+          {
+            "name": "Graphics",
+            "score": 4.2857142857143,
+            "raw_score": 4.2857142857143,
+            "rank": 7
+          },
+          {
+            "name": "Audio",
+            "score": 2.5714285714286,
+            "raw_score": 2.5714285714286,
+            "rank": 93
+          },
+          {
+            "name": "Innovation",
+            "score": 2.8571428571429,
+            "raw_score": 2.8571428571429,
+            "rank": 67
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 3,
+            "raw_score": 3,
+            "rank": 67
+          }
+        ],
+        "contributors": [
+          {
+            "name": "TripleTapGames",
+            "id": 741627
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2019/rate/526683",
+        "rank": 46,
+        "title": "The Unknown"
+      },
+      "entryData": {
+        "rating_count": 7,
+        "created_at": "2019-12-01 06:47:12",
+        "coolness": 0,
+        "id": 98152,
+        "url": "/jam/game-off-2019/rate/526683",
+        "game": {
+          "cover_color": "#eeeeee",
+          "user": {
+            "name": "TripleTapGames",
+            "url": "https://tripletapgames.itch.io",
+            "id": 741627
+          },
+          "url": "https://tripletapgames.itch.io/the-unknown",
+          "id": 526683,
+          "title": "The Unknown",
+          "short_text": "A psychological horror first person platformer",
+          "cover": "https://img.itch.zone/aW1nLzExMDQ1MDcyLnBuZw==/300x240%23c/VLJKre.png"
+        }
+      },
+      "details": {
+        "title": "The Unknown",
+        "description": "Step into the mind of Mike and explore the depths of a twisted reality in this heart-pounding psychological horror game. As you navigate through his tormented memories and unravel the truth hidden deep within his psyche, you'll be haunted by Mike's inner demons and must dodge deadly obstacles at every turn. But beware, she is watching your every move.  Can you solve the puzzles and escape this nightmarish world before it's too late?\n\nPlatform: Windows\n\nStay up to date on the latest news and updates by following me on Twitter: @TripleTapGames1.\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNTI2NjgzLzk2NDY2NjcucG5n/original/89ot0I.png",
+          "https://img.itch.zone/aW1hZ2UvNTI2NjgzLzk2NDY2NzEucG5n/original/oEI5uP.png",
+          "https://img.itch.zone/aW1hZ2UvNTI2NjgzLzk2NDY2ODIucG5n/original/yrz3US.png",
+          "https://img.itch.zone/aW1hZ2UvNTI2NjgzLzk2NDY2ODUucG5n/original/UOs7l6.png",
+          "https://img.itch.zone/aW1hZ2UvNTI2NjgzLzEwNzI5OTczLnBuZw==/original/3Ap%2BP3.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Author": "TripleTapGames",
+          "Genre": "Platformer",
+          "Tags": "First-Person, Horror, Puzzle-Platformer"
+        }
+      }
+    },
+    {
+      "gameId": 520355,
+      "gameUrl": "https://pandaqi.itch.io/into-my-arms",
+      "overallRank": 11,
+      "topCategories": [
+        "Audio",
+        "Innovation"
+      ],
+      "resultData": {
+        "id": 520355,
+        "score": 3.9,
+        "cover_url": "https://img.itch.zone/aW1nLzI5Njc2ODIuZ2lm/300x240%23c/AhmzXh.gif",
+        "raw_score": 3.9,
+        "rating_count": 10,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 3.9,
+            "raw_score": 3.9,
+            "rank": 11
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.7,
+            "raw_score": 3.7,
+            "rank": 17
+          },
+          {
+            "name": "Graphics",
+            "score": 3.7,
+            "raw_score": 3.7,
+            "rank": 27
+          },
+          {
+            "name": "Audio",
+            "score": 3.9,
+            "raw_score": 3.9,
+            "rank": 5
+          },
+          {
+            "name": "Innovation",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 8
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 3.5,
+            "raw_score": 3.5,
+            "rank": 37
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Pandaqi",
+            "id": 331741
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2019/rate/520355",
+        "rank": 11,
+        "title": "Into My Arms"
+      },
+      "entryData": {
+        "rating_count": 10,
+        "created_at": "2019-11-25 11:57:50",
+        "coolness": 7,
+        "id": 97581,
+        "url": "/jam/game-off-2019/rate/520355",
+        "game": {
+          "cover_color": "#0298FD",
+          "url": "https://pandaqi.itch.io/into-my-arms",
+          "gif_cover": "https://img.itch.zone/aW1nLzI5Njc2ODIuZ2lm/original/kl5wBR.gif",
+          "price": "$4",
+          "user": {
+            "name": "Pandaqi",
+            "url": "https://pandaqi.itch.io",
+            "id": 331741
+          },
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "android"
+          ],
+          "short_text": "Solve puzzles by falling into each other's arms",
+          "title": "Into My Arms",
+          "id": 520355,
+          "cover": "https://img.itch.zone/aW1nLzI5Njc2ODIuZ2lm/300x240%23c/AhmzXh.gif"
+        }
+      },
+      "details": {
+        "title": "Into My Arms",
+        "description": "\nGameplay\nInto My Arms is a puzzle game in which you control two players (\"cubitos\"). The only way to win ... is by making one cubito fall into the arms of the other. There are only two rules:\nThe two cubitos may never see each otherTo win each level, one of them must step backwards from a height (of at least one tile) and fall into the arms of the cubito standing on the ground.\nNew mechanics are regularly introduced throughout the levels, like platforms, buttons, mirrors, etc.The game can be played single player, but is slightly easier with two players (each controlling a single cubito).\nThe game has 40 levels and is playable on any desktop system (Windows/Mac/Linux) and Android. (In the Android version, you can undo your last move by watching a rewarded ad. On desktop versions, you just get infinite undos.)\nThe title of the game is taken from the beautiful song Into My Arms by Nick Cave. (Go listen to it now! Now!)\nThis game was originally made in two weeks for the GitHub Game Off, in which it won 11th place (out of 237). The source code for that version of the game can be found here: https://github.com/Pandaqi/Into-My-Arms\n\nStoryThis game features a small story, which also plays when you start the first level of the game. The story explores love, faith and relationships - all puzzle mechanics in the game were designed to match.\nFor those who cannot wait, here it is:\nOnce upon a time, two cubitos were in love.\nThey wanted to hug, they wanted to dance, yet ... they never got the chance.\nOr, as that witch liked to say, \"you never TOOK your chance!\"\nThe witch came out of nowhere, like a silent stranger\nShe took one look, spoke magic words from a magic book, and everything started changing.\nSuddenly the two lovers could not look each other in the eye!\nInstead, the witch proclaimed, you must take a leap of faith\nThe only way to pass each stage, is by stepping backwards from a great height\nFalling into your lovers arms, that's how love will bloom tonight ...\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNTIwMzU1LzI3MDk3MzAucG5n/original/yHZewg.png",
+          "https://img.itch.zone/aW1hZ2UvNTIwMzU1LzI5MzczODYucG5n/original/%2Fr031A.png",
+          "https://img.itch.zone/aW1hZ2UvNTIwMzU1LzI5MzczOTQucG5n/original/tvWSq8.png",
+          "https://img.itch.zone/aW1hZ2UvNTIwMzU1LzI5MzczODcucG5n/original/6oAXZJ.png",
+          "https://img.itch.zone/aW1hZ2UvNTIwMzU1LzI5MzczOTMucG5n/original/Rn9zdb.png",
+          "https://img.itch.zone/aW1hZ2UvNTIwMzU1LzI5MzczOTAucG5n/original/Gox8QA.png",
+          "https://img.itch.zone/aW1hZ2UvNTIwMzU1LzI5MzczODgucG5n/original/%2BZmRqg.png",
+          "https://img.itch.zone/aW1hZ2UvNTIwMzU1LzI5MzczODkucG5n/original/F%2Fpsr%2F.png",
+          "https://img.itch.zone/aW1hZ2UvNTIwMzU1LzI5MzczOTcucG5n/original/dBZY%2FW.png",
+          "https://img.itch.zone/aW1hZ2UvNTIwMzU1LzI5MzczOTIucG5n/original/Hqxt6W.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS, Linux, Android",
+          "Author": "Pandaqi",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "2D, Co-op, Isometric, love, Multiplayer, Relaxing, story",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Touchscreen",
+          "Multiplayer": "Local multiplayer",
+          "Player count": "1 - 2"
+        }
+      }
+    },
+    {
+      "gameId": 526993,
+      "gameUrl": "https://harper-rhett.itch.io/leap-theory",
+      "overallRank": 21,
+      "topCategories": [
+        "Audio"
+      ],
+      "resultData": {
+        "id": 526993,
+        "score": 3.6153846153846,
+        "cover_url": "https://img.itch.zone/aW1nLzI3NDI5MDguZ2lm/300x240%23c/%2FhBLKD.gif",
+        "raw_score": 3.6153846153846,
+        "rating_count": 26,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 3.6153846153846,
+            "raw_score": 3.6153846153846,
+            "rank": 21
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.8461538461538,
+            "raw_score": 3.8461538461538,
+            "rank": 12
+          },
+          {
+            "name": "Graphics",
+            "score": 3.1153846153846,
+            "raw_score": 3.1153846153846,
+            "rank": 71
+          },
+          {
+            "name": "Audio",
+            "score": 3.8846153846154,
+            "raw_score": 3.8846153846154,
+            "rank": 7
+          },
+          {
+            "name": "Innovation",
+            "score": 3.4615384615385,
+            "raw_score": 3.4615384615385,
+            "rank": 39
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 3.6538461538462,
+            "raw_score": 3.6538461538462,
+            "rank": 29
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Harper Rhett",
+            "id": 1807227
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2019/rate/526993",
+        "rank": 21,
+        "title": "Leap Theory"
+      },
+      "entryData": {
+        "rating_count": 26,
+        "created_at": "2019-12-01 18:03:29",
+        "coolness": 50,
+        "id": 98292,
+        "url": "/jam/game-off-2019/rate/526993",
+        "game": {
+          "cover_color": "#000000",
+          "url": "https://harper-rhett.itch.io/leap-theory",
+          "short_text": "If Asteroids was a glitchy RPG.",
+          "user": {
+            "name": "Harper Rhett",
+            "url": "https://harper-rhett.itch.io",
+            "id": 1807227
+          },
+          "platforms": [
+            "windows"
+          ],
+          "title": "Leap Theory",
+          "id": 526993,
+          "gif_cover": "https://img.itch.zone/aW1nLzI3NDI5MDguZ2lm/original/XAnJwA.gif",
+          "cover": "https://img.itch.zone/aW1nLzI3NDI5MDguZ2lm/300x240%23c/%2FhBLKD.gif"
+        }
+      },
+      "details": {
+        "title": "Leap Theory",
+        "description": "Travel through space and unlock abilities as an Asteroids-style character in a very short series of levels!\nThis game was made for the Git Hub Game Off.Extract the zip file and open \"Warp Theory.exe\".",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNTI2OTkzLzI3Mzg1NjYucG5n/original/cavaHo.png",
+          "https://img.itch.zone/aW1hZ2UvNTI2OTkzLzI3MzgyMjcucG5n/original/7l9uBY.png",
+          "https://img.itch.zone/aW1hZ2UvNTI2OTkzLzI3MzgyMjYucG5n/original/l2oCpS.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Author": "Harper Rhett",
+          "Genre": "Action",
+          "Made with": "GameMaker",
+          "Tags": "Asteroids, Retro, Space, spaceship",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 527161,
+      "gameUrl": "https://quiji.itch.io/the-masked-man",
+      "overallRank": 20,
+      "topCategories": [
+        "Audio"
+      ],
+      "resultData": {
+        "id": 527161,
+        "score": 3.6363636363636,
+        "cover_url": "https://img.itch.zone/aW1nLzI3MzkyMjMucG5n/300x240%23c/1l2xM6.png",
+        "raw_score": 3.6363636363636,
+        "rating_count": 11,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 3.6363636363636,
+            "raw_score": 3.6363636363636,
+            "rank": 20
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.6363636363636,
+            "raw_score": 3.6363636363636,
+            "rank": 21
+          },
+          {
+            "name": "Graphics",
+            "score": 3.8181818181818,
+            "raw_score": 3.8181818181818,
+            "rank": 19
+          },
+          {
+            "name": "Audio",
+            "score": 3.8181818181818,
+            "raw_score": 3.8181818181818,
+            "rank": 10
+          },
+          {
+            "name": "Innovation",
+            "score": 2.8181818181818,
+            "raw_score": 2.8181818181818,
+            "rank": 71
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 3.3636363636364,
+            "raw_score": 3.3636363636364,
+            "rank": 45
+          }
+        ],
+        "contributors": [
+          {
+            "name": "quiji",
+            "id": 843981
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2019/rate/527161",
+        "rank": 20,
+        "title": "The Masked Man"
+      },
+      "entryData": {
+        "rating_count": 11,
+        "created_at": "2019-12-01 21:06:18",
+        "coolness": 9,
+        "id": 98389,
+        "url": "/jam/game-off-2019/rate/527161",
+        "game": {
+          "cover_color": "#2a2f65",
+          "id": 527161,
+          "user": {
+            "name": "quiji",
+            "url": "https://quiji.itch.io",
+            "id": 843981
+          },
+          "url": "https://quiji.itch.io/the-masked-man",
+          "short_text": "Short game for Githubs Game off 2019",
+          "title": "The Masked Man",
+          "platforms": [
+            "windows",
+            "linux"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI3MzkyMjMucG5n/300x240%23c/1l2xM6.png"
+        }
+      },
+      "details": {
+        "title": "The Masked Man",
+        "description": "Short action platformer for the Github Game off 2019 game jam.\nThe game contains a tutorial. Joypads can be used, and its recommended.\nCredits:\n- Nightmare font from  EEve. Follow at @somepx\n- Sound design using samples from GDC's audio library.\n- Art, Music, Sound Design, Code and Game Design by Erick Quijivix. Follow at @Quijipixel.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNTI3MTYxLzI3NDk3MjkucG5n/original/nfQo72.png",
+          "https://img.itch.zone/aW1hZ2UvNTI3MTYxLzI3NDk3MzIucG5n/original/U4hvF2.png",
+          "https://img.itch.zone/aW1hZ2UvNTI3MTYxLzI3NDk3MzEucG5n/original/Czcb9i.png",
+          "https://img.itch.zone/aW1hZ2UvNTI3MTYxLzI3NDk3NjIucG5n/original/VEP2hq.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, Linux",
+          "Author": "quiji",
+          "Genre": "Platformer, Action",
+          "Tags": "2D, Pixel Art"
+        }
+      }
+    },
+    {
+      "gameId": 526327,
+      "gameUrl": "https://jontopielski.itch.io/hops-and-harmony",
+      "overallRank": 30,
+      "topCategories": [
+        "Audio"
+      ],
+      "resultData": {
+        "id": 526327,
+        "score": 3.5,
+        "cover_url": "https://img.itch.zone/aW1nLzI3Mzg0NDguZ2lm/300x240%23c/3yGN8a.gif",
+        "raw_score": 3.5,
+        "rating_count": 16,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 3.5,
+            "raw_score": 3.5,
+            "rank": 30
+          },
+          {
+            "name": "Gameplay",
+            "score": 3,
+            "raw_score": 3,
+            "rank": 56
+          },
+          {
+            "name": "Graphics",
+            "score": 3.3125,
+            "raw_score": 3.3125,
+            "rank": 57
+          },
+          {
+            "name": "Audio",
+            "score": 3.8125,
+            "raw_score": 3.8125,
+            "rank": 11
+          },
+          {
+            "name": "Innovation",
+            "score": 2.75,
+            "raw_score": 2.75,
+            "rank": 76
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 2.8125,
+            "raw_score": 2.8125,
+            "rank": 83
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Jon Topielski",
+            "id": 1525436
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2019/rate/526327",
+        "rank": 30,
+        "title": "Hops and Harmony"
+      },
+      "entryData": {
+        "rating_count": 16,
+        "created_at": "2019-11-30 18:12:18",
+        "coolness": 13,
+        "id": 98025,
+        "url": "/jam/game-off-2019/rate/526327",
+        "game": {
+          "cover_color": "#3490de",
+          "url": "https://jontopielski.itch.io/hops-and-harmony",
+          "short_text": "when in doubt, hop about",
+          "user": {
+            "name": "Jon Topielski",
+            "url": "https://jontopielski.itch.io",
+            "id": 1525436
+          },
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "title": "Hops and Harmony",
+          "id": 526327,
+          "gif_cover": "https://img.itch.zone/aW1nLzI3Mzg0NDguZ2lm/original/ooZgyc.gif",
+          "cover": "https://img.itch.zone/aW1nLzI3Mzg0NDguZ2lm/300x240%23c/3yGN8a.gif"
+        }
+      },
+      "details": {
+        "title": "Hops and Harmony",
+        "description": "Harley was stuck in her rabbit hole her whole life. Finally she's old enough to go outside and explore the world around her.  What can she learn from going outside?\nSource Code | Soundtrack | Twitter\n---\nDec 2, 2019: Made platforming slightly easier. Original jam build still available in downloads.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNTI2MzI3LzI3MzgyMDMuZ2lm/original/UDFOvn.gif",
+          "https://img.itch.zone/aW1hZ2UvNTI2MzI3LzI3MzgyNTIuZ2lm/original/qtgJWc.gif",
+          "https://img.itch.zone/aW1hZ2UvNTI2MzI3LzI3MzgxMTUuZ2lm/original/Xnm1ur.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Author": "Jon Topielski",
+          "Genre": "Adventure, Interactive Fiction, Platformer, Visual Novel",
+          "Made with": "Godot",
+          "Tags": "2D, Atmospheric, Casual, Cute, Singleplayer",
+          "Average session": "About a half-hour"
+        }
+      }
+    },
+    {
+      "gameId": 526881,
+      "gameUrl": "https://nickykendy.itch.io/gameoff2019-paper-house",
+      "overallRank": 28,
+      "topCategories": [
+        "Innovation"
+      ],
+      "resultData": {
+        "id": 526881,
+        "score": 3.5294117647059,
+        "cover_url": "https://img.itch.zone/aW1nLzI3Mzc1MTQucG5n/300x240%23c/74gXr8.png",
+        "raw_score": 3.5294117647059,
+        "rating_count": 17,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 3.5294117647059,
+            "raw_score": 3.5294117647059,
+            "rank": 28
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.6470588235294,
+            "raw_score": 3.6470588235294,
+            "rank": 19
+          },
+          {
+            "name": "Graphics",
+            "score": 3.1176470588235,
+            "raw_score": 3.1176470588235,
+            "rank": 70
+          },
+          {
+            "name": "Audio",
+            "score": 2.7058823529412,
+            "raw_score": 2.7058823529412,
+            "rank": 84
+          },
+          {
+            "name": "Innovation",
+            "score": 4.4117647058824,
+            "raw_score": 4.4117647058824,
+            "rank": 3
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 3.8235294117647,
+            "raw_score": 3.8235294117647,
+            "rank": 15
+          }
+        ],
+        "contributors": [
+          {
+            "name": "NickyKendy Hua",
+            "id": 161940
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2019/rate/526881",
+        "rank": 28,
+        "title": "Paper House"
+      },
+      "entryData": {
+        "rating_count": 17,
+        "created_at": "2019-12-01 15:57:04",
+        "coolness": 23,
+        "id": 98221,
+        "url": "/jam/game-off-2019/rate/526881",
+        "game": {
+          "url": "https://nickykendy.itch.io/gameoff2019-paper-house",
+          "user": {
+            "name": "NickyKendy Hua",
+            "url": "https://nickykendy.itch.io",
+            "id": 161940
+          },
+          "id": 526881,
+          "short_text": "A game made for GAMEOFF2019",
+          "title": "Paper House",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI3Mzc1MTQucG5n/300x240%23c/74gXr8.png"
+        }
+      },
+      "details": {
+        "title": "Paper House",
+        "description": "Here we are, at the GameOff 2019. One month, one game, and one me doing this alone.\nThis is the second time I ever in a game jam, last time was LD45, and it didn't end well for me.\nBack to the game. It's a combination of platformer and topdown genre. The main goal is to through the door of every level. And you can see a key or a pin-pad in every room, but how to get it is what you have to think.\nGithub:\nhttps://github.com/nickykendy/GameOff2019/releases/tag/1.0\nControl:\nuse WASD / Left Joystick to move the character;\nuse J / Space / xbox A to Jump when you can jump;\nuse H / xbox X to interact with things in the game;\nuse Tab / xbox RB to change the genre;\nuse Esc to quit the game;\nuse Z / xbox Option to toggle fullscreen;\nuse R / xbox Start to restart current level in case you stuck with bug.\nHope you guys enjoy it!\nLog:\nChange the win.rar with win.zip,.\nAdd the linux.zip. But since I don't have a linux pc, so I don't if it works. The contents are still the same.\nAdd the html version.\nAdd BGM and cracking sound.\nFix some bugs.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNTI2ODgxLzI3Mzc1NDYucG5n/original/Pvglt1.png",
+          "https://img.itch.zone/aW1hZ2UvNTI2ODgxLzI3Mzc1NDgucG5n/original/tvPCxQ.png",
+          "https://img.itch.zone/aW1hZ2UvNTI2ODgxLzI3Mzc1NDkucG5n/original/A4zsSX.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Author": "NickyKendy Hua",
+          "Genre": "Platformer",
+          "Tags": "gameoff2019"
+        }
+      }
+    },
+    {
+      "gameId": 526563,
+      "gameUrl": "https://bethfromabove.itch.io/relatively-special-deliveries",
+      "overallRank": 68,
+      "topCategories": [
+        "Innovation"
+      ],
+      "resultData": {
+        "id": 526563,
+        "score": 3,
+        "cover_url": "https://img.itch.zone/aW1nLzI3MzU4MzkucG5n/300x240%23c/M9hwUG.png",
+        "raw_score": 3,
+        "rating_count": 12,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 3,
+            "raw_score": 3,
+            "rank": 68
+          },
+          {
+            "name": "Gameplay",
+            "score": 2.5,
+            "raw_score": 2.5,
+            "rank": 112
+          },
+          {
+            "name": "Graphics",
+            "score": 2.9166666666667,
+            "raw_score": 2.9166666666667,
+            "rank": 91
+          },
+          {
+            "name": "Audio",
+            "score": 3.4166666666667,
+            "raw_score": 3.4166666666667,
+            "rank": 26
+          },
+          {
+            "name": "Innovation",
+            "score": 4.0833333333333,
+            "raw_score": 4.0833333333333,
+            "rank": 4
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 3.4166666666667,
+            "raw_score": 3.4166666666667,
+            "rank": 44
+          }
+        ],
+        "contributors": [
+          {
+            "name": "BethFromAbove",
+            "id": 1887296
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2019/rate/526563",
+        "rank": 68,
+        "title": "Relatively Special Deliveries"
+      },
+      "entryData": {
+        "rating_count": 12,
+        "created_at": "2019-12-01 02:59:57",
+        "coolness": 10,
+        "id": 98117,
+        "url": "/jam/game-off-2019/rate/526563",
+        "game": {
+          "url": "https://bethfromabove.itch.io/relatively-special-deliveries",
+          "user": {
+            "name": "BethFromAbove",
+            "url": "https://bethfromabove.itch.io",
+            "id": 1887296
+          },
+          "id": 526563,
+          "short_text": "Delivering the packages of today - tomorrow!",
+          "title": "Relatively Special Deliveries",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI3MzU4MzkucG5n/300x240%23c/M9hwUG.png"
+        }
+      },
+      "details": {
+        "title": "Relatively Special Deliveries",
+        "description": "Relatively Special Deliveries - Delivering the packages of today - tomorrow!\nThanks to Einstein’s Special Relativity, time slows down for a traveller moving at near light speed. We make use of this property of space-time, plus our expendable employees, to run your future errands!\nThat’s right, for only a handful of SpaceBucks, we will plunge into the far-flung future to deliver things on your behalf. Worried about forgetting your anniversary in 10 years? We’re on it! Want to send a birthday present to your great-great-great-grand daughter? Look no further!\nWith Relatively Special Deliveries, the future is now!\n-----------------------------------\nAll trips are one-way, travelling back in time is not possible with our current understanding of physics. RSD is not responsible for any loss of goods or personnel due to cataclysmic future events.------------------------------------This game uses real physics to calculate the difference in time experienced by a stationary person and a person moving at near light speeds. This is called Time Dilation and was predicted by Einstein's Special Relativity.Time dilation is calculated using the following: delta_t = delta_tau/(sqrt(1-(v^2/c^2))) where delta_t is the time on Earth, delta_tau is the time on the rocket, v is the speed of the rocket and c is the speed of light in a vaccuum. As the speed of the rocket approaches the speed of light, time slows down for them exponentially, allowing them to travel far into the future.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNTI2NTYzLzI3MzU4NTYucG5n/original/Zczp9S.png",
+          "https://img.itch.zone/aW1hZ2UvNTI2NTYzLzI3MzU4NTcucG5n/original/lQKzNk.png",
+          "https://img.itch.zone/aW1hZ2UvNTI2NTYzLzI3MzU4NTgucG5n/original/cbm9Zo.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "BethFromAbove",
+          "Genre": "Simulation",
+          "Tags": "Math, Physics, Sci-fi, Space, special-relativity, Time Travel"
+        }
+      }
+    },
+    {
+      "gameId": 526626,
+      "gameUrl": "https://katielg.itch.io/the-hair-quest",
+      "overallRank": 26,
+      "topCategories": [
+        "Innovation"
+      ],
+      "resultData": {
+        "id": 526626,
+        "score": 3.5454545454545,
+        "cover_url": "https://img.itch.zone/aW1nLzI3MzU5MDIucG5n/300x240%23c/USEoFn.png",
+        "raw_score": 3.5454545454545,
+        "rating_count": 11,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 3.5454545454545,
+            "raw_score": 3.5454545454545,
+            "rank": 26
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.6363636363636,
+            "raw_score": 3.6363636363636,
+            "rank": 21
+          },
+          {
+            "name": "Graphics",
+            "score": 2.7272727272727,
+            "raw_score": 2.7272727272727,
+            "rank": 102
+          },
+          {
+            "name": "Audio",
+            "score": 3.6363636363636,
+            "raw_score": 3.6363636363636,
+            "rank": 16
+          },
+          {
+            "name": "Innovation",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 8
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 3.8181818181818,
+            "raw_score": 3.8181818181818,
+            "rank": 16
+          }
+        ],
+        "contributors": [
+          {
+            "name": "KatieLG",
+            "id": 1829361
+          },
+          {
+            "name": "TJSteel",
+            "id": 1917367
+          },
+          {
+            "name": "jpmensching",
+            "id": 1403239
+          },
+          {
+            "name": "Matt Stevens",
+            "id": 1501837
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2019/rate/526626",
+        "rank": 26,
+        "title": "The Hair Quest"
+      },
+      "entryData": {
+        "rating_count": 11,
+        "created_at": "2019-12-01 03:47:02",
+        "coolness": 14,
+        "id": 98124,
+        "url": "/jam/game-off-2019/rate/526626",
+        "contributors": [
+          {
+            "name": "KatieLG",
+            "url": "https://katielg.itch.io"
+          },
+          {
+            "name": "TJSteel",
+            "url": "https://tjsteel.itch.io"
+          },
+          {
+            "name": "jpmensching",
+            "url": "https://jpmensching.itch.io"
+          },
+          {
+            "name": "Matt Stevens",
+            "url": "https://mattstevens.itch.io"
+          }
+        ],
+        "game": {
+          "cover_color": "#6e6e6e",
+          "user": {
+            "name": "KatieLG",
+            "url": "https://katielg.itch.io",
+            "id": 1829361
+          },
+          "url": "https://katielg.itch.io/the-hair-quest",
+          "id": 526626,
+          "title": "The Hair Quest",
+          "platforms": [
+            "windows",
+            "osx",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI3MzU5MDIucG5n/300x240%23c/USEoFn.png"
+        }
+      },
+      "details": {
+        "title": "The Hair Quest",
+        "description": "You play physicist Dr. Rex \"Baldy\" Garibaldi on a dimension-hopping adventure to recover his beloved hairpiece, lost in a perilous journey to a hostile alternate universe!\nMade by:\nKatie Gardner - Code and Level Design\nJay Steel - Code and Level Design\nMatt - Art and Animation\nJ.P. Mensching - Music",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNTI2NjI2LzI3MzU5MTYuanBn/original/ZHIy8H.jpg",
+          "https://img.itch.zone/aW1hZ2UvNTI2NjI2LzI3MzU5MTcuanBn/original/j1VA6N.jpg",
+          "https://img.itch.zone/aW1hZ2UvNTI2NjI2LzI3MzU5MTkuanBn/original/XKtB15.jpg",
+          "https://img.itch.zone/aW1hZ2UvNTI2NjI2LzI3MzU5MTguanBn/original/w6YV6m.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS",
+          "Authors": "KatieLG, TJSteel, jpmensching, Matt Stevens",
+          "Genre": "Puzzle, Platformer",
+          "Made with": "Unity",
+          "Tags": "2D"
+        }
+      }
+    },
+    {
+      "gameId": 527075,
+      "gameUrl": "https://ronnie-sallan.itch.io/bounce",
+      "overallRank": 29,
+      "topCategories": [
+        "Innovation",
+        "Theme interpretation"
+      ],
+      "resultData": {
+        "id": 527075,
+        "score": 3.5263157894737,
+        "cover_url": "https://img.itch.zone/aW1nLzI4NzgyNzMucG5n/300x240%23c/RbhkJL.png",
+        "raw_score": 3.5263157894737,
+        "rating_count": 19,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 3.5263157894737,
+            "raw_score": 3.5263157894737,
+            "rank": 29
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.4736842105263,
+            "raw_score": 3.4736842105263,
+            "rank": 29
+          },
+          {
+            "name": "Graphics",
+            "score": 2.7894736842105,
+            "raw_score": 2.7894736842105,
+            "rank": 101
+          },
+          {
+            "name": "Audio",
+            "score": 2.5263157894737,
+            "raw_score": 2.5263157894737,
+            "rank": 100
+          },
+          {
+            "name": "Innovation",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 8
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 4.0526315789474,
+            "raw_score": 4.0526315789474,
+            "rank": 5
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Ronnie Sallan",
+            "id": 1935514
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2019/rate/527075",
+        "rank": 29,
+        "title": "BOUNCE"
+      },
+      "entryData": {
+        "rating_count": 19,
+        "created_at": "2019-12-01 19:21:16",
+        "coolness": 23,
+        "id": 98337,
+        "url": "/jam/game-off-2019/rate/527075",
+        "game": {
+          "cover_color": "#eeeeee",
+          "id": 527075,
+          "user": {
+            "name": "Ronnie Sallan",
+            "url": "https://ronnie-sallan.itch.io",
+            "id": 1935514
+          },
+          "url": "https://ronnie-sallan.itch.io/bounce",
+          "short_text": "Help the jumper stay in bounds",
+          "title": "BOUNCE",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI4NzgyNzMucG5n/300x240%23c/RbhkJL.png"
+        }
+      },
+      "details": {
+        "title": "BOUNCE",
+        "description": "Help the jumper reach the exit door by keeping it in bounds.\nCONTROLS\nJumper (RED)W, A, S, D or LEFT STICK to move SPACE BAR or LB/L1 to jumpBumper (YELLOW) MOUSE CURSOR or RIGHT STICK to move\nMISC.\nThis game was made for the Github 'Game Off 2019'.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNTI3MDc1LzI4NzU3NDEuZ2lm/original/7CG4rv.gif",
+          "https://img.itch.zone/aW1hZ2UvNTI3MDc1LzI4NzU3NDIuZ2lm/original/pNygcR.gif",
+          "https://img.itch.zone/aW1hZ2UvNTI3MDc1LzI4NzU3NDMuZ2lm/original/R4AvGK.gif"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Author": "Ronnie Sallan",
+          "Genre": "Platformer",
+          "Made with": "Unity",
+          "Tags": "2D, Colorful, Controller, gamepad, jumping, My First Game Jam, Puzzle-Platformer, Short, Singleplayer",
+          "Average session": "A few minutes",
+          "Inputs": "Keyboard, Mouse, Gamepad (any)"
+        }
+      }
+    },
+    {
+      "gameId": 525975,
+      "gameUrl": "https://maanooak.itch.io/leabound",
+      "overallRank": 16,
+      "topCategories": [
+        "Theme interpretation"
+      ],
+      "resultData": {
+        "id": 525975,
+        "score": 3.8181818181818,
+        "cover_url": "https://img.itch.zone/aW1nLzI3MzcxMzMucG5n/300x240%23c/jbZoub.png",
+        "raw_score": 3.8181818181818,
+        "rating_count": 11,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 3.8181818181818,
+            "raw_score": 3.8181818181818,
+            "rank": 16
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.8181818181818,
+            "raw_score": 3.8181818181818,
+            "rank": 14
+          },
+          {
+            "name": "Graphics",
+            "score": 3.2727272727273,
+            "raw_score": 3.2727272727273,
+            "rank": 60
+          },
+          {
+            "name": "Audio",
+            "score": 1.9090909090909,
+            "raw_score": 1.9090909090909,
+            "rank": 135
+          },
+          {
+            "name": "Innovation",
+            "score": 3.5454545454545,
+            "raw_score": 3.5454545454545,
+            "rank": 31
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 4.3636363636364,
+            "raw_score": 4.3636363636364,
+            "rank": 2
+          }
+        ],
+        "contributors": [
+          {
+            "name": "MaanooAk",
+            "id": 929883
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2019/rate/525975",
+        "rank": 16,
+        "title": "Leabound"
+      },
+      "entryData": {
+        "rating_count": 11,
+        "created_at": "2019-12-01 17:50:42",
+        "coolness": 5,
+        "id": 98271,
+        "url": "/jam/game-off-2019/rate/525975",
+        "game": {
+          "cover_color": "#000000",
+          "id": 525975,
+          "user": {
+            "name": "MaanooAk",
+            "url": "https://maanooak.itch.io",
+            "id": 929883
+          },
+          "url": "https://maanooak.itch.io/leabound",
+          "short_text": "Leap away form the closing in bound to the next one",
+          "title": "Leabound",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI3MzcxMzMucG5n/300x240%23c/jbZoub.png"
+        }
+      },
+      "details": {
+        "title": "Leabound",
+        "description": "Submission for Game Off 2019, made in a week.\n\"Leap away form the closing in bound to the next one\".\nThis a game where you crush the keyboard to mouse as fast as possible in order to collect as many \"parts\" as you can and leap before the bound closing in kills you.\n\nSource code at GitHub.com/MaanooAk/Leabound",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNTI1OTc1LzI3MzcyNDAuZ2lm/original/VfhSDS.gif",
+          "https://img.itch.zone/aW1hZ2UvNTI1OTc1LzI3MzcxNjQucG5n/original/QEgl9a.png",
+          "https://img.itch.zone/aW1hZ2UvNTI1OTc1LzI3MzcxNTkucG5n/original/oEHmb7.png",
+          "https://img.itch.zone/aW1hZ2UvNTI1OTc1LzI3MzcxNjAucG5n/original/CVqX4n.png",
+          "https://img.itch.zone/aW1hZ2UvNTI1OTc1LzI3MzcxNjIucG5n/original/ZiTRLH.png",
+          "https://img.itch.zone/aW1hZ2UvNTI1OTc1LzI3MzcxNjEucG5n/original/dxRunI.png",
+          "https://img.itch.zone/aW1hZ2UvNTI1OTc1LzI3MzcxNjMucG5n/original/sgoNba.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Author": "MaanooAk",
+          "Genre": "Puzzle, Action",
+          "Made with": "libGDX",
+          "Tags": "logic"
+        }
+      }
+    },
+    {
+      "gameId": 526368,
+      "gameUrl": "https://shoefishergames.itch.io/sumo-leap",
+      "overallRank": 30,
+      "topCategories": [
+        "Theme interpretation"
+      ],
+      "resultData": {
+        "id": 526368,
+        "score": 3.5,
+        "cover_url": "https://img.itch.zone/aW1nLzI3MzQ2NzYucG5n/300x240%23c/p0AdUm.png",
+        "raw_score": 3.5,
+        "rating_count": 10,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 3.5,
+            "raw_score": 3.5,
+            "rank": 30
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.4,
+            "raw_score": 3.4,
+            "rank": 30
+          },
+          {
+            "name": "Graphics",
+            "score": 3.7,
+            "raw_score": 3.7,
+            "rank": 27
+          },
+          {
+            "name": "Audio",
+            "score": 2.9,
+            "raw_score": 2.9,
+            "rank": 64
+          },
+          {
+            "name": "Innovation",
+            "score": 3.9,
+            "raw_score": 3.9,
+            "rank": 17
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 6
+          }
+        ],
+        "contributors": [
+          {
+            "name": "ShoeFisherGames",
+            "id": 1854378
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2019/rate/526368",
+        "rank": 30,
+        "title": "Sumo Leap"
+      },
+      "entryData": {
+        "rating_count": 10,
+        "created_at": "2019-11-30 19:59:59",
+        "coolness": 5,
+        "id": 98041,
+        "url": "/jam/game-off-2019/rate/526368",
+        "game": {
+          "url": "https://shoefishergames.itch.io/sumo-leap",
+          "user": {
+            "name": "ShoeFisherGames",
+            "url": "https://shoefishergames.itch.io",
+            "id": 1854378
+          },
+          "id": 526368,
+          "short_text": "What if sumo wrestlers could leap?",
+          "title": "Sumo Leap",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI3MzQ2NzYucG5n/300x240%23c/p0AdUm.png"
+        }
+      },
+      "details": {
+        "title": "Sumo Leap",
+        "description": "Sumo Leap is a game that imagines \"what if sumo wrestlers could only leap?\" It's created for the GitHub Game Off 2019 by Shoe Fisher Games. Add the natural bounds of sumo wresting in the mix and the Game Off 2019 theme of \"Leaps and Bounds\" is met!\nIf you like this game, let us know by rating it, commenting on it, or by following us on Twitter or Facebook. If we get lots of positive feedback we might continue to make this a fully featured couch coop game, where we would head in the direction of\nMore charactersMore arenasMore game modesEnhanced controlsPowerups in dangerous placesSmarter AICouch coop\nNico and Gertjan form Shoe Fisher Games, we are indie developers from the Netherlands who create a little game called WanderOut in our spare time.\nLicensed under the CC BY-NC-SA 4.0. You can find the GitHub repository at https://github.com/shoefishergames/sumo-leap. Created using the excellent Godot engine.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNTI2MzY4LzI3MzQ2MTQucG5n/original/lI0cVS.png",
+          "https://img.itch.zone/aW1hZ2UvNTI2MzY4LzI3MzQ2MTcucG5n/original/kalyOV.png",
+          "https://img.itch.zone/aW1hZ2UvNTI2MzY4LzI3MzQ2MTYucG5n/original/8Ydje9.png",
+          "https://img.itch.zone/aW1hZ2UvNTI2MzY4LzI3MzQ2MTUucG5n/original/mY1QBe.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "ShoeFisherGames",
+          "Genre": "Fighting",
+          "Tags": "3D, Arcade, game-off, Godot, Short, Singleplayer, sumo, sumo-leap"
+        }
+      }
+    },
+    {
+      "gameId": 526659,
+      "gameUrl": "https://fluentlystudios.itch.io/leap-and-bound",
+      "overallRank": 48,
+      "topCategories": [
+        "Theme interpretation"
+      ],
+      "resultData": {
+        "id": 526659,
+        "score": 3.25,
+        "cover_url": "https://img.itch.zone/aW1nLzI3MzYxMDMucG5n/300x240%23c/uGrJrG.png",
+        "raw_score": 3.25,
+        "rating_count": 12,
+        "criteria": [
+          {
+            "name": "Overall",
+            "score": 3.25,
+            "raw_score": 3.25,
+            "rank": 48
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.3333333333333,
+            "raw_score": 3.3333333333333,
+            "rank": 36
+          },
+          {
+            "name": "Graphics",
+            "score": 3.0833333333333,
+            "raw_score": 3.0833333333333,
+            "rank": 77
+          },
+          {
+            "name": "Audio",
+            "score": 2.75,
+            "raw_score": 2.75,
+            "rank": 79
+          },
+          {
+            "name": "Innovation",
+            "score": 3.5,
+            "raw_score": 3.5,
+            "rank": 34
+          },
+          {
+            "name": "Theme interpretation",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 6
+          }
+        ],
+        "contributors": [
+          {
+            "name": "FluentlyStudios",
+            "id": 1670293
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2019/rate/526659",
+        "rank": 48,
+        "title": "Leap and Bound"
+      },
+      "entryData": {
+        "rating_count": 12,
+        "created_at": "2019-12-01 06:13:50",
+        "coolness": 0,
+        "id": 98149,
+        "url": "/jam/game-off-2019/rate/526659",
+        "game": {
+          "user": {
+            "name": "FluentlyStudios",
+            "url": "https://fluentlystudios.itch.io",
+            "id": 1670293
+          },
+          "id": 526659,
+          "url": "https://fluentlystudios.itch.io/leap-and-bound",
+          "title": "Leap and Bound",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI3MzYxMDMucG5n/300x240%23c/uGrJrG.png"
+        }
+      },
+      "details": {
+        "title": "Leap and Bound",
+        "description": "A game made for Game Off.\nSwitching between 2 playable character leap and bound to solve puzzles.  I spent around a week to build the game.\nFor leap:\nleft/right move\nc jump\nFor bound:\na/d move\nspace to switch between characters\nThere is a few bugs left in the game\nAnyway hope you like it and please leave feedback! :D",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNTI2NjU5LzI3MzYxMTUucG5n/original/PFQzNl.png",
+          "https://img.itch.zone/aW1hZ2UvNTI2NjU5LzI3MzYxMTYucG5n/original/zTGlxD.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Author": "FluentlyStudios",
+          "Genre": "Platformer, Puzzle",
+          "Made with": "Unity",
+          "Tags": "2D, Pixel Art, Puzzle-Platformer"
+        }
+      }
+    }
+  ]
+}

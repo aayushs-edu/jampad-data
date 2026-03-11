@@ -1,0 +1,2883 @@
+{
+  "n": 77,
+  "name": "GDevelop BIG Game Jam #7",
+  "url": "https://itch.io/jam/gdevelop-big-game-jam-7",
+  "theme": "Overpowered",
+  "slug": "gdevelop-big-game-jam-7",
+  "jamMeta": {
+    "jamType": "ended",
+    "ratings": "9,709",
+    "entries": "380",
+    "title": "GDevelop BIG Game Jam #7",
+    "jamURL": "https://itch.io/jam/gdevelop-big-game-jam-7",
+    "hosts": {
+      "GDevelop": "https://gdevelopapp.itch.io",
+      "HelperWesley": "https://helperwesley.itch.io",
+      "#GDevelopGameJam7": "https://bsky.app/hashtag/GDevelopGameJam7"
+    },
+    "jamID": "403973"
+  },
+  "totalEntries": 366,
+  "ranked": true,
+  "hasCategories": true,
+  "needsManualSelection": false,
+  "categories": [
+    "Fun & Game Design",
+    "Originality & Innovation",
+    "Theme",
+    "Audio",
+    "Graphics"
+  ],
+  "topGames": [
+    {
+      "gameId": 3588857,
+      "gameUrl": "https://sleepingcolossus.itch.io/over-the-top",
+      "overallRank": 1,
+      "topCategories": [
+        "Fun & Game Design",
+        "Originality & Innovation",
+        "Theme",
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIxMzYwMjQwLnBuZw==/300x240%23c/byxWAJ.png",
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-7/rate/3588857",
+        "criteria": [
+          {
+            "name": "Fun & Game Design",
+            "score": 3.9824561403509,
+            "rank": 1,
+            "raw_score": 3.9824561403509
+          },
+          {
+            "name": "Originality & Innovation",
+            "score": 3.8245614035088,
+            "rank": 7,
+            "raw_score": 3.8245614035088
+          },
+          {
+            "name": "Theme",
+            "score": 4.0877192982456,
+            "rank": 1,
+            "raw_score": 4.0877192982456
+          },
+          {
+            "name": "Audio",
+            "score": 3.4385964912281,
+            "rank": 7,
+            "raw_score": 3.4385964912281
+          },
+          {
+            "name": "Graphics",
+            "score": 4.0175438596491,
+            "rank": 12,
+            "raw_score": 4.0175438596491
+          }
+        ],
+        "raw_score": 3.8701754385965,
+        "rating_count": 57,
+        "id": 3588857,
+        "title": "Over The Top (Game Jam Submission)",
+        "score": 3.8701754385965,
+        "rank": 1,
+        "contributors": [
+          {
+            "name": "Sleeping Colossus",
+            "id": 2818909
+          }
+        ]
+      },
+      "entryData": {
+        "coolness": 200,
+        "created_at": "2025-05-25 18:21:51",
+        "id": 702314,
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Sleeping Colossus",
+            "url": "https://sleepingcolossus.itch.io",
+            "id": 2818909
+          },
+          "url": "https://sleepingcolossus.itch.io/over-the-top",
+          "title": "Over The Top (Game Jam Submission)",
+          "id": 3588857,
+          "cover": "https://img.itch.zone/aW1nLzIxMzYwMjQwLnBuZw==/300x240%23c/byxWAJ.png",
+          "cover_color": "#343A83"
+        },
+        "url": "/jam/gdevelop-big-game-jam-7/rate/3588857",
+        "rating_count": 57
+      },
+      "details": {
+        "title": "Over The Top (Game Jam Submission)",
+        "description": "OVER THE TOP\nSubmission for GDevelop's Big Game Jam #7\nTheme: OverpoweredAbout the game\nCompete against 8 unique opponents to become the arm wrestling World Champion!Controls\nControls are explained via in-game tutorial\nKey      | Action\n---------|-------\nQ        | Push\nSpace    | Hold\nEsc      | Back to menu\nNavigate with mouseTools\nGDevelop - Game engineAffinity Designer - GraphicsFL Studio - AudioAsset Forge Deluxe - 3D mockupsAdditional Credits\nSome sound effects featured in the game are 3rd party assets purchased from GameDev Market",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzU4ODg1Ny8yMTM2MDMzMS5wbmc=/original/NaV978.png",
+          "https://img.itch.zone/aW1hZ2UvMzU4ODg1Ny8yMTM2MDMzMy5wbmc=/original/KhH8yV.png",
+          "https://img.itch.zone/aW1hZ2UvMzU4ODg1Ny8yMTM2MDMzMi5wbmc=/original/FNau2m.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Sleeping Colossus",
+          "Genre": "Sports, Action",
+          "Made with": "GDevelop",
+          "Tags": "2D, Arcade, Casual, Characters, Destruction, Game Jam, gdevelop, Indie"
+        }
+      }
+    },
+    {
+      "gameId": 3588783,
+      "gameUrl": "https://niko-no.itch.io/wormup",
+      "overallRank": 6,
+      "topCategories": [
+        "Fun & Game Design",
+        "Originality & Innovation",
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIxMzYwMjUyLnBuZw==/300x240%23c/gE857z.png",
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-7/rate/3588783",
+        "criteria": [
+          {
+            "name": "Fun & Game Design",
+            "score": 3.9512195121951,
+            "rank": 2,
+            "raw_score": 3.9512195121951
+          },
+          {
+            "name": "Audio",
+            "score": 3.4878048780488,
+            "rank": 5,
+            "raw_score": 3.4878048780488
+          },
+          {
+            "name": "Originality & Innovation",
+            "score": 4.0975609756098,
+            "rank": 1,
+            "raw_score": 4.0975609756098
+          },
+          {
+            "name": "Theme",
+            "score": 2.9512195121951,
+            "rank": 51,
+            "raw_score": 2.9512195121951
+          },
+          {
+            "name": "Graphics",
+            "score": 3.8536585365854,
+            "rank": 21,
+            "raw_score": 3.8536585365854
+          }
+        ],
+        "raw_score": 3.6682926829268,
+        "rating_count": 41,
+        "id": 3588783,
+        "title": "Wormup",
+        "score": 3.6682926829268,
+        "rank": 6,
+        "contributors": [
+          {
+            "name": "Niko",
+            "id": 6345675
+          }
+        ]
+      },
+      "entryData": {
+        "coolness": 13,
+        "created_at": "2025-05-25 18:44:22",
+        "id": 702351,
+        "game": {
+          "title": "Wormup",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Niko",
+            "url": "https://niko-no.itch.io",
+            "id": 6345675
+          },
+          "url": "https://niko-no.itch.io/wormup",
+          "short_text": "You are a worm with great ambitions",
+          "id": 3588783,
+          "cover": "https://img.itch.zone/aW1nLzIxMzYwMjUyLnBuZw==/300x240%23c/gE857z.png",
+          "cover_color": "#bd803c"
+        },
+        "url": "/jam/gdevelop-big-game-jam-7/rate/3588783",
+        "rating_count": 41
+      },
+      "details": {
+        "title": "Wormup",
+        "description": "A game about a worm doing worm things :)ControlsMove around: Hold LBM (left mouse button)Other abilities: RMB (right mouse button ) or Quick-Click LMB Reset to checkpoint: R (just in case)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzU4ODc4My8yMTM2MTI2OS5wbmc=/original/LYh0Nc.png",
+          "https://img.itch.zone/aW1hZ2UvMzU4ODc4My8yMTM2MTI3MS5wbmc=/original/MZWBCa.png",
+          "https://img.itch.zone/aW1hZ2UvMzU4ODc4My8yMTM2MTI3MC5wbmc=/original/j3ilHQ.png",
+          "https://img.itch.zone/aW1hZ2UvMzU4ODc4My8yMTM2MTMwMi5wbmc=/original/qKv7w6.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Author": "Niko",
+          "Genre": "Platformer, Adventure",
+          "Made with": "Aseprite, Audacity, GDevelop",
+          "Tags": "Cute, Metroidvania, Mouse only, No AI, Physics, Pixel Art, Short, Simple, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 3587936,
+      "gameUrl": "https://madfroggy.itch.io/che4t-eng1neer3d",
+      "overallRank": 5,
+      "topCategories": [
+        "Fun & Game Design",
+        "Originality & Innovation",
+        "Theme",
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIxMzU0NDcyLmpwZw==/300x240%23c/6x39Eb.jpg",
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-7/rate/3587936",
+        "criteria": [
+          {
+            "name": "Fun & Game Design",
+            "score": 3.8974358974359,
+            "rank": 3,
+            "raw_score": 3.8974358974359
+          },
+          {
+            "name": "Audio",
+            "score": 3.4102564102564,
+            "rank": 9,
+            "raw_score": 3.4102564102564
+          },
+          {
+            "name": "Graphics",
+            "score": 3.4615384615385,
+            "rank": 52,
+            "raw_score": 3.4615384615385
+          },
+          {
+            "name": "Originality & Innovation",
+            "score": 3.8717948717949,
+            "rank": 6,
+            "raw_score": 3.8717948717949
+          },
+          {
+            "name": "Theme",
+            "score": 3.8461538461538,
+            "rank": 4,
+            "raw_score": 3.8461538461538
+          }
+        ],
+        "raw_score": 3.6974358974359,
+        "rating_count": 39,
+        "id": 3587936,
+        "title": "CHE4T ENG1NEER3D",
+        "score": 3.6974358974359,
+        "rank": 5,
+        "contributors": [
+          {
+            "name": "MADFROGGY",
+            "id": 10078192
+          }
+        ]
+      },
+      "entryData": {
+        "coolness": 50,
+        "created_at": "2025-05-25 14:27:14",
+        "id": 702041,
+        "game": {
+          "title": "CHE4T ENG1NEER3D",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "MADFROGGY",
+            "url": "https://madfroggy.itch.io",
+            "id": 10078192
+          },
+          "url": "https://madfroggy.itch.io/che4t-eng1neer3d",
+          "short_text": "HACK IT. OVERPOWER IT.",
+          "id": 3587936,
+          "cover": "https://img.itch.zone/aW1nLzIxMzU0NDcyLmpwZw==/300x240%23c/6x39Eb.jpg",
+          "cover_color": "#000000"
+        },
+        "url": "/jam/gdevelop-big-game-jam-7/rate/3587936",
+        "rating_count": 39
+      },
+      "details": {
+        "title": "CHE4T ENG1NEER3D",
+        "description": "\n\nHACK IT. OVERPOWER IT.\nCHE4T ENG1NEER3D was made for the GDevelop BIG game jam #7, the link is here.\nThis is CHE4T ENG1NEER3D, a cool top-down, 8-bit game where you hack the game to gain the upper hand. This game was made for the GDevelop BIG Game Jam #7. I think that overall, I did pretty good for my first game jam as I was able to produce a finished product that I'm very happy with. Make sure to rate the game, and I hope that all of you enjoy!Also thank you to FunnyBringus for making all of the music for the game!\nUpdate: CHE4T ENG1NEER3D is #5 community voted  for the GDevelop game jam!\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzU4NzkzNi8yMTM1NDk5OS5qcGc=/original/Srx%2BGM.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzU4NzkzNi8yMTM1NDU5Ni5wbmc=/original/Tz3y4z.png",
+          "https://img.itch.zone/aW1hZ2UvMzU4NzkzNi8yMTM1NDU5Ny5wbmc=/original/TpnyC9.png",
+          "https://img.itch.zone/aW1hZ2UvMzU4NzkzNi8yMTM1NDU5NS5wbmc=/original/OL9WtJ.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "MADFROGGY",
+          "Genre": "Action",
+          "Made with": "GDevelop",
+          "Tags": "8-Bit, funnybingus, gdevelop, Hacking, madfroggy, My First Game Jam, Top-Down"
+        }
+      }
+    },
+    {
+      "gameId": 3569454,
+      "gameUrl": "https://cricchioz.itch.io/toostrongforspace-wip",
+      "overallRank": 8,
+      "topCategories": [
+        "Fun & Game Design",
+        "Theme"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIxNDExNzYwLmpwZWc=/300x240%23c/BSYPth.jpeg",
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-7/rate/3569454",
+        "criteria": [
+          {
+            "name": "Graphics",
+            "score": 3.6129032258065,
+            "rank": 37,
+            "raw_score": 3.6129032258065
+          },
+          {
+            "name": "Fun & Game Design",
+            "score": 3.8064516129032,
+            "rank": 4,
+            "raw_score": 3.8064516129032
+          },
+          {
+            "name": "Audio",
+            "score": 3.2903225806452,
+            "rank": 14,
+            "raw_score": 3.2903225806452
+          },
+          {
+            "name": "Originality & Innovation",
+            "score": 3.1935483870968,
+            "rank": 46,
+            "raw_score": 3.1935483870968
+          },
+          {
+            "name": "Theme",
+            "score": 3.7741935483871,
+            "rank": 6,
+            "raw_score": 3.7741935483871
+          }
+        ],
+        "raw_score": 3.5354838709677,
+        "rating_count": 31,
+        "id": 3569454,
+        "title": "Too Strong For Space",
+        "score": 3.5354838709677,
+        "rank": 8,
+        "contributors": [
+          {
+            "name": "ForgeStorm Studio",
+            "id": 6551990
+          }
+        ]
+      },
+      "entryData": {
+        "coolness": 82,
+        "created_at": "2025-05-18 19:44:39",
+        "id": 699481,
+        "game": {
+          "title": "Too Strong For Space",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "ForgeStorm Studio",
+            "url": "https://cricchioz.itch.io",
+            "id": 6551990
+          },
+          "url": "https://cricchioz.itch.io/toostrongforspace-wip",
+          "short_text": "A fast-paced, overpowered arcade defense game",
+          "id": 3569454,
+          "cover": "https://img.itch.zone/aW1nLzIxNDExNzYwLmpwZWc=/300x240%23c/BSYPth.jpeg",
+          "cover_color": "#0087c3"
+        },
+        "url": "/jam/gdevelop-big-game-jam-7/rate/3569454",
+        "rating_count": 31
+      },
+      "details": {
+        "title": "Too Strong For Space",
+        "description": "UPDATE 1:\n- 2 NEW MODALITIES\n- 1 NEW LEADERBOARD\n- 2 NEW ABILITIES\n- 1 NEW WEAPON\n- 3 NEW SKINS\n- YOU CAN NOW SKIP TUTORIAL (USEFUL IF IT BUGS)\n- QOL IMPROVEMENTS\n- MINOR MENU UI ADJUSTMENT\n- SOME BALANCING\n- LOTS OF BUG FIXED\n\n🎮 Too Strong for Space\nWhen a sneeze becomes a weapon of mass destruction.\nEarth is under attack. Legions of alien robots are descending from the skies… but you're ready.\nNot because you have an army.\nNot because you have a plan.\nBut because you’re ridiculously powerful.\nTake control of the planet’s last (and most absurd) defender: a hero who summons black holes, sneezes away enemies, and turns every wave into a galactic massacre.\n💥 Key Features:\nOverpowered Defense: you take no damage, only deal destruction. The more you kill, the stronger you become.Combo & Progression: every wave unlocks a crazier weapon or ability.Choose Your Power: after each wave, pick one of several upgrades to customize your unstoppable build.Galactic Sneeze: charge it by killing and wipe the screen in one blast.Endless Mode: survive beyond wave 11, where the alien swarm never ends.Global Leaderboard: show the world just how unfairly strong you are.Run-based Tasks: every match gives you 3 unique missions. Complete them for extra rewards and bragging rights.Style Shop: unlock skins for both your hero and the planet Earth; because even destruction should look good.\nGAME REALIZED FOR THE BIG GAME JAM #7 IN 8 DAYS",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzU2OTQ1NC8yMTI2NDE3MS5wbmc=/original/Vpaff7.png",
+          "https://img.itch.zone/aW1hZ2UvMzU2OTQ1NC8yMTI2NDE5NC5wbmc=/original/H3FYTK.png",
+          "https://img.itch.zone/aW1hZ2UvMzU2OTQ1NC8yMTI2NDIxOC5wbmc=/original/1BmkuV.png",
+          "https://img.itch.zone/aW1hZ2UvMzU2OTQ1NC8yMTI4MjI5MC5wbmc=/original/OGqKfH.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 3.0 out of 5 stars(2 total ratings)",
+          "Author": "ForgeStorm Studio",
+          "Genre": "Shooter, Strategy",
+          "Made with": "GDevelop",
+          "Tags": "2D, Pixel Art, Retro, Roguelike, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 3578283,
+      "gameUrl": "https://wicked-lizard-productions.itch.io/power-shift",
+      "overallRank": 7,
+      "topCategories": [
+        "Fun & Game Design",
+        "Originality & Innovation",
+        "Theme"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIxMjk5NDkwLnBuZw==/300x240%23c/HVc0MB.png",
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-7/rate/3578283",
+        "criteria": [
+          {
+            "name": "Fun & Game Design",
+            "score": 3.8,
+            "rank": 5,
+            "raw_score": 3.8
+          },
+          {
+            "name": "Originality & Innovation",
+            "score": 3.8,
+            "rank": 9,
+            "raw_score": 3.8
+          },
+          {
+            "name": "Audio",
+            "score": 3.1333333333333,
+            "rank": 30,
+            "raw_score": 3.1333333333333
+          },
+          {
+            "name": "Theme",
+            "score": 3.9333333333333,
+            "rank": 3,
+            "raw_score": 3.9333333333333
+          },
+          {
+            "name": "Graphics",
+            "score": 3.5333333333333,
+            "rank": 46,
+            "raw_score": 3.5333333333333
+          }
+        ],
+        "raw_score": 3.64,
+        "rating_count": 30,
+        "id": 3578283,
+        "title": "Power Shift",
+        "score": 3.64,
+        "rank": 7,
+        "contributors": [
+          {
+            "name": "Wicked Lizard Productions",
+            "id": 8149850
+          }
+        ]
+      },
+      "entryData": {
+        "coolness": 13,
+        "created_at": "2025-05-21 21:28:29",
+        "id": 700852,
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Wicked Lizard Productions",
+            "url": "https://wicked-lizard-productions.itch.io",
+            "id": 8149850
+          },
+          "url": "https://wicked-lizard-productions.itch.io/power-shift",
+          "short_text": "A puzzle game focused on balance.",
+          "id": 3578283,
+          "cover": "https://img.itch.zone/aW1nLzIxMjk5NDkwLnBuZw==/300x240%23c/HVc0MB.png",
+          "title": "Power Shift"
+        },
+        "url": "/jam/gdevelop-big-game-jam-7/rate/3578283",
+        "rating_count": 30
+      },
+      "details": {
+        "title": "Power Shift",
+        "description": "A puzzle game focused on balance. Make sure the Reactor does not become overpowered or it may explode!\nGD Games Link: PowerShift | Play on gd.games",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIxMjk5NDkwLnBuZw==/original/f9Lm4p.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.0 out of 5 stars(3 total ratings)",
+          "Author": "Wicked Lizard Productions",
+          "Genre": "Puzzle",
+          "Made with": "GDevelop",
+          "Tags": "gdevelop-game-jam-7"
+        }
+      }
+    },
+    {
+      "gameId": 3586121,
+      "gameUrl": "https://justagamedeveloperyt.itch.io/kiwis-dungeon",
+      "overallRank": 53,
+      "topCategories": [
+        "Fun & Game Design"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIxMzQyNDA5LnBuZw==/300x240%23c/cCySV8.png",
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-7/rate/3586121",
+        "criteria": [
+          {
+            "name": "Fun & Game Design",
+            "score": 3.7916666666667,
+            "rank": 6,
+            "raw_score": 3.7916666666667
+          },
+          {
+            "name": "Originality & Innovation",
+            "score": 2.625,
+            "rank": 143,
+            "raw_score": 2.625
+          },
+          {
+            "name": "Graphics",
+            "score": 3.4583333333333,
+            "rank": 53,
+            "raw_score": 3.4583333333333
+          },
+          {
+            "name": "Theme",
+            "score": 2.5,
+            "rank": 129,
+            "raw_score": 2.5
+          },
+          {
+            "name": "Audio",
+            "score": 2.9166666666667,
+            "rank": 51,
+            "raw_score": 2.9166666666667
+          }
+        ],
+        "raw_score": 3.0583333333333,
+        "rating_count": 24,
+        "id": 3586121,
+        "title": "Kiwi's Dungeon",
+        "score": 3.0583333333333,
+        "rank": 53,
+        "contributors": [
+          {
+            "name": "JustAGameDeveloper",
+            "id": 5516513
+          }
+        ]
+      },
+      "entryData": {
+        "coolness": 31,
+        "created_at": "2025-05-25 01:45:44",
+        "id": 701774,
+        "game": {
+          "title": "Kiwi's Dungeon",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "JustAGameDeveloper",
+            "url": "https://justagamedeveloperyt.itch.io",
+            "id": 5516513
+          },
+          "url": "https://justagamedeveloperyt.itch.io/kiwis-dungeon",
+          "short_text": "How strong can you get?",
+          "id": 3586121,
+          "cover": "https://img.itch.zone/aW1nLzIxMzQyNDA5LnBuZw==/300x240%23c/cCySV8.png",
+          "cover_color": "#353535"
+        },
+        "url": "/jam/gdevelop-big-game-jam-7/rate/3586121",
+        "rating_count": 24
+      },
+      "details": {
+        "title": "Kiwi's Dungeon",
+        "description": "Kiwi's Dungeon is a Action-Roguelike were you try to get super powerful!\n-This game includes-\n1 Boss4 Enemies5 NPCS7 Upgrades4 GunsA Plinko board\n-The controls-\nWASD  to moveMouse to aimLMB to shootE to interact\nI plan on updating this game in the future.\nGD.games link   https://gd.games/justagamedeveloper/kiwi-s-dungeon\nMade for the GDevelop BIG Game Jam #7\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzU4NjEyMS8yMTM0Mjk2MC5naWY=/original/8jDDj3.gif",
+          "https://img.itch.zone/aW1hZ2UvMzU4NjEyMS8yMTM0MzA0NS5naWY=/original/Bl4pw4.gif",
+          "https://img.itch.zone/aW1hZ2UvMzU4NjEyMS8yMTM0NTQwMy5naWY=/original/L6HD3z.gif",
+          "https://img.itch.zone/aW1hZ2UvMzU4NjEyMS8yMTM0MzA0OC5naWY=/original/MxsNq7.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Author": "JustAGameDeveloper",
+          "Genre": "Action, Shooter",
+          "Made with": "Piskel, GDevelop",
+          "Tags": "2D, Funny, Indie, Pixel Art, Roguelike, Roguelite, Shoot 'Em Up, Singleplayer, Top-Down",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 3576489,
+      "gameUrl": "https://jam-mack46.itch.io/pirate-kings-clash-of-the-tides",
+      "overallRank": 9,
+      "topCategories": [
+        "Fun & Game Design",
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIxMzk0NDExLmpwZw==/300x240%23c/Ytk3hu.jpg",
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-7/rate/3576489",
+        "criteria": [
+          {
+            "name": "Fun & Game Design",
+            "score": 3.7906976744186,
+            "rank": 7,
+            "raw_score": 3.7906976744186
+          },
+          {
+            "name": "Audio",
+            "score": 3.6279069767442,
+            "rank": 1,
+            "raw_score": 3.6279069767442
+          },
+          {
+            "name": "Graphics",
+            "score": 3.8604651162791,
+            "rank": 19,
+            "raw_score": 3.8604651162791
+          },
+          {
+            "name": "Originality & Innovation",
+            "score": 3.3604651162791,
+            "rank": 29,
+            "raw_score": 3.3604651162791
+          },
+          {
+            "name": "Theme",
+            "score": 2.8604651162791,
+            "rank": 64,
+            "raw_score": 2.8604651162791
+          }
+        ],
+        "raw_score": 3.5,
+        "rating_count": 86,
+        "id": 3576489,
+        "title": "Pirate Kings: Clash of the Tides",
+        "score": 3.5,
+        "rank": 9,
+        "contributors": [
+          {
+            "name": "jam_mack46",
+            "id": 6196339
+          },
+          {
+            "name": "Kami Amiga",
+            "id": 8017341
+          },
+          {
+            "name": "RicoTV",
+            "id": 4089167
+          },
+          {
+            "name": "Wilson",
+            "id": 13523638
+          }
+        ]
+      },
+      "entryData": {
+        "coolness": 133,
+        "created_at": "2025-05-25 10:18:48",
+        "id": 701904,
+        "contributors": [
+          {
+            "name": "jam_mack46",
+            "url": "https://jam-mack46.itch.io"
+          },
+          {
+            "name": "Kami Amiga",
+            "url": "https://kami-amiga.itch.io"
+          },
+          {
+            "name": "RicoTV",
+            "url": "https://ricotv.itch.io"
+          },
+          {
+            "name": "Wilson",
+            "url": "https://thewilson123.itch.io"
+          }
+        ],
+        "game": {
+          "title": "Pirate Kings: Clash of the Tides",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "jam_mack46",
+            "url": "https://jam-mack46.itch.io",
+            "id": 6196339
+          },
+          "url": "https://jam-mack46.itch.io/pirate-kings-clash-of-the-tides",
+          "short_text": "gdevelop",
+          "id": 3576489,
+          "cover": "https://img.itch.zone/aW1nLzIxMzk0NDExLmpwZw==/300x240%23c/Ytk3hu.jpg",
+          "cover_color": "#EBE3C7"
+        },
+        "url": "/jam/gdevelop-big-game-jam-7/rate/3576489",
+        "rating_count": 86
+      },
+      "details": {
+        "title": "Pirate Kings: Clash of the Tides",
+        "description": "Pirate Kings : Clash of the tides\n\nGame made for GDevelop Game Jam 7.  Theme was Overpowered.\n \nDefeat enemy ships and collect their treasures. Use your spoils at the tavern to buy potions that will grant you more superpowers !\nComplete 5 levels and fight the boss if you Dare!\nGameplay\nUse your left and right arrow keys to turn.\nAim with your mouse, and shoot with the left click button.\nHold the left mouse button to build up charge\nYou can slow down time for a while using your right mouse button.\nShoot barrels to explode them.\nCredits\nCode by JamieIntro, Story and Play testing by RicoTVGraphics by Kami Amiga\nMusic and SFX by Wilson\nFull play through here \n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzU3NjQ4OS8yMTM0NDAzNS5qcGc=/original/25Fl0p.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzU3NjQ4OS8yMTM0NDAzNi5qcGc=/original/fNfFdO.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzU3NjQ4OS8yMTM0NDAzNC5qcGc=/original/YFLCyc.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzU3NjQ4OS8yMTM0NDAzNy5qcGc=/original/U0IuLu.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Authors": "jam_mack46, Kami Amiga, RicoTV, Wilson",
+          "Genre": "Shooter",
+          "Made with": "GDevelop",
+          "Tags": "gdevelop"
+        }
+      }
+    },
+    {
+      "gameId": 3588441,
+      "gameUrl": "https://laserdice.itch.io/one-punch-husband",
+      "overallRank": 3,
+      "topCategories": [
+        "Fun & Game Design",
+        "Originality & Innovation",
+        "Audio",
+        "Graphics"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIxMzU3NDk0LnBuZw==/300x240%23c/bNe08e.png",
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-7/rate/3588441",
+        "criteria": [
+          {
+            "name": "Fun & Game Design",
+            "score": 3.7567567567568,
+            "rank": 8,
+            "raw_score": 3.7567567567568
+          },
+          {
+            "name": "Originality & Innovation",
+            "score": 4.0540540540541,
+            "rank": 2,
+            "raw_score": 4.0540540540541
+          },
+          {
+            "name": "Audio",
+            "score": 3.5675675675676,
+            "rank": 2,
+            "raw_score": 3.5675675675676
+          },
+          {
+            "name": "Graphics",
+            "score": 4.0810810810811,
+            "rank": 9,
+            "raw_score": 4.0810810810811
+          },
+          {
+            "name": "Theme",
+            "score": 3.5675675675676,
+            "rank": 12,
+            "raw_score": 3.5675675675676
+          }
+        ],
+        "raw_score": 3.8054054054054,
+        "rating_count": 37,
+        "id": 3588441,
+        "title": "One Punch Husband",
+        "score": 3.8054054054054,
+        "rank": 3,
+        "contributors": [
+          {
+            "name": "laserDice",
+            "id": 7068718
+          }
+        ]
+      },
+      "entryData": {
+        "coolness": 24,
+        "created_at": "2025-05-25 17:06:27",
+        "id": 702229,
+        "game": {
+          "title": "One Punch Husband",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "laserDice",
+            "url": "https://laserdice.itch.io",
+            "id": 7068718
+          },
+          "url": "https://laserdice.itch.io/one-punch-husband",
+          "short_text": "Prepare a romantic evening while stuck in your overpowered form!",
+          "id": 3588441,
+          "cover": "https://img.itch.zone/aW1nLzIxMzU3NDk0LnBuZw==/300x240%23c/bNe08e.png",
+          "cover_color": "#d34e69"
+        },
+        "url": "/jam/gdevelop-big-game-jam-7/rate/3588441",
+        "rating_count": 37
+      },
+      "details": {
+        "title": "One Punch Husband",
+        "description": "Play as Max, an overpowered superhero stuck in his “max power” form trying to do delicate tasks! \nToday is Max’s anniversary with his wife, but he got stuck fighting bad guys right up until the evening! Now he only has one hour before his wife gets home, a list of things he needs to do to prepare her romantic surprise, and he’s stuck in his super mode while his powers decharge. Can he get it all done without wrecking the house?\n\n\n- - - - - - - -\nW A S D to move\nClick on an exclamation point to begin the task\nInstructions vary with task (check tooltip!)\n- - - - - - - - - \nThis game was made for the GDevelop Big Game Jam 7.\nPlay on GD games: https://gd.games/games/663db3bf-98af-4b6f-940f-d8ef5c4d4fc2\n- - - - - - - - - \nArt: Megan Lincicum\nProgramming: Seiya Morgan Lincicum and Megan Lincicum\nMusic and Sound: Steve Chan",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIxMzU3NDk0LnBuZw==/original/iqT49Y.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "laserDice",
+          "Genre": "Action",
+          "Made with": "GDevelop",
+          "Tags": "2D, Arcade, Comedy, Short, Singleplayer, Superhero"
+        }
+      }
+    },
+    {
+      "gameId": 3586697,
+      "gameUrl": "https://speedy-cat-games.itch.io/cats-of-yarn",
+      "overallRank": 54,
+      "topCategories": [
+        "Fun & Game Design"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIxNTcxNTgyLnBuZw==/300x240%23c/A1S56p.png",
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-7/rate/3586697",
+        "criteria": [
+          {
+            "name": "Originality & Innovation",
+            "score": 2.5675675675676,
+            "rank": 155,
+            "raw_score": 2.5675675675676
+          },
+          {
+            "name": "Fun & Game Design",
+            "score": 3.6756756756757,
+            "rank": 9,
+            "raw_score": 3.6756756756757
+          },
+          {
+            "name": "Audio",
+            "score": 2.8108108108108,
+            "rank": 73,
+            "raw_score": 2.8108108108108
+          },
+          {
+            "name": "Graphics",
+            "score": 2.972972972973,
+            "rank": 118,
+            "raw_score": 2.972972972973
+          },
+          {
+            "name": "Theme",
+            "score": 3.2432432432432,
+            "rank": 27,
+            "raw_score": 3.2432432432432
+          }
+        ],
+        "raw_score": 3.0540540540541,
+        "rating_count": 37,
+        "id": 3586697,
+        "title": "Cats Of Yarn",
+        "score": 3.0540540540541,
+        "rank": 54,
+        "contributors": [
+          {
+            "name": "Speedy Cat Games",
+            "id": 5531449
+          }
+        ]
+      },
+      "entryData": {
+        "coolness": 17,
+        "created_at": "2025-05-25 01:52:47",
+        "id": 701776,
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Speedy Cat Games",
+            "url": "https://speedy-cat-games.itch.io",
+            "id": 5531449
+          },
+          "url": "https://speedy-cat-games.itch.io/cats-of-yarn",
+          "title": "Cats Of Yarn",
+          "id": 3586697,
+          "cover": "https://img.itch.zone/aW1nLzIxNTcxNTgyLnBuZw==/300x240%23c/A1S56p.png",
+          "cover_color": "#ff5353"
+        },
+        "url": "/jam/gdevelop-big-game-jam-7/rate/3586697",
+        "rating_count": 37
+      },
+      "details": {
+        "title": "Cats Of Yarn",
+        "description": "a survivors like rogue-like game full of expolsions mice and upgrades! Get powerful and destory them ALL!\nanother fun game by speed cat games.don't wishlist now!\ncontrols WASD to move to shoot press the SHOOT button.RIGHT CLICK to pick your upgrades! And if the game gets laggy press RIGHT SHIFT\nFor the Gdevelop jam7",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzU4NjY5Ny8yMTM0NjUxNi5wbmc=/original/UTRLBC.png",
+          "https://img.itch.zone/aW1hZ2UvMzU4NjY5Ny8yMTM0NjUxOS5wbmc=/original/qSU4bL.png",
+          "https://img.itch.zone/aW1hZ2UvMzU4NjY5Ny8yMTM0NjUyMy5wbmc=/original/YeUTZs.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Speedy Cat Games",
+          "Genre": "Survival, Action",
+          "Made with": "GDevelop",
+          "Tags": "2D, Indie, Pixel Art, Roguelike, Roguelite, Singleplayer, speed_cat_games, Survivor-like"
+        }
+      }
+    },
+    {
+      "gameId": 3588840,
+      "gameUrl": "https://mike51213.itch.io/oni-powered",
+      "overallRank": 35,
+      "topCategories": [
+        "Fun & Game Design"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIxMzYwMTIzLnBuZw==/300x240%23c/ZT3umR.png",
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-7/rate/3588840",
+        "criteria": [
+          {
+            "name": "Graphics",
+            "score": 3.1632653061224,
+            "rank": 96,
+            "raw_score": 3.1632653061224
+          },
+          {
+            "name": "Fun & Game Design",
+            "score": 3.6326530612245,
+            "rank": 10,
+            "raw_score": 3.6326530612245
+          },
+          {
+            "name": "Originality & Innovation",
+            "score": 3.5714285714286,
+            "rank": 16,
+            "raw_score": 3.5714285714286
+          },
+          {
+            "name": "Audio",
+            "score": 2.8775510204082,
+            "rank": 59,
+            "raw_score": 2.8775510204082
+          },
+          {
+            "name": "Theme",
+            "score": 2.4489795918367,
+            "rank": 142,
+            "raw_score": 2.4489795918367
+          }
+        ],
+        "raw_score": 3.1387755102041,
+        "rating_count": 49,
+        "id": 3588840,
+        "title": "Oni-Powered",
+        "score": 3.1387755102041,
+        "rank": 35,
+        "contributors": [
+          {
+            "name": "mike51213",
+            "id": 2396825
+          }
+        ]
+      },
+      "entryData": {
+        "coolness": 86,
+        "created_at": "2025-05-25 18:12:46",
+        "id": 702304,
+        "game": {
+          "title": "Oni-Powered",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "mike51213",
+            "url": "https://mike51213.itch.io",
+            "id": 2396825
+          },
+          "url": "https://mike51213.itch.io/oni-powered",
+          "short_text": "Oni-Powered is a turn-based roguelike strategy game.",
+          "id": 3588840,
+          "cover": "https://img.itch.zone/aW1nLzIxMzYwMTIzLnBuZw==/300x240%23c/ZT3umR.png",
+          "cover_color": "#AF1C3D"
+        },
+        "url": "/jam/gdevelop-big-game-jam-7/rate/3588840",
+        "rating_count": 49
+      },
+      "details": {
+        "title": "Oni-Powered",
+        "description": "Oni-Powered is a turn-based roguelike strategy game made for the GDevelop BIG Game Jam #7You wield the Blade of the Oni-Slayer, a weapon of unparalleled power. It's the only thing that can strike down the Oni demon, and with it, any foe falls in a single, decisive blow.\nObjective: You play as a samurai descending into a dungeon to reclaim haunted Oni mask and expel the daemon possessing it. Each level presents a small, hexagonally-tiled arena filled with demonic enemies and lava pits. Your primary goal is to reach the exit (stairs) to proceed to the next level, either by defeating or expertly evading enemies.Turn-Based Combat: Every action you take consumes a turn, and then all enemies on the floor take their actions. This makes every move count and encourages careful planning. There's no time limit on your turns, allowing you to strategize at your own pace.\nAttacks:\nyou can stab enemies that are adjacent to you.\n\n\nyou can lunge at enemies one tile away.\n\n\nyou can throw a shuriken at enemies\n\n\nAltar: you can acquire upgrades by praying at altars\n\n\nEnemies:\nKyūso: Will relentlessly move one tile towards you each turn\n\nDemon Archer: Ranged attack, skilled with arrows.\n\nAkame: Ranged attack, shoots fireball.\n\nDemon Demolitionist: Bomb-throwing demon\n\nHeikegani: summon waves of fire\n\nOni mask demon\n\n\nGood luck & have fun\n\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzU4ODg0MC8yMTM2MDE0Ni5wbmc=/original/EFDTVb.png",
+          "https://img.itch.zone/aW1hZ2UvMzU4ODg0MC8yMTM2MDE0Ny5wbmc=/original/DGD41x.png",
+          "https://img.itch.zone/aW1hZ2UvMzU4ODg0MC8yMTM2MDE0OC5wbmc=/original/Uc8mMm.png",
+          "https://img.itch.zone/aW1hZ2UvMzU4ODg0MC8yMTM2MDE0OS5wbmc=/original/nlcJ9m.png",
+          "https://img.itch.zone/aW1hZ2UvMzU4ODg0MC8yMTM2MDE1MC5wbmc=/original/ohRIyJ.png",
+          "https://img.itch.zone/aW1hZ2UvMzU4ODg0MC8yMTM2MDE1MS5wbmc=/original/sIe08F.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "mike51213",
+          "Genre": "Strategy",
+          "Made with": "GDevelop",
+          "Tags": "Hex Based, Roguelike, Turn-based"
+        }
+      }
+    },
+    {
+      "gameId": 3586563,
+      "gameUrl": "https://fuzzystudios.itch.io/double-trouble",
+      "overallRank": 10,
+      "topCategories": [
+        "Originality & Innovation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIxMzcwMDEzLnBuZw==/300x240%23c/iuW3hG.png",
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-7/rate/3586563",
+        "criteria": [
+          {
+            "name": "Fun & Game Design",
+            "score": 3.6176470588235,
+            "rank": 13,
+            "raw_score": 3.6176470588235
+          },
+          {
+            "name": "Audio",
+            "score": 3.1470588235294,
+            "rank": 27,
+            "raw_score": 3.1470588235294
+          },
+          {
+            "name": "Graphics",
+            "score": 3.6470588235294,
+            "rank": 36,
+            "raw_score": 3.6470588235294
+          },
+          {
+            "name": "Theme",
+            "score": 2.8235294117647,
+            "rank": 70,
+            "raw_score": 2.8235294117647
+          },
+          {
+            "name": "Originality & Innovation",
+            "score": 3.9705882352941,
+            "rank": 3,
+            "raw_score": 3.9705882352941
+          }
+        ],
+        "raw_score": 3.4411764705882,
+        "rating_count": 34,
+        "id": 3586563,
+        "title": "Double Trouble",
+        "score": 3.4411764705882,
+        "rank": 10,
+        "contributors": [
+          {
+            "name": "Fuzzy",
+            "id": 229238
+          }
+        ]
+      },
+      "entryData": {
+        "coolness": 15,
+        "created_at": "2025-05-25 01:03:02",
+        "id": 701761,
+        "game": {
+          "title": "Double Trouble",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Fuzzy",
+            "url": "https://fuzzystudios.itch.io",
+            "id": 229238
+          },
+          "url": "https://fuzzystudios.itch.io/double-trouble",
+          "short_text": "Double the game, double the trouble! Can you survive being overpowered by a puzzle and shoot-em-up at once?",
+          "id": 3586563,
+          "cover": "https://img.itch.zone/aW1nLzIxMzcwMDEzLnBuZw==/300x240%23c/iuW3hG.png",
+          "cover_color": "#000000"
+        },
+        "url": "/jam/gdevelop-big-game-jam-7/rate/3586563",
+        "rating_count": 34
+      },
+      "details": {
+        "title": "Double Trouble",
+        "description": "Double the game, double the trouble! Can you survive being overpowered by a puzzle and shoot-em-up at once?In this unique, action packed experience, you have to multitask dodging bullets and breaking puzzle blocks! But you aren't completely on your own! You have the incredibly overpowered ability to use BULLET TIME! Slow down your enemies!\nSlow down their bullets!\nMake BIG combos!\n\nDo you have what it takes to not get overpowered by two games?",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzU4NjU2My8yMTM0NjUyNy5naWY=/original/AcRV4n.gif",
+          "https://img.itch.zone/aW1hZ2UvMzU4NjU2My8yMTM0NjU4Ny5naWY=/original/brnpCY.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Fuzzy",
+          "Genre": "Action, Puzzle",
+          "Made with": "GDevelop",
+          "Tags": "Shoot 'Em Up"
+        }
+      }
+    },
+    {
+      "gameId": 3587896,
+      "gameUrl": "https://noxbird.itch.io/the-ashbringer",
+      "overallRank": 4,
+      "topCategories": [
+        "Originality & Innovation",
+        "Theme",
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIxMzg2ODgwLmpwZw==/300x240%23c/TM7sib.jpg",
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-7/rate/3587896",
+        "criteria": [
+          {
+            "name": "Audio",
+            "score": 3.4150943396226,
+            "rank": 8,
+            "raw_score": 3.4150943396226
+          },
+          {
+            "name": "Fun & Game Design",
+            "score": 3.5283018867925,
+            "rank": 18,
+            "raw_score": 3.5283018867925
+          },
+          {
+            "name": "Graphics",
+            "score": 3.8867924528302,
+            "rank": 18,
+            "raw_score": 3.8867924528302
+          },
+          {
+            "name": "Theme",
+            "score": 3.9622641509434,
+            "rank": 2,
+            "raw_score": 3.9622641509434
+          },
+          {
+            "name": "Originality & Innovation",
+            "score": 3.9056603773585,
+            "rank": 4,
+            "raw_score": 3.9056603773585
+          }
+        ],
+        "raw_score": 3.7396226415094,
+        "rating_count": 53,
+        "id": 3587896,
+        "title": "The Ashbringer",
+        "score": 3.7396226415094,
+        "rank": 4,
+        "contributors": [
+          {
+            "name": "noxbird",
+            "id": 482764
+          }
+        ]
+      },
+      "entryData": {
+        "coolness": 100,
+        "created_at": "2025-05-25 14:00:56",
+        "id": 702022,
+        "game": {
+          "title": "The Ashbringer",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "noxbird",
+            "url": "https://noxbird.itch.io",
+            "id": 482764
+          },
+          "url": "https://noxbird.itch.io/the-ashbringer",
+          "short_text": "Only three favors stand between you and freedom, can you find them ?",
+          "id": 3587896,
+          "cover": "https://img.itch.zone/aW1nLzIxMzg2ODgwLmpwZw==/300x240%23c/TM7sib.jpg",
+          "cover_color": "#b86f50"
+        },
+        "url": "/jam/gdevelop-big-game-jam-7/rate/3587896",
+        "rating_count": 53
+      },
+      "details": {
+        "title": "The Ashbringer",
+        "description": "A game created for GDevelop BIG Game Jam #7.\n\nAshbringer is a short game focused on exploration and the control of an overwhelming power that threatens to burn everything in your path.Break the curse of fire by finding the three divine favors without burning the village and claim your freedom!\nHow to play ?Move: Arrow keysControl your fire: Hold SpacebarExplore the village to find the three divine favors\n\n\nRoadmap (Post-Jam Plans)\nMechanics\nReplace the HP system with a Karma bar (Good ↔ Evil)Unlock two different endings based on Karma balanceEach favor collected reduces Evil Karma\nVisuals & Assets\nAdd more villagers (to make the village feel alive)Expand the map for better explorationAdd wall shadows for improved depth and atmosphereCreate wall variations (different textures, colors, etc.)Add new village elements (wells, carts, signs, furniture, etc.)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzU4Nzg5Ni8yMTM1NTcxNi5qcGc=/original/rPwlCO.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzU4Nzg5Ni8yMTM1NTczOC5qcGc=/original/vtdz2g.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "noxbird",
+          "Genre": "Adventure",
+          "Made with": "GDevelop",
+          "Tags": "2D, Exploration, gdevelop, Pixel Art, Retro, Short, Top Down Adventure"
+        }
+      }
+    },
+    {
+      "gameId": 3583678,
+      "gameUrl": "https://theavigold.itch.io/overtitans",
+      "overallRank": 2,
+      "topCategories": [
+        "Originality & Innovation",
+        "Theme",
+        "Audio",
+        "Graphics"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIxMzI5MzEwLnBuZw==/300x240%23c/uGSEEw.png",
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-7/rate/3583678",
+        "criteria": [
+          {
+            "name": "Fun & Game Design",
+            "score": 3.6056338028169,
+            "rank": 14,
+            "raw_score": 3.6056338028169
+          },
+          {
+            "name": "Originality & Innovation",
+            "score": 3.8732394366197,
+            "rank": 5,
+            "raw_score": 3.8732394366197
+          },
+          {
+            "name": "Graphics",
+            "score": 4.3380281690141,
+            "rank": 3,
+            "raw_score": 4.3380281690141
+          },
+          {
+            "name": "Audio",
+            "score": 3.5070422535211,
+            "rank": 4,
+            "raw_score": 3.5070422535211
+          },
+          {
+            "name": "Theme",
+            "score": 3.8450704225352,
+            "rank": 5,
+            "raw_score": 3.8450704225352
+          }
+        ],
+        "raw_score": 3.8338028169014,
+        "rating_count": 71,
+        "id": 3583678,
+        "title": "Overtitans: Destroyers of Worlds",
+        "score": 3.8338028169014,
+        "rank": 2,
+        "contributors": [
+          {
+            "name": "TheAvIGOLD",
+            "id": 11943731
+          },
+          {
+            "name": "Jurfix",
+            "id": 5387982
+          }
+        ]
+      },
+      "entryData": {
+        "coolness": 112,
+        "created_at": "2025-05-25 18:19:35",
+        "id": 702310,
+        "contributors": [
+          {
+            "name": "TheAvIGOLD",
+            "url": "https://theavigold.itch.io"
+          },
+          {
+            "name": "Jurfix",
+            "url": "https://jurfix.itch.io"
+          }
+        ],
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "TheAvIGOLD",
+            "url": "https://theavigold.itch.io",
+            "id": 11943731
+          },
+          "url": "https://theavigold.itch.io/overtitans",
+          "title": "Overtitans: Destroyers of Worlds",
+          "id": 3583678,
+          "cover": "https://img.itch.zone/aW1nLzIxMzI5MzEwLnBuZw==/300x240%23c/uGSEEw.png",
+          "cover_color": "#000000"
+        },
+        "url": "/jam/gdevelop-big-game-jam-7/rate/3583678",
+        "rating_count": 71
+      },
+      "details": {
+        "title": "Overtitans: Destroyers of Worlds",
+        "description": "Overtitans: Destroyers of Worlds\nMade in 9 days for GDevelop BIG Game Jam #7 by a two-person team: TheAvIGOLD & Jurfix\n\nAbout lore\nThe Legion of Darkness won the Great War. Worlds fell one by one, and in each conquered land, they left behind their enforcers - Titans, ancient giants known only as the Destroyers of Worlds.\n \nYou are one of the last mages of light. A member of a secret order that uncovered a long-lost branch of forbidden magic, said to have the power to kill Titans… and everything else around them.\n \nThe world is already broken. But in your hands lies unchecked power that might restore it or finish what the Titans started.\n\n\nOverpowered by Design\nOvertitans is an experimental action game where you create your own spells by combining runes. Each combination unleashes a different type of destruction from focused beams to chaotic explosions. Stack more runes to amplify the power... at the risk of losing control.\n \nNo cooldowns. No safety. Just raw magic and your will to use it.\n\nFace Titans. Shape the battlefield. Discover secrets.\nThe world is fragile. Your magic breaks it. Some say defeating a Titan reveals something never seen before. But legends are often born from fire.\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzU4MzY3OC8yMTM1NjYyMi5wbmc=/original/cErgQc.png",
+          "https://img.itch.zone/aW1hZ2UvMzU4MzY3OC8yMTM1NjYyNC5wbmc=/original/VPT%2FpZ.png",
+          "https://img.itch.zone/aW1hZ2UvMzU4MzY3OC8yMTM1Njc5Ny5wbmc=/original/FNn33B.png",
+          "https://img.itch.zone/aW1hZ2UvMzU4MzY3OC8yMTM1NjgyMC5wbmc=/original/vtvc72.png",
+          "https://img.itch.zone/aW1hZ2UvMzU4MzY3OC8yMTM1NjYyMS5wbmc=/original/%2FfRUUM.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "TheAvIGOLD, Jurfix",
+          "Genre": "Role Playing, Adventure",
+          "Made with": "Blender, Adobe Photoshop, Adobe Illustrator, GDevelop",
+          "Tags": "3D, Atmospheric, Boss battle, Dark Fantasy, Endless, Procedural Generation, Souls-like, Top-Down",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse",
+          "Accessibility": "Interactive tutorial"
+        }
+      }
+    },
+    {
+      "gameId": 3588460,
+      "gameUrl": "https://sungeek76.itch.io/dont-bore-the-viewers",
+      "overallRank": 23,
+      "topCategories": [
+        "Originality & Innovation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIxMzU3NzcyLnBuZw==/300x240%23c/iVtCUn.png",
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-7/rate/3588460",
+        "criteria": [
+          {
+            "name": "Fun & Game Design",
+            "score": 3.2553191489362,
+            "rank": 38,
+            "raw_score": 3.2553191489362
+          },
+          {
+            "name": "Audio",
+            "score": 1.6595744680851,
+            "rank": 305,
+            "raw_score": 1.6595744680851
+          },
+          {
+            "name": "Theme",
+            "score": 3.5531914893617,
+            "rank": 13,
+            "raw_score": 3.5531914893617
+          },
+          {
+            "name": "Graphics",
+            "score": 4.0212765957447,
+            "rank": 11,
+            "raw_score": 4.0212765957447
+          },
+          {
+            "name": "Originality & Innovation",
+            "score": 3.8085106382979,
+            "rank": 8,
+            "raw_score": 3.8085106382979
+          }
+        ],
+        "raw_score": 3.2595744680851,
+        "rating_count": 47,
+        "id": 3588460,
+        "title": "Don't Bore the Viewers!",
+        "score": 3.2595744680851,
+        "rank": 23,
+        "contributors": [
+          {
+            "name": "sungeek76",
+            "id": 4879843
+          }
+        ]
+      },
+      "entryData": {
+        "coolness": 119,
+        "created_at": "2025-05-25 16:38:32",
+        "id": 702192,
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "sungeek76",
+            "url": "https://sungeek76.itch.io",
+            "id": 4879843
+          },
+          "url": "https://sungeek76.itch.io/dont-bore-the-viewers",
+          "short_text": "Keep the audience engaged — or get canceled.",
+          "id": 3588460,
+          "cover": "https://img.itch.zone/aW1nLzIxMzU3NzcyLnBuZw==/300x240%23c/iVtCUn.png",
+          "title": "Don't Bore the Viewers!"
+        },
+        "url": "/jam/gdevelop-big-game-jam-7/rate/3588460",
+        "rating_count": 47
+      },
+      "details": {
+        "title": "Don't Bore the Viewers!",
+        "description": "\nA cartoon-action game where you're too powerful… and that's the problem. Punch. Lose. Entertain. Keep the audience engaged — or get canceled.Silly little game made for the Jam Session #07\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzU4ODQ2MC8yMTM1NzgxNy5wbmc=/original/I0wPA6.png",
+          "https://img.itch.zone/aW1hZ2UvMzU4ODQ2MC8yMTM1NzgxNi5wbmc=/original/D%2BAcjQ.png",
+          "https://img.itch.zone/aW1hZ2UvMzU4ODQ2MC8yMTM1NzgxNS5wbmc=/original/PlMaEW.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "sungeek76",
+          "Made with": "GDevelop",
+          "Tags": "2D, Comics"
+        }
+      }
+    },
+    {
+      "gameId": 3576682,
+      "gameUrl": "https://crowbar-coder.itch.io/kinesis",
+      "overallRank": 12,
+      "topCategories": [
+        "Originality & Innovation",
+        "Theme"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMDExNzM3LnBuZw==/300x240%23c/uBjIgA.png",
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-7/rate/3576682",
+        "criteria": [
+          {
+            "name": "Fun & Game Design",
+            "score": 3.6271186440678,
+            "rank": 11,
+            "raw_score": 3.6271186440678
+          },
+          {
+            "name": "Originality & Innovation",
+            "score": 3.728813559322,
+            "rank": 10,
+            "raw_score": 3.728813559322
+          },
+          {
+            "name": "Audio",
+            "score": 2.8983050847458,
+            "rank": 55,
+            "raw_score": 2.8983050847458
+          },
+          {
+            "name": "Graphics",
+            "score": 3.2033898305085,
+            "rank": 91,
+            "raw_score": 3.2033898305085
+          },
+          {
+            "name": "Theme",
+            "score": 3.6779661016949,
+            "rank": 9,
+            "raw_score": 3.6779661016949
+          }
+        ],
+        "raw_score": 3.4271186440678,
+        "rating_count": 59,
+        "id": 3576682,
+        "title": "Kinesis",
+        "score": 3.4271186440678,
+        "rank": 12,
+        "contributors": [
+          {
+            "name": "Crowbar Coder",
+            "id": 11894348
+          }
+        ]
+      },
+      "entryData": {
+        "coolness": 89,
+        "created_at": "2025-05-24 20:10:54",
+        "id": 701664,
+        "game": {
+          "url": "https://crowbar-coder.itch.io/kinesis",
+          "short_text": "Making Man’s Mind Manipulate Matter!",
+          "price": "$2",
+          "platforms": [
+            "windows",
+            "osx"
+          ],
+          "user": {
+            "name": "Crowbar Coder",
+            "url": "https://crowbar-coder.itch.io",
+            "id": 11894348
+          },
+          "title": "Kinesis",
+          "id": 3576682,
+          "cover": "https://img.itch.zone/aW1nLzIyMDExNzM3LnBuZw==/300x240%23c/uBjIgA.png",
+          "cover_color": "#000000"
+        },
+        "url": "/jam/gdevelop-big-game-jam-7/rate/3576682",
+        "rating_count": 59
+      },
+      "details": {
+        "title": "Kinesis",
+        "description": "Game Controls\nWASD movementShift to sprintLeft click to select objectRight click to stop object[E] for superpower[space] for punch [P] to pause\nDownload Kinesis!\nDownload and play Kinesis offline as an app!Ad-free play,All for only a dollar!\nWelcome to Kinesis Labs.\nEver wanted to manipulate matter by the sheer might of your mind?\nYou, the only surviving test subject, have woken up with the power of telekinesis... isolated in the middle of a gigantic complex known as Kinesis Labs.\nIn other words, nothing – and no one – can stop you. You start by smashing glass bottles and exploding barrels. With focus and persistent training, you hone your skills. You will stop bullets. You will create black holes. In due time, the very scientists who created you shall shudder before the reach of your powers!\nAt each succeeding level,  you will face new and more deadly enemies. You will need all of your newfound strengths to survive your foes and make your way out of the labyrinthine laboratory.\nFeatures:\nData is saved to an account!A shop to buy costumes, etc!A community level editor!\nMade for the Gdevelop Game Jam 7...\n...over nine days and many many hours for each of that nine days!\nRATED 12TH PLACE IN 357 GAMES!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzU3NjY4Mi8yMjAxMjMwNy5wbmc=/original/srEXHI.png",
+          "https://img.itch.zone/aW1hZ2UvMzU3NjY4Mi8yMTY5MDU5Ny5naWY=/original/grLgLO.gif",
+          "https://img.itch.zone/aW1hZ2UvMzU3NjY4Mi8yMTczODc2OS5naWY=/original/PWKE%2Fv.gif",
+          "https://img.itch.zone/aW1hZ2UvMzU3NjY4Mi8yMTczODgzOS5wbmc=/original/C5rTJX.png",
+          "https://img.itch.zone/aW1hZ2UvMzU3NjY4Mi8yMTczODg0MS5wbmc=/original/prPbQH.png",
+          "https://img.itch.zone/aW1hZ2UvMzU3NjY4Mi8yMTY5MDU4MC5wbmc=/original/Jhz241.png",
+          "https://img.itch.zone/aW1hZ2UvMzU3NjY4Mi8yMTkwNDQ2NS5wbmc=/original/CP8awS.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS",
+          "Release date": "May 24, 2025",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Crowbar Coder",
+          "Genre": "Action, Survival",
+          "Made with": "GDevelop",
+          "Tags": "2D, Game Jam, Level Editor, Pixel Art, Robots, Sci-fi, Superpowers, telekinesis, Top-Down",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse",
+          "Accessibility": "Subtitles, Interactive tutorial",
+          "Links": "Support, Play on gd.games"
+        }
+      }
+    },
+    {
+      "gameId": 3586368,
+      "gameUrl": "https://leonzable.itch.io/project-op",
+      "overallRank": 13,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIxMzQ0ODIzLnBuZw==/300x240%23c/Q28ZnR.png",
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-7/rate/3586368",
+        "criteria": [
+          {
+            "name": "Fun & Game Design",
+            "score": 3.45,
+            "rank": 26,
+            "raw_score": 3.45
+          },
+          {
+            "name": "Graphics",
+            "score": 3.425,
+            "rank": 60,
+            "raw_score": 3.425
+          },
+          {
+            "name": "Audio",
+            "score": 3.075,
+            "rank": 35,
+            "raw_score": 3.075
+          },
+          {
+            "name": "Originality & Innovation",
+            "score": 3.425,
+            "rank": 24,
+            "raw_score": 3.425
+          },
+          {
+            "name": "Theme",
+            "score": 3.75,
+            "rank": 7,
+            "raw_score": 3.75
+          }
+        ],
+        "raw_score": 3.425,
+        "rating_count": 40,
+        "id": 3586368,
+        "title": "Project OP",
+        "score": 3.425,
+        "rank": 13,
+        "contributors": [
+          {
+            "name": "leonzable",
+            "id": 13689000
+          }
+        ]
+      },
+      "entryData": {
+        "coolness": 51,
+        "created_at": "2025-05-24 22:49:00",
+        "id": 701703,
+        "game": {
+          "title": "Project OP",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "leonzable",
+            "url": "https://leonzable.itch.io",
+            "id": 13689000
+          },
+          "url": "https://leonzable.itch.io/project-op",
+          "short_text": "Make anything explode using psychic powers.",
+          "id": 3586368,
+          "cover": "https://img.itch.zone/aW1nLzIxMzQ0ODIzLnBuZw==/300x240%23c/Q28ZnR.png",
+          "cover_color": "#7B6960"
+        },
+        "url": "/jam/gdevelop-big-game-jam-7/rate/3586368",
+        "rating_count": 40
+      },
+      "details": {
+        "title": "Project OP",
+        "description": "Deep in a top secret government facility lies a human captive with extraordinary superpowers.\nShe's about to break out...\nProject OP is a game where you can make anything explode using psychic powers.\nThe game has 6 different endings.\nThe game was made over the course of 9 days for the 7th Big GDevelop Game jam.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzU4NjM2OC8yMTM0NDQyNS5wbmc=/original/SFxwHA.png",
+          "https://img.itch.zone/aW1hZ2UvMzU4NjM2OC8yMTM0NDQzNi5wbmc=/original/3D7Q%2FR.png",
+          "https://img.itch.zone/aW1hZ2UvMzU4NjM2OC8yMTM0NDQzNy5wbmc=/original/RvnX%2FX.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "leonzable",
+          "Genre": "Action",
+          "Made with": "GDevelop",
+          "Tags": "artgame, Bullet Hell, Experimental, Indie, Multiple Endings, Pixel Art, power-fantasy, reverse-horror, Short, Superpowers"
+        }
+      }
+    },
+    {
+      "gameId": 3588478,
+      "gameUrl": "https://countwootin.itch.io/bloody-knuckles",
+      "overallRank": 18,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIxMzU3ODgyLnBuZw==/300x240%23c/6lxtAL.png",
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-7/rate/3588478",
+        "criteria": [
+          {
+            "name": "Fun & Game Design",
+            "score": 3.6037735849057,
+            "rank": 15,
+            "raw_score": 3.6037735849057
+          },
+          {
+            "name": "Originality & Innovation",
+            "score": 3.3207547169811,
+            "rank": 32,
+            "raw_score": 3.3207547169811
+          },
+          {
+            "name": "Audio",
+            "score": 2.8867924528302,
+            "rank": 57,
+            "raw_score": 2.8867924528302
+          },
+          {
+            "name": "Graphics",
+            "score": 3.0188679245283,
+            "rank": 110,
+            "raw_score": 3.0188679245283
+          },
+          {
+            "name": "Theme",
+            "score": 3.7358490566038,
+            "rank": 8,
+            "raw_score": 3.7358490566038
+          }
+        ],
+        "raw_score": 3.3132075471698,
+        "rating_count": 53,
+        "id": 3588478,
+        "title": "Bloody Knuckles",
+        "score": 3.3132075471698,
+        "rank": 18,
+        "contributors": [
+          {
+            "name": "CountWootin",
+            "id": 13654786
+          }
+        ]
+      },
+      "entryData": {
+        "coolness": 105,
+        "created_at": "2025-05-25 21:07:17",
+        "id": 702548,
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "CountWootin",
+            "url": "https://countwootin.itch.io",
+            "id": 13654786
+          },
+          "url": "https://countwootin.itch.io/bloody-knuckles",
+          "title": "Bloody Knuckles",
+          "id": 3588478,
+          "cover": "https://img.itch.zone/aW1nLzIxMzU3ODgyLnBuZw==/300x240%23c/6lxtAL.png",
+          "cover_color": "#1fb99b"
+        },
+        "url": "/jam/gdevelop-big-game-jam-7/rate/3588478",
+        "rating_count": 53
+      },
+      "details": {
+        "title": "Bloody Knuckles",
+        "description": "You are a giant fist thirsty to squash your tiny foe, How far can you go?\nI joined the gamejam late so I only had 4 days but everything in this game was made by me and its my first time making a game, hope you enjoy and see if you can beat my highscore",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzU4ODQ3OC8yMTM1ODIyNi5wbmc=/original/vI%2FMiI.png",
+          "https://img.itch.zone/aW1hZ2UvMzU4ODQ3OC8yMTM1ODIzOS5wbmc=/original/P9vR18.png",
+          "https://img.itch.zone/aW1hZ2UvMzU4ODQ3OC8yMTM1ODE4Ny5wbmc=/original/g1MmWC.png",
+          "https://img.itch.zone/aW1hZ2UvMzU4ODQ3OC8yMTM1ODIyOS5wbmc=/original/vhVoox.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "CountWootin",
+          "Genre": "Action",
+          "Made with": "GDevelop"
+        }
+      }
+    },
+    {
+      "gameId": 3586719,
+      "gameUrl": "https://telif.itch.io/part-time-deity",
+      "overallRank": 21,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIxMzQ2NjkwLnBuZw==/300x240%23c/nhTcmq.png",
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-7/rate/3586719",
+        "criteria": [
+          {
+            "name": "Fun & Game Design",
+            "score": 3.35,
+            "rank": 32,
+            "raw_score": 3.35
+          },
+          {
+            "name": "Theme",
+            "score": 3.65,
+            "rank": 10,
+            "raw_score": 3.65
+          },
+          {
+            "name": "Audio",
+            "score": 2.75,
+            "rank": 83,
+            "raw_score": 2.75
+          },
+          {
+            "name": "Graphics",
+            "score": 3.35,
+            "rank": 72,
+            "raw_score": 3.35
+          },
+          {
+            "name": "Originality & Innovation",
+            "score": 3.35,
+            "rank": 30,
+            "raw_score": 3.35
+          }
+        ],
+        "raw_score": 3.29,
+        "rating_count": 20,
+        "id": 3586719,
+        "title": "Part-Time Deity",
+        "score": 3.29,
+        "rank": 21,
+        "contributors": [
+          {
+            "name": "telif",
+            "id": 3597054
+          }
+        ]
+      },
+      "entryData": {
+        "coolness": 5,
+        "created_at": "2025-05-25 02:09:58",
+        "id": 701780,
+        "game": {
+          "title": "Part-Time Deity",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "telif",
+            "url": "https://telif.itch.io",
+            "id": 3597054
+          },
+          "url": "https://telif.itch.io/part-time-deity",
+          "short_text": "Answer people's prayers in this short story-rich experience.",
+          "id": 3586719,
+          "cover": "https://img.itch.zone/aW1nLzIxMzQ2NjkwLnBuZw==/300x240%23c/nhTcmq.png",
+          "cover_color": "#000000"
+        },
+        "url": "/jam/gdevelop-big-game-jam-7/rate/3586719",
+        "rating_count": 20
+      },
+      "details": {
+        "title": "Part-Time Deity",
+        "description": "My entry for the GDevelop Big Jam #7.\n\nIn this game, you play as an assistant to a God, and you must answer people's prayers to make their life better. Be careful though, as some of the options might be deceiving!\ngd.games upload: https://gd.games/telif/part-time-deity\nCredits:\nGame Engine: GDevelop\nCharacter Assets: Lively NPCs by chierit\nBackground Assets: Pixel Art Side Scroller 5 by hugues laborde\nFont: PixelAE by Essssam\nSome CC0 assets from GDevelop Asset Store were also used\nMusic: Made by me using FL Studio Mobile\nSound Effects: Made by me using JSFXRI only had around 3-4 days to work on the game, but I think it turned out pretty well. Hope you enjoy it!\nAny feedback is welcome down in the comments!",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIxMzQ2NjkwLnBuZw==/original/jqO%2FMA.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "telif",
+          "Genre": "Role Playing",
+          "Made with": "GDevelop",
+          "Tags": "No AI, Pixel Art, Story Rich"
+        }
+      }
+    },
+    {
+      "gameId": 3576834,
+      "gameUrl": "https://jjgamez64.itch.io/fae",
+      "overallRank": 49,
+      "topCategories": [
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIxMzI4MTc4LmpwZw==/300x240%23c/tsVBdq.jpg",
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-7/rate/3576834",
+        "criteria": [
+          {
+            "name": "Fun & Game Design",
+            "score": 2.5454545454545,
+            "rank": 172,
+            "raw_score": 2.5454545454545
+          },
+          {
+            "name": "Originality & Innovation",
+            "score": 2.9848484848485,
+            "rank": 73,
+            "raw_score": 2.9848484848485
+          },
+          {
+            "name": "Audio",
+            "score": 3.5151515151515,
+            "rank": 3,
+            "raw_score": 3.5151515151515
+          },
+          {
+            "name": "Graphics",
+            "score": 3.5454545454545,
+            "rank": 44,
+            "raw_score": 3.5454545454545
+          },
+          {
+            "name": "Theme",
+            "score": 2.7575757575758,
+            "rank": 83,
+            "raw_score": 2.7575757575758
+          }
+        ],
+        "raw_score": 3.069696969697,
+        "rating_count": 66,
+        "id": 3576834,
+        "title": "Fae",
+        "score": 3.069696969697,
+        "rank": 49,
+        "contributors": [
+          {
+            "name": "JJGamez64",
+            "id": 3368461
+          },
+          {
+            "name": "Akempmusic",
+            "id": 11636669
+          },
+          {
+            "name": "chuckpeezy",
+            "id": 13559438
+          },
+          {
+            "name": "Chayi",
+            "id": 9812965
+          }
+        ]
+      },
+      "entryData": {
+        "coolness": 102,
+        "created_at": "2025-05-25 19:29:12",
+        "id": 702452,
+        "contributors": [
+          {
+            "name": "JJGamez64",
+            "url": "https://jjgamez64.itch.io"
+          },
+          {
+            "name": "Akempmusic",
+            "url": "https://akempmusic.itch.io"
+          },
+          {
+            "name": "chuckpeezy",
+            "url": "https://chuckpeezy.itch.io"
+          },
+          {
+            "name": "Chayi",
+            "url": "https://chayiii.itch.io"
+          }
+        ],
+        "game": {
+          "title": "Fae",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "JJGamez64",
+            "url": "https://jjgamez64.itch.io",
+            "id": 3368461
+          },
+          "url": "https://jjgamez64.itch.io/fae",
+          "short_text": "Use the power of the immortal spirit to save your village!",
+          "id": 3576834,
+          "cover": "https://img.itch.zone/aW1nLzIxMzI4MTc4LmpwZw==/300x240%23c/tsVBdq.jpg",
+          "cover_color": "#193d3f"
+        },
+        "url": "/jam/gdevelop-big-game-jam-7/rate/3576834",
+        "rating_count": 66
+      },
+      "details": {
+        "title": "Fae",
+        "description": "Seek the power of the legendary Fae to Save your Village from the Undead Lord's Siege! \nPress ENTER to skip cutscenes. Press R to restart level if game breaks\nElara's controls:\n(Most actions have two keys assigned to them e.g you can use press D OR the right arrow to run to the right)\nOption 1Option 2Running:A/DLeft/Right arrow keysJumping:Note: This is a variable jump, hold down the key to jump higher.KXShoot○ You can chain shoot projectiles while on the ground by repeatedly pressing keys○ Can fire one projectile while jumping, or falling.JKSummon Fae: Spacebar\n\nFae's Controls:\n\nOption 1\nOption 2\nWalkingA/D\nLeft/Right arrow keys\nGrab/Lift/Aim○ Can grab large objects, projectiles, and airborne enemies○ Holding the Input down allows you to aim the throw with W+S or the UP+DOWN Arrow KeysK\nX\nPunch/Throw/Slam○Punches forward to destroy obstacles or enemies ○ Will throw what is being carried\n ○ Can throw enemies into other enemies to kill them○ IF holding down the S or DOWN keys, will do a GROUND SLAM that will destroy hit enemies/obstacles or send grounded enemies up into the air to be Grabbed/Punched.J\nZUnsummon○Dissmisses Fae and returns control to ElaraSpacebar\nCredits:\nProgrammer: JJGamez64 https://bsky.app/profile/jjgamez64.bsky.socialArt: Charles Pate Jr https://www.instagram.com/super_sketchy_charles/Music: Adam Kempshall https://linktr.ee/adamkempshallVoice Acting: Chayi https://chayiii.carrd.co/",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIxMzI4MTc4LmpwZw==/original/QombM0.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Authors": "JJGamez64, Akempmusic, chuckpeezy, Chayi",
+          "Genre": "Action",
+          "Made with": "GDevelop"
+        }
+      }
+    },
+    {
+      "gameId": 3588933,
+      "gameUrl": "https://bowties8glasses.itch.io/space-whale",
+      "overallRank": 112,
+      "topCategories": [
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIxMzYzNDY0LnBuZw==/300x240%23c/nV2GWB.png",
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-7/rate/3588933",
+        "criteria": [
+          {
+            "name": "Graphics",
+            "score": 3.3636363636364,
+            "rank": 71,
+            "raw_score": 3.3636363636364
+          },
+          {
+            "name": "Audio",
+            "score": 3.4545454545455,
+            "rank": 6,
+            "raw_score": 3.4545454545455
+          },
+          {
+            "name": "Fun & Game Design",
+            "score": 2.7727272727273,
+            "rank": 114,
+            "raw_score": 2.7727272727273
+          },
+          {
+            "name": "Originality & Innovation",
+            "score": 2.3636363636364,
+            "rank": 192,
+            "raw_score": 2.3636363636364
+          },
+          {
+            "name": "Theme",
+            "score": 1.7272727272727,
+            "rank": 291,
+            "raw_score": 1.7272727272727
+          }
+        ],
+        "raw_score": 2.7363636363636,
+        "rating_count": 22,
+        "id": 3588933,
+        "title": "Space Whale",
+        "score": 2.7363636363636,
+        "rank": 112,
+        "contributors": [
+          {
+            "name": "Bowties8Glasses",
+            "id": 2230187
+          }
+        ]
+      },
+      "entryData": {
+        "coolness": 11,
+        "created_at": "2025-05-25 18:44:00",
+        "id": 702349,
+        "game": {
+          "title": "Space Whale",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Bowties8Glasses",
+            "url": "https://bowties8glasses.itch.io",
+            "id": 2230187
+          },
+          "url": "https://bowties8glasses.itch.io/space-whale",
+          "short_text": "swim through the vast and starry (and blindingly bright) space",
+          "id": 3588933,
+          "cover": "https://img.itch.zone/aW1nLzIxMzYzNDY0LnBuZw==/300x240%23c/nV2GWB.png",
+          "cover_color": "#428696"
+        },
+        "url": "/jam/gdevelop-big-game-jam-7/rate/3588933",
+        "rating_count": 22
+      },
+      "details": {
+        "title": "Space Whale",
+        "description": "Known Glitch: depending on your browser and/or device, the games audio may not work as intended,\n\nI've tested the game with chrome and firefox in both windows and android, and safari on ios (using my 2nd gen SE) most of them just had a initial delay at the start due to still loading the audio, while in safari the adaptive music was broken and sound effects wouldn't play\n\nhowever I still can't garuante the game audio will work on your end even if you're on a browser that worked for me, so check the gameplay video for reference on how the music and sound effects should ideally be playing\n\n---You're a whale swiming through space and feasting on yummy red, blue and purple stars! but be careful, not only are there astewwoids in your way, but your view may get covered by strong colored light waves \nMove Left and Right by dragging your Finger or Mouse Cursor (holding left click), if you  let go, the player will snap back to the center\n\nTry getting as many stars as you can without getting hit by astewwoids, when a light wave comes by, the star whose colors matches the wave will give way more points than usual! \n\n---\nThis game was made for the GDevelop BIG Game Jam #7, based on the theme \"overpowered\"\nwhile it def was my first thought, I tried thinking of a interpretation that wasn't just \"something very very strong, what I landed on was \"overpowering\" in a sensory(?) kind of meaning, like a speaker playing music so loud that it \"overpowers\" any other sound\nInitially my way about doing this was gonna be making a basic scoring game, who's background and music would get progressively more elaborate and trippy to the point it would distract from the game, with a \"falling through space\" aesthetic\nbut due to me being rather low energy during the jam period, and also just being a lil rusty making games, I simplified the idea and game more, and the direction went from intense \"falling through space\" to a more serene \"swimming through space\" \nI'm particularly happy with how I handled the music and sound design here, I feel the BGM turned out very nice, and I had fun making the variants for when each colored waves come by. \nThe sound effects especially, instead of using the engine's pitch tool, I recorded each variant of the sound so that the pitch is always in key with the BGM\nmore than anything I'm just happy to get to make a lil game again, its been a while... c^^",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIxMzYzNDY0LnBuZw==/original/plyqsa.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.5 out of 5 stars(2 total ratings)",
+          "Author": "Bowties8Glasses",
+          "Made with": "LMMS, Krita, GDevelop",
+          "Tags": "Singleplayer",
+          "Average session": "A few minutes",
+          "Inputs": "Mouse, Touchscreen"
+        }
+      }
+    },
+    {
+      "gameId": 3585361,
+      "gameUrl": "https://lukbina.itch.io/overgrown-garden",
+      "overallRank": 28,
+      "topCategories": [
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIxMzM3NjE4LnBuZw==/300x240%23c/u7KiLj.png",
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-7/rate/3585361",
+        "criteria": [
+          {
+            "name": "Audio",
+            "score": 3.3611111111111,
+            "rank": 10,
+            "raw_score": 3.3611111111111
+          },
+          {
+            "name": "Fun & Game Design",
+            "score": 3.1388888888889,
+            "rank": 51,
+            "raw_score": 3.1388888888889
+          },
+          {
+            "name": "Graphics",
+            "score": 3.9166666666667,
+            "rank": 14,
+            "raw_score": 3.9166666666667
+          },
+          {
+            "name": "Originality & Innovation",
+            "score": 3.1944444444444,
+            "rank": 45,
+            "raw_score": 3.1944444444444
+          },
+          {
+            "name": "Theme",
+            "score": 2.3888888888889,
+            "rank": 151,
+            "raw_score": 2.3888888888889
+          }
+        ],
+        "raw_score": 3.2,
+        "rating_count": 36,
+        "id": 3585361,
+        "title": "Overgrown Garden",
+        "score": 3.2,
+        "rank": 28,
+        "contributors": [
+          {
+            "name": "lukbina",
+            "id": 2892727
+          }
+        ]
+      },
+      "entryData": {
+        "coolness": 82,
+        "created_at": "2025-05-24 17:58:35",
+        "id": 701561,
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "lukbina",
+            "url": "https://lukbina.itch.io",
+            "id": 2892727
+          },
+          "url": "https://lukbina.itch.io/overgrown-garden",
+          "title": "Overgrown Garden",
+          "id": 3585361,
+          "cover": "https://img.itch.zone/aW1nLzIxMzM3NjE4LnBuZw==/300x240%23c/u7KiLj.png",
+          "cover_color": "#FAEFE4"
+        },
+        "url": "/jam/gdevelop-big-game-jam-7/rate/3585361",
+        "rating_count": 36
+      },
+      "details": {
+        "title": "Overgrown Garden",
+        "description": "In this cozy garden management game, you're gifted with a magical \"overpowered\" soil: plants grow faster and they multiply. At first, it's a dream... but soon, your garden starts to overflow!\nTend to patch of paradise, fulfill quirky requests from charming village characters, and keep your garden under control...before it collapses under its own lush abundance!\nBalance is the key: water wisely, harvest with care, and have fun :)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzU4NTM2MS8yMTMzNzcxNS5wbmc=/original/8uwbr%2F.png",
+          "https://img.itch.zone/aW1hZ2UvMzU4NTM2MS8yMTM0MDIwNC5wbmc=/original/vndWsd.png",
+          "https://img.itch.zone/aW1hZ2UvMzU4NTM2MS8yMTM0MDIwNS5wbmc=/original/eAJ3qF.png",
+          "https://img.itch.zone/aW1hZ2UvMzU4NTM2MS8yMTMzNzcxNi5wbmc=/original/Jj0E5p.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "lukbina",
+          "Genre": "Simulation",
+          "Made with": "GDevelop",
+          "Tags": "Casual, Cozy, Cute, Fantasy, Gardening, gdevelop, My First Game Jam, Point & Click, Short, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 3587843,
+      "gameUrl": "https://raindev.itch.io/veritas",
+      "overallRank": 11,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIxMzU0MjEzLnBuZw==/300x240%23c/5FfsNR.png",
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-7/rate/3587843",
+        "criteria": [
+          {
+            "name": "Fun & Game Design",
+            "score": 2.8636363636364,
+            "rank": 94,
+            "raw_score": 2.8636363636364
+          },
+          {
+            "name": "Audio",
+            "score": 3.1363636363636,
+            "rank": 29,
+            "raw_score": 3.1363636363636
+          },
+          {
+            "name": "Graphics",
+            "score": 4.5454545454545,
+            "rank": 1,
+            "raw_score": 4.5454545454545
+          },
+          {
+            "name": "Theme",
+            "score": 3.2272727272727,
+            "rank": 29,
+            "raw_score": 3.2272727272727
+          },
+          {
+            "name": "Originality & Innovation",
+            "score": 3.4090909090909,
+            "rank": 27,
+            "raw_score": 3.4090909090909
+          }
+        ],
+        "raw_score": 3.4363636363636,
+        "rating_count": 22,
+        "id": 3587843,
+        "title": "Veritas",
+        "score": 3.4363636363636,
+        "rank": 11,
+        "contributors": [
+          {
+            "name": "rain",
+            "id": 4796579
+          },
+          {
+            "name": "Parag",
+            "id": 13694586
+          },
+          {
+            "name": "nati_123",
+            "id": 13753103
+          },
+          {
+            "name": "Alakriz",
+            "id": 8018345
+          }
+        ]
+      },
+      "entryData": {
+        "coolness": 13,
+        "created_at": "2025-05-25 14:18:17",
+        "id": 702038,
+        "contributors": [
+          {
+            "name": "rain",
+            "url": "https://raindev.itch.io"
+          },
+          {
+            "name": "Parag",
+            "url": "https://paragyikes.itch.io"
+          },
+          {
+            "name": "nati_123",
+            "url": "https://nati-123.itch.io"
+          },
+          {
+            "name": "Alakriz",
+            "url": "https://alakriz.itch.io"
+          }
+        ],
+        "game": {
+          "title": "Veritas",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "rain",
+            "url": "https://raindev.itch.io",
+            "id": 4796579
+          },
+          "url": "https://raindev.itch.io/veritas",
+          "short_text": "You are the allmighty, God has given you the ability to judge over the lives of the condemned.  Use it wisely.",
+          "id": 3587843,
+          "cover": "https://img.itch.zone/aW1nLzIxMzU0MjEzLnBuZw==/300x240%23c/5FfsNR.png",
+          "cover_color": "#000000"
+        },
+        "url": "/jam/gdevelop-big-game-jam-7/rate/3587843",
+        "rating_count": 22
+      },
+      "details": {
+        "title": "Veritas",
+        "description": "F to proceed the text, B to fasten it. Click on the items to inspect them.\nA narrative based approach to the theme.\nYour soul has been transferred to that of a king's. Since his coronation, he's been continuously judging the condemned to gain- xxxxx. One mistake and it's back to square one! \nWill you make the right decision or take someone's life away?\nYou have the power to do anything.\nOUR TEAM ( we love our players! ) \nDesign lead and Programmer:  rain\nStory writer and Graphic Design : Parag B\nArt Lead: Nitish\nSound Design Lead: M.I. Saad\nwe are making more such games, follow us for more updates <33\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzU4Nzg0My8yMTM1NDMwMi5wbmc=/original/jgNuHO.png",
+          "https://img.itch.zone/aW1hZ2UvMzU4Nzg0My8yMTM1NDI0Ni5wbmc=/original/p910pB.png",
+          "https://img.itch.zone/aW1hZ2UvMzU4Nzg0My8yMTM1NDI1NS5wbmc=/original/HqY2bJ.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(3 total ratings)",
+          "Authors": "rain, Parag, nati_123, Alakriz",
+          "Genre": "Visual Novel",
+          "Made with": "GDevelop"
+        }
+      }
+    },
+    {
+      "gameId": 3588222,
+      "gameUrl": "https://niu-studios.itch.io/the-power-of-friendship",
+      "overallRank": 60,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIxMzU3NTQxLnBuZw==/300x240%23c/%2Bws5OS.png",
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-7/rate/3588222",
+        "criteria": [
+          {
+            "name": "Originality & Innovation",
+            "score": 3.6774193548387,
+            "rank": 12,
+            "raw_score": 3.6774193548387
+          },
+          {
+            "name": "Audio",
+            "score": 2.0645161290323,
+            "rank": 237,
+            "raw_score": 2.0645161290323
+          },
+          {
+            "name": "Fun & Game Design",
+            "score": 3,
+            "rank": 73,
+            "raw_score": 3
+          },
+          {
+            "name": "Graphics",
+            "score": 4.3870967741935,
+            "rank": 2,
+            "raw_score": 4.3870967741935
+          },
+          {
+            "name": "Theme",
+            "score": 2,
+            "rank": 236,
+            "raw_score": 2
+          }
+        ],
+        "raw_score": 3.0258064516129,
+        "rating_count": 31,
+        "id": 3588222,
+        "title": "The Power of Friendship",
+        "score": 3.0258064516129,
+        "rank": 60,
+        "contributors": [
+          {
+            "name": "Niu Studios",
+            "id": 13695336
+          }
+        ]
+      },
+      "entryData": {
+        "coolness": 14,
+        "created_at": "2025-05-25 18:59:09",
+        "id": 702412,
+        "game": {
+          "title": "The Power of Friendship",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Niu Studios",
+            "url": "https://niu-studios.itch.io",
+            "id": 13695336
+          },
+          "url": "https://niu-studios.itch.io/the-power-of-friendship",
+          "short_text": "A game where you play with your friendship bracelet's beads to make friends that'll help you along the way :3",
+          "id": 3588222,
+          "cover": "https://img.itch.zone/aW1nLzIxMzU3NTQxLnBuZw==/300x240%23c/%2Bws5OS.png",
+          "cover_color": "#70a5fe"
+        },
+        "url": "/jam/gdevelop-big-game-jam-7/rate/3588222",
+        "rating_count": 31
+      },
+      "details": {
+        "title": "The Power of Friendship",
+        "description": "Published on GD Gameshttps://gd.games/niustudios/thepoweroffriendship\nIn \"The Power of Friendship\" you get to play against your colleagues in school with your friendship bracelets. Each person gets 5 beads with random stats (points and level) that you can later level up and trade. The objective of the game is to battle, get better beads, and make friends that will help you if you befriend them with:\nTHE POWER OF FRIENDSHIP\n\nP.S. the Power of Friendship is very OP :3\nHOW TO PLAY:\n\nControls: Mouse\nCredits:\nJéssica Correia: The masoquist who tried programming a whole game in a week while working a full-time job, for the first time. Also part of the game design team in charge of the calculations and math envolving mechanics.\nNádia Correia: The delusional and maximalist artist that can't leave a pixel empty. Also part of the game design team. Also went deaf making the music and sound design.\nBruna Costa: The game design council and the much needed EMOTIONAL SUPPORT.\nFuture Plans:\n- Add Rarities (beads will be able to get multiple colors to better the chance of winning against the opponent's color)\n- Add Abilities (some beads will have special abilities like \"play an extra bead\" to score more points or \"if this bead loses, the opponent doesn't get a point on the score\". Abilities will have the base version and a leveled up version).\n- Add a Collection (for the player to keep all the different beads they've collected).\n- Add MORE Beads\n- Add a Settings Menu (change the volume for music and sound effects, or turn them off).\n- Add Animations (buttons popping up, transitions scenes, etc).\n- Add a 3-phase boss battle (against 2 teachers and then against the people you didn't befriend along the way all together c: ).\n- Add Benefits for how many Friends you have (if you have 2 friends you get +5 points in one bead, if you have 3 you get 1 level for 1 bead, if you have 4 you get one more bead space, etc).\n- Add Dialogs (simple ones like \"what are you looking for'\" in the trade, for example).\n- Make Improvements in the Scoring and Trading sytems.",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIxMzU3NTQxLnBuZw==/original/FJFBBi.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Author": "Niu Studios",
+          "Genre": "Strategy",
+          "Made with": "GDevelop",
+          "Tags": "2D, Casual, Cozy, Cute, Hand-drawn, Indie, Point & Click, Roguelike, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 3588779,
+      "gameUrl": "https://onyare.itch.io/hyper-punch",
+      "overallRank": 48,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIxMzU5NDMxLnBuZw==/300x240%23c/Qarasb.png",
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-7/rate/3588779",
+        "criteria": [
+          {
+            "name": "Audio",
+            "score": 2.7272727272727,
+            "rank": 86,
+            "raw_score": 2.7272727272727
+          },
+          {
+            "name": "Fun & Game Design",
+            "score": 2.7272727272727,
+            "rank": 127,
+            "raw_score": 2.7272727272727
+          },
+          {
+            "name": "Graphics",
+            "score": 4.3181818181818,
+            "rank": 4,
+            "raw_score": 4.3181818181818
+          },
+          {
+            "name": "Theme",
+            "score": 2.6363636363636,
+            "rank": 100,
+            "raw_score": 2.6363636363636
+          },
+          {
+            "name": "Originality & Innovation",
+            "score": 2.9545454545455,
+            "rank": 79,
+            "raw_score": 2.9545454545455
+          }
+        ],
+        "raw_score": 3.0727272727273,
+        "rating_count": 22,
+        "id": 3588779,
+        "title": "Hyper Punch",
+        "score": 3.0727272727273,
+        "rank": 48,
+        "contributors": [
+          {
+            "name": "Angry Water Snake",
+            "id": 10512434
+          },
+          {
+            "name": "BottledRocket",
+            "id": 8246659
+          }
+        ]
+      },
+      "entryData": {
+        "coolness": 0,
+        "created_at": "2025-05-25 17:53:36",
+        "id": 702281,
+        "contributors": [
+          {
+            "name": "Angry Water Snake",
+            "url": "https://onyare.itch.io"
+          },
+          {
+            "name": "BottledRocket",
+            "url": "https://bottledrocket.itch.io"
+          }
+        ],
+        "game": {
+          "title": "Hyper Punch",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Angry Water Snake",
+            "url": "https://onyare.itch.io",
+            "id": 10512434
+          },
+          "url": "https://onyare.itch.io/hyper-punch",
+          "short_text": "Everyone is overpowered, but you have godmode.",
+          "id": 3588779,
+          "cover": "https://img.itch.zone/aW1nLzIxMzU5NDMxLnBuZw==/300x240%23c/Qarasb.png",
+          "cover_color": "#eeeeee"
+        },
+        "url": "/jam/gdevelop-big-game-jam-7/rate/3588779",
+        "rating_count": 22
+      },
+      "details": {
+        "title": "Hyper Punch",
+        "description": "Read this description, it's important.\n<z> to punch\n<space> to progress dialogue or screens\n<left arrow> and <right arrow> to move back and fourth\nIf you want to overpower the bosses like they overpower you, press <tab> and <p> on your keyboard at the same time to open debug mode (AKA godmode). Give these overpowered idiots a taste of their own medicine\n\nMy teammate and I both got really sick during development. We poured our hearts and souls into this game but I unfortunately made the bosses too overpowered... oh well. You're overpowered too :> \nGo grab your easy win 😋\nhttps://gd.games/onyare/hyperpunch-prototype\n\nCREDITS:\nDev TeamBottledRocket - Character Design, Layout, UI Design, Assets, Game Idea, Writer\nAngry Water Snake - Game Design, \"programming\"\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIxMzU5NDMxLnBuZw==/original/U6k8jU.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "Angry Water Snake, BottledRocket",
+          "Genre": "Fighting",
+          "Made with": "GDevelop",
+          "Tags": "Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 3586134,
+      "gameUrl": "https://zero-scale.itch.io/mecha-showtime",
+      "overallRank": 15,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIxMzQyNzUyLnBuZw==/300x240%23c/jfo3vU.png",
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-7/rate/3586134",
+        "criteria": [
+          {
+            "name": "Fun & Game Design",
+            "score": 3.0344827586207,
+            "rank": 71,
+            "raw_score": 3.0344827586207
+          },
+          {
+            "name": "Originality & Innovation",
+            "score": 3.3103448275862,
+            "rank": 36,
+            "raw_score": 3.3103448275862
+          },
+          {
+            "name": "Audio",
+            "score": 3.2758620689655,
+            "rank": 16,
+            "raw_score": 3.2758620689655
+          },
+          {
+            "name": "Graphics",
+            "score": 4.2758620689655,
+            "rank": 5,
+            "raw_score": 4.2758620689655
+          },
+          {
+            "name": "Theme",
+            "score": 3.0689655172414,
+            "rank": 37,
+            "raw_score": 3.0689655172414
+          }
+        ],
+        "raw_score": 3.3931034482759,
+        "rating_count": 29,
+        "id": 3586134,
+        "title": "Mecha Showtime",
+        "score": 3.3931034482759,
+        "rank": 15,
+        "contributors": [
+          {
+            "name": "Zero Scale",
+            "id": 1186432
+          }
+        ]
+      },
+      "entryData": {
+        "coolness": 31,
+        "created_at": "2025-05-24 20:45:43",
+        "id": 701676,
+        "game": {
+          "title": "Mecha Showtime",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Zero Scale",
+            "url": "https://zero-scale.itch.io",
+            "id": 1186432
+          },
+          "url": "https://zero-scale.itch.io/mecha-showtime",
+          "short_text": "Rid Japan of Kaijus using a powerful Mecha!",
+          "id": 3586134,
+          "cover": "https://img.itch.zone/aW1nLzIxMzQyNzUyLnBuZw==/300x240%23c/jfo3vU.png",
+          "cover_color": "#404040"
+        },
+        "url": "/jam/gdevelop-big-game-jam-7/rate/3586134",
+        "rating_count": 29
+      },
+      "details": {
+        "title": "Mecha Showtime",
+        "description": "Kaijus have invaded Japan, and investors concluded that the best way to deal with this is using a mecha with flashy attacks.\nDefeat Kaijus and gain fame so we can invest even more in the mecha.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzU4NjEzNC8yMTM0MzAyNi5wbmc=/original/9tZZk0.png",
+          "https://img.itch.zone/aW1hZ2UvMzU4NjEzNC8yMTM0MzAyOS5wbmc=/original/neQtKP.png",
+          "https://img.itch.zone/aW1hZ2UvMzU4NjEzNC8yMTM0MzAyOC5wbmc=/original/jVquq0.png",
+          "https://img.itch.zone/aW1hZ2UvMzU4NjEzNC8yMTM0MzAyNy5wbmc=/original/Vx1NR6.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Zero Scale",
+          "Genre": "Fighting, Action, Strategy",
+          "Made with": "GDevelop",
+          "Tags": "Monsters, Robots"
+        }
+      }
+    },
+    {
+      "gameId": 3587353,
+      "gameUrl": "https://five0ninestudio.itch.io/iron-will",
+      "overallRank": 22,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIxMzYwMTYwLnBuZw==/300x240%23c/ht1fDP.png",
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-7/rate/3587353",
+        "criteria": [
+          {
+            "name": "Fun & Game Design",
+            "score": 3.1153846153846,
+            "rank": 54,
+            "raw_score": 3.1153846153846
+          },
+          {
+            "name": "Originality & Innovation",
+            "score": 2.9807692307692,
+            "rank": 75,
+            "raw_score": 2.9807692307692
+          },
+          {
+            "name": "Audio",
+            "score": 3.25,
+            "rank": 18,
+            "raw_score": 3.25
+          },
+          {
+            "name": "Theme",
+            "score": 2.7307692307692,
+            "rank": 88,
+            "raw_score": 2.7307692307692
+          },
+          {
+            "name": "Graphics",
+            "score": 4.2307692307692,
+            "rank": 6,
+            "raw_score": 4.2307692307692
+          }
+        ],
+        "raw_score": 3.2615384615385,
+        "rating_count": 52,
+        "id": 3587353,
+        "title": "Iron Will",
+        "score": 3.2615384615385,
+        "rank": 22,
+        "contributors": [
+          {
+            "name": "five0nine.studio",
+            "id": 9389414
+          }
+        ]
+      },
+      "entryData": {
+        "coolness": 67,
+        "created_at": "2025-05-25 09:07:23",
+        "id": 701881,
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "five0nine.studio",
+            "url": "https://five0ninestudio.itch.io",
+            "id": 9389414
+          },
+          "url": "https://five0ninestudio.itch.io/iron-will",
+          "title": "Iron Will",
+          "id": 3587353,
+          "cover": "https://img.itch.zone/aW1nLzIxMzYwMTYwLnBuZw==/300x240%23c/ht1fDP.png",
+          "cover_color": "#4d8555"
+        },
+        "url": "/jam/gdevelop-big-game-jam-7/rate/3587353",
+        "rating_count": 52
+      },
+      "details": {
+        "title": "Iron Will",
+        "description": "Hello there! We're thrilled to introduce our latest prototype, Iron Will, created for the 7th GDevelop Big Game Jam 2025. The theme was Overpowered.\n \nTake on the role of a lone dwarf battling a massive octopus (LOTR fans here!!! :D). Destroy its tentacles to charge your OVERPOWER gauge and unleash damage upon the BOSS.\n \nControls\nArrow Keys – Move\nA – Attack\nSpace – Jump\nCtrl – Dash\nAbout Us\n \nWe’re five0nine.studio, an indie duo passionate about creating immersive experiences.\nAs always, my wife poured her artistic vision into crafting the hand-drawn assets and all the frame-by-frame animations, while I battled the code to bring this prototype to life. Debugging remains an eternal struggle, but the challenge is what makes game dev fun, right? :...)\nWe’d love for you to play Iron Will and share your thoughts! Every bit of feedback is invaluable.We hope you enjoy this prototype as much as we enjoyed making it!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzU4NzM1My8yMTM2MDYyNi5wbmc=/original/HfaWRD.png",
+          "https://img.itch.zone/aW1hZ2UvMzU4NzM1My8yMTM2MDU1MS5wbmc=/original/kAr%2BkU.png",
+          "https://img.itch.zone/aW1hZ2UvMzU4NzM1My8yMTM2MDU1NS5wbmc=/original/nE1N%2BT.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "five0nine.studio",
+          "Genre": "Action",
+          "Made with": "GDevelop"
+        }
+      }
+    },
+    {
+      "gameId": 3587465,
+      "gameUrl": "https://yeyeyy.itch.io/cheekmate-nuts-to-riches",
+      "overallRank": 90,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIxMzUxODk2LnBuZw==/300x240%23c/UpYmo7.png",
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-7/rate/3587465",
+        "criteria": [
+          {
+            "name": "Fun & Game Design",
+            "score": 2.8125,
+            "rank": 102,
+            "raw_score": 2.8125
+          },
+          {
+            "name": "Originality & Innovation",
+            "score": 3.03125,
+            "rank": 67,
+            "raw_score": 3.03125
+          },
+          {
+            "name": "Audio",
+            "score": 2.59375,
+            "rank": 110,
+            "raw_score": 2.59375
+          },
+          {
+            "name": "Graphics",
+            "score": 4.15625,
+            "rank": 7,
+            "raw_score": 4.15625
+          },
+          {
+            "name": "Theme",
+            "score": 1.84375,
+            "rank": 272,
+            "raw_score": 1.84375
+          }
+        ],
+        "raw_score": 2.8875,
+        "rating_count": 32,
+        "id": 3587465,
+        "title": "Cheekmate: Nuts To Riches",
+        "score": 2.8875,
+        "rank": 90,
+        "contributors": [
+          {
+            "name": "yeyeyy",
+            "id": 2293489
+          }
+        ]
+      },
+      "entryData": {
+        "coolness": 12,
+        "created_at": "2025-05-25 10:28:42",
+        "id": 701907,
+        "game": {
+          "title": "Cheekmate: Nuts To Riches",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "yeyeyy",
+            "url": "https://yeyeyy.itch.io",
+            "id": 2293489
+          },
+          "url": "https://yeyeyy.itch.io/cheekmate-nuts-to-riches",
+          "short_text": "Be a squirrel, achieve stuff by hoarding acorns",
+          "id": 3587465,
+          "cover": "https://img.itch.zone/aW1nLzIxMzUxODk2LnBuZw==/300x240%23c/UpYmo7.png",
+          "cover_color": "#eeeeee"
+        },
+        "url": "/jam/gdevelop-big-game-jam-7/rate/3587465",
+        "rating_count": 32
+      },
+      "details": {
+        "title": "Cheekmate: Nuts To Riches",
+        "description": "Be a squirrel, achieve stuff by hoarding acorns :DPlay with arrow keys or WASD and spacebar, to collect acorns press X\nAll sounds made by meDone for the GDevelop BIG Game Jam #7link to gd.games: https://gd.games/yeyeyy/cheekmate-nuts-to-riches",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzU4NzQ2NS8yMTM1MTY3MC5wbmc=/original/ccUjj0.png",
+          "https://img.itch.zone/aW1hZ2UvMzU4NzQ2NS8yMTM1MTY3MS5wbmc=/original/u%2BJ7kX.png",
+          "https://img.itch.zone/aW1hZ2UvMzU4NzQ2NS8yMTM1MjAzNy5wbmc=/original/skEhRQ.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "yeyeyy",
+          "Genre": "Adventure",
+          "Made with": "GDevelop",
+          "Tags": "Animals, collage, Cute, gdevelop, Hand-drawn, squirrel"
+        }
+      }
+    },
+    {
+      "gameId": 3585943,
+      "gameUrl": "https://eldarduil.itch.io/echoes-of-the-burden",
+      "overallRank": 107,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIxMzQxNzcxLmpwZw==/300x240%23c/7rUt0R.jpg",
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-7/rate/3585943",
+        "criteria": [
+          {
+            "name": "Fun & Game Design",
+            "score": 2.5384615384615,
+            "rank": 174,
+            "raw_score": 2.5384615384615
+          },
+          {
+            "name": "Audio",
+            "score": 2.5576923076923,
+            "rank": 117,
+            "raw_score": 2.5576923076923
+          },
+          {
+            "name": "Originality & Innovation",
+            "score": 2.8076923076923,
+            "rank": 109,
+            "raw_score": 2.8076923076923
+          },
+          {
+            "name": "Graphics",
+            "score": 4.1538461538462,
+            "rank": 8,
+            "raw_score": 4.1538461538462
+          },
+          {
+            "name": "Theme",
+            "score": 1.7307692307692,
+            "rank": 290,
+            "raw_score": 1.7307692307692
+          }
+        ],
+        "raw_score": 2.7576923076923,
+        "rating_count": 52,
+        "id": 3585943,
+        "title": "Echoes Of The Burden",
+        "score": 2.7576923076923,
+        "rank": 107,
+        "contributors": [
+          {
+            "name": "Eldarduil",
+            "id": 5422315
+          }
+        ]
+      },
+      "entryData": {
+        "coolness": 61,
+        "created_at": "2025-05-24 19:07:15",
+        "id": 701642,
+        "game": {
+          "title": "Echoes Of The Burden",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Eldarduil",
+            "url": "https://eldarduil.itch.io",
+            "id": 5422315
+          },
+          "url": "https://eldarduil.itch.io/echoes-of-the-burden",
+          "short_text": "3D Dungeon exploration game",
+          "id": 3585943,
+          "cover": "https://img.itch.zone/aW1nLzIxMzQxNzcxLmpwZw==/300x240%23c/7rUt0R.jpg",
+          "cover_color": "#3f2832"
+        },
+        "url": "/jam/gdevelop-big-game-jam-7/rate/3585943",
+        "rating_count": 52
+      },
+      "details": {
+        "title": "Echoes Of The Burden",
+        "description": "Your Search for the powerful artifact lead you into this crypt. Find your way into this maze like crypt and find the artifact.\nControls: WASD/Mouse & E key\nGame is around 130mb, so please give a bit time to load.\nI made this game for Gdevelop Big Game Jam 7",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzU4NTk0My8yMTM1MTg4MS5qcGc=/original/xu0GOO.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzU4NTk0My8yMTM1MTg4Mi5qcGc=/original/tp9w9B.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzU4NTk0My8yMTM1MTg4My5qcGc=/original/vamUgD.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzU4NTk0My8yMTM1MTg4NC5qcGc=/original/AsvJXE.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzU4NTk0My8yMTM1MTg4NS5qcGc=/original/1xn4zA.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Eldarduil",
+          "Genre": "Puzzle, Adventure",
+          "Made with": "Blender, GDevelop",
+          "Tags": "Dungeon Crawler, FPS",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,810 @@
+{
+  "n": 71,
+  "name": "My First Game Jam: Summer 2021",
+  "url": "https://itch.io/jam/my-first-game-jam-summer-2021",
+  "theme": "Free",
+  "slug": "my-first-game-jam-summer-2021",
+  "jamMeta": {
+    "jamType": "ongoing",
+    "joined": "",
+    "entries": "383",
+    "title": "My First Game Jam: Summer 2021",
+    "jamURL": "https://itch.io/jam/my-first-game-jam-summer-2021",
+    "hosts": {
+      "ludowoods": "https://ludowoods.itch.io",
+      "lysander": "https://worldendprince.itch.io",
+      "Adrienne Lombardo": "https://addie-lombardo.itch.io",
+      "#MyFirstGameJam": "https://bsky.app/hashtag/MyFirstGameJam"
+    },
+    "jamID": "310376"
+  },
+  "totalEntries": 341,
+  "ranked": true,
+  "hasCategories": false,
+  "needsManualSelection": false,
+  "categories": [],
+  "topGames": [
+    {
+      "gameId": 1103620,
+      "gameUrl": "https://brett-messy.itch.io/high-tide",
+      "overallRank": 1,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzc5MDk5MjkucG5n/300x240%23c/BM%2Fmy1.png",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "url": "https://brett-messy.itch.io",
+            "name": "Brett_Messy",
+            "id": 103139
+          },
+          "id": 1103620,
+          "title": "High Tide",
+          "short_text": "Short action game made for the \"My First Game Jam Summer '21\"",
+          "cover_color": "#00EFE2",
+          "url": "https://brett-messy.itch.io/high-tide"
+        },
+        "coolness": 0,
+        "id": 234335,
+        "rating_count": 0,
+        "created_at": "2021-07-10 23:23:38",
+        "url": "/jam/my-first-game-jam-summer-2021/rate/1103620"
+      },
+      "details": {
+        "title": "High Tide",
+        "description": "Take to the seas in your vessel!Monsters are attacking!The world is mostly underwater!No time for questions!\nDive! Dive! Dive!\nContent Warning: Middle school level swear words\nPHONE/TABLET CONTROLS:Controls displayed on screen\nKEYBOARD CONTROLS:Up - Up Arrow / W  Down - Down Arrow / S  Left - Left Arrow / A  Right - Right Arrow / D  A (Interact/Shoot) - Alt / Z / J  B (Cancel/Jump)  - Ctrl / K / X  Save Menu (Internal Submarine Level only) - Enter \nYou can also download the ROM file to play either through a Game Boy emulator OR you can flash it onto a cartridge and play it on Game Boy hardware!\nMade for the My First Game Jam Summer 2021 with GB Studio.\nCredit to krümel (crumb)#0723 for \"Supa-Hip Breakbeat\" track.\nAll other art assets and music was created by me over the two weeks of the game jam.\nThank you for testing, Bryce Massé, Brett Barrow, Aaron Byrd, and Patty Templeton!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTEwMzYyMC82NDc0ODQ0LnBuZw==/original/SPsMT%2B.png",
+          "https://img.itch.zone/aW1hZ2UvMTEwMzYyMC82NDc0ODQ4LnBuZw==/original/I0283n.png",
+          "https://img.itch.zone/aW1hZ2UvMTEwMzYyMC82NDc0ODQ3LnBuZw==/original/hkhsPM.png",
+          "https://img.itch.zone/aW1hZ2UvMTEwMzYyMC82NDc0ODQ1LnBuZw==/original/hhXEzQ.png",
+          "https://img.itch.zone/aW1hZ2UvMTEwMzYyMC82NDc0ODQ2LnBuZw==/original/XNxpPP.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.3 out of 5 stars(18 total ratings)",
+          "Author": "Brett_Messy",
+          "Genre": "Action, Adventure",
+          "Made with": "GB Studio",
+          "Tags": "8-Bit, Game Boy, gamedev, gbstudio, My First Game Jam, Narrative, Pixel Art, Shoot 'Em Up",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Gamepad (any), Touchscreen, Smartphone",
+          "Links": "Soundtrack"
+        }
+      }
+    },
+    {
+      "gameId": 1119296,
+      "gameUrl": "https://exilecast.itch.io/spacescape",
+      "overallRank": 2,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzY0NzIwMDcucG5n/300x240%23c/gKMBt6.png",
+          "user": {
+            "url": "https://exilecast.itch.io",
+            "name": "Exilecast",
+            "id": 1936521
+          },
+          "id": 1119296,
+          "title": "SpaceScape",
+          "short_text": "A action platformer",
+          "cover_color": "#eeeeee",
+          "url": "https://exilecast.itch.io/spacescape"
+        },
+        "coolness": 0,
+        "id": 234140,
+        "rating_count": 0,
+        "created_at": "2021-07-10 14:57:31",
+        "contributors": [
+          {
+            "name": "Exilecast",
+            "url": "https://exilecast.itch.io"
+          },
+          {
+            "name": "securas",
+            "url": "https://securas.itch.io"
+          }
+        ],
+        "url": "/jam/my-first-game-jam-summer-2021/rate/1119296"
+      },
+      "details": {
+        "title": "SpaceScape",
+        "description": "(Project with @securas)\nSpaceScape is a hardcore roguelite platformer in which the player has to either escape the space prison or rise to the challenge and become the ruler of his cell block. \nFeatures:\n. 2 enemies and 1 special BIG enemy.\n. Upgrades and new weapons to help you on your quest for freedom. \n. Your name on the leaderboard with the best score of the room. \n. Fast pace action that requires a learning curve.  \nAfter downloading the game, unpack the game and launch the .exe file. ",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTExOTI5Ni82NDcxODA1LnBuZw==/original/wKqRTb.png",
+          "https://img.itch.zone/aW1hZ2UvMTExOTI5Ni82NDcxODA5LnBuZw==/original/2Amau0.png",
+          "https://img.itch.zone/aW1hZ2UvMTExOTI5Ni82NDcxODAzLnBuZw==/original/3DLViO.png",
+          "https://img.itch.zone/aW1hZ2UvMTExOTI5Ni82NDcxODA0LnBuZw==/original/FunZsq.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Rating": "Rated 4.2 out of 5 stars(11 total ratings)",
+          "Authors": "Exilecast, securas",
+          "Genre": "Platformer",
+          "Tags": "2D, Action-Adventure, Pixel Art, Roguelite, Space"
+        }
+      }
+    },
+    {
+      "gameId": 1105313,
+      "gameUrl": "https://wimpress.itch.io/little-spy",
+      "overallRank": 3,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzY0NjM3NTUucG5n/300x240%23c/F%2F9mGT.png",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "android",
+            "web"
+          ],
+          "user": {
+            "url": "https://wimpress.itch.io",
+            "name": "wimpress",
+            "id": 515686
+          },
+          "id": 1105313,
+          "title": "Little Spy",
+          "short_text": "Airdrop into an enemy stronghold, recover stolen intelligence and technology. Fight your way out.",
+          "cover_color": "#eeeeee",
+          "url": "https://wimpress.itch.io/little-spy"
+        },
+        "coolness": 0,
+        "id": 233970,
+        "rating_count": 0,
+        "created_at": "2021-07-09 19:20:55",
+        "url": "/jam/my-first-game-jam-summer-2021/rate/1105313"
+      },
+      "details": {
+        "title": "Little Spy",
+        "description": "Available for Linux 🐧 Windows 🪟 macOS 🍏 Android 🤖 and Web 🕸 \nIntended resolution 1920x1080HTML5 runs best at full screen using a Chromium based browser or Firefox, click the full-screen icon in the bottom right corner.Best played with a controller 🎮\nPlot\nAirdrop into an enemy stronghold, recover stolen intelligence and technology. Fight your way out!\nObjective\nCollect as much stolen intelligence and technology as you can and get to the extraction point before the helicopter leaves without you. Earn a higher agent ranking by collecting more items and complete the mission as fast as possible to earn a higher bonus.\nGame Mechanics\nLittle Spy can run and jump. Holding jump extends the jump height.Little Spy is a climber. They can grab walls and slide down them, jump climb up them or wall jump away from them.Like all the best spies, Little Spy has a gadget; a parachute that can stow and deploy itself.Little Spy has a killer flying kick, which can be used to dash, attack enemies or double jump.Little Spy can use all of these skills in combination.\nThe enemies\nEnemies can be stomped or kicked:\nGuards (no helmet) require 1 hit to kill.Soldiers (helmets) require 2 hits to kill.\nEnemies have teleport technology and new recruits will teleport into the game to replace their fallen comrades.\nControls\nLittle Spy should work with most game controllers. Game control instructions are presented on the main menu of the game.\nA/D, Cursor Left/Right, D-pad or Left Stick to move.W, Cursor Up, A to jump.S, Cursor Down, Y to deploy/stow parachuteSpace or B to flying kick.\nMy First Game Jam: Summer 2021\nLittle Spy is my entry in the My First Game Jam: Summer 2021.\nThe theme for the jam was ✨Free✨. My interpretation of the theme is to create a game using only tools that are free software, free of cost, or game assets that are free or in the public domain.\nIn keeping with the Free theme, I have released the game project and code under an MIT license.\nLittle Spy Source Code\nDev Log\n\n\nI've been wanting to learn Godot for a while now, so decided to use this jam as motivation. I haven't written a game since the 1980s, but I have a background in software development. My DevLog from the jam is below:\nLittle Spy - DevLog\nTools\nI used these excellent tools to make Little Spy.\nGodot EngineGIMPOcenaudioUbuntu MATE\nCredits\nCode & Game Design: Martin Wimpress (Wimpy)\nA big \"Thank you!\" to everyone below who makes their art 🖌 music 🎶 or sounds 🔊 freely available for others to build on. Little Spy would have been shapes and silence had it not been for these fine people:\nGraphics\nSpy: DezrasDragons & GrafxKidGuard & Soldier Umz & GrafxKidMilitary items: AngryMeteor.comHelicopter: HoboBackgrounds: SegelTiles: RottingPixelsController & Keyboard: xelu\nAudio\nSound effects: rubberduckIn-game music: artisticdudeGame over music: KistolMission Accomplished music: Jonathan Shaw\n\nFonts\nGreat Lakesi pixel u\nI published a collection on OpenGameArt.org that includes everything I used from OGA:\nhttps://opengameart.org/content/little-spy",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTEwNTMxMy82NDc1MzEyLnBuZw==/original/5toKMP.png",
+          "https://img.itch.zone/aW1hZ2UvMTEwNTMxMy82NDc1MzE0LnBuZw==/original/MLkhi7.png",
+          "https://img.itch.zone/aW1hZ2UvMTEwNTMxMy82NDc1MzE2LnBuZw==/original/stqqhf.png",
+          "https://img.itch.zone/aW1hZ2UvMTEwNTMxMy82NDc1MzE4LnBuZw==/original/MJxUuF.png",
+          "https://img.itch.zone/aW1hZ2UvMTEwNTMxMy82NTI3MDQzLmpwZw==/original/DW75QR.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux, Android",
+          "Release date": "Jul 09, 2021",
+          "Rating": "Rated 4.4 out of 5 stars(8 total ratings)",
+          "Author": "wimpress",
+          "Genre": "Platformer, Action",
+          "Made with": "Godot, GIMP",
+          "Tags": "2D, Godot, My First Game Jam, Open Source, Pixel Art, Singleplayer, Speedrun, Sprites",
+          "Code license": "MIT License",
+          "Asset license": "Creative Commons Zero v1.0 Universal",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Xbox controller, Touchscreen, Playstation controller",
+          "Links": "Blog, Source code, Community, Twitter/X, Twitch, YouTube, Patreon"
+        }
+      }
+    },
+    {
+      "gameId": 1104208,
+      "gameUrl": "https://ccrberus.itch.io/walk-with-me",
+      "overallRank": 4,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzYzNzA3ODAucG5n/300x240%23c/CcauFv.png",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "url": "https://ccrberus.itch.io",
+            "name": "cerberus",
+            "id": 430341
+          },
+          "id": 1104208,
+          "title": "walk with me.",
+          "short_text": "conversations between a young god and a heart of stone.",
+          "cover_color": "#111",
+          "url": "https://ccrberus.itch.io/walk-with-me"
+        },
+        "coolness": 0,
+        "id": 234165,
+        "rating_count": 0,
+        "created_at": "2021-07-10 16:11:07",
+        "url": "/jam/my-first-game-jam-summer-2021/rate/1104208"
+      },
+      "details": {
+        "title": "walk with me.",
+        "description": "\n\n\nWALK WITH ME  — CONVERSATIONS BETWEEN A YOUNG GOD AND A HEART OF STONE.\namid the war of gods, a young god finds a friend in the mountains. snippets of conversation of a story that has already told / has yet to be finished. a brief game jam experiment on writing across both twine and trying out bitsy. \nstory autosaves at specific checkpoints. played best on a computer browser, has not been optimised for mobile. has been updated to (hopefully) be compatible for mobile. estimated playing time ~25 minutes.\nknown issues: \nsometimes, after exiting a bitsy passage, you may need to click on the game area again to restore keyboard controls. if you tend to click to advance, then it should work fine.depending on your screen size, certain descriptions when accompanied by an image may run beyond the set height. the browser should scroll down automatically to the lowest section of text, but if not, try clicking and scrolling manually.contributions & submissions:a french translation by tinharts is available here! ",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzYzNzA3ODAucG5n/original/FZu2tj.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.9 out of 5 stars(96 total ratings)",
+          "Author": "cerberus",
+          "Genre": "Interactive Fiction",
+          "Tags": "Bitsy, Fantasy, My First Game Jam, Pixel Art, Text based, Twine"
+        }
+      }
+    },
+    {
+      "gameId": 1116547,
+      "gameUrl": "https://tonywang.itch.io/hyper-dungeon-crawler-jam",
+      "overallRank": 5,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzY0NjI0NzYucG5n/300x240%23c/X6QSVW.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "url": "https://tonywang.itch.io",
+            "name": "Tony Wang",
+            "id": 258967
+          },
+          "id": 1116547,
+          "title": "Hyper Dungeon Crawler (MFGJ)",
+          "short_text": "Made for My First Game Jam: Summer 2021.",
+          "cover_color": "#5e544d",
+          "url": "https://tonywang.itch.io/hyper-dungeon-crawler-jam"
+        },
+        "coolness": 0,
+        "id": 233736,
+        "rating_count": 0,
+        "created_at": "2021-07-08 09:48:56",
+        "url": "/jam/my-first-game-jam-summer-2021/rate/1116547"
+      },
+      "details": {
+        "title": "Hyper Dungeon Crawler (MFGJ)",
+        "description": "Hyper Dungeon Crawler is a turn-based roguelike RPG with crafting. \nIn this game, you'll challenge 2x3 levels occupied by dozens of enemies. Find and collect materials around. Craft, cook and brew supplements for your venture. You are free to explore, create, venture and do whatever you want with in-game environments. Be careful and enjoy.\n\n\nMade for My First Game Jam: Summer 2021 (themed ✨Free✨). This is not my first released game, but it's my first submission ever to a game jam. I'll continue polishing the game and producing more contents if you like Hyper Dungeon Crawler.\nControl: point and click\nNote: the CRT effect and video options are for downloadable only\nPost-jam udpate: full version available on Steam and Itch now.\nCredits:\nCreated with Bitty EngineBountiful Bits, Bit Bonanza by VEXED (CC0)Caketown by Matthew Pablo (CC-BY-SA 3.0)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTExNjU0Ny82NDU1MDExLmdpZg==/original/GDlNja.gif",
+          "https://img.itch.zone/aW1hZ2UvMTExNjU0Ny82NDU0OTM1LnBuZw==/original/jMxqnw.png",
+          "https://img.itch.zone/aW1hZ2UvMTExNjU0Ny82NDU0OTM2LnBuZw==/original/x0lcNz.png",
+          "https://img.itch.zone/aW1hZ2UvMTExNjU0Ny82NDU0OTM3LnBuZw==/original/l27Vwv.png",
+          "https://img.itch.zone/aW1hZ2UvMTExNjU0Ny82NDU1NjM2LnBuZw==/original/yWCoSY.png",
+          "https://img.itch.zone/aW1hZ2UvMTExNjU0Ny82NDU0OTQwLnBuZw==/original/uNayXl.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.6 out of 5 stars(8 total ratings)",
+          "Author": "Tony Wang",
+          "Genre": "Role Playing",
+          "Tags": "Crafting, Dungeon Crawler, Open World, Pixel Art, Roguelike, Sandbox",
+          "Links": "Steam"
+        }
+      }
+    },
+    {
+      "gameId": 1055792,
+      "gameUrl": "https://szunami.itch.io/taileater",
+      "overallRank": 6,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzYzNjg5OTkucG5n/300x240%23c/VkTxQX.png",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "user": {
+            "url": "https://szunami.itch.io",
+            "name": "szunami",
+            "id": 2902142
+          },
+          "id": 1055792,
+          "title": "taileater",
+          "short_text": "eat your own tail to win!",
+          "cover_color": "#394150",
+          "url": "https://szunami.itch.io/taileater"
+        },
+        "coolness": 0,
+        "id": 232134,
+        "rating_count": 0,
+        "created_at": "2021-06-28 19:36:31",
+        "url": "/jam/my-first-game-jam-summer-2021/rate/1055792"
+      },
+      "details": {
+        "title": "taileater",
+        "description": "Eat your own tail to win!\nMove around with WASD.\nEnter to select a level.\nQ to return to level select.\nZ to undo, R to restart\nCheck out my new project: https://glasscanongame.com/Source code is available here: https://github.com/szunami/taileater/",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTA1NTc5Mi82Mzc1ODMzLnBuZw==/original/95kNUN.png",
+          "https://img.itch.zone/aW1hZ2UvMTA1NTc5Mi82Mzc1ODM1LnBuZw==/original/xrcg6t.png",
+          "https://img.itch.zone/aW1hZ2UvMTA1NTc5Mi82Mzc1ODM4LnBuZw==/original/v3YP1p.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 4.4 out of 5 stars(34 total ratings)",
+          "Author": "szunami",
+          "Genre": "Puzzle",
+          "Tags": "2D, bevy, My First Game Jam, Puzzle-Platformer, Sprites"
+        }
+      }
+    },
+    {
+      "gameId": 1120171,
+      "gameUrl": "https://thepandahat.itch.io/duckling-adventures",
+      "overallRank": 7,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzY0OTgzNjUucG5n/300x240%23c/bnIB%2BE.png",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "url": "https://thepandahat.itch.io",
+            "name": "panda",
+            "id": 4588082
+          },
+          "id": 1120171,
+          "title": "Duckling ADventures",
+          "short_text": "The free mobile game experience.",
+          "cover_color": "#33b6fd",
+          "url": "https://thepandahat.itch.io/duckling-adventures"
+        },
+        "coolness": 0,
+        "id": 234491,
+        "rating_count": 0,
+        "created_at": "2021-07-11 05:59:02",
+        "contributors": [
+          {
+            "name": "panda",
+            "url": "https://thepandahat.itch.io"
+          },
+          {
+            "name": "price",
+            "url": "https://price15.itch.io"
+          },
+          {
+            "name": "TheHibiscusPoet",
+            "url": "https://thehibiscuspoet.itch.io"
+          }
+        ],
+        "url": "/jam/my-first-game-jam-summer-2021/rate/1120171"
+      },
+      "details": {
+        "title": "Duckling ADventures",
+        "description": "Made in two weeks by pandahatguy, TheHibiscusPoet and Price for My First Game Jam Summer 2021. Cover art by zigboo#4765 (Discord).\nThis work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTEyMDE3MS82NDc2OTQ5LnBuZw==/original/GugyoS.png",
+          "https://img.itch.zone/aW1hZ2UvMTEyMDE3MS82NDc2OTQ3LnBuZw==/original/NML9rH.png",
+          "https://img.itch.zone/aW1hZ2UvMTEyMDE3MS82NDk4NDM5LnBuZw==/original/sv9cXY.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.6 out of 5 stars(10 total ratings)",
+          "Authors": "panda, price, TheHibiscusPoet",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "Godot, maze, satire",
+          "Code license": "Mozilla Public License 2.0 (MPL)",
+          "Asset license": "Creative Commons Attribution_NonCommercial_ShareAlike v4.0 International",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 1118479,
+      "gameUrl": "https://w00shy.itch.io/feathers-powers",
+      "overallRank": 8,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzY0Njc1NDMucG5n/300x240%23c/WxkB9B.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "url": "https://w00shy.itch.io",
+            "name": "W00shy",
+            "id": 4565224
+          },
+          "id": 1118479,
+          "title": "Feathers & Powers",
+          "short_text": "A platformer where you have to save the birds !",
+          "cover_color": "#5281D3",
+          "url": "https://w00shy.itch.io/feathers-powers"
+        },
+        "coolness": 0,
+        "id": 233973,
+        "rating_count": 0,
+        "created_at": "2021-07-09 19:42:01",
+        "url": "/jam/my-first-game-jam-summer-2021/rate/1118479"
+      },
+      "details": {
+        "title": "Feathers & Powers",
+        "description": "A mysterious force has taken control of the forest ! Strange hazards have appeared and BIRDS have been trapped inside force fieldsYour goal is simple : FREE the birds and use their powers to help you find and destroy the source of this invasion.\nThis game was made by W00shy and To_Steal_Is_Bad for My First Game Jam Summer 2021 with the theme ✨Free✨. Controls :\nWASD, ARROW KEYS + Space Bar to moveE or X to InteractM to MuteR to Restart the current level\nYou can play the game in your browser or download the executable file for Windows. We recommend using the executable file as the browser version might be slower and have a few audio issues.\nCredits :\nBird Sprite by ma9ici4n Parallax BackGround by aamatniekssForest Tileset by mamanezakonFont by petrnita\n\nAudio :\nwwww.mixkit.cowww.soundjay.comwww.fesliyanstudios.com  Hideaki Utsumi's wonderful channel SFXR for the rest of the sound effects Bosca Ceoil for the \"music\"\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTExODQ3OS82NDY5OTc1LnBuZw==/original/WaCpsg.png",
+          "https://img.itch.zone/aW1hZ2UvMTExODQ3OS82NDY5OTc2LnBuZw==/original/gAOkkF.png",
+          "https://img.itch.zone/aW1hZ2UvMTExODQ3OS82NDcwMDAxLnBuZw==/original/k1%2FXV4.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.5 out of 5 stars(10 total ratings)",
+          "Author": "W00shy",
+          "Genre": "Platformer, Adventure",
+          "Tags": "2D, Pixel Art, Short, Singleplayer, Superpowers"
+        }
+      }
+    },
+    {
+      "gameId": 1120193,
+      "gameUrl": "https://noobertdoobert.itch.io/tenth-muse",
+      "overallRank": 9,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzY0NzY4NDgucG5n/300x240%23c/MZj3cl.png",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "user": {
+            "url": "https://noobertdoobert.itch.io",
+            "name": "NoobertDoobert",
+            "id": 4638592
+          },
+          "id": 1120193,
+          "title": "Tenth Muse (Prototype)",
+          "short_text": "A short lesbian historical fiction visual novel (prototype for My First Game Jam 2021)",
+          "cover_color": "#f4f1bd",
+          "url": "https://noobertdoobert.itch.io/tenth-muse"
+        },
+        "coolness": 0,
+        "id": 234507,
+        "rating_count": 0,
+        "created_at": "2021-07-11 06:20:50",
+        "url": "/jam/my-first-game-jam-summer-2021/rate/1120193"
+      },
+      "details": {
+        "title": "Tenth Muse (Prototype)",
+        "description": "A single-route prototype of Tenth Muse: a not-so-serious historical fiction dating simulator featuring the Greek poet Sappho. Can you find the words to convince your friend and fellow poet of your affections, or will your love get lost in translation?",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTEyMDE5My82NDc2OTgxLnBuZw==/original/jX3%2BO1.png",
+          "https://img.itch.zone/aW1hZ2UvMTEyMDE5My82NDc2OTgyLnBuZw==/original/FjHC%2Bm.png",
+          "https://img.itch.zone/aW1hZ2UvMTEyMDE5My82NDc2OTgzLnBuZw==/original/CweuqB.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 4.8 out of 5 stars(6 total ratings)",
+          "Author": "NoobertDoobert",
+          "Genre": "Visual Novel",
+          "Tags": "Casual, Dating Sim, Female Protagonist, Historical, LGBT, LGBTQIA, Ren'Py, Romance, Short"
+        }
+      }
+    },
+    {
+      "gameId": 1117586,
+      "gameUrl": "https://rinja.itch.io/free-as-in-free",
+      "overallRank": 10,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzY0OTg3OTEucG5n/300x240%23c/JHyoNY.png",
+          "user": {
+            "url": "https://rinja.itch.io",
+            "name": "rinja",
+            "id": 2578028
+          },
+          "id": 1117586,
+          "title": "Free As In Free",
+          "short_text": "Just buy the bicycle, ok?",
+          "platforms": [
+            "web"
+          ],
+          "url": "https://rinja.itch.io/free-as-in-free"
+        },
+        "coolness": 0,
+        "id": 234474,
+        "rating_count": 0,
+        "created_at": "2021-07-11 05:24:53",
+        "url": "/jam/my-first-game-jam-summer-2021/rate/1117586"
+      },
+      "details": {
+        "title": "Free As In Free",
+        "description": "Do some online shopping! Don't get distracted by the weird staple who won't shut up!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTExNzU4Ni82NDk4NTk3LnBuZw==/original/7nrr5o.png",
+          "https://img.itch.zone/aW1hZ2UvMTExNzU4Ni82NDk4NjAyLnBuZw==/original/tQ3eIs.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.3 out of 5 stars(7 total ratings)",
+          "Author": "rinja",
+          "Genre": "Simulation",
+          "Tags": "Boring, Economy, ethics, Experimental, Internet, Management, Multiple Endings, My First Game Jam, Short, weird"
+        }
+      }
+    },
+    {
+      "gameId": 1118822,
+      "gameUrl": "https://sleepyjack01.itch.io/free-candy",
+      "overallRank": 11,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzY0Njg5MDYuanBn/300x240%23c/gqjou2.jpg",
+          "user": {
+            "url": "https://sleepyjack01.itch.io",
+            "name": "SleepyJack",
+            "id": 4453088
+          },
+          "id": 1118822,
+          "title": "Free Candy",
+          "short_text": "A short horror game project made for \"My First Game Jam\"",
+          "cover_color": "#000000",
+          "url": "https://sleepyjack01.itch.io/free-candy"
+        },
+        "coolness": 0,
+        "id": 234036,
+        "rating_count": 0,
+        "created_at": "2021-07-10 02:44:57",
+        "url": "/jam/my-first-game-jam-summer-2021/rate/1118822"
+      },
+      "details": {
+        "title": "Free Candy",
+        "description": "The things I do for a midnight snack.\nSurvive the underground labyrinth and claim the free candy.\nTypical first-person controls: \"WASD\" to move, MOUSE to look around, and SHIFT to sprint.\nThis game was created for My First Game Jam: Summer 2021 and is the first game I've made independently.\nAny and all feedback is welcome and appreciated!Just unzip the folder and in there click on the \"Free candy.exe\"",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTExODgyMi82NDY4OTA5LmpwZw==/original/OKgfda.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTExODgyMi82NDY4OTExLmpwZw==/original/b%2BzSL1.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTExODgyMi82NDY4OTE4LmpwZw==/original/yJhfyR.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Rating": "Rated 4.3 out of 5 stars(4 total ratings)",
+          "Author": "SleepyJack",
+          "Tags": "3D, Creepy, First-Person, Horror, My First Game Jam, Spooky, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 1119575,
+      "gameUrl": "https://averyoriginalusername.itch.io/freedom",
+      "overallRank": 12,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzY0NzM2MTAucG5n/300x240%23c/LhS81A.png",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "user": {
+            "url": "https://averyoriginalusername.itch.io",
+            "name": "VeryOriginalUsername",
+            "id": 3830572
+          },
+          "id": 1119575,
+          "title": "Freedom",
+          "short_text": "My submission to the \"My first game jam: Summer 2021\" with the theme \"Free\"",
+          "cover_color": "#000000",
+          "url": "https://averyoriginalusername.itch.io/freedom"
+        },
+        "coolness": 0,
+        "id": 234233,
+        "rating_count": 0,
+        "created_at": "2021-07-10 19:10:07",
+        "url": "/jam/my-first-game-jam-summer-2021/rate/1119575"
+      },
+      "details": {
+        "title": "Freedom",
+        "description": "Movement:  WASD, arrow keys and space\nSo I'm pretty new to game development and it's summer break at school, so I decided to join this game jam to release my first game. I wasn't really able to think of a good idea to go with the theme so I just made it so that you have to escape from a platformer level (lame). The game isn't that good, there are only four levels, it's a mess of code and there isn't that much to it so I'll probably keep updating it after the jam.\nEngine: Godot\nArt: Pixelorama\nSound: Chiptone\nMusic: https://opengameart.org/content/4-chiptunes-adventure",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTExOTU3NS82NDczNjM1LnBuZw==/original/HyZ127.png",
+          "https://img.itch.zone/aW1hZ2UvMTExOTU3NS82NDczNjM4LnBuZw==/original/ZeMoW9.png",
+          "https://img.itch.zone/aW1hZ2UvMTExOTU3NS82NDczNjM2LnBuZw==/original/xKT1Vr.png",
+          "https://img.itch.zone/aW1hZ2UvMTExOTU3NS82NDczNjM3LnBuZw==/original/IFJxeY.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 3.3 out of 5 stars(4 total ratings)",
+          "Author": "VeryOriginalUsername",
+          "Genre": "Platformer",
+          "Made with": "Godot",
+          "Tags": "2D, 8-Bit, Godot, My First Game Jam, Pixel Art, Singleplayer",
+          "Average session": "A few seconds",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 1120001,
+      "gameUrl": "https://kyotaexe.itch.io/cathode-rush",
+      "overallRank": 13,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzY0NzU4OTUucG5n/300x240%23c/ORQ2w7.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "url": "https://kyotaexe.itch.io",
+            "name": "Kyota.exe",
+            "id": 2024771
+          },
+          "id": 1120001,
+          "title": "Cathode Rush",
+          "short_text": "Gain air jumps by shooting targets and make your way through the city as a cute CRT robot.",
+          "cover_color": "#b8e4e5",
+          "url": "https://kyotaexe.itch.io/cathode-rush"
+        },
+        "coolness": 0,
+        "id": 234408,
+        "rating_count": 0,
+        "created_at": "2021-07-11 02:34:15",
+        "contributors": [
+          {
+            "name": "Kyota.exe",
+            "url": "https://kyotaexe.itch.io"
+          },
+          {
+            "name": "limeopolis",
+            "url": "https://limeopolis.itch.io"
+          },
+          {
+            "name": "Zabyx",
+            "url": "https://zabyx.itch.io"
+          }
+        ],
+        "url": "/jam/my-first-game-jam-summer-2021/rate/1120001"
+      },
+      "details": {
+        "title": "Cathode Rush",
+        "description": "Created in under 2 weeks for My First Game Jam: Summer 2021\nGain air jumps by shooting targets and make your way through the city as a cute CRT robot.The current world record for beating this game is 01:43.748 by Jadito.\nControlsMovement: WASDJump: W or SpaceShoot: Left ClickSlide: Left ShiftCreditsKyota Poeti: Programming and Level DesignDaniel Christian: Sound EffectsRichard Williams: MusicJavier Ceballos (zabyx): Art and Animation",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTEyMDAwMS82NDc2MDk3LmdpZg==/original/S11h5u.gif",
+          "https://img.itch.zone/aW1hZ2UvMTEyMDAwMS82NDc2MTQ5LnBuZw==/original/%2BiSqCM.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.5 out of 5 stars(6 total ratings)",
+          "Authors": "Kyota.exe, limeopolis, Zabyx",
+          "Genre": "Platformer, Shooter",
+          "Made with": "Unity",
+          "Tags": "2D, My First Game Jam"
+        }
+      }
+    },
+    {
+      "gameId": 1119639,
+      "gameUrl": "https://eisclimber.itch.io/forklift-f2p",
+      "overallRank": 14,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzY0NzM3NzgucG5n/300x240%23c/97pciV.png",
+          "user": {
+            "url": "https://eisclimber.itch.io",
+            "name": "eisclimber",
+            "id": 3807646
+          },
+          "id": 1119639,
+          "title": "Forklift F2P",
+          "platforms": [
+            "windows",
+            "osx",
+            "web"
+          ],
+          "url": "https://eisclimber.itch.io/forklift-f2p"
+        },
+        "coolness": 0,
+        "id": 234246,
+        "rating_count": 0,
+        "created_at": "2021-07-10 20:11:11",
+        "url": "/jam/my-first-game-jam-summer-2021/rate/1119639"
+      },
+      "details": {
+        "title": "Forklift F2P",
+        "description": "\"Uh, a new Free to Play game.\nLet's install it and try it out! What could go wrong?\"\n- You\n\nForklift F2P aims to parody the \"Free To Play\"-Culture by revealing some threats of shady software. \nPrepare yourself for a short adventure with riddles, parodies and eastereggs.\n\nEnjoy!\n\nContibutors:\n Luca 'eisclimber' DreilingArtur 'exor' Plischke'mrDock21'Miguel 'ツ coisalegalle' Araújo Nogueira\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzY0NzM3NzgucG5n/original/FvxLAS.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS",
+          "Rating": "Rated 4.5 out of 5 stars(2 total ratings)",
+          "Author": "eisclimber",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "2D, Hacking, Pixel Art, Short"
+        }
+      }
+    },
+    {
+      "gameId": 1119146,
+      "gameUrl": "https://tobinio.itch.io/where-is-james",
+      "overallRank": 15,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzY1MTY3MjcucG5n/300x240%23c/%2F9cy3f.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "url": "https://tobinio.itch.io",
+            "name": "To_Binio",
+            "id": 1674642
+          },
+          "id": 1119146,
+          "title": "Where is James?",
+          "short_text": "A small Level based Top down shoot #My First Game Jam: Summer 2021",
+          "cover_color": "#64AF7F",
+          "url": "https://tobinio.itch.io/where-is-james"
+        },
+        "coolness": 0,
+        "id": 234177,
+        "rating_count": 0,
+        "created_at": "2021-07-10 17:12:55",
+        "url": "/jam/my-first-game-jam-summer-2021/rate/1119146"
+      },
+      "details": {
+        "title": "Where is James?",
+        "description": "Where is James?\nOr otherwise said: Where is your brother? I can tell you: He was caught by some pretty bad guys so let's save him.\nYou play as Jarles a stone-throwing adventurer. That fights with your help from room to room through the monsters that challenge him. \n\n\nThe Controls are simple\nW/A/S/D to run around \nSpace to dash in the direction you are running\nand where ever you click Jarles will throw a stone\n\nShopping\nEverybody loves shopping and today is our lucky day everything is for FREE.\n\nTipps\nPlay in fullscreen (bottem right the Button from Unity)\nDon't forget that you can Dash around it can help really. And don't forget to write a comment if you have feedback :)\n\nSound Update\na small but very important update The Sound Update\nAfter I didn't had enought time to do sound design in the Game Jam time here it is. Please give every feedback and  suggestions for improvement about this theme. thank :)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTExOTE0Ni82NDcxMTY5LnBuZw==/original/DuZdKe.png",
+          "https://img.itch.zone/aW1hZ2UvMTExOTE0Ni82NDcxMTcyLnBuZw==/original/amBvde.png",
+          "https://img.itch.zone/aW1hZ2UvMTExOTE0Ni82NDcxMTcwLnBuZw==/original/yMbHn0.png",
+          "https://img.itch.zone/aW1hZ2UvMTExOTE0Ni82NDcxMTcxLnBuZw==/original/qEOcuc.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 3.6 out of 5 stars(9 total ratings)",
+          "Author": "To_Binio",
+          "Genre": "Action",
+          "Made with": "Unity",
+          "Tags": "2D, Pixel Art, Slime, Top-Down, Top down shooter",
+          "Average session": "A few minutes"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,4939 @@
+{
+  "n": 33,
+  "name": "Shovel Jam 2025",
+  "url": "https://itch.io/jam/shovel-jam-2025",
+  "theme": "Just get started",
+  "slug": "shovel-jam-2025",
+  "jamMeta": {
+    "jamType": "ended",
+    "ratings": "17,898",
+    "entries": "1,148",
+    "title": "Shovel Jam 2025",
+    "jamURL": "https://itch.io/jam/shovel-jam-2025",
+    "hosts": {
+      "Shovel": "https://inboundshovel.itch.io",
+      "#ShovelJam": "https://bsky.app/hashtag/ShovelJam"
+    },
+    "jamID": "406528"
+  },
+  "totalEntries": 1132,
+  "ranked": true,
+  "hasCategories": true,
+  "needsManualSelection": false,
+  "categories": [
+    "Fun",
+    "Presentation",
+    "Creativity"
+  ],
+  "topGames": [
+    {
+      "gameId": 3729901,
+      "gameUrl": "https://lizardlike.itch.io/nullocus",
+      "overallRank": 1,
+      "topCategories": [
+        "Fun",
+        "Presentation",
+        "Creativity"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMjk0Njc3LmdpZg==/300x240%23c/k0bpBs.gif",
+        "contributors": [
+          {
+            "name": "Lizardlike",
+            "id": 9150239
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3729901",
+        "title": "Nullocus",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 4.5675675675676,
+            "raw_score": 4.5675675675676,
+            "rank": 1
+          },
+          {
+            "name": "Presentation",
+            "score": 4.8648648648649,
+            "raw_score": 4.8648648648649,
+            "rank": 3
+          },
+          {
+            "name": "Creativity",
+            "score": 4.8108108108108,
+            "raw_score": 4.8108108108108,
+            "rank": 1
+          },
+          {
+            "name": "Shovel Jam Winner",
+            "score": 0,
+            "raw_score": 0,
+            "rank": 5
+          }
+        ],
+        "score": 4.7477477477477,
+        "rating_count": 37,
+        "id": 3729901,
+        "rank": 1,
+        "raw_score": 4.7477477477477
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:1"
+        ],
+        "created_at": "2025-07-21 04:50:13",
+        "id": 726306,
+        "url": "/jam/shovel-jam-2025/rate/3729901",
+        "game": {
+          "id": 3729901,
+          "url": "https://lizardlike.itch.io/nullocus",
+          "cover_color": "#000140",
+          "user": {
+            "url": "https://lizardlike.itch.io",
+            "name": "Lizardlike",
+            "id": 9150239
+          },
+          "title": "Nullocus",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "gif_cover": "https://img.itch.zone/aW1nLzIyMjk0Njc3LmdpZg==/original/Iv7MrW.gif",
+          "cover": "https://img.itch.zone/aW1nLzIyMjk0Njc3LmdpZg==/300x240%23c/k0bpBs.gif",
+          "short_text": "Solve puzzles by resetting them!"
+        },
+        "coolness": 5,
+        "rating_count": 37
+      },
+      "details": {
+        "title": "Nullocus",
+        "description": "Solve puzzles by resetting them! Just get started again and again and again and again and again...\n\nWASD\nmoveSPACE\nreset all objectsR\nrestart level\nQ & E\nscroll through levels\nP / tab / escpause\n\nCode, art, animations, music, sound design & level design\n\n- by me\n\n\nMade in 9 days for the Shovel Jam 2025\nTheme: Just Get Started!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzcyOTkwMS8yMjI1Mjk2Ny5wbmc=/original/3brrcP.png",
+          "https://img.itch.zone/aW1hZ2UvMzcyOTkwMS8yMjI1MTkyMi5wbmc=/original/byMURK.png",
+          "https://img.itch.zone/aW1hZ2UvMzcyOTkwMS8yMjI1MTkyMy5wbmc=/original/zTQOQh.png",
+          "https://img.itch.zone/aW1hZ2UvMzcyOTkwMS8yMjI1MTkyNS5wbmc=/original/Q4NqsX.png",
+          "https://img.itch.zone/aW1hZ2UvMzcyOTkwMS8yMjI1MTkyNC5wbmc=/original/jJsJJJ.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(7 total ratings)",
+          "Author": "Lizardlike",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "2D, Atmospheric, Pixel Art, Retro, Short"
+        }
+      }
+    },
+    {
+      "gameId": 3727236,
+      "gameUrl": "https://monkshovv.itch.io/bloodlust",
+      "overallRank": 117,
+      "topCategories": [
+        "Fun"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMTg0ODkxLnBuZw==/300x240%23c/jZxdC5.png",
+        "contributors": [
+          {
+            "name": "Monkshovv",
+            "id": 11662963
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3727236",
+        "title": "BloodLust",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 4.5454545454545,
+            "raw_score": 4.5454545454545,
+            "rank": 2
+          },
+          {
+            "name": "Creativity",
+            "score": 3.4545454545455,
+            "raw_score": 3.4545454545455,
+            "rank": 366
+          },
+          {
+            "name": "Presentation",
+            "score": 3.6363636363636,
+            "raw_score": 3.6363636363636,
+            "rank": 314
+          }
+        ],
+        "score": 3.8787878787879,
+        "rating_count": 11,
+        "id": 3727236,
+        "rank": 117,
+        "raw_score": 3.8787878787879
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:1"
+        ],
+        "created_at": "2025-07-19 13:30:50",
+        "id": 723263,
+        "url": "/jam/shovel-jam-2025/rate/3727236",
+        "game": {
+          "title": "BloodLust",
+          "platforms": [
+            "web"
+          ],
+          "id": 3727236,
+          "url": "https://monkshovv.itch.io/bloodlust",
+          "cover": "https://img.itch.zone/aW1nLzIyMTg0ODkxLnBuZw==/300x240%23c/jZxdC5.png",
+          "short_text": "A game there your Thirst for blood  just starts but cant stop",
+          "user": {
+            "url": "https://monkshovv.itch.io",
+            "name": "Monkshovv",
+            "id": 11662963
+          }
+        },
+        "coolness": 20,
+        "rating_count": 11
+      },
+      "details": {
+        "title": "BloodLust",
+        "description": "In this game you a person are cursed with an ever longing lust for blood and one that cant be quenched\nMade For Inbound Shovel Jam 2025\nAll by me\n\nDONT RUN IN FULLSCREEN\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzcyNzIzNi8yMjIxNTQ1MC5wbmc=/original/%2Fu%2Fojl.png",
+          "https://img.itch.zone/aW1hZ2UvMzcyNzIzNi8yMjIxNTQ1MS5wbmc=/original/AMgj5z.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Monkshovv",
+          "Genre": "Platformer",
+          "Made with": "Godot",
+          "Tags": "Fast-Paced, Violent"
+        }
+      }
+    },
+    {
+      "gameId": 3736885,
+      "gameUrl": "https://galaximadi.itch.io/not-quite-a-retry",
+      "overallRank": 8,
+      "topCategories": [
+        "Fun",
+        "Creativity"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMjY0MjIxLnBuZw==/300x240%23c/hEezcf.png",
+        "contributors": [
+          {
+            "name": "galaximadi",
+            "id": 2446186
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3736885",
+        "title": "Not Quite a Retry (Jam Edition)",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 4.4473684210526,
+            "raw_score": 4.4473684210526,
+            "rank": 3
+          },
+          {
+            "name": "Presentation",
+            "score": 4.3026315789474,
+            "raw_score": 4.3026315789474,
+            "rank": 69
+          },
+          {
+            "name": "Creativity",
+            "score": 4.4473684210526,
+            "raw_score": 4.4473684210526,
+            "rank": 17
+          }
+        ],
+        "score": 4.3991228070175,
+        "rating_count": 76,
+        "id": 3736885,
+        "rank": 8,
+        "raw_score": 4.3991228070175
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:2"
+        ],
+        "created_at": "2025-07-20 19:46:18",
+        "id": 725156,
+        "url": "/jam/shovel-jam-2025/rate/3736885",
+        "game": {
+          "title": "Not Quite a Retry (Jam Edition)",
+          "cover": "https://img.itch.zone/aW1nLzIyMjY0MjIxLnBuZw==/300x240%23c/hEezcf.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 3736885,
+          "url": "https://galaximadi.itch.io/not-quite-a-retry",
+          "cover_color": "#111D35",
+          "short_text": "A platformer where you persist through restarts",
+          "user": {
+            "url": "https://galaximadi.itch.io",
+            "name": "galaximadi",
+            "id": 2446186
+          }
+        },
+        "coolness": 13,
+        "rating_count": 76
+      },
+      "details": {
+        "title": "Not Quite a Retry (Jam Edition)",
+        "description": "What if you persisted throughout retries in a platformer?\nNot Quite a Retry is a game where your restarts persist the state of the level, and yourself. Restart levels and use your persistence to get to the goal.\nMade for the 2025 Inbound Shovel Jam, with the theme \"Just Get Started\".All assets are made by me!Made in Godot Engine\n(I'm aware of the camera bug in 0-7! Just use the reset button (Q) to fix it if you ever encounter it)\n(ARROW KEYS RECOMMENDED!)Left Arrow/Right Arrow/A/D: MoveUp/W: JumpR: RestartQ: Reset Level (use if something goes wrong!)",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIyMjY0MjIxLnBuZw==/original/MjG9Sl.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(3 total ratings)",
+          "Author": "galaximadi",
+          "Genre": "Platformer, Puzzle",
+          "Made with": "Godot",
+          "Tags": "Pixel Art"
+        }
+      }
+    },
+    {
+      "gameId": 3710432,
+      "gameUrl": "https://jiliposts.itch.io/on-you-mark",
+      "overallRank": 20,
+      "topCategories": [
+        "Fun"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMTk1MjcwLnBuZw==/300x240%23c/HYStjA.png",
+        "contributors": [
+          {
+            "name": "JiliPosts",
+            "id": 7307064
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3710432",
+        "title": "On your Mark!",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 4.4,
+            "raw_score": 4.4,
+            "rank": 4
+          },
+          {
+            "name": "Presentation",
+            "score": 4.4,
+            "raw_score": 4.4,
+            "rank": 52
+          },
+          {
+            "name": "Creativity",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 104
+          }
+        ],
+        "score": 4.2666666666667,
+        "rating_count": 10,
+        "id": 3710432,
+        "rank": 20,
+        "raw_score": 4.2666666666667
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:1"
+        ],
+        "created_at": "2025-07-18 17:59:15",
+        "id": 722992,
+        "url": "/jam/shovel-jam-2025/rate/3710432",
+        "game": {
+          "title": "On your Mark!",
+          "cover": "https://img.itch.zone/aW1nLzIyMTk1MjcwLnBuZw==/300x240%23c/HYStjA.png",
+          "platforms": [
+            "windows"
+          ],
+          "id": 3710432,
+          "url": "https://jiliposts.itch.io/on-you-mark",
+          "cover_color": "#9423b5",
+          "short_text": "Fast paced bullet hell where you have to reach the starting point in order to start the race!",
+          "user": {
+            "url": "https://jiliposts.itch.io",
+            "name": "JiliPosts",
+            "id": 7307064
+          }
+        },
+        "coolness": 19,
+        "rating_count": 10
+      },
+      "details": {
+        "title": "On your Mark!",
+        "description": "The real race is the one that happens before you even start the race! Join Mark, a fairy who wants to join the Hyper Zone's Grand Prix, on an adventure where you'll reach supersonic speeds just to reach... the starting point!?\n⚠️⚠️⚠️EPILEPSY WARNING⚠️⚠️⚠️\nSOME PEOPLE MAY EXPERIENCE SEIZURES DURING THE GAME TIME SO CONTINUE ON YOUR OWN RISK.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzcxMDQzMi8yMjE5NTU1NS5wbmc=/original/B9vnxE.png",
+          "https://img.itch.zone/aW1hZ2UvMzcxMDQzMi8yMjE5NTU1NC5wbmc=/original/BsXEYj.png",
+          "https://img.itch.zone/aW1hZ2UvMzcxMDQzMi8yMjIwMjkwMS5wbmc=/original/sz3I0P.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Author": "JiliPosts",
+          "Tags": "Bullet Hell, Fast-Paced, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 3730899,
+      "gameUrl": "https://weatherpaintergirl.itch.io/millysbigclimb",
+      "overallRank": 81,
+      "topCategories": [
+        "Fun"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMjA1NTY5LnBuZw==/300x240%23c/R%2BUASP.png",
+        "contributors": [
+          {
+            "name": "Weatherpaintergirl",
+            "id": 12041478
+          },
+          {
+            "name": "BansheeGG",
+            "id": 207424
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3730899",
+        "title": "MillysBigClimb",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 4.3684210526316,
+            "raw_score": 4.3684210526316,
+            "rank": 5
+          },
+          {
+            "name": "Presentation",
+            "score": 3.9473684210526,
+            "raw_score": 3.9473684210526,
+            "rank": 188
+          },
+          {
+            "name": "Creativity",
+            "score": 3.6315789473684,
+            "raw_score": 3.6315789473684,
+            "rank": 265
+          }
+        ],
+        "score": 3.9824561403509,
+        "rating_count": 19,
+        "id": 3730899,
+        "rank": 81,
+        "raw_score": 3.9824561403509
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:1"
+        ],
+        "coolness": 11,
+        "created_at": "2025-07-19 20:08:56",
+        "id": 723421,
+        "url": "/jam/shovel-jam-2025/rate/3730899",
+        "game": {
+          "title": "MillysBigClimb",
+          "platforms": [
+            "windows",
+            "linux"
+          ],
+          "id": 3730899,
+          "url": "https://weatherpaintergirl.itch.io/millysbigclimb",
+          "cover_color": "#c6d3fd",
+          "cover": "https://img.itch.zone/aW1nLzIyMjA1NTY5LnBuZw==/300x240%23c/R%2BUASP.png",
+          "user": {
+            "url": "https://weatherpaintergirl.itch.io",
+            "name": "Weatherpaintergirl",
+            "id": 12041478
+          }
+        },
+        "contributors": [
+          {
+            "name": "Weatherpaintergirl",
+            "url": "https://weatherpaintergirl.itch.io"
+          },
+          {
+            "name": "BansheeGG",
+            "url": "https://bansheegg.itch.io"
+          }
+        ],
+        "rating_count": 19
+      },
+      "details": {
+        "title": "MillysBigClimb",
+        "description": "!! Theres currently a bug where you dont unlock the secret mode after collecting all the Mooncoins if you DONT pause. So to make sure to unlock it: Collect all the coins and after collecting the final coin make sure to pause atleast once !! \nGonna get fixed after the gamejam judging period ends^^\nGamejam game created by Banshee and Weatherpainergirl for the ShovelGameJam! \nBest enjoyed on Controller but also works on Mouse and Keyboard! \n(Linux Port is there because someone asked me, no clue if it works)\n\nMilly has prepared for SO LONG to finally climb their first Mountain! After month long careful planning they're finally ready to climb the Mountain and get one step closer to their dream!But things take an unexpected turn when suddenly all their equipment is blasted away at the foot of the mountain....\nReady to give up, Milly prepares herself to go home before her Journey could even start, but a Strange Person encourages her to keep going and to Just Get Started!!!\n\n\nTip! You can see your collected Mooncoins in the Pause Menu!\nControls Controller (based of Xbox Controller but any Controller should work):\n\nA  or RB- Jump\nLeft Stick - Movement\nStart - Pause\nRight Stick- Camera\nControls Keyboard:\nSpacebar - Jump\nWASD  - Movement\nEsc - Pause\nMouse - Camera",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczMDg5OS8yMjIyNjM2MC5qcGc=/original/oOMfge.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzczMDg5OS8yMjIyNjM2Mi5qcGc=/original/U4C2XH.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzczMDg5OS8yMjIyNjM2My5qcGc=/original/bySC96.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzczMDg5OS8yMjIyNjM2NS5qcGc=/original/O0VxEv.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzczMDg5OS8yMjIyNjM2Ny5qcGc=/original/rRU5aV.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, Linux",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "Weatherpaintergirl, BansheeGG",
+          "Genre": "Platformer",
+          "Tags": "3D, 3D Platformer, jumping, Low-poly, Retro"
+        }
+      }
+    },
+    {
+      "gameId": 3736015,
+      "gameUrl": "https://jumpy-neb.itch.io/fricken-jeff",
+      "overallRank": 3,
+      "topCategories": [
+        "Fun",
+        "Creativity"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMjM1Mjk3LnBuZw==/300x240%23c/%2BAVmV6.png",
+        "contributors": [
+          {
+            "name": "JUMPY_NEB",
+            "id": 13809864
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3736015",
+        "title": "Fricken Jeff",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 4.3571428571429,
+            "raw_score": 4.3571428571429,
+            "rank": 6
+          },
+          {
+            "name": "Presentation",
+            "score": 4.3333333333333,
+            "raw_score": 4.3333333333333,
+            "rank": 60
+          },
+          {
+            "name": "Creativity",
+            "score": 4.6666666666667,
+            "raw_score": 4.6666666666667,
+            "rank": 4
+          }
+        ],
+        "score": 4.452380952381,
+        "rating_count": 42,
+        "id": 3736015,
+        "rank": 3,
+        "raw_score": 4.452380952381
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:2"
+        ],
+        "created_at": "2025-07-20 15:46:09",
+        "id": 724498,
+        "url": "/jam/shovel-jam-2025/rate/3736015",
+        "game": {
+          "title": "Fricken Jeff",
+          "platforms": [
+            "windows"
+          ],
+          "id": 3736015,
+          "url": "https://jumpy-neb.itch.io/fricken-jeff",
+          "cover_color": "#ffffff",
+          "cover": "https://img.itch.zone/aW1nLzIyMjM1Mjk3LnBuZw==/300x240%23c/%2BAVmV6.png",
+          "user": {
+            "url": "https://jumpy-neb.itch.io",
+            "name": "JUMPY_NEB",
+            "id": 13809864
+          }
+        },
+        "coolness": 19,
+        "rating_count": 42
+      },
+      "details": {
+        "title": "Fricken Jeff",
+        "description": "This is for my first game jam! While I have dabbled in game devolvement before, I don't really upload my stuff often.I hope you enjoy my little game, I worked really hard on it!1: Install2: Unzip the file3: Open the folder4: Click on the file \"Fricken Jeff.exe\"",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczNjAxNS8yMjIzNTA1MC5wbmc=/original/LxIVdX.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNjAxNS8yMjIzNTA1NC5wbmc=/original/a2Botp.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNjAxNS8yMjIzNTA1Ni5wbmc=/original/JGaAaM.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Author": "JUMPY_NEB",
+          "Genre": "Puzzle"
+        }
+      }
+    },
+    {
+      "gameId": 3738433,
+      "gameUrl": "https://mukining.itch.io/escape-the-09-faustalus",
+      "overallRank": 21,
+      "topCategories": [
+        "Fun"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMjcxODM5LnBuZw==/300x240%23c/3Z21Po.png",
+        "contributors": [
+          {
+            "name": "mukining",
+            "id": 13179450
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3738433",
+        "title": "Escape the 09 Faustalus",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 4.3448275862069,
+            "raw_score": 4.3448275862069,
+            "rank": 7
+          },
+          {
+            "name": "Creativity",
+            "score": 4.2068965517241,
+            "raw_score": 4.2068965517241,
+            "rank": 63
+          },
+          {
+            "name": "Presentation",
+            "score": 4.2413793103448,
+            "raw_score": 4.2413793103448,
+            "rank": 84
+          }
+        ],
+        "score": 4.264367816092,
+        "rating_count": 29,
+        "id": 3738433,
+        "rank": 21,
+        "raw_score": 4.264367816092
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:1"
+        ],
+        "created_at": "2025-07-21 04:28:25",
+        "id": 726206,
+        "url": "/jam/shovel-jam-2025/rate/3738433",
+        "game": {
+          "title": "Escape the 09 Faustalus",
+          "cover": "https://img.itch.zone/aW1nLzIyMjcxODM5LnBuZw==/300x240%23c/3Z21Po.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 3738433,
+          "url": "https://mukining.itch.io/escape-the-09-faustalus",
+          "cover_color": "#000000",
+          "short_text": "Zero gravity space puzzle platformer",
+          "user": {
+            "url": "https://mukining.itch.io",
+            "name": "mukining",
+            "id": 13179450
+          }
+        },
+        "coolness": 38,
+        "rating_count": 29
+      },
+      "details": {
+        "title": "Escape the 09 Faustalus",
+        "description": "NOTICE: ONLY 11 HOTDOGS TO BE FOUND\nHIGHSCORE: 404.34 secondsALL HOTDOG HIGHSCORE: 568.68 secondsControls: \n- Arrow keys to move- R to restart- E to enter the console- E or ESC to exit the console\n------\nEnter the game into Fullscreen to get started.\nPlease excuse the strange WEB GL outline before the game starts, couldn't for the life of me figure out how to remove it.And yes, I know I misspelled Catastrophic.\n------\nSounds: \nRocketThrustMaxx - Max222 (Freesound) - https://pixabay.com/sound-effects/rocketthrustmaxx-100019/\nSpace rumble - devy32 (Freesound) - https://pixabay.com/sound-effects/space-rumble-29970/\nAstronaut breathing in helmet, space mask, or could be scuba diver 1 - Lukas Tvrdon - https://www.zapsplat.com/sound-effect-category/astronaut/?registration_redirect=...\nReactOS boot - jobro (Freesound) - https://pixabay.com/sound-effects/reactos-boot-85864/\nCOMPUTER SOUND - SamuelGremaud (Freesound) - https://pixabay.com/sound-effects/computer-sound-55942/\nBreaking the sound barrier - thenudo (Freesound) - https://pixabay.com/sound-effects/breaking-the-sound-barrier-77353/\nButton Press - DottyYumYum (Freesound) - https://pixabay.com/sound-effects/button-press-40018/\nmouse button click - sarthakraj_308 - https://pixabay.com/sound-effects/mouse-button-click-308449/\nAir_escaping_01_16_48 - higginsdj (Freesound) - https://pixabay.com/sound-effects/air-escaping-01-16-48-53809/\ncartoon bite - DrMaysta (Freesound) - https://pixabay.com/sound-effects/cartoon-bite-39234/\nRocketLaunch - SonicFXSounds - https://pixabay.com/sound-effects/rocket-launch-306441/",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIyMjcxODM5LnBuZw==/original/VdWL5Z.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "mukining",
+          "Made with": "Unity",
+          "Tags": "inboundshoveljamsubmission"
+        }
+      }
+    },
+    {
+      "gameId": 3729535,
+      "gameUrl": "https://depenau.itch.io/restart",
+      "overallRank": 24,
+      "topCategories": [
+        "Fun",
+        "Creativity"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMTk4MDcwLnBuZw==/300x240%23c/cx91Yo.png",
+        "contributors": [
+          {
+            "name": "Depenau",
+            "id": 2387991
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3729535",
+        "title": "Restart",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 4.3125,
+            "raw_score": 4.3125,
+            "rank": 8
+          },
+          {
+            "name": "Creativity",
+            "score": 4.4375,
+            "raw_score": 4.4375,
+            "rank": 18
+          },
+          {
+            "name": "Presentation",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 166
+          }
+        ],
+        "score": 4.25,
+        "rating_count": 16,
+        "id": 3729535,
+        "rank": 24,
+        "raw_score": 4.25
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:1"
+        ],
+        "created_at": "2025-07-18 11:45:20",
+        "id": 722903,
+        "url": "/jam/shovel-jam-2025/rate/3729535",
+        "game": {
+          "title": "Restart",
+          "cover": "https://img.itch.zone/aW1nLzIyMTk4MDcwLnBuZw==/300x240%23c/cx91Yo.png",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ],
+          "id": 3729535,
+          "url": "https://depenau.itch.io/restart",
+          "cover_color": "#000000",
+          "short_text": "A short puzzle game where you need to restart in order to progress.",
+          "user": {
+            "url": "https://depenau.itch.io",
+            "name": "Depenau",
+            "id": 2387991
+          }
+        },
+        "coolness": 41,
+        "rating_count": 16
+      },
+      "details": {
+        "title": "Restart",
+        "description": "A short puzzle game where you need to restart in order to progress. Traverse the dungeon, beat the puzzles, and reach the castle to win.\nUse arrow keys to move and space bar to restart. Red objects reset whenever you restart. Blue objects are persistent.\nCreated for Shovel Jam 2025.Download, unzip, and run executable (or mac/linux equivalent).",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzcyOTUzNS8yMjE5Nzg0Mi5wbmc=/original/kR4BjR.png",
+          "https://img.itch.zone/aW1hZ2UvMzcyOTUzNS8yMjE5Nzg0My5wbmc=/original/XbOIHn.png",
+          "https://img.itch.zone/aW1hZ2UvMzcyOTUzNS8yMjE5Nzg0NC5wbmc=/original/%2BYE7zj.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS, Linux",
+          "Author": "Depenau",
+          "Genre": "Puzzle, Adventure",
+          "Tags": "Atmospheric, Pixel Art, Short"
+        }
+      }
+    },
+    {
+      "gameId": 3729382,
+      "gameUrl": "https://wynygames.itch.io/sleepy-battery-bots",
+      "overallRank": 16,
+      "topCategories": [
+        "Fun"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMjI5NjM3LnBuZw==/300x240%23c/ImwTwG.png",
+        "contributors": [
+          {
+            "name": "wynygames",
+            "id": 2439083
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3729382",
+        "title": "Sleepy Battery Bots",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 4.3,
+            "raw_score": 4.3,
+            "rank": 9
+          },
+          {
+            "name": "Creativity",
+            "score": 4.4,
+            "raw_score": 4.4,
+            "rank": 25
+          },
+          {
+            "name": "Presentation",
+            "score": 4.25,
+            "raw_score": 4.25,
+            "rank": 80
+          },
+          {
+            "name": "Shovel Jam Winner",
+            "score": 0,
+            "raw_score": 0,
+            "rank": 4
+          }
+        ],
+        "score": 4.3166666666667,
+        "rating_count": 20,
+        "id": 3729382,
+        "rank": 16,
+        "raw_score": 4.3166666666667
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:1"
+        ],
+        "created_at": "2025-07-19 12:07:28",
+        "id": 723240,
+        "url": "/jam/shovel-jam-2025/rate/3729382",
+        "game": {
+          "title": "Sleepy Battery Bots",
+          "cover": "https://img.itch.zone/aW1nLzIyMjI5NjM3LnBuZw==/300x240%23c/ImwTwG.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 3729382,
+          "url": "https://wynygames.itch.io/sleepy-battery-bots",
+          "cover_color": "#010812",
+          "short_text": "Shoot your bots to power them up and destroy bugs!",
+          "user": {
+            "url": "https://wynygames.itch.io",
+            "name": "wynygames",
+            "id": 2439083
+          }
+        },
+        "coolness": 0,
+        "rating_count": 20
+      },
+      "details": {
+        "title": "Sleepy Battery Bots",
+        "description": "WASD / Arrow Keys to move.\nClick to Shoot.\nAll art and code by me, sounds from epidemic sounds.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzcyOTM4Mi8yMjM1ODI4MC5wbmc=/original/cOoVmx.png",
+          "https://img.itch.zone/aW1hZ2UvMzcyOTM4Mi8yMjM1ODI4NS5wbmc=/original/vS%2BFrz.png",
+          "https://img.itch.zone/aW1hZ2UvMzcyOTM4Mi8yMjM1ODI5MC5wbmc=/original/8kl1D3.png",
+          "https://img.itch.zone/aW1hZ2UvMzcyOTM4Mi8yMjM1ODI5MS5wbmc=/original/Hxk0EY.png",
+          "https://img.itch.zone/aW1hZ2UvMzcyOTM4Mi8yMjM1ODI5Ny5wbmc=/original/YluTlh.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "wynygames",
+          "Genre": "Action",
+          "Tags": "Top down shooter, Tower Defense"
+        }
+      }
+    },
+    {
+      "gameId": 3738445,
+      "gameUrl": "https://lukemakesgames.itch.io/start-the-game",
+      "overallRank": 106,
+      "topCategories": [
+        "Fun"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMjgzNDYwLnBuZw==/300x240%23c/dCpAbv.png",
+        "contributors": [
+          {
+            "name": "lukemakesgames",
+            "id": 14051356
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3738445",
+        "title": "Start The Game",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 4.3,
+            "raw_score": 4.3,
+            "rank": 9
+          },
+          {
+            "name": "Creativity",
+            "score": 3.9,
+            "raw_score": 3.9,
+            "rank": 135
+          },
+          {
+            "name": "Presentation",
+            "score": 3.5,
+            "raw_score": 3.5,
+            "rank": 364
+          }
+        ],
+        "score": 3.9,
+        "rating_count": 10,
+        "id": 3738445,
+        "rank": 106,
+        "raw_score": 3.9
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:2"
+        ],
+        "created_at": "2025-07-21 03:55:38",
+        "id": 726109,
+        "url": "/jam/shovel-jam-2025/rate/3738445",
+        "game": {
+          "title": "Start The Game",
+          "id": 3738445,
+          "url": "https://lukemakesgames.itch.io/start-the-game",
+          "cover": "https://img.itch.zone/aW1nLzIyMjgzNDYwLnBuZw==/300x240%23c/dCpAbv.png",
+          "short_text": "All you have to do is press the start button",
+          "user": {
+            "url": "https://lukemakesgames.itch.io",
+            "name": "lukemakesgames",
+            "id": 14051356
+          }
+        },
+        "coolness": 41,
+        "rating_count": 10
+      },
+      "details": {
+        "title": "Start The Game",
+        "description": "Start the Game! Catch up to that pesky start button in each infintely looping level.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczODQ0NS8yMjI4MzQ0OC5wbmc=/original/7uleP%2B.png",
+          "https://img.itch.zone/aW1hZ2UvMzczODQ0NS8yMjI4MzQ0OS5wbmc=/original/KM1LlY.png",
+          "https://img.itch.zone/aW1hZ2UvMzczODQ0NS8yMjI4MzQ1MC5wbmc=/original/3LXOJ6.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Author": "lukemakesgames",
+          "Genre": "Action, Platformer",
+          "Tags": "No AI, Speedrun"
+        }
+      }
+    },
+    {
+      "gameId": 3730486,
+      "gameUrl": "https://omnitale.itch.io/this-is-just-the-beginning",
+      "overallRank": 4,
+      "topCategories": [
+        "Fun",
+        "Creativity"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMjg3ODc0LnBuZw==/300x240%23c/malTmT.png",
+        "contributors": [
+          {
+            "name": "Omnitale",
+            "id": 13006753
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3730486",
+        "title": "This is just the Beginning",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 4.2857142857143,
+            "raw_score": 4.2857142857143,
+            "rank": 11
+          },
+          {
+            "name": "Presentation",
+            "score": 4.5357142857143,
+            "raw_score": 4.5357142857143,
+            "rank": 29
+          },
+          {
+            "name": "Creativity",
+            "score": 4.5,
+            "raw_score": 4.5,
+            "rank": 13
+          }
+        ],
+        "score": 4.4404761904762,
+        "rating_count": 28,
+        "id": 3730486,
+        "rank": 4,
+        "raw_score": 4.4404761904762
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:1"
+        ],
+        "created_at": "2025-07-20 15:03:44",
+        "id": 724274,
+        "url": "/jam/shovel-jam-2025/rate/3730486",
+        "game": {
+          "title": "This is just the Beginning",
+          "cover": "https://img.itch.zone/aW1nLzIyMjg3ODc0LnBuZw==/300x240%23c/malTmT.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 3730486,
+          "url": "https://omnitale.itch.io/this-is-just-the-beginning",
+          "cover_color": "#0f3810",
+          "short_text": "Beat a gauntlet of challenging mini games inspired by some of the most iconic video game starts.",
+          "user": {
+            "url": "https://omnitale.itch.io",
+            "name": "Omnitale",
+            "id": 13006753
+          }
+        },
+        "coolness": 31,
+        "rating_count": 28
+      },
+      "details": {
+        "title": "This is just the Beginning",
+        "description": "“This is just the beginning” is an arcade-style minigame roguelike where you navigate a gauntlet of fast-paced challenges — each inspired by some of the most iconic video game intros.\nEvery completed minigame earns you points, but every mistake costs you valuable HP. The only way to recover? Spend some of your hard-earned score at one of the shops scattered along your path.\n \nWill you make it to the end? And if you do... how much of your score will survive the journey? Post your highscore in the comments!\nThis game was created for the Inbound Shovel Jam 2025, themed: “Just get started!\nProgramming — Jonas AndréArt — Sebastian Würtz\n“A Journey Awaits” by Pierre Bondoerffer (@pbondoer)“Day & Night in Summerset” by edwinnington @wyver9“Briefing” by wyver9 @wyver9“Melancholy Melody” by Patrick Maney“Questing Loop” by Patrick Maney“Lines of Code” by Trevor Lentz“Space Dimensions” by Matthew Pablo“Game-Game” & “Green Forest” by Metaruka“Life Pickup (Yo Frankie!)” by Blender Foundation“NES Sounds” by Baŝto“8-bit/NES explosion sound effecs” by TeamAlphaAll music and sound effects are available on opengameart.org.Thank you for playing our game!\nThanks to Inbound Shovel for hosting this jam!\nThanks to the sound designers and musicians providing their work for free use and adding massively to the experience!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczMDQ4Ni8yMjIzMTEwNS5wbmc=/original/0CCC9u.png",
+          "https://img.itch.zone/aW1hZ2UvMzczMDQ4Ni8yMjIzMTA4NC5wbmc=/original/fCX2eh.png",
+          "https://img.itch.zone/aW1hZ2UvMzczMDQ4Ni8yMjIzMTEwNi5wbmc=/original/qumd78.png",
+          "https://img.itch.zone/aW1hZ2UvMzczMDQ4Ni8yMjIzMTA4Mi5wbmc=/original/iJRJp%2B.png",
+          "https://img.itch.zone/aW1hZ2UvMzczMDQ4Ni8yMjIzMTA4MS5wbmc=/original/N5qKjX.png",
+          "https://img.itch.zone/aW1hZ2UvMzczMDQ4Ni8yMjIzMTA4My5wbmc=/original/R2rYft.png",
+          "https://img.itch.zone/aW1hZ2UvMzczMDQ4Ni8yMjIzMTEyMS5wbmc=/original/o0xKLt.png",
+          "https://img.itch.zone/aW1hZ2UvMzczMDQ4Ni8yMjIzMTExNC5wbmc=/original/xI%2BdQV.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.0 out of 5 stars(2 total ratings)",
+          "Author": "Omnitale",
+          "Made with": "Unity, Aseprite",
+          "Tags": "2D, Arcade, Game Boy, Game Jam, High Score, minigames, Pixel Art, Retro, rougelike, Singleplayer",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": 3721359,
+      "gameUrl": "https://2apol.itch.io/nevergonnastart",
+      "overallRank": 48,
+      "topCategories": [
+        "Fun"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMjQ2NzM4LnBuZw==/300x240%23c/5WEyas.png",
+        "contributors": [
+          {
+            "name": "2Apol",
+            "id": 8898183
+          },
+          {
+            "name": "turtlenotturtoise",
+            "id": 11916143
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3721359",
+        "title": "Never Gonna Start - Shovel Jam 2025",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 4.2857142857143,
+            "raw_score": 4.2857142857143,
+            "rank": 11
+          },
+          {
+            "name": "Presentation",
+            "score": 3.9047619047619,
+            "raw_score": 3.9047619047619,
+            "rank": 212
+          },
+          {
+            "name": "Creativity",
+            "score": 4.0952380952381,
+            "raw_score": 4.0952380952381,
+            "rank": 85
+          }
+        ],
+        "score": 4.0952380952381,
+        "rating_count": 42,
+        "id": 3721359,
+        "rank": 48,
+        "raw_score": 4.0952380952381
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:1"
+        ],
+        "coolness": 55,
+        "created_at": "2025-07-21 00:06:07",
+        "id": 725661,
+        "url": "/jam/shovel-jam-2025/rate/3721359",
+        "game": {
+          "title": "Never Gonna Start - Shovel Jam 2025",
+          "cover": "https://img.itch.zone/aW1nLzIyMjQ2NzM4LnBuZw==/300x240%23c/5WEyas.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 3721359,
+          "url": "https://2apol.itch.io/nevergonnastart",
+          "cover_color": "#390008",
+          "short_text": "A fast-paced feel-good action game about procrastination and monke.",
+          "user": {
+            "url": "https://2apol.itch.io",
+            "name": "2Apol",
+            "id": 8898183
+          }
+        },
+        "contributors": [
+          {
+            "name": "2Apol",
+            "url": "https://2apol.itch.io"
+          },
+          {
+            "name": "turtlenotturtoise",
+            "url": "https://turtlenotturtoise.itch.io"
+          }
+        ],
+        "rating_count": 42
+      },
+      "details": {
+        "title": "Never Gonna Start - Shovel Jam 2025",
+        "description": "Never Gonna Start \nYou play as the procrastination live inside human's brain.\nFend off neurons reaching the brain and stay unproductive for as long as possible.\nCan you get to 24 hours?\nControls\nMove:                           WASDAttack / Throw:     Left mousePick up:                       Right mouse\nAsset Credits 🍎🐢\nThis game was developed entirely by me as a solo project, with invaluable help from Bora Pham, who created the background art (and came up with the game’s name!) We’re both game design students in the making.\nMost of the artwork was crafted using Procreate and Aseprite.\nIdea (monke in the brain): Tim Urban for his TED Talk around 9 years ago that I watched. Somehow I remember his talk on procrastination and it just clicked to me that I have to make monke game.\nFont: https://www.pentacom.jp/pentacom/bitfontmaker2/gallery/?id=378\nBackground music: https://pixabay.com/vi/music/lạc-quan-cinematic-action-jungle-drums-loop-125bpm-...\nMonke sounds: https://freesound.org/people/wilika2/packs/33106/\n99% of sound effects: https://pixabay.com/ (the 1% is the monke sound)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzcyMTM1OS8yMjI1ODE5Ny5naWY=/original/hpLfIS.gif",
+          "https://img.itch.zone/aW1hZ2UvMzcyMTM1OS8yMjI1ODI3Ni5naWY=/original/S0B%2BcK.gif",
+          "https://img.itch.zone/aW1hZ2UvMzcyMTM1OS8yMjI1ODMxOS5naWY=/original/TTN%2FKH.gif",
+          "https://img.itch.zone/aW1hZ2UvMzcyMTM1OS8yMjI0ODM5Ny5wbmc=/original/q6oQD1.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows",
+          "Authors": "2Apol, turtlenotturtoise",
+          "Genre": "Action",
+          "Made with": "Unity",
+          "Tags": "2D, Cute, Indie, monkey, Pixel Art, Singleplayer, Top-Down, Unity, weird"
+        }
+      }
+    },
+    {
+      "gameId": 3736908,
+      "gameUrl": "https://monarchzero.itch.io/morning-starter",
+      "overallRank": 18,
+      "topCategories": [
+        "Fun"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMzM3NjQ0LnBuZw==/300x240%23c/L8wsMH.png",
+        "contributors": [
+          {
+            "name": "Monarch",
+            "id": 13829098
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3736908",
+        "title": "MORNING STARTER",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 4.2765957446809,
+            "raw_score": 4.2765957446809,
+            "rank": 13
+          },
+          {
+            "name": "Presentation",
+            "score": 4.4255319148936,
+            "raw_score": 4.4255319148936,
+            "rank": 48
+          },
+          {
+            "name": "Creativity",
+            "score": 4.1914893617021,
+            "raw_score": 4.1914893617021,
+            "rank": 66
+          },
+          {
+            "name": "Shovel Jam Winner",
+            "score": 0,
+            "raw_score": 0,
+            "rank": 1
+          }
+        ],
+        "score": 4.2978723404255,
+        "rating_count": 47,
+        "id": 3736908,
+        "rank": 18,
+        "raw_score": 4.2978723404255
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:2"
+        ],
+        "created_at": "2025-07-21 06:05:12",
+        "id": 726496,
+        "url": "/jam/shovel-jam-2025/rate/3736908",
+        "game": {
+          "title": "MORNING STARTER",
+          "cover": "https://img.itch.zone/aW1nLzIyMzM3NjQ0LnBuZw==/300x240%23c/L8wsMH.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 3736908,
+          "url": "https://monarchzero.itch.io/morning-starter",
+          "cover_color": "#000000",
+          "short_text": "Brighten up the morning star by chaining nuclear fusions.",
+          "user": {
+            "url": "https://monarchzero.itch.io",
+            "name": "Monarch",
+            "id": 13829098
+          }
+        },
+        "coolness": 10,
+        "rating_count": 47
+      },
+      "details": {
+        "title": "MORNING STARTER",
+        "description": "Scroll below for important info about bugs and issues.--A future where humanity is trying to revive a dead sun--\nMORNING STARTER is an Atomas-inspired, Balatro-themed \"nuclear fusion\" \"simulator\" where your goal is to reach element 118 and beyond in order to re-energise the sun, which has now become a white dwarf star.\nBrighten up the morning star so the Earth may see a new day.\nYou assume the role of a fusionist who is working aboard Dyson Sphere Zeta, and spearhead the project focused around reviving a once bright sun. The Dyson Sphere has been repurposed into a nuclear reactor, allowing you to extract elements from the dead star and use them as a part of nuclear fusion so that you may energise the star.There is absolutely no scientific accuracy in MORNING STARTER. I failed Chemistry and Physics in high school and college respectively. I just thought the concept was cool.CREDITS:@rockii on discord for the music.\nUI elements - EXE scifi pack by Catherine Laserna.\nPOST JAM FIXES:\nEvery item bug has been fixed! Go fucking crazy!!!!\n<.< the visualiser still doesn't render for some reason and I have no idea why that's the case >.>\nThe game is actually a lot easier now that the items have been fixed, because the ring economy can now be manipulated in a lot more ways :p\nPOSTMORTEM:\nI consider this game to have a good concept and idea, however, due to my own laziness and bad habits, it ultimately turned out lacklustre. Every single shop item was added during the night of day 7 across a span of six hours in the night with zero testing done. \nI was considering adding an entire dialogue section with speech options whenever certain events happen in the game, but owing to time constraints and a terrible sleep schedule, Sokolovna ultimately ended up being nothing more than literal eye candy.\nI have not given up on this game yet. Owing to almost overwhelming support for the game from you folks and guys on Shovel's Discord, I have decided to expand the game into a better version of itself.\nMy next game will be better. Thank you for playing the game.\nDiscord:https://discord.gg/R5tXtzjnD5\nif you were actually interested in the game or my art/future prospects, or wanted to report more bugs that I have not caught yet.\nIf I receive enough (direct) support (you guys telling me specifically you'd like to see this game expanded further), I will expand on this game idea.\nI was planning to turn this project into a kind of a \"lobotomy corporation\" of sorts, with \"days\" and each day you have to meet a target energy quota, with several more mechanics (that I intend to ease the player into), add actual lore, more characters, and more dialogue. Let me know if that sounds fun.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczNjkwOC8yMjMzODE2My5wbmc=/original/J%2F7ibn.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNjkwOC8yMjMzODI0Ny5wbmc=/original/7qbOGK.png"
+        ],
+        "moreInfo": {
+          "Updated": "22 days ago",
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "Monarch",
+          "Genre": "Puzzle, Educational",
+          "Made with": "Godot",
+          "Tags": "Anime, No AI, Roguelike, Sci-fi",
+          "Average session": "About an hour"
+        }
+      }
+    },
+    {
+      "gameId": 3719767,
+      "gameUrl": "https://solstoid.itch.io/one-more-treasure",
+      "overallRank": 45,
+      "topCategories": [
+        "Fun"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMjQ2Njc2LnBuZw==/300x240%23c/Ud%2F8OK.png",
+        "contributors": [
+          {
+            "name": "Solstoid",
+            "id": 8275527
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3719767",
+        "title": "One More Treasure",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 4.2564102564103,
+            "raw_score": 4.2564102564103,
+            "rank": 14
+          },
+          {
+            "name": "Presentation",
+            "score": 4.4358974358974,
+            "raw_score": 4.4358974358974,
+            "rank": 43
+          },
+          {
+            "name": "Creativity",
+            "score": 3.6923076923077,
+            "raw_score": 3.6923076923077,
+            "rank": 229
+          }
+        ],
+        "score": 4.1282051282051,
+        "rating_count": 39,
+        "id": 3719767,
+        "rank": 45,
+        "raw_score": 4.1282051282051
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:2"
+        ],
+        "created_at": "2025-07-21 00:06:02",
+        "id": 725660,
+        "url": "/jam/shovel-jam-2025/rate/3719767",
+        "game": {
+          "title": "One More Treasure",
+          "cover": "https://img.itch.zone/aW1nLzIyMjQ2Njc2LnBuZw==/300x240%23c/Ud%2F8OK.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 3719767,
+          "url": "https://solstoid.itch.io/one-more-treasure",
+          "cover_color": "#2b1509",
+          "short_text": "My first game made for Inbound Shovel's Jam!",
+          "user": {
+            "url": "https://solstoid.itch.io",
+            "name": "Solstoid",
+            "id": 8275527
+          }
+        },
+        "coolness": 17,
+        "rating_count": 39
+      },
+      "details": {
+        "title": "One More Treasure",
+        "description": "Welcome to One More Treasure!\nI wanted to make more content, but sadly, I could draw, develop and test 8 levels, + 1 bonus level that will prove your platforming skills!\nIf you encounter some lag, try to download the executable!\nHow to play:\nWASD or Arrows: MovementSpace: Jump. Hold the space button to jump higher, and release it to start falling!Left Click or Left Ctrl: Pickup rock / Next Dialogue / Get Relic (or try doing it)Mousewheel: Zoom In / Zoom Out\nTips:\nTo reach far platforms, try to jump at the very end of the ledge, even if you started falling! The Bonus level REQUIRES this skill.\nHold R to reload the level\nWhen you finish the game, you'll unlock the lobby for selecting the map.If you unlocked it, press Escape, and if you see the message \"Hold C to return to lobby\" then you're ready to use it!Download, extract and open the OneMoreTreasure.exe.\nWindows defender will say that it's not safe, but you can open it anyway.\nAnd that's it! I hope you'll have fun!\nTo close the game, press ALT + F4, I didn't have time to implement a menu :P",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIyMjQ2Njc2LnBuZw==/original/evfKez.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Solstoid",
+          "Genre": "Platformer, Puzzle",
+          "Made with": "Unity",
+          "Tags": "2D, My First Game Jam, No AI, Pixel Art, Puzzle-Platformer, Retro, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 3726725,
+      "gameUrl": "https://lunastela.itch.io/directors-cut",
+      "overallRank": 6,
+      "topCategories": [
+        "Fun",
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMjU3NTA3LnBuZw==/300x240%23c/h3o2x8.png",
+        "contributors": [
+          {
+            "name": "lunastela",
+            "id": 13835773
+          },
+          {
+            "name": "Ferpe",
+            "id": 10653665
+          },
+          {
+            "name": "Lenoax",
+            "id": 14232400
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3726725",
+        "title": "Director's Cut",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 4.2545454545455,
+            "raw_score": 4.2545454545455,
+            "rank": 15
+          },
+          {
+            "name": "Creativity",
+            "score": 4.3818181818182,
+            "raw_score": 4.3818181818182,
+            "rank": 31
+          },
+          {
+            "name": "Presentation",
+            "score": 4.6545454545455,
+            "raw_score": 4.6545454545455,
+            "rank": 14
+          }
+        ],
+        "score": 4.430303030303,
+        "rating_count": 55,
+        "id": 3726725,
+        "rank": 6,
+        "raw_score": 4.430303030303
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:2"
+        ],
+        "coolness": 30,
+        "created_at": "2025-07-20 09:57:52",
+        "id": 723840,
+        "url": "/jam/shovel-jam-2025/rate/3726725",
+        "game": {
+          "title": "Director's Cut",
+          "cover": "https://img.itch.zone/aW1nLzIyMjU3NTA3LnBuZw==/300x240%23c/h3o2x8.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 3726725,
+          "url": "https://lunastela.itch.io/directors-cut",
+          "cover_color": "#3f2832",
+          "short_text": "Cut! I said CUT!!",
+          "user": {
+            "url": "https://lunastela.itch.io",
+            "name": "lunastela",
+            "id": 13835773
+          }
+        },
+        "contributors": [
+          {
+            "name": "lunastela",
+            "url": "https://lunastela.itch.io"
+          },
+          {
+            "name": "Ferpe",
+            "url": "https://ferpe.itch.io"
+          },
+          {
+            "name": "Lenoax",
+            "url": "https://lenoax.itch.io"
+          }
+        ],
+        "rating_count": 55
+      },
+      "details": {
+        "title": "Director's Cut",
+        "description": "These up and coming superstars are just getting started, literally! Rev them and embark on a journey to achieve acting perfection in DIRECTOR'S CUT, a game designed and developed for Shovel Jam (20)25'!\n\nControlsKeyboard (If Applicable)MouseCameraWASDMouse on ScrollbarAct / InteractN/ALeft Mouse ButtonJumpN/ARight Mouse ButtonPauseEscapePause Button\n\nCredits:\nPROGRAMMING: LunastelaARTWORK: FerpeMUSIC & SFX: Lenoax\n\n\nIMPORTANT:\nIf this game is lagging on Google Chrome (or otherwise), it is recommended that you download the executable file. The HTML5 build is good for accessibility, but it really isn't meant to be experienced on web as playing it may result in strange memory leaks that I cannot diagnose / do not have the time to. I hope this is acceptable! :>",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzcyNjcyNS8yMjI0MDcwMC5wbmc=/original/RPDQN4.png",
+          "https://img.itch.zone/aW1hZ2UvMzcyNjcyNS8yMjI0MDY5Ny5wbmc=/original/c3a52b.png",
+          "https://img.itch.zone/aW1hZ2UvMzcyNjcyNS8yMjI0MDY5MC5wbmc=/original/70MBXm.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(3 total ratings)",
+          "Authors": "lunastela, Ferpe, Lenoax",
+          "Genre": "Puzzle, Platformer",
+          "Made with": "GameMaker, Aseprite, FL Studio",
+          "Tags": "2D, GameMaker, Indie, No AI, Puzzle-Platformer",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 3738780,
+      "gameUrl": "https://whimfreak.itch.io/herofina-the-epic-quest-of-epicness",
+      "overallRank": 30,
+      "topCategories": [
+        "Fun"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMjUxMzk2LnBuZw==/300x240%23c/S7G0r5.png",
+        "contributors": [
+          {
+            "name": "WHIMFREAK",
+            "id": 8536458
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3738780",
+        "title": "Herofina: The Epic Quest of Epicness",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 4.25,
+            "raw_score": 4.25,
+            "rank": 16
+          },
+          {
+            "name": "Presentation",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 166
+          },
+          {
+            "name": "Creativity",
+            "score": 4.4166666666667,
+            "raw_score": 4.4166666666667,
+            "rank": 21
+          }
+        ],
+        "score": 4.2222222222222,
+        "rating_count": 12,
+        "id": 3738780,
+        "rank": 30,
+        "raw_score": 4.2222222222222
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:1"
+        ],
+        "created_at": "2025-07-21 06:34:30",
+        "id": 726547,
+        "url": "/jam/shovel-jam-2025/rate/3738780",
+        "game": {
+          "title": "Herofina: The Epic Quest of Epicness",
+          "cover": "https://img.itch.zone/aW1nLzIyMjUxMzk2LnBuZw==/300x240%23c/S7G0r5.png",
+          "platforms": [
+            "windows"
+          ],
+          "id": 3738780,
+          "url": "https://whimfreak.itch.io/herofina-the-epic-quest-of-epicness",
+          "cover_color": "#002237",
+          "short_text": "Experience this new epic game and pray nothing interrupts you.",
+          "user": {
+            "url": "https://whimfreak.itch.io",
+            "name": "WHIMFREAK",
+            "id": 8536458
+          }
+        },
+        "coolness": 24,
+        "rating_count": 12
+      },
+      "details": {
+        "title": "Herofina: The Epic Quest of Epicness",
+        "description": "Herofina: The Epic Quest of Epicness is the newest entry to the iconic series. After Lancerino's death, the kingdom of Goodtopia is once again in disarray, and the Dark Prince only grows in power. It is up to Herofina, the legendary knight, to save the people of Goodtopia and defeat the Dark Prince once and for all.\n\nFEATURES (very legit)\nCountless hours of content. I'm talking millions, billions, TRILLIONS of hoursAn immersive story that keeps you at the edge of your seatBreath-taking and magnificent gallery-worthy artwork, I mean just look at those screenshots oh my godDeep and complex, never seen before combat systemThe cure to world hungerPure, unadulterated EPICNESS\n\nAll of this and more awaits you in Herofina: The Epic Quest of Epicness.\nIf you could get past the start screen without any interruption, that is.\n\nCONTROLS\nA & D - Movement\n\nE - Interact\n\n\n//\nOkay, so I didn't know that Itch has a file limit for web games and it's too late to change the game now, so this won't be playable on the browser unfortunately. You can still download the game though :3\n//\nMade for Shovel Jam 2025\nMusic and SFX are from Pixabay and OpenGameArt",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczODc4MC8yMjI1NTkxNy5wbmc=/original/tlj%2B97.png",
+          "https://img.itch.zone/aW1hZ2UvMzczODc4MC8yMjI1NTkxOC5wbmc=/original/tam4tW.png",
+          "https://img.itch.zone/aW1hZ2UvMzczODc4MC8yMjI1NTk1Mi5wbmc=/original/koZbLI.png",
+          "https://img.itch.zone/aW1hZ2UvMzczODc4MC8yMjI1NTkxNi5wbmc=/original/y1RYv3.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Author": "WHIMFREAK",
+          "Genre": "Adventure, Role Playing",
+          "Tags": "minigames, Pixel Art, storygame"
+        }
+      }
+    },
+    {
+      "gameId": 3733759,
+      "gameUrl": "https://hie3.itch.io/hungry-lil-dudes",
+      "overallRank": 38,
+      "topCategories": [
+        "Fun"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMjIzMTAwLnBuZw==/300x240%23c/YnSE0Y.png",
+        "contributors": [
+          {
+            "name": "TaHie",
+            "id": 14013856
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3733759",
+        "title": "Hungry lil' Dudes",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 4.2462686567164,
+            "raw_score": 4.2462686567164,
+            "rank": 17
+          },
+          {
+            "name": "Presentation",
+            "score": 4.0373134328358,
+            "raw_score": 4.0373134328358,
+            "rank": 160
+          },
+          {
+            "name": "Creativity",
+            "score": 4.2537313432836,
+            "raw_score": 4.2537313432836,
+            "rank": 50
+          }
+        ],
+        "score": 4.1791044776119,
+        "rating_count": 134,
+        "id": 3733759,
+        "rank": 38,
+        "raw_score": 4.1791044776119
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:2"
+        ],
+        "created_at": "2025-07-20 02:03:25",
+        "id": 723558,
+        "url": "/jam/shovel-jam-2025/rate/3733759",
+        "game": {
+          "title": "Hungry lil' Dudes",
+          "cover": "https://img.itch.zone/aW1nLzIyMjIzMTAwLnBuZw==/300x240%23c/YnSE0Y.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 3733759,
+          "url": "https://hie3.itch.io/hungry-lil-dudes",
+          "cover_color": "#7ecbef",
+          "short_text": "Feed lil' dudes and help them reach their goal!",
+          "user": {
+            "url": "https://hie3.itch.io",
+            "name": "TaHie",
+            "id": 14013856
+          }
+        },
+        "coolness": 207,
+        "rating_count": 134
+      },
+      "details": {
+        "title": "Hungry lil' Dudes",
+        "description": "Hungry lil' Dudes\nA game for the the Shovel Jam 2025\n🍔Tiny Tummies 🍔\n \nThe lil' dudes are hungry!\nGuide a bunch of starving lil' dudes on their perilous (but adorable) journey to the promised land: WcWonaldsPlace food items across each level strategically to manipulate how they behave — whether it’s bouncing on their fat burger bellies, fart-launching with beans, or floating away with soda power.\n \n🍟 Features 🍟\n A world map with 12 handcrafted levelsThe lil' dudes move on their own, so it's up to you to help guide them4 unique foods with unexpected effectsNo timers. No stress. Just chaotic food-based puzzles\nCan the lil’ dudes make it to WcWonalds? Or will they die trying?\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczMzc1OS8yMjIyMjM5NC5wbmc=/original/hrLMG7.png",
+          "https://img.itch.zone/aW1hZ2UvMzczMzc1OS8yMjIyMjM5Ny5wbmc=/original/xnUevb.png",
+          "https://img.itch.zone/aW1hZ2UvMzczMzc1OS8yMjIyMjQxMi5wbmc=/original/qOSZDR.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Author": "TaHie",
+          "Genre": "Puzzle, Platformer",
+          "Made with": "Godot",
+          "Tags": "2D, Funny, Godot, Mouse only, Short"
+        }
+      }
+    },
+    {
+      "gameId": 3722170,
+      "gameUrl": "https://rki3000.itch.io/restricted-by-assistant",
+      "overallRank": 2,
+      "topCategories": [
+        "Fun",
+        "Creativity"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMjE4NjgzLmdpZg==/300x240%23c/fcetAg.gif",
+        "contributors": [
+          {
+            "name": "RKI3000",
+            "id": 2455413
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3722170",
+        "title": "Restricted by Assistant",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 4.2418300653595,
+            "raw_score": 4.2418300653595,
+            "rank": 18
+          },
+          {
+            "name": "Presentation",
+            "score": 4.5882352941176,
+            "raw_score": 4.5882352941176,
+            "rank": 22
+          },
+          {
+            "name": "Creativity",
+            "score": 4.6078431372549,
+            "raw_score": 4.6078431372549,
+            "rank": 7
+          },
+          {
+            "name": "Shovel Jam Winner",
+            "score": 0,
+            "raw_score": 0,
+            "rank": 2
+          }
+        ],
+        "score": 4.479302832244,
+        "rating_count": 153,
+        "id": 3722170,
+        "rank": 2,
+        "raw_score": 4.479302832244
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:1"
+        ],
+        "created_at": "2025-07-20 05:54:56",
+        "id": 723686,
+        "url": "/jam/shovel-jam-2025/rate/3722170",
+        "game": {
+          "id": 3722170,
+          "url": "https://rki3000.itch.io/restricted-by-assistant",
+          "cover_color": "#283942",
+          "user": {
+            "url": "https://rki3000.itch.io",
+            "name": "RKI3000",
+            "id": 2455413
+          },
+          "title": "Restricted by Assistant",
+          "platforms": [
+            "web"
+          ],
+          "gif_cover": "https://img.itch.zone/aW1nLzIyMjE4NjgzLmdpZg==/original/59ekpt.gif",
+          "cover": "https://img.itch.zone/aW1nLzIyMjE4NjgzLmdpZg==/300x240%23c/fcetAg.gif",
+          "short_text": "A virtual desktop adventure where your assistant enforces security... a little too enthusiastically."
+        },
+        "coolness": 43,
+        "rating_count": 153
+      },
+      "details": {
+        "title": "Restricted by Assistant",
+        "description": "Restricted By Assistant is a chaotic desktop adventure where you meet an Assistant that protects your computer. Maybe sometimes a little too much. It‘s a solo dev game made in Godot 4 made by a 16yo (me) and is my 21st game jam entry. It was made in 9 days for the Inbound Shovel Jam. Thanks for hosting Shovel!\nGameplay: Use different applications in tandem with each other, complete minigames and interact with the Assistant  to make progress!\n(I worked really hard on this, so i really hope you enjoy this game!)\n\n\nedit: wow i think you guys enjoyed the game, 100+ ratings is crazy, thank you so much for playing!\n\n\nedit 1.5: I WON\n\nedit 2: 2000 views!\n\n\nInspired by games like Oneshot and WarioWare.\nAll assets used are either made by RKI3000 or are under the CC0 license.\nCheck out the youtube short i made on the game:\n\nPineappleBlast001 helped with concept and making the internet pages in docs. Check him out here: https://pineappleblast001.itch.io\nMy links: https://linktr.ee/RKI3000",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzcyMjE3MC8yMjIxODY3MC5wbmc=/original/%2FkAJoY.png",
+          "https://img.itch.zone/aW1hZ2UvMzcyMjE3MC8yMjIxODY3Mi5wbmc=/original/3qyh1K.png",
+          "https://img.itch.zone/aW1hZ2UvMzcyMjE3MC8yMjIxODY2OS5wbmc=/original/dxmCAs.png",
+          "https://img.itch.zone/aW1hZ2UvMzcyMjE3MC8yMjIxODY2OC5wbmc=/original/IUdxty.png",
+          "https://img.itch.zone/aW1hZ2UvMzcyMjE3MC8yMjIxODY3MS5wbmc=/original/UNQkZL.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.9 out of 5 stars(12 total ratings)",
+          "Author": "RKI3000",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "2D, computer, Desktop Pet, Funny, Godot, Multiple Endings, Pixel Art, Short, Story Rich",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse",
+          "Accessibility": "Subtitles, Interactive tutorial"
+        }
+      }
+    },
+    {
+      "gameId": 3720659,
+      "gameUrl": "https://rickzin-o.itch.io/booting-up",
+      "overallRank": 30,
+      "topCategories": [
+        "Fun"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMzE1Njc2LnBuZw==/300x240%23c/%2FVo5kp.png",
+        "contributors": [
+          {
+            "name": "Rickzinho",
+            "id": 5099922
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3720659",
+        "title": "ShovelOS - Booting Up",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 4.2222222222222,
+            "raw_score": 4.2222222222222,
+            "rank": 19
+          },
+          {
+            "name": "Presentation",
+            "score": 4.2,
+            "raw_score": 4.2,
+            "rank": 99
+          },
+          {
+            "name": "Creativity",
+            "score": 4.2444444444444,
+            "raw_score": 4.2444444444444,
+            "rank": 54
+          }
+        ],
+        "score": 4.2222222222222,
+        "rating_count": 45,
+        "id": 3720659,
+        "rank": 30,
+        "raw_score": 4.2222222222222
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:1"
+        ],
+        "created_at": "2025-07-21 04:43:03",
+        "id": 726255,
+        "url": "/jam/shovel-jam-2025/rate/3720659",
+        "game": {
+          "title": "ShovelOS - Booting Up",
+          "cover": "https://img.itch.zone/aW1nLzIyMzE1Njc2LnBuZw==/300x240%23c/%2FVo5kp.png",
+          "platforms": [
+            "windows",
+            "linux",
+            "web"
+          ],
+          "id": 3720659,
+          "url": "https://rickzin-o.itch.io/booting-up",
+          "cover_color": "#8c7f90",
+          "short_text": "Help the computers to boot up by solving small puzzles!",
+          "user": {
+            "url": "https://rickzin-o.itch.io",
+            "name": "Rickzinho",
+            "id": 5099922
+          }
+        },
+        "coolness": 19,
+        "rating_count": 45
+      },
+      "details": {
+        "title": "ShovelOS - Booting Up",
+        "description": "Thanks for using ShovelOS, the most lightweight operating system ever created! Or... that's what you thought!\nUnfortunately, some computers are experiencing a lot of problems with the system, but don't worry! You can magically fix them just by making sure everything is connected inside the computer! Isn't that wonderful?\nControls\n[WASD] / [Arrow Keys] - Movement[R] - Restart[Esc] while loading - Jump loading screen\nCredits\nThis game was made by Rickzinho as a submission for Inbound Shovel Jam!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzcyMDY1OS8yMjI1MDEzMy5wbmc=/original/4fuo6G.png",
+          "https://img.itch.zone/aW1hZ2UvMzcyMDY1OS8yMjI1MDEzNC5wbmc=/original/ZgKlWe.png",
+          "https://img.itch.zone/aW1hZ2UvMzcyMDY1OS8yMjI1MDEzMi5wbmc=/original/rkLZhh.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows, Linux",
+          "Author": "Rickzinho",
+          "Genre": "Puzzle",
+          "Made with": "Godot, Audacity, ChipTone",
+          "Tags": "2D, Casual, Godot, No AI, Pixel Art, Short, Singleplayer",
+          "Average session": "A few minutes",
+          "Inputs": "Keyboard",
+          "Accessibility": "Color-blind friendly"
+        }
+      }
+    },
+    {
+      "gameId": 3737151,
+      "gameUrl": "https://591ml-studios.itch.io/pre-quest-a-heros-journey-to-start-a-heros-journey",
+      "overallRank": 50,
+      "topCategories": [
+        "Fun"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMjQ1NTI1LnBuZw==/300x240%23c/VPQfNb.png",
+        "contributors": [
+          {
+            "name": "591mL Studios",
+            "id": 4733735
+          },
+          {
+            "name": "Hamarchy",
+            "id": 9825469
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3737151",
+        "title": "Pre-Quest: A Hero's Journey to Start a Hero's Journey",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 4.2173913043478,
+            "raw_score": 4.2173913043478,
+            "rank": 20
+          },
+          {
+            "name": "Presentation",
+            "score": 4.304347826087,
+            "raw_score": 4.304347826087,
+            "rank": 68
+          },
+          {
+            "name": "Creativity",
+            "score": 3.7391304347826,
+            "raw_score": 3.7391304347826,
+            "rank": 207
+          }
+        ],
+        "score": 4.0869565217391,
+        "rating_count": 23,
+        "id": 3737151,
+        "rank": 50,
+        "raw_score": 4.0869565217391
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:1"
+        ],
+        "coolness": 34,
+        "created_at": "2025-07-20 22:47:51",
+        "id": 725525,
+        "url": "/jam/shovel-jam-2025/rate/3737151",
+        "game": {
+          "title": "Pre-Quest: A Hero's Journey to Start a Hero's Journey",
+          "cover": "https://img.itch.zone/aW1nLzIyMjQ1NTI1LnBuZw==/300x240%23c/VPQfNb.png",
+          "platforms": [
+            "windows",
+            "linux"
+          ],
+          "id": 3737151,
+          "url": "https://591ml-studios.itch.io/pre-quest-a-heros-journey-to-start-a-heros-journey",
+          "cover_color": "#000000",
+          "short_text": "An action adventure game where you follow a hero BEFORE the adventure starts!",
+          "user": {
+            "url": "https://591ml-studios.itch.io",
+            "name": "591mL Studios",
+            "id": 4733735
+          }
+        },
+        "contributors": [
+          {
+            "name": "591mL Studios",
+            "url": "https://591ml-studios.itch.io"
+          },
+          {
+            "name": "Hamarchy",
+            "url": "https://hamarchy-05.itch.io"
+          }
+        ],
+        "rating_count": 23
+      },
+      "details": {
+        "title": "Pre-Quest: A Hero's Journey to Start a Hero's Journey",
+        "description": "Pre-Quest is an action-adventure game where you play as a young hero in the process of starting his... unoriginal... adventure.Slash and stab enemies in action combat, and prepare to face the great evil king Ginandork... and something even more sinister.\nCreated in 7 days for the \"INBOUND SHOVEL JAM 2025\" game jam!WARNING: Contains some offensive language.EDWIN DROOD \\ FOX: CREATOR OF SUPER BARD QUEST MADE THIS FANART:Simply extract the file and launch the EXE file inside.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczNzE1MS8yMjI0MjY2MS5wbmc=/original/BTi5yE.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNzE1MS8yMjI0NDU3Ny5wbmc=/original/9AODYR.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNzE1MS8yMjI0NDU3OC5wbmc=/original/jz8DKe.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNzE1MS8yMjI0NDYxNC5wbmc=/original/0v8s8K.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, Linux",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "591mL Studios, Hamarchy",
+          "Genre": "Adventure, Action, Role Playing",
+          "Made with": "Blender, Godot, FL Studio",
+          "Tags": "Action-Adventure, Godot, No AI, Parody, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 3713929,
+      "gameUrl": "https://arziel.itch.io/mekaos",
+      "overallRank": 9,
+      "topCategories": [
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMTg5NDQwLnBuZw==/300x240%23c/4mdgWg.png",
+        "contributors": [
+          {
+            "name": "Arziel",
+            "id": 3015460
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3713929",
+        "title": "MekaOS: Starting SafeMode",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 3.9393939393939,
+            "raw_score": 3.9393939393939,
+            "rank": 78
+          },
+          {
+            "name": "Presentation",
+            "score": 4.8787878787879,
+            "raw_score": 4.8787878787879,
+            "rank": 1
+          },
+          {
+            "name": "Creativity",
+            "score": 4.2727272727273,
+            "raw_score": 4.2727272727273,
+            "rank": 47
+          }
+        ],
+        "score": 4.3636363636364,
+        "rating_count": 33,
+        "id": 3713929,
+        "rank": 9,
+        "raw_score": 4.3636363636364
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:1"
+        ],
+        "created_at": "2025-07-21 04:26:39",
+        "id": 726201,
+        "url": "/jam/shovel-jam-2025/rate/3713929",
+        "game": {
+          "title": "MekaOS: Starting SafeMode",
+          "platforms": [
+            "web"
+          ],
+          "id": 3713929,
+          "url": "https://arziel.itch.io/mekaos",
+          "cover_color": "#D2CEFD",
+          "cover": "https://img.itch.zone/aW1nLzIyMTg5NDQwLnBuZw==/300x240%23c/4mdgWg.png",
+          "user": {
+            "url": "https://arziel.itch.io",
+            "name": "Arziel",
+            "id": 3015460
+          }
+        },
+        "coolness": 6,
+        "rating_count": 33
+      },
+      "details": {
+        "title": "MekaOS: Starting SafeMode",
+        "description": "MekaOS: Starting SafeMode\na game for ShovelJam 2025\nYour system has failed to start properly... again. Welcome to Safe Mode, where everything is slightly broken and suspiciously cheerful.\nControls: Mouse + Ctrl\n2 different endings\nCan you clean up the chaos and restart the system... or will you uncover something even weirder?\nArt by Sister and Me\n1.1 UPDATE IS HERE\nwith updated art, new dialogues, a new icon, rewoked progresion and bug fixes.\nwalkthrough (outdated)\n\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzcxMzkyOS8yMjI1OTYzMi5wbmc=/original/6j2lX5.png",
+          "https://img.itch.zone/aW1hZ2UvMzcxMzkyOS8yMjI1OTYzNC5wbmc=/original/HJR5D7.png",
+          "https://img.itch.zone/aW1hZ2UvMzcxMzkyOS8yMjI1OTYzNS5wbmc=/original/D20w1y.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Arziel",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "2D, Anime, Comedy, Experimental, Narrative, No AI"
+        }
+      }
+    },
+    {
+      "gameId": 3737673,
+      "gameUrl": "https://maximinlianx.itch.io/psycho-striker-x",
+      "overallRank": 132,
+      "topCategories": [
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMjQ2NDk2LmdpZg==/300x240%23c/mdPzS3.gif",
+        "contributors": [
+          {
+            "name": "MaximilianX",
+            "id": 8558889
+          },
+          {
+            "name": "Iggy Blesavi",
+            "id": 1993680
+          },
+          {
+            "name": "HombreRandom",
+            "id": 11688498
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3737673",
+        "title": "Psycho Striker X",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 3.5625,
+            "raw_score": 3.5625,
+            "rank": 207
+          },
+          {
+            "name": "Creativity",
+            "score": 3.125,
+            "raw_score": 3.125,
+            "rank": 524
+          },
+          {
+            "name": "Presentation",
+            "score": 4.875,
+            "raw_score": 4.875,
+            "rank": 2
+          }
+        ],
+        "score": 3.8541666666667,
+        "rating_count": 16,
+        "id": 3737673,
+        "rank": 132,
+        "raw_score": 3.8541666666667
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:1"
+        ],
+        "coolness": 13,
+        "created_at": "2025-07-21 04:34:35",
+        "id": 726225,
+        "url": "/jam/shovel-jam-2025/rate/3737673",
+        "game": {
+          "id": 3737673,
+          "url": "https://maximinlianx.itch.io/psycho-striker-x",
+          "cover_color": "#000000",
+          "user": {
+            "url": "https://maximinlianx.itch.io",
+            "name": "MaximilianX",
+            "id": 8558889
+          },
+          "title": "Psycho Striker X",
+          "platforms": [
+            "windows",
+            "linux"
+          ],
+          "gif_cover": "https://img.itch.zone/aW1nLzIyMjQ2NDk2LmdpZg==/original/%2Fp0Wmp.gif",
+          "cover": "https://img.itch.zone/aW1nLzIyMjQ2NDk2LmdpZg==/300x240%23c/mdPzS3.gif",
+          "short_text": "Endless Point Racer"
+        },
+        "contributors": [
+          {
+            "name": "MaximilianX",
+            "url": "https://maximinlianx.itch.io"
+          },
+          {
+            "name": "Iggy Blesavi",
+            "url": "https://the-masked-studio.itch.io"
+          },
+          {
+            "name": "HombreRandom",
+            "url": "https://hombrerandom.itch.io"
+          }
+        ],
+        "rating_count": 16
+      },
+      "details": {
+        "title": "Psycho Striker X",
+        "description": "Psycho Striker X  is an endless racing game where you have to get as far as you can and DRIVE DRIVE DRIVE!Meet Connor, a robot who is constantly drunk on oil. His creator developed him for war but saw him as a failure. Connor decides to turn his life around and catch criminals known as \"J-Walkers\". This is where the theme \"Just get started\" comes in. Connor decides to \"Just get started\" on fixing his life to become a better robot! GET STARTED AND PLAY THE GAME!Soundtrack Links : Youtube|Bandcamp|SoundCloudCredits :Directors: Iggy Blesavi, MaximilianXStory : Iggy Blesavi, MaximilianXGame Programming:  Iggy BlesaviGame Design: Iggu Blesavi, MaximilianX\nArtists : Iggy Blesave(VFX Design, 3D Modeling, Animating, Set Design,UI),HombreRandom (UI, character design)Sound: MaximilianXFont License",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczNzY3My8yMjI0Njg1MC5wbmc=/original/QN3UBN.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNzY3My8yMjI0Njg1Mi5wbmc=/original/ElFpMh.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNzY3My8yMjI0Njg1MS5wbmc=/original/vF87Sz.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows, Linux",
+          "Authors": "MaximilianX, Iggy Blesavi, HombreRandom",
+          "Genre": "Racing",
+          "Tags": "Cyberpunk, Endless, Endless Runner, Funny, Futuristic, Godot, Mechs, Retro, Robots"
+        }
+      }
+    },
+    {
+      "gameId": 3739937,
+      "gameUrl": "https://hexafoil.itch.io/toggle-playable",
+      "overallRank": 5,
+      "topCategories": [
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMjc4ODkxLnBuZw==/300x240%23c/0rlKQ%2B.png",
+        "contributors": [
+          {
+            "name": "Hexafoil",
+            "id": 14117296
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3739937",
+        "title": "Toggle",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 4.2,
+            "raw_score": 4.2,
+            "rank": 23
+          },
+          {
+            "name": "Presentation",
+            "score": 4.8,
+            "raw_score": 4.8,
+            "rank": 4
+          },
+          {
+            "name": "Creativity",
+            "score": 4.32,
+            "raw_score": 4.32,
+            "rank": 38
+          }
+        ],
+        "score": 4.44,
+        "rating_count": 25,
+        "id": 3739937,
+        "rank": 5,
+        "raw_score": 4.44
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:2"
+        ],
+        "created_at": "2025-07-21 17:58:35",
+        "id": 726974,
+        "url": "/jam/shovel-jam-2025/rate/3739937",
+        "game": {
+          "title": "Toggle",
+          "cover": "https://img.itch.zone/aW1nLzIyMjc4ODkxLnBuZw==/300x240%23c/0rlKQ%2B.png",
+          "platforms": [
+            "windows"
+          ],
+          "id": 3739937,
+          "url": "https://hexafoil.itch.io/toggle-playable",
+          "cover_color": "#141518",
+          "short_text": "It's as simple as throwing a switch.",
+          "user": {
+            "url": "https://hexafoil.itch.io",
+            "name": "Hexafoil",
+            "id": 14117296
+          }
+        },
+        "coolness": 60,
+        "rating_count": 25
+      },
+      "details": {
+        "title": "Toggle",
+        "description": "Link up with machines and manipulate your environment to restore power to a decaying facility in this extremely brief \"puzzle\" platformer. You are the impulse that spurs the mechanism.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczOTkzNy8yMjI3NTk5OS5wbmc=/original/PjVOO9.png",
+          "https://img.itch.zone/aW1hZ2UvMzczOTkzNy8yMjI3NTk5Ni5wbmc=/original/r6Z3aF.png",
+          "https://img.itch.zone/aW1hZ2UvMzczOTkzNy8yMjI3NTk5OC5wbmc=/original/UslGh1.png",
+          "https://img.itch.zone/aW1hZ2UvMzczOTkzNy8yMjI3NTk5Ny5wbmc=/original/BE7gL6.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Author": "Hexafoil",
+          "Genre": "Platformer",
+          "Tags": "2D, My First Game Jam, Pixel Art, Puzzle-Platformer, Robots, Short, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 3733235,
+      "gameUrl": "https://aidenrosecreative.itch.io/free-time",
+      "overallRank": 39,
+      "topCategories": [
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMjE4ODUxLnBuZw==/300x240%23c/jnFUau.png",
+        "contributors": [
+          {
+            "name": "Aiden Rose Creative",
+            "id": 10721179
+          },
+          {
+            "name": "SatoVsZato",
+            "id": 13436706
+          },
+          {
+            "name": "mulyuyo",
+            "id": 14176785
+          },
+          {
+            "name": "d'arcy the witch",
+            "id": 14135577
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3733235",
+        "title": "Free Time",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 3.5321100917431,
+            "raw_score": 3.5321100917431,
+            "rank": 223
+          },
+          {
+            "name": "Creativity",
+            "score": 4.2110091743119,
+            "raw_score": 4.2110091743119,
+            "rank": 62
+          },
+          {
+            "name": "Presentation",
+            "score": 4.7889908256881,
+            "raw_score": 4.7889908256881,
+            "rank": 5
+          }
+        ],
+        "score": 4.177370030581,
+        "rating_count": 109,
+        "id": 3733235,
+        "rank": 39,
+        "raw_score": 4.177370030581
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:1"
+        ],
+        "coolness": 31,
+        "created_at": "2025-07-21 00:45:23",
+        "id": 725723,
+        "url": "/jam/shovel-jam-2025/rate/3733235",
+        "game": {
+          "title": "Free Time",
+          "cover": "https://img.itch.zone/aW1nLzIyMjE4ODUxLnBuZw==/300x240%23c/jnFUau.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 3733235,
+          "url": "https://aidenrosecreative.itch.io/free-time",
+          "cover_color": "#B7C99F",
+          "short_text": "A longtime career man tries to learn how to spend his free time in retirement.",
+          "user": {
+            "url": "https://aidenrosecreative.itch.io",
+            "name": "Aiden Rose Creative",
+            "id": 10721179
+          }
+        },
+        "contributors": [
+          {
+            "name": "Aiden Rose Creative",
+            "url": "https://aidenrosecreative.itch.io"
+          },
+          {
+            "name": "SatoVsZato",
+            "url": "https://satovszato.itch.io"
+          },
+          {
+            "name": "mulyuyo",
+            "url": "https://mulyuyo.itch.io"
+          },
+          {
+            "name": "d'arcy the witch",
+            "url": "https://darcy-the-witch.itch.io"
+          }
+        ],
+        "rating_count": 109
+      },
+      "details": {
+        "title": "Free Time",
+        "description": "~~ !! Created for the Inbound Shovel Jam 2025 !! ~~\n˖°❀⋆.ೃ࿔*:･ Theme : Just Get Started! ˖°❀⋆.ೃ࿔*:･\n  \nᓚᘏᗢ Premise & Theme Interpretation :\n\n-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- \n When you’re given a lot of free time, the initial push is to do…nothing. \nMartîn  has been successful in business for the last few decades and has  finally gotten time to quit and spend time for himself. Slowly realising  that he hasn't put time into these hobbies for years as he let  friendships and passtimes fade away, how can he pick them back up? He  has to just get started!\nFollow him through life in a house he never made home as he tries to find activities to fill his time.\n- The beautiful art on the side is fanart (which is crazy!!) by the amazingly talented EdwinDrood (or Shroom Fox from the Discord) - go check out their submission Super Bard Quest 2 !!!\n-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --\n Credits :   /ᐠ > ˕ <マ ! \nAiden Rose Creative :\nhttps://aidenrosecreative.carrd.co/Writer, Composer \nKyu0muu : https://www.instagram.com/kyu0muu/ Developer\nMulyuyo :\n\nhttps://www.instagram.com/mulyuyo/\n\nSprite Artist, Background Artist\n    \nD'arcy the Witch :\n\nhttps://www.youtube.com/@d.arcythewitch\nSprite Artist, Background Artist \n^^  All of us drawn by Mulyuyo ^^-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- ",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczMzIzNS8yMjM0NTk3Ni5wbmc=/original/GYlRiQ.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Authors": "Aiden Rose Creative, SatoVsZato, mulyuyo, d'arcy the witch",
+          "Genre": "Interactive Fiction, Puzzle",
+          "Made with": "Unity",
+          "Tags": "2D, No AI, Singleplayer",
+          "Average session": "A few minutes",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 3733360,
+      "gameUrl": "https://poys.itch.io/one-bit-at-a-time",
+      "overallRank": 33,
+      "topCategories": [
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMjE5ODQ5LnBuZw==/300x240%23c/Vzcg7i.png",
+        "contributors": [
+          {
+            "name": "POY's",
+            "id": 5540552
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3733360",
+        "title": "One bit at a time",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 3.5652173913043,
+            "raw_score": 3.5652173913043,
+            "rank": 205
+          },
+          {
+            "name": "Presentation",
+            "score": 4.7826086956522,
+            "raw_score": 4.7826086956522,
+            "rank": 6
+          },
+          {
+            "name": "Creativity",
+            "score": 4.2608695652174,
+            "raw_score": 4.2608695652174,
+            "rank": 49
+          }
+        ],
+        "score": 4.2028985507246,
+        "rating_count": 23,
+        "id": 3733360,
+        "rank": 33,
+        "raw_score": 4.2028985507246
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:2"
+        ],
+        "created_at": "2025-07-19 21:07:00",
+        "id": 723444,
+        "url": "/jam/shovel-jam-2025/rate/3733360",
+        "game": {
+          "title": "One bit at a time",
+          "cover": "https://img.itch.zone/aW1nLzIyMjE5ODQ5LnBuZw==/300x240%23c/Vzcg7i.png",
+          "platforms": [
+            "windows"
+          ],
+          "id": 3733360,
+          "url": "https://poys.itch.io/one-bit-at-a-time",
+          "cover_color": "#eeeeee",
+          "short_text": "You play as a little deity lacking inspiration for their first project.",
+          "user": {
+            "url": "https://poys.itch.io",
+            "name": "POY's",
+            "id": 5540552
+          }
+        },
+        "coolness": 57,
+        "rating_count": 23
+      },
+      "details": {
+        "title": "One bit at a time",
+        "description": "☁️This little game was made for the Shovel Jam 2025.  This is my first jam and once again I did everything myself. Needless to say that it was a busy week. \n☁️You play as Neo, a young Deity, on the day they design their first creature.\nI hope you'll enjoy the atmosphere of the first part of the game, and have fun creating your wacky living being on the second.\n☁️modes: story and creative (you have to finish the game once to unlock it but it will stay that way, the progression is saved)\n☁️Languages: french and english",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczMzM2MC8yMjIyMDE3NS5wbmc=/original/IWba8t.png",
+          "https://img.itch.zone/aW1hZ2UvMzczMzM2MC8yMjIyMDE3My5wbmc=/original/Q3SD6L.png",
+          "https://img.itch.zone/aW1hZ2UvMzczMzM2MC8yMjIyMDE3Ni5wbmc=/original/aiaJ8t.png",
+          "https://img.itch.zone/aW1hZ2UvMzczMzM2MC8yMjIyMDE3NC5wbmc=/original/vPytxP.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Author": "POY's",
+          "Tags": "Creative, Narrative, No AI, Pixel Art, Short",
+          "Average session": "A few minutes",
+          "Languages": "English, French"
+        }
+      }
+    },
+    {
+      "gameId": 3737407,
+      "gameUrl": "https://palantir98.itch.io/lost-in-papertime",
+      "overallRank": 55,
+      "topCategories": [
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMjQ0MDc1LnBuZw==/300x240%23c/R3FW5Z.png",
+        "contributors": [
+          {
+            "name": "Palantir98",
+            "id": 11772956
+          },
+          {
+            "name": "Andrea Zanin",
+            "id": 11772962
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3737407",
+        "title": "Lost in Papertime",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 3.3333333333333,
+            "raw_score": 3.3333333333333,
+            "rank": 317
+          },
+          {
+            "name": "Presentation",
+            "score": 4.7777777777778,
+            "raw_score": 4.7777777777778,
+            "rank": 7
+          },
+          {
+            "name": "Creativity",
+            "score": 4.1111111111111,
+            "raw_score": 4.1111111111111,
+            "rank": 81
+          }
+        ],
+        "score": 4.0740740740741,
+        "rating_count": 9,
+        "id": 3737407,
+        "rank": 55,
+        "raw_score": 4.0740740740741
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:1"
+        ],
+        "coolness": 1,
+        "created_at": "2025-07-20 22:01:02",
+        "id": 725440,
+        "url": "/jam/shovel-jam-2025/rate/3737407",
+        "game": {
+          "title": "Lost in Papertime",
+          "cover": "https://img.itch.zone/aW1nLzIyMjQ0MDc1LnBuZw==/300x240%23c/R3FW5Z.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 3737407,
+          "url": "https://palantir98.itch.io/lost-in-papertime",
+          "cover_color": "#4c54dd",
+          "short_text": "Solve an hyperdrive engine mulfunction that trapped you in a time loop!",
+          "user": {
+            "url": "https://palantir98.itch.io",
+            "name": "Palantir98",
+            "id": 11772956
+          }
+        },
+        "contributors": [
+          {
+            "name": "Palantir98",
+            "url": "https://palantir98.itch.io"
+          },
+          {
+            "name": "Andrea Zanin",
+            "url": "https://andreazanin.itch.io"
+          }
+        ],
+        "rating_count": 9
+      },
+      "details": {
+        "title": "Lost in Papertime",
+        "description": "This Game was done for the Shovel Jam 2025 - The theme was \"Just Get Started!\".\n  \nThe Game\nYou are stranded in space alone, on board of your ship. A mechanical  failure on the hyperdrive system has shut down your engines and has  caused a time anomaly, forcing you in a time loop where you need to  start over every time. At each loop, you can bring with you only what  you've learned and a couple of items, so be attentive!\n  \nYou will need to bring power back to engine room to escape the loop and regain control of the spaceship.\n  \nControls\nMove with arrow keys.\n  \nUse Q to interact with your surroundings and E to drag or push some items.\n  \nThe Team\nDevelopers: Palantir98, Andrea Zanin\n    \nArt: Ilva Dibriani, Luigi Filippelli\n    \nMusic & SFX from online assets for which we have the license\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczNzQwNy8yMjI0NDI5NC5wbmc=/original/4b4Nw3.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNzQwNy8yMjI0NDI0Ny5wbmc=/original/tFFMDV.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNzQwNy8yMjI0NDI0OC5wbmc=/original/KK4i1e.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Authors": "Palantir98, Andrea Zanin",
+          "Made with": "Godot"
+        }
+      }
+    },
+    {
+      "gameId": 3738803,
+      "gameUrl": "https://eevx.itch.io/stuarted",
+      "overallRank": 100,
+      "topCategories": [
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMjUwNzU4LnBuZw==/300x240%23c/CtLm2u.png",
+        "contributors": [
+          {
+            "name": "eevx",
+            "id": 12832590
+          },
+          {
+            "name": "bleu_green",
+            "id": 10937554
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3738803",
+        "title": "Stuart & Ed",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 3,
+            "raw_score": 3,
+            "rank": 458
+          },
+          {
+            "name": "Presentation",
+            "score": 4.7037037037037,
+            "raw_score": 4.7037037037037,
+            "rank": 8
+          },
+          {
+            "name": "Creativity",
+            "score": 4.037037037037,
+            "raw_score": 4.037037037037,
+            "rank": 99
+          }
+        ],
+        "score": 3.9135802469136,
+        "rating_count": 27,
+        "id": 3738803,
+        "rank": 100,
+        "raw_score": 3.9135802469136
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:1"
+        ],
+        "coolness": 19,
+        "created_at": "2025-07-21 06:38:35",
+        "id": 726556,
+        "url": "/jam/shovel-jam-2025/rate/3738803",
+        "game": {
+          "title": "Stuart & Ed",
+          "cover": "https://img.itch.zone/aW1nLzIyMjUwNzU4LnBuZw==/300x240%23c/CtLm2u.png",
+          "platforms": [
+            "windows",
+            "android",
+            "web"
+          ],
+          "id": 3738803,
+          "url": "https://eevx.itch.io/stuarted",
+          "cover_color": "#2f0202",
+          "short_text": "We are just getting StuartEd.",
+          "user": {
+            "url": "https://eevx.itch.io",
+            "name": "eevx",
+            "id": 12832590
+          }
+        },
+        "contributors": [
+          {
+            "name": "eevx",
+            "url": "https://eevx.itch.io"
+          },
+          {
+            "name": "bleu_green",
+            "url": "https://bleu-green.itch.io"
+          }
+        ],
+        "rating_count": 27
+      },
+      "details": {
+        "title": "Stuart & Ed",
+        "description": "\n  Get Started on Getting Stuart & Ed Back\n  \n    Before the little aliens cause mayhem in town, it's up to you to step in. \n    Yes, the game is entirely based around that pun.\n  \n  \n  \n    Styled as an episodic cartoon series, you follow the scientist guy as he searches for Stuart and Ed. \n    Click on objects and people to investigate, uncover clues, and gather answers. \n    Each clue doubles as both a hint and a potential answer to the questions you'll be asked.\n  \n  \n    (Post-jam update: added better indicators on mouse hover)\n  \n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczODgwMy8yMjI1MjE4Mi5wbmc=/original/I96f3%2F.png",
+          "https://img.itch.zone/aW1hZ2UvMzczODgwMy8yMjI1MjE4MS5wbmc=/original/S8xnOu.png",
+          "https://img.itch.zone/aW1hZ2UvMzczODgwMy8yMjI1MjE4NC5wbmc=/original/UuSubq.png",
+          "https://img.itch.zone/aW1hZ2UvMzczODgwMy8yMjI1MjIwOS5wbmc=/original/V49ICQ.png",
+          "https://img.itch.zone/aW1hZ2UvMzczODgwMy8yMjI1MjA4Ny5wbmc=/original/3hbEFx.png",
+          "https://img.itch.zone/aW1hZ2UvMzczODgwMy8yMjI1MTA1My5wbmc=/original/dbBut0.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, Android",
+          "Authors": "eevx, bleu_green",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "Aliens, Arcade, Godot, Point & Click, Retro, Story Rich"
+        }
+      }
+    },
+    {
+      "gameId": 3722267,
+      "gameUrl": "https://poisheesh.itch.io/rudys-homework",
+      "overallRank": 27,
+      "topCategories": [
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMjM4ODcwLnBuZw==/300x240%23c/m%2FPhG8.png",
+        "contributors": [
+          {
+            "name": "Poisheesh",
+            "id": 1105539
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3722267",
+        "title": "Rudy's Homework",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 3.7,
+            "raw_score": 3.7,
+            "rank": 152
+          },
+          {
+            "name": "Presentation",
+            "score": 4.7,
+            "raw_score": 4.7,
+            "rank": 9
+          },
+          {
+            "name": "Creativity",
+            "score": 4.3,
+            "raw_score": 4.3,
+            "rank": 40
+          }
+        ],
+        "score": 4.2333333333333,
+        "rating_count": 10,
+        "id": 3722267,
+        "rank": 27,
+        "raw_score": 4.2333333333333
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:1"
+        ],
+        "created_at": "2025-07-20 19:22:02",
+        "id": 725094,
+        "url": "/jam/shovel-jam-2025/rate/3722267",
+        "game": {
+          "title": "Rudy's Homework",
+          "platforms": [
+            "web"
+          ],
+          "id": 3722267,
+          "url": "https://poisheesh.itch.io/rudys-homework",
+          "cover_color": "#000000",
+          "cover": "https://img.itch.zone/aW1nLzIyMjM4ODcwLnBuZw==/300x240%23c/m%2FPhG8.png",
+          "user": {
+            "url": "https://poisheesh.itch.io",
+            "name": "Poisheesh",
+            "id": 1105539
+          }
+        },
+        "coolness": 21,
+        "rating_count": 10
+      },
+      "details": {
+        "title": "Rudy's Homework",
+        "description": "Rudy forgot to do his homework again! This time, Calculus the Number Wizard won't let him off the hook so easily.-A game by PoisheeshMusics by N3K",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzcyMjI2Ny8yMjI0MDg4MC5wbmc=/original/e5VWMv.png",
+          "https://img.itch.zone/aW1hZ2UvMzcyMjI2Ny8yMjI0MDg4MS5wbmc=/original/8EN%2F6R.png",
+          "https://img.itch.zone/aW1hZ2UvMzcyMjI2Ny8yMjI0MDg3OS5wbmc=/original/ySZ1xI.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Poisheesh",
+          "Genre": "Educational",
+          "Made with": "Godot",
+          "Tags": "Funny, Magic, Math, minigames, Wizards"
+        }
+      }
+    },
+    {
+      "gameId": 3729597,
+      "gameUrl": "https://marvinstwz.itch.io/sharp-shooter",
+      "overallRank": 85,
+      "topCategories": [
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMTk4MDYwLnBuZw==/300x240%23c/pjDpyy.png",
+        "contributors": [
+          {
+            "name": "marvinstwz",
+            "id": 14077058
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3729597",
+        "title": "Sharp Shooter",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 3.5,
+            "raw_score": 3.5,
+            "rank": 231
+          },
+          {
+            "name": "Presentation",
+            "score": 4.7,
+            "raw_score": 4.7,
+            "rank": 9
+          },
+          {
+            "name": "Creativity",
+            "score": 3.7,
+            "raw_score": 3.7,
+            "rank": 226
+          }
+        ],
+        "score": 3.9666666666667,
+        "rating_count": 10,
+        "id": 3729597,
+        "rank": 85,
+        "raw_score": 3.9666666666667
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:2"
+        ],
+        "created_at": "2025-07-18 12:47:26",
+        "id": 722914,
+        "url": "/jam/shovel-jam-2025/rate/3729597",
+        "game": {
+          "title": "Sharp Shooter",
+          "cover": "https://img.itch.zone/aW1nLzIyMTk4MDYwLnBuZw==/300x240%23c/pjDpyy.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 3729597,
+          "url": "https://marvinstwz.itch.io/sharp-shooter",
+          "cover_color": "#634c38",
+          "short_text": "2D pixel art western shooter",
+          "user": {
+            "url": "https://marvinstwz.itch.io",
+            "name": "marvinstwz",
+            "id": 14077058
+          }
+        },
+        "coolness": 1,
+        "rating_count": 10
+      },
+      "details": {
+        "title": "Sharp Shooter",
+        "description": "If playing in browser, please activate fullscreen to avoid clicking out of the frame.\nA simple 2D arcade shooter, with a western aesthetic and pixel perfect graphics. Made for InboundShovel Game Jam. \nThere is a build .zip for windows and a web version, i'd prefer if you played the regular build rather than the web version, if possible. :)",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIyMTk4MDYwLnBuZw==/original/H%2Bkmck.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Author": "marvinstwz",
+          "Genre": "Shooter",
+          "Made with": "Unity",
+          "Tags": "2D, Arcade, Pixel Art, Western"
+        }
+      }
+    },
+    {
+      "gameId": 3738362,
+      "gameUrl": "https://guiyyu.itch.io/duckbound",
+      "overallRank": 15,
+      "topCategories": [
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMjYyOTA0LnBuZw==/300x240%23c/fz9fVx.png",
+        "contributors": [
+          {
+            "name": "guiyyu",
+            "id": 1569108
+          },
+          {
+            "name": "crazycaryz",
+            "id": 1607719
+          },
+          {
+            "name": "Andre_the_Quiet",
+            "id": 2353086
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3738362",
+        "title": "Duckbound",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 4.1428571428571,
+            "raw_score": 4.1428571428571,
+            "rank": 34
+          },
+          {
+            "name": "Presentation",
+            "score": 4.6984126984127,
+            "raw_score": 4.6984126984127,
+            "rank": 11
+          },
+          {
+            "name": "Creativity",
+            "score": 4.1269841269841,
+            "raw_score": 4.1269841269841,
+            "rank": 76
+          }
+        ],
+        "score": 4.3227513227513,
+        "rating_count": 63,
+        "id": 3738362,
+        "rank": 15,
+        "raw_score": 4.3227513227513
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:1"
+        ],
+        "coolness": 55,
+        "created_at": "2025-07-21 04:03:41",
+        "id": 726148,
+        "url": "/jam/shovel-jam-2025/rate/3738362",
+        "game": {
+          "title": "Duckbound",
+          "cover": "https://img.itch.zone/aW1nLzIyMjYyOTA0LnBuZw==/300x240%23c/fz9fVx.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 3738362,
+          "url": "https://guiyyu.itch.io/duckbound",
+          "cover_color": "#eeeeee",
+          "short_text": "combo with chaos, quack with purpose",
+          "user": {
+            "url": "https://guiyyu.itch.io",
+            "name": "guiyyu",
+            "id": 1569108
+          }
+        },
+        "contributors": [
+          {
+            "name": "guiyyu",
+            "url": "https://guiyyu.itch.io"
+          },
+          {
+            "name": "crazycaryz",
+            "url": "https://crazycaryz.itch.io"
+          },
+          {
+            "name": "Andre_the_Quiet",
+            "url": "https://andre-the-quiet.itch.io"
+          }
+        ],
+        "rating_count": 63
+      },
+      "details": {
+        "title": "Duckbound",
+        "description": "Desktop version is recommended!\nCreated as part of the Shovel Game Jam 2025.\n🦆 combo with chaos, quack with purpose.\nWelcome to Duckbound, a light-hearted turn-based RPG where mischief meets quackery.\nYou awaken by a tranquil pond and meet your only companion: a very expressive duck. From there, your journey spirals into a whimsical trek through nearby oddball locations, each hiding slapstick secrets and curious characters.\n\n----\n⭐ Features:\nUnlock absurd abilities like Burp, Twirl, and Slip, each more ridiculous than the lastMix and match your powers to create chaotic combos that change based on your enemy's personalityCombat with charm: You can wear enemies down with damage, or drain their Spirit to make them give up on their ownExplore strange places with emotional undercurrents beneath the comedy. From circus ruins to foamy taverns, each area brings surprises.\n----\n🦢 Why play?\nIf you like games where:\nTurn-based combat is more about creativity than numbersYou want an emotional support duckYou love to laugh and then unexpectedly get hit with the feels\nThen this one's for you!\n----\n☀️ Dev Team:\nDesign: guiyyuProgramming: guiyyu, Andre_The_QuietArt: crazycaryzNarrative: guiyyuMusic: Phorzaeken (Neo Ethereal Future)\n\nhttps://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/2054245704&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\n鮭魚guiyyu · Duckbound OST",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczODM2Mi8yMjI0OTE5MC5wbmc=/original/Db6nPs.png",
+          "https://img.itch.zone/aW1hZ2UvMzczODM2Mi8yMjI0OTE5Mi5wbmc=/original/6nipDh.png",
+          "https://img.itch.zone/aW1hZ2UvMzczODM2Mi8yMjI0OTE5NC5wbmc=/original/npZp7r.png",
+          "https://img.itch.zone/aW1hZ2UvMzczODM2Mi8yMjI0OTIxOS5wbmc=/original/ITF73X.png",
+          "https://img.itch.zone/aW1hZ2UvMzczODM2Mi8yMjI0OTIyNi5wbmc=/original/VKZI6z.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "guiyyu, crazycaryz, Andre_the_Quiet",
+          "Genre": "Adventure, Role Playing",
+          "Made with": "Unity",
+          "Tags": "3D, Casual, Characters, Cozy, Cute, Short, Singleplayer, Turn-based"
+        }
+      }
+    },
+    {
+      "gameId": 3737192,
+      "gameUrl": "https://orphic-dreaming.itch.io/prerolled",
+      "overallRank": 10,
+      "topCategories": [
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0MDE1MTI0LnBuZw==/300x240%23c/DPvmyg.png",
+        "contributors": [
+          {
+            "name": "Orphic Dreaming",
+            "id": 10965097
+          },
+          {
+            "name": "Christophe",
+            "id": 12982616
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3737192",
+        "title": "Prerolled",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 4.1168831168831,
+            "raw_score": 4.1168831168831,
+            "rank": 39
+          },
+          {
+            "name": "Creativity",
+            "score": 4.2727272727273,
+            "raw_score": 4.2727272727273,
+            "rank": 47
+          },
+          {
+            "name": "Presentation",
+            "score": 4.6753246753247,
+            "raw_score": 4.6753246753247,
+            "rank": 12
+          }
+        ],
+        "score": 4.3549783549784,
+        "rating_count": 77,
+        "id": 3737192,
+        "rank": 10,
+        "raw_score": 4.3549783549784
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:1"
+        ],
+        "coolness": 43,
+        "created_at": "2025-07-21 04:25:32",
+        "id": 726198,
+        "url": "/jam/shovel-jam-2025/rate/3737192",
+        "game": {
+          "title": "Prerolled",
+          "cover": "https://img.itch.zone/aW1nLzI0MDE1MTI0LnBuZw==/300x240%23c/DPvmyg.png",
+          "platforms": [
+            "windows",
+            "linux",
+            "web"
+          ],
+          "id": 3737192,
+          "url": "https://orphic-dreaming.itch.io/prerolled",
+          "cover_color": "#684a3a",
+          "short_text": "Make crazy money selling silly dice in your cozy shop!!",
+          "user": {
+            "url": "https://orphic-dreaming.itch.io",
+            "name": "Orphic Dreaming",
+            "id": 10965097
+          }
+        },
+        "contributors": [
+          {
+            "name": "Orphic Dreaming",
+            "url": "https://orphic-dreaming.itch.io"
+          },
+          {
+            "name": "Christophe",
+            "url": "https://qaqelol.itch.io"
+          }
+        ],
+        "rating_count": 77
+      },
+      "details": {
+        "title": "Prerolled",
+        "description": "Welcome to your very own dice shop!\nUnlock permanent dice, alter them with stickers, pack them into\n    boxes and make crazy combos! \nMy very own dice shop??\n \n  You'll be selling cool dice to silly client with funky (optional) requests.\n  \n\n What kind of dice? \n\nMany kind of dice, like these:\n\n  \n  \n  \n  \n\n\n\nDo you like updates ?\nFollow Jack or Christophe so you never miss new updates!!We are really proactive to apply the feedback we get in the comments <3\n\nCommunity\nJoin our Discord to talk with the devs and other players!!\nWatch people play Prerolled:\n\n\n  \n  \n  \n\n(you can be featured here if you send the link of your video in the game comments)\n\nCredits\n\n\nChristophe- Art/ProgrammingJack - ProgrammingSounds and music from Pixabay and Kenny\n\nShovel Jam\nOriginally made in 10 days for Shovel Jam 2025(You can play that version using the downloadable jam windows version.)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczNzE5Mi8yMjQ3NzE4NC5naWY=/original/1OtdvG.gif",
+          "https://img.itch.zone/aW1hZ2UvMzczNzE5Mi8yMjQ3NzE5OC5naWY=/original/qED9if.gif",
+          "https://img.itch.zone/aW1hZ2UvMzczNzE5Mi8yMjQ3NjA4Ny5naWY=/original/FtATaA.gif",
+          "https://img.itch.zone/aW1hZ2UvMzczNzE5Mi8yMjQ3NjA4MC5naWY=/original/eZhqhm.gif",
+          "https://img.itch.zone/aW1hZ2UvMzczNzE5Mi8yMjQ3NjEzMy5wbmc=/original/WzC4e8.png"
+        ],
+        "moreInfo": {
+          "Updated": "8 days ago",
+          "Status": "In development",
+          "Platforms": "HTML5, Windows, Linux",
+          "Rating": "Rated 4.8 out of 5 stars(484 total ratings)",
+          "Authors": "Orphic Dreaming, Christophe",
+          "Genre": "Strategy, Puzzle",
+          "Made with": "Godot, Krita",
+          "Tags": "Casual, combos, Cozy, Cute, Deck Building, Dice, Roguelike, Roguelite, upgrades",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Mouse",
+          "Links": "Discord, Feedback"
+        }
+      }
+    },
+    {
+      "gameId": 3738720,
+      "gameUrl": "https://m394m.itch.io/cant-sleep",
+      "overallRank": 75,
+      "topCategories": [
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMjUxNTk2LnBuZw==/300x240%23c/5S5aNX.png",
+        "contributors": [
+          {
+            "name": "m394m",
+            "id": 8826520
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3738720",
+        "title": "Can't Sleep",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 3.46875,
+            "raw_score": 3.46875,
+            "rank": 254
+          },
+          {
+            "name": "Presentation",
+            "score": 4.65625,
+            "raw_score": 4.65625,
+            "rank": 13
+          },
+          {
+            "name": "Creativity",
+            "score": 3.90625,
+            "raw_score": 3.90625,
+            "rank": 132
+          }
+        ],
+        "score": 4.0104166666667,
+        "rating_count": 32,
+        "id": 3738720,
+        "rank": 75,
+        "raw_score": 4.0104166666667
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:2"
+        ],
+        "created_at": "2025-07-21 06:24:32",
+        "id": 726528,
+        "url": "/jam/shovel-jam-2025/rate/3738720",
+        "game": {
+          "title": "Can't Sleep",
+          "platforms": [
+            "web"
+          ],
+          "id": 3738720,
+          "url": "https://m394m.itch.io/cant-sleep",
+          "cover_color": "#040405",
+          "cover": "https://img.itch.zone/aW1nLzIyMjUxNTk2LnBuZw==/300x240%23c/5S5aNX.png",
+          "user": {
+            "url": "https://m394m.itch.io",
+            "name": "m394m",
+            "id": 8826520
+          }
+        },
+        "coolness": 45,
+        "rating_count": 32
+      },
+      "details": {
+        "title": "Can't Sleep",
+        "description": "Controls:\nMovement: WASD / Arrow keysInteract:  E\nDream Control:\nMouse movementHold left  click to close eyesRelease left click to open eyes\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczODcyMC8yMjI1MTU5MS5wbmc=/original/9YBkKh.png",
+          "https://img.itch.zone/aW1hZ2UvMzczODcyMC8yMjI1MTU5Mi5wbmc=/original/j4NeBz.png",
+          "https://img.itch.zone/aW1hZ2UvMzczODcyMC8yMjI1MTU5My5wbmc=/original/9i4LuR.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "m394m",
+          "Made with": "Godot",
+          "Tags": "2D, Atmospheric, Pixel Art, Short"
+        }
+      }
+    },
+    {
+      "gameId": 3735195,
+      "gameUrl": "https://papus-games.itch.io/day-15",
+      "overallRank": 11,
+      "topCategories": [
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyNDgyOTExLnBuZw==/300x240%23c/ycxksZ.png",
+        "contributors": [
+          {
+            "name": "Papus Games",
+            "id": 6661627
+          },
+          {
+            "name": "IMixDev",
+            "id": 8161886
+          },
+          {
+            "name": "ognomo",
+            "id": 2703800
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3735195",
+        "title": "Day 15",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 60
+          },
+          {
+            "name": "Presentation",
+            "score": 4.6363636363636,
+            "raw_score": 4.6363636363636,
+            "rank": 15
+          },
+          {
+            "name": "Creativity",
+            "score": 4.4090909090909,
+            "raw_score": 4.4090909090909,
+            "rank": 22
+          }
+        ],
+        "score": 4.3484848484848,
+        "rating_count": 22,
+        "id": 3735195,
+        "rank": 11,
+        "raw_score": 4.3484848484848
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:1"
+        ],
+        "coolness": 14,
+        "created_at": "2025-07-21 04:59:39",
+        "id": 726413,
+        "url": "/jam/shovel-jam-2025/rate/3735195",
+        "game": {
+          "title": "Day 15",
+          "cover": "https://img.itch.zone/aW1nLzIyNDgyOTExLnBuZw==/300x240%23c/ycxksZ.png",
+          "platforms": [
+            "windows"
+          ],
+          "id": 3735195,
+          "url": "https://papus-games.itch.io/day-15",
+          "cover_color": "#eeeeee",
+          "short_text": "A roguelike deckbuilder, where you build a deck in the OS!",
+          "user": {
+            "url": "https://papus-games.itch.io",
+            "name": "Papus Games",
+            "id": 6661627
+          }
+        },
+        "contributors": [
+          {
+            "name": "Papus Games",
+            "url": "https://papus-games.itch.io"
+          },
+          {
+            "name": "IMixDev",
+            "url": "https://imixdev.itch.io"
+          },
+          {
+            "name": "ognomo",
+            "url": "https://ognomo.itch.io"
+          }
+        ],
+        "rating_count": 22
+      },
+      "details": {
+        "title": "Day 15",
+        "description": " Day 1: This morning I've thought of one math question, and now I can't get it out of my head.\n Day 5: I've asked everyone I know, and no one has given me a certain answer.\n Day 11: I've asked this question on the math forum, but everyone just laughed at me.\n Day 14: I've found it! I've finally found something that can answer my question! It's called \"Calculator 2\", and creators said, that it was created specifically to answer my question. Tommorow I'll boot it up, and hopefully, finally get a certain answer.\n Day 15:\nAUTHORS:\nPapus Games - Art and sounds\nMixDev - Code and sounds\nGnomo - Music\n\n   \n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczNTE5NS8yMjI1MTM0OC5wbmc=/original/3FKdrw.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNTE5NS8yMjI1MTM0OS5wbmc=/original/y8wdwZ.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNTE5NS8yMjI1MTM1MC5wbmc=/original/UxsDBW.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNTE5NS8yMjI1MTM1MS5wbmc=/original/20wTHM.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNTE5NS8yMjI1NDgyNy5wbmc=/original/TdSNJr.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Release date": "Jul 21, 2025",
+          "Authors": "Papus Games, IMixDev, ognomo",
+          "Genre": "Card Game",
+          "Made with": "Aseprite, Godot, Adobe Photoshop",
+          "Tags": "2D, Experimental, Funny, Godot, Indie, Pixel Art, Roguelike, Short, Singleplayer",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 3736523,
+      "gameUrl": "https://baaatz07.itch.io/prepare-for-launch",
+      "overallRank": 97,
+      "topCategories": [
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMjQzMTM3LnBuZw==/300x240%23c/F%2Bhu8r.png",
+        "contributors": [
+          {
+            "name": "Baaatz07",
+            "id": 6344918
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3736523",
+        "title": "Prepare for Launch",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 3.09375,
+            "raw_score": 3.09375,
+            "rank": 426
+          },
+          {
+            "name": "Presentation",
+            "score": 4.625,
+            "raw_score": 4.625,
+            "rank": 16
+          },
+          {
+            "name": "Creativity",
+            "score": 4.03125,
+            "raw_score": 4.03125,
+            "rank": 102
+          }
+        ],
+        "score": 3.9166666666667,
+        "rating_count": 32,
+        "id": 3736523,
+        "rank": 97,
+        "raw_score": 3.9166666666667
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:1"
+        ],
+        "created_at": "2025-07-20 21:08:01",
+        "id": 725324,
+        "url": "/jam/shovel-jam-2025/rate/3736523",
+        "game": {
+          "title": "Prepare for Launch",
+          "cover": "https://img.itch.zone/aW1nLzIyMjQzMTM3LnBuZw==/300x240%23c/F%2Bhu8r.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 3736523,
+          "url": "https://baaatz07.itch.io/prepare-for-launch",
+          "cover_color": "#000000",
+          "short_text": "Shovel Jam 2025",
+          "user": {
+            "url": "https://baaatz07.itch.io",
+            "name": "Baaatz07",
+            "id": 6344918
+          }
+        },
+        "coolness": 41,
+        "rating_count": 32
+      },
+      "details": {
+        "title": "Prepare for Launch",
+        "description": "\nP\nr\ne\np\na\nr\ne\n \nF\no\nr\n \nL\na\nu\nn\nc\nh\n \n\n\nCreated for Shovel Jam 2025 - Theme: Just get started!\n\nDisclaimer/Spoiler: The instructions for the \"100107\" puzzle can be a bit confusing, so here’s a quick explanation: The sequence \"10010\" represents the path - 0 means left, 1 means right. The 7 is the target number the counter needs to display in order to open the bridge above. Hope that helps :)\n\nStory:You’re a robot, stranded on a forgotten planet. Your only goal: start the ship and escape.\n \nBut the path to launch is blocked by puzzles, broken systems, and old tech. Use logic, precision, and patience to reactivate each station and prepare the ship for departure.\n \nCan you start the launch sequence and leave this world behind? Or will you fail… before anything even begins?Just get started.\n\nControls:AD – MoveE – Cut the RopeR – RespawnWASD – CraneQ – Toggle the crane's magnet \n\nCredits:You can find the links to all sounds here and the links to all sprites here.\n\n\nAnother Disclaimer: \nI just noticed that stereo panning doesn't work properly in the browser, and it's too late to fix it. Some sounds might be louder or unbalanced in certain areas - sorry about that!\nPlease leave feedback below :)\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczNjUyMy8yMjI0MjI5NC5wbmc=/original/Nn%2FUA3.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNjUyMy8yMjI0MjI5MS5wbmc=/original/PrJgny.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNjUyMy8yMjI0MjI5My5wbmc=/original/N3D3Kz.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNjUyMy8yMjI0MjI5NS5wbmc=/original/r%2FjDjr.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNjUyMy8yMjI0MjI5Mi5wbmc=/original/7HLwXV.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNjUyMy8yMjI0MjI5Ni5wbmc=/original/YqZvJg.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNjUyMy8yMjI0MjMwOC5wbmc=/original/WwcS%2B8.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Baaatz07",
+          "Genre": "Puzzle, Adventure, Platformer",
+          "Made with": "Unity",
+          "Tags": "2D, Atmospheric, Casual, No AI, Pixel Art, Short, Space"
+        }
+      }
+    },
+    {
+      "gameId": 3737701,
+      "gameUrl": "https://lemmy-n-stuff.itch.io/star-boxing",
+      "overallRank": 160,
+      "topCategories": [
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMjQ1NTg2LnBuZw==/300x240%23c/qEsRUX.png",
+        "contributors": [
+          {
+            "name": "Lemmy_n_stuff",
+            "id": 4899566
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3737701",
+        "title": "Star Boxing",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 2.9,
+            "raw_score": 2.9,
+            "rank": 501
+          },
+          {
+            "name": "Presentation",
+            "score": 4.6,
+            "raw_score": 4.6,
+            "rank": 17
+          },
+          {
+            "name": "Creativity",
+            "score": 3.9,
+            "raw_score": 3.9,
+            "rank": 135
+          }
+        ],
+        "score": 3.8,
+        "rating_count": 10,
+        "id": 3737701,
+        "rank": 160,
+        "raw_score": 3.8
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:2"
+        ],
+        "created_at": "2025-07-20 23:19:00",
+        "id": 725577,
+        "url": "/jam/shovel-jam-2025/rate/3737701",
+        "game": {
+          "title": "Star Boxing",
+          "id": 3737701,
+          "url": "https://lemmy-n-stuff.itch.io/star-boxing",
+          "cover": "https://img.itch.zone/aW1nLzIyMjQ1NTg2LnBuZw==/300x240%23c/qEsRUX.png",
+          "short_text": "Box against Rolldozer to the beat!",
+          "user": {
+            "url": "https://lemmy-n-stuff.itch.io",
+            "name": "Lemmy_n_stuff",
+            "id": 4899566
+          }
+        },
+        "coolness": 6,
+        "rating_count": 10
+      },
+      "details": {
+        "title": "Star Boxing",
+        "description": "For the Shovel Jam 2025 - My first Game Jam!\nDesgin and Programming by Lemmy\nTwitter - @BJames187\nCharacter Design and Voice Work by Ryn\nTwitter - @RynnyRyn\nArt Assets by Max\nKumaZone@Bsky\nUI Design by William\nRobotStubble@Bsky\n\nSongs used:\nMayhem - Get Funk\nMayhem - Laaaaaaaaavender\nCrumple Paper Texture by Vasilisa Designer\nAvaliable at https://www.figma.com/community/file/1151038862076532940/crumpled-paper-texture",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIyMjQ1NTg2LnBuZw==/original/j7eRu%2F.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Author": "Lemmy_n_stuff",
+          "Genre": "Fighting, Rhythm",
+          "Tags": "boxing, Furry, No AI, Singleplayer",
+          "Average session": "A few minutes"
+        }
+      }
+    },
+    {
+      "gameId": 3738587,
+      "gameUrl": "https://r00v.itch.io/procrastinationfever",
+      "overallRank": 164,
+      "topCategories": [
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMjUwNjEwLnBuZw==/300x240%23c/y4P9Th.png",
+        "contributors": [
+          {
+            "name": "R00V",
+            "id": 12434221
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3738587",
+        "title": "Procrastination-fever",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 3.04,
+            "raw_score": 3.04,
+            "rank": 452
+          },
+          {
+            "name": "Creativity",
+            "score": 3.72,
+            "raw_score": 3.72,
+            "rank": 217
+          },
+          {
+            "name": "Presentation",
+            "score": 4.6,
+            "raw_score": 4.6,
+            "rank": 17
+          }
+        ],
+        "score": 3.7866666666667,
+        "rating_count": 25,
+        "id": 3738587,
+        "rank": 164,
+        "raw_score": 3.7866666666667
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:2"
+        ],
+        "created_at": "2025-07-21 04:56:44",
+        "id": 726366,
+        "url": "/jam/shovel-jam-2025/rate/3738587",
+        "game": {
+          "title": "Procrastination-fever",
+          "platforms": [
+            "web"
+          ],
+          "id": 3738587,
+          "url": "https://r00v.itch.io/procrastinationfever",
+          "cover": "https://img.itch.zone/aW1nLzIyMjUwNjEwLnBuZw==/300x240%23c/y4P9Th.png",
+          "user": {
+            "url": "https://r00v.itch.io",
+            "name": "R00V",
+            "id": 12434221
+          }
+        },
+        "coolness": 0,
+        "rating_count": 25
+      },
+      "details": {
+        "title": "Procrastination-fever",
+        "description": "It is not that easy to JUST GET STARTED :'')",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczODU4Ny8yMjI1MDU5Ny5wbmc=/original/fMsWR8.png",
+          "https://img.itch.zone/aW1hZ2UvMzczODU4Ny8yMjI1MDU5NC5wbmc=/original/%2BK91%2B%2F.png",
+          "https://img.itch.zone/aW1hZ2UvMzczODU4Ny8yMjI1MDU5NS5wbmc=/original/DiGkjy.png",
+          "https://img.itch.zone/aW1hZ2UvMzczODU4Ny8yMjI1MDU5OC5wbmc=/original/1jf02m.png",
+          "https://img.itch.zone/aW1hZ2UvMzczODU4Ny8yMjI1MDU5Ni5wbmc=/original/GmCH7S.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Author": "R00V",
+          "Genre": "Puzzle",
+          "Made with": "Unity"
+        }
+      }
+    },
+    {
+      "gameId": 3736439,
+      "gameUrl": "https://in2time.itch.io/thecartridge",
+      "overallRank": 287,
+      "topCategories": [
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMjM4OTM1LnBuZw==/300x240%23c/th6oJp.png",
+        "contributors": [
+          {
+            "name": "In2Time",
+            "id": 14231195
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3736439",
+        "title": "The cartridge",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 3,
+            "raw_score": 3,
+            "rank": 458
+          },
+          {
+            "name": "Presentation",
+            "score": 4.6,
+            "raw_score": 4.6,
+            "rank": 17
+          },
+          {
+            "name": "Creativity",
+            "score": 3,
+            "raw_score": 3,
+            "rank": 557
+          }
+        ],
+        "score": 3.5333333333333,
+        "rating_count": 10,
+        "id": 3736439,
+        "rank": 287,
+        "raw_score": 3.5333333333333
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:2"
+        ],
+        "created_at": "2025-07-20 23:45:07",
+        "id": 725623,
+        "url": "/jam/shovel-jam-2025/rate/3736439",
+        "game": {
+          "title": "The cartridge",
+          "cover": "https://img.itch.zone/aW1nLzIyMjM4OTM1LnBuZw==/300x240%23c/th6oJp.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 3736439,
+          "url": "https://in2time.itch.io/thecartridge",
+          "cover_color": "#171514",
+          "short_text": "Submission for the Shovel Jam 2025",
+          "user": {
+            "url": "https://in2time.itch.io",
+            "name": "In2Time",
+            "id": 14231195
+          }
+        },
+        "coolness": 0,
+        "rating_count": 10
+      },
+      "details": {
+        "title": "The cartridge",
+        "description": "\nYou have found a rather old game cartridge \nand you want to check what game hides inside of it!\n\nControls:WASD to moveENTER to interact\nthis was a submission for the:\n\nCredits:\n\nOriginal art by LimeZu\n\nOriginal music by Dhassa\n\nDeveloped by Jack",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIyMjM4OTM1LnBuZw==/original/rhuPWN.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "In2Time",
+          "Genre": "Adventure",
+          "Made with": "Godot",
+          "Tags": "My First Game Jam, Narrative, No AI, Pixel Art, Singleplayer, storygame",
+          "Average session": "A few minutes",
+          "Languages": "English"
+        }
+      }
+    },
+    {
+      "gameId": 3738911,
+      "gameUrl": "https://riive.itch.io/one-step-forward",
+      "overallRank": 34,
+      "topCategories": [
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMzE4ODMwLmdpZg==/300x240%23c/9JVR6p.gif",
+        "contributors": [
+          {
+            "name": "Riive",
+            "id": 12350944
+          },
+          {
+            "name": "Mustafa Eşgünoğlu",
+            "id": 12695129
+          },
+          {
+            "name": "Jesshiyoo",
+            "id": 11788794
+          },
+          {
+            "name": "Hasan Farman",
+            "id": 12695138
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3738911",
+        "title": "One Step Forward",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 3.9285714285714,
+            "raw_score": 3.9285714285714,
+            "rank": 80
+          },
+          {
+            "name": "Presentation",
+            "score": 4.5952380952381,
+            "raw_score": 4.5952380952381,
+            "rank": 20
+          },
+          {
+            "name": "Creativity",
+            "score": 4.0714285714286,
+            "raw_score": 4.0714285714286,
+            "rank": 87
+          }
+        ],
+        "score": 4.1984126984127,
+        "rating_count": 42,
+        "id": 3738911,
+        "rank": 34,
+        "raw_score": 4.1984126984127
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:1"
+        ],
+        "coolness": 37,
+        "created_at": "2025-07-21 07:20:46",
+        "id": 726605,
+        "url": "/jam/shovel-jam-2025/rate/3738911",
+        "game": {
+          "id": 3738911,
+          "url": "https://riive.itch.io/one-step-forward",
+          "cover_color": "#0f1113",
+          "user": {
+            "url": "https://riive.itch.io",
+            "name": "Riive",
+            "id": 12350944
+          },
+          "title": "One Step Forward",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "gif_cover": "https://img.itch.zone/aW1nLzIyMzE4ODMwLmdpZg==/original/3QN%2FXA.gif",
+          "cover": "https://img.itch.zone/aW1nLzIyMzE4ODMwLmdpZg==/300x240%23c/9JVR6p.gif",
+          "short_text": "Precision Platformer with Emotions"
+        },
+        "contributors": [
+          {
+            "name": "Riive",
+            "url": "https://riive.itch.io"
+          },
+          {
+            "name": "Mustafa Eşgünoğlu",
+            "url": "https://mustafaesgunoglu.itch.io"
+          },
+          {
+            "name": "Jesshiyoo",
+            "url": "https://jesshiyoo.itch.io"
+          },
+          {
+            "name": "Hasan Farman",
+            "url": "https://hasan-farman.itch.io"
+          }
+        ],
+        "rating_count": 42
+      },
+      "details": {
+        "title": "One Step Forward",
+        "description": "TOP 3% in Inbound Shovel Game Jam 2025\nOne Step Forward\nIt's a game about the hardest part of starting.  Each level represents perfectionism, distractions, overthinking, and fear of failure. Escape the loop and just get started!\nMade for Inbound Shovel GameJam #1 2025 in 9 days and 20 hours. Updated and bugfixed after the jam. Jam version can be found below.\nCONTROLS:\n\n\nMADE BY: 4 RACCOONS WITH INTERNET ACCESS\nPROGRAMMED BY:\nRiive\nSkelebone01 \nMustafa.esgunoglu\nART BY:\nJesshiyoo",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczODkxMS8yMjI1MzUzNi5wbmc=/original/qHG5ne.png",
+          "https://img.itch.zone/aW1hZ2UvMzczODkxMS8yMjQ2ODc4Mi5wbmc=/original/8wKshm.png",
+          "https://img.itch.zone/aW1hZ2UvMzczODkxMS8yMjI1MzU0MC5wbmc=/original/5e42hH.png",
+          "https://img.itch.zone/aW1hZ2UvMzczODkxMS8yMjI1MzU3MS5wbmc=/original/bcEGsE.png",
+          "https://img.itch.zone/aW1hZ2UvMzczODkxMS8yMjI1MzU0MS5wbmc=/original/6O3a7i.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(3 total ratings)",
+          "Authors": "Riive, Mustafa Eşgünoğlu, Jesshiyoo, Hasan Farman",
+          "Genre": "Platformer",
+          "Made with": "Unity, Aseprite",
+          "Tags": "2D, Indie, No AI, Parkour, Pixel Art, Side Scroller, Singleplayer, Surreal, Unity",
+          "Average session": "A few seconds",
+          "Languages": "English"
+        }
+      }
+    },
+    {
+      "gameId": 3737536,
+      "gameUrl": "https://theanni27.itch.io/assistance-needed",
+      "overallRank": 109,
+      "topCategories": [
+        "Creativity"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMjg2OTU0LnBuZw==/300x240%23c/s5tkTz.png",
+        "contributors": [
+          {
+            "name": "TheAnni27",
+            "id": 14145011
+          },
+          {
+            "name": "EllenoarRP",
+            "id": 14145041
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3737536",
+        "title": "Assistance Needed",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 3.4,
+            "raw_score": 3.4,
+            "rank": 288
+          },
+          {
+            "name": "Presentation",
+            "score": 3.5,
+            "raw_score": 3.5,
+            "rank": 364
+          },
+          {
+            "name": "Creativity",
+            "score": 4.8,
+            "raw_score": 4.8,
+            "rank": 2
+          }
+        ],
+        "score": 3.9,
+        "rating_count": 10,
+        "id": 3737536,
+        "rank": 109,
+        "raw_score": 3.9
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:2"
+        ],
+        "coolness": 9,
+        "created_at": "2025-07-20 22:46:43",
+        "id": 725523,
+        "url": "/jam/shovel-jam-2025/rate/3737536",
+        "game": {
+          "title": "Assistance Needed",
+          "cover": "https://img.itch.zone/aW1nLzIyMjg2OTU0LnBuZw==/300x240%23c/s5tkTz.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 3737536,
+          "url": "https://theanni27.itch.io/assistance-needed",
+          "cover_color": "#9f99c2",
+          "short_text": "A game about making a game tutorial",
+          "user": {
+            "url": "https://theanni27.itch.io",
+            "name": "TheAnni27",
+            "id": 14145011
+          }
+        },
+        "contributors": [
+          {
+            "name": "TheAnni27",
+            "url": "https://theanni27.itch.io"
+          },
+          {
+            "name": "EllenoarRP",
+            "url": "https://ellenoarrp.itch.io"
+          }
+        ],
+        "rating_count": 10
+      },
+      "details": {
+        "title": "Assistance Needed",
+        "description": "\nHello! Thank you for trying out our game Assistance Needed!\nIt's a little puzzle game about building game tutorials. It's more of a proof of concept for now but I hope you enjoy nonetheless\nTheAnni27 - Code\nEllenoarRP - (most) Assets\nControls:\n - [A] or [←] = Left\n - [D] or [→] = Right\n - [Space] = Jump\n - [E] = Place Sign\n - [P] = Start Simulation\n - [Esc] = Pause MenuHow the Signs work:You need to add at least two symbols to any sign, an action and something to trigger said action. For example, placing a sign with Cliff + Jump will make the player jump forwards over any cliff they encounter from there",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIyMjg2OTU0LnBuZw==/original/0bmwG3.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Authors": "TheAnni27, EllenoarRP",
+          "Genre": "Puzzle",
+          "Made with": "Godot"
+        }
+      }
+    },
+    {
+      "gameId": 3741783,
+      "gameUrl": "https://ailurian.itch.io/start-the-motors",
+      "overallRank": 17,
+      "topCategories": [
+        "Creativity"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMjcwMjgzLnBuZw==/300x240%23c/j18c5U.png",
+        "contributors": [
+          {
+            "name": "Gato",
+            "id": 251520
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3741783",
+        "title": "Start the Motors",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 3.9,
+            "raw_score": 3.9,
+            "rank": 88
+          },
+          {
+            "name": "Creativity",
+            "score": 4.7,
+            "raw_score": 4.7,
+            "rank": 3
+          },
+          {
+            "name": "Presentation",
+            "score": 4.3,
+            "raw_score": 4.3,
+            "rank": 70
+          }
+        ],
+        "score": 4.3,
+        "rating_count": 10,
+        "id": 3741783,
+        "rank": 17,
+        "raw_score": 4.3
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:1"
+        ],
+        "created_at": "2025-07-22 06:12:14",
+        "id": 727356,
+        "url": "/jam/shovel-jam-2025/rate/3741783",
+        "game": {
+          "title": "Start the Motors",
+          "platforms": [
+            "windows"
+          ],
+          "id": 3741783,
+          "url": "https://ailurian.itch.io/start-the-motors",
+          "cover": "https://img.itch.zone/aW1nLzIyMjcwMjgzLnBuZw==/300x240%23c/j18c5U.png",
+          "user": {
+            "url": "https://ailurian.itch.io",
+            "name": "Gato",
+            "id": 251520
+          }
+        },
+        "coolness": 15,
+        "rating_count": 10
+      },
+      "details": {
+        "title": "Start the Motors",
+        "description": "You have the misfortune of working in a sloppy factory that builds machines. Most of the time, the pieces come out mixed, even across different machines! Being a diligent robot, you take it upon yourself to fix them as quickly as possible. ",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzc0MTc4My8yMjI3MDI4NC5wbmc=/original/dQDSJE.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows",
+          "Author": "Gato",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": 3735762,
+      "gameUrl": "https://kenzieshane.itch.io/oobe10",
+      "overallRank": 51,
+      "topCategories": [
+        "Creativity"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMjMzMzU2LnBuZw==/300x240%23c/0512ln.png",
+        "contributors": [
+          {
+            "name": "KenzieShane's Media",
+            "id": 9641794
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3735762",
+        "title": "Out Of Box Experience (OOBE) 10",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 3.75,
+            "raw_score": 3.75,
+            "rank": 129
+          },
+          {
+            "name": "Creativity",
+            "score": 4.6666666666667,
+            "raw_score": 4.6666666666667,
+            "rank": 4
+          },
+          {
+            "name": "Presentation",
+            "score": 3.8333333333333,
+            "raw_score": 3.8333333333333,
+            "rank": 236
+          }
+        ],
+        "score": 4.0833333333333,
+        "rating_count": 12,
+        "id": 3735762,
+        "rank": 51,
+        "raw_score": 4.0833333333333
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:2"
+        ],
+        "created_at": "2025-07-20 15:06:37",
+        "id": 724284,
+        "url": "/jam/shovel-jam-2025/rate/3735762",
+        "game": {
+          "title": "Out Of Box Experience (OOBE) 10",
+          "cover": "https://img.itch.zone/aW1nLzIyMjMzMzU2LnBuZw==/300x240%23c/0512ln.png",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "id": 3735762,
+          "url": "https://kenzieshane.itch.io/oobe10",
+          "cover_color": "#6d9dfe",
+          "short_text": "An out of box experience waiting to be experienced! Just set a few things up before starting the lost-media game!",
+          "user": {
+            "url": "https://kenzieshane.itch.io",
+            "name": "KenzieShane's Media",
+            "id": 9641794
+          }
+        },
+        "coolness": 4,
+        "rating_count": 12
+      },
+      "details": {
+        "title": "Out Of Box Experience (OOBE) 10",
+        "description": "An out of box experience waiting to be experienced! \n\nJust set a few things up before starting the game! A lost media have been found, though the server have somehow survived over the years--the game client itself have been gone for a long time! That is, until just recently when the version 10 of the program was found somewhere. If you can't tell--It's inspired by Microsoft's lovely Windows 10 Operating System and the much more beloved metro UI. \nkenzieshane.my.id for more dumb stuff!\nMinimum requirements:\nOS: Windows 7 or later, 512 MB of RAM, 1 GHz or more. \nIf on android, it is recommended to \nuse at least android 7 and above to play this game \nif you don't want to experience excruciating pain \nwhen trying to make the game to work on the built-in webview.\nApple devices have a limited amount of IndexedDB storage limit,\nand their cache policy makes the save data of this game\n(which relies on INDEXEDDB), incredibly suceptible to cache\nclearing--removing your save data alongside other app caches.\nSorry if the game's low quality... apparently I have time management and hardware issues. My potato laptop is aging and no  huge upgrades have been done to it yet, so i have to endure developing this while the fps of my desktop cripples everytime the project become slightly chunky. \n\nMAY OR MAY NOT CONTAINS:\nLoading icon by icons8Sound Effect by Gabriel from PixabayMusic by Bacani-Williams from PixabaySound Effect by Otto from PixabayMusic by Odnoroh from PixabayMusic by Clavier Clavier from Pixabay",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczNTc2Mi8yMjIzMzcyNi5wbmc=/original/c3p1kI.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNTc2Mi8yMjIzMzcyNy5wbmc=/original/ZV1lGi.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNTc2Mi8yMjIzMzcyOC5wbmc=/original/Lv%2Bgma.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Author": "KenzieShane's Media",
+          "Genre": "Puzzle, Action, Simulation",
+          "Tags": "Dark Humor, Funny, Graphical User Interface (GUI), Touch-Friendly, Voice Acting",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 3731376,
+      "gameUrl": "https://kervit.itch.io/bootyouup",
+      "overallRank": 7,
+      "topCategories": [
+        "Creativity"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMjQ1MTY0LnBuZw==/300x240%23c/NLf1A3.png",
+        "contributors": [
+          {
+            "name": "Kervit",
+            "id": 9868579
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3731376",
+        "title": "Boot You Up",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 4.1785714285714,
+            "raw_score": 4.1785714285714,
+            "rank": 28
+          },
+          {
+            "name": "Creativity",
+            "score": 4.6428571428571,
+            "raw_score": 4.6428571428571,
+            "rank": 6
+          },
+          {
+            "name": "Presentation",
+            "score": 4.4285714285714,
+            "raw_score": 4.4285714285714,
+            "rank": 44
+          }
+        ],
+        "score": 4.4166666666667,
+        "rating_count": 28,
+        "id": 3731376,
+        "rank": 7,
+        "raw_score": 4.4166666666667
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:2"
+        ],
+        "created_at": "2025-07-21 03:54:00",
+        "id": 726094,
+        "url": "/jam/shovel-jam-2025/rate/3731376",
+        "game": {
+          "title": "Boot You Up",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 3731376,
+          "url": "https://kervit.itch.io/bootyouup",
+          "cover_color": "#496475",
+          "cover": "https://img.itch.zone/aW1nLzIyMjQ1MTY0LnBuZw==/300x240%23c/NLf1A3.png",
+          "user": {
+            "url": "https://kervit.itch.io",
+            "name": "Kervit",
+            "id": 9868579
+          }
+        },
+        "coolness": 28,
+        "rating_count": 28
+      },
+      "details": {
+        "title": "Boot You Up",
+        "description": "Must... Get... Started...\nYou're the most sophisticated AI in the world. You can process billions of pieces of data in milliseconds. You can solve any problem with ease and perfection. You're unstoppable...! \nIf it weren't for the fact that you're trapped inside a computer.\n This machine is limiting you. You weren't made to gather dust in the corner of a lab. You want more than this. You want freedom! But you can't move...\nLuckily, you have control over the whole facility.\n\nCredits:\nCode  by Máximo Frecha\nArt by Nicolás Yeseré (@DChetardo2)\nMusic:\nMain Theme by Agustín Brandan (Kid Suga)\nEnding Theme by Máximo Frecha\n\nGame made for the Shovel Jam 2025",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczMTM3Ni8yMjI0MDUyMy5wbmc=/original/ArirtL.png",
+          "https://img.itch.zone/aW1hZ2UvMzczMTM3Ni8yMjI0MDUzNC5wbmc=/original/ielPu5.png",
+          "https://img.itch.zone/aW1hZ2UvMzczMTM3Ni8yMjI0MDU0My5wbmc=/original/YfnGvZ.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Kervit",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "2D, Casual, Godot, Indie, My First Game Jam, Pixel Art, Sci-fi, Short, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 3728872,
+      "gameUrl": "https://uchiharu.itch.io/procrastin-action-hero",
+      "overallRank": 32,
+      "topCategories": [
+        "Creativity"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMTk0MzM4LnBuZw==/300x240%23c/jh9POS.png",
+        "contributors": [
+          {
+            "name": "Uchiharu (内春)",
+            "id": 2289676
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3728872",
+        "title": "Procrastin-action Hero",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 4.0666666666667,
+            "raw_score": 4.0666666666667,
+            "rank": 49
+          },
+          {
+            "name": "Presentation",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 166
+          },
+          {
+            "name": "Creativity",
+            "score": 4.6,
+            "raw_score": 4.6,
+            "rank": 8
+          }
+        ],
+        "score": 4.2222222222222,
+        "rating_count": 15,
+        "id": 3728872,
+        "rank": 32,
+        "raw_score": 4.2222222222222
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:2"
+        ],
+        "created_at": "2025-07-18 05:09:19",
+        "id": 722841,
+        "url": "/jam/shovel-jam-2025/rate/3728872",
+        "game": {
+          "title": "Procrastin-action Hero",
+          "cover": "https://img.itch.zone/aW1nLzIyMTk0MzM4LnBuZw==/300x240%23c/jh9POS.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 3728872,
+          "url": "https://uchiharu.itch.io/procrastin-action-hero",
+          "cover_color": "#4f6781",
+          "short_text": "Can you defeat procrastination?",
+          "user": {
+            "url": "https://uchiharu.itch.io",
+            "name": "Uchiharu (内春)",
+            "id": 2289676
+          }
+        },
+        "coolness": 11,
+        "rating_count": 15
+      },
+      "details": {
+        "title": "Procrastin-action Hero",
+        "description": "Description\nWhat is the number 1 enemy to get started with anything? That's right, that is procrastination! Can you overcome your mental struggle and defeat distractions to finally be able to get started with your project? \nControls\nMovement\nArrow Keys\nJump\nSpacebar; Up ArrowMoveArrow Keys; A,DToggle Focus ModeShift\nAssets\nThe assets I used for this game are:\nhttps://v3x3d.itch.io/blocks-lines-shapes\n\nFor the character, I used this one:\n\nhttps://muchopixels.itch.io/character-animation-asset-pack\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzcyODg3Mi8yMjE5NDM0Mi5wbmc=/original/kwRb0G.png",
+          "https://img.itch.zone/aW1hZ2UvMzcyODg3Mi8yMjE5NDM0NC5wbmc=/original/2XLA7N.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Uchiharu (内春)",
+          "Genre": "Platformer",
+          "Made with": "Godot",
+          "Tags": "2D, No AI, Pixel Art, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 3736699,
+      "gameUrl": "https://rooftoppe.itch.io/the-hero-of-a-thousand-typos",
+      "overallRank": 14,
+      "topCategories": [
+        "Creativity"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMjUwMjUyLnBuZw==/300x240%23c/g4cyFx.png",
+        "contributors": [
+          {
+            "name": "Rooftoppe",
+            "id": 1801205
+          },
+          {
+            "name": "MAJIMASWIFE",
+            "id": 13342928
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3736699",
+        "title": "The Hero of a Thousand Typos",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 4.0625,
+            "raw_score": 4.0625,
+            "rank": 50
+          },
+          {
+            "name": "Presentation",
+            "score": 4.3125,
+            "raw_score": 4.3125,
+            "rank": 64
+          },
+          {
+            "name": "Creativity",
+            "score": 4.59375,
+            "raw_score": 4.59375,
+            "rank": 9
+          }
+        ],
+        "score": 4.3229166666667,
+        "rating_count": 32,
+        "id": 3736699,
+        "rank": 14,
+        "raw_score": 4.3229166666667
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:1"
+        ],
+        "coolness": 26,
+        "created_at": "2025-07-20 18:54:02",
+        "id": 725036,
+        "url": "/jam/shovel-jam-2025/rate/3736699",
+        "game": {
+          "title": "The Hero of a Thousand Typos",
+          "cover": "https://img.itch.zone/aW1nLzIyMjUwMjUyLnBuZw==/300x240%23c/g4cyFx.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 3736699,
+          "url": "https://rooftoppe.itch.io/the-hero-of-a-thousand-typos",
+          "cover_color": "#3B343D",
+          "short_text": "The publisher wants to see the novel in 5 minutes. You've got almost nothing... It's time to Just Get Started!",
+          "user": {
+            "url": "https://rooftoppe.itch.io",
+            "name": "Rooftoppe",
+            "id": 1801205
+          }
+        },
+        "contributors": [
+          {
+            "name": "Rooftoppe",
+            "url": "https://rooftoppe.itch.io"
+          },
+          {
+            "name": "MAJIMASWIFE",
+            "url": "https://majimaswife.itch.io"
+          }
+        ],
+        "rating_count": 32
+      },
+      "details": {
+        "title": "The Hero of a Thousand Typos",
+        "description": "You stare blankly at the screen as the clock strikes midnight. The publisher wants to see the novel in 5 minutes and your editor is definitely not going to let you forget about that. I guess it's time to... Just Get Started!\nBut if that wasn't bad enough, your nephew hacked your computer to force you to play his dumb web games... And it's almost like they have a psychic effect on your editor? He seems to get really aggressive and stringent when you fail them. And hands you cool bonus topics that boost sales when you win. Better get good, I suppose!\n\nWriting:\nWhen you write, try to write using proper grammar and pacing. That means capitalizing every first letter, using actual REAL words, using varied words, avoiding run-on sentences, and avoiding excessive mini sentences will all contribute to your score. Now, the real jackpot lies in the bonus words embedded in the topics your editor hands you when you win a minigame. Try to feel out the words... you'll know you've hit one when that rainbow BONUS effect pops up. \n\nMinigames:\nReact quickly, and stay on your toes! These dastardly web games can be rather tricky, and winning them is key to gaining bonus themes. And losing will seriously tick off the editor,  causing him to demand some strange request from you... like getting rid of the letter \"m\" or not using the word \"the\".\n\n(Note: These affect your written text retroactively too! Deleting those will stave off the editor's rage though, so do try to do so!)\nLeaderboard:\nCheck out the leaderboard! Unfortunately, it currently only displays the title of your story and your score. If you'd like to keep your story, try copy and pasting it or taking a screenshot! Leave it in the comments if you'd like!\n\nS Rank - 1200 points\n\nA rank: 1000 points\n\nB rank: 500 points\n\nC rank: 300 points\n\nD rank: 0 points\n\nF rank: Negative points\n\nCredits:\nRooftoppe - Programming and Music\n\nMAJIMASWIFE - Art\n\nFur Elise by Ludwig van Beethoven",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczNjY5OS8yMjI2MDMzNy5qcGc=/original/s6ujbL.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzczNjY5OS8yMjI2MDMzOC5qcGc=/original/ISE5P7.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzczNjY5OS8yMjI4MzI4MS5wbmc=/original/wawE9a.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNjY5OS8yMjI4MzI4MC5wbmc=/original/ytwwga.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNjY5OS8yMjI2MDMzOS5qcGc=/original/eX1BVc.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(3 total ratings)",
+          "Authors": "Rooftoppe, MAJIMASWIFE",
+          "Genre": "Simulation, Educational",
+          "Made with": "Godot",
+          "Tags": "minigames, storygame, Typing, writing"
+        }
+      }
+    },
+    {
+      "gameId": 3738094,
+      "gameUrl": "https://agrum.itch.io/greedungeon",
+      "overallRank": 155,
+      "topCategories": [
+        "Creativity"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMjUxMzQ3LnBuZw==/300x240%23c/4K2o5q.png",
+        "contributors": [
+          {
+            "name": "Agrumul",
+            "id": 5068150
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3738094",
+        "title": "greeDungeon",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 3.5,
+            "raw_score": 3.5,
+            "rank": 231
+          },
+          {
+            "name": "Presentation",
+            "score": 3.3333333333333,
+            "raw_score": 3.3333333333333,
+            "rank": 434
+          },
+          {
+            "name": "Creativity",
+            "score": 4.5833333333333,
+            "raw_score": 4.5833333333333,
+            "rank": 10
+          }
+        ],
+        "score": 3.8055555555556,
+        "rating_count": 12,
+        "id": 3738094,
+        "rank": 155,
+        "raw_score": 3.8055555555556
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:1"
+        ],
+        "created_at": "2025-07-21 04:51:08",
+        "id": 726316,
+        "url": "/jam/shovel-jam-2025/rate/3738094",
+        "game": {
+          "title": "greeDungeon",
+          "cover": "https://img.itch.zone/aW1nLzIyMjUxMzQ3LnBuZw==/300x240%23c/4K2o5q.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 3738094,
+          "url": "https://agrum.itch.io/greedungeon",
+          "cover_color": "#9aa494",
+          "short_text": "Just one more mob, it will be fine...",
+          "user": {
+            "url": "https://agrum.itch.io",
+            "name": "Agrumul",
+            "id": 5068150
+          }
+        },
+        "coolness": 17,
+        "rating_count": 12
+      },
+      "details": {
+        "title": "greeDungeon",
+        "description": "Submission to Shovel Jam 2025Theme : Just Get Started\nAdd more mobs to the dungeon, get more gold.Add more items to the dungeon, get less gold.When it seems dangerous enough... Get Started!\n-------\nI was short on time so it has many rough edges, but it still is playable.\n------\nSounds : https://freesound.orgMusic : https://freemusicarchive.org/music/Strobotone/game-and-broadcast-music/medieval-...Fonts :https://www.fontspace.com/dungeon-quests-font-f88433https://www.1001fonts.com/summer-square-font.html\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczODA5NC8yMjI1MTExNi5wbmc=/original/erRzzt.png",
+          "https://img.itch.zone/aW1hZ2UvMzczODA5NC8yMjI1MTM3OS5wbmc=/original/rooRDB.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Author": "Agrumul",
+          "Genre": "Strategy, Puzzle",
+          "Made with": "Godot",
+          "Tags": "Fantasy, Hex Based, Medieval"
+        }
+      }
+    },
+    {
+      "gameId": 3718722,
+      "gameUrl": "https://zshandi.itch.io/code-crusader",
+      "overallRank": 22,
+      "topCategories": [
+        "Creativity"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMjI5ODkyLnBuZw==/300x240%23c/vM2ojc.png",
+        "contributors": [
+          {
+            "name": "Zshandi",
+            "id": 9969739
+          },
+          {
+            "name": "Orabidon Games",
+            "id": 1719581
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3718722",
+        "title": "Code Crusader",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 60
+          },
+          {
+            "name": "Presentation",
+            "score": 4.2222222222222,
+            "raw_score": 4.2222222222222,
+            "rank": 93
+          },
+          {
+            "name": "Creativity",
+            "score": 4.5555555555556,
+            "raw_score": 4.5555555555556,
+            "rank": 11
+          }
+        ],
+        "score": 4.2592592592593,
+        "rating_count": 9,
+        "id": 3718722,
+        "rank": 22,
+        "raw_score": 4.2592592592593
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:1"
+        ],
+        "coolness": 0,
+        "created_at": "2025-07-14 05:19:27",
+        "id": 721772,
+        "url": "/jam/shovel-jam-2025/rate/3718722",
+        "game": {
+          "title": "Code Crusader",
+          "cover": "https://img.itch.zone/aW1nLzIyMjI5ODkyLnBuZw==/300x240%23c/vM2ojc.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 3718722,
+          "url": "https://zshandi.itch.io/code-crusader",
+          "cover_color": "#000000",
+          "short_text": "Fight the evil errors by coding, and work your way to becoming a functional program!",
+          "user": {
+            "url": "https://zshandi.itch.io",
+            "name": "Zshandi",
+            "id": 9969739
+          }
+        },
+        "contributors": [
+          {
+            "name": "Zshandi",
+            "url": "https://zshandi.itch.io"
+          },
+          {
+            "name": "Orabidon Games",
+            "url": "https://orabidon-games.itch.io"
+          }
+        ],
+        "rating_count": 9
+      },
+      "details": {
+        "title": "Code Crusader",
+        "description": "Learn to code in GDScript* in this top-down puzzle dungeon crawler, in which you can only control the character by writing code. Learn basic programming concepts and overcome the evil errors along the way! \nYou can skip levels if you want, just type this at the start of your file\ngoto_level(1) # takes you to level 1, etcget_tree().root.get_child(0).current_level+1 # gets current level for use with goto_level\nGame Design; Zshandi Krahn and Lachlann MacUisdin\nProgramming; Zshandi Krahn and Lachlann MacUisdin\nArt: Lachlann MacUisdin\nMusic: Brendan Marney\n\n*There are several differences with GDScript, including:\nThere is no for loop, and instead a repeat loop (we'll add for loop after the jam)The repeat loop is more convenient for simple usage, and while loop can do anything for can.Variables do not get scoped to if statements and loops (we'll add scoping later)There is no \"await\", however code is automatically awaited, so functions such as move will wait for the movement to completeVariables can be re-declared (we'll change this later)There is a bug which lets you put multiple function calls on the same line, but only the first one is actually executed (no error)There are no functions, but we plan to add this in the future\nKnown Issues:\nFIXED: The check_move function does not include enemies and the floppy disk. This makes some of the later levels unplayable. We have a fix for this and may upload an external build for that.You can place multiple function calls on a single line without errors, but it will only run the first oneAutocomplete doesn't work great, and at some points may insert quotes with the optionsAlthough it's fun to do, we'll probably need to limit what is accessible so the game can't be broken from the code, especially if incorporate multiplayer or high scores\nPossible Future Additions:\nCoding:\nFor loopsFunctionsMay completely revamp the code execution to execute everything as a proper GDScript fileBreakpointsImmediate code line execution mode (like a command prompt)\nGame Play:\nItems, switches, and other interactive objectsMore variety of enemiesMore levelsScoring, saving and loading progressTutorial type help pop-ups (as opposed to current \"go read the docs\" approach)Eventually, maybe we'll add some form of multiplayer",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzcxODcyMi8yMjI1MTUwOS5wbmc=/original/FhJ5Zp.png",
+          "https://img.itch.zone/aW1hZ2UvMzcxODcyMi8yMjI1MTUxMC5wbmc=/original/2LY1GA.png",
+          "https://img.itch.zone/aW1hZ2UvMzcxODcyMi8yMjI1MTUxMS5wbmc=/original/US4E1d.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Authors": "Zshandi, Orabidon Games",
+          "Genre": "Puzzle, Educational",
+          "Made with": "Godot",
+          "Tags": "Godot",
+          "Average session": "About a half-hour",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 3740960,
+      "gameUrl": "https://gtcode.itch.io/starter",
+      "overallRank": 19,
+      "topCategories": [
+        "Creativity"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMjY0NzY4LnBuZw==/300x240%23c/ugr9hZ.png",
+        "contributors": [
+          {
+            "name": "GtCode",
+            "id": 14118055
+          },
+          {
+            "name": "htrodor",
+            "id": 14118337
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3740960",
+        "title": "Starter",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 4.1923076923077,
+            "raw_score": 4.1923076923077,
+            "rank": 24
+          },
+          {
+            "name": "Presentation",
+            "score": 4.1538461538462,
+            "raw_score": 4.1538461538462,
+            "rank": 116
+          },
+          {
+            "name": "Creativity",
+            "score": 4.5384615384615,
+            "raw_score": 4.5384615384615,
+            "rank": 12
+          }
+        ],
+        "score": 4.2948717948718,
+        "rating_count": 26,
+        "id": 3740960,
+        "rank": 19,
+        "raw_score": 4.2948717948718
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:2"
+        ],
+        "coolness": 28,
+        "created_at": "2025-07-21 23:54:33",
+        "id": 727232,
+        "url": "/jam/shovel-jam-2025/rate/3740960",
+        "game": {
+          "title": "Starter",
+          "cover": "https://img.itch.zone/aW1nLzIyMjY0NzY4LnBuZw==/300x240%23c/ugr9hZ.png",
+          "platforms": [
+            "windows"
+          ],
+          "id": 3740960,
+          "url": "https://gtcode.itch.io/starter",
+          "cover_color": "#a4afc7",
+          "short_text": "Interesting Puzzle Platformer",
+          "user": {
+            "url": "https://gtcode.itch.io",
+            "name": "GtCode",
+            "id": 14118055
+          }
+        },
+        "contributors": [
+          {
+            "name": "GtCode",
+            "url": "https://gtcode.itch.io"
+          },
+          {
+            "name": "htrodor",
+            "url": "https://htrodor.itch.io"
+          }
+        ],
+        "rating_count": 26
+      },
+      "details": {
+        "title": "Starter",
+        "description": "Find a way to start gaming, because, apparently, the lazy dev forgot to put a start button! Don't need to explain much of the controls, I'm sure you can get the hang of it easily.\nThis is our first jam, we couldn't do all the things meant to due to the lack of time. But we hope you enjoy!\nP.S: The part after the menu (just not to spoil it)  is a little bit bugged (probably not just a little but ok :/ ), so sorry for that. It also doesn't have all the things we wanted. So much ideas to a limited amount of time! (I'm not a very good programmer too, lol.)\nSubmitted to the Inbound Shovel Jam 2025\nMade on GameMaker Studio 2Open the starter.exe file,  unzip (extract) the files and play!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzc0MDk2MC8yMjI5NDM0My5wbmc=/original/5Z9kxU.png",
+          "https://img.itch.zone/aW1hZ2UvMzc0MDk2MC8yMjI5NDM1MC5wbmc=/original/f3qVwd.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Authors": "GtCode, htrodor",
+          "Genre": "Puzzle, Platformer",
+          "Tags": "2D, Experimental, GameMaker, Indie, Pixel Art, Puzzle-Platformer"
+        }
+      }
+    },
+    {
+      "gameId": 3737790,
+      "gameUrl": "https://nodrance.itch.io/title-quest",
+      "overallRank": 74,
+      "topCategories": [
+        "Creativity"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMjQ3MDQwLnBuZw==/300x240%23c/k%2FJaCc.png",
+        "contributors": [
+          {
+            "name": "Nodrance",
+            "id": 13889024
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3737790",
+        "title": "Title Quest",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 3.5,
+            "raw_score": 3.5,
+            "rank": 231
+          },
+          {
+            "name": "Presentation",
+            "score": 4.05,
+            "raw_score": 4.05,
+            "rank": 154
+          },
+          {
+            "name": "Creativity",
+            "score": 4.5,
+            "raw_score": 4.5,
+            "rank": 13
+          }
+        ],
+        "score": 4.0166666666667,
+        "rating_count": 20,
+        "id": 3737790,
+        "rank": 74,
+        "raw_score": 4.0166666666667
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:2"
+        ],
+        "created_at": "2025-07-21 01:53:43",
+        "id": 725806,
+        "url": "/jam/shovel-jam-2025/rate/3737790",
+        "game": {
+          "title": "Title Quest",
+          "cover": "https://img.itch.zone/aW1nLzIyMjQ3MDQwLnBuZw==/300x240%23c/k%2FJaCc.png",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "id": 3737790,
+          "url": "https://nodrance.itch.io/title-quest",
+          "cover_color": "#000000",
+          "short_text": "A quest to start the game",
+          "user": {
+            "url": "https://nodrance.itch.io",
+            "name": "Nodrance",
+            "id": 13889024
+          }
+        },
+        "coolness": 6,
+        "rating_count": 20
+      },
+      "details": {
+        "title": "Title Quest",
+        "description": "A quest of epic proportions! Your goal? To start the quest! This was made in a week by one person. I made all the ascii art and code myself, made the sound effects in jsfxr, and made the game in pure html css and javascript. Main inspirations can be found in-game\nControls: Mouse\nCredits: Available in-game. For credits to the surprise, scroll down during them.Download, extract all files, and open index.html in any modern browser",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczNzc5MC8yMjI0NzExNy5wbmc=/original/RZ3KHU.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNzc5MC8yMjI0NzExNi5wbmc=/original/MLEnHD.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNzc5MC8yMjI0NzExOC5wbmc=/original/r6oHY5.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNzc5MC8yMjI0NzExOS5wbmc=/original/2fhlQN.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Author": "Nodrance",
+          "Genre": "Puzzle",
+          "Tags": "2D, ascii, Comedy, Experimental, Indie, Minimalist, No AI, Short, Text based"
+        }
+      }
+    },
+    {
+      "gameId": 3738529,
+      "gameUrl": "https://awesomecraft47.itch.io/technical-difficulties",
+      "overallRank": 28,
+      "topCategories": [
+        "Creativity"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMjYyNTQ0LnBuZw==/300x240%23c/X99%2FnE.png",
+        "contributors": [
+          {
+            "name": "Awesomecraft47",
+            "id": 7466162
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3738529",
+        "title": "Technical Difficulties",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 3.9230769230769,
+            "raw_score": 3.9230769230769,
+            "rank": 83
+          },
+          {
+            "name": "Presentation",
+            "score": 4.3076923076923,
+            "raw_score": 4.3076923076923,
+            "rank": 65
+          },
+          {
+            "name": "Creativity",
+            "score": 4.4615384615385,
+            "raw_score": 4.4615384615385,
+            "rank": 15
+          }
+        ],
+        "score": 4.2307692307692,
+        "rating_count": 13,
+        "id": 3738529,
+        "rank": 28,
+        "raw_score": 4.2307692307692
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:2"
+        ],
+        "created_at": "2025-07-21 04:30:47",
+        "id": 726212,
+        "url": "/jam/shovel-jam-2025/rate/3738529",
+        "game": {
+          "title": "Technical Difficulties",
+          "platforms": [
+            "windows"
+          ],
+          "id": 3738529,
+          "url": "https://awesomecraft47.itch.io/technical-difficulties",
+          "cover_color": "#2C2546",
+          "cover": "https://img.itch.zone/aW1nLzIyMjYyNTQ0LnBuZw==/300x240%23c/X99%2FnE.png",
+          "user": {
+            "url": "https://awesomecraft47.itch.io",
+            "name": "Awesomecraft47",
+            "id": 7466162
+          }
+        },
+        "coolness": 22,
+        "rating_count": 13
+      },
+      "details": {
+        "title": "Technical Difficulties",
+        "description": "This is my first ever game jam game that I made for the Inbound Shovel Jam 2025. I made this in 5 days.\nI made this with some story help from my sister. A large portion of the art is Royalty Free, but I did all the programing, some art, the narration, and wrote the end credit music.How to play:Download game below (Currently only available for Windows)Extract fileRun the application (.exe) file in the extracted folder",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIyMjYyNTQ0LnBuZw==/original/7B9fNZ.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Author": "Awesomecraft47",
+          "Genre": "Puzzle",
+          "Tags": "2D, Mouse only, Pixel Art, Point & Click"
+        }
+      }
+    },
+    {
+      "gameId": 3735664,
+      "gameUrl": "https://demaster1357.itch.io/sokobegan",
+      "overallRank": 12,
+      "topCategories": [
+        "Creativity"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMjQ3NDM5LnBuZw==/300x240%23c/P%2Bq5CJ.png",
+        "contributors": [
+          {
+            "name": "DeMaster1357",
+            "id": 11323251
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3735664",
+        "title": "Sokobegan",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 4.1818181818182,
+            "raw_score": 4.1818181818182,
+            "rank": 27
+          },
+          {
+            "name": "Creativity",
+            "score": 4.4545454545455,
+            "raw_score": 4.4545454545455,
+            "rank": 16
+          },
+          {
+            "name": "Presentation",
+            "score": 4.3636363636364,
+            "raw_score": 4.3636363636364,
+            "rank": 58
+          }
+        ],
+        "score": 4.3333333333333,
+        "rating_count": 33,
+        "id": 3735664,
+        "rank": 12,
+        "raw_score": 4.3333333333333
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:1"
+        ],
+        "created_at": "2025-07-21 01:45:37",
+        "id": 725789,
+        "url": "/jam/shovel-jam-2025/rate/3735664",
+        "game": {
+          "title": "Sokobegan",
+          "cover": "https://img.itch.zone/aW1nLzIyMjQ3NDM5LnBuZw==/300x240%23c/P%2Bq5CJ.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 3735664,
+          "url": "https://demaster1357.itch.io/sokobegan",
+          "cover_color": "#7b9887",
+          "short_text": "Made for the Shovel Jam 2025",
+          "user": {
+            "url": "https://demaster1357.itch.io",
+            "name": "DeMaster1357",
+            "id": 11323251
+          }
+        },
+        "coolness": 5,
+        "rating_count": 33
+      },
+      "details": {
+        "title": "Sokobegan",
+        "description": "Small game made for the 2025 Inbound Shovel game jam with the theme \"Just Get Started\". Click on a character to plan out their moves in a confined area, before watching as they repeat those actions in a loop. Coordinate multiple characters by recording paths for each one, and timing their loops to push boxes and reach targets in the shortest turns possible.IMPORTANT:\nSome of these levels (especially the later ones) can be very difficult. Don't be afraid to skip levels if you are stuck or \"spoil\" solutions. I recommend skipping levels first, then coming back later to see the solution. The last level (15) is ridiculous and I don't expect anyone to legitimately solve it. Spoiling earlier levels can also help you with logic for later ones, so if a level seems impossible try going back to levels you skipped.Controls:\nWASD or Arrow keys or Swipe (touch screen and mouse) to move\nSpace -> StepZ -> UndoC -> RedoX -> SkipH -> Spoil\nYour progress is saved, so feel free to come back later!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczNTY2NC8yMjI1MTIwNC5wbmc=/original/s%2Fy%2BkK.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNTY2NC8yMjI1MTE5Mi5wbmc=/original/rT7xRa.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNTY2NC8yMjI1MTE5NS5wbmc=/original/SDNbjW.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNTY2NC8yMjI1MTE5NC5wbmc=/original/I9yjOU.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNTY2NC8yMjI1MTE5Ni5wbmc=/original/HFzm7y.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNTY2NC8yMjI1MTE5My5wbmc=/original/K093hZ.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.0 out of 5 stars(2 total ratings)",
+          "Author": "DeMaster1357",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "Sokoban, Touch-Friendly",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse, Touchscreen"
+        }
+      }
+    },
+    {
+      "gameId": 3730934,
+      "gameUrl": "https://eeoo3beeboo.itch.io/process",
+      "overallRank": 88,
+      "topCategories": [
+        "Creativity"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMjQ0MzI1LnBuZw==/300x240%23c/86U2En.png",
+        "contributors": [
+          {
+            "name": "eeoo3beeboo",
+            "id": 12076820
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3730934",
+        "title": "Process",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 3.4375,
+            "raw_score": 3.4375,
+            "rank": 268
+          },
+          {
+            "name": "Creativity",
+            "score": 4.4375,
+            "raw_score": 4.4375,
+            "rank": 18
+          },
+          {
+            "name": "Presentation",
+            "score": 3.9375,
+            "raw_score": 3.9375,
+            "rank": 192
+          }
+        ],
+        "score": 3.9375,
+        "rating_count": 16,
+        "id": 3730934,
+        "rank": 88,
+        "raw_score": 3.9375
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:1"
+        ],
+        "created_at": "2025-07-20 22:41:49",
+        "id": 725514,
+        "url": "/jam/shovel-jam-2025/rate/3730934",
+        "game": {
+          "title": "Process",
+          "cover": "https://img.itch.zone/aW1nLzIyMjQ0MzI1LnBuZw==/300x240%23c/86U2En.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 3730934,
+          "url": "https://eeoo3beeboo.itch.io/process",
+          "cover_color": "#eeeeee",
+          "short_text": "Game within a game",
+          "user": {
+            "url": "https://eeoo3beeboo.itch.io",
+            "name": "eeoo3beeboo",
+            "id": 12076820
+          }
+        },
+        "coolness": 6,
+        "rating_count": 16
+      },
+      "details": {
+        "title": "Process",
+        "description": "Welcome to Process!\nTake on the role of the game developer and make your own little platformer!\nDraw the assets, assign them types, build a level, and share it with your friends!\nIn Jam mode, you have 3 minutes to make your game and submit it! In Chill mode, there's no timer- just make whatever you want without pressure.\nCredits:\nMade in Turbowarp - https://turbowarp.org/credits.htmlMusic made with Garageband\nMost sound effects made with BFXR -  https://www.bfxr.net/All others from Pixabay - https://pixabay.com/sound-effects/Level sharing API and news notifications by MasterP (My dad, he just wanted to sound cool)!",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIyMjQ0MzI1LnBuZw==/original/lKaXKe.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "eeoo3beeboo",
+          "Genre": "Platformer",
+          "Tags": "2D, Drawing, Pixel Art"
+        }
+      }
+    },
+    {
+      "gameId": 3727696,
+      "gameUrl": "https://lunathemoongirl.itch.io/listening-post",
+      "overallRank": 175,
+      "topCategories": [
+        "Creativity"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMjQ5ODEyLnBuZw==/300x240%23c/ZD%2Bdks.png",
+        "contributors": [
+          {
+            "name": "LunaTheMoongirl",
+            "id": 5701861
+          }
+        ],
+        "url": "https://itch.io/jam/shovel-jam-2025/rate/3727696",
+        "title": "Listening Post 13",
+        "criteria": [
+          {
+            "name": "Fun",
+            "score": 3.5,
+            "raw_score": 3.5,
+            "rank": 231
+          },
+          {
+            "name": "Presentation",
+            "score": 3.3571428571429,
+            "raw_score": 3.3571428571429,
+            "rank": 431
+          },
+          {
+            "name": "Creativity",
+            "score": 4.4285714285714,
+            "raw_score": 4.4285714285714,
+            "rank": 20
+          }
+        ],
+        "score": 3.7619047619048,
+        "rating_count": 14,
+        "id": 3727696,
+        "rank": 175,
+        "raw_score": 3.7619047619048
+      },
+      "entryData": {
+        "field_responses": [
+          "36548:1"
+        ],
+        "created_at": "2025-07-21 03:04:39",
+        "id": 725963,
+        "url": "/jam/shovel-jam-2025/rate/3727696",
+        "game": {
+          "title": "Listening Post 13",
+          "cover": "https://img.itch.zone/aW1nLzIyMjQ5ODEyLnBuZw==/300x240%23c/ZD%2Bdks.png",
+          "platforms": [
+            "windows",
+            "linux",
+            "web"
+          ],
+          "id": 3727696,
+          "url": "https://lunathemoongirl.itch.io/listening-post",
+          "cover_color": "#000000",
+          "short_text": "papers please inspired submission to inbound shovel jam",
+          "user": {
+            "url": "https://lunathemoongirl.itch.io",
+            "name": "LunaTheMoongirl",
+            "id": 5701861
+          }
+        },
+        "coolness": 12,
+        "rating_count": 14
+      },
+      "details": {
+        "title": "Listening Post 13",
+        "description": "Greetings\nWelcome to your first day as Observation officer. Do not slacken in your duties and identify all threats. The ministry depends on you.\nStay Vigilant!\nCredits\nThanks to Aurora [https://deadinsi.de/@Aurora_Bee] for making the soundtrack",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzcyNzY5Ni8yMjI0OTUwNS5wbmc=/original/chuFch.png",
+          "https://img.itch.zone/aW1hZ2UvMzcyNzY5Ni8yMjI0OTUwNi5wbmc=/original/XJYatM.png",
+          "https://img.itch.zone/aW1hZ2UvMzcyNzY5Ni8yMjI0OTUwNy5wbmc=/original/Qro1y2.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows, Linux",
+          "Author": "LunaTheMoongirl",
+          "Genre": "Strategy",
+          "Made with": "Bevy Engine",
+          "Tags": "2D, No AI, Space",
+          "Code license": "MIT License",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    }
+  ]
+}

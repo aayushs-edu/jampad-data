@@ -1,0 +1,3758 @@
+{
+  "n": 68,
+  "name": "Gamedev.js Jam 2024",
+  "url": "https://itch.io/jam/gamedevjs-2024",
+  "theme": "Power",
+  "slug": "gamedevjs-2024",
+  "jamMeta": {
+    "jamType": "ended",
+    "ratings": "6,024",
+    "entries": "227",
+    "title": "Gamedev.js Jam 2024",
+    "jamURL": "https://itch.io/jam/gamedevjs-2024",
+    "hosts": {
+      "End3r": "https://end3r.itch.io",
+      "Enclave Games": "https://enclavegames.itch.io",
+      "#gamedevjs": "https://bsky.app/hashtag/gamedevjs"
+    },
+    "jamID": "330925"
+  },
+  "totalEntries": 219,
+  "ranked": true,
+  "hasCategories": true,
+  "needsManualSelection": false,
+  "categories": [
+    "Gameplay",
+    "Theme",
+    "Innovation",
+    "Graphics",
+    "Audio"
+  ],
+  "topGames": [
+    {
+      "gameId": 2664874,
+      "gameUrl": "https://deltea.itch.io/power-cut",
+      "overallRank": 14,
+      "topCategories": [
+        "Gameplay",
+        "Graphics"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1ODgxNDU0LmdpZg==/300x240%23c/ju%2FVK4.gif",
+        "id": 2664874,
+        "title": "Power Cut",
+        "raw_score": 3.6878787878788,
+        "contributors": [
+          {
+            "name": "deltea",
+            "id": 4974897
+          }
+        ],
+        "score": 3.6878787878788,
+        "url": "https://itch.io/jam/gamedevjs-2024/rate/2664874",
+        "rank": 14,
+        "rating_count": 66,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 4.2272727272727,
+            "rank": 2,
+            "score": 4.2272727272727
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.6363636363636,
+            "rank": 23,
+            "score": 3.6363636363636
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.1060606060606,
+            "rank": 63,
+            "score": 3.1060606060606
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.2272727272727,
+            "rank": 10,
+            "score": 4.2272727272727
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.2424242424242,
+            "rank": 50,
+            "score": 3.2424242424242
+          },
+          {
+            "name": "Open Source",
+            "raw_score": 0,
+            "rank": 8,
+            "score": 0
+          }
+        ]
+      },
+      "entryData": {
+        "id": 531325,
+        "rating_count": 66,
+        "coolness": 0,
+        "game": {
+          "url": "https://deltea.itch.io/power-cut",
+          "cover_color": "#191919",
+          "gif_cover": "https://img.itch.zone/aW1nLzE1ODgxNDU0LmdpZg==/original/srjX0M.gif",
+          "user": {
+            "name": "deltea",
+            "url": "https://deltea.itch.io",
+            "id": 4974897
+          },
+          "cover": "https://img.itch.zone/aW1nLzE1ODgxNDU0LmdpZg==/300x240%23c/ju%2FVK4.gif",
+          "id": 2664874,
+          "title": "Power Cut",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "short_text": "⚡ Solve puzzles with electricity! A small minimalistic puzzle platformer."
+        },
+        "created_at": "2024-04-23 15:17:48",
+        "field_responses": [
+          "28995:1"
+        ],
+        "url": "/jam/gamedevjs-2024/rate/2664874"
+      },
+      "details": {
+        "title": "Power Cut",
+        "description": "Made for Gamedev.js Jam 2024\n\nControls\nArrow Keys/WASDMoveZ/SpaceJumpX/EInteract with objectsEscExit to level selectRRestart level\n\nCredits\nProgramming: me, code on githubArt Style: inspired by kindanice on itch.ioSound Effects: made with jsfxrColor Palettes: from the Lospec Palette ListFont: hefty me by wuchta",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjY2NDg3NC8xNTg4MTkyMS5wbmc=/original/10vHhR.png",
+          "https://img.itch.zone/aW1hZ2UvMjY2NDg3NC8xNTkxMTc2OC5wbmc=/original/Q4kH4H.png",
+          "https://img.itch.zone/aW1hZ2UvMjY2NDg3NC8xNTg4MTkxMi5wbmc=/original/ePQm1b.png",
+          "https://img.itch.zone/aW1hZ2UvMjY2NDg3NC8xNTg5MzE0OS5wbmc=/original/%2B5I36I.png",
+          "https://img.itch.zone/aW1hZ2UvMjY2NDg3NC8xNTg4MTk0My5wbmc=/original/fzXAs%2B.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Release date": "Apr 23, 2024",
+          "Rating": "Rated 4.8 out of 5 stars(4 total ratings)",
+          "Author": "deltea",
+          "Genre": "Puzzle, Platformer",
+          "Made with": "Aseprite, Godot",
+          "Tags": "2D, Godot, Pixel Art, Retro, Short",
+          "Code license": "MIT License",
+          "Average session": "A few seconds",
+          "Languages": "English",
+          "Inputs": "Keyboard",
+          "Accessibility": "High-contrast",
+          "Links": "Source code"
+        }
+      }
+    },
+    {
+      "gameId": 2668409,
+      "gameUrl": "https://reitgames.itch.io/puckit",
+      "overallRank": 6,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1OTAyMTgyLnBuZw==/300x240%23c/4AyUIQ.png",
+        "id": 2668409,
+        "title": "Puckit!",
+        "raw_score": 3.7677419354839,
+        "contributors": [
+          {
+            "name": "Reit Games",
+            "id": 2299867
+          }
+        ],
+        "score": 3.7677419354839,
+        "url": "https://itch.io/jam/gamedevjs-2024/rate/2668409",
+        "rank": 6,
+        "rating_count": 62,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 4.1774193548387,
+            "rank": 3,
+            "score": 4.1774193548387
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.3870967741935,
+            "rank": 42,
+            "score": 3.3870967741935
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.6612903225806,
+            "rank": 16,
+            "score": 3.6612903225806
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.9677419354839,
+            "rank": 26,
+            "score": 3.9677419354839
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.6451612903226,
+            "rank": 11,
+            "score": 3.6451612903226
+          },
+          {
+            "name": "Open Source",
+            "raw_score": 0,
+            "rank": 2,
+            "score": 0
+          },
+          {
+            "name": "Build it with Phaser",
+            "raw_score": 0,
+            "rank": 1,
+            "score": 0
+          }
+        ]
+      },
+      "entryData": {
+        "id": 531722,
+        "rating_count": 62,
+        "coolness": 63,
+        "game": {
+          "title": "Puckit!",
+          "short_text": "infinite air hockey game",
+          "user": {
+            "name": "Reit Games",
+            "url": "https://reitgames.itch.io",
+            "id": 2299867
+          },
+          "url": "https://reitgames.itch.io/puckit",
+          "cover": "https://img.itch.zone/aW1nLzE1OTAyMTgyLnBuZw==/300x240%23c/4AyUIQ.png",
+          "id": 2668409,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#222222"
+        },
+        "created_at": "2024-04-25 09:06:35",
+        "field_responses": [
+          "28995:1",
+          "28995:2"
+        ],
+        "url": "/jam/gamedevjs-2024/rate/2668409"
+      },
+      "details": {
+        "title": "Puckit!",
+        "description": "Puckit!\nThe game works  best on mobile\nA game made in 2 weeks for the annual Gamedev.js gamejam 2024. The theme is, Power, and in this game, you power up your power puck to plunge the puny pawns into the pits. I call it Puckit!\nEverything is made by me, including code, graphics, animations, and sound effects. The background music is not made entirely by me. I took an existing track and made a remix of it.\nHow to play\n\n\nDrag finger or mouse to send your puck towards the enemy puck\nScore points and charge your battery by putting enemies in the holesUnleash a devastating power blow by tapping the charged battery, destroying all enemies within proximity\nScore as many points as you can before you spend all your shots or fall in a hole yourself\nLicense\n\n\nAll rights reserved\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjY2ODQwOS8xNTkwMjA3MC5wbmc=/original/BZoW1Q.png",
+          "https://img.itch.zone/aW1hZ2UvMjY2ODQwOS8xNTkwMjA3Mi5wbmc=/original/xZPdfz.png",
+          "https://img.itch.zone/aW1hZ2UvMjY2ODQwOS8xNTkwMjA3MS5wbmc=/original/bsnJvS.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.5 out of 5 stars(2 total ratings)",
+          "Author": "Reit Games",
+          "Genre": "Action",
+          "Made with": "Phaser",
+          "Tags": "Casual",
+          "Average session": "A few seconds",
+          "Inputs": "Mouse, Touchscreen",
+          "Links": "Homepage"
+        }
+      }
+    },
+    {
+      "gameId": 2669633,
+      "gameUrl": "https://lakedead.itch.io/jam-dashido",
+      "overallRank": 27,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1OTEzNzg1LnBuZw==/300x240%23c/aJtlMl.png",
+        "id": 2669633,
+        "title": "(Jam) Dashido Adventure",
+        "raw_score": 3.5454545454545,
+        "contributors": [
+          {
+            "name": "LakeDead",
+            "id": 1705178
+          }
+        ],
+        "score": 3.5058392848089,
+        "url": "https://itch.io/jam/gamedevjs-2024/rate/2669633",
+        "rank": 27,
+        "rating_count": 22,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 4.0454545454545,
+            "rank": 4,
+            "score": 4.0002525172819
+          },
+          {
+            "name": "Theme",
+            "raw_score": 2.8181818181818,
+            "rank": 105,
+            "score": 2.7866927648481
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.7272727272727,
+            "rank": 15,
+            "score": 3.6856259147991
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.6818181818182,
+            "rank": 49,
+            "score": 3.6406792573015
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.4545454545455,
+            "rank": 24,
+            "score": 3.4159459698138
+          }
+        ]
+      },
+      "entryData": {
+        "id": 531916,
+        "rating_count": 22,
+        "coolness": 0,
+        "game": {
+          "title": "(Jam) Dashido Adventure",
+          "user": {
+            "name": "LakeDead",
+            "url": "https://lakedead.itch.io",
+            "id": 1705178
+          },
+          "url": "https://lakedead.itch.io/jam-dashido",
+          "cover": "https://img.itch.zone/aW1nLzE1OTEzNzg1LnBuZw==/300x240%23c/aJtlMl.png",
+          "id": 2669633,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#8e7d78"
+        },
+        "created_at": "2024-04-25 21:48:13",
+        "field_responses": [
+          "28995:3"
+        ],
+        "url": "/jam/gamedevjs-2024/rate/2669633"
+      },
+      "details": {
+        "title": "(Jam) Dashido Adventure",
+        "description": "Controls:\n\nHold Left Mouse button - Ready dash strike\n\nRelease Left Mouse button - Perform dash strike / Throw NPC\n\nWASD - movement (inside building)\nRefresh page to restart game\n\n\nThe Dashido Adventure mode is the main game mode, arcade and ironman are bonus.\nAn entry for GameDev js Jam by Eero Höök ( Roikku / LakeDead )\n\nISSUE: For some reason there's slowdown on overworld map\nFor this reason the objective was left easy to reach.\nDemo intentionally left short for players to see the entire gameplay loop.\n\nTheme: Power. The player diminishes enemy Clan Power (influence)\nChallenge: NPC. You can use enemy npcs as projectiles.\n\n\nDue to popular request I re-enabled arcade and ironman modes.\n\nThe game's super easy due to the ability to throw enemies,\nso Ironman with permadeath is the most challenging way to go! \nHowever, the ADVENTURE mode is supposed to be the main game mode. \n\nMade in Game Maker BETA as a solo project\n\nSupport the Dev:\n\npaypal.me/roikkudev\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjY2OTYzMy8xNTkzOTIyMS5wbmc=/original/Ar1H4s.png",
+          "https://img.itch.zone/aW1hZ2UvMjY2OTYzMy8xNTkzOTIyMi5wbmc=/original/bdWVEe.png",
+          "https://img.itch.zone/aW1hZ2UvMjY2OTYzMy8xNTkzOTIyMC5wbmc=/original/l3MNV6.png",
+          "https://img.itch.zone/aW1hZ2UvMjY2OTYzMy8xNTkzOTI2NS5wbmc=/original/jqa4yk.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Author": "LakeDead",
+          "Made with": "GameMaker"
+        }
+      }
+    },
+    {
+      "gameId": 2667354,
+      "gameUrl": "https://imaad-phoplunker.itch.io/powerlesshotel",
+      "overallRank": 10,
+      "topCategories": [
+        "Gameplay",
+        "Theme"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1OTU2MzA0LmdpZg==/300x240%23c/DvZBBm.gif",
+        "id": 2667354,
+        "title": "PowerLess Hotel",
+        "raw_score": 3.7142857142857,
+        "contributors": [
+          {
+            "name": "Imaad Phoplunker",
+            "id": 10046815
+          }
+        ],
+        "score": 3.7142857142857,
+        "url": "https://itch.io/jam/gamedevjs-2024/rate/2667354",
+        "rank": 10,
+        "rating_count": 49,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.9591836734694,
+            "rank": 5,
+            "score": 3.9591836734694
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.0408163265306,
+            "rank": 8,
+            "score": 4.0408163265306
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.5510204081633,
+            "rank": 21,
+            "score": 3.5510204081633
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.6530612244898,
+            "rank": 47,
+            "score": 3.6530612244898
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.3673469387755,
+            "rank": 32,
+            "score": 3.3673469387755
+          },
+          {
+            "name": "Open Source",
+            "raw_score": 0,
+            "rank": 5,
+            "score": 0
+          }
+        ]
+      },
+      "entryData": {
+        "id": 532206,
+        "rating_count": 49,
+        "coolness": 118,
+        "game": {
+          "url": "https://imaad-phoplunker.itch.io/powerlesshotel",
+          "cover_color": "#151528",
+          "gif_cover": "https://img.itch.zone/aW1nLzE1OTU2MzA0LmdpZg==/original/yfx12F.gif",
+          "user": {
+            "name": "Imaad Phoplunker",
+            "url": "https://imaad-phoplunker.itch.io",
+            "id": 10046815
+          },
+          "cover": "https://img.itch.zone/aW1nLzE1OTU2MzA0LmdpZg==/300x240%23c/DvZBBm.gif",
+          "id": 2667354,
+          "title": "PowerLess Hotel",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "short_text": "Blackout! Can you restore power to the hotel, or will you be defeated by phantoms...?"
+        },
+        "created_at": "2024-04-26 14:54:18",
+        "field_responses": [
+          "28995:1",
+          "28995:3"
+        ],
+        "url": "/jam/gamedevjs-2024/rate/2667354"
+      },
+      "details": {
+        "title": "PowerLess Hotel",
+        "description": "Blackout! Can you restore power to the hotel, or will you be defeated by phantoms...?\nAvailable for both Web and Download!\n\nVersion 1.0.1\nTo view the original version of the game that was released for the \"Gamedev.js 2024\" game jam, go to: https://imaad-phoplunker.itch.io/powerlesshotel-gamedev-js-jam-version?password=gamedevjs\n\n\nControls\nWASD/Arrow Keys - Move\n\nMove Mouse - Aim\nLeft Mouse Button - Use Torch\nRight Mouse Button - Summon Room Service\nSpace - Tip Room Service\nOP - Adjust BrightnessShift+M - Mute/Unmute\n\nAlso, In case you find this game too difficult or run into any unexpected bugs, I have also provided some cheat codes that should help!\n\n\nSpoiler: Cheat Codes\nHold both \",\" and \"shift\", then press \"3\" - Gain Health\nPress \"1\", \"0\", \"z\" and \"m\" - Force Open All Doors\n\n \n\n\nGamedev.js Jam\nThe original version of game was made in 13 days for Gamedev.js Jam 2024\n\nhttps://itch.io/jam/gamedevjs-2024\n\nThis game was also made with two of the optional challenges from the jam in mind. These challenges are:\nOpen Source by GitHub \n&\nNPC by OP Games\nFor information on how this game meets the challenge criteria, view the spoiler below, but be warned, this does contain some spoilers for the game!\n\n\nSpoiler: Jam Challenges\nAs part of the \"Open Source by GitHub\" challenge, the source code for this game can be found at: https://github.com/iplnkr/PowerGame\nAs part of the \"NPC by OP Games\" challenge, this game features an NPC known as \"Room Service\" that gives the player the initial mission and can be summoned to help in combat. This NPC also has a twist however, as if the player does not tip the room service enough (enough being 2 coins for each time he is summoned), by the end of the game, the NPC changes allegiances and assists the enemies instead during the final boss fight.\n\n\n\nCredits\nAll code, art, animation, sound effects, and music were made by me during the 13 days of the jam.\nThe font used for most of the text in the game was also made by me, but was made before the jam. It was not made solely for the purpose of being used for this game jam.\nThis game was made using Unity. The art was made using Inkscape. The sound effects and music were made using Cakewalk by BandLab.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjY2NzM1NC8xNTk1NjQyNy5naWY=/original/ebWCn6.gif",
+          "https://img.itch.zone/aW1hZ2UvMjY2NzM1NC8xNTk1NjQ2Ni5naWY=/original/Mb%2FGuu.gif",
+          "https://img.itch.zone/aW1hZ2UvMjY2NzM1NC8xNTk1NjQyOC5naWY=/original/%2Bp0UB4.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Imaad Phoplunker",
+          "Genre": "Action",
+          "Made with": "Unity, Inkscape",
+          "Tags": "2D, Boss battle, Dungeon Crawler, Procedural Generation, Roguelite, Short, Singleplayer, Top-Down",
+          "Code license": "GNU General Public License v3.0 (GPL)",
+          "Average session": "About a half-hour",
+          "Inputs": "Keyboard, Mouse",
+          "Accessibility": "Interactive tutorial"
+        }
+      }
+    },
+    {
+      "gameId": 2653986,
+      "gameUrl": "https://sojioto.itch.io/scarbog",
+      "overallRank": 22,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1ODU5MTIyLnBuZw==/300x240%23c/xRDGXa.png",
+        "id": 2653986,
+        "title": "Scarbogs Tower",
+        "raw_score": 3.5658536585366,
+        "contributors": [
+          {
+            "name": "Sojioto",
+            "id": 3676360
+          },
+          {
+            "name": "nicole",
+            "id": 10092836
+          }
+        ],
+        "score": 3.5658536585366,
+        "url": "https://itch.io/jam/gamedevjs-2024/rate/2653986",
+        "rank": 22,
+        "rating_count": 41,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.9512195121951,
+            "rank": 6,
+            "score": 3.9512195121951
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.219512195122,
+            "rank": 61,
+            "score": 3.219512195122
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.4390243902439,
+            "rank": 29,
+            "score": 3.4390243902439
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.7317073170732,
+            "rank": 41,
+            "score": 3.7317073170732
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.4878048780488,
+            "rank": 18,
+            "score": 3.4878048780488
+          }
+        ]
+      },
+      "entryData": {
+        "id": 529969,
+        "rating_count": 41,
+        "coolness": 65,
+        "created_at": "2024-04-21 06:39:53",
+        "contributors": [
+          {
+            "name": "Sojioto",
+            "url": "https://sojioto.itch.io"
+          },
+          {
+            "name": "nicole",
+            "url": "https://nicolestarlight.itch.io"
+          }
+        ],
+        "game": {
+          "title": "Scarbogs Tower",
+          "short_text": "Fantasy  tower defense X bullethell.",
+          "user": {
+            "name": "Sojioto",
+            "url": "https://sojioto.itch.io",
+            "id": 3676360
+          },
+          "url": "https://sojioto.itch.io/scarbog",
+          "cover": "https://img.itch.zone/aW1nLzE1ODU5MTIyLnBuZw==/300x240%23c/xRDGXa.png",
+          "id": 2653986,
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#000000"
+        },
+        "url": "/jam/gamedevjs-2024/rate/2653986"
+      },
+      "details": {
+        "title": "Scarbogs Tower",
+        "description": "The terribly evil and powerful wizard, Scarbog the Vile, has become such a threat to the realm, armies from far and wide have come to put an end to the wizard and his tower.\nDefend against 24 waves of the realms strongest knights.\nSurvive 8 unique bullet hell battles as the wizards of the realm try to destroy you.\nDo not play in firefox, audio may be broken.\nCONTROLS\n-Left click to play units and fire wand.\n-Right click to refund units.\nMusic by Nicole Starlight! https://nicolestarlight.itch.io/Font used Font+ [Antiquity Print] by SciGho (itch.io)\nTips to win\n-Build Power generators as soon as possible.-Use skeletons and the laser abilities sparingly.-Winning or losing wizard battles can massively effect the outcome of the game.\n\n\n\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjY1Mzk4Ni8xNTg0ODgyMS5naWY=/original/mGzWnZ.gif",
+          "https://img.itch.zone/aW1hZ2UvMjY1Mzk4Ni8xNTg0ODgyNi5naWY=/original/vqBj6W.gif",
+          "https://img.itch.zone/aW1hZ2UvMjY1Mzk4Ni8xNTg0ODc4MS5naWY=/original/M%2FvTGK.gif",
+          "https://img.itch.zone/aW1hZ2UvMjY1Mzk4Ni8xNTg0ODgwNS5naWY=/original/CT6Mhl.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(4 total ratings)",
+          "Authors": "Sojioto, nicole",
+          "Genre": "Strategy",
+          "Made with": "Construct",
+          "Tags": "Bullet Hell, Dark Fantasy, Fantasy, NES (Nintendo Entertainment System), Pixel Art, Retro, Tower Defense"
+        }
+      }
+    },
+    {
+      "gameId": 2670404,
+      "gameUrl": "https://dorieee.itch.io/jack-ringo",
+      "overallRank": 44,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1OTM3MzcwLnBuZw==/300x240%23c/TbCzjw.png",
+        "id": 2670404,
+        "title": "Jack Ringo",
+        "raw_score": 3.3363636363636,
+        "contributors": [
+          {
+            "name": "Dorieee",
+            "id": 6337015
+          }
+        ],
+        "score": 3.2990846603201,
+        "url": "https://itch.io/jam/gamedevjs-2024/rate/2670404",
+        "rank": 44,
+        "rating_count": 22,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.9545454545455,
+            "rank": 7,
+            "score": 3.9103592022868
+          },
+          {
+            "name": "Theme",
+            "raw_score": 2.7727272727273,
+            "rank": 117,
+            "score": 2.7417461073505
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.0909090909091,
+            "rank": 72,
+            "score": 3.0563727098334
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.5,
+            "rank": 64,
+            "score": 3.4608926273113
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.3636363636364,
+            "rank": 37,
+            "score": 3.3260526548187
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 22,
+        "coolness": 7,
+        "id": 532051,
+        "created_at": "2024-04-26 07:50:52",
+        "game": {
+          "title": "Jack Ringo",
+          "short_text": "Top Down Shooter",
+          "user": {
+            "name": "Dorieee",
+            "url": "https://dorieee.itch.io",
+            "id": 6337015
+          },
+          "url": "https://dorieee.itch.io/jack-ringo",
+          "cover": "https://img.itch.zone/aW1nLzE1OTM3MzcwLnBuZw==/300x240%23c/TbCzjw.png",
+          "id": 2670404,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#8C8FAE"
+        },
+        "url": "/jam/gamedevjs-2024/rate/2670404"
+      },
+      "details": {
+        "title": "Jack Ringo",
+        "description": "Join Jack Ringo in his wild adventures and fight through enemies who try to stop you!\n\nMade for Gamedev.js Jam 2024\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjY3MDQwNC8xNTkzNTU2NC5naWY=/original/ygLmrC.gif",
+          "https://img.itch.zone/aW1hZ2UvMjY3MDQwNC8xNTkzNTYzMC5naWY=/original/AYjfxm.gif",
+          "https://img.itch.zone/aW1hZ2UvMjY3MDQwNC8xNTkzNTYxOS5naWY=/original/jUkGT8.gif",
+          "https://img.itch.zone/aW1hZ2UvMjY3MDQwNC8xNTkzNTU1Ni5naWY=/original/s2oML8.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Dorieee",
+          "Genre": "Action, Adventure, Shooter",
+          "Made with": "GDevelop",
+          "Tags": "2D, Pixel Art, Short, Top-Down, Top Down Adventure, Top down shooter"
+        }
+      }
+    },
+    {
+      "gameId": 2661547,
+      "gameUrl": "https://remarkablegames.itch.io/linkit",
+      "overallRank": 111,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1ODU5NTUwLnBuZw==/300x240%23c/IWC5Qd.png",
+        "id": 2661547,
+        "title": "Linkit",
+        "raw_score": 2.8625,
+        "contributors": [
+          {
+            "name": "remarkablegames",
+            "id": 1333159
+          }
+        ],
+        "score": 2.8625,
+        "url": "https://itch.io/jam/gamedevjs-2024/rate/2661547",
+        "rank": 111,
+        "rating_count": 32,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.90625,
+            "rank": 8,
+            "score": 3.90625
+          },
+          {
+            "name": "Theme",
+            "raw_score": 1.78125,
+            "rank": 215,
+            "score": 1.78125
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.09375,
+            "rank": 64,
+            "score": 3.09375
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 2.78125,
+            "rank": 146,
+            "score": 2.78125
+          },
+          {
+            "name": "Audio",
+            "raw_score": 2.75,
+            "rank": 119,
+            "score": 2.75
+          }
+        ]
+      },
+      "entryData": {
+        "id": 531981,
+        "rating_count": 32,
+        "coolness": 12,
+        "game": {
+          "title": "Linkit",
+          "short_text": "🔴 Connect the dots!",
+          "user": {
+            "name": "remarkablegames",
+            "url": "https://remarkablegames.itch.io",
+            "id": 1333159
+          },
+          "url": "https://remarkablegames.itch.io/linkit",
+          "cover": "https://img.itch.zone/aW1nLzE1ODU5NTUwLnBuZw==/300x240%23c/IWC5Qd.png",
+          "id": 2661547,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#eeeeee"
+        },
+        "created_at": "2024-04-26 01:44:50",
+        "field_responses": [
+          "28995:1",
+          "28995:2"
+        ],
+        "url": "/jam/gamedevjs-2024/rate/2661547"
+      },
+      "details": {
+        "title": "Linkit",
+        "description": "🔴 Linkit is a puzzle where you connect the dots.\nThis game was made for Gamedev.js Jam 2024, where the theme was power.\nCredits\nremarkablemark - DeveloperRob Cohen - Level DesignKenney Interface Sounds\nResources\nBlogGitHub",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjY2MTU0Ny8xNTg1OTU1NS5wbmc=/original/nT2kfh.png",
+          "https://img.itch.zone/aW1hZ2UvMjY2MTU0Ny8xNTg1OTU1MS5wbmc=/original/IpvCkX.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 3.5 out of 5 stars(2 total ratings)",
+          "Author": "remarkablegames",
+          "Genre": "Puzzle",
+          "Made with": "Phaser",
+          "Tags": "2D, Casual, Colorful, Minimalist, Open Source, Point & Click, Relaxing, Short, Singleplayer",
+          "Code license": "MIT License",
+          "Average session": "A few seconds",
+          "Languages": "English",
+          "Inputs": "Mouse",
+          "Links": "Blog, GitHub"
+        }
+      }
+    },
+    {
+      "gameId": 2643307,
+      "gameUrl": "https://golen.itch.io/mech-motion",
+      "overallRank": 2,
+      "topCategories": [
+        "Gameplay",
+        "Theme",
+        "Innovation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1OTEzNzYzLnBuZw==/300x240%23c/6gSBz%2F.png",
+        "id": 2643307,
+        "title": "Mech Motion",
+        "raw_score": 3.848275862069,
+        "contributors": [
+          {
+            "name": "Golen",
+            "id": 850762
+          }
+        ],
+        "score": 3.848275862069,
+        "url": "https://itch.io/jam/gamedevjs-2024/rate/2643307",
+        "rank": 2,
+        "rating_count": 29,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.8965517241379,
+            "rank": 9,
+            "score": 3.8965517241379
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4,
+            "rank": 10,
+            "score": 4
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.8275862068966,
+            "rank": 7,
+            "score": 3.8275862068966
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.1034482758621,
+            "rank": 14,
+            "score": 4.1034482758621
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.4137931034483,
+            "rank": 26,
+            "score": 3.4137931034483
+          },
+          {
+            "name": "Open Source",
+            "raw_score": 0,
+            "rank": 1,
+            "score": 0
+          },
+          {
+            "name": "Build it with Phaser",
+            "raw_score": 0,
+            "rank": 2,
+            "score": 0
+          }
+        ]
+      },
+      "entryData": {
+        "id": 528015,
+        "rating_count": 29,
+        "coolness": 25,
+        "game": {
+          "title": "Mech Motion",
+          "short_text": "Plan a sequence of moves and assist your robot helper to restore power",
+          "user": {
+            "name": "Golen",
+            "url": "https://golen.itch.io",
+            "id": 850762
+          },
+          "url": "https://golen.itch.io/mech-motion",
+          "cover": "https://img.itch.zone/aW1nLzE1OTEzNzYzLnBuZw==/300x240%23c/6gSBz%2F.png",
+          "id": 2643307,
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "cover_color": "#cbd5e1"
+        },
+        "created_at": "2024-04-14 11:54:25",
+        "field_responses": [
+          "28995:1",
+          "28995:2"
+        ],
+        "url": "/jam/gamedevjs-2024/rate/2643307"
+      },
+      "details": {
+        "title": "Mech Motion",
+        "description": "Mech Motion\nGuide your robotic helper through mazes using a sequence of movement cards. Collect all the charges before the power runs out! Tests your problem-solving skills in electrifying fashion.\nMech Motion was made during Gamedev.js Jam 2024.\n\nHow to play\nDrag and drop the movement cards to reorganize themPress \"Go!\" to execute the sequence of movesMove into charges to collect them\nAbout\nMade by GolenMade using Phaser\nFull song: ultraaboxOriginal song: Off But Still On by Shady MonkSource code: https://github.com/Chocobois/Power/Mac\n\n\nThe app is unsigned when built, so you need to follow these steps when distributing:\nFirst you need to extract the .app from the .dmg before attempting to run the game.Second, try running the game, a popup will say the app is unverified.Right click/Open the context menu on the .app, hold option, click open.Click open in the popup.\nThe game will start normally from now on.\nLinux\nYou may have to mark the games as executable before it will let you run them.\nThere have been reports of the game freezing, so the web version might be preferred in that case.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjY0MzMwNy8xNTkxNzU2NS5wbmc=/original/zj84%2BF.png",
+          "https://img.itch.zone/aW1hZ2UvMjY0MzMwNy8xNTg2MTk5My5wbmc=/original/LYboms.png",
+          "https://img.itch.zone/aW1hZ2UvMjY0MzMwNy8xNTg2MTk5OS5wbmc=/original/0JwTRY.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "Golen",
+          "Genre": "Puzzle",
+          "Made with": "Phaser",
+          "Tags": "Robots",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Mouse, Touchscreen, Smartphone",
+          "Accessibility": "One button"
+        }
+      }
+    },
+    {
+      "gameId": 2670714,
+      "gameUrl": "https://fava-beans.itch.io/storm-ultravolt",
+      "overallRank": 13,
+      "topCategories": [
+        "Gameplay",
+        "Graphics",
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE2MDk2NzYwLnBuZw==/300x240%23c/GlJiW%2B.png",
+        "id": 2670714,
+        "title": "Storm UltraVolt",
+        "raw_score": 3.6909090909091,
+        "contributors": [
+          {
+            "name": "Fava Beans",
+            "id": 2781420
+          }
+        ],
+        "score": 3.6909090909091,
+        "url": "https://itch.io/jam/gamedevjs-2024/rate/2670714",
+        "rank": 13,
+        "rating_count": 33,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.8787878787879,
+            "rank": 10,
+            "score": 3.8787878787879
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.6666666666667,
+            "rank": 20,
+            "score": 3.6666666666667
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 2.969696969697,
+            "rank": 81,
+            "score": 2.969696969697
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.2727272727273,
+            "rank": 7,
+            "score": 4.2727272727273
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.6666666666667,
+            "rank": 9,
+            "score": 3.6666666666667
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 33,
+        "coolness": 6,
+        "id": 532103,
+        "created_at": "2024-04-26 11:49:42",
+        "game": {
+          "title": "Storm UltraVolt",
+          "short_text": "a blend of bullet heaven and boss fighting action in which you play as a sexy goblin",
+          "user": {
+            "name": "Fava Beans",
+            "url": "https://fava-beans.itch.io",
+            "id": 2781420
+          },
+          "url": "https://fava-beans.itch.io/storm-ultravolt",
+          "cover": "https://img.itch.zone/aW1nLzE2MDk2NzYwLnBuZw==/300x240%23c/GlJiW%2B.png",
+          "id": 2670714,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#172330"
+        },
+        "url": "/jam/gamedevjs-2024/rate/2670714"
+      },
+      "details": {
+        "title": "Storm UltraVolt",
+        "description": "\n--------------------------------------------------------------\nA little jam game featuring a boss fight with bullet heaven inspirations that was made in around 10 days for: \nGamedev.js Jam 2024\nTheme: Power\nIn this short action-packed game, you'll play as the lean, sexy powerhouse known as Storm. She has made it her mission to destroy the foreign machines who have come to strip her homelands of its resources in order to power their machines. To do this she's going to hit them where it hurts, the power plant. Dismantling this behemoth will prove to be difficult, given that the power plant is a sentient machine itself who commands a legion of robotic underlings. But Storm is up to the task because she's not any ordinary goblin. She has fierce lightning powers gifted to her by the gods.\nControls:\nHover over Icons with the mouse in the level up screen and left click to select\nW, A, S D  or Arrow Keys if you want to cramp your handsMovementMouse and Left Mouse ClickAim and Shoot BoltsHold Right ClickUltraBolt Aiming modeSpace or QDodge Hold ShiftSprintPress PPause\n-Dodging moves Storm toward the cursor.\n-While in UltraBolt aiming mode make sure the reticle is in range of Storm, otherwise you can not cast the bolt. Press Left mouse when you want to fire.\nLeveling UP:\nIf you've socked enough metal heads, you'll level up. Your progress is tracked in a bar at the bottom of the screen. Each time you level, it'll require more XP to level up again.\nWhen you level up you have the option of choosing either a Power upgrade or a Resilience upgrade. Power upgrades will mainly involve dealing damage, while Resilience upgrades have more to do with fortitude and protection. Some upgrades are just plain stat changes and others may alter gameplay. Either way, they become more powerful with stacks.\n\n. . . . . . . . . . . . . . . . . . . . . . . . . . \nMy Commentary:\nDevelopment was kind of a mess because I couldn't decide what I wanted to make. I knew from the start I wanted a goblin destroying generators that use resources from her homeland as fuel. But it took me a while to arrive at a game that works off that concept. Eventually, I thought up this bullet heaven concept, which are games inspired by Vampire Survivors. They're rooted in power fantasy, so I figured that'd do.\nDue to time constraints, it lacks polish in some areas and severely lacks testing and balancing. It be that way in a jam sometimes ≡(▔﹏▔)≡ But I got to draw a sexy goblin girl and that makes it all okay. I wish I had time to give some story to this game though to expand on her character. And time to think of something other than \"Storm Ultravolt\". It's like I was trying to sound cool, but in a lame way.\n\nCredits:\nThe sweet tunes are by nene: https://opengameart.org/users/nene\nA few sounds sourced from Zapsplat: https://www.zapsplat.com/ \n, other SFX made with chiptone: https://sfbgames.itch.io/chiptone\n\nPost Jam Edits:\n-added fire rate upgrade\n-added pause\n-added volume widgets\n-Improved Dodge mechanic a bit\n-light polishing here and there\n-slight balance changes\nUnless somebody finds a game breaking bug, that's all I'm doing",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjY3MDcxNC8xNTkxNTQxMS5wbmc=/original/rUlYvq.png",
+          "https://img.itch.zone/aW1hZ2UvMjY3MDcxNC8xNjA5NjkzOC5wbmc=/original/HtAEqi.png",
+          "https://img.itch.zone/aW1hZ2UvMjY3MDcxNC8xNjA5NjkzOS5wbmc=/original/s0NK3Z.png",
+          "https://img.itch.zone/aW1hZ2UvMjY3MDcxNC8xNjA5Njk0MS5wbmc=/original/q%2FPorQ.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Fava Beans",
+          "Genre": "Action",
+          "Made with": "GDevelop",
+          "Tags": "2D, Female Protagonist, goblin, Pixel Art, Short",
+          "Average session": "About a half-hour",
+          "Languages": "English"
+        }
+      }
+    },
+    {
+      "gameId": 2668854,
+      "gameUrl": "https://tulenvaki.itch.io/electricity",
+      "overallRank": 5,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1OTA1MDU4LnBuZw==/300x240%23c/QlVzAw.png",
+        "id": 2668854,
+        "title": "ElectriCity",
+        "raw_score": 3.8153846153846,
+        "contributors": [
+          {
+            "name": "Tulenväki Productions",
+            "id": 5417339
+          }
+        ],
+        "score": 3.8153846153846,
+        "url": "https://itch.io/jam/gamedevjs-2024/rate/2668854",
+        "rank": 5,
+        "rating_count": 26,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.5384615384615,
+            "rank": 31,
+            "score": 3.5384615384615
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.3076923076923,
+            "rank": 1,
+            "score": 4.3076923076923
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.5384615384615,
+            "rank": 22,
+            "score": 3.5384615384615
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.0769230769231,
+            "rank": 18,
+            "score": 4.0769230769231
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.6153846153846,
+            "rank": 14,
+            "score": 3.6153846153846
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 26,
+        "coolness": 24,
+        "id": 532271,
+        "created_at": "2024-04-26 16:15:19",
+        "game": {
+          "title": "ElectriCity",
+          "short_text": "It's time for Stan to step up and fix the City’s power grid before the dusk.",
+          "user": {
+            "name": "Tulenväki Productions",
+            "url": "https://tulenvaki.itch.io",
+            "id": 5417339
+          },
+          "url": "https://tulenvaki.itch.io/electricity",
+          "cover": "https://img.itch.zone/aW1nLzE1OTA1MDU4LnBuZw==/300x240%23c/QlVzAw.png",
+          "id": 2668854,
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "cover_color": "#000000"
+        },
+        "url": "/jam/gamedevjs-2024/rate/2668854"
+      },
+      "details": {
+        "title": "ElectriCity",
+        "description": "This is our contribution to the GameDev.JS Game Jam 2024 where we came in 5th place among 238 games.Move - WASD/ Arrow keysStart/Stop working - SpaceTurn node - LMB/RMBGo to Main Menu - EnterIf the game feels laggy, reduce light and LOD levels for better results.StoryIn the heart of the bustling City, where it's pulse beats strongest, stood Stan, the seasoned city electrician.There has been a sudden power surge in the power grid that broke almost all of the lighting in the City.\nFor Stan, this was more than just a job. It was a testament to his unwavering dedication to the city he called home. Each flickering streetlamp and darkened storefront, served as a reminder of the task at hand.\nIt's time for Stan to step up and fix the City’s power grid before the dusk, so that the City might be lit in the dark again.\nTulenväki Productions © 2024\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjY2ODg1NC8xNTkwNTAyMy5wbmc=/original/Nsg1Tm.png",
+          "https://img.itch.zone/aW1hZ2UvMjY2ODg1NC8xNTkwNTAyMS5wbmc=/original/ZZo7mQ.png",
+          "https://img.itch.zone/aW1hZ2UvMjY2ODg1NC8xNTkwNTAyMi5wbmc=/original/ELeo26.png",
+          "https://img.itch.zone/aW1hZ2UvMjY2ODg1NC8xNTkwNTAyNC5wbmc=/original/0uEbdr.png",
+          "https://img.itch.zone/aW1hZ2UvMjY2ODg1NC8xNTkwNTAyNS5wbmc=/original/PlPjZN.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Author": "Tulenväki Productions",
+          "Genre": "Puzzle, Adventure",
+          "Made with": "Blender, GIMP, Adobe Photoshop, Audacity, GDevelop",
+          "Tags": "3D, Atmospheric, Casual, Indie, Low-poly, Short, Third Person, Working Simulator",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse",
+          "Links": "Homepage, Twitter/X, Twitch, YouTube"
+        }
+      }
+    },
+    {
+      "gameId": 2644252,
+      "gameUrl": "https://josepvalls.itch.io/power-saver",
+      "overallRank": 19,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE2NzAwNTE4LnBuZw==/300x240%23c/sB1cbq.png",
+        "id": 2644252,
+        "title": "Power Saver",
+        "raw_score": 3.59,
+        "contributors": [
+          {
+            "name": "Josep Valls",
+            "id": 9440905
+          },
+          {
+            "name": "ch3ckpo1nt",
+            "id": 5743935
+          }
+        ],
+        "score": 3.59,
+        "url": "https://itch.io/jam/gamedevjs-2024/rate/2644252",
+        "rank": 19,
+        "rating_count": 40,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 2.9,
+            "rank": 105,
+            "score": 2.9
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.3,
+            "rank": 2,
+            "score": 4.3
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.4,
+            "rank": 31,
+            "score": 3.4
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.975,
+            "rank": 25,
+            "score": 3.975
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.375,
+            "rank": 30,
+            "score": 3.375
+          },
+          {
+            "name": "Open Source",
+            "raw_score": 0,
+            "rank": 9,
+            "score": 0
+          }
+        ]
+      },
+      "entryData": {
+        "id": 527995,
+        "game": {
+          "title": "Power Saver",
+          "short_text": "Keep all the devices under control in this fast-paced power management game.",
+          "user": {
+            "name": "Josep Valls",
+            "url": "https://josepvalls.itch.io",
+            "id": 9440905
+          },
+          "url": "https://josepvalls.itch.io/power-saver",
+          "cover": "https://img.itch.zone/aW1nLzE2NzAwNTE4LnBuZw==/300x240%23c/sB1cbq.png",
+          "id": 2644252,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#eeeeee"
+        },
+        "rating_count": 40,
+        "coolness": 68,
+        "created_at": "2024-04-14 11:00:18",
+        "contributors": [
+          {
+            "name": "Josep Valls",
+            "url": "https://josepvalls.itch.io"
+          },
+          {
+            "name": "ch3ckpo1nt",
+            "url": "https://ch3ckpo1nt.itch.io"
+          }
+        ],
+        "field_responses": [
+          "28995:1",
+          "28995:3"
+        ],
+        "url": "/jam/gamedevjs-2024/rate/2644252"
+      },
+      "details": {
+        "title": "Power Saver",
+        "description": "Note: This game is in development. It was created for the Gamedev.js Jam 2024. \n\n\nGameplay\nYou play as the power-saver fairy, you can turn stuff on and off, and plug and unplug stuff. You can click on devices to see if they are being used or are wasting power. You can also drag cable endpoints to devices and power sockets to connect them.\nScoring\nYour goal is to keep your friend Luzy happy.\nThe game is deterministic. Pay attention to the following rules to maximize your score:\nWhen Luzy is in the room, she wants the lights on.When Luzy is not in the room, she wants the lights off.When she is using a device, you should keep it on.When she is not using a device, you should turn it off.A device that uses battery power, will only work if the battery is not empty.A device that has a battery, will charge the battery when connected to a power socket\nThe rules are checked at an interval and you score points for every rule that you are successfully satisfying. The first 10 levels are deterministic and a snapshot of your score will be displayed for bragging rights. How did you do?\nCredits\n\nMusic and SFX by checkpoint: https://ch3ckpo1nt.com/(also contributed game ideas and playtesting)Animated girl sprite by GameArt2D: https://www.gameart2d.com/cute-girl-free-sprites.htmlJelly sprite by GameArt2D: https://www.gameart2d.com/jelly-squash-free-sprites.htmlAll the object images on the table are from Kenney's Generic Items Pack: https://kenney.nl/assets/generic-itemsI make liberal use of the Antialiased Line2D add-on for Godot 3.x add-on: https://github.com/godot-extended-libraries/godot-antialiased-line2dGame Jam idea: https://itch.io/jam/gamedevjs-2024\n\nSources: https://github.com/josepvalls/godot-power-saver\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjY0NDI1Mi8xNTg0OTIyOS5wbmc=/original/i7Nafs.png",
+          "https://img.itch.zone/aW1hZ2UvMjY0NDI1Mi8xNTg0OTIzMC5wbmc=/original/MebXOn.png",
+          "https://img.itch.zone/aW1hZ2UvMjY0NDI1Mi8xNTc1NjQxOS5wbmc=/original/Z%2FHd4E.png",
+          "https://img.itch.zone/aW1hZ2UvMjY0NDI1Mi8xNTc1NjQyMC5wbmc=/original/LocMoC.png",
+          "https://img.itch.zone/aW1hZ2UvMjY0NDI1Mi8xNTg0MjQ2NS5wbmc=/original/taO2au.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "Josep Valls, ch3ckpo1nt",
+          "Genre": "Simulation",
+          "Made with": "Godot",
+          "Tags": "2D, GitHub, Godot, Management"
+        }
+      }
+    },
+    {
+      "gameId": 2669518,
+      "gameUrl": "https://featurekreep.itch.io/labor-power",
+      "overallRank": 1,
+      "topCategories": [
+        "Theme",
+        "Graphics",
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1OTE2MTgyLnBuZw==/300x240%23c/IM%2BhAG.png",
+        "id": 2669518,
+        "title": "Labor Power",
+        "raw_score": 4,
+        "contributors": [
+          {
+            "name": "FeatureKreep",
+            "id": 878997
+          }
+        ],
+        "score": 4,
+        "url": "https://itch.io/jam/gamedevjs-2024/rate/2669518",
+        "rank": 1,
+        "rating_count": 56,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.8392857142857,
+            "rank": 12,
+            "score": 3.8392857142857
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.1607142857143,
+            "rank": 3,
+            "score": 4.1607142857143
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.7321428571429,
+            "rank": 12,
+            "score": 3.7321428571429
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.4642857142857,
+            "rank": 1,
+            "score": 4.4642857142857
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.8035714285714,
+            "rank": 4,
+            "score": 3.8035714285714
+          },
+          {
+            "name": "NPC",
+            "raw_score": 0,
+            "rank": 2,
+            "score": 0
+          }
+        ]
+      },
+      "entryData": {
+        "id": 532126,
+        "rating_count": 56,
+        "coolness": 0,
+        "game": {
+          "title": "Labor Power",
+          "short_text": "A Pikmin-inspired game about class solidarity",
+          "user": {
+            "name": "FeatureKreep",
+            "url": "https://featurekreep.itch.io",
+            "id": 878997
+          },
+          "url": "https://featurekreep.itch.io/labor-power",
+          "cover": "https://img.itch.zone/aW1nLzE1OTE2MTgyLnBuZw==/300x240%23c/IM%2BhAG.png",
+          "id": 2669518,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#eeeeee"
+        },
+        "created_at": "2024-04-26 13:13:55",
+        "field_responses": [
+          "28995:3"
+        ],
+        "url": "/jam/gamedevjs-2024/rate/2669518"
+      },
+      "details": {
+        "title": "Labor Power",
+        "description": "✊✊✊ POWER IN NUMBERS ✊✊✊\nGrindstone, Inc. is an awful place to work at. But you can't organize a strike all on your own. You will need the help of your NPC coworkers — even if you have to physically pull them away from their screens.\nLabor Power is a small Pikmin-inspired game dedicated to class solidarity and the betterment of working conditions. Labor Power took first place at Gamedev.js Jam 2024 (theme: Power)\nControls\nWASD/Arrow keys — movementSpace — actionLeft-click — attackR — reload\nCredits\nArt & coding: @FeatureKreepMusic: Groovy Ambient Funk by moodmode\nWant to support me? You can donate to my ko-fi ☕ or to my Patreon\nDo you want to cover my game? Drop me a line at featurekreepgames@gmail.com\n\n\n\n\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjY2OTUxOC8xNTkxNjIyMC5wbmc=/original/dkVSPa.png",
+          "https://img.itch.zone/aW1hZ2UvMjY2OTUxOC8xNTkxNjIyMS5wbmc=/original/YMfkiO.png",
+          "https://img.itch.zone/aW1hZ2UvMjY2OTUxOC8xNTkxNjIyMi5wbmc=/original/0UlHIU.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.4 out of 5 stars(323 total ratings)",
+          "Author": "FeatureKreep",
+          "Genre": "Puzzle",
+          "Made with": "Construct",
+          "Tags": "Casual, Cozy, Cute, Pixel Art, Retro, Top-Down",
+          "Links": "Twitter/X, Bluesky, Patreon"
+        }
+      }
+    },
+    {
+      "gameId": 2657870,
+      "gameUrl": "https://worranhin.itch.io/power-is-needed",
+      "overallRank": 39,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1ODM3ODI3LnBuZw==/300x240%23c/27KGKW.png",
+        "id": 2657870,
+        "title": "Power Is Needed",
+        "raw_score": 3.3555555555556,
+        "contributors": [
+          {
+            "name": "worranhin",
+            "id": 6635430
+          }
+        ],
+        "score": 3.3555555555556,
+        "url": "https://itch.io/jam/gamedevjs-2024/rate/2657870",
+        "rank": 39,
+        "rating_count": 27,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.2222222222222,
+            "rank": 67,
+            "score": 3.2222222222222
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.1111111111111,
+            "rank": 4,
+            "score": 4.1111111111111
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.3703703703704,
+            "rank": 35,
+            "score": 3.3703703703704
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 2.7407407407407,
+            "rank": 148,
+            "score": 2.7407407407407
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.3333333333333,
+            "rank": 36,
+            "score": 3.3333333333333
+          }
+        ]
+      },
+      "entryData": {
+        "id": 531524,
+        "rating_count": 27,
+        "coolness": 13,
+        "game": {
+          "title": "Power Is Needed",
+          "short_text": "Build power station and serve cities. Don't let them down!",
+          "user": {
+            "name": "worranhin",
+            "url": "https://worranhin.itch.io",
+            "id": 6635430
+          },
+          "url": "https://worranhin.itch.io/power-is-needed",
+          "cover": "https://img.itch.zone/aW1nLzE1ODM3ODI3LnBuZw==/300x240%23c/27KGKW.png",
+          "id": 2657870,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#3914AF"
+        },
+        "created_at": "2024-04-24 13:47:48",
+        "field_responses": [
+          "28995:1",
+          "28995:2"
+        ],
+        "url": "/jam/gamedevjs-2024/rate/2657870"
+      },
+      "details": {
+        "title": "Power Is Needed",
+        "description": "This is a game for the Gamedev.js Jam 2024. It uses Phaser as framework and is open sourced under MIT lisence on github.\nIn this game, you are able to manage an area's power grid. As cities need power, your task is to fulfill their need by building power stations. Try to hold on for as long as you can.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjY1Nzg3MC8xNTg5MTg1Ny5wbmc=/original/b1LIaC.png",
+          "https://img.itch.zone/aW1hZ2UvMjY1Nzg3MC8xNTg5MTg5MS5wbmc=/original/m4tuaH.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Author": "worranhin",
+          "Genre": "Simulation, Strategy",
+          "Tags": "2D, Indie, Management, phaser3, Singleplayer",
+          "Average session": "A few seconds",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 2663022,
+      "gameUrl": "https://naardev.itch.io/out-of-power",
+      "overallRank": 28,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1OTA3NzMwLnBuZw==/300x240%23c/0fKm1z.png",
+        "id": 2663022,
+        "title": "Out Of Power",
+        "raw_score": 3.4903225806452,
+        "contributors": [
+          {
+            "name": "NaarDev",
+            "id": 8555118
+          }
+        ],
+        "score": 3.4903225806452,
+        "url": "https://itch.io/jam/gamedevjs-2024/rate/2663022",
+        "rank": 28,
+        "rating_count": 31,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.2903225806452,
+            "rank": 61,
+            "score": 3.2903225806452
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.0967741935484,
+            "rank": 5,
+            "score": 4.0967741935484
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.3548387096774,
+            "rank": 37,
+            "score": 3.3548387096774
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.9032258064516,
+            "rank": 29,
+            "score": 3.9032258064516
+          },
+          {
+            "name": "Audio",
+            "raw_score": 2.8064516129032,
+            "rank": 109,
+            "score": 2.8064516129032
+          }
+        ]
+      },
+      "entryData": {
+        "id": 531062,
+        "rating_count": 31,
+        "coolness": 11,
+        "game": {
+          "title": "Out Of Power",
+          "short_text": "You try to complete a game on your console. But the power keeps shutting off, so it's up to you to find ways to fix it",
+          "user": {
+            "name": "NaarDev",
+            "url": "https://naardev.itch.io",
+            "id": 8555118
+          },
+          "url": "https://naardev.itch.io/out-of-power",
+          "cover": "https://img.itch.zone/aW1nLzE1OTA3NzMwLnBuZw==/300x240%23c/0fKm1z.png",
+          "id": 2663022,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#36294b"
+        },
+        "created_at": "2024-04-22 17:42:13",
+        "field_responses": [
+          "28995:1"
+        ],
+        "url": "/jam/gamedevjs-2024/rate/2663022"
+      },
+      "details": {
+        "title": "Out Of Power",
+        "description": "You play as an inocent kid playing a \"retro\" game on his TV, but the power keeps shutting off, so it's up to you to explore the house and find ways to turn on the power and continue playing your game. \nTry to reach the score of 12 :)\nGood Luck!Developed by NaarDev in the Unity game engine as an entry to the Gamedev.js Jam 2024.All assets except sound effects were made by me.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjY2MzAyMi8xNTkwNzgwOC5wbmc=/original/f9IbFZ.png",
+          "https://img.itch.zone/aW1hZ2UvMjY2MzAyMi8xNTkwNzgwMi5wbmc=/original/HuXpEU.png",
+          "https://img.itch.zone/aW1hZ2UvMjY2MzAyMi8xNTkwNzgwNC5wbmc=/original/wTaQ4y.png",
+          "https://img.itch.zone/aW1hZ2UvMjY2MzAyMi8xNTkwNzgwMC5wbmc=/original/zWbl0r.png",
+          "https://img.itch.zone/aW1hZ2UvMjY2MzAyMi8xNTkwNzgxMS5wbmc=/original/7ubsvy.png",
+          "https://img.itch.zone/aW1hZ2UvMjY2MzAyMi8xNTkwNzgxNi5wbmc=/original/jn2MDK.png",
+          "https://img.itch.zone/aW1hZ2UvMjY2MzAyMi8xNTkwNzgxOC5wbmc=/original/ehjtIo.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Author": "NaarDev",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "2D, Arcade, Casual, Cute, Indie, Pixel Art, Short, Top-Down, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 2670376,
+      "gameUrl": "https://zafzal.itch.io/power-lifting",
+      "overallRank": 11,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1OTEzNjQzLnBuZw==/300x240%23c/IHzLTy.png",
+        "id": 2670376,
+        "title": "Power Lifting",
+        "raw_score": 3.6961538461538,
+        "contributors": [
+          {
+            "name": "Zafzal",
+            "id": 8436993
+          },
+          {
+            "name": "hidey-hermit",
+            "id": 4905595
+          },
+          {
+            "name": "ItsRaijin",
+            "id": 2155448
+          },
+          {
+            "name": "jkimmyboi",
+            "id": 8743370
+          },
+          {
+            "name": "fairlylit",
+            "id": 3522315
+          }
+        ],
+        "score": 3.6961538461538,
+        "url": "https://itch.io/jam/gamedevjs-2024/rate/2670376",
+        "rank": 11,
+        "rating_count": 52,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.4807692307692,
+            "rank": 36,
+            "score": 3.4807692307692
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.0769230769231,
+            "rank": 6,
+            "score": 4.0769230769231
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.4423076923077,
+            "rank": 28,
+            "score": 3.4423076923077
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.1923076923077,
+            "rank": 12,
+            "score": 4.1923076923077
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.2884615384615,
+            "rank": 45,
+            "score": 3.2884615384615
+          },
+          {
+            "name": "Open Source",
+            "raw_score": 0,
+            "rank": 6,
+            "score": 0
+          }
+        ]
+      },
+      "entryData": {
+        "id": 532128,
+        "game": {
+          "title": "Power Lifting",
+          "short_text": "Pump weights. Win prizes. Defeat your rivals. But what is it all for?",
+          "user": {
+            "name": "Zafzal",
+            "url": "https://zafzal.itch.io",
+            "id": 8436993
+          },
+          "url": "https://zafzal.itch.io/power-lifting",
+          "cover": "https://img.itch.zone/aW1nLzE1OTEzNjQzLnBuZw==/300x240%23c/IHzLTy.png",
+          "id": 2670376,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#eeeeee"
+        },
+        "rating_count": 52,
+        "coolness": 29,
+        "created_at": "2024-04-26 13:28:50",
+        "contributors": [
+          {
+            "name": "Zafzal",
+            "url": "https://zafzal.itch.io"
+          },
+          {
+            "name": "hidey-hermit",
+            "url": "https://hidey-hermit.itch.io"
+          },
+          {
+            "name": "ItsRaijin",
+            "url": "https://itsraijin.itch.io"
+          },
+          {
+            "name": "jkimmyboi",
+            "url": "https://jkimmyboi.itch.io"
+          },
+          {
+            "name": "fairlylit",
+            "url": "https://fairlylit.itch.io"
+          }
+        ],
+        "field_responses": [
+          "28995:1"
+        ],
+        "url": "/jam/gamedevjs-2024/rate/2670376"
+      },
+      "details": {
+        "title": "Power Lifting",
+        "description": "Play as a Pedro the raccoon on his quest for gains... \n\n\nWill you crush your opponent or will the weights crush you?\n\nFollow the instructions for each minigame. Watch out - they only get faster!\n\n\n\n\nmade for gamedev.js jam 2024 (13 days) for theme 'Power'. \nCredits\nProgrammers \nZain (zafzal)\nJoseph (jkimmyboi)\nHabib ( ItsRaijin)\nArtists\nIris (fairlylit)\nHeidi (hidey-hermit)\nMusic\nWes",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjY3MDM3Ni8xNTkxMzg5OS5wbmc=/original/rurQrw.png",
+          "https://img.itch.zone/aW1hZ2UvMjY3MDM3Ni8xNTkxMzkwNy5wbmc=/original/UPJFmX.png",
+          "https://img.itch.zone/aW1hZ2UvMjY3MDM3Ni8xNTkxNDA3OC5wbmc=/original/hbnXOo.png",
+          "https://img.itch.zone/aW1hZ2UvMjY3MDM3Ni8xNTkxNDA4OC5wbmc=/original/ds%2Fv1N.png",
+          "https://img.itch.zone/aW1hZ2UvMjY3MDM3Ni8xNTkxMzkwOS5wbmc=/original/HaxiFd.png",
+          "https://img.itch.zone/aW1hZ2UvMjY3MDM3Ni8xNTkxNDA1OC5wbmc=/original/fb8Prp.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Authors": "Zafzal, hidey-hermit, ItsRaijin, jkimmyboi, fairlylit"
+        }
+      }
+    },
+    {
+      "gameId": 2654213,
+      "gameUrl": "https://signalshift.itch.io/robo-recharge",
+      "overallRank": 16,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1OTEwNjIzLnBuZw==/300x240%23c/sPiTzT.png",
+        "id": 2654213,
+        "title": "Robo Recharge",
+        "raw_score": 3.7809523809524,
+        "contributors": [
+          {
+            "name": "SignalShift",
+            "id": 10282494
+          }
+        ],
+        "score": 3.6527470274522,
+        "url": "https://itch.io/jam/gamedevjs-2024/rate/2654213",
+        "rank": 16,
+        "rating_count": 21,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.7142857142857,
+            "rank": 27,
+            "score": 3.5883409085802
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.1904761904762,
+            "rank": 7,
+            "score": 4.0483846148085
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.6190476190476,
+            "rank": 25,
+            "score": 3.4963321673346
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.952380952381,
+            "rank": 36,
+            "score": 3.8183627616944
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.4285714285714,
+            "rank": 39,
+            "score": 3.3123146848433
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 21,
+        "coolness": 11,
+        "id": 531931,
+        "created_at": "2024-04-25 23:28:39",
+        "game": {
+          "title": "Robo Recharge",
+          "short_text": "Don't run out of power!",
+          "user": {
+            "name": "SignalShift",
+            "url": "https://signalshift.itch.io",
+            "id": 10282494
+          },
+          "url": "https://signalshift.itch.io/robo-recharge",
+          "cover": "https://img.itch.zone/aW1nLzE1OTEwNjIzLnBuZw==/300x240%23c/sPiTzT.png",
+          "id": 2654213,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#2b213b"
+        },
+        "url": "/jam/gamedevjs-2024/rate/2654213"
+      },
+      "details": {
+        "title": "Robo Recharge",
+        "description": "An entry into the Gamedev.js Jam 2024.\nFight off the enemies as long as you can. When you run low on power, eject from your mech to collect batteries and throw them into your mech to power it up. See how long you can survive!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjY1NDIxMy8xNTkxMDI5My5wbmc=/original/90vMRw.png",
+          "https://img.itch.zone/aW1hZ2UvMjY1NDIxMy8xNTkxMDI5MS5wbmc=/original/uwwzFw.png",
+          "https://img.itch.zone/aW1hZ2UvMjY1NDIxMy8xNTkxMDI5Mi5wbmc=/original/qt8OnW.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Author": "SignalShift",
+          "Genre": "Action",
+          "Made with": "Godot",
+          "Tags": "Shoot 'Em Up, Twin Stick Shooter, upgrades",
+          "Average session": "A few minutes",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 2663618,
+      "gameUrl": "https://xemstudio.itch.io/the-power-of-two",
+      "overallRank": 36,
+      "topCategories": [
+        "Theme",
+        "Innovation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1ODc4MzU5LnBuZw==/300x240%23c/yJ02gx.png",
+        "id": 2663618,
+        "title": "The Power Of Two",
+        "raw_score": 3.3857142857143,
+        "contributors": [
+          {
+            "name": "xem",
+            "id": 554061
+          }
+        ],
+        "score": 3.3857142857143,
+        "url": "https://itch.io/jam/gamedevjs-2024/rate/2663618",
+        "rank": 36,
+        "rating_count": 56,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.5892857142857,
+            "rank": 26,
+            "score": 3.5892857142857
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.0178571428571,
+            "rank": 9,
+            "score": 4.0178571428571
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 4.0178571428571,
+            "rank": 3,
+            "score": 4.0178571428571
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 2.9642857142857,
+            "rank": 125,
+            "score": 2.9642857142857
+          },
+          {
+            "name": "Audio",
+            "raw_score": 2.3392857142857,
+            "rank": 165,
+            "score": 2.3392857142857
+          },
+          {
+            "name": "js13kGames",
+            "raw_score": 0,
+            "rank": 1,
+            "score": 0
+          }
+        ]
+      },
+      "entryData": {
+        "id": 531558,
+        "rating_count": 56,
+        "coolness": 209,
+        "game": {
+          "short_text": "Do maths, but only with two (GamedevJS 2024 entry)",
+          "user": {
+            "name": "xem",
+            "url": "https://xemstudio.itch.io",
+            "id": 554061
+          },
+          "url": "https://xemstudio.itch.io/the-power-of-two",
+          "id": 2663618,
+          "cover": "https://img.itch.zone/aW1nLzE1ODc4MzU5LnBuZw==/300x240%23c/yJ02gx.png",
+          "platforms": [
+            "web"
+          ],
+          "title": "The Power Of Two"
+        },
+        "created_at": "2024-04-24 16:53:25",
+        "field_responses": [
+          "28995:1",
+          "28995:3",
+          "28995:4"
+        ],
+        "url": "/jam/gamedevjs-2024/rate/2663618"
+      },
+      "details": {
+        "title": "The Power Of Two",
+        "description": "[Click on the top right corner icon to enable music]\n\n\nA math game by xem for GamedevJS 2024\n\nAbout the theme:\nThe theme was POWER. It made me think about \"powers of two\", often used in computer science. Then I decided to do a Math game where two is the only number available. And after some levels, the calculator even gets a real \"power\" button!\n\nLevels:\nNo less than 1017 levels to complete!\nA high score system allows you to share how far you got on X / Twitter.\n\nChallenges:\n- Github: https://github.com/xem/gamedevjs2024/\n- NPC: a special someone will play with you after level 15\n- JS13kGames: zipped game is less than 5kb unminified (+ 5.3kb for the title font)\nCross-reference:\nShout out to \"Powered by HI\" by Korhosik: https://adrien-gueret.itch.io/powered-by-hi",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE1ODc4MzU5LnBuZw==/original/Qaqho0.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "xem",
+          "Genre": "Puzzle",
+          "Tags": "Math"
+        }
+      }
+    },
+    {
+      "gameId": 2667351,
+      "gameUrl": "https://mechanical-duck.itch.io/spikes-inc",
+      "overallRank": 15,
+      "topCategories": [
+        "Innovation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1ODk2NTgyLnBuZw==/300x240%23c/CjithX.png",
+        "id": 2667351,
+        "title": "Spikes Inc.",
+        "raw_score": 3.656,
+        "contributors": [
+          {
+            "name": "Mechanical Duck",
+            "id": 9978795
+          }
+        ],
+        "score": 3.656,
+        "url": "https://itch.io/jam/gamedevjs-2024/rate/2667351",
+        "rank": 15,
+        "rating_count": 25,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.76,
+            "rank": 17,
+            "score": 3.76
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.72,
+            "rank": 17,
+            "score": 3.72
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 4.12,
+            "rank": 1,
+            "score": 4.12
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.32,
+            "rank": 84,
+            "score": 3.32
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.36,
+            "rank": 33,
+            "score": 3.36
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 25,
+        "coolness": 23,
+        "id": 531658,
+        "created_at": "2024-04-25 01:59:50",
+        "game": {
+          "title": "Spikes Inc.",
+          "short_text": "Make, Memorize, and Maneuver your way through self-designed platformer rooms",
+          "user": {
+            "name": "Mechanical Duck",
+            "url": "https://mechanical-duck.itch.io",
+            "id": 9978795
+          },
+          "url": "https://mechanical-duck.itch.io/spikes-inc",
+          "cover": "https://img.itch.zone/aW1nLzE1ODk2NTgyLnBuZw==/300x240%23c/CjithX.png",
+          "id": 2667351,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#9a9a9a"
+        },
+        "url": "/jam/gamedevjs-2024/rate/2667351"
+      },
+      "details": {
+        "title": "Spikes Inc.",
+        "description": "Note: You may have to turn up your brightness to better see the level\nControls:\nleft/right:  a/d  OR  arrow keys\nJump:  w  OR  up arrow  OR  space bar  (Press again to double jump)\nDash:  shift  OR  z  (Invincible while dashing)\n\n\nThis was my very first game jam and I had a lot of fun. I hope you enjoy it!\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjY2NzM1MS8xNTg5OTc3Mi5wbmc=/original/YhnniR.png",
+          "https://img.itch.zone/aW1hZ2UvMjY2NzM1MS8xNTg5OTc3MC5wbmc=/original/HuP34i.png",
+          "https://img.itch.zone/aW1hZ2UvMjY2NzM1MS8xNTg5OTc3MS5wbmc=/original/%2FJxGsH.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Mechanical Duck",
+          "Genre": "Platformer, Adventure",
+          "Made with": "Godot",
+          "Tags": "build, mapmemorization, Pixel Art"
+        }
+      }
+    },
+    {
+      "gameId": 2670844,
+      "gameUrl": "https://cobrajs.itch.io/flyer-power",
+      "overallRank": 33,
+      "topCategories": [
+        "Innovation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1OTE2OTkyLnBuZw==/300x240%23c/JU7lO4.png",
+        "id": 2670844,
+        "title": "Flyer Power",
+        "raw_score": 3.4277777777778,
+        "contributors": [
+          {
+            "name": "cobrajs",
+            "id": 3353416
+          }
+        ],
+        "score": 3.4277777777778,
+        "url": "https://itch.io/jam/gamedevjs-2024/rate/2670844",
+        "rank": 33,
+        "rating_count": 36,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.5555555555556,
+            "rank": 29,
+            "score": 3.5555555555556
+          },
+          {
+            "name": "Theme",
+            "raw_score": 2.7777777777778,
+            "rank": 110,
+            "score": 2.7777777777778
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 4.0833333333333,
+            "rank": 2,
+            "score": 4.0833333333333
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.5277777777778,
+            "rank": 58,
+            "score": 3.5277777777778
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.1944444444444,
+            "rank": 54,
+            "score": 3.1944444444444
+          }
+        ]
+      },
+      "entryData": {
+        "id": 532187,
+        "rating_count": 36,
+        "coolness": 43,
+        "game": {
+          "title": "Flyer Power",
+          "short_text": "Create flyers to engage the public",
+          "user": {
+            "name": "cobrajs",
+            "url": "https://cobrajs.itch.io",
+            "id": 3353416
+          },
+          "url": "https://cobrajs.itch.io/flyer-power",
+          "cover": "https://img.itch.zone/aW1nLzE1OTE2OTkyLnBuZw==/300x240%23c/JU7lO4.png",
+          "id": 2670844,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#ffffff"
+        },
+        "created_at": "2024-04-26 14:44:47",
+        "field_responses": [
+          "28995:1",
+          "28995:2"
+        ],
+        "url": "/jam/gamedevjs-2024/rate/2670844"
+      },
+      "details": {
+        "title": "Flyer Power",
+        "description": "Flyer Power! Influence the public with the power of flyers. Design flyers for the community based on the area the flyer will be in, and deploy them for maximum success!\nThere is help available in game through the ? in the corner of most screens. To get started, wait for the phone to ring, then click to pick it up. Click on the text that pops up to save it to a draft flyer, then click the empty flyer on the desk to edit it.\nOn the edit screen you can drag notes from the flyer request as well as a variety of stickers onto the flyer. The arrangement of the layout is up to you, though paying attention to the region name will give a small hint as to the best layout. Experimentation is the key, as the attributes of the four regions remain consistent between plays.\nOnce your flyer is ready to go, click on the right facing arrow to deploy it to the streets!If you want to save it and go back to the office for some reason, you can hit the save icon (the floppy disk). You can also use the bomb to completely clear the flyer.On the street view screen you will deploy your flyer. Move the flyer up and down the pole do determine the best placement, depending on the region. Click the back button to go back to the design screen.Once you have it in the right place, click the check mark to have people start walking past and engaging with it. If your engagement gauge fills all the way, then your flyer was successful!All art, sound, and music created by me.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjY3MDg0NC8xNTkxNjk5Ny5wbmc=/original/efWFUa.png",
+          "https://img.itch.zone/aW1hZ2UvMjY3MDg0NC8xNTkxNjk5OS5wbmc=/original/tghng8.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Author": "cobrajs",
+          "Genre": "Simulation"
+        }
+      }
+    },
+    {
+      "gameId": 2644532,
+      "gameUrl": "https://stiggstogg.itch.io/power",
+      "overallRank": 12,
+      "topCategories": [
+        "Innovation",
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1OTA3NzQyLnBuZw==/300x240%23c/PC1qHp.png",
+        "id": 2644532,
+        "title": "Power-Up Adventure",
+        "raw_score": 3.6947368421053,
+        "contributors": [
+          {
+            "name": "Stiggstogg",
+            "id": 2307064
+          }
+        ],
+        "score": 3.6947368421053,
+        "url": "https://itch.io/jam/gamedevjs-2024/rate/2644532",
+        "rank": 12,
+        "rating_count": 38,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.7105263157895,
+            "rank": 21,
+            "score": 3.7105263157895
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.6315789473684,
+            "rank": 26,
+            "score": 3.6315789473684
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.9736842105263,
+            "rank": 4,
+            "score": 3.9736842105263
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.5,
+            "rank": 60,
+            "score": 3.5
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.6578947368421,
+            "rank": 10,
+            "score": 3.6578947368421
+          },
+          {
+            "name": "Open Source",
+            "raw_score": 0,
+            "rank": 7,
+            "score": 0
+          },
+          {
+            "name": "Build it with Phaser",
+            "raw_score": 0,
+            "rank": 3,
+            "score": 0
+          }
+        ]
+      },
+      "entryData": {
+        "id": 531897,
+        "rating_count": 38,
+        "coolness": 56,
+        "game": {
+          "title": "Power-Up Adventure",
+          "short_text": "A jump 'n' run game where you need to provide power-ups to the player to help them through the level.",
+          "user": {
+            "name": "Stiggstogg",
+            "url": "https://stiggstogg.itch.io",
+            "id": 2307064
+          },
+          "url": "https://stiggstogg.itch.io/power",
+          "cover": "https://img.itch.zone/aW1nLzE1OTA3NzQyLnBuZw==/300x240%23c/PC1qHp.png",
+          "id": 2644532,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#000000"
+        },
+        "created_at": "2024-04-25 20:52:55",
+        "field_responses": [
+          "28995:1",
+          "28995:2",
+          "28995:3"
+        ],
+        "url": "/jam/gamedevjs-2024/rate/2644532"
+      },
+      "details": {
+        "title": "Power-Up Adventure",
+        "description": "In this jump 'n' run game you play the crucial role of POWER-UP provider rather than the player. Your mission is straightforward yet electrifying: Supply the player with essential power-ups like the ROCKET and SPEED to aid their progression through each level. Timing is key in this game!\nCan you play the perfect game? (0 Deaths)\nMy submission to Gamedev.js Jam 2024!Challenges I participated for this jam:\nOpen Source Challenge by GitHub: Code is available on GitHub.Build it with Phaser Challenge by Phaser Studio: Phaser framework was used to create this game.\nControls\nMouseTouchKeyboard:\nW / Up Arrow: Spawn rocket power-upS / Down Arrow: Spawn speed power-upEnter / Space: StartUse the same keys to navigate in the title screen\nHow to Play\nThe player runs blindly through the levels full of dangers. You fly in front of them and need to supply power-ups at the perfect time to get the player save through all the 10 levels. The number of power-ups are limited per level. Use them wisely!\nSpawn power-ups using the buttons on the left or W / Up Arrow (Rocket) and S / Down Arrow (Speed) key. \nChallenge\n\n\nCan you play the perfect game? (0 Deaths)\nCredits and Tools\nSpecial thanks to my support and inspiration at home!Thanks to my play testers.GitHub PageFramework: Phaser 3\nCode: Home made typescript spaghetti code using WebStormBundler: vite.js\nGraphics: 1-Bit Platformer Pack (with some edits from me using Aseprite) from Kenneys Game Assets All-in-1 bundle\nMusic: All by myself using Reaper, Focusrite Scarlett 2i2 interface, AmpliTube 5 plugin, a Gibson SG Special, a ALESIS Q49 midi keyboard, Decent Sampler plugin, mRhodes samples, Pocket Operators PO-32 tonic and PO-14 sub.Sound effects: My vacuum cleaner (rocket sound) and various sounds from Kenneys Game Assets All-in-1 bundle\nFont: Minogram 6x10 from frostyfreeze",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjY0NDUzMi8xNTkwOTUzMS5wbmc=/original/ZHB9fk.png",
+          "https://img.itch.zone/aW1hZ2UvMjY0NDUzMi8xNTkwOTU3MS5wbmc=/original/IvVQxQ.png",
+          "https://img.itch.zone/aW1hZ2UvMjY0NDUzMi8xNTkwOTQ1NS5wbmc=/original/NJBKlx.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Stiggstogg",
+          "Genre": "Platformer",
+          "Tags": "2D, Game Jam, jumpnrun, Pixel Art, power"
+        }
+      }
+    },
+    {
+      "gameId": 2669027,
+      "gameUrl": "https://mrlopis.itch.io/synaptic-harmonics",
+      "overallRank": 55,
+      "topCategories": [
+        "Innovation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1OTA2MTE1LnBuZw==/300x240%23c/QdfVgD.png",
+        "id": 2669027,
+        "title": "Synaptic Harmonics",
+        "raw_score": 3.216,
+        "contributors": [
+          {
+            "name": "Lopis",
+            "id": 6810373
+          }
+        ],
+        "score": 3.216,
+        "url": "https://itch.io/jam/gamedevjs-2024/rate/2669027",
+        "rank": 55,
+        "rating_count": 25,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.36,
+            "rank": 50,
+            "score": 3.36
+          },
+          {
+            "name": "Theme",
+            "raw_score": 2.76,
+            "rank": 115,
+            "score": 2.76
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.88,
+            "rank": 6,
+            "score": 3.88
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.28,
+            "rank": 88,
+            "score": 3.28
+          },
+          {
+            "name": "Audio",
+            "raw_score": 2.8,
+            "rank": 111,
+            "score": 2.8
+          },
+          {
+            "name": "js13kGames",
+            "raw_score": 0,
+            "rank": 4,
+            "score": 0
+          }
+        ]
+      },
+      "entryData": {
+        "id": 531798,
+        "rating_count": 25,
+        "coolness": 15,
+        "game": {
+          "title": "Synaptic Harmonics",
+          "short_text": "A meat-based energy cell optimizer where you solve visual puzzles.",
+          "user": {
+            "name": "Lopis",
+            "url": "https://mrlopis.itch.io",
+            "id": 6810373
+          },
+          "url": "https://mrlopis.itch.io/synaptic-harmonics",
+          "cover": "https://img.itch.zone/aW1nLzE1OTA2MTE1LnBuZw==/300x240%23c/QdfVgD.png",
+          "id": 2669027,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#050031"
+        },
+        "created_at": "2024-04-25 16:57:32",
+        "field_responses": [
+          "28995:1",
+          "28995:4"
+        ],
+        "url": "/jam/gamedevjs-2024/rate/2669027"
+      },
+      "details": {
+        "title": "Synaptic Harmonics",
+        "description": "In Synaptic Harmonics, an undisclosed entity is accessing your prowess in solving visual tasks with the goal of optimizing harmony and order. These puzzles are actually a low fidelity representation of higher order devices that this entity needs you to improve for optimal energy output.\nUse the provided controls to manipulate the puzzle an achieve maximum power output. Good luck. Works both on dekstop and mobile (mouse or touch).\nThis game is an entry for GameDev.js 2024, as well as an entry for the js13k challenge.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjY2OTAyNy8xNTkwNjExOS5wbmc=/original/B27GMj.png",
+          "https://img.itch.zone/aW1hZ2UvMjY2OTAyNy8xNTkwNjE1OS5wbmc=/original/cNu7o0.png",
+          "https://img.itch.zone/aW1hZ2UvMjY2OTAyNy8xNTkwNjE2MS5wbmc=/original/tBvS4p.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Release date": "Apr 25, 2024",
+          "Author": "Lopis",
+          "Genre": "Puzzle",
+          "Tags": "13k, Music",
+          "Code license": "GNU General Public License v3.0 (GPL)",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Mouse, Touchscreen",
+          "Accessibility": "Color-blind friendly",
+          "Links": "Source code, Zip for js13k challenge"
+        }
+      }
+    },
+    {
+      "gameId": 2652740,
+      "gameUrl": "https://madmarcel.itch.io/powertools",
+      "overallRank": 7,
+      "topCategories": [
+        "Innovation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1ODQ4NDgxLnBuZw==/300x240%23c/NQyp0t.png",
+        "id": 2652740,
+        "title": "Powertoys",
+        "raw_score": 3.7566666666667,
+        "contributors": [
+          {
+            "name": "madmarcel",
+            "id": 41885
+          }
+        ],
+        "score": 3.7566666666667,
+        "url": "https://itch.io/jam/gamedevjs-2024/rate/2652740",
+        "rank": 7,
+        "rating_count": 60,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.6,
+            "rank": 24,
+            "score": 3.6
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.6,
+            "rank": 29,
+            "score": 3.6
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.8,
+            "rank": 8,
+            "score": 3.8
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.2,
+            "rank": 11,
+            "score": 4.2
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.5833333333333,
+            "rank": 15,
+            "score": 3.5833333333333
+          },
+          {
+            "name": "Build it with Phaser",
+            "raw_score": 0,
+            "rank": 6,
+            "score": 0
+          }
+        ]
+      },
+      "entryData": {
+        "id": 529938,
+        "rating_count": 60,
+        "coolness": 87,
+        "game": {
+          "title": "Powertoys",
+          "user": {
+            "name": "madmarcel",
+            "url": "https://madmarcel.itch.io",
+            "id": 41885
+          },
+          "url": "https://madmarcel.itch.io/powertools",
+          "cover": "https://img.itch.zone/aW1nLzE1ODQ4NDgxLnBuZw==/300x240%23c/NQyp0t.png",
+          "id": 2652740,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#3c5e8b"
+        },
+        "created_at": "2024-04-21 05:16:48",
+        "field_responses": [
+          "28995:2"
+        ],
+        "url": "/jam/gamedevjs-2024/rate/2652740"
+      },
+      "details": {
+        "title": "Powertoys",
+        "description": "My entry for gamedev.js gamejam 2024The theme was POWER\nThere are 6 levels. You should be able to complete all of them.\n(There is a bug where the game will sometimes select the wrong level on completion)\n\nCredits:\nCode & art: Marcel\nPlaytesters:\nSulee, Henk, Saskia, Aleksander, Phoebe, Gerwin\n\n(Window) Photo by Jean Carlo Emer on Unsplash\nPlates, bowls and cups: https://opengameart.org/content/saucy-trucks\nMade using Phaser.js, Matter.js, Inkscape and PhysicsEditor\n\nMusic credits:\nSlingshot - Mr Smith - https://freemusicarchive.org/music/mr-smith/a-new-roar/slingshot/\nRocket Adventure - Serge Quadrado -  https://freemusicarchive.org/music/serge-quadrado/intelligent-funk/rocket-advent...\nCountry Rock and Roll - Audio Coffee - https://soundcloud.com/myaudiocoffee/country-rock-and-roll\nUpbeat Indie Rock - Audio Coffee - https://soundcloud.com/myaudiocoffee/upbeat-indie-rock\nFunky Suspense - Benjamin Tissot - https://www.bensound.com/royalty-free-music/track/funky-suspense - Bensound.com - License code: JSEDMOJ1L3GJTHCA\n\nSFX:Breaking a Vase (remix) by zerolagtime -- https://freesound.org/s/214336/ -- License: Creative Commons 0\ncat meow by tuberatanka -- https://freesound.org/s/110011/ -- License: Creative Commons 0\nCat eating kibble by Laura_arboricola -- https://freesound.org/s/725568/ -- License: Attribution 4.0\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE1ODQ4NDgxLnBuZw==/original/tubDhF.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Author": "madmarcel",
+          "Genre": "Puzzle",
+          "Made with": "Inkscape, Phaser",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Mouse, Touchscreen, Smartphone"
+        }
+      }
+    },
+    {
+      "gameId": 2668582,
+      "gameUrl": "https://m0hm0h.itch.io/realm-escape",
+      "overallRank": 23,
+      "topCategories": [
+        "Innovation",
+        "Graphics"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1OTcxODUzLnBuZw==/300x240%23c/RH3PrO.png",
+        "id": 2668582,
+        "title": "Realm Escape",
+        "raw_score": 3.544,
+        "contributors": [
+          {
+            "name": "MOHMOH",
+            "id": 6165905
+          }
+        ],
+        "score": 3.544,
+        "url": "https://itch.io/jam/gamedevjs-2024/rate/2668582",
+        "rank": 23,
+        "rating_count": 25,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.68,
+            "rank": 23,
+            "score": 3.68
+          },
+          {
+            "name": "Theme",
+            "raw_score": 2.92,
+            "rank": 84,
+            "score": 2.92
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.76,
+            "rank": 9,
+            "score": 3.76
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.24,
+            "rank": 9,
+            "score": 4.24
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.12,
+            "rank": 67,
+            "score": 3.12
+          },
+          {
+            "name": "NPC",
+            "raw_score": 0,
+            "rank": 6,
+            "score": 0
+          }
+        ]
+      },
+      "entryData": {
+        "id": 531900,
+        "rating_count": 25,
+        "coolness": 31,
+        "game": {
+          "title": "Realm Escape",
+          "short_text": "Realm Escape is a captivating puzzle game created using the Gdevelop engine",
+          "user": {
+            "name": "MOHMOH",
+            "url": "https://m0hm0h.itch.io",
+            "id": 6165905
+          },
+          "url": "https://m0hm0h.itch.io/realm-escape",
+          "cover": "https://img.itch.zone/aW1nLzE1OTcxODUzLnBuZw==/300x240%23c/RH3PrO.png",
+          "id": 2668582,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#1b1b1b"
+        },
+        "created_at": "2024-04-25 21:04:14",
+        "field_responses": [
+          "28995:1",
+          "28995:3"
+        ],
+        "url": "/jam/gamedevjs-2024/rate/2668582"
+      },
+      "details": {
+        "title": "Realm Escape",
+        "description": "\n       \nRealm Escape is a captivating puzzle game created using the Gdevelop engine for the Gamedvjs 2024 Jam. Traverse through dream realms, solving puzzles and outsmarting challenges to find your way out. Choose your moves wisely and explore diverse solutions to escape each realm's grasp.\n\nIn the Realm Escape, you wield powers through unique cards, each with its own distinct ability. These cards are limited in use, adding a strategic dimension to your journey.\n\nWithin the game, cards manifest in three distinct forms: the Move Card, the Sword Card, and the Teleport Card. Each card type boasts its own range and specific application, offering diverse strategic possibilities.\n\nMove Card\nThe Move card grants you a range of three steps, enabling you to navigate through the stage with agility and precision.\n\nSword Card\nThe Sword card also provides a range of three steps, empowering you to vanquish the stage's menacing monsters, known as 'Dream Wisps'.\n\nTeleport Card\nThe Teleport card boasts an impressive radius of six steps, granting you the ability to transcend impassable terrain and effortlessly bypass formidable foes, such as the 'Dream Wisps'.\n\n\nThere are two unique cards: Swap, which is the upgraded version of the Teleport card, and Teleportblade, which is the upgraded version of the Sword card.\n\n\nMany thanks to Bug/Wilbur for crafting such delightful and captivating artwork for Realm Escape! Keep an eye out, as some of these charming NPCs will be making their debut in the upcoming stages. and to Withering-systems for the amazing asset\n\n\nYou can support me by following my social media, checking out the game on the Play Store, and providing any form of feedback. I hope you enjoy the game!\n\nX: https://twitter.com/NasrollahAbid \nInstagram: https://www.instagram.com/nasrollahabid/ \n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjY2ODU4Mi8xNTkwMzg2NC5wbmc=/original/gx5Qrj.png",
+          "https://img.itch.zone/aW1hZ2UvMjY2ODU4Mi8xNTkwMzg2Ni5wbmc=/original/0g4pp2.png",
+          "https://img.itch.zone/aW1hZ2UvMjY2ODU4Mi8xNTkwMzg2NS5wbmc=/original/1lyQR%2F.png",
+          "https://img.itch.zone/aW1hZ2UvMjY2ODU4Mi8xNTkwMzg2OC5wbmc=/original/tXiyQX.png",
+          "https://img.itch.zone/aW1hZ2UvMjY2ODU4Mi8xNTkwMzg2Ny5wbmc=/original/pcQKif.png",
+          "https://img.itch.zone/aW1hZ2UvMjY2ODU4Mi8xNTkwMzg2OS5wbmc=/original/Os5RYH.png",
+          "https://img.itch.zone/aW1hZ2UvMjY2ODU4Mi8xNTkwMzg3MC5wbmc=/original/mtHc8W.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "MOHMOH",
+          "Genre": "Puzzle",
+          "Made with": "GDevelop",
+          "Tags": "Atmospheric, Dreams, Hand-drawn, Isometric"
+        }
+      }
+    },
+    {
+      "gameId": 2654127,
+      "gameUrl": "https://ctrlaltdefeat-studio.itch.io/vortex",
+      "overallRank": 50,
+      "topCategories": [
+        "Innovation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1OTEzNDI2LnBuZw==/300x240%23c/Dr2syk.png",
+        "id": 2654127,
+        "title": "Vortex",
+        "raw_score": 3.2484848484848,
+        "contributors": [
+          {
+            "name": "CtrlAltDefeat Studio",
+            "id": 7919791
+          }
+        ],
+        "score": 3.2484848484848,
+        "url": "https://itch.io/jam/gamedevjs-2024/rate/2654127",
+        "rank": 50,
+        "rating_count": 33,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.4242424242424,
+            "rank": 38,
+            "score": 3.4242424242424
+          },
+          {
+            "name": "Theme",
+            "raw_score": 2.7878787878788,
+            "rank": 104,
+            "score": 2.7878787878788
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.7575757575758,
+            "rank": 10,
+            "score": 3.7575757575758
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.1515151515152,
+            "rank": 104,
+            "score": 3.1515151515152
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.1212121212121,
+            "rank": 66,
+            "score": 3.1212121212121
+          }
+        ]
+      },
+      "entryData": {
+        "id": 532035,
+        "rating_count": 33,
+        "coolness": 71,
+        "game": {
+          "user": {
+            "name": "CtrlAltDefeat Studio",
+            "url": "https://ctrlaltdefeat-studio.itch.io",
+            "id": 7919791
+          },
+          "title": "Vortex",
+          "id": 2654127,
+          "cover": "https://img.itch.zone/aW1nLzE1OTEzNDI2LnBuZw==/300x240%23c/Dr2syk.png",
+          "platforms": [
+            "web"
+          ],
+          "url": "https://ctrlaltdefeat-studio.itch.io/vortex"
+        },
+        "created_at": "2024-04-26 06:43:34",
+        "field_responses": [
+          "28995:1"
+        ],
+        "url": "/jam/gamedevjs-2024/rate/2654127"
+      },
+      "details": {
+        "title": "Vortex",
+        "description": "Welcome to Vortex, a thrilling rogue-like space adventure where strategy and quick reflexes are your keys to survival. Developed for the Gamedev.js Jam 2024, Vortex plunges you into a chaotic cosmos and invites you to master the art of survival using portals and carefully selected power-ups to enhance your ship's abilities.\nHow to Play\nControls:\n\nLeft Click: Place the blue portal.\nRight Click: Place the red portal.\nHold Click: Adjust the direction of the portal's exit.\nRight & Left Click: Combine portals.A,W,D: Movement.\n\nCredits:\nChantz Doan - Programmer & Game Design\nJustus Heath - ART & Game Design\nRyan Heath - ART & Game Design\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjY1NDEyNy8xNTkxMDMwNC5wbmc=/original/oIUHox.png",
+          "https://img.itch.zone/aW1hZ2UvMjY1NDEyNy8xNTkxMDMwNi5wbmc=/original/%2Bs9m9D.png",
+          "https://img.itch.zone/aW1hZ2UvMjY1NDEyNy8xNTkxMDMxNi5wbmc=/original/5Ec00z.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Author": "CtrlAltDefeat Studio",
+          "Genre": "Shooter",
+          "Made with": "Unity",
+          "Tags": "Bullet Hell, Pixel Art, Retro, Roguelike"
+        }
+      }
+    },
+    {
+      "gameId": 2666636,
+      "gameUrl": "https://tofu-boy.itch.io/core",
+      "overallRank": 4,
+      "topCategories": [
+        "Graphics",
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1OTAxNDAzLnBuZw==/300x240%23c/wAYRY5.png",
+        "id": 2666636,
+        "title": "Core",
+        "raw_score": 3.8216216216216,
+        "contributors": [
+          {
+            "name": "Mr Blumbo",
+            "id": 4061737
+          }
+        ],
+        "score": 3.8216216216216,
+        "url": "https://itch.io/jam/gamedevjs-2024/rate/2666636",
+        "rank": 4,
+        "rating_count": 37,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.7567567567568,
+            "rank": 18,
+            "score": 3.7567567567568
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.9189189189189,
+            "rank": 14,
+            "score": 3.9189189189189
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.3513513513514,
+            "rank": 39,
+            "score": 3.3513513513514
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.3513513513514,
+            "rank": 2,
+            "score": 4.3513513513514
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.7297297297297,
+            "rank": 7,
+            "score": 3.7297297297297
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 37,
+        "coolness": 64,
+        "id": 531508,
+        "created_at": "2024-04-24 13:01:19",
+        "game": {
+          "title": "Core",
+          "short_text": "Travel deep into the heart of a churning machine. A Short platformer and 2D pixelised game. Made in Godot.",
+          "user": {
+            "name": "Mr Blumbo",
+            "url": "https://tofu-boy.itch.io",
+            "id": 4061737
+          },
+          "url": "https://tofu-boy.itch.io/core",
+          "cover": "https://img.itch.zone/aW1nLzE1OTAxNDAzLnBuZw==/300x240%23c/wAYRY5.png",
+          "id": 2666636,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#000000"
+        },
+        "url": "/jam/gamedevjs-2024/rate/2666636"
+      },
+      "details": {
+        "title": "Core",
+        "description": "Core is a short Platformer-style  game made for the Gamedev.js Jam 2024!\nThe Core contains vessels to contain its power. A machine that churns unending, un-knowing of the world that abandoned it. \nThe Vessels of metal who lay deep within its centre hold the key.\n\n[Made in Godot 4.2]\nLet me know any feedback in the comments!\nControls:\nWASD - To move\nSPACE - To jump\nE - To interact\nR - To reset-UPDATE-Fixed buggy collisions in Sector 2Added a better respawn system that allows you choose where to respawn, whether it's the Centre, your current Sector, etc.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjY2NjYzNi8xNTg5MDk2MS5wbmc=/original/GRpzWo.png",
+          "https://img.itch.zone/aW1hZ2UvMjY2NjYzNi8xNTg5MDk2Mi5wbmc=/original/qwS9cB.png",
+          "https://img.itch.zone/aW1hZ2UvMjY2NjYzNi8xNTg5MDk2My5wbmc=/original/kqBBGP.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Mr Blumbo",
+          "Genre": "Platformer, Adventure",
+          "Made with": "Godot",
+          "Tags": "2D, Global Game Jam, Godot, Mechs, Pixel Art, Robots",
+          "Average session": "A few minutes",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": 2670773,
+      "gameUrl": "https://leokuo0724.itch.io/power-crisis",
+      "overallRank": 20,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1OTM1OTQzLnBuZw==/300x240%23c/QAv8r5.png",
+        "id": 2670773,
+        "title": "Power Crisis",
+        "raw_score": 3.5842105263158,
+        "contributors": [
+          {
+            "name": "Leo Kuo",
+            "id": 2757290
+          }
+        ],
+        "score": 3.5842105263158,
+        "url": "https://itch.io/jam/gamedevjs-2024/rate/2670773",
+        "rank": 20,
+        "rating_count": 38,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.2105263157895,
+            "rank": 68,
+            "score": 3.2105263157895
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4,
+            "rank": 10,
+            "score": 4
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.5263157894737,
+            "rank": 24,
+            "score": 3.5263157894737
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.3157894736842,
+            "rank": 3,
+            "score": 4.3157894736842
+          },
+          {
+            "name": "Audio",
+            "raw_score": 2.8684210526316,
+            "rank": 98,
+            "score": 2.8684210526316
+          },
+          {
+            "name": "Open Source",
+            "raw_score": 0,
+            "rank": 10,
+            "score": 0
+          },
+          {
+            "name": "Build it with Phaser",
+            "raw_score": 0,
+            "rank": 10,
+            "score": 0
+          }
+        ]
+      },
+      "entryData": {
+        "id": 532161,
+        "rating_count": 38,
+        "coolness": 43,
+        "game": {
+          "title": "Power Crisis",
+          "short_text": "Play cards, balance scales, defeat chaos.",
+          "user": {
+            "name": "Leo Kuo",
+            "url": "https://leokuo0724.itch.io",
+            "id": 2757290
+          },
+          "url": "https://leokuo0724.itch.io/power-crisis",
+          "cover": "https://img.itch.zone/aW1nLzE1OTM1OTQzLnBuZw==/300x240%23c/QAv8r5.png",
+          "id": 2670773,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#dadada"
+        },
+        "created_at": "2024-04-26 14:21:44",
+        "field_responses": [
+          "28995:1",
+          "28995:2"
+        ],
+        "url": "/jam/gamedevjs-2024/rate/2670773"
+      },
+      "details": {
+        "title": "Power Crisis",
+        "description": "Power Crisis\nAn entry for Gamedev.js 2024!!\nExperience Power Crisis, blending Monopoly and deck-building for a strategic challenge. Manage power, resources, and pollution to keep the city alive. Can you navigate the crisis and lead the city to survival?\nHow to Play\n\n\nGoal: \nYour goal is to sustain the city through each round. When you pass the start tile, it will check if current power meet the goal.\nTiles:\nResource Tile: You can collect resources from the tile if your storage is not depleted and also there are still resources on the tile.Power Plant Tile: There are three power plant tiles on which you can build one power plant each. Beside, no matter what number you roll, you must stop at the power plant tile to perform actions.\nPower plant cards: \nCard Acquisition: You can discard and acquire new power plant cards at the beginning of each round. New cards become stronger as the round increases.Build Cost : Most of power plants need cost POWER for construction. (display on the bottom left corner of a card)Power Generation Cost: Some power plants require resources for electricity generation. (display on the top left corner of a card)Extra Effects: The central part of the card displays extra effects. After constructing the power plant, these effects will activate when the conditions are met.\nPollution: \nGeneration: When generating power with coal, oil and natural gas, carbon emissions will increase. In the case of uranium, nuclear waste will be generatedPollution check: When pollution is generated, dices roll check is required. If the check fails, some tiles will be locked, preventing resource collection. (You could build biomass power plant for purifying)\nCredit\nBGM: Slim Shady, moodmode-studio from Pixabay",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjY3MDc3My8xNTkxNzQwOC5wbmc=/original/lLEIeT.png",
+          "https://img.itch.zone/aW1hZ2UvMjY3MDc3My8xNTkxNjM0Ni5wbmc=/original/HJqCGS.png",
+          "https://img.itch.zone/aW1hZ2UvMjY3MDc3My8xNTkxNjM0NS5wbmc=/original/Yuag8X.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 3.0 out of 5 stars(1 total ratings)",
+          "Author": "Leo Kuo",
+          "Genre": "Card Game, Strategy",
+          "Tags": "2D, Board Game, Minimalist, phaser, Vector"
+        }
+      }
+    },
+    {
+      "gameId": 2670554,
+      "gameUrl": "https://jamiehulse.itch.io/circuit-breaker",
+      "overallRank": 3,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1OTE0NjQ1LnBuZw==/300x240%23c/q4Q0GG.png",
+        "id": 2670554,
+        "title": "Circuit Breaker",
+        "raw_score": 3.8333333333333,
+        "contributors": [
+          {
+            "name": "jamiehulse",
+            "id": 1343421
+          },
+          {
+            "name": "Will-Langley",
+            "id": 8407093
+          }
+        ],
+        "score": 3.8333333333333,
+        "url": "https://itch.io/jam/gamedevjs-2024/rate/2670554",
+        "rank": 3,
+        "rating_count": 24,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.7083333333333,
+            "rank": 22,
+            "score": 3.7083333333333
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4,
+            "rank": 10,
+            "score": 4
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.75,
+            "rank": 11,
+            "score": 3.75
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.2916666666667,
+            "rank": 4,
+            "score": 4.2916666666667
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.4166666666667,
+            "rank": 23,
+            "score": 3.4166666666667
+          }
+        ]
+      },
+      "entryData": {
+        "id": 532077,
+        "rating_count": 24,
+        "coolness": 0,
+        "created_at": "2024-04-26 09:56:39",
+        "contributors": [
+          {
+            "name": "jamiehulse",
+            "url": "https://jamiehulse.itch.io"
+          },
+          {
+            "name": "Will-Langley",
+            "url": "https://will-langley.itch.io"
+          }
+        ],
+        "game": {
+          "user": {
+            "name": "jamiehulse",
+            "url": "https://jamiehulse.itch.io",
+            "id": 1343421
+          },
+          "title": "Circuit Breaker",
+          "id": 2670554,
+          "cover": "https://img.itch.zone/aW1nLzE1OTE0NjQ1LnBuZw==/300x240%23c/q4Q0GG.png",
+          "platforms": [
+            "web"
+          ],
+          "url": "https://jamiehulse.itch.io/circuit-breaker"
+        },
+        "url": "/jam/gamedevjs-2024/rate/2670554"
+      },
+      "details": {
+        "title": "Circuit Breaker",
+        "description": "",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE1OTE0NjQ1LnBuZw==/original/gm2I8t.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Authors": "jamiehulse, Will-Langley",
+          "Made with": "Unity"
+        }
+      }
+    },
+    {
+      "gameId": 2670316,
+      "gameUrl": "https://narratividigitali.itch.io/the-weak",
+      "overallRank": 17,
+      "topCategories": [
+        "Graphics",
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE2MDA2OTY5LnBuZw==/300x240%23c/rpoMtf.png",
+        "id": 2670316,
+        "title": "The Weak",
+        "raw_score": 3.6516129032258,
+        "contributors": [
+          {
+            "name": "Narrativi Digitali",
+            "id": 10546772
+          }
+        ],
+        "score": 3.6516129032258,
+        "url": "https://itch.io/jam/gamedevjs-2024/rate/2670316",
+        "rank": 17,
+        "rating_count": 31,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.7741935483871,
+            "rank": 16,
+            "score": 3.7741935483871
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.1612903225806,
+            "rank": 65,
+            "score": 3.1612903225806
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.1935483870968,
+            "rank": 51,
+            "score": 3.1935483870968
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.2903225806452,
+            "rank": 5,
+            "score": 4.2903225806452
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.8387096774194,
+            "rank": 3,
+            "score": 3.8387096774194
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 31,
+        "coolness": 39,
+        "id": 532097,
+        "created_at": "2024-04-26 11:15:44",
+        "game": {
+          "title": "The Weak",
+          "short_text": "Spread the terror in this narrative RPG inspired by 1980s slasher movies.",
+          "user": {
+            "name": "Narrativi Digitali",
+            "url": "https://narratividigitali.itch.io",
+            "id": 10546772
+          },
+          "url": "https://narratividigitali.itch.io/the-weak",
+          "cover": "https://img.itch.zone/aW1nLzE2MDA2OTY5LnBuZw==/300x240%23c/rpoMtf.png",
+          "id": 2670316,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#353775"
+        },
+        "url": "/jam/gamedevjs-2024/rate/2670316"
+      },
+      "details": {
+        "title": "The Weak",
+        "description": "\na game by low res duo\ndeveloped with Godot for Gamedev.js Jam 2024\n\nSpread the terror in this narrative RPG inspired by 1980s slasher movies.\n\nThe year is 1986. Movies are filled with gory killers who, thanks to their incredible powers, chase their prey without hesitation. In this context, you play the role of The Weak, a killer unlike any other.\n\nOn a starless night, you approach Orchard Lane - the street where you spent your tormented childhood - with terrible intentions. What lies ahead for you?\nControls:\n\nMove with WASD or arrow keys\nInteract with Enter\nAttack with Space",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjY3MDMxNi8xNjA4ODAyMS5wbmc=/original/aGbqvS.png",
+          "https://img.itch.zone/aW1hZ2UvMjY3MDMxNi8xNjA4ODAyMy5wbmc=/original/zBKUBS.png",
+          "https://img.itch.zone/aW1hZ2UvMjY3MDMxNi8xNjA4ODAyMC5wbmc=/original/AcMF7V.png",
+          "https://img.itch.zone/aW1hZ2UvMjY3MDMxNi8xNjA4ODAyNC5wbmc=/original/abPOvW.png",
+          "https://img.itch.zone/aW1hZ2UvMjY3MDMxNi8xNjA4ODAyMi5wbmc=/original/%2B%2BObDO.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Narrativi Digitali",
+          "Genre": "Adventure, Role Playing",
+          "Made with": "Aseprite, Godot, LMMS",
+          "Tags": "Atmospheric, Comedy, Dark, Horror, Indie, Narrative, Pixel Art, Retro, Story Rich",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Keyboard",
+          "Accessibility": "Subtitles"
+        }
+      }
+    },
+    {
+      "gameId": 2670439,
+      "gameUrl": "https://leviathanlaw.itch.io/puck-it-up",
+      "overallRank": 32,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1OTE0NzM0LmpwZw==/300x240%23c/v6Dymi.jpg",
+        "id": 2670439,
+        "title": "PUCK IT UP",
+        "raw_score": 3.4375,
+        "contributors": [
+          {
+            "name": "LeviathanLaw",
+            "id": 7074420
+          }
+        ],
+        "score": 3.4375,
+        "url": "https://itch.io/jam/gamedevjs-2024/rate/2670439",
+        "rank": 32,
+        "rating_count": 32,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.5,
+            "rank": 34,
+            "score": 3.5
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.0625,
+            "rank": 74,
+            "score": 3.0625
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.03125,
+            "rank": 75,
+            "score": 3.03125
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.28125,
+            "rank": 6,
+            "score": 4.28125
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.3125,
+            "rank": 38,
+            "score": 3.3125
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 32,
+        "coolness": 46,
+        "id": 532298,
+        "created_at": "2024-04-26 18:22:47",
+        "game": {
+          "title": "PUCK IT UP",
+          "short_text": "Shuffleboard with power pucks",
+          "user": {
+            "name": "LeviathanLaw",
+            "url": "https://leviathanlaw.itch.io",
+            "id": 7074420
+          },
+          "url": "https://leviathanlaw.itch.io/puck-it-up",
+          "cover": "https://img.itch.zone/aW1nLzE1OTE0NzM0LmpwZw==/300x240%23c/v6Dymi.jpg",
+          "id": 2670439,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#000000"
+        },
+        "url": "/jam/gamedevjs-2024/rate/2670439"
+      },
+      "details": {
+        "title": "PUCK IT UP",
+        "description": "Puck It UP is a shuffleboard game that features power pucks. Made for the GameDev.JS 2024 jam in Unity 6 WebGL. \nControls:\n \nPosition the puck: Use 'WASD'\nAim: Use your mouse\nCharge and fire the puck: Left click\nSwitch between pucks: Use the scroll wheel\nChange Camera View: Press 'C'\nAccess settings: Press 'Esc'\n\nI plan to add multiplayer support in the future but currently the game is local co-op or singleplayer\nAssets used:Business Office - AK STUDIO ART (unity asset store)Modern Guns: Handgun - Nokobot (unity asset store)Modern UI Pack - Michsky (unity asset store)Particle pack - Unity (unity asset store)Happy Moment song - Lesfm (Pixabay)SFX - varius artists (Pixabay)\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjY3MDQzOS8xNTkxNDc2MC5qcGc=/original/v034W7.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjY3MDQzOS8xNTkxNDc4OS5qcGc=/original/XPEEqx.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjY3MDQzOS8xNTkxNDc5MC5qcGc=/original/16vb%2BV.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "LeviathanLaw",
+          "Genre": "Action",
+          "Made with": "Unity",
+          "Tags": "3D, Photorealistic, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 2669991,
+      "gameUrl": "https://sojioto.itch.io/pizzaboi",
+      "overallRank": 24,
+      "topCategories": [
+        "Graphics",
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1OTE0MzIyLmdpZg==/300x240%23c/p8c%2F1V.gif",
+        "id": 2669991,
+        "title": "Pizza Boi",
+        "raw_score": 3.5423076923077,
+        "contributors": [
+          {
+            "name": "Sojioto",
+            "id": 3676360
+          }
+        ],
+        "score": 3.5423076923077,
+        "url": "https://itch.io/jam/gamedevjs-2024/rate/2669991",
+        "rank": 24,
+        "rating_count": 52,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.8076923076923,
+            "rank": 14,
+            "score": 3.8076923076923
+          },
+          {
+            "name": "Theme",
+            "raw_score": 2.7692307692308,
+            "rank": 111,
+            "score": 2.7692307692308
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 2.9807692307692,
+            "rank": 78,
+            "score": 2.9807692307692
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.25,
+            "rank": 8,
+            "score": 4.25
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.9038461538462,
+            "rank": 2,
+            "score": 3.9038461538462
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 52,
+        "coolness": 65,
+        "id": 532264,
+        "created_at": "2024-04-26 15:45:17",
+        "game": {
+          "url": "https://sojioto.itch.io/pizzaboi",
+          "cover_color": "#000000",
+          "gif_cover": "https://img.itch.zone/aW1nLzE1OTE0MzIyLmdpZg==/original/K%2FvBqi.gif",
+          "user": {
+            "name": "Sojioto",
+            "url": "https://sojioto.itch.io",
+            "id": 3676360
+          },
+          "cover": "https://img.itch.zone/aW1nLzE1OTE0MzIyLmdpZg==/300x240%23c/p8c%2F1V.gif",
+          "id": 2669991,
+          "title": "Pizza Boi",
+          "platforms": [
+            "web"
+          ],
+          "short_text": "Deliver some pizza to some cool tunes."
+        },
+        "url": "/jam/gamedevjs-2024/rate/2669991"
+      },
+      "details": {
+        "title": "Pizza Boi",
+        "description": "Horse Power, \"Pizza Power\" and the \"power of music\"\nSkull boy had to get a job delivering pizza's. Might as well listen to some sick tunes while he's at it.\nPlaying in Firefox browser not recommended due to audio bugs\nMade in only 2 days for the Gamedev.js Jam\nCONTROLS\narrow keys to steer and accelerate.\nSpace bar to activate Nitrous Oxide.\n1 and 2 to change radio station.\nFeatures 5 great musicians I love working with\nMike Squared\nhttps://mikesquared.bandcamp.com/\nBela Bitbop\nhttps://soundcloud.com/dannyhepf\nExcelsus999\nhttps://www.youtube.com/@excelsus999/videos\nNicole Starlight \nhttps://nicolestarlight.itch.io/\nfake leather \nhttps://www.youtube.com/@realfakeleather/videosFont used Not Jam Chunky Sans 6 by Not Jam (itch.io)\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjY2OTk5MS8xNTkxNzI3Ny5naWY=/original/yAHdAX.gif",
+          "https://img.itch.zone/aW1hZ2UvMjY2OTk5MS8xNTkxNzMwOS5naWY=/original/yzoVCZ.gif",
+          "https://img.itch.zone/aW1hZ2UvMjY2OTk5MS8xNTkxNzMxMC5naWY=/original/k6vp7M.gif"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Sojioto",
+          "Genre": "Racing",
+          "Made with": "Construct",
+          "Tags": "2D, Arcade, Driving, Music, Pixel Art, Pizza Tower, Retro, Score Attack, Time Attack"
+        }
+      }
+    },
+    {
+      "gameId": 2669427,
+      "gameUrl": "https://bethfromabove.itch.io/ionclad",
+      "overallRank": 9,
+      "topCategories": [
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1OTA5ODQ5LnBuZw==/300x240%23c/gFkGE%2F.png",
+        "id": 2669427,
+        "title": "IONCLAD",
+        "raw_score": 3.7282051282051,
+        "contributors": [
+          {
+            "name": "BethFromAbove",
+            "id": 1887296
+          },
+          {
+            "name": "Kimbsy",
+            "id": 1310512
+          },
+          {
+            "name": "grinky",
+            "id": 1780
+          }
+        ],
+        "score": 3.7282051282051,
+        "url": "https://itch.io/jam/gamedevjs-2024/rate/2669427",
+        "rank": 9,
+        "rating_count": 39,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.5897435897436,
+            "rank": 25,
+            "score": 3.5897435897436
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.7948717948718,
+            "rank": 16,
+            "score": 3.7948717948718
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.4615384615385,
+            "rank": 26,
+            "score": 3.4615384615385
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.8461538461538,
+            "rank": 33,
+            "score": 3.8461538461538
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.9487179487179,
+            "rank": 1,
+            "score": 3.9487179487179
+          },
+          {
+            "name": "Open Source",
+            "raw_score": 0,
+            "rank": 4,
+            "score": 0
+          },
+          {
+            "name": "Build it with Phaser",
+            "raw_score": 0,
+            "rank": 4,
+            "score": 0
+          }
+        ]
+      },
+      "entryData": {
+        "id": 531927,
+        "game": {
+          "title": "IONCLAD",
+          "short_text": "Plasma Cannons in Space",
+          "user": {
+            "name": "BethFromAbove",
+            "url": "https://bethfromabove.itch.io",
+            "id": 1887296
+          },
+          "url": "https://bethfromabove.itch.io/ionclad",
+          "cover": "https://img.itch.zone/aW1nLzE1OTA5ODQ5LnBuZw==/300x240%23c/gFkGE%2F.png",
+          "id": 2669427,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#e86ea2"
+        },
+        "rating_count": 39,
+        "coolness": 20,
+        "created_at": "2024-04-25 22:15:35",
+        "contributors": [
+          {
+            "name": "BethFromAbove",
+            "url": "https://bethfromabove.itch.io"
+          },
+          {
+            "name": "Kimbsy",
+            "url": "https://kimbsy.itch.io"
+          },
+          {
+            "name": "grinky",
+            "url": "https://grinky.itch.io"
+          }
+        ],
+        "field_responses": [
+          "28995:1",
+          "28995:2"
+        ],
+        "url": "/jam/gamedevjs-2024/rate/2669427"
+      },
+      "details": {
+        "title": "IONCLAD",
+        "description": "Plasma cannons in space! How long can you survive?\n\nUse arrow keys to move cannon\nHold Space to fire\nDestroy enemy ships before they reach your shield\nCollect friendly ships with your cannon to restore shield\nPress Enter to use a mega-bomb\nManage your Power usage to avoid temporary outages\n\nCredits:\nJon - programming and artBeth - programming and artDave - programming and artPJ Kimber - music",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjY2OTQyNy8xNTkwOTg2OS5qcGVn/original/%2FH1hP0.jpeg",
+          "https://img.itch.zone/aW1hZ2UvMjY2OTQyNy8xNTkwOTg3MS5qcGVn/original/s6oaFt.jpeg",
+          "https://img.itch.zone/aW1hZ2UvMjY2OTQyNy8xNTkwOTg2Ny5qcGVn/original/WQP0n8.jpeg",
+          "https://img.itch.zone/aW1hZ2UvMjY2OTQyNy8xNTkwOTg3My5qcGVn/original/LCXJuH.jpeg",
+          "https://img.itch.zone/aW1hZ2UvMjY2OTQyNy8xNTkwOTg3Mi5qcGVn/original/eZ%2BoS0.jpeg",
+          "https://img.itch.zone/aW1hZ2UvMjY2OTQyNy8xNTkwOTg2OC5qcGVn/original/Hz0U0F.jpeg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Authors": "BethFromAbove, Kimbsy, grinky",
+          "Genre": "Action",
+          "Tags": "2D, defence, defense, phaser, Pixel Art, plasma, plasma-ball, plasmaball, Sci-fi, Space"
+        }
+      }
+    },
+    {
+      "gameId": 2642954,
+      "gameUrl": "https://miamoalex.itch.io/gleep-gym-club",
+      "overallRank": 8,
+      "topCategories": [
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1OTE3MTI1LmdpZg==/300x240%23c/8%2FXYRn.gif",
+        "id": 2642954,
+        "title": "Gleep Gym",
+        "raw_score": 3.7310344827586,
+        "contributors": [
+          {
+            "name": "MiamoAlex",
+            "id": 6224428
+          },
+          {
+            "name": "Rusalka",
+            "id": 10448907
+          },
+          {
+            "name": "demoiselle-poupon",
+            "id": 10427744
+          },
+          {
+            "name": "sukai",
+            "id": 1282609
+          }
+        ],
+        "score": 3.7310344827586,
+        "url": "https://itch.io/jam/gamedevjs-2024/rate/2642954",
+        "rank": 8,
+        "rating_count": 29,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.7241379310345,
+            "rank": 20,
+            "score": 3.7241379310345
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.448275862069,
+            "rank": 41,
+            "score": 3.448275862069
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.5862068965517,
+            "rank": 18,
+            "score": 3.5862068965517
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.1034482758621,
+            "rank": 14,
+            "score": 4.1034482758621
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.7931034482759,
+            "rank": 5,
+            "score": 3.7931034482759
+          },
+          {
+            "name": "Open Source",
+            "raw_score": 0,
+            "rank": 3,
+            "score": 0
+          }
+        ]
+      },
+      "entryData": {
+        "id": 532316,
+        "game": {
+          "url": "https://miamoalex.itch.io/gleep-gym-club",
+          "cover_color": "#23004b",
+          "gif_cover": "https://img.itch.zone/aW1nLzE1OTE3MTI1LmdpZg==/original/ChKluN.gif",
+          "user": {
+            "name": "MiamoAlex",
+            "url": "https://miamoalex.itch.io",
+            "id": 6224428
+          },
+          "cover": "https://img.itch.zone/aW1nLzE1OTE3MTI1LmdpZg==/300x240%23c/8%2FXYRn.gif",
+          "id": 2642954,
+          "title": "Gleep Gym",
+          "platforms": [
+            "web"
+          ],
+          "short_text": "Reach for the stars in this 2000s flash inspired warioware-like!"
+        },
+        "rating_count": 29,
+        "coolness": 92,
+        "created_at": "2024-04-26 19:18:04",
+        "contributors": [
+          {
+            "name": "MiamoAlex",
+            "url": "https://miamoalex.itch.io"
+          },
+          {
+            "name": "Rusalka",
+            "url": "https://rusalkaaa.itch.io"
+          },
+          {
+            "name": "demoiselle-poupon",
+            "url": "https://demoiselle-poupon.itch.io"
+          },
+          {
+            "name": "sukai",
+            "url": "https://sukai909.itch.io"
+          }
+        ],
+        "field_responses": [
+          "28995:1"
+        ],
+        "url": "/jam/gamedevjs-2024/rate/2642954"
+      },
+      "details": {
+        "title": "Gleep Gym",
+        "description": "Hi, human! Welcome to the Gleep Gym! Meet the other members and try to succeed in their challenges! Will your power level be enough to beat them??\nReach for the stars in this 00s flash inspired warioware-like ! This game was created as part of the GameDev.JS 2024 jam in 13 days with the theme 'POWER'. Thank you for playing Gleep Gym!\nA sequence in the game contains visual effects that may trigger epileptic seizures in some individuals, so please play with caution and consult a healthcare professional if you experience any symptoms.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjY0Mjk1NC8xNTkxNTY3OS5wbmc=/original/IA%2F9Zt.png",
+          "https://img.itch.zone/aW1hZ2UvMjY0Mjk1NC8xNTkxNTY3Ny5wbmc=/original/SqqYXT.png",
+          "https://img.itch.zone/aW1hZ2UvMjY0Mjk1NC8xNTkxNTY3OC5wbmc=/original/JFM%2BlW.png",
+          "https://img.itch.zone/aW1hZ2UvMjY0Mjk1NC8xNTkxNTY3Ni5wbmc=/original/XUoL13.png",
+          "https://img.itch.zone/aW1hZ2UvMjY0Mjk1NC8xNTkxNTY4My5wbmc=/original/AxWt%2Ft.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Authors": "MiamoAlex, Rusalka, demoiselle-poupon, sukai",
+          "Genre": "Adventure",
+          "Made with": "Blender, Adobe Photoshop, Three.js, Audacity, Clip Studio Paint, FL Studio, Paint.net",
+          "Tags": "Aliens, Animation, Arcade, Casual, Funny, Indie, microgames, Pizza Tower, Point & Click, Space",
+          "Average session": "A few minutes",
+          "Languages": "English, French",
+          "Inputs": "Keyboard, Mouse",
+          "Accessibility": "Subtitles"
+        }
+      }
+    },
+    {
+      "gameId": 2670252,
+      "gameUrl": "https://treskydakrid.itch.io/charge-guardian",
+      "overallRank": 21,
+      "topCategories": [
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1OTEzMzEyLnBuZw==/300x240%23c/XJfOnG.png",
+        "id": 2670252,
+        "title": "Charge Guardian",
+        "raw_score": 3.5666666666667,
+        "contributors": [
+          {
+            "name": "treskydakrid",
+            "id": 10550258
+          }
+        ],
+        "score": 3.5666666666667,
+        "url": "https://itch.io/jam/gamedevjs-2024/rate/2670252",
+        "rank": 21,
+        "rating_count": 24,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.5,
+            "rank": 34,
+            "score": 3.5
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.7083333333333,
+            "rank": 18,
+            "score": 3.7083333333333
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 2.7083333333333,
+            "rank": 121,
+            "score": 2.7083333333333
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.125,
+            "rank": 13,
+            "score": 4.125
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.7916666666667,
+            "rank": 6,
+            "score": 3.7916666666667
+          },
+          {
+            "name": "Build it with Phaser",
+            "raw_score": 0,
+            "rank": 11,
+            "score": 0
+          }
+        ]
+      },
+      "entryData": {
+        "id": 532162,
+        "rating_count": 24,
+        "coolness": 15,
+        "game": {
+          "title": "Charge Guardian",
+          "short_text": "Defend your ship while it recharges power!",
+          "user": {
+            "name": "treskydakrid",
+            "url": "https://treskydakrid.itch.io",
+            "id": 10550258
+          },
+          "url": "https://treskydakrid.itch.io/charge-guardian",
+          "cover": "https://img.itch.zone/aW1nLzE1OTEzMzEyLnBuZw==/300x240%23c/XJfOnG.png",
+          "id": 2670252,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#3a3a3a"
+        },
+        "created_at": "2024-04-26 14:23:16",
+        "field_responses": [
+          "28995:2"
+        ],
+        "url": "/jam/gamedevjs-2024/rate/2670252"
+      },
+      "details": {
+        "title": "Charge Guardian",
+        "description": "Charge your ship! Save yourself! This wave-based combat survival is sure to show you the meaning of true power! \nYour robo-crew's ship has run out of juice and has been forced to land on a hostile planet! Can you overcome the league of enemies that march your way?  Survive until the battery charges and GTFO!\nBuilt with Phaser and bitecs, not to mention a whole lot of love!\n... and tears",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjY3MDI1Mi8xNTkxMzM4MS5wbmc=/original/302I9a.png",
+          "https://img.itch.zone/aW1hZ2UvMjY3MDI1Mi8xNTkxMzM4Mi5wbmc=/original/Wpc3KF.png",
+          "https://img.itch.zone/aW1hZ2UvMjY3MDI1Mi8xNTkxMzM4MC5wbmc=/original/JcjGlP.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "treskydakrid",
+          "Genre": "Action, Survival",
+          "Made with": "Phaser",
+          "Tags": "Difficult, Game Design, Indie, Monsters, My First Game Jam, Pixel Art, Robots, Side Scroller, Singleplayer",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard",
+          "Accessibility": "High-contrast"
+        }
+      }
+    },
+    {
+      "gameId": 2626544,
+      "gameUrl": "https://moisesjpelaez.itch.io/pawer-nap",
+      "overallRank": 18,
+      "topCategories": [
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1OTE2MDk2LnBuZw==/300x240%23c/1m%2BU0c.png",
+        "id": 2626544,
+        "title": "Pawer Nap",
+        "raw_score": 3.6,
+        "contributors": [
+          {
+            "name": "Moisés Peláez",
+            "id": 61625
+          },
+          {
+            "name": "Owlmoss",
+            "id": 1480849
+          },
+          {
+            "name": "Samantha",
+            "id": 10008073
+          }
+        ],
+        "score": 3.6,
+        "url": "https://itch.io/jam/gamedevjs-2024/rate/2626544",
+        "rank": 18,
+        "rating_count": 40,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 2.975,
+            "rank": 95,
+            "score": 2.975
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.675,
+            "rank": 19,
+            "score": 3.675
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.575,
+            "rank": 20,
+            "score": 3.575
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.1,
+            "rank": 16,
+            "score": 4.1
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.675,
+            "rank": 8,
+            "score": 3.675
+          }
+        ]
+      },
+      "entryData": {
+        "id": 532068,
+        "rating_count": 40,
+        "coolness": 102,
+        "created_at": "2024-04-26 09:18:11",
+        "contributors": [
+          {
+            "name": "Moisés Peláez",
+            "url": "https://moisesjpelaez.itch.io"
+          },
+          {
+            "name": "Owlmoss",
+            "url": "https://owlmoss.itch.io"
+          },
+          {
+            "name": "Samantha",
+            "url": "https://schllnbrgs.itch.io"
+          }
+        ],
+        "game": {
+          "title": "Pawer Nap",
+          "short_text": "Reach to the bed to take a paw-er nap.",
+          "user": {
+            "name": "Moisés Peláez",
+            "url": "https://moisesjpelaez.itch.io",
+            "id": 61625
+          },
+          "url": "https://moisesjpelaez.itch.io/pawer-nap",
+          "cover": "https://img.itch.zone/aW1nLzE1OTE2MDk2LnBuZw==/300x240%23c/1m%2BU0c.png",
+          "id": 2626544,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#eeeeee"
+        },
+        "url": "/jam/gamedevjs-2024/rate/2626544"
+      },
+      "details": {
+        "title": "Pawer Nap",
+        "description": "After a long day at the office, it's your goal to guide this drowsy, wobbly friend safely to the bed for a much-needed PAW-er (power) nap! Avoid clumsily bumping into furniture, and grab PAW-er ade to replenish your energy along the way - Can you make it before succumbing to sleepiness?! InstructionsWSAD on PC or TOUCH STICK on mobile to balance the cat. Keep an eye on the energy bar.Made for Gamedev.js Jam 2024 ! By: @ Moises - Game Design and Programming @ Owlmoss - Modeling and Art @ Schllnbrgs - Sound Design and Music (Soundly)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjYyNjU0NC8xNjE0NzU0Ny5qcGc=/original/CUYLdf.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjYyNjU0NC8xNjE0NzU1MC5qcGc=/original/sDRzXH.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjYyNjU0NC8xNjE0NzU0OC5qcGc=/original/JK%2Bra8.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjYyNjU0NC8xNjE0NzU0OS5qcGc=/original/PagDrL.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.5 out of 5 stars(4 total ratings)",
+          "Authors": "Moisés Peláez, Owlmoss, Samantha",
+          "Made with": "Blender, Haxe",
+          "Tags": "3D, Casual, Cats, Cozy, Cute, Low-poly",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Touchscreen"
+        }
+      }
+    }
+  ]
+}

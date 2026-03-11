@@ -1,0 +1,899 @@
+{
+  "n": 55,
+  "name": "Bigmode Game Jam 2025",
+  "url": "https://itch.io/jam/bigmode-game-jam-2025",
+  "theme": "POWER",
+  "slug": "bigmode-game-jam-2025",
+  "jamMeta": {
+    "jamType": "ended",
+    "ratings": "15,724",
+    "entries": "820",
+    "title": "Bigmode Game Jam 2025",
+    "jamURL": "https://itch.io/jam/bigmode-game-jam-2025",
+    "hosts": {
+      "BIGMODEsean": "https://bigmodesean.itch.io"
+    },
+    "jamID": "402002"
+  },
+  "totalEntries": 789,
+  "ranked": true,
+  "hasCategories": false,
+  "needsManualSelection": false,
+  "categories": [],
+  "topGames": [
+    {
+      "gameId": 3293882,
+      "gameUrl": "https://andreviews.itch.io/teddy-breaker-slayer",
+      "overallRank": 1,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 54,
+        "url": "/jam/bigmode-game-jam-2025/rate/3293882",
+        "id": 655929,
+        "created_at": "2025-02-03 05:46:39",
+        "coolness": 228,
+        "contributors": [
+          {
+            "url": "https://andreviews.itch.io",
+            "name": "andreviews"
+          },
+          {
+            "url": "https://megamayne.itch.io",
+            "name": "MegaMayne"
+          },
+          {
+            "url": "https://morsee201.itch.io",
+            "name": "morsee201"
+          },
+          {
+            "url": "https://logicalyarn.itch.io",
+            "name": "logicalyarn"
+          }
+        ],
+        "game": {
+          "title": "Teddy, Breaker of Chains, Slayer of Shadows",
+          "url": "https://andreviews.itch.io/teddy-breaker-slayer",
+          "id": 3293882,
+          "cover": "https://img.itch.zone/aW1nLzE5Njk2Njg3LnBuZw==/300x240%23c/ejoVIY.png",
+          "short_text": "Run from shadows and turn the power back on. Teddy will protect you.",
+          "user": {
+            "id": 12531714,
+            "url": "https://andreviews.itch.io",
+            "name": "andreviews"
+          },
+          "platforms": [
+            "windows",
+            "web"
+          ]
+        }
+      },
+      "details": {
+        "title": "Teddy, Breaker of Chains, Slayer of Shadows",
+        "description": "Default controls: WASD, Space, & Mouse\nImportant note: The wire puzzles require mouse controls, sorry.WARNING: Some breaker wires were not wired correctly by the house's many crappy electricians. Watch out. Read the instructions. You have been warned.Notice: The downloadable version will run a bit more smoothly, obviously. We don't know what we're doing.\nMade for the BIGMODE Game Jam 2025. Theme: POWER\nCredits:Andrew - Game Design, Programming, Sound effects, WritingEmma Morse - Game Design, ProgrammingLogan S. Yarnell - Game Design, Art, Music, Sound effects, WritingXander - Game Design, ProgrammingDialogue Manager - Nathan Hoad - MIT LicenseColor palette - beachboogeymanUnzip and run the executable.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzI5Mzg4Mi8xOTY5NDkzMC5wbmc=/original/Q8qyAH.png",
+          "https://img.itch.zone/aW1hZ2UvMzI5Mzg4Mi8xOTY5NDkyOS5wbmc=/original/0XTrhK.png",
+          "https://img.itch.zone/aW1hZ2UvMzI5Mzg4Mi8xOTY5NDkzMS5wbmc=/original/eBs8RU.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows",
+          "Authors": "andreviews, MegaMayne, morsee201, logicalyarn",
+          "Genre": "Adventure",
+          "Made with": "Godot",
+          "Tags": "Pixel Art, Spooky"
+        }
+      }
+    },
+    {
+      "gameId": 3294860,
+      "gameUrl": "https://timtanium707.itch.io/climbin-cliff",
+      "overallRank": 2,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 87,
+        "url": "/jam/bigmode-game-jam-2025/rate/3294860",
+        "id": 655914,
+        "coolness": 214,
+        "created_at": "2025-02-03 05:44:18",
+        "game": {
+          "title": "Climbin' Cliff",
+          "cover": "https://img.itch.zone/aW1nLzE5NjcwNDE1LnBuZw==/300x240%23c/1EKB4K.png",
+          "short_text": "Climb high with quirky controls to retrieve your lost Golden dumbbells!",
+          "cover_color": "#38735c",
+          "url": "https://timtanium707.itch.io/climbin-cliff",
+          "id": 3294860,
+          "user": {
+            "id": 6096468,
+            "url": "https://timtanium707.itch.io",
+            "name": "Timtanium707"
+          },
+          "platforms": [
+            "windows",
+            "web"
+          ]
+        }
+      },
+      "details": {
+        "title": "Climbin' Cliff",
+        "description": "CONTROLS: WASD or Arrow keys to move/jump, space bar to do a big jump when climbing. When in a level use the top buttons to Restart (or press R), Pause (or press P), or Skip Level. Play in fullscreen!\nClifton Goldbell was an ordinary citizen of the suburbs, when one day a critical mistake costs him all of his gym equipment! Help our buddy Cliff regain his protein shakes and golden dumbbells as fast as you can across various environments. Can you POWER up Cliff enough to beat every level?\nEach stage has a target time, see if you can beat them! You can turn off the timer in the level select or pause menu. If you want some tips on advanced moves to save some time, try looking around closely at the outer walls in Level 2... This game was created in 8 days for Big Mode Game Jam 2025.\n*accidently made the time trial for level 12 0:12s instead of 0:45s, my bad",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzI5NDg2MC8xOTY5Mjk3OS5wbmc=/original/BAcnJm.png",
+          "https://img.itch.zone/aW1hZ2UvMzI5NDg2MC8xOTY3MDY4NC5wbmc=/original/LQMRKl.png",
+          "https://img.itch.zone/aW1hZ2UvMzI5NDg2MC8xOTY5NTcyMS5wbmc=/original/qMu8oA.png",
+          "https://img.itch.zone/aW1hZ2UvMzI5NDg2MC8xOTY3MDY4My5wbmc=/original/4Kf6Gr.png",
+          "https://img.itch.zone/aW1hZ2UvMzI5NDg2MC8xOTY5NTk3MS5wbmc=/original/Wngn8R.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Author": "Timtanium707",
+          "Genre": "Platformer, Adventure",
+          "Made with": "Unity",
+          "Tags": "2D, Puzzle-Platformer, Singleplayer, Speedrun"
+        }
+      }
+    },
+    {
+      "gameId": 3298412,
+      "gameUrl": "https://rot-soft.itch.io/i-want-power",
+      "overallRank": 3,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 64,
+        "url": "/jam/bigmode-game-jam-2025/rate/3298412",
+        "id": 655990,
+        "created_at": "2025-02-03 05:54:40",
+        "coolness": 204,
+        "contributors": [
+          {
+            "url": "https://rot-soft.itch.io",
+            "name": "Rot Soft"
+          },
+          {
+            "url": "https://dj-hc1.itch.io",
+            "name": "DJ_HC1"
+          },
+          {
+            "url": "https://baileybridge.itch.io",
+            "name": "Bailey Bridge"
+          }
+        ],
+        "game": {
+          "title": "I WANT POWER",
+          "cover": "https://img.itch.zone/aW1nLzE5Njk3MjAyLnBuZw==/300x240%23c/3QI39%2F.png",
+          "short_text": "I WANT POWER. I WANT TO RULE THE WORLD.",
+          "cover_color": "#63c64d",
+          "url": "https://rot-soft.itch.io/i-want-power",
+          "id": 3298412,
+          "user": {
+            "id": 9059928,
+            "url": "https://rot-soft.itch.io",
+            "name": "Rot Soft"
+          },
+          "platforms": [
+            "windows"
+          ]
+        }
+      },
+      "details": {
+        "title": "I WANT POWER",
+        "description": "Made for the Big Mode Game Jam 2025.You are a Robot who has landed on a planet full of ugly people living in rocks.Use your batteries to create a power grid, build a defence system, and clear this planet of the ugly rock people.\nMusic by DJ HC1 -\nhttps://dj-hc1.itch.io/\n\nhttps://hc1music.bandcamp.com/\nhttps://soundcloud.com/user-583373689\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzI5ODQxMi8xOTY5NzE4MC5naWY=/original/VAfrnS.gif",
+          "https://img.itch.zone/aW1hZ2UvMzI5ODQxMi8xOTY5NzE4My5naWY=/original/YtBjSn.gif",
+          "https://img.itch.zone/aW1hZ2UvMzI5ODQxMi8xOTY5Nzc0MS5wbmc=/original/fJQJM3.png",
+          "https://img.itch.zone/aW1hZ2UvMzI5ODQxMi8xOTY5NzE4Mi5naWY=/original/Pe3x%2Bj.gif",
+          "https://img.itch.zone/aW1hZ2UvMzI5ODQxMi8xOTY5NzE4MS5naWY=/original/fa6Ocz.gif",
+          "https://img.itch.zone/aW1hZ2UvMzI5ODQxMi8xOTY5NzE4NC5naWY=/original/gcLldH.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Authors": "Rot Soft, DJ_HC1, Bailey Bridge",
+          "Genre": "Strategy"
+        }
+      }
+    },
+    {
+      "gameId": 3270904,
+      "gameUrl": "https://rosemakesgames.itch.io/powery",
+      "overallRank": 4,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 126,
+        "url": "/jam/bigmode-game-jam-2025/rate/3270904",
+        "id": 648808,
+        "coolness": 180,
+        "created_at": "2025-01-26 21:29:59",
+        "game": {
+          "title": "powery",
+          "url": "https://rosemakesgames.itch.io/powery",
+          "cover_color": "#000000",
+          "platforms": [
+            "web"
+          ],
+          "id": 3270904,
+          "cover": "https://img.itch.zone/aW1nLzE5NzExMDYzLmdpZg==/300x240%23c/LTlNhM.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzE5NzExMDYzLmdpZg==/original/Qeghf%2F.gif",
+          "user": {
+            "id": 6543106,
+            "url": "https://rosemakesgames.itch.io",
+            "name": "rosemakesgames"
+          },
+          "short_text": "parry to gain POWER. bigmode game jam"
+        }
+      },
+      "details": {
+        "title": "powery",
+        "description": "PARRY TO GAIN POWER. ATTACKING SCALES WITH POWER BUT ATTACKING WILL USE YOUR POWER. SAVE YOUR POWER TO GET A SCREENWIPE\nDIFFICULT BUT BEATABLE! YOU GOT THIS!\nINTERACT: E / Controller(A): PRESS  NEAR LEVEL RELICS TO LEVEL \nPAUSE/CLOSE: P or C\nMOVE: WASD\nPARRY: Space / R-Mouse / Left Bumper \nATTACK: J / L-Mouse/ Right Bumper \nROLL:  L-Shift / Controller(B) \nULTIMATE POWER: Q/ENTER/Controller(X) \nDeveloped this Solo with the help of Crimbledink for the sound and music and found some amazing assets on itch, the game would not be the same without them! \nAssets: \nCrimbledink Soundcloud: https://soundcloud.com/nick-adams-121526848 \nhttps://immortal-burrito.itch.io/blood-demons\n\nhttps://itch.io/s/115016/pixel-structures\n\nhttps://gizmo199.itch.io/hooded-drifter-8-directional-sprite\n\nhttps://kenney.nl/ \nhttps://dani-maccari.itch.io/platformer-metroidvania-pixel-items-free-assets \nhttps://asgaard42.itch.io/pixel-art-directional-lightning-effect\n\nPartial Controller Support: Ran out of time for UI controller support (coming in the first after jam version of powery!)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzI3MDkwNC8xOTcxMjA5OC5wbmc=/original/bkXhoo.png",
+          "https://img.itch.zone/aW1hZ2UvMzI3MDkwNC8xOTcxMjEwMS5wbmc=/original/eaSEll.png",
+          "https://img.itch.zone/aW1hZ2UvMzI3MDkwNC8xOTcxMjEwMi5wbmc=/original/HdeRen.png",
+          "https://img.itch.zone/aW1hZ2UvMzI3MDkwNC8xOTcxMjEwNi5wbmc=/original/lHO9ms.png"
+        ],
+        "moreInfo": {
+          "Updated": "21 days ago",
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "rosemakesgames",
+          "Genre": "Survival",
+          "Made with": "Godot",
+          "Tags": "2D, Fast-Paced, Godot, High Score, Pixel Art",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse, Xbox controller, Gamepad (any), Playstation controller"
+        }
+      }
+    },
+    {
+      "gameId": 3297361,
+      "gameUrl": "https://bamac1.itch.io/mag",
+      "overallRank": 5,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 49,
+        "url": "/jam/bigmode-game-jam-2025/rate/3297361",
+        "id": 655259,
+        "coolness": 174,
+        "created_at": "2025-02-02 22:11:57",
+        "game": {
+          "title": "MAG",
+          "cover": "https://img.itch.zone/aW1nLzE5Njg4MTgzLnBuZw==/300x240%23c/1Rx%2FWG.png",
+          "short_text": "Maggy the robot uses their electromagnetic powers to navigate through the caves!",
+          "cover_color": "#000000",
+          "url": "https://bamac1.itch.io/mag",
+          "id": 3297361,
+          "user": {
+            "id": 12671516,
+            "url": "https://bamac1.itch.io",
+            "name": "Bamac1"
+          },
+          "platforms": [
+            "windows",
+            "web"
+          ]
+        }
+      },
+      "details": {
+        "title": "MAG",
+        "description": "Your a robot named Maggy trying to escape the caves. Unfortunately Maggy has no arms and must use their electromagnetic powers to navigate through the caves!\n8 Total Levels.  Hope you enjoy!\nMade by (Bamac1) Ewan Hipperson\n\nControls: \nA = Left\nD = Right\nW = Jump\nMB1 (Left click) = Electromagnet\nMB2 (Right click) = Inverse Electromagnet",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzI5NzM2MS8xOTY4ODMzMS5qcGc=/original/%2B8WR8k.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzI5NzM2MS8xOTY4ODMzNC5qcGc=/original/xC2pOr.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzI5NzM2MS8xOTY4ODMzMy5qcGc=/original/nbPCtY.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzI5NzM2MS8xOTY4ODMzNS5qcGc=/original/Eslhq3.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzI5NzM2MS8xOTY4ODMzMi5qcGc=/original/WPdRio.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Release date": "Feb 02, 2025",
+          "Author": "Bamac1",
+          "Genre": "Platformer, Puzzle",
+          "Made with": "Unity, Logic Pro",
+          "Tags": "2D, Pixel Art, Robots",
+          "Code license": "MIT License",
+          "Asset license": "Creative Commons Attribution v4.0 International",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Links": "Blog, Bamac1"
+        }
+      }
+    },
+    {
+      "gameId": 3297921,
+      "gameUrl": "https://calschex.itch.io/ninjas-in-paris",
+      "overallRank": 6,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 59,
+        "url": "/jam/bigmode-game-jam-2025/rate/3297921",
+        "id": 655847,
+        "created_at": "2025-02-03 05:27:45",
+        "coolness": 131,
+        "contributors": [
+          {
+            "url": "https://calschex.itch.io",
+            "name": "calschex"
+          },
+          {
+            "url": "https://oh-youknow.itch.io",
+            "name": "Oh_YouKnow"
+          },
+          {
+            "url": "https://chimpvizi.itch.io",
+            "name": "Chimpvizi"
+          }
+        ],
+        "game": {
+          "title": "Ninjas In Paris",
+          "url": "https://calschex.itch.io/ninjas-in-paris",
+          "cover_color": "#161229",
+          "cover": "https://img.itch.zone/aW1nLzE5NjkyNDQwLnBuZw==/300x240%23c/sBQGTF.png",
+          "id": 3297921,
+          "user": {
+            "id": 2899105,
+            "url": "https://calschex.itch.io",
+            "name": "calschex"
+          },
+          "short_text": "Build up devastating combos through parrying, slice through hoardes of ninjas."
+        }
+      },
+      "details": {
+        "title": "Ninjas In Paris",
+        "description": "Yeezy's interview with Alex Jones is cut short... by katanas. Parry attacks, build up combos, and release ninja-ending slashes to save France. Consecutive parries power up Kanye's strike: increasing his attack area and killing stronger foes. Stay alert, however. Taking damage will reset your power.\n\nControls:WASD / Arrow Keys to moveX / Right Click to CounterZ / Left Click to AttackHold Shift when countering to bounce away from the enemies",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzI5NzkyMS8xOTY5NjY2Ni5wbmc=/original/EhVRGI.png",
+          "https://img.itch.zone/aW1hZ2UvMzI5NzkyMS8xOTY5Njc2MS5wbmc=/original/5uoCo0.png",
+          "https://img.itch.zone/aW1hZ2UvMzI5NzkyMS8xOTY5NjY3Ny5wbmc=/original/fbFad5.png",
+          "https://img.itch.zone/aW1hZ2UvMzI5NzkyMS8xOTY5NDQ0OC5wbmc=/original/IjRn%2BV.png",
+          "https://img.itch.zone/aW1hZ2UvMzI5NzkyMS8xOTY5NjI4NC5wbmc=/original/EI9PiF.png",
+          "https://img.itch.zone/aW1hZ2UvMzI5NzkyMS8xOTY5NDQ1MC5wbmc=/original/0RHbIY.png",
+          "https://img.itch.zone/aW1hZ2UvMzI5NzkyMS8xOTY5NDQ0OS5wbmc=/original/xm82SQ.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Authors": "calschex, Oh_YouKnow, Chimpvizi",
+          "Genre": "Action",
+          "Tags": "Hack and Slash, Retro, Top-Down"
+        }
+      }
+    },
+    {
+      "gameId": 3298425,
+      "gameUrl": "https://jamless.itch.io/powerchord",
+      "overallRank": 7,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 25,
+        "url": "/jam/bigmode-game-jam-2025/rate/3298425",
+        "id": 655989,
+        "created_at": "2025-02-03 05:54:38",
+        "coolness": 120,
+        "contributors": [
+          {
+            "url": "https://jamless.itch.io",
+            "name": "Jamless"
+          },
+          {
+            "url": "https://drhoodie.itch.io",
+            "name": "DrHoodie"
+          },
+          {
+            "url": "https://xoducks.itch.io",
+            "name": "xoDucks"
+          },
+          {
+            "url": "https://ragingclue.itch.io",
+            "name": "RagingClue"
+          },
+          {
+            "url": "https://emciel.itch.io",
+            "name": "EMCIEL"
+          }
+        ],
+        "game": {
+          "title": "POWERCHORD",
+          "url": "https://jamless.itch.io/powerchord",
+          "cover_color": "#08182e",
+          "cover": "https://img.itch.zone/aW1nLzE5Njk1MzY5LnBuZw==/300x240%23c/IrQNdm.png",
+          "id": 3298425,
+          "user": {
+            "id": 12555511,
+            "url": "https://jamless.itch.io",
+            "name": "Jamless"
+          },
+          "short_text": "POWERCHORD made for Bigmode Game Jam 2025"
+        }
+      },
+      "details": {
+        "title": "POWERCHORD",
+        "description": "Under the game jam's theme of \"POWER\", our first-time game making team has thrown together a (hopefully functional) game!\nUsing the theme of POWER, we tied our game around both musical power CHORDS and a universal POWER status bar!\n\nCONTROLS\nWASD: Movement\nLeft Click: Melee\nRight Click: Ranged Shot\nAim the direction of your attacks with the cursor\nHold down left or right click to charge your attack, but watch out that you don't spend all your POWER!\n\nCONCEPT\nThe game has a focus on using ONE pool for your HEALTH, your STAMINA, and your MONEY.  Gamble your life with powerful charge attacks to defeat enemies and survive through the chaos of a street riddled with ones of twos of enemy types!\nBuy upgrades at the shop to increase your stats and improve your chances against an ever more powerful army of baddies!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzI5ODQyNS8xOTczNDA1Ny5naWY=/original/dU%2BoTd.gif",
+          "https://img.itch.zone/aW1hZ2UvMzI5ODQyNS8xOTY5NTM3NC5wbmc=/original/6QJ5Mx.png",
+          "https://img.itch.zone/aW1hZ2UvMzI5ODQyNS8xOTY5NTYxOS5wbmc=/original/q5%2B0S%2B.png",
+          "https://img.itch.zone/aW1hZ2UvMzI5ODQyNS8xOTY5NTU0NC5wbmc=/original/CZ9QjM.png",
+          "https://img.itch.zone/aW1hZ2UvMzI5ODQyNS8xOTY5NTU0My5wbmc=/original/fqKMik.png",
+          "https://img.itch.zone/aW1hZ2UvMzI5ODQyNS8xOTY5NTYyMy5wbmc=/original/y1%2B%2Fip.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Authors": "Jamless, DrHoodie, xoDucks, RagingClue, EMCIEL",
+          "Genre": "Action",
+          "Tags": "2D, Arcade, Pixel Art, Roguelike, Singleplayer, Sprites, Top-Down"
+        }
+      }
+    },
+    {
+      "gameId": 3294772,
+      "gameUrl": "https://sicosiber.itch.io/lightning-farm",
+      "overallRank": 8,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 27,
+        "url": "/jam/bigmode-game-jam-2025/rate/3294772",
+        "id": 654997,
+        "coolness": 119,
+        "created_at": "2025-02-02 20:22:59",
+        "game": {
+          "title": "LIGHTNING FARM",
+          "url": "https://sicosiber.itch.io/lightning-farm",
+          "cover_color": "#9cc4b4",
+          "platforms": [
+            "windows"
+          ],
+          "id": 3294772,
+          "cover": "https://img.itch.zone/aW1nLzE5Nzc5ODg0LmdpZg==/300x240%23c/gXlvcS.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzE5Nzc5ODg0LmdpZg==/original/kL4mmy.gif",
+          "user": {
+            "id": 1025430,
+            "url": "https://sicosiber.itch.io",
+            "name": "SicoSiber"
+          },
+          "short_text": "Build lightning rods and farm lightning as a S.H.R.I.M.P. Drone while trying your best to stay alive"
+        }
+      },
+      "details": {
+        "title": "LIGHTNING FARM",
+        "description": "(I had covid during the whole jam and was only able to work on this for 3 or 4 days)\nBuild lightning rods and farm lightning as a S.H.R.I.M.P. Drone while trying your best to stay alive.\n[Leaderboard is global online, so keep the names clean]\nControls:\nWASD to Move\nE to Interact/Build\nDon't get hooked by the drones, struck by lightning, or fall off the platform.\nGet power and points when lightning strikes your lightning rods, and use the power at the generator to get more scrap for more lightning rods.just extract the folder and play the exe",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzI5NDc3Mi8xOTY4NTc5NS5wbmc=/original/nM1hWO.png",
+          "https://img.itch.zone/aW1hZ2UvMzI5NDc3Mi8xOTY4NTc5Ni5wbmc=/original/r5HelE.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Author": "SicoSiber",
+          "Tags": "farm, High Score, Voxel"
+        }
+      }
+    },
+    {
+      "gameId": 3273343,
+      "gameUrl": "https://bluepinstudio.itch.io/power-of-loveball",
+      "overallRank": 9,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 74,
+        "url": "/jam/bigmode-game-jam-2025/rate/3273343",
+        "id": 655977,
+        "created_at": "2025-02-03 05:53:04",
+        "coolness": 116,
+        "contributors": [
+          {
+            "url": "https://bluepinstudio.itch.io",
+            "name": "Blue Pin Studio"
+          },
+          {
+            "url": "https://sylvysprit.itch.io",
+            "name": "sylvysprit"
+          },
+          {
+            "url": "https://fasla.itch.io",
+            "name": "fasla"
+          },
+          {
+            "url": "https://pijinguy.itch.io",
+            "name": "pijinguy"
+          }
+        ],
+        "game": {
+          "title": "POWER OF LOVEBALL (JAM)",
+          "cover": "https://img.itch.zone/aW1nLzE5Njk1ODM3LnBuZw==/300x240%23c/%2FgkdPj.png",
+          "short_text": "A unique twist on a platformer with flirtatious boss battles!",
+          "cover_color": "#0e0e24",
+          "url": "https://bluepinstudio.itch.io/power-of-loveball",
+          "id": 3273343,
+          "user": {
+            "id": 2177319,
+            "url": "https://bluepinstudio.itch.io",
+            "name": "Blue Pin Studio"
+          },
+          "platforms": [
+            "windows",
+            "linux",
+            "web"
+          ]
+        }
+      },
+      "details": {
+        "title": "POWER OF LOVEBALL (JAM)",
+        "description": "\nDescription\nA unique twist on a platformer with flirtatious boss battles!\nPhysical Power be damned! Electrical Power be damned! Political Power be damned! Battle your way past three unique biomes and defeat the bosses at the end. \nControls\nA/D or ←/→ to moveW or Spacebar to jumpLeft click to spawn a ballMove mouse to move ball\nTeam\nProgramming & SFX : Viktor\nArtist (Platformer): Pijinguy\nArtist (Visual Novel): Fasla\nSoundtrack by: Princess Sylvysprit\n\nIf you have performance issues on web, download the standalone builds below!\nExtract the zip file and play POWER OF LOVEBALL.exe",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzI3MzM0My8xOTY5NjI2OS5naWY=/original/g%2FYP2M.gif",
+          "https://img.itch.zone/aW1hZ2UvMzI3MzM0My8xOTY4MTExNi5wbmc=/original/W9QB3D.png",
+          "https://img.itch.zone/aW1hZ2UvMzI3MzM0My8xOTY4MTExOS5wbmc=/original/5%2BwtYk.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, Linux",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Authors": "Blue Pin Studio, sylvysprit, fasla, pijinguy",
+          "Genre": "Platformer, Action, Visual Novel",
+          "Made with": "Construct",
+          "Tags": "2D, Boss battle, Dating Sim, FPS Platformer"
+        }
+      }
+    },
+    {
+      "gameId": 3294259,
+      "gameUrl": "https://heckyeahgames.itch.io/bots-n-batteries",
+      "overallRank": 10,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 73,
+        "url": "/jam/bigmode-game-jam-2025/rate/3294259",
+        "id": 654574,
+        "created_at": "2025-02-02 15:06:34",
+        "coolness": 115,
+        "contributors": [
+          {
+            "url": "https://heckyeahgames.itch.io",
+            "name": "HeckYeahGames"
+          },
+          {
+            "url": "https://magnaremora.itch.io",
+            "name": "MagnaRemora"
+          }
+        ],
+        "game": {
+          "title": "Bots n' Batteries",
+          "cover": "https://img.itch.zone/aW1nLzE5NjY2MjU1LnBuZw==/300x240%23c/f5co3O.png",
+          "short_text": "Where there's bots there's batteries...",
+          "cover_color": "#eeeeee",
+          "url": "https://heckyeahgames.itch.io/bots-n-batteries",
+          "id": 3294259,
+          "user": {
+            "id": 11978931,
+            "url": "https://heckyeahgames.itch.io",
+            "name": "HeckYeahGames"
+          },
+          "platforms": [
+            "web"
+          ]
+        }
+      },
+      "details": {
+        "title": "Bots n' Batteries",
+        "description": "Bots ‘n’ Batteries - By Team Critical Hit\n\nDescription\nBots ‘n’ Batteries is a twin-stick shooter created within one week for the BIGMODE-jam 2025, where the main theme is power. The game consists of multiple waves of up to four enemy types and one hulking boss. In the game, your goal is keep your health from depleting by destroying robots and gathering their batteries meanwhile the more batteries you obtain the faster your special weapon will charge. To win, you have to destroy each spawned enemy including the boss. \nStory\nThe year is 22XX, There has been a sudden malfunction in the universal cyber security mainframe server, all security bots have gone rogue after recieving a new battery upgrade, now they view humanity as a virus. Their last line of defense lingers on Voltstella, a older model security droid unaffected by the virus, with help of her special voltaic beam infuser, she is able to convert power from batteries to pure energy to fight back!\n\nSupported Inputs - Mouse/Keyboard and Controller\nNOTE: If you don't hear sound in the menus, click inside the game window. \nContributions\nChase Cobb : Programming and Technical LeadMagnaremora : Audio / Visual effects, Texture & Asset Refinement, Cover ArtArtificer-111 : Concept Art and Creative Contributions\nTools\nGame Engine : Unity with FMODSound Software : FL Studio 11 and FMODArt Software : Spritemancer, PixelFX Designer and PhotoshopV1.1 FixesFixed bug that caused score to be partially reset after taking damageFixed feedback for the player taking damageFixed an issue where the battery bar could be overloaded and would null out some player damageFixed possible deviation of player bullets from 8 degrees to 2 degrees\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzI5NDI1OS8xOTY3NjYzNy5wbmc=/original/yOlxru.png",
+          "https://img.itch.zone/aW1hZ2UvMzI5NDI1OS8xOTY5MjE2Mi5wbmc=/original/nivjUA.png",
+          "https://img.itch.zone/aW1hZ2UvMzI5NDI1OS8xOTY5MjE2Ny5wbmc=/original/PYpsni.png",
+          "https://img.itch.zone/aW1hZ2UvMzI5NDI1OS8xOTY3NjY0My5wbmc=/original/vzNACX.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Authors": "HeckYeahGames, MagnaRemora",
+          "Genre": "Shooter",
+          "Made with": "Unity, FL Studio",
+          "Tags": "2D, Pixel Art, Twin Stick Shooter, Unity",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse, Gamepad (any)"
+        }
+      }
+    },
+    {
+      "gameId": 3292844,
+      "gameUrl": "https://eliendelaet.itch.io/the-big-day",
+      "overallRank": 11,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 54,
+        "url": "/jam/bigmode-game-jam-2025/rate/3292844",
+        "id": 654672,
+        "created_at": "2025-02-02 16:29:48",
+        "coolness": 115,
+        "contributors": [
+          {
+            "url": "https://eliendelaet.itch.io",
+            "name": "Elli-Schmelli"
+          },
+          {
+            "url": "https://robinstrubbe.itch.io",
+            "name": "Robin Strubbe"
+          }
+        ],
+        "game": {
+          "title": "The Big Day",
+          "cover": "https://img.itch.zone/aW1nLzE5NjU3NDM4LnBuZw==/300x240%23c/80wrj8.png",
+          "short_text": "Help Chicken win the bodybuilding championship.",
+          "cover_color": "#982c2c",
+          "url": "https://eliendelaet.itch.io/the-big-day",
+          "id": 3292844,
+          "user": {
+            "id": 2767741,
+            "url": "https://eliendelaet.itch.io",
+            "name": "Elli-Schmelli"
+          },
+          "platforms": [
+            "windows"
+          ]
+        }
+      },
+      "details": {
+        "title": "The Big Day",
+        "description": "🐔 A very short, fun story driven game.🐔\n🥚  🐔Created for the BigMode GameJam 2025. 🐔🥚 \n🐤🥚🐔   ENJOY! 🐔🥚 🐤\n\n\nA brave chicken wants to win the national bodybuilding championship and needs a bit of help getting through the day leading up to his big moment.\n\nThe controls are displayed on the bottom left corner of the game and on the bottom right of the text boxes :)  \n\n\n\n🎵 MUSIC CREDITS 🎵\n\"Space Jazz\" \"Shiny Tech\"\nby Kevin MacLeod (incompetech.com) Licensed under Creative: By Attribution 4.0 License.\nTo play the game, download and unzip the game files, then run TheBigDay.exe",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzI5Mjg0NC8xOTY2NDc3Ny5wbmc=/original/7xjlsP.png",
+          "https://img.itch.zone/aW1hZ2UvMzI5Mjg0NC8xOTY3NTE4MS5naWY=/original/eVlGcd.gif",
+          "https://img.itch.zone/aW1hZ2UvMzI5Mjg0NC8xOTY2NDc3NS5wbmc=/original/WOYM%2BT.png",
+          "https://img.itch.zone/aW1hZ2UvMzI5Mjg0NC8xOTY2NDc3Ni5wbmc=/original/dwEUE8.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "Elli-Schmelli, Robin Strubbe",
+          "Genre": "Interactive Fiction",
+          "Made with": "Unreal Engine, Blender, Adobe Photoshop, Audacity",
+          "Tags": "Chicken, Comedy, Cute, Funny, No AI, Short, Simple, Singleplayer, storygame",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard",
+          "Accessibility": "Subtitles"
+        }
+      }
+    },
+    {
+      "gameId": 3295111,
+      "gameUrl": "https://joshuaweiss.itch.io/lith-ion",
+      "overallRank": 12,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 88,
+        "url": "/jam/bigmode-game-jam-2025/rate/3295111",
+        "id": 654387,
+        "created_at": "2025-02-02 12:04:53",
+        "coolness": 113,
+        "contributors": [
+          {
+            "url": "https://joshuaweiss.itch.io",
+            "name": "rooshirum"
+          },
+          {
+            "url": "https://therealpaprika.itch.io",
+            "name": "therealpaprika"
+          },
+          {
+            "url": "https://gorgworgington.itch.io",
+            "name": "gorgworgington"
+          }
+        ],
+        "game": {
+          "title": "lith_ion",
+          "cover": "https://img.itch.zone/aW1nLzE5NzEwNzY2LnBuZw==/300x240%23c/8UvWs4.png",
+          "short_text": "Explode enemies, absorb their power, and navigate the EV1L corp warehouse while trying to survive waves of enemy robots.",
+          "cover_color": "#3C6B64",
+          "url": "https://joshuaweiss.itch.io/lith-ion",
+          "id": 3295111,
+          "user": {
+            "id": 187625,
+            "url": "https://joshuaweiss.itch.io",
+            "name": "rooshirum"
+          },
+          "platforms": [
+            "windows",
+            "linux"
+          ]
+        }
+      },
+      "details": {
+        "title": "lith_ion",
+        "description": "You play as a robot who has gone rogue and attempts to infiltrate the EV1L corporation. Use your main power blast to explode enemies, rocket jump, and power the environment while surviving waves of enemy robots.\n\n_about():\nThis is our first game jam, a first person shooter made with all original art, animations, and models. Everything was made in one week during and for the Bigmode Game Jam 2025, using the Godot engine.\n_controls():\nLEFT CLICK to shoot power blast (and rocket jump)\nRIGHT CLICK to siphon power from up to three enemies at a time!\nWASD to walk around\nSPACE to jump\nSHIFT + ~ to enable the debug menu, which has god mode cheats!\n_credits():\nGameplay programming:Joshua WeissCameron Walker\nGraphics programming:Cameron Walker\n3D modeling, animation, and art:Matthew Teeter\nMusic and audio:Gabriel Gonzales\n\nContact:\nJoshua Weiss, https://www.linkedin.com/in/joshua-weiss-tbs/\nCameron Walker, https://www.linkedin.com/in/cameron-walker-tbs/\nMatthew Teeter, discord: paprika0872\nGabriel Gonzales, https://www.linkedin.com/in/gabriel-gonzales-producer/WINDOWS:\nWindows defender may flag the game, this is very common with itch.io games. Click \"more info\" then > \"run anyway\"\nLINUX\nYou may need to run chmod +x lith_ion_linux.x86_64",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzI5NTExMS8xOTY5Mzk5Ni5naWY=/original/X%2BVNG9.gif",
+          "https://img.itch.zone/aW1hZ2UvMzI5NTExMS8xOTY3NDQwMS5wbmc=/original/RZ%2FnvS.png",
+          "https://img.itch.zone/aW1hZ2UvMzI5NTExMS8xOTY3NDQxOS5wbmc=/original/XL%2FtmC.png",
+          "https://img.itch.zone/aW1hZ2UvMzI5NTExMS8xOTY3NDQ5Ni5wbmc=/original/86m8sr.png",
+          "https://img.itch.zone/aW1hZ2UvMzI5NTExMS8xOTY3NDQxMi5wbmc=/original/eDiY0w.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, Linux",
+          "Authors": "rooshirum, therealpaprika, gorgworgington",
+          "Genre": "Shooter, Action, Platformer",
+          "Made with": "Godot",
+          "Tags": "3D, Endless, First-Person, Godot, No AI, Robots, Singleplayer",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 3298439,
+      "gameUrl": "https://slogbait.itch.io/grid-lock",
+      "overallRank": 13,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 17,
+        "url": "/jam/bigmode-game-jam-2025/rate/3298439",
+        "id": 656128,
+        "coolness": 112,
+        "created_at": "2025-02-03 06:51:19",
+        "game": {
+          "title": "Grid Lock",
+          "cover": "https://img.itch.zone/aW1nLzE5Njk1NzgxLnBuZw==/300x240%23c/nMs9dQ.png",
+          "short_text": "elicit underground lightbulb gambling ring",
+          "cover_color": "#24072f",
+          "url": "https://slogbait.itch.io/grid-lock",
+          "id": 3298439,
+          "user": {
+            "id": 2647208,
+            "url": "https://slogbait.itch.io",
+            "name": "slogbait"
+          },
+          "platforms": [
+            "windows",
+            "linux"
+          ]
+        }
+      },
+      "details": {
+        "title": "Grid Lock",
+        "description": "If you've ever wondered what Black Jack but with dice and light bulbs was like you've come to the right place\nHOW TO PLAY:\nMenus are currently click navigated\nSPACE KEY to roll dice/hitClick on an empty slot to place a dice you've rolled (only the first column on the left is currently available)ENTER KEY to end your turn/hold\nTry and get as close to the Target Current as you can placing dice on an electrical panel.\nEvery 2 full turns (both the NPC and the Player have gone twice), a current is ran to the light in the center. \nIf either side has a number greater than the Target Current, the  light will blow and anyone over the Target Current will lose points.Whoever is closest to the Target Current will get the light bulb and points equivalent to their current.If it is a tie, neither character gets the light bulb but they will still get points for the dice count.\n\nFirst round, both the Player and the NPC can roll and place up to 3 dice for free. Every turn after the first round, both characters can only roll a single dice.  (Please note: there is only one instance of the dice on the tables right now. If you want to keep any of your first three dice, place it before you roll again!)\nThe winner of the previous round goes first in the next round.\nYou can choose to HOLD instead of placing a dice. If you hold, you can not roll any more dice until the current has gone through. If you roll, you MUST place the dice you rolled or you can not end your turn. The current will be ran early if both characters hold instead of rolling.\nLight bulbs give point bonuses at the end of a round. The more you collect, the better your point total. Each light has a different rarity and range of currents it asks for.\nLight TypeColorRarityPoints AwardedAverage YellowCommon20 SturdyGreenUncommon50 FragilePurpleRare100\nAs of publishing, both opponent characters only play for 10 rounds. Coil plays it much safer and will try to stay under the current, while Tesla is much more erratic and will absolutely refuse to let you have lights if she can't get it for herself.\nExtra Features\nClicking on your panel's wires will change the wire type. Wires can add multipliers to your dice scores when you pull a light bulb or tie, but they can also break if they take enough damage from lights bursting. Every time a light bursts, the wire takes 1 point of damage. \nWire TypeMultiplierHealthGoldx110 Redx1.55Greenx22\nAs of publishing, GOLD wires can not break. Wires are also randomized on click and there is no limit to how many of each you can have.\nIf a slot has no wire or the wire is broken, the dice value attached to that wire is not added to the current.\n\nNot everything planned was able to be fully implemented but most of the meat is there. Made for Bigmode Game Jam 2025.\nCredits\nSlogbait - Programming, Game DesignSammy (pandaleafs: bsky, kofi) - Visual Art, Game DesignMake sure the folder you unzip the Windows release for also has the .pck file in it! It will not run without it",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzI5ODQzOS8xOTY5NTczMS5wbmc=/original/dL3cFH.png",
+          "https://img.itch.zone/aW1hZ2UvMzI5ODQzOS8xOTY5NTczMi5wbmc=/original/w3AyK7.png",
+          "https://img.itch.zone/aW1hZ2UvMzI5ODQzOS8xOTY5NjYwNy5wbmc=/original/wdo1uo.png",
+          "https://img.itch.zone/aW1hZ2UvMzI5ODQzOS8xOTY5NjY5NS5wbmc=/original/pNn%2Faq.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows, Linux",
+          "Author": "slogbait",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "bigmode-game-jam-2025, dice-game, game-of-chance, Godot",
+          "Average session": "A few minutes"
+        }
+      }
+    },
+    {
+      "gameId": 3298174,
+      "gameUrl": "https://raredialect.itch.io/fugue-shot",
+      "overallRank": 14,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 70,
+        "url": "/jam/bigmode-game-jam-2025/rate/3298174",
+        "id": 655771,
+        "created_at": "2025-02-03 04:52:37",
+        "coolness": 109,
+        "contributors": [
+          {
+            "url": "https://raredialect.itch.io",
+            "name": "Rare Dialect"
+          },
+          {
+            "url": "https://tomisit0.itch.io",
+            "name": "Tomisit0"
+          }
+        ],
+        "game": {
+          "title": "Fugue Shot (Jam Version)",
+          "cover": "https://img.itch.zone/aW1nLzE5OTUzMTcwLnBuZw==/300x240%23c/r1I2mE.png",
+          "short_text": "What is real, and what is a dream?",
+          "cover_color": "#201127",
+          "url": "https://raredialect.itch.io/fugue-shot",
+          "id": 3298174,
+          "user": {
+            "id": 10725685,
+            "url": "https://raredialect.itch.io",
+            "name": "Rare Dialect"
+          },
+          "platforms": [
+            "windows"
+          ]
+        }
+      },
+      "details": {
+        "title": "Fugue Shot (Jam Version)",
+        "description": "  2025 Bigmode Game Jam Finalist\n \nWe’re working on a full version of Fugue Shot. Wishlist on Steam Today!\n\n\nYou can also Join our Discord to get the latest updates on the game, give feedback, and playtest new features - we’d love your input!\n\nNOTE: CLICK HERE to play in browser on gx.games.\n——\nWhat is real, and what is a dream?\n——\nFugue Shot is a physics puzzle roguelike set in a surreal dream-state world initially created for the 2025 Bigmode Game Jam.\n\n\n\nThe jam version of the game has five levels and does not save - it's intended to be completed in one sitting.\n\n\n\nClick \"Menu\" in-game for instructions on how to play.\n\n\n——\n\n\n\nCreated by Rare Dialect\n\n\n\nGame Design, Programming, Sound: David Karbo\n\nArt, Art Direction: Tomás Aroza Rodríguez (@tomisit0art)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzI5ODE3NC8xOTY5ODE5Ni5naWY=/original/D5ibFn.gif",
+          "https://img.itch.zone/aW1hZ2UvMzI5ODE3NC8xOTY5ODM0Mi5naWY=/original/f0NMef.gif",
+          "https://img.itch.zone/aW1hZ2UvMzI5ODE3NC8xOTY5ODQ0OS5naWY=/original/Ej5mB5.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Authors": "Rare Dialect, Tomisit0",
+          "Genre": "Puzzle",
+          "Tags": "Atmospheric, Indie, Mouse only, Physics, Pixel Art, Roguelike, Roguelite, Surreal, Top-Down"
+        }
+      }
+    },
+    {
+      "gameId": 3288184,
+      "gameUrl": "https://preeminent-bunny.itch.io/lineman",
+      "overallRank": 15,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 92,
+        "url": "/jam/bigmode-game-jam-2025/rate/3288184",
+        "id": 654109,
+        "coolness": 108,
+        "created_at": "2025-02-02 04:19:58",
+        "game": {
+          "title": "Line Man",
+          "url": "https://preeminent-bunny.itch.io/lineman",
+          "cover_color": "#86c06c",
+          "cover": "https://img.itch.zone/aW1nLzE5NjYwODM2LnBuZw==/300x240%23c/78CGtH.png",
+          "id": 3288184,
+          "user": {
+            "id": 12055191,
+            "url": "https://preeminent-bunny.itch.io",
+            "name": "Preeminent_Bunny"
+          },
+          "platforms": [
+            "web"
+          ]
+        }
+      },
+      "details": {
+        "title": "Line Man",
+        "description": "Controls (Keyboard): \nZ (as in Zebra) = A (interact)\nX = B (Press A while holding B to move backwards with batteries)\nArrow keys = D-pad (Move)\nEnter = Start (Level reset)\nRight Shift = Select (Level select while on the title screen)\nLine Man is a short puzzle game where you play as an engineer trying to fix power lines so they can watch their television. Through the use of several different kinds of modules, they reroute, reconnect, and transport power in an intricate (spaghetti) layout of wires.\nLine Man was made in GB Studio, meaning that the rom can be exported and played on real Nintendo hardware, provided you have a flash cart and a way to get it on there. I did have to do some cheese with color mode, so it runs much better on a game boy color than an original game boy.\nPlease send me any feedback, bug reports, or questions (this is my first puzzle game) on discord at preeminent_bunny",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzI4ODE4NC8xOTYyODE2OS5wbmc=/original/UCwhNP.png",
+          "https://img.itch.zone/aW1hZ2UvMzI4ODE4NC8xOTY2MDgzOC5wbmc=/original/EUaljY.png",
+          "https://img.itch.zone/aW1hZ2UvMzI4ODE4NC8xOTY2MDgzOS5wbmc=/original/eNcg0l.png",
+          "https://img.itch.zone/aW1hZ2UvMzI4ODE4NC8xOTY2MDg0Mi5wbmc=/original/RHNJUz.png",
+          "https://img.itch.zone/aW1hZ2UvMzI4ODE4NC8xOTY2MDg0My5wbmc=/original/woGe%2FT.png",
+          "https://img.itch.zone/aW1hZ2UvMzI4ODE4NC8xOTY3MDQyMy5wbmc=/original/%2B1llzJ.png",
+          "https://img.itch.zone/aW1hZ2UvMzI4ODE4NC8xOTY5NDM3NS5wbmc=/original/uJy%2Fim.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Preeminent_Bunny",
+          "Genre": "Puzzle",
+          "Tags": "2D, bigmode, dunky, Game Boy, Game Jam, No AI, power, Retro, studio, videogamedunky"
+        }
+      }
+    }
+  ]
+}

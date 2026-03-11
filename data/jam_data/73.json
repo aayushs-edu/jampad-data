@@ -1,0 +1,3432 @@
+{
+  "n": 73,
+  "name": "Game Off 2017",
+  "url": "https://itch.io/jam/game-off-2017",
+  "theme": "throwback",
+  "slug": "game-off-2017",
+  "jamMeta": {
+    "jamType": "ended",
+    "ratings": "2,333",
+    "entries": "193",
+    "title": "Game Off 2017",
+    "jamURL": "https://itch.io/jam/game-off-2017",
+    "hosts": {
+      "GitHub": "https://github.itch.io",
+      "Lee Reilly": "https://leereilly.itch.io",
+      "#GitHubGameOff": "https://bsky.app/hashtag/GitHubGameOff"
+    },
+    "jamID": "5133"
+  },
+  "totalEntries": 191,
+  "ranked": true,
+  "hasCategories": true,
+  "needsManualSelection": false,
+  "categories": [
+    "Overall",
+    "Gameplay",
+    "Graphics",
+    "Audio",
+    "Innovation",
+    "Theme interpretation"
+  ],
+  "topGames": [
+    {
+      "gameId": 197731,
+      "gameUrl": "https://securas.itch.io/daemon-vs-demon",
+      "overallRank": 1,
+      "topCategories": [
+        "Overall",
+        "Gameplay",
+        "Graphics",
+        "Audio"
+      ],
+      "resultData": {
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 4.4137931034483,
+            "rank": 1,
+            "score": 4.4137931034483
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 4.448275862069,
+            "rank": 1,
+            "score": 4.448275862069
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.551724137931,
+            "rank": 5,
+            "score": 4.551724137931
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.1034482758621,
+            "rank": 2,
+            "score": 4.1034482758621
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.4137931034483,
+            "rank": 28,
+            "score": 3.4137931034483
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 3.2758620689655,
+            "rank": 57,
+            "score": 3.2758620689655
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2017/rate/197731",
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTk3NzMxLzkyODI5My5naWY=/300x240%23c/GVUeH9.gif",
+        "title": "Daemon vs Demon",
+        "id": 197731,
+        "rank": 1,
+        "contributors": [
+          {
+            "name": "securas",
+            "id": 368790
+          }
+        ],
+        "score": 0.73563218390805,
+        "raw_score": 0.73563218390805,
+        "rating_count": 29
+      },
+      "entryData": {
+        "coolness": 41,
+        "game": {
+          "id": 197731,
+          "short_text": "A hack and slash roguelike - 2017 Github Game Off Jam",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTk3NzMxLzkyODI5My5naWY=/300x240%23c/GVUeH9.gif",
+          "gif_cover": "https://img.itch.zone/aW1hZ2UvMTk3NzMxLzkyODI5My5naWY=/original/vAfm4K.gif",
+          "title": "Daemon vs Demon",
+          "user": {
+            "name": "securas",
+            "url": "https://securas.itch.io",
+            "id": 368790
+          },
+          "url": "https://securas.itch.io/daemon-vs-demon",
+          "cover_color": "#203132",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ]
+        },
+        "id": 32066,
+        "url": "/jam/game-off-2017/rate/197731",
+        "created_at": "2017-12-01 11:22:28",
+        "rating_count": 29
+      },
+      "details": {
+        "title": "Daemon vs Demon",
+        "description": "Misfortune has led our hero to the depths of hell. Now he has to slay rogue demons to be able to remain in the world of the living.\n\nThis demo was created using Godot Engine and the authors would like to thank the support of the Godot Engine Facebook community (https://www.facebook.com/groups/godotengine/). Thanks guys for helping out so much!\nIn the spirit of the GitHub Game Off Jam, the game and graphical assets are freely available here: https://github.com/securas/goj with a very permissible MIT license. Also, the music and sfx are available under a CC license.\nWe hope you have as much fun playing this demo as we had making it and please leave a comment below to let us know if you liked it or how can we improve it.\n\n\n\nControls\n\nCredits\nGame Design and ArtSecurasMusic and Sound EffectsMundusOne of the demons (CC License)svh440\nFor some reason, windows 10 is considering the binaries infected by a trojan: Fuerboos.A!cl\nAs far as we know, this is a false positive.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTk3NzMxLzkzMjQwMi5wbmc=/original/aOe5M9.png",
+          "https://img.itch.zone/aW1hZ2UvMTk3NzMxLzkzMjQwNy5wbmc=/original/xi4wv8.png",
+          "https://img.itch.zone/aW1hZ2UvMTk3NzMxLzkzMjQwMy5wbmc=/original/JxAxJp.png",
+          "https://img.itch.zone/aW1hZ2UvMTk3NzMxLzkzMjQwNS5wbmc=/original/ji79fd.png",
+          "https://img.itch.zone/aW1hZ2UvMTk3NzMxLzkzMjQwNi5wbmc=/original/2%2Fi%2BHR.png",
+          "https://img.itch.zone/aW1hZ2UvMTk3NzMxLzkzMjQwOS5wbmc=/original/P7Jldg.png",
+          "https://img.itch.zone/aW1hZ2UvMTk3NzMxLzkzMjQwOC5wbmc=/original/WhtKBM.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS, Linux",
+          "Rating": "Rated 4.4 out of 5 stars(8 total ratings)",
+          "Author": "securas",
+          "Genre": "Role Playing, Shooter",
+          "Made with": "Godot",
+          "Tags": "Action-Adventure, Godot, Ludum Dare 40, Roguelike, Stealth, Top Down Adventure, Top down shooter",
+          "Code license": "MIT License",
+          "Asset license": "Creative Commons Attribution_NonCommercial v4.0 International",
+          "Average session": "A few minutes",
+          "Inputs": "Keyboard, Gamepad (any)"
+        }
+      }
+    },
+    {
+      "gameId": 197183,
+      "gameUrl": "https://zilikken.itch.io/reinvent-the-wheel",
+      "overallRank": 2,
+      "topCategories": [
+        "Overall",
+        "Gameplay",
+        "Theme interpretation"
+      ],
+      "resultData": {
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 4.3,
+            "rank": 2,
+            "score": 4.3
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.9,
+            "rank": 8,
+            "score": 3.9
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.3,
+            "rank": 12,
+            "score": 4.3
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.7,
+            "rank": 14,
+            "score": 3.7
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.8,
+            "rank": 13,
+            "score": 3.8
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 4.3,
+            "rank": 4,
+            "score": 4.3
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2017/rate/197183",
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTk3MTgzLzEyMTY5MTYucG5n/300x240%23c/jApxMj.png",
+        "title": "Reinvent the Wheel",
+        "id": 197183,
+        "rank": 2,
+        "contributors": [
+          {
+            "name": "zilikken",
+            "id": 829578
+          }
+        ],
+        "score": 0.71666666666667,
+        "raw_score": 0.71666666666667,
+        "rating_count": 10
+      },
+      "entryData": {
+        "coolness": 0,
+        "game": {
+          "url": "https://zilikken.itch.io/reinvent-the-wheel",
+          "title": "Reinvent the Wheel",
+          "id": 197183,
+          "user": {
+            "name": "zilikken",
+            "url": "https://zilikken.itch.io",
+            "id": 829578
+          },
+          "short_text": "Chisel down a boulder and see how far it goes!",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTk3MTgzLzEyMTY5MTYucG5n/300x240%23c/jApxMj.png",
+          "cover_color": "#535353",
+          "platforms": [
+            "windows",
+            "osx"
+          ]
+        },
+        "id": 31858,
+        "url": "/jam/game-off-2017/rate/197183",
+        "created_at": "2017-11-27 22:05:27",
+        "rating_count": 10
+      },
+      "details": {
+        "title": "Reinvent the Wheel",
+        "description": "Made for the fifth annual GitHub/Itch.io Game Off game jam. Taking the theme 'throwback' to the extreme, Reinvent The Wheel takes you to the stone age for a chance to rewrite history! Fashion a wheel with the limited time and resources given to you, and challenge your friends to see who's invention will travel the farthest!\nAwards:IEEE GameSig 2018 PEOPLE'S CHOICE AWARDIEEE GameSig 2018 2ND PLACE Fifth Annual GitHub/Itch.io Game Off Game Jam 2ND PLACE out of 206Fifth Annual GitHub/Itch.io STAFF PICKDeveloped by Monument Games, a group of students in California State University Long Beach's Video Game Development Association.\n\nVisit our website at www.monumentgames.net",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTk3MTgzLzEyMTY5MjMucG5n/original/qvCQxT.png",
+          "https://img.itch.zone/aW1hZ2UvMTk3MTgzLzEyMTY5MTgucG5n/original/aLRfjC.png",
+          "https://img.itch.zone/aW1hZ2UvMTk3MTgzLzEyMTY5MTkucG5n/original/lPe3M9.png",
+          "https://img.itch.zone/aW1hZ2UvMTk3MTgzLzEyMTY5MjAucG5n/original/Ry1cfG.png",
+          "https://img.itch.zone/aW1hZ2UvMTk3MTgzLzEyMTY5MjEucG5n/original/uCZIFG.png",
+          "https://img.itch.zone/aW1hZ2UvMTk3MTgzLzEyMTY5MjQucG5n/original/jodr%2Bx.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS",
+          "Author": "zilikken",
+          "Tags": "2D, Game Jam"
+        }
+      }
+    },
+    {
+      "gameId": 199659,
+      "gameUrl": "https://muifwego.itch.io/glitcher",
+      "overallRank": 3,
+      "topCategories": [
+        "Overall",
+        "Innovation",
+        "Theme interpretation"
+      ],
+      "resultData": {
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 4.2222222222222,
+            "rank": 3,
+            "score": 4.2222222222222
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.8518518518519,
+            "rank": 11,
+            "score": 3.8518518518519
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.2222222222222,
+            "rank": 16,
+            "score": 4.2222222222222
+          },
+          {
+            "name": "Audio",
+            "raw_score": 2.4814814814815,
+            "rank": 92,
+            "score": 2.4814814814815
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 4.2962962962963,
+            "rank": 2,
+            "score": 4.2962962962963
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 4.2962962962963,
+            "rank": 5,
+            "score": 4.2962962962963
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2017/rate/199659",
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTk5NjU5LzkzNjIxOS5wbmc=/300x240%23c/s%2Fb7Nm.png",
+        "title": "Glitcher",
+        "id": 199659,
+        "rank": 3,
+        "contributors": [
+          {
+            "name": "MUIFWEGO",
+            "id": 104321
+          }
+        ],
+        "score": 0.7037037037037,
+        "raw_score": 0.7037037037037,
+        "rating_count": 27
+      },
+      "entryData": {
+        "coolness": 0,
+        "game": {
+          "url": "https://muifwego.itch.io/glitcher",
+          "title": "Glitcher",
+          "id": 199659,
+          "user": {
+            "name": "MUIFWEGO",
+            "url": "https://muifwego.itch.io",
+            "id": 104321
+          },
+          "short_text": "GLITCHER is a Tactical Espionage game where you play as a computer virus",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTk5NjU5LzkzNjIxOS5wbmc=/300x240%23c/s%2Fb7Nm.png",
+          "cover_color": "#000000",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ]
+        },
+        "id": 32147,
+        "url": "/jam/game-off-2017/rate/199659",
+        "created_at": "2017-12-01 21:16:28",
+        "rating_count": 27
+      },
+      "details": {
+        "title": "Glitcher",
+        "description": "GLITCHER is a Tactical Espionage game where you play as a computer virus.\nGlitcher was created in two weeks by\nRafi Emilio Alam & Sarada Chenfor the Github Game-Off Jam 2017\n\nhttps://github.com/rafiemilio/Glitcher\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTk5NjU5LzkzNDAzMy5wbmc=/original/RvyPor.png",
+          "https://img.itch.zone/aW1hZ2UvMTk5NjU5LzkzNDQzNS5wbmc=/original/ZP8wmF.png",
+          "https://img.itch.zone/aW1hZ2UvMTk5NjU5LzkzNDQzNC5wbmc=/original/GUO9B4.png",
+          "https://img.itch.zone/aW1hZ2UvMTk5NjU5LzkzNDQzNi5wbmc=/original/Qel5vZ.png",
+          "https://img.itch.zone/aW1hZ2UvMTk5NjU5LzkzNDQzNy5wbmc=/original/on%2B6sy.png",
+          "https://img.itch.zone/aW1hZ2UvMTk5NjU5LzkzNDQ0Ny5wbmc=/original/Agfu4T.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 4.0 out of 5 stars(4 total ratings)",
+          "Author": "MUIFWEGO",
+          "Genre": "Adventure",
+          "Made with": "Unity",
+          "Tags": "8-Bit, Tactical, Top Down Adventure",
+          "Average session": "A few minutes",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 199582,
+      "gameUrl": "https://ericlee.itch.io/defenestration",
+      "overallRank": 4,
+      "topCategories": [
+        "Overall",
+        "Gameplay",
+        "Graphics",
+        "Audio",
+        "Innovation"
+      ],
+      "resultData": {
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 4.1875,
+            "rank": 4,
+            "score": 4.1875
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.875,
+            "rank": 10,
+            "score": 3.875
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.4375,
+            "rank": 8,
+            "score": 4.4375
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.8125,
+            "rank": 10,
+            "score": 3.8125
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 4.1875,
+            "rank": 3,
+            "score": 4.1875
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 4.125,
+            "rank": 11,
+            "score": 4.125
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2017/rate/199582",
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTk5NTgyLzkzNTY1OS5wbmc=/300x240%23c/0k45z7.png",
+        "title": "Defenestration!",
+        "id": 199582,
+        "rank": 4,
+        "contributors": [
+          {
+            "name": "ericlee",
+            "id": 832898
+          },
+          {
+            "name": "Mischievous Robo",
+            "id": 832906
+          },
+          {
+            "name": "jimmyyjams",
+            "id": 832902
+          },
+          {
+            "name": "Paper_Hat",
+            "id": 830978
+          },
+          {
+            "name": "Mzatlin",
+            "id": 875039
+          },
+          {
+            "name": "Daniel Kim",
+            "id": 756121
+          }
+        ],
+        "score": 0.69791666666667,
+        "raw_score": 0.69791666666667,
+        "rating_count": 16
+      },
+      "entryData": {
+        "contributors": [
+          {
+            "name": "ericlee",
+            "url": "https://ericlee.itch.io"
+          },
+          {
+            "name": "Mischievous Robo",
+            "url": "https://mischievous-robo.itch.io"
+          },
+          {
+            "name": "jimmyyjams",
+            "url": "https://jimmyyjams.itch.io"
+          },
+          {
+            "name": "Paper_Hat",
+            "url": "https://paper-hat.itch.io"
+          },
+          {
+            "name": "Mzatlin",
+            "url": "https://mzatlin.itch.io"
+          },
+          {
+            "name": "Daniel Kim",
+            "url": "https://danielkimaudio.itch.io"
+          }
+        ],
+        "coolness": 4,
+        "rating_count": 16,
+        "id": 32155,
+        "url": "/jam/game-off-2017/rate/199582",
+        "created_at": "2017-12-01 21:27:49",
+        "game": {
+          "url": "https://ericlee.itch.io/defenestration",
+          "title": "Defenestration!",
+          "id": 199582,
+          "user": {
+            "name": "ericlee",
+            "url": "https://ericlee.itch.io",
+            "id": 832898
+          },
+          "short_text": "Bob just KEEPS COMING BACK. Throw him back out... the window.",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTk5NTgyLzkzNTY1OS5wbmc=/300x240%23c/0k45z7.png",
+          "cover_color": "#eeeeee",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ]
+        }
+      },
+      "details": {
+        "title": "Defenestration!",
+        "description": "Your boss gave Bob his month's notice a month ago, but he KEEPS. COMING. BACK. To keep your workplace safe and efficient, you decide it’s best to throw Bob back out... the window. Manage your fatigue by shoving and kicking him into the various objects strewn about the office in this resistance-based side-scroller!\n--\nCredits\nProgrammer - Eric Lee, \"Erleh\"\nProgrammer - Justin Gonzalez, \"Paper-Hat\"\nArtist - Match, \"Mischievous Robo\"\nArtist - Jamie Custodio, \"jimmyyjams\"\nMusic and Sound Design - Daniel Kim, \"DanKimAudio\"\nAssistant Programmer - Michael Zatlin Jr. \"Mzatlin\"1. Download zip file, \n(However, if using a program like 7zip, Download the .7z file )\n2. Extract the folder held within \n3. Run \"Defenestration.exe\" enjoy!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTk5NTgyLzkzMzg1OS5qcGc=/original/fQY4XB.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTk5NTgyLzkzMzg2MS5qcGc=/original/jqkOhp.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTk5NTgyLzkzMzg5Mi5qcGc=/original/P6E821.jpg"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows, macOS, Linux",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "ericlee, Mischievous Robo, jimmyyjams, Paper_Hat, Mzatlin, Daniel Kim",
+          "Genre": "Action",
+          "Tags": "2D, Comedy, Side Scroller"
+        }
+      }
+    },
+    {
+      "gameId": 198977,
+      "gameUrl": "https://balajmarius.itch.io/commit4",
+      "overallRank": 5,
+      "topCategories": [
+        "Overall",
+        "Graphics",
+        "Theme interpretation"
+      ],
+      "resultData": {
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 4.0571428571429,
+            "rank": 5,
+            "score": 4.0571428571429
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.2571428571429,
+            "rank": 35,
+            "score": 3.2571428571429
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.5714285714286,
+            "rank": 3,
+            "score": 4.5714285714286
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.7142857142857,
+            "rank": 13,
+            "score": 3.7142857142857
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.0285714285714,
+            "rank": 45,
+            "score": 3.0285714285714
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 4.5428571428571,
+            "rank": 1,
+            "score": 4.5428571428571
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2017/rate/198977",
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTk4OTc3LzkzMDY1Ni5naWY=/300x240%23c/E5Rv29.gif",
+        "title": "COMMIT4",
+        "id": 198977,
+        "rank": 5,
+        "contributors": [
+          {
+            "name": "Marius B.",
+            "id": 833592
+          }
+        ],
+        "score": 0.67619047619048,
+        "raw_score": 0.67619047619048,
+        "rating_count": 35
+      },
+      "entryData": {
+        "coolness": 11,
+        "game": {
+          "id": 198977,
+          "short_text": "The bug invaders are coming to destroy master branch. Your mission is to prevent bugs conquering the production.",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTk4OTc3LzkzMDY1Ni5naWY=/300x240%23c/E5Rv29.gif",
+          "gif_cover": "https://img.itch.zone/aW1hZ2UvMTk4OTc3LzkzMDY1Ni5naWY=/original/8p%2BfWr.gif",
+          "title": "COMMIT4",
+          "user": {
+            "name": "Marius B.",
+            "url": "https://balajmarius.itch.io",
+            "id": 833592
+          },
+          "url": "https://balajmarius.itch.io/commit4",
+          "cover_color": "#eeeeee",
+          "platforms": [
+            "web"
+          ]
+        },
+        "id": 31971,
+        "url": "/jam/game-off-2017/rate/198977",
+        "created_at": "2017-11-30 10:16:21",
+        "rating_count": 35
+      },
+      "details": {
+        "title": "COMMIT4",
+        "description": "COMMIT4\nInspired by \"Aerogun field\"  and \"Castle Adventure\".\nThe bug invaders are coming to destroy master branch. Your mission is to prevent bugs conquering the production.\n---\n\nCONTROLS\n← (left) move left→ (right) move right␣ (spacebar) fire↩ (enter) start / restart game\nCREDITS\nCode: Balaj MariusDesign: Mircea Dragan\nFork/Code review welcome.\n[SOURCE]",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTk4OTc3LzkzMDY4NS5wbmc=/original/8eY5mY.png",
+          "https://img.itch.zone/aW1hZ2UvMTk4OTc3LzkzMDY3My5wbmc=/original/X3n%2Fv%2F.png",
+          "https://img.itch.zone/aW1hZ2UvMTk4OTc3LzkzMDY3NC5wbmc=/original/ij4SZ7.png",
+          "https://img.itch.zone/aW1hZ2UvMTk4OTc3LzkzMDY3NS5wbmc=/original/McsEJh.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.5 out of 5 stars(2 total ratings)",
+          "Author": "Marius B.",
+          "Genre": "Shooter",
+          "Made with": "Phaser",
+          "Tags": "GitHub, lcd, mini-game"
+        }
+      }
+    },
+    {
+      "gameId": 196111,
+      "gameUrl": "https://gipzo.itch.io/throwback",
+      "overallRank": 6,
+      "topCategories": [
+        "Overall",
+        "Audio"
+      ],
+      "resultData": {
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 4.0285714285714,
+            "rank": 6,
+            "score": 4.0285714285714
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.7428571428571,
+            "rank": 15,
+            "score": 3.7428571428571
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.2857142857143,
+            "rank": 13,
+            "score": 4.2857142857143
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.0285714285714,
+            "rank": 3,
+            "score": 4.0285714285714
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.1714285714286,
+            "rank": 39,
+            "score": 3.1714285714286
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 4.0285714285714,
+            "rank": 16,
+            "score": 4.0285714285714
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2017/rate/196111",
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTk2MTExLzkzNDExOS5wbmc=/300x240%23c/2CPgpu.png",
+        "title": "Throwback",
+        "id": 196111,
+        "rank": 6,
+        "contributors": [
+          {
+            "name": "Gipzo",
+            "id": 49688
+          }
+        ],
+        "score": 0.67142857142857,
+        "raw_score": 0.67142857142857,
+        "rating_count": 35
+      },
+      "entryData": {
+        "coolness": 16,
+        "game": {
+          "url": "https://gipzo.itch.io/throwback",
+          "title": "Throwback",
+          "id": 196111,
+          "user": {
+            "name": "Gipzo",
+            "url": "https://gipzo.itch.io",
+            "id": 49688
+          },
+          "short_text": "Action runner with bisons",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTk2MTExLzkzNDExOS5wbmc=/300x240%23c/2CPgpu.png",
+          "cover_color": "#043852",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ]
+        },
+        "id": 31711,
+        "url": "/jam/game-off-2017/rate/196111",
+        "created_at": "2017-11-24 20:52:52",
+        "rating_count": 35
+      },
+      "details": {
+        "title": "Throwback",
+        "description": "Run and throw back trash cans into bisons that are coming for you!\nTip: Try to grab trashcans just before they hit you, don't keep 'Grab' button pressed all the time.\nEntry for GitHub Game Off 2017.Source: GitHub\nControlsZ, W - JumpX - Grab and Throw\nCreditsArt based on sprites by DidiGameB, new animations and effects added by me.Music by Juhani JunkalaSFX - Bfxr",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTk2MTExLzkzNDEyMC5wbmc=/original/1MHTdE.png",
+          "https://img.itch.zone/aW1hZ2UvMTk2MTExLzkzNDEyMS5wbmc=/original/HM868g.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Author": "Gipzo",
+          "Genre": "Action",
+          "Made with": "Unity",
+          "Tags": "game-off-2017, Runner, throwback"
+        }
+      }
+    },
+    {
+      "gameId": 182025,
+      "gameUrl": "https://brainjar.itch.io/the-mad-gear",
+      "overallRank": 7,
+      "topCategories": [
+        "Overall"
+      ],
+      "resultData": {
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 4,
+            "rank": 7,
+            "score": 4
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.8181818181818,
+            "rank": 12,
+            "score": 3.8181818181818
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.0909090909091,
+            "rank": 18,
+            "score": 4.0909090909091
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.5454545454545,
+            "rank": 23,
+            "score": 3.5454545454545
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 2.9090909090909,
+            "rank": 54,
+            "score": 2.9090909090909
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 3.6363636363636,
+            "rank": 34,
+            "score": 3.6363636363636
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2017/rate/182025",
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTgyMDI1LzkzMTQ1MS5wbmc=/300x240%23c/houg5L.png",
+        "title": "The Mad Gear: Go Right and Fight!",
+        "id": 182025,
+        "rank": 7,
+        "contributors": [
+          {
+            "name": "Brain Jar",
+            "id": 156624
+          }
+        ],
+        "score": 0.66666666666667,
+        "raw_score": 0.66666666666667,
+        "rating_count": 11
+      },
+      "entryData": {
+        "coolness": 0,
+        "game": {
+          "url": "https://brainjar.itch.io/the-mad-gear",
+          "title": "The Mad Gear: Go Right and Fight!",
+          "id": 182025,
+          "user": {
+            "name": "Brain Jar",
+            "url": "https://brainjar.itch.io",
+            "id": 156624
+          },
+          "short_text": "GO RIGHT AND FIGHT!",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTgyMDI1LzkzMTQ1MS5wbmc=/300x240%23c/houg5L.png",
+          "cover_color": "#000000",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ]
+        },
+        "id": 32112,
+        "url": "/jam/game-off-2017/rate/182025",
+        "created_at": "2017-12-01 19:33:12",
+        "rating_count": 11
+      },
+      "details": {
+        "title": "The Mad Gear: Go Right and Fight!",
+        "description": "\nThe Baddest Rock Band in Turbo City\nBattle your way through five levels of classic beat 'em up style \ngameplay featuring the worst that Turbo City's loony fighting gangs have\n to offer.\nTurbo City better watch out! Villains beware.\n\nThe Mad Gear need your help to clear their name and save the mayor. \nArrested under the false charge of kidnapping the mayor of Turbo City, \nThe Mad Gear Gang of Tough Guys have no choice but to bust out and find \nthe true culprit.\n\nTeam up with a friend and go head to head with a hilarious cast of \nvillains rendered in bold pixel graphics. There's no shortage of \nexplosions in this game either. Smash your way through five different \ngangs and face off with every gang boss.\nhttp://www.brainjargames.com/https://twitter.com/brainjargames\n\n\nCompatible with Windows 8, Windows 10, Linux, macOS\nv1.3.1Extract the files and run the executable. On linux, right click the .exe, choose properties, permissions and then check allow executing file as program.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTgyMDI1Lzg2NjY3Mi5wbmc=/original/BpuAh7.png",
+          "https://img.itch.zone/aW1hZ2UvMTgyMDI1Lzg2NjY3Ny5wbmc=/original/kSBrbm.png",
+          "https://img.itch.zone/aW1hZ2UvMTgyMDI1Lzg2NjY3NC5wbmc=/original/BHOG4M.png",
+          "https://img.itch.zone/aW1hZ2UvMTgyMDI1Lzg2NjY3My5wbmc=/original/4le7em.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS, Linux",
+          "Author": "Brain Jar",
+          "Genre": "Action, Fighting",
+          "Made with": "Aseprite, Godot",
+          "Tags": "2D, Beat 'em up, Colorful, Funny, Isometric, Music, NES (Nintendo Entertainment System), Pixel Art, Retro"
+        }
+      }
+    },
+    {
+      "gameId": 199410,
+      "gameUrl": "https://arknoid.itch.io/the-lost-jedi",
+      "overallRank": 7,
+      "topCategories": [
+        "Overall",
+        "Gameplay",
+        "Theme interpretation"
+      ],
+      "resultData": {
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 4,
+            "rank": 7,
+            "score": 4
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.9166666666667,
+            "rank": 7,
+            "score": 3.9166666666667
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.9166666666667,
+            "rank": 22,
+            "score": 3.9166666666667
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.6666666666667,
+            "rank": 15,
+            "score": 3.6666666666667
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 2.8333333333333,
+            "rank": 59,
+            "score": 2.8333333333333
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 4.1666666666667,
+            "rank": 10,
+            "score": 4.1666666666667
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2017/rate/199410",
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTk5NDEwLzExMzQwNzcucG5n/300x240%23c/g2hLmf.png",
+        "title": "The-Lost-Jedi",
+        "id": 199410,
+        "rank": 7,
+        "contributors": [
+          {
+            "name": "Arknoid",
+            "id": 366290
+          }
+        ],
+        "score": 0.66666666666667,
+        "raw_score": 0.66666666666667,
+        "rating_count": 12
+      },
+      "entryData": {
+        "coolness": 29,
+        "game": {
+          "url": "https://arknoid.itch.io/the-lost-jedi",
+          "title": "The-Lost-Jedi",
+          "id": 199410,
+          "user": {
+            "name": "Arknoid",
+            "url": "https://arknoid.itch.io",
+            "id": 366290
+          },
+          "short_text": "A retro shoot them up where the goal is to destroy and survive face of incessant wave of enemy",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTk5NDEwLzExMzQwNzcucG5n/300x240%23c/g2hLmf.png",
+          "cover_color": "#000000",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ]
+        },
+        "id": 32076,
+        "url": "/jam/game-off-2017/rate/199410",
+        "created_at": "2017-12-01 13:47:35",
+        "rating_count": 12
+      },
+      "details": {
+        "title": "The-Lost-Jedi",
+        "description": "The project:\nThe-lost-jedi is basically an idea of four future student of o'clock school (web development) for the  OFFGame jam 2017 , which had to be developed in Phaser. For the theme of throwback, we started on an 8-bit shoot them up with a sprite base  8 x8 pixel  and a limited color palette (pico 8), of course sound effects and 8-bit music, all with a generating system of enemy wave.\nBut for lack of time for some and the unforeseen difficulty of phaser  forced us to abandon the project.\nSo I continued the project alone under Godot engine (which I love) ten days before the end of the jam.\nHere is The-lost-jedi a retro shoot them up in order to destroy and survive ever more dangerous waves of enemies using accumulation of  powers up.Your goal as in the past is to make the biggest score.\nPowers up\nThe powers up are cumulative and offers a rise in power able to devastate everything, in return if you get hit by enemy they come back to the starting point\n\nAdd more shot damage \n\nAdd more move  speed to player ship and less delay to shooting\n\nAdd lateral shot and more damage \n\nAdd energy (life)\nControl:\nThe use of a gamepad is strongly recommended, but you can use the keyboard :\nArrows + Space\n ZQDS + Space\nWASD + Space\nWhen shooting speed ship are slowly \nFuture:\nThe project is still alpha because I would like to improve  :\nBetter wave system (increasing difficulty and better generating) Add more enemy,Add more powers-up (Shield and Beam laser)Final boss.Menu with option2 player mode\nBut first of all I have to optimize the code and fix some bug.\nCode source :\nhttps://github.com/Arknoid/The-lost-jedi\nAll feedback are welcome :Mail : Omalige@gmail.com\nGood game\nThank to Max, Dicard and Mike of O'clock  for their participation",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTk5NDEwLzExMzQxNDQucG5n/original/%2Ff1Bqb.png",
+          "https://img.itch.zone/aW1hZ2UvMTk5NDEwLzExMzQxNDIucG5n/original/wVQBYl.png",
+          "https://img.itch.zone/aW1hZ2UvMTk5NDEwLzExMzQxNDAucG5n/original/oK%2Fciw.png",
+          "https://img.itch.zone/aW1hZ2UvMTk5NDEwLzExMzQxNDEucG5n/original/x4MlhD.png",
+          "https://img.itch.zone/aW1hZ2UvMTk5NDEwLzk0ODgxMi5naWY=/original/DBmyMk.gif",
+          "https://img.itch.zone/aW1hZ2UvMTk5NDEwLzkzMzI0Ny5wbmc=/original/Oarznu.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows, macOS, Linux",
+          "Author": "Arknoid",
+          "Genre": "Action, Survival",
+          "Made with": "Godot",
+          "Tags": "2D, 8-Bit, Arcade, Commodore 64, Game Jam, Godot, linux, Open Source, Shoot 'Em Up",
+          "Code license": "MIT License",
+          "Asset license": "Creative Commons Zero v1.0 Universal",
+          "Average session": "A few minutes",
+          "Inputs": "Keyboard, Xbox controller, Gamepad (any), Joystick"
+        }
+      }
+    },
+    {
+      "gameId": 199413,
+      "gameUrl": "https://liquidneongames.itch.io/lazonyx-prototype",
+      "overallRank": 7,
+      "topCategories": [
+        "Overall",
+        "Gameplay",
+        "Innovation"
+      ],
+      "resultData": {
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 4,
+            "rank": 7,
+            "score": 4
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 4,
+            "rank": 3,
+            "score": 4
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.3333333333333,
+            "rank": 62,
+            "score": 3.3333333333333
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.7222222222222,
+            "rank": 11,
+            "score": 3.7222222222222
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 4.3333333333333,
+            "rank": 1,
+            "score": 4.3333333333333
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 3.5555555555556,
+            "rank": 37,
+            "score": 3.5555555555556
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2017/rate/199413",
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTk5NDEzLzkzMzUyNi5qcGc=/300x240%23c/4hQZwm.jpg",
+        "title": "Lazonyx - Prototype",
+        "id": 199413,
+        "rank": 7,
+        "contributors": [
+          {
+            "name": "Liquid Neon Games",
+            "id": 841466
+          }
+        ],
+        "score": 0.66666666666667,
+        "raw_score": 0.66666666666667,
+        "rating_count": 18
+      },
+      "entryData": {
+        "coolness": 6,
+        "game": {
+          "url": "https://liquidneongames.itch.io/lazonyx-prototype",
+          "title": "Lazonyx - Prototype",
+          "id": 199413,
+          "user": {
+            "name": "Liquid Neon Games",
+            "url": "https://liquidneongames.itch.io",
+            "id": 841466
+          },
+          "short_text": "A retro arcade-style single-screen platformer",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTk5NDEzLzkzMzUyNi5qcGc=/300x240%23c/4hQZwm.jpg",
+          "cover_color": "#1c1c1c",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ]
+        },
+        "id": 32082,
+        "url": "/jam/game-off-2017/rate/199413",
+        "created_at": "2017-12-01 14:49:12",
+        "rating_count": 18
+      },
+      "details": {
+        "title": "Lazonyx - Prototype",
+        "description": "What is Lazonyx?\nLazonyx is a retro arcade-style 2d single-screen platformer with movable platforms. The goal is to shoot the enemies, and collect the rings that they drop. The rings needs to find their way to the collection point at the bottom of the screen.\nIs it playable?\nYes. It was created as an entry for the 2017 #GitHubGameOff and is a fully-playable and enjoyable prototype in its current stage. \nIs it being developed further?\nYes. Early play tests have revealed that gamers enjoy the game a lot and would love a more advanced and varied version of the game with more attention paid to the artwork and sound effects. There are plans to take the prototype and develop it into a full-featured, cross-platform indie game that will give players many hours of enjoyment.\nWhy buy now if it's going to get better?\n\nBy buying the game now, you will be getting immediate access to a fun game that will expand further over time. All future updates will be free to early-access players, even if the price increases. On top of that, you will be supporting an indie developer who's main focus is on creating quality gaming experiences for players.\nWhat about the art?\nGiven the short time frame (30 days) to make this prototype, almost all energy was focussed on creating a truely enjoyable gameplay experience  A decision was made to use a minimal art style to afford as much time for that as possible. Now that the gameoff is over, the art is being re-worked from the ground up to create something that really does the game justice. The first official release will have a whole new suite of authentic pixel-art in the retro arcade style. Keep up-to-date with the progress on twitter: twitter.com/LiquidNeonGames\nI love the music. Where did it come from?\nThe fantastic music was composed for this game by Dervish Capkiner,  a Scottish composer who after years of commercial film work has started to add game soundtracks to his areas of interest. If you purchase the game with the soundtrack option, you will receive all copies of the game (forever - including future updates) and full-length versions of the music tracks used in the game.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTk5NDEzLzkzMzQxMy5qcGc=/original/gJGl%2Fl.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTk5NDEzLzkzMzQxNC5qcGc=/original/dhqfrC.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTk5NDEzLzkzMzQxMi5qcGc=/original/hpZY7y.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTk5NDEzLzkzMzQxMS5qcGc=/original/1KO4MH.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTk5NDEzLzkzMzQxMC5qcGc=/original/i50lMn.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTk5NDEzLzkzMzQwOS5qcGc=/original/HfqAM2.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows, macOS, Linux",
+          "Author": "Liquid Neon Games",
+          "Genre": "Platformer",
+          "Tags": "2D, 8-Bit, Arcade, Neon, Retro, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 199637,
+      "gameUrl": "https://pfail.itch.io/bad-vibes",
+      "overallRank": 7,
+      "topCategories": [
+        "Overall"
+      ],
+      "resultData": {
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 4,
+            "rank": 7,
+            "score": 4
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.7894736842105,
+            "rank": 14,
+            "score": 3.7894736842105
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.1578947368421,
+            "rank": 17,
+            "score": 4.1578947368421
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.5789473684211,
+            "rank": 21,
+            "score": 3.5789473684211
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.3157894736842,
+            "rank": 31,
+            "score": 3.3157894736842
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 4.0526315789474,
+            "rank": 15,
+            "score": 4.0526315789474
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2017/rate/199637",
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTk5NjM3LzkzNDAxNy5wbmc=/300x240%23c/fnyOYd.png",
+        "title": "BAD VIBES",
+        "id": 199637,
+        "rank": 7,
+        "contributors": [
+          {
+            "name": "pfail",
+            "id": 187931
+          }
+        ],
+        "score": 0.66666666666667,
+        "raw_score": 0.66666666666667,
+        "rating_count": 19
+      },
+      "entryData": {
+        "coolness": 95,
+        "game": {
+          "url": "https://pfail.itch.io/bad-vibes",
+          "title": "BAD VIBES",
+          "id": 199637,
+          "user": {
+            "name": "pfail",
+            "url": "https://pfail.itch.io",
+            "id": 187931
+          },
+          "short_text": "A trippy tribute to '90s-era shooters.",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTk5NjM3LzkzNDAxNy5wbmc=/300x240%23c/fnyOYd.png",
+          "cover_color": "#f3d600",
+          "platforms": [
+            "windows",
+            "osx"
+          ]
+        },
+        "id": 32148,
+        "url": "/jam/game-off-2017/rate/199637",
+        "created_at": "2017-12-01 21:18:54",
+        "rating_count": 19
+      },
+      "details": {
+        "title": "BAD VIBES",
+        "description": "\"A little bit Devil Daggers, a little bit Wolfenstein 3D... A fun game that's just dripping with style.\" — PC GAMER\n\"Its mixture of chirpy bloops and techno beats with its alternative hot and cold colors makes it easy to immerse yourself in the raw experience.\" — KOTAKU\n====\nBAD VIBES is a weird, wild homage to the golden era of first-person shooters. Trapped in an alien maze, you're forced to survive as long as you can. Run around collecting keys and vaporizing all the baddies that get in your way. The longer you stay alive, the more bad vibes you crush, the higher your score when you win. BAD VIBES is pure shooter madness, the way it was intended to be. \n====\nTOP 20 HIGH SCORES\n \n \n   \n          Name\n          Score\n          Date\n   \n \n \n1. admiral12607/26/2019\n2. ckv12501/20/2019\n3. James12358/12/2019\n4. Lucas11751/5/2018\n5. izzy11701/27/2019\n6. Tobias11452/26/2018\n7. K11255/2/2019\n8. OOPS Boner10851/21/2019\n9. The Dudest10652/17/2019\n10. Add PVP!10557/30/2019\n11. dario10451/1/2018\n12. sssswwdada10253/20/2018\n13. big gizzar10158/6/2019\n14. Barrett10001/9/2018\n15. ShaneRiley9951/19/2019\n16. bones9958/3/2019\n17. SneakyMan9854/29/2018\n18. butts9851/19/2019\n19. NICE ON9755/19/2019\n20. Matthew9651/21/2019\n\n\n-----\nBAD VIBES was created during November and December 2017. It features original music by Richard Jonas (used with permission from the artist) and sound effects created with sample packs available for free from Legowelt. A sprite asset from a free Wolfenstein 3D mod, Planet Nexion (2008), and another from Catacomb 3-D (1991) were used in this build. Aside from any bug fixes, there are currently no plans to continue developing the game, but any feedback is greatly appreciated all the same. The leaderboard is updated daily with new high scores.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTk5NjM3Lzk1MjY5MC5wbmc=/original/9mGgwX.png",
+          "https://img.itch.zone/aW1hZ2UvMTk5NjM3Lzk1MjY5MS5wbmc=/original/Y3QYkI.png",
+          "https://img.itch.zone/aW1hZ2UvMTk5NjM3Lzk1MjY5Mi5wbmc=/original/RXts%2FQ.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS",
+          "Release date": "Dec 01, 2017",
+          "Rating": "Rated 4.2 out of 5 stars(5 total ratings)",
+          "Author": "pfail",
+          "Genre": "Shooter, Action",
+          "Tags": "Dungeon Crawler, Experimental, First-Person, FPS, High Score, old-school, Pixel Art, Retro, Short",
+          "Asset license": "Creative Commons Attribution_NonCommercial_ShareAlike v4.0 International",
+          "Average session": "A few minutes",
+          "Inputs": "Keyboard, Mouse",
+          "Links": "Source code"
+        }
+      }
+    },
+    {
+      "gameId": 199204,
+      "gameUrl": "https://bamsarker.itch.io/bmrng",
+      "overallRank": 24,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 3.7647058823529,
+            "rank": 24,
+            "score": 3.7647058823529
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 4.0588235294118,
+            "rank": 2,
+            "score": 4.0588235294118
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 2.7058823529412,
+            "rank": 105,
+            "score": 2.7058823529412
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.3529411764706,
+            "rank": 37,
+            "score": 3.3529411764706
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.7058823529412,
+            "rank": 17,
+            "score": 3.7058823529412
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 4.0588235294118,
+            "rank": 14,
+            "score": 4.0588235294118
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2017/rate/199204",
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTk5MjA0LzkzMjE3Mi5naWY=/300x240%23c/43h11k.gif",
+        "title": "bmrng",
+        "id": 199204,
+        "rank": 24,
+        "contributors": [
+          {
+            "name": "bamsarker",
+            "id": 54868
+          }
+        ],
+        "score": 0.62745098039216,
+        "raw_score": 0.62745098039216,
+        "rating_count": 17
+      },
+      "entryData": {
+        "coolness": 0,
+        "game": {
+          "id": 199204,
+          "short_text": "throw it and it comes back",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTk5MjA0LzkzMjE3Mi5naWY=/300x240%23c/43h11k.gif",
+          "gif_cover": "https://img.itch.zone/aW1hZ2UvMTk5MjA0LzkzMjE3Mi5naWY=/original/32WIE%2B.gif",
+          "title": "bmrng",
+          "user": {
+            "name": "bamsarker",
+            "url": "https://bamsarker.itch.io",
+            "id": 54868
+          },
+          "url": "https://bamsarker.itch.io/bmrng",
+          "cover_color": "#535046",
+          "platforms": [
+            "web"
+          ]
+        },
+        "id": 32018,
+        "url": "/jam/game-off-2017/rate/199204",
+        "created_at": "2017-11-30 22:11:54",
+        "rating_count": 17
+      },
+      "details": {
+        "title": "bmrng",
+        "description": "For #GitHubGameOff\nHit the targets\nDon't hit the pandas\nControls\nArrow keys to moveHold + release Z to throw boomerang",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTk5MjA0LzkzMjE3Mi5naWY=/original/32WIE%2B.gif"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 2.0 out of 5 stars(1 total ratings)",
+          "Author": "bamsarker",
+          "Genre": "Action",
+          "Made with": "Phaser",
+          "Tags": "2D, boomerang, githubgameoff, githubgameoff2017, panda"
+        }
+      }
+    },
+    {
+      "gameId": 195872,
+      "gameUrl": "https://vmikhav.itch.io/antipacman",
+      "overallRank": 20,
+      "topCategories": [
+        "Gameplay",
+        "Innovation"
+      ],
+      "resultData": {
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 3.8,
+            "rank": 20,
+            "score": 3.8
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 4,
+            "rank": 3,
+            "score": 4
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.12,
+            "rank": 74,
+            "score": 3.12
+          },
+          {
+            "name": "Audio",
+            "raw_score": 2.72,
+            "rank": 73,
+            "score": 2.72
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.84,
+            "rank": 10,
+            "score": 3.84
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 3.84,
+            "rank": 22,
+            "score": 3.84
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2017/rate/195872",
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTk1ODcyLzkxNTQ2NS5wbmc=/300x240%23c/bAKg7U.png",
+        "title": "AntiPacMan",
+        "id": 195872,
+        "rank": 20,
+        "contributors": [
+          {
+            "name": "vmikhav",
+            "id": 221009
+          }
+        ],
+        "score": 0.63333333333333,
+        "raw_score": 0.63333333333333,
+        "rating_count": 25
+      },
+      "entryData": {
+        "coolness": 47,
+        "game": {
+          "url": "https://vmikhav.itch.io/antipacman",
+          "title": "AntiPacMan",
+          "id": 195872,
+          "user": {
+            "name": "vmikhav",
+            "url": "https://vmikhav.itch.io",
+            "id": 221009
+          },
+          "short_text": "HTML5 Pac-Man game with gestures recognition",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTk1ODcyLzkxNTQ2NS5wbmc=/300x240%23c/bAKg7U.png",
+          "cover_color": "#000000",
+          "platforms": [
+            "web"
+          ]
+        },
+        "id": 31262,
+        "url": "/jam/game-off-2017/rate/195872",
+        "created_at": "2017-11-19 17:58:56",
+        "rating_count": 25
+      },
+      "details": {
+        "title": "AntiPacMan",
+        "description": "Protect Blinky from Pacmans. Defeat a pacman by drawing its symbols\nGame source : https://github.com/vmikhav/AntiPacMan",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTk1ODcyLzkxNTQ2NS5wbmc=/original/h2BANx.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Release date": "Nov 19, 2017",
+          "Author": "vmikhav",
+          "Genre": "Action",
+          "Tags": "2D, 8-Bit, Endless, Procedural Generation, Touch-Friendly",
+          "Code license": "MIT License",
+          "Average session": "A few seconds",
+          "Languages": "English",
+          "Inputs": "Mouse, Touchscreen, Smartphone",
+          "Accessibility": "High-contrast, Interactive tutorial, Textless",
+          "Links": "Source code"
+        }
+      }
+    },
+    {
+      "gameId": 198167,
+      "gameUrl": "https://asiepshtain.itch.io/vengeance",
+      "overallRank": 19,
+      "topCategories": [
+        "Gameplay",
+        "Innovation"
+      ],
+      "resultData": {
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 3.8095238095238,
+            "rank": 19,
+            "score": 3.8095238095238
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.952380952381,
+            "rank": 5,
+            "score": 3.952380952381
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 2.8571428571429,
+            "rank": 93,
+            "score": 2.8571428571429
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.3809523809524,
+            "rank": 34,
+            "score": 3.3809523809524
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 4.047619047619,
+            "rank": 8,
+            "score": 4.047619047619
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 3.4285714285714,
+            "rank": 42,
+            "score": 3.4285714285714
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2017/rate/198167",
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTk4MTY3LzkzMzcxNC5qcGc=/300x240%23c/qmudwa.jpg",
+        "title": "Vengeance",
+        "id": 198167,
+        "rank": 19,
+        "contributors": [
+          {
+            "name": "Asi Epshtain",
+            "id": 853062
+          }
+        ],
+        "score": 0.63492063492063,
+        "raw_score": 0.63492063492063,
+        "rating_count": 21
+      },
+      "entryData": {
+        "coolness": 4,
+        "game": {
+          "url": "https://asiepshtain.itch.io/vengeance",
+          "title": "Vengeance",
+          "id": 198167,
+          "user": {
+            "name": "Asi Epshtain",
+            "url": "https://asiepshtain.itch.io",
+            "id": 853062
+          },
+          "short_text": "Can you beat an enemy as skilled as you are?",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTk4MTY3LzkzMzcxNC5qcGc=/300x240%23c/qmudwa.jpg",
+          "cover_color": "#eeeeee",
+          "platforms": [
+            "web"
+          ]
+        },
+        "id": 32104,
+        "url": "/jam/game-off-2017/rate/198167",
+        "created_at": "2017-12-01 18:15:35",
+        "rating_count": 21
+      },
+      "details": {
+        "title": "Vengeance",
+        "description": "A game where the enemy is always as skilled as you are. Can you beat vengeance?\nBy: Asi Epshtain\nMusic and Sound: Alon Kaplan Thanks: Yael Epshtain, Shawn Edrei",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTk4MTY3Lzk0NTQ2OS5qcGc=/original/FGEwvf.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTk4MTY3Lzk0NTQ2OC5qcGc=/original/Q8yOdY.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTk4MTY3Lzk0NTQ3MS5qcGc=/original/0WhbrC.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTk4MTY3Lzk0NTQ3MC5qcGc=/original/Hagil4.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTk4MTY3Lzk0NTQ3Mi5qcGc=/original/poGqjJ.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "Asi Epshtain",
+          "Genre": "Action",
+          "Made with": "Unity",
+          "Tags": "Arcade, artgame, classic, gameoff, Ludum Dare 40, piano, throwback, Top down shooter, Unity, vengeance"
+        }
+      }
+    },
+    {
+      "gameId": 199037,
+      "gameUrl": "https://lastleaf.itch.io/tricolors",
+      "overallRank": 17,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 3.8421052631579,
+            "rank": 17,
+            "score": 3.8421052631579
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.9473684210526,
+            "rank": 6,
+            "score": 3.9473684210526
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.3157894736842,
+            "rank": 63,
+            "score": 3.3157894736842
+          },
+          {
+            "name": "Audio",
+            "raw_score": 1.6842105263158,
+            "rank": 129,
+            "score": 1.6842105263158
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.2631578947368,
+            "rank": 34,
+            "score": 3.2631578947368
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 3.2105263157895,
+            "rank": 65,
+            "score": 3.2105263157895
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2017/rate/199037",
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTk5MDM3LzkzMTY2NC5wbmc=/300x240%23c/jllohj.png",
+        "title": "Tricolors",
+        "id": 199037,
+        "rank": 17,
+        "contributors": [
+          {
+            "name": "LastLeaf",
+            "id": 807457
+          }
+        ],
+        "score": 0.64035087719298,
+        "raw_score": 0.64035087719298,
+        "rating_count": 19
+      },
+      "entryData": {
+        "coolness": 10,
+        "game": {
+          "url": "https://lastleaf.itch.io/tricolors",
+          "title": "Tricolors",
+          "id": 199037,
+          "user": {
+            "name": "LastLeaf",
+            "url": "https://lastleaf.itch.io",
+            "id": 807457
+          },
+          "short_text": "TRICOLORS is a tiny puzzle game about blocks and colors, inspired by Lights Out",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTk5MDM3LzkzMTY2NC5wbmc=/300x240%23c/jllohj.png",
+          "cover_color": "#202020",
+          "platforms": [
+            "web"
+          ]
+        },
+        "id": 31997,
+        "url": "/jam/game-off-2017/rate/199037",
+        "created_at": "2017-11-30 17:57:08",
+        "rating_count": 19
+      },
+      "details": {
+        "title": "Tricolors",
+        "description": "TRICOLORS is a tiny puzzle game about blocks and colors, made for GitHub Game Off 2017.Introduction\nTry removing all colored blocks in a 5x5 map. Solve endless puzzles with increasing difficulties!\nThis game is inspired by a game Lights Out in my childhood memories. Original Lights Out\n game is designed for monocolor screens. I made it much more difficult \nby coloring the blocks. Each block can be colored red / green / blue, \nand these 3 colors can be mixed together:\nred + green = yellowred + blue = purplegreen + blue = cyanred + green + blue = white\nHow to Play\nThis is an HTML5 game. Please try latest Chrome or Firefox if it does not work in your browser. Mobile devices are also supported.\nClick the [ ? ] button in game cover for the tutorial.\nMore Details\nThis game is made by LastLeaf (Fu Boquan), for GitHub Game Off 2017. You can find the source code here.You may try our GitHub Game Off 2015 game A Lighted Story and 2016 game Boxie Coody :)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTk5MDM3LzkzMTY2Ni5wbmc=/original/GLtQKh.png",
+          "https://img.itch.zone/aW1hZ2UvMTk5MDM3LzkzMTY2Ny5wbmc=/original/Z4JCov.png",
+          "https://img.itch.zone/aW1hZ2UvMTk5MDM3LzkzMTY2OC5wbmc=/original/pB64n7.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "LastLeaf",
+          "Genre": "Puzzle",
+          "Tags": "Difficult, Endless, GitHub, Minimalist, Mouse only"
+        }
+      }
+    },
+    {
+      "gameId": 199001,
+      "gameUrl": "https://strayvoltage.itch.io/escape-the-lab",
+      "overallRank": 20,
+      "topCategories": [
+        "Gameplay",
+        "Audio"
+      ],
+      "resultData": {
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 3.8,
+            "rank": 20,
+            "score": 3.8
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.9,
+            "rank": 8,
+            "score": 3.9
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.7,
+            "rank": 35,
+            "score": 3.7
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.9,
+            "rank": 6,
+            "score": 3.9
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.8,
+            "rank": 13,
+            "score": 3.8
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 3.5,
+            "rank": 39,
+            "score": 3.5
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2017/rate/199001",
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTk5MDAxLzkzMDg3Ny5wbmc=/300x240%23c/w%2FYmGJ.png",
+        "title": "Escape the Lab",
+        "id": 199001,
+        "rank": 20,
+        "contributors": [
+          {
+            "name": "Stray Voltage Games",
+            "id": 111279
+          },
+          {
+            "name": "Kyperbelt Games",
+            "id": 107785
+          }
+        ],
+        "score": 0.63333333333333,
+        "raw_score": 0.63333333333333,
+        "rating_count": 10
+      },
+      "entryData": {
+        "contributors": [
+          {
+            "name": "Stray Voltage Games",
+            "url": "https://strayvoltage.itch.io"
+          },
+          {
+            "name": "Kyperbelt Games",
+            "url": "https://kyperbelt.itch.io"
+          }
+        ],
+        "coolness": 28,
+        "rating_count": 10,
+        "id": 32086,
+        "url": "/jam/game-off-2017/rate/199001",
+        "created_at": "2017-12-01 15:36:41",
+        "game": {
+          "url": "https://strayvoltage.itch.io/escape-the-lab",
+          "title": "Escape the Lab",
+          "id": 199001,
+          "user": {
+            "name": "Stray Voltage Games",
+            "url": "https://strayvoltage.itch.io",
+            "id": 111279
+          },
+          "short_text": "Avoid termination with the aid of your Cyborg bodies and your Brain.",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTk5MDAxLzkzMDg3Ny5wbmc=/300x240%23c/w%2FYmGJ.png",
+          "cover_color": "#101010",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ]
+        }
+      },
+      "details": {
+        "title": "Escape the Lab",
+        "description": "The Brain-Borgs have come online and the lab wants to shut them down. Use your Brain and your two Cyborg bodies with their different abilities to Escape the Lab, or be terminated.\nA physics puzzle platformer where you play as a rogue Cyborg experiment that must escape the lab. Control the Cyborgs and \"throw back\" the brain between bodies to solve puzzles and escape the lab.\nEscape the Lab was created in 1 month for the GameOff Jam sponsored by GitHub.\nKeyboard controls:\nArrow keys to move, X to jump, C or Space Bar to have the brain exit the cyborg body.\nPlayer 2 controls: I to jump, O brain exit, and A and S to move left and right.\nPress ESC / Menu button to self destruct and restart the level (or Q or T) - useful when you get stuck!\n\nController support currently:\n1. iBuffalo Classic USB Game Pad (MAC and Windows)\n2. XBOX 360 (Windows)\n3. XBOX One (Mac & Windows) (recent update fixed it on Windows - Dec 2/2017)\n4. Razer USB (Windows)Download the jar executable- ensure you have a recent Java JRE installed, and double click the file to run the game.\nWhen playing on a Mac - if you can't launch the Jar (security warning) - hold down control key and right click on the file to select open. This will give you the option to run the game.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTk5MDAxLzkzMzYzNS5wbmc=/original/nJmRph.png",
+          "https://img.itch.zone/aW1hZ2UvMTk5MDAxLzkzMzQ2Ny5wbmc=/original/ChXoOG.png",
+          "https://img.itch.zone/aW1hZ2UvMTk5MDAxLzkzMzQ1NC5wbmc=/original/dSU3Xu.png",
+          "https://img.itch.zone/aW1hZ2UvMTk5MDAxLzkzMzQ1NS5wbmc=/original/EKDXbc.png",
+          "https://img.itch.zone/aW1hZ2UvMTk5MDAxLzkzMzQ1Ni5wbmc=/original/fR0%2FOy.png",
+          "https://img.itch.zone/aW1hZ2UvMTk5MDAxLzkzMzQ2OC5wbmc=/original/ZK%2FG6c.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS, Linux",
+          "Authors": "Stray Voltage Games, Kyperbelt Games",
+          "Genre": "Puzzle",
+          "Tags": "Dystopian, Ludum Dare 40, Puzzle-Platformer"
+        }
+      }
+    },
+    {
+      "gameId": 189893,
+      "gameUrl": "https://zaphyk.itch.io/neon-skylines",
+      "overallRank": 11,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 3.9285714285714,
+            "rank": 11,
+            "score": 3.9285714285714
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.6428571428571,
+            "rank": 17,
+            "score": 3.6428571428571
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.7142857142857,
+            "rank": 1,
+            "score": 4.7142857142857
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.5,
+            "rank": 26,
+            "score": 3.5
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.6428571428571,
+            "rank": 19,
+            "score": 3.6428571428571
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 3.2142857142857,
+            "rank": 64,
+            "score": 3.2142857142857
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2017/rate/189893",
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTg5ODkzLzk3OTc3OC5wbmc=/300x240%23c/QaQEHD.png",
+        "title": "Neon Skylines",
+        "id": 189893,
+        "rank": 11,
+        "contributors": [
+          {
+            "name": "Zaphyk",
+            "id": 170283
+          }
+        ],
+        "score": 0.6547619047619,
+        "raw_score": 0.6547619047619,
+        "rating_count": 14
+      },
+      "entryData": {
+        "coolness": 10,
+        "game": {
+          "url": "https://zaphyk.itch.io/neon-skylines",
+          "title": "Neon Skylines",
+          "id": 189893,
+          "user": {
+            "name": "Zaphyk",
+            "url": "https://zaphyk.itch.io",
+            "id": 170283
+          },
+          "short_text": "A procedural neon arcade game.",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTg5ODkzLzk3OTc3OC5wbmc=/300x240%23c/QaQEHD.png",
+          "cover_color": "#ffffff",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ]
+        },
+        "id": 31064,
+        "url": "/jam/game-off-2017/rate/189893",
+        "created_at": "2017-11-16 02:03:26",
+        "rating_count": 14
+      },
+      "details": {
+        "title": "Neon Skylines",
+        "description": "FULL VERSION COMING SOON TO STEAM\n\nWISHLIST NOW!\n\nhttps://store.steampowered.com/app/2318290/Neon_Skylines/\nNeon Skylines is a 3d procedural arcade game with an 80s scifi look and feel. Your goal is to keep yourself from crashing on a procedural generated neon world. At your command is the ability to slow down time. \nTry to achieve the highest score while on high speeds without crashing into the walls!\n\nControls:\nRotate with WASD keys.Slow down time with the SPACE BAR. \n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTg5ODkzLzk3ODk2NS5naWY=/original/VtUMxH.gif",
+          "https://img.itch.zone/aW1hZ2UvMTg5ODkzLzkwOTUwNi5wbmc=/original/cVOizg.png",
+          "https://img.itch.zone/aW1hZ2UvMTg5ODkzLzkwOTQ2OC5wbmc=/original/FiHFWc.png",
+          "https://img.itch.zone/aW1hZ2UvMTg5ODkzLzkxMDU2MC5wbmc=/original/jUBQYW.png",
+          "https://img.itch.zone/aW1hZ2UvMTg5ODkzLzkwODE3NS5wbmc=/original/5I0gGU.png",
+          "https://img.itch.zone/aW1hZ2UvMTg5ODkzLzkxMDU1NS5wbmc=/original/XVOmvo.png",
+          "https://img.itch.zone/aW1hZ2UvMTg5ODkzLzkxMDU1OS5wbmc=/original/MOSL0k.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows, macOS, Linux",
+          "Rating": "Rated 4.5 out of 5 stars(2 total ratings)",
+          "Author": "Zaphyk",
+          "Genre": "Action",
+          "Tags": "3D, Arcade, Endless, Fast-Paced, GitHub, Neon, Procedural Generation, Retro, Singleplayer, Space",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse",
+          "Links": "Homepage, Twitter/X, Source code"
+        }
+      }
+    },
+    {
+      "gameId": 196048,
+      "gameUrl": "https://robricky.itch.io/heatwave",
+      "overallRank": 11,
+      "topCategories": [
+        "Graphics",
+        "Audio"
+      ],
+      "resultData": {
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 3.9285714285714,
+            "rank": 11,
+            "score": 3.9285714285714
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.6071428571429,
+            "rank": 22,
+            "score": 3.6071428571429
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.5714285714286,
+            "rank": 3,
+            "score": 4.5714285714286
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.1071428571429,
+            "rank": 1,
+            "score": 4.1071428571429
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.3928571428571,
+            "rank": 30,
+            "score": 3.3928571428571
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 3.3571428571429,
+            "rank": 48,
+            "score": 3.3571428571429
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2017/rate/196048",
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTk2MDQ4LzkzMTE5Ny5wbmc=/300x240%23c/qyvgt0.png",
+        "title": "Heatwave",
+        "id": 196048,
+        "rank": 11,
+        "contributors": [
+          {
+            "name": "robricky",
+            "id": 507614
+          }
+        ],
+        "score": 0.6547619047619,
+        "raw_score": 0.6547619047619,
+        "rating_count": 28
+      },
+      "entryData": {
+        "coolness": 7,
+        "game": {
+          "title": "Heatwave",
+          "url": "https://robricky.itch.io/heatwave",
+          "user": {
+            "name": "robricky",
+            "url": "https://robricky.itch.io",
+            "id": 507614
+          },
+          "short_text": "A retro inventory management game!",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTk2MDQ4LzkzMTE5Ny5wbmc=/300x240%23c/qyvgt0.png",
+          "id": 196048,
+          "platforms": [
+            "web"
+          ]
+        },
+        "id": 32084,
+        "url": "/jam/game-off-2017/rate/196048",
+        "created_at": "2017-12-01 15:10:24",
+        "rating_count": 28
+      },
+      "details": {
+        "title": "Heatwave",
+        "description": "\nUpdate v 0.1.0 in Development!\nAfter Feedback from the GitHub GameOff, we're making quality of life improvements and welcomed changes to Heat Wave that should go live later this month after the competition.  In the spirit of the competition we didn't want to push these changes live until voting was over!  But here's a quick teaser!\n\n\n\n\n\nRelive the glory days of text based inventory management!\nGet ready to take your drug slinging skills to the next level with Heat Wave!  Start as a small time dealer with a debt to pay, and work your way up the ranks to a true cartel boss!\nCurrently In Development as part of the GitHub Game Off 2017 GameJam!\nWill be updated after GameJam is finished!  Coming Q1 2018 to iOS, Android, Windows, Mac, Linux, on Itch.io and Steam!\n\n\n\n\n\nProgramming: Rob JanesGame Design: Richard BallermanAdditional Game Design: Rob JanesArtwork and Graphics: Richard BallermanMusic & Sound: Richard BallermanDevelopment Dates: November 2nd 2017, November 30th, 2017.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTk2MDQ4LzkzMTE4My5wbmc=/original/dj%2FvCw.png",
+          "https://img.itch.zone/aW1hZ2UvMTk2MDQ4LzkzMTE5OS5wbmc=/original/Zz3WRh.png",
+          "https://img.itch.zone/aW1hZ2UvMTk2MDQ4LzkzMTIwMC5wbmc=/original/jJKvY%2F.png",
+          "https://img.itch.zone/aW1hZ2UvMTk2MDQ4LzkzMTIwMS5wbmc=/original/wp%2BqI%2B.png",
+          "https://img.itch.zone/aW1hZ2UvMTk2MDQ4LzkzMTIwMi5wbmc=/original/8vUSpJ.png",
+          "https://img.itch.zone/aW1hZ2UvMTk2MDQ4LzkzMTIwMy5wbmc=/original/36uicy.png",
+          "https://img.itch.zone/aW1hZ2UvMTk2MDQ4LzkzMTIwNS5wbmc=/original/oHwPpT.png",
+          "https://img.itch.zone/aW1hZ2UvMTk2MDQ4LzkzMTIwNC5wbmc=/original/JgX%2Bdb.png",
+          "https://img.itch.zone/aW1hZ2UvMTk2MDQ4LzkzMzQ0MS5wbmc=/original/V%2B1S8x.png",
+          "https://img.itch.zone/aW1hZ2UvMTk2MDQ4Lzk2NzE2NC5wbmc=/original/5cmK%2FH.png",
+          "https://img.itch.zone/aW1hZ2UvMTk2MDQ4Lzk2NzE2Ni5wbmc=/original/3VexEf.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 3.0 out of 5 stars(2 total ratings)",
+          "Author": "robricky",
+          "Genre": "Strategy",
+          "Made with": "AppGameKit",
+          "Tags": "dope, drugs, gameoff, GitHub, Retro, weed"
+        }
+      }
+    },
+    {
+      "gameId": 199078,
+      "gameUrl": "https://kritsana-chaikaew.itch.io/theory-of-warmonger",
+      "overallRank": 55,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 3.2307692307692,
+            "rank": 55,
+            "score": 3.2307692307692
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.1538461538462,
+            "rank": 47,
+            "score": 3.1538461538462
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.4615384615385,
+            "rank": 6,
+            "score": 4.4615384615385
+          },
+          {
+            "name": "Audio",
+            "raw_score": 1.1538461538462,
+            "rank": 169,
+            "score": 1.1538461538462
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 2.9230769230769,
+            "rank": 52,
+            "score": 2.9230769230769
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 2.7692307692308,
+            "rank": 93,
+            "score": 2.7692307692308
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2017/rate/199078",
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTk5MDc4LzkzMTU4My5qcGc=/300x240%23c/607vC5.jpg",
+        "title": "Theory Of Warmonger",
+        "id": 199078,
+        "rank": 55,
+        "contributors": [
+          {
+            "name": "kritsana-chaikaew",
+            "id": 873349
+          }
+        ],
+        "score": 0.53846153846154,
+        "raw_score": 0.53846153846154,
+        "rating_count": 13
+      },
+      "entryData": {
+        "coolness": 0,
+        "game": {
+          "title": "Theory Of Warmonger",
+          "url": "https://kritsana-chaikaew.itch.io/theory-of-warmonger",
+          "user": {
+            "name": "kritsana-chaikaew",
+            "url": "https://kritsana-chaikaew.itch.io",
+            "id": 873349
+          },
+          "short_text": "warmonger",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTk5MDc4LzkzMTU4My5qcGc=/300x240%23c/607vC5.jpg",
+          "id": 199078,
+          "platforms": [
+            "windows",
+            "linux"
+          ]
+        },
+        "id": 31995,
+        "url": "/jam/game-off-2017/rate/199078",
+        "created_at": "2017-11-30 17:02:49",
+        "rating_count": 13
+      },
+      "details": {
+        "title": "Theory Of Warmonger",
+        "description": "Send your fearless UNITS  to destroy 3 out of 5 of your opponent's BUILDING to win the war, but remember RESOURCE is limited and you can only make ONE MOVE A TURN!!Extract zip file.Open exe file named \"theory-of-warmonger\".If can not open exe file. Install java and run jar file.Enjoy.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTk5MDc4LzkzMTU3NS5qcGc=/original/mG%2BilF.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTk5MDc4LzkzMTU3NC5qcGc=/original/atohNF.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows, Linux",
+          "Author": "kritsana-chaikaew",
+          "Genre": "Strategy",
+          "Tags": "Board Game, kingdom, Medieval, Turn-based, Turn-Based Combat, Turn-based Strategy, War"
+        }
+      }
+    },
+    {
+      "gameId": 195534,
+      "gameUrl": "https://guilhermefelipecgs.itch.io/throwback-revenge-of-the-squirrels",
+      "overallRank": 18,
+      "topCategories": [
+        "Graphics",
+        "Audio"
+      ],
+      "resultData": {
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 3.8181818181818,
+            "rank": 18,
+            "score": 3.8181818181818
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.6363636363636,
+            "rank": 18,
+            "score": 3.6363636363636
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.4545454545455,
+            "rank": 7,
+            "score": 4.4545454545455
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.8181818181818,
+            "rank": 8,
+            "score": 3.8181818181818
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.2727272727273,
+            "rank": 33,
+            "score": 3.2727272727273
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 3.7272727272727,
+            "rank": 28,
+            "score": 3.7272727272727
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2017/rate/195534",
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTk1NTM0LzkyOTA0OS5wbmc=/300x240%23c/pjCtFI.png",
+        "title": "Throwback: Revenge of the squirrels",
+        "id": 195534,
+        "rank": 18,
+        "contributors": [
+          {
+            "name": "Guilherme Felipe de C. G. da Silva",
+            "id": 447183
+          }
+        ],
+        "score": 0.63636363636364,
+        "raw_score": 0.63636363636364,
+        "rating_count": 11
+      },
+      "entryData": {
+        "coolness": 11,
+        "game": {
+          "title": "Throwback: Revenge of the squirrels",
+          "url": "https://guilhermefelipecgs.itch.io/throwback-revenge-of-the-squirrels",
+          "user": {
+            "name": "Guilherme Felipe de C. G. da Silva",
+            "url": "https://guilhermefelipecgs.itch.io",
+            "id": 447183
+          },
+          "id": 195534,
+          "cover": "https://img.itch.zone/aW1hZ2UvMTk1NTM0LzkyOTA0OS5wbmc=/300x240%23c/pjCtFI.png",
+          "cover_color": "#212121",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ]
+        },
+        "id": 31892,
+        "url": "/jam/game-off-2017/rate/195534",
+        "created_at": "2017-11-29 01:50:32",
+        "rating_count": 11
+      },
+      "details": {
+        "title": "Throwback: Revenge of the squirrels",
+        "description": "Help the squirrels save the forest and take revenge on the lumberjack.\nThanks to Arthur & Eric for helping me with the idea for the game.\n\nControls:\nArrow keys to move the squirrel.\nEnter or space to (re)start/pause the game.\nSoftwares/Plugin used:\nGodot Engine\nKrita\nsfxr\nSimpleGodotCRTShader\n\nSource: https://github.com/guilhermefelipecgs/throwback",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTk1NTM0LzkyOTA0Ny5wbmc=/original/IPP8%2Ff.png",
+          "https://img.itch.zone/aW1hZ2UvMTk1NTM0LzkyOTAzOC5wbmc=/original/exd7cR.png",
+          "https://img.itch.zone/aW1hZ2UvMTk1NTM0LzkyOTAzNy5wbmc=/original/y8j9hT.png",
+          "https://img.itch.zone/aW1hZ2UvMTk1NTM0LzkyOTA0MS5wbmc=/original/9CbNEp.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows, macOS, Linux",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Author": "Guilherme Felipe de C. G. da Silva",
+          "Genre": "Platformer",
+          "Made with": "Godot",
+          "Tags": "game-off, gameoff, Godot, godot-engine, godotengine",
+          "Average session": "A few seconds",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": 196147,
+      "gameUrl": "https://kenamick.itch.io/kickpunch",
+      "overallRank": 13,
+      "topCategories": [
+        "Graphics",
+        "Audio"
+      ],
+      "resultData": {
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 3.9230769230769,
+            "rank": 13,
+            "score": 3.9230769230769
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.3846153846154,
+            "rank": 33,
+            "score": 3.3846153846154
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.4230769230769,
+            "rank": 9,
+            "score": 4.4230769230769
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.8846153846154,
+            "rank": 7,
+            "score": 3.8846153846154
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 2.4615384615385,
+            "rank": 92,
+            "score": 2.4615384615385
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 3.9230769230769,
+            "rank": 20,
+            "score": 3.9230769230769
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2017/rate/196147",
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTk2MTQ3LzkzMzA0NS5wbmc=/300x240%23c/FiAs%2FD.png",
+        "title": "KickPunch",
+        "id": 196147,
+        "rank": 13,
+        "contributors": [
+          {
+            "name": "kenamickent",
+            "id": 31575
+          },
+          {
+            "name": "n3tn0de",
+            "id": 93005
+          },
+          {
+            "name": "afonsocarlos",
+            "id": 840929
+          },
+          {
+            "name": "lampeightaudio",
+            "id": 477807
+          }
+        ],
+        "score": 0.65384615384615,
+        "raw_score": 0.65384615384615,
+        "rating_count": 26
+      },
+      "entryData": {
+        "contributors": [
+          {
+            "name": "kenamickent",
+            "url": "https://kenamick.itch.io"
+          },
+          {
+            "name": "n3tn0de",
+            "url": "https://n3tn0de.itch.io"
+          },
+          {
+            "name": "afonsocarlos",
+            "url": "https://afonsocarlos.itch.io"
+          },
+          {
+            "name": "lampeightaudio",
+            "url": "https://lampeightaudio.itch.io"
+          }
+        ],
+        "coolness": 26,
+        "rating_count": 26,
+        "id": 31970,
+        "url": "/jam/game-off-2017/rate/196147",
+        "created_at": "2017-11-30 09:34:13",
+        "game": {
+          "url": "https://kenamick.itch.io/kickpunch",
+          "title": "KickPunch",
+          "id": 196147,
+          "user": {
+            "name": "kenamickent",
+            "url": "https://kenamick.itch.io",
+            "id": 31575
+          },
+          "short_text": "8-bit Retro Beat 'em up with Game Boy Graphics",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTk2MTQ3LzkzMzA0NS5wbmc=/300x240%23c/FiAs%2FD.png",
+          "cover_color": "#ABB68B",
+          "platforms": [
+            "web"
+          ]
+        }
+      },
+      "details": {
+        "title": "KickPunch",
+        "description": "KickPunch is an old school Beat-'em-up game. Get your fighting skills tested by defeating all enemies in this furious action game.\nControls\n  Use the Gamepad Luke! \nNo seriously, the game can be played with a gamepad (xinput), so go ahead and try it.\nHere are the controls.\nUse the D-Pad, Left Stick, Arrow Keys or WASD keys to move. 🏃Press X (xbox), H, O or Enter to punch. 👊Press A (xbox), J, P or Backspace to kick. 💫\nAnd here are some hints.\nMove, move, move. Don't let the enemies surround you. Try to stack them together and then hit them.Kicks knock enemies back farther than punches, but they do less damage.Get food to heal yourself. The bigger the dish, the more hit points you'll get restored. Also, make sure you look behind the sidewalk objects in each level. To go to Act 3 from Act 2 you need to defeat all enemies in the level and then enter the last door at the end of the level. It will get opened automatically once all enemies are defeated.\nSupported Browsers\nGoogle Chrome 62+  ⭐️  (highly recommended)Firefox 57+Safari 11.0.2Opera - 49.0Microsoft Edge 41.16299.15.0 (anti-aliasing is forced by the browser)\nBackstory\nIt's a beautiful Sunday afternoon. Brian and Gloria Freezby are back in their home town for the weekend and are taking a stroll on Shaker St. together with their dog Dido. Suddenly, they are approached by a group of hooligans. One of them, visibly bigger than the others, steps out of the group. It's Brian’s old rival - Arkian Joel. Arkian does some smack talk and orders a bunch of his thugs to grab Gloria and Dido. He then leaves his gang to take care of the Brian problem.\nBrian faces the bad guys in fight and after defeating them continues down on Shaker St. determined to find Arkian and save his wife and dog.\nTeam Kickpunch\nWe are @Charliiee, @LampEight, @n3tn0de, @PsyBack and @petarov.\nThis game is our entry to GitHub's annual Game Off 2017 game jam. \n-----\nTrack KickPunch's development or open a pull request at GitHub.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTk2MTQ3LzkzNjEzMC5wbmc=/original/xDJFKO.png",
+          "https://img.itch.zone/aW1hZ2UvMTk2MTQ3LzkzNjEzMS5wbmc=/original/X%2BNmPt.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.0 out of 5 stars(3 total ratings)",
+          "Authors": "kenamickent, n3tn0de, afonsocarlos, lampeightaudio",
+          "Genre": "Action, Fighting",
+          "Tags": "8-Bit, Beat 'em up, Game Boy, gamepad, Retro",
+          "Code license": "MIT License",
+          "Asset license": "Creative Commons Attribution v4.0 International",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Xbox controller",
+          "Accessibility": "Subtitles",
+          "Links": "Source code, Twitter/X, Twitter/X, Twitter/X, Soundtrack"
+        }
+      }
+    },
+    {
+      "gameId": 197980,
+      "gameUrl": "https://huszy.itch.io/badgun",
+      "overallRank": 35,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 3.5757575757576,
+            "rank": 35,
+            "score": 3.5757575757576
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.2121212121212,
+            "rank": 39,
+            "score": 3.2121212121212
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.3333333333333,
+            "rank": 10,
+            "score": 4.3333333333333
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.5151515151515,
+            "rank": 25,
+            "score": 3.5151515151515
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 2.5757575757576,
+            "rank": 83,
+            "score": 2.5757575757576
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 3.8181818181818,
+            "rank": 23,
+            "score": 3.8181818181818
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2017/rate/197980",
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTk3OTgwLzkzNTEwNy5wbmc=/300x240%23c/MpX9ok.png",
+        "title": "BADGUN",
+        "id": 197980,
+        "rank": 35,
+        "contributors": [
+          {
+            "name": "huszy",
+            "id": 810272
+          }
+        ],
+        "score": 0.5959595959596,
+        "raw_score": 0.5959595959596,
+        "rating_count": 33
+      },
+      "entryData": {
+        "coolness": 3,
+        "game": {
+          "url": "https://huszy.itch.io/badgun",
+          "title": "BADGUN",
+          "id": 197980,
+          "user": {
+            "name": "huszy",
+            "url": "https://huszy.itch.io",
+            "id": 810272
+          },
+          "short_text": "Blast from the Past!",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTk3OTgwLzkzNTEwNy5wbmc=/300x240%23c/MpX9ok.png",
+          "cover_color": "#2a2a2a",
+          "platforms": [
+            "web"
+          ]
+        },
+        "id": 32036,
+        "url": "/jam/game-off-2017/rate/197980",
+        "created_at": "2017-12-01 02:07:59",
+        "rating_count": 33
+      },
+      "details": {
+        "title": "BADGUN",
+        "description": "BADGUN, the hard-boiled Hawaiian cop loves his car. Only problem there, he drives her baby way too fast. He was fined so many times for speeding, that he loses his job. What could you do without money, without a job?\nBADGUN starts car racing.\nHelp BADGUN get more money! Use the arrow keys (or W,A,S,D) to accelerate, slow down, or turn the car. Reach as far as possible in a given time, make your way to the next level. Collect as much coins as possible. Use the brake, sometime a slower speed gets you farther. Avoid the obstacles, and watch out for the heavy traffic.\nKey features:\nConstantly accelerating gameplayProcedural retro music and sound effectsVisuals of the 80s7 Different Worlds\nSadly itch.io adds a very large header to the page and displays the game in iframe, and the page always scrolls out when you want to control the car with the arrow keys, so a frameless version is hosted here, or you can use W,A,S,D keys instead of arrows.Upcoming changes/fixes after voting ends:\nmissing sounds and effects added (brake, helicopter, keystrokes, etc)speed-o-meter addedglobal highscore list addednew power-ups added (time advance, speed advance)winter tiles addednew enemies added\nUpcoming changes in v2.0\nnew online multiplayer modenew enemies, including copsreworked game physics",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTk3OTgwLzkzNDg1OC5wbmc=/original/nSFU2b.png",
+          "https://img.itch.zone/aW1hZ2UvMTk3OTgwLzk0MTA2MS5wbmc=/original/nLgU%2Bd.png",
+          "https://img.itch.zone/aW1hZ2UvMTk3OTgwLzkzNDg1Ny5wbmc=/original/rdjgxL.png",
+          "https://img.itch.zone/aW1hZ2UvMTk3OTgwLzkzNDg1OS5wbmc=/original/XaLGbQ.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Author": "huszy",
+          "Genre": "Action, Racing",
+          "Tags": "8-Bit, Arcade",
+          "Code license": "GNU General Public License v3.0 (GPL)",
+          "Asset license": "Creative Commons Attribution_NonCommercial v4.0 International",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse",
+          "Links": "Source code"
+        }
+      }
+    },
+    {
+      "gameId": 195074,
+      "gameUrl": "https://travm.itch.io/max",
+      "overallRank": 31,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 3.6153846153846,
+            "rank": 31,
+            "score": 3.6153846153846
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 2.8461538461538,
+            "rank": 70,
+            "score": 2.8461538461538
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.3076923076923,
+            "rank": 11,
+            "score": 4.3076923076923
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.0769230769231,
+            "rank": 54,
+            "score": 3.0769230769231
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3,
+            "rank": 46,
+            "score": 3
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 3.5384615384615,
+            "rank": 38,
+            "score": 3.5384615384615
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2017/rate/195074",
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTk1MDc0Lzk0OTA5NS5wbmc=/300x240%23c/htdaql.png",
+        "title": "Max",
+        "id": 195074,
+        "rank": 31,
+        "contributors": [
+          {
+            "name": "travm",
+            "id": 221161
+          }
+        ],
+        "score": 0.6025641025641,
+        "raw_score": 0.6025641025641,
+        "rating_count": 13
+      },
+      "entryData": {
+        "coolness": 12,
+        "game": {
+          "url": "https://travm.itch.io/max",
+          "title": "Max",
+          "id": 195074,
+          "user": {
+            "name": "travm",
+            "url": "https://travm.itch.io",
+            "id": 221161
+          },
+          "short_text": "An incremental game blended with a virtual pet.",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTk1MDc0Lzk0OTA5NS5wbmc=/300x240%23c/htdaql.png",
+          "cover_color": "#4e495f",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ]
+        },
+        "id": 32054,
+        "url": "/jam/game-off-2017/rate/195074",
+        "created_at": "2017-12-01 06:06:45",
+        "rating_count": 13
+      },
+      "details": {
+        "title": "Max",
+        "description": "Max is an experimental mashup of incremental games and the virtual pet craze of the 90s. It was created as part of the Github Game Off 2017 game jam with the theme of \"throwback\". \nThe game features a single room that acts as a hub for your interactions with both your pet and the computer that you are using to mine units. Units are the base currency of the game and are mined automatically every second. Additionally, you can also generate units via manual input if you need them in a hurry.\nOnce you have generated enough units you can convert them into intensity. Intensity is the second currency in the game and has two purposes: to increase the amount of units you can mine per second and to also feed, clean, and entertain your pet.\nAs you spend intensity your units per second also decrease, so the challenge of the game is to know when to spend your intensity and when to save it while still maintaining a healthy and happy pet.\nThe quality of care that you provide for your pet will determine its evolution cycle. So, pay close attention to your pet's stats as it ages to unlock the secrets behind each evolution.\nAs of this game jam release, the game is essentially \"completed\" once you reach the final evolution for your pet. You can continue the incremental portion of the game, but there is no new content beyond the final evolution at this time. Once completed, I encourage you to reset your save and play again - caring for your pet differently to see how it affects the evolution cycle.\nThanks so much for playing! This is my first game, and I hope that you will enjoy playing it as much as I have enjoyed learning about game development and creating it.\nNote: The music featured in the game was a bit of a stretch goal and I unfortunately didn't get to spend a lot of time working on it so I could safely meet the game jam deadline. If it starts to wear on you, you can mute it by pressing m on your keyboard.\nControls (PC/PS/XBOX/SNES):\nGenerate Units - Spacebar/Triangle/Y/XAccept - Enter or E/Cross/A/BCancel - ESC/Circle/B/A Run - Hold Shift/Square/X/Y\nBugs / Issues\nIf you notice any bugs or have trouble running the game on your platform, please submit them at https://github.com/travm/max/issues. Thanks!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTk1MDc0LzkzMzY4NC5qcGc=/original/pccSJA.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTk1MDc0LzkzMzY4Ni5qcGc=/original/ADMfnC.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTk1MDc0LzkzMzY4My5qcGc=/original/j9ljh2.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTk1MDc0LzkzMzY4NS5qcGc=/original/zu44Nq.jpg"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows, macOS, Linux",
+          "Release date": "Nov 30, 2017",
+          "Author": "travm",
+          "Genre": "Simulation",
+          "Made with": "Aseprite, Godot",
+          "Tags": "Godot, Incremental, Pixel Art, Virtual Pet",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Gamepad (any)",
+          "Links": "Source code"
+        }
+      }
+    },
+    {
+      "gameId": 199678,
+      "gameUrl": "https://progrium.itch.io/dark-forest",
+      "overallRank": 14,
+      "topCategories": [
+        "Audio",
+        "Innovation",
+        "Theme interpretation"
+      ],
+      "resultData": {
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 3.9090909090909,
+            "rank": 14,
+            "score": 3.9090909090909
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.4545454545455,
+            "rank": 29,
+            "score": 3.4545454545455
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.2727272727273,
+            "rank": 14,
+            "score": 4.2727272727273
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4,
+            "rank": 4,
+            "score": 4
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 4.0909090909091,
+            "rank": 6,
+            "score": 4.0909090909091
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 4.1818181818182,
+            "rank": 8,
+            "score": 4.1818181818182
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2017/rate/199678",
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTk5Njc4LzkzNDQxMy5naWY=/300x240%23c/DQk50o.gif",
+        "title": "Dark Forest",
+        "id": 199678,
+        "rank": 14,
+        "contributors": [
+          {
+            "name": "progrium",
+            "id": 720845
+          }
+        ],
+        "score": 0.65151515151515,
+        "raw_score": 0.65151515151515,
+        "rating_count": 11
+      },
+      "entryData": {
+        "coolness": 0,
+        "game": {
+          "id": 199678,
+          "short_text": "Save the forest from an evil spirit",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTk5Njc4LzkzNDQxMy5naWY=/300x240%23c/DQk50o.gif",
+          "gif_cover": "https://img.itch.zone/aW1hZ2UvMTk5Njc4LzkzNDQxMy5naWY=/original/ZOeq3v.gif",
+          "title": "Dark Forest",
+          "user": {
+            "name": "progrium",
+            "url": "https://progrium.itch.io",
+            "id": 720845
+          },
+          "url": "https://progrium.itch.io/dark-forest",
+          "cover_color": "#000000",
+          "platforms": [
+            "windows",
+            "osx"
+          ]
+        },
+        "id": 32162,
+        "url": "/jam/game-off-2017/rate/199678",
+        "created_at": "2017-12-01 21:35:34",
+        "rating_count": 11
+      },
+      "details": {
+        "title": "Dark Forest",
+        "description": "An evil spirit from the Dark Realm is invading the forest. You must find and pass through the Dark Realm gate to fight it. However, the keys to the gate have been scattered across the forest and across the departing realms. Departing realms are parallel dimensions, each a step towards death. Be careful!\nThis game was developed in about 10 days during the month of November 2017 for the GitHub Game Off jam. The big hook idea was the \"demake\" departing realms, each representing the game in lower fidelity, roughly approximating different bit platforms.\nMusic jammed out by Hryx. About 40 hours of development was streamed on Twitch and archived on YouTube.\nControls\nBest played with a gamepad, but keyboard and mouse also works.\n\nTips\nHold fire to pull back arrow without shooting.Hit 3 enemies in a row to get a bomb arrow shot.Turn up audio to hear approaching enemies.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTk5Njc4LzkzNzMxNC5wbmc=/original/a1WxzG.png",
+          "https://img.itch.zone/aW1hZ2UvMTk5Njc4LzkzNzMxNi5wbmc=/original/MRh%2BR4.png",
+          "https://img.itch.zone/aW1hZ2UvMTk5Njc4LzkzNzMxOC5wbmc=/original/0Gy0Gr.png",
+          "https://img.itch.zone/aW1hZ2UvMTk5Njc4LzkzNzMxOS5wbmc=/original/e0hFCd.png",
+          "https://img.itch.zone/aW1hZ2UvMTk5Njc4LzkzNzMyMC5wbmc=/original/H5Nj0o.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS",
+          "Author": "progrium",
+          "Genre": "Shooter",
+          "Tags": "16-bit, 1-bit, 3D, 8-Bit, Boss battle, chiptune, Experimental, Low-poly, Short",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse, Gamepad (any)"
+        }
+      }
+    },
+    {
+      "gameId": 199292,
+      "gameUrl": "https://asdera.itch.io/scorpion-ball",
+      "overallRank": 28,
+      "topCategories": [
+        "Audio",
+        "Innovation"
+      ],
+      "resultData": {
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 3.6363636363636,
+            "rank": 28,
+            "score": 3.6363636363636
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.5454545454545,
+            "rank": 26,
+            "score": 3.5454545454545
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.5454545454545,
+            "rank": 46,
+            "score": 3.5454545454545
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.9090909090909,
+            "rank": 5,
+            "score": 3.9090909090909
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 4.1818181818182,
+            "rank": 4,
+            "score": 4.1818181818182
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 3.3636363636364,
+            "rank": 45,
+            "score": 3.3636363636364
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2017/rate/199292",
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTk5MjkyLzkzMjc2MC5naWY=/300x240%23c/48GJKZ.gif",
+        "title": "Scorpion Ball",
+        "id": 199292,
+        "rank": 28,
+        "contributors": [
+          {
+            "name": "asdera",
+            "id": 836417
+          }
+        ],
+        "score": 0.60606060606061,
+        "raw_score": 0.60606060606061,
+        "rating_count": 11
+      },
+      "entryData": {
+        "coolness": 26,
+        "game": {
+          "id": 199292,
+          "short_text": "Unlease your inner Scorpion...",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTk5MjkyLzkzMjc2MC5naWY=/300x240%23c/48GJKZ.gif",
+          "gif_cover": "https://img.itch.zone/aW1hZ2UvMTk5MjkyLzkzMjc2MC5naWY=/original/d2X%2FYr.gif",
+          "title": "Scorpion Ball",
+          "user": {
+            "name": "asdera",
+            "url": "https://asdera.itch.io",
+            "id": 836417
+          },
+          "url": "https://asdera.itch.io/scorpion-ball",
+          "cover_color": "#16005c",
+          "platforms": [
+            "web"
+          ]
+        },
+        "id": 32043,
+        "url": "/jam/game-off-2017/rate/199292",
+        "created_at": "2017-12-01 04:09:52",
+        "rating_count": 11
+      },
+      "details": {
+        "title": "Scorpion Ball",
+        "description": "Scorpion Ball\nNOTICE: If you are experiencing lag, turn off glow by pressing G!\nUnleash your inner Scorpion to shoot balls at other balls in this Retro-style shooter.\n\n\nThis is a fast paced survival game that's playable on the browser. It's pretty challenging and it's decently skill based.Hostile balls will spawn from the bottom of the screen to attack your health bar.Don't let that happen, shoot them! What's the highest score you can get?\n\nYou can also play this game on https://asdera.github.io/Scorpion/\nOver there, you can play full-screen as well as mess with the JS\nThis is a submission to Github Game Off 2017. I originally started building this game because there's not a load of great games that arent blocked at my school. Later one of my friends who won a Github Bug Bounty told me about Github Game Off. I found out the theme was throwback. I was able to put everything that I felt had been \"forgotten\" into one project. This game takes inspiration from other games like Peggle, Plinko and Bubble Shooter. It uses an 80s futuristic design with appealing glowing effects. This game also includes 80s retro and synthwave music from one of my favourite artist. Even though now, that artist has unexpectedly disappeared from the internet. If the glow effects are causing lag, then turn it off by pressing G.\nControls\nA or Left Arrow - Slide left\nD or Right Arrow - Slide right\nA or Left Arrow - Rotate left\nD or Right Arrow - Rotate right\nW - Sliding Brakes\nS - Sliding Brakes\nSpace or K - Shoot balls\nYou will know that you're ready to fire if the muzzle of the player's cannon is charged up. \nX or K - Shoot your charged ability (Powershot)\nYou will know your Powershot charge by looking at how much the circle of the player's cannon is charged up. The outline of the player will also glow in yellow when it is ready.\nZ or L - Rains balls from the sky (Ultimate ability)\nYou will know your ultimate is charged when the either your health bar glows yellow or the screen border glows yellow.\nG - Toggle glow\nM - Toggle mute\nC - Change weapons (only works in menu screen)\nGame Info\nWorlds\nFuture\nEnemies are lined up in rows\nEnemies have medium health and traval at a normal pace\nPowerup charges your ultimate abilty\nNether\nEnemies are stacked on each other\nEnemies have lower health points and traval at a fast pace\nPowerup increases your rate of fire\nBoreal\nEnemies appear in circlular formations\nEnemies have higher health points and traval at a slow pace\nPowerup freeze all enemies\nEnemies\nWhite outline - Normal enemies\nBlue outline - Powerups that changes weapons\nOrange outline - Special powerups unique to each world\nPurple outline - Destroys all enemies on the screen and trasports you to the next world\nWeapons\nBouncer\nLightblue - Shoots bouncy balls\nJitendra Power - power fires a enormous exercise ball\nLazer\nPurple - Shoots mutiple smaller balls in a line\nDeath Star - power fires a deadly lazer blow\nBlaster\nGray - Shoots mutiple shells in a wide angle\nMake it Rain - power fires a power spray that covers a wide angle\nTrapper\nBeige - Shoots pointy triangles\nIlluminati - power fires a large triangle that explodes into little ones\nThrower\nBrown - Shoots spiraling footballs\nFull Send - power fires a large football that scores a touchdown when it connects to the bottom of the screen\nCracker\nYellow - Shoots electric bolts\nCrackhead Lightning - power fires two balls of lightning that shocks all enemies\nBurner\nRed - Shoots flaming hot fireballs\nVolcanic Eruption - power fires a dragon that latches on to the first enemy it finds.\nEmitter\nPink - Shoots weighted storage cubes\nInfinite Loop - power fires a large companion cube that falls in a infinite loop\nGhoster\nBlack - Shoots lightweight shadow balls\nWrath of the Amit - power fires a grizzly bear that you can control\nSniper\nGreen - Shoots fast deadly bullets\nDeadshot - power fires a grizzly bear that you can control\nCredits\nOpen Source Libraries\nmatter.js\np5.js\nSoundtrack\nMiami Nights 1984 - New Tomorrow\nM A G N A V O X - Running in the 80s\nM A G N A V O X - Night Of Fire\nM A G N A V O X - Shooting Stars\nContributors\nAndrew WangCalder White",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTk5MjkyLzkzMjY3My5wbmc=/original/7ic3BW.png",
+          "https://img.itch.zone/aW1hZ2UvMTk5MjkyLzkzMjc3Ni5wbmc=/original/l2czsh.png",
+          "https://img.itch.zone/aW1hZ2UvMTk5MjkyLzkzMjY3Ni5wbmc=/original/JQLUyy.png",
+          "https://img.itch.zone/aW1hZ2UvMTk5MjkyLzkzMjY3NC5wbmc=/original/uTaZX0.png",
+          "https://img.itch.zone/aW1hZ2UvMTk5MjkyLzkzMjc3NS5wbmc=/original/pdSvEz.png",
+          "https://img.itch.zone/aW1hZ2UvMTk5MjkyLzkzMjY3NS5wbmc=/original/E%2FeIDy.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "asdera",
+          "Genre": "Shooter",
+          "Tags": "ball, balls, blaster, bounce, GitHub, jitendra, Retro, scorpion, Simple, Synthwave"
+        }
+      }
+    },
+    {
+      "gameId": 199650,
+      "gameUrl": "https://buggyit.itch.io/snowbox",
+      "overallRank": 36,
+      "topCategories": [
+        "Audio"
+      ],
+      "resultData": {
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 3.5454545454545,
+            "rank": 36,
+            "score": 3.5454545454545
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.1818181818182,
+            "rank": 44,
+            "score": 3.1818181818182
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.7272727272727,
+            "rank": 33,
+            "score": 3.7272727272727
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.8181818181818,
+            "rank": 8,
+            "score": 3.8181818181818
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 2.8181818181818,
+            "rank": 63,
+            "score": 2.8181818181818
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 3.3636363636364,
+            "rank": 45,
+            "score": 3.3636363636364
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2017/rate/199650",
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTk5NjUwLzkzMzk5Mi5wbmc=/300x240%23c/WJLQln.png",
+        "title": "Snowbox",
+        "id": 199650,
+        "rank": 36,
+        "contributors": [
+          {
+            "name": "buggyit",
+            "id": 832066
+          }
+        ],
+        "score": 0.59090909090909,
+        "raw_score": 0.59090909090909,
+        "rating_count": 11
+      },
+      "entryData": {
+        "coolness": 20,
+        "game": {
+          "title": "Snowbox",
+          "url": "https://buggyit.itch.io/snowbox",
+          "user": {
+            "name": "buggyit",
+            "url": "https://buggyit.itch.io",
+            "id": 832066
+          },
+          "short_text": "Mutiplayer 2d snowball \"shooter\"",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTk5NjUwLzkzMzk5Mi5wbmc=/300x240%23c/WJLQln.png",
+          "id": 199650,
+          "platforms": [
+            "web"
+          ]
+        },
+        "id": 32141,
+        "url": "/jam/game-off-2017/rate/199650",
+        "created_at": "2017-12-01 21:03:41",
+        "rating_count": 11
+      },
+      "details": {
+        "title": "Snowbox",
+        "description": "This is 2d \"shooter\" game in the world of childhood and snow. Just fight with other boys and girls with help of frosty snowballs. It's multiplayer game, which could be played via global internet address: http://selim.co/snowbox or you can run attached server locally and your friends could connect to you over network",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTk5NjUwLzkzMzk3My5wbmc=/original/3fuQiC.png",
+          "https://img.itch.zone/aW1hZ2UvMTk5NjUwLzkzMzk3Mi5wbmc=/original/DFTkPW.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Java",
+          "Author": "buggyit",
+          "Genre": "Action, Shooter",
+          "Tags": "2D, Cozy, Multiplayer, PvP"
+        }
+      }
+    },
+    {
+      "gameId": 199168,
+      "gameUrl": "https://slash.itch.io/rogue-program",
+      "overallRank": 27,
+      "topCategories": [
+        "Innovation",
+        "Theme interpretation"
+      ],
+      "resultData": {
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 3.6666666666667,
+            "rank": 27,
+            "score": 3.6666666666667
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.2,
+            "rank": 40,
+            "score": 3.2
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.0666666666667,
+            "rank": 78,
+            "score": 3.0666666666667
+          },
+          {
+            "name": "Audio",
+            "raw_score": 1.2666666666667,
+            "rank": 159,
+            "score": 1.2666666666667
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 4.1333333333333,
+            "rank": 5,
+            "score": 4.1333333333333
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 4.2,
+            "rank": 7,
+            "score": 4.2
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2017/rate/199168",
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTk5MTY4LzkzMTkyOS5qcGc=/300x240%23c/XU6lO7.jpg",
+        "title": "Rogue Program",
+        "id": 199168,
+        "rank": 27,
+        "contributors": [
+          {
+            "name": "slashie",
+            "id": 35192
+          }
+        ],
+        "score": 0.61111111111111,
+        "raw_score": 0.61111111111111,
+        "rating_count": 15
+      },
+      "entryData": {
+        "coolness": 5,
+        "game": {
+          "title": "Rogue Program",
+          "url": "https://slash.itch.io/rogue-program",
+          "user": {
+            "name": "slashie",
+            "url": "https://slash.itch.io",
+            "id": 35192
+          },
+          "id": 199168,
+          "cover": "https://img.itch.zone/aW1hZ2UvMTk5MTY4LzkzMTkyOS5qcGc=/300x240%23c/XU6lO7.jpg",
+          "cover_color": "#000000",
+          "platforms": [
+            "web"
+          ]
+        },
+        "id": 32013,
+        "url": "/jam/game-off-2017/rate/199168",
+        "created_at": "2017-11-30 21:30:15",
+        "rating_count": 15
+      },
+      "details": {
+        "title": "Rogue Program",
+        "description": "The ROGUE program has activated and is corrupting the characters on the AVRS system, transforming them into monsters. Our only hope is summoning the program manager to kill the process and keep the balance on the software.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTk5MTY4LzkzMjA2MS5wbmc=/original/Gt7Rie.png",
+          "https://img.itch.zone/aW1hZ2UvMTk5MTY4LzkzMjA2MC5wbmc=/original/e7Lj4L.png",
+          "https://img.itch.zone/aW1hZ2UvMTk5MTY4LzkzMjA5OC5wbmc=/original/jkaMUF.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "slashie",
+          "Genre": "Role Playing",
+          "Tags": "ascii, Cyberpunk, Exploration, Perma Death, Top Down Adventure"
+        }
+      }
+    },
+    {
+      "gameId": 194620,
+      "gameUrl": "https://racso.itch.io/power-word-pong",
+      "overallRank": 40,
+      "topCategories": [
+        "Innovation",
+        "Theme interpretation"
+      ],
+      "resultData": {
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 3.5,
+            "rank": 40,
+            "score": 3.5
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.2142857142857,
+            "rank": 37,
+            "score": 3.2142857142857
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.4285714285714,
+            "rank": 54,
+            "score": 3.4285714285714
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.2142857142857,
+            "rank": 46,
+            "score": 3.2142857142857
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 4.0714285714286,
+            "rank": 7,
+            "score": 4.0714285714286
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 4.2142857142857,
+            "rank": 6,
+            "score": 4.2142857142857
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2017/rate/194620",
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTk0NjIwLzkwOTY5Ni5naWY=/300x240%23c/%2FFjibT.gif",
+        "title": "Power Word: Pong",
+        "id": 194620,
+        "rank": 40,
+        "contributors": [
+          {
+            "name": "Racso",
+            "id": 689423
+          }
+        ],
+        "score": 0.58333333333333,
+        "raw_score": 0.58333333333333,
+        "rating_count": 14
+      },
+      "entryData": {
+        "coolness": 8,
+        "game": {
+          "id": 194620,
+          "short_text": "Pong, with a magical twist.",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTk0NjIwLzkwOTY5Ni5naWY=/300x240%23c/%2FFjibT.gif",
+          "gif_cover": "https://img.itch.zone/aW1hZ2UvMTk0NjIwLzkwOTY5Ni5naWY=/original/l999Ac.gif",
+          "title": "Power Word: Pong",
+          "user": {
+            "name": "Racso",
+            "url": "https://racso.itch.io",
+            "id": 689423
+          },
+          "url": "https://racso.itch.io/power-word-pong",
+          "cover_color": "#eeeeee",
+          "platforms": [
+            "windows"
+          ]
+        },
+        "id": 31022,
+        "url": "/jam/game-off-2017/rate/194620",
+        "created_at": "2017-11-15 05:32:50",
+        "rating_count": 14
+      },
+      "details": {
+        "title": "Power Word: Pong",
+        "description": "       \"PONG!\", yelled the wizard, his spell readied and his will as mighty as his magic.\nRecently added: new, more difficult AI players!A reinvention of the classical Pong! Take a side on this epic encounter between the Ice and the Fire factions, place your wizards tactically to control the field and win this duel of minds and magic!\nThe game can be played by zero, one or two players. There are three difficulty levels for single player games. Can you beat the Archmagi team?\n\nDeveloped during the November 2017 GameDev.net challenge and the Game Off jam. Source code available in Github.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTk0NjIwLzkyODg0MC5wbmc=/original/w4aP3H.png",
+          "https://img.itch.zone/aW1hZ2UvMTk0NjIwLzkwOTY3MC5wbmc=/original/NleWJG.png",
+          "https://img.itch.zone/aW1hZ2UvMTk0NjIwLzkwOTY3MS5wbmc=/original/PG8TF8.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Author": "Racso",
+          "Genre": "Action",
+          "Made with": "GameMaker",
+          "Tags": "2D, GameMaker, Pixel Art, pong"
+        }
+      }
+    },
+    {
+      "gameId": 198938,
+      "gameUrl": "https://wyattis.itch.io/boomerang",
+      "overallRank": 59,
+      "topCategories": [
+        "Innovation"
+      ],
+      "resultData": {
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 3.2,
+            "rank": 59,
+            "score": 3.2
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3,
+            "rank": 55,
+            "score": 3
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 2.7,
+            "rank": 106,
+            "score": 2.7
+          },
+          {
+            "name": "Audio",
+            "raw_score": 2,
+            "rank": 113,
+            "score": 2
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.9,
+            "rank": 9,
+            "score": 3.9
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 3.8,
+            "rank": 26,
+            "score": 3.8
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2017/rate/198938",
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTk4OTM4LzkzMzM2MS5wbmc=/300x240%23c/L%2FvxQF.png",
+        "title": "Boomerang",
+        "id": 198938,
+        "rank": 59,
+        "contributors": [
+          {
+            "name": "wyattis",
+            "id": 872361
+          },
+          {
+            "name": "Minechael",
+            "id": 874064
+          }
+        ],
+        "score": 0.53333333333333,
+        "raw_score": 0.53333333333333,
+        "rating_count": 10
+      },
+      "entryData": {
+        "contributors": [
+          {
+            "name": "wyattis",
+            "url": "https://wyattis.itch.io"
+          },
+          {
+            "name": "Minechael",
+            "url": "https://minechael.itch.io"
+          }
+        ],
+        "coolness": 2,
+        "rating_count": 10,
+        "id": 32081,
+        "url": "/jam/game-off-2017/rate/198938",
+        "created_at": "2017-12-01 14:23:52",
+        "game": {
+          "title": "Boomerang",
+          "url": "https://wyattis.itch.io/boomerang",
+          "user": {
+            "name": "wyattis",
+            "url": "https://wyattis.itch.io",
+            "id": 872361
+          },
+          "short_text": "A game about a boomerang.",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTk4OTM4LzkzMzM2MS5wbmc=/300x240%23c/L%2FvxQF.png",
+          "id": 198938,
+          "platforms": [
+            "web"
+          ]
+        }
+      },
+      "details": {
+        "title": "Boomerang",
+        "description": "Try to throw the boomerang all the way around the world.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTk4OTM4LzkzMzM2MS5wbmc=/original/k68RTn.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Authors": "wyattis, Minechael",
+          "Genre": "Puzzle",
+          "Tags": "16-bit, polar-platformer, Puzzle-Platformer"
+        }
+      }
+    },
+    {
+      "gameId": 196395,
+      "gameUrl": "https://cmrn.itch.io/sprilo",
+      "overallRank": 49,
+      "topCategories": [
+        "Theme interpretation"
+      ],
+      "resultData": {
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 3.3333333333333,
+            "rank": 49,
+            "score": 3.3333333333333
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 2.8333333333333,
+            "rank": 75,
+            "score": 2.8333333333333
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.0833333333333,
+            "rank": 77,
+            "score": 3.0833333333333
+          },
+          {
+            "name": "Audio",
+            "raw_score": 2.9166666666667,
+            "rank": 58,
+            "score": 2.9166666666667
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 2.9166666666667,
+            "rank": 53,
+            "score": 2.9166666666667
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 4.5,
+            "rank": 2,
+            "score": 4.5
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2017/rate/196395",
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTk2Mzk1LzkyNzg2MC5wbmc=/300x240%23c/ts4IZq.png",
+        "title": "Sprilo",
+        "id": 196395,
+        "rank": 49,
+        "contributors": [
+          {
+            "name": "cmrn",
+            "id": 27904
+          }
+        ],
+        "score": 0.55555555555556,
+        "raw_score": 0.55555555555556,
+        "rating_count": 12
+      },
+      "entryData": {
+        "coolness": 2,
+        "game": {
+          "url": "https://cmrn.itch.io/sprilo",
+          "title": "Sprilo",
+          "id": 196395,
+          "user": {
+            "name": "cmrn",
+            "url": "https://cmrn.itch.io",
+            "id": 27904
+          },
+          "short_text": "A tiny time-trial racing game for the NES",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTk2Mzk1LzkyNzg2MC5wbmc=/300x240%23c/ts4IZq.png",
+          "cover_color": "#13a626",
+          "platforms": [
+            "web"
+          ]
+        },
+        "id": 31874,
+        "url": "/jam/game-off-2017/rate/196395",
+        "created_at": "2017-11-28 09:31:24",
+        "rating_count": 12
+      },
+      "details": {
+        "title": "Sprilo",
+        "description": "Sprilo is a tiny time-attack racing game for the NES, made during the GitHub Game Off 2017. Test your ability to drive a tiny car around a track as fast as you can in over three unique courses!\nThe source code is available here in all its 6502 assembly gloryUse a NES emulator such as Nestopia to run the ROM",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTk2Mzk1LzkyNzg2MC5wbmc=/original/2LZ844.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "cmrn",
+          "Genre": "Simulation, Racing",
+          "Tags": "NES (Nintendo Entertainment System)",
+          "Code license": "MIT License",
+          "Average session": "A few seconds",
+          "Links": "Source code"
+        }
+      }
+    },
+    {
+      "gameId": 197883,
+      "gameUrl": "https://tacratis.itch.io/western-crossing",
+      "overallRank": 22,
+      "topCategories": [
+        "Theme interpretation"
+      ],
+      "resultData": {
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 3.7777777777778,
+            "rank": 22,
+            "score": 3.7777777777778
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 2.9444444444444,
+            "rank": 63,
+            "score": 2.9444444444444
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.8888888888889,
+            "rank": 24,
+            "score": 3.8888888888889
+          },
+          {
+            "name": "Audio",
+            "raw_score": 1.4444444444444,
+            "rank": 142,
+            "score": 1.4444444444444
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.2777777777778,
+            "rank": 32,
+            "score": 3.2777777777778
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 4.4444444444444,
+            "rank": 3,
+            "score": 4.4444444444444
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2017/rate/197883",
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTk3ODgzLzkyNTU4MS5wbmc=/300x240%23c/jjZ%2BJZ.png",
+        "title": "Western Crossing",
+        "id": 197883,
+        "rank": 22,
+        "contributors": [
+          {
+            "name": "Tacratis",
+            "id": 832492
+          }
+        ],
+        "score": 0.62962962962963,
+        "raw_score": 0.62962962962963,
+        "rating_count": 18
+      },
+      "entryData": {
+        "coolness": 125,
+        "game": {
+          "url": "https://tacratis.itch.io/western-crossing",
+          "title": "Western Crossing",
+          "id": 197883,
+          "user": {
+            "name": "Tacratis",
+            "url": "https://tacratis.itch.io",
+            "id": 832492
+          },
+          "short_text": "Game Off 2017 submission",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTk3ODgzLzkyNTU4MS5wbmc=/300x240%23c/jjZ%2BJZ.png",
+          "cover_color": "#a25802",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ]
+        },
+        "id": 31824,
+        "url": "/jam/game-off-2017/rate/197883",
+        "created_at": "2017-11-26 22:01:53",
+        "rating_count": 18
+      },
+      "details": {
+        "title": "Western Crossing",
+        "description": "r to start/resetup/w to move up (or visit the tent when adjacent)down/s to move downleft/space/a to shootp to pauseWestern Crossing is a submission for the Game Off 2017 game jam, with the throwback theme\nWestern Crossing is inspired by the Game & Watch (by Nintendo) handheld electronic game (80's 90's) for the layout and controls, and by The Oregon Trail game (MECC 1974) for the story and game-play.\nIn Western Crossing you control a wagon pulled by oxen in your journey to cross the dangerous desert. Beware of stones which will break your wheels and of venomous snakes which can bite and kill your oxen. A wagon with a broken wheel has limited steering, so avoiding stones should be your priority. Also, you can shoot the snakes, but do not exhaust all your ammo too early!\nIf you are lucky enough to come by a tent, you can get some help from the local Chief. The Chief will fix your wagon's wheel, if broken, provide one oxen, if you do not already own four , or give you five bullets.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTk3ODgzLzkyNzY2My5wbmc=/original/TwD3Vw.png",
+          "https://img.itch.zone/aW1hZ2UvMTk3ODgzLzkyNzY2Mi5wbmc=/original/bmcMre.png",
+          "https://img.itch.zone/aW1hZ2UvMTk3ODgzLzkyNzY2MS5wbmc=/original/3Ag42M.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Author": "Tacratis",
+          "Made with": "Godot",
+          "Tags": "Retro, Western"
+        }
+      }
+    },
+    {
+      "gameId": 198276,
+      "gameUrl": "https://shurelia.itch.io/dont-disappoint-your-dad",
+      "overallRank": 26,
+      "topCategories": [
+        "Theme interpretation"
+      ],
+      "resultData": {
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 3.6764705882353,
+            "rank": 26,
+            "score": 3.6764705882353
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.4117647058824,
+            "rank": 32,
+            "score": 3.4117647058824
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.1470588235294,
+            "rank": 72,
+            "score": 3.1470588235294
+          },
+          {
+            "name": "Audio",
+            "raw_score": 1.2941176470588,
+            "rank": 155,
+            "score": 1.2941176470588
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.5294117647059,
+            "rank": 23,
+            "score": 3.5294117647059
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 4.1764705882353,
+            "rank": 9,
+            "score": 4.1764705882353
+          }
+        ],
+        "url": "https://itch.io/jam/game-off-2017/rate/198276",
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTk4Mjc2LzkzMDM2NS5wbmc=/300x240%23c/1by35d.png",
+        "title": "Don't Disappoint Your Dad",
+        "id": 198276,
+        "rank": 26,
+        "contributors": [
+          {
+            "name": "shurelia",
+            "id": 852743
+          }
+        ],
+        "score": 0.61274509803922,
+        "raw_score": 0.61274509803922,
+        "rating_count": 34
+      },
+      "entryData": {
+        "coolness": 2,
+        "game": {
+          "title": "Don't Disappoint Your Dad",
+          "url": "https://shurelia.itch.io/dont-disappoint-your-dad",
+          "user": {
+            "name": "shurelia",
+            "url": "https://shurelia.itch.io",
+            "id": 852743
+          },
+          "id": 198276,
+          "cover": "https://img.itch.zone/aW1hZ2UvMTk4Mjc2LzkzMDM2NS5wbmc=/300x240%23c/1by35d.png",
+          "cover_color": "#eeeeee",
+          "platforms": [
+            "web"
+          ]
+        },
+        "id": 31865,
+        "url": "/jam/game-off-2017/rate/198276",
+        "created_at": "2017-11-28 06:03:56",
+        "rating_count": 34
+      },
+      "details": {
+        "title": "Don't Disappoint Your Dad",
+        "description": "Don't Disappoint Your Dad is a throwback to that classic childhood memory of trying to play catch with your dad, trying to throw the ball back to him with your weak baby nerd arms, and trying to ignore the disappointment in his eyes.\nIt was created for Github Game Jam 2017 in React. The full source code is available on GitHub.\nOn desktop, use the A and D keys to try and lift the ball. Use the S key to release.\nOn mobile, use the left and right on screen buttons to try and lift the ball. Use the center button to release.\nIf that sounds hard, just imagine what it must be like being your father.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTk4Mjc2LzkzMDM2NS5wbmc=/original/%2FEAISP.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 2.0 out of 5 stars(1 total ratings)",
+          "Author": "shurelia",
+          "Genre": "Simulation"
+        }
+      }
+    }
+  ]
+}

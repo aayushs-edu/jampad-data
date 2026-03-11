@@ -1,0 +1,1781 @@
+{
+  "n": 8,
+  "name": "Pirate Software - Game Jam 16",
+  "url": "https://itch.io/jam/pirate16",
+  "theme": "You Are The Weapon",
+  "slug": "pirate16",
+  "jamMeta": {
+    "jamType": "ongoing",
+    "joined": "",
+    "entries": "1,738",
+    "title": "Pirate Software - Game Jam 16",
+    "jamURL": "https://itch.io/jam/pirate16",
+    "hosts": {
+      "Pirate Software": "https://piratesoftware.itch.io",
+      "#PirateJam": "https://bsky.app/hashtag/PirateJam"
+    },
+    "jamID": "390411"
+  },
+  "totalEntries": 1662,
+  "ranked": true,
+  "hasCategories": false,
+  "needsManualSelection": false,
+  "categories": [],
+  "topGames": [
+    {
+      "gameId": 3286139,
+      "gameUrl": "https://inkspinner.itch.io/shotguana",
+      "overallRank": 1,
+      "topCategories": [
+        "overall"
+      ],
+      "resultData": {
+        "rating_count": 0,
+        "cover_url": "https://img.itch.zone/aW1nLzE5NjM0MjAxLnBuZw==/300x240%23c/UvKGBv.png",
+        "id": 3286139,
+        "url": "https://itch.io/jam/pirate16/rate/3286139",
+        "title": "SHOTGUANA",
+        "contributors": [
+          {
+            "name": "Inkspinner",
+            "id": 1299900
+          },
+          {
+            "name": "rutbny",
+            "id": 931477
+          }
+        ],
+        "rank": 1,
+        "criteria": [
+          {
+            "name": "Winners",
+            "score": 0,
+            "rank": 1,
+            "raw_score": 0
+          }
+        ]
+      },
+      "entryData": {
+        "game": {
+          "url": "https://inkspinner.itch.io/shotguana",
+          "title": "SHOTGUANA",
+          "user": {
+            "name": "Inkspinner",
+            "url": "https://inkspinner.itch.io",
+            "id": 1299900
+          },
+          "id": 3286139,
+          "short_text": "A shotguana and their trucker friend run out of gas twice",
+          "cover": "https://img.itch.zone/aW1nLzE5NjM0MjAxLnBuZw==/300x240%23c/UvKGBv.png",
+          "cover_color": "#0d1a13",
+          "platforms": [
+            "web"
+          ]
+        },
+        "rating_count": 0,
+        "id": 651909,
+        "coolness": 0,
+        "created_at": "2025-01-31 10:01:59",
+        "contributors": [
+          {
+            "name": "Inkspinner",
+            "url": "https://inkspinner.itch.io"
+          },
+          {
+            "name": "rutbny",
+            "url": "https://rutbny.itch.io"
+          }
+        ],
+        "url": "/jam/pirate16/rate/3286139"
+      },
+      "details": {
+        "title": "SHOTGUANA",
+        "description": "A short RPG where a trucker and his dear friend (An iguana with a shotgun for a head) make a couple stops on a long dusty highway. \n\nMade in 14 days for Pirate Software jam, with the theme \"You Are the Weapon\", the game acts like a classic monster battler, except you control the monster in real time, moving around on a grid while the 'trainers' shout commands over your head.\n+ The Winner of Pirate Jam 16 +\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzI4NjEzOS8xOTYzNDI4NC5wbmc=/original/nsDkZJ.png",
+          "https://img.itch.zone/aW1hZ2UvMzI4NjEzOS8xOTYzNDI4My5wbmc=/original/vixzPC.png",
+          "https://img.itch.zone/aW1hZ2UvMzI4NjEzOS8xOTYzNDI4Mi5wbmc=/original/3%2BKBCj.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.9 out of 5 stars(16 total ratings)",
+          "Authors": "Inkspinner, rutbny",
+          "Genre": "Role Playing",
+          "Made with": "LÖVE"
+        }
+      }
+    },
+    {
+      "gameId": 3288419,
+      "gameUrl": "https://voxelith.itch.io/sundial",
+      "overallRank": 2,
+      "topCategories": [
+        "overall"
+      ],
+      "resultData": {
+        "rating_count": 0,
+        "cover_url": "https://img.itch.zone/aW1nLzE5NjI2ODkyLnBuZw==/300x240%23c/wcB0Jr.png",
+        "id": 3288419,
+        "url": "https://itch.io/jam/pirate16/rate/3288419",
+        "title": "Sundial",
+        "contributors": [
+          {
+            "name": "voxelith",
+            "id": 10680385
+          }
+        ],
+        "rank": 2,
+        "criteria": [
+          {
+            "name": "Winners",
+            "score": 0,
+            "rank": 2,
+            "raw_score": 0
+          }
+        ]
+      },
+      "entryData": {
+        "game": {
+          "url": "https://voxelith.itch.io/sundial",
+          "title": "Sundial",
+          "user": {
+            "name": "voxelith",
+            "url": "https://voxelith.itch.io",
+            "id": 10680385
+          },
+          "id": 3288419,
+          "short_text": "Gnomon carries the Sundial, a weapon capable of destroying all life. What will he do with it?",
+          "cover": "https://img.itch.zone/aW1nLzE5NjI2ODkyLnBuZw==/300x240%23c/wcB0Jr.png",
+          "cover_color": "#1d1e23",
+          "platforms": [
+            "web"
+          ]
+        },
+        "rating_count": 0,
+        "id": 651368,
+        "created_at": "2025-01-31 04:31:36",
+        "coolness": 0,
+        "url": "/jam/pirate16/rate/3288419"
+      },
+      "details": {
+        "title": "Sundial",
+        "description": "WARNING: Contains flashing lightsSundial\n    In the not-so-distant past, a group of sociopathic scientists  gathered to create the ultimate superweapon, capable of destroying all  life on the planet. The result of their experiment was Gnomon, a  cybernetic being with an integrated weapon module code-named \"Sundial\".  The Sundial's power was real, as evidenced by the  scientists' vaporization thirty seconds after Gnomon's boot-up. However,  the scientists' failed to account for an unknown variable. This unknown  variable, be it God or Fate, endowed Gnomon with a merciful nature  shortly after its boot-up. It was due to this mercy that Gnomon was  capable of refusing its purpose: to Detonate.\n  \n    Gnomon, of course, was horrified by its purpose and the instant  vaporization of its creators. Vowing not to allow the Cleansing Light to  claim any more lives, Gnomon set off in search of a way to deactivate  its Sundial...\n    \n    You are Gnomon.\nControls\nFull screen is recommended\nMovement: WASD\nInteract: Left Click or Spacebar\nPause: Backspace or Esc\nCamera Rotation: Mouse\nAbout the Game\nMade by the Voxelith Creation Team\nTools used:\nAseprite\n Blender\nGodot 4.3\nReaper\nAudacity\nGIMP\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE5NjI2ODkyLnBuZw==/original/YwjuID.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.0 out of 5 stars(2 total ratings)",
+          "Author": "voxelith",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "3D, Noir, Pixel Art",
+          "Average session": "A few seconds",
+          "Inputs": "Keyboard, Mouse, Gamepad (any)"
+        }
+      }
+    },
+    {
+      "gameId": 3248194,
+      "gameUrl": "https://takushyo.itch.io/nobody-expects-exploding-immortal-pigeon",
+      "overallRank": 3,
+      "topCategories": [
+        "overall"
+      ],
+      "resultData": {
+        "rating_count": 0,
+        "cover_url": "https://img.itch.zone/aW1nLzE5NjE0OTgyLnBuZw==/300x240%23c/DjH5kV.png",
+        "id": 3248194,
+        "url": "https://itch.io/jam/pirate16/rate/3248194",
+        "title": "Nobody Expects Exploding Immortal Pigeon",
+        "contributors": [
+          {
+            "name": "Taku",
+            "id": 1034568
+          },
+          {
+            "name": "pillowrd",
+            "id": 2178602
+          },
+          {
+            "name": "Whimppidy",
+            "id": 8935660
+          },
+          {
+            "name": "Chirpy-chi",
+            "id": 12594710
+          },
+          {
+            "name": "Komainui",
+            "id": 11699759
+          }
+        ],
+        "rank": 3,
+        "criteria": [
+          {
+            "name": "Winners",
+            "score": 0,
+            "rank": 3,
+            "raw_score": 0
+          }
+        ]
+      },
+      "entryData": {
+        "game": {
+          "url": "https://takushyo.itch.io/nobody-expects-exploding-immortal-pigeon",
+          "user": {
+            "name": "Taku",
+            "url": "https://takushyo.itch.io",
+            "id": 1034568
+          },
+          "id": 3248194,
+          "title": "Nobody Expects Exploding Immortal Pigeon",
+          "cover": "https://img.itch.zone/aW1nLzE5NjE0OTgyLnBuZw==/300x240%23c/DjH5kV.png",
+          "cover_color": "#eeeeee",
+          "platforms": [
+            "web"
+          ]
+        },
+        "rating_count": 0,
+        "id": 651835,
+        "coolness": 0,
+        "created_at": "2025-01-31 09:22:26",
+        "contributors": [
+          {
+            "name": "Taku",
+            "url": "https://takushyo.itch.io"
+          },
+          {
+            "name": "pillowrd",
+            "url": "https://pillowbyte.itch.io"
+          },
+          {
+            "name": "Whimppidy",
+            "url": "https://whimppidy.itch.io"
+          },
+          {
+            "name": "Chirpy-chi",
+            "url": "https://chirpy-chi.itch.io"
+          },
+          {
+            "name": "Komainui",
+            "url": "https://komainui.itch.io"
+          }
+        ],
+        "url": "/jam/pirate16/rate/3248194"
+      },
+      "details": {
+        "title": "Nobody Expects Exploding Immortal Pigeon",
+        "description": "!!! Wishlist on steam now !!!https://store.steampowered.com/app/3548770/Nobody_Expects_Exploding_Immortal_Pig...A / D to moveSHIFT to crouchE to interactSPACE to flap\nWhile crouching hold SPACE to explode on the spot\nWhile Midair hold SHIFT  to enter torpedo modeA / D to rotateC to COOW for LEGCoo Coo COOooGDD: https://docs.google.com/document/d/1otOE-SvUjqqUxVww0uDjEdgheCHfRxkm0bTCWF_o8X0/...",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzI0ODE5NC8xOTYxNTk3My5wbmc=/original/m3pSdB.png",
+          "https://img.itch.zone/aW1hZ2UvMzI0ODE5NC8xOTYxNTk3NC5wbmc=/original/8t4Aoj.png",
+          "https://img.itch.zone/aW1hZ2UvMzI0ODE5NC8xOTYxNTk3NS5wbmc=/original/NVmSdR.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.6 out of 5 stars(10 total ratings)",
+          "Authors": "Taku, pillowrd, Whimppidy, Chirpy-chi, Komainui",
+          "Genre": "Adventure",
+          "Made with": "Unity",
+          "Average session": "A few minutes"
+        }
+      }
+    },
+    {
+      "gameId": 3266352,
+      "gameUrl": "https://rustylights.itch.io/indigo-satellite",
+      "overallRank": 4,
+      "topCategories": [
+        "overall"
+      ],
+      "resultData": {
+        "rating_count": 0,
+        "cover_url": "https://img.itch.zone/aW1nLzE5NTc5NDUwLmdpZg==/300x240%23c/LvJ2oJ.gif",
+        "id": 3266352,
+        "url": "https://itch.io/jam/pirate16/rate/3266352",
+        "title": "Indigo Satellite (Game Jam Version)",
+        "contributors": [
+          {
+            "name": "RustyLights",
+            "id": 12561307
+          },
+          {
+            "name": "Ryaninho",
+            "id": 5228330
+          }
+        ],
+        "rank": 4,
+        "criteria": [
+          {
+            "name": "Winners",
+            "score": 0,
+            "rank": 4,
+            "raw_score": 0
+          }
+        ]
+      },
+      "entryData": {
+        "game": {
+          "short_text": "Robot Fighters in a Lab.",
+          "id": 3266352,
+          "cover": "https://img.itch.zone/aW1nLzE5NTc5NDUwLmdpZg==/300x240%23c/LvJ2oJ.gif",
+          "cover_color": "#000000",
+          "gif_cover": "https://img.itch.zone/aW1nLzE5NTc5NDUwLmdpZg==/original/Wp%2BpSm.gif",
+          "title": "Indigo Satellite (Game Jam Version)",
+          "url": "https://rustylights.itch.io/indigo-satellite",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "RustyLights",
+            "url": "https://rustylights.itch.io",
+            "id": 12561307
+          }
+        },
+        "rating_count": 0,
+        "id": 652573,
+        "coolness": 0,
+        "created_at": "2025-01-31 13:38:20",
+        "contributors": [
+          {
+            "name": "RustyLights",
+            "url": "https://rustylights.itch.io"
+          },
+          {
+            "name": "Ryaninho",
+            "url": "https://ryaninho.itch.io"
+          }
+        ],
+        "url": "/jam/pirate16/rate/3266352"
+      },
+      "details": {
+        "title": "Indigo Satellite (Game Jam Version)",
+        "description": "\n\"A\" & \"D\" to run.\"SPACE\" or \"W\" to jump.\"E\" or \"J\" to punch.\"SHIFT\" or \"K\" to do the dash.\n\n\nYou are Zero, the first pilot-able robot on Earth.\nYou used to complete missions with your human pilot as your partner and controller of your brute strength.\nThis time however, the weapon has been taken away from your pilot's hands, and you're now on your own, as you're in your path to stop the rogue robot Phobos, from their mission to take over mankind.\nThe path is not straightforward, only downwards, further and further into the abandoned lab. Your home.\n\n- Submission for the Pirate Software's Game Jam 16 -\n\n\nArt: Rusty Lights, Ryaninho.Game design: Rusty Lights, Ryaninho.Programming: Rusty Lights, Ryaninho, Bytes dev.Music & SFX: Laserpointers.\nSoundtrack: https://soundcloud.com/user-552289138/sets/indigo-satellite-ost\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzI2NjM1Mi8xOTYxMjEzOC5wbmc=/original/7ELHzA.png",
+          "https://img.itch.zone/aW1hZ2UvMzI2NjM1Mi8xOTYxMjE0MC5wbmc=/original/KU5lFi.png",
+          "https://img.itch.zone/aW1hZ2UvMzI2NjM1Mi8xOTYxMjE0MS5wbmc=/original/EtpHJ9.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Authors": "RustyLights, Ryaninho",
+          "Genre": "Action, Fighting",
+          "Made with": "GameMaker, Aseprite",
+          "Tags": "Game Jam, GameMaker, Robots",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": 3279932,
+      "gameUrl": "https://cjpiep.itch.io/operation-eos",
+      "overallRank": 5,
+      "topCategories": [
+        "overall"
+      ],
+      "resultData": {
+        "rating_count": 0,
+        "cover_url": "https://img.itch.zone/aW1nLzE5NjMxNzEyLnBuZw==/300x240%23c/hv1%2Bkv.png",
+        "id": 3279932,
+        "url": "https://itch.io/jam/pirate16/rate/3279932",
+        "title": "Operation EOS",
+        "contributors": [
+          {
+            "name": "CJPiep",
+            "id": 8806338
+          }
+        ],
+        "rank": 5,
+        "criteria": [
+          {
+            "name": "Winners",
+            "score": 0,
+            "rank": 5,
+            "raw_score": 0
+          }
+        ]
+      },
+      "entryData": {
+        "game": {
+          "url": "https://cjpiep.itch.io/operation-eos",
+          "user": {
+            "name": "CJPiep",
+            "url": "https://cjpiep.itch.io",
+            "id": 8806338
+          },
+          "id": 3279932,
+          "title": "Operation EOS",
+          "cover": "https://img.itch.zone/aW1nLzE5NjMxNzEyLnBuZw==/300x240%23c/hv1%2Bkv.png",
+          "cover_color": "#000000",
+          "platforms": [
+            "web"
+          ]
+        },
+        "rating_count": 0,
+        "id": 651593,
+        "created_at": "2025-01-31 06:57:23",
+        "coolness": 0,
+        "url": "/jam/pirate16/rate/3279932"
+      },
+      "details": {
+        "title": "Operation EOS",
+        "description": "Operation EOS is a text based atmospheric horror game which takes place on a space station. The player must use a set of terminal commands in an effort to uncover hidden mysteries that lie within the cosmos.\nRequires a keyboard and mouse. Headphones are recommended.  Browser hardware acceleration is encouraged.GDD\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE5NjMxNzEyLnBuZw==/original/ex99NJ.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(5 total ratings)",
+          "Author": "CJPiep",
+          "Genre": "Interactive Fiction",
+          "Made with": "Godot",
+          "Tags": "Psychological Horror, Text based",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard",
+          "Accessibility": "High-contrast"
+        }
+      }
+    },
+    {
+      "gameId": 3290305,
+      "gameUrl": "https://lyokoblight.itch.io/bioweapon",
+      "overallRank": 6,
+      "topCategories": [
+        "overall"
+      ],
+      "resultData": {
+        "rating_count": 0,
+        "cover_url": "https://img.itch.zone/aW1nLzE5NzQxMjg5LnBuZw==/300x240%23c/bsJeL1.png",
+        "id": 3290305,
+        "url": "https://itch.io/jam/pirate16/rate/3290305",
+        "title": "Bioweapon",
+        "contributors": [
+          {
+            "name": "LyokoBlight",
+            "id": 5649397
+          },
+          {
+            "name": "pipotchi",
+            "id": 691111
+          }
+        ],
+        "rank": 6,
+        "criteria": [
+          {
+            "name": "Winners",
+            "score": 0,
+            "rank": 6,
+            "raw_score": 0
+          }
+        ]
+      },
+      "entryData": {
+        "game": {
+          "url": "https://lyokoblight.itch.io/bioweapon",
+          "title": "Bioweapon",
+          "user": {
+            "name": "LyokoBlight",
+            "url": "https://lyokoblight.itch.io",
+            "id": 5649397
+          },
+          "id": 3290305,
+          "short_text": "Play as a Virus and break out of a research facility by taking control of any living creature you can find.",
+          "cover": "https://img.itch.zone/aW1nLzE5NzQxMjg5LnBuZw==/300x240%23c/bsJeL1.png",
+          "cover_color": "#11141c",
+          "platforms": [
+            "web"
+          ]
+        },
+        "rating_count": 0,
+        "id": 652687,
+        "coolness": 0,
+        "created_at": "2025-01-31 13:50:42",
+        "contributors": [
+          {
+            "name": "LyokoBlight",
+            "url": "https://lyokoblight.itch.io"
+          },
+          {
+            "name": "pipotchi",
+            "url": "https://pipotchi.itch.io"
+          }
+        ],
+        "url": "/jam/pirate16/rate/3290305"
+      },
+      "details": {
+        "title": "Bioweapon",
+        "description": "Play as a Virus and break out of a research facility by taking control of any living creature you can find.\nPlease play in fullscreen! Otherwise you might not be able to see the edges of the screen.\nGeneral Controls:\nWASD- Movement and steeringSpacebar- JumpE- InteractMouse - AimRight Mouse Button- FireR- Restart Level\nJoin Pipotchi's Gamedev discord here!: https://discord.gg/bSGrGjdncUCharacter Specific Controls:\nVirus Controls:WASD - SteeringRight mouse button - Fire\nHost Controls (Zombie):A & D - Move left and rightSpace - JumpRight mouse button - Fire\nHost Controls (Rat):A & D - Move left and rightW & S - Move up and down (When inside a vent)Space - JumpRight mouse button - Fire\nHost Controls (Plant):WASD - Choose direction to growRight mouse button - FirePirateJam 16 2025 Game Jam Winner (6th Place)\nMade in Unity by:\nLyoko: Coding, Sprites/Animation, ConceptPipotchi: Level Design + Mechanics, Coding, Visuals \nSFX credits:\n“Running Gear” by Vurca of Freesound.org“power_down.wav” by themfish of Freesound.org“Projector Button Push.wav” by GreekIrish of Freesound.org“MechanicalClamp.wav” by Skullsmasha of Freesound.org“Quick Zoom / Slow Down” by bevibeldesign of Freesound.org “Big elevator going up” by finalCrystine of Freesound.org“elevator_motor.wav” by pempi of Freesound.org“charging power” by JavierZumer of Freesound.or“ding.wav” by tim.kahn of Freesound.org“Elevator Door opens and closes” by NachtmahrTV of Freesound.org“hint.wav” by dland of Freesound.org“Power On.wav” by JustinBW of Freesound.org\"Sci Fi button beep” by peepholecircus of Freesound.org“[Boom SFX] Massive bass blast/drop/bomb” by waveplaySFX of Freesound.org“Jump_C_05” by cabled_mess of Freesound.org“Jump_C_03” by cabled_mess of Freesound.org “bouncing_off_glass.wav” by gezortenplotz of Freesound.org“Transformers Type SFX 2” by hykenfreak of Freesound.org “cf_FX_bloibb.mp3” by cfork of Freesound.org “weirdbreath.wav” by Wolfsinger of Freesound.org “Big Boom” by unfa of Freesound.org “Bass Drop Pitch Sweep FX.wav” by Stereo Surgeon of Freesound.org “slowblip.wav” by CosmicD of Freesound.org “Cinematic_Boom_Rhapsodize.wav” by rhapsodize of Freesound.org “Short-Fireball-Woosh.flac” by wjl of Freesound.org“swosh.aif” by man of Freesound.org “whoosh.wav” by Benboncan of Freesound.org “neck_crack.wav” by Halleck, DalmarGrimm (“Bone Cracking.wav”) and FreqMan (“whip (dry).wav”) of Freesound.org“Wind, Synthesized, A.wav” by InspectorJ of Freesound.org Music Credits: “A Wrench In The Works” - Composed by One Man Symphony - https://onemansymphony.bandcamp.com \nAmbience Credits: “Air Extractor Fan, Public Toilets, A.wav” by InspectorJ of Freesound.org (Ambient fans could be used for fan rooms)“Industrial/Factory Fans” by IanStarGem of Freesound.org “Room_Tone_Ambience_Medium_Control_Low_Hum.wav” by gchase of Freesound.org “ALIEN SHIP IDLE.wav” by Ch0cchi of Freesound.org\"Machine Factory Ambience, A.wav\" by InspectorJ (www.jshaw.co.uk) of Freesound.org \n  \n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzI5MDMwNS8xOTcwMzkzNC5naWY=/original/YipDin.gif",
+          "https://img.itch.zone/aW1hZ2UvMzI5MDMwNS8xOTY0MDQ3OC5wbmc=/original/UJ9pGz.png",
+          "https://img.itch.zone/aW1hZ2UvMzI5MDMwNS8xOTcwMzkzNy5qcGc=/original/nJwCEE.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzI5MDMwNS8xOTcwMzk0OC5qcGc=/original/PsxUyP.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzI5MDMwNS8xOTcwMzk0MC5qcGc=/original/dBzVTs.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(7 total ratings)",
+          "Authors": "LyokoBlight, pipotchi",
+          "Genre": "Platformer, Puzzle",
+          "Made with": "Unity",
+          "Tags": "2D, Puzzle-Platformer, Sci-fi, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 3259864,
+      "gameUrl": "https://nimupatu5.itch.io/bioweapon",
+      "overallRank": 7,
+      "topCategories": [
+        "overall"
+      ],
+      "resultData": {
+        "rating_count": 0,
+        "cover_url": "https://img.itch.zone/aW1nLzE5NjM2MTUwLnBuZw==/300x240%23c/7Fjs2O.png",
+        "id": 3259864,
+        "url": "https://itch.io/jam/pirate16/rate/3259864",
+        "title": "Bioweapon 101: Intro to Viruses",
+        "contributors": [
+          {
+            "name": "nimupatu5",
+            "id": 9362276
+          },
+          {
+            "name": "yulia2432",
+            "id": 11521641
+          }
+        ],
+        "rank": 7,
+        "criteria": [
+          {
+            "name": "Winners",
+            "score": 0,
+            "rank": 7,
+            "raw_score": 0
+          }
+        ]
+      },
+      "entryData": {
+        "game": {
+          "url": "https://nimupatu5.itch.io/bioweapon",
+          "title": "Bioweapon 101: Intro to Viruses",
+          "user": {
+            "name": "nimupatu5",
+            "url": "https://nimupatu5.itch.io",
+            "id": 9362276
+          },
+          "id": 3259864,
+          "short_text": "What could possibly go wrong?",
+          "cover": "https://img.itch.zone/aW1nLzE5NjM2MTUwLnBuZw==/300x240%23c/7Fjs2O.png",
+          "cover_color": "#327345",
+          "platforms": [
+            "web"
+          ]
+        },
+        "rating_count": 0,
+        "id": 649900,
+        "coolness": 0,
+        "created_at": "2025-01-28 21:05:03",
+        "contributors": [
+          {
+            "name": "nimupatu5",
+            "url": "https://nimupatu5.itch.io"
+          },
+          {
+            "name": "yulia2432",
+            "url": "https://yulia2432.itch.io"
+          }
+        ],
+        "url": "/jam/pirate16/rate/3259864"
+      },
+      "details": {
+        "title": "Bioweapon 101: Intro to Viruses",
+        "description": "Play as a deadly bioweapon to destroy your creator.Right click to move and left click to divide to mouse position.치명적인 생물학 무기가 되어 당신의 창조주를 파괴하세요.우클릭으로 이동, 좌클릭으로 세포 분열을 합니다.\nCredits:Nimupatu - Programming, Music and SFX, Technical ArtYulia - Art, Rigging and Animation\nfake_droplets.wav by efectirijillo -- https://freesound.org/s/470706/ -- License: Creative Commons 0WaterDropletEchoed.wav by HighPixel -- https://freesound.org/s/612133/ -- License: Creative Commons 0glass-in-bucket_01.ogg by C_Rogers -- https://freesound.org/s/203370/ -- License: Creative Commons 0",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzI1OTg2NC8xOTU5OTU5My5wbmc=/original/DbapSg.png",
+          "https://img.itch.zone/aW1hZ2UvMzI1OTg2NC8xOTU5OTU5Ny5wbmc=/original/Nant38.png",
+          "https://img.itch.zone/aW1hZ2UvMzI1OTg2NC8xOTU5OTYwMS5wbmc=/original/kPibur.png",
+          "https://img.itch.zone/aW1hZ2UvMzI1OTg2NC8xOTU5OTYwMy5wbmc=/original/m3ddQd.png",
+          "https://img.itch.zone/aW1hZ2UvMzI1OTg2NC8xOTU5OTYwNi5wbmc=/original/4hG6sU.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.5 out of 5 stars(2 total ratings)",
+          "Authors": "nimupatu5, yulia2432",
+          "Genre": "Puzzle, Action, Educational",
+          "Made with": "Unity",
+          "Tags": "Cartoon, Comedy, Dark Humor, Mouse only, No AI, Simple, Unity",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Mouse",
+          "Accessibility": "Interactive tutorial, One button"
+        }
+      }
+    },
+    {
+      "gameId": 3288869,
+      "gameUrl": "https://radcodex.itch.io/hattack",
+      "overallRank": 8,
+      "topCategories": [
+        "overall"
+      ],
+      "resultData": {
+        "rating_count": 0,
+        "cover_url": "https://img.itch.zone/aW1nLzE5NjMwOTYwLnBuZw==/300x240%23c/NyArOg.png",
+        "id": 3288869,
+        "url": "https://itch.io/jam/pirate16/rate/3288869",
+        "title": "Hattack of the Wizard Brain Stealer",
+        "contributors": [
+          {
+            "name": "Rad Codex",
+            "id": 88779
+          },
+          {
+            "name": "Sinzor",
+            "id": 2496938
+          }
+        ],
+        "rank": 8,
+        "criteria": [
+          {
+            "name": "Winners",
+            "score": 0,
+            "rank": 8,
+            "raw_score": 0
+          }
+        ]
+      },
+      "entryData": {
+        "game": {
+          "url": "https://radcodex.itch.io/hattack",
+          "user": {
+            "name": "Rad Codex",
+            "url": "https://radcodex.itch.io",
+            "id": 88779
+          },
+          "id": 3288869,
+          "title": "Hattack of the Wizard Brain Stealer",
+          "cover": "https://img.itch.zone/aW1nLzE5NjMwOTYwLnBuZw==/300x240%23c/NyArOg.png",
+          "cover_color": "#211e32",
+          "platforms": [
+            "web"
+          ]
+        },
+        "rating_count": 0,
+        "id": 651499,
+        "coolness": 0,
+        "created_at": "2025-01-31 06:07:20",
+        "contributors": [
+          {
+            "name": "Rad Codex",
+            "url": "https://radcodex.itch.io"
+          },
+          {
+            "name": "Sinzor",
+            "url": "https://sinzor.itch.io"
+          }
+        ],
+        "url": "/jam/pirate16/rate/3288869"
+      },
+      "details": {
+        "title": "Hattack of the Wizard Brain Stealer",
+        "description": "Malakazam the wizard was defeated 100 years ago, but his Hat still remains and thirsts for power. Take control of wizards, poke their brains, and steal their knowledge!\nMade For Pirate Software - Game Jam 16 (Theme: You are the Weapon)\nControls:Left click - choose actionEscape - volume options\n\nProgramming: Erik SingerArt: Sean HaydenMusic: congusbongus\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzI4ODg2OS8xOTYzMDQwNC5naWY=/original/YFRkbb.gif",
+          "https://img.itch.zone/aW1hZ2UvMzI4ODg2OS8xOTYzMDQwNi5wbmc=/original/3%2Baq5l.png",
+          "https://img.itch.zone/aW1hZ2UvMzI4ODg2OS8xOTYzMDQwNS5wbmc=/original/%2FsiZqz.png",
+          "https://img.itch.zone/aW1hZ2UvMzI4ODg2OS8xOTYzMDQwMy5naWY=/original/JVm8K%2B.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.7 out of 5 stars(38 total ratings)",
+          "Authors": "Rad Codex, Sinzor",
+          "Genre": "Role Playing",
+          "Made with": "Godot",
+          "Tags": "2D, Pixel Art, Turn-based"
+        }
+      }
+    },
+    {
+      "gameId": 3285693,
+      "gameUrl": "https://pierssk.itch.io/from-above",
+      "overallRank": 9,
+      "topCategories": [
+        "overall"
+      ],
+      "resultData": {
+        "rating_count": 0,
+        "cover_url": "https://img.itch.zone/aW1nLzE5NjI5MzA3LnBuZw==/300x240%23c/88zGjc.png",
+        "id": 3285693,
+        "url": "https://itch.io/jam/pirate16/rate/3285693",
+        "title": "From Above",
+        "contributors": [
+          {
+            "name": "PiersSK",
+            "id": 1428356
+          },
+          {
+            "name": "RoryMcBig",
+            "id": 6471085
+          },
+          {
+            "name": "OrcaOfTime",
+            "id": 9309154
+          },
+          {
+            "name": "JamesYJ",
+            "id": 9309576
+          },
+          {
+            "name": "Gently Rotting Productions",
+            "id": 6121932
+          }
+        ],
+        "rank": 9,
+        "criteria": [
+          {
+            "name": "Winners",
+            "score": 0,
+            "rank": 9,
+            "raw_score": 0
+          }
+        ]
+      },
+      "entryData": {
+        "game": {
+          "url": "https://pierssk.itch.io/from-above",
+          "title": "From Above",
+          "user": {
+            "name": "PiersSK",
+            "url": "https://pierssk.itch.io",
+            "id": 1428356
+          },
+          "id": 3285693,
+          "short_text": "Join the RAPIER program, and be the sword amongst the stars, the weapon that protects us from above.",
+          "cover": "https://img.itch.zone/aW1nLzE5NjI5MzA3LnBuZw==/300x240%23c/88zGjc.png",
+          "cover_color": "#000000",
+          "platforms": [
+            "web"
+          ]
+        },
+        "rating_count": 0,
+        "id": 651292,
+        "coolness": 0,
+        "created_at": "2025-01-31 03:41:16",
+        "contributors": [
+          {
+            "name": "PiersSK",
+            "url": "https://pierssk.itch.io"
+          },
+          {
+            "name": "RoryMcBig",
+            "url": "https://rorymcbig.itch.io"
+          },
+          {
+            "name": "OrcaOfTime",
+            "url": "https://orcaoftime.itch.io"
+          },
+          {
+            "name": "JamesYJ",
+            "url": "https://jamesyj.itch.io"
+          },
+          {
+            "name": "Gently Rotting Productions",
+            "url": "https://gentlyrotting.itch.io"
+          }
+        ],
+        "url": "/jam/pirate16/rate/3285693"
+      },
+      "details": {
+        "title": "From Above",
+        "description": "Join the RAPIER  program, become the sword amongst the stars, the weapon that protects us from above. It's time to wake up, soldier. Best of luck.\nWe'd love to hear about your experience, what you enjoyed, how it made you feel, and any feedback you have for us to consider for any patches we may apply to this project in the future!.If you entered the jam, congratulations, and we can't wait to check out your submissions!\nA game by JamesYJ, OrcaOfTime, GentlyRotting, RoryMcBig and PiersSK.\n\nThanks for playing our game!\nAdditional Credits:\nItch.io Thumbnail, Page Banner, and Game Title Screen Font:Hyper Scrypt by Jérémy Landes. Distributed by velvetyne.fr.\nTerminal Text Font:Terminal Grotesque by Raphaël Bastide, with the contribution of Jérémy Landes. Distributed by velvetyne.fr.\nWellness Picture by Courtney Kenady on unsplash.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzI4NTY5My8xOTYyNzQ4MC5wbmc=/original/le1iul.png",
+          "https://img.itch.zone/aW1hZ2UvMzI4NTY5My8xOTYyNzQ3OC5wbmc=/original/Xlb34g.png",
+          "https://img.itch.zone/aW1hZ2UvMzI4NTY5My8xOTYyMTA2NC5wbmc=/original/UsdXB%2B.png",
+          "https://img.itch.zone/aW1hZ2UvMzI4NTY5My8xOTYyNzQ4OC5wbmc=/original/BcpSSx.png",
+          "https://img.itch.zone/aW1hZ2UvMzI4NTY5My8xOTYyNzQ3OS5wbmc=/original/WnUFmI.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Authors": "PiersSK, RoryMcBig, OrcaOfTime, JamesYJ, Gently Rotting Productions",
+          "Genre": "Interactive Fiction",
+          "Made with": "Unity",
+          "Tags": "3D, Atmospheric, Exploration, First-Person, Narrative, No AI, Sci-fi, Short, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 3288021,
+      "gameUrl": "https://solomongumball.itch.io/kill-gill",
+      "overallRank": 10,
+      "topCategories": [
+        "overall"
+      ],
+      "resultData": {
+        "rating_count": 0,
+        "cover_url": "https://img.itch.zone/aW1nLzE5NzcyMTE0LnBuZw==/300x240%23c/2K7YmX.png",
+        "id": 3288021,
+        "url": "https://itch.io/jam/pirate16/rate/3288021",
+        "title": "KILL GILL",
+        "contributors": [
+          {
+            "name": "Solomon Gumball",
+            "id": 12093596
+          },
+          {
+            "name": "SLOWED",
+            "id": 9008641
+          }
+        ],
+        "rank": 10,
+        "criteria": [
+          {
+            "name": "Winners",
+            "score": 0,
+            "rank": 10,
+            "raw_score": 0
+          }
+        ]
+      },
+      "entryData": {
+        "game": {
+          "url": "https://solomongumball.itch.io/kill-gill",
+          "user": {
+            "name": "Solomon Gumball",
+            "url": "https://solomongumball.itch.io",
+            "id": 12093596
+          },
+          "id": 3288021,
+          "title": "KILL GILL",
+          "cover": "https://img.itch.zone/aW1nLzE5NzcyMTE0LnBuZw==/300x240%23c/2K7YmX.png",
+          "cover_color": "#4c5f63",
+          "platforms": [
+            "web"
+          ]
+        },
+        "rating_count": 0,
+        "id": 652483,
+        "coolness": 0,
+        "created_at": "2025-01-31 13:22:25",
+        "contributors": [
+          {
+            "name": "Solomon Gumball",
+            "url": "https://solomongumball.itch.io"
+          },
+          {
+            "name": "SLOWED",
+            "url": "https://thee-slowed.itch.io"
+          }
+        ],
+        "url": "/jam/pirate16/rate/3288021"
+      },
+      "details": {
+        "title": "KILL GILL",
+        "description": "CONTROLS\nA + D - Rotate camera left and rightMouse click and release - Aim and shootESC - Open menuJust a note about performance: The game runs a little slow for the first 30 seconds or so of gameplay and then should run perfectly fine after the shaders have been compiled for the first time. Also- if you get stuck on any level you can jump to the next using the ESC button menu.Thanks for playing!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzI4ODAyMS8xOTc2OTE5NS5naWY=/original/nHncDy.gif",
+          "https://img.itch.zone/aW1hZ2UvMzI4ODAyMS8xOTc2OTE3Mi5naWY=/original/hqkB3z.gif",
+          "https://img.itch.zone/aW1hZ2UvMzI4ODAyMS8xOTc2OTE3MS5naWY=/original/oBRXjO.gif",
+          "https://img.itch.zone/aW1hZ2UvMzI4ODAyMS8xOTc2OTE3NC5wbmc=/original/KlItBU.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.9 out of 5 stars(18 total ratings)",
+          "Authors": "Solomon Gumball, SLOWED",
+          "Genre": "Puzzle",
+          "Made with": "Godot"
+        }
+      }
+    },
+    {
+      "gameId": 3251497,
+      "gameUrl": "https://vivienneooi.itch.io/reincarnated-as-a-glock",
+      "overallRank": 11,
+      "topCategories": [
+        "overall"
+      ],
+      "resultData": {
+        "rating_count": 0,
+        "cover_url": "https://img.itch.zone/aW1nLzE5NTk2MTc0LnBuZw==/300x240%23c/VO7E7G.png",
+        "id": 3251497,
+        "url": "https://itch.io/jam/pirate16/rate/3251497",
+        "title": "Reincarnated as a Glock",
+        "contributors": [
+          {
+            "name": "Viv",
+            "id": 12511727
+          }
+        ],
+        "rank": 11,
+        "criteria": [
+          {
+            "name": "Winners",
+            "score": 0,
+            "rank": 11,
+            "raw_score": 0
+          }
+        ]
+      },
+      "entryData": {
+        "game": {
+          "url": "https://vivienneooi.itch.io/reincarnated-as-a-glock",
+          "title": "Reincarnated as a Glock",
+          "user": {
+            "name": "Viv",
+            "url": "https://vivienneooi.itch.io",
+            "id": 12511727
+          },
+          "id": 3251497,
+          "short_text": "A love story about a man and his gun --- from the perspective of the gun.",
+          "cover": "https://img.itch.zone/aW1nLzE5NTk2MTc0LnBuZw==/300x240%23c/VO7E7G.png",
+          "cover_color": "#eeeeee",
+          "platforms": [
+            "web"
+          ]
+        },
+        "rating_count": 0,
+        "id": 651019,
+        "created_at": "2025-01-30 23:46:59",
+        "coolness": 0,
+        "url": "/jam/pirate16/rate/3251497"
+      },
+      "details": {
+        "title": "Reincarnated as a Glock",
+        "description": "IMPORTANT: PLEASE DON'T SCROLL (it will break the game). Also if you are unable to type, clicking the text should fix this.\nReincarnated as a Glock (RaaG) is an interactive webcomic about a girl who becomes a gun and has to work with a soldier in a post-apocalyptic world.\nHow to Play\n⚔️ Your words are your weapon! Type the highlighted letters (A-Z) to move through the dialogue. In combat, type fast and accurately to win!\nImportant\nThis game is tested and optimized for Chrome, so you may run into technical issues while playing on a different browser. If you are on Chrome and still have problems, try playing directly on Vercel. Otherwise, please leave a note below and I will do my best to address it ASAP. Thanks! -Viv\n---\nCredits\nGame design, art, music, programming: Vivienne Ooi\nGame Jam: Pirate Software - Gam Jam 16\nTools\nGame Engine: React [ Hosted on Vercel ]\nArt: Procreate\nMusic/SFX: Ableton Live 11\nCode: GitHub",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzI1MTQ5Ny8xOTU5NjEzMi5wbmc=/original/hFQ25e.png",
+          "https://img.itch.zone/aW1hZ2UvMzI1MTQ5Ny8xOTYxMTcxMS5naWY=/original/gNa4sR.gif",
+          "https://img.itch.zone/aW1hZ2UvMzI1MTQ5Ny8xOTU5NjEzMC5wbmc=/original/XL5xgi.png",
+          "https://img.itch.zone/aW1hZ2UvMzI1MTQ5Ny8xOTYxMTcyNy5wbmc=/original/FU5DDI.png",
+          "https://img.itch.zone/aW1hZ2UvMzI1MTQ5Ny8yMTc0NTQ5NS5wbmc=/original/aniAs%2F.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Viv",
+          "Genre": "Interactive Fiction",
+          "Tags": "Arcade, Singleplayer, Story Rich, Typing",
+          "Average session": "A few seconds",
+          "Languages": "English",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": 3256844,
+      "gameUrl": "https://kyraltre.itch.io/purr-formance-review",
+      "overallRank": 11,
+      "topCategories": [
+        "overall"
+      ],
+      "resultData": {
+        "rating_count": 0,
+        "cover_url": "https://img.itch.zone/aW1nLzE5NTMyMDY5LnBuZw==/300x240%23c/EcsHYx.png",
+        "id": 3256844,
+        "url": "https://itch.io/jam/pirate16/rate/3256844",
+        "title": "Purr-formance Review",
+        "contributors": [
+          {
+            "name": "kyraltre",
+            "id": 11073933
+          }
+        ],
+        "rank": 11,
+        "criteria": [
+          {
+            "name": "Winners",
+            "score": 0,
+            "rank": 11,
+            "raw_score": 0
+          }
+        ]
+      },
+      "entryData": {
+        "game": {
+          "url": "https://kyraltre.itch.io/purr-formance-review",
+          "title": "Purr-formance Review",
+          "user": {
+            "name": "kyraltre",
+            "url": "https://kyraltre.itch.io",
+            "id": 11073933
+          },
+          "id": 3256844,
+          "short_text": "Kitty is seeking a promotion to Cat-astrophe Manager. Destroy the office and cause mayhem!",
+          "cover": "https://img.itch.zone/aW1nLzE5NTMyMDY5LnBuZw==/300x240%23c/EcsHYx.png",
+          "cover_color": "#465869",
+          "platforms": [
+            "web"
+          ]
+        },
+        "rating_count": 0,
+        "id": 647330,
+        "created_at": "2025-01-25 02:51:21",
+        "coolness": 0,
+        "url": "/jam/pirate16/rate/3256844"
+      },
+      "details": {
+        "title": "Purr-formance Review",
+        "description": "~~ Made for PirateSoftware's 16th Game Jam (Winter '25) ~~\n~~ Honorable Mention Game! ~~\nYou are a kitty living in a busy office. Can you meet your Kitty Key Purr-formance Indicators (KKPIs) to earn a promotion to Cat-astrophe Manager? \nCreate office cat-astrophes in this stealth and puzzle based game. How high of a rating can you get on your purr-formance review by the end of the week? Keep your kitty eyes peeled for extra secret tasks to earn yourself extra points for your purr-formance review!\nComment your Purr-formance Rating, difficulty level, last day, and whether you got a promotion to be added to the Google Sheets Leaderboard!\n\n~~ Last Updated: February 16th, 2025 ~~\nLatest addition: A cutscene for winning the game and earning your promotion!\n\n\n~~ Story ~~\nYou are a kitty living in a busy office. You are a Jr Catuary for the Cat Distribution System stationed at Office Corp… but a promotion to Cat-astrophe Manager is within your grasp… if you pass a week long purr-formance review. Complete all your Kitty Key Purr-formance Indicators (KKPIs) each day to earn your promotion! \n\nWatch out though, Bob, the Lead of Cleanliness at Office Corp, is also seeking a promotion. He needs to keep the office clean and tidy to get his promotion to Assistant to the Manager. He is getting more and more angry the messier the office gets. He is quick when he is mad so watch out!\n\n\n\nCREDITS\n\nCat Sprite: Elthen (recolored by me)\nHumans & Environment:  LimeZu\nFont: me (kyraltre)\nKitty 'Bap' and 'Meow' sounds: me (kyraltre)\nDialogue Handler: Dialogic 2\nGame Engine: Godot 4.3\nArt Software: Aseprite\nMusic - All from freepd.com\"Inspiration\" by Rafael Krux\n\"Driving Concern\" by Kevin MacLeod\n\"Natural Vibes\" by Kevin MacLeod\n\"City Sunshine\" by Kevin MacLeod\n\"Patron Saint of Heists\" by Bryon Tech\n\"Bleu\" by Komiku\n\"Happy Whistling Ukulele\" by Rafael Krux",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzI1Njg0NC8xOTUzMjI0Mi5wbmc=/original/MlAXKY.png",
+          "https://img.itch.zone/aW1hZ2UvMzI1Njg0NC8xOTUzMjIzOS5wbmc=/original/A5Tfsz.png",
+          "https://img.itch.zone/aW1hZ2UvMzI1Njg0NC8xOTUzMjI0MS5wbmc=/original/RBU7%2B9.png",
+          "https://img.itch.zone/aW1hZ2UvMzI1Njg0NC8xOTUzMjI0MC5wbmc=/original/Pk1aZV.png"
+        ],
+        "moreInfo": {
+          "Updated": "25 days ago",
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.7 out of 5 stars(13 total ratings)",
+          "Author": "kyraltre",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "Cats, Godot, No AI, office, Stealth"
+        }
+      }
+    },
+    {
+      "gameId": 3262948,
+      "gameUrl": "https://ggenije.itch.io/barugi",
+      "overallRank": 11,
+      "topCategories": [
+        "overall"
+      ],
+      "resultData": {
+        "rating_count": 0,
+        "cover_url": "https://img.itch.zone/aW1nLzE5NjM0NjI0LnBuZw==/300x240%23c/N9qE0d.png",
+        "id": 3262948,
+        "url": "https://itch.io/jam/pirate16/rate/3262948",
+        "title": "Barugi",
+        "contributors": [
+          {
+            "name": "ggenije",
+            "id": 2015710
+          },
+          {
+            "name": "PixelCraftMaestro",
+            "id": 5265001
+          },
+          {
+            "name": "CrackedGalaxy",
+            "id": 12464189
+          }
+        ],
+        "rank": 11,
+        "criteria": [
+          {
+            "name": "Winners",
+            "score": 0,
+            "rank": 11,
+            "raw_score": 0
+          }
+        ]
+      },
+      "entryData": {
+        "game": {
+          "url": "https://ggenije.itch.io/barugi",
+          "title": "Barugi",
+          "user": {
+            "name": "ggenije",
+            "url": "https://ggenije.itch.io",
+            "id": 2015710
+          },
+          "id": 3262948,
+          "short_text": "Strategy game - combine spells and find most optimal moves",
+          "cover": "https://img.itch.zone/aW1nLzE5NjM0NjI0LnBuZw==/300x240%23c/N9qE0d.png",
+          "cover_color": "#948a67",
+          "platforms": [
+            "web"
+          ]
+        },
+        "rating_count": 0,
+        "id": 652545,
+        "coolness": 0,
+        "created_at": "2025-01-31 13:34:31",
+        "contributors": [
+          {
+            "name": "ggenije",
+            "url": "https://ggenije.itch.io"
+          },
+          {
+            "name": "PixelCraftMaestro",
+            "url": "https://pixelcraftmaestro.itch.io"
+          },
+          {
+            "name": "CrackedGalaxy",
+            "url": "https://crackedgalaxy.itch.io"
+          }
+        ],
+        "url": "/jam/pirate16/rate/3262948"
+      },
+      "details": {
+        "title": "Barugi",
+        "description": "Barugi is a Turn-based strategy game. Magical cannon Barugi needs your help to defend city from horde of goblins and werewolves.\nMeticulously choose your spells with unique abilities to find the best possible outcome. Fire, Ice, Lighting, Metal combine them all! \nEndless waves are randomly generated for maximum replayability!\nClick on spell cards to select, and then click on enemies to attack.\nCredits:\nPixelCraftMaestro - main artist\nCrackedGalaxy - secondary artist\nggenije - programmer, game designer, sfx editor , project leader , music composer\nspecial thanks to ggenije's brother for helping ggenije\nhttps://pleeze.itch.io/slimesfonts - fonts used in project\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzI2Mjk0OC8xOTYyNTQ5My5wbmc=/original/OrFpQ1.png",
+          "https://img.itch.zone/aW1hZ2UvMzI2Mjk0OC8xOTYyNTQ5Mi5wbmc=/original/roeovj.png",
+          "https://img.itch.zone/aW1hZ2UvMzI2Mjk0OC8xOTYyNTQ5NC5wbmc=/original/Yac4%2FW.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Authors": "ggenije, PixelCraftMaestro, CrackedGalaxy",
+          "Genre": "Strategy",
+          "Made with": "Aseprite, Godot, Audacity",
+          "Tags": "2D, Godot, Mouse only, Roguelite, Turn-based Strategy",
+          "Average session": "A few minutes"
+        }
+      }
+    },
+    {
+      "gameId": 3268471,
+      "gameUrl": "https://chibiininja.itch.io/barrel-breakthrough-squad",
+      "overallRank": 11,
+      "topCategories": [
+        "overall"
+      ],
+      "resultData": {
+        "rating_count": 0,
+        "cover_url": "https://img.itch.zone/aW1nLzE5NjM1MjAzLnBuZw==/300x240%23c/F9y4ni.png",
+        "id": 3268471,
+        "url": "https://itch.io/jam/pirate16/rate/3268471",
+        "title": "Barrel Breakthrough Squad",
+        "contributors": [
+          {
+            "name": "chibiininja",
+            "id": 2728070
+          }
+        ],
+        "rank": 11,
+        "criteria": [
+          {
+            "name": "Winners",
+            "score": 0,
+            "rank": 11,
+            "raw_score": 0
+          }
+        ]
+      },
+      "entryData": {
+        "game": {
+          "url": "https://chibiininja.itch.io/barrel-breakthrough-squad",
+          "title": "Barrel Breakthrough Squad",
+          "user": {
+            "name": "chibiininja",
+            "url": "https://chibiininja.itch.io",
+            "id": 2728070
+          },
+          "id": 3268471,
+          "short_text": "Break in newly manufactured gun barrels as quickly as possible!",
+          "cover": "https://img.itch.zone/aW1nLzE5NjM1MjAzLnBuZw==/300x240%23c/F9y4ni.png",
+          "cover_color": "#2f2e31",
+          "platforms": [
+            "web"
+          ]
+        },
+        "rating_count": 0,
+        "id": 652088,
+        "created_at": "2025-01-31 11:20:14",
+        "coolness": 0,
+        "url": "/jam/pirate16/rate/3268471"
+      },
+      "details": {
+        "title": "Barrel Breakthrough Squad",
+        "description": "[Created for the Pirate Software - Game Jam 16]\nMade by: chibiininja\nDid you know gun barrels need to be broken into like a new pair of shoes? You play as  in the BARREL BREAKTHROUGH SQUAD whose sole purpose is to break in the barrels of newly manufactured gun barrels by traversing them as fast as possible.\nPlay again for a faster score? \nControls:\nA/D for Movement  Space to Jump Left Mouse Button to Dash \nFeedback:\nFeel free to leave your feedback in the comments section below!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzI2ODQ3MS8xOTYzNjU4Ni5naWY=/original/EtxR3M.gif",
+          "https://img.itch.zone/aW1hZ2UvMzI2ODQ3MS8xOTYzNjU4OS5naWY=/original/YJO8JC.gif",
+          "https://img.itch.zone/aW1hZ2UvMzI2ODQ3MS8xOTYzNjU5MC5naWY=/original/P8VwPh.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "chibiininja",
+          "Genre": "Platformer",
+          "Made with": "Godot",
+          "Tags": "2D, Godot, Indie, Pixel Art, Runner, Short, Side Scroller, Singleplayer, Speedrun"
+        }
+      }
+    },
+    {
+      "gameId": 3281624,
+      "gameUrl": "https://razer2020.itch.io/solar-bloom",
+      "overallRank": 11,
+      "topCategories": [
+        "overall"
+      ],
+      "resultData": {
+        "rating_count": 0,
+        "cover_url": "https://img.itch.zone/aW1nLzE5NjIxMjQ3LnBuZw==/300x240%23c/B5XcUk.png",
+        "id": 3281624,
+        "url": "https://itch.io/jam/pirate16/rate/3281624",
+        "title": "Solar Bloom",
+        "contributors": [
+          {
+            "name": "RaZeR2020",
+            "id": 1741737
+          },
+          {
+            "name": "anamariau",
+            "id": 12526810
+          },
+          {
+            "name": "elfakyn",
+            "id": 11359527
+          },
+          {
+            "name": "Rhy",
+            "id": 5574994
+          },
+          {
+            "name": "John_Itcher",
+            "id": 11400299
+          }
+        ],
+        "rank": 11,
+        "criteria": [
+          {
+            "name": "Winners",
+            "score": 0,
+            "rank": 11,
+            "raw_score": 0
+          }
+        ]
+      },
+      "entryData": {
+        "game": {
+          "url": "https://razer2020.itch.io/solar-bloom",
+          "title": "Solar Bloom",
+          "user": {
+            "name": "RaZeR2020",
+            "url": "https://razer2020.itch.io",
+            "id": 1741737
+          },
+          "id": 3281624,
+          "short_text": "Maintain the star active to keep your solar system alive. How long can you survive?",
+          "cover": "https://img.itch.zone/aW1nLzE5NjIxMjQ3LnBuZw==/300x240%23c/B5XcUk.png",
+          "cover_color": "#eeeeee",
+          "platforms": [
+            "windows",
+            "web"
+          ]
+        },
+        "rating_count": 0,
+        "id": 651358,
+        "coolness": 0,
+        "created_at": "2025-01-31 04:25:12",
+        "contributors": [
+          {
+            "name": "RaZeR2020",
+            "url": "https://razer2020.itch.io"
+          },
+          {
+            "name": "anamariau",
+            "url": "https://anamariau.itch.io"
+          },
+          {
+            "name": "elfakyn",
+            "url": "https://elfakyn.itch.io"
+          },
+          {
+            "name": "Rhy",
+            "url": "https://catalinrusu.itch.io"
+          },
+          {
+            "name": "John_Itcher",
+            "url": "https://john-itcher.itch.io"
+          }
+        ],
+        "url": "/jam/pirate16/rate/3281624"
+      },
+      "details": {
+        "title": "Solar Bloom",
+        "description": "Solar Bloom is a cosmic simulation arcade rogue-like in which you play as a lone Star, trying to create and maintain a solar system for as long as you can. Choose one of three stars, manage your resources, make crucial sacrifices and try to obtain as high a score as possible. Good luck!\nControls:\nLeft Click - shoot a solar flare and destroy asteroids or planets, although you might want to avoid that :) Right Click - use a solar wind to pull planets closer to your orbit (and even in yourself for some sweet bonuses), or asteroids to create new planetsScroll Wheel - zoom in/outArrow keys, A, B - a certain company's code :)\nGet the soundtrack here: Solar Bloom OST by Arya Elfakyn (Sidhe Noise)Asset credits:\nPixel Space Background Generator by Deep-FoldPixel Planet Generator by Deep-FoldBullet Impact Explosion by BDragon1727Basic Pixel Health bar and Scroll bar by BDragon1727Icons and artwork by M4RY4NNLicensed Sound Effects (General Series 6000)\nFeedback:\nFeel free to leave any feedback in the comments below. We are happy to see what people thought of our game! :)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzI4MTYyNC8xOTYzMDEwMC5wbmc=/original/aJRgXN.png",
+          "https://img.itch.zone/aW1hZ2UvMzI4MTYyNC8xOTYwODA0MS5wbmc=/original/Ei6851.png",
+          "https://img.itch.zone/aW1hZ2UvMzI4MTYyNC8xOTYwODA3NC5wbmc=/original/5qLrn%2F.png",
+          "https://img.itch.zone/aW1hZ2UvMzI4MTYyNC8xOTYwODA4Ni5wbmc=/original/XekAqb.png",
+          "https://img.itch.zone/aW1hZ2UvMzI4MTYyNC8xOTYwODEzNy5wbmc=/original/e4HEEK.png",
+          "https://img.itch.zone/aW1hZ2UvMzI4MTYyNC8xOTYwODE0Mi5wbmc=/original/%2FbsMzK.png",
+          "https://img.itch.zone/aW1hZ2UvMzI4MTYyNC8xOTYwODE1MS5wbmc=/original/yo69HG.png",
+          "https://img.itch.zone/aW1hZ2UvMzI4MTYyNC8xOTYwODE1NS5wbmc=/original/PrMy4b.png",
+          "https://img.itch.zone/aW1hZ2UvMzI4MTYyNC8xOTYyODU3NS5naWY=/original/WbkHCg.gif",
+          "https://img.itch.zone/aW1hZ2UvMzI4MTYyNC8xOTYyODU3NC5naWY=/original/%2BtF6qt.gif",
+          "https://img.itch.zone/aW1hZ2UvMzI4MTYyNC8xOTYyODU3Ni5naWY=/original/8B0S7i.gif",
+          "https://img.itch.zone/aW1hZ2UvMzI4MTYyNC8xOTYyODU3Ny5naWY=/original/WpfdG8.gif",
+          "https://img.itch.zone/aW1hZ2UvMzI4MTYyNC8xOTYyODUyNi5naWY=/original/be553Z.gif",
+          "https://img.itch.zone/aW1hZ2UvMzI4MTYyNC8xOTYyODU3OC5naWY=/original/Jw9GzW.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "RaZeR2020, anamariau, elfakyn, Rhy, John_Itcher",
+          "Genre": "Simulation",
+          "Made with": "Godot",
+          "Tags": "Arcade, Roguelike, Space Sim",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": 3284300,
+      "gameUrl": "https://moonkey1.itch.io/staff-only",
+      "overallRank": 11,
+      "topCategories": [
+        "overall"
+      ],
+      "resultData": {
+        "rating_count": 0,
+        "cover_url": "https://img.itch.zone/aW1nLzE5NjU2MjkzLnBuZw==/300x240%23c/xMDQ0p.png",
+        "id": 3284300,
+        "url": "https://itch.io/jam/pirate16/rate/3284300",
+        "title": "Staff Only",
+        "contributors": [
+          {
+            "name": "Moonkey1",
+            "id": 5730617
+          },
+          {
+            "name": "Colin136",
+            "id": 7439913
+          },
+          {
+            "name": "craftglu",
+            "id": 11079024
+          },
+          {
+            "name": "Ryria",
+            "id": 1299399
+          },
+          {
+            "name": "Lochie",
+            "id": 4315401
+          }
+        ],
+        "rank": 11,
+        "criteria": [
+          {
+            "name": "Winners",
+            "score": 0,
+            "rank": 11,
+            "raw_score": 0
+          }
+        ]
+      },
+      "entryData": {
+        "game": {
+          "url": "https://moonkey1.itch.io/staff-only",
+          "title": "Staff Only",
+          "user": {
+            "name": "Moonkey1",
+            "url": "https://moonkey1.itch.io",
+            "id": 5730617
+          },
+          "id": 3284300,
+          "short_text": "Protect the tower and keep the wizard safe while his hands are pre-occupied",
+          "cover": "https://img.itch.zone/aW1nLzE5NjU2MjkzLnBuZw==/300x240%23c/xMDQ0p.png",
+          "cover_color": "#bce5ae",
+          "platforms": [
+            "web"
+          ]
+        },
+        "rating_count": 0,
+        "id": 652696,
+        "coolness": 0,
+        "created_at": "2025-01-31 13:51:20",
+        "contributors": [
+          {
+            "name": "Moonkey1",
+            "url": "https://moonkey1.itch.io"
+          },
+          {
+            "name": "Colin136",
+            "url": "https://colin136.itch.io"
+          },
+          {
+            "name": "craftglu",
+            "url": "https://craftglu.itch.io"
+          },
+          {
+            "name": "Ryria",
+            "url": "https://ryria.itch.io"
+          },
+          {
+            "name": "Lochie",
+            "url": "https://lochieaxon.itch.io"
+          }
+        ],
+        "url": "/jam/pirate16/rate/3284300"
+      },
+      "details": {
+        "title": "Staff Only",
+        "description": "Thank you everyone for playing, all the lovely comments, and the feedback provided to help us improve! See you at the next jam \n\n Game overview:\nYou are a happy little Staff helping your wizard master spend less time making money, and more time spending it. You are his - only staff.Protect the tower and keep the wizard safe while he keeps himself occupied.. in other ways.\nEnd screens updated!\n\n Controls:\nRMB to move and auto-attack\nQWERT for abilities\nB to return to the tower\nZ for zoom toggle\nESC or Spacebar for more options\n\n Game made by:\nMoonkey - Programming / Master DivaCraftglu - Artist / CheerleaderLochie - All-rounder / Baby DaddyRyria - Programming / Big RunnerOnionSkin - Animation /  Ogres have layers",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzI4NDMwMC8xOTY1NDYzNC5wbmc=/original/Li7pBO.png",
+          "https://img.itch.zone/aW1hZ2UvMzI4NDMwMC8xOTY1NDYwOS5naWY=/original/nDEyWe.gif",
+          "https://img.itch.zone/aW1hZ2UvMzI4NDMwMC8xOTY1NDYwOC5naWY=/original/nqdXmj.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.0 out of 5 stars(2 total ratings)",
+          "Authors": "Moonkey1, Colin136, craftglu, Ryria, Lochie",
+          "Genre": "Action",
+          "Made with": "Godot",
+          "Tags": "defense",
+          "Average session": "A few minutes",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 3284953,
+      "gameUrl": "https://l-ananas.itch.io/firewall",
+      "overallRank": 11,
+      "topCategories": [
+        "overall"
+      ],
+      "resultData": {
+        "rating_count": 0,
+        "cover_url": "https://img.itch.zone/aW1nLzE5NjE3Nzc0LnBuZw==/300x240%23c/%2BuR6C%2F.png",
+        "id": 3284953,
+        "url": "https://itch.io/jam/pirate16/rate/3284953",
+        "title": "FireWall",
+        "contributors": [
+          {
+            "name": "L' Ananas",
+            "id": 7379191
+          }
+        ],
+        "rank": 11,
+        "criteria": [
+          {
+            "name": "Winners",
+            "score": 0,
+            "rank": 11,
+            "raw_score": 0
+          }
+        ]
+      },
+      "entryData": {
+        "game": {
+          "url": "https://l-ananas.itch.io/firewall",
+          "user": {
+            "name": "L' Ananas",
+            "url": "https://l-ananas.itch.io",
+            "id": 7379191
+          },
+          "id": 3284953,
+          "title": "FireWall",
+          "cover": "https://img.itch.zone/aW1nLzE5NjE3Nzc0LnBuZw==/300x240%23c/%2BuR6C%2F.png",
+          "cover_color": "#b86f50",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ]
+        },
+        "rating_count": 0,
+        "id": 650264,
+        "created_at": "2025-01-29 20:54:41",
+        "coolness": 0,
+        "url": "/jam/pirate16/rate/3284953"
+      },
+      "details": {
+        "title": "FireWall",
+        "description": "      Fire Wall is a puzzel game where you are a weapon that has fallen into the campaign. It's up to you to recharge strategically to launch yourself from wall to wall in order to reach the stars, which might lead you to a better life.\nControls: \n Mouse: Left-click\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzI4NDk1My8xOTYwNTQ5Mi5wbmc=/original/vp323B.png",
+          "https://img.itch.zone/aW1hZ2UvMzI4NDk1My8xOTYwNTQ5Ni5wbmc=/original/%2FzPgaR.png",
+          "https://img.itch.zone/aW1hZ2UvMzI4NDk1My8xOTYwNTQ5OC5wbmc=/original/MC6%2BOM.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "L' Ananas",
+          "Genre": "Puzzle",
+          "Made with": "Construct",
+          "Tags": "Cozy, Cute, Game Boy, Indie, Pixel Art, Relaxing, Short, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 3285863,
+      "gameUrl": "https://hadestheunseen.itch.io/vicious-verses",
+      "overallRank": 11,
+      "topCategories": [
+        "overall"
+      ],
+      "resultData": {
+        "rating_count": 0,
+        "cover_url": "https://img.itch.zone/aW1nLzE5NjMxNTY0LnBuZw==/300x240%23c/7nuq0M.png",
+        "id": 3285863,
+        "url": "https://itch.io/jam/pirate16/rate/3285863",
+        "title": "Vicious Verses",
+        "contributors": [
+          {
+            "name": "HadesTheUnseen",
+            "id": 11142999
+          },
+          {
+            "name": "CrookedKaptain",
+            "id": 12563148
+          },
+          {
+            "name": "ifritborn",
+            "id": 10885389
+          },
+          {
+            "name": "Unfundedpurse01",
+            "id": 12370439
+          },
+          {
+            "name": "Mou53",
+            "id": 1124753
+          }
+        ],
+        "rank": 11,
+        "criteria": [
+          {
+            "name": "Winners",
+            "score": 0,
+            "rank": 11,
+            "raw_score": 0
+          }
+        ]
+      },
+      "entryData": {
+        "game": {
+          "url": "https://hadestheunseen.itch.io/vicious-verses",
+          "user": {
+            "name": "HadesTheUnseen",
+            "url": "https://hadestheunseen.itch.io",
+            "id": 11142999
+          },
+          "id": 3285863,
+          "title": "Vicious Verses",
+          "cover": "https://img.itch.zone/aW1nLzE5NjMxNTY0LnBuZw==/300x240%23c/7nuq0M.png",
+          "cover_color": "#971c1c",
+          "platforms": [
+            "web"
+          ]
+        },
+        "rating_count": 0,
+        "id": 651486,
+        "coolness": 0,
+        "created_at": "2025-01-31 05:54:26",
+        "contributors": [
+          {
+            "name": "HadesTheUnseen",
+            "url": "https://hadestheunseen.itch.io"
+          },
+          {
+            "name": "CrookedKaptain",
+            "url": "https://crookedkaptain.itch.io"
+          },
+          {
+            "name": "ifritborn",
+            "url": "https://ifritborn.itch.io"
+          },
+          {
+            "name": "Unfundedpurse01",
+            "url": "https://unfundedpurse01.itch.io"
+          },
+          {
+            "name": "Mou53",
+            "url": "https://mou53.itch.io"
+          }
+        ],
+        "url": "/jam/pirate16/rate/3285863"
+      },
+      "details": {
+        "title": "Vicious Verses",
+        "description": "Your goal is to use cards to deal damage to beat enemies. Click to play cards and load them into phrases, after battle buy cards and phrases to change your deck and journal!\nStep into the role of a quick-witted bard in a roguelite deckbuilder where words are your weapon! Travel from tavern to tavern, crafting sharp insults using your personalized deck of nouns, verbs, and phrases. Win over audiences to earn gold, upgrade your journal, and unlock new cards. Each duel is a test of creativity, strategy, and humor as you strive to become the most legendary wordsmith in the kingdom. Wit isn’t just might—it’s everything!The VV team will be continuing Development to make the game after the game jam.Give us some feedback on what we did well and what you'd like to see!",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE5NjMxNTY0LnBuZw==/original/I3uIB5.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "HadesTheUnseen, CrookedKaptain, ifritborn, Unfundedpurse01, Mou53",
+          "Genre": "Card Game",
+          "Made with": "Unity",
+          "Tags": "Fantasy, Pixel Art"
+        }
+      }
+    },
+    {
+      "gameId": 3287316,
+      "gameUrl": "https://ssercon.itch.io/plague-control",
+      "overallRank": 11,
+      "topCategories": [
+        "overall"
+      ],
+      "resultData": {
+        "rating_count": 0,
+        "cover_url": "https://img.itch.zone/aW1nLzE5NjE5Nzc5LnBuZw==/300x240%23c/phJH%2BQ.png",
+        "id": 3287316,
+        "url": "https://itch.io/jam/pirate16/rate/3287316",
+        "title": "Plague Control",
+        "contributors": [
+          {
+            "name": "Ssercon",
+            "id": 1962511
+          }
+        ],
+        "rank": 11,
+        "criteria": [
+          {
+            "name": "Winners",
+            "score": 0,
+            "rank": 11,
+            "raw_score": 0
+          }
+        ]
+      },
+      "entryData": {
+        "game": {
+          "user": {
+            "name": "Ssercon",
+            "url": "https://ssercon.itch.io",
+            "id": 1962511
+          },
+          "id": 3287316,
+          "url": "https://ssercon.itch.io/plague-control",
+          "cover": "https://img.itch.zone/aW1nLzE5NjE5Nzc5LnBuZw==/300x240%23c/phJH%2BQ.png",
+          "title": "Plague Control",
+          "platforms": [
+            "web"
+          ]
+        },
+        "rating_count": 0,
+        "id": 650761,
+        "created_at": "2025-01-30 18:13:49",
+        "coolness": 0,
+        "url": "/jam/pirate16/rate/3287316"
+      },
+      "details": {
+        "title": "Plague Control",
+        "description": "Plague Protocol is a real-time, deck building, unit defence, 2D pixel-art game. You play as the IMMUNE SYSTEM and your goal is to protect the cells within the body from pathogens. Your cards enable you to do different actions, from sending out peptides to damage BACTERIA to preventing VIRUSES from duplicating. Afterall, you are the body's natural defence system, YOU ARE THE WEAPON.\nPLAYING IN FULL SCREEN IS RECOMMENDED!You can pause the game at any point with \"p\". You can open options with space or esc (esc closes full screen on itch.io though!)\nThe GDD can be found here.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzI4NzMxNi8xOTYxOTgwMS5wbmc=/original/O9RWkd.png",
+          "https://img.itch.zone/aW1hZ2UvMzI4NzMxNi8xOTYxOTg3Ny5wbmc=/original/4L4%2Fc%2B.png",
+          "https://img.itch.zone/aW1hZ2UvMzI4NzMxNi8xOTYxOTc4My5wbmc=/original/iXkMRg.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Author": "Ssercon",
+          "Genre": "Survival",
+          "Made with": "Godot"
+        }
+      }
+    },
+    {
+      "gameId": 3287543,
+      "gameUrl": "https://indieroll.itch.io/boom-or-doom",
+      "overallRank": 11,
+      "topCategories": [
+        "overall"
+      ],
+      "resultData": {
+        "rating_count": 0,
+        "cover_url": "https://img.itch.zone/aW1nLzIwNTY2ODA1LnBuZw==/300x240%23c/h0xfib.png",
+        "id": 3287543,
+        "url": "https://itch.io/jam/pirate16/rate/3287543",
+        "title": "Boom or Doom",
+        "contributors": [
+          {
+            "name": "Indie Roll",
+            "id": 1725916
+          }
+        ],
+        "rank": 11,
+        "criteria": [
+          {
+            "name": "Winners",
+            "score": 0,
+            "rank": 11,
+            "raw_score": 0
+          }
+        ]
+      },
+      "entryData": {
+        "game": {
+          "url": "https://indieroll.itch.io/boom-or-doom",
+          "title": "Boom or Doom",
+          "user": {
+            "name": "Indie Roll",
+            "url": "https://indieroll.itch.io",
+            "id": 1725916
+          },
+          "id": 3287543,
+          "short_text": "Control a cursed demon that must explode others to survive",
+          "cover": "https://img.itch.zone/aW1nLzIwNTY2ODA1LnBuZw==/300x240%23c/h0xfib.png",
+          "cover_color": "#000000",
+          "platforms": [
+            "web"
+          ]
+        },
+        "rating_count": 0,
+        "id": 650933,
+        "created_at": "2025-01-30 22:09:00",
+        "coolness": 0,
+        "url": "/jam/pirate16/rate/3287543"
+      },
+      "details": {
+        "title": "Boom or Doom",
+        "description": "Made for the Pirate Game Jam 2025 (Theme - YOU ARE THE WEAPON)\nControl a little demon that is eternally cursed to explode every 10 seconds, if you want to keep living, you must take others to the grave with you!  Travel through an endless dungeon and take as many with you as possible. Fight against other players for the top score and collect resources through the game to unlock power ups that will help you in your run.\n*******CONTROLS****************** (Advice to play tutorial as well)\n****************************************\nMOVEMENT - AWSD\nEXPLODE MANUALLY - LEFT CLICK\nHOOK ENEMIES TOWARDS YOU - RIGHT CLICK\nDASH - SPACEBAR\nULTIMATE ABILITY - R\n***************************************\n\n***********THEME INTERPRETATION*********************\n**************************************************************\nYOU ARE THE WEAPON - You the player are forced to find enemies to explode if you dont want to die. Enemies will panic when they see you and your objective is to get the highest score you can (and fight players in the top 10 leaderboard). Power ups will help you through each run that enhance the main mechanics of the game.\n\n********GAME DESIGN DOCUMENT**********************\nGDD REFERENCE: https://docs.google.com/document/d/1tirnz1UvmNDMgFWnOLzqUpF8arpXvY5974K43nkEfFo/...\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzI4NzU0My8xOTYyMzI3Ny5wbmc=/original/glNiLl.png",
+          "https://img.itch.zone/aW1hZ2UvMzI4NzU0My8xOTYyMzMxOC5wbmc=/original/id7cWb.png",
+          "https://img.itch.zone/aW1hZ2UvMzI4NzU0My8xOTYyMzI4My5wbmc=/original/Qq2%2F6x.png",
+          "https://img.itch.zone/aW1hZ2UvMzI4NzU0My8xOTYyMzMyNS5wbmc=/original/OBLczY.png",
+          "https://img.itch.zone/aW1hZ2UvMzI4NzU0My8xOTYyMzMyOS5wbmc=/original/0w8St1.png",
+          "https://img.itch.zone/aW1hZ2UvMzI4NzU0My8xOTYyMzMzNC5wbmc=/original/D2LI5W.png",
+          "https://img.itch.zone/aW1hZ2UvMzI4NzU0My8xOTYyMzM0MC5wbmc=/original/RPrExU.png",
+          "https://img.itch.zone/aW1hZ2UvMzI4NzU0My8xOTYyMzM0Ny5wbmc=/original/L5c5WE.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.5 out of 5 stars(2 total ratings)",
+          "Author": "Indie Roll",
+          "Genre": "Action",
+          "Made with": "Unity",
+          "Tags": "2D, Pixel Art, Roguelike, Top-Down",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse",
+          "Accessibility": "Interactive tutorial"
+        }
+      }
+    }
+  ]
+}

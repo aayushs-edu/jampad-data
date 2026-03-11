@@ -1,0 +1,1201 @@
+{
+  "n": 53,
+  "name": "Game Maker's Toolkit Jam 2018",
+  "url": "https://itch.io/jam/gmtk-2018",
+  "theme": "Genre without a Mechanic",
+  "slug": "gmtk-2018",
+  "jamMeta": {
+    "jamType": "ended",
+    "ratings": "15,605",
+    "entries": "1,009",
+    "title": "Game Maker's Toolkit Jam 2018",
+    "jamURL": "https://itch.io/jam/gmtk-2018",
+    "hosts": {
+      "Game Maker's Toolkit": "https://gmtk.itch.io",
+      "#gmtkjam": "https://bsky.app/hashtag/gmtkjam"
+    },
+    "jamID": "7102"
+  },
+  "totalEntries": 971,
+  "ranked": true,
+  "hasCategories": false,
+  "needsManualSelection": false,
+  "categories": [
+    "Design"
+  ],
+  "topGames": [
+    {
+      "gameId": 301260,
+      "gameUrl": "https://castlemark.itch.io/grand-snail-prix",
+      "overallRank": 1,
+      "topCategories": [
+        "overall"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMzAxMjYwLzE0NzI1NDcucG5n/300x240%23c/tx%2Fmju.png",
+        "id": 301260,
+        "contributors": [
+          {
+            "name": "Castlemark",
+            "id": 900137
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Design",
+            "raw_score": 5,
+            "rank": 1,
+            "score": 5
+          }
+        ],
+        "title": "Grand Snail Prix -  a local 1v1 racing game",
+        "score": 5,
+        "rank": 1,
+        "raw_score": 5,
+        "rating_count": 27,
+        "url": "https://itch.io/jam/gmtk-2018/rate/301260"
+      },
+      "entryData": {
+        "rating_count": 27,
+        "url": "/jam/gmtk-2018/rate/301260",
+        "id": 50178,
+        "coolness": 0,
+        "created_at": "2018-09-02 20:52:09",
+        "game": {
+          "title": "Grand Snail Prix -  a local 1v1 racing game",
+          "cover": "https://img.itch.zone/aW1hZ2UvMzAxMjYwLzE0NzI1NDcucG5n/300x240%23c/tx%2Fmju.png",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ],
+          "id": 301260,
+          "url": "https://castlemark.itch.io/grand-snail-prix",
+          "short_text": "Grand Snail Prix is a local 1v1 racing game without speed.",
+          "cover_color": "#eeeeee",
+          "user": {
+            "name": "Castlemark",
+            "url": "https://castlemark.itch.io",
+            "id": 900137
+          }
+        }
+      },
+      "details": {
+        "title": "Grand Snail Prix -  a local 1v1 racing game",
+        "description": "GRAND SNAIL PRIX\na Lorem Ipsum game\nThis game was created in 48 hours during the Game Maker’s Toolkit’s Game Jam 2018 event hosted by Mark Brown. The competition’s theme was “GENRE, but you can’t MECHANIC”.\nGrand Snail Prix is a local 1v1 racing game without speed. Whithout this annoying mechanic, players will have more time to think which strategy should they follow to win the race and avoid obstacles.\nControls\nOn menus\nOn Main Menu you can select “Start” or “Exit” by clicking on them.\nStart: Will start a new race.Exit: Will close Grand Snail Prix\nWhen the race finishes, you can go back to menu by pressing Spacebar\nIn game\nDirectionPlayer 1 (Blue)Player 2 (Green)Move rightDArrow rightMove upWArrow rightMove downSArrow downMove leftAArrow left\nObstacles\nRock - \nIs a rock. You can’t go through it.\nLeaf - \nYou will need a few seconds to eat it all, but then your snail will recive a remarkable speed buff.\nPopcorn - \nYour snail will also eat it if he is close enough. Although, this will make your snail move even slower.\nOil stain - \nTake care, the floor is slippery. If your snail walks into an oil stain, he will slide until he leaves it.\nShadow and shoe -  - \nDon’t stay under it! Someone is trying to step on you!\nThe Lorem Ipsum team\nMarc Castells i GüellAdrià Puigdellívol i Pérez\nWe are a couple of third-year students of Multimedia Engineering in La Salle, Universitat Ramón Llull in Barcelona, Spain.\nWe are specializing our degree in videogame design, and we found that Game Jams are a great opportunity to test our skills.\nWe are pretty proud of what we have done. Grand Snail Prix introduces some interesting mechanincs into racing games.\nyou can download the source code here: https://github.com/Castlemark/GMTK_Jam_2018\nLicenses\nAssetLink to assetLicenseAuthorMain menu musichttps://opengameart.org/content/retroCC0AnonymousRace musichttps://opengameart.org/content/victory-victory-victoryCC0Spring-EnterprisesWinning SFXhttps://opengameart.org/content/level-up-sound-effectsCC-BY 3.0bartCrowd soundshttps://freesound.org/people/InspectorJ/sounds/398159/CC-BY 3.0InspectorJ\nJust download, unextract, open the executable file and Enjoy! ",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzAxMjYwLzE0NzI1NDcucG5n/original/zV9mV9.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS, Linux",
+          "Rating": "Rated 2.0 out of 5 stars(3 total ratings)",
+          "Author": "Castlemark",
+          "Genre": "Racing"
+        }
+      }
+    },
+    {
+      "gameId": 300433,
+      "gameUrl": "https://inotme.itch.io/dodgeem-up",
+      "overallRank": 2,
+      "topCategories": [
+        "overall"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMzAwNDMzLzE0Njk1ODAucG5n/300x240%23c/45Uexj.png",
+        "id": 300433,
+        "contributors": [
+          {
+            "name": "iNOTme",
+            "id": 1175636
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Design",
+            "raw_score": 4.8571428571429,
+            "rank": 2,
+            "score": 4.8571428571429
+          }
+        ],
+        "title": "Dodge'em Up",
+        "score": 4.8571428571429,
+        "rank": 2,
+        "raw_score": 4.8571428571429,
+        "rating_count": 21,
+        "url": "https://itch.io/jam/gmtk-2018/rate/300433"
+      },
+      "entryData": {
+        "rating_count": 21,
+        "url": "/jam/gmtk-2018/rate/300433",
+        "id": 49421,
+        "coolness": 0,
+        "created_at": "2018-09-02 17:07:40",
+        "game": {
+          "title": "Dodge'em Up",
+          "platforms": [
+            "windows"
+          ],
+          "id": 300433,
+          "url": "https://inotme.itch.io/dodgeem-up",
+          "short_text": "A shoot'em up where you can't shoot! Avoid the enemy bullets and try to stay alive",
+          "cover": "https://img.itch.zone/aW1hZ2UvMzAwNDMzLzE0Njk1ODAucG5n/300x240%23c/45Uexj.png",
+          "user": {
+            "name": "iNOTme",
+            "url": "https://inotme.itch.io",
+            "id": 1175636
+          }
+        }
+      },
+      "details": {
+        "title": "Dodge'em Up",
+        "description": "Try to stay alive and collect more points!\n\nControls:Movement - WASD, Arrow Key or Left stick of the xbox controllerOverdrive - Spacebar or A button",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzAwNDMzLzE0Njk1ODAucG5n/original/MN3dsG.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 3.7 out of 5 stars(3 total ratings)",
+          "Author": "iNOTme",
+          "Genre": "Shooter",
+          "Tags": "2D, Game Maker's Toolkit Jam, shootem-up, Unreal Engine"
+        }
+      }
+    },
+    {
+      "gameId": 300713,
+      "gameUrl": "https://nestgamestudio.itch.io/fireflies",
+      "overallRank": 3,
+      "topCategories": [
+        "overall"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMzAwNzEzLzE0NzcwNjEuZ2lm/300x240%23c/PzYAEG.gif",
+        "id": 300713,
+        "contributors": [
+          {
+            "name": "Nest Game Studio",
+            "id": 1653930
+          },
+          {
+            "name": "doublejv",
+            "id": 1248912
+          },
+          {
+            "name": "misantiago17",
+            "id": 1191457
+          },
+          {
+            "name": "Bernardo Gadelha",
+            "id": 1248929
+          },
+          {
+            "name": "André Ruiz",
+            "id": 1205058
+          },
+          {
+            "name": "Lucas Lima",
+            "id": 251969
+          },
+          {
+            "name": "DannyMator",
+            "id": 445284
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Design",
+            "raw_score": 4.8095238095238,
+            "rank": 3,
+            "score": 4.8095238095238
+          }
+        ],
+        "title": "Fireflies",
+        "score": 4.8095238095238,
+        "rank": 3,
+        "raw_score": 4.8095238095238,
+        "rating_count": 42,
+        "url": "https://itch.io/jam/gmtk-2018/rate/300713"
+      },
+      "entryData": {
+        "contributors": [
+          {
+            "name": "Nest Game Studio",
+            "url": "https://nestgamestudio.itch.io"
+          },
+          {
+            "name": "doublejv",
+            "url": "https://doublejv.itch.io"
+          },
+          {
+            "name": "misantiago17",
+            "url": "https://misantiago17.itch.io"
+          },
+          {
+            "name": "Bernardo Gadelha",
+            "url": "https://bernardo-gadelha.itch.io"
+          },
+          {
+            "name": "André Ruiz",
+            "url": "https://dedevruiz.itch.io"
+          },
+          {
+            "name": "Lucas Lima",
+            "url": "https://lucas3311.itch.io"
+          },
+          {
+            "name": "DannyMator",
+            "url": "https://dannymator.itch.io"
+          }
+        ],
+        "url": "/jam/gmtk-2018/rate/300713",
+        "id": 50361,
+        "coolness": 7,
+        "created_at": "2018-09-02 20:59:43",
+        "rating_count": 42,
+        "game": {
+          "title": "Fireflies",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 300713,
+          "gif_cover": "https://img.itch.zone/aW1hZ2UvMzAwNzEzLzE0NzcwNjEuZ2lm/original/Daj9GQ.gif",
+          "user": {
+            "name": "Nest Game Studio",
+            "url": "https://nestgamestudio.itch.io",
+            "id": 1653930
+          },
+          "url": "https://nestgamestudio.itch.io/fireflies",
+          "short_text": "A fast-paced platformer where you can't walk or jump - but you can fly!",
+          "cover": "https://img.itch.zone/aW1hZ2UvMzAwNzEzLzE0NzcwNjEuZ2lm/300x240%23c/PzYAEG.gif",
+          "cover_color": "#66080d"
+        }
+      },
+      "details": {
+        "title": "Fireflies",
+        "description": "\n\nAdherence to the Game Jam's theme: In line with the idea of \"genre without mechanic\", we opted to make a platformer where the player can´t move using the traditional left/right/jump movements. In our game, the player must navigate the obstacles using a \"launch\" mechanic, much like a slingshot. \nPrecision and speed are key to reach the end in this fast-paced game.\n\nFeatured in Game Makers Toolkit's channel (at 4:58)\n\nAbout the Game\nHave you ever wondered about what really goes on in the deepest layers of the Earth? Most of us seem to believe the center of the Earth contains nothing but stone and darkness, but it might not be as different from our world as you think.\nElemental beings made of magma form societies much like ours, and - as we know all too well - where rules exist, conflict is bound to emerge. Cali, a young magma elemental reached a turning point in her life: the time has come for her escape, running away from the clutches of the rigid society that surrounds her.\nIt is your mission to guide Cali through this platformer inside a raging volcano and help her reach the summit which she always dreamed of seeing. But wait, there’s a twist! Cali can’t be controlled like a normal platformer character. Being unable to walk or jump, the young magma spirit can only move through impulses from her elemental powers, which, in turn, must be recharged by the volcano’s energy.\nWill you be able to help Cali experience a whole new world, or will she have to go back to being just another flame burning closer to extinction?\n\nControls\nMouse - Click and DragP - Pause/UnpauseUse your mouse to slingshot Cali into the air by clicking and dragging, but be careful! You'll only be able to do it again after coming in contact with one of the platforms, so aim carefully and bounce away!\nTeam\nGame DesignersAndré RuizBernardo GadelhaJoão Victor Galindo \nArtistsDaniel OliveiraLucas LimaRafael Assunção\nSound Designer/ComposerBernardo Gadelha\nProgrammerMichelle Santiago\nSpecial thanks to every member from Prisma Game Lab, from Rio de Janeiro, Brazil.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzAwNzEzLzQ3MDIxMjUucG5n/original/XBW9Sg.png",
+          "https://img.itch.zone/aW1hZ2UvMzAwNzEzLzQ3MDIxMjQucG5n/original/juaULN.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.5 out of 5 stars(20 total ratings)",
+          "Authors": "Nest Game Studio, doublejv, misantiago17, Bernardo Gadelha, André Ruiz, Lucas Lima, DannyMator",
+          "Genre": "Platformer, Action, Survival",
+          "Made with": "Unity",
+          "Tags": "2D, Atmospheric, Fast-Paced, fire, Singleplayer, Time Attack, Unity",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Mouse",
+          "Accessibility": "One button",
+          "Links": "RPG - Rio PUC Games"
+        }
+      }
+    },
+    {
+      "gameId": 300353,
+      "gameUrl": "https://owensenior.itch.io/rave-and-claw",
+      "overallRank": 4,
+      "topCategories": [
+        "overall"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMzAwMzUzLzE0NzY1MTEucG5n/300x240%23c/Owpteq.png",
+        "id": 300353,
+        "contributors": [
+          {
+            "name": "Autumn",
+            "id": 659702
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Design",
+            "raw_score": 4.7837837837838,
+            "rank": 4,
+            "score": 4.7837837837838
+          }
+        ],
+        "title": "Rave And Claw - Jam version",
+        "score": 4.7837837837838,
+        "rank": 4,
+        "raw_score": 4.7837837837838,
+        "rating_count": 37,
+        "url": "https://itch.io/jam/gmtk-2018/rate/300353"
+      },
+      "entryData": {
+        "rating_count": 37,
+        "url": "/jam/gmtk-2018/rate/300353",
+        "id": 49366,
+        "coolness": 1,
+        "created_at": "2018-09-02 15:55:01",
+        "game": {
+          "title": "Rave And Claw - Jam version",
+          "cover": "https://img.itch.zone/aW1hZ2UvMzAwMzUzLzE0NzY1MTEucG5n/300x240%23c/Owpteq.png",
+          "platforms": [
+            "windows"
+          ],
+          "id": 300353,
+          "url": "https://owensenior.itch.io/rave-and-claw",
+          "short_text": "A top down shooter where you use a grappling hook instead of shooting and normal movement",
+          "cover_color": "#010621",
+          "user": {
+            "name": "Autumn",
+            "url": "https://owensenior.itch.io",
+            "id": 659702
+          }
+        }
+      },
+      "details": {
+        "title": "Rave And Claw - Jam version",
+        "description": "Made for the 2018 GMTK game jam.\nYou can find the full version here https://ostsenior.itch.io/rave-and-claw-full\n\nA top down / twin stick shooter where you use a grappling hook instead of shooting and normal movement.\nKill all enemies in a level to win!\nUse you're grapple to move to nearby walls, enemies and hook points, slamming your body into them to deal damage.\n\nMade with unity, sprites made in Paint.net, sounds made with bfxr.net and music made with LMMS, all assets are made by me.\nPlay tested by Peter Bavage, Ellen Senior and Evie York",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzAwMzUzLzE0NzY1MTIucG5n/original/%2FCTKx5.png",
+          "https://img.itch.zone/aW1hZ2UvMzAwMzUzLzE0NjkyMTQucG5n/original/hlUe8X.png",
+          "https://img.itch.zone/aW1hZ2UvMzAwMzUzLzE0NjkyMTUucG5n/original/ASM%2BeU.png",
+          "https://img.itch.zone/aW1hZ2UvMzAwMzUzLzE0NjkyMTYucG5n/original/%2BKhq3q.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.6 out of 5 stars(17 total ratings)",
+          "Author": "Autumn",
+          "Genre": "Action",
+          "Tags": "2D, one-button, Pixel Art, Short",
+          "Accessibility": "One button"
+        }
+      }
+    },
+    {
+      "gameId": 300450,
+      "gameUrl": "https://akaninja.itch.io/h2o-phases",
+      "overallRank": 5,
+      "topCategories": [
+        "overall"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMzAwNDUwLzE0Njk2NDkucG5n/300x240%23c/y4Abu6.png",
+        "id": 300450,
+        "contributors": [
+          {
+            "name": "André Kanamura",
+            "id": 281056
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Design",
+            "raw_score": 4.75,
+            "rank": 5,
+            "score": 4.75
+          }
+        ],
+        "title": "H2O Phases",
+        "score": 4.75,
+        "rank": 5,
+        "raw_score": 4.75,
+        "rating_count": 8,
+        "url": "https://itch.io/jam/gmtk-2018/rate/300450"
+      },
+      "entryData": {
+        "rating_count": 8,
+        "url": "/jam/gmtk-2018/rate/300450",
+        "id": 49433,
+        "coolness": 4,
+        "created_at": "2018-09-02 17:17:31",
+        "game": {
+          "title": "H2O Phases",
+          "cover": "https://img.itch.zone/aW1hZ2UvMzAwNDUwLzE0Njk2NDkucG5n/300x240%23c/y4Abu6.png",
+          "platforms": [
+            "windows"
+          ],
+          "id": 300450,
+          "url": "https://akaninja.itch.io/h2o-phases",
+          "short_text": "A platform/puzzle game with limited movement controls, substituded with character states properties.",
+          "cover_color": "#eeeeee",
+          "user": {
+            "name": "André Kanamura",
+            "url": "https://akaninja.itch.io",
+            "id": 281056
+          }
+        }
+      },
+      "details": {
+        "title": "H2O Phases",
+        "description": "H2O Phases is a platform/puzzle game which limits the characters movement abilities. The character controlled by the player is made of water and can change its form to be able to reach certain areas and collect hearts. The ice form is the only one that can move horizontally using the keyboard arrows. Use Q, W and E to change water phases and R to reset the level.\n\nOur thanks to the creators of the assets used in the game:\nJames Milligan (akaDylan Font)https://www.dafont.com/pt/akadylan.font?l[]=10&l[]=1&l[]=6\nKenney and SpriteAttack (art assets)https://opengameart.org/content/platformer-art-complete-pack-often-updatedhttps://opengameart.org/content/householdblocks\nBart K., bart, Michel Baradari, Arthur (sound effects)https://opengameart.org/content/spell-4-firehttps://opengameart.org/content/ice-spellshttps://opengameart.org/content/water-splasheshttps://opengameart.org/content/windy-sound-2\nAll assets were acquired through OpenGameArt.Org and DaFont.com, and have public domain licenses, therefore, are all free to use.\nCredits:André Kanamura (Programming and concept)Carlos “Lão” (game design assistence)William Botura (Game design)\nDownload the zip file, extract it and execute \"H2O Phases - a GMTK-GameJam-2018\" application (.exe).",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzAwNDUwLzE0Njk2NTgucG5n/original/lOuitf.png",
+          "https://img.itch.zone/aW1hZ2UvMzAwNDUwLzE0Njk2NTkucG5n/original/o%2FOdUJ.png",
+          "https://img.itch.zone/aW1hZ2UvMzAwNDUwLzE0Njk2NjAucG5n/original/NAHRC2.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 3.5 out of 5 stars(2 total ratings)",
+          "Author": "André Kanamura",
+          "Genre": "Platformer, Puzzle"
+        }
+      }
+    },
+    {
+      "gameId": 301264,
+      "gameUrl": "https://d5rgames.itch.io/forwards",
+      "overallRank": 6,
+      "topCategories": [
+        "overall"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMzAxMjY0LzE0NzM5MDkucG5n/300x240%23c/KToBMs.png",
+        "id": 301264,
+        "contributors": [
+          {
+            "name": "D5R",
+            "id": 59107
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Design",
+            "raw_score": 4.7407407407407,
+            "rank": 6,
+            "score": 4.7407407407407
+          }
+        ],
+        "title": "Forwards",
+        "score": 4.7407407407407,
+        "rank": 6,
+        "raw_score": 4.7407407407407,
+        "rating_count": 27,
+        "url": "https://itch.io/jam/gmtk-2018/rate/301264"
+      },
+      "entryData": {
+        "rating_count": 27,
+        "url": "/jam/gmtk-2018/rate/301264",
+        "id": 50181,
+        "coolness": 14,
+        "created_at": "2018-09-02 20:52:11",
+        "game": {
+          "title": "Forwards",
+          "cover": "https://img.itch.zone/aW1hZ2UvMzAxMjY0LzE0NzM5MDkucG5n/300x240%23c/KToBMs.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 301264,
+          "url": "https://d5rgames.itch.io/forwards",
+          "short_text": "A platformer where you can't see your character.",
+          "cover_color": "#535353",
+          "user": {
+            "name": "D5R",
+            "url": "https://d5rgames.itch.io",
+            "id": 59107
+          }
+        }
+      },
+      "details": {
+        "title": "Forwards",
+        "description": "Forwards is a platformer where you can't see your character.  Traverse through an open world filled with traps and surprises while using rocks, crates, and even the rain to your advantage.\nCreated for the GMTK Game Jam with the theme \"GENRE but you can't MECHANIC\".\nControls: Up, Down, Left, Right to move. Spacebar to jump. If you ever get stuck, you can press the 'K' button to respawn to the previous checkpoint (Full Screen recommended).\nLoading might take a minute or two. Please be patient!\nKnown bugs as of submission: There might be times when you can get stuck on platform edges due to weird collisions. If you ever get stuck, you can press \"K\" to respawn to the last checkpoint. Sorry about that.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzAxMjY0LzE0Nzg1NDYuZ2lm/original/yWzjhp.gif",
+          "https://img.itch.zone/aW1hZ2UvMzAxMjY0LzE0NzM2MjYuZ2lm/original/Ne6jMG.gif",
+          "https://img.itch.zone/aW1hZ2UvMzAxMjY0LzE0Nzg1NDcuZ2lm/original/IopZ9w.gif",
+          "https://img.itch.zone/aW1hZ2UvMzAxMjY0LzE0Nzg1NDguZ2lm/original/xrOBoa.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.3 out of 5 stars(12 total ratings)",
+          "Author": "D5R",
+          "Genre": "Platformer",
+          "Made with": "Unity, Adobe Photoshop, Adobe Illustrator",
+          "Tags": "Game Maker's Toolkit Jam, Unity",
+          "Average session": "A few minutes"
+        }
+      }
+    },
+    {
+      "gameId": 301103,
+      "gameUrl": "https://skslucher.itch.io/gravity-error",
+      "overallRank": 7,
+      "topCategories": [
+        "overall"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMzAxMTAzLzE0NzIxMzQuZ2lm/300x240%23c/699ocQ.gif",
+        "id": 301103,
+        "contributors": [
+          {
+            "name": "Scott Slucher",
+            "id": 35141
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Design",
+            "raw_score": 4.7333333333333,
+            "rank": 7,
+            "score": 4.7333333333333
+          }
+        ],
+        "title": "Gravity Error",
+        "score": 4.7333333333333,
+        "rank": 7,
+        "raw_score": 4.7333333333333,
+        "rating_count": 30,
+        "url": "https://itch.io/jam/gmtk-2018/rate/301103"
+      },
+      "entryData": {
+        "rating_count": 30,
+        "url": "/jam/gmtk-2018/rate/301103",
+        "id": 50000,
+        "coolness": 0,
+        "created_at": "2018-09-02 20:41:31",
+        "game": {
+          "title": "Gravity Error",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "id": 301103,
+          "gif_cover": "https://img.itch.zone/aW1hZ2UvMzAxMTAzLzE0NzIxMzQuZ2lm/original/ebGmth.gif",
+          "user": {
+            "name": "Scott Slucher",
+            "url": "https://skslucher.itch.io",
+            "id": 35141
+          },
+          "url": "https://skslucher.itch.io/gravity-error",
+          "short_text": "A platformer without gravity",
+          "cover": "https://img.itch.zone/aW1hZ2UvMzAxMTAzLzE0NzIxMzQuZ2lm/300x240%23c/699ocQ.gif",
+          "cover_color": "#120027"
+        }
+      },
+      "details": {
+        "title": "Gravity Error",
+        "description": "Can be played with keyboard or a controller.\nKeyboard\nMove - Left/right or a/dJump - Space(Spoiler) - Hold shiftReturn to checkpoint - R\nGamepad\nMove - Left stickJump - A(Spoiler) - Hold LB/RB\n\nFor GMTK Jam 2018\n\nPost-Jam update\nWow, #7, I'm flattered! Thanks to everyone that voted!\nNow that voting is over, I've fixed a few issues with the game, and now that I have time I also uploaded Mac and Linux builds! The original Windows build is still there for anyone that wants it.\nPatch notes:\nPress R to warp back to a checkpoint, if you get stuck somewhere you shouldn't be. Should be much harder now because...Jumping off a slope now rounds to the nearest tile. No more getting stuck halfway.Added a few missing ledges, to make getting stuck even harder.\nThanks for all the support!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzAxMTAzLzE0NzU5NTkuZ2lm/original/c3y62J.gif",
+          "https://img.itch.zone/aW1hZ2UvMzAxMTAzLzE0NzU5NjAuZ2lm/original/8LExb6.gif",
+          "https://img.itch.zone/aW1hZ2UvMzAxMTAzLzE0NzU5NzEuZ2lm/original/zpT%2BU3.gif"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 4.7 out of 5 stars(13 total ratings)",
+          "Author": "Scott Slucher",
+          "Genre": "Platformer",
+          "Made with": "Unity"
+        }
+      }
+    },
+    {
+      "gameId": 300973,
+      "gameUrl": "https://nayn64.itch.io/robot-desert-disco-deflector-rave",
+      "overallRank": 8,
+      "topCategories": [
+        "overall"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMzAwOTczLzE0NzE3MTcuZ2lm/300x240%23c/Kbv%2F3%2F.gif",
+        "id": 300973,
+        "contributors": [
+          {
+            "name": "Nathan S.",
+            "id": 676141
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Design",
+            "raw_score": 4.7,
+            "rank": 8,
+            "score": 4.7
+          }
+        ],
+        "title": "Robot Desert Disco Deflector Rave",
+        "score": 4.7,
+        "rank": 8,
+        "raw_score": 4.7,
+        "rating_count": 10,
+        "url": "https://itch.io/jam/gmtk-2018/rate/300973"
+      },
+      "entryData": {
+        "rating_count": 10,
+        "url": "/jam/gmtk-2018/rate/300973",
+        "id": 49941,
+        "coolness": 0,
+        "created_at": "2018-09-02 20:34:35",
+        "game": {
+          "title": "Robot Desert Disco Deflector Rave",
+          "cover": "https://img.itch.zone/aW1hZ2UvMzAwOTczLzE0NzE3MTcuZ2lm/300x240%23c/Kbv%2F3%2F.gif",
+          "platforms": [
+            "windows",
+            "osx"
+          ],
+          "id": 300973,
+          "url": "https://nayn64.itch.io/robot-desert-disco-deflector-rave",
+          "short_text": "It's a twin-stick shooter, where you can't shoot! Our submission for the Game Maker's Toolkit Jam 2018.",
+          "gif_cover": "https://img.itch.zone/aW1hZ2UvMzAwOTczLzE0NzE3MTcuZ2lm/original/6QQ5Q1.gif",
+          "user": {
+            "name": "Nathan S.",
+            "url": "https://nayn64.itch.io",
+            "id": 676141
+          }
+        }
+      },
+      "details": {
+        "title": "Robot Desert Disco Deflector Rave",
+        "description": "Created by Nathan Simms and Logan Stuchlik, proud members of Salisbury University's Independent Game Development Club, (the SU Indies)! We love you guys!\nThe GMTK Jam theme was genre without mechanic. For our submission, we created a twin-stick shooter where you can't fire a shot. Dodge and dash through enemy bullets, deflect them back with your shield, or die! The disco floor will track your health. Dance only if you want to. Controller is recommended.\nDebug CommandsEscape - QuitR - Restart\nPress Enter to Toggle Keyboard and Mouse Controls.\nPress Start to Toggle Gamepad Controls\nKeyboard and MouseWASD or Arrow Keys - MoveMouse - AimLMB - DeflectRMB - DashNumpad \"-\" - Toggle Fullscreen\nGamePad (Recommended)Left Stick - MoveRight - Stick - AimRight Trigger - DeflectLeft Trigger - DashSelect - Toggle Fullscreen\nAll sound effects license free.\nMusic: Electro-Light - Throwback [NCS Release]\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzAwOTczLzE0NzE3MjAuZ2lm/original/jKYnzg.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS",
+          "Author": "Nathan S.",
+          "Genre": "Action",
+          "Tags": "Game Maker's Toolkit Jam"
+        }
+      }
+    },
+    {
+      "gameId": 300787,
+      "gameUrl": "https://wojworks.itch.io/in-space-no-one-can-hear-you-jump",
+      "overallRank": 9,
+      "topCategories": [
+        "overall"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMzAwNzg3LzE0NzIwMzgucG5n/300x240%23c/gwHc51.png",
+        "id": 300787,
+        "contributors": [
+          {
+            "name": "WojWorks",
+            "id": 212679
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Design",
+            "raw_score": 4.6785714285714,
+            "rank": 9,
+            "score": 4.6785714285714
+          }
+        ],
+        "title": "In Space No-One Can Hear You Jump",
+        "score": 4.6785714285714,
+        "rank": 9,
+        "raw_score": 4.6785714285714,
+        "rating_count": 56,
+        "url": "https://itch.io/jam/gmtk-2018/rate/300787"
+      },
+      "entryData": {
+        "rating_count": 56,
+        "url": "/jam/gmtk-2018/rate/300787",
+        "id": 49708,
+        "coolness": 44,
+        "created_at": "2018-09-02 19:48:06",
+        "game": {
+          "title": "In Space No-One Can Hear You Jump",
+          "platforms": [
+            "windows",
+            "osx"
+          ],
+          "id": 300787,
+          "url": "https://wojworks.itch.io/in-space-no-one-can-hear-you-jump",
+          "short_text": "Platformer without Gravity",
+          "cover": "https://img.itch.zone/aW1hZ2UvMzAwNzg3LzE0NzIwMzgucG5n/300x240%23c/gwHc51.png",
+          "user": {
+            "name": "WojWorks",
+            "url": "https://wojworks.itch.io",
+            "id": 212679
+          }
+        }
+      },
+      "details": {
+        "title": "In Space No-One Can Hear You Jump",
+        "description": "You're stuck in space and need to get to your spaceship! But that's easier said than done when there's no gravity! Use your mouse to aim your jumps and use energy tethers to dodge asteroids and make it home safely!Made for the 2018 Game Maker's Toolkit (GMTK) Jam. Theme was \"Genre without Mechanic.\" We went with \"Platformer without Gravity.\" Was mentioned as part of the top 20 games here:https://youtu.be/s2ebZXQ_J8Q?t=6m18sIf you enjoy this game, consider checking out our mobile game, Dribble: http://wojworks.com/dribble/\nControls:\n\nClick, drag, and release to jump!\nClick on Tethers to use them!\n\nPressing R Restarts if you get stuck.\n\nPressing F4 toggles Fullscreen.\nKnown Issues:\n     Game crashes if you use tether while the rocket leaves the level.\nCredits:\n     Tony Wojnar: Lead Designer, Pixel Artist, Sound Design\n     Michael Wojnar: Lead Programmer\n     Sean Stewart: Assistant Programmer\n     Cason Jolly: Music\nSound Credits (all of these were edited from their original state for the game):\n     qubodup -- https://freesound.org/people/qubodup/sounds/182794/\n     reelworldstudio -- https://freesound.org/people/reelworldstudio/sounds/161122/\n     BMacZero -- https://freesound.org/people/BMacZero/sounds/164102/\n    Gnifflebaf --  https://freesound.org/people/Gniffelbaf/sounds/82116/\n    sharesynth -- https://freesound.org/people/sharesynth/sounds/344502/\n    zaneclampett -- https://freesound.org/people/zaneclampett/sounds/263620/Extract the .zip file. Only works on Windows and Mac right now. Click on \"Main\"",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzAwNzg3LzE0NzIwNDUucG5n/original/5BqtTr.png",
+          "https://img.itch.zone/aW1hZ2UvMzAwNzg3LzE0NzIwNDcucG5n/original/0ymB4K.png",
+          "https://img.itch.zone/aW1hZ2UvMzAwNzg3LzE0NzI2MjQucG5n/original/2gWnJc.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS",
+          "Rating": "Rated 4.1 out of 5 stars(9 total ratings)",
+          "Author": "WojWorks",
+          "Genre": "Platformer",
+          "Tags": "2D, Game Maker's Toolkit Jam, Sci-fi, Space, Zero Gravity"
+        }
+      }
+    },
+    {
+      "gameId": 300537,
+      "gameUrl": "https://mush101.itch.io/allocation",
+      "overallRank": 10,
+      "topCategories": [
+        "overall"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMzAwNTM3LzE0NzAxMzcucG5n/300x240%23c/GQnFWH.png",
+        "id": 300537,
+        "contributors": [
+          {
+            "name": "Mush",
+            "id": 660028
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Design",
+            "raw_score": 4.6666666666667,
+            "rank": 10,
+            "score": 4.6666666666667
+          }
+        ],
+        "title": "Allocation",
+        "score": 4.6666666666667,
+        "rank": 10,
+        "raw_score": 4.6666666666667,
+        "rating_count": 114,
+        "url": "https://itch.io/jam/gmtk-2018/rate/300537"
+      },
+      "entryData": {
+        "rating_count": 114,
+        "url": "/jam/gmtk-2018/rate/300537",
+        "id": 49503,
+        "coolness": 2,
+        "created_at": "2018-09-02 18:11:03",
+        "game": {
+          "title": "Allocation",
+          "cover": "https://img.itch.zone/aW1hZ2UvMzAwNTM3LzE0NzAxMzcucG5n/300x240%23c/GQnFWH.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 300537,
+          "url": "https://mush101.itch.io/allocation",
+          "short_text": "A Metroidvania without an interconnected world or character upgrades.",
+          "cover_color": "#dfdcdc",
+          "user": {
+            "name": "Mush",
+            "url": "https://mush101.itch.io",
+            "id": 660028
+          }
+        }
+      },
+      "details": {
+        "title": "Allocation",
+        "description": "Allocation is a Metroidvania game without a connected world map. Instead, you must create pathways between key points using the rooms that you collect as you explore.\nRooms are divided by difficulty, so you decide how challenging the game will be by creating your own paths to move around the world. The more you explore and add  rooms to your collection, the more choice you have when designing your routes.\nCreating a Path\n\nPress the up arrow in front of the monitor to access the map system.\n\nFrom this screen you can see the rooms you have obtained. If you select one of the yellow rooms and press the Z key, you can then place that room onto the minimap.\n\nPlace a few rooms onto the minimap to connect two areas. Aim to reach the red dot room on the right-hand side of the map!\nControls\nArrow keys - Move your character / Choose options in the map system.\nZ key - Jump / Select an option in the map system.\nX key - Shoot / Cancel an option in the map system.\nThis game is now also hosted on the PICO-8 BBS: https://lexaloffle.com/bbs/?tid=33693",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzAwNTM3LzE0NzAxNTYucG5n/original/OmyfUZ.png",
+          "https://img.itch.zone/aW1hZ2UvMzAwNTM3LzE0NzAxNjMucG5n/original/dkqVNq.png",
+          "https://img.itch.zone/aW1hZ2UvMzAwNTM3LzE0NzAxNjkucG5n/original/9ill8o.png",
+          "https://img.itch.zone/aW1hZ2UvMzAwNTM3LzE0NzAxNzUucG5n/original/KESZYb.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.6 out of 5 stars(175 total ratings)",
+          "Author": "Mush",
+          "Genre": "Action, Adventure, Platformer, Puzzle",
+          "Made with": "PICO-8",
+          "Tags": "2D, Exploration, Game Maker's Toolkit Jam, Metroidvania, PICO-8"
+        }
+      }
+    },
+    {
+      "gameId": 300530,
+      "gameUrl": "https://nosgoroth.itch.io/fire-escape",
+      "overallRank": 11,
+      "topCategories": [
+        "overall"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMzAwNTMwLzE0NzkzOTUuZ2lm/300x240%23c/TYSq7P.gif",
+        "id": 300530,
+        "contributors": [
+          {
+            "name": "Nosgoroth",
+            "id": 68626
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Design",
+            "raw_score": 4.6470588235294,
+            "rank": 11,
+            "score": 4.6470588235294
+          }
+        ],
+        "title": "Fire Escape",
+        "score": 4.6470588235294,
+        "rank": 11,
+        "raw_score": 4.6470588235294,
+        "rating_count": 17,
+        "url": "https://itch.io/jam/gmtk-2018/rate/300530"
+      },
+      "entryData": {
+        "rating_count": 17,
+        "url": "/jam/gmtk-2018/rate/300530",
+        "id": 49497,
+        "coolness": 0,
+        "created_at": "2018-09-02 18:01:39",
+        "game": {
+          "title": "Fire Escape",
+          "cover": "https://img.itch.zone/aW1hZ2UvMzAwNTMwLzE0NzkzOTUuZ2lm/300x240%23c/TYSq7P.gif",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ],
+          "id": 300530,
+          "url": "https://nosgoroth.itch.io/fire-escape",
+          "short_text": "A platformer where you burn instead of jumping",
+          "gif_cover": "https://img.itch.zone/aW1hZ2UvMzAwNTMwLzE0NzkzOTUuZ2lm/original/ezh8tO.gif",
+          "user": {
+            "name": "Nosgoroth",
+            "url": "https://nosgoroth.itch.io",
+            "id": 68626
+          }
+        }
+      },
+      "details": {
+        "title": "Fire Escape",
+        "description": "This is the GMTK Game Jam build of Fire Escape, a platformer without jumping. We made this game in 48 hours.\nAim and shoot an ember to burn things and transfer your soul.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzAwNTMwLzE0NzkzODgucG5n/original/D2aG8G.png",
+          "https://img.itch.zone/aW1hZ2UvMzAwNTMwLzE0NzkzOTAucG5n/original/8atGXL.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows, macOS, Linux",
+          "Rating": "Rated 4.0 out of 5 stars(5 total ratings)",
+          "Author": "Nosgoroth",
+          "Genre": "Platformer",
+          "Tags": "fire, Game Maker's Toolkit Jam, Pixel Art, worms"
+        }
+      }
+    },
+    {
+      "gameId": 300881,
+      "gameUrl": "https://lonebot.itch.io/what-goes-up",
+      "overallRank": 12,
+      "topCategories": [
+        "overall"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMzAwODgxLzE0OTE0OTQuZ2lm/300x240%23c/H2ilTp.gif",
+        "id": 300881,
+        "contributors": [
+          {
+            "name": "Lonebot",
+            "id": 298
+          },
+          {
+            "name": "manfish",
+            "id": 11388643
+          },
+          {
+            "name": "Placeholders",
+            "id": 1217145
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Design",
+            "raw_score": 4.6386292834891,
+            "rank": 12,
+            "score": 4.6386292834891
+          }
+        ],
+        "title": "What Goes Up",
+        "score": 4.6386292834891,
+        "rank": 12,
+        "raw_score": 4.6386292834891,
+        "rating_count": 321,
+        "url": "https://itch.io/jam/gmtk-2018/rate/300881"
+      },
+      "entryData": {
+        "contributors": [
+          {
+            "name": "Lonebot",
+            "url": "https://lonebot.itch.io"
+          },
+          {
+            "name": "manfish",
+            "url": "https://manfish3am.itch.io"
+          },
+          {
+            "name": "Placeholders",
+            "url": "https://placeholders.itch.io"
+          }
+        ],
+        "url": "/jam/gmtk-2018/rate/300881",
+        "id": 49961,
+        "coolness": 25,
+        "created_at": "2018-09-02 20:37:18",
+        "rating_count": 321,
+        "game": {
+          "title": "What Goes Up",
+          "platforms": [
+            "web"
+          ],
+          "id": 300881,
+          "gif_cover": "https://img.itch.zone/aW1hZ2UvMzAwODgxLzE0OTE0OTQuZ2lm/original/bfbxC7.gif",
+          "user": {
+            "name": "Lonebot",
+            "url": "https://lonebot.itch.io",
+            "id": 298
+          },
+          "url": "https://lonebot.itch.io/what-goes-up",
+          "short_text": "A platformer without falling",
+          "cover": "https://img.itch.zone/aW1hZ2UvMzAwODgxLzE0OTE0OTQuZ2lm/300x240%23c/H2ilTp.gif",
+          "cover_color": "#211619"
+        }
+      },
+      "details": {
+        "title": "What Goes Up",
+        "description": "A platformer without falling.\nWinner of GMTK Jam 2018, created under the theme \"genre without mechanic\".\nControls:\nArrow keys to moveWASD to fire Grappling HookR to restartEnter to skip levels (only if you're really stuck)\nTimelapse: \n\n\nCredits:\nMati ErnstItamar ErnstYotam Frid",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzAwODgxLzE0OTE0OTQuZ2lm/original/bfbxC7.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.6 out of 5 stars(139 total ratings)",
+          "Authors": "Lonebot, manfish, Placeholders",
+          "Genre": "Puzzle, Platformer",
+          "Made with": "GameMaker",
+          "Tags": "2D, Game Maker's Toolkit Jam, grapple, Pixel Art, Space"
+        }
+      }
+    },
+    {
+      "gameId": 299892,
+      "gameUrl": "https://piotrtekien.itch.io/sam-vs-slimes",
+      "overallRank": 13,
+      "topCategories": [
+        "overall"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMjk5ODkyLzE0NjczMjQuanBn/300x240%23c/Pbn8Yy.jpg",
+        "id": 299892,
+        "contributors": [
+          {
+            "name": "piotrtekien",
+            "id": 1175347
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Design",
+            "raw_score": 4.6,
+            "rank": 13,
+            "score": 4.6
+          }
+        ],
+        "title": "Sam vs Slimes",
+        "score": 4.6,
+        "rank": 13,
+        "raw_score": 4.6,
+        "rating_count": 15,
+        "url": "https://itch.io/jam/gmtk-2018/rate/299892"
+      },
+      "entryData": {
+        "rating_count": 15,
+        "url": "/jam/gmtk-2018/rate/299892",
+        "id": 49139,
+        "coolness": 0,
+        "created_at": "2018-09-01 21:14:07",
+        "game": {
+          "title": "Sam vs Slimes",
+          "platforms": [
+            "windows"
+          ],
+          "id": 299892,
+          "url": "https://piotrtekien.itch.io/sam-vs-slimes",
+          "short_text": "A shooter where you cannot walk or run",
+          "cover": "https://img.itch.zone/aW1hZ2UvMjk5ODkyLzE0NjczMjQuanBn/300x240%23c/Pbn8Yy.jpg",
+          "user": {
+            "name": "piotrtekien",
+            "url": "https://piotrtekien.itch.io",
+            "id": 1175347
+          }
+        }
+      },
+      "details": {
+        "title": "Sam vs Slimes",
+        "description": "Sam vs Slimes is a shooter where you cannot walk or run. Players have bullets that kill, but also teleport you to the location of impact at the same time. Kill all the slimes within the game to finish it!\nEnjoy this game made in 11 hours by Tim Heessels and Piotr Tekien.\nCONTROLSMouse to aim, Click to shoot",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjk5ODkyLzE0NjczMjQuanBn/original/BjkVgA.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "piotrtekien",
+          "Genre": "Shooter",
+          "Tags": "3D, action-shooter, quick-action, Real-Time, slimes"
+        }
+      }
+    },
+    {
+      "gameId": 301180,
+      "gameUrl": "https://snackycactus.itch.io/walkie-tori",
+      "overallRank": 13,
+      "topCategories": [
+        "overall"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMzAxMTgwLzE0NzMxMTQuanBn/300x240%23c/4Lgysd.jpg",
+        "id": 301180,
+        "contributors": [
+          {
+            "name": "Willem Rosenthal",
+            "id": 4853
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Design",
+            "raw_score": 4.6,
+            "rank": 13,
+            "score": 4.6
+          }
+        ],
+        "title": "Walkie Tori",
+        "score": 4.6,
+        "rank": 13,
+        "raw_score": 4.6,
+        "rating_count": 15,
+        "url": "https://itch.io/jam/gmtk-2018/rate/301180"
+      },
+      "entryData": {
+        "rating_count": 15,
+        "url": "/jam/gmtk-2018/rate/301180",
+        "id": 50220,
+        "coolness": 2,
+        "created_at": "2018-09-02 20:54:29",
+        "game": {
+          "title": "Walkie Tori",
+          "cover": "https://img.itch.zone/aW1hZ2UvMzAxMTgwLzE0NzMxMTQuanBn/300x240%23c/4Lgysd.jpg",
+          "platforms": [
+            "windows",
+            "osx"
+          ],
+          "id": 301180,
+          "url": "https://snackycactus.itch.io/walkie-tori",
+          "short_text": "An action platformer where you play as the platforms",
+          "cover_color": "#eeeeee",
+          "user": {
+            "name": "Willem Rosenthal",
+            "url": "https://snackycactus.itch.io",
+            "id": 4853
+          }
+        }
+      },
+      "details": {
+        "title": "Walkie Tori",
+        "description": "Platform (literally) your way through 7 puzzle/action levels. In this platformer, you can't control Tori the hero, but instead work with her, controlling the platforms.\n\nDesign / Coding / Art - @willemrosenthal (Willem)\nMusic - @chordbug (Lynn)Controls (Keyboard & Mouse):\nShift (hold) = slow down timeMouse = move cursorZ = cycle blocks leftX = cycle blocks leftClick = place blockEscape = restart from checkpoint\n\nControls (Gamepad)\nLeft Trigger (hold) = slow down timeRight stick (or) Left stick = move cursorRight Trigger = place blockD-pad Left = cycle blocks leftD-pad Right = cycle blocks leftB/Y (Xbox) or Triangle/Circle (PS4) = restart from checkpoint\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzAxMTgwLzE0NzI4NzkucG5n/original/AMAt%2B7.png",
+          "https://img.itch.zone/aW1hZ2UvMzAxMTgwLzE0NzI5MjAucG5n/original/qWc6z4.png",
+          "https://img.itch.zone/aW1hZ2UvMzAxMTgwLzE0NzI4ODAucG5n/original/kLd7hk.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows, macOS",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "Willem Rosenthal",
+          "Genre": "Platformer",
+          "Tags": "Game Maker's Toolkit Jam"
+        }
+      }
+    },
+    {
+      "gameId": 300937,
+      "gameUrl": "https://pfirsich.itch.io/spacetris",
+      "overallRank": 15,
+      "topCategories": [
+        "overall"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMzAwOTM3LzE0ODAwOTUucG5n/300x240%23c/PQPxxL.png",
+        "id": 300937,
+        "contributors": [
+          {
+            "name": "pfirsich",
+            "id": 39515
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Design",
+            "raw_score": 4.5833333333333,
+            "rank": 15,
+            "score": 4.5833333333333
+          }
+        ],
+        "title": "Spacetris",
+        "score": 4.5833333333333,
+        "rank": 15,
+        "raw_score": 4.5833333333333,
+        "rating_count": 12,
+        "url": "https://itch.io/jam/gmtk-2018/rate/300937"
+      },
+      "entryData": {
+        "rating_count": 12,
+        "url": "/jam/gmtk-2018/rate/300937",
+        "id": 49838,
+        "coolness": 1,
+        "created_at": "2018-09-02 20:19:18",
+        "game": {
+          "title": "Spacetris",
+          "cover": "https://img.itch.zone/aW1hZ2UvMzAwOTM3LzE0ODAwOTUucG5n/300x240%23c/PQPxxL.png",
+          "platforms": [
+            "windows"
+          ],
+          "id": 300937,
+          "url": "https://pfirsich.itch.io/spacetris",
+          "short_text": "Tetris without clearing lines or a fail state. Infinite Tetris to space out and relax.",
+          "cover_color": "#00365a",
+          "user": {
+            "name": "pfirsich",
+            "url": "https://pfirsich.itch.io",
+            "id": 39515
+          }
+        }
+      },
+      "details": {
+        "title": "Spacetris",
+        "description": "This was made for Game Maker's Toolkit Jam 2018. The theme was \"<genre> without <mechanic>\" and I made Tetris without clearing lines/a fail state.\nI play Tetris sometimes to \"space\" out and relax and I took this opportunity to make a Tetris game that made for exactly that purpose. You can build your Tetris tower as high as you want (and discover some gimmicks I put in ;)). It even allows you to adjust the falling speed of the blocks to your liking or to stop time all together if you need time to think (you can still move and place the block while paused).\nControls:\nMove Block = Arrow KeysDrop Block = CTRLPause Time = Space (toggle), Shift (hold)Move Camera (while paused) = W/SChange Speed = Page Up/Page DownQuit = EscapeToggle Fullscreen = F11\nCredits:\nProgramming: Joel SchumacherMusic: jkx feat. Flipso (Jan & Philipp Koerver)\nPost-Jam Version:\nI kept working for a couple more hours to remove negative scores all together (I wasn't sure during the jam and then was sure shortly after submission), alternative controls (IJKL as arrow keys), gamepad controls, ability to mute audio (N) or music (M) and a really cool zoom-out when you press escape.\nIf you want to play it, head over to GitHub! If you are not using Windows, simply download löve at https://love2d.org and run the .love file!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzAwOTM3LzE0NzMyMDEucG5n/original/GQjDuQ.png",
+          "https://img.itch.zone/aW1hZ2UvMzAwOTM3LzE0NzMyMDUucG5n/original/rem3qQ.png",
+          "https://img.itch.zone/aW1hZ2UvMzAwOTM3LzE0NzMyMDIucG5n/original/BJjmLw.png",
+          "https://img.itch.zone/aW1hZ2UvMzAwOTM3LzE0NzMyMDMucG5n/original/%2B0bREE.png",
+          "https://img.itch.zone/aW1hZ2UvMzAwOTM3LzE0NzMyMDQucG5n/original/gE4Qq%2F.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.0 out of 5 stars(2 total ratings)",
+          "Author": "pfirsich",
+          "Made with": "LÖVE",
+          "Tags": "Game Maker's Toolkit Jam, LÖVE, Relaxing, Tetris",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard",
+          "Links": "Source code"
+        }
+      }
+    }
+  ]
+}

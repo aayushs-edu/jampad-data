@@ -1,0 +1,3574 @@
+{
+  "n": 65,
+  "name": "Game Maker's Toolkit Jam",
+  "url": "https://itch.io/jam/gmtk-jam",
+  "theme": "Dual Purpose Design",
+  "slug": "gmtk-jam",
+  "jamMeta": {
+    "jamType": "ended",
+    "ratings": "3,702",
+    "entries": "723",
+    "title": "Game Maker's Toolkit Jam",
+    "jamURL": "https://itch.io/jam/gmtk-jam",
+    "hosts": {
+      "metc": "https://metc.itch.io",
+      "Game Maker's Toolkit": "https://gmtk.itch.io",
+      "#gmtkjam": "https://bsky.app/hashtag/gmtkjam"
+    },
+    "jamID": "4438"
+  },
+  "totalEntries": 697,
+  "ranked": true,
+  "hasCategories": true,
+  "needsManualSelection": false,
+  "categories": [
+    "Innovation",
+    "Theme",
+    "Aesthetics",
+    "Feel",
+    "Overall"
+  ],
+  "topGames": [
+    {
+      "gameId": 159658,
+      "gameUrl": "https://shadowndacorner.itch.io/glacier-hop",
+      "overallRank": 1,
+      "topCategories": [
+        "Innovation",
+        "Theme",
+        "Aesthetics",
+        "Feel",
+        "Overall"
+      ],
+      "resultData": {
+        "id": 159658,
+        "score": 5,
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTU5NjU4LzczMjIzMy5wbmc=/300x240%23c/Wb%2Fpt4.png",
+        "raw_score": 5,
+        "rating_count": 3,
+        "criteria": [
+          {
+            "name": "Innovation",
+            "score": 5,
+            "raw_score": 5,
+            "rank": 1
+          },
+          {
+            "name": "Theme",
+            "score": 5,
+            "raw_score": 5,
+            "rank": 1
+          },
+          {
+            "name": "Aesthetics",
+            "score": 5,
+            "raw_score": 5,
+            "rank": 1
+          },
+          {
+            "name": "Feel",
+            "score": 5,
+            "raw_score": 5,
+            "rank": 1
+          },
+          {
+            "name": "Overall",
+            "score": 5,
+            "raw_score": 5,
+            "rank": 1
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Ian Diaz",
+            "id": 237518
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-jam/rate/159658",
+        "rank": 1,
+        "title": "Glacier Hop"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://shadowndacorner.itch.io/glacier-hop",
+          "title": "Glacier Hop",
+          "user": {
+            "name": "Ian Diaz",
+            "url": "https://shadowndacorner.itch.io",
+            "id": 237518
+          },
+          "id": 159658,
+          "short_text": "Hopping on glaciers has never been so explosive",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTU5NjU4LzczMjIzMy5wbmc=/300x240%23c/Wb%2Fpt4.png",
+          "cover_color": "#242424",
+          "platforms": [
+            "windows"
+          ]
+        },
+        "rating_count": 3,
+        "id": 23989,
+        "created_at": "2017-07-17 01:59:40",
+        "coolness": 21,
+        "url": "/jam/gmtk-jam/rate/159658"
+      },
+      "details": {
+        "title": "Glacier Hop",
+        "description": "Glacier Hop pits  you against lonely, hostile snowmen in a desolate arctic wasteland.  Armed only with your jetpack and will to live, you must race against the elements as you attempt to hop from glacier to glacier to keep warm.\nYour jetpack can be used to keep you warm and to keep you moving.\n\nReadme from game:\nControls: Keyboard:  W/S for leaning forward/backwards  A/D for turning  LMB to use jetpack  Xbox Controller:  Left stick for leaning/turning  Right trigger for jetpackThe goal is to get as far as you can without dying.  Snowmen throw snowballs at you.  That is bad.  Do not get hit by snowballs.  Solid life advice.Leaning forward while in the air speeds you up.  Leaning backwards slows you down.  If your jetpack gets too hot or too cold, you lose.If you go underwater, you lose.  Do not go underwater.  Solid life advice.If you hit the wall at high (or low) speeds, you lose.  Do not hit wall.  Solid life advice.Enjoy\n\nCredits:\nIan Diaz - Programming and Art\nRay Yang - Programming\nChris Chuang - Art\nAlex Lo - Sound",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTU5NjU4LzczMjIzMy5wbmc=/original/NQFkr0.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows",
+          "Rating": "Rated 1.9 out of 5 stars(7 total ratings)",
+          "Author": "Ian Diaz",
+          "Tags": "3D, infinite-runner, resource-management, winter"
+        }
+      }
+    },
+    {
+      "gameId": 158973,
+      "gameUrl": "https://intelligent-designers.itch.io/bytheballs",
+      "overallRank": 3,
+      "topCategories": [
+        "Innovation",
+        "Feel",
+        "Overall"
+      ],
+      "resultData": {
+        "id": 158973,
+        "score": 4.6444444444444,
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTU4OTczLzcyOTQ1OC5wbmc=/300x240%23c/gvCJKB.png",
+        "raw_score": 4.6444444444444,
+        "rating_count": 9,
+        "criteria": [
+          {
+            "name": "Innovation",
+            "score": 5,
+            "raw_score": 5,
+            "rank": 1
+          },
+          {
+            "name": "Theme",
+            "score": 4.4444444444444,
+            "raw_score": 4.4444444444444,
+            "rank": 21
+          },
+          {
+            "name": "Aesthetics",
+            "score": 4.1111111111111,
+            "raw_score": 4.1111111111111,
+            "rank": 101
+          },
+          {
+            "name": "Feel",
+            "score": 4.8888888888889,
+            "raw_score": 4.8888888888889,
+            "rank": 2
+          },
+          {
+            "name": "Overall",
+            "score": 4.7777777777778,
+            "raw_score": 4.7777777777778,
+            "rank": 4
+          }
+        ],
+        "contributors": [
+          {
+            "name": "intelligent designers",
+            "id": 661291
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-jam/rate/158973",
+        "rank": 3,
+        "title": "By The Balls"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://intelligent-designers.itch.io/bytheballs",
+          "title": "By The Balls",
+          "user": {
+            "name": "intelligent designers",
+            "url": "https://intelligent-designers.itch.io",
+            "id": 661291
+          },
+          "id": 158973,
+          "short_text": "Minimalist, endless, user generating, cyclic space, arcade game",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTU4OTczLzcyOTQ1OC5wbmc=/300x240%23c/gvCJKB.png",
+          "cover_color": "#111631",
+          "platforms": [
+            "android"
+          ]
+        },
+        "rating_count": 9,
+        "id": 23336,
+        "created_at": "2017-07-16 12:08:35",
+        "coolness": 2,
+        "url": "/jam/gmtk-jam/rate/158973"
+      },
+      "details": {
+        "title": "By The Balls",
+        "description": "BY THE BALLS\nYou turn completely Black? You Lose.You touch a Red Ball? You Lose.\nYou fade to Black over time.Red Balls turn into Teal Balls over time.Teal Balls fade to Blue and then vanish.\nYou Shoot? You turn white-er...You move from the recoil of the shot...But your shots are always Red Balls!...And you might run out of ammo!\nYou touch a Blue/Teal Ball? You turn white-er...You gain points...You gain more ammo to shoot...But Red Balls take longer to turn into Teal Balls!\nHow long can you survive? How high can you score? It is all determined... BY THE BALLS!\nSpecial NotePrototype was made for GMTK game jam 2017on 1 laptop...by 2 people...while traveling abroad!\nUPDATES:\nalpha 0.08 - the bullet time that activates when you are aiming a shot now feels less choppy and more smooth in it's appearance on screen.\nalpha 0.09 - minor text alignment issues, score screen now also shows you your latest run, as well as more details about your best runsalpha 0.10 - added visual indication of how much ammo you have at any given time",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTU4OTczLzcyOTQ1OC5wbmc=/original/SVNwFl.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Android",
+          "Author": "intelligent designers",
+          "Tags": "2D, Arcade, Casual, Difficult, Endless, one-button",
+          "Accessibility": "One button"
+        }
+      }
+    },
+    {
+      "gameId": 159801,
+      "gameUrl": "https://ric-fm.itch.io/shoot-my-way",
+      "overallRank": 21,
+      "topCategories": [
+        "Innovation"
+      ],
+      "resultData": {
+        "id": 159801,
+        "score": 4.2666666666667,
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTU5ODAxLzczMjg1Ni5wbmc=/300x240%23c/PLzi3a.png",
+        "raw_score": 4.2666666666667,
+        "rating_count": 3,
+        "criteria": [
+          {
+            "name": "Innovation",
+            "score": 5,
+            "raw_score": 5,
+            "rank": 1
+          },
+          {
+            "name": "Theme",
+            "score": 4.3333333333333,
+            "raw_score": 4.3333333333333,
+            "rank": 28
+          },
+          {
+            "name": "Aesthetics",
+            "score": 3.6666666666667,
+            "raw_score": 3.6666666666667,
+            "rank": 187
+          },
+          {
+            "name": "Feel",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 42
+          },
+          {
+            "name": "Overall",
+            "score": 4.3333333333333,
+            "raw_score": 4.3333333333333,
+            "rank": 19
+          }
+        ],
+        "contributors": [
+          {
+            "name": "ric_fm",
+            "id": 670337
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-jam/rate/159801",
+        "rank": 21,
+        "title": "Shoot My Way"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://ric-fm.itch.io/shoot-my-way",
+          "user": {
+            "name": "ric_fm",
+            "url": "https://ric-fm.itch.io",
+            "id": 670337
+          },
+          "id": 159801,
+          "title": "Shoot My Way",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTU5ODAxLzczMjg1Ni5wbmc=/300x240%23c/PLzi3a.png",
+          "cover_color": "#eeeeee",
+          "short_text": "You only can move by shooting"
+        },
+        "rating_count": 3,
+        "id": 24180,
+        "created_at": "2017-07-17 05:50:39",
+        "coolness": 0,
+        "url": "/jam/gmtk-jam/rate/159801"
+      },
+      "details": {
+        "title": "Shoot My Way",
+        "description": "In this world, all you can do is moving by shooting with your gun, but it's just not as simple as that. You'll have to discover how to use the capacities all the different classes allow.\nJust by shooting you can actually move, kill enemies, destroy their proyectiles, push buttons with your body, choose your favourite class and difficulty, train your shield skills and much more.\nPlatform: Windows\nAuthors:\nRicardo Franco MartínJosé Carlos Franco Martín\n\nSoftware:\nUnityVisual StudioPhotoshopFl StudioAudacityBosca CeoilExtract the zip and play the .exe file.Description:Shoot to kill enemies and to move through the level.When you kill a colored enemy, you gain a boost:Red: Shoot damage.Green:  Shoot range + Helmet shieldBlue: Shoot speedControls:Mouse: AimLeft click: ShootR: Restart gameEsc: Exit game\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTU5ODAxLzczMjgyNC5wbmc=/original/YBq81A.png",
+          "https://img.itch.zone/aW1hZ2UvMTU5ODAxLzczMjgyNi5wbmc=/original/UULxcj.png",
+          "https://img.itch.zone/aW1hZ2UvMTU5ODAxLzczMjgyMy5wbmc=/original/eCzHdE.png",
+          "https://img.itch.zone/aW1hZ2UvMTU5ODAxLzczMjgyNy5wbmc=/original/Voq7eM.png",
+          "https://img.itch.zone/aW1hZ2UvMTU5ODAxLzczMjgyNS5wbmc=/original/b2uqWX.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Author": "ric_fm",
+          "Genre": "Action, Shooter",
+          "Tags": "2D, boosts, colors, Explosions, Game Maker's Toolkit Jam, hard, move, Puzzle-Platformer, screen-shake"
+        }
+      }
+    },
+    {
+      "gameId": 158904,
+      "gameUrl": "https://nyuu3.itch.io/flint",
+      "overallRank": 9,
+      "topCategories": [
+        "Innovation",
+        "Theme",
+        "Overall"
+      ],
+      "resultData": {
+        "id": 158904,
+        "score": 4.48,
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTU4OTA0LzcyOTIxNS5wbmc=/300x240%23c/B6%2BWMS.png",
+        "raw_score": 4.48,
+        "rating_count": 5,
+        "criteria": [
+          {
+            "name": "Innovation",
+            "score": 4.8,
+            "raw_score": 4.8,
+            "rank": 4
+          },
+          {
+            "name": "Theme",
+            "score": 4.8,
+            "raw_score": 4.8,
+            "rank": 5
+          },
+          {
+            "name": "Aesthetics",
+            "score": 4.2,
+            "raw_score": 4.2,
+            "rank": 86
+          },
+          {
+            "name": "Feel",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 42
+          },
+          {
+            "name": "Overall",
+            "score": 4.6,
+            "raw_score": 4.6,
+            "rank": 9
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Nyuu3",
+            "id": 679457
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-jam/rate/158904",
+        "rank": 9,
+        "title": "Flint"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://nyuu3.itch.io/flint",
+          "user": {
+            "name": "Nyuu3",
+            "url": "https://nyuu3.itch.io",
+            "id": 679457
+          },
+          "id": 158904,
+          "title": "Flint",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTU4OTA0LzcyOTIxNS5wbmc=/300x240%23c/B6%2BWMS.png",
+          "cover_color": "#eeeeee",
+          "platforms": [
+            "windows"
+          ]
+        },
+        "rating_count": 5,
+        "id": 23268,
+        "created_at": "2017-07-16 08:09:54",
+        "coolness": 0,
+        "url": "/jam/gmtk-jam/rate/158904"
+      },
+      "details": {
+        "title": "Flint",
+        "description": "Platformer, developed for the 2017 GMTK jam.\nHold space to propel yourself forward, release to shoot. Left and right arrow keys to change direction. Collect the coins.\n\nThe dual purpose mechanic in this game is merging movement and attack\n into one action. More often than not, this is a disadvantage to the \nplayer. It can prevent them from attacking an enemy, because they have \nto stop (and fall down) to do so, or it can prevent them from moving in a\n certain way, because it would result in an attack that destroys one of \nthe coins.\nThe game runs on Windows 7, not sure about later versions. I wrote the code and drew the sprites by myself using Game Maker 8 and Paint.NET 4.0.16 respectively. No sound or music.POST-JAM UPDATE: Remade the game in Unity with some level and physics adjustments. Added sound and music.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTU4OTA0LzcyOTIxNS5wbmc=/original/qDyBUd.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Author": "Nyuu3",
+          "Genre": "Platformer",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": 158562,
+      "gameUrl": "https://albasoup.itch.io/plover-parent",
+      "overallRank": 19,
+      "topCategories": [
+        "Innovation",
+        "Aesthetics"
+      ],
+      "resultData": {
+        "id": 158562,
+        "score": 4.3,
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTU4NTYyLzczMjI4MS5wbmc=/300x240%23c/av2Kr3.png",
+        "raw_score": 4.3,
+        "rating_count": 4,
+        "criteria": [
+          {
+            "name": "Innovation",
+            "score": 4.75,
+            "raw_score": 4.75,
+            "rank": 5
+          },
+          {
+            "name": "Theme",
+            "score": 4.25,
+            "raw_score": 4.25,
+            "rank": 42
+          },
+          {
+            "name": "Aesthetics",
+            "score": 4.75,
+            "raw_score": 4.75,
+            "rank": 14
+          },
+          {
+            "name": "Feel",
+            "score": 3.5,
+            "raw_score": 3.5,
+            "rank": 130
+          },
+          {
+            "name": "Overall",
+            "score": 4.25,
+            "raw_score": 4.25,
+            "rank": 24
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Albasoup games !! :D",
+            "id": 446985
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-jam/rate/158562",
+        "rank": 19,
+        "title": "Plover Parent"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://albasoup.itch.io/plover-parent",
+          "user": {
+            "name": "Albasoup games !! :D",
+            "url": "https://albasoup.itch.io",
+            "id": 446985
+          },
+          "id": 158562,
+          "title": "Plover Parent",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTU4NTYyLzczMjI4MS5wbmc=/300x240%23c/av2Kr3.png",
+          "short_text": "A short platformer for the Game Maker's Toolkit Jam!",
+          "platforms": [
+            "windows",
+            "osx"
+          ]
+        },
+        "rating_count": 4,
+        "id": 24048,
+        "created_at": "2017-07-17 03:00:31",
+        "coolness": 0,
+        "url": "/jam/gmtk-jam/rate/158562"
+      },
+      "details": {
+        "title": "Plover Parent",
+        "description": "Plover Parent is a small platformer made for the Game Maker's Toolkit Jam, which had the theme of \"Dual-Purpose Design\". It is made up of nine small levels. You play as an alligator assisted by a plover bird, who will circle around the player and help them in various ways!\nThe plover can pick up bits of slime, which the alligator can use to get an extra jump, hit switches, or pick up enemies with. There are also obstacles the plover must avoid, so be careful! Later on the plover can pick up spike blocks as well, which can destroy obstacles (and are obstacles themselves, even!).  In the last level, all the plover's abilities are put to use in one final test!\n(for an extra challenge, each level has an egg you can try to collect!)\nPlover Parent was made with the following tools/resources:\nStencyl (game engine)Aesprite (art)\"Plains\" tileset by Ceric (available on StencylForge) (with additions and modifications by Kyle Labriola)as3sxfr (sound effects)REAPER (music sequencing)Kontakt and several SNES sample libraries\nCredits:\nProgramming + Audio: Alexander RosettiArt + Animation: Kyle Labriola",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTU4NTYyLzczMjQwNS5wbmc=/original/fSQxrf.png",
+          "https://img.itch.zone/aW1hZ2UvMTU4NTYyLzczMjQwNi5wbmc=/original/TkfqAs.png",
+          "https://img.itch.zone/aW1hZ2UvMTU4NTYyLzczMjQwOC5wbmc=/original/fF0Agl.png",
+          "https://img.itch.zone/aW1hZ2UvMTU4NTYyLzczMjQwOS5wbmc=/original/kQ0UOD.png",
+          "https://img.itch.zone/aW1hZ2UvMTU4NTYyLzczMjQwNy5wbmc=/original/ef5xbG.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS",
+          "Rating": "Rated 2.0 out of 5 stars(1 total ratings)",
+          "Author": "Albasoup games !! :D",
+          "Genre": "Platformer",
+          "Tags": "game-makers-toolkit, game-makers-toolkit-jam, Game Maker's Toolkit Jam"
+        }
+      }
+    },
+    {
+      "gameId": 159779,
+      "gameUrl": "https://juner.itch.io/cross",
+      "overallRank": 20,
+      "topCategories": [
+        "Innovation",
+        "Overall"
+      ],
+      "resultData": {
+        "id": 159779,
+        "score": 4.2761904761905,
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTU5Nzc5LzczMjY4NC5wbmc=/300x240%23c/lDX3H5.png",
+        "raw_score": 4.2761904761905,
+        "rating_count": 21,
+        "criteria": [
+          {
+            "name": "Innovation",
+            "score": 4.7142857142857,
+            "raw_score": 4.7142857142857,
+            "rank": 7
+          },
+          {
+            "name": "Theme",
+            "score": 4.2380952380952,
+            "raw_score": 4.2380952380952,
+            "rank": 47
+          },
+          {
+            "name": "Aesthetics",
+            "score": 3.952380952381,
+            "raw_score": 3.952380952381,
+            "rank": 134
+          },
+          {
+            "name": "Feel",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 42
+          },
+          {
+            "name": "Overall",
+            "score": 4.4761904761905,
+            "raw_score": 4.4761904761905,
+            "rank": 15
+          }
+        ],
+        "contributors": [
+          {
+            "name": "juner",
+            "id": 659689
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-jam/rate/159779",
+        "rank": 20,
+        "title": "Cross"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://juner.itch.io/cross",
+          "title": "Cross",
+          "user": {
+            "name": "juner",
+            "url": "https://juner.itch.io",
+            "id": 659689
+          },
+          "id": 159779,
+          "short_text": "Leave lines behind, but you'll cross paths again!",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTU5Nzc5LzczMjY4NC5wbmc=/300x240%23c/lDX3H5.png",
+          "cover_color": "#cb7777",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ]
+        },
+        "rating_count": 21,
+        "id": 24116,
+        "created_at": "2017-07-17 04:45:15",
+        "coolness": 29,
+        "url": "/jam/gmtk-jam/rate/159779"
+      },
+      "details": {
+        "title": "Cross",
+        "description": "Cross\nFind your way through each level along a path of geometric shapes!\nYou leave an inpassable trail on the shapes wherever you walk, so be careful where you tread.\nBut also keep an eye on what is ahead! A trail will remain on a shape wherever that shape may appear! If you're not careful, you could block your own path!\n-------------------\nControls:\n- Arrow Keys: Move\n-\"Pico-8 O\" button: Undo (Z on most keyboards)\n-\"Pico-8 X\" button + Arrow Keys: Move camera (X on most keyboards)\n-------------------\nTheme\nI have attempted to match the \"Dual Purpose\" theme in the following ways:\n-  Moving also leaves behind a trail that you cannot pass through.\n- The trails will not just appear in the distinct puzzle you are in, but also any puzzle where the corresponding shape appears\n- Later on, the trails will also conduct electricity to activate platforms the player may walk through, though I would have liked to explore this mechanic more if I had more time.\n-------------------\nRetrospective\nSadly I was rushed for time and only incorporated a handful of levels and mechanics. The electricity is introduced too suddenly and the last puzzle is likely too big a step up, though I do think it's quite fun. I've had little chance to test for unintended solutions or to see how fun it is to actually solve the puzzles.\nAlso had to leave a few visual quirks, such as electrified trails remaining that colour until the player undoes their moves over them.\nUpon waking up the following morning, I have also realised that the middle puzzles have unintended solutions that are much simpler than the solution I anticipated. Whoops!\nEdit: And a friend just showed me a much simpler solution for the last level too!\n------------------\nCross was made by Juner using Pico-8.The game is playable in the browser. It can be downloaded and played in the Pico-8 fantasy console..",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTU5Nzc5LzczMjc4My5wbmc=/original/%2FaJpBU.png",
+          "https://img.itch.zone/aW1hZ2UvMTU5Nzc5LzczMjc4Mi5wbmc=/original/6A1p%2B6.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 4.7 out of 5 stars(39 total ratings)",
+          "Author": "juner",
+          "Genre": "Puzzle",
+          "Made with": "PICO-8",
+          "Tags": "dual, floor, maze, path, trail"
+        }
+      }
+    },
+    {
+      "gameId": 159871,
+      "gameUrl": "https://petermilko.itch.io/blasterball",
+      "overallRank": 4,
+      "topCategories": [
+        "Innovation",
+        "Theme",
+        "Feel",
+        "Overall"
+      ],
+      "resultData": {
+        "id": 159871,
+        "score": 4.64,
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTU5ODcxLzczMzIzOS5qcGc=/300x240%23c/r%2BII0C.jpg",
+        "raw_score": 4.64,
+        "rating_count": 10,
+        "criteria": [
+          {
+            "name": "Innovation",
+            "score": 4.7,
+            "raw_score": 4.7,
+            "rank": 8
+          },
+          {
+            "name": "Theme",
+            "score": 4.7,
+            "raw_score": 4.7,
+            "rank": 8
+          },
+          {
+            "name": "Aesthetics",
+            "score": 4.6,
+            "raw_score": 4.6,
+            "rank": 31
+          },
+          {
+            "name": "Feel",
+            "score": 4.6,
+            "raw_score": 4.6,
+            "rank": 12
+          },
+          {
+            "name": "Overall",
+            "score": 4.6,
+            "raw_score": 4.6,
+            "rank": 9
+          }
+        ],
+        "contributors": [
+          {
+            "name": "petermilko",
+            "id": 660332
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-jam/rate/159871",
+        "rank": 4,
+        "title": "Blasterball (Multiplayer)"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://petermilko.itch.io/blasterball",
+          "title": "Blasterball (Multiplayer)",
+          "user": {
+            "name": "petermilko",
+            "url": "https://petermilko.itch.io",
+            "id": 660332
+          },
+          "id": 159871,
+          "short_text": "Master your mace!",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTU5ODcxLzczMzIzOS5qcGc=/300x240%23c/r%2BII0C.jpg",
+          "cover_color": "#ffc2fa",
+          "platforms": [
+            "windows"
+          ]
+        },
+        "rating_count": 10,
+        "id": 24207,
+        "created_at": "2017-07-17 05:59:01",
+        "coolness": 0,
+        "url": "/jam/gmtk-jam/rate/159871"
+      },
+      "details": {
+        "title": "Blasterball (Multiplayer)",
+        "description": "PRESS ARCADE TO START <---- read\nBlasterball is about mastering the multiple uses of your weapon and using it to wreck your enemies (and friends!). \nUse your mace in a number of ways: Move in a circle to swing it with WASD, then tap spacebar to throw it. Tap spacebar again to bring it back. Press and hold spacebar while its attached to follow your weapon at high speeds. Use its dual purpose to your advantage: club your enemies, or fly across the arena to get a better position. Careful though! You may end up at the wrong end of your own spikes!\nPlay single player Arcade and shoot for a high score, or with up to 4 players in Versus (Highly recommended).",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTU5ODcxLzczMjk3OC5qcGc=/original/StBNXG.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTU5ODcxLzczMzE5My5qcGc=/original/l6VuMm.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTU5ODcxLzczMjk5OC5wbmc=/original/JJ075w.png",
+          "https://img.itch.zone/aW1hZ2UvMTU5ODcxLzczMjk4MC5qcGc=/original/HxgLWc.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTU5ODcxLzczMjk5NS5qcGc=/original/FwsMDd.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTU5ODcxLzczMjk5OS5qcGc=/original/RGQ4yT.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.4 out of 5 stars(5 total ratings)",
+          "Author": "petermilko",
+          "Genre": "Action",
+          "Average session": "A few seconds",
+          "Languages": "English",
+          "Inputs": "Mouse, Joystick",
+          "Multiplayer": "Local multiplayer",
+          "Player count": "1 - 4"
+        }
+      }
+    },
+    {
+      "gameId": 159784,
+      "gameUrl": "https://dinoboxstudios.itch.io/umbrella",
+      "overallRank": 2,
+      "topCategories": [
+        "Innovation",
+        "Theme",
+        "Aesthetics",
+        "Overall"
+      ],
+      "resultData": {
+        "id": 159784,
+        "score": 4.7333333333333,
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTU5Nzg0Lzc1MTE1NC5qcGc=/300x240%23c/wB6DZk.jpg",
+        "raw_score": 4.7333333333333,
+        "rating_count": 3,
+        "criteria": [
+          {
+            "name": "Innovation",
+            "score": 4.6666666666667,
+            "raw_score": 4.6666666666667,
+            "rank": 9
+          },
+          {
+            "name": "Theme",
+            "score": 4.6666666666667,
+            "raw_score": 4.6666666666667,
+            "rank": 9
+          },
+          {
+            "name": "Aesthetics",
+            "score": 5,
+            "raw_score": 5,
+            "rank": 1
+          },
+          {
+            "name": "Feel",
+            "score": 4.3333333333333,
+            "raw_score": 4.3333333333333,
+            "rank": 20
+          },
+          {
+            "name": "Overall",
+            "score": 5,
+            "raw_score": 5,
+            "rank": 1
+          }
+        ],
+        "contributors": [
+          {
+            "name": "DinoboxStudios",
+            "id": 247391
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-jam/rate/159784",
+        "rank": 2,
+        "title": "Umbrella"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://dinoboxstudios.itch.io/umbrella",
+          "title": "Umbrella",
+          "user": {
+            "name": "DinoboxStudios",
+            "url": "https://dinoboxstudios.itch.io",
+            "id": 247391
+          },
+          "id": 159784,
+          "short_text": "#GMTKJam #dinoboxstudios",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTU5Nzg0Lzc1MTE1NC5qcGc=/300x240%23c/wB6DZk.jpg",
+          "cover_color": "#4f4f4f",
+          "platforms": [
+            "windows",
+            "linux"
+          ]
+        },
+        "rating_count": 3,
+        "id": 24103,
+        "created_at": "2017-07-17 04:34:02",
+        "coolness": 0,
+        "url": "/jam/gmtk-jam/rate/159784"
+      },
+      "details": {
+        "title": "Umbrella",
+        "description": "This game was done in 48 hours for the #GMTKjam\nUmbrella is a game about a sad girl who wants to find her love in a hostile world, to fight the threats she will need the help of her yellow umbrella\nUse the umbrella to get rid of not only the rain but also getting around the islands and getting rid of all the threats",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTU5Nzg0LzczNjg0OC5naWY=/original/vaGToq.gif",
+          "https://img.itch.zone/aW1hZ2UvMTU5Nzg0LzczNjg1MC5naWY=/original/cPdr49.gif",
+          "https://img.itch.zone/aW1hZ2UvMTU5Nzg0LzczNTc4Ni5qcGc=/original/9Ps2JS.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTU5Nzg0LzczNTc4Ny5qcGc=/original/fMLaTu.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTU5Nzg0LzczNTc4OC5qcGc=/original/QWn5%2F8.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTU5Nzg0LzczNjg0OS5naWY=/original/owKINV.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, Linux",
+          "Rating": "Rated 4.1 out of 5 stars(9 total ratings)",
+          "Author": "DinoboxStudios",
+          "Genre": "Platformer",
+          "Tags": "2D, artgame, Fantasy, Fast-Paced, Puzzle-Platformer, Singleplayer",
+          "Average session": "About a half-hour",
+          "Inputs": "Keyboard, Mouse",
+          "Accessibility": "One button",
+          "Links": "Community"
+        }
+      }
+    },
+    {
+      "gameId": 159119,
+      "gameUrl": "https://adamkruschwitz.itch.io/spirit-glaive",
+      "overallRank": 12,
+      "topCategories": [
+        "Innovation",
+        "Theme",
+        "Feel"
+      ],
+      "resultData": {
+        "id": 159119,
+        "score": 4.4444444444444,
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTU5MTE5LzczMDAxOC5wbmc=/300x240%23c/KewjDS.png",
+        "raw_score": 4.4444444444444,
+        "rating_count": 9,
+        "criteria": [
+          {
+            "name": "Innovation",
+            "score": 4.6666666666667,
+            "raw_score": 4.6666666666667,
+            "rank": 9
+          },
+          {
+            "name": "Theme",
+            "score": 4.6666666666667,
+            "raw_score": 4.6666666666667,
+            "rank": 9
+          },
+          {
+            "name": "Aesthetics",
+            "score": 3.8888888888889,
+            "raw_score": 3.8888888888889,
+            "rank": 142
+          },
+          {
+            "name": "Feel",
+            "score": 4.5555555555556,
+            "raw_score": 4.5555555555556,
+            "rank": 15
+          },
+          {
+            "name": "Overall",
+            "score": 4.4444444444444,
+            "raw_score": 4.4444444444444,
+            "rank": 17
+          }
+        ],
+        "contributors": [
+          {
+            "name": "AdamKruschwitz",
+            "id": 253882
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-jam/rate/159119",
+        "rank": 12,
+        "title": "Spirit Glaive"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://adamkruschwitz.itch.io/spirit-glaive",
+          "title": "Spirit Glaive",
+          "user": {
+            "name": "AdamKruschwitz",
+            "url": "https://adamkruschwitz.itch.io",
+            "id": 253882
+          },
+          "id": 159119,
+          "short_text": "Slice and dice your way out of the weapons facility!",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTU5MTE5LzczMDAxOC5wbmc=/300x240%23c/KewjDS.png",
+          "cover_color": "#110719",
+          "platforms": [
+            "windows"
+          ]
+        },
+        "rating_count": 9,
+        "id": 23436,
+        "created_at": "2017-07-16 16:21:13",
+        "coolness": 13,
+        "url": "/jam/gmtk-jam/rate/159119"
+      },
+      "details": {
+        "title": "Spirit Glaive",
+        "description": "Controls: \nWASD:  move\nLeft click + drag: slice\nRight click:  recall slices\nSlice your way through the facility, with strikes so powerful you can walk on them!Download and unzip, run the .exe to play",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTU5MTE5LzczMDAyOC5naWY=/original/JEghXR.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.5 out of 5 stars(2 total ratings)",
+          "Author": "AdamKruschwitz",
+          "Genre": "Platformer",
+          "Tags": "2D"
+        }
+      }
+    },
+    {
+      "gameId": 159372,
+      "gameUrl": "https://taboneous.itch.io/defeat-the-imp-king",
+      "overallRank": 21,
+      "topCategories": [
+        "Innovation",
+        "Overall"
+      ],
+      "resultData": {
+        "id": 159372,
+        "score": 4.2666666666667,
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTU5MzcyLzczMTE2OS5naWY=/300x240%23c/%2Bx9IO9.gif",
+        "raw_score": 4.2666666666667,
+        "rating_count": 3,
+        "criteria": [
+          {
+            "name": "Innovation",
+            "score": 4.6666666666667,
+            "raw_score": 4.6666666666667,
+            "rank": 9
+          },
+          {
+            "name": "Theme",
+            "score": 3.3333333333333,
+            "raw_score": 3.3333333333333,
+            "rank": 222
+          },
+          {
+            "name": "Aesthetics",
+            "score": 4.6666666666667,
+            "raw_score": 4.6666666666667,
+            "rank": 19
+          },
+          {
+            "name": "Feel",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 42
+          },
+          {
+            "name": "Overall",
+            "score": 4.6666666666667,
+            "raw_score": 4.6666666666667,
+            "rank": 6
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Taboneous",
+            "id": 276721
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-jam/rate/159372",
+        "rank": 21,
+        "title": "Defeat The Imp King!"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://taboneous.itch.io/defeat-the-imp-king",
+          "title": "Defeat The Imp King!",
+          "user": {
+            "name": "Taboneous",
+            "url": "https://taboneous.itch.io",
+            "id": 276721
+          },
+          "id": 159372,
+          "gif_cover": "https://img.itch.zone/aW1hZ2UvMTU5MzcyLzczMTE2OS5naWY=/original/%2B9OItu.gif",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTU5MzcyLzczMTE2OS5naWY=/300x240%23c/%2Bx9IO9.gif",
+          "short_text": "Defeat the Imp King! - Made for the GMTK Jam",
+          "platforms": [
+            "windows"
+          ]
+        },
+        "rating_count": 3,
+        "id": 23689,
+        "created_at": "2017-07-16 21:02:03",
+        "coolness": 0,
+        "url": "/jam/gmtk-jam/rate/159372"
+      },
+      "details": {
+        "title": "Defeat The Imp King!",
+        "description": "Your quest is to defeat the imp king.\nA/D to move.\nSpace for Jump\nAim with the mouse and left click to create platforms.\nRight clicking on the platforms removes them.\nYou can only have platforms 5 out at at time.Just run it, man.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTU5MzcyLzczMTE2OS5naWY=/original/%2B9OItu.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Author": "Taboneous",
+          "Genre": "Platformer"
+        }
+      }
+    },
+    {
+      "gameId": 159235,
+      "gameUrl": "https://skepfyr.itch.io/lockstep",
+      "overallRank": 65,
+      "topCategories": [
+        "Innovation"
+      ],
+      "resultData": {
+        "id": 159235,
+        "score": 3.9333333333333,
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTU5MjM1LzczMDkzOS5wbmc=/300x240%23c/uAi3Xp.png",
+        "raw_score": 3.9333333333333,
+        "rating_count": 3,
+        "criteria": [
+          {
+            "name": "Innovation",
+            "score": 4.6666666666667,
+            "raw_score": 4.6666666666667,
+            "rank": 9
+          },
+          {
+            "name": "Theme",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 72
+          },
+          {
+            "name": "Aesthetics",
+            "score": 3,
+            "raw_score": 3,
+            "rank": 291
+          },
+          {
+            "name": "Feel",
+            "score": 3.6666666666667,
+            "raw_score": 3.6666666666667,
+            "rank": 103
+          },
+          {
+            "name": "Overall",
+            "score": 4.3333333333333,
+            "raw_score": 4.3333333333333,
+            "rank": 19
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Skepfyr",
+            "id": 659491
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-jam/rate/159235",
+        "rank": 65,
+        "title": "Lockstep"
+      },
+      "entryData": {
+        "game": {
+          "user": {
+            "name": "Skepfyr",
+            "url": "https://skepfyr.itch.io",
+            "id": 659491
+          },
+          "id": 159235,
+          "url": "https://skepfyr.itch.io/lockstep",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTU5MjM1LzczMDkzOS5wbmc=/300x240%23c/uAi3Xp.png",
+          "title": "Lockstep",
+          "platforms": [
+            "windows",
+            "linux"
+          ]
+        },
+        "rating_count": 3,
+        "id": 23592,
+        "created_at": "2017-07-16 19:03:57",
+        "coolness": 0,
+        "url": "/jam/gmtk-jam/rate/159235"
+      },
+      "details": {
+        "title": "Lockstep",
+        "description": "A puzzle-platformer where moving affects your size, buttons are catapults and you have to think as two. Can be played either ambidextrously or as local co-op.\nWritten in the Unity game engine.Controls: W,A,D and UP,LEFT,RIGHT\nCredits:\nJack Rickard\nSam Rickard\nExtract the zip and run the executable in either the Linux or Windows directory as applicable.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTU5MjM1LzczMDYwNy5wbmc=/original/AB2w6r.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, Linux",
+          "Rating": "Rated 3.7 out of 5 stars(9 total ratings)",
+          "Author": "Skepfyr",
+          "Genre": "Platformer",
+          "Tags": "Game Maker's Toolkit Jam, Puzzle-Platformer"
+        }
+      }
+    },
+    {
+      "gameId": 159073,
+      "gameUrl": "https://tobiasbruch.itch.io/a-tale-of-wind-and-sea",
+      "overallRank": 7,
+      "topCategories": [
+        "Innovation",
+        "Theme",
+        "Aesthetics"
+      ],
+      "resultData": {
+        "id": 159073,
+        "score": 4.56,
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTU5MDczLzczMDA0NC5wbmc=/300x240%23c/B%2B9Om8.png",
+        "raw_score": 4.56,
+        "rating_count": 5,
+        "criteria": [
+          {
+            "name": "Innovation",
+            "score": 4.6,
+            "raw_score": 4.6,
+            "rank": 14
+          },
+          {
+            "name": "Theme",
+            "score": 4.8,
+            "raw_score": 4.8,
+            "rank": 5
+          },
+          {
+            "name": "Aesthetics",
+            "score": 5,
+            "raw_score": 5,
+            "rank": 1
+          },
+          {
+            "name": "Feel",
+            "score": 4.2,
+            "raw_score": 4.2,
+            "rank": 28
+          },
+          {
+            "name": "Overall",
+            "score": 4.2,
+            "raw_score": 4.2,
+            "rank": 32
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Tobias Bruch",
+            "id": 78978
+          },
+          {
+            "name": "justin_jz",
+            "id": 679000
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-jam/rate/159073",
+        "rank": 7,
+        "title": "A Tale of Wind and Sea"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://tobiasbruch.itch.io/a-tale-of-wind-and-sea",
+          "title": "A Tale of Wind and Sea",
+          "user": {
+            "name": "Tobias Bruch",
+            "url": "https://tobiasbruch.itch.io",
+            "id": 78978
+          },
+          "id": 159073,
+          "short_text": "Share a controller with a friend and explore an impossible relationship.",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTU5MDczLzczMDA0NC5wbmc=/300x240%23c/B%2B9Om8.png",
+          "cover_color": "#f4f4f0",
+          "platforms": [
+            "windows"
+          ]
+        },
+        "rating_count": 5,
+        "id": 23470,
+        "coolness": 5,
+        "created_at": "2017-07-16 16:55:05",
+        "contributors": [
+          {
+            "name": "Tobias Bruch",
+            "url": "https://tobiasbruch.itch.io"
+          },
+          {
+            "name": "justin_jz",
+            "url": "https://justin-jz.itch.io"
+          }
+        ],
+        "url": "/jam/gmtk-jam/rate/159073"
+      },
+      "details": {
+        "title": "A Tale of Wind and Sea",
+        "description": "Description:A local multiplayer game for 2 players, in which you are sharing a controller with a friend to control a fish and a bird. When flying through the air or swimming through the sea you generate a current which you can use to build up your speed. If you are fast enough you can try to jump out of your habitat and catch the other animal. By collecting orbs you can alter the sea level to your advantage. The game tells the story of a relationship through gameplay.Credits:Leif-Eric Nordmann - 2D ArtJustin Zwack - 2D ArtMatthias Fath - Sound DesignTobias Bruch - Programming\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTU5MDczLzczMDAzMS5wbmc=/original/4h2U5m.png",
+          "https://img.itch.zone/aW1hZ2UvMTU5MDczLzczMzg2Ni5naWY=/original/Z%2BGmtp.gif",
+          "https://img.itch.zone/aW1hZ2UvMTU5MDczLzczMDAzOS5wbmc=/original/mjYioC.png",
+          "https://img.itch.zone/aW1hZ2UvMTU5MDczLzczMDUyMS5wbmc=/original/3stbJj.png",
+          "https://img.itch.zone/aW1hZ2UvMTU5MDczLzczMDUyNy5wbmc=/original/ANMl%2FD.png",
+          "https://img.itch.zone/aW1hZ2UvMTU5MDczLzczMDUyOS5wbmc=/original/aMU8MA.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.5 out of 5 stars(4 total ratings)",
+          "Authors": "Tobias Bruch, justin_jz",
+          "Tags": "artgame, Atmospheric, Game Jam, Game Maker's Toolkit Jam, Local multiplayer, Multiplayer, Music, nature, Romance",
+          "Multiplayer": "Local multiplayer",
+          "Player count": "Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 159854,
+      "gameUrl": "https://tomfinch.itch.io/switcheroo",
+      "overallRank": 18,
+      "topCategories": [
+        "Innovation",
+        "Theme",
+        "Aesthetics"
+      ],
+      "resultData": {
+        "id": 159854,
+        "score": 4.32,
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTU5ODU0LzczMzA2OC5wbmc=/300x240%23c/DBO0oc.png",
+        "raw_score": 4.32,
+        "rating_count": 5,
+        "criteria": [
+          {
+            "name": "Innovation",
+            "score": 4.6,
+            "raw_score": 4.6,
+            "rank": 14
+          },
+          {
+            "name": "Theme",
+            "score": 4.6,
+            "raw_score": 4.6,
+            "rank": 14
+          },
+          {
+            "name": "Aesthetics",
+            "score": 4.8,
+            "raw_score": 4.8,
+            "rank": 10
+          },
+          {
+            "name": "Feel",
+            "score": 3.6,
+            "raw_score": 3.6,
+            "rank": 117
+          },
+          {
+            "name": "Overall",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 55
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Thomas Finch",
+            "id": 32493
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-jam/rate/159854",
+        "rank": 18,
+        "title": "Switcheroo"
+      },
+      "entryData": {
+        "game": {
+          "user": {
+            "name": "Thomas Finch",
+            "url": "https://tomfinch.itch.io",
+            "id": 32493
+          },
+          "id": 159854,
+          "url": "https://tomfinch.itch.io/switcheroo",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTU5ODU0LzczMzA2OC5wbmc=/300x240%23c/DBO0oc.png",
+          "title": "Switcheroo",
+          "short_text": "Swap places with enemies and objects. It's your only way to survive!"
+        },
+        "rating_count": 5,
+        "id": 24168,
+        "created_at": "2017-07-17 05:42:04",
+        "coolness": 0,
+        "url": "/jam/gmtk-jam/rate/159854"
+      },
+      "details": {
+        "title": "Switcheroo",
+        "description": "\"WASD + Left click to switch!\"Kill as many enemies as possible before dying. Here's the catch though... you have no weapon. Instead, you can swap places with enemies and objects by clicking on them. Drop them from heights, make enemies land on each other, blow them up with an explosive enemy, or redirect missiles to fly into them.\nWe plan to add more enemies and powerups and objects over time to this, but this is what we were able to complete in the timeframe of the game jam.Just download and run!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTU5ODU0LzczMzA2OC5wbmc=/original/PjvDWz.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Author": "Thomas Finch",
+          "Genre": "Action, Platformer"
+        }
+      }
+    },
+    {
+      "gameId": 159758,
+      "gameUrl": "https://nayn64.itch.io/soul-chain",
+      "overallRank": 10,
+      "topCategories": [
+        "Theme",
+        "Feel",
+        "Overall"
+      ],
+      "resultData": {
+        "id": 159758,
+        "score": 4.4666666666667,
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTU5NzU4LzczMjYwMS5wbmc=/300x240%23c/EZXqOr.png",
+        "raw_score": 4.4666666666667,
+        "rating_count": 3,
+        "criteria": [
+          {
+            "name": "Innovation",
+            "score": 4.3333333333333,
+            "raw_score": 4.3333333333333,
+            "rank": 28
+          },
+          {
+            "name": "Theme",
+            "score": 5,
+            "raw_score": 5,
+            "rank": 1
+          },
+          {
+            "name": "Aesthetics",
+            "score": 3.6666666666667,
+            "raw_score": 3.6666666666667,
+            "rank": 187
+          },
+          {
+            "name": "Feel",
+            "score": 4.6666666666667,
+            "raw_score": 4.6666666666667,
+            "rank": 6
+          },
+          {
+            "name": "Overall",
+            "score": 4.6666666666667,
+            "raw_score": 4.6666666666667,
+            "rank": 6
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Nathan S.",
+            "id": 676141
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-jam/rate/159758",
+        "rank": 10,
+        "title": "Soul Chain"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://nayn64.itch.io/soul-chain",
+          "title": "Soul Chain",
+          "user": {
+            "name": "Nathan S.",
+            "url": "https://nayn64.itch.io",
+            "id": 676141
+          },
+          "id": 159758,
+          "short_text": "They're coming for the soul vessels, and they're coming for you. Defeat is inevitable.",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTU5NzU4LzczMjYwMS5wbmc=/300x240%23c/EZXqOr.png",
+          "cover_color": "#101228",
+          "platforms": [
+            "windows",
+            "osx"
+          ]
+        },
+        "rating_count": 3,
+        "id": 24092,
+        "created_at": "2017-07-17 04:19:08",
+        "coolness": 9,
+        "url": "/jam/gmtk-jam/rate/159758"
+      },
+      "details": {
+        "title": "Soul Chain",
+        "description": "They're coming for the soul vessels, and they're coming for you. Defeat is inevitable, but you've got some magic left, and they're bringing more you more.\nGame Maker's Toolkit Game Jam 2017 Submission\nUse the power of the soul chain, and the soul well to defend hold out as long as you can from the invading trolls.\nControls:\nIf Using Keyboard:\nEnter - Activate Keyboard and Mouse Controls\nLMB - Fire Soul Hook/Retract Soul Hook\nMouse - Aim\nWASD - Move\nIf Using GamePad:\nStart - Activate GamePad Controls (Activated by Default)\nRight Trigger - Fire Soul Hook/Retract Soul Hook\nRight Analog Stick - Aim\nLeft Analog Stick - Move\nDebug Controls (Available at All Time)\nEscape - Quit\nR - Restart\nC - Spawn New Troll (If you want to jump in difficulty quickly)\nTip: You if you hook the Soul Well, pressing the button again while retracting will detach it early\n_____________________________________________\nTo fit the theme of the Game Jam, all combat in Soul Chain is centered around the use of the titular spell/weapon. \nShooting your soul chain's hook directly into enemies will skewer and stun them as well as doing damage. If you want to try to defend the vessels, (they won't last long) it's also an easy way to pull your enemies off of them from across the room. Pulling the hook back to you will also pull all chain links you've created back to you. Any chain links that touch an enemy will become charged, filling  your soul meter when they are returned to you. Your soul meter will automatically power the shield around you, which will damage enemies that touch you, but will be drained each time it damages an enemy. The soul chain can also pull the soul well to you. Any enemy that touches the soul well, living or dead, is instantly reduced to ash.\nTLDR: Firing your hook and chain can be used to pull enemies away from your vessels, skewer and stun enemies in your way, pull the deadly soul well around, and lay down links to charge your shield.\n_____________________________________________\nBuild to run on PC.\nBuilt using Game Maker Studio v1.4\nSong used - \"Comfortablement installe-e\" by Monplaisir\nhttp://freemusicarchive.org/music/Monplaisir/\nGame was made by Nathan Simms.\nSpecial thanks to Taylor for constant support, encouragement, and for finding the music.\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTU5NzU4LzczMjYwMS5wbmc=/original/Kg0IKn.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows, macOS",
+          "Author": "Nathan S.",
+          "Genre": "Action",
+          "Tags": "chain, Game Jam, game-makers-toolkit, Game Maker's Toolkit Jam, Indie, soul"
+        }
+      }
+    },
+    {
+      "gameId": 159745,
+      "gameUrl": "https://skeptile.itch.io/hoover",
+      "overallRank": 51,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "id": 159745,
+        "score": 4,
+        "cover_url": "https://img.itch.zone/aW1nLzg5NDE0MTYucG5n/300x240%23c/A2Qy1B.png",
+        "raw_score": 4,
+        "rating_count": 3,
+        "criteria": [
+          {
+            "name": "Innovation",
+            "score": 3.6666666666667,
+            "raw_score": 3.6666666666667,
+            "rank": 124
+          },
+          {
+            "name": "Theme",
+            "score": 5,
+            "raw_score": 5,
+            "rank": 1
+          },
+          {
+            "name": "Aesthetics",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 114
+          },
+          {
+            "name": "Feel",
+            "score": 3.3333333333333,
+            "raw_score": 3.3333333333333,
+            "rank": 156
+          },
+          {
+            "name": "Overall",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 55
+          }
+        ],
+        "contributors": [
+          {
+            "name": "skeptile",
+            "id": 444298
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-jam/rate/159745",
+        "rank": 51,
+        "title": "Hoover"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://skeptile.itch.io/hoover",
+          "title": "Hoover",
+          "user": {
+            "name": "skeptile",
+            "url": "https://skeptile.itch.io",
+            "id": 444298
+          },
+          "id": 159745,
+          "short_text": "A quirky platformer made in 48 hours!",
+          "cover": "https://img.itch.zone/aW1nLzg5NDE0MTYucG5n/300x240%23c/A2Qy1B.png",
+          "cover_color": "#364f6d",
+          "platforms": [
+            "windows"
+          ]
+        },
+        "rating_count": 3,
+        "id": 24067,
+        "created_at": "2017-07-17 03:38:08",
+        "coolness": 0,
+        "url": "/jam/gmtk-jam/rate/159745"
+      },
+      "details": {
+        "title": "Hoover",
+        "description": "Hoover is a short, quirky platformer I created in 48 hours for the 2017 Game Maker's Toolkit Game Jam. All of the art, code, and music was created by myself within one 48-hour period. Because of that, expect bugs, and don't expect it to last long.\nThe theme of the jam was Dual design, meaning gameplay features with multiple purposes. In Hoover, you control a penguin with a vacuum cleaner. Using the left mouse button, you can suck in air to absorb enemies and draw objects near. With the right mouse button, you can expel the air you've collected, allowing you to propel yourself around the stage, alter the course of projectiles, move platforms, and more. Hold the left and right mouse buttons together to quickly expel air without propelling yourself around.\n\nI recorded a timelapse of my work on this game, which you can find here.",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzg5NDE0MTYucG5n/original/4AyILa.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Author": "skeptile",
+          "Genre": "Platformer",
+          "Tags": "Arcade, classic, Game Jam, Pixel Art, Retro"
+        }
+      }
+    },
+    {
+      "gameId": 159794,
+      "gameUrl": "https://fachewachewa.itch.io/gmtk",
+      "overallRank": 82,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "id": 159794,
+        "score": 3.85,
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTU5Nzk0LzczMjkwMy5naWY=/300x240%23c/xENg9e.gif",
+        "raw_score": 3.85,
+        "rating_count": 4,
+        "criteria": [
+          {
+            "name": "Innovation",
+            "score": 4.5,
+            "raw_score": 4.5,
+            "rank": 19
+          },
+          {
+            "name": "Theme",
+            "score": 5,
+            "raw_score": 5,
+            "rank": 1
+          },
+          {
+            "name": "Aesthetics",
+            "score": 2.25,
+            "raw_score": 2.25,
+            "rank": 444
+          },
+          {
+            "name": "Feel",
+            "score": 3.5,
+            "raw_score": 3.5,
+            "rank": 130
+          },
+          {
+            "name": "Overall",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 55
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Fachewachewa",
+            "id": 59245
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-jam/rate/159794",
+        "rank": 82,
+        "title": "GMTK: Globular Mobile Tank"
+      },
+      "entryData": {
+        "game": {
+          "short_text": "A weapon to surpass Metal Gear",
+          "id": 159794,
+          "cover": "https://img.itch.zone/aW1hZ2UvMTU5Nzk0LzczMjkwMy5naWY=/300x240%23c/xENg9e.gif",
+          "cover_color": "#000000",
+          "gif_cover": "https://img.itch.zone/aW1hZ2UvMTU5Nzk0LzczMjkwMy5naWY=/original/G4bSON.gif",
+          "title": "GMTK: Globular Mobile Tank",
+          "url": "https://fachewachewa.itch.io/gmtk",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "Fachewachewa",
+            "url": "https://fachewachewa.itch.io",
+            "id": 59245
+          }
+        },
+        "rating_count": 4,
+        "id": 24154,
+        "created_at": "2017-07-17 05:32:20",
+        "coolness": 0,
+        "url": "/jam/gmtk-jam/rate/159794"
+      },
+      "details": {
+        "title": "GMTK: Globular Mobile Tank",
+        "description": "This is the GMTK, a brand new design of all-terrain tank. It can roll and shoot, and it's also completly soundproof. We prepared some testing rooms for you to get use to this ultimate weapon.\nYou'll be able to control it with a Keyboard or a Controller, and we suggest you try the testing rooms in this order : Tutorials, Puzzles and then you can try to get some high scores in Arcade to prove you're our best pilot.\nGood luck.\n\nMade in 48 hours* in Game Maker for the GMTK Jam.\n*Full disclosure :I started on the 14th at 9am and put his on hold at 1am on the 15th. I then made a game for the GM48 on the 15th and 16th (you can play it here).I only finished this game today (july 17th) from around midnight to 6:30am. (GMT+2)So, I know it's not technically made in 48h from start to finish, but I didn't touch this during the GM48, so I hope it's okay.(plus it's at around 16 hours of dev total)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTU5Nzk0LzczMjkwMy5naWY=/original/G4bSON.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Author": "Fachewachewa",
+          "Genre": "Action, Shooter",
+          "Made with": "GameMaker",
+          "Tags": "Arcade, GameMaker, Puzzle-Platformer, Tanks",
+          "Average session": "About a half-hour",
+          "Inputs": "Keyboard, Xbox controller, Gamepad (any)"
+        }
+      }
+    },
+    {
+      "gameId": 159690,
+      "gameUrl": "https://cottontrek.itch.io/roaring-streets",
+      "overallRank": 5,
+      "topCategories": [
+        "Theme",
+        "Aesthetics",
+        "Feel",
+        "Overall"
+      ],
+      "resultData": {
+        "id": 159690,
+        "score": 4.6130434782609,
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTU5NjkwLzczMjYwNS5naWY=/300x240%23c/ny20ED.gif",
+        "raw_score": 4.6130434782609,
+        "rating_count": 46,
+        "criteria": [
+          {
+            "name": "Innovation",
+            "score": 4.304347826087,
+            "raw_score": 4.304347826087,
+            "rank": 35
+          },
+          {
+            "name": "Theme",
+            "score": 4.7391304347826,
+            "raw_score": 4.7391304347826,
+            "rank": 7
+          },
+          {
+            "name": "Aesthetics",
+            "score": 4.7608695652174,
+            "raw_score": 4.7608695652174,
+            "rank": 13
+          },
+          {
+            "name": "Feel",
+            "score": 4.5869565217391,
+            "raw_score": 4.5869565217391,
+            "rank": 14
+          },
+          {
+            "name": "Overall",
+            "score": 4.6739130434783,
+            "raw_score": 4.6739130434783,
+            "rank": 5
+          }
+        ],
+        "contributors": [
+          {
+            "name": "cottontrek",
+            "id": 2361
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-jam/rate/159690",
+        "rank": 5,
+        "title": "\"Roaring Streets!\""
+      },
+      "entryData": {
+        "game": {
+          "short_text": "a hardboiled noir detective shoots his inner demons...",
+          "id": 159690,
+          "cover": "https://img.itch.zone/aW1hZ2UvMTU5NjkwLzczMjYwNS5naWY=/300x240%23c/ny20ED.gif",
+          "cover_color": "#000000",
+          "gif_cover": "https://img.itch.zone/aW1hZ2UvMTU5NjkwLzczMjYwNS5naWY=/original/%2FnhmwA.gif",
+          "title": "\"Roaring Streets!\"",
+          "url": "https://cottontrek.itch.io/roaring-streets",
+          "platforms": [
+            "windows"
+          ],
+          "user": {
+            "name": "cottontrek",
+            "url": "https://cottontrek.itch.io",
+            "id": 2361
+          }
+        },
+        "rating_count": 46,
+        "id": 24075,
+        "created_at": "2017-07-17 03:55:20",
+        "coolness": 3,
+        "url": "/jam/gmtk-jam/rate/159690"
+      },
+      "details": {
+        "title": "\"Roaring Streets!\"",
+        "description": "A hardboiled noir detective shoots his inner demons away...\nMade in 48 hours for the GameMaker's Toolkit Jam! (2017)\n\"Roaring Streets!\" is a turn-based shooter in which every mechanic is tied to the arrow keys.\n\nHow does the submission match the jam's theme?\nIn \"Roaring Streets\", every mechanic can be controlled through the player's turn based movement. Move to evade enemies, or move into enemies to shoot them. But with every move, the game cycles through your inventory of weapons, forcing you to have to balance evasion, attacks, and gun types within a single movement. The movement mechanic serves a triple purpose!\nThe game currently runs on Windows only. Sorry! \nThird party resources:\nMusic from incompetech.com \"Spy Glass\" Kevin MacLeod (incompetech.com)Licensed under Creative Commons: By Attribution 3.0 Licensehttp://creativecommons.org/licenses/by/3.0/\nSounds from SoundBible.com (all sounds Attribution 3.0)\nEverything else created by cottontrek!\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTU5NjkwLzczMjYwNS5naWY=/original/%2FnhmwA.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.7 out of 5 stars(45 total ratings)",
+          "Author": "cottontrek",
+          "Genre": "Shooter",
+          "Tags": "Black and White, Ghosts, Game Maker's Toolkit Jam, maltese, Noir, Pixel Art, Retro, Turn-based, Turn-Based Combat"
+        }
+      }
+    },
+    {
+      "gameId": 159875,
+      "gameUrl": "https://prodigalson.itch.io/magnetic",
+      "overallRank": 6,
+      "topCategories": [
+        "Theme",
+        "Feel",
+        "Overall"
+      ],
+      "resultData": {
+        "id": 159875,
+        "score": 4.5733333333333,
+        "cover_url": "https://img.itch.zone/aW1nLzkxMzMzMDguanBn/300x240%23c/4RB1ov.jpg",
+        "raw_score": 4.5733333333333,
+        "rating_count": 15,
+        "criteria": [
+          {
+            "name": "Innovation",
+            "score": 4.5333333333333,
+            "raw_score": 4.5333333333333,
+            "rank": 18
+          },
+          {
+            "name": "Theme",
+            "score": 4.6666666666667,
+            "raw_score": 4.6666666666667,
+            "rank": 9
+          },
+          {
+            "name": "Aesthetics",
+            "score": 4.4,
+            "raw_score": 4.4,
+            "rank": 50
+          },
+          {
+            "name": "Feel",
+            "score": 4.6666666666667,
+            "raw_score": 4.6666666666667,
+            "rank": 6
+          },
+          {
+            "name": "Overall",
+            "score": 4.6,
+            "raw_score": 4.6,
+            "rank": 9
+          }
+        ],
+        "contributors": [
+          {
+            "name": "ProdigalSon Games",
+            "id": 662125
+          },
+          {
+            "name": "Drums",
+            "id": 673908
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-jam/rate/159875",
+        "rank": 6,
+        "title": "Magnetic"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://prodigalson.itch.io/magnetic",
+          "title": "Magnetic",
+          "user": {
+            "name": "ProdigalSon Games",
+            "url": "https://prodigalson.itch.io",
+            "id": 662125
+          },
+          "id": 159875,
+          "short_text": "Use your magnet to repel danger and attract your ticket to freedom",
+          "cover": "https://img.itch.zone/aW1nLzkxMzMzMDguanBn/300x240%23c/4RB1ov.jpg",
+          "cover_color": "#ffffff",
+          "platforms": [
+            "windows",
+            "linux",
+            "web"
+          ]
+        },
+        "rating_count": 15,
+        "id": 24216,
+        "coolness": 4,
+        "created_at": "2017-07-17 06:02:46",
+        "contributors": [
+          {
+            "name": "ProdigalSon Games",
+            "url": "https://prodigalson.itch.io"
+          },
+          {
+            "name": "Drums",
+            "url": "https://drums.itch.io"
+          }
+        ],
+        "url": "/jam/gmtk-jam/rate/159875"
+      },
+      "details": {
+        "title": "Magnetic",
+        "description": "In this puzzler, you play as a magnet that must attract and repel to move objects, clear threats, and activate switches to turn on the exit portal and complete the level.\nControls:\nWASD / Arrow Keys: MoveLeft Mouse Button / Spacebar: Turn Magnet On/Off (toggle or hold/release)ESC/M: Open/Close Menu\nCredits:\nNelson: Gameplay EngineerMichael: Designer and AudioAssets Pack: BitGem\nDeveloper Notes:\nThere is partial Gamepad support for controlling the magnet and opening/closing the menu but the menu navigation has not been properly setupThe HTML version is a lower quality version for performance and support reasons. For the best experience play the PC versionThe Linux build is untested.Our sincerely apologies to Mac users, we are not currently setup to create this build.\n* This game was originally made for the 2017 GMTK Game Jam Windows/Mac:\nDownload the .zip fileUnarchive .zip fileRun the executable (altering the Data directory can corrupt the game)Game made with Unity3d Engine for PC",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTU5ODc1LzkxMjMxODIucG5n/original/QK8UqE.png",
+          "https://img.itch.zone/aW1hZ2UvMTU5ODc1LzkxMjMxODQucG5n/original/fPF4Xc.png",
+          "https://img.itch.zone/aW1hZ2UvMTU5ODc1LzkxMjMxODYucG5n/original/6aKS5z.png",
+          "https://img.itch.zone/aW1hZ2UvMTU5ODc1LzkxMjMxODMucG5n/original/dcAd4V.png",
+          "https://img.itch.zone/aW1hZ2UvMTU5ODc1LzkxMjMxODUucG5n/original/9yPQWk.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, Linux",
+          "Release date": "Jul 17, 2017",
+          "Rating": "Rated 4.2 out of 5 stars(15 total ratings)",
+          "Authors": "ProdigalSon Games, Drums",
+          "Genre": "Puzzle",
+          "Made with": "Unity, Bfxr, Adobe Photoshop, Audacity",
+          "Tags": "Controller, Game Maker's Toolkit Jam, Low-poly, magnets, one-hit-kill, puzzler, Short, Singleplayer, Top-Down, Unity",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse, Gamepad (any), Joystick, Touchscreen",
+          "Accessibility": "Color-blind friendly, Textless"
+        }
+      }
+    },
+    {
+      "gameId": 159209,
+      "gameUrl": "https://crookedblackheart.itch.io/rgb",
+      "overallRank": 76,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "id": 159209,
+        "score": 3.8666666666667,
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTU5MjA5LzczMTM1Mi5wbmc=/300x240%23c/v7smt8.png",
+        "raw_score": 3.8666666666667,
+        "rating_count": 3,
+        "criteria": [
+          {
+            "name": "Innovation",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 57
+          },
+          {
+            "name": "Theme",
+            "score": 4.6666666666667,
+            "raw_score": 4.6666666666667,
+            "rank": 9
+          },
+          {
+            "name": "Aesthetics",
+            "score": 3,
+            "raw_score": 3,
+            "rank": 291
+          },
+          {
+            "name": "Feel",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 42
+          },
+          {
+            "name": "Overall",
+            "score": 3.6666666666667,
+            "raw_score": 3.6666666666667,
+            "rank": 136
+          }
+        ],
+        "contributors": [
+          {
+            "name": "CrookedBlackHeart",
+            "id": 659465
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-jam/rate/159209",
+        "rank": 76,
+        "title": "RGB"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://crookedblackheart.itch.io/rgb",
+          "user": {
+            "name": "CrookedBlackHeart",
+            "url": "https://crookedblackheart.itch.io",
+            "id": 659465
+          },
+          "id": 159209,
+          "title": "RGB",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTU5MjA5LzczMTM1Mi5wbmc=/300x240%23c/v7smt8.png",
+          "cover_color": "#cdc4b2",
+          "short_text": "Red Green Blue"
+        },
+        "rating_count": 3,
+        "id": 23558,
+        "created_at": "2017-07-16 18:27:21",
+        "coolness": 7,
+        "url": "/jam/gmtk-jam/rate/159209"
+      },
+      "details": {
+        "title": "RGB",
+        "description": "RGB \nby Crooked Black Heart (Andreas Freiburg)\nMade in 48 hours for Gamemaker's Toolkit gamejam.\nControls:\nW Jump (Jump in mid air to double jump and drop barrel bomb)AMove LeftDMove RightMouseAimLeft ClickShoot1Equip Red Gun2Equip Green Gun3Equip Blue GunRRestart GameFToggle full screenESCQuit Game\nInstructions:\nTry to set the high score by killing enemiesHealth and ammo are shared. For example, blue health is used as ammo for the blue gun.\nEnemies can be hurt only by bullets of the same colorRed enemies give green health when killedBlue enemies give red health when killedGreen enemies give blue health when killedIf any health/ammo pools is depleted, the game is overThe only wait to get more ammo/health is by killing the enemiesEnemy bullet colors determine which health/ammo pool is drained when the player is hitJump in mid-air to drop a barrel bombBarrel bombs hurt all enemy types\nTHEME:\nThe theme for this game jam was Downwell's Dual Purpose Design. \nRGB conforms to this theme in the following ways.\nHealth and ammo are shared.  Every time the player shoots in an attempt to kill an enemy, their own health is drained.   The amount of health/ammo for a particular color affects the bullet size.\nJumping in mid-air does a double jump and drops a barrel bomb which hurts enemies. Killing enemies grants the player points and refills their health/ammo pool.Jumping on enemies heads refills the players number of jumps they can do and springs the player into the air.\nTools:\nEngine: Gamemaker studio 2\nMusic generated using Wolfram Tones\nSounds effects generated using www.BXFR.net\n\"Art\" created using Piskel App (www.piskelApp.com) and Gamemakers in engine pixel editor\nWindows only\nDouble click executable and follow instructions",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTU5MjA5LzczMTM1Mi5wbmc=/original/cq1oL3.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Author": "CrookedBlackHeart",
+          "Genre": "Platformer",
+          "Tags": "Game Jam",
+          "Average session": "A few minutes",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 159735,
+      "gameUrl": "https://rafaelgiordanno.itch.io/near-light",
+      "overallRank": 76,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "id": 159735,
+        "score": 3.8666666666667,
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTU5NzM1LzczMjUxMC5wbmc=/300x240%23c/I6HhTE.png",
+        "raw_score": 3.8666666666667,
+        "rating_count": 3,
+        "criteria": [
+          {
+            "name": "Innovation",
+            "score": 3,
+            "raw_score": 3,
+            "rank": 260
+          },
+          {
+            "name": "Theme",
+            "score": 4.6666666666667,
+            "raw_score": 4.6666666666667,
+            "rank": 9
+          },
+          {
+            "name": "Aesthetics",
+            "score": 4.6666666666667,
+            "raw_score": 4.6666666666667,
+            "rank": 19
+          },
+          {
+            "name": "Feel",
+            "score": 3.3333333333333,
+            "raw_score": 3.3333333333333,
+            "rank": 156
+          },
+          {
+            "name": "Overall",
+            "score": 3.6666666666667,
+            "raw_score": 3.6666666666667,
+            "rank": 136
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Rafael Giordanno",
+            "id": 43572
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-jam/rate/159735",
+        "rank": 76,
+        "title": "Near Light"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://rafaelgiordanno.itch.io/near-light",
+          "title": "Near Light",
+          "user": {
+            "name": "Rafael Giordanno",
+            "url": "https://rafaelgiordanno.itch.io",
+            "id": 43572
+          },
+          "id": 159735,
+          "short_text": "Stay safe Near Light",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTU5NzM1LzczMjUxMC5wbmc=/300x240%23c/I6HhTE.png",
+          "cover_color": "#00060f",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ]
+        },
+        "rating_count": 3,
+        "id": 24066,
+        "created_at": "2017-07-17 03:33:28",
+        "coolness": 2,
+        "url": "/jam/gmtk-jam/rate/159735"
+      },
+      "details": {
+        "title": "Near Light",
+        "description": "Alone in somewhere dark, harmful shadows lurk everywhere you go. Your only comfort is to stay Near Light. But beware, while it might protect you, it also exposes you!\nPlatform your way through this dark forest and use your Light to stun enemies and reveal hidden paths. Shadows don't like to be stunned and will hunt the light source. Find comfort and rest in floating light spots and your trusty lamp.\nControls\nMove - Arrow keys or WASDLight/Stun - Space bar, J or XToggle shader (boosts performance) - TToggle SFX - NToggle Music - MRestart game - R\nNear Light is a skill based platformer made in LÖVE2D. It is our entry for the first #GMTKJam. \nThe team\nDan Larkin - Audio designMarkus Ranki - ArtRafael Giordanno - Programming and Level Design\nIf you like this game, please leave us a comment. It really helps us knowing if we should keep working on it. Thanks!\nSystem requirements: You'll need a dedicated graphics card to play the game for now. It's a requirement of the lights engine. Else it'll run out of memory or throw the error \"Could not create canvas\". I'm already working on this issue. Sorry for the inconvenience.\nFollow @rafaelgiordanno for more gamedev stuffWindows users, just download the exe zip file.\nOSX and Linux users: make sure you have LÖVE2D installed on your machine and download the .love file.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTU5NzM1LzczMjUxMC5wbmc=/original/%2FRYb5I.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows, macOS, Linux",
+          "Author": "Rafael Giordanno",
+          "Genre": "Platformer",
+          "Made with": "LÖVE",
+          "Tags": "8-Bit, Abstract, Arcade, Game Maker's Toolkit Jam, LÖVE, Pixel Art, Shaders, Shadows, Side Scroller"
+        }
+      }
+    },
+    {
+      "gameId": 159318,
+      "gameUrl": "https://earthpainting.itch.io/cafevania",
+      "overallRank": 80,
+      "topCategories": [
+        "Aesthetics"
+      ],
+      "resultData": {
+        "id": 159318,
+        "score": 3.85,
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTU5MzE4LzczMDgyMC5wbmc=/300x240%23c/VdaGR4.png",
+        "raw_score": 3.85,
+        "rating_count": 4,
+        "criteria": [
+          {
+            "name": "Innovation",
+            "score": 4.5,
+            "raw_score": 4.5,
+            "rank": 19
+          },
+          {
+            "name": "Theme",
+            "score": 3.25,
+            "raw_score": 3.25,
+            "rank": 266
+          },
+          {
+            "name": "Aesthetics",
+            "score": 5,
+            "raw_score": 5,
+            "rank": 1
+          },
+          {
+            "name": "Feel",
+            "score": 3.5,
+            "raw_score": 3.5,
+            "rank": 130
+          },
+          {
+            "name": "Overall",
+            "score": 3,
+            "raw_score": 3,
+            "rank": 287
+          }
+        ],
+        "contributors": [
+          {
+            "name": "earthpainting",
+            "id": 659593
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-jam/rate/159318",
+        "rank": 80,
+        "title": "Cafevania"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://earthpainting.itch.io/cafevania",
+          "user": {
+            "name": "earthpainting",
+            "url": "https://earthpainting.itch.io",
+            "id": 659593
+          },
+          "id": 159318,
+          "title": "Cafevania",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTU5MzE4LzczMDgyMC5wbmc=/300x240%23c/VdaGR4.png",
+          "short_text": "GameMaker's Toolkit Gamejam '17: Cafevania",
+          "platforms": [
+            "windows"
+          ]
+        },
+        "rating_count": 4,
+        "id": 23615,
+        "created_at": "2017-07-16 19:41:51",
+        "coolness": 0,
+        "url": "/jam/gmtk-jam/rate/159318"
+      },
+      "details": {
+        "title": "Cafevania",
+        "description": "A Dinerdash-style game starring a gorgon. Avoid eye-contact with your customers, or you'll turn them into stone.Controls:Arrow keys: move aroundENTER: Interact with thingsSHIFT: Close eyesGameplay loop:Wait for a customer to appear, look up their order in the recipe book in the center of the kitchen. Punch in the correct combination to make the gems above the cook to light up. Close your eyes for about two seconds, and he'll prepare the meal. Pick it up and deliver it to the appropriate table. Make sure to not make any eye contact with the customers though!If you have turned anyone into stone, you can reset the round by talking to the skull in the top right of the cafe. Three mistakes and it's game over.Game Jam:Made for the Game Maker's Toolkit GameJam. The subject was \"Dual Purpose Design\". Mechanics that fulfil different needs at the same time, and perhaps create a synergetic relationship between them.\nI noticed that a lot of examples I thought of revolved around regaining resources, be it health, ammo or consumables of some sorts. I wanted to try and avoid that avenue, so ended up focussing on the idea of \"avoiding\". After an evening of prototyping, the idea of avoiding eye-contact ended up winning out. After setting up scenarios where it was impossible to navigate without meeting eyes, the feature of closing your eyes came to be. Jumping from there, explored some additional ideas where having your eyes closed could be avantageous. Inspired by the Super Mario Bros Boos' shyness, and the Weeping Angels from Dr. Who, I ended up with some systems where not being able to see progressed or aided the player in some ways, on top of the ability of navigating the map without making eye contact.\nBuild info:The build I'm submitting is just a Windows one. I see there's the ability to make a Mac one too, but I'm not comfortable releasing it since I have no way of testing it or debugging it should things go awry.\nCredits:The engine is ASCII's RPG Maker MV, typically designed for making topdown 2D Japanese RPGs, but I like prototyping simple things in it. Used a public RPGMaker plugin to allow for low-resolution pixel-fonts, made by \"Victor Sant\". 2D Assets are made by myself using the NES colour palette. Music made with Beepbox.com. Sound Effects made using LabChirp. Goudy Text font found on Fontsgeek.com.Simple run the \"Game\" executable.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTU5MzE4LzczMDgyMS5wbmc=/original/uzAJGA.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Author": "earthpainting"
+        }
+      }
+    },
+    {
+      "gameId": 158775,
+      "gameUrl": "https://tydalad.itch.io/beacon",
+      "overallRank": 119,
+      "topCategories": [
+        "Aesthetics"
+      ],
+      "resultData": {
+        "id": 158775,
+        "score": 3.6877192982456,
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTU4Nzc1LzcyOTU2Ny5wbmc=/300x240%23c/DzUfMp.png",
+        "raw_score": 3.6877192982456,
+        "rating_count": 57,
+        "criteria": [
+          {
+            "name": "Innovation",
+            "score": 3.4210526315789,
+            "raw_score": 3.4210526315789,
+            "rank": 178
+          },
+          {
+            "name": "Theme",
+            "score": 2.5614035087719,
+            "raw_score": 2.5614035087719,
+            "rank": 384
+          },
+          {
+            "name": "Aesthetics",
+            "score": 4.9122807017544,
+            "raw_score": 4.9122807017544,
+            "rank": 5
+          },
+          {
+            "name": "Feel",
+            "score": 3.9473684210526,
+            "raw_score": 3.9473684210526,
+            "rank": 68
+          },
+          {
+            "name": "Overall",
+            "score": 3.5964912280702,
+            "raw_score": 3.5964912280702,
+            "rank": 167
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Tydalad",
+            "id": 660256
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-jam/rate/158775",
+        "rank": 119,
+        "title": "Beacon"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://tydalad.itch.io/beacon",
+          "title": "Beacon",
+          "user": {
+            "name": "Tydalad",
+            "url": "https://tydalad.itch.io",
+            "id": 660256
+          },
+          "id": 158775,
+          "short_text": "A relaxing 'endless runner' atop a Möbius strip.",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTU4Nzc1LzcyOTU2Ny5wbmc=/300x240%23c/DzUfMp.png",
+          "cover_color": "#d6d0d7",
+          "platforms": [
+            "windows"
+          ]
+        },
+        "rating_count": 57,
+        "id": 23478,
+        "created_at": "2017-07-16 17:01:04",
+        "coolness": 3,
+        "url": "/jam/gmtk-jam/rate/158775"
+      },
+      "details": {
+        "title": "Beacon",
+        "description": "Made for the GMTK Game Jam\nDescriptionAn Infinite Runner type of game, made with focus on mood and pleasurable time passing (after one gets used to the controls etc). The game has no explicit goal, any scoring system was discarded, you just play as you please.\nThe 'track' is formed in a Möbius strip shape, which doubles the perceived length of it. You are running in this infinite loop while the obstacles change before you. The 'running along the same track' in form of the Möbius strip was chosen so you can interact with yourself, which is used in form of leaving 'powerups' behind you as a secondary effect of your jump after you reach a certain speed of phase in the game.\nHow my submission matches the theme[space/enter] = jump (with small speed boost) + doublejumpFastest phase (glowing 'goblet') = by jumping, you leave yourself powerups on the Mobius strip for your next lapPowerup = boost + remove obstacles nearbyHighlighted stairs = your 'progress'/'speed', you gradually speed up until you reach the top, you slow down when you hit an obstacleObstacles = block path (if you run into them) or boost you (if you jump on top of them)Goal = relaxation... No score, no ending, no external rewards. Sorry to those who seek that in a game ;)I tried to give more functionality to the one input in the game, not only by incorporating classic speed boost + doublejump, but also connecting it with the weirdness of Mobius strip in the later phase, were you also drop powerups for yourself (your next lap) by jumping. You can also use the objects that block your path to your adventage, by using them as trampoline. Plus some additional information is encomposed in the 'environment' by highlights, as well as height encoded in the colors (so you know when going down or uphill which varies the speed) - so that every part of the presentation has some use to it.\nAs an ultimate multipurpose-designed game, this game can also function as a great screensaver! [Added ScreenSaver build after the Game Jam ended as a bonus]\nThe game's executable package or binaryWindows executable - simply extract the downloaded .zip and run the extracted .exe\nIntended platformPC Windows\nResources usedUnity 3D  - ProBuilder - editor plugin for modelling directly inside Unity  - ShaderForge - editor plugin, a node based shader editor for quick shader prototyping  - MasterAudio - for including sound and music to the game  - FXPro - postprocess effects which I had to use, since built-in Unity postprocesses had visual glitches in the resulting image :( Used mainly for bloom+vignette effects/color tweaks  - SFX (due to not enough remaining time) were picked from the pack \"Gamemaster Audio - Pro Sound Collection\" (not the ingame music though)\nContributorsApart from the aforementioned used resources, everything in the game (shaders, models, code, music) was made for this jam by myself.\nNotesThe algorithm for generating obstacles could use an iteration or two more, as well as the tightness of controls probably or general readibility, plus more interactions with the track itself.But the game was made for GMTK Jam, which means 48h time limit, so I hope it will suit at least some of you and won't prevent you from entering the flow state to enjoy the display.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTU4Nzc1LzcyOTcwMy5wbmc=/original/XTwLIj.png",
+          "https://img.itch.zone/aW1hZ2UvMTU4Nzc1LzcyOTcwMi5wbmc=/original/UluEJ5.png",
+          "https://img.itch.zone/aW1hZ2UvMTU4Nzc1LzcyOTY5OS5wbmc=/original/LvPZN2.png",
+          "https://img.itch.zone/aW1hZ2UvMTU4Nzc1LzcyOTcwNC5wbmc=/original/%2BgUA44.png",
+          "https://img.itch.zone/aW1hZ2UvMTU4Nzc1LzcyOTcwMC5wbmc=/original/AvXrEO.png",
+          "https://img.itch.zone/aW1hZ2UvMTU4Nzc1LzcyOTcwMS5wbmc=/original/reNnU%2B.png",
+          "https://img.itch.zone/aW1hZ2UvMTU4Nzc1LzcyOTcwNS5wbmc=/original/fY0E1J.png",
+          "https://img.itch.zone/aW1hZ2UvMTU4Nzc1LzcyOTcwNi5wbmc=/original/9vSpyv.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.3 out of 5 stars(14 total ratings)",
+          "Author": "Tydalad",
+          "Made with": "Unity",
+          "Tags": "Endless Runner, Game Maker's Toolkit Jam, jam, moebius-strip, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 159192,
+      "gameUrl": "https://laurie-hardman.itch.io/day-to-dayity",
+      "overallRank": 87,
+      "topCategories": [
+        "Aesthetics"
+      ],
+      "resultData": {
+        "id": 159192,
+        "score": 3.82,
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTU5MTkyLzczMDM0Ny5wbmc=/300x240%23c/PWaoJq.png",
+        "raw_score": 3.82,
+        "rating_count": 10,
+        "criteria": [
+          {
+            "name": "Innovation",
+            "score": 3.4,
+            "raw_score": 3.4,
+            "rank": 180
+          },
+          {
+            "name": "Theme",
+            "score": 3.9,
+            "raw_score": 3.9,
+            "rank": 105
+          },
+          {
+            "name": "Aesthetics",
+            "score": 4.9,
+            "raw_score": 4.9,
+            "rank": 6
+          },
+          {
+            "name": "Feel",
+            "score": 3.3,
+            "raw_score": 3.3,
+            "rank": 172
+          },
+          {
+            "name": "Overall",
+            "score": 3.6,
+            "raw_score": 3.6,
+            "rank": 156
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Laurie Hardman",
+            "id": 677698
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-jam/rate/159192",
+        "rank": 87,
+        "title": "Day To Dayity"
+      },
+      "entryData": {
+        "game": {
+          "user": {
+            "name": "Laurie Hardman",
+            "url": "https://laurie-hardman.itch.io",
+            "id": 677698
+          },
+          "id": 159192,
+          "url": "https://laurie-hardman.itch.io/day-to-dayity",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTU5MTkyLzczMDM0Ny5wbmc=/300x240%23c/PWaoJq.png",
+          "title": "Day To Dayity",
+          "short_text": "A God Sim based around actions having several consequences"
+        },
+        "rating_count": 10,
+        "id": 23519,
+        "created_at": "2017-07-16 17:37:29",
+        "coolness": 0,
+        "url": "/jam/gmtk-jam/rate/159192"
+      },
+      "details": {
+        "title": "Day To Dayity",
+        "description": "Day To Dayity is a god game that takes inspiration from Reigns, and its concept of keeping a kingdom happy but not letting any faction get to strong.\n\nthe game was made with unity and game maker by Anni Sayers and Laurie Hardman, all assets we created for this project.\nNote, you have to quite the game and restart when you win/losse",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTU5MTkyLzczMDM0Ny5wbmc=/original/dEwgOT.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Author": "Laurie Hardman",
+          "Genre": "Strategy"
+        }
+      }
+    },
+    {
+      "gameId": 159142,
+      "gameUrl": "https://beetbomb.itch.io/geflectgame",
+      "overallRank": 15,
+      "topCategories": [
+        "Aesthetics"
+      ],
+      "resultData": {
+        "id": 159142,
+        "score": 4.3578947368421,
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTU5MTQyLzczMzM1NC5wbmc=/300x240%23c/SCm0v8.png",
+        "raw_score": 4.3578947368421,
+        "rating_count": 19,
+        "criteria": [
+          {
+            "name": "Innovation",
+            "score": 3.6315789473684,
+            "raw_score": 3.6315789473684,
+            "rank": 142
+          },
+          {
+            "name": "Theme",
+            "score": 4.3684210526316,
+            "raw_score": 4.3684210526316,
+            "rank": 26
+          },
+          {
+            "name": "Aesthetics",
+            "score": 4.8421052631579,
+            "raw_score": 4.8421052631579,
+            "rank": 7
+          },
+          {
+            "name": "Feel",
+            "score": 4.4736842105263,
+            "raw_score": 4.4736842105263,
+            "rank": 18
+          },
+          {
+            "name": "Overall",
+            "score": 4.4736842105263,
+            "raw_score": 4.4736842105263,
+            "rank": 16
+          }
+        ],
+        "contributors": [
+          {
+            "name": "BeetBomb",
+            "id": 659453
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-jam/rate/159142",
+        "rank": 15,
+        "title": "Geflect"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://beetbomb.itch.io/geflectgame",
+          "title": "Geflect",
+          "user": {
+            "name": "BeetBomb",
+            "url": "https://beetbomb.itch.io",
+            "id": 659453
+          },
+          "id": 159142,
+          "short_text": "Geflect - move, dodge, defend and attack with one button!",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTU5MTQyLzczMzM1NC5wbmc=/300x240%23c/SCm0v8.png",
+          "cover_color": "#14e1b5",
+          "platforms": [
+            "windows"
+          ]
+        },
+        "rating_count": 19,
+        "id": 23447,
+        "created_at": "2017-07-16 16:34:03",
+        "coolness": 1,
+        "url": "/jam/gmtk-jam/rate/159142"
+      },
+      "details": {
+        "title": "Geflect",
+        "description": "Made in 48 hours for the GMTK game jam.\nIn\nthis game you move, dodge, defend and attack with one button! click the left mouse button to\nSlash and deflect your enemies attacks back on them!\nits\nour first game jam, and the most satisfying game we have ever made.\nThere are 10 waves in the game, each one is harder than the one before... so be\nready to die.... a lot......follow: https://itch.io/profile/gallahatfollow: https://gaziter.itch.io/\n\nCredits:\nProgramming: Gal Lahat (@Gallahat)\nGraphics and music: Asaf Gazit (@Gaziter)\n(it was really made in 48 hours, even we can't believe it)\nA\nvideo of Gal getting to wave 6:\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTU5MTQyLzczMDA2Mi5wbmc=/original/yK%2BXZo.png",
+          "https://img.itch.zone/aW1hZ2UvMTU5MTQyLzczMDA2Ni5wbmc=/original/1n3Ivx.png",
+          "https://img.itch.zone/aW1hZ2UvMTU5MTQyLzczMDA2My5wbmc=/original/I70Vh%2B.png",
+          "https://img.itch.zone/aW1hZ2UvMTU5MTQyLzczMDA2NS5wbmc=/original/XUpks4.png",
+          "https://img.itch.zone/aW1hZ2UvMTU5MTQyLzczMDA2NC5wbmc=/original/%2BqSqw5.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.6 out of 5 stars(12 total ratings)",
+          "Author": "BeetBomb",
+          "Genre": "Action",
+          "Made with": "Unity",
+          "Tags": "2D, 8-Bit, Arcade, Bullet Hell, deflect, juice, Pixel Art, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 159651,
+      "gameUrl": "https://mateuszskutnik.itch.io/the-ravine",
+      "overallRank": 8,
+      "topCategories": [
+        "Aesthetics",
+        "Feel",
+        "Overall"
+      ],
+      "resultData": {
+        "id": 159651,
+        "score": 4.5,
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTU5NjUxLzczMjE0Mi5qcGc=/300x240%23c/Vortx1.jpg",
+        "raw_score": 4.5,
+        "rating_count": 6,
+        "criteria": [
+          {
+            "name": "Innovation",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 57
+          },
+          {
+            "name": "Theme",
+            "score": 4.5,
+            "raw_score": 4.5,
+            "rank": 17
+          },
+          {
+            "name": "Aesthetics",
+            "score": 4.8333333333333,
+            "raw_score": 4.8333333333333,
+            "rank": 8
+          },
+          {
+            "name": "Feel",
+            "score": 4.6666666666667,
+            "raw_score": 4.6666666666667,
+            "rank": 6
+          },
+          {
+            "name": "Overall",
+            "score": 4.5,
+            "raw_score": 4.5,
+            "rank": 12
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Mateusz Skutnik",
+            "id": 76941
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-jam/rate/159651",
+        "rank": 8,
+        "title": "the Ravine"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://mateuszskutnik.itch.io/the-ravine",
+          "title": "the Ravine",
+          "user": {
+            "name": "Mateusz Skutnik",
+            "url": "https://mateuszskutnik.itch.io",
+            "id": 76941
+          },
+          "id": 159651,
+          "short_text": "GMTK Game Jam 2017",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTU5NjUxLzczMjE0Mi5qcGc=/300x240%23c/Vortx1.jpg",
+          "cover_color": "#d6e7eb",
+          "platforms": [
+            "windows"
+          ]
+        },
+        "rating_count": 6,
+        "id": 23963,
+        "created_at": "2017-07-17 01:31:14",
+        "coolness": 0,
+        "url": "/jam/gmtk-jam/rate/159651"
+      },
+      "details": {
+        "title": "the Ravine",
+        "description": "This game was made in approximately 36 hours during the first GameMaker's Toolkit Game Jam in July of 2017. Theme of the jam was: dual purpose design. See if you can spot all the dual mechanics.No installation needed, it's a standalone game. Just download and unpack it.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTU5NjUxLzczMjE1OS5qcGc=/original/VyZybF.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.3 out of 5 stars(4 total ratings)",
+          "Author": "Mateusz Skutnik",
+          "Genre": "Action"
+        }
+      }
+    },
+    {
+      "gameId": 159895,
+      "gameUrl": "https://hermbit.itch.io/chromakey",
+      "overallRank": 104,
+      "topCategories": [
+        "Aesthetics"
+      ],
+      "resultData": {
+        "id": 159895,
+        "score": 3.7290322580645,
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTU5ODk1LzczMzAyMy5naWY=/300x240%23c/I3SjEI.gif",
+        "raw_score": 3.7290322580645,
+        "rating_count": 31,
+        "criteria": [
+          {
+            "name": "Innovation",
+            "score": 2.6129032258065,
+            "raw_score": 2.6129032258065,
+            "rank": 365
+          },
+          {
+            "name": "Theme",
+            "score": 3.3225806451613,
+            "raw_score": 3.3225806451613,
+            "rank": 243
+          },
+          {
+            "name": "Aesthetics",
+            "score": 4.8064516129032,
+            "raw_score": 4.8064516129032,
+            "rank": 9
+          },
+          {
+            "name": "Feel",
+            "score": 4.0645161290323,
+            "raw_score": 4.0645161290323,
+            "rank": 40
+          },
+          {
+            "name": "Overall",
+            "score": 3.8387096774194,
+            "raw_score": 3.8387096774194,
+            "rank": 95
+          }
+        ],
+        "contributors": [
+          {
+            "name": "hermbit",
+            "id": 601934
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-jam/rate/159895",
+        "rank": 104,
+        "title": "Chromakey"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://hermbit.itch.io/chromakey",
+          "title": "Chromakey",
+          "user": {
+            "name": "hermbit",
+            "url": "https://hermbit.itch.io",
+            "id": 601934
+          },
+          "id": 159895,
+          "gif_cover": "https://img.itch.zone/aW1hZ2UvMTU5ODk1LzczMzAyMy5naWY=/original/gXsLfQ.gif",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTU5ODk1LzczMzAyMy5naWY=/300x240%23c/I3SjEI.gif",
+          "short_text": "48 Hour Game Project for the GMTK Jam.",
+          "platforms": [
+            "web"
+          ]
+        },
+        "rating_count": 31,
+        "id": 24254,
+        "created_at": "2017-07-17 07:03:25",
+        "coolness": 0,
+        "url": "/jam/gmtk-jam/rate/159895"
+      },
+      "details": {
+        "title": "Chromakey",
+        "description": "Game not loading? Play it here: http://hermitweb.com/\nCreated by Hermbit and ForestHerd\nWASD / Arrow keys: Move the ship\nLeft Mouse Button: Shoot\nSpacebar: Dash\nThe green bar indicates your dash charges. Three enemy kills will give you one dash charge.\nWhen you dash, you also switch weapons between the heavy green revolver and the nimble red gatling gun. You will do double damage to enemies of your color. Dash wisely!\nAlthough we were limited in time due to the game jam, we will continue working on this after the contest!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTU5ODk1LzczMzAyMy5naWY=/original/gXsLfQ.gif"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Author": "hermbit",
+          "Genre": "Shooter",
+          "Tags": "16-bit, Game Maker's Toolkit Jam, Pixel Art"
+        }
+      }
+    },
+    {
+      "gameId": 159598,
+      "gameUrl": "https://dangstudios.itch.io/boomerang-x",
+      "overallRank": 28,
+      "topCategories": [
+        "Aesthetics"
+      ],
+      "resultData": {
+        "id": 159598,
+        "score": 4.15,
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTU5NTk4LzczMjA4My5wbmc=/300x240%23c/419tm5.png",
+        "raw_score": 4.15,
+        "rating_count": 20,
+        "criteria": [
+          {
+            "name": "Innovation",
+            "score": 3.65,
+            "raw_score": 3.65,
+            "rank": 139
+          },
+          {
+            "name": "Theme",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 72
+          },
+          {
+            "name": "Aesthetics",
+            "score": 4.8,
+            "raw_score": 4.8,
+            "rank": 10
+          },
+          {
+            "name": "Feel",
+            "score": 4.1,
+            "raw_score": 4.1,
+            "rank": 37
+          },
+          {
+            "name": "Overall",
+            "score": 4.2,
+            "raw_score": 4.2,
+            "rank": 32
+          }
+        ],
+        "contributors": [
+          {
+            "name": "DANG!",
+            "id": 95678
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-jam/rate/159598",
+        "rank": 28,
+        "title": "BOOMERANG X"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://dangstudios.itch.io/boomerang-x",
+          "title": "BOOMERANG X",
+          "user": {
+            "name": "DANG!",
+            "url": "https://dangstudios.itch.io",
+            "id": 95678
+          },
+          "id": 159598,
+          "short_text": "THIS IS THE SPOT THE X MARKS",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTU5NTk4LzczMjA4My5wbmc=/300x240%23c/419tm5.png",
+          "cover_color": "#22161d",
+          "platforms": [
+            "windows"
+          ]
+        },
+        "rating_count": 20,
+        "id": 23912,
+        "created_at": "2017-07-17 00:51:42",
+        "coolness": 29,
+        "url": "/jam/gmtk-jam/rate/159598"
+      },
+      "details": {
+        "title": "BOOMERANG X",
+        "description": "BOOMERANG X is a Devil Daggers inspired wave-based first person shooter in which your only hope of surviving against a horde of HORRIFYING MONSTERS is a magical boomerang -- will it be enough? No. Probably not.\nTeleport, jump, and pray to avoid getting CONSUMED. Some enemies need to be hit in their WEAK POINTS -- smash these flashing spots to deal damage.\nMade in 48 hours for the GMTK game jam.\n\nCONTROLS:Left click - Throw boomerangLeft click while boomerang is thrown - Teleport to boomerangWASD - MoveSpace - Jump\n\nCONTRIBUTORS:Ben Caulkins @NoCronkSam Suite @sam_suite\nOur studio page: www.dang.computerFacebook: www.facebook.com/dang.exclamationmarkTwitter: www.twitter.com/videodang",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTU5NTk4LzczMjExNC5wbmc=/original/Co91An.png",
+          "https://img.itch.zone/aW1hZ2UvMTU5NTk4LzczMjExNS5wbmc=/original/x%2Bep9v.png",
+          "https://img.itch.zone/aW1hZ2UvMTU5NTk4LzczMjExNi5wbmc=/original/psxQYC.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 1.0 out of 5 stars(1 total ratings)",
+          "Author": "DANG!",
+          "Genre": "Shooter"
+        }
+      }
+    },
+    {
+      "gameId": 159521,
+      "gameUrl": "https://halfpastyellow.itch.io/pinto",
+      "overallRank": 35,
+      "topCategories": [
+        "Aesthetics"
+      ],
+      "resultData": {
+        "id": 159521,
+        "score": 4.1,
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTU5NTIxLzczMTc5OC5naWY=/300x240%23c/Ezc1Xl.gif",
+        "raw_score": 4.1,
+        "rating_count": 10,
+        "criteria": [
+          {
+            "name": "Innovation",
+            "score": 3.9,
+            "raw_score": 3.9,
+            "rank": 84
+          },
+          {
+            "name": "Theme",
+            "score": 4.1,
+            "raw_score": 4.1,
+            "rank": 63
+          },
+          {
+            "name": "Aesthetics",
+            "score": 4.8,
+            "raw_score": 4.8,
+            "rank": 10
+          },
+          {
+            "name": "Feel",
+            "score": 3.8,
+            "raw_score": 3.8,
+            "rank": 81
+          },
+          {
+            "name": "Overall",
+            "score": 3.9,
+            "raw_score": 3.9,
+            "rank": 82
+          }
+        ],
+        "contributors": [
+          {
+            "name": "HalfPastYellow",
+            "id": 156102
+          },
+          {
+            "name": "Remzo",
+            "id": 41643
+          },
+          {
+            "name": "wiggs",
+            "id": 34465
+          },
+          {
+            "name": "MaxWrighton93",
+            "id": 41566
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-jam/rate/159521",
+        "rank": 35,
+        "title": "Pinto ✿"
+      },
+      "entryData": {
+        "game": {
+          "short_text": "Guide Pinto away from the hot desert sun and into the cool shade of the clouds!",
+          "id": 159521,
+          "cover": "https://img.itch.zone/aW1hZ2UvMTU5NTIxLzczMTc5OC5naWY=/300x240%23c/Ezc1Xl.gif",
+          "cover_color": "#97c1b5",
+          "gif_cover": "https://img.itch.zone/aW1hZ2UvMTU5NTIxLzczMTc5OC5naWY=/original/zs4shr.gif",
+          "title": "Pinto ✿",
+          "url": "https://halfpastyellow.itch.io/pinto",
+          "platforms": [
+            "windows"
+          ],
+          "user": {
+            "name": "HalfPastYellow",
+            "url": "https://halfpastyellow.itch.io",
+            "id": 156102
+          }
+        },
+        "rating_count": 10,
+        "id": 23873,
+        "coolness": 0,
+        "created_at": "2017-07-17 00:09:06",
+        "contributors": [
+          {
+            "name": "HalfPastYellow",
+            "url": "https://halfpastyellow.itch.io"
+          },
+          {
+            "name": "Remzo",
+            "url": "https://remzo.itch.io"
+          },
+          {
+            "name": "wiggs",
+            "url": "https://wiggs.itch.io"
+          },
+          {
+            "name": "MaxWrighton93",
+            "url": "https://maxwrighton93.itch.io"
+          }
+        ],
+        "url": "/jam/gmtk-jam/rate/159521"
+      },
+      "details": {
+        "title": "Pinto ✿",
+        "description": "Pinto ✿\nHide from the intense sun while balancing the need to eat the very plants that give you shade. Help Pinto as he makes his way to the safety of the clouds. Grow plants to create shade, and eat the plants to restore your energy. The bigger the plant, the more energy and shade it gives.\nA game by HalfPastYellow, made for #GMTKJAM\nControls:\nWASD - MoveSPACE - Plant Seed/Grow PlantE - Eat plantLEFT/RIGHT ARROW - Rotate CameraESC - Quit\nAdditional Art:\nTanja Tankred -@TanjaTankredAndreas Schönau - @SchoenauA\nMusic:\nbensound.com\nFreesound contributions:\nmegashroomnathanaelsamsDeezSoundzThosheepfilmsrawhiteman7alegemaate\nContact:\n@HalfPastYellowinfo@halfpastyellow.comRemy @R3mzoGian @GDbeisMax @MaxWrighton\nChangelog: v1_2\nFixed Pinto's legs on successOther minor bugfixes\nv1_1\nCamera improvements\nv1\n\nGMTKJam SubmissionUnzip Pinto_v1_2.zip\nRun Pinto_v1_2.exe",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTU5NTIxLzczMTk0Ni5wbmc=/original/G5CV%2Bx.png",
+          "https://img.itch.zone/aW1hZ2UvMTU5NTIxLzczMTk0OS5wbmc=/original/HwlwBh.png",
+          "https://img.itch.zone/aW1hZ2UvMTU5NTIxLzczMTk0NS5wbmc=/original/wMZ8Ys.png",
+          "https://img.itch.zone/aW1hZ2UvMTU5NTIxLzczMTk1MC5wbmc=/original/rVJ5Jc.png",
+          "https://img.itch.zone/aW1hZ2UvMTU5NTIxLzczMTk0Ny5wbmc=/original/5sFEy8.png",
+          "https://img.itch.zone/aW1hZ2UvMTU5NTIxLzczMTk0OC5wbmc=/original/7Q7GCl.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Authors": "HalfPastYellow, Remzo, wiggs, MaxWrighton93",
+          "Tags": "Game Maker's Toolkit Jam",
+          "Average session": "A few minutes",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": 158601,
+      "gameUrl": "https://crazy-homeboys.itch.io/ottawa-duels",
+      "overallRank": 359,
+      "topCategories": [
+        "Aesthetics"
+      ],
+      "resultData": {
+        "id": 158601,
+        "score": 2.7,
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTU4NjAxLzcyNzkyMC5wbmc=/300x240%23c/snmSXN.png",
+        "raw_score": 2.7,
+        "rating_count": 4,
+        "criteria": [
+          {
+            "name": "Innovation",
+            "score": 2.5,
+            "raw_score": 2.5,
+            "rank": 371
+          },
+          {
+            "name": "Theme",
+            "score": 1.75,
+            "raw_score": 1.75,
+            "rank": 501
+          },
+          {
+            "name": "Aesthetics",
+            "score": 4.75,
+            "raw_score": 4.75,
+            "rank": 14
+          },
+          {
+            "name": "Feel",
+            "score": 2,
+            "raw_score": 2,
+            "rank": 438
+          },
+          {
+            "name": "Overall",
+            "score": 2.5,
+            "raw_score": 2.5,
+            "rank": 378
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Crazy Homeboys",
+            "id": 679381
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-jam/rate/158601",
+        "rank": 359,
+        "title": "Ottawa Duels"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://crazy-homeboys.itch.io/ottawa-duels",
+          "title": "Ottawa Duels",
+          "user": {
+            "name": "Crazy Homeboys",
+            "url": "https://crazy-homeboys.itch.io",
+            "id": 679381
+          },
+          "id": 158601,
+          "short_text": "Play against your friends in this tribal game!",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTU4NjAxLzcyNzkyMC5wbmc=/300x240%23c/snmSXN.png",
+          "cover_color": "#ce7531",
+          "platforms": [
+            "web"
+          ]
+        },
+        "rating_count": 4,
+        "id": 23323,
+        "created_at": "2017-07-16 11:29:04",
+        "coolness": 0,
+        "url": "/jam/gmtk-jam/rate/158601"
+      },
+      "details": {
+        "title": "Ottawa Duels",
+        "description": "Controls Player 1: WASD - Move and Aim, F - Throw Shuriken and Teleport. \nSpace - Jump.\nControls Player 2: Arrows - Move and Aim, L - Throw Shuriken and Teleport. Right Control - Jump.\nGo to Menu - P\n-----------------------------------------------------------------------------------------------------------\nOttawa Duels is a 1vs1 platformer where you can fight your friends to see who is the best warrior of the tribe!\nIt is developed in Unity2D,  don't be shy and tell us what you think about it!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTU4NjAxLzcyNzk2Ni5wbmc=/original/9S4n%2Fg.png",
+          "https://img.itch.zone/aW1hZ2UvMTU4NjAxLzcyODMxNi5wbmc=/original/PaTEAI.png",
+          "https://img.itch.zone/aW1hZ2UvMTU4NjAxLzcyODMxNS5wbmc=/original/l0oS%2Fd.png",
+          "https://img.itch.zone/aW1hZ2UvMTU4NjAxLzcyODMxNC5wbmc=/original/2un3rz.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 2.0 out of 5 stars(1 total ratings)",
+          "Author": "Crazy Homeboys",
+          "Genre": "Platformer",
+          "Made with": "Unity",
+          "Tags": "1vs1, 2D, Arcade, Game Maker's Toolkit Jam, Versus"
+        }
+      }
+    },
+    {
+      "gameId": 159705,
+      "gameUrl": "https://dakkhuza.itch.io/colour3",
+      "overallRank": 106,
+      "topCategories": [
+        "Feel"
+      ],
+      "resultData": {
+        "id": 159705,
+        "score": 3.72,
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTU5NzA1LzczNDY5OC5wbmc=/300x240%23c/D5FlXR.png",
+        "raw_score": 3.72,
+        "rating_count": 5,
+        "criteria": [
+          {
+            "name": "Innovation",
+            "score": 3.4,
+            "raw_score": 3.4,
+            "rank": 180
+          },
+          {
+            "name": "Theme",
+            "score": 2.6,
+            "raw_score": 2.6,
+            "rank": 381
+          },
+          {
+            "name": "Aesthetics",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 114
+          },
+          {
+            "name": "Feel",
+            "score": 4.8,
+            "raw_score": 4.8,
+            "rank": 3
+          },
+          {
+            "name": "Overall",
+            "score": 3.8,
+            "raw_score": 3.8,
+            "rank": 105
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Dak",
+            "id": 669194
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-jam/rate/159705",
+        "rank": 106,
+        "title": "Colour³"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://dakkhuza.itch.io/colour3",
+          "title": "Colour³",
+          "user": {
+            "name": "Dak",
+            "url": "https://dakkhuza.itch.io",
+            "id": 669194
+          },
+          "id": 159705,
+          "short_text": "GMTK 48 Hour puzzley sorta game",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTU5NzA1LzczNDY5OC5wbmc=/300x240%23c/D5FlXR.png",
+          "cover_color": "#000000",
+          "platforms": [
+            "windows"
+          ]
+        },
+        "rating_count": 5,
+        "id": 24031,
+        "created_at": "2017-07-17 02:47:16",
+        "coolness": 5,
+        "url": "/jam/gmtk-jam/rate/159705"
+      },
+      "details": {
+        "title": "Colour³",
+        "description": "\nYou are a cube. A very colorful cube but a cube none the less. Mostly you are a cube because the one friend that said they would do art, and knows you are bad at art decided to come online for one minute only too say \"Cool\" and they're just so-\nRegardless, you are a cube who can only slide to interact with the world. Slide your way to the goal while interacting with everything by bumping into it. New mechanics are introduced on each floor, can you beat all 13 levels? \nNow featuring a lag free version without particle effect! Nothing has been changed from the 48 hour version besides the particles being turned off for the red floors. If you're having trouble running the regular version try this one.\n----------------- LEVEL CLEAR SPOILERS FOR LEVELS 5 & 9 -----------------\n\n-----------------  END OF SPOILERS  -----------------\n\nPrograms used:\nChip ToneAudacityGame Maker Studio 2 : ProGimp\nFonts used: \nMars Needs CunnilingusPC Senior\nAll the code / art was made by me. I wanted to have two huge levels at the top with everything that go introduced up to that point but I ran out of time and spent it instead adding an ending. Beat all the levels to see it!\nHopefully everything works. EDIT: Everything did not work. The last level (lvl13) is unbeatable in the current version. I was tried and forgot to play test it. Anyways I don't want people to miss out on the cool ending thing I made if you clear all levels. If you'd like to see it, go to your C:\\Users\\PCNAME\\AppData\\Local\\ColourCubed and replace all -1's with 1's. It should play when you boot the game up again and enter the level select screen. The lag free version disables some particle effects so the game runs smoothly on low end computers. Other than that it doesn't change anything else.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTU5NzA1LzczNDY5OC5wbmc=/original/TEDIzZ.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Dak",
+          "Genre": "Puzzle"
+        }
+      }
+    },
+    {
+      "gameId": 159546,
+      "gameUrl": "https://aetherbones.itch.io/bounce-blade",
+      "overallRank": 14,
+      "topCategories": [
+        "Feel"
+      ],
+      "resultData": {
+        "id": 159546,
+        "score": 4.4,
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTU5NTQ2LzczMTgwNi5naWY=/300x240%23c/6h6d%2Bd.gif",
+        "raw_score": 4.4,
+        "rating_count": 4,
+        "criteria": [
+          {
+            "name": "Innovation",
+            "score": 4.25,
+            "raw_score": 4.25,
+            "rank": 41
+          },
+          {
+            "name": "Theme",
+            "score": 4.5,
+            "raw_score": 4.5,
+            "rank": 17
+          },
+          {
+            "name": "Aesthetics",
+            "score": 4.25,
+            "raw_score": 4.25,
+            "rank": 76
+          },
+          {
+            "name": "Feel",
+            "score": 4.75,
+            "raw_score": 4.75,
+            "rank": 4
+          },
+          {
+            "name": "Overall",
+            "score": 4.25,
+            "raw_score": 4.25,
+            "rank": 24
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Theory Georgiou",
+            "id": 30893
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-jam/rate/159546",
+        "rank": 14,
+        "title": "Bounce Blade"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://aetherbones.itch.io/bounce-blade",
+          "title": "Bounce Blade",
+          "user": {
+            "name": "Theory Georgiou",
+            "url": "https://aetherbones.itch.io",
+            "id": 30893
+          },
+          "id": 159546,
+          "gif_cover": "https://img.itch.zone/aW1hZ2UvMTU5NTQ2LzczMTgwNi5naWY=/original/cV7pfd.gif",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTU5NTQ2LzczMTgwNi5naWY=/300x240%23c/6h6d%2Bd.gif",
+          "short_text": "You're a swordsman who uses the weight of your weapon to maneuver in the air racking up combos",
+          "platforms": [
+            "windows"
+          ]
+        },
+        "rating_count": 4,
+        "id": 23871,
+        "created_at": "2017-07-17 00:04:56",
+        "coolness": 0,
+        "url": "/jam/gmtk-jam/rate/159546"
+      },
+      "details": {
+        "title": "Bounce Blade",
+        "description": "You're a swordsman(a white dot) who uses the weight of your weapon(rectangle) to maneuver in the air racking up aerial combos against jellyfish who progressively quicken with each kill.\nYou will need a Gamepad, start the game right out of the zip folder.\n(A) Jump off orbs to replenish energy. (X) Slash your sword to change momentum(costing energy). You can also slash orbs expelling all your energy for a super powerful blast.\nKill as many enemies as you can before hitting the ground.\n(hint: There is no double jump.)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTU5NTQ2LzczMTgwOC5qcGc=/original/WBOkdY.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTU5NTQ2LzczMTgwOS5qcGc=/original/5CkJdx.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTU5NTQ2LzczMTgxMC5qcGc=/original/MbWtVB.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Author": "Theory Georgiou",
+          "Genre": "Action",
+          "Tags": "8-Bit"
+        }
+      }
+    },
+    {
+      "gameId": 159096,
+      "gameUrl": "https://sean-noonan.itch.io/bad-juju",
+      "overallRank": 60,
+      "topCategories": [
+        "Feel"
+      ],
+      "resultData": {
+        "id": 159096,
+        "score": 3.95625,
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTU5MDk2LzczNDA0Ny5naWY=/300x240%23c/rb1bb8.gif",
+        "raw_score": 3.95625,
+        "rating_count": 32,
+        "criteria": [
+          {
+            "name": "Innovation",
+            "score": 3.1875,
+            "raw_score": 3.1875,
+            "rank": 243
+          },
+          {
+            "name": "Theme",
+            "score": 3.40625,
+            "raw_score": 3.40625,
+            "rank": 213
+          },
+          {
+            "name": "Aesthetics",
+            "score": 4.3125,
+            "raw_score": 4.3125,
+            "rank": 66
+          },
+          {
+            "name": "Feel",
+            "score": 4.6875,
+            "raw_score": 4.6875,
+            "rank": 5
+          },
+          {
+            "name": "Overall",
+            "score": 4.1875,
+            "raw_score": 4.1875,
+            "rank": 38
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Sean Noonan",
+            "id": 336
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-jam/rate/159096",
+        "rank": 60,
+        "title": "Bad Juju"
+      },
+      "entryData": {
+        "game": {
+          "short_text": "A GMTK Jam game where you kill stuff.",
+          "id": 159096,
+          "cover": "https://img.itch.zone/aW1hZ2UvMTU5MDk2LzczNDA0Ny5naWY=/300x240%23c/rb1bb8.gif",
+          "cover_color": "#ffffff",
+          "gif_cover": "https://img.itch.zone/aW1hZ2UvMTU5MDk2LzczNDA0Ny5naWY=/original/AjpZ5e.gif",
+          "title": "Bad Juju",
+          "url": "https://sean-noonan.itch.io/bad-juju",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Sean Noonan",
+            "url": "https://sean-noonan.itch.io",
+            "id": 336
+          }
+        },
+        "rating_count": 32,
+        "id": 24042,
+        "created_at": "2017-07-17 02:56:41",
+        "coolness": 4,
+        "url": "/jam/gmtk-jam/rate/159096"
+      },
+      "details": {
+        "title": "Bad Juju",
+        "description": "In Bad Juju, you must run the gauntlet, wasting all in your path. Collect gems to use your mystical Juju abilities to slow time, increase your power and gain the upper hand over your enemies.\n\nKeyboard & Mouse\nMouse cursor - AimArrows or WASD - Move(Hold or Tap) Left mouse button - Shoot(Release) Left mouse button - Reload & Attract Juju(Hold) Right mouse button - Use Juju1 - Pistol2 - Shotgun (beta)3 - Uzi (beta)R - Restart\nSome weapons are marked \"(beta)\" as they were not a part of the original scope of the game and were added after the fact for fun, and as a result may have some bugs/balance issues.\n\n\"this feels great\" - Mark Brown, Game Maker's Toolkit\"this is sweet\" - Danny O'Dwyer, Noclip\nOriginally made for the Game Maker's Toolkit game jam with the theme; \"dual purpose design\". #gmtkjam\nKnown issues:On occasion, the shotgun can sometimes make enemies become invincible - there is no known work around and I haven't got to the bottom of why this happens :|\nDevelopment time: 48 hoursEngine: Construct 3Other tools: Adobe Photoshop, LabChrip\n\nDeveloped by @SeanNoonan for the 2017 Game Maker's Toolkit Jam.\nCyborg Ninja Kevin MacLeod (incompetech.com)Licensed under Creative Commons: By Attribution 3.0 Licensehttp://creativecommons.org/licenses/by/3.0/\nTools used:\nEngine: Construct 3Art: MS Paint equivalent within engineAudio: Adobe Audition, LabChirp, BFXR\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTU5MDk2LzczNDAyNi5wbmc=/original/M%2BOpax.png",
+          "https://img.itch.zone/aW1hZ2UvMTU5MDk2LzczNDM0MC5wbmc=/original/Pla5La.png",
+          "https://img.itch.zone/aW1hZ2UvMTU5MDk2LzczNDM2Ni5naWY=/original/2tlgH5.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.1 out of 5 stars(19 total ratings)",
+          "Author": "Sean Noonan",
+          "Genre": "Action, Shooter",
+          "Made with": "Construct",
+          "Tags": "Dungeon Crawler, Game Maker's Toolkit Jam, juice, juju, Pixel Art, Retro, slow-motion, Top-Down, Top down shooter"
+        }
+      }
+    },
+    {
+      "gameId": 159899,
+      "gameUrl": "https://stanlewry.itch.io/power-is-everything",
+      "overallRank": 10,
+      "topCategories": [
+        "Feel",
+        "Overall"
+      ],
+      "resultData": {
+        "id": 159899,
+        "score": 4.4666666666667,
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTU5ODk5LzczNjU5NS5wbmc=/300x240%23c/28mCrD.png",
+        "raw_score": 4.4666666666667,
+        "rating_count": 3,
+        "criteria": [
+          {
+            "name": "Innovation",
+            "score": 3.6666666666667,
+            "raw_score": 3.6666666666667,
+            "rank": 124
+          },
+          {
+            "name": "Theme",
+            "score": 4.3333333333333,
+            "raw_score": 4.3333333333333,
+            "rank": 28
+          },
+          {
+            "name": "Aesthetics",
+            "score": 4.6666666666667,
+            "raw_score": 4.6666666666667,
+            "rank": 19
+          },
+          {
+            "name": "Feel",
+            "score": 4.6666666666667,
+            "raw_score": 4.6666666666667,
+            "rank": 6
+          },
+          {
+            "name": "Overall",
+            "score": 5,
+            "raw_score": 5,
+            "rank": 1
+          }
+        ],
+        "contributors": [
+          {
+            "name": "stanlewry",
+            "id": 680796
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-jam/rate/159899",
+        "rank": 10,
+        "title": "Power is Everything"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://stanlewry.itch.io/power-is-everything",
+          "title": "Power is Everything",
+          "user": {
+            "name": "stanlewry",
+            "url": "https://stanlewry.itch.io",
+            "id": 680796
+          },
+          "id": 159899,
+          "short_text": "Your bullets are also your health; endless runner style shoot-em-up",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTU5ODk5LzczNjU5NS5wbmc=/300x240%23c/28mCrD.png",
+          "cover_color": "#eeeeee",
+          "platforms": [
+            "windows"
+          ]
+        },
+        "rating_count": 3,
+        "id": 24204,
+        "created_at": "2017-07-17 05:58:43",
+        "coolness": 2,
+        "url": "/jam/gmtk-jam/rate/159899"
+      },
+      "details": {
+        "title": "Power is Everything",
+        "description": "A game by: Stan Lewry, Dave Lewis, Joshua Weeden, Lucas Rijllart.\n\"Power is everything\" is a side Scrolling Shmup with one core concept. Your power bar limits your progression through the game. every time you fire your power bar reduces. Every time you get hit your power bar reduces. The only way to get more power is to defeat enemies, but don’t miss too many times as if you don’t have enough power to defeat the boss at the end each wave of enemies, you're done for!\nCreated in C++ from scratch, all resources (except for the Font) were created by the team in the 48 hours as part of the GMTK Game Jam.featuring pseudo random enemies, in ever increasing waves. The game plays like an endless runner where the user tries to stay alive for as long as possible. The visuals display 8 layers of parallax scrolling to give depth to the 2D world.To play, move around with the arrow keys and fire with space bar. Kill all the enemies to continue. But be careful not to run out of power, it provides your health, your ammo, and your means of progression.\nIMPORTANTTo run the game you may need to install MSVCp120.dllThis is included in the folder\nYou may need to install both vcredist_x86 and vcredist_x64\n\nALSO IMPORTANTIf you cant get the game to run, download the file release.zip. This version of the game was built during the 48 hour period of the game jam but was only uploaded later when we where made aware of issues with our submission.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTU5ODk5LzczMzA1Ny5wbmc=/original/SX42q5.png",
+          "https://img.itch.zone/aW1hZ2UvMTU5ODk5LzczMzA1OC5wbmc=/original/JdaguS.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 3.5 out of 5 stars(2 total ratings)",
+          "Author": "stanlewry",
+          "Genre": "Shooter",
+          "Tags": "2D, Pixel Art, Shoot 'Em Up, Space"
+        }
+      }
+    },
+    {
+      "gameId": 159698,
+      "gameUrl": "https://kisetsu.itch.io/boxoxo",
+      "overallRank": 13,
+      "topCategories": [
+        "Feel",
+        "Overall"
+      ],
+      "resultData": {
+        "id": 159698,
+        "score": 4.4,
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTU5Njk4LzczMjU2OC5wbmc=/300x240%23c/%2Bjd8hY.png",
+        "raw_score": 4.4,
+        "rating_count": 3,
+        "criteria": [
+          {
+            "name": "Innovation",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 57
+          },
+          {
+            "name": "Theme",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 72
+          },
+          {
+            "name": "Aesthetics",
+            "score": 4.6666666666667,
+            "raw_score": 4.6666666666667,
+            "rank": 19
+          },
+          {
+            "name": "Feel",
+            "score": 4.6666666666667,
+            "raw_score": 4.6666666666667,
+            "rank": 6
+          },
+          {
+            "name": "Overall",
+            "score": 4.6666666666667,
+            "raw_score": 4.6666666666667,
+            "rank": 6
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Kisetsu",
+            "id": 682620
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-jam/rate/159698",
+        "rank": 13,
+        "title": "BOxOxOx"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://kisetsu.itch.io/boxoxo",
+          "title": "BOxOxOx",
+          "user": {
+            "name": "Kisetsu",
+            "url": "https://kisetsu.itch.io",
+            "id": 682620
+          },
+          "id": 159698,
+          "short_text": "This angry box has a secret.",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTU5Njk4LzczMjU2OC5wbmc=/300x240%23c/%2Bjd8hY.png",
+          "cover_color": "#00c4f0",
+          "platforms": [
+            "windows",
+            "web"
+          ]
+        },
+        "rating_count": 3,
+        "id": 24061,
+        "created_at": "2017-07-17 03:21:35",
+        "coolness": 1,
+        "url": "/jam/gmtk-jam/rate/159698"
+      },
+      "details": {
+        "title": "BOxOxOx",
+        "description": "'BOxOxOx' is a short game made for the first Game Maker's Toolkit Game Jam.\nThe Jam's theme is \"Dual Purpose\" Design.  I tried to achieve this by having every movement also advance progress by destroying the level around you as you come to a stop. As well as breaking blocks revealing a small narrative if you can keep up a steady flow.\n\nGoal: \nSmash into blocks to drain the coloured background. Blocks will respawn after awhile. The coloured background will slowly fill back up, so smash blocks quickly to move onto the next level.Complete all 5 levels to find out the Box's secret.\n\nControls:\nARROW KEYS or W,A,S,D to move. That's it.Download the .zip file. Right click the downloaded folder and unzip it. Double click the 'boxoxox.exe' file. Enjoy!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTU5Njk4LzczMjQ2My5wbmc=/original/cmpZoO.png",
+          "https://img.itch.zone/aW1hZ2UvMTU5Njk4LzczMjQ2Mi5wbmc=/original/i752ka.png",
+          "https://img.itch.zone/aW1hZ2UvMTU5Njk4LzczMjQ2MC5wbmc=/original/k901Nb.png",
+          "https://img.itch.zone/aW1hZ2UvMTU5Njk4LzczMjQ2MS5wbmc=/original/OeFkDA.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.3 out of 5 stars(6 total ratings)",
+          "Author": "Kisetsu",
+          "Made with": "Unity",
+          "Tags": "2D, box, game-makers-toolkit, Puzzle-Platformer"
+        }
+      }
+    },
+    {
+      "gameId": 159227,
+      "gameUrl": "https://davidstyrbjorn.itch.io/planet-17",
+      "overallRank": 25,
+      "topCategories": [
+        "Feel"
+      ],
+      "resultData": {
+        "id": 159227,
+        "score": 4.18,
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTU5MjI3LzczMDQyMy5wbmc=/300x240%23c/2YsHJe.png",
+        "raw_score": 4.18,
+        "rating_count": 10,
+        "criteria": [
+          {
+            "name": "Innovation",
+            "score": 3.9,
+            "raw_score": 3.9,
+            "rank": 84
+          },
+          {
+            "name": "Theme",
+            "score": 3.9,
+            "raw_score": 3.9,
+            "rank": 105
+          },
+          {
+            "name": "Aesthetics",
+            "score": 4.3,
+            "raw_score": 4.3,
+            "rank": 67
+          },
+          {
+            "name": "Feel",
+            "score": 4.6,
+            "raw_score": 4.6,
+            "rank": 12
+          },
+          {
+            "name": "Overall",
+            "score": 4.2,
+            "raw_score": 4.2,
+            "rank": 32
+          }
+        ],
+        "contributors": [
+          {
+            "name": "David Styrbjörn",
+            "id": 53337
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-jam/rate/159227",
+        "rank": 25,
+        "title": "Planet 17"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://davidstyrbjorn.itch.io/planet-17",
+          "title": "Planet 17",
+          "user": {
+            "name": "David Styrbjörn",
+            "url": "https://davidstyrbjorn.itch.io",
+            "id": 53337
+          },
+          "id": 159227,
+          "short_text": "Alternative Platformer",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTU5MjI3LzczMDQyMy5wbmc=/300x240%23c/2YsHJe.png",
+          "cover_color": "#000414",
+          "platforms": [
+            "web"
+          ]
+        },
+        "rating_count": 10,
+        "id": 23544,
+        "created_at": "2017-07-16 18:08:51",
+        "coolness": 0,
+        "url": "/jam/gmtk-jam/rate/159227"
+      },
+      "details": {
+        "title": "Planet 17",
+        "description": "You are a lone astronaut sent to explore Planet 17!\nFlip your gravity to traverse the planet and retrieve fuel scattered around the environment.Board your spaceship and set out on this adventure... Just be wary of what you may encounter\"\n This game was made by a small team of 3 people for the Game Maker’s Toolkit 48 hour Game Jam 2017.\n• ART : Theihe (Dante Lundell)• PROGRAMMING : Mieeh (David Styrbjörn)• AUDIO : Corentin Brasart\nJoin us on Discord at: http://discordapp.com/invite/8s4thNx!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTU5MjI3LzczMDQ2MC5wbmc=/original/aJILFi.png",
+          "https://img.itch.zone/aW1hZ2UvMTU5MjI3LzczMDQ1OS5wbmc=/original/qeRcjL.png",
+          "https://img.itch.zone/aW1hZ2UvMTU5MjI3LzczMDQ2Mi5wbmc=/original/eMHhKF.png",
+          "https://img.itch.zone/aW1hZ2UvMTU5MjI3LzczMDQ2NC5wbmc=/original/4aD68i.png",
+          "https://img.itch.zone/aW1hZ2UvMTU5MjI3LzczMDQ2My5wbmc=/original/ZbRlk5.png",
+          "https://img.itch.zone/aW1hZ2UvMTU5MjI3LzczMDQ2MS5wbmc=/original/6uc%2FQ5.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.8 out of 5 stars(8 total ratings)",
+          "Author": "David Styrbjörn",
+          "Genre": "Platformer",
+          "Made with": "Unity",
+          "Tags": "Game Jam, game_makers_tookit_gamejam, Gravity, Puzzle-Platformer"
+        }
+      }
+    },
+    {
+      "gameId": 159084,
+      "gameUrl": "https://getomega.itch.io/the-mirror-turtle",
+      "overallRank": 16,
+      "topCategories": [
+        "Overall"
+      ],
+      "resultData": {
+        "id": 159084,
+        "score": 4.35,
+        "cover_url": "https://img.itch.zone/aW1hZ2UvMTU5MDg0LzczMDA4Ny5naWY=/300x240%23c/lSDS9e.gif",
+        "raw_score": 4.35,
+        "rating_count": 8,
+        "criteria": [
+          {
+            "name": "Innovation",
+            "score": 4.375,
+            "raw_score": 4.375,
+            "rank": 26
+          },
+          {
+            "name": "Theme",
+            "score": 4.5,
+            "raw_score": 4.5,
+            "rank": 17
+          },
+          {
+            "name": "Aesthetics",
+            "score": 3.875,
+            "raw_score": 3.875,
+            "rank": 143
+          },
+          {
+            "name": "Feel",
+            "score": 4.5,
+            "raw_score": 4.5,
+            "rank": 17
+          },
+          {
+            "name": "Overall",
+            "score": 4.5,
+            "raw_score": 4.5,
+            "rank": 12
+          }
+        ],
+        "contributors": [
+          {
+            "name": "GetOmega",
+            "id": 659618
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-jam/rate/159084",
+        "rank": 16,
+        "title": "鏡亀 aka the mirror turtle"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://getomega.itch.io/the-mirror-turtle",
+          "title": "鏡亀 aka the mirror turtle",
+          "user": {
+            "name": "GetOmega",
+            "url": "https://getomega.itch.io",
+            "id": 659618
+          },
+          "id": 159084,
+          "short_text": "mini defensive shmup created for GMTK jam",
+          "cover": "https://img.itch.zone/aW1hZ2UvMTU5MDg0LzczMDA4Ny5naWY=/300x240%23c/lSDS9e.gif",
+          "cover_color": "#000000",
+          "gif_cover": "https://img.itch.zone/aW1hZ2UvMTU5MDg0LzczMDA4Ny5naWY=/original/qFZGXc.gif"
+        },
+        "rating_count": 8,
+        "id": 23452,
+        "created_at": "2017-07-16 16:38:03",
+        "coolness": 0,
+        "url": "/jam/gmtk-jam/rate/159084"
+      },
+      "details": {
+        "title": "鏡亀 aka the mirror turtle",
+        "description": "Move to dodge; stand still and use your shell to reflect bullets back at baddies.  Stand around too long though and you suffer from 'shell shock' heheh (I'll show myself out now). Experiment with different play styles and find what works for you!\nCurrent record is 1:54:50 by a1rport.https://imgur.com/a/AQJMNol\nIf you pretty much make it to the end of the song, consider yourself a winner and you're better than the dev. I was going to add a boss but 48 hours is tough!!!!!\nBlog time:All in all, I'm pretty satisfied with the result given that this is my first game jam. It's definitely a lot of work though. I'm drained and I've got a ton of work emails piled up as a result of only focusing on this for the whole weekend. If nothing else though, I finally finished a game lol.\nCredits:Made with GameMaker Studio 2.Libraries used: TweenGMS, exCameraMusic used: Superbyte by Azureflux [link]Sounds made with BfxrFonts Used: Arcadepix, PixelsplitterFemale Announcer Voice: ShirLee Akazawathe dark souls of download instructions",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTU5MDg0LzczMDA4Ny5naWY=/original/qFZGXc.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "GetOmega",
+          "Genre": "Action",
+          "Made with": "GameMaker",
+          "Tags": "GameMaker, Game Maker's Toolkit Jam",
+          "Average session": "A few seconds",
+          "Languages": "English, Japanese, Limburgish Limburgan Limburger",
+          "Inputs": "Keyboard",
+          "Accessibility": "Color-blind friendly, High-contrast"
+        }
+      }
+    }
+  ]
+}

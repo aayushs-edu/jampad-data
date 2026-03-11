@@ -1,0 +1,2930 @@
+{
+  "n": 67,
+  "name": "Lv. 99 Game Jam 2023",
+  "url": "https://itch.io/jam/lv-99-game-jam",
+  "theme": "Take a Deep Breath",
+  "slug": "lv-99-game-jam",
+  "jamMeta": {
+    "jamType": "ended",
+    "ratings": "7,626",
+    "entries": "317",
+    "title": "Lv. 99 Game Jam 2023",
+    "jamURL": "https://itch.io/jam/lv-99-game-jam",
+    "hosts": {
+      "NoSanQ": "https://nosanq.itch.io",
+      "Dan.Toh": "https://dantoh.itch.io",
+      "CandiceP99": "https://candicep99.itch.io",
+      "tabytabs": "https://tabytabs.itch.io",
+      "#lv99gamejam": "https://bsky.app/hashtag/lv99gamejam"
+    },
+    "jamID": "327954"
+  },
+  "totalEntries": 280,
+  "ranked": true,
+  "hasCategories": true,
+  "needsManualSelection": false,
+  "categories": [
+    "Theme (how well does the game fit the challenge theme?)",
+    "Gameplay (how good was the user experience, game design, narrative, etc?)",
+    "Implementation (rate the game's overall stability and functionality)",
+    "Presentation (rate its art, animations, sfx, music, and aesthetic appeal)",
+    "Creativity (how unique or innovative was this experience?)"
+  ],
+  "topGames": [
+    {
+      "gameId": 2016671,
+      "gameUrl": "https://wayfarergames.itch.io/breathe",
+      "overallRank": 29,
+      "topCategories": [
+        "Theme (how well does the game fit the challenge theme?)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzExODYyMzEzLmdpZg==/300x240%23c/bq%2FW5s.gif",
+        "contributors": [
+          {
+            "name": "theChief",
+            "id": 665869
+          }
+        ],
+        "id": 2016671,
+        "criteria": [
+          {
+            "name": "Theme (how well does the game fit the challenge theme?)",
+            "rank": 1,
+            "score": 3.8888888888889,
+            "raw_score": 3.8888888888889
+          },
+          {
+            "name": "Gameplay (how good was the user experience, game design, narrative, etc?)",
+            "rank": 95,
+            "score": 2.4444444444444,
+            "raw_score": 2.4444444444444
+          },
+          {
+            "name": "Implementation (rate the game's overall stability and functionality)",
+            "rank": 19,
+            "score": 3.3333333333333,
+            "raw_score": 3.3333333333333
+          },
+          {
+            "name": "Presentation (rate its art, animations, sfx, music, and aesthetic appeal)",
+            "rank": 85,
+            "score": 2.8518518518519,
+            "raw_score": 2.8518518518519
+          },
+          {
+            "name": "Creativity (how unique or innovative was this experience?)",
+            "rank": 42,
+            "score": 2.8333333333333,
+            "raw_score": 2.8333333333333
+          }
+        ],
+        "url": "https://itch.io/jam/lv-99-game-jam/rate/2016671",
+        "raw_score": 3.0703703703704,
+        "rating_count": 54,
+        "score": 3.0703703703704,
+        "title": "breathe: the competitive breathing simulator",
+        "rank": 29
+      },
+      "entryData": {
+        "coolness": 3,
+        "created_at": "2023-04-14 12:58:44",
+        "id": 403597,
+        "game": {
+          "gif_cover": "https://img.itch.zone/aW1nLzExODYyMzEzLmdpZg==/original/QJPYTU.gif",
+          "url": "https://wayfarergames.itch.io/breathe",
+          "short_text": "be the very best at breathing",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "theChief",
+            "url": "https://wayfarergames.itch.io",
+            "id": 665869
+          },
+          "title": "breathe: the competitive breathing simulator",
+          "id": 2016671,
+          "cover": "https://img.itch.zone/aW1nLzExODYyMzEzLmdpZg==/300x240%23c/bq%2FW5s.gif",
+          "cover_color": "#202938"
+        },
+        "url": "/jam/lv-99-game-jam/rate/2016671",
+        "rating_count": 54
+      },
+      "details": {
+        "title": "breathe: the competitive breathing simulator",
+        "description": "a competitive breathing simulator. \nare you the best at breathing? \nare you the most relaxed?\nno? \nwhy not? \nskill issue.\ncheck out the devlog for tips on how to optimise your breathing for high score, which should be your goal in real life too.\nmade for the lv.99 game jam\n\nuses:\nshapescomfortaadotween pro04 pollie soft by summonhuegong brilliant paiste 32\" by jenszygarvarious sounds from sonniss gdc 2023\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzExODYyMzEzLmdpZg==/original/QJPYTU.gif"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Release date": "Apr 13, 2023",
+          "Rating": "Rated 3.8 out of 5 stars(6 total ratings)",
+          "Author": "theChief",
+          "Made with": "Unity",
+          "Tags": "Casual, Minimalist, Short",
+          "Average session": "A few seconds",
+          "Inputs": "Keyboard",
+          "Accessibility": "Color-blind friendly, High-contrast, Interactive tutorial, One button"
+        }
+      }
+    },
+    {
+      "gameId": 2019073,
+      "gameUrl": "https://starboihooch.itch.io/lightheaded",
+      "overallRank": 10,
+      "topCategories": [
+        "Theme (how well does the game fit the challenge theme?)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzExOTYxNjUxLnBuZw==/300x240%23c/KmE5MH.png",
+        "contributors": [
+          {
+            "name": "StarboiHooch",
+            "id": 3700278
+          }
+        ],
+        "id": 2019073,
+        "criteria": [
+          {
+            "name": "Theme (how well does the game fit the challenge theme?)",
+            "rank": 3,
+            "score": 3.7446808510638,
+            "raw_score": 3.7446808510638
+          },
+          {
+            "name": "Gameplay (how good was the user experience, game design, narrative, etc?)",
+            "rank": 18,
+            "score": 3.1063829787234,
+            "raw_score": 3.1063829787234
+          },
+          {
+            "name": "Implementation (rate the game's overall stability and functionality)",
+            "rank": 13,
+            "score": 3.4255319148936,
+            "raw_score": 3.4255319148936
+          },
+          {
+            "name": "Presentation (rate its art, animations, sfx, music, and aesthetic appeal)",
+            "rank": 55,
+            "score": 3.0851063829787,
+            "raw_score": 3.0851063829787
+          },
+          {
+            "name": "Creativity (how unique or innovative was this experience?)",
+            "rank": 11,
+            "score": 3.2765957446809,
+            "raw_score": 3.2765957446809
+          }
+        ],
+        "url": "https://itch.io/jam/lv-99-game-jam/rate/2019073",
+        "raw_score": 3.3276595744681,
+        "rating_count": 47,
+        "score": 3.3276595744681,
+        "title": "Dylan the Lightheaded Dragon",
+        "rank": 10
+      },
+      "entryData": {
+        "coolness": 5,
+        "created_at": "2023-04-24 11:40:49",
+        "id": 406704,
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "StarboiHooch",
+            "url": "https://starboihooch.itch.io",
+            "id": 3700278
+          },
+          "url": "https://starboihooch.itch.io/lightheaded",
+          "title": "Dylan the Lightheaded Dragon",
+          "id": 2019073,
+          "cover": "https://img.itch.zone/aW1nLzExOTYxNjUxLnBuZw==/300x240%23c/KmE5MH.png",
+          "cover_color": "#39354d"
+        },
+        "url": "/jam/lv-99-game-jam/rate/2019073",
+        "rating_count": 47
+      },
+      "details": {
+        "title": "Dylan the Lightheaded Dragon",
+        "description": "",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAxOTA3My8xMTk2MjI1NS5wbmc=/original/tcXb9X.png",
+          "https://img.itch.zone/aW1hZ2UvMjAxOTA3My8xMTk2MjI1Ni5wbmc=/original/ZaB7jE.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.0 out of 5 stars(2 total ratings)",
+          "Author": "StarboiHooch",
+          "Genre": "Platformer",
+          "Made with": "Unity",
+          "Tags": "2D, Cute, Dragons, Hand-drawn, hard-platformer, Short, Singleplayer",
+          "Average session": "A few minutes"
+        }
+      }
+    },
+    {
+      "gameId": 2033212,
+      "gameUrl": "https://justiconce.itch.io/blowfish-hero",
+      "overallRank": 5,
+      "topCategories": [
+        "Theme (how well does the game fit the challenge theme?)",
+        "Gameplay (how good was the user experience, game design, narrative, etc?)",
+        "Implementation (rate the game's overall stability and functionality)",
+        "Creativity (how unique or innovative was this experience?)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzEyMDQzMTc0LnBuZw==/300x240%23c/JeHjia.png",
+        "contributors": [
+          {
+            "name": "justiconce",
+            "id": 7867482
+          },
+          {
+            "name": "doremi115",
+            "id": 7867483
+          }
+        ],
+        "id": 2033212,
+        "criteria": [
+          {
+            "name": "Theme (how well does the game fit the challenge theme?)",
+            "rank": 4,
+            "score": 3.6,
+            "raw_score": 3.6
+          },
+          {
+            "name": "Gameplay (how good was the user experience, game design, narrative, etc?)",
+            "rank": 4,
+            "score": 3.425,
+            "raw_score": 3.425
+          },
+          {
+            "name": "Implementation (rate the game's overall stability and functionality)",
+            "rank": 9,
+            "score": 3.5,
+            "raw_score": 3.5
+          },
+          {
+            "name": "Presentation (rate its art, animations, sfx, music, and aesthetic appeal)",
+            "rank": 38,
+            "score": 3.3,
+            "raw_score": 3.3
+          },
+          {
+            "name": "Creativity (how unique or innovative was this experience?)",
+            "rank": 7,
+            "score": 3.375,
+            "raw_score": 3.375
+          }
+        ],
+        "url": "https://itch.io/jam/lv-99-game-jam/rate/2033212",
+        "raw_score": 3.44,
+        "rating_count": 40,
+        "score": 3.44,
+        "title": "Blowfish Hero",
+        "rank": 5
+      },
+      "entryData": {
+        "coolness": 0,
+        "created_at": "2023-04-24 10:12:45",
+        "id": 406661,
+        "contributors": [
+          {
+            "name": "justiconce",
+            "url": "https://justiconce.itch.io"
+          },
+          {
+            "name": "doremi115",
+            "url": "https://doremi115.itch.io"
+          }
+        ],
+        "game": {
+          "title": "Blowfish Hero",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "justiconce",
+            "url": "https://justiconce.itch.io",
+            "id": 7867482
+          },
+          "url": "https://justiconce.itch.io/blowfish-hero",
+          "short_text": "Float, fly, and blow away enemies in this unique puzzle platformer!",
+          "id": 2033212,
+          "cover": "https://img.itch.zone/aW1nLzEyMDQzMTc0LnBuZw==/300x240%23c/JeHjia.png",
+          "cover_color": "#368f8b"
+        },
+        "url": "/jam/lv-99-game-jam/rate/2033212",
+        "rating_count": 40
+      },
+      "details": {
+        "title": "Blowfish Hero",
+        "description": "This game was made in ten days for the Lvl. 99 Game Jam with the theme of \"Take a Deep Breath\".\nPlay as Gale, the Blowfish Hero! Use his fantastical abilities to take deep breaths, float, propel himself through the air, and blow enemies away to overcome obstacles and solve puzzles! Explore a unique world in the ancient past with colorful and cute, sea-themed characters! Find the legendary Breathing Pearls, and bring the gift of Breath to your tribe and sister who yearn for a new home in a new land!\nControls:\nMOVE: A,D / Left Arrow Key, Right Arrow Key\nJUMP: W / Up Arrow Key / Space\nINFLATE / DEFLATE: Shift\nBLOW: Left Mouse Button\nPAUSE: Esc / Enter\n\nMade by Conjure Studios:\ndoremi115justiconce\n\nCredits:\nMusic credits:\n\"Getting it Done\" Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 4.0 License\nhttp://creativecommons.org/licenses/by/4.0/\n\n\"Blippy Trance\" Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 4.0 License\nhttp://creativecommons.org/licenses/by/4.0/\n\nMusic from #Uppbeat (free for Creators!):\nhttps://uppbeat.io/t/danijel-zambo/game-over\nLicense code: AKC2QTUSVGNRK3A5\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAzMzIxMi8xMTk1ODA2My5wbmc=/original/R8bUen.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMzIxMi8xMTk1ODA2Mi5wbmc=/original/YVffyI.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMzIxMi8xMTk2MDc5My5wbmc=/original/3XtwuC.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMzIxMi8xMTk1ODA2MC5wbmc=/original/XNi%2FtK.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMzIxMi8xMTk1ODA2MS5wbmc=/original/TUZfbA.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Authors": "justiconce, doremi115",
+          "Genre": "Platformer, Adventure, Puzzle",
+          "Made with": "Unity",
+          "Tags": "2D, Casual, Cute, Puzzle-Platformer, Short, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 2020567,
+      "gameUrl": "https://jefvel.itch.io/breathwaters",
+      "overallRank": 7,
+      "topCategories": [
+        "Theme (how well does the game fit the challenge theme?)",
+        "Gameplay (how good was the user experience, game design, narrative, etc?)",
+        "Creativity (how unique or innovative was this experience?)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzEyMDU0NDQzLnBuZw==/300x240%23c/MCvP93.png",
+        "contributors": [
+          {
+            "name": "jefvel",
+            "id": 251581
+          }
+        ],
+        "id": 2020567,
+        "criteria": [
+          {
+            "name": "Theme (how well does the game fit the challenge theme?)",
+            "rank": 5,
+            "score": 3.5882352941176,
+            "raw_score": 3.5882352941176
+          },
+          {
+            "name": "Gameplay (how good was the user experience, game design, narrative, etc?)",
+            "rank": 9,
+            "score": 3.2647058823529,
+            "raw_score": 3.2647058823529
+          },
+          {
+            "name": "Implementation (rate the game's overall stability and functionality)",
+            "rank": 15,
+            "score": 3.4117647058824,
+            "raw_score": 3.4117647058824
+          },
+          {
+            "name": "Presentation (rate its art, animations, sfx, music, and aesthetic appeal)",
+            "rank": 36,
+            "score": 3.3235294117647,
+            "raw_score": 3.3235294117647
+          },
+          {
+            "name": "Creativity (how unique or innovative was this experience?)",
+            "rank": 6,
+            "score": 3.3823529411765,
+            "raw_score": 3.3823529411765
+          }
+        ],
+        "url": "https://itch.io/jam/lv-99-game-jam/rate/2020567",
+        "raw_score": 3.3941176470588,
+        "rating_count": 34,
+        "score": 3.3941176470588,
+        "title": "BREATHWATERS",
+        "rank": 7
+      },
+      "entryData": {
+        "coolness": 101,
+        "created_at": "2023-04-24 01:09:23",
+        "id": 406539,
+        "game": {
+          "title": "BREATHWATERS",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "jefvel",
+            "url": "https://jefvel.itch.io",
+            "id": 251581
+          },
+          "url": "https://jefvel.itch.io/breathwaters",
+          "short_text": "Swimming in a endless sea, breathing in the surroundings",
+          "id": 2020567,
+          "cover": "https://img.itch.zone/aW1nLzEyMDU0NDQzLnBuZw==/300x240%23c/MCvP93.png",
+          "cover_color": "#181012"
+        },
+        "url": "/jam/lv-99-game-jam/rate/2020567",
+        "rating_count": 34
+      },
+      "details": {
+        "title": "BREATHWATERS",
+        "description": "\nDownloading the Windows version is really recommended.\n\nWeb build does not work on MacOS, sorry!\n\n\nA little rhythm game where you breathe in and hold your breath. How far can you get, or are you even able to defeat the game? Good luck!\n\n\nCONTROLS\n\nWASD/ARROW KEYS/Controller stick → Move\nSPACE/Z/Mouse/Controller A → Hold to inhale, release and tap to the pattern\n\n\n\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAyMDU2Ny8xMTk1MzM5MS5wbmc=/original/5erOCc.png",
+          "https://img.itch.zone/aW1hZ2UvMjAyMDU2Ny8xMTk1MzM4OS5wbmc=/original/A4JO%2Bl.png",
+          "https://img.itch.zone/aW1hZ2UvMjAyMDU2Ny8xMTk1MzM5OC5wbmc=/original/1t%2BBWQ.png",
+          "https://img.itch.zone/aW1hZ2UvMjAyMDU2Ny8xMTk1MzM4NS5wbmc=/original/%2B3nY5n.png",
+          "https://img.itch.zone/aW1hZ2UvMjAyMDU2Ny8xMTk3NDc5MC5wbmc=/original/OOvbIy.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "jefvel",
+          "Genre": "Rhythm",
+          "Made with": "Godot",
+          "Average session": "A few minutes",
+          "Inputs": "Keyboard, Mouse, Xbox controller"
+        }
+      }
+    },
+    {
+      "gameId": 2020898,
+      "gameUrl": "https://duckofwood.itch.io/apnea",
+      "overallRank": 41,
+      "topCategories": [
+        "Theme (how well does the game fit the challenge theme?)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzEyMDE4MDMyLnBuZw==/300x240%23c/0ohUph.png",
+        "contributors": [
+          {
+            "name": "Duck Made Of Wood",
+            "id": 7532338
+          }
+        ],
+        "id": 2020898,
+        "criteria": [
+          {
+            "name": "Theme (how well does the game fit the challenge theme?)",
+            "rank": 6,
+            "score": 3.5454545454545,
+            "raw_score": 3.5454545454545
+          },
+          {
+            "name": "Gameplay (how good was the user experience, game design, narrative, etc?)",
+            "rank": 40,
+            "score": 2.7878787878788,
+            "raw_score": 2.7878787878788
+          },
+          {
+            "name": "Implementation (rate the game's overall stability and functionality)",
+            "rank": 76,
+            "score": 2.9090909090909,
+            "raw_score": 2.9090909090909
+          },
+          {
+            "name": "Presentation (rate its art, animations, sfx, music, and aesthetic appeal)",
+            "rank": 97,
+            "score": 2.6969696969697,
+            "raw_score": 2.6969696969697
+          },
+          {
+            "name": "Creativity (how unique or innovative was this experience?)",
+            "rank": 63,
+            "score": 2.7272727272727,
+            "raw_score": 2.7272727272727
+          }
+        ],
+        "url": "https://itch.io/jam/lv-99-game-jam/rate/2020898",
+        "raw_score": 2.9333333333333,
+        "rating_count": 33,
+        "score": 2.9333333333333,
+        "title": "Apnea",
+        "rank": 41
+      },
+      "entryData": {
+        "coolness": 91,
+        "created_at": "2023-04-23 20:16:52",
+        "id": 406442,
+        "game": {
+          "title": "Apnea",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "Duck Made Of Wood",
+            "url": "https://duckofwood.itch.io",
+            "id": 7532338
+          },
+          "url": "https://duckofwood.itch.io/apnea",
+          "short_text": "Adventure puzzle platform - 41st place at Lv. 99 Game Jam 2023",
+          "id": 2020898,
+          "cover": "https://img.itch.zone/aW1nLzEyMDE4MDMyLnBuZw==/300x240%23c/0ohUph.png",
+          "cover_color": "#0078bf"
+        },
+        "url": "/jam/lv-99-game-jam/rate/2020898",
+        "rating_count": 33
+      },
+      "details": {
+        "title": "Apnea",
+        "description": "Apnea is a mysterious world that lies deep under the water of the ocean blue. A maze of shadowed caves and submerged tunnels, patrolled by powerful enemies. No one has ever dared these dangers ... until now. \nTake control of Mini, a brave diver with powerful lungs. He can inflate to fly high above obstacles or preserve breath to dive into the darkest depths. But you will need all your cunning to find your way through each level. \nCan you find your way through all the 15 levels and find the lost treasure of Apnea?\nApnea is a platform adventure with unique mechanics that will challenge all your powers and require every object at your disposal. To overcome the obstacles in Apnea, use your creativity - experiment with different strategies - and have fun!\nControls Note: If you play the browser version be aware that Ctrl + W or Ctrl + S are shortcuts used by the browser. It is recommended to use one of the Shift keys instead of the Ctrl keys to avoid pressing those combination by mistake while playing. \nBackground original asset \"Warped Caves\" from: https://ansimuz.com/site/\nMusic \"StreetLove\": https://assetstore.unity.com/packages/audio/music/free-music-tracks-for-games-15... \n\n ",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAyMDg5OC8xMTkzMDI4OS5qcGc=/original/m3pz0E.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjAyMDg5OC8xMTkzMDI5MC5qcGc=/original/%2FrMc9k.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjAyMDg5OC8xMTkzMDI5Mi5qcGc=/original/IXk2EL.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjAyMDg5OC8xMTkzMDI5MS5qcGc=/original/xGjWtK.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjAyMDg5OC8xMTkzMDI5My5qcGc=/original/SMsLiH.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Duck Made Of Wood",
+          "Genre": "Platformer, Adventure",
+          "Made with": "Unity",
+          "Tags": "2D, Cute, Exploration, Funny, Pixel Art, platform-web, Puzzle-Platformer, underwater",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": 2030692,
+      "gameUrl": "https://havana24.itch.io/puffinick",
+      "overallRank": 24,
+      "topCategories": [
+        "Theme (how well does the game fit the challenge theme?)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzExOTQzMjAzLmdpZg==/300x240%23c/pgvbyn.gif",
+        "contributors": [
+          {
+            "name": "havana24",
+            "id": 8232
+          }
+        ],
+        "id": 2030692,
+        "criteria": [
+          {
+            "name": "Theme (how well does the game fit the challenge theme?)",
+            "rank": 7,
+            "score": 3.5405405405405,
+            "raw_score": 3.5405405405405
+          },
+          {
+            "name": "Gameplay (how good was the user experience, game design, narrative, etc?)",
+            "rank": 35,
+            "score": 2.8378378378378,
+            "raw_score": 2.8378378378378
+          },
+          {
+            "name": "Implementation (rate the game's overall stability and functionality)",
+            "rank": 29,
+            "score": 3.1891891891892,
+            "raw_score": 3.1891891891892
+          },
+          {
+            "name": "Presentation (rate its art, animations, sfx, music, and aesthetic appeal)",
+            "rank": 61,
+            "score": 3.027027027027,
+            "raw_score": 3.027027027027
+          },
+          {
+            "name": "Creativity (how unique or innovative was this experience?)",
+            "rank": 32,
+            "score": 2.9459459459459,
+            "raw_score": 2.9459459459459
+          }
+        ],
+        "url": "https://itch.io/jam/lv-99-game-jam/rate/2030692",
+        "raw_score": 3.1081081081081,
+        "rating_count": 37,
+        "score": 3.1081081081081,
+        "title": "Puffinick",
+        "rank": 24
+      },
+      "entryData": {
+        "coolness": 6,
+        "created_at": "2023-04-23 04:43:34",
+        "id": 406029,
+        "game": {
+          "gif_cover": "https://img.itch.zone/aW1nLzExOTQzMjAzLmdpZg==/original/GPNuib.gif",
+          "url": "https://havana24.itch.io/puffinick",
+          "short_text": "A wingless story about bullies, disabilities and self acceptance.",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "havana24",
+            "url": "https://havana24.itch.io",
+            "id": 8232
+          },
+          "title": "Puffinick",
+          "id": 2030692,
+          "cover": "https://img.itch.zone/aW1nLzExOTQzMjAzLmdpZg==/300x240%23c/pgvbyn.gif",
+          "cover_color": "#eeeeee"
+        },
+        "url": "/jam/lv-99-game-jam/rate/2030692",
+        "rating_count": 37
+      },
+      "details": {
+        "title": "Puffinick",
+        "description": "Puffinick - a wingless story is a puzzle-platformer game where you control a little bird called Puffinick which is unfortunately born without wings. Help him reach the peak of the mountain by taking a deep breath and use it as a jetpack. Swallow different objects and spit them in order to solve puzzles along the way! It's a story about bullies, disabilities and self acceptance.\nGame made in 10 days for a game jam with the theme \"Take a deep breath\". Follow me on twitter if you like my game @hav24  \n\nControls\n[ You need a mouse and keyboard to play this game ] - WASD to move and jump (or Arrow keys) - Right mouse click and hold to take a breath. - Aim at the bottom of your chatracter and Left mouse click to exhale and fly. - \"R\" to reset. \n\nCredits\nGame made by Alessandro Pezzetti aka havana24 (solo developer). All assets were made by me. 8bit sound effects made with Bfxr and Freesound. Background music by Playonloop.com. Game made with Godot.\n\nA game made by havana24.net Twitter @hav24  \n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAzMDY5Mi8xMTk0MzI1OC5wbmc=/original/bXk8CL.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMDY5Mi8xMTk0MzI1OS5wbmc=/original/MSlfUW.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMDY5Mi8xMTk0MzI2MC5wbmc=/original/xtilRF.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "havana24",
+          "Genre": "Adventure",
+          "Tags": "Puzzle-Platformer, storygame"
+        }
+      }
+    },
+    {
+      "gameId": 2032593,
+      "gameUrl": "https://rubic.itch.io/starwind-shrine",
+      "overallRank": 8,
+      "topCategories": [
+        "Theme (how well does the game fit the challenge theme?)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzExOTc5MjQxLnBuZw==/300x240%23c/3W8wFx.png",
+        "contributors": [
+          {
+            "name": "rubic",
+            "id": 333577
+          },
+          {
+            "name": "keestak",
+            "id": 2195880
+          },
+          {
+            "name": "Kavol",
+            "id": 6502510
+          },
+          {
+            "name": "Camelot",
+            "id": 2996679
+          },
+          {
+            "name": "ShyCryptid",
+            "id": 397019
+          }
+        ],
+        "id": 2032593,
+        "criteria": [
+          {
+            "name": "Theme (how well does the game fit the challenge theme?)",
+            "rank": 8,
+            "score": 3.5365853658537,
+            "raw_score": 3.5365853658537
+          },
+          {
+            "name": "Gameplay (how good was the user experience, game design, narrative, etc?)",
+            "rank": 26,
+            "score": 2.9756097560976,
+            "raw_score": 2.9756097560976
+          },
+          {
+            "name": "Implementation (rate the game's overall stability and functionality)",
+            "rank": 16,
+            "score": 3.390243902439,
+            "raw_score": 3.390243902439
+          },
+          {
+            "name": "Presentation (rate its art, animations, sfx, music, and aesthetic appeal)",
+            "rank": 13,
+            "score": 3.609756097561,
+            "raw_score": 3.609756097561
+          },
+          {
+            "name": "Creativity (how unique or innovative was this experience?)",
+            "rank": 17,
+            "score": 3.1707317073171,
+            "raw_score": 3.1707317073171
+          }
+        ],
+        "url": "https://itch.io/jam/lv-99-game-jam/rate/2032593",
+        "raw_score": 3.3365853658537,
+        "rating_count": 41,
+        "score": 3.3365853658537,
+        "title": "Starwind Shrine",
+        "rank": 8
+      },
+      "entryData": {
+        "coolness": 12,
+        "created_at": "2023-04-24 12:28:03",
+        "id": 406730,
+        "contributors": [
+          {
+            "name": "rubic",
+            "url": "https://rubic.itch.io"
+          },
+          {
+            "name": "keestak",
+            "url": "https://keestak.itch.io"
+          },
+          {
+            "name": "Kavol",
+            "url": "https://kavol.itch.io"
+          },
+          {
+            "name": "Camelot",
+            "url": "https://cameracore.itch.io"
+          },
+          {
+            "name": "ShyCryptid",
+            "url": "https://shycryptid.itch.io"
+          }
+        ],
+        "game": {
+          "title": "Starwind Shrine",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "rubic",
+            "url": "https://rubic.itch.io",
+            "id": 333577
+          },
+          "url": "https://rubic.itch.io/starwind-shrine",
+          "short_text": "A short puzzle game about blowing wind and fire.",
+          "id": 2032593,
+          "cover": "https://img.itch.zone/aW1nLzExOTc5MjQxLnBuZw==/300x240%23c/3W8wFx.png",
+          "cover_color": "#161944"
+        },
+        "url": "/jam/lv-99-game-jam/rate/2032593",
+        "rating_count": 41
+      },
+      "details": {
+        "title": "Starwind Shrine",
+        "description": "CONTROLS\nEscape\nPause\nWASD or Arrow Keys\nMove\nSpace\nPress to jumpLeft MouseBreathe (and try holding it!)\nBreathing allows you to push and pull objects in the world. You may even find it useful to hold your breath as long as possible!\nSTARWIND SHRINE\nStarwind Shrine is a short and calm puzzle game about exploring a shrine.\nYou awaken at the door of a long-abandoned shrine. It seems vaguely familiar. You are Melanie, the ephemeral keeper of Starwind Shrine.Do you remember this place? Find a path through the grounds and light torches along the way!\nStarwind Shrine is a physics-based puzzle game with a few clever tricks up its sleeve. It was submitted to the Level 99 Jam under the theme \"Take a deep breath.\" It leans into the theme by allowing the player to use strong gusts of wind to push and pull pieces of the puzzle together as they traverse the shrine.\nTHE TEAM\nrubic (@paradoxrevolver) — Team Lead, Creative Director, Programmer\nShyCryptid (@CryptidShy) — 3D Character Artist, 3D Animator\nkeestak (@keestak) — Music, Sound FX, Visual FX, Programmer\nCamelot (@CameraCore) — Graphics Artist, UI Artist, Character Designer, Level Designer\nKavol (@RotaryCobra) — 3D Environment Artist, Texture Artist",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAzMjU5My8xMTk1NzQyNy5naWY=/original/8xUWju.gif",
+          "https://img.itch.zone/aW1hZ2UvMjAzMjU5My8xMTk1NzQzMS5naWY=/original/N3G95t.gif",
+          "https://img.itch.zone/aW1hZ2UvMjAzMjU5My8xMTk1NzQyNi5naWY=/original/srWto7.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.7 out of 5 stars(51 total ratings)",
+          "Authors": "rubic, keestak, Kavol, Camelot, ShyCryptid",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "Furry, Isometric, Low-poly, Physics, Short, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 2032837,
+      "gameUrl": "https://murzy.itch.io/breath-of-fury",
+      "overallRank": 4,
+      "topCategories": [
+        "Theme (how well does the game fit the challenge theme?)",
+        "Gameplay (how good was the user experience, game design, narrative, etc?)",
+        "Implementation (rate the game's overall stability and functionality)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzExOTU4NzU5LnBuZw==/300x240%23c/VJ4J6W.png",
+        "contributors": [
+          {
+            "name": "murzy",
+            "id": 3670193
+          },
+          {
+            "name": "Samppamon",
+            "id": 1567336
+          },
+          {
+            "name": "swonqi",
+            "id": 331965
+          }
+        ],
+        "id": 2032837,
+        "criteria": [
+          {
+            "name": "Theme (how well does the game fit the challenge theme?)",
+            "rank": 9,
+            "score": 3.5116279069767,
+            "raw_score": 3.5116279069767
+          },
+          {
+            "name": "Gameplay (how good was the user experience, game design, narrative, etc?)",
+            "rank": 6,
+            "score": 3.2790697674419,
+            "raw_score": 3.2790697674419
+          },
+          {
+            "name": "Implementation (rate the game's overall stability and functionality)",
+            "rank": 2,
+            "score": 3.7209302325581,
+            "raw_score": 3.7209302325581
+          },
+          {
+            "name": "Presentation (rate its art, animations, sfx, music, and aesthetic appeal)",
+            "rank": 12,
+            "score": 3.6511627906977,
+            "raw_score": 3.6511627906977
+          },
+          {
+            "name": "Creativity (how unique or innovative was this experience?)",
+            "rank": 22,
+            "score": 3.0697674418605,
+            "raw_score": 3.0697674418605
+          }
+        ],
+        "url": "https://itch.io/jam/lv-99-game-jam/rate/2032837",
+        "raw_score": 3.446511627907,
+        "rating_count": 43,
+        "score": 3.446511627907,
+        "title": "Breath of Fury",
+        "rank": 4
+      },
+      "entryData": {
+        "coolness": 15,
+        "created_at": "2023-04-24 13:26:31",
+        "id": 406769,
+        "contributors": [
+          {
+            "name": "murzy",
+            "url": "https://murzy.itch.io"
+          },
+          {
+            "name": "Samppamon",
+            "url": "https://samppamon.itch.io"
+          },
+          {
+            "name": "swonqi",
+            "url": "https://swonqi.itch.io"
+          }
+        ],
+        "game": {
+          "title": "Breath of Fury",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "murzy",
+            "url": "https://murzy.itch.io",
+            "id": 3670193
+          },
+          "url": "https://murzy.itch.io/breath-of-fury",
+          "short_text": "Strategy-based brawler game made for LV.99 Gamejam",
+          "id": 2032837,
+          "cover": "https://img.itch.zone/aW1nLzExOTU4NzU5LnBuZw==/300x240%23c/VJ4J6W.png",
+          "cover_color": "#14413f"
+        },
+        "url": "/jam/lv-99-game-jam/rate/2032837",
+        "rating_count": 43
+      },
+      "details": {
+        "title": "Breath of Fury",
+        "description": "\nHarness your inner strength and defend the sacred monastery against all odds!\nFight waves of enemies in a turn-based combat game where the key to victory lies in playing the right combo pieces. Use your breath to unleash devastating attacks, focus to strike enemies in multiple directions,  rage to power up your punches, and more...\nMaster the art of timing and positioning to make the most out of your combo pieces, and develop a winning strategy. After every victory, head to the shop to purchase potions to heal yourself or new skills to add to your repertoire. Choose wisely, as each skill has its own strengths and weaknesses and can either make or break your chances of success in the next battle.\nWill you be able to withstand the relentless onslaught of your foes and come out on top?\n\nControls\nMain input: Mouse (on-screen buttons)\nKeyboard controls for player movement:\nLeft arrow / A - Move leftRight arrow / D - Move rightTab - Change facing direction\n\nHow to run the game?\nYou can either play the HTML5 version on top of this page, or download the Windows executable (recommended). \nTo run the standalone version, download, unzip, and run the \"Breath of Fury.exe\".\n\nOther\nThis game was made for the LV.99 game jam in 10 days.\n\nTeam members\nTeam Third Spirit\n@murzy@swonqi@Samppamon\n\nPS. If you want to see more from this team, check out our full game Arietta of SpiritsTo run the standalone version, download, unzip, and run the \"Breath of Fury.exe\".",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAzMjgzNy8xMTk1OTIzNC5naWY=/original/6zJqsL.gif",
+          "https://img.itch.zone/aW1hZ2UvMjAzMjgzNy8xMTk1NTY1Mi5wbmc=/original/MasNI9.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMjgzNy8xMTk1NTY1My5wbmc=/original/PeBRxp.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMjgzNy8xMTk1NTY1NC5wbmc=/original/P4nLeb.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMjgzNy8xMTk1NTY1NS5wbmc=/original/hgRD2t.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMjgzNy8xMTk1ODc3OC5wbmc=/original/q9aAyW.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(3 total ratings)",
+          "Authors": "murzy, Samppamon, swonqi",
+          "Genre": "Strategy, Card Game, Puzzle",
+          "Made with": "GameMaker",
+          "Tags": "card, lv99jam, Pixel Art, Turn-based, Turn-Based Combat",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 2031971,
+      "gameUrl": "https://bulbandrei.itch.io/left-out",
+      "overallRank": 3,
+      "topCategories": [
+        "Theme (how well does the game fit the challenge theme?)",
+        "Gameplay (how good was the user experience, game design, narrative, etc?)",
+        "Implementation (rate the game's overall stability and functionality)",
+        "Presentation (rate its art, animations, sfx, music, and aesthetic appeal)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzExOTQ5NTYzLnBuZw==/300x240%23c/kLKy15.png",
+        "contributors": [
+          {
+            "name": "bulbandrei",
+            "id": 1332233
+          },
+          {
+            "name": "chimbicator",
+            "id": 2754895
+          },
+          {
+            "name": "Leemonada",
+            "id": 7839420
+          },
+          {
+            "name": "Edevjogos",
+            "id": 822779
+          }
+        ],
+        "id": 2031971,
+        "criteria": [
+          {
+            "name": "Theme (how well does the game fit the challenge theme?)",
+            "rank": 10,
+            "score": 3.4646743359179,
+            "raw_score": 3.9285714285714
+          },
+          {
+            "name": "Gameplay (how good was the user experience, game design, narrative, etc?)",
+            "rank": 2,
+            "score": 3.5906624935877,
+            "raw_score": 4.0714285714286
+          },
+          {
+            "name": "Implementation (rate the game's overall stability and functionality)",
+            "rank": 3,
+            "score": 3.6536565724225,
+            "raw_score": 4.1428571428571
+          },
+          {
+            "name": "Presentation (rate its art, animations, sfx, music, and aesthetic appeal)",
+            "rank": 7,
+            "score": 3.7796447300923,
+            "raw_score": 4.2857142857143
+          },
+          {
+            "name": "Creativity (how unique or innovative was this experience?)",
+            "rank": 21,
+            "score": 3.0867098629087,
+            "raw_score": 3.5
+          }
+        ],
+        "url": "https://itch.io/jam/lv-99-game-jam/rate/2031971",
+        "raw_score": 3.9857142857143,
+        "rating_count": 14,
+        "score": 3.5150695989858,
+        "title": "Left Out",
+        "rank": 3
+      },
+      "entryData": {
+        "coolness": 38,
+        "created_at": "2023-04-23 19:03:45",
+        "id": 406404,
+        "contributors": [
+          {
+            "name": "bulbandrei",
+            "url": "https://bulbandrei.itch.io"
+          },
+          {
+            "name": "chimbicator",
+            "url": "https://chimbicator.itch.io"
+          },
+          {
+            "name": "Leemonada",
+            "url": "https://leemonada.itch.io"
+          },
+          {
+            "name": "Edevjogos",
+            "url": "https://edevjogos.itch.io"
+          }
+        ],
+        "game": {
+          "title": "Left Out",
+          "platforms": [
+            "windows"
+          ],
+          "user": {
+            "name": "bulbandrei",
+            "url": "https://bulbandrei.itch.io",
+            "id": 1332233
+          },
+          "url": "https://bulbandrei.itch.io/left-out",
+          "short_text": "Find a way out of a crumbling ship infested with unknown life forms that have a taste for human flesh.",
+          "id": 2031971,
+          "cover": "https://img.itch.zone/aW1nLzExOTQ5NTYzLnBuZw==/300x240%23c/kLKy15.png",
+          "cover_color": "#000000"
+        },
+        "url": "/jam/lv-99-game-jam/rate/2031971",
+        "rating_count": 14
+      },
+      "details": {
+        "title": "Left Out",
+        "description": "W-W-Where is everyone?\nI'm hearing screams on the other side of the door...\nI must escape this place!\nPlay as the last survivor of an abandoned spaceship drifting in space.\nStay calm and find your way out of the ship infested with unknown life forms.\n\n-- Keyboard Commands --\n\nMove - WASD\n\nAim - Mouse\nFlashLight - R Click\n\nInteract - F\n\nCalm down - Space\n\nView current objective - Tab\n--------------------------------------\nTeam members:\n@bulbandrei\n@EdevJogos\n@Leemonada\n@chimbicator\nMade for Lv. 99 Game Jam 2023.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAzMTk3MS8xMTk1MDAxNC5wbmc=/original/J4NiRE.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMTk3MS8xMTk1MDAxMi5wbmc=/original/3WtOet.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMTk3MS8xMTk1MDAxNS5wbmc=/original/1e9VT1.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMTk3MS8xMTk1MDAxMy5wbmc=/original/tJmuxx.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMTk3MS8xMTk1MDAxNi5wbmc=/original/42lAkm.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMTk3MS8xMTk1MDAxNy5wbmc=/original/Yj4Fm0.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Authors": "bulbandrei, chimbicator, Leemonada, Edevjogos",
+          "Genre": "Adventure, Survival",
+          "Tags": "2D, Atmospheric, Cute, Mystery, Sci-fi, Singleplayer, Space, Spooky, Survival Horror"
+        }
+      }
+    },
+    {
+      "gameId": 2033730,
+      "gameUrl": "https://qer24.itch.io/crystal-horizon",
+      "overallRank": 1,
+      "topCategories": [
+        "Gameplay (how good was the user experience, game design, narrative, etc?)",
+        "Implementation (rate the game's overall stability and functionality)",
+        "Presentation (rate its art, animations, sfx, music, and aesthetic appeal)",
+        "Creativity (how unique or innovative was this experience?)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzEyOTQ5ODczLnBuZw==/300x240%23c/yA9j0D.png",
+        "contributors": [
+          {
+            "name": "Arcy",
+            "id": 1723673
+          },
+          {
+            "name": "Jett Mance || SlowBro",
+            "id": 3919305
+          },
+          {
+            "name": "Yoyoyollie",
+            "id": 4702954
+          }
+        ],
+        "id": 2033730,
+        "criteria": [
+          {
+            "name": "Theme (how well does the game fit the challenge theme?)",
+            "rank": 31,
+            "score": 3.2083333333333,
+            "raw_score": 3.2083333333333
+          },
+          {
+            "name": "Gameplay (how good was the user experience, game design, narrative, etc?)",
+            "rank": 1,
+            "score": 4,
+            "raw_score": 4
+          },
+          {
+            "name": "Implementation (rate the game's overall stability and functionality)",
+            "rank": 1,
+            "score": 4.1666666666667,
+            "raw_score": 4.1666666666667
+          },
+          {
+            "name": "Presentation (rate its art, animations, sfx, music, and aesthetic appeal)",
+            "rank": 1,
+            "score": 4.4166666666667,
+            "raw_score": 4.4166666666667
+          },
+          {
+            "name": "Creativity (how unique or innovative was this experience?)",
+            "rank": 1,
+            "score": 4,
+            "raw_score": 4
+          }
+        ],
+        "url": "https://itch.io/jam/lv-99-game-jam/rate/2033730",
+        "raw_score": 3.9583333333333,
+        "rating_count": 24,
+        "score": 3.9583333333333,
+        "title": "Crystal Horizon",
+        "rank": 1
+      },
+      "entryData": {
+        "coolness": 9,
+        "created_at": "2023-04-24 15:56:30",
+        "id": 406931,
+        "contributors": [
+          {
+            "name": "Arcy",
+            "url": "https://qer24.itch.io"
+          },
+          {
+            "name": "Jett Mance || SlowBro",
+            "url": "https://slowbro22.itch.io"
+          },
+          {
+            "name": "Yoyoyollie",
+            "url": "https://yoyoyollie.itch.io"
+          }
+        ],
+        "game": {
+          "title": "Crystal Horizon",
+          "platforms": [
+            "windows"
+          ],
+          "user": {
+            "name": "Arcy",
+            "url": "https://qer24.itch.io",
+            "id": 1723673
+          },
+          "url": "https://qer24.itch.io/crystal-horizon",
+          "short_text": "High-speed adventure amidst the clouds of a distant planet",
+          "id": 2033730,
+          "cover": "https://img.itch.zone/aW1nLzEyOTQ5ODczLnBuZw==/300x240%23c/yA9j0D.png",
+          "cover_color": "#eeeeee"
+        },
+        "url": "/jam/lv-99-game-jam/rate/2033730",
+        "rating_count": 24
+      },
+      "details": {
+        "title": "Crystal Horizon",
+        "description": "Game made in 8 days for Lv. 99 Game Jam 2023! Couldn't build to webgl because we're using FMOD.\n\nYou will navigate a treacherous gas giant planet, leaping across expansive chasms and dashing through high-speed obstacles with lightning-fast reflexes. Armed with a powerful bow and an unbreakable will, you must face off against deadly robotic enemies that seek to put an end to your journey. And with the added pressure of limited oxygen reserves, every move must be calculated and precise in order to survive.\nBe sure to post your scores in the comments, top scores will be put here:\n\nBEGINNING3.30 by RedlineARCHWAY5.43 by Redline-ARENAS8.57 by RedlineSPIRAL5.20 by RedlineROCKET JUMP9.32 by Redline-\nLevels 3 and 7 are unavailable in the jam version due to a bug.\n\nControls:\nWASD - movement\nSpace - jump\nLeft Mouse (click) - shoot shotgun\nLeft Mouse (hold) - shoot charged bow shot\nRight Mouse - melee\nC/Control - slide\n\nCredits:\n\nArcy - Lead programmer, Sound design & Game design\n\nYollie - Programmer, Main artist & Game design\n\nSlowBro - Music\nPowered with FMOD Studio by Firelight Technologies Pty Ltd.\n\nAdditional Assets used: FlatKit, QuickOutline",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAzMzczMC8xMTk2NTYxMi5wbmc=/original/UdX077.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMzczMC8xMTk2NTYxNS5qcGc=/original/t7YI7i.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjAzMzczMC8xMTk2NTYxMy5wbmc=/original/f%2F%2BUmZ.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMzczMC8xMTk2NTY5NC5naWY=/original/Yydw8t.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Authors": "Arcy, Jett Mance || SlowBro, Yoyoyollie",
+          "Genre": "Shooter",
+          "Tags": "3D, 3D Platformer, Fast-Paced, flat-shading, Short, Simple, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 2027275,
+      "gameUrl": "https://miikka.itch.io/bunny99",
+      "overallRank": 16,
+      "topCategories": [
+        "Gameplay (how good was the user experience, game design, narrative, etc?)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzEyMTcyODU0LnBuZw==/300x240%23c/TJQ%2BOx.png",
+        "contributors": [
+          {
+            "name": "Miikka",
+            "id": 339291
+          },
+          {
+            "name": "kirikoodaa",
+            "id": 448244
+          },
+          {
+            "name": "NerdEnthusiast",
+            "id": 7927477
+          },
+          {
+            "name": "ClockMaker",
+            "id": 1618838
+          }
+        ],
+        "id": 2027275,
+        "criteria": [
+          {
+            "name": "Theme (how well does the game fit the challenge theme?)",
+            "rank": 39,
+            "score": 3.1219512195122,
+            "raw_score": 3.1219512195122
+          },
+          {
+            "name": "Gameplay (how good was the user experience, game design, narrative, etc?)",
+            "rank": 7,
+            "score": 3.2682926829268,
+            "raw_score": 3.2682926829268
+          },
+          {
+            "name": "Implementation (rate the game's overall stability and functionality)",
+            "rank": 16,
+            "score": 3.390243902439,
+            "raw_score": 3.390243902439
+          },
+          {
+            "name": "Presentation (rate its art, animations, sfx, music, and aesthetic appeal)",
+            "rank": 27,
+            "score": 3.390243902439,
+            "raw_score": 3.390243902439
+          },
+          {
+            "name": "Creativity (how unique or innovative was this experience?)",
+            "rank": 40,
+            "score": 2.8536585365854,
+            "raw_score": 2.8536585365854
+          }
+        ],
+        "url": "https://itch.io/jam/lv-99-game-jam/rate/2027275",
+        "raw_score": 3.2048780487805,
+        "rating_count": 41,
+        "score": 3.2048780487805,
+        "title": "Bunny99",
+        "rank": 16
+      },
+      "entryData": {
+        "coolness": 207,
+        "created_at": "2023-04-24 04:16:58",
+        "id": 406582,
+        "contributors": [
+          {
+            "name": "Miikka",
+            "url": "https://miikka.itch.io"
+          },
+          {
+            "name": "kirikoodaa",
+            "url": "https://kirikoodaa.itch.io"
+          },
+          {
+            "name": "NerdEnthusiast",
+            "url": "https://nerdenthusiast.itch.io"
+          },
+          {
+            "name": "ClockMaker",
+            "url": "https://clockmaker.itch.io"
+          }
+        ],
+        "game": {
+          "title": "Bunny99",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Miikka",
+            "url": "https://miikka.itch.io",
+            "id": 339291
+          },
+          "url": "https://miikka.itch.io/bunny99",
+          "short_text": "Breathe deeply and slow down time to overcome impossible odds in this epic bunny vs machine showdown",
+          "id": 2027275,
+          "cover": "https://img.itch.zone/aW1nLzEyMTcyODU0LnBuZw==/300x240%23c/TJQ%2BOx.png",
+          "cover_color": "#000000"
+        },
+        "url": "/jam/lv-99-game-jam/rate/2027275",
+        "rating_count": 41
+      },
+      "details": {
+        "title": "Bunny99",
+        "description": "Controls: WASD/Arrows + Mouse\nMade at Lv99Jam 2023\n\nDesign & Programming : Mauno Miikka Harjuntausta\nArt : Kiri Kälkäjä\nMusic & SFX : ClockMaker ( https://tatataaaaa.com/clockmaker/ )\nQA : James Bauman\n\nYou wake up in a trash pile, gasping for air. As you claw your way out you feel your heart pounding, ears rinning, skin burning.\nThere is something in the air. \nA strong metallic scent that tells you to run.\n\n\"You are not supposed to be alive.\"\n\nJourney through a bleak and barren world as a bunny with an unexpected will to live. Battle against the machine that seeks to destroy you, using your mastery of slow motion through deep breaths to gain the upper hand in combat.\n\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAyNzI3NS8xMTk5MDA5OC5wbmc=/original/S7Dd9z.png",
+          "https://img.itch.zone/aW1hZ2UvMjAyNzI3NS8xMTk2NTY0My5wbmc=/original/ztuAQf.png",
+          "https://img.itch.zone/aW1hZ2UvMjAyNzI3NS8xMTk2NTUzNC5wbmc=/original/IZPno6.png",
+          "https://img.itch.zone/aW1hZ2UvMjAyNzI3NS8xMTk4MjMwMS5wbmc=/original/1zt2rG.png",
+          "https://img.itch.zone/aW1hZ2UvMjAyNzI3NS8xMTk4MjMxOC5wbmc=/original/rhzUgx.png",
+          "https://img.itch.zone/aW1hZ2UvMjAyNzI3NS8xMTk4MjMwNC5wbmc=/original/GcQo65.png",
+          "https://img.itch.zone/aW1hZ2UvMjAyNzI3NS8xMTk4MjMxMi5wbmc=/original/sqV9gR.png",
+          "https://img.itch.zone/aW1hZ2UvMjAyNzI3NS8xMTk4MjMxNS5wbmc=/original/nN4Qvn.png",
+          "https://img.itch.zone/aW1hZ2UvMjAyNzI3NS8xMTk2NTUyOS5wbmc=/original/LaAuZ5.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.5 out of 5 stars(2 total ratings)",
+          "Authors": "Miikka, kirikoodaa, NerdEnthusiast, ClockMaker",
+          "Genre": "Action",
+          "Tags": "Animals, Roguelike, Speedrun, Top down shooter"
+        }
+      }
+    },
+    {
+      "gameId": 2021607,
+      "gameUrl": "https://zhanshuo.itch.io/blow",
+      "overallRank": 26,
+      "topCategories": [
+        "Gameplay (how good was the user experience, game design, narrative, etc?)",
+        "Implementation (rate the game's overall stability and functionality)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzExODk5NzI0LnBuZw==/300x240%23c/rz7%2Boy.png",
+        "contributors": [
+          {
+            "name": "Zhanshuo",
+            "id": 7708975
+          },
+          {
+            "name": "yifeic233",
+            "id": 7891149
+          }
+        ],
+        "id": 2021607,
+        "criteria": [
+          {
+            "name": "Theme (how well does the game fit the challenge theme?)",
+            "rank": 71,
+            "score": 2.8536585365854,
+            "raw_score": 2.8536585365854
+          },
+          {
+            "name": "Gameplay (how good was the user experience, game design, narrative, etc?)",
+            "rank": 7,
+            "score": 3.2682926829268,
+            "raw_score": 3.2682926829268
+          },
+          {
+            "name": "Implementation (rate the game's overall stability and functionality)",
+            "rank": 6,
+            "score": 3.5609756097561,
+            "raw_score": 3.5609756097561
+          },
+          {
+            "name": "Presentation (rate its art, animations, sfx, music, and aesthetic appeal)",
+            "rank": 71,
+            "score": 2.9756097560976,
+            "raw_score": 2.9756097560976
+          },
+          {
+            "name": "Creativity (how unique or innovative was this experience?)",
+            "rank": 43,
+            "score": 2.8292682926829,
+            "raw_score": 2.8292682926829
+          }
+        ],
+        "url": "https://itch.io/jam/lv-99-game-jam/rate/2021607",
+        "raw_score": 3.0975609756098,
+        "rating_count": 41,
+        "score": 3.0975609756098,
+        "title": "Blow",
+        "rank": 26
+      },
+      "entryData": {
+        "coolness": 17,
+        "created_at": "2023-04-20 02:44:54",
+        "id": 405360,
+        "contributors": [
+          {
+            "name": "Zhanshuo",
+            "url": "https://zhanshuo.itch.io"
+          },
+          {
+            "name": "yifeic233",
+            "url": "https://yifeic233.itch.io"
+          }
+        ],
+        "game": {
+          "title": "Blow",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Zhanshuo",
+            "url": "https://zhanshuo.itch.io",
+            "id": 7708975
+          },
+          "url": "https://zhanshuo.itch.io/blow",
+          "short_text": "Your ancestors are always watching over you",
+          "id": 2021607,
+          "cover": "https://img.itch.zone/aW1nLzExODk5NzI0LnBuZw==/300x240%23c/rz7%2Boy.png",
+          "cover_color": "#85ab82"
+        },
+        "url": "/jam/lv-99-game-jam/rate/2021607",
+        "rating_count": 41
+      },
+      "details": {
+        "title": "Blow",
+        "description": "Let's protect the piggy with his ancestors!!\nUse WSAD or arrow keys to control the direction of movement.",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzExODk5NzI0LnBuZw==/original/oJcN8l.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Authors": "Zhanshuo, yifeic233",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "3D, Casual, Cute, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 2032699,
+      "gameUrl": "https://dragon-br-studio.itch.io/stone-breath",
+      "overallRank": 14,
+      "topCategories": [
+        "Gameplay (how good was the user experience, game design, narrative, etc?)",
+        "Implementation (rate the game's overall stability and functionality)",
+        "Presentation (rate its art, animations, sfx, music, and aesthetic appeal)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzExOTYxOTk0LnBuZw==/300x240%23c/D76C6I.png",
+        "contributors": [
+          {
+            "name": "DragonBreathRebornStudios",
+            "id": 7311863
+          }
+        ],
+        "id": 2032699,
+        "criteria": [
+          {
+            "name": "Theme (how well does the game fit the challenge theme?)",
+            "rank": 56,
+            "score": 2.9473684210526,
+            "raw_score": 2.9473684210526
+          },
+          {
+            "name": "Gameplay (how good was the user experience, game design, narrative, etc?)",
+            "rank": 10,
+            "score": 3.2105263157895,
+            "raw_score": 3.2105263157895
+          },
+          {
+            "name": "Implementation (rate the game's overall stability and functionality)",
+            "rank": 11,
+            "score": 3.4736842105263,
+            "raw_score": 3.4736842105263
+          },
+          {
+            "name": "Presentation (rate its art, animations, sfx, music, and aesthetic appeal)",
+            "rank": 6,
+            "score": 3.7894736842105,
+            "raw_score": 3.7894736842105
+          },
+          {
+            "name": "Creativity (how unique or innovative was this experience?)",
+            "rank": 77,
+            "score": 2.6315789473684,
+            "raw_score": 2.6315789473684
+          }
+        ],
+        "url": "https://itch.io/jam/lv-99-game-jam/rate/2032699",
+        "raw_score": 3.2105263157895,
+        "rating_count": 19,
+        "score": 3.2105263157895,
+        "title": "Stone Breath",
+        "rank": 14
+      },
+      "entryData": {
+        "coolness": 12,
+        "created_at": "2023-04-24 00:42:47",
+        "id": 406509,
+        "game": {
+          "title": "Stone Breath",
+          "platforms": [
+            "windows"
+          ],
+          "user": {
+            "name": "DragonBreathRebornStudios",
+            "url": "https://dragon-br-studio.itch.io",
+            "id": 7311863
+          },
+          "url": "https://dragon-br-studio.itch.io/stone-breath",
+          "short_text": "Control explorer air stones, control breath to float in air, explore dangers & land safely, stunning graphics & music.",
+          "id": 2032699,
+          "cover": "https://img.itch.zone/aW1nLzExOTYxOTk0LnBuZw==/300x240%23c/D76C6I.png",
+          "cover_color": "#341c27"
+        },
+        "url": "/jam/lv-99-game-jam/rate/2032699",
+        "rating_count": 19
+      },
+      "details": {
+        "title": "Stone Breath",
+        "description": "In this game, you control a fearless explorer character, in search of new adventures in a different world full of dangers. With the help of magical air stones, you can float freely through incredible scenarios, while controlling your breathing to stay in the air.\nThe gameplay mechanics are based on breathing, and you need to control your breathing to stay afloat, avoiding getting tired and fainting. When your air bar is running low, you will need to land in a safe spot to catch your breath before continuing the adventure.\n\nGet ready to explore magical forests, floating temples, and other impressive locations. With incredible graphics and an exciting soundtrack, this adventure game is an unforgettable experience you can't miss.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAzMjY5OS8xMTk1ODExMi5wbmc=/original/U3tA9h.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMjY5OS8xMTk1ODExNC5wbmc=/original/giYV2A.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMjY5OS8xMTk1ODExMy5wbmc=/original/qTgUIJ.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Author": "DragonBreathRebornStudios",
+          "Genre": "Platformer",
+          "Tags": "2D, Pixel Art"
+        }
+      }
+    },
+    {
+      "gameId": 2033195,
+      "gameUrl": "https://muulk.itch.io/like-a-fish-out-of-water",
+      "overallRank": 12,
+      "topCategories": [
+        "Gameplay (how good was the user experience, game design, narrative, etc?)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzExOTU4MzEyLnBuZw==/300x240%23c/K851IN.png",
+        "contributors": [
+          {
+            "name": "Muulk",
+            "id": 5821715
+          },
+          {
+            "name": "eydxn",
+            "id": 6069856
+          }
+        ],
+        "id": 2033195,
+        "criteria": [
+          {
+            "name": "Theme (how well does the game fit the challenge theme?)",
+            "rank": 34,
+            "score": 3.1739130434783,
+            "raw_score": 3.1739130434783
+          },
+          {
+            "name": "Gameplay (how good was the user experience, game design, narrative, etc?)",
+            "rank": 11,
+            "score": 3.195652173913,
+            "raw_score": 3.195652173913
+          },
+          {
+            "name": "Implementation (rate the game's overall stability and functionality)",
+            "rank": 24,
+            "score": 3.2826086956522,
+            "raw_score": 3.2826086956522
+          },
+          {
+            "name": "Presentation (rate its art, animations, sfx, music, and aesthetic appeal)",
+            "rank": 40,
+            "score": 3.2608695652174,
+            "raw_score": 3.2608695652174
+          },
+          {
+            "name": "Creativity (how unique or innovative was this experience?)",
+            "rank": 12,
+            "score": 3.2391304347826,
+            "raw_score": 3.2391304347826
+          }
+        ],
+        "url": "https://itch.io/jam/lv-99-game-jam/rate/2033195",
+        "raw_score": 3.2304347826087,
+        "rating_count": 46,
+        "score": 3.2304347826087,
+        "title": "Like a Fish out of Water",
+        "rank": 12
+      },
+      "entryData": {
+        "coolness": 21,
+        "created_at": "2023-04-24 11:13:10",
+        "id": 406683,
+        "contributors": [
+          {
+            "name": "Muulk",
+            "url": "https://muulk.itch.io"
+          },
+          {
+            "name": "eydxn",
+            "url": "https://eydxn.itch.io"
+          }
+        ],
+        "game": {
+          "title": "Like a Fish out of Water",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Muulk",
+            "url": "https://muulk.itch.io",
+            "id": 5821715
+          },
+          "url": "https://muulk.itch.io/like-a-fish-out-of-water",
+          "short_text": "Small haddock, big hamlet.",
+          "id": 2033195,
+          "cover": "https://img.itch.zone/aW1nLzExOTU4MzEyLnBuZw==/300x240%23c/K851IN.png",
+          "cover_color": "#07c4cc"
+        },
+        "url": "/jam/lv-99-game-jam/rate/2033195",
+        "rating_count": 46
+      },
+      "details": {
+        "title": "Like a Fish out of Water",
+        "description": "The humans have gone home for lunch. Time to go save your aquatic friends, but watch out for the seagulls!\nDodge and stun seagulls with your water beam. \nBreak crates, barrels and carts to free the fish that have been caught.\nJump into puddles and take a deep breath to replenish your oxygen levels.\nSee if you can find all 30 fish on the map!\n𓆝 𓆟 𓆞 𓆝 𓆟𓅰\nMade for the Lvl 99 Game Jam .\nTheme : Take a deep breath.\nDeveloped by Muulk and eydxn.\n𓆝 𓆟 𓆞 𓆝 𓆟𓅰\nControls:\nWASD - Move.\nLeft Mouse Button - Hold to charge and shoot water beam.\nM - Toggle music.\n𓆝 𓆟 𓆞 𓆝 𓆟𓅰",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAzMzE5NS8xMTk1ODM3NC5wbmc=/original/Fj%2FcVn.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMzE5NS8xMTk1ODUxNS5wbmc=/original/QDEZsN.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMzE5NS8xMTk1ODUxNi5wbmc=/original/r3S6Hd.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMzE5NS8xMTk1ODM3Ni5wbmc=/original/wAozj7.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Authors": "Muulk, eydxn",
+          "Genre": "Adventure",
+          "Made with": "Unity",
+          "Tags": "3D, Cartoon, Casual, Colorful, Cozy, Cute, free, Indie, Short, Singleplayer",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 2027106,
+      "gameUrl": "https://jampanos.itch.io/angermanagement",
+      "overallRank": 16,
+      "topCategories": [
+        "Implementation (rate the game's overall stability and functionality)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzExOTU5OTgwLnBuZw==/300x240%23c/JBEK6X.png",
+        "contributors": [
+          {
+            "name": "Jampanos",
+            "id": 7577183
+          }
+        ],
+        "id": 2027106,
+        "criteria": [
+          {
+            "name": "Theme (how well does the game fit the challenge theme?)",
+            "rank": 42,
+            "score": 3.0975609756098,
+            "raw_score": 3.0975609756098
+          },
+          {
+            "name": "Gameplay (how good was the user experience, game design, narrative, etc?)",
+            "rank": 16,
+            "score": 3.1219512195122,
+            "raw_score": 3.1219512195122
+          },
+          {
+            "name": "Implementation (rate the game's overall stability and functionality)",
+            "rank": 4,
+            "score": 3.6341463414634,
+            "raw_score": 3.6341463414634
+          },
+          {
+            "name": "Presentation (rate its art, animations, sfx, music, and aesthetic appeal)",
+            "rank": 35,
+            "score": 3.3414634146341,
+            "raw_score": 3.3414634146341
+          },
+          {
+            "name": "Creativity (how unique or innovative was this experience?)",
+            "rank": 43,
+            "score": 2.8292682926829,
+            "raw_score": 2.8292682926829
+          }
+        ],
+        "url": "https://itch.io/jam/lv-99-game-jam/rate/2027106",
+        "raw_score": 3.2048780487805,
+        "rating_count": 41,
+        "score": 3.2048780487805,
+        "title": "Anger Management",
+        "rank": 16
+      },
+      "entryData": {
+        "coolness": 28,
+        "created_at": "2023-04-24 14:06:47",
+        "id": 406791,
+        "game": {
+          "title": "Anger Management",
+          "platforms": [
+            "windows",
+            "osx",
+            "web"
+          ],
+          "user": {
+            "name": "Jampanos",
+            "url": "https://jampanos.itch.io",
+            "id": 7577183
+          },
+          "url": "https://jampanos.itch.io/angermanagement",
+          "short_text": "Sometimes all you need to do is take a deep breath and calm down.",
+          "id": 2027106,
+          "cover": "https://img.itch.zone/aW1nLzExOTU5OTgwLnBuZw==/300x240%23c/JBEK6X.png",
+          "cover_color": "#f10101"
+        },
+        "url": "/jam/lv-99-game-jam/rate/2027106",
+        "rating_count": 41
+      },
+      "details": {
+        "title": "Anger Management",
+        "description": "Doug's final day in his anger management course, what a champ!Join Doug in the busy street of New York as he finds new meaning in kindness and once and for all puts his angry and hateful past in the past.There is a known bug where you sometimes can't restart the wave,  try clicking everywhere on the button, it might work.WASD - Walk\nLeft Mouse - Bash\nRight Mouse - Dash\nSpace - Deep breathGame made by Jampanos & Moncler https://itch.io/profile/moncler",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAyNzEwNi8xMTk2MTc1NC5wbmc=/original/TG%2B22Y.png",
+          "https://img.itch.zone/aW1hZ2UvMjAyNzEwNi8xMTk2MTc1NS5wbmc=/original/xUqtYI.png",
+          "https://img.itch.zone/aW1hZ2UvMjAyNzEwNi8xMTk2MTc1Ni5wbmc=/original/V0fHWp.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS",
+          "Author": "Jampanos",
+          "Genre": "Action",
+          "Made with": "Unity",
+          "Tags": "2D, Bullet Hell, Fast-Paced, Funny, Hack and Slash, Pixel Art, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 2033445,
+      "gameUrl": "https://neutrinora.itch.io/slice-of-life",
+      "overallRank": 22,
+      "topCategories": [
+        "Implementation (rate the game's overall stability and functionality)",
+        "Creativity (how unique or innovative was this experience?)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzExOTU5MzIyLmpwZw==/300x240%23c/rvLA5s.jpg",
+        "contributors": [
+          {
+            "name": "Neutrinora",
+            "id": 145196
+          },
+          {
+            "name": "Taylan",
+            "id": 1357629
+          },
+          {
+            "name": "Levonardo",
+            "id": 7925999
+          }
+        ],
+        "id": 2033445,
+        "criteria": [
+          {
+            "name": "Theme (how well does the game fit the challenge theme?)",
+            "rank": 120,
+            "score": 2.4347826086957,
+            "raw_score": 2.4347826086957
+          },
+          {
+            "name": "Gameplay (how good was the user experience, game design, narrative, etc?)",
+            "rank": 27,
+            "score": 2.9565217391304,
+            "raw_score": 2.9565217391304
+          },
+          {
+            "name": "Implementation (rate the game's overall stability and functionality)",
+            "rank": 5,
+            "score": 3.5869565217391,
+            "raw_score": 3.5869565217391
+          },
+          {
+            "name": "Presentation (rate its art, animations, sfx, music, and aesthetic appeal)",
+            "rank": 43,
+            "score": 3.2391304347826,
+            "raw_score": 3.2391304347826
+          },
+          {
+            "name": "Creativity (how unique or innovative was this experience?)",
+            "rank": 9,
+            "score": 3.3478260869565,
+            "raw_score": 3.3478260869565
+          }
+        ],
+        "url": "https://itch.io/jam/lv-99-game-jam/rate/2033445",
+        "raw_score": 3.1130434782609,
+        "rating_count": 46,
+        "score": 3.1130434782609,
+        "title": "Slice of Life (Open Your Eyes to Restart)",
+        "rank": 22
+      },
+      "entryData": {
+        "coolness": 22,
+        "created_at": "2023-04-24 14:39:20",
+        "id": 406811,
+        "contributors": [
+          {
+            "name": "Neutrinora",
+            "url": "https://neutrinora.itch.io"
+          },
+          {
+            "name": "Taylan",
+            "url": "https://taylankasap.itch.io"
+          },
+          {
+            "name": "Levonardo",
+            "url": "https://levonardo.itch.io"
+          }
+        ],
+        "game": {
+          "title": "Slice of Life (Open Your Eyes to Restart)",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Neutrinora",
+            "url": "https://neutrinora.itch.io",
+            "id": 145196
+          },
+          "url": "https://neutrinora.itch.io/slice-of-life",
+          "short_text": "A game about cards and psychology.",
+          "id": 2033445,
+          "cover": "https://img.itch.zone/aW1nLzExOTU5MzIyLmpwZw==/300x240%23c/rvLA5s.jpg",
+          "cover_color": "#000000"
+        },
+        "url": "/jam/lv-99-game-jam/rate/2033445",
+        "rating_count": 46
+      },
+      "details": {
+        "title": "Slice of Life (Open Your Eyes to Restart)",
+        "description": "This is a story-driven, short adventure game with deckbuilding and RPG elements created for the Lv. 99 Game Jam 2023.\nThe game can be played using only the mouse.\n\nOur goal with this game is to explore the relationship between people's subconscious personality traits and their everyday behavior.\n\nGame by Bora Kasap, Taylan Kasap & Levent Sülün\n\nSoundtrack Credits Music by Olexy from Pixabay Music from https://www.zapsplat.com\n\nSound Effects from Ultimate SFX Bundle",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAzMzQ0NS8xMTk1OTUxMS5qcGc=/original/sSh2%2Bu.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjAzMzQ0NS8xMTk1OTUxMi5qcGc=/original/3Jdq4y.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjAzMzQ0NS8xMTk1OTUxMy5qcGc=/original/qpPjjc.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Authors": "Neutrinora, Taylan, Levonardo",
+          "Genre": "Card Game",
+          "Made with": "Unity, Adobe Photoshop, Audacity",
+          "Tags": "Story Rich, Text based",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 2031979,
+      "gameUrl": "https://lio-lim.itch.io/inspire",
+      "overallRank": 27,
+      "topCategories": [
+        "Implementation (rate the game's overall stability and functionality)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzExOTYwODY5LmdpZg==/300x240%23c/b0r2yx.gif",
+        "contributors": [
+          {
+            "name": "Lio Lim",
+            "id": 1374146
+          }
+        ],
+        "id": 2031979,
+        "criteria": [
+          {
+            "name": "Theme (how well does the game fit the challenge theme?)",
+            "rank": 63,
+            "score": 2.9090909090909,
+            "raw_score": 2.9090909090909
+          },
+          {
+            "name": "Gameplay (how good was the user experience, game design, narrative, etc?)",
+            "rank": 13,
+            "score": 3.1515151515152,
+            "raw_score": 3.1515151515152
+          },
+          {
+            "name": "Implementation (rate the game's overall stability and functionality)",
+            "rank": 7,
+            "score": 3.5454545454545,
+            "raw_score": 3.5454545454545
+          },
+          {
+            "name": "Presentation (rate its art, animations, sfx, music, and aesthetic appeal)",
+            "rank": 23,
+            "score": 3.4242424242424,
+            "raw_score": 3.4242424242424
+          },
+          {
+            "name": "Creativity (how unique or innovative was this experience?)",
+            "rank": 109,
+            "score": 2.4242424242424,
+            "raw_score": 2.4242424242424
+          }
+        ],
+        "url": "https://itch.io/jam/lv-99-game-jam/rate/2031979",
+        "raw_score": 3.0909090909091,
+        "rating_count": 33,
+        "score": 3.0909090909091,
+        "title": "Inspire",
+        "rank": 27
+      },
+      "entryData": {
+        "coolness": 41,
+        "created_at": "2023-04-24 15:33:04",
+        "id": 406861,
+        "game": {
+          "gif_cover": "https://img.itch.zone/aW1nLzExOTYwODY5LmdpZg==/original/94gpXB.gif",
+          "url": "https://lio-lim.itch.io/inspire",
+          "short_text": "Breathe in the fire of determination, breathe out the ashes of doubt",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Lio Lim",
+            "url": "https://lio-lim.itch.io",
+            "id": 1374146
+          },
+          "title": "Inspire",
+          "id": 2031979,
+          "cover": "https://img.itch.zone/aW1nLzExOTYwODY5LmdpZg==/300x240%23c/b0r2yx.gif",
+          "cover_color": "#000000"
+        },
+        "url": "/jam/lv-99-game-jam/rate/2031979",
+        "rating_count": 33
+      },
+      "details": {
+        "title": "Inspire",
+        "description": "\nTake a deep breath, unleash your power, and inspire greatness in this adrenaline-fueled shooter. Inspired by the great athletes of World Aquatics, this game tries to recreate that feeling of taking a deep breath in the heat of action. With fast-paced gameplay, stunning visuals, and an immersive soundtrack, Inspire will take you on a pulse-pounding journey that will leave you breathless. 💨\n\nWASD to moveMouse to aim (auto fire)Click and Hold to inhale (stops firing)Release when the meter is full to exhale (knockback enemies)\nAvoid getting hitDefeated enemies drop orbsCollect orbs to grow strongerSurvive till the end.\n💨🌬️🌫️🌊🏊‍♂️🧜‍♀️🐠🐋🍃🎐🎵🎶🎤🎼🎺🗣️\nMade in 10 days for Lv. 99 Game Jam 2023Theme: Take A Deep Breath\n\nIf you like what you see, drop a comment below to let me know! If the game gets enough attention, I may add new items, enemies, and even bosses! 🎉 Thanks for playing!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAzMTk3OS8xMTk2MTAxMi5wbmc=/original/lrHkCx.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMTk3OS8xMTk2MTAxMy5wbmc=/original/Zr5bJi.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMTk3OS8xMTk2MTAxNC5wbmc=/original/lVDMYw.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMTk3OS8xMTk2MTAyNy5naWY=/original/%2FTuAnw.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "Lio Lim",
+          "Genre": "Shooter, Action, Survival",
+          "Made with": "Unity",
+          "Tags": "2D, Arcade, Atmospheric, Low-poly, Minimalist, Roguelike, Singleplayer, Top-Down"
+        }
+      }
+    },
+    {
+      "gameId": 2024812,
+      "gameUrl": "https://evilalbert.itch.io/counting-ghosts",
+      "overallRank": 9,
+      "topCategories": [
+        "Implementation (rate the game's overall stability and functionality)",
+        "Creativity (how unique or innovative was this experience?)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzExOTQxODk0LnBuZw==/300x240%23c/X%2F5O91.png",
+        "contributors": [
+          {
+            "name": "evilalbert",
+            "id": 4965515
+          }
+        ],
+        "id": 2024812,
+        "criteria": [
+          {
+            "name": "Theme (how well does the game fit the challenge theme?)",
+            "rank": 14,
+            "score": 3.4117647058824,
+            "raw_score": 3.4117647058824
+          },
+          {
+            "name": "Gameplay (how good was the user experience, game design, narrative, etc?)",
+            "rank": 19,
+            "score": 3.0882352941176,
+            "raw_score": 3.0882352941176
+          },
+          {
+            "name": "Implementation (rate the game's overall stability and functionality)",
+            "rank": 9,
+            "score": 3.5,
+            "raw_score": 3.5
+          },
+          {
+            "name": "Presentation (rate its art, animations, sfx, music, and aesthetic appeal)",
+            "rank": 45,
+            "score": 3.2058823529412,
+            "raw_score": 3.2058823529412
+          },
+          {
+            "name": "Creativity (how unique or innovative was this experience?)",
+            "rank": 5,
+            "score": 3.4411764705882,
+            "raw_score": 3.4411764705882
+          }
+        ],
+        "url": "https://itch.io/jam/lv-99-game-jam/rate/2024812",
+        "raw_score": 3.3294117647059,
+        "rating_count": 34,
+        "score": 3.3294117647059,
+        "title": "Counting Ghosts",
+        "rank": 9
+      },
+      "entryData": {
+        "coolness": 3,
+        "created_at": "2023-04-20 10:26:47",
+        "id": 405392,
+        "game": {
+          "title": "Counting Ghosts",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "user": {
+            "name": "evilalbert",
+            "url": "https://evilalbert.itch.io",
+            "id": 4965515
+          },
+          "url": "https://evilalbert.itch.io/counting-ghosts",
+          "short_text": "A short breathing-inspired puzzle game.",
+          "id": 2024812,
+          "cover": "https://img.itch.zone/aW1nLzExOTQxODk0LnBuZw==/300x240%23c/X%2F5O91.png",
+          "cover_color": "#10141f"
+        },
+        "url": "/jam/lv-99-game-jam/rate/2024812",
+        "rating_count": 34
+      },
+      "details": {
+        "title": "Counting Ghosts",
+        "description": "Breathe in, count the ghosts, breathe out...\nControls: Hold space to breathe in, release to breathe out. Left click and drag the wheels to adjust projectiles.\nI feel that taking a deep breath is almost like forcefully blowing one's anxieties away. That idea eventually inspired the concept for this game.\nMade for Lv. 99 Game Jam with the theme 'Take a deep breath'.",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzExOTQxODk0LnBuZw==/original/90pBXT.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Author": "evilalbert",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "2D, Pixel Art, Short, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 2031650,
+      "gameUrl": "https://zagoiris.itch.io/noarlab",
+      "overallRank": 13,
+      "topCategories": [
+        "Presentation (rate its art, animations, sfx, music, and aesthetic appeal)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzExOTU4MDEzLnBuZw==/300x240%23c/YBd%2Ffz.png",
+        "contributors": [
+          {
+            "name": "zagoiris",
+            "id": 3232153
+          },
+          {
+            "name": "Alysonkof",
+            "id": 2653832
+          },
+          {
+            "name": "Pedrinho.saks",
+            "id": 3003155
+          },
+          {
+            "name": "CanvasDEV",
+            "id": 2106423
+          },
+          {
+            "name": "Pierre Dev",
+            "id": 2894881
+          }
+        ],
+        "id": 2031650,
+        "criteria": [
+          {
+            "name": "Theme (how well does the game fit the challenge theme?)",
+            "rank": 18,
+            "score": 3.3587572106361,
+            "raw_score": 3.5625
+          },
+          {
+            "name": "Gameplay (how good was the user experience, game design, narrative, etc?)",
+            "rank": 29,
+            "score": 2.8873526898451,
+            "raw_score": 3.0625
+          },
+          {
+            "name": "Implementation (rate the game's overall stability and functionality)",
+            "rank": 22,
+            "score": 3.2998316455372,
+            "raw_score": 3.5
+          },
+          {
+            "name": "Presentation (rate its art, animations, sfx, music, and aesthetic appeal)",
+            "rank": 2,
+            "score": 4.1247895569215,
+            "raw_score": 4.375
+          },
+          {
+            "name": "Creativity (how unique or innovative was this experience?)",
+            "rank": 107,
+            "score": 2.4748737341529,
+            "raw_score": 2.625
+          }
+        ],
+        "url": "https://itch.io/jam/lv-99-game-jam/rate/2031650",
+        "raw_score": 3.425,
+        "rating_count": 16,
+        "score": 3.2291209674186,
+        "title": "NOAR Inc.",
+        "rank": 13
+      },
+      "entryData": {
+        "coolness": 37,
+        "created_at": "2023-04-24 15:55:08",
+        "id": 406920,
+        "contributors": [
+          {
+            "name": "zagoiris",
+            "url": "https://zagoiris.itch.io"
+          },
+          {
+            "name": "Alysonkof",
+            "url": "https://alysonkof.itch.io"
+          },
+          {
+            "name": "Pedrinho.saks",
+            "url": "https://pedrinhosaks.itch.io"
+          },
+          {
+            "name": "CanvasDEV",
+            "url": "https://canvasdev.itch.io"
+          },
+          {
+            "name": "Pierre Dev",
+            "url": "https://pierredevbr.itch.io"
+          }
+        ],
+        "game": {
+          "title": "NOAR Inc.",
+          "platforms": [
+            "windows"
+          ],
+          "user": {
+            "name": "zagoiris",
+            "url": "https://zagoiris.itch.io",
+            "id": 3232153
+          },
+          "url": "https://zagoiris.itch.io/noarlab",
+          "short_text": "Help the IT intern to fix a giant biochemical mistake that wasn't his (I SWEAR!)",
+          "id": 2031650,
+          "cover": "https://img.itch.zone/aW1nLzExOTU4MDEzLnBuZw==/300x240%23c/YBd%2Ffz.png",
+          "cover_color": "#42314c"
+        },
+        "url": "/jam/lv-99-game-jam/rate/2031650",
+        "rating_count": 16
+      },
+      "details": {
+        "title": "NOAR Inc.",
+        "description": "N.O.Ar Inc. is a company specialized in air purification and pollution treatments.\nIn this platformer, a mistake turned every living being at N.O.Ar Labs into gaseous monsters. Help the IT intern trough exploration and puzzles so the toxin doesn't spread further. \nEVERY ASSET WAS MADE BY:\nAlysonKof (Character Artist / Animator / UI/Level Design)\n\nErick Torres - CanvasDEV (Programmer)\nJean Pierre (Programmer)\nPedrinnhoSaks (Programmer)\n\nzagoiris (Environment Artist)\n\n\nSOUNDS BY Diogo Stolfo Music ",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAzMTY1MC8xMTk2MTgyMi5wbmc=/original/BYEyry.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMTY1MC8xMTk2MTgyNC5wbmc=/original/pz2etG.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMTY1MC8xMTk2MTgzNS5wbmc=/original/IY5xqk.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMTY1MC8xMTk2MTgzOC5wbmc=/original/mkV4iS.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMTY1MC8xMTk2MTg0Ni5wbmc=/original/cRQ6hD.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMTY1MC8xMTk2MTg0OS5wbmc=/original/fiX63N.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Authors": "zagoiris, Alysonkof, Pedrinho.saks, CanvasDEV, Pierre Dev",
+          "Genre": "Platformer, Puzzle",
+          "Made with": "Unity",
+          "Tags": "2D, Pixel Art, Unity",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse, Joystick"
+        }
+      }
+    },
+    {
+      "gameId": 2033145,
+      "gameUrl": "https://superschnizel.itch.io/untitled-lvl99-frog-game",
+      "overallRank": 18,
+      "topCategories": [
+        "Presentation (rate its art, animations, sfx, music, and aesthetic appeal)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzExOTYxNTI0LnBuZw==/300x240%23c/eSvQeF.png",
+        "contributors": [
+          {
+            "name": "Superschnizel",
+            "id": 4536571
+          },
+          {
+            "name": "merlinott",
+            "id": 3720042
+          },
+          {
+            "name": "smorrebrot",
+            "id": 549426
+          }
+        ],
+        "id": 2033145,
+        "criteria": [
+          {
+            "name": "Theme (how well does the game fit the challenge theme?)",
+            "rank": 45,
+            "score": 3.0571428571429,
+            "raw_score": 3.0571428571429
+          },
+          {
+            "name": "Gameplay (how good was the user experience, game design, narrative, etc?)",
+            "rank": 14,
+            "score": 3.1428571428571,
+            "raw_score": 3.1428571428571
+          },
+          {
+            "name": "Implementation (rate the game's overall stability and functionality)",
+            "rank": 36,
+            "score": 3.1428571428571,
+            "raw_score": 3.1428571428571
+          },
+          {
+            "name": "Presentation (rate its art, animations, sfx, music, and aesthetic appeal)",
+            "rank": 3,
+            "score": 3.9142857142857,
+            "raw_score": 3.9142857142857
+          },
+          {
+            "name": "Creativity (how unique or innovative was this experience?)",
+            "rank": 66,
+            "score": 2.7142857142857,
+            "raw_score": 2.7142857142857
+          }
+        ],
+        "url": "https://itch.io/jam/lv-99-game-jam/rate/2033145",
+        "raw_score": 3.1942857142857,
+        "rating_count": 35,
+        "score": 3.1942857142857,
+        "title": "Bullet Pond",
+        "rank": 18
+      },
+      "entryData": {
+        "coolness": 33,
+        "created_at": "2023-04-24 15:09:21",
+        "id": 406838,
+        "contributors": [
+          {
+            "name": "Superschnizel",
+            "url": "https://superschnizel.itch.io"
+          },
+          {
+            "name": "merlinott",
+            "url": "https://merlinott.itch.io"
+          },
+          {
+            "name": "smorrebrot",
+            "url": "https://smorrebrot.itch.io"
+          }
+        ],
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Superschnizel",
+            "url": "https://superschnizel.itch.io",
+            "id": 4536571
+          },
+          "url": "https://superschnizel.itch.io/untitled-lvl99-frog-game",
+          "title": "Bullet Pond",
+          "id": 2033145,
+          "cover": "https://img.itch.zone/aW1nLzExOTYxNTI0LnBuZw==/300x240%23c/eSvQeF.png",
+          "cover_color": "#327345"
+        },
+        "url": "/jam/lv-99-game-jam/rate/2033145",
+        "rating_count": 35
+      },
+      "details": {
+        "title": "Bullet Pond",
+        "description": "Aren't you sick of all the storks trying to eat you, while you are just trying to enjoy a nice sunbath between the reeds? \n\nFinally having had enough, you decide to take a deep breath, grab your trusty revolver and take care of the Problem once and for all.\nBut down below you realize the stork has already prepared his minions to try to stop you. Battle your way trough the Pond, while making sure to never loose your breath. Suck up Air bubbles to stay alive, but beware! They don't last forever.\n\nCan you make it to the end of the Pond and  chase the stork away?\n\nEnjoy :-)\n\nCredits:Game Design:Thaddeus OttLeon Holtmeier\nProgramming:Leon HoltmeierArt:Thaddeus OttSound/ Music:Merlin Ott",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAzMzE0NS8xMjI4MjQ4NC5naWY=/original/Ghc7Zh.gif",
+          "https://img.itch.zone/aW1hZ2UvMjAzMzE0NS8xMTk2MTUwOC5qcGc=/original/GF7pcV.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjAzMzE0NS8xMTk2MTUwOS5qcGc=/original/k9eOHx.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjAzMzE0NS8xMTk5MjIxOS5wbmc=/original/T0EjnT.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMzE0NS8xMTk2MTUxMS5qcGc=/original/Fy35Ua.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjAzMzE0NS8xMTk2MTUxMC5qcGc=/original/PYE3SK.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjAzMzE0NS8xMTk2MTUxMi5qcGc=/original/%2BN4p01.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "Superschnizel, merlinott, smorrebrot",
+          "Genre": "Action",
+          "Made with": "Unity",
+          "Tags": "Top down shooter, Twin Stick Shooter"
+        }
+      }
+    },
+    {
+      "gameId": 2015591,
+      "gameUrl": "https://unimolix.itch.io/ame-bleue",
+      "overallRank": 39,
+      "topCategories": [
+        "Presentation (rate its art, animations, sfx, music, and aesthetic appeal)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzExOTIzNjAzLnBuZw==/300x240%23c/3cqxYm.png",
+        "contributors": [
+          {
+            "name": "Unimolix",
+            "id": 3153392
+          },
+          {
+            "name": "Musicka",
+            "id": 1676249
+          },
+          {
+            "name": "FélixVE",
+            "id": 719696
+          }
+        ],
+        "id": 2015591,
+        "criteria": [
+          {
+            "name": "Theme (how well does the game fit the challenge theme?)",
+            "rank": 176,
+            "score": 2.08,
+            "raw_score": 2.08
+          },
+          {
+            "name": "Gameplay (how good was the user experience, game design, narrative, etc?)",
+            "rank": 20,
+            "score": 3.02,
+            "raw_score": 3.02
+          },
+          {
+            "name": "Implementation (rate the game's overall stability and functionality)",
+            "rank": 44,
+            "score": 3.08,
+            "raw_score": 3.08
+          },
+          {
+            "name": "Presentation (rate its art, animations, sfx, music, and aesthetic appeal)",
+            "rank": 4,
+            "score": 3.9,
+            "raw_score": 3.9
+          },
+          {
+            "name": "Creativity (how unique or innovative was this experience?)",
+            "rank": 58,
+            "score": 2.74,
+            "raw_score": 2.74
+          }
+        ],
+        "url": "https://itch.io/jam/lv-99-game-jam/rate/2015591",
+        "raw_score": 2.964,
+        "rating_count": 50,
+        "score": 2.964,
+        "title": "Âme Bleue",
+        "rank": 39
+      },
+      "entryData": {
+        "coolness": 12,
+        "created_at": "2023-04-24 02:36:01",
+        "id": 406568,
+        "contributors": [
+          {
+            "name": "Unimolix",
+            "url": "https://unimolix.itch.io"
+          },
+          {
+            "name": "Musicka",
+            "url": "https://musicka.itch.io"
+          },
+          {
+            "name": "FélixVE",
+            "url": "https://felixve.itch.io"
+          }
+        ],
+        "game": {
+          "title": "Âme Bleue",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "Unimolix",
+            "url": "https://unimolix.itch.io",
+            "id": 3153392
+          },
+          "url": "https://unimolix.itch.io/ame-bleue",
+          "short_text": "This young soul died too soon. Guide her back to the Land of the Living while she still has breathe.",
+          "id": 2015591,
+          "cover": "https://img.itch.zone/aW1nLzExOTIzNjAzLnBuZw==/300x240%23c/3cqxYm.png",
+          "cover_color": "#8325ff"
+        },
+        "url": "/jam/lv-99-game-jam/rate/2015591",
+        "rating_count": 50
+      },
+      "details": {
+        "title": "Âme Bleue",
+        "description": "In Âme Bleue, you take on the role of a Guardian Angel, tasked with returning a lost soul back to her body on Earth before it is too late. But beware; evil forces lurk beyond the Gates of Paradise, seeking to blow out this soul's Eternal Flame. You must protect her at all costs!\nListen close, you can still hear her breathing... There is still time!\n\nControls :\nMove:  WASD / ZQSD \nShoot Arrow: Left Mouse Click\nPick Up / Drop Soul Flame: Space Bar\n\nThis game was released for the Lvl 99 game jam, with the theme : \"Take a deep breath\".\n\n\nCredits:\nTimo : Developer / Game Designer\nFélix : Graphics Designer / Game Designer\nBrian Francis Majewski (Musicka): Composer and Sound Designer",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAxNTU5MS8xMTk1NTIwNi5wbmc=/original/BsW%2Be3.png",
+          "https://img.itch.zone/aW1hZ2UvMjAxNTU5MS8xMTk1NTIwNy5wbmc=/original/5Awe%2Bi.png",
+          "https://img.itch.zone/aW1hZ2UvMjAxNTU5MS8xMTk1NTIwNS5wbmc=/original/AC6noG.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.0 out of 5 stars(2 total ratings)",
+          "Authors": "Unimolix, Musicka, FélixVE",
+          "Genre": "Action, Survival",
+          "Made with": "Unity",
+          "Tags": "2D, Flying, Pixel Art, Shoot 'Em Up, Surreal, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 2032412,
+      "gameUrl": "https://juwambo.itch.io/puff-puff-payback",
+      "overallRank": 6,
+      "topCategories": [
+        "Presentation (rate its art, animations, sfx, music, and aesthetic appeal)",
+        "Creativity (how unique or innovative was this experience?)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzExOTU0MzAzLnBuZw==/300x240%23c/uMoc7B.png",
+        "contributors": [
+          {
+            "name": "juwambo",
+            "id": 1178385
+          },
+          {
+            "name": "Enigmasystem",
+            "id": 3100725
+          }
+        ],
+        "id": 2032412,
+        "criteria": [
+          {
+            "name": "Theme (how well does the game fit the challenge theme?)",
+            "rank": 12,
+            "score": 3.4545454545455,
+            "raw_score": 3.4545454545455
+          },
+          {
+            "name": "Gameplay (how good was the user experience, game design, narrative, etc?)",
+            "rank": 21,
+            "score": 3,
+            "raw_score": 3
+          },
+          {
+            "name": "Implementation (rate the game's overall stability and functionality)",
+            "rank": 25,
+            "score": 3.2727272727273,
+            "raw_score": 3.2727272727273
+          },
+          {
+            "name": "Presentation (rate its art, animations, sfx, music, and aesthetic appeal)",
+            "rank": 5,
+            "score": 3.8181818181818,
+            "raw_score": 3.8181818181818
+          },
+          {
+            "name": "Creativity (how unique or innovative was this experience?)",
+            "rank": 4,
+            "score": 3.4545454545455,
+            "raw_score": 3.4545454545455
+          }
+        ],
+        "url": "https://itch.io/jam/lv-99-game-jam/rate/2032412",
+        "raw_score": 3.4,
+        "rating_count": 33,
+        "score": 3.4,
+        "title": "Puff Puff Payback",
+        "rank": 6
+      },
+      "entryData": {
+        "coolness": 25,
+        "created_at": "2023-04-24 14:27:53",
+        "id": 406800,
+        "contributors": [
+          {
+            "name": "juwambo",
+            "url": "https://juwambo.itch.io"
+          },
+          {
+            "name": "Enigmasystem",
+            "url": "https://enigmasystem.itch.io"
+          }
+        ],
+        "game": {
+          "title": "Puff Puff Payback",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "juwambo",
+            "url": "https://juwambo.itch.io",
+            "id": 1178385
+          },
+          "url": "https://juwambo.itch.io/puff-puff-payback",
+          "short_text": "Puff up. Breath in objects. Payback your loans!",
+          "id": 2032412,
+          "cover": "https://img.itch.zone/aW1nLzExOTU0MzAzLnBuZw==/300x240%23c/uMoc7B.png",
+          "cover_color": "#10fb61"
+        },
+        "url": "/jam/lv-99-game-jam/rate/2032412",
+        "rating_count": 33
+      },
+      "details": {
+        "title": "Puff Puff Payback",
+        "description": "Poof Poof... All your money's gone and you are stuck with enormous student loans!\nPuff Puff... you need to pay them back.  Take a deep breath and swallow all kinds of stuff to complete tasks and get some money.\nWill Puffy be free of debt again? Will the mail get delivered? Is the government spying on his uncle? Play the game and find out... or don't...\nCreated for Lv. 99 Game Jam 2023Theme: Take a deep breath\nby FIRECHICK\nJulian & Linda Treffler\n\nMusic from Karagumo BGM\nSFX from soundsnap.com",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAzMjQxMi8xMTk2MTE4Ny5wbmc=/original/lAX17H.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMjQxMi8xMTk2MTgyMC5naWY=/original/qTEptN.gif",
+          "https://img.itch.zone/aW1hZ2UvMjAzMjQxMi8xMTk2MTg4Ny5naWY=/original/xeoV4%2F.gif",
+          "https://img.itch.zone/aW1hZ2UvMjAzMjQxMi8xMTk2MTkwMS5wbmc=/original/JAYug9.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMjQxMi8xMTk2MTkwNy5wbmc=/original/udB612.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows",
+          "Authors": "juwambo, Enigmasystem",
+          "Genre": "Adventure",
+          "Tags": "Exploration, Funny, Pixel Art"
+        }
+      }
+    },
+    {
+      "gameId": 2014342,
+      "gameUrl": "https://peregon.itch.io/tick",
+      "overallRank": 21,
+      "topCategories": [
+        "Presentation (rate its art, animations, sfx, music, and aesthetic appeal)",
+        "Creativity (how unique or innovative was this experience?)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzExOTYwMDE0LnBuZw==/300x240%23c/cxZ%2Fh%2B.png",
+        "contributors": [
+          {
+            "name": "Peregon",
+            "id": 3911898
+          }
+        ],
+        "id": 2014342,
+        "criteria": [
+          {
+            "name": "Theme (how well does the game fit the challenge theme?)",
+            "rank": 25,
+            "score": 3.2558139534884,
+            "raw_score": 3.2558139534884
+          },
+          {
+            "name": "Gameplay (how good was the user experience, game design, narrative, etc?)",
+            "rank": 69,
+            "score": 2.5813953488372,
+            "raw_score": 2.5813953488372
+          },
+          {
+            "name": "Implementation (rate the game's overall stability and functionality)",
+            "rank": 98,
+            "score": 2.7209302325581,
+            "raw_score": 2.7209302325581
+          },
+          {
+            "name": "Presentation (rate its art, animations, sfx, music, and aesthetic appeal)",
+            "rank": 8,
+            "score": 3.7209302325581,
+            "raw_score": 3.7209302325581
+          },
+          {
+            "name": "Creativity (how unique or innovative was this experience?)",
+            "rank": 8,
+            "score": 3.3488372093023,
+            "raw_score": 3.3488372093023
+          }
+        ],
+        "url": "https://itch.io/jam/lv-99-game-jam/rate/2014342",
+        "raw_score": 3.1255813953488,
+        "rating_count": 43,
+        "score": 3.1255813953488,
+        "title": "[ENG] TICK: a deep breath",
+        "rank": 21
+      },
+      "entryData": {
+        "coolness": 108,
+        "created_at": "2023-04-24 15:57:49",
+        "id": 406940,
+        "game": {
+          "title": "[ENG] TICK: a deep breath",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "Peregon",
+            "url": "https://peregon.itch.io",
+            "id": 3911898
+          },
+          "url": "https://peregon.itch.io/tick",
+          "short_text": "Breathshaping game",
+          "id": 2014342,
+          "cover": "https://img.itch.zone/aW1nLzExOTYwMDE0LnBuZw==/300x240%23c/cxZ%2Fh%2B.png",
+          "cover_color": "#eeeeee"
+        },
+        "url": "/jam/lv-99-game-jam/rate/2014342",
+        "rating_count": 43
+      },
+      "details": {
+        "title": "[ENG] TICK: a deep breath",
+        "description": "TICK: a deep breath\nWe made a little quest about a chick that can't fly, but can solve simple puzzles by inflating and deflating.\nYou can control the chick with the mouse, inflating and deflating like a balloon.\n\nOur game has several endings, the ability to collect cards and chicks.\n\nEverything you see in the game, including the sounds and music, are made from scratch by our team.\n\nTeam \"Tick Team\"\n\nThe development involved: \nigrok10 - game-design / concept art\nPeregon - Programming\nHoneyBoy - Animations\nKolijoker - art\nAlekseiZlotnikov - Sounds and music",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAxNDM0Mi8xMTk2MjMzNy5wbmc=/original/EyfT8Z.png",
+          "https://img.itch.zone/aW1hZ2UvMjAxNDM0Mi8xMTk2MjMzNi5wbmc=/original/iWlvqQ.png",
+          "https://img.itch.zone/aW1hZ2UvMjAxNDM0Mi8xMTk2MjM0MC5wbmc=/original/DRUqn6.png",
+          "https://img.itch.zone/aW1hZ2UvMjAxNDM0Mi8xMTk2MjMzOC5wbmc=/original/1lF2OB.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "Peregon",
+          "Genre": "Adventure",
+          "Made with": "Unity"
+        }
+      }
+    },
+    {
+      "gameId": 2033270,
+      "gameUrl": "https://nutt3d.itch.io/frog-burgers",
+      "overallRank": 38,
+      "topCategories": [
+        "Presentation (rate its art, animations, sfx, music, and aesthetic appeal)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzExOTU4MDE0LnBuZw==/300x240%23c/Mjd95J.png",
+        "contributors": [
+          {
+            "name": "NUTT",
+            "id": 6438126
+          }
+        ],
+        "id": 2033270,
+        "criteria": [
+          {
+            "name": "Theme (how well does the game fit the challenge theme?)",
+            "rank": 129,
+            "score": 2.3809523809524,
+            "raw_score": 2.3809523809524
+          },
+          {
+            "name": "Gameplay (how good was the user experience, game design, narrative, etc?)",
+            "rank": 12,
+            "score": 3.1666666666667,
+            "raw_score": 3.1666666666667
+          },
+          {
+            "name": "Implementation (rate the game's overall stability and functionality)",
+            "rank": 46,
+            "score": 3.0714285714286,
+            "raw_score": 3.0714285714286
+          },
+          {
+            "name": "Presentation (rate its art, animations, sfx, music, and aesthetic appeal)",
+            "rank": 10,
+            "score": 3.6666666666667,
+            "raw_score": 3.6666666666667
+          },
+          {
+            "name": "Creativity (how unique or innovative was this experience?)",
+            "rank": 85,
+            "score": 2.5952380952381,
+            "raw_score": 2.5952380952381
+          }
+        ],
+        "url": "https://itch.io/jam/lv-99-game-jam/rate/2033270",
+        "raw_score": 2.9761904761905,
+        "rating_count": 42,
+        "score": 2.9761904761905,
+        "title": "Frog Burgers",
+        "rank": 38
+      },
+      "entryData": {
+        "coolness": 23,
+        "created_at": "2023-04-24 10:26:11",
+        "id": 406665,
+        "game": {
+          "title": "Frog Burgers",
+          "platforms": [
+            "windows",
+            "osx",
+            "web"
+          ],
+          "user": {
+            "name": "NUTT",
+            "url": "https://nutt3d.itch.io",
+            "id": 6438126
+          },
+          "url": "https://nutt3d.itch.io/frog-burgers",
+          "short_text": "Making burgers is stressful work! Can you manage to keep up with the orders while keeping your breathing under control?",
+          "id": 2033270,
+          "cover": "https://img.itch.zone/aW1nLzExOTU4MDE0LnBuZw==/300x240%23c/Mjd95J.png",
+          "cover_color": "#181425"
+        },
+        "url": "/jam/lv-99-game-jam/rate/2033270",
+        "rating_count": 42
+      },
+      "details": {
+        "title": "Frog Burgers",
+        "description": "Frog Burgers is an arcade pseudo-roguelike where you need to manage your breathing and keep your stress low to progress. Made for the LV.99 Game Jam 2023 in ten days! The theme was \"Take a deep breath\".\nThis was a bit of a challenge for me to make honestly. I'm glad I finished it at all. I originally wanted to have bosses show up on the Mondays, but I'm happy leaving it were it is now. Sorry about the plate bug, hopefully it isn't to bad for any of you. If you actually make through all 31 days*, please post a screen shot, I'd love to see it! Also if you beat my high score! Thank for playing!\nKNOWN BUGS:\nSometimes plate ingredients overlap incorrectly.\n*After day 30 there is an extra day, not on the calendar. This isn't an endless game, don't worry.\nSometimes burgers can start as \"passible\" instead of raw.\nSome upgrades are offered more than once when they shouldn't be.(There are meant to be multiple upgrades with a \"+0.5\" or a \"-1\" in them, but not multiple upgrades of  ones with unique text i.e. Doubling score modifiers), selecting these after you've already picked one up will not do anything.\nIf any of you have ever worked the back of the house, I'm sorry for the ticket machine PTSD.\n\nMy Itch: NUTT3D\nEngine: Gdevelop\nSounds: Made using Audacity, Freesound.org(CC0),JummBox2.5 by NUTT3D\nSprites: NUTT3D\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAzMzI3MC8xMTk1ODU2Mi5wbmc=/original/VTCnui.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMzI3MC8xMTk1ODU2My5wbmc=/original/yGjWsz.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMzI3MC8xMTk1ODU2NC5wbmc=/original/GFS8G8.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMzI3MC8xMTk1ODU2Ni5wbmc=/original/SFbinY.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMzI3MC8xMTk1ODU2OC5wbmc=/original/Uad%2Bd0.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS",
+          "Author": "NUTT",
+          "Genre": "Survival",
+          "Made with": "GDevelop",
+          "Tags": "2D, Casual, Cute, Frogs, gdevelop, Pixel Art, Roguelike, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 2026485,
+      "gameUrl": "https://fireredplays.itch.io/woolala-wowlala",
+      "overallRank": 116,
+      "topCategories": [
+        "Creativity (how unique or innovative was this experience?)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzExOTI3Njg2LnBuZw==/300x240%23c/PZwAZT.png",
+        "contributors": [
+          {
+            "name": "fireredplays",
+            "id": 1814617
+          }
+        ],
+        "id": 2026485,
+        "criteria": [
+          {
+            "name": "Theme (how well does the game fit the challenge theme?)",
+            "rank": 163,
+            "score": 2.1723154118051,
+            "raw_score": 2.2352941176471
+          },
+          {
+            "name": "Gameplay (how good was the user experience, game design, narrative, etc?)",
+            "rank": 106,
+            "score": 2.4009801919951,
+            "raw_score": 2.4705882352941
+          },
+          {
+            "name": "Implementation (rate the game's overall stability and functionality)",
+            "rank": 169,
+            "score": 2.2294816068526,
+            "raw_score": 2.2941176470588
+          },
+          {
+            "name": "Presentation (rate its art, animations, sfx, music, and aesthetic appeal)",
+            "rank": 163,
+            "score": 2.2294816068526,
+            "raw_score": 2.2941176470588
+          },
+          {
+            "name": "Creativity (how unique or innovative was this experience?)",
+            "rank": 3,
+            "score": 3.4871378978977,
+            "raw_score": 3.5882352941176
+          }
+        ],
+        "url": "https://itch.io/jam/lv-99-game-jam/rate/2026485",
+        "raw_score": 2.5764705882353,
+        "rating_count": 17,
+        "score": 2.5038793430806,
+        "title": "Woolala Wowlala: Spell Caster",
+        "rank": 116
+      },
+      "entryData": {
+        "coolness": 10,
+        "created_at": "2023-04-23 03:12:26",
+        "id": 406004,
+        "game": {
+          "title": "Woolala Wowlala: Spell Caster",
+          "platforms": [
+            "windows"
+          ],
+          "user": {
+            "name": "fireredplays",
+            "url": "https://fireredplays.itch.io",
+            "id": 1814617
+          },
+          "url": "https://fireredplays.itch.io/woolala-wowlala",
+          "short_text": "Voice-activated Co-op Monster Slaying Game",
+          "id": 2026485,
+          "cover": "https://img.itch.zone/aW1nLzExOTI3Njg2LnBuZw==/300x240%23c/PZwAZT.png",
+          "cover_color": "#460045"
+        },
+        "url": "/jam/lv-99-game-jam/rate/2026485",
+        "rating_count": 17
+      },
+      "details": {
+        "title": "Woolala Wowlala: Spell Caster",
+        "description": "Voice-activated spell-casting game. Battle the Mighty Terror Bird and show who's the best wizard on the internet! Designed as a speed-running game, can you beat the bosses in under 20 seconds? I doubt so ... ... cause I can't yet.\nThe rule is simple, the longer (and more) you chant, the more powerful your spells will be. To get complete the level with three stars, you'll have to take a deep breath and cast an OHKO spell.\n\nMade for the Lv. 99 Game Jam 2023 with the theme of Take a deep breath. Winner of the Innovation Award.\nWhy makes breathing an in-game mechanic when you can put it into real life? Break the fourth wall you say?\nIn this game, the longer and more your sing woolala-wowlala, the bigger and more damage your spells will be! Innovative eh?\nMultiplayer Co-Op\nSupport up to 8 players in online co-op mode.  What's better than joining a Discord call and hearing everyone screaming and chanting woolala-wowlala?\nAvailable Spells\n\nFireball (high-damage projectile)Ignorance (enemy debuffs; reduced armor)God Of Fire (player buffs; increased Fire Spells damage)Meteor Storm (self-targeting AOE, low damage)Slow Down (self-targeting, slow down the enemy)Poker Shield (player buffs; neutralize incoming damages)\nAvailable Monsters\n\nGiant Turtle (tutorial, armored + melee attack)Terror Bird (flying monster, triple fireballs + lighting aoe)The Feiwu of Nanshan (dodging monster + high damaging fire rings)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAyNjQ4NS8xMTkxNzQ4Ny5wbmc=/original/BqM3UG.png",
+          "https://img.itch.zone/aW1hZ2UvMjAyNjQ4NS8xMTkxNzQ4NS5wbmc=/original/OsSce5.png",
+          "https://img.itch.zone/aW1hZ2UvMjAyNjQ4NS8xMTk2MDQ4MS5wbmc=/original/VYzdzr.png",
+          "https://img.itch.zone/aW1hZ2UvMjAyNjQ4NS8xMTk2MDQ4Mi5wbmc=/original/oR9%2BmP.png",
+          "https://img.itch.zone/aW1hZ2UvMjAyNjQ4NS8xMjc2NzE0NC5wbmc=/original/Gzt0DG.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows",
+          "Author": "fireredplays",
+          "Genre": "Action, Fighting",
+          "Made with": "Unity",
+          "Tags": "Co-op, Dragons, Fantasy, Magic, Multiplayer, Singleplayer, voice-controlled, Wizards",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Voice control",
+          "Accessibility": "Interactive tutorial, Textless"
+        }
+      }
+    },
+    {
+      "gameId": 2032474,
+      "gameUrl": "https://merekht.itch.io/sir-bubbles-saves-his-home",
+      "overallRank": 33,
+      "topCategories": [
+        "Creativity (how unique or innovative was this experience?)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzExOTc5NzAzLnBuZw==/300x240%23c/%2BqEwEy.png",
+        "contributors": [
+          {
+            "name": "Merekht",
+            "id": 6540102
+          }
+        ],
+        "id": 2032474,
+        "criteria": [
+          {
+            "name": "Theme (how well does the game fit the challenge theme?)",
+            "rank": 43,
+            "score": 3.0952380952381,
+            "raw_score": 3.0952380952381
+          },
+          {
+            "name": "Gameplay (how good was the user experience, game design, narrative, etc?)",
+            "rank": 38,
+            "score": 2.8095238095238,
+            "raw_score": 2.8095238095238
+          },
+          {
+            "name": "Implementation (rate the game's overall stability and functionality)",
+            "rank": 93,
+            "score": 2.7619047619048,
+            "raw_score": 2.7619047619048
+          },
+          {
+            "name": "Presentation (rate its art, animations, sfx, music, and aesthetic appeal)",
+            "rank": 65,
+            "score": 3,
+            "raw_score": 3
+          },
+          {
+            "name": "Creativity (how unique or innovative was this experience?)",
+            "rank": 10,
+            "score": 3.3333333333333,
+            "raw_score": 3.3333333333333
+          }
+        ],
+        "url": "https://itch.io/jam/lv-99-game-jam/rate/2032474",
+        "raw_score": 3,
+        "rating_count": 21,
+        "score": 3,
+        "title": "Sir Bubbles and the valley of Pyotsyks",
+        "rank": 33
+      },
+      "entryData": {
+        "coolness": 5,
+        "created_at": "2023-04-24 12:56:25",
+        "id": 406750,
+        "game": {
+          "title": "Sir Bubbles and the valley of Pyotsyks",
+          "platforms": [
+            "windows"
+          ],
+          "user": {
+            "name": "Merekht",
+            "url": "https://merekht.itch.io",
+            "id": 6540102
+          },
+          "url": "https://merekht.itch.io/sir-bubbles-saves-his-home",
+          "short_text": "Help Pyotsyks restore their home  in this risky adventure in a fairytale world full of perils.",
+          "id": 2032474,
+          "cover": "https://img.itch.zone/aW1nLzExOTc5NzAzLnBuZw==/300x240%23c/%2BqEwEy.png",
+          "cover_color": "#342e4a"
+        },
+        "url": "/jam/lv-99-game-jam/rate/2032474",
+        "rating_count": 21
+      },
+      "details": {
+        "title": "Sir Bubbles and the valley of Pyotsyks",
+        "description": "\n\t\n\t\t\n\t\t\t\nAbout the game\n\t\t\tAn adventure of Sir Bubbles - a hero-protector of the Valley of Pyotsyks. Use your bubble power to save your silly friends and transform the world.\n\t\t\t\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\t\n\t\t\tGame Plot\n\t\t\tLong ago the Valley of Pyotsyks that was just underneeth the home of Sir Bubbles was devastated by the Storm. When the storm was finally over. a strange green gas appeared as if from the underground. Everything the poison touched turned agressive and hostile.\n\t\t\tEveryhthing except Pyotsyks. In their chaotic play these small silly creatures somehow made everything bloom and flourish. In the days after the Storm they tried to rebuild what they could.  \n\t\t\tSir Bubbles remembers those days. He helped pyotsyks by Inflating huge bubbles and creating Oases of Tranquility, where Pyotsyks lived ever since. And Bubbles became Sir Bubbles a Hero-Protector of the Valley of Pyotsyks.\n\t\t\tSir Bubbles lived peacefully in his bubble home. His days of glory were behind him. Or so he thought...\n\t\t\tThe winds are rising again and the new storm has hit the valley.\n\t\t\tLooks like it's time for Sir Bubbles to take the matter in his pipes again!\n\t\t\t\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\t\n\t\t\tGoal\n \n\t\t\tRestore all Oases by bringing Pyotsyks to their homes near lakes.\n\t\t\t\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\t\n\t\t\tControls\n \n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t RIGHT Mouse Button (hold or click)\n\t\t\t\t\t\t\n\t\t\t\t\t\tMove around\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t HOLD SPACE Button\n\t\t\t\t\t\tSpend Air to Inflate Bubble \n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t LEFT Mouse Button\n\t\t\t\t\t\t\n\t\t\t\t\t\tLaunch the Bubble\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\t\n\t\t\tToolset\n\t\t\tUnreal Engine 5.1.1 \n\t\t\tBlender 3.3\n\t\t\tInkscape\n\t\t\t\n\t\t\n\t\n\n \n\n\t\n\t\t\n\t\t\t\n\t\t\tCredits\n\t\t\tGame Design, Modeling, Animation, VFX were created by me during the game jam.\n\t\t\tSpecial thanks to :\n\t\t\t\n\t\t\t\tMy wife - Alona Dolnik, for her amazing voice acting, support and patience :)\n\n\t\t\t\tMy friends: \n\nDenis Kupets for the amazing music composed on such a short notice and for allowing me to use it.\n\t\t\t\tSasha Blazhenko for helping with testing in last minute.\n\t\t\t\n\t\t\t\n\t\t\n\t\n\n \n\n\t\n\t\t\n\t\t\t\n\t\t\tI hope you'll enjoy the game. Thanks for playing!\n\t\t\t\n\t\t\n\t\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAzMjQ3NC8xMTk4ODc5Mi5naWY=/original/%2FxYHMo.gif",
+          "https://img.itch.zone/aW1hZ2UvMjAzMjQ3NC8xMTk4ODc5My5naWY=/original/jDfTTN.gif",
+          "https://img.itch.zone/aW1hZ2UvMjAzMjQ3NC8xMTk2Mjg4Ny5wbmc=/original/ITjrQZ.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMjQ3NC8xMTk2Mjg4OS5wbmc=/original/3KuJ2r.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Author": "Merekht",
+          "Genre": "Adventure",
+          "Made with": "Unreal Engine, Blender, Inkscape",
+          "Tags": "Cartoon, Short",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    }
+  ]
+}

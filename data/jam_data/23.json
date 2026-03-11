@@ -1,0 +1,581 @@
+{
+  "n": 23,
+  "name": "Kenney Jam 2025",
+  "url": "https://itch.io/jam/kenney-jam-2025",
+  "theme": "POWER",
+  "slug": "kenney-jam-2025",
+  "jamMeta": {
+    "jamType": "ongoing",
+    "joined": "",
+    "entries": "709",
+    "title": "Kenney Jam 2025",
+    "jamURL": "https://itch.io/jam/kenney-jam-2025",
+    "hosts": {
+      "Kenney": "https://kenney.itch.io",
+      "Kay Lousberg": "https://kaylousberg.itch.io",
+      "#kenneyjam": "https://bsky.app/hashtag/kenneyjam"
+    },
+    "jamID": "389888"
+  },
+  "totalEntries": 696,
+  "ranked": true,
+  "hasCategories": false,
+  "needsManualSelection": false,
+  "categories": [],
+  "topGames": [
+    {
+      "gameId": null,
+      "gameUrl": "https://pedroaurelio-n.itch.io/amp-it-up",
+      "overallRank": 1,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "Amp It Up!",
+        "description": "⚡Amp It Up!⚡\nAwarded \"Best Overall 🥇\" in the Kenney Jam 2025 - Power\nPost-Jam Update:\nThanks a lot to everyone who played Amp It Up! It was a lot of fun to develop this game and participate in the Kenney Jam. I'm very honored to have been chosen as the best overall and it makes me very excited to continue participating on other jams and creating awesome projects. You should probably check out the other submissions too, there are a lot of hidden gems in there.\nI wanted to quickly adress some feedbacks and problems with the jam build, so I published an update to the game. Don't know if Amp It Up! is going to become a full project, but I have some crazy ideas.  Let's see... As for the new things in this build:\n\nLevel Select feature on the main menu! yay\nNew final level! (Level 9)\nTwo input/pathfinding bugfixes that were very common to encounter. Now you should get stuck with phantom wires and stuff\nMinor UI changes, text spelling mistakes corrected, etc\n\n***\nAmp It Up! is a strategy puzzle game where you use limited resources to connect generators to provide energy to buildings and structures in outer space. Power flows through the wires you placed in the grid, but you must plan your routes accordingly! Avoid obstacles, use relays and power every single building each level.\nHow to play: you only use the mouse buttons to play. Left Click interacts with buildings and place wires, Right Click deletes your previous wire and the Scroll Wheel changes between the two placement modes. Short tutorials are included in every level.\nTry to complete all stages! And if you manage to find economic routes in the later stages, I'd love to see your solution :)\nSolo-developed in 48hCredits to Kenney and KayKit for the assets\n***\nAs with every Kenney Jam, only  asset packs published by Kenney or KayKit were allowed to be used.\nThe only bonus challenge I've completed is 3 - Mouse only (Although some levels do present the bonus challenge 5 - Symmetry) \nI think I wrote every pack in this game:\nKayKit : Space Base BitsKayKit - Platformer PackKenney - UI Pack: Sci-FiKenney - Game IconsSome extra packs from Kenney Game Assets All-in-1\nAs for audio, I used some SFXs from Kenney as well mixed in with some random ones I purchased in a bundle some time ago. The music also came from another bundle. I don't think I managed to save the source/name though.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczNDg4My8yMjIyOTA2MC5naWY=/original/uMxSs3.gif",
+          "https://img.itch.zone/aW1hZ2UvMzczNDg4My8yMjczMDg2Ny5wbmc=/original/iHdfuY.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNDg4My8yMjIyOTA5OC5wbmc=/original/T%2FbCDy.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNDg4My8yMjIyOTA3OS5wbmc=/original/wjETg2.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNDg4My8yMjIyOTA3Ni5wbmc=/original/560EnQ.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNDg4My8yMjIyOTA3OC5wbmc=/original/BPOK%2BC.png"
+        ],
+        "moreInfo": {
+          "Updated": "27 days ago",
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "pedroaurelio_n",
+          "Genre": "Puzzle, Strategy",
+          "Made with": "Unity",
+          "Tags": "3D, Asset Pack, Mouse only, No AI, Point & Click, Sci-fi, Short, Top-Down, Unity"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://pixelpun.itch.io/sparknoid",
+      "overallRank": 2,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "SparkNoid",
+        "description": "\nSparkNoid is a retro-style 3D/2D puzzle adventure built in just 45 hours by PixelPun for the 2025 Kenney Jam. Dive into a mysterious pixelart dungeon where each locked door hides 2D minigames and puzzles. Solve the puzzles, uncover secrets, and unlock one of two possible endings. Featuring music by JetDarc and crafted entirely with a single Kenney asset pack.\nThe trailer really makes me laugh... I did it in a 1990s cartoon theme song style using Suno for the music. \n\n\n\nCrazy puzzle dungeon SparkNoid Action! \n\n\nExplore the dungeon with \"WASD\" and mouse traditional first person controls. The puzzles on the walls are activated by finding the activation spot and pushing \"F\" button. Part of the game is finding these spots, some can be very tricky. Complete the puzzles, open the doors and explore the dungeon and help the SparkNoids.\n\n\nIssues:\nCurrently the coin stage a tad harder then I wanted. You can still beat it but I guess when I edited the animations last minute (Dumb) It's harder for the little SparkNoid to fit on the left side. If you have problems with that puzzle it can still be beaten by jumping up the left side you have to fit between two tight blocks, but is 100% possible. So far that's the only thing I've caught that's not what I intended.  You can also get the coin from the right side, it's an easier climb but a harder jump.\nFinding the puzzle triggers\nMost puzzles you need to be about 5 to 8 feet away from the wall, the gif above is a good indication of about how far you need to be. Most puzzles the entire stage should fit on the screen to start the puzzle level.\nI do have an update for this once the jam is over.\n\nUpdate 8-22-05\nDownloadable versions for Mac, Windows and Linux \nUpdate 8-14-05\nAdded full controller support for xbox style controllers.\nWhen in the 3D dungeon you use the analog controls and the \"Y\" button to trigger puzzles (I haven't added the prompts will still show \"F\") and to pick up and interact with the world.When in the 2D sections you use the D-pad and the \"A\" button to jump.\nSomewhat fixed the jumping on puzzle 3 (Seems that it's a tad more broke then I thought)\nUpdated the blue door ending :)\nRandom fixes\nMuch bigger update coming out at some point that brings the game closer to what I had in mind making it, originally platforming on the walls as a SUPER small part of the game :P ",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczMTk4Ny8yMjI0MjIxMS5naWY=/original/MZ%2BUhi.gif",
+          "https://img.itch.zone/aW1hZ2UvMzczMTk4Ny8yMjc3ODk1Ny5wbmc=/original/ueDwkl.png",
+          "https://img.itch.zone/aW1hZ2UvMzczMTk4Ny8yMjI2MDM1NS5qcGc=/original/c4Ueex.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzczMTk4Ny8yMjIzNzczMS5wbmc=/original/9XCJsX.png",
+          "https://img.itch.zone/aW1hZ2UvMzczMTk4Ny8yMjIzNzc2MS5wbmc=/original/tuGQUH.png",
+          "https://img.itch.zone/aW1hZ2UvMzczMTk4Ny8yMjIzNzgzNi5wbmc=/original/uuBVTL.png",
+          "https://img.itch.zone/aW1hZ2UvMzczMTk4Ny8yMjIzNzk4NC5wbmc=/original/juI%2Bth.png",
+          "https://img.itch.zone/aW1hZ2UvMzczMTk4Ny8yMjI0MjU2NC5qcGc=/original/hfi66E.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzczMTk4Ny8yMjIzODExNC5wbmc=/original/VuaYSR.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "PixelPun",
+          "Genre": "Puzzle",
+          "Tags": "1bit, 3D Platformer, Black and White, construct-3, Dungeon Crawler, No AI, Pixel Art, Puzzle-Platformer, Retro, Short"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://karrot-fang.itch.io/pick-me-up",
+      "overallRank": 3,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "Pick me UP!",
+        "description": "⛏️Pick me UP!⛏️\nIn Pick me UP!, every click launches your pickaxe (or other tool of mayhem of your choice) skyward. Smash through different ores, stack power, and climb as high as you can before gravity takes its toll. When your clicks run out, it’s time to crash and crack the Big Bad Ore\nThe 2025 theme is... POWER!\n📑 Rules:\nClick the pickaxe to launch it upward (Keep in mind that your clicks are limited)Hitting ores grants effects (extra clicks, more velocity, gold)When you run out of clicks, the pickaxe falls with built-up powerSmash into the ground to 💥BREAK💥the ore below. If you reach the required power threshold you can go the next levelCollect gold (by breaking gold ores) to unlock stronger tools\n\n🎮 Controls:\nLaunch: [Left Click] to send the pickaxe upwards.Propel: In mid-air, click on either side of the pickaxe to push it in the opposite direction\n🌟 Bonuses:\nDuring your climb in the Minesfaht, you will encounter ores and bonuses that you can collect by hitting them with your pickaxe:\n\nThe Gold Ore - collecting it will grant you 10 gold.The Diamond Ore - collecting it will grant you 2 bonus clicks.Dynamite - hit it to trigger a blast that sends you soaring even higher\n\nℹ️ Notes:\nThink you’ve got what it takes to wield the almighty Golden Pickaxe of Destruction?  Collect 1,000 gold and see for yourself! Share your high scores in the comments and ejoy the game 💥**The first run may be a little bit laggy**\n\n📢 Credits\ncreated by Karrot Games : karrot_raa, karrot_fang- Main music Theme by Clemens H. a.k.a. \"sauer2- Assets by https://kenney.nl/assets/ & https://kaylousberg.itch.io/",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczMzQyNC8yMjIyNjE3My5wbmc=/original/EBAnGZ.png",
+          "https://img.itch.zone/aW1hZ2UvMzczMzQyNC8yMjIyNjE4NC5wbmc=/original/CuKDrJ.png",
+          "https://img.itch.zone/aW1hZ2UvMzczMzQyNC8yMjIyNjYxNS5naWY=/original/T%2Fehco.gif",
+          "https://img.itch.zone/aW1hZ2UvMzczMzQyNC8yMjIyNjE4OC5wbmc=/original/G4wGPn.png",
+          "https://img.itch.zone/aW1hZ2UvMzczMzQyNC8yMjIyNzk1OC5wbmc=/original/i2vQ63.png",
+          "https://img.itch.zone/aW1hZ2UvMzczMzQyNC8yMjIyODA0OC5naWY=/original/cdMcjb.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, Linux",
+          "Rating": "Rated 4.6 out of 5 stars(5 total ratings)",
+          "Author": "Fang (Karrot Games)",
+          "Genre": "Action",
+          "Made with": "Godot",
+          "Tags": "3D, Clicker, Fast-Paced, Godot, Incremental, Indie, Low-poly, Mouse only, No AI",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Mouse"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://popletox.itch.io/running-out-of-power",
+      "overallRank": 4,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "Running out of power",
+        "description": "\nYou and your train, ready for a long journey ahead. The birds are singing, the sun rises on the horizon. Everything feels perfect... Until it hits you: you forgot to refuel. With the power to have left, you won't even make it a third of the way.\nThankfully, nature offers everything you might need: COAL. Wait… is that a lost traveler? Maybe they’ll lend a hand if you pick them up. And—is that a zombie!?\nHead deep into the forest and scavenge whatever you can to power your train toward its destination. In this exploration game with roguelike elements, staying powered is everything. Keep moving, and you’ll uncover resources, allies, passengers... and perhaps even the undead. \n\nKENNEY Game Jam Notes\nThis game was made by me alone for the Kenney Game Jam 2025, held from July 18 to July 20. All assets used were from Kenney and KayKit. For the logo and background illustrations, I teamed up with Paloma (@corny_57). Big thanks to her for that part.\n \nThe version submitted for this jam is 0.2.0. The game isn’t as complete as I’d like it to be. There are two things to keep in mind. If you haven’t played the game yet, I recommend trying it at least once before reading further.\n \nPolice: The policeman isn’t implemented yet, so he doesn’t provide any benefits.\n Gold: Gold doesn’t have any use in this version. The idea was to add a shop during the run where you could buy train upgrades (like more space for passengers or better coal efficiency). This feature isn’t in version 0.2.0.\n \nI plan to expand the game with more resources and mechanics that can change how a run plays out. Still, I’m leaving this text as it is, so anyone (including myself) can revisit the jam version. If you’re reading this in the future, hopefully, the game has come a long way!\nControls\nThe game can be fully played using just the mouse.You can play the game in its web version or download it to play locally on your computer. The dowloadable version is only for Windows. I'm planing on exporting for macOS and Linux in the future.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczNTAxNC8yMjIzNDE3MC5wbmc=/original/wQA551.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNTAxNC8yMjIzNjAwOS5wbmc=/original/baAF2d.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNTAxNC8yMjIzNDE4Ny5wbmc=/original/WEtULK.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNTAxNC8yMjIzNDE4Ni5wbmc=/original/W7bmxm.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNTAxNC8yMjIzNDE4NS5wbmc=/original/v%2Fxlow.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNTAxNC8yMjIzNDE4OC5wbmc=/original/745UTL.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows",
+          "Author": "Poplo",
+          "Genre": "Strategy, Puzzle",
+          "Made with": "Unity",
+          "Tags": "3D, Exploration, Roguelike, Trains",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Mouse",
+          "Accessibility": "One button"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://null-builds.itch.io/maximum-voltage",
+      "overallRank": 5,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "Maximum Voltage",
+        "description": "\n[Maximum Voltage]\n\n\nCharge up your ship and wreak havoc in this short retro-inspired on-rails space shooter.\nPhotosensitivity Warning: This game contains high contrast flashing lights.\nMade in 48 hours for Kenney Jam 2025. Models, textures, and fonts exclusively taken from the following packs:\n\nKayKit Platformer Pack\nKenney Crosshair Pack\nKenney Explosion Pack\nKenney Game Icons\nKenney Mini Arena\nKenney Mini Square Font\nKenney Pattern Pack\nKenney Prototype Kit\nKenney Racing Kit\nKenney Space Kit\nKenney Space Kit (Legacy)\nKenney Space Station Kit\nKenney Tappy Plane\nKenney UI Pack - Pixel Adventure\nKenney UI Pack - Sci-fi\n\nHow To Play\nFill your ship's energy by collecting charges or flying through charge rings. With enough charges, you can jolt through the skies with a lightning dodge or unleash the devastating power of the turbo cannon.\nControls\nA controller is highly recommended for the best experience.\nMove:Left analog stick (XBox)WASD or arrow keys\nShoot:A Button (XBox)Space\nThese special moves can be executed when you've collected enough charge:\nDodge: Costs 1 chargeLeft analog stick + X (XBox)Hold WASD / arrows + Shift\nTurbo Cannon: Costs 5 chargesPress B (XBox)Ctrl\nCompatibility\nMacOS has not been tested and may not run correctly. Play if you dare.\nCredits\nCoding / Design / SFX\nCharles (Null Builds)\nModels/ Textures / Fonts\nKenney (www.kenney.nl)Kay Lousberg (www.kaylousberg.com)\nMusic\n\"Box Jump\" by Abstraction (https://abstractionmusic.com/)\"Pixel War 2\" by Abstraction (https://abstractionmusic.com/)\nBeta Testers\nJames Daggs",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczMDEzNC8yMjIzMjc0NC5wbmc=/original/%2FwJKXY.png",
+          "https://img.itch.zone/aW1hZ2UvMzczMDEzNC8yMjIzMjc0My5wbmc=/original/GYXI5M.png",
+          "https://img.itch.zone/aW1hZ2UvMzczMDEzNC8yMjIzMjc0MS5wbmc=/original/4Uvhfs.png",
+          "https://img.itch.zone/aW1hZ2UvMzczMDEzNC8yMjIzMjc0Mi5wbmc=/original/6%2BrtPy.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Null Builds",
+          "Genre": "Shooter",
+          "Made with": "Godot",
+          "Tags": "On-Rails Shooter, Retro, Space"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://pixelpun.itch.io/sparknoid",
+      "overallRank": 6,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "SparkNoid",
+        "description": "\nSparkNoid is a retro-style 3D/2D puzzle adventure built in just 45 hours by PixelPun for the 2025 Kenney Jam. Dive into a mysterious pixelart dungeon where each locked door hides 2D minigames and puzzles. Solve the puzzles, uncover secrets, and unlock one of two possible endings. Featuring music by JetDarc and crafted entirely with a single Kenney asset pack.\nThe trailer really makes me laugh... I did it in a 1990s cartoon theme song style using Suno for the music. \n\n\n\nCrazy puzzle dungeon SparkNoid Action! \n\n\nExplore the dungeon with \"WASD\" and mouse traditional first person controls. The puzzles on the walls are activated by finding the activation spot and pushing \"F\" button. Part of the game is finding these spots, some can be very tricky. Complete the puzzles, open the doors and explore the dungeon and help the SparkNoids.\n\n\nIssues:\nCurrently the coin stage a tad harder then I wanted. You can still beat it but I guess when I edited the animations last minute (Dumb) It's harder for the little SparkNoid to fit on the left side. If you have problems with that puzzle it can still be beaten by jumping up the left side you have to fit between two tight blocks, but is 100% possible. So far that's the only thing I've caught that's not what I intended.  You can also get the coin from the right side, it's an easier climb but a harder jump.\nFinding the puzzle triggers\nMost puzzles you need to be about 5 to 8 feet away from the wall, the gif above is a good indication of about how far you need to be. Most puzzles the entire stage should fit on the screen to start the puzzle level.\nI do have an update for this once the jam is over.\n\nUpdate 8-22-05\nDownloadable versions for Mac, Windows and Linux \nUpdate 8-14-05\nAdded full controller support for xbox style controllers.\nWhen in the 3D dungeon you use the analog controls and the \"Y\" button to trigger puzzles (I haven't added the prompts will still show \"F\") and to pick up and interact with the world.When in the 2D sections you use the D-pad and the \"A\" button to jump.\nSomewhat fixed the jumping on puzzle 3 (Seems that it's a tad more broke then I thought)\nUpdated the blue door ending :)\nRandom fixes\nMuch bigger update coming out at some point that brings the game closer to what I had in mind making it, originally platforming on the walls as a SUPER small part of the game :P ",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczMTk4Ny8yMjI0MjIxMS5naWY=/original/MZ%2BUhi.gif",
+          "https://img.itch.zone/aW1hZ2UvMzczMTk4Ny8yMjc3ODk1Ny5wbmc=/original/ueDwkl.png",
+          "https://img.itch.zone/aW1hZ2UvMzczMTk4Ny8yMjI2MDM1NS5qcGc=/original/c4Ueex.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzczMTk4Ny8yMjIzNzczMS5wbmc=/original/9XCJsX.png",
+          "https://img.itch.zone/aW1hZ2UvMzczMTk4Ny8yMjIzNzc2MS5wbmc=/original/tuGQUH.png",
+          "https://img.itch.zone/aW1hZ2UvMzczMTk4Ny8yMjIzNzgzNi5wbmc=/original/uuBVTL.png",
+          "https://img.itch.zone/aW1hZ2UvMzczMTk4Ny8yMjIzNzk4NC5wbmc=/original/juI%2Bth.png",
+          "https://img.itch.zone/aW1hZ2UvMzczMTk4Ny8yMjI0MjU2NC5qcGc=/original/hfi66E.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzczMTk4Ny8yMjIzODExNC5wbmc=/original/VuaYSR.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "PixelPun",
+          "Genre": "Puzzle",
+          "Tags": "1bit, 3D Platformer, Black and White, construct-3, Dungeon Crawler, No AI, Pixel Art, Puzzle-Platformer, Retro, Short"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://othentv.itch.io/chargeup",
+      "overallRank": 7,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "ChargeUp!",
+        "description": "Futur or Medieval? Choose your side... and the Power will be yours!\nConquer and take advantage on the battlefield by powering the dimension edge, grab energy orb and boost your dimensional production.\nYou can also trick your enemy by grabbing malus or a bonus and taking the lead, the first one to push his dimension and reach the the enemies back win!\nHow to play:\nPlayer 1: Z-Q-S-D  to Move / E to Charge production\nPlayer 2: I-J-K-L  to Move / O to Charge production\nRules:\nCollect yellow orbs to boost your production and deliver them to your towers.\nEach time a tower receives an orb, you gain ground against your opponent.\nAfter delivering five orbs to a tower, it upgrades—up to two times—for enhanced performance.\nHelpful bonuses may also appear:\nStar – Increases your speed\nSnowflake – Freezes your opponent temporarily\nBomb – Downgrades one of your opponent's towers\nNotes:\nWe recommend to play in full screen or with the windows build (same as the web)There are options to control volume, we recommend reducing it at the beginning\nThe Amazing team composed of:\nDUBOIS Evan  (OthenTV): Programmer\nGUYOT Augustin : Programmer\nALBANI VAN-FOUQUES Bryan : Programmer\nROMAGNY Valentin : Sound Design/ Music/ Game Designer",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczMTEyNC8yMjIzNDM4NC5wbmc=/original/ZI9AQP.png",
+          "https://img.itch.zone/aW1hZ2UvMzczMTEyNC8yMjIzNDM4OC5wbmc=/original/7x6iZ%2F.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Authors": "OthenTV, Gugusea, Snoud, ShadOuii",
+          "Genre": "Action, Puzzle",
+          "Made with": "Unity",
+          "Tags": "Fantasy, Indie, Local multiplayer, Top-Down, Unity",
+          "Average session": "A few seconds"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://nistace.itch.io/powertrack",
+      "overallRank": 8,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "PowerTrack",
+        "description": "Build clever tracks to guide your toy car to the goal!\nCollect power-ups, avoid obstacles, and make the most of every curve.\nCreated in 48h for the Kenney Jam 2025.\nControls\nThe game can be fully played with the MouseStart the car: SpaceUndo: XReset the car: RRestart the level: Backspace\nAssets used\nKenney's Minigolf Kit : https://kenney.nl/assets/minigolf-kitKenney's Toy Car Kit: https://kenney.nl/assets/toy-car-kitKenney's Platformer Kit: https://kenney.nl/assets/platformer-kitKenney's Game Icons: https://kenney.nl/assets/game-iconsKenney's Interface Sounds: https://kenney.nl/assets/interface-sounds\nElectric Boots font: https://www.dafont.com/electric-boots.font?text=PowertrackElectric Kiss font: https://www.dafont.com/electric-kiss.font?text=Thanks+for+playing\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczNjA5NC8yMjI1NjE3MC5wbmc=/original/WTSakD.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNjA5NC8yMjI1NjE3MS5wbmc=/original/b%2BkdL6.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNjA5NC8yMjI1NjE3Mi5wbmc=/original/rxjp03.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Author": "Nathan",
+          "Genre": "Puzzle"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://besk61.itch.io/powerbot",
+      "overallRank": 9,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "PowerBot! (KenneyJam 2025 Submission)",
+        "description": "(Playing Fullscreen is Recommended!)\nLeft Click To Move, Right Click to Break! Every Block is Breakable!\nPowerBot! is the world's first and greatest robot to help humans, but can he pass the tests first? Powerbot has limited power in each stage so your every move counts. Every move, every jump, every obstacle you break... they all take a bite out of your precious power. Your goal is simple: reach the exit before you run out of energy. But be careful! One wrong move could leave you completely drained.\n-Strategic block-based movement system\n-Jumping, obstacle-breaking, and energy management\n-Cute but challenging puzzle levels\n-A simple yet colorful world built solely with Kenney and Kaykit assets",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczNTkwMi8yMjIzNDQ0Ny5qcGc=/original/uMI5Rm.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzczNTkwMi8yMjIzNDQ0Ni5qcGc=/original/AQ%2FFGg.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzczNTkwMi8yMjIzNDU1NS5wbmc=/original/FT%2Blbh.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Besk61",
+          "Genre": "Puzzle, Platformer",
+          "Made with": "Unity",
+          "Tags": "kenneyjam, Robots"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://mowerpowergame.itch.io/play",
+      "overallRank": 10,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "Mower Power",
+        "description": "=== Mower Power ===\nIt's a hot summer day, and your DIY lawnmower keeps falling apart. Luckily, you have the tools to fix it, and power stations everywhere to  keep it running.\nA chill game for messing around with physics, building the lawnmower of your dreams, and breaking things. \nMade for Kenney Jam 2025, theme: \"Power\"(All visual assets from Kenney, electricity symbol made from grass)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczMzc2NS8yMjIyOTgyMi5wbmc=/original/NgZTaG.png",
+          "https://img.itch.zone/aW1hZ2UvMzczMzc2NS8yMjIyOTgxOC5wbmc=/original/JUPzrn.png",
+          "https://img.itch.zone/aW1hZ2UvMzczMzc2NS8yMjIyOTgyMC5wbmc=/original/yMzFBh.png",
+          "https://img.itch.zone/aW1hZ2UvMzczMzc2NS8yMjIyOTgxOS5wbmc=/original/2C8eqP.png",
+          "https://img.itch.zone/aW1hZ2UvMzczMzc2NS8yMjIyOTgyMS5wbmc=/original/o92%2BKT.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Author": "mowerpowergame",
+          "Genre": "Simulation",
+          "Made with": "Unity",
+          "Tags": "lawnmower",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://nszym.itch.io/power-crane-fishing",
+      "overallRank": 11,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "Power Crane Fishing",
+        "description": "Game made in 48h for the Kenney Jam 2025With the theme \"Power\"\n--------------------------------------\nOverfishing is highly illegal... But who cares ?!?You're a mighty capitalist; Ready to do anything to increase profits !Use your giant crane and its faulty wires to electrocute as many fishes, as fast as you can.Sell the fishes and re-invest the profit into upgrades for your crane... To fry even more fishes !it's the virtuous cycle of life capitalism !!!Isn't it wonderful ?\n--------------------------------------\nLeft / Right arrows : Move the craneWASD : Move the hookSpace : Electrocute\n--------------------------------------\n\n----------------Credits----------------\n----------------Game development----------------\nSzym\n----------------Visual assets & Fonts----------------\nKenney\n----------------Music----------------\nMischief Maker by Kevin Macleod\n----------------Sounds----------------\nSimple Zaps by SomeSineZap.ogg by egomassiveSci-Industrial Ambience by Brett GregoryBELLHand-Blue Snowball Microphone by designerschoiceCash Register Fake.wav by CapsLokblip-plock-pop by onikage22",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczMzc5Ni8yMjIzMjE3OS5wbmc=/original/7yDShW.png",
+          "https://img.itch.zone/aW1hZ2UvMzczMzc5Ni8yMjIzMjEzNC5wbmc=/original/cL3uvx.png",
+          "https://img.itch.zone/aW1hZ2UvMzczMzc5Ni8yMjIzMjEzNy5wbmc=/original/%2F9D098.png",
+          "https://img.itch.zone/aW1hZ2UvMzczMzc5Ni8yMjIzMjE0MS5wbmc=/original/g%2FvU8r.png",
+          "https://img.itch.zone/aW1hZ2UvMzczMzc5Ni8yMjIzMjEzMS5wbmc=/original/Myz3zi.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.7 out of 5 stars(3 total ratings)",
+          "Author": "Szym",
+          "Genre": "Simulation",
+          "Made with": "Unity",
+          "Tags": "2D, Colorful, Cute, Fast-Paced, Fishing, Pixel Art",
+          "Asset license": "Creative Commons Zero v1.0 Universal",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://nomad-norman.itch.io/one-more-arrow",
+      "overallRank": 12,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "One More Arrow",
+        "description": "‎ \nYou're dropped into the pit. Enemies swarm from all sides in wave after wave. Fight for your life with your bow, and choose your upgrades wisely. How many waves can you survive?\n‎ The game was made in 48 hours for Kenney Jam 2025.\n◀︎───────────────────────────────────────────▶︎\n‎ \nControls:\nWASD - movementSpace - jumpLEFT SHIFT (while moving) - slideLMB - shoot\n‎ \nMusic: Kick Me Harder by Clement Panchout",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczNTE1Ny8yMjIzNjA0Ni5wbmc=/original/MbyZ4Y.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNTE1Ny8yMjIzNjA0Ny5wbmc=/original/xwpwl0.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNTE1Ny8yMjIzNjA0Mi5wbmc=/original/gLj%2FIV.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNTE1Ny8yMjIzNjA0MC5wbmc=/original/sbObfo.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Author": "Nomad_Norman",
+          "Genre": "Action",
+          "Made with": "Godot",
+          "Tags": "Archery, Fantasy, Fast-Paced, First-Person, Medieval, Pixel Art, Retro, Roguelike",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://mildlycreativeusername.itch.io/graveyard-defense",
+      "overallRank": 13,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "Graveyard Defense",
+        "description": "Summon army of skeletons to defend graveyard against invadersGain currency (power) when minions die\nIf minions health is low enough you can click it to sacrifice it gaining additional powerPower can be used to send new minions (by clicking graves) dow the lanesor upgrade future summons (by clicking shrine)\nSubmission for KenneyJam2025\nTheme Power - kill minions for power, or test your skills in endless mode against exponentially scaling opponents",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczNTg3Ni8yMjIzNTMyNi5wbmc=/original/qMpTk%2F.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNTg3Ni8yMjIzNTMzOS5wbmc=/original/Hcr1uh.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNTg3Ni8yMjIzNTM0MC5wbmc=/original/3D79uw.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "MildlyCreativeUsername",
+          "Genre": "Strategy",
+          "Made with": "Godot",
+          "Tags": "3D, Godot, Mouse only, Tower Defense"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://grunlock.itch.io/lost-lantern",
+      "overallRank": 14,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "Lost Lantern",
+        "description": "Your lantern is all that is left to light up this world, make sure it doesn't run out of  power.\nControlsWASD - MoveMouse - LookLeft Click - Pulse LanternP - Pause\nOriginally made in 48 hours for the Kenney Jam 2025. All sprites, textures, 3D models, and fonts are from Kenney and KayKit packs.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczNjA2OC8yMjIzODIyMy5wbmc=/original/Y7sj5z.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNjA2OC8yMjIzODIyMS5wbmc=/original/KfWere.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNjA2OC8yMjIzODIyMi5wbmc=/original/3K9S8C.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNjA2OC8yMjIzODIyNC5wbmc=/original/XHGCwd.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Author": "Grunlock",
+          "Made with": "Unity",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://armandasleo.itch.io/bouncing-dungeon",
+      "overallRank": 15,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "Bouncing dungeon",
+        "description": "Game info\nYou play as three heroes on a quest to clear a dungeon. Pull them with your mouse to aim, then release to launch them. Each hero also has a special ability to help defeat enemies.\nThis game was made in 2 days during Kenney Jam 2025. All assets except for audio and music are from Kenney game asset packs. \nControls\nMouse: for controlling the heroes and clicking buttons\nR: reset level\nP: pause level\nN: mute sounds\nM: mute music",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczNTQxNC8yMjIzMTUwNS5wbmc=/original/WYE0Yt.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNTQxNC8yMjIzMTUwOC5wbmc=/original/3%2BCFG1.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNTQxNC8yMjIzMTUxMi5wbmc=/original/O3kggD.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "ArmandasLeo",
+          "Genre": "Puzzle, Adventure",
+          "Made with": "Unity",
+          "Tags": "2D, No AI, Pixel Art, Turn-based"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://brainlagdev.itch.io/power-of-the-art",
+      "overallRank": 16,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "Power Of The Art",
+        "description": "Draw symbols with your hand and cast spells! ",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczNTg0My8yMjI0NjEzOC5naWY=/original/Ph3p0j.gif",
+          "https://img.itch.zone/aW1hZ2UvMzczNTg0My8yMjI0NjEzOS5naWY=/original/%2BbK%2BGk.gif",
+          "https://img.itch.zone/aW1hZ2UvMzczNTg0My8yMjI0NjEzNy5naWY=/original/CiyoE1.gif"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Authors": "Abyss Vanquisher, IvanChornozem, JojoScenarist, s0ngbirdd",
+          "Genre": "Action",
+          "Made with": "Unity",
+          "Tags": "Arcade, Cute, Drawing"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://mnemosynevl.itch.io/power-fantasy",
+      "overallRank": 17,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "Power Fantasy",
+        "description": "mouse - aim\nLMB - shoot\nRMB + mouse - move character (think of a boat control, or shifting a gear)\n(OPTIONAL)W/A/S/D - move character (click each button once, you'll get it.)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczNDM0NS8yMjIzNjg2OC5naWY=/original/X2B373.gif",
+          "https://img.itch.zone/aW1hZ2UvMzczNDM0NS8yMjIzNjg0Ny5naWY=/original/kA1pzp.gif",
+          "https://img.itch.zone/aW1hZ2UvMzczNDM0NS8yMjIzNjQ2Ni5qcGc=/original/Kx8lsa.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzczNDM0NS8yMjIzNjQ2Ny5qcGc=/original/bbew%2B8.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzczNDM0NS8yMjI1MzI3My5wbmc=/original/kTVimn.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows",
+          "Author": "MnemosyneVL",
+          "Genre": "Shooter",
+          "Tags": "3D, jam-game, Mechs, Robots, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://splendiddog.itch.io/power-through-the-night",
+      "overallRank": 18,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "Power Through the Night",
+        "description": "Can you keep the power on and survive the night?\nVampires have taken over the world, things are looking dire... but you've managed to set up camp in an old tunnel, and have been able to fend off the vampires with UV lights. Recently, your power has been failing. Can you properly reroute and repair it in time to see the sun once more?\nHow to play\nIn 'Power Through the Night' your goal is to survive until daylight against an onslaught of vampires!\nPipe Management:\nClick on power pipes to rotate them.If a pipe breaks (turns red) click on it to repair it.Reroute the power while the broken tube is being fixed.T-Shape pipes can only be toggled 90 degrees clockwise, every other pipe can bee freely rotated.\nLight Management:\nClick one of the 4 lights on the left side of the screen to toggle them,Lights consume power. Only Turn them on if neccesary.\nKeep your power bar above 0, try to hold out until morning!\n\nCredits\nCreated by: Chase Middleton & AlfieBackground Music by: Harrison BillianAdditional SFX: ZapSplat.com & Freesound.orgAssets Used:Space Station KitBuilding KitUI Pack - Sci-FiAnimated Characters 3Car KitBoard Game IconsFantasy UI BordersKayKit - Forest Nature PackKayKit - Forest Nature PackKayKit : Furniture BitsKayKit : Halloween Bits\nCreated for the Kenney Jam 2025",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczMzY1MC8yMjIzOTAyNC5wbmc=/original/p6eDIs.png",
+          "https://img.itch.zone/aW1hZ2UvMzczMzY1MC8yMjIzOTAyNS5wbmc=/original/TLv16T.png",
+          "https://img.itch.zone/aW1hZ2UvMzczMzY1MC8yMjIzOTAyNi5wbmc=/original/h1Q%2FV%2B.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "SplendidDog",
+          "Genre": "Strategy",
+          "Made with": "Godot",
+          "Tags": "2D, Arcade, Godot, Point & Click, Short, Singleplayer, Spooky, Top-Down, Vampire",
+          "Average session": "A few minutes",
+          "Inputs": "Mouse",
+          "Accessibility": "One button",
+          "Links": "Bluesky"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://whysoup.itch.io/a-bite-at-barrys",
+      "overallRank": 19,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "A Bite at Barry's",
+        "description": "Your colleague had to call off their shift last-minute. Thankfully you're such a dutiful employee that you took up the work with only minimal threats!\nIt's only one night anyway, what's the worst that could happen..?\nHow to play\nSwipe left and right to tilt your head,Turn on lights using the panel on your left, but don't use too much!Use the cameras on your right to keep an eye on Barry. Remember to turn on the lights in the room to see.Close the door in a pinch with the button on your desk,Stay safe out there :)\nSubmission for the Kenney Gamejam 2025. Made in 48 hours.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzczNTc4MS8yMjI0MDMyMi5wbmc=/original/cwSEK1.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNTc4MS8yMjI0MDI2NS5wbmc=/original/D4zkrA.png",
+          "https://img.itch.zone/aW1hZ2UvMzczNTc4MS8yMjI0MDI2Ni5wbmc=/original/etwc4S.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Author": "WhySoup",
+          "Genre": "Survival",
+          "Made with": "Unity",
+          "Tags": "3D, Horror, Indie, Short, Singleplayer, Survival Horror, Unity",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Mouse"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://lanefox.itch.io/disaster-company-intern",
+      "overallRank": 20,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "The Disaster Company Intern",
+        "description": "Requirements: Audio! Keyboard (WASD/Spacebar)!\nMade for Kenney Jam 2025. I wanted to add a couple more levels as the workflow became really fast after getting the base systems done, but ran out of time since I didn't get to work on it Friday.\nThe idea was to be applying for a job at a company that handles disasters by sending someone in to avert them. You'd be a Disaster Manager, and your job would be to show up, figure out what's wrong and solve the problem so that nothing terrible happens. The intern test would be a short series of diorama tests - try to get the job by proving you can handle disasters! The super helpful Narrator guides you through the whole process!\nUnfortunately things don't always go according to plan so you'll have to prepare for the unexpected!\nControls : WASD/Spacebar or possibly controllers (didnt test them)",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIyMjMwODIzLnBuZw==/original/2K%2BjbZ.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Lane",
+          "Genre": "Puzzle, Adventure",
+          "Made with": "Unity",
+          "Tags": "3D, Funny, kenney-jam, kenneyjam2025, Sci-fi, Short, Unity"
+        }
+      }
+    }
+  ]
+}

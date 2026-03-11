@@ -1,0 +1,4522 @@
+{
+  "n": 56,
+  "name": "Mix and Game Jam (2020)",
+  "url": "https://itch.io/jam/mix-and-game-jam-2020",
+  "theme": "MIXING GENRES",
+  "slug": "mix-and-game-jam-2020",
+  "jamMeta": {
+    "jamType": "ended",
+    "ratings": "9,676",
+    "entries": "649",
+    "title": "Mix and Game Jam (2020)",
+    "jamURL": "https://itch.io/jam/mix-and-game-jam-2020",
+    "hosts": {
+      "Mix and Jam": "https://mixandjam.itch.io"
+    },
+    "jamID": "18873"
+  },
+  "totalEntries": 626,
+  "ranked": true,
+  "hasCategories": true,
+  "needsManualSelection": false,
+  "categories": [
+    "Creativity",
+    "Gameplay",
+    "Art",
+    "Sound"
+  ],
+  "topGames": [
+    {
+      "gameId": 821921,
+      "gameUrl": "https://danqzq.itch.io/ordinary-pong-with-a-chance-of-mixing-genres",
+      "overallRank": 1,
+      "topCategories": [
+        "Creativity",
+        "Gameplay",
+        "Art",
+        "Sound"
+      ],
+      "resultData": {
+        "title": "ORDINARY PONG with a chance of mixing genres",
+        "rank": 1,
+        "id": 821921,
+        "score": 4.6976744186047,
+        "raw_score": 4.6976744186047,
+        "rating_count": 43,
+        "url": "https://itch.io/jam/mix-and-game-jam-2020/rate/821921",
+        "cover_url": "https://img.itch.zone/aW1nLzQ2MjA1MzguZ2lm/300x240%23c/pCKhs8.gif",
+        "contributors": [
+          {
+            "name": "Danial Jumagaliyev",
+            "id": 1454530
+          },
+          {
+            "name": "NABakosh",
+            "id": 3063971
+          },
+          {
+            "name": "Mr_Zhorik",
+            "id": 3034419
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "rank": 1,
+            "score": 4.6976744186047,
+            "raw_score": 4.6976744186047
+          },
+          {
+            "name": "Gameplay",
+            "rank": 5,
+            "score": 4.2790697674419,
+            "raw_score": 4.2790697674419
+          },
+          {
+            "name": "Art",
+            "rank": 14,
+            "score": 4.3953488372093,
+            "raw_score": 4.3953488372093
+          },
+          {
+            "name": "Sound",
+            "rank": 3,
+            "score": 4.2325581395349,
+            "raw_score": 4.2325581395349
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 43,
+        "field_responses": [
+          "10357:2",
+          "10358:2"
+        ],
+        "coolness": 89,
+        "id": 170180,
+        "contributors": [
+          {
+            "name": "Danial Jumagaliyev",
+            "url": "https://danqzq.itch.io"
+          },
+          {
+            "name": "NABakosh",
+            "url": "https://nabakosh.itch.io"
+          },
+          {
+            "name": "Mr_Zhorik",
+            "url": "https://mr-zhorik.itch.io"
+          }
+        ],
+        "created_at": "2020-11-15 15:37:50",
+        "url": "/jam/mix-and-game-jam-2020/rate/821921",
+        "game": {
+          "id": 821921,
+          "cover_color": "#000000",
+          "url": "https://danqzq.itch.io/ordinary-pong-with-a-chance-of-mixing-genres",
+          "user": {
+            "name": "Danial Jumagaliyev",
+            "url": "https://danqzq.itch.io",
+            "id": 1454530
+          },
+          "gif_cover": "https://img.itch.zone/aW1nLzQ2MjA1MzguZ2lm/original/pucONm.gif",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "title": "ORDINARY PONG with a chance of mixing genres",
+          "cover": "https://img.itch.zone/aW1nLzQ2MjA1MzguZ2lm/300x240%23c/pCKhs8.gif",
+          "short_text": "The title says it all :)"
+        }
+      },
+      "details": {
+        "title": "ORDINARY PONG with a chance of mixing genres",
+        "description": "For the best quality experience, please download the game.\nMade for Mix & Jam in 48 hours.\nControls                               Key-bindings                                                                                Paddle MovementUp Arrow & Down Arrow (or W & S)ShootSpace keyExit To Main MenuEscape key\nJoin the official Discord server to stay updated with the game and chat with the developer!\n Brief explanation of each mode:\nEasy mode - infinite play; you have 5 health points.Hard mode - infinite play; you have 1 health point.Tutorial - a tutorial level, with explanations at each appearance of a genre.\n Known bugs:\nSlight delay of visual background effects in Tutorial.Leaderboard not working in WebGL build.Ping pong ball phasing through the screen boundaries at rare occasions.\n Credits:\nProgramming - Danial Jumagaliyev, Cactus, Zhubanysh BurlibaevPixel Art - Zhubanysh BurlibaevSound Effects - KINGOFMUSICMusic - TeknoAxe",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODIxOTIxLzQ2MDczMTkucG5n/original/IrOXcy.png",
+          "https://img.itch.zone/aW1hZ2UvODIxOTIxLzQ2MDc3MzYucG5n/original/SwrB00.png",
+          "https://img.itch.zone/aW1hZ2UvODIxOTIxLzQ2MDczNzEuanBn/original/0IQTxa.jpg",
+          "https://img.itch.zone/aW1hZ2UvODIxOTIxLzQ2MDc0NDMuanBn/original/GFx1vq.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 4.7 out of 5 stars(3 total ratings)",
+          "Authors": "Danial Jumagaliyev, NABakosh, Mr_Zhorik",
+          "Made with": "Unity",
+          "Tags": "2D, Arcade, gamepad, online, pong, Retro, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 822575,
+      "gameUrl": "https://margeret.itch.io/plan-bee",
+      "overallRank": 2,
+      "topCategories": [
+        "Creativity",
+        "Gameplay"
+      ],
+      "resultData": {
+        "title": "Bees in a Trenchcoat",
+        "rank": 2,
+        "id": 822575,
+        "score": 4.6666666666667,
+        "raw_score": 4.6666666666667,
+        "rating_count": 9,
+        "url": "https://itch.io/jam/mix-and-game-jam-2020/rate/822575",
+        "cover_url": "https://img.itch.zone/aW1nLzQ2MjExMDkucG5n/300x240%23c/oxOBF7.png",
+        "contributors": [
+          {
+            "name": "margeret",
+            "id": 2395548
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "rank": 2,
+            "score": 4.6666666666667,
+            "raw_score": 4.6666666666667
+          },
+          {
+            "name": "Gameplay",
+            "rank": 8,
+            "score": 4.2222222222222,
+            "raw_score": 4.2222222222222
+          },
+          {
+            "name": "Art",
+            "rank": 34,
+            "score": 4.2222222222222,
+            "raw_score": 4.2222222222222
+          },
+          {
+            "name": "Sound",
+            "rank": 39,
+            "score": 3.7777777777778,
+            "raw_score": 3.7777777777778
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 9,
+        "coolness": 13,
+        "id": 170754,
+        "field_responses": [
+          "10357:2",
+          "10358:1"
+        ],
+        "created_at": "2020-11-15 18:54:52",
+        "url": "/jam/mix-and-game-jam-2020/rate/822575",
+        "game": {
+          "user": {
+            "name": "margeret",
+            "url": "https://margeret.itch.io",
+            "id": 2395548
+          },
+          "id": 822575,
+          "url": "https://margeret.itch.io/plan-bee",
+          "title": "Bees in a Trenchcoat",
+          "cover": "https://img.itch.zone/aW1nLzQ2MjExMDkucG5n/300x240%23c/oxOBF7.png",
+          "short_text": "You're bees - but no one can know. Complete missions, with stealth and puzzles."
+        }
+      },
+      "details": {
+        "title": "Bees in a Trenchcoat",
+        "description": "Made as a submission to the Mix and Jam Game JamAs bees in a trenchcoat, you must not bee seen by anyone while completing puzzles to get to the end of each level!\nKNOWN BUGS\nWhen switching levels, the game needs to restart or it breaks.\nPlayers can spawn outside the invisible walls with splitting.\nThe second level has no invisible walls.\nControls\nWASD - move\nClick - interact / use / drag objects\nF - place a hive\nSpacebar - drop the trenchcoat\n\nWe took the theme and used the genres Stealth and Puzzles - and when you are bees, doing anything is a puzzle and staying hidden is a must. Because humans hate bees, but it's ok because we hate them back!Extract and play",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODIyNTc1LzQ2MTExNjcucG5n/original/hcyd4l.png",
+          "https://img.itch.zone/aW1hZ2UvODIyNTc1LzQ2MTExNjkucG5n/original/oIaraQ.png",
+          "https://img.itch.zone/aW1hZ2UvODIyNTc1LzQ2MTExNjYucG5n/original/mwRSEY.png",
+          "https://img.itch.zone/aW1hZ2UvODIyNTc1LzQ2MTExNjgucG5n/original/nTSS9Q.png",
+          "https://img.itch.zone/aW1hZ2UvODIyNTc1LzQ2MTExNzAucG5n/original/KSpGkb.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "margeret",
+          "Genre": "Puzzle",
+          "Tags": "bees, Isometric, Stealth"
+        }
+      }
+    },
+    {
+      "gameId": 822400,
+      "gameUrl": "https://benjamin-coquelle.itch.io/kill-ball-tactics",
+      "overallRank": 3,
+      "topCategories": [
+        "Creativity"
+      ],
+      "resultData": {
+        "title": "Kill Ball Tactics",
+        "rank": 3,
+        "id": 822400,
+        "score": 4.5652173913043,
+        "raw_score": 4.5652173913043,
+        "rating_count": 23,
+        "url": "https://itch.io/jam/mix-and-game-jam-2020/rate/822400",
+        "cover_url": "https://img.itch.zone/aW1nLzQ2MTAwNzIucG5n/300x240%23c/vZF%2BJs.png",
+        "contributors": [
+          {
+            "name": "Benjamin Coquelle",
+            "id": 586930
+          },
+          {
+            "name": "Robin Six",
+            "id": 1057671
+          },
+          {
+            "name": "ThomasFuentes",
+            "id": 879149
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "rank": 3,
+            "score": 4.5652173913043,
+            "raw_score": 4.5652173913043
+          },
+          {
+            "name": "Gameplay",
+            "rank": 20,
+            "score": 4.0869565217391,
+            "raw_score": 4.0869565217391
+          },
+          {
+            "name": "Art",
+            "rank": 114,
+            "score": 3.7391304347826,
+            "raw_score": 3.7391304347826
+          },
+          {
+            "name": "Sound",
+            "rank": 198,
+            "score": 3,
+            "raw_score": 3
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 23,
+        "field_responses": [
+          "10357:2",
+          "10358:4"
+        ],
+        "coolness": 3,
+        "id": 170737,
+        "contributors": [
+          {
+            "name": "Benjamin Coquelle",
+            "url": "https://benjamin-coquelle.itch.io"
+          },
+          {
+            "name": "Robin Six",
+            "url": "https://sixrobin.itch.io"
+          },
+          {
+            "name": "ThomasFuentes",
+            "url": "https://thomasfuentes.itch.io"
+          }
+        ],
+        "created_at": "2020-11-15 18:53:35",
+        "url": "/jam/mix-and-game-jam-2020/rate/822400",
+        "game": {
+          "short_text": "A mix between Pool and RPG!",
+          "cover": "https://img.itch.zone/aW1nLzQ2MTAwNzIucG5n/300x240%23c/vZF%2BJs.png",
+          "user": {
+            "name": "Benjamin Coquelle",
+            "url": "https://benjamin-coquelle.itch.io",
+            "id": 586930
+          },
+          "url": "https://benjamin-coquelle.itch.io/kill-ball-tactics",
+          "id": 822400,
+          "title": "Kill Ball Tactics",
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#c4c4c4"
+        }
+      },
+      "details": {
+        "title": "Kill Ball Tactics",
+        "description": "\nImagine your classic RPG with knights, mage, goblins, but instead of your classic turn based gameplay, it's a turn based pool game!\n\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODIyNDAwLzQ2MTA0NzQucG5n/original/x4MLdF.png",
+          "https://img.itch.zone/aW1hZ2UvODIyNDAwLzQ2MTA0NzUucG5n/original/Kigr20.png",
+          "https://img.itch.zone/aW1hZ2UvODIyNDAwLzQ2MTA0NzgucG5n/original/hd4EQb.png",
+          "https://img.itch.zone/aW1hZ2UvODIyNDAwLzQ2MTA0NzkucG5n/original/XfSOtA.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.3 out of 5 stars(7 total ratings)",
+          "Authors": "Benjamin Coquelle, Robin Six, ThomasFuentes",
+          "Genre": "Strategy, Role Playing",
+          "Made with": "Unity",
+          "Tags": "3D, Funny, mix, pool"
+        }
+      }
+    },
+    {
+      "gameId": 822077,
+      "gameUrl": "https://laura-7.itch.io/boxco-next-day-delivery",
+      "overallRank": 4,
+      "topCategories": [
+        "Creativity",
+        "Gameplay",
+        "Art"
+      ],
+      "resultData": {
+        "title": "BoxCo: Next Day Delivery (+CO-OP)",
+        "rank": 4,
+        "id": 822077,
+        "score": 4.5555555555556,
+        "raw_score": 4.5555555555556,
+        "rating_count": 9,
+        "url": "https://itch.io/jam/mix-and-game-jam-2020/rate/822077",
+        "cover_url": "https://img.itch.zone/aW1nLzQ2MTU3MTgucG5n/300x240%23c/NWND4%2B.png",
+        "contributors": [
+          {
+            "name": "Laura 7",
+            "id": 1038229
+          },
+          {
+            "name": "NiallCrabtree",
+            "id": 2458425
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "rank": 4,
+            "score": 4.5555555555556,
+            "raw_score": 4.5555555555556
+          },
+          {
+            "name": "Gameplay",
+            "rank": 2,
+            "score": 4.4444444444444,
+            "raw_score": 4.4444444444444
+          },
+          {
+            "name": "Art",
+            "rank": 12,
+            "score": 4.4444444444444,
+            "raw_score": 4.4444444444444
+          },
+          {
+            "name": "Sound",
+            "rank": 16,
+            "score": 4,
+            "raw_score": 4
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 9,
+        "field_responses": [
+          "10357:1",
+          "10357:2",
+          "10358:4"
+        ],
+        "coolness": 18,
+        "id": 170647,
+        "contributors": [
+          {
+            "name": "Laura 7",
+            "url": "https://laura-7.itch.io"
+          },
+          {
+            "name": "NiallCrabtree",
+            "url": "https://niallcrabtree.itch.io"
+          }
+        ],
+        "created_at": "2020-11-15 18:41:40",
+        "url": "/jam/mix-and-game-jam-2020/rate/822077",
+        "game": {
+          "short_text": "Protect yourself from the hordes of evil robots using turrets!",
+          "cover": "https://img.itch.zone/aW1nLzQ2MTU3MTgucG5n/300x240%23c/NWND4%2B.png",
+          "user": {
+            "name": "Laura 7",
+            "url": "https://laura-7.itch.io",
+            "id": 1038229
+          },
+          "url": "https://laura-7.itch.io/boxco-next-day-delivery",
+          "id": 822077,
+          "title": "BoxCo: Next Day Delivery (+CO-OP)",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#111111"
+        }
+      },
+      "details": {
+        "title": "BoxCo: Next Day Delivery (+CO-OP)",
+        "description": "Made for Mix and Game Jam 2020!\nThe theme is to mix genres so we mixed Zombie survival with Tower defence!\nThis game can be played solo or with friends!\nThis game was made within the 2 days given to us for the Jam!\n\n\n   Aim of the game   \nConstruct turrets to defeat the hordes of enemies trying to attack you! See how many rounds you can get through!\n\n\n   Controls   \nSelect turret = E / F / Gamepad Y\nPlace turret = Left mouse / Gamepad Right Trigger\nCancel place turret = Right mouse / Gamepad B\nRevive player = Left mouse / Gamepad Right Trigger\nMove = WASD / Gamepad Left Stick\nLook = Mouse / Gamepad Right Stick\n\n   Joining a friend   \nPlaying over the Internet:\nPort forward port 7777 (UDP)Find your IP on Google by searching \"What is my IP?\"Send your IP to the people you want to play with They put the IP into the text entry box and press \"JOIN VIA IP\"\nPlaying on a local network:\nOpen Command Prompt > Type \"ipconfig\" > Find \"IPv4 Address\"Send your IP to the people you want to play with \nThey put the IP into the text entry box and press \"JOIN VIA IP\"\n\n\n   Credit   \nProgramming / Lighting by dscottwilson.net / dscottwilson.itch.io\n3D Modelling / Gameplay Design by niallcrabtree.com / niallcrabtree.itch.io",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODIyMDc3LzgwMzkxMjQuanBn/original/55TXEJ.jpg",
+          "https://img.itch.zone/aW1hZ2UvODIyMDc3LzgxOTcwODYucG5n/original/%2FAfS%2Fs.png",
+          "https://img.itch.zone/aW1hZ2UvODIyMDc3LzgwMzkxMjYuanBn/original/vU8YUz.jpg",
+          "https://img.itch.zone/aW1hZ2UvODIyMDc3LzgwMzkxMjUuanBn/original/khB6yJ.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Authors": "Laura 7, NiallCrabtree",
+          "Genre": "Survival",
+          "Tags": "3D, Arcade, Co-op, Internet, Local multiplayer, Multiplayer, Robots, Singleplayer, Unreal Engine",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse, Xbox controller",
+          "Accessibility": "Color-blind friendly",
+          "Multiplayer": "Local multiplayer, Ad-hoc networked multiplayer",
+          "Player count": "1 - 4"
+        }
+      }
+    },
+    {
+      "gameId": 822607,
+      "gameUrl": "https://dawnie.itch.io/harvest-shoots",
+      "overallRank": 4,
+      "topCategories": [
+        "Creativity",
+        "Art"
+      ],
+      "resultData": {
+        "title": "Harvest Shoots",
+        "rank": 4,
+        "id": 822607,
+        "score": 4.5555555555556,
+        "raw_score": 4.5555555555556,
+        "rating_count": 9,
+        "url": "https://itch.io/jam/mix-and-game-jam-2020/rate/822607",
+        "cover_url": "https://img.itch.zone/aW1nLzQ2MTA5MDgucG5n/300x240%23c/eMt3ul.png",
+        "contributors": [
+          {
+            "name": "Dawn Nyan",
+            "id": 672491
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "rank": 4,
+            "score": 4.5555555555556,
+            "raw_score": 4.5555555555556
+          },
+          {
+            "name": "Gameplay",
+            "rank": 59,
+            "score": 3.7777777777778,
+            "raw_score": 3.7777777777778
+          },
+          {
+            "name": "Art",
+            "rank": 1,
+            "score": 4.6666666666667,
+            "raw_score": 4.6666666666667
+          },
+          {
+            "name": "Sound",
+            "rank": 102,
+            "score": 3.4444444444444,
+            "raw_score": 3.4444444444444
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 9,
+        "coolness": 11,
+        "id": 170825,
+        "field_responses": [
+          "10357:1",
+          "10358:3"
+        ],
+        "created_at": "2020-11-15 18:59:22",
+        "url": "/jam/mix-and-game-jam-2020/rate/822607",
+        "game": {
+          "short_text": "It's farming, just how you've always known it.",
+          "user": {
+            "name": "Dawn Nyan",
+            "url": "https://dawnie.itch.io",
+            "id": 672491
+          },
+          "id": 822607,
+          "url": "https://dawnie.itch.io/harvest-shoots",
+          "title": "Harvest Shoots",
+          "cover": "https://img.itch.zone/aW1nLzQ2MTA5MDgucG5n/300x240%23c/eMt3ul.png",
+          "cover_color": "#71BEE9"
+        }
+      },
+      "details": {
+        "title": "Harvest Shoots",
+        "description": "It's Honest Work\nFarming is an old way of life, and one that has experienced many innovations. Up on those fertile verdant sky islands, you're bound to learn a new trick or two. Plant your crop and reap the rewards, lest your efforts be eaten away...\nThis was a submission to Mix and Game Jam 2020! The theme was \"Mixing Genres.\"\nControls:\nWASD - MoveLeft Shift - SprintSpace - JumpSwitch tools - 1 and 2Interact - EUse tool - Left click\nCredits:\nLevel design and majority of props by Breadotop.Gun prop by Hennejoe/Joe.Music by Rafael Krux.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODIyNjA3LzQ2MTA5ODMucG5n/original/nhmU7G.png",
+          "https://img.itch.zone/aW1hZ2UvODIyNjA3LzQ2MTA5ODQucG5n/original/VZvwwm.png",
+          "https://img.itch.zone/aW1hZ2UvODIyNjA3LzQ2MTA5ODUucG5n/original/Eh8Ddj.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Author": "Dawn Nyan",
+          "Genre": "Shooter",
+          "Tags": "3D, Farming, Low-poly"
+        }
+      }
+    },
+    {
+      "gameId": 821673,
+      "gameUrl": "https://zachcherub.itch.io/not-a-shot-in-hell",
+      "overallRank": 6,
+      "topCategories": [
+        "Creativity",
+        "Sound"
+      ],
+      "resultData": {
+        "title": "Not a Shot in Hell",
+        "rank": 6,
+        "id": 821673,
+        "score": 4.5454545454545,
+        "raw_score": 4.5454545454545,
+        "rating_count": 11,
+        "url": "https://itch.io/jam/mix-and-game-jam-2020/rate/821673",
+        "cover_url": "https://img.itch.zone/aW1nLzQ2MDkyMzUucG5n/300x240%23c/niIAY2.png",
+        "contributors": [
+          {
+            "name": "ZachCherub",
+            "id": 3016301
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "rank": 6,
+            "score": 4.5454545454545,
+            "raw_score": 4.5454545454545
+          },
+          {
+            "name": "Gameplay",
+            "rank": 48,
+            "score": 3.8181818181818,
+            "raw_score": 3.8181818181818
+          },
+          {
+            "name": "Art",
+            "rank": 39,
+            "score": 4.1818181818182,
+            "raw_score": 4.1818181818182
+          },
+          {
+            "name": "Sound",
+            "rank": 7,
+            "score": 4.1818181818182,
+            "raw_score": 4.1818181818182
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 11,
+        "coolness": 12,
+        "id": 170414,
+        "field_responses": [
+          "10357:1",
+          "10358:3"
+        ],
+        "created_at": "2020-11-15 17:44:59",
+        "url": "/jam/mix-and-game-jam-2020/rate/821673",
+        "game": {
+          "short_text": "A basket? You? Ha, ok buddy.",
+          "cover": "https://img.itch.zone/aW1nLzQ2MDkyMzUucG5n/300x240%23c/niIAY2.png",
+          "user": {
+            "name": "ZachCherub",
+            "url": "https://zachcherub.itch.io",
+            "id": 3016301
+          },
+          "url": "https://zachcherub.itch.io/not-a-shot-in-hell",
+          "id": 821673,
+          "title": "Not a Shot in Hell",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ],
+          "cover_color": "#9a150c"
+        }
+      },
+      "details": {
+        "title": "Not a Shot in Hell",
+        "description": "A game developed by long time friends for Mix and Jam 2020.FPS x Basketball ( x Stealth?)\nThe most realistic dribbling controls in a video game\nAvoid the fiendish sportsmen, shoot a hoop, & ball with your bros.\nStevie - @steven22steven Zach - @zach_cherry_Kody - @PurpleLizardMan [Character Art]",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODIxNjczLzQ2MDkxNzMucG5n/original/T1dlKT.png",
+          "https://img.itch.zone/aW1hZ2UvODIxNjczLzQ2MDkyMDkucG5n/original/ZwUJ73.png",
+          "https://img.itch.zone/aW1hZ2UvODIxNjczLzQ2MDkwNTYucG5n/original/l1S6Ru.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS, Linux",
+          "Rating": "Rated 4.3 out of 5 stars(4 total ratings)",
+          "Author": "ZachCherub",
+          "Genre": "Action, Sports",
+          "Tags": "Basketball, First-Person, FPS, mix-and-jam, mix-and-jam-2020, My First Game Jam, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 822096,
+      "gameUrl": "https://pater03.itch.io/gravity",
+      "overallRank": 6,
+      "topCategories": [
+        "Creativity",
+        "Gameplay"
+      ],
+      "resultData": {
+        "title": "Gravity",
+        "rank": 6,
+        "id": 822096,
+        "score": 4.5454545454545,
+        "raw_score": 4.5454545454545,
+        "rating_count": 44,
+        "url": "https://itch.io/jam/mix-and-game-jam-2020/rate/822096",
+        "cover_url": "https://img.itch.zone/aW1nLzU4MTc1NDIucG5n/300x240%23c/O%2B8Mfe.png",
+        "contributors": [
+          {
+            "name": "pater03",
+            "id": 2249535
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "rank": 6,
+            "score": 4.5454545454545,
+            "raw_score": 4.5454545454545
+          },
+          {
+            "name": "Gameplay",
+            "rank": 3,
+            "score": 4.3863636363636,
+            "raw_score": 4.3863636363636
+          },
+          {
+            "name": "Art",
+            "rank": 21,
+            "score": 4.3181818181818,
+            "raw_score": 4.3181818181818
+          },
+          {
+            "name": "Sound",
+            "rank": 16,
+            "score": 4,
+            "raw_score": 4
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 44,
+        "coolness": 23,
+        "id": 170295,
+        "field_responses": [
+          "10357:2",
+          "10358:3"
+        ],
+        "created_at": "2020-11-15 16:57:35",
+        "url": "/jam/mix-and-game-jam-2020/rate/822096",
+        "game": {
+          "user": {
+            "name": "pater03",
+            "url": "https://pater03.itch.io",
+            "id": 2249535
+          },
+          "id": 822096,
+          "url": "https://pater03.itch.io/gravity",
+          "title": "Gravity",
+          "cover": "https://img.itch.zone/aW1nLzU4MTc1NDIucG5n/300x240%23c/O%2B8Mfe.png",
+          "cover_color": "#d1f1ff"
+        }
+      },
+      "details": {
+        "title": "Gravity",
+        "description": "\n\nAutors\nJakub Paterek\nTymon Wolniewicz\n\nHave fun with gravity!!!\n\n2 Language versions\nPolish - Interface| Audio| Subtitles\nEnglish -Interface| Audio| Subtitles\n\n\n\n\nControls:\nMove - W S A D\nJump - Space\nRestart Level - P\nGrab/Drag - E\n\n\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODIyMDk2LzU4MTc1ODQucG5n/original/0kBddJ.png",
+          "https://img.itch.zone/aW1hZ2UvODIyMDk2LzU4MTc1ODYucG5n/original/btTZmE.png",
+          "https://img.itch.zone/aW1hZ2UvODIyMDk2LzU4MTc1ODcucG5n/original/jq23ZR.png",
+          "https://img.itch.zone/aW1hZ2UvODIyMDk2LzU4MTc1NzAucG5n/original/t5H1z0.png",
+          "https://img.itch.zone/aW1hZ2UvODIyMDk2LzU4MTc1NjUucG5n/original/NNRaDb.png",
+          "https://img.itch.zone/aW1hZ2UvODIyMDk2LzU4MTc1NjcucG5n/original/cb9EcR.png",
+          "https://img.itch.zone/aW1hZ2UvODIyMDk2LzQ2MDc5NDEucG5n/original/CJVhfG.png",
+          "https://img.itch.zone/aW1hZ2UvODIyMDk2LzQ2MDc5NDIucG5n/original/9iNtJZ.png",
+          "https://img.itch.zone/aW1hZ2UvODIyMDk2LzU4MTc1NDcucG5n/original/8%2Fg73z.png",
+          "https://img.itch.zone/aW1hZ2UvODIyMDk2LzU4MTc1NDgucG5n/original/djECto.png",
+          "https://img.itch.zone/aW1hZ2UvODIyMDk2LzU3Nzk4ODAucG5n/original/DjUxpB.png",
+          "https://img.itch.zone/aW1hZ2UvODIyMDk2LzU4MTc1NDUucG5n/original/fJ1ENS.png",
+          "https://img.itch.zone/aW1hZ2UvODIyMDk2LzU4MTc1NDYucG5n/original/Tr6ADO.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Rating": "Rated 4.9 out of 5 stars(10 total ratings)",
+          "Author": "pater03",
+          "Genre": "Puzzle, Platformer",
+          "Tags": "3D, Colorful, FPS, Gravity, Physics, Puzzle-Platformer, Relaxing, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 821246,
+      "gameUrl": "https://logon.itch.io/spinball",
+      "overallRank": 8,
+      "topCategories": [
+        "Creativity",
+        "Gameplay",
+        "Art"
+      ],
+      "resultData": {
+        "title": "Spinball",
+        "rank": 8,
+        "id": 821246,
+        "score": 4.5,
+        "raw_score": 4.5,
+        "rating_count": 60,
+        "url": "https://itch.io/jam/mix-and-game-jam-2020/rate/821246",
+        "cover_url": "https://img.itch.zone/aW1nLzQ2MDczMzIuanBn/300x240%23c/tkau9b.jpg",
+        "contributors": [
+          {
+            "name": "logon",
+            "id": 70122
+          },
+          {
+            "name": "Magikfire",
+            "id": 3601794
+          },
+          {
+            "name": "Shawnobot",
+            "id": 3601793
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "rank": 8,
+            "score": 4.5,
+            "raw_score": 4.5
+          },
+          {
+            "name": "Gameplay",
+            "rank": 7,
+            "score": 4.2333333333333,
+            "raw_score": 4.2333333333333
+          },
+          {
+            "name": "Art",
+            "rank": 8,
+            "score": 4.4833333333333,
+            "raw_score": 4.4833333333333
+          },
+          {
+            "name": "Sound",
+            "rank": 50,
+            "score": 3.7,
+            "raw_score": 3.7
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 60,
+        "field_responses": [
+          "10357:1",
+          "10358:3"
+        ],
+        "coolness": 13,
+        "id": 170217,
+        "contributors": [
+          {
+            "name": "logon",
+            "url": "https://logon.itch.io"
+          },
+          {
+            "name": "Magikfire",
+            "url": "https://magikfire.itch.io"
+          },
+          {
+            "name": "Shawnobot",
+            "url": "https://shawnobot.itch.io"
+          }
+        ],
+        "created_at": "2020-11-15 16:01:52",
+        "url": "/jam/mix-and-game-jam-2020/rate/821246",
+        "game": {
+          "short_text": "The day I picked up a sword and started spinning",
+          "cover": "https://img.itch.zone/aW1nLzQ2MDczMzIuanBn/300x240%23c/tkau9b.jpg",
+          "user": {
+            "name": "logon",
+            "url": "https://logon.itch.io",
+            "id": 70122
+          },
+          "url": "https://logon.itch.io/spinball",
+          "id": 821246,
+          "title": "Spinball",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#e3fcf6"
+        }
+      },
+      "details": {
+        "title": "Spinball",
+        "description": "\nNote: Default HTML version contains post jam fixes. This was updated after the voting was finished. To play the original please download the windows build down in the descriptionSpinball\n-\nPinball \n+\n RPG\nControls:\nArrow keys OR A and D\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODIxMjQ2LzQ2MDczMjMuanBn/original/dk8rcC.jpg",
+          "https://img.itch.zone/aW1hZ2UvODIxMjQ2LzQ2MDczMjEuanBn/original/NdzrP1.jpg",
+          "https://img.itch.zone/aW1hZ2UvODIxMjQ2LzQ2MDczMjAuanBn/original/XANpvm.jpg",
+          "https://img.itch.zone/aW1hZ2UvODIxMjQ2LzQ2MDczMjIuanBn/original/ag%2FOGu.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.2 out of 5 stars(5 total ratings)",
+          "Authors": "logon, Magikfire, Shawnobot",
+          "Genre": "Adventure, Role Playing",
+          "Made with": "Unity",
+          "Tags": "Pinball"
+        }
+      }
+    },
+    {
+      "gameId": 822281,
+      "gameUrl": "https://nicolasvdk.itch.io/chessrpg",
+      "overallRank": 9,
+      "topCategories": [
+        "Creativity"
+      ],
+      "resultData": {
+        "title": "ChessRPG",
+        "rank": 9,
+        "id": 822281,
+        "score": 4.4736842105263,
+        "raw_score": 4.4736842105263,
+        "rating_count": 38,
+        "url": "https://itch.io/jam/mix-and-game-jam-2020/rate/822281",
+        "cover_url": "https://img.itch.zone/aW1nLzQ2MDg1OTUucG5n/300x240%23c/fBZqG5.png",
+        "contributors": [
+          {
+            "name": "NicolasVdk",
+            "id": 3289503
+          },
+          {
+            "name": "Qwartza",
+            "id": 3560696
+          },
+          {
+            "name": "HITOA",
+            "id": 26379
+          },
+          {
+            "name": "Kanaio",
+            "id": 3604359
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "rank": 9,
+            "score": 4.4736842105263,
+            "raw_score": 4.4736842105263
+          },
+          {
+            "name": "Gameplay",
+            "rank": 49,
+            "score": 3.8157894736842,
+            "raw_score": 3.8157894736842
+          },
+          {
+            "name": "Art",
+            "rank": 115,
+            "score": 3.7368421052632,
+            "raw_score": 3.7368421052632
+          },
+          {
+            "name": "Sound",
+            "rank": 78,
+            "score": 3.5526315789474,
+            "raw_score": 3.5526315789474
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 38,
+        "field_responses": [
+          "10357:1",
+          "10358:1"
+        ],
+        "coolness": 20,
+        "id": 170675,
+        "contributors": [
+          {
+            "name": "NicolasVdk",
+            "url": "https://nicolasvdk.itch.io"
+          },
+          {
+            "name": "Qwartza",
+            "url": "https://qwartza.itch.io"
+          },
+          {
+            "name": "HITOA",
+            "url": "https://hitoa.itch.io"
+          },
+          {
+            "name": "Kanaio",
+            "url": "https://kanaio.itch.io"
+          }
+        ],
+        "created_at": "2020-11-15 18:46:51",
+        "url": "/jam/mix-and-game-jam-2020/rate/822281",
+        "game": {
+          "short_text": "Chess rpg is a chess game where you can level up, get loot, and destroy your opponent.",
+          "cover": "https://img.itch.zone/aW1nLzQ2MDg1OTUucG5n/300x240%23c/fBZqG5.png",
+          "user": {
+            "name": "NicolasVdk",
+            "url": "https://nicolasvdk.itch.io",
+            "id": 3289503
+          },
+          "url": "https://nicolasvdk.itch.io/chessrpg",
+          "id": 822281,
+          "title": "ChessRPG",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#bdcdff"
+        }
+      },
+      "details": {
+        "title": "ChessRPG",
+        "description": "Chess rpg is a chess game where you can level up, get loot, and destroy your opponent.\nNameDescriptionHealing potionRegain 50 hpSwordYou can hit on all one diagonalArc tier 1Diagonal (pass enemy) in range 5-7Arc tier 2Same as Tier 1 but with range 4-8Baton tier 1Attack in all direction in range 3-5Baton tier 2Same as Tier 1 but in range 4-6Baton tier 3Attack in all direction without passing enemy in range 1-6\nShieldGive you 50 extra HPWarrior helmetYou can now move all aroundJOOOJOOODo nothing, sorry, but start a nice soundWitch hatMove in diagonal and line in range 2AxeAttack in Horizontal with range 1-2 Diagonal front range 1\nKatanaAttack in horizontal axe with range 1-5",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODIyMjgxLzQ2MDg4MDIucG5n/original/MxyuP3.png",
+          "https://img.itch.zone/aW1hZ2UvODIyMjgxLzQ2MDg4MDEucG5n/original/JIA%2FpZ.png",
+          "https://img.itch.zone/aW1hZ2UvODIyMjgxLzQ2MDg4MDUucG5n/original/AotzqH.png",
+          "https://img.itch.zone/aW1hZ2UvODIyMjgxLzQ2MDg4MDkucG5n/original/OLNDEm.png",
+          "https://img.itch.zone/aW1hZ2UvODIyMjgxLzQ2MDkzODUucG5n/original/hzio6o.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Authors": "NicolasVdk, Qwartza, HITOA, Kanaio",
+          "Genre": "Role Playing",
+          "Tags": "3D, Chess, Funny, Low-poly, Magic, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 821760,
+      "gameUrl": "https://andreaancona.itch.io/alien-pet",
+      "overallRank": 10,
+      "topCategories": [
+        "Creativity",
+        "Art"
+      ],
+      "resultData": {
+        "title": "Alien Pet",
+        "rank": 10,
+        "id": 821760,
+        "score": 4.4666666666667,
+        "raw_score": 4.4666666666667,
+        "rating_count": 15,
+        "url": "https://itch.io/jam/mix-and-game-jam-2020/rate/821760",
+        "cover_url": "https://img.itch.zone/aW1nLzQ2MTA2NzAucG5n/300x240%23c/Czy95K.png",
+        "contributors": [
+          {
+            "name": "AndreaAncona",
+            "id": 1344441
+          },
+          {
+            "name": "Andrea Teruzzi",
+            "id": 815983
+          },
+          {
+            "name": "Deirin",
+            "id": 1389333
+          },
+          {
+            "name": "Francesco Ruggero",
+            "id": 2137693
+          },
+          {
+            "name": "Lid024",
+            "id": 2720731
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "rank": 10,
+            "score": 4.4666666666667,
+            "raw_score": 4.4666666666667
+          },
+          {
+            "name": "Gameplay",
+            "rank": 40,
+            "score": 3.8666666666667,
+            "raw_score": 3.8666666666667
+          },
+          {
+            "name": "Art",
+            "rank": 4,
+            "score": 4.5333333333333,
+            "raw_score": 4.5333333333333
+          },
+          {
+            "name": "Sound",
+            "rank": 31,
+            "score": 3.8666666666667,
+            "raw_score": 3.8666666666667
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 15,
+        "field_responses": [
+          "10357:1",
+          "10358:4"
+        ],
+        "coolness": 1,
+        "id": 170810,
+        "contributors": [
+          {
+            "name": "AndreaAncona",
+            "url": "https://andreaancona.itch.io"
+          },
+          {
+            "name": "Andrea Teruzzi",
+            "url": "https://andrea-teruzzi.itch.io"
+          },
+          {
+            "name": "Deirin",
+            "url": "https://deirin.itch.io"
+          },
+          {
+            "name": "Francesco Ruggero",
+            "url": "https://ruggio-23.itch.io"
+          },
+          {
+            "name": "Lid024",
+            "url": "https://lid024.itch.io"
+          }
+        ],
+        "created_at": "2020-11-15 18:58:45",
+        "url": "/jam/mix-and-game-jam-2020/rate/821760",
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzQ2MTA2NzAucG5n/300x240%23c/Czy95K.png",
+          "user": {
+            "name": "AndreaAncona",
+            "url": "https://andreaancona.itch.io",
+            "id": 1344441
+          },
+          "url": "https://andreaancona.itch.io/alien-pet",
+          "id": 821760,
+          "title": "Alien Pet",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#eeeeee"
+        }
+      },
+      "details": {
+        "title": "Alien Pet",
+        "description": "Your new Alien pet has arrived but instructions are in alien language. \nLearn to translate the alien symbols and help your pet grow without making its needs fall below 0!\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODIxNzYwLzQ2MTA3MjMucG5n/original/OP18I2.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Authors": "AndreaAncona, Andrea Teruzzi, Deirin, Francesco Ruggero, Lid024",
+          "Genre": "Card Game, Puzzle",
+          "Tags": "Virtual Pet"
+        }
+      }
+    },
+    {
+      "gameId": 822276,
+      "gameUrl": "https://tyst.itch.io/pegglelike",
+      "overallRank": 11,
+      "topCategories": [
+        "Creativity"
+      ],
+      "resultData": {
+        "title": "Pegglelike",
+        "rank": 11,
+        "id": 822276,
+        "score": 4.4545454545455,
+        "raw_score": 4.4545454545455,
+        "rating_count": 33,
+        "url": "https://itch.io/jam/mix-and-game-jam-2020/rate/822276",
+        "cover_url": "https://img.itch.zone/aW1nLzQ2MDg2MzEucG5n/300x240%23c/rDgy%2Bk.png",
+        "contributors": [
+          {
+            "name": "Tyst",
+            "id": 721092
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "rank": 11,
+            "score": 4.4545454545455,
+            "raw_score": 4.4545454545455
+          },
+          {
+            "name": "Gameplay",
+            "rank": 106,
+            "score": 3.5151515151515,
+            "raw_score": 3.5151515151515
+          },
+          {
+            "name": "Art",
+            "rank": 184,
+            "score": 3.3939393939394,
+            "raw_score": 3.3939393939394
+          },
+          {
+            "name": "Sound",
+            "rank": 141,
+            "score": 3.3030303030303,
+            "raw_score": 3.3030303030303
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 33,
+        "coolness": 70,
+        "id": 170459,
+        "field_responses": [
+          "10357:1",
+          "10358:1"
+        ],
+        "created_at": "2020-11-15 17:55:30",
+        "url": "/jam/mix-and-game-jam-2020/rate/822276",
+        "game": {
+          "short_text": "Peggle and roguelike mix",
+          "cover": "https://img.itch.zone/aW1nLzQ2MDg2MzEucG5n/300x240%23c/rDgy%2Bk.png",
+          "user": {
+            "name": "Tyst",
+            "url": "https://tyst.itch.io",
+            "id": 721092
+          },
+          "url": "https://tyst.itch.io/pegglelike",
+          "id": 822276,
+          "title": "Pegglelike",
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#141414"
+        }
+      },
+      "details": {
+        "title": "Pegglelike",
+        "description": "Turn based prototype mix between Peggle and Roguelike, where strength of your hero actions depends on how good you are doing at Peggle.\nThis version is very limited, non responsive and buggy, due to my time constraints during jam, but hopefully you will enjoy it. \nPurple pegs are critical hit pegs, they double currently gathered value. After winning three chests will appear, shoot one of them with your ball to get the reward. \nMade for 2020 Mix and Jam, with theme \"Mixing genres\".",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODIyMjc2LzQ2MDkwMzkucG5n/original/ZuD58v.png",
+          "https://img.itch.zone/aW1hZ2UvODIyMjc2LzQ2MDkwNDAucG5n/original/hw%2F7FM.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.2 out of 5 stars(5 total ratings)",
+          "Author": "Tyst",
+          "Genre": "Action, Fighting",
+          "Made with": "Unity",
+          "Tags": "2D, Arcade, peggle, Pixel Art, Roguelike, Short, Singleplayer, Turn-Based Combat, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 822208,
+      "gameUrl": "https://sisyphean-games.itch.io/mine-racer",
+      "overallRank": 12,
+      "topCategories": [
+        "Creativity"
+      ],
+      "resultData": {
+        "title": "Mine Racer",
+        "rank": 12,
+        "id": 822208,
+        "score": 4.4516129032258,
+        "raw_score": 4.4516129032258,
+        "rating_count": 31,
+        "url": "https://itch.io/jam/mix-and-game-jam-2020/rate/822208",
+        "cover_url": "https://img.itch.zone/aW1nLzQ2MDgyMDIucG5n/300x240%23c/Y6Cmp0.png",
+        "contributors": [
+          {
+            "name": "Sisyphean Games",
+            "id": 1319575
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "rank": 12,
+            "score": 4.4516129032258,
+            "raw_score": 4.4516129032258
+          },
+          {
+            "name": "Gameplay",
+            "rank": 90,
+            "score": 3.6129032258065,
+            "raw_score": 3.6129032258065
+          },
+          {
+            "name": "Art",
+            "rank": 249,
+            "score": 3.1290322580645,
+            "raw_score": 3.1290322580645
+          },
+          {
+            "name": "Sound",
+            "rank": 249,
+            "score": 2.8064516129032,
+            "raw_score": 2.8064516129032
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 31,
+        "coolness": 3,
+        "id": 170567,
+        "field_responses": [
+          "10357:1",
+          "10358:3"
+        ],
+        "created_at": "2020-11-15 18:19:51",
+        "url": "/jam/mix-and-game-jam-2020/rate/822208",
+        "game": {
+          "id": 822208,
+          "user": {
+            "name": "Sisyphean Games",
+            "url": "https://sisyphean-games.itch.io",
+            "id": 1319575
+          },
+          "url": "https://sisyphean-games.itch.io/mine-racer",
+          "cover": "https://img.itch.zone/aW1nLzQ2MDgyMDIucG5n/300x240%23c/Y6Cmp0.png",
+          "title": "Mine Racer",
+          "platforms": [
+            "windows",
+            "linux",
+            "web"
+          ],
+          "short_text": "Minesweeper inspired racing puzzler"
+        }
+      },
+      "details": {
+        "title": "Mine Racer",
+        "description": "Made for the 2020 Mix and Jam with the theme 'combining genres' by combining puzzle and racing. Try to reveal a path through the minefield before racing for the goal!\nHow to play:Minesweeper:     Left click to reveal the tile     Right click to place or remove a flag     Space or click the button to switch to driving     Clicking a bomb will end this part and send you right to driving\nRace:     w/up accelerate     s/down break/reverse    a and d/left and right to steer    Touching a hidden block will reveal it as if it was clicked.     Hitting a bomb will cost you one of your 3 lives and send you back to the last checkpoint.     Flags will not defuse the bombs, make sure you still avoid hitting them!     Reaching a checkpoint will restore a life and start the minesweeper mode on the next part of the track\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzQ2MDgyMDIucG5n/original/sxDGx1.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, Linux",
+          "Author": "Sisyphean Games",
+          "Genre": "Puzzle, Racing",
+          "Tags": "bomb, mines, Pixel Art, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 821615,
+      "gameUrl": "https://addikins.itch.io/pinball-nightmare",
+      "overallRank": 13,
+      "topCategories": [
+        "Creativity"
+      ],
+      "resultData": {
+        "title": "Pinball Nightmare",
+        "rank": 13,
+        "id": 821615,
+        "score": 4.4193548387097,
+        "raw_score": 4.4193548387097,
+        "rating_count": 31,
+        "url": "https://itch.io/jam/mix-and-game-jam-2020/rate/821615",
+        "cover_url": "https://img.itch.zone/aW1nLzQ2MDU1NDkucG5n/300x240%23c/zGJtd4.png",
+        "contributors": [
+          {
+            "name": "Addikins",
+            "id": 1559026
+          },
+          {
+            "name": "Thejaspel",
+            "id": 3057125
+          },
+          {
+            "name": "HowlingMurdock2",
+            "id": 3574070
+          },
+          {
+            "name": "soniclinkerman",
+            "id": 1008990
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "rank": 13,
+            "score": 4.4193548387097,
+            "raw_score": 4.4193548387097
+          },
+          {
+            "name": "Gameplay",
+            "rank": 69,
+            "score": 3.741935483871,
+            "raw_score": 3.741935483871
+          },
+          {
+            "name": "Art",
+            "rank": 25,
+            "score": 4.2903225806452,
+            "raw_score": 4.2903225806452
+          },
+          {
+            "name": "Sound",
+            "rank": 36,
+            "score": 3.8064516129032,
+            "raw_score": 3.8064516129032
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 31,
+        "field_responses": [
+          "10357:1",
+          "10358:1"
+        ],
+        "coolness": 13,
+        "id": 170832,
+        "contributors": [
+          {
+            "name": "Addikins",
+            "url": "https://addikins.itch.io"
+          },
+          {
+            "name": "Thejaspel",
+            "url": "https://thejaspel.itch.io"
+          },
+          {
+            "name": "HowlingMurdock2",
+            "url": "https://howlingmurdock2.itch.io"
+          },
+          {
+            "name": "soniclinkerman",
+            "url": "https://soniclinkerman.itch.io"
+          }
+        ],
+        "created_at": "2020-11-15 18:59:33",
+        "url": "/jam/mix-and-game-jam-2020/rate/821615",
+        "game": {
+          "short_text": "Survive the onslaught of eldritch monsters by upgrading and dropping pinballs to save your hometown!",
+          "cover": "https://img.itch.zone/aW1nLzQ2MDU1NDkucG5n/300x240%23c/zGJtd4.png",
+          "user": {
+            "name": "Addikins",
+            "url": "https://addikins.itch.io",
+            "id": 1559026
+          },
+          "url": "https://addikins.itch.io/pinball-nightmare",
+          "id": 821615,
+          "title": "Pinball Nightmare",
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#000000"
+        }
+      },
+      "details": {
+        "title": "Pinball Nightmare",
+        "description": "Objective\nSurvive waves of monsters by crushing them with pinballsPinballs can be picked up from the minecart on the left side of the screenBetween waves, buy upgrades from the store and place them on the playing field. There are three possible upgrades and each has unique abilitiesIf you throw your ball from the upgraded position the ball gets special abilities,  each upgrade can only be used onceUse the Pinball Flippers at the bottom of the level to shoot pinballs back up at the monsters\nControls   \nArrow Keys or  A and D - Move left and rightSpace Key - Action Button (Pickup Balls / Drop Balls / Purchase Upgrades / Build Upgrades / Start new Wave)Up Arrow or W Key - Use Flippers",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODIxNjE1LzQ2MDk4OTYucG5n/original/HkbqS6.png",
+          "https://img.itch.zone/aW1hZ2UvODIxNjE1LzQ2MDU1NzMucG5n/original/Ko8ydB.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Authors": "Addikins, Thejaspel, HowlingMurdock2, soniclinkerman",
+          "Genre": "Survival",
+          "Made with": "Unity",
+          "Tags": "2D, Horror, Pinball, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 821790,
+      "gameUrl": "https://kultisti.itch.io/rusty-wind-blows",
+      "overallRank": 14,
+      "topCategories": [
+        "Creativity"
+      ],
+      "resultData": {
+        "title": "Rusty Wind Blows",
+        "rank": 14,
+        "id": 821790,
+        "score": 4.4181818181818,
+        "raw_score": 4.4181818181818,
+        "rating_count": 55,
+        "url": "https://itch.io/jam/mix-and-game-jam-2020/rate/821790",
+        "cover_url": "https://img.itch.zone/aW1nLzQ2MDY5NTguZ2lm/300x240%23c/KDicUi.gif",
+        "contributors": [
+          {
+            "name": "Kultisti",
+            "id": 706839
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "rank": 14,
+            "score": 4.4181818181818,
+            "raw_score": 4.4181818181818
+          },
+          {
+            "name": "Gameplay",
+            "rank": 26,
+            "score": 4.0181818181818,
+            "raw_score": 4.0181818181818
+          },
+          {
+            "name": "Art",
+            "rank": 44,
+            "score": 4.1636363636364,
+            "raw_score": 4.1636363636364
+          },
+          {
+            "name": "Sound",
+            "rank": 37,
+            "score": 3.7818181818182,
+            "raw_score": 3.7818181818182
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 55,
+        "coolness": 15,
+        "id": 170187,
+        "field_responses": [
+          "10357:1",
+          "10358:1"
+        ],
+        "created_at": "2020-11-15 15:43:24",
+        "url": "/jam/mix-and-game-jam-2020/rate/821790",
+        "game": {
+          "id": 821790,
+          "cover_color": "#000000",
+          "url": "https://kultisti.itch.io/rusty-wind-blows",
+          "user": {
+            "name": "Kultisti",
+            "url": "https://kultisti.itch.io",
+            "id": 706839
+          },
+          "gif_cover": "https://img.itch.zone/aW1nLzQ2MDY5NTguZ2lm/original/4U4qIU.gif",
+          "platforms": [
+            "windows",
+            "osx",
+            "web"
+          ],
+          "title": "Rusty Wind Blows",
+          "cover": "https://img.itch.zone/aW1nLzQ2MDY5NTguZ2lm/300x240%23c/KDicUi.gif",
+          "short_text": "you will get there, whatever it takes"
+        }
+      },
+      "details": {
+        "title": "Rusty Wind Blows",
+        "description": "\n\n\n                                                                    \n\nRusty wind blows combines a clicker game with a shooter\nUse power to both maintain your engine and reload your musket.\nYou will get there, whatever it takes.\n\n\n\n~ game was made in 48 hours ~\nthank you echo for playtesting <3\n\n▽",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODIxNzkwLzQ2MDY2NTIuZ2lm/original/%2FqGQgo.gif",
+          "https://img.itch.zone/aW1hZ2UvODIxNzkwLzQ2MDY2NjcuZ2lm/original/qKwWE9.gif",
+          "https://img.itch.zone/aW1hZ2UvODIxNzkwLzQ2MDY5NzEuZ2lm/original/NaEQM3.gif",
+          "https://img.itch.zone/aW1hZ2UvODIxNzkwLzQ2MDY2NzAuZ2lm/original/LT34pm.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS",
+          "Rating": "Rated 4.5 out of 5 stars(60 total ratings)",
+          "Author": "Kultisti",
+          "Genre": "Shooter, Action, Survival",
+          "Made with": "GameMaker",
+          "Tags": "2D, Arcade, Clicker, Fantasy, igdafinland, Monsters, Pixel Art, Short"
+        }
+      }
+    },
+    {
+      "gameId": 821808,
+      "gameUrl": "https://ducc-devs.itch.io/normal-golfing",
+      "overallRank": 15,
+      "topCategories": [
+        "Creativity",
+        "Sound"
+      ],
+      "resultData": {
+        "title": "Normal Golfing",
+        "rank": 15,
+        "id": 821808,
+        "score": 4.4166666666667,
+        "raw_score": 4.4166666666667,
+        "rating_count": 60,
+        "url": "https://itch.io/jam/mix-and-game-jam-2020/rate/821808",
+        "cover_url": "https://img.itch.zone/aW1nLzQ2MDcxMTcucG5n/300x240%23c/%2FgQZB0.png",
+        "contributors": [
+          {
+            "name": "ducc",
+            "id": 64247
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "rank": 15,
+            "score": 4.4166666666667,
+            "raw_score": 4.4166666666667
+          },
+          {
+            "name": "Gameplay",
+            "rank": 17,
+            "score": 4.15,
+            "raw_score": 4.15
+          },
+          {
+            "name": "Art",
+            "rank": 61,
+            "score": 4.0166666666667,
+            "raw_score": 4.0166666666667
+          },
+          {
+            "name": "Sound",
+            "rank": 14,
+            "score": 4.05,
+            "raw_score": 4.05
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 60,
+        "coolness": 69,
+        "id": 170184,
+        "field_responses": [
+          "10357:1",
+          "10358:1"
+        ],
+        "created_at": "2020-11-15 15:39:11",
+        "url": "/jam/mix-and-game-jam-2020/rate/821808",
+        "game": {
+          "short_text": "Golfing during a zombie apocalypse!",
+          "cover": "https://img.itch.zone/aW1nLzQ2MDcxMTcucG5n/300x240%23c/%2FgQZB0.png",
+          "user": {
+            "name": "ducc",
+            "url": "https://ducc-devs.itch.io",
+            "id": 64247
+          },
+          "url": "https://ducc-devs.itch.io/normal-golfing",
+          "id": 821808,
+          "title": "Normal Golfing",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#0f0e0e"
+        }
+      },
+      "details": {
+        "title": "Normal Golfing",
+        "description": "Normal Golfing!\n You're just a regular golfer named Steven, in a regular golfing world with nothing out of the ordinary.. right?\nNormal golfing is the chaotic combination of minigolf and an apocalyptic zombie invasion. Where you, a golfing hero has to face the facts in this harsh environment!\n&lt;a href=&quot;<a href=\"https://ducc-devs.itch.io/normal-golfing\">Normal&quot; class=&quot;redactor-linkify-object&quot;&gt;https://ducc-devs.itch.io/normal-golfing&quot;&gt;Normal</a> Golfing by ducc&lt;/a&gt;A MIX BETWEEN - TOP DOWN | SPORTS | ACTION\n\ndid you know that the armless zombie's name is Jake?",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODIxODA4LzQ2MDY5NjguZ2lm/original/WU8ckI.gif",
+          "https://img.itch.zone/aW1hZ2UvODIxODA4LzQ2MDY5NjkuZ2lm/original/WmcoGK.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.7 out of 5 stars(3 total ratings)",
+          "Author": "ducc",
+          "Genre": "Action, Sports",
+          "Tags": "2D, Golf, golfing, Pixel Art, Top-Down, Zombies"
+        }
+      }
+    },
+    {
+      "gameId": 821971,
+      "gameUrl": "https://oskardev.itch.io/armed-frog",
+      "overallRank": 75,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "title": "Armed Frog",
+        "rank": 75,
+        "id": 821971,
+        "score": 4,
+        "raw_score": 4,
+        "rating_count": 35,
+        "url": "https://itch.io/jam/mix-and-game-jam-2020/rate/821971",
+        "cover_url": "https://img.itch.zone/aW1nLzQ2MDcyNjgucG5n/300x240%23c/DuJztx.png",
+        "contributors": [
+          {
+            "name": "OskarDev",
+            "id": 2160557
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "rank": 75,
+            "score": 4,
+            "raw_score": 4
+          },
+          {
+            "name": "Gameplay",
+            "rank": 1,
+            "score": 4.6,
+            "raw_score": 4.6
+          },
+          {
+            "name": "Art",
+            "rank": 22,
+            "score": 4.3142857142857,
+            "raw_score": 4.3142857142857
+          },
+          {
+            "name": "Sound",
+            "rank": 69,
+            "score": 3.5714285714286,
+            "raw_score": 3.5714285714286
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 35,
+        "coolness": 28,
+        "id": 170250,
+        "field_responses": [
+          "10357:1",
+          "10358:1"
+        ],
+        "created_at": "2020-11-15 16:27:52",
+        "url": "/jam/mix-and-game-jam-2020/rate/821971",
+        "game": {
+          "short_text": "Made for the Mix and Game Jam (2020)",
+          "cover": "https://img.itch.zone/aW1nLzQ2MDcyNjgucG5n/300x240%23c/DuJztx.png",
+          "user": {
+            "name": "OskarDev",
+            "url": "https://oskardev.itch.io",
+            "id": 2160557
+          },
+          "url": "https://oskardev.itch.io/armed-frog",
+          "id": 821971,
+          "title": "Armed Frog",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#080b10"
+        }
+      },
+      "details": {
+        "title": "Armed Frog",
+        "description": "Made for the Mix and Game Jam (2020) in 48hA game about a frog with a gun\nControls:A, D - Move left, rightSpacebar - JumpR - Restart levelF - Switch fullscreenM - restart the gameLeft mouse button - Shoot",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODIxOTcxLzQ2MDcyODYucG5n/original/e7n201.png",
+          "https://img.itch.zone/aW1hZ2UvODIxOTcxLzQ2MDcyOTQucG5n/original/nOe3gh.png",
+          "https://img.itch.zone/aW1hZ2UvODIxOTcxLzQ2MDcyOTgucG5n/original/VDa%2F%2Fk.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "OskarDev",
+          "Genre": "Platformer, Shooter",
+          "Made with": "GameMaker, Aseprite",
+          "Tags": "2D, Short, Speedrun",
+          "Average session": "A few seconds",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 821320,
+      "gameUrl": "https://sleepyvampiregames.itch.io/invasionalternate",
+      "overallRank": 46,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "title": "Invasion;Alternate (2020 Mix and Game Jam)",
+        "rank": 46,
+        "id": 821320,
+        "score": 4.1428571428571,
+        "raw_score": 4.1428571428571,
+        "rating_count": 14,
+        "url": "https://itch.io/jam/mix-and-game-jam-2020/rate/821320",
+        "cover_url": "https://img.itch.zone/aW1nLzQ2MDQwOTIucG5n/300x240%23c/O29TP4.png",
+        "contributors": [
+          {
+            "name": "Sleepy Vampire Games",
+            "id": 1654242
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "rank": 46,
+            "score": 4.1428571428571,
+            "raw_score": 4.1428571428571
+          },
+          {
+            "name": "Gameplay",
+            "rank": 4,
+            "score": 4.2857142857143,
+            "raw_score": 4.2857142857143
+          },
+          {
+            "name": "Art",
+            "rank": 105,
+            "score": 3.7857142857143,
+            "raw_score": 3.7857142857143
+          },
+          {
+            "name": "Sound",
+            "rank": 23,
+            "score": 3.9285714285714,
+            "raw_score": 3.9285714285714
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 14,
+        "coolness": 13,
+        "id": 169916,
+        "field_responses": [
+          "10357:1",
+          "10358:1"
+        ],
+        "created_at": "2020-11-15 04:02:16",
+        "url": "/jam/mix-and-game-jam-2020/rate/821320",
+        "game": {
+          "short_text": "A combination of a bullet hell and a tactical rpg. Made for Mix and Game Jam 2020.",
+          "cover": "https://img.itch.zone/aW1nLzQ2MDQwOTIucG5n/300x240%23c/O29TP4.png",
+          "user": {
+            "name": "Sleepy Vampire Games",
+            "url": "https://sleepyvampiregames.itch.io",
+            "id": 1654242
+          },
+          "url": "https://sleepyvampiregames.itch.io/invasionalternate",
+          "id": 821320,
+          "title": "Invasion;Alternate (2020 Mix and Game Jam)",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#1698db"
+        }
+      },
+      "details": {
+        "title": "Invasion;Alternate (2020 Mix and Game Jam)",
+        "description": "A combination of a bullet hell and a tactical rpg. Made for Mix and Game Jam 2020.\n\nA lone girl living on a far away planet must defend her home from invading aliens. Play through 20 levels and defeat the invasion force.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODIxMzIwLzQ2MDQwODYucG5n/original/EBZUsL.png",
+          "https://img.itch.zone/aW1hZ2UvODIxMzIwLzQ2MDQwODIucG5n/original/vHOp7j.png",
+          "https://img.itch.zone/aW1hZ2UvODIxMzIwLzQ2MDQwODEucG5n/original/UjYhYc.png",
+          "https://img.itch.zone/aW1hZ2UvODIxMzIwLzQ2MDQwODQucG5n/original/t7iw2g.png",
+          "https://img.itch.zone/aW1hZ2UvODIxMzIwLzQ2MDQwODUucG5n/original/ql943w.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Author": "Sleepy Vampire Games",
+          "Genre": "Action"
+        }
+      }
+    },
+    {
+      "gameId": 822167,
+      "gameUrl": "https://cocobean45.itch.io/rotate-the-game",
+      "overallRank": 161,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "title": "Rotate The Game",
+        "rank": 161,
+        "id": 822167,
+        "score": 3.75,
+        "raw_score": 3.75,
+        "rating_count": 12,
+        "url": "https://itch.io/jam/mix-and-game-jam-2020/rate/822167",
+        "cover_url": "https://img.itch.zone/aW1nLzQ2MDg0NDIucG5n/300x240%23c/q0dvVf.png",
+        "contributors": [
+          {
+            "name": "cocobean45",
+            "id": 1922234
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "rank": 161,
+            "score": 3.75,
+            "raw_score": 3.75
+          },
+          {
+            "name": "Gameplay",
+            "rank": 6,
+            "score": 4.25,
+            "raw_score": 4.25
+          },
+          {
+            "name": "Art",
+            "rank": 95,
+            "score": 3.8333333333333,
+            "raw_score": 3.8333333333333
+          },
+          {
+            "name": "Sound",
+            "rank": 24,
+            "score": 3.9166666666667,
+            "raw_score": 3.9166666666667
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 12,
+        "coolness": 31,
+        "id": 170365,
+        "field_responses": [
+          "10357:2",
+          "10358:1"
+        ],
+        "created_at": "2020-11-15 17:32:36",
+        "url": "/jam/mix-and-game-jam-2020/rate/822167",
+        "game": {
+          "short_text": "Puzzle Platformer",
+          "cover": "https://img.itch.zone/aW1nLzQ2MDg0NDIucG5n/300x240%23c/q0dvVf.png",
+          "user": {
+            "name": "cocobean45",
+            "url": "https://cocobean45.itch.io",
+            "id": 1922234
+          },
+          "url": "https://cocobean45.itch.io/rotate-the-game",
+          "id": 822167,
+          "title": "Rotate The Game",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#be7f7f"
+        }
+      },
+      "details": {
+        "title": "Rotate The Game",
+        "description": "This was a game created during the 2020 Mix and Game Jam. We had 48 hours to create a game that mixed game genres. Our game is a mix of classical 2d platforming with puzzle based levels.\n\n3D Modeling/Textures - Activat_ed\nCoding - Coca\nLogo/Graphics - Activat_ed\nMusic - Lil Snipez\nAnd special thanks to BOOM for helping us fix our code\n1) Download the zip.\n2) Extract the zip by right clicking it.\n3) Open the folder and click on the .exe file.\n4) Enjoy!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODIyMTY3LzQ2MDg0MzAucG5n/original/2lfLkb.png",
+          "https://img.itch.zone/aW1hZ2UvODIyMTY3LzQ2MDg0MzEucG5n/original/x8IU8g.png",
+          "https://img.itch.zone/aW1hZ2UvODIyMTY3LzQ2MDg0MzYucG5n/original/%2B27944.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "cocobean45",
+          "Genre": "Puzzle, Platformer",
+          "Tags": "2D, 3D"
+        }
+      }
+    },
+    {
+      "gameId": 822478,
+      "gameUrl": "https://edmu-games.itch.io/tankomania",
+      "overallRank": 40,
+      "topCategories": [
+        "Gameplay",
+        "Sound"
+      ],
+      "resultData": {
+        "title": "Tankomania",
+        "rank": 40,
+        "id": 822478,
+        "score": 4.171875,
+        "raw_score": 4.171875,
+        "rating_count": 64,
+        "url": "https://itch.io/jam/mix-and-game-jam-2020/rate/822478",
+        "cover_url": "https://img.itch.zone/aW1nLzQ2MDk3NzIucG5n/300x240%23c/Orgi47.png",
+        "contributors": [
+          {
+            "name": "EdMu Games",
+            "id": 3547269
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "rank": 40,
+            "score": 4.171875,
+            "raw_score": 4.171875
+          },
+          {
+            "name": "Gameplay",
+            "rank": 9,
+            "score": 4.203125,
+            "raw_score": 4.203125
+          },
+          {
+            "name": "Art",
+            "rank": 57,
+            "score": 4.046875,
+            "raw_score": 4.046875
+          },
+          {
+            "name": "Sound",
+            "rank": 15,
+            "score": 4.015625,
+            "raw_score": 4.015625
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 64,
+        "coolness": 21,
+        "id": 170663,
+        "field_responses": [
+          "10357:1",
+          "10358:1"
+        ],
+        "created_at": "2020-11-15 18:45:10",
+        "url": "/jam/mix-and-game-jam-2020/rate/822478",
+        "game": {
+          "id": 822478,
+          "user": {
+            "name": "EdMu Games",
+            "url": "https://edmu-games.itch.io",
+            "id": 3547269
+          },
+          "url": "https://edmu-games.itch.io/tankomania",
+          "cover": "https://img.itch.zone/aW1nLzQ2MDk3NzIucG5n/300x240%23c/Orgi47.png",
+          "title": "Tankomania",
+          "platforms": [
+            "windows"
+          ],
+          "short_text": "2D Tank battle arcade game, with flag capturing"
+        }
+      },
+      "details": {
+        "title": "Tankomania",
+        "description": "Funny arcade capture the flag game with tanks for 2 players.Download the zip file, unzip it, get into the folder and run Tankomania.exe",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODIyNDc4LzQ2MDk5MzAucG5n/original/XFOTkE.png",
+          "https://img.itch.zone/aW1hZ2UvODIyNDc4LzQ2MDk5MzEucG5n/original/PmFeEH.png",
+          "https://img.itch.zone/aW1hZ2UvODIyNDc4LzQ2MDk5MzIucG5n/original/oU%2BFN%2F.png",
+          "https://img.itch.zone/aW1hZ2UvODIyNDc4LzQ2MDk5MjkucG5n/original/kdygs5.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Author": "EdMu Games",
+          "Tags": "2D, 2player, Arcade, capturetheflag, ctf, flag, Tanks, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 821859,
+      "gameUrl": "https://fledered.itch.io/grooveem-up",
+      "overallRank": 54,
+      "topCategories": [
+        "Gameplay",
+        "Sound"
+      ],
+      "resultData": {
+        "title": "Groove'em Up",
+        "rank": 54,
+        "id": 821859,
+        "score": 4.0967741935484,
+        "raw_score": 4.0967741935484,
+        "rating_count": 31,
+        "url": "https://itch.io/jam/mix-and-game-jam-2020/rate/821859",
+        "cover_url": "https://img.itch.zone/aW1nLzQ2MDY5MzgucG5n/300x240%23c/Pbktv3.png",
+        "contributors": [
+          {
+            "name": "Fledered",
+            "id": 211086
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "rank": 54,
+            "score": 4.0967741935484,
+            "raw_score": 4.0967741935484
+          },
+          {
+            "name": "Gameplay",
+            "rank": 10,
+            "score": 4.1935483870968,
+            "raw_score": 4.1935483870968
+          },
+          {
+            "name": "Art",
+            "rank": 201,
+            "score": 3.3225806451613,
+            "raw_score": 3.3225806451613
+          },
+          {
+            "name": "Sound",
+            "rank": 10,
+            "score": 4.1290322580645,
+            "raw_score": 4.1290322580645
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 31,
+        "coolness": 159,
+        "id": 170436,
+        "field_responses": [
+          "10357:1",
+          "10358:2"
+        ],
+        "created_at": "2020-11-15 17:49:49",
+        "url": "/jam/mix-and-game-jam-2020/rate/821859",
+        "game": {
+          "short_text": "Shoot these evil red spheres as colorful circles come at you. Follow the color and stay in the rhythm.",
+          "cover": "https://img.itch.zone/aW1nLzQ2MDY5MzgucG5n/300x240%23c/Pbktv3.png",
+          "user": {
+            "name": "Fledered",
+            "url": "https://fledered.itch.io",
+            "id": 211086
+          },
+          "url": "https://fledered.itch.io/grooveem-up",
+          "id": 821859,
+          "title": "Groove'em Up",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#000000"
+        }
+      },
+      "details": {
+        "title": "Groove'em Up",
+        "description": "Shoot these evil red spheres as colorful circles come at you. Follow the color and stay in the rythm.\nGroov'em Up is a Shoot'em Up/Rythm Game made in 48 hours during the Mix And Game Jam 2020.\n\nIn the White Circles, press Left click to shoot.\nIn the Purple Circles, press Right Click to Dash.\nIn the Blue Circles, don't move.\nIn the Orange Circles, you have to move.\n\nDestroy the red spheres by shooting at them.\n\nHave fun !\n(I created all the music of the game during these 48 hour, but none of the sound effects)\nUnzip the file and click on the .exe to launch the game. Don't move the other files elsewhere.",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzQ2MDY5MzgucG5n/original/1p11PR.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Author": "Fledered",
+          "Genre": "Rhythm",
+          "Tags": "Colorful, Minimalist, Music, Shoot 'Em Up"
+        }
+      }
+    },
+    {
+      "gameId": 821231,
+      "gameUrl": "https://denis-grenier.itch.io/apocobot",
+      "overallRank": 34,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "title": "Apocobot",
+        "rank": 34,
+        "id": 821231,
+        "score": 4.2162162162162,
+        "raw_score": 4.2162162162162,
+        "rating_count": 37,
+        "url": "https://itch.io/jam/mix-and-game-jam-2020/rate/821231",
+        "cover_url": "https://img.itch.zone/aW1nLzQ2MTE3MjMucG5n/300x240%23c/JDHcIt.png",
+        "contributors": [
+          {
+            "name": "Denis_Grenier",
+            "id": 3059707
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "rank": 34,
+            "score": 4.2162162162162,
+            "raw_score": 4.2162162162162
+          },
+          {
+            "name": "Gameplay",
+            "rank": 11,
+            "score": 4.1891891891892,
+            "raw_score": 4.1891891891892
+          },
+          {
+            "name": "Art",
+            "rank": 17,
+            "score": 4.3783783783784,
+            "raw_score": 4.3783783783784
+          },
+          {
+            "name": "Sound",
+            "rank": 49,
+            "score": 3.7027027027027,
+            "raw_score": 3.7027027027027
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 37,
+        "coolness": 4,
+        "id": 170610,
+        "field_responses": [
+          "10357:2",
+          "10358:4"
+        ],
+        "created_at": "2020-11-15 18:32:22",
+        "url": "/jam/mix-and-game-jam-2020/rate/821231",
+        "game": {
+          "short_text": "Match 2 and Shoot to save the Space Station!",
+          "cover": "https://img.itch.zone/aW1nLzQ2MTE3MjMucG5n/300x240%23c/JDHcIt.png",
+          "user": {
+            "name": "Denis_Grenier",
+            "url": "https://denis-grenier.itch.io",
+            "id": 3059707
+          },
+          "url": "https://denis-grenier.itch.io/apocobot",
+          "id": 821231,
+          "title": "Apocobot",
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#000000"
+        }
+      },
+      "details": {
+        "title": "Apocobot",
+        "description": "Match 2 / Twin stick shooter\nControls:WASD / Arrows - MoveMouse - Shoot & Aim- Credits -Art, code, concept, and design: Denis GrenierMusic & sound: 8-BIT BLASTMade with Fusion",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODIxMjMxLzQ2MTE3NjAucG5n/original/xFmlXu.png",
+          "https://img.itch.zone/aW1hZ2UvODIxMjMxLzQ2MTE3NjEucG5n/original/yftabJ.png",
+          "https://img.itch.zone/aW1hZ2UvODIxMjMxLzQ2MTE3NTcucG5n/original/EMbOg%2F.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 3.8 out of 5 stars(5 total ratings)",
+          "Author": "Denis_Grenier",
+          "Genre": "Puzzle, Shooter",
+          "Tags": "2D"
+        }
+      }
+    },
+    {
+      "gameId": 820257,
+      "gameUrl": "https://crystalclod.itch.io/this-will-be-sports-in-1985",
+      "overallRank": 64,
+      "topCategories": [
+        "Gameplay",
+        "Art",
+        "Sound"
+      ],
+      "resultData": {
+        "title": "This Will Be Sports in 1985",
+        "rank": 64,
+        "id": 820257,
+        "score": 4.0740740740741,
+        "raw_score": 4.0740740740741,
+        "rating_count": 162,
+        "url": "https://itch.io/jam/mix-and-game-jam-2020/rate/820257",
+        "cover_url": "https://img.itch.zone/aW1nLzQ2MDUyMDkucG5n/300x240%23c/0tHm%2FY.png",
+        "contributors": [
+          {
+            "name": "Crystal Clod",
+            "id": 1643107
+          },
+          {
+            "name": "Maxime",
+            "id": 2232060
+          },
+          {
+            "name": "Janne Sala",
+            "id": 2234444
+          },
+          {
+            "name": "SodaMindReader",
+            "id": 2234347
+          },
+          {
+            "name": "Garfunk",
+            "id": 3605348
+          },
+          {
+            "name": "froggyghoul",
+            "id": 2191055
+          },
+          {
+            "name": "MrRollingCircle",
+            "id": 3605332
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "rank": 64,
+            "score": 4.0740740740741,
+            "raw_score": 4.0740740740741
+          },
+          {
+            "name": "Gameplay",
+            "rank": 12,
+            "score": 4.1851851851852,
+            "raw_score": 4.1851851851852
+          },
+          {
+            "name": "Art",
+            "rank": 5,
+            "score": 4.5308641975309,
+            "raw_score": 4.5308641975309
+          },
+          {
+            "name": "Sound",
+            "rank": 4,
+            "score": 4.2098765432099,
+            "raw_score": 4.2098765432099
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 162,
+        "field_responses": [
+          "10357:1",
+          "10358:1"
+        ],
+        "coolness": 10,
+        "id": 170380,
+        "contributors": [
+          {
+            "name": "Crystal Clod",
+            "url": "https://crystalclod.itch.io"
+          },
+          {
+            "name": "Maxime",
+            "url": "https://chocopain.itch.io"
+          },
+          {
+            "name": "Janne Sala",
+            "url": "https://thepopstardude.itch.io"
+          },
+          {
+            "name": "SodaMindReader",
+            "url": "https://sodamindreader.itch.io"
+          },
+          {
+            "name": "Garfunk",
+            "url": "https://garfunko.itch.io"
+          },
+          {
+            "name": "froggyghoul",
+            "url": "https://froggyghoul.itch.io"
+          },
+          {
+            "name": "MrRollingCircle",
+            "url": "https://mrrollingcircle.itch.io"
+          }
+        ],
+        "created_at": "2020-11-15 17:38:50",
+        "url": "/jam/mix-and-game-jam-2020/rate/820257",
+        "game": {
+          "short_text": "You're running and shooting and furiously winning! Play this game and become football.",
+          "cover": "https://img.itch.zone/aW1nLzQ2MDUyMDkucG5n/300x240%23c/0tHm%2FY.png",
+          "user": {
+            "name": "Crystal Clod",
+            "url": "https://crystalclod.itch.io",
+            "id": 1643107
+          },
+          "url": "https://crystalclod.itch.io/this-will-be-sports-in-1985",
+          "id": 820257,
+          "title": "This Will Be Sports in 1985",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#000000"
+        }
+      },
+      "details": {
+        "title": "This Will Be Sports in 1985",
+        "description": "This Will Be Sports in 1985\nYears have passed and our hero, Kruck Buckem managed to secure himself a family. But his brilliant daughter, Krunkie, has gotten into trouble at the football club! Help her prove her worth as a football player against \"the baddies\" in this intergalactic, highly realistic football game. You are Krunkie, you foot the ball!\nEven in space, we use the term \"football,\" deal with it!\nThis Space Harrier-inspired combination of sports games and arcade shoot-em-ups will give you a totally tubular time.\nThe game got featured in the Mix and Jam video here: Highlight Games from the Mix and Game Jam 2020 - YouTube\nOLD VERSION FROM THE GAME JAM HERE:\nhttps://drive.google.com/file/d/1FRkTehzmyetjRj13mB3t5-2FeXwuQJCC/view?usp=shari...\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODIwMjU3LzQ2MDU3NDgucG5n/original/hn6xne.png",
+          "https://img.itch.zone/aW1hZ2UvODIwMjU3LzQ2MDYxNDQucG5n/original/agnxQ7.png",
+          "https://img.itch.zone/aW1hZ2UvODIwMjU3LzQ2MDkwNjgucG5n/original/hFuNGd.png",
+          "https://img.itch.zone/aW1hZ2UvODIwMjU3LzQ2MDYxNDYucG5n/original/qyxxE6.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.3 out of 5 stars(7 total ratings)",
+          "Authors": "Crystal Clod, Maxime, Janne Sala, SodaMindReader, Garfunk, froggyghoul, MrRollingCircle",
+          "Genre": "Sports, Action",
+          "Made with": "Unity",
+          "Tags": "3D, Aliens, Arcade, Football, Hand-drawn, Retro, Runner, Short, Space",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 821874,
+      "gameUrl": "https://yannickpfeiffer.itch.io/clickerhell",
+      "overallRank": 61,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "title": "ClickerHell",
+        "rank": 61,
+        "id": 821874,
+        "score": 4.0833333333333,
+        "raw_score": 4.0833333333333,
+        "rating_count": 12,
+        "url": "https://itch.io/jam/mix-and-game-jam-2020/rate/821874",
+        "cover_url": "https://img.itch.zone/aW1nLzQ2MTAyOTYuanBn/300x240%23c/9JH6Uc.jpg",
+        "contributors": [
+          {
+            "name": "YannickPfeiffer",
+            "id": 2055566
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "rank": 61,
+            "score": 4.0833333333333,
+            "raw_score": 4.0833333333333
+          },
+          {
+            "name": "Gameplay",
+            "rank": 13,
+            "score": 4.1666666666667,
+            "raw_score": 4.1666666666667
+          },
+          {
+            "name": "Art",
+            "rank": 304,
+            "score": 2.9166666666667,
+            "raw_score": 2.9166666666667
+          },
+          {
+            "name": "Sound",
+            "rank": 16,
+            "score": 4,
+            "raw_score": 4
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 12,
+        "coolness": 23,
+        "id": 170753,
+        "field_responses": [
+          "10357:1",
+          "10358:1"
+        ],
+        "created_at": "2020-11-15 18:54:46",
+        "url": "/jam/mix-and-game-jam-2020/rate/821874",
+        "game": {
+          "short_text": "Bullet-Hell and Click-for-Cash",
+          "cover": "https://img.itch.zone/aW1nLzQ2MTAyOTYuanBn/300x240%23c/9JH6Uc.jpg",
+          "user": {
+            "name": "YannickPfeiffer",
+            "url": "https://yannickpfeiffer.itch.io",
+            "id": 2055566
+          },
+          "url": "https://yannickpfeiffer.itch.io/clickerhell",
+          "id": 821874,
+          "title": "ClickerHell",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ],
+          "cover_color": "#dbc2c2"
+        }
+      },
+      "details": {
+        "title": "ClickerHell",
+        "description": "Merge a stressful Bullet-Hell with an addictive Click-for-Cash game and YOU will have the time of YOUR life. In \"ClickerHell\" you shoot enemies, dodge projectiles and earn money to upgrade your abilities to shoot more enemies, dodge projectiles and earn money to upgrade your abilities to shoot more enemies, dodge projectiles and earn money to upgrade your abilities to die. It's a HIGHSCORE game!Controller / Gamepad  is highly recommended! (Controls in game)Keyboard Controls: \nWASD: Move\nArrow Keys: Shoot\n1, 2, 3, 4: Buy Upgrade\nSpace: Dash\nEnter: Get Money",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODIxODc0LzQ2MTAxNjIuanBn/original/p%2FSGHE.jpg",
+          "https://img.itch.zone/aW1hZ2UvODIxODc0LzQ2MTAxNDMucG5n/original/LeV6Va.png",
+          "https://img.itch.zone/aW1hZ2UvODIxODc0LzQ2MTAxNTEucG5n/original/jn4NzF.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS, Linux",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "YannickPfeiffer",
+          "Genre": "Survival, Action, Shooter",
+          "Tags": "3D, Bullet Hell, Clicker, dodging, High Score, Retro, Singleplayer, Unity",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Gamepad (any)",
+          "Accessibility": "Color-blind friendly, Textless"
+        }
+      }
+    },
+    {
+      "gameId": 822062,
+      "gameUrl": "https://quail-watcher.itch.io/trial-of-the-tennis-lord",
+      "overallRank": 75,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "title": "Trial of the Tennis-Lord",
+        "rank": 75,
+        "id": 822062,
+        "score": 4,
+        "raw_score": 4,
+        "rating_count": 18,
+        "url": "https://itch.io/jam/mix-and-game-jam-2020/rate/822062",
+        "cover_url": "https://img.itch.zone/aW1nLzQ2NDM0MjcucG5n/300x240%23c/qesjgU.png",
+        "contributors": [
+          {
+            "name": "Quail_Watcher",
+            "id": 3086623
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "rank": 75,
+            "score": 4,
+            "raw_score": 4
+          },
+          {
+            "name": "Gameplay",
+            "rank": 13,
+            "score": 4.1666666666667,
+            "raw_score": 4.1666666666667
+          },
+          {
+            "name": "Art",
+            "rank": 95,
+            "score": 3.8333333333333,
+            "raw_score": 3.8333333333333
+          },
+          {
+            "name": "Sound",
+            "rank": 113,
+            "score": 3.3888888888889,
+            "raw_score": 3.3888888888889
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 18,
+        "coolness": 85,
+        "id": 170393,
+        "field_responses": [
+          "10357:1",
+          "10358:3"
+        ],
+        "created_at": "2020-11-15 17:40:58",
+        "url": "/jam/mix-and-game-jam-2020/rate/822062",
+        "game": {
+          "short_text": "A platformer about tennis and robots.",
+          "user": {
+            "name": "Quail_Watcher",
+            "url": "https://quail-watcher.itch.io",
+            "id": 3086623
+          },
+          "id": 822062,
+          "url": "https://quail-watcher.itch.io/trial-of-the-tennis-lord",
+          "title": "Trial of the Tennis-Lord",
+          "cover": "https://img.itch.zone/aW1nLzQ2NDM0MjcucG5n/300x240%23c/qesjgU.png",
+          "cover_color": "#141c41"
+        }
+      },
+      "details": {
+        "title": "Trial of the Tennis-Lord",
+        "description": "An endless platforming arena where you battle hordes of robots with nothing but your trusty racket and ball. This game was made for the 2020 Mix and Game Jam, and mixes the genres of sport and platformer.\nControls:\nWSAD or Arrow Keys to move\nLeft mouse button to hit the ball (it heads towards your mouse)\nRight mouse button to slow time (this is only possible when near the ball)\nDouble jump is enabled, have fun :)\nMusic: BoxCat Games - Inspiration. Licensed under Attribution 3.0 Unported https://creativecommons.org/licenses/by-nd/3.0/legalcodeSimply unzip and run nw.exe.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODIyMDYyLzQ2MDc3MjIucG5n/original/6D1LRI.png",
+          "https://img.itch.zone/aW1hZ2UvODIyMDYyLzQ2MDc3MjMucG5n/original/2Rm6G4.png",
+          "https://img.itch.zone/aW1hZ2UvODIyMDYyLzQ2MDc3MjQucG5n/original/j300ZH.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Author": "Quail_Watcher",
+          "Genre": "Platformer, Action",
+          "Tags": "2D, Arcade, Endless, Fast-Paced, Physics, Pixel Art, Short, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 822189,
+      "gameUrl": "https://blazerchlopiec.itch.io/inverted-reflection",
+      "overallRank": 22,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "title": "Inverted Reflection",
+        "rank": 22,
+        "id": 822189,
+        "score": 4.3555555555556,
+        "raw_score": 4.3555555555556,
+        "rating_count": 45,
+        "url": "https://itch.io/jam/mix-and-game-jam-2020/rate/822189",
+        "cover_url": "https://img.itch.zone/aW1nLzQ2MDk3NjMuZ2lm/300x240%23c/hkiknL.gif",
+        "contributors": [
+          {
+            "name": "Blazer",
+            "id": 3194914
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "rank": 22,
+            "score": 4.3555555555556,
+            "raw_score": 4.3555555555556
+          },
+          {
+            "name": "Gameplay",
+            "rank": 15,
+            "score": 4.1555555555556,
+            "raw_score": 4.1555555555556
+          },
+          {
+            "name": "Art",
+            "rank": 50,
+            "score": 4.0888888888889,
+            "raw_score": 4.0888888888889
+          },
+          {
+            "name": "Sound",
+            "rank": 46,
+            "score": 3.7111111111111,
+            "raw_score": 3.7111111111111
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 45,
+        "coolness": 19,
+        "id": 170651,
+        "field_responses": [
+          "10357:1",
+          "10358:3"
+        ],
+        "created_at": "2020-11-15 18:42:01",
+        "url": "/jam/mix-and-game-jam-2020/rate/822189",
+        "game": {
+          "id": 822189,
+          "cover_color": "#1b1b1b",
+          "url": "https://blazerchlopiec.itch.io/inverted-reflection",
+          "user": {
+            "name": "Blazer",
+            "url": "https://blazerchlopiec.itch.io",
+            "id": 3194914
+          },
+          "gif_cover": "https://img.itch.zone/aW1nLzQ2MDk3NjMuZ2lm/original/Y8i1tU.gif",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "title": "Inverted Reflection",
+          "cover": "https://img.itch.zone/aW1nLzQ2MDk3NjMuZ2lm/300x240%23c/hkiknL.gif",
+          "short_text": "Puzzle-Platformer"
+        }
+      },
+      "details": {
+        "title": "Inverted Reflection",
+        "description": "UPDATE 1.1 IS LIVE!Made for Mix and Game Jam 2020! It's my first Jam!The game is a Puzzle-Platformer.Hold R to reset the game entirely!\nInstruction:1. Hold the LMB/F or an Action controller button  and move your character to use the ability2. Use your environment well.\nChangelog 1.1:- Added version number to the start screen- You can't get OOB anymore (Out of bounds)- Some small player fixes- The spike colliders are now smaller- Spike colliders are removed during the scene transition- Now you can use the ability with F- Reduced the slippery feel sometimes- Fixed some texture bugs- Fixed a few slowmo bugs- Added a timer- Added a reset shortcut (Hold R)- I changed a little the utterly cursed Level 7\n\nMusic in the background is from Fesliyan Studios! They make amazing stuff!Windows :\n1. Download the RAR file2. Extract it with WinRar or 7Zip3. Open Inverted Reflection\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODIyMTg5LzQ2MDkxNjcucG5n/original/HMDMZl.png",
+          "https://img.itch.zone/aW1hZ2UvODIyMTg5LzQ2MDkxNjgucG5n/original/90izvm.png",
+          "https://img.itch.zone/aW1hZ2UvODIyMTg5LzQ2MDkxNjYucG5n/original/3mKwI%2B.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Author": "Blazer",
+          "Genre": "Platformer",
+          "Made with": "Unity",
+          "Tags": "2D, Puzzle-Platformer"
+        }
+      }
+    },
+    {
+      "gameId": 822486,
+      "gameUrl": "https://clxrffdman.itch.io/rhythm-of-the-dead",
+      "overallRank": 31,
+      "topCategories": [
+        "Art",
+        "Sound"
+      ],
+      "resultData": {
+        "title": "Rhythm of the Dead",
+        "rank": 31,
+        "id": 822486,
+        "score": 4.2622950819672,
+        "raw_score": 4.2622950819672,
+        "rating_count": 61,
+        "url": "https://itch.io/jam/mix-and-game-jam-2020/rate/822486",
+        "cover_url": "https://img.itch.zone/aW1nLzQ2MDk2OTEuZ2lm/300x240%23c/xFHaiL.gif",
+        "contributors": [
+          {
+            "name": "clxrffdman",
+            "id": 2348747
+          },
+          {
+            "name": "Soupzz",
+            "id": 2980754
+          },
+          {
+            "name": "popcornflood",
+            "id": 3032657
+          },
+          {
+            "name": "David Sound Wizard",
+            "id": 3147283
+          },
+          {
+            "name": "ralphyua",
+            "id": 1451408
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "rank": 31,
+            "score": 4.2622950819672,
+            "raw_score": 4.2622950819672
+          },
+          {
+            "name": "Gameplay",
+            "rank": 32,
+            "score": 3.9672131147541,
+            "raw_score": 3.9672131147541
+          },
+          {
+            "name": "Art",
+            "rank": 2,
+            "score": 4.5573770491803,
+            "raw_score": 4.5573770491803
+          },
+          {
+            "name": "Sound",
+            "rank": 1,
+            "score": 4.4754098360656,
+            "raw_score": 4.4754098360656
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 61,
+        "field_responses": [
+          "10357:1",
+          "10358:1"
+        ],
+        "coolness": 14,
+        "id": 170712,
+        "contributors": [
+          {
+            "name": "clxrffdman",
+            "url": "https://clxrffdman.itch.io"
+          },
+          {
+            "name": "Soupzz",
+            "url": "https://soupzz.itch.io"
+          },
+          {
+            "name": "popcornflood",
+            "url": "https://popcornflood.itch.io"
+          },
+          {
+            "name": "David Sound Wizard",
+            "url": "https://davidsoundwizard.itch.io"
+          },
+          {
+            "name": "ralphyua",
+            "url": "https://ralphyua.itch.io"
+          }
+        ],
+        "created_at": "2020-11-15 18:51:35",
+        "url": "/jam/mix-and-game-jam-2020/rate/822486",
+        "game": {
+          "id": 822486,
+          "cover_color": "#411f59",
+          "url": "https://clxrffdman.itch.io/rhythm-of-the-dead",
+          "user": {
+            "name": "clxrffdman",
+            "url": "https://clxrffdman.itch.io",
+            "id": 2348747
+          },
+          "gif_cover": "https://img.itch.zone/aW1nLzQ2MDk2OTEuZ2lm/original/4QVuCf.gif",
+          "platforms": [
+            "windows",
+            "osx"
+          ],
+          "title": "Rhythm of the Dead",
+          "cover": "https://img.itch.zone/aW1nLzQ2MDk2OTEuZ2lm/300x240%23c/xFHaiL.gif",
+          "short_text": "Slay to the beat to survive the neon-lit night!"
+        }
+      },
+      "details": {
+        "title": "Rhythm of the Dead",
+        "description": "Rhythm of the Dead\nControl Ash Lane as he hunts the undead to the rhythm of the neon-lit night!\n\n\"Rhythm of the Dead\" is a challenging rhythm-shooter made for the 2020 Mix and Game Jam. Slay the undead to the beat of the music as you explore in order to survive the night!\nControls:WASD or Arrow Keys - Move\nLeft Mouse/Space - Attack + Hit Note\nEscape - Pause Menu\n\nAll art and music were created during the 48-hour period of the jam. The jam submission page can be found here: https://itch.io/jam/mix-and-game-jam-2020/rate/822486\nFull soundtrack can be found here: https://soundcloud.com/davidsoundwizard/rhythmofthedead-ost\nWindows and Mac download versions are available.\nKnown Questions: Many players have had questions about enemy spawns, and that enemies stop spawning. Enemy spawn locations have spawn limits to discourage players from camping/not exploring the full level. If you're struggling with enemy spawns, try exploring the level a bit more!Instructions:\nWINDOWS: Run the .exe to run the game!\nMAC: Unzip the .zip and run the .app file to run the game!\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODIyNDg2LzQ2MDk3MzcucG5n/original/0R05Xk.png",
+          "https://img.itch.zone/aW1hZ2UvODIyNDg2LzQ2MjMzNjEucG5n/original/0uEshm.png",
+          "https://img.itch.zone/aW1hZ2UvODIyNDg2LzQ2MjMzNjcucG5n/original/XQIseK.png",
+          "https://img.itch.zone/aW1hZ2UvODIyNDg2LzQ2MjMzNzEucG5n/original/kWTQJI.png",
+          "https://img.itch.zone/aW1hZ2UvODIyNDg2LzQ2MjMzNzIucG5n/original/u02g0B.png",
+          "https://img.itch.zone/aW1hZ2UvODIyNDg2LzQ2MTAxNzguZ2lm/original/3QB6DX.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS",
+          "Rating": "Rated 5.0 out of 5 stars(3 total ratings)",
+          "Authors": "clxrffdman, Soupzz, popcornflood, David Sound Wizard, ralphyua",
+          "Genre": "Rhythm, Action, Shooter",
+          "Tags": "2D, Top down shooter"
+        }
+      }
+    },
+    {
+      "gameId": 822319,
+      "gameUrl": "https://sundaysoup.itch.io/fik",
+      "overallRank": 49,
+      "topCategories": [
+        "Art",
+        "Sound"
+      ],
+      "resultData": {
+        "title": "FIK",
+        "rank": 49,
+        "id": 822319,
+        "score": 4.1282051282051,
+        "raw_score": 4.1282051282051,
+        "rating_count": 39,
+        "url": "https://itch.io/jam/mix-and-game-jam-2020/rate/822319",
+        "cover_url": "https://img.itch.zone/aW1nLzQ2MTEyMTIucG5n/300x240%23c/LV87nq.png",
+        "contributors": [
+          {
+            "name": "Sunday Soup",
+            "id": 3604322
+          },
+          {
+            "name": "SybrenVP",
+            "id": 1480514
+          },
+          {
+            "name": "Jens Lelie",
+            "id": 1605495
+          },
+          {
+            "name": "Ziggy Van Onacker",
+            "id": 2065108
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "rank": 49,
+            "score": 4.1282051282051,
+            "raw_score": 4.1282051282051
+          },
+          {
+            "name": "Gameplay",
+            "rank": 16,
+            "score": 4.1538461538462,
+            "raw_score": 4.1538461538462
+          },
+          {
+            "name": "Art",
+            "rank": 3,
+            "score": 4.5384615384615,
+            "raw_score": 4.5384615384615
+          },
+          {
+            "name": "Sound",
+            "rank": 2,
+            "score": 4.3333333333333,
+            "raw_score": 4.3333333333333
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 39,
+        "field_responses": [
+          "10357:1",
+          "10358:1"
+        ],
+        "coolness": 1,
+        "id": 170694,
+        "contributors": [
+          {
+            "name": "Sunday Soup",
+            "url": "https://sundaysoup.itch.io"
+          },
+          {
+            "name": "SybrenVP",
+            "url": "https://sybrenvp.itch.io"
+          },
+          {
+            "name": "Jens Lelie",
+            "url": "https://madebyjens.itch.io"
+          },
+          {
+            "name": "Ziggy Van Onacker",
+            "url": "https://ziehie.itch.io"
+          }
+        ],
+        "created_at": "2020-11-15 18:49:00",
+        "url": "/jam/mix-and-game-jam-2020/rate/822319",
+        "game": {
+          "short_text": "Swing, Smash and Survive! A Rhythm Survival Game",
+          "cover": "https://img.itch.zone/aW1nLzQ2MTEyMTIucG5n/300x240%23c/LV87nq.png",
+          "user": {
+            "name": "Sunday Soup",
+            "url": "https://sundaysoup.itch.io",
+            "id": 3604322
+          },
+          "url": "https://sundaysoup.itch.io/fik",
+          "id": 822319,
+          "title": "FIK",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#0e0f0d"
+        }
+      },
+      "details": {
+        "title": "FIK",
+        "description": "\nOh no!  The forest monsters are trying to extinguish your campfire. Club them off! Swing, smash and survive to the beat, put your faith in the rhythm and your bat. \nNeed a challenge? Try the extremely challenging Hard Mode, but don't let your fire die out... \n\nEscape -> Pause Menu\n\n\nThis project was made for the \"Mix and Game Jam 2020\"!\nBy: SybrenVP, LelieJens & Ziehie Once the zip is downloaded, extract the folder in a location of your choice.\nRun the FIK.exe and done!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODIyMzE5LzQ2MTEwNTUuZ2lm/original/EsRNI%2F.gif",
+          "https://img.itch.zone/aW1hZ2UvODIyMzE5LzQ2MDk2MzkuanBn/original/8EvqAp.jpg",
+          "https://img.itch.zone/aW1hZ2UvODIyMzE5LzQ2MDk3NTcucG5n/original/owbTyJ.png",
+          "https://img.itch.zone/aW1hZ2UvODIyMzE5LzQ2MDk5NzcuZ2lm/original/yOEfiA.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Authors": "Sunday Soup, SybrenVP, Jens Lelie, Ziggy Van Onacker",
+          "Genre": "Rhythm, Survival",
+          "Made with": "Unity, Adobe Photoshop, Audacity",
+          "Tags": "2D, campfire, fik, Forest, Game Jam, mixandgame, soup, sunday, Top-Down",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse",
+          "Accessibility": "Textless",
+          "Links": "Blog"
+        }
+      }
+    },
+    {
+      "gameId": 822305,
+      "gameUrl": "https://jacobsmith3204.itch.io/shortwave-shakedown",
+      "overallRank": 227,
+      "topCategories": [
+        "Art"
+      ],
+      "resultData": {
+        "title": "Shortwave Shakedown",
+        "rank": 227,
+        "id": 822305,
+        "score": 3.5238095238095,
+        "raw_score": 3.5238095238095,
+        "rating_count": 21,
+        "url": "https://itch.io/jam/mix-and-game-jam-2020/rate/822305",
+        "cover_url": "https://img.itch.zone/aW1nLzQ2MDg4MTgucG5n/300x240%23c/OypNk%2F.png",
+        "contributors": [
+          {
+            "name": "jacobsmith3204",
+            "id": 1334249
+          },
+          {
+            "name": "JamesMusic",
+            "id": 3585789
+          },
+          {
+            "name": "Wolfspear",
+            "id": 1620236
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "rank": 227,
+            "score": 3.5238095238095,
+            "raw_score": 3.5238095238095
+          },
+          {
+            "name": "Gameplay",
+            "rank": 282,
+            "score": 2.8571428571429,
+            "raw_score": 2.8571428571429
+          },
+          {
+            "name": "Art",
+            "rank": 6,
+            "score": 4.5238095238095,
+            "raw_score": 4.5238095238095
+          },
+          {
+            "name": "Sound",
+            "rank": 55,
+            "score": 3.6666666666667,
+            "raw_score": 3.6666666666667
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 21,
+        "field_responses": [
+          "10357:1",
+          "10358:1"
+        ],
+        "coolness": 7,
+        "id": 170725,
+        "contributors": [
+          {
+            "name": "jacobsmith3204",
+            "url": "https://jacobsmith3204.itch.io"
+          },
+          {
+            "name": "JamesMusic",
+            "url": "https://jamesmusic.itch.io"
+          },
+          {
+            "name": "Wolfspear",
+            "url": "https://wolfspear.itch.io"
+          }
+        ],
+        "created_at": "2020-11-15 18:52:38",
+        "url": "/jam/mix-and-game-jam-2020/rate/822305",
+        "game": {
+          "short_text": "Rhythm based Endless Bullet Hell",
+          "cover": "https://img.itch.zone/aW1nLzQ2MDg4MTgucG5n/300x240%23c/OypNk%2F.png",
+          "user": {
+            "name": "jacobsmith3204",
+            "url": "https://jacobsmith3204.itch.io",
+            "id": 1334249
+          },
+          "url": "https://jacobsmith3204.itch.io/shortwave-shakedown",
+          "id": 822305,
+          "title": "Shortwave Shakedown",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#19032a"
+        }
+      },
+      "details": {
+        "title": "Shortwave Shakedown",
+        "description": "Rhythm based Bullethell!\nSurvive against the Mafioso's gunning you down!\nWASD - Move\nEverytime the song changes the player's on the beat action changes!\nWolfspear - Programming\njacobsmith3204 - Art, Programming\n JamesE - Music, SFX\ncheck out the post release build for a better experiance.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzQ2MDg4MTgucG5n/original/6Qecyp.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Authors": "jacobsmith3204, JamesMusic, Wolfspear",
+          "Genre": "Action, Rhythm",
+          "Made with": "Unity",
+          "Tags": "Bullet Hell, Endless, mafia, mix-and-game-jam, Pixel Art"
+        }
+      }
+    },
+    {
+      "gameId": 821989,
+      "gameUrl": "https://tieffeline.itch.io/farming-terminator-game-jam-version",
+      "overallRank": 36,
+      "topCategories": [
+        "Art"
+      ],
+      "resultData": {
+        "title": "Farming Terminator - Game Jam Version",
+        "rank": 36,
+        "id": 821989,
+        "score": 4.2121212121212,
+        "raw_score": 4.2121212121212,
+        "rating_count": 66,
+        "url": "https://itch.io/jam/mix-and-game-jam-2020/rate/821989",
+        "cover_url": "https://img.itch.zone/aW1nLzQ4MDczNDAucG5n/300x240%23c/e4jbyn.png",
+        "contributors": [
+          {
+            "name": "Tieffeline",
+            "id": 1445898
+          },
+          {
+            "name": "Menica Folden",
+            "id": 1265939
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "rank": 36,
+            "score": 4.2121212121212,
+            "raw_score": 4.2121212121212
+          },
+          {
+            "name": "Gameplay",
+            "rank": 51,
+            "score": 3.8030303030303,
+            "raw_score": 3.8030303030303
+          },
+          {
+            "name": "Art",
+            "rank": 7,
+            "score": 4.4848484848485,
+            "raw_score": 4.4848484848485
+          },
+          {
+            "name": "Sound",
+            "rank": 73,
+            "score": 3.5606060606061,
+            "raw_score": 3.5606060606061
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 66,
+        "field_responses": [
+          "10357:1",
+          "10358:4"
+        ],
+        "coolness": 12,
+        "id": 170245,
+        "contributors": [
+          {
+            "name": "Tieffeline",
+            "url": "https://tieffeline.itch.io"
+          },
+          {
+            "name": "Menica Folden",
+            "url": "https://menicafolden.itch.io"
+          }
+        ],
+        "created_at": "2020-11-15 16:23:28",
+        "url": "/jam/mix-and-game-jam-2020/rate/821989",
+        "game": {
+          "short_text": "Farming simulator + Shoot them up. #mixandgamejam",
+          "cover": "https://img.itch.zone/aW1nLzQ4MDczNDAucG5n/300x240%23c/e4jbyn.png",
+          "user": {
+            "name": "Tieffeline",
+            "url": "https://tieffeline.itch.io",
+            "id": 1445898
+          },
+          "url": "https://tieffeline.itch.io/farming-terminator-game-jam-version",
+          "id": 821989,
+          "title": "Farming Terminator - Game Jam Version",
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#BFE9CB"
+        }
+      },
+      "details": {
+        "title": "Farming Terminator - Game Jam Version",
+        "description": "Damn, real estate agents want your field to build ugly buildings. 😡\nBut you want to save your precious flowers because fuck them ! 🌼\nA farming simulator + Shoot them up game !\nSomes advices !\n🎃 Pumpkins are really useful to create barriers \n🥔 You should grow potatoes every time you can do it\n🍉 Don't forget the watermelons\nIt's okay do die quickly the first try ;)\nResults of the Mix and Game Jam (2020) (+600 participants)\n 7th — Art 31th — Gameplay 36th — Creativity\n🥇 Current hight score: 1073\n\n👩‍💻👩‍💻 A game by Tieffeline and Menica Folden 🇫🇷\nMade in 2 days for the Mix and Game Jam",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODIxOTg5LzQ2MTA0NzAuZ2lm/original/n5pZjS.gif",
+          "https://img.itch.zone/aW1hZ2UvODIxOTg5LzQ2MDg3MzkucG5n/original/BNVrD%2F.png",
+          "https://img.itch.zone/aW1hZ2UvODIxOTg5LzQ2MTA0ODcuZ2lm/original/9N%2FCmg.gif",
+          "https://img.itch.zone/aW1hZ2UvODIxOTg5LzQ2MDg3NDUucG5n/original/nHi96z.png",
+          "https://img.itch.zone/aW1hZ2UvODIxOTg5LzQ2MTA1OTcuZ2lm/original/xs8H5f.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Authors": "Tieffeline, Menica Folden",
+          "Genre": "Shooter",
+          "Made with": "Construct",
+          "Tags": "construct, Construct 2, construct-3, farm, Farming, Game Jam, Shoot 'Em Up, Vector",
+          "Average session": "A few minutes"
+        }
+      }
+    },
+    {
+      "gameId": 821777,
+      "gameUrl": "https://aerowgames.itch.io/seedoshiki",
+      "overallRank": 51,
+      "topCategories": [
+        "Art"
+      ],
+      "resultData": {
+        "title": "Seed O.Shiki",
+        "rank": 51,
+        "id": 821777,
+        "score": 4.1190476190476,
+        "raw_score": 4.1190476190476,
+        "rating_count": 42,
+        "url": "https://itch.io/jam/mix-and-game-jam-2020/rate/821777",
+        "cover_url": "https://img.itch.zone/aW1nLzQ2MTAwOTcucG5n/300x240%23c/7KUToJ.png",
+        "contributors": [
+          {
+            "name": "Aerow",
+            "id": 1209999
+          },
+          {
+            "name": "Menthalo",
+            "id": 1183221
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "rank": 51,
+            "score": 4.1190476190476,
+            "raw_score": 4.1190476190476
+          },
+          {
+            "name": "Gameplay",
+            "rank": 31,
+            "score": 3.9761904761905,
+            "raw_score": 3.9761904761905
+          },
+          {
+            "name": "Art",
+            "rank": 9,
+            "score": 4.4761904761905,
+            "raw_score": 4.4761904761905
+          },
+          {
+            "name": "Sound",
+            "rank": 32,
+            "score": 3.8571428571429,
+            "raw_score": 3.8571428571429
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 42,
+        "field_responses": [
+          "10357:1",
+          "10358:2"
+        ],
+        "coolness": 48,
+        "id": 170755,
+        "contributors": [
+          {
+            "name": "Aerow",
+            "url": "https://aerowgames.itch.io"
+          },
+          {
+            "name": "Menthalo",
+            "url": "https://menthalo.itch.io"
+          }
+        ],
+        "created_at": "2020-11-15 18:54:57",
+        "url": "/jam/mix-and-game-jam-2020/rate/821777",
+        "game": {
+          "short_text": "Rogue-Like Puzzle game based on the popular game of Futoshiki !",
+          "cover": "https://img.itch.zone/aW1nLzQ2MTAwOTcucG5n/300x240%23c/7KUToJ.png",
+          "user": {
+            "name": "Aerow",
+            "url": "https://aerowgames.itch.io",
+            "id": 1209999
+          },
+          "url": "https://aerowgames.itch.io/seedoshiki",
+          "id": 821777,
+          "title": "Seed O.Shiki",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#000000"
+        }
+      },
+      "details": {
+        "title": "Seed O.Shiki",
+        "description": "Seed O.Shiki is currently being developed into a full game named Overhaul which will be released in Summer 2021. This is the jam version that will give you a rough idea of the game. It was made in one weekend for the Mix and Game Jam. If you would like to see how this game turned out, you can check the Steam page and Wishlist Overhaul now !Seed O.Shiki is a Rogue-Like Puzzle game where you solve puzzles in randomly generated rooms to gather power ups. These upgrades will help you venture further intro the cave and face more difficult challenges.\nWhen entering a room, you must solve a puzzle by planting seeds inside a grid. You must respect the rules: - The same amount of seeds can't be present on the same row or column. - Be mindul of the inequalities, some spots must have more seeds than the spot they are pointing towards. As long as these two rules are respected, you will you be rewarded with awesome items such as \"Dad's Cuisine\" or the tasy \"Choco Cream\". But be careful, you don't have much time to think and will be punished for your mistakes. Don't worry, if you fail you can just try again and get better and smarter !\n\nControls\nWASD/ZQSD  : Player movement\nDown Arrow : Plant seeds\nUp Arrow : Retrieve seeds\nRight Arrow : Increase seed number\nLeft Arrow : Decrease seed number\nXBox Controller\nLeft Stick : Player movement\nA : Plant seeds\nX : Retrieve seeds\nRB : Increase seed number\nLB : Decrease seed number\n\nMusic\nDark Future by Ketsa\n\nAdditional information\nThis game was orginally made in one weekend for the Mix and Game Jam in November 2020 on the theme \"Mixing Genres\".  The team was composed of Menthalo and myself. We decided to mix a Rogue Like with a Puzzle game.  You stroll through a randomly generated cave where in order to progress, you will have to solve a grid of Futoshiki (puzzle game similar to the Sudoku) by planting the correct amount of seeds in each cell of the grid. Every room has its own grid that you should solve.  Completing a room will grant you with some valuable rewards which will come handy when progressing in the cave.\n\nControls (Jam)\nWASD / Arrow Keys : Player movement\nL : Plant seeds    K : Retrieve seeds \nE : Increase seed number    A : Decrease seed number\nXBox Controller\nLeft Stick : Player movement\n\nA : Plant seeds    X : Retrieve seeds\nRB : Increase seed number    LB : Decrease seed number\n\nThank you for playing our game ! Hope you enjoyed your time !",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODIxNzc3LzQ2MTA4NDAucG5n/original/HzQeAu.png",
+          "https://img.itch.zone/aW1hZ2UvODIxNzc3LzQ2MDk5NDYucG5n/original/zK%2FgnH.png",
+          "https://img.itch.zone/aW1hZ2UvODIxNzc3LzQ2MDk5NDUucG5n/original/MpHAj1.png",
+          "https://img.itch.zone/aW1hZ2UvODIxNzc3LzQ2MDk5NDQucG5n/original/O7JTUa.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Authors": "Aerow, Menthalo",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "2D, Cartoon, futoshiki, Roguelike, seedoshiki, seeds, Top-Down, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 819558,
+      "gameUrl": "https://comrade-katze.itch.io/hell-bomber",
+      "overallRank": 156,
+      "topCategories": [
+        "Art"
+      ],
+      "resultData": {
+        "title": "Hell Bomber",
+        "rank": 156,
+        "id": 819558,
+        "score": 3.7647058823529,
+        "raw_score": 3.7647058823529,
+        "rating_count": 17,
+        "url": "https://itch.io/jam/mix-and-game-jam-2020/rate/819558",
+        "cover_url": "https://img.itch.zone/aW1nLzQ2MTA5MjgucG5n/300x240%23c/tBFeLW.png",
+        "contributors": [
+          {
+            "name": "Comrade Katze",
+            "id": 1148131
+          },
+          {
+            "name": "AnteCaptain",
+            "id": 3579314
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "rank": 156,
+            "score": 3.7647058823529,
+            "raw_score": 3.7647058823529
+          },
+          {
+            "name": "Gameplay",
+            "rank": 23,
+            "score": 4.0588235294118,
+            "raw_score": 4.0588235294118
+          },
+          {
+            "name": "Art",
+            "rank": 10,
+            "score": 4.4705882352941,
+            "raw_score": 4.4705882352941
+          },
+          {
+            "name": "Sound",
+            "rank": 48,
+            "score": 3.7058823529412,
+            "raw_score": 3.7058823529412
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 17,
+        "field_responses": [
+          "10357:1",
+          "10358:4"
+        ],
+        "coolness": 6,
+        "id": 170824,
+        "contributors": [
+          {
+            "name": "Comrade Katze",
+            "url": "https://comrade-katze.itch.io"
+          },
+          {
+            "name": "AnteCaptain",
+            "url": "https://antecaptain.itch.io"
+          }
+        ],
+        "created_at": "2020-11-15 18:59:14",
+        "url": "/jam/mix-and-game-jam-2020/rate/819558",
+        "game": {
+          "short_text": "Bullet hell + Hyper casual",
+          "cover": "https://img.itch.zone/aW1nLzQ2MTA5MjgucG5n/300x240%23c/tBFeLW.png",
+          "user": {
+            "name": "Comrade Katze",
+            "url": "https://comrade-katze.itch.io",
+            "id": 1148131
+          },
+          "url": "https://comrade-katze.itch.io/hell-bomber",
+          "id": 819558,
+          "title": "Hell Bomber",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#000000"
+        }
+      },
+      "details": {
+        "title": "Hell Bomber",
+        "description": "A little mix of Bullet hell and Hyper casual genres. There is no score saving so it's hard to tell how good you played, but I hope you will like it!How to play:Step on blue squares to get score. Avoid bombs and bullets! Difficulty increases with time.\nControls:\nW A S D - movementLMB - interface interactions",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODE5NTU4LzQ2MTE0NTQuZ2lm/original/7x6umc.gif",
+          "https://img.itch.zone/aW1hZ2UvODE5NTU4LzQ2MTA2NDcucG5n/original/nx8r3V.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Authors": "Comrade Katze, AnteCaptain",
+          "Tags": "3D, Arcade, Bullet Hell"
+        }
+      }
+    },
+    {
+      "gameId": 822484,
+      "gameUrl": "https://alexandre2bi.itch.io/crypt-of-necrotower",
+      "overallRank": 33,
+      "topCategories": [
+        "Art"
+      ],
+      "resultData": {
+        "title": "Crypt of Necrotower",
+        "rank": 33,
+        "id": 822484,
+        "score": 4.2307692307692,
+        "raw_score": 4.2307692307692,
+        "rating_count": 13,
+        "url": "https://itch.io/jam/mix-and-game-jam-2020/rate/822484",
+        "cover_url": "https://img.itch.zone/aW1nLzQ2MDk3MzYucG5n/300x240%23c/fLvNKH.png",
+        "contributors": [
+          {
+            "name": "Alexandre2BI",
+            "id": 1214461
+          },
+          {
+            "name": "Resnox",
+            "id": 69472
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "rank": 33,
+            "score": 4.2307692307692,
+            "raw_score": 4.2307692307692
+          },
+          {
+            "name": "Gameplay",
+            "rank": 62,
+            "score": 3.7692307692308,
+            "raw_score": 3.7692307692308
+          },
+          {
+            "name": "Art",
+            "rank": 11,
+            "score": 4.4615384615385,
+            "raw_score": 4.4615384615385
+          },
+          {
+            "name": "Sound",
+            "rank": 16,
+            "score": 4,
+            "raw_score": 4
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 13,
+        "field_responses": [
+          "10357:1",
+          "10358:1"
+        ],
+        "coolness": 5,
+        "id": 170814,
+        "contributors": [
+          {
+            "name": "Alexandre2BI",
+            "url": "https://alexandre2bi.itch.io"
+          },
+          {
+            "name": "Resnox",
+            "url": "https://resnox.itch.io"
+          }
+        ],
+        "created_at": "2020-11-15 18:58:52",
+        "url": "/jam/mix-and-game-jam-2020/rate/822484",
+        "game": {
+          "user": {
+            "name": "Alexandre2BI",
+            "url": "https://alexandre2bi.itch.io",
+            "id": 1214461
+          },
+          "id": 822484,
+          "title": "Crypt of Necrotower",
+          "cover": "https://img.itch.zone/aW1nLzQ2MDk3MzYucG5n/300x240%23c/fLvNKH.png",
+          "url": "https://alexandre2bi.itch.io/crypt-of-necrotower"
+        }
+      },
+      "details": {
+        "title": "Crypt of Necrotower",
+        "description": "Crypt of the necrotower is a mix of game genre between card game and tower defense !\nUse Space to hit enemies and repair your turret. Use ZSQD to move around. \nDrag and drop your turrets to reach the end of our levels ! \nIncredible project made by @Resnox and @Alexandre2Bi in 48H for Mix And Game Jam",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODIyNDg0LzQ2MjY0MTMuZ2lm/original/No2HPf.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Authors": "Alexandre2BI, Resnox",
+          "Genre": "Card Game"
+        }
+      }
+    },
+    {
+      "gameId": 821104,
+      "gameUrl": "https://hordalupina.itch.io/grumpyblacksmith",
+      "overallRank": 435,
+      "topCategories": [
+        "Art"
+      ],
+      "resultData": {
+        "title": "GrumpyBlacksmith",
+        "rank": 435,
+        "id": 821104,
+        "score": 2.6153846153846,
+        "raw_score": 2.6153846153846,
+        "rating_count": 91,
+        "url": "https://itch.io/jam/mix-and-game-jam-2020/rate/821104",
+        "cover_url": "https://img.itch.zone/aW1nLzQ2MDI3MTAuanBn/300x240%23c/swMUqh.jpg",
+        "contributors": [
+          {
+            "name": "Lengard",
+            "id": 3591834
+          },
+          {
+            "name": "loboborges",
+            "id": 3578713
+          },
+          {
+            "name": "grumpytiger",
+            "id": 970106
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "rank": 435,
+            "score": 2.6153846153846,
+            "raw_score": 2.6153846153846
+          },
+          {
+            "name": "Gameplay",
+            "rank": 325,
+            "score": 2.7252747252747,
+            "raw_score": 2.7252747252747
+          },
+          {
+            "name": "Art",
+            "rank": 13,
+            "score": 4.4175824175824,
+            "raw_score": 4.4175824175824
+          },
+          {
+            "name": "Sound",
+            "rank": 116,
+            "score": 3.3736263736264,
+            "raw_score": 3.3736263736264
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 91,
+        "field_responses": [
+          "10357:1",
+          "10358:2"
+        ],
+        "coolness": 20,
+        "id": 169889,
+        "contributors": [
+          {
+            "name": "Lengard",
+            "url": "https://hordalupina.itch.io"
+          },
+          {
+            "name": "loboborges",
+            "url": "https://loboborges.itch.io"
+          },
+          {
+            "name": "grumpytiger",
+            "url": "https://grumpytiger.itch.io"
+          }
+        ],
+        "created_at": "2020-11-14 23:57:41",
+        "url": "/jam/mix-and-game-jam-2020/rate/821104",
+        "game": {
+          "short_text": "an Endless Rhythm game",
+          "cover": "https://img.itch.zone/aW1nLzQ2MDI3MTAuanBn/300x240%23c/swMUqh.jpg",
+          "user": {
+            "name": "Lengard",
+            "url": "https://hordalupina.itch.io",
+            "id": 3591834
+          },
+          "url": "https://hordalupina.itch.io/grumpyblacksmith",
+          "id": 821104,
+          "title": "GrumpyBlacksmith",
+          "platforms": [
+            "windows",
+            "linux",
+            "web"
+          ],
+          "cover_color": "#1f1d2d"
+        }
+      },
+      "details": {
+        "title": "GrumpyBlacksmith",
+        "description": "Grumpy blacksmith is an endless rhythm blacksmith simulatorDone for the #mixandgamejam",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODIxMTA0LzQ2MDI2ODEucG5n/original/6b1qWC.png",
+          "https://img.itch.zone/aW1hZ2UvODIxMTA0LzQ2MDI2ODIucG5n/original/3%2FeeMB.png",
+          "https://img.itch.zone/aW1hZ2UvODIxMTA0LzQ2MDI2ODMucG5n/original/EstlZl.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows, Linux",
+          "Authors": "Lengard, loboborges, grumpytiger",
+          "Genre": "Rhythm, Simulation",
+          "Made with": "Unity",
+          "Tags": "Endless"
+        }
+      }
+    },
+    {
+      "gameId": 820625,
+      "gameUrl": "https://lemoncosmos.itch.io/drifting-hearts",
+      "overallRank": 26,
+      "topCategories": [
+        "Art"
+      ],
+      "resultData": {
+        "title": "Drifting Hearts",
+        "rank": 26,
+        "id": 820625,
+        "score": 4.3103448275862,
+        "raw_score": 4.3103448275862,
+        "rating_count": 87,
+        "url": "https://itch.io/jam/mix-and-game-jam-2020/rate/820625",
+        "cover_url": "https://img.itch.zone/aW1nLzQ3MzkwMDIucG5n/300x240%23c/QDFhWQ.png",
+        "contributors": [
+          {
+            "name": "lemon cosmos",
+            "id": 1379045
+          },
+          {
+            "name": "Anastja",
+            "id": 1592732
+          },
+          {
+            "name": "Luisa Höhne",
+            "id": 2115887
+          },
+          {
+            "name": "Sascha Reinhold",
+            "id": 2285422
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "rank": 26,
+            "score": 4.3103448275862,
+            "raw_score": 4.3103448275862
+          },
+          {
+            "name": "Gameplay",
+            "rank": 110,
+            "score": 3.4942528735632,
+            "raw_score": 3.4942528735632
+          },
+          {
+            "name": "Art",
+            "rank": 15,
+            "score": 4.3908045977011,
+            "raw_score": 4.3908045977011
+          },
+          {
+            "name": "Sound",
+            "rank": 96,
+            "score": 3.4712643678161,
+            "raw_score": 3.4712643678161
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 87,
+        "field_responses": [
+          "10357:2",
+          "10358:3"
+        ],
+        "coolness": 28,
+        "id": 170703,
+        "contributors": [
+          {
+            "name": "lemon cosmos",
+            "url": "https://lemoncosmos.itch.io"
+          },
+          {
+            "name": "Anastja",
+            "url": "https://anastasie.itch.io"
+          },
+          {
+            "name": "Luisa Höhne",
+            "url": "https://katitan.itch.io"
+          },
+          {
+            "name": "Sascha Reinhold",
+            "url": "https://saschareinhold.itch.io"
+          }
+        ],
+        "created_at": "2020-11-15 18:50:11",
+        "url": "/jam/mix-and-game-jam-2020/rate/820625",
+        "game": {
+          "short_text": "Dreaming in the Sheets, Horny on the Streets.",
+          "cover": "https://img.itch.zone/aW1nLzQ3MzkwMDIucG5n/300x240%23c/QDFhWQ.png",
+          "user": {
+            "name": "lemon cosmos",
+            "url": "https://lemoncosmos.itch.io",
+            "id": 1379045
+          },
+          "url": "https://lemoncosmos.itch.io/drifting-hearts",
+          "id": 820625,
+          "title": "Drifting Hearts",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ],
+          "cover_color": "#E1BE00"
+        }
+      },
+      "details": {
+        "title": "Drifting Hearts",
+        "description": "Dreaming in the Sheets,Horny on the Streets.\n\nFor years you have honed your racing skills. It all comes down to this race. It is time...to pick up some hot racers! Approach your fellow racers on the track to flirt with them, but keep your eyes on the road! \n\na game by Anastasie Janot, Luisa Höhne, Sascha Reinhold and Jannik Boysen.\nmusic by Martin 'Pladde' Platte.\n\nmade according to the theme \"Mixing Genres\" in 48h for the IFgameSH Autumn Jam and the Mix and Game Jam.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODIwNjI1LzQ3MzkzNTQucG5n/original/Nd7SoK.png",
+          "https://img.itch.zone/aW1hZ2UvODIwNjI1LzQ3MzkzMTQucG5n/original/16oTcS.png",
+          "https://img.itch.zone/aW1hZ2UvODIwNjI1LzQ3MzkzMTUucG5n/original/wA%2FjTW.png",
+          "https://img.itch.zone/aW1hZ2UvODIwNjI1LzQ3MzkzMTcucG5n/original/i4DN6D.png",
+          "https://img.itch.zone/aW1hZ2UvODIwNjI1LzQ3MzkzMTYucG5n/original/PwhLzi.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS, Linux",
+          "Rating": "Rated 4.7 out of 5 stars(15 total ratings)",
+          "Authors": "lemon cosmos, Anastja, Luisa Höhne, Sascha Reinhold",
+          "Genre": "Racing",
+          "Made with": "Unity",
+          "Tags": "Dating Sim, Driving, love, Wholesome",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": 822424,
+      "gameUrl": "https://tyderion.itch.io/monster-duet",
+      "overallRank": 200,
+      "topCategories": [
+        "Sound"
+      ],
+      "resultData": {
+        "title": "Monster Duet",
+        "rank": 200,
+        "id": 822424,
+        "score": 3.6,
+        "raw_score": 3.6,
+        "rating_count": 10,
+        "url": "https://itch.io/jam/mix-and-game-jam-2020/rate/822424",
+        "cover_url": "https://img.itch.zone/aW1nLzQ2MDk2NzUucG5n/300x240%23c/%2BPc3IW.png",
+        "contributors": [
+          {
+            "name": "Tyderion",
+            "id": 3595494
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "rank": 200,
+            "score": 3.6,
+            "raw_score": 3.6
+          },
+          {
+            "name": "Gameplay",
+            "rank": 358,
+            "score": 2.6,
+            "raw_score": 2.6
+          },
+          {
+            "name": "Art",
+            "rank": 47,
+            "score": 4.1,
+            "raw_score": 4.1
+          },
+          {
+            "name": "Sound",
+            "rank": 5,
+            "score": 4.2,
+            "raw_score": 4.2
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 10,
+        "coolness": 0,
+        "id": 170643,
+        "field_responses": [
+          "10357:1",
+          "10358:1"
+        ],
+        "created_at": "2020-11-15 18:40:54",
+        "url": "/jam/mix-and-game-jam-2020/rate/822424",
+        "game": {
+          "id": 822424,
+          "user": {
+            "name": "Tyderion",
+            "url": "https://tyderion.itch.io",
+            "id": 3595494
+          },
+          "url": "https://tyderion.itch.io/monster-duet",
+          "cover": "https://img.itch.zone/aW1nLzQ2MDk2NzUucG5n/300x240%23c/%2BPc3IW.png",
+          "title": "Monster Duet",
+          "platforms": [
+            "windows"
+          ],
+          "short_text": "Our submission for Mix and Games GameJam"
+        }
+      },
+      "details": {
+        "title": "Monster Duet",
+        "description": "Our submission for the 2020 Mix and Game GameJam\nBig Thanks to\n- Dexter (Programming, lead)\n- Beesus (Art)\n- Ryythm (Art)\n- Ingvild Grotløkken (Art)\n- Configuration (aka Slackfig) (Programming)\n- Rebecca Archer (Writing)\n- Abracadaniel (Music)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODIyNDI0LzQ2MDk2NTQucG5n/original/5uLQuy.png",
+          "https://img.itch.zone/aW1hZ2UvODIyNDI0LzQ2MDk2NDYucG5n/original/uLwp4Y.png",
+          "https://img.itch.zone/aW1hZ2UvODIyNDI0LzQ2MDk2OTgucG5n/original/0b1dWW.png",
+          "https://img.itch.zone/aW1hZ2UvODIyNDI0LzQ2MDk3MDAucG5n/original/geLkbd.png",
+          "https://img.itch.zone/aW1hZ2UvODIyNDI0LzQ2MDk3MDEucG5n/original/67lzOi.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Author": "Tyderion",
+          "Genre": "Rhythm",
+          "Tags": "Dating Sim"
+        }
+      }
+    },
+    {
+      "gameId": 821433,
+      "gameUrl": "https://unsame.itch.io/trash-beats",
+      "overallRank": 21,
+      "topCategories": [
+        "Sound"
+      ],
+      "resultData": {
+        "title": "Trash Beats",
+        "rank": 21,
+        "id": 821433,
+        "score": 4.3673469387755,
+        "raw_score": 4.3673469387755,
+        "rating_count": 49,
+        "url": "https://itch.io/jam/mix-and-game-jam-2020/rate/821433",
+        "cover_url": "https://img.itch.zone/aW1nLzQ2MDQ4MDEucG5n/300x240%23c/3K7pc9.png",
+        "contributors": [
+          {
+            "name": "unSAME studio",
+            "id": 799548
+          },
+          {
+            "name": "salas_games",
+            "id": 2360840
+          },
+          {
+            "name": "EiZi",
+            "id": 2400495
+          },
+          {
+            "name": "trrttll513",
+            "id": 3756100
+          },
+          {
+            "name": "Sam Feng",
+            "id": 5958725
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "rank": 21,
+            "score": 4.3673469387755,
+            "raw_score": 4.3673469387755
+          },
+          {
+            "name": "Gameplay",
+            "rank": 88,
+            "score": 3.6326530612245,
+            "raw_score": 3.6326530612245
+          },
+          {
+            "name": "Art",
+            "rank": 120,
+            "score": 3.7142857142857,
+            "raw_score": 3.7142857142857
+          },
+          {
+            "name": "Sound",
+            "rank": 6,
+            "score": 4.1836734693878,
+            "raw_score": 4.1836734693878
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 49,
+        "field_responses": [
+          "10357:1",
+          "10358:1"
+        ],
+        "coolness": 9,
+        "id": 170013,
+        "contributors": [
+          {
+            "name": "unSAME studio",
+            "url": "https://unsame.itch.io"
+          },
+          {
+            "name": "salas_games",
+            "url": "https://salas-games.itch.io"
+          },
+          {
+            "name": "EiZi",
+            "url": "https://eizi.itch.io"
+          },
+          {
+            "name": "trrttll513",
+            "url": "https://trrttll513.itch.io"
+          },
+          {
+            "name": "Sam Feng",
+            "url": "https://samfeng.itch.io"
+          }
+        ],
+        "created_at": "2020-11-15 11:43:36",
+        "url": "/jam/mix-and-game-jam-2020/rate/821433",
+        "game": {
+          "short_text": "DJ trash panda is in! - A rhythm platformer for Mix and Game jam",
+          "cover": "https://img.itch.zone/aW1nLzQ2MDQ4MDEucG5n/300x240%23c/3K7pc9.png",
+          "user": {
+            "name": "unSAME studio",
+            "url": "https://unsame.itch.io",
+            "id": 799548
+          },
+          "url": "https://unsame.itch.io/trash-beats",
+          "id": 821433,
+          "title": "Trash Beats",
+          "platforms": [
+            "windows",
+            "android",
+            "web"
+          ],
+          "cover_color": "#324654"
+        }
+      },
+      "details": {
+        "title": "Trash Beats",
+        "description": "Get into the rhythm with Matcha the racoon as you roll, jump, and dash your way to his home! \n4 Disks. 5 Ways to move. \nDisk 1- Stop\nDisk 2- Move Forward\nDisk 3- Jump\nDisk 4- Dash\nNo Disc- Free Rolling\n\n[ Creators ]\nSam Feng - Programming - @samfenggames\nEizi Yu - Programming - https://eizimailcom.itch.io/\nJose Salas - Art & Designs - @salas_games\nFranco Toledo - Music - @shawntrrttll\n\n[ Note ]\nA game made in two days by unSAME team for Mix and Game Jam 2020. A combination of Music Player/ Track Mixing Simulator/ Rhythm game with Platformer.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODIxNDMzLzQ2MTIxNDIucG5n/original/tdFz6%2B.png",
+          "https://img.itch.zone/aW1hZ2UvODIxNDMzLzQ2MTIxMzgucG5n/original/9D2R5R.png",
+          "https://img.itch.zone/aW1hZ2UvODIxNDMzLzQ2MTIxMzkucG5n/original/mb864K.png",
+          "https://img.itch.zone/aW1hZ2UvODIxNDMzLzQ2MTIxNDEucG5n/original/GyBBtm.png",
+          "https://img.itch.zone/aW1hZ2UvODIxNDMzLzQ2MTIxNDAucG5n/original/t6ISoZ.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, Android",
+          "Rating": "Rated 4.7 out of 5 stars(3 total ratings)",
+          "Authors": "unSAME studio, salas_games, EiZi, trrttll513, Sam Feng",
+          "Genre": "Platformer",
+          "Tags": "2D, Cute, Music, racoon, Short, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 822292,
+      "gameUrl": "https://worm00111.itch.io/captain-says-shoot",
+      "overallRank": 147,
+      "topCategories": [
+        "Sound"
+      ],
+      "resultData": {
+        "title": "Captain Says: FIRE!",
+        "rank": 147,
+        "id": 822292,
+        "score": 3.7777777777778,
+        "raw_score": 3.7777777777778,
+        "rating_count": 18,
+        "url": "https://itch.io/jam/mix-and-game-jam-2020/rate/822292",
+        "cover_url": "https://img.itch.zone/aW1nLzQ2MjgwMTAucG5n/300x240%23c/QdwoHW.png",
+        "contributors": [
+          {
+            "name": "Vilius Drumsta",
+            "id": 192783
+          },
+          {
+            "name": "Misterm",
+            "id": 2303011
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "rank": 147,
+            "score": 3.7777777777778,
+            "raw_score": 3.7777777777778
+          },
+          {
+            "name": "Gameplay",
+            "rank": 107,
+            "score": 3.5,
+            "raw_score": 3.5
+          },
+          {
+            "name": "Art",
+            "rank": 95,
+            "score": 3.8333333333333,
+            "raw_score": 3.8333333333333
+          },
+          {
+            "name": "Sound",
+            "rank": 8,
+            "score": 4.1666666666667,
+            "raw_score": 4.1666666666667
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 18,
+        "field_responses": [
+          "10357:1",
+          "10358:1"
+        ],
+        "coolness": 34,
+        "id": 170719,
+        "contributors": [
+          {
+            "name": "Vilius Drumsta",
+            "url": "https://worm00111.itch.io"
+          },
+          {
+            "name": "Misterm",
+            "url": "https://misterm.itch.io"
+          }
+        ],
+        "created_at": "2020-11-15 18:52:03",
+        "url": "/jam/mix-and-game-jam-2020/rate/822292",
+        "game": {
+          "short_text": "Defend your crewmates while following your captain's orders",
+          "cover": "https://img.itch.zone/aW1nLzQ2MjgwMTAucG5n/300x240%23c/QdwoHW.png",
+          "user": {
+            "name": "Vilius Drumsta",
+            "url": "https://worm00111.itch.io",
+            "id": 192783
+          },
+          "url": "https://worm00111.itch.io/captain-says-shoot",
+          "id": 822292,
+          "title": "Captain Says: FIRE!",
+          "platforms": [
+            "windows",
+            "osx"
+          ],
+          "cover_color": "#552692"
+        }
+      },
+      "details": {
+        "title": "Captain Says: FIRE!",
+        "description": "Welcome aboard, mateys! As the helmsman of an infamous pirate crew, you have sailed the seven seas and plundered countless treasures. But today, your ship is in peril as it is under attack by the straight-edge army. Your crew may be fearless and ruthless, but they are also notoriously fond of their rum. As a result, your officer is giving you slurred and confusing commands. Can you navigate through this drunken chaos and emerge victorious?\nCaptain Says: FIRE! is a thrilling action game that will test your skills as a pirate helmsman. You must steer your ship through treacherous waters, avoiding obstacles and enemy fire, while also firing your cannons at the straight-edge army. Use your arrow keys or WASD to move your ship and spacebar to shoot your cannons. But beware, your drunk officer will give you commands that may not make sense, so you must act quickly and use your best judgement to interpret their orders.\n\nWith each level, the difficulty increases as you face more challenging obstacles and enemies. You will need to be quick on your feet and have lightning-fast reflexes to keep your ship afloat and your crew alive. The fate of your pirate crew and your treasures rests on your shoulders, so keep your wits about you and always be ready for action.\n\nBut it's not all about the action. Captain Says: FIRE! also features stunning graphics and immersive sound effects that will transport you to the high seas. With every cannon blast and wave crash, you will feel like you are right in the middle of a thrilling pirate adventure.\n\nSo grab your rum and get ready for the ride of your life. Captain Says: FIRE! is a game that will keep you entertained for hours on end, with its exciting gameplay, challenging levels, and immersive graphics and sound effects. Are you ready to show the straight-edge army who's boss? Get onboard and let's set sail!\n\nCredits:\nMauro Rilla - Programming, 2D art - https://misterm.itch.io\n\nVilius Drumsta - Programming - https://worm00111.itch.io/\nRaffaele Signori - Art 3D - https://www.artstation.com/raffaelesignori \nVanessa Orrù - Art 3D\nEmanuele Ferrari - Sound/Music/Programming\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODIyMjkyLzQ2MjgwMTQucG5n/original/jZ6edr.png",
+          "https://img.itch.zone/aW1hZ2UvODIyMjkyLzQ2MjgwMTMucG5n/original/NUl7FZ.png",
+          "https://img.itch.zone/aW1hZ2UvODIyMjkyLzQ2MjgwMTUucG5n/original/hIQ74j.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS",
+          "Authors": "Vilius Drumsta, Misterm",
+          "Genre": "Action",
+          "Tags": "Pirates, Shoot 'Em Up, simon-says"
+        }
+      }
+    },
+    {
+      "gameId": 822421,
+      "gameUrl": "https://wrightwriter.itch.io/red-duende",
+      "overallRank": 170,
+      "topCategories": [
+        "Sound"
+      ],
+      "resultData": {
+        "title": "Red Duende",
+        "rank": 170,
+        "id": 822421,
+        "score": 3.7222222222222,
+        "raw_score": 3.7222222222222,
+        "rating_count": 18,
+        "url": "https://itch.io/jam/mix-and-game-jam-2020/rate/822421",
+        "cover_url": "https://img.itch.zone/aW1nLzQ2MTk2NTYuZ2lm/300x240%23c/xe39W8.gif",
+        "contributors": [
+          {
+            "name": "wrightwriter",
+            "id": 1598422
+          },
+          {
+            "name": "PyroDeathAdder",
+            "id": 1660431
+          },
+          {
+            "name": "Benji",
+            "id": 737020
+          },
+          {
+            "name": "jmob",
+            "id": 3562736
+          },
+          {
+            "name": "Uvi Chaos",
+            "id": 3605145
+          },
+          {
+            "name": "Toombler",
+            "id": 3308063
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "rank": 170,
+            "score": 3.7222222222222,
+            "raw_score": 3.7222222222222
+          },
+          {
+            "name": "Gameplay",
+            "rank": 210,
+            "score": 3.1111111111111,
+            "raw_score": 3.1111111111111
+          },
+          {
+            "name": "Art",
+            "rank": 19,
+            "score": 4.3333333333333,
+            "raw_score": 4.3333333333333
+          },
+          {
+            "name": "Sound",
+            "rank": 8,
+            "score": 4.1666666666667,
+            "raw_score": 4.1666666666667
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 18,
+        "field_responses": [
+          "10357:1",
+          "10358:1"
+        ],
+        "coolness": 4,
+        "id": 170893,
+        "contributors": [
+          {
+            "name": "wrightwriter",
+            "url": "https://wrightwriter.itch.io"
+          },
+          {
+            "name": "PyroDeathAdder",
+            "url": "https://pyrodeathadder.itch.io"
+          },
+          {
+            "name": "Benji",
+            "url": "https://benji42.itch.io"
+          },
+          {
+            "name": "jmob",
+            "url": "https://jmob.itch.io"
+          },
+          {
+            "name": "Uvi Chaos",
+            "url": "https://uvi-chaos.itch.io"
+          },
+          {
+            "name": "Toombler",
+            "url": "https://toombler.itch.io"
+          }
+        ],
+        "created_at": "2020-11-15 19:56:43",
+        "url": "/jam/mix-and-game-jam-2020/rate/822421",
+        "game": {
+          "id": 822421,
+          "cover_color": "#000000",
+          "url": "https://wrightwriter.itch.io/red-duende",
+          "user": {
+            "name": "wrightwriter",
+            "url": "https://wrightwriter.itch.io",
+            "id": 1598422
+          },
+          "gif_cover": "https://img.itch.zone/aW1nLzQ2MTk2NTYuZ2lm/original/2Bamwa.gif",
+          "platforms": [
+            "web"
+          ],
+          "title": "Red Duende",
+          "cover": "https://img.itch.zone/aW1nLzQ2MTk2NTYuZ2lm/300x240%23c/xe39W8.gif",
+          "short_text": "It's your first day on the job as a delivery pilot and you're under attack!"
+        }
+      },
+      "details": {
+        "title": "Red Duende",
+        "description": "Oh no! It's your first day on the job as a delivery pilot in your space base and you're under attack! Deliver resources to the different characters, but if you can't do it fast enough, their shops will get shot down down.\nHow to play:\nPress tab to check who needs resources. Land in front of a building to open the shop menu, and left/right click there to pick up or drop off items.\nControls:Tab - Characters and MissionsUp - ForwardDown - BackLeft - LeftUp - RightLeft Click - Add item to inventoryRight Click - Remove item from inventorySpace - Boost\nDevelopers:\nProgramming:Pyro - https://github.com/DylanMcBeanWrighter - https://www.instagram.com/wrightwrighter/\nMusic and sound:Benji - https://benji42.github.io/\nAdditional Programming:https://toombler.itch.io/\nArt: \nUvi Chaos - https://www.instagram.com/uvichaos/\nJacob Mobley - https://jacobmobleyart.com/\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODIyNDIxLzQ2MTEyMzcucG5n/original/I3CVhS.png",
+          "https://img.itch.zone/aW1hZ2UvODIyNDIxLzQ2MTEyMzgucG5n/original/%2FNJ5K1.png",
+          "https://img.itch.zone/aW1hZ2UvODIyNDIxLzQ2MTEyNDEucG5n/original/YKpAqn.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Authors": "wrightwriter, PyroDeathAdder, Benji, jmob, Uvi Chaos, Toombler",
+          "Genre": "Action, Strategy",
+          "Made with": "Unity, Adobe Photoshop",
+          "Tags": "delivery, Flying, Real time strategy"
+        }
+      }
+    },
+    {
+      "gameId": 821657,
+      "gameUrl": "https://juice-tea.itch.io/anxiety-a-short-experience",
+      "overallRank": 291,
+      "topCategories": [
+        "Sound"
+      ],
+      "resultData": {
+        "title": "Anxiety-a short experience",
+        "rank": 291,
+        "id": 821657,
+        "score": 3.2727272727273,
+        "raw_score": 3.2727272727273,
+        "rating_count": 11,
+        "url": "https://itch.io/jam/mix-and-game-jam-2020/rate/821657",
+        "cover_url": "https://img.itch.zone/aW1nLzQ2MTU2MjgucG5n/300x240%23c/cc2ZlB.png",
+        "contributors": [
+          {
+            "name": "Juice Tea",
+            "id": 633453
+          },
+          {
+            "name": "yreron",
+            "id": 3142234
+          },
+          {
+            "name": "Devil304",
+            "id": 331825
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "rank": 291,
+            "score": 3.2727272727273,
+            "raw_score": 3.2727272727273
+          },
+          {
+            "name": "Gameplay",
+            "rank": 296,
+            "score": 2.8181818181818,
+            "raw_score": 2.8181818181818
+          },
+          {
+            "name": "Art",
+            "rank": 49,
+            "score": 4.0909090909091,
+            "raw_score": 4.0909090909091
+          },
+          {
+            "name": "Sound",
+            "rank": 11,
+            "score": 4.0909090909091,
+            "raw_score": 4.0909090909091
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 11,
+        "field_responses": [
+          "10357:1",
+          "10358:1"
+        ],
+        "coolness": 1,
+        "id": 170497,
+        "contributors": [
+          {
+            "name": "Juice Tea",
+            "url": "https://juice-tea.itch.io"
+          },
+          {
+            "name": "yreron",
+            "url": "https://yreron.itch.io"
+          },
+          {
+            "name": "Devil304",
+            "url": "https://devil304.itch.io"
+          }
+        ],
+        "created_at": "2020-11-15 18:00:47",
+        "url": "/jam/mix-and-game-jam-2020/rate/821657",
+        "game": {
+          "short_text": "A short experience about struggling with your own mind.",
+          "cover": "https://img.itch.zone/aW1nLzQ2MTU2MjgucG5n/300x240%23c/cc2ZlB.png",
+          "user": {
+            "name": "Juice Tea",
+            "url": "https://juice-tea.itch.io",
+            "id": 633453
+          },
+          "url": "https://juice-tea.itch.io/anxiety-a-short-experience",
+          "id": 821657,
+          "title": "Anxiety-a short experience",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#161616"
+        }
+      },
+      "details": {
+        "title": "Anxiety-a short experience",
+        "description": "[A SHORT EXPERIENCE]\nIt's not exactly a game. We called it an experience. It has open interpretation for any personal mental health problems. \n[IMPORTANT MESSAGE]\nIf you need help, tell your loved ones first. Then ask for help from a specialist.It's extremely important. When you get the right support, your view of the world can change significantly. Life can surprise you anew.\n[CREDITS]\nEGID Studio Game Jam Team:\nUnity developer, VFX: Szymon Rzosinski (Devil304)\n3D Artist, game concept: Kamila Joanna Chmielowiec (yreron)\nComposer, sound designer, game concept: Justyna Kryscio (Juice Tea)\nORIGINAL SOUNDTRACK: \n\n\nCREATED DURING MIX AND GAMEJAM 2020.\nTHEME: MIXING GENRES\nWe classificated it as art game and walking simulator.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODIxNjU3LzQ2MTUyODYucG5n/original/6gv0nw.png",
+          "https://img.itch.zone/aW1hZ2UvODIxNjU3LzQ2MTUyODcucG5n/original/W0a%2Fx0.png",
+          "https://img.itch.zone/aW1hZ2UvODIxNjU3LzQ2MTUyODgucG5n/original/7%2BrnIF.png",
+          "https://img.itch.zone/aW1hZ2UvODIxNjU3LzQ2MTU0MDEucG5n/original/j1k3Rq.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Authors": "Juice Tea, yreron, Devil304",
+          "Genre": "Simulation",
+          "Tags": "3D, artgame, Atmospheric, Dark, experience, First-Person, Mental Health, Music, Psychological Horror, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 820091,
+      "gameUrl": "https://fredison.itch.io/synth-pop-idle",
+      "overallRank": 155,
+      "topCategories": [
+        "Sound"
+      ],
+      "resultData": {
+        "title": "Synth Pop Idle",
+        "rank": 155,
+        "id": 820091,
+        "score": 3.7666666666667,
+        "raw_score": 3.7666666666667,
+        "rating_count": 60,
+        "url": "https://itch.io/jam/mix-and-game-jam-2020/rate/820091",
+        "cover_url": "https://img.itch.zone/aW1nLzQ2MDYxNzkucG5n/300x240%23c/vZnrgV.png",
+        "contributors": [
+          {
+            "name": "Fredison",
+            "id": 2416691
+          },
+          {
+            "name": "Dmytro Nebesh",
+            "id": 1950303
+          },
+          {
+            "name": "Pyromantic",
+            "id": 2737021
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "rank": 155,
+            "score": 3.7666666666667,
+            "raw_score": 3.7666666666667
+          },
+          {
+            "name": "Gameplay",
+            "rank": 326,
+            "score": 2.7166666666667,
+            "raw_score": 2.7166666666667
+          },
+          {
+            "name": "Art",
+            "rank": 33,
+            "score": 4.2333333333333,
+            "raw_score": 4.2333333333333
+          },
+          {
+            "name": "Sound",
+            "rank": 12,
+            "score": 4.0833333333333,
+            "raw_score": 4.0833333333333
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 60,
+        "field_responses": [
+          "10357:1",
+          "10358:1"
+        ],
+        "coolness": 30,
+        "id": 170444,
+        "contributors": [
+          {
+            "name": "Fredison",
+            "url": "https://fredison.itch.io"
+          },
+          {
+            "name": "Dmytro Nebesh",
+            "url": "https://dnebesh.itch.io"
+          },
+          {
+            "name": "Pyromantic",
+            "url": "https://pyromanticarts.itch.io"
+          }
+        ],
+        "created_at": "2020-11-15 17:51:45",
+        "url": "/jam/mix-and-game-jam-2020/rate/820091",
+        "game": {
+          "short_text": "Form the ultimate robot band in this bite-sized game combining two cursed genres.",
+          "cover": "https://img.itch.zone/aW1nLzQ2MDYxNzkucG5n/300x240%23c/vZnrgV.png",
+          "user": {
+            "name": "Fredison",
+            "url": "https://fredison.itch.io",
+            "id": 2416691
+          },
+          "url": "https://fredison.itch.io/synth-pop-idle",
+          "id": 820091,
+          "title": "Synth Pop Idle",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#1C0018"
+        }
+      },
+      "details": {
+        "title": "Synth Pop Idle",
+        "description": "It is the year 3,000,000 AD. In the cosmic future, a rogue algorithm has combined the two most cursed game genres of all time, \"gacha money sink\" and \"incremental idle timewaster\" into one game about forming a robot musical band in ways that defy common sense.\nYour goal as the band's manager is to click on buttons to purchase a random assortment of five new band members. Each member increases the amount of currency earned per second, and the rarest members can give you a huge boost, allowing you to buy even more powerful ones! Are you feeling lucky?\nPlayed with the mouse only.\n(Tip: If you pull on the Mystery Limited banner when you have all band members... something good might happen.)\nCreated in 48h for Mix and Game Jam 2020Code and writing by FredisonArt by PyromanticMusic by Dmytro Nebesh",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODIwMDkxLzQ2MTEyNDkucG5n/original/5M9R7k.png",
+          "https://img.itch.zone/aW1hZ2UvODIwMDkxLzQ2MTEyNDcucG5n/original/sJxrj9.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 3.5 out of 5 stars(30 total ratings)",
+          "Authors": "Fredison, Dmytro Nebesh, Pyromantic",
+          "Genre": "Simulation",
+          "Made with": "Unity",
+          "Tags": "2D, Cute, Funny, Idle, Incremental, Music, Pixel Art, Sci-fi, Short, Singleplayer",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 821123,
+      "gameUrl": "https://kyozm.itch.io/theres-corn-on-the-moon",
+      "overallRank": 178,
+      "topCategories": [
+        "Sound"
+      ],
+      "resultData": {
+        "title": "There's Corn on the Moon",
+        "rank": 178,
+        "id": 821123,
+        "score": 3.6976744186047,
+        "raw_score": 3.6976744186047,
+        "rating_count": 43,
+        "url": "https://itch.io/jam/mix-and-game-jam-2020/rate/821123",
+        "cover_url": "https://img.itch.zone/aW1nLzQ2MTAyMjMucG5n/300x240%23c/q0VY1%2F.png",
+        "contributors": [
+          {
+            "name": "KyoZM",
+            "id": 2250937
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "rank": 178,
+            "score": 3.6976744186047,
+            "raw_score": 3.6976744186047
+          },
+          {
+            "name": "Gameplay",
+            "rank": 82,
+            "score": 3.6744186046512,
+            "raw_score": 3.6744186046512
+          },
+          {
+            "name": "Art",
+            "rank": 46,
+            "score": 4.1162790697674,
+            "raw_score": 4.1162790697674
+          },
+          {
+            "name": "Sound",
+            "rank": 13,
+            "score": 4.0697674418605,
+            "raw_score": 4.0697674418605
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 43,
+        "coolness": 20,
+        "id": 170718,
+        "field_responses": [
+          "10357:1",
+          "10358:1"
+        ],
+        "created_at": "2020-11-15 18:52:01",
+        "url": "/jam/mix-and-game-jam-2020/rate/821123",
+        "game": {
+          "short_text": "Farm your way to the moon",
+          "cover": "https://img.itch.zone/aW1nLzQ2MTAyMjMucG5n/300x240%23c/q0VY1%2F.png",
+          "user": {
+            "name": "KyoZM",
+            "url": "https://kyozm.itch.io",
+            "id": 2250937
+          },
+          "url": "https://kyozm.itch.io/theres-corn-on-the-moon",
+          "id": 821123,
+          "title": "There's Corn on the Moon",
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#324632"
+        }
+      },
+      "details": {
+        "title": "There's Corn on the Moon",
+        "description": "A quaint farming adventure about taking up your Uncle's old farm and bringing it back to its former glory and beyond!Grow crops, plant seeds, and build up a sizeable enterprise as you reach the final agricultural frontier.\nThe game takes around half an hour to beat, start to finish, and exclusively uses mouse controls.\nWe combined the farming simulator and idle game genres in order to create a progression from one to the other.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODIxMTIzLzQ2MTAyNjkucG5n/original/tIpSKp.png",
+          "https://img.itch.zone/aW1hZ2UvODIxMTIzLzQ2MTAyNzEucG5n/original/KfFfTn.png",
+          "https://img.itch.zone/aW1hZ2UvODIxMTIzLzQ2MTAyNzAucG5n/original/o4KvS4.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Author": "KyoZM",
+          "Tags": "Farming, Idle"
+        }
+      }
+    }
+  ]
+}

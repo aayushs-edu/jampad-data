@@ -1,0 +1,4564 @@
+{
+  "n": 25,
+  "name": "Game Off 2024",
+  "url": "https://itch.io/jam/game-off-2024",
+  "theme": "SECRETS",
+  "slug": "game-off-2024",
+  "jamMeta": {
+    "jamType": "ended",
+    "ratings": "4,696",
+    "entries": "510",
+    "title": "Game Off 2024",
+    "jamURL": "https://itch.io/jam/game-off-2024",
+    "hosts": {
+      "GitHub": "https://github.itch.io",
+      "Lee Reilly": "https://leereilly.itch.io",
+      "#githubgameoff": "https://bsky.app/hashtag/githubgameoff"
+    },
+    "jamID": "385393"
+  },
+  "totalEntries": 499,
+  "ranked": true,
+  "hasCategories": true,
+  "needsManualSelection": false,
+  "categories": [
+    "Gameplay",
+    "Graphics",
+    "Overall",
+    "Theme interpretation",
+    "Audio",
+    "Innovation"
+  ],
+  "topGames": [
+    {
+      "gameId": 3148902,
+      "gameUrl": "https://benjohnson03.itch.io/udc",
+      "overallRank": 6,
+      "topCategories": [
+        "Gameplay",
+        "Overall"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE4ODE4MDk5LnBuZw==/300x240%23c/W9jHKb.png",
+        "id": 3148902,
+        "title": "[JAM] Untitled Dungeon Crawler",
+        "raw_score": 4.3076923076923,
+        "contributors": [
+          {
+            "name": "BenJohnson03",
+            "id": 2283527
+          }
+        ],
+        "score": 4.3076923076923,
+        "url": "https://itch.io/jam/game-off-2024/rate/3148902",
+        "rank": 6,
+        "rating_count": 13,
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 4.3076923076923,
+            "rank": 6,
+            "score": 4.3076923076923
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.0769230769231,
+            "rank": 56,
+            "score": 4.0769230769231
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 4.6153846153846,
+            "rank": 1,
+            "score": 4.6153846153846
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.0769230769231,
+            "rank": 17,
+            "score": 4.0769230769231
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 2.5384615384615,
+            "rank": 281,
+            "score": 2.5384615384615
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.3846153846154,
+            "rank": 87,
+            "score": 3.3846153846154
+          }
+        ]
+      },
+      "entryData": {
+        "id": 630449,
+        "rating_count": 13,
+        "coolness": 9,
+        "game": {
+          "title": "[JAM] Untitled Dungeon Crawler",
+          "short_text": "Roguelike dungeon crawler made in 2 weeks for GameOff2024 hosted by github",
+          "user": {
+            "name": "BenJohnson03",
+            "url": "https://benjohnson03.itch.io",
+            "id": 2283527
+          },
+          "url": "https://benjohnson03.itch.io/udc",
+          "cover": "https://img.itch.zone/aW1nLzE4ODE4MDk5LnBuZw==/300x240%23c/W9jHKb.png",
+          "id": 3148902,
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#2c1b2e"
+        },
+        "created_at": "2024-12-01 16:58:23",
+        "field_responses": [
+          "32569:3"
+        ],
+        "url": "/jam/game-off-2024/rate/3148902"
+      },
+      "details": {
+        "title": "[JAM] Untitled Dungeon Crawler",
+        "description": "USE FULLSCREEN FOR BEST EXPERIENCE!\nIf you are having issues seeing the full screen in the browser, use ctrl +, or ctrl - to zoom. You may also download the game for windows to allow proper pixel perfect screen scaling.\nRoguelike dungeon crawler made for Game Off 2024 hosted by github\n\nSpecial thanks:\nMusic by xDeviruchi (Marllon Silva)Artifact sprites adapted from Pixel RPG Item Icons by PitSound assets by Kenney",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzE0ODkwMi8xODgxODI4My5wbmc=/original/a8s7dd.png",
+          "https://img.itch.zone/aW1hZ2UvMzE0ODkwMi8xODgxODI4Mi5wbmc=/original/Mkrfsr.png",
+          "https://img.itch.zone/aW1hZ2UvMzE0ODkwMi8xODgxODI3OC5wbmc=/original/gpGa60.png",
+          "https://img.itch.zone/aW1hZ2UvMzE0ODkwMi8xODgxODI4MC5wbmc=/original/ZziCtE.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.4 out of 5 stars(7 total ratings)",
+          "Author": "BenJohnson03",
+          "Genre": "Strategy",
+          "Made with": "Unity",
+          "Tags": "Dungeon Crawler, gameoff2024, GitHub, Roguelike"
+        }
+      }
+    },
+    {
+      "gameId": 3129453,
+      "gameUrl": "https://sergolek.itch.io/i-checkmate-thee",
+      "overallRank": 3,
+      "topCategories": [
+        "Gameplay",
+        "Overall",
+        "Audio",
+        "Innovation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIwMTIwMzkyLmpwZw==/300x240%23c/N%2Fwgde.jpg",
+        "id": 3129453,
+        "title": "I Checkmate Thee",
+        "raw_score": 4.3333333333333,
+        "contributors": [
+          {
+            "name": "Sergolek",
+            "id": 7298758
+          },
+          {
+            "name": "Aliaksandr Osipau",
+            "id": 11610753
+          },
+          {
+            "name": "MercMohito",
+            "id": 6240404
+          },
+          {
+            "name": "Dreamscripter",
+            "id": 12137276
+          },
+          {
+            "name": "gostpnz",
+            "id": 12138590
+          },
+          {
+            "name": "00wz",
+            "id": 9355352
+          },
+          {
+            "name": "Quinash",
+            "id": 10157894
+          },
+          {
+            "name": "cxldsun",
+            "id": 12130800
+          },
+          {
+            "name": "Tyral",
+            "id": 12143390
+          },
+          {
+            "name": "DmitryM",
+            "id": 11154453
+          }
+        ],
+        "score": 4.3333333333333,
+        "url": "https://itch.io/jam/game-off-2024/rate/3129453",
+        "rank": 3,
+        "rating_count": 15,
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 4.3333333333333,
+            "rank": 3,
+            "score": 4.3333333333333
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.6,
+            "rank": 11,
+            "score": 4.6
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 4.5333333333333,
+            "rank": 2,
+            "score": 4.5333333333333
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 3.8666666666667,
+            "rank": 42,
+            "score": 3.8666666666667
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 4.4666666666667,
+            "rank": 2,
+            "score": 4.4666666666667
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.2666666666667,
+            "rank": 9,
+            "score": 4.2666666666667
+          }
+        ]
+      },
+      "entryData": {
+        "id": 629931,
+        "game": {
+          "short_text": "Your step to die",
+          "user": {
+            "name": "Sergolek",
+            "url": "https://sergolek.itch.io",
+            "id": 7298758
+          },
+          "url": "https://sergolek.itch.io/i-checkmate-thee",
+          "cover": "https://img.itch.zone/aW1nLzIwMTIwMzkyLmpwZw==/300x240%23c/N%2Fwgde.jpg",
+          "id": 3129453,
+          "title": "I Checkmate Thee",
+          "cover_color": "#000000"
+        },
+        "rating_count": 15,
+        "coolness": 17,
+        "created_at": "2024-12-01 03:17:44",
+        "contributors": [
+          {
+            "name": "Sergolek",
+            "url": "https://sergolek.itch.io"
+          },
+          {
+            "name": "Aliaksandr Osipau",
+            "url": "https://alikxyzet.itch.io"
+          },
+          {
+            "name": "MercMohito",
+            "url": "https://mercmohito.itch.io"
+          },
+          {
+            "name": "Dreamscripter",
+            "url": "https://dreamscripter.itch.io"
+          },
+          {
+            "name": "gostpnz",
+            "url": "https://gostpnz.itch.io"
+          },
+          {
+            "name": "00wz",
+            "url": "https://00wz.itch.io"
+          },
+          {
+            "name": "Quinash",
+            "url": "https://quinash.itch.io"
+          },
+          {
+            "name": "cxldsun",
+            "url": "https://cxldsun.itch.io"
+          },
+          {
+            "name": "Tyral",
+            "url": "https://tyral.itch.io"
+          },
+          {
+            "name": "DmitryM",
+            "url": "https://dmitrym.itch.io"
+          }
+        ],
+        "field_responses": [
+          "32569:1",
+          "32569:3"
+        ],
+        "url": "/jam/game-off-2024/rate/3129453"
+      },
+      "details": {
+        "title": "I Checkmate Thee",
+        "description": "Игра-работа Практикума ГБ приняла участие в:\nGameJam Game Off 2024 (3rd: https://itch.io/jam/game-off-2024/results )\nGameJam GameBox training workshop (Horror)\nЧетвертый конкурс разработчиков видеоигр ИГРОПРОМ 2025\n(лучшие результаты: #5 выбор игроков, #8 выбор участников - демо в Steam)\n\nАктуальная игра в Steam\n\nGame in Steam\nПрямая ссылка:\nhttps://store.steampowered.com/app/3703300/I_Checkmate_Thee/\nПрототип онлайн-версии на Itch\nПрямая ссылка:https://sergolek.itch.io/i-checkmate-thee-online\n***\n         РУССКАЯ ЛОКАЛИЗАЦИЯ:\n\n    \n\nСЕКРЕТЫ\n\n    \nКто играет против меня?\n    \nКак выбраться отсюда?\n    \nЧто здесь произошло?\n    \nЭто игра или жизнь?\n    \nПочему ты здесь?\n    \nКто ты?\n    \n\nОБ ИГРЕ\n    \nЧёрные и белые клетки посреди ничего. Жуткие рыки,  завывания, и чьи-то мерцающие глаза во тьме. Ты не помнишь, кто ты и как  ты здесь оказался. Вокруг лишь бесконечный кошмар, повторяющийся из  раза в раз: ты один на шахматной доске против всех фигур.\n    \nСможешь ли ты добраться до противоположного края доски и раскрыть тайну произошедшего?\n    \nСыграй эту партию до конца, не дай поставить себе мат!\n    \nТвой шаг навстречу смерти!\n\n    \nЯ ставлю мат тебе!\n    \n\nПОДСКАЗКА\n    \nУправление - ЛКМ - атака и сбор свитков / ПКМ - ход по клеткам / Клавиша ESC - выход в Меню.\n    \nПешка - ходит на одну клетку вперед / атакует на одну клетку по диагонали. Придя на последнюю клетку - заменяется старшею фигурой.\n    \nЛадья - ходит и атакует по клеткам вперед и назад, влево и вправо.\n    \nЕпископ - ходит и атакует по клеткам по диагонали.\n    \nКоролева - ходит и атакует по клеткам по диагонали, вперед и назад, влево и вправо.\n    \nКонь - ходит и атакует по клеткам Г-образно.\n    \nКолонна - Коли скрылся свет во тьме - значит, смерть пришла к тебе.\n    \nМеч - убивает врагов около тебя.\n    \nСвиток - Познай самого себя.\n    \n        \nПЕРСОНАЖ       \nВы ходите и атакуете на одну клетку по диагонали, вперед и назад, влево и вправо\n    \n        \nТИТР правовой       \nЗвуки бесплатные с сайтов: pixabay.com , zvukipro.com , zvukogram.com       \nШрифты титульный - авторский, разработан специально для данной игры; текстовый авторский в разработке, в билде 28.02.2025 используется разрешенный для коммерческого использования (SIL OFL 1.1): Ebbe\n\nКОМАНДА\n    \nUE: Александр Осипов, Павел Тесленко \n\n2D-арт: Виктория Макаева (концепт-арт в бета-версии игры)\n    \n3D-арт: Арсений Костин (персонажи, окружение, мастер-арт), Турал Сулейманов (персонажи, окружение, мастер-арт), Никита Завирюха (персонажи, окружение)\n    \nАниматор / VFX: Дмитрий Мурин\n    \nВидео-продакшен: Станислав Голубинский\n    \nНарратив: Алексей Скорняков\n    \nГеймдизайн: Сергей Олексюк\n    \nНаставник: Мария Елена Метлова (Малена Метлова)\n    \nФорум в сообществе\n    \nРады вашим комментариям!\n\n    \n\n***\n    \n\n         ENGLISH LOCALIZATION:       \n\n\n\n\n    \nWho's playing against me?\n    \nHow to get out of here?\n    \nWhat happened here?\n    \nIs it a game or a life?\n    \nWhy are you here?\nWho are you?\n\n\nBlack and white squares in the middle of nowhere. Eerie roars, howls, and someone's flickering eyes in the darkness. You don't remember who you are or how you got here. All around you is a never ending nightmare, repeating itself over and over again: you alone on a chessboard against all the pieces.\nCan you reach the other side of the board and uncover the secret of what happened?\nPlay this game to the end, don't let yourself be checkmated!\nYour step to die!\nI Checkmate Thee!\n\n\nControl - LBM - attack and keep scrolls / RBM - move to a square / ESC - exit to the Menu.\nPawn - it can only move forward / it can attack by moving one square  diagonally. If is moved to its last rank - replaces with a senior chess  piece.\n    \nRook - it can move and attack any number of squares, up and down and side to side.\n    \nBishop - it can move and attack any number of squares diagonally.\n    \nQueen - it can move and attack any number of squares diagonally, up and down and  side to side.\n    \nKnight - it can move and attack in an L-shape.\nColumn - if it no light - it was you died.\nSword - It kill enemies around you.\nScrolls - Nosce te ipsum.\n\n\nYou can move and attack one square diagonally, up and down and side to side.\n\n\nSounds free / non commercial license from sites: pixabay.com , zvukipro.com , zvukogram.com\nFonts main - for original in game / text in game license SIL OFL 1.1: Ebbe\n\n\nUE: \n         Aliaksandr Osipau, Pavel Teslenko \n2D-art:\n        Viktoriya Makaeva (concept-art for beta-version game)\n3D-art:\n          Arseniy Kostin (character, environment, master-art), \n         Tural Suleymanov (characters, environment, master-art),\n          Nikita Zaviryukha (characters, environment)\nAnimator / VFX: \n         Dmitry Murin\nVideo-prod: \n         Stanislav Golubinskiy\nNarrative:\n         Aleksey Skornyakov\n\nGamedesign: \n         Sergey Oleksyuk\n\nMentor:\n         Mariya Elena Metlova (Malena Metlova)\n\nWe welcome your comments!Скачайте архив-файл на свой компьютер и распакуйте его (архив не запароленный). Внутри папки файл запуска игры  I_Checkmate_Thee.exe (если ваш антивирус будет ругаться на файл - игнорируйте, в игре вирусов нет).\nИграйте с ужасным удовольствием!\n\n***\nDownload the zip file and unzip it to your computer. The game launch  file is in the folder: I_Checkmate_Thee.exe (if your antivirus swears at  the file, ignore it, there are no viruses in the game)\n  \nPlay with horror-pleasure!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzEyOTQ1My8yMDEyMDA3OS5qcGc=/original/gKM0tY.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzEyOTQ1My8yMDEyMDE2Ni5wbmc=/original/CBf4Kq.png",
+          "https://img.itch.zone/aW1hZ2UvMzEyOTQ1My8xODgwNjA4Ny5wbmc=/original/8EUJ4T.png",
+          "https://img.itch.zone/aW1hZ2UvMzEyOTQ1My8yMDEyMDA4NC5qcGc=/original/NCygQa.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzEyOTQ1My8yMDEyMDA4Ny5qcGc=/original/131AF2.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzEyOTQ1My8yMDEyMDA4NS5qcGc=/original/QGxU9j.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzEyOTQ1My8xODgwNjA3My5wbmc=/original/7RyWRN.png",
+          "https://img.itch.zone/aW1hZ2UvMzEyOTQ1My8xODg3NjIzOS5naWY=/original/wq9AOp.gif",
+          "https://img.itch.zone/aW1hZ2UvMzEyOTQ1My8yMDEyMDA4Ni5qcGc=/original/dJOIZC.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzEyOTQ1My8yMDEyMDA4Mi5qcGc=/original/1yyAXw.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzEyOTQ1My8xODgzOTU4Mi5wbmc=/original/lyIFsa.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Authors": "Sergolek, Aliaksandr Osipau, MercMohito, Dreamscripter, gostpnz, 00wz, Quinash, cxldsun, Tyral, DmitryM",
+          "Genre": "Strategy",
+          "Tags": "3D, Chess, Dark, Dark Fantasy, Escape Game, First-Person, Gore, Horror, Mouse only, Unreal Engine"
+        }
+      }
+    },
+    {
+      "gameId": 3092990,
+      "gameUrl": "https://aznoqmous.itch.io/game-off-2024",
+      "overallRank": 5,
+      "topCategories": [
+        "Gameplay",
+        "Overall",
+        "Audio",
+        "Innovation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE4ODA4OTU5LnBuZw==/300x240%23c/wneyIT.png",
+        "id": 3092990,
+        "title": "The Trial of Wasdo",
+        "raw_score": 4.3125,
+        "contributors": [
+          {
+            "name": "aznoqmous",
+            "id": 4775797
+          }
+        ],
+        "score": 4.3125,
+        "url": "https://itch.io/jam/game-off-2024/rate/3092990",
+        "rank": 5,
+        "rating_count": 16,
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 4.3125,
+            "rank": 5,
+            "score": 4.3125
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 4.4375,
+            "rank": 3,
+            "score": 4.4375
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.25,
+            "rank": 37,
+            "score": 4.25
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 4.125,
+            "rank": 6,
+            "score": 4.125
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.625,
+            "rank": 1,
+            "score": 4.625
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 3.375,
+            "rank": 133,
+            "score": 3.375
+          }
+        ]
+      },
+      "entryData": {
+        "id": 630280,
+        "rating_count": 16,
+        "coolness": 0,
+        "game": {
+          "title": "The Trial of Wasdo",
+          "short_text": "Master spells, solve puzzles, and face the magical trial of Wasdo !",
+          "user": {
+            "name": "aznoqmous",
+            "url": "https://aznoqmous.itch.io",
+            "id": 4775797
+          },
+          "url": "https://aznoqmous.itch.io/game-off-2024",
+          "cover": "https://img.itch.zone/aW1nLzE4ODA4OTU5LnBuZw==/300x240%23c/wneyIT.png",
+          "id": 3092990,
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#eee"
+        },
+        "created_at": "2024-12-01 14:25:25",
+        "field_responses": [
+          "32569:2",
+          "32569:3"
+        ],
+        "url": "/jam/game-off-2024/rate/3092990"
+      },
+      "details": {
+        "title": "The Trial of Wasdo",
+        "description": "The Trial of Wasdo is a tile based puzzle game about using your movement to cast spells.\nGuided by enigmatic wizard mentors, each with their own secrets, you’ll uncover the hidden truths of a magical world. Draw your destiny on the ground, conjure and destroy, and overcome challenges where every line you trace shapes your fate. \nAre you ready to face Wasdo’s trial and claim your place among the worthy?\n\nMade during in a month for Github's Game off 2024 (theme: Secrets)\nGithub repo\nRecipe\nEngine Godot\nArt Procreate + Photoshop   \n\nAudio Logic Pro X + Reaper\nCredits\nProgramming, level design and art by aznoqmous\nKiller soundtrack and sound effects by Jérémie Frémont",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzA5Mjk5MC8xODgxMjY4Ny5naWY=/original/yGsfFq.gif",
+          "https://img.itch.zone/aW1hZ2UvMzA5Mjk5MC8xODgxMjkzOS5qcGc=/original/JFzxOW.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzA5Mjk5MC8xODgxMjk0MS5qcGc=/original/bp%2BfpH.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzA5Mjk5MC8xODgxMjk0MC5qcGc=/original/FQb35t.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.0 out of 5 stars(2 total ratings)",
+          "Author": "aznoqmous",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "ambient, Cartoon, Magic"
+        }
+      }
+    },
+    {
+      "gameId": 3147676,
+      "gameUrl": "https://ethans-byproducts.itch.io/shuffle-macabre",
+      "overallRank": 8,
+      "topCategories": [
+        "Gameplay",
+        "Overall",
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE5NTkwMzAzLnBuZw==/300x240%23c/VA63qB.png",
+        "id": 3147676,
+        "title": "Shuffle Macabre",
+        "raw_score": 4.2777777777778,
+        "contributors": [
+          {
+            "name": "Ethan's Byproducts",
+            "id": 145828
+          }
+        ],
+        "score": 4.2777777777778,
+        "url": "https://itch.io/jam/game-off-2024/rate/3147676",
+        "rank": 8,
+        "rating_count": 18,
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 4.2777777777778,
+            "rank": 8,
+            "score": 4.2777777777778
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 4.3888888888889,
+            "rank": 4,
+            "score": 4.3888888888889
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.3888888888889,
+            "rank": 26,
+            "score": 4.3888888888889
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.3333333333333,
+            "rank": 6,
+            "score": 4.3333333333333
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.7777777777778,
+            "rank": 34,
+            "score": 3.7777777777778
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 4.2777777777778,
+            "rank": 10,
+            "score": 4.2777777777778
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 18,
+        "coolness": 13,
+        "id": 630734,
+        "created_at": "2024-12-01 20:51:15",
+        "game": {
+          "title": "Shuffle Macabre",
+          "short_text": "A procedural series of murder mysteries where one of the cards you're dealt is the killer!",
+          "user": {
+            "name": "Ethan's Byproducts",
+            "url": "https://ethans-byproducts.itch.io",
+            "id": 145828
+          },
+          "url": "https://ethans-byproducts.itch.io/shuffle-macabre",
+          "cover": "https://img.itch.zone/aW1nLzE5NTkwMzAzLnBuZw==/300x240%23c/VA63qB.png",
+          "id": 3147676,
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#eeeeee"
+        },
+        "url": "/jam/game-off-2024/rate/3147676"
+      },
+      "details": {
+        "title": "Shuffle Macabre",
+        "description": "You are an undercover detective attending fancy parties held by monsters. You know there's a killer on the loose. And you know how to stop them.\n- Click the lightbulb to turn off the lights\n- Use deductive reasoning to solve randomly generated puzzles!\n- Enjoy a soothing original jazz score!\n- Bring these murdering fiends to justice!\n---- CONTROLS ----\nRight click guests to toggle their suspicion symbol (for your convenience)\nClick and drag Kevlar onto guests to prevent them from from the killer's next attack\n(Windows only) F to toggle fullscreen\nWindows version is more stable than web version, recommended for the best experience.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzE0NzY3Ni8xODgxMzczNS5wbmc=/original/RQUpKn.png",
+          "https://img.itch.zone/aW1hZ2UvMzE0NzY3Ni8xODgxMzc0My5wbmc=/original/r9w1NP.png",
+          "https://img.itch.zone/aW1hZ2UvMzE0NzY3Ni8xODgxMzc0MS5wbmc=/original/yErkTW.png",
+          "https://img.itch.zone/aW1hZ2UvMzE0NzY3Ni8xODgxMzc1MS5wbmc=/original/GZTs9W.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Ethan's Byproducts",
+          "Genre": "Puzzle, Card Game",
+          "Made with": "GameMaker",
+          "Tags": "Minimalist, Roguelike"
+        }
+      }
+    },
+    {
+      "gameId": 3095271,
+      "gameUrl": "https://lemuronmars.itch.io/greedy-cards",
+      "overallRank": 19,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE4ODAyNDIxLnBuZw==/300x240%23c/TWoj7w.png",
+        "id": 3095271,
+        "title": "Greedy Cards",
+        "raw_score": 4.1333333333333,
+        "contributors": [
+          {
+            "name": "lemuronmars",
+            "id": 6231564
+          }
+        ],
+        "score": 4.1333333333333,
+        "url": "https://itch.io/jam/game-off-2024/rate/3095271",
+        "rank": 19,
+        "rating_count": 15,
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 4.1333333333333,
+            "rank": 19,
+            "score": 4.1333333333333
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 4.2666666666667,
+            "rank": 5,
+            "score": 4.2666666666667
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.4,
+            "rank": 23,
+            "score": 4.4
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.6666666666667,
+            "rank": 38,
+            "score": 3.6666666666667
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 2.8,
+            "rank": 237,
+            "score": 2.8
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.9333333333333,
+            "rank": 32,
+            "score": 3.9333333333333
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 15,
+        "coolness": 1,
+        "id": 629962,
+        "created_at": "2024-12-01 04:11:54",
+        "game": {
+          "title": "Greedy Cards",
+          "short_text": "Greedy Cards is a deck-building roguelike where you need to gain as many coins as possible in a single turn.",
+          "user": {
+            "name": "lemuronmars",
+            "url": "https://lemuronmars.itch.io",
+            "id": 6231564
+          },
+          "url": "https://lemuronmars.itch.io/greedy-cards",
+          "cover": "https://img.itch.zone/aW1nLzE4ODAyNDIxLnBuZw==/300x240%23c/TWoj7w.png",
+          "id": 3095271,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#684687"
+        },
+        "url": "/jam/game-off-2024/rate/3095271"
+      },
+      "details": {
+        "title": "Greedy Cards",
+        "description": "Greedy Cards is a deck-building roguelike where you need to gain as many coins as possible in a single turn.\nPlay cards to gain get coins. When coins are in Piggybank, go to the shop to buy more cards, to gain more coins.\nInspired by Slay the Spire and a board game Dominion.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzA5NTI3MS8xODgwMTYzMC5naWY=/original/kzbrDc.gif",
+          "https://img.itch.zone/aW1hZ2UvMzA5NTI3MS8xODgwMTczMy5wbmc=/original/ECvbqI.png",
+          "https://img.itch.zone/aW1hZ2UvMzA5NTI3MS8xODgwMTY2Mi5wbmc=/original/FwXouX.png",
+          "https://img.itch.zone/aW1hZ2UvMzA5NTI3MS8xODgwMTY2MC5wbmc=/original/msoxlv.png",
+          "https://img.itch.zone/aW1hZ2UvMzA5NTI3MS8xODgwMTY2MS5wbmc=/original/wYezDs.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.7 out of 5 stars(3 total ratings)",
+          "Author": "lemuronmars",
+          "Genre": "Card Game",
+          "Tags": "Deck Building, Indie, Roguelike, Roguelite"
+        }
+      }
+    },
+    {
+      "gameId": 3149189,
+      "gameUrl": "https://zanz23.itch.io/assassination-prevention-association",
+      "overallRank": 83,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE4ODExNjUxLnBuZw==/300x240%23c/FRtAgg.png",
+        "id": 3149189,
+        "title": "Assassination Prevention Association",
+        "raw_score": 3.625,
+        "contributors": [
+          {
+            "name": "zanz23",
+            "id": 11131608
+          }
+        ],
+        "score": 3.625,
+        "url": "https://itch.io/jam/game-off-2024/rate/3149189",
+        "rank": 83,
+        "rating_count": 8,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 4.25,
+            "rank": 6,
+            "score": 4.25
+          },
+          {
+            "name": "Overall",
+            "raw_score": 3.625,
+            "rank": 83,
+            "score": 3.625
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.625,
+            "rank": 114,
+            "score": 3.625
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.125,
+            "rank": 150,
+            "score": 3.125
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 4.125,
+            "rank": 21,
+            "score": 4.125
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.375,
+            "rank": 89,
+            "score": 3.375
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 8,
+        "coolness": 8,
+        "id": 630590,
+        "created_at": "2024-12-01 19:30:33",
+        "game": {
+          "title": "Assassination Prevention Association",
+          "short_text": "Save lives by figuring out who is the assassin!",
+          "user": {
+            "name": "zanz23",
+            "url": "https://zanz23.itch.io",
+            "id": 11131608
+          },
+          "url": "https://zanz23.itch.io/assassination-prevention-association",
+          "cover": "https://img.itch.zone/aW1nLzE4ODExNjUxLnBuZw==/300x240%23c/FRtAgg.png",
+          "id": 3149189,
+          "platforms": [
+            "windows",
+            "linux",
+            "web"
+          ],
+          "cover_color": "#3e3b65"
+        },
+        "url": "/jam/game-off-2024/rate/3149189"
+      },
+      "details": {
+        "title": "Assassination Prevention Association",
+        "description": "You are being shown videos of the future, of people moments before they are assassinated.\nThe only way to save their lives is to study the video and figure out who the would-be assassin is.\n\nThis game was a solo project made for the game jam \"Game Off 2024\", with the theme of \"Secret\".\nIt's a bit strange, but I am happy that I made it work. Hope you enjoy!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzE0OTE4OS8xODgxMTg3OS5wbmc=/original/MGz5l%2B.png",
+          "https://img.itch.zone/aW1hZ2UvMzE0OTE4OS8xODgxMTg4MC5wbmc=/original/8U00fd.png",
+          "https://img.itch.zone/aW1hZ2UvMzE0OTE4OS8xODgxMTg4MS5wbmc=/original/Le9PuJ.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, Linux",
+          "Author": "zanz23",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "Godot, Pixel Art, Short"
+        }
+      }
+    },
+    {
+      "gameId": 3141540,
+      "gameUrl": "https://turbomorsh.itch.io/bloody-delicious",
+      "overallRank": 11,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE4ODE0MDM5LnBuZw==/300x240%23c/5NN0w8.png",
+        "id": 3141540,
+        "title": "Bloody Delicious",
+        "raw_score": 4.2307692307692,
+        "contributors": [
+          {
+            "name": "Turbomorsh",
+            "id": 8946671
+          },
+          {
+            "name": "iTemichDev",
+            "id": 10948765
+          },
+          {
+            "name": "Feeifolken",
+            "id": 12173618
+          },
+          {
+            "name": "alexiy09",
+            "id": 12173642
+          },
+          {
+            "name": "Ekaterina Rogaleva",
+            "id": 10663077
+          },
+          {
+            "name": "Кемпмиро",
+            "id": 12164560
+          }
+        ],
+        "score": 4.2307692307692,
+        "url": "https://itch.io/jam/game-off-2024/rate/3141540",
+        "rank": 11,
+        "rating_count": 13,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 4.2307692307692,
+            "rank": 7,
+            "score": 4.2307692307692
+          },
+          {
+            "name": "Overall",
+            "raw_score": 4.2307692307692,
+            "rank": 11,
+            "score": 4.2307692307692
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.2307692307692,
+            "rank": 39,
+            "score": 4.2307692307692
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.8461538461538,
+            "rank": 24,
+            "score": 3.8461538461538
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.0769230769231,
+            "rank": 17,
+            "score": 4.0769230769231
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 4,
+            "rank": 32,
+            "score": 4
+          }
+        ]
+      },
+      "entryData": {
+        "id": 630732,
+        "rating_count": 13,
+        "coolness": 1,
+        "created_at": "2024-12-01 20:50:42",
+        "contributors": [
+          {
+            "name": "Turbomorsh",
+            "url": "https://turbomorsh.itch.io"
+          },
+          {
+            "name": "iTemichDev",
+            "url": "https://itemichdev.itch.io"
+          },
+          {
+            "name": "Feeifolken",
+            "url": "https://feeifolken.itch.io"
+          },
+          {
+            "name": "alexiy09",
+            "url": "https://alexiy09.itch.io"
+          },
+          {
+            "name": "Ekaterina Rogaleva",
+            "url": "https://ekaterina-rogaleva.itch.io"
+          },
+          {
+            "name": "Кемпмиро",
+            "url": "https://nastyarodnaya.itch.io"
+          }
+        ],
+        "game": {
+          "title": "Bloody Delicious",
+          "short_text": "Special burgers - you'll lick your fingers!",
+          "user": {
+            "name": "Turbomorsh",
+            "url": "https://turbomorsh.itch.io",
+            "id": 8946671
+          },
+          "url": "https://turbomorsh.itch.io/bloody-delicious",
+          "cover": "https://img.itch.zone/aW1nLzE4ODE0MDM5LnBuZw==/300x240%23c/5NN0w8.png",
+          "id": 3141540,
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#000000"
+        },
+        "url": "/jam/game-off-2024/rate/3141540"
+      },
+      "details": {
+        "title": "Bloody Delicious",
+        "description": "\nWASD - Movement\nE - Take\n\nG - Put\nTake the order from the visitor(Е). The recipe for the dish to be cooked will appear on the right. \nPay attention to the timer in the upper right corner, it shows how long the visitor is ready to wait for his order. Don't miss your chance to feed your guest a delicious bugrer!\nThe assembly of the burger(E) starts from the bottom! \nTo observe the sequence of ingredients put the bottom bun-cutlet on a plate-...-top bun. \nDo not forget to fry the buns and cutlet to a crust! \nThe assembled burger should be placed on a tray and given to the customer. \nAlso, do not forget to replenish the products in the trays from the warehouse.\n\n\n\n\n\nWelcome to \"Bloody Delicious\", where the burgers are juicy, the customers are strange, and the secrets are... downright horrifying.\nYou’re the newest employee at a small-town burger joint that prides itself on quality meat and customer satisfaction. But as you take orders and grill patties, things start to feel... off.\n\nBefore you know it, the routine spirals into a waking nightmare. Strange orders, eerie recepies, and hallucinations begin to blur the line between reality and delusion. Something dark and forbidden hides in the corners of the restaurant, daring you to uncover a dark secret.\n\nMikhail Bochkarev\nUnreal developer and  Team leadArtsiom Azokhau\nUnreal developer \nVictor Shenfeld\nGame-designer \nPavel Cherednichenko \n3D-artist \nEkaterina Rogaleva\n3D-artist \nAnastasia Rodnenkova\n2D-artist \nAlexey Shcherbakov \nAnimator \nDenis Dinev\nNarrative designer \nNikolay Lashenkov \nEditor \nTatiana Belousova\nCurator \n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzE0MTU0MC8xODc5NjM4NC5wbmc=/original/otcbRH.png",
+          "https://img.itch.zone/aW1hZ2UvMzE0MTU0MC8xODgxMjAyMi5wbmc=/original/FWdAD9.png",
+          "https://img.itch.zone/aW1hZ2UvMzE0MTU0MC8xODgxMjAyNC5wbmc=/original/kmzd8t.png",
+          "https://img.itch.zone/aW1hZ2UvMzE0MTU0MC8xODg0MTA2MS5wbmc=/original/%2BSz3At.png",
+          "https://img.itch.zone/aW1hZ2UvMzE0MTU0MC8xODg0MTA2Mi5wbmc=/original/1eGd1S.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Authors": "Turbomorsh, iTemichDev, Feeifolken, alexiy09, Ekaterina Rogaleva, Кемпмиро"
+        }
+      }
+    },
+    {
+      "gameId": 3080722,
+      "gameUrl": "https://quinncg.itch.io/tiny-wizard",
+      "overallRank": 15,
+      "topCategories": [
+        "Gameplay",
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE4ODU0MTA0LmdpZg==/300x240%23c/Bp765z.gif",
+        "id": 3080722,
+        "title": "Tiny Wizard",
+        "raw_score": 4.1538461538462,
+        "contributors": [
+          {
+            "name": "QuinnCG",
+            "id": 2012580
+          }
+        ],
+        "score": 4.1538461538462,
+        "url": "https://itch.io/jam/game-off-2024/rate/3080722",
+        "rank": 15,
+        "rating_count": 13,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 4.2307692307692,
+            "rank": 7,
+            "score": 4.2307692307692
+          },
+          {
+            "name": "Overall",
+            "raw_score": 4.1538461538462,
+            "rank": 15,
+            "score": 4.1538461538462
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.3076923076923,
+            "rank": 32,
+            "score": 4.3076923076923
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.3846153846154,
+            "rank": 5,
+            "score": 4.3846153846154
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 2.8461538461538,
+            "rank": 191,
+            "score": 2.8461538461538
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 2.4615384615385,
+            "rank": 287,
+            "score": 2.4615384615385
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 13,
+        "coolness": 14,
+        "id": 621373,
+        "created_at": "2024-11-07 01:54:47",
+        "game": {
+          "url": "https://quinncg.itch.io/tiny-wizard",
+          "cover_color": "#000000",
+          "gif_cover": "https://img.itch.zone/aW1nLzE4ODU0MTA0LmdpZg==/original/jb1fy4.gif",
+          "user": {
+            "name": "QuinnCG",
+            "url": "https://quinncg.itch.io",
+            "id": 2012580
+          },
+          "cover": "https://img.itch.zone/aW1nLzE4ODU0MTA0LmdpZg==/300x240%23c/Bp765z.gif",
+          "id": 3080722,
+          "title": "Tiny Wizard",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ],
+          "short_text": "Search a Dungeon for Magical Staffs"
+        },
+        "url": "/jam/game-off-2024/rate/3080722"
+      },
+      "details": {
+        "title": "Tiny Wizard",
+        "description": "Made for the Game Off 2024 jam.\n\nBullet hell dungeon crawler where you play as a wizard trying to find and collect lost magical staff.\nControls\nWASDMoveMouseAimLeft ClickBasic CastRight ClickSpecial CastSpace, Left ShiftDashE, FPick Up\nSome magical staffs have charged attacks that require you to hold down left or right click to charge.\nContent\n3 Areas3 Bosses5 Enemies (excluding bosses)5 StaffsMultiple secret rooms\nCredits\nCode, Art, Music, Level by Me\nSFX from Royalty-Free Sources, Paid Sources, and Personnel Recordings",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzA4MDcyMi8xODgxNDU2NS5naWY=/original/1VbryO.gif",
+          "https://img.itch.zone/aW1hZ2UvMzA4MDcyMi8xODgxNDU3My5naWY=/original/dwy2pF.gif",
+          "https://img.itch.zone/aW1hZ2UvMzA4MDcyMi8xODgxNDU3Ny5naWY=/original/TFjIy9.gif",
+          "https://img.itch.zone/aW1hZ2UvMzA4MDcyMi8xODgxNDU4OS5naWY=/original/8du8ZO.gif",
+          "https://img.itch.zone/aW1hZ2UvMzA4MDcyMi8xODgxNDU4Ny5naWY=/original/g7uzhO.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS, Linux",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "QuinnCG",
+          "Genre": "Action",
+          "Tags": "Dungeon Crawler, Magic, Pixel Art, Top down shooter"
+        }
+      }
+    },
+    {
+      "gameId": 3135548,
+      "gameUrl": "https://troystorygames.itch.io/messenger-mouse",
+      "overallRank": 44,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIzMzQxMjI2LnBuZw==/300x240%23c/jb4%2FyP.png",
+        "id": 3135548,
+        "title": "Messenger Mouse",
+        "raw_score": 3.875,
+        "contributors": [
+          {
+            "name": "Troy Story Games",
+            "id": 2410490
+          }
+        ],
+        "score": 3.875,
+        "url": "https://itch.io/jam/game-off-2024/rate/3135548",
+        "rank": 44,
+        "rating_count": 32,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 4.21875,
+            "rank": 9,
+            "score": 4.21875
+          },
+          {
+            "name": "Overall",
+            "raw_score": 3.875,
+            "rank": 44,
+            "score": 3.875
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.59375,
+            "rank": 125,
+            "score": 3.59375
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.34375,
+            "rank": 101,
+            "score": 3.34375
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 3.4375,
+            "rank": 125,
+            "score": 3.4375
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 2.84375,
+            "rank": 193,
+            "score": 2.84375
+          }
+        ]
+      },
+      "entryData": {
+        "id": 630769,
+        "rating_count": 32,
+        "coolness": 38,
+        "game": {
+          "title": "Messenger Mouse",
+          "short_text": "Deliver the message! Save the kingdom!",
+          "user": {
+            "name": "Troy Story Games",
+            "url": "https://troystorygames.itch.io",
+            "id": 2410490
+          },
+          "url": "https://troystorygames.itch.io/messenger-mouse",
+          "cover": "https://img.itch.zone/aW1nLzIzMzQxMjI2LnBuZw==/300x240%23c/jb4%2FyP.png",
+          "id": 3135548,
+          "platforms": [
+            "windows",
+            "linux",
+            "web"
+          ],
+          "cover_color": "#000000"
+        },
+        "created_at": "2024-12-01 21:08:07",
+        "field_responses": [
+          "32569:1",
+          "32569:2",
+          "32569:3"
+        ],
+        "url": "/jam/game-off-2024/rate/3135548"
+      },
+      "details": {
+        "title": "Messenger Mouse",
+        "description": "Messenger Mouse\nTake on the role of a courageous mouse tasked with delivering a secret message to the king in Messenger Mouse! This action-packed platformer combines classic gameplay with modern challenges, encouraging players to explore, strategize, and uncover the game's many secrets.\nOriginally developed for the Game Off 2024 game jam, the team has decided to continue developing this into a full release. Release date TBD.\nFollow the game here or Subscribe to our newsletter to be kept up-to-date on progress: https://www.troystorygames.com/newsletter/  \nController recommended (download and play)!!Steam Deck Supported!!\nFeatures:\nHidden Passages: Discover secret paths and shortcuts hidden throughout the levels.Dynamic Movement: Jump, double jump, and attack your way through challenging obstacles.Ghost Race Mode: Your best times are saved for each level. Race your best ghosts or race the developer ghosts to hone your skills. Challenge Mode: Play through 50 of the toughest challenges we could craft. Each challenge tests movement mastery! Good luck!Cheat Codes: Unlock hidden surprises with classic cheat code combos found in secret areas throughout the levels.\nDo you have what it takes to deliver the message in time and unravel the secrets of the kingdom? Find out in Messenger Mouse!\nDownload now or play in the browser and start your secret mission!\nTeam\nLead Designer: Travis ConstantinoLead Developer: Sean LaPlanteLead Artist: Kayla LaPlante\nAdditional Credits\n Font: https://somepx.itch.io/ - \"Lookout 7\" and \"Sins 7\" Level Assets: Some fully Custom and some remastering/changes to Kenney assetsSound Effects: GameBurp - 2000 Game Sound FX - All Sound FXBeacon light sound effect: Shield Pickup (from OGG CasualSounds)Full sword bard sound effect: Powerup 47 (from https://gamesupply.itch.io/1000-nintendo-sound-effects)Ambient battle noise (intro cutscene): swords and shouting by pfranzen -- https://freesound.org/s/192072/ -- License: Attribution 4.0Menu Music: https://opengameart.org/content/boundlessIntro Cutscene Music: Drama - https://opengameart.org/content/cc0-scrapsLevel 00 Music (tutorial): TODOLevel 01 Music: - new thing - https://opengameart.org/content/cc0-scrapsLevel 02 Music: - fairy adventure - https://opengameart.org/content/fairy-adventureLevel 03 Music: - game - Track 01 (title screen) - https://opengameart.org/content/cc0-scrapsLevel 05 Music: - darkness_road_bpm165 - https://opengameart.org/content/darkness-roadremekeLevel 06 Music: - CleytonRX - Battle RPG Theme Var - https://opengameart.org/content/boss-battle-themeEnd of level screen: - lawdy lawd lawyers - https://opengameart.org/content/cc0-scrapsThrone Room Music: - rhythm garden - https://opengameart.org/content/rythm-garden-second-cruise-congusbongus-remixed",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzIzMzQxMjI2LnBuZw==/original/TnIaF0.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows, Linux",
+          "Rating": "Rated 5.0 out of 5 stars(3 total ratings)",
+          "Author": "Troy Story Games",
+          "Genre": "Platformer, Action, Adventure",
+          "Made with": "Godot",
+          "Tags": "2D, Action-Adventure, No AI, Pixel Art, Singleplayer, Speedrun"
+        }
+      }
+    },
+    {
+      "gameId": 3148035,
+      "gameUrl": "https://walksthroughmolasses.itch.io/pass-the-note",
+      "overallRank": 18,
+      "topCategories": [
+        "Gameplay",
+        "Graphics",
+        "Innovation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE4ODA2NjY3LnBuZw==/300x240%23c/Zrvic7.png",
+        "id": 3148035,
+        "title": "Pass The Note!",
+        "raw_score": 4.1428571428571,
+        "contributors": [
+          {
+            "name": "WalksThroughMolasses",
+            "id": 9407909
+          }
+        ],
+        "score": 4.1428571428571,
+        "url": "https://itch.io/jam/game-off-2024/rate/3148035",
+        "rank": 18,
+        "rating_count": 14,
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 4.1428571428571,
+            "rank": 18,
+            "score": 4.1428571428571
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.6428571428571,
+            "rank": 8,
+            "score": 4.6428571428571
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 4.2142857142857,
+            "rank": 10,
+            "score": 4.2142857142857
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 4.2142857142857,
+            "rank": 15,
+            "score": 4.2142857142857
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 4.1428571428571,
+            "rank": 5,
+            "score": 4.1428571428571
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.7142857142857,
+            "rank": 53,
+            "score": 3.7142857142857
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 14,
+        "coolness": 8,
+        "id": 630175,
+        "created_at": "2024-12-01 12:13:08",
+        "game": {
+          "title": "Pass The Note!",
+          "user": {
+            "name": "WalksThroughMolasses",
+            "url": "https://walksthroughmolasses.itch.io",
+            "id": 9407909
+          },
+          "url": "https://walksthroughmolasses.itch.io/pass-the-note",
+          "cover": "https://img.itch.zone/aW1nLzE4ODA2NjY3LnBuZw==/300x240%23c/Zrvic7.png",
+          "id": 3148035,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#c5eff0"
+        },
+        "url": "/jam/game-off-2024/rate/3148035"
+      },
+      "details": {
+        "title": "Pass The Note!",
+        "description": "Pass the note to your crush!Art by Bryce Pemberton and Nancy Li.Code and sound by Ryan Pemberton.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzE0ODAzNS8xODgwNjY2Ni5wbmc=/original/BIQpdH.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "WalksThroughMolasses",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "Cute, Romance"
+        }
+      }
+    },
+    {
+      "gameId": 3125704,
+      "gameUrl": "https://stardice-games.itch.io/museum-servivit",
+      "overallRank": 9,
+      "topCategories": [
+        "Graphics",
+        "Overall"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE4ODc3NzI4LmpwZw==/300x240%23c/2ox4CB.jpg",
+        "id": 3125704,
+        "title": "Museum Servivit",
+        "raw_score": 4.2686567164179,
+        "contributors": [
+          {
+            "name": "STARDICE🎲Games",
+            "id": 9050464
+          },
+          {
+            "name": "PROX games",
+            "id": 4518759
+          },
+          {
+            "name": "SilentK",
+            "id": 6482251
+          },
+          {
+            "name": "irafunesta",
+            "id": 738129
+          },
+          {
+            "name": "Michele Buonocunto",
+            "id": 6438820
+          },
+          {
+            "name": "Forgotten Dawn",
+            "id": 528711
+          },
+          {
+            "name": "MTGMisaki",
+            "id": 10575497
+          },
+          {
+            "name": "M3t4lp0w3r",
+            "id": 6811191
+          },
+          {
+            "name": "Lorenzo Racca",
+            "id": 11534833
+          },
+          {
+            "name": "leoventuroso",
+            "id": 11943385
+          },
+          {
+            "name": "Caterina Stella",
+            "id": 12173329
+          }
+        ],
+        "score": 4.2686567164179,
+        "url": "https://itch.io/jam/game-off-2024/rate/3125704",
+        "rank": 9,
+        "rating_count": 67,
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 4.2686567164179,
+            "rank": 9,
+            "score": 4.2686567164179
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.6119402985075,
+            "rank": 50,
+            "score": 3.6119402985075
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.8507462686567,
+            "rank": 1,
+            "score": 4.8507462686567
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 3.9253731343284,
+            "rank": 40,
+            "score": 3.9253731343284
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.134328358209,
+            "rank": 133,
+            "score": 3.134328358209
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.1641791044776,
+            "rank": 14,
+            "score": 4.1641791044776
+          }
+        ]
+      },
+      "entryData": {
+        "id": 630594,
+        "rating_count": 67,
+        "coolness": 33,
+        "created_at": "2024-12-01 19:32:10",
+        "contributors": [
+          {
+            "name": "STARDICE🎲Games",
+            "url": "https://stardice-games.itch.io"
+          },
+          {
+            "name": "PROX games",
+            "url": "https://prox-games.itch.io"
+          },
+          {
+            "name": "SilentK",
+            "url": "https://kevintoninelli.itch.io"
+          },
+          {
+            "name": "irafunesta",
+            "url": "https://irafunesta.itch.io"
+          },
+          {
+            "name": "Michele Buonocunto",
+            "url": "https://michele-buonocunto.itch.io"
+          },
+          {
+            "name": "Forgotten Dawn",
+            "url": "https://forgottendawn.itch.io"
+          },
+          {
+            "name": "MTGMisaki",
+            "url": "https://mtgmisaki.itch.io"
+          },
+          {
+            "name": "M3t4lp0w3r",
+            "url": "https://m3t4lp0w3r.itch.io"
+          },
+          {
+            "name": "Lorenzo Racca",
+            "url": "https://lorenzo-racca.itch.io"
+          },
+          {
+            "name": "leoventuroso",
+            "url": "https://leoventuroso.itch.io"
+          },
+          {
+            "name": "Caterina Stella",
+            "url": "https://caterinastella.itch.io"
+          }
+        ],
+        "game": {
+          "title": "Museum Servivit",
+          "short_text": "Join Angelo in his first day at the Servivit Museum",
+          "user": {
+            "name": "STARDICE🎲Games",
+            "url": "https://stardice-games.itch.io",
+            "id": 9050464
+          },
+          "url": "https://stardice-games.itch.io/museum-servivit",
+          "cover": "https://img.itch.zone/aW1nLzE4ODc3NzI4LmpwZw==/300x240%23c/2ox4CB.jpg",
+          "id": 3125704,
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#081824"
+        },
+        "url": "/jam/game-off-2024/rate/3125704"
+      },
+      "details": {
+        "title": "Museum Servivit",
+        "description": "Welcome to Museum Servivit! Join Angelo, a sprightly old man who recently started his new job here as a night keeper. However, this experience will prove to be pretty far from ordinary. Will you help him discover the terrible secret hiding in the Museum?\n \n\n\nThe game was made in one month during the GitHub Game Off Game Jam 2024, which ran from the 1st of November to the 1st of December 2024 and was based on the “Secret” theme. GitHub's game repository is here.\n\nGameplay\nIn Servivit Museum, the player must follow the Curator's instructions and care for the museum during Angelo's night shift. Sounds easy, right? What could go wrong?Move Angelo, close the museum, interact with the different artifacts to solve puzzles, and reveal the Museum's obscure secret. \n\nAll the assets were created from scratch during GitHub Game Off Game Jam 2024. A special thanks to everyone who recently tested the game!\nSoundtrack\nhttps://bandcamp.com/EmbeddedPlayer/album=937416736/size=large/bgcol=181a1b/linkcol=056cc4/tracklist=false/artwork=small/transparent=true/\n\n\nStarDice Team \nDESIGNERS\nMichele Buonocunto\n\nKevin Toninelli\nPROGRAMMERS\nSimone Guidi\nSamanta Mancini\nLeonardo Venturoso\nART DIRECTION\nSamuele Prosser\nARTISTS\nCaterina Stella\nLorenzo Racca\n\nCOMPOSER\nClaudio Monteleone\n\nSOUND DESIGNER\nAntongiulio Giardino\n\n\n\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzEyNTcwNC8xODg3NzU5NC5qcGc=/original/zLqTi3.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzEyNTcwNC8xODg3NzY1NC5qcGc=/original/V%2FrLoU.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzEyNTcwNC8xODg3NzY1My5qcGc=/original/6qtzr4.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzEyNTcwNC8xODg3NzY1NS5qcGc=/original/ZKaf%2FT.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(8 total ratings)",
+          "Authors": "STARDICE🎲Games, PROX games, SilentK, irafunesta, Michele Buonocunto, Forgotten Dawn, MTGMisaki, M3t4lp0w3r, Lorenzo Racca, leoventuroso, Caterina Stella",
+          "Genre": "Puzzle, Adventure",
+          "Made with": "Godot",
+          "Tags": "2D, Atmospheric, Hand-drawn, Indie, Mystery, Narrative, Short, Singleplayer",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse, Xbox controller, Gamepad (any), Joystick",
+          "Links": "Homepage, YouTube, Instagram"
+        }
+      }
+    },
+    {
+      "gameId": 3061100,
+      "gameUrl": "https://magicalyuto.itch.io/mystery-of-funeral",
+      "overallRank": 61,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE4NjgyNjY1LmpwZw==/300x240%23c/s3sbDL.jpg",
+        "id": 3061100,
+        "title": "The Secret Funeral",
+        "raw_score": 3.7241379310345,
+        "contributors": [
+          {
+            "name": "Magical Yuto",
+            "id": 11405340
+          }
+        ],
+        "score": 3.7241379310345,
+        "url": "https://itch.io/jam/game-off-2024/rate/3061100",
+        "rank": 61,
+        "rating_count": 29,
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 3.7241379310345,
+            "rank": 61,
+            "score": 3.7241379310345
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.7586206896552,
+            "rank": 2,
+            "score": 4.7586206896552
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 2.8620689655172,
+            "rank": 199,
+            "score": 2.8620689655172
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4,
+            "rank": 21,
+            "score": 4
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 3.551724137931,
+            "rank": 98,
+            "score": 3.551724137931
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.1034482758621,
+            "rank": 143,
+            "score": 3.1034482758621
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 29,
+        "coolness": 21,
+        "id": 624050,
+        "created_at": "2024-11-14 13:03:09",
+        "game": {
+          "title": "The Secret Funeral",
+          "user": {
+            "name": "Magical Yuto",
+            "url": "https://magicalyuto.itch.io",
+            "id": 11405340
+          },
+          "url": "https://magicalyuto.itch.io/mystery-of-funeral",
+          "cover": "https://img.itch.zone/aW1nLzE4NjgyNjY1LmpwZw==/300x240%23c/s3sbDL.jpg",
+          "id": 3061100,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#aae59f"
+        },
+        "url": "/jam/game-off-2024/rate/3061100"
+      },
+      "details": {
+        "title": "The Secret Funeral",
+        "description": " 🌙\nInside a secret is still a secret.\n\nTell one secret and there are many more.\nGame introduction:\nThe game is about some thoughts and feelings about death. \nA narrative visual novel with multiple choices and multiple endings. The flow is 5 minutes. 2 branches and 2 endings.\n\n3 signs appear in the prophecy.\nWaking up she solemnly takes her hat and crosses the diverging paths to attend a secret funeral.The depths of the paths, the passengers on the boat, the black river, the death in the cemetery...what kind of funeral is she going to?\nTo the secrets in our hearts that we have nowhere to tell.\n\n\n\nInspiration: \nWhen I was a freshman in high school, I took a leave of absence to go to a funeral, and when I came back to school at the end of the day, it was gym class, and the class happened to be in the playground. I was alone in my seat calming down. By the time everyone got out of class and returned to the classroom, my eyes were no longer red and swollen. No one knew what I had taken time off to do. I didn't dare say anything either. Death happened quietly.\nstory + art + dev -yutocomposer  - 亚涛\nen-US - 小刺猬达芬奇\n\n\nLet me know in the comments if you think anything about it, I'm about to start working on the next game featuring this girl in a hat!!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzA2MTEwMC8xODYzMTY1OC5qcGc=/original/rek0EO.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzA2MTEwMC8xODYzMTY4NC5qcGc=/original/pRNBJs.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzA2MTEwMC8xODYzMTY4OS5qcGc=/original/h5xXvK.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.8 out of 5 stars(8 total ratings)",
+          "Author": "Magical Yuto",
+          "Genre": "Visual Novel",
+          "Made with": "RPG Maker",
+          "Tags": "2D, Cute, Fantasy, Hand-drawn, RPG Maker, RPG Maker MV, Short"
+        }
+      }
+    },
+    {
+      "gameId": 3147573,
+      "gameUrl": "https://elymal.itch.io/dead-color",
+      "overallRank": 23,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE4ODEyNjEwLnBuZw==/300x240%23c/9%2FDCYn.png",
+        "id": 3147573,
+        "title": "Dead Color",
+        "raw_score": 4.0909090909091,
+        "contributors": [
+          {
+            "name": "Elymal",
+            "id": 12180487
+          }
+        ],
+        "score": 4.0909090909091,
+        "url": "https://itch.io/jam/game-off-2024/rate/3147573",
+        "rank": 23,
+        "rating_count": 11,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.0909090909091,
+            "rank": 146,
+            "score": 3.0909090909091
+          },
+          {
+            "name": "Overall",
+            "raw_score": 4.0909090909091,
+            "rank": 23,
+            "score": 4.0909090909091
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.7272727272727,
+            "rank": 3,
+            "score": 4.7272727272727
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.1818181818182,
+            "rank": 13,
+            "score": 4.1818181818182
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 4.0909090909091,
+            "rank": 26,
+            "score": 4.0909090909091
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.4545454545455,
+            "rank": 77,
+            "score": 3.4545454545455
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 11,
+        "coolness": 11,
+        "id": 630638,
+        "created_at": "2024-12-01 19:54:30",
+        "game": {
+          "title": "Dead Color",
+          "short_text": "Something is under the paint.",
+          "user": {
+            "name": "Elymal",
+            "url": "https://elymal.itch.io",
+            "id": 12180487
+          },
+          "url": "https://elymal.itch.io/dead-color",
+          "cover": "https://img.itch.zone/aW1nLzE4ODEyNjEwLnBuZw==/300x240%23c/9%2FDCYn.png",
+          "id": 3147573,
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#000000"
+        },
+        "url": "/jam/game-off-2024/rate/3147573"
+      },
+      "details": {
+        "title": "Dead Color",
+        "description": "A lonely art conservator works on a painting that is not quite what it seems on the surface.\nShort visual novel made for Game Off 2024 with the theme \"secrets.\"\nCurrently, there are three endings.  You can hold down the Control button to speed through text you've already seen!",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE4ODEyNjEwLnBuZw==/original/nYtv7O.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Author": "Elymal",
+          "Genre": "Visual Novel",
+          "Made with": "Ren'Py",
+          "Tags": "Horror, Narrative, Painting, Short, Spooky"
+        }
+      }
+    },
+    {
+      "gameId": 3149512,
+      "gameUrl": "https://jtcontreras95.itch.io/secondhand",
+      "overallRank": 2,
+      "topCategories": [
+        "Graphics",
+        "Overall"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE4ODEzMTA4LnBuZw==/300x240%23c/xfoRag.png",
+        "id": 3149512,
+        "title": "Secondhand",
+        "raw_score": 4.3571428571429,
+        "contributors": [
+          {
+            "name": "José Tomás Contreras",
+            "id": 6074874
+          },
+          {
+            "name": "Joaquín Schwarz",
+            "id": 6196625
+          },
+          {
+            "name": "Juana Lourdes Sotomayor",
+            "id": 8986265
+          },
+          {
+            "name": "PenguinYee",
+            "id": 2187064
+          }
+        ],
+        "score": 4.3571428571429,
+        "url": "https://itch.io/jam/game-off-2024/rate/3149512",
+        "rank": 2,
+        "rating_count": 14,
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 4.3571428571429,
+            "rank": 2,
+            "score": 4.3571428571429
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.7142857142857,
+            "rank": 39,
+            "score": 3.7142857142857
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.7142857142857,
+            "rank": 4,
+            "score": 4.7142857142857
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.0714285714286,
+            "rank": 19,
+            "score": 4.0714285714286
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 4,
+            "rank": 15,
+            "score": 4
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 4.0714285714286,
+            "rank": 28,
+            "score": 4.0714285714286
+          }
+        ]
+      },
+      "entryData": {
+        "id": 630818,
+        "rating_count": 14,
+        "coolness": 9,
+        "created_at": "2024-12-01 21:27:10",
+        "contributors": [
+          {
+            "name": "José Tomás Contreras",
+            "url": "https://jtcontreras95.itch.io"
+          },
+          {
+            "name": "Joaquín Schwarz",
+            "url": "https://joaquinschwarz.itch.io"
+          },
+          {
+            "name": "Juana Lourdes Sotomayor",
+            "url": "https://lourdesyjuana.itch.io"
+          },
+          {
+            "name": "PenguinYee",
+            "url": "https://penguinyee.itch.io"
+          }
+        ],
+        "game": {
+          "title": "Secondhand",
+          "short_text": "Henry thought he found the perfect couch. Until he stumbled into a cult.",
+          "user": {
+            "name": "José Tomás Contreras",
+            "url": "https://jtcontreras95.itch.io",
+            "id": 6074874
+          },
+          "url": "https://jtcontreras95.itch.io/secondhand",
+          "cover": "https://img.itch.zone/aW1nLzE4ODEzMTA4LnBuZw==/300x240%23c/xfoRag.png",
+          "id": 3149512,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#eeeeee"
+        },
+        "url": "/jam/game-off-2024/rate/3149512"
+      },
+      "details": {
+        "title": "Secondhand",
+        "description": "Henry thought he’d scored the deal of a lifetime when he found a free couch online—until he arrived at the seller's address...   What seemed like a simple pickup turns into a bizarre and eerie adventure when he stumbles upon a strange cult obsessed with secret handshakes.\nHenry must navigate a series of increasingly bizarre challenges, each more twisted than the last. As the cult’s true motives slowly unravel, Henry must decide: Can he outwit the cult and find his way out, or will he become just another pawn in their bizarre rituals?Art: Juana Lourdes SotomayorMusic & Sound: José Tomás ContrerasCode: PenguinYeeWriting: Joaquín SchwarzFont: monogram by datagoblinChangelog:December 1st, 2024: Fixed some missing textures, added more lives to minigamesDecember 7th, 2024: Fixed critical issue that would crash the game, sorry if you experienced it!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzE0OTUxMi8xODgxMzU4Ni5wbmc=/original/BLHyGQ.png",
+          "https://img.itch.zone/aW1hZ2UvMzE0OTUxMi8xODgxMzU4Ny5wbmc=/original/l3POop.png",
+          "https://img.itch.zone/aW1hZ2UvMzE0OTUxMi8xODgxNDQ3Ni5wbmc=/original/wnWRXB.png",
+          "https://img.itch.zone/aW1hZ2UvMzE0OTUxMi8xODgxNDQ1OS5wbmc=/original/AbqpcC.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.7 out of 5 stars(3 total ratings)",
+          "Authors": "José Tomás Contreras, Joaquín Schwarz, Juana Lourdes Sotomayor, PenguinYee",
+          "Genre": "Interactive Fiction",
+          "Made with": "Godot",
+          "Tags": "Funny, keyboard-extravaganza, maybe, minigames, mouse-jamboree, Narrative, Point & Click",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 3107098,
+      "gameUrl": "https://rubatozis.itch.io/reid-house",
+      "overallRank": 50,
+      "topCategories": [
+        "Graphics",
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE4NTgwODE0LnBuZw==/300x240%23c/7vQCGU.png",
+        "id": 3107098,
+        "title": "Reid House",
+        "raw_score": 3.8333333333333,
+        "contributors": [
+          {
+            "name": "rubatozis",
+            "id": 11926931
+          }
+        ],
+        "score": 3.8333333333333,
+        "url": "https://itch.io/jam/game-off-2024/rate/3107098",
+        "rank": 50,
+        "rating_count": 6,
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 3.8333333333333,
+            "rank": 50,
+            "score": 3.8333333333333
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.6666666666667,
+            "rank": 5,
+            "score": 4.6666666666667
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3,
+            "rank": 159,
+            "score": 3
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 4,
+            "rank": 32,
+            "score": 4
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.3333333333333,
+            "rank": 6,
+            "score": 4.3333333333333
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.1666666666667,
+            "rank": 127,
+            "score": 3.1666666666667
+          }
+        ]
+      },
+      "entryData": {
+        "id": 629172,
+        "rating_count": 6,
+        "coolness": 6,
+        "game": {
+          "title": "Reid House",
+          "short_text": "A psychiatrist hopes to get some insight into his patient's life by paying a visit to his now empty house.",
+          "user": {
+            "name": "rubatozis",
+            "url": "https://rubatozis.itch.io",
+            "id": 11926931
+          },
+          "url": "https://rubatozis.itch.io/reid-house",
+          "cover": "https://img.itch.zone/aW1nLzE4NTgwODE0LnBuZw==/300x240%23c/7vQCGU.png",
+          "id": 3107098,
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#000000"
+        },
+        "created_at": "2024-11-29 19:34:51",
+        "field_responses": [
+          "32569:1"
+        ],
+        "url": "/jam/game-off-2024/rate/3107098"
+      },
+      "details": {
+        "title": "Reid House",
+        "description": "From its sentinel up in the hill, the house watches the road from afar as its windows appear to blink.\nA submission for Game Off 2024 — this year's theme was \"secrets.\"\n\n⚠︎ TW: Disturbing imagery and audio, a lot of cockroaches, animal death, swearing\nShort point-and-click adventure where you walk around a rotting house. Inspired by H.P Lovecraft's \"The Case of Charles Dexter Ward\" and Mike Flanagan's adaptation of \"The Haunting of Hill House.\" ~20 minutes of gameplay assuming you interact with every object.\nThis is my very first game ever; expect bugs. No pun intended. I may give this a complete post-jam remake sometime in the future. Who knows?\nMade with Godot 4.3. Art made with Clip Studio Paint EX.\nGITHUB REPOSITORY :: https://github.com/rubatozis/ReidHouse-GameOff-Entry\nReport any issues in the comments, pretty please. They'll be annotated and fixed as soon as I'm able to.\n\nKNOWN TROUBLES\nConsider downloading the game for the best experience! The web version has some delay and some audio issues. Nothing game-breaking.\nIf you can't click the X in the dialogue box, try clicking it from the bottom right. This is an issue in other games and is probably just a thing to do with collision boxes acting a little stupid.\nI've got two reports of the file being recognized as dangerous. I will try to look for a way to prevent this. Be patient!\n\nCREDITS\n✐⋆｡˚. Additional art by my friend Camusvast, made traditionally\n\n𝄞♬♪ Arvostus -- Crow Shade\n𝄞♬♪ Something's Wrong -- Crow Shade\n𝄞♬♪ Time Whistle -- Crow Shade\n𝄞♬♪ Quiet -- Crow Shade\n𝄞♬♪ Safe for Now -- Jeremy Blake\n𝄞♬♪ Blasted Heath -- Jeremy Blake\n𝄞♬♪ It's In The Walls -- Jeremy Blake\n𝄞♬♪ Layers of a Nightmare -- Jeremy Blake\n\n||၊|။ https://freesound.org/s/407655/\n||၊|။ https://freesound.org/s/624353/\n||၊|။ https://freesound.org/s/272491/\n||၊|။ https://freesound.org/s/249716/\n||၊|။ https://freesound.org/s/536831/\n||၊|။ https://freesound.org/s/119914/\n||၊|။ https://freesound.org/s/521869/\n||၊|။ https://freesound.org/s/202400/\n||၊|။ https://freesound.org/s/581545/\n||၊|။ https://freesound.org/s/51163/\n||၊|။ https://freesound.org/s/218994/\n||၊|။ https://freesound.org/s/635052/\n||၊|။ https://freesound.org/s/332818/\n||၊|။ https://freesound.org/s/372241/\n||၊|။ https://freesound.org/s/522208/\n||၊|။ Many sounds from FilmCow's library\n||၊|။ Effects from ADsounds\n\n✎... X Typewriter font\n✎... Zector fontExtract the winrar file (playing directly can cause issues). It's just two files, one is an exe for the game. You can just open it. There's a github repository in the description with the game's code if you feel unsafe. I wanted the .rar to be small.\nPlease consider rating the game after playing! I highly appreciate it. You don't even need to write anything.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzEwNzA5OC8xODU5NjI3Mi5wbmc=/original/K7dk83.png",
+          "https://img.itch.zone/aW1hZ2UvMzEwNzA5OC8xODY2MTI3MS5wbmc=/original/sshRBj.png",
+          "https://img.itch.zone/aW1hZ2UvMzEwNzA5OC8xODY2MTI3NS5wbmc=/original/YezmMx.png",
+          "https://img.itch.zone/aW1hZ2UvMzEwNzA5OC8xODc2NDU1Mi5wbmc=/original/%2FxkJPY.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 2.5 out of 5 stars(2 total ratings)",
+          "Author": "rubatozis",
+          "Made with": "Godot, Clip Studio Paint",
+          "Tags": "Creepy, Exploration, First-Person, Horror, Point & Click, Short, Singleplayer",
+          "Code license": "MIT License",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 3147012,
+      "gameUrl": "https://enweave.itch.io/anomaly",
+      "overallRank": 109,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE4OTEyNTU3LnBuZw==/300x240%23c/PCUgjg.png",
+        "id": 3147012,
+        "title": "Anomaly",
+        "raw_score": 3.5,
+        "contributors": [
+          {
+            "name": "Enweave",
+            "id": 7530754
+          },
+          {
+            "name": "ashwinvenkat",
+            "id": 9025938
+          },
+          {
+            "name": "Bahaa S",
+            "id": 9597944
+          },
+          {
+            "name": "DE4D POOL",
+            "id": 736902
+          },
+          {
+            "name": "sidetilt",
+            "id": 6709536
+          }
+        ],
+        "score": 3.5,
+        "url": "https://itch.io/jam/game-off-2024/rate/3147012",
+        "rank": 109,
+        "rating_count": 6,
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 3.5,
+            "rank": 109,
+            "score": 3.5
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.6666666666667,
+            "rank": 5,
+            "score": 4.6666666666667
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 2.8333333333333,
+            "rank": 207,
+            "score": 2.8333333333333
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.1666666666667,
+            "rank": 127,
+            "score": 3.1666666666667
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.3333333333333,
+            "rank": 102,
+            "score": 3.3333333333333
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 3,
+            "rank": 197,
+            "score": 3
+          }
+        ]
+      },
+      "entryData": {
+        "id": 630833,
+        "game": {
+          "title": "Anomaly",
+          "short_text": "Cyberpunk 3rd person shooter - investigate anomaly within NeuroScape!",
+          "user": {
+            "name": "Enweave",
+            "url": "https://enweave.itch.io",
+            "id": 7530754
+          },
+          "url": "https://enweave.itch.io/anomaly",
+          "cover": "https://img.itch.zone/aW1nLzE4OTEyNTU3LnBuZw==/300x240%23c/PCUgjg.png",
+          "id": 3147012,
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#131313"
+        },
+        "rating_count": 6,
+        "coolness": 9,
+        "created_at": "2024-12-01 21:33:33",
+        "contributors": [
+          {
+            "name": "Enweave",
+            "url": "https://enweave.itch.io"
+          },
+          {
+            "name": "ashwinvenkat",
+            "url": "https://ashwinvenkat.itch.io"
+          },
+          {
+            "name": "Bahaa S",
+            "url": "https://bahaa-s.itch.io"
+          },
+          {
+            "name": "DE4D POOL",
+            "url": "https://de4d-pool.itch.io"
+          },
+          {
+            "name": "sidetilt",
+            "url": "https://sidetilt.itch.io"
+          }
+        ],
+        "field_responses": [
+          "32569:1"
+        ],
+        "url": "/jam/game-off-2024/rate/3147012"
+      },
+      "details": {
+        "title": "Anomaly",
+        "description": "Cyberpunk 3rd person shooter - investigate anomaly within NeuroScape!\n\nControls\ngame requires keyboard and mouse to play\n\n    WASD - move\n    Space - jump\n    E - Interact\n    LMB - Fire\n    RMB - Aim\n    Q - Scanner\n    Shift - Dash\n    Esc, P - pause/menu\n\n\nAttributions:\nGame uses assets from:\n\n\n    Lyra game\n    Big Niagara bundle\n    Not Yet: Dialogue Plugin System \nRemoved in version 0.1.0\n\n    Fmod\n    FREE Mega Crosshairs Pack by VOiD1 Gaming\n    Free Animations Pack\n    RamsterZ Free Anims Volume 1\n\n\nVoice actors:\nSarah (Protagonist)\nDiana Helen Kennedy\nAI\nChatgpt\nUnzip, run`SecretGGame.exe`.\n\n\nConfig file location:\n%localAppData%\\SecretGGame\\Saved\\Config\\Windows\nIf the game does not run, try downloading and installing  UEPrereqSetup_x64.exe.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzE0NzAxMi8xODkyNDUxMC5naWY=/original/gplESX.gif",
+          "https://img.itch.zone/aW1hZ2UvMzE0NzAxMi8xODkyNDUxMS5naWY=/original/JB8ufw.gif",
+          "https://img.itch.zone/aW1hZ2UvMzE0NzAxMi8xODkyMjI5Mi5qcGVn/original/6HIWaT.jpeg",
+          "https://img.itch.zone/aW1hZ2UvMzE0NzAxMi8xODkyMjI5MS5qcGVn/original/DsvNN7.jpeg",
+          "https://img.itch.zone/aW1hZ2UvMzE0NzAxMi8xODkyMjI5My5qcGVn/original/VNuHNX.jpeg",
+          "https://img.itch.zone/aW1hZ2UvMzE0NzAxMi8xODkyMjI4OC5qcGVn/original/e0%2BhLT.jpeg",
+          "https://img.itch.zone/aW1hZ2UvMzE0NzAxMi8xODkyMjI4OS5qcGVn/original/kETkdu.jpeg",
+          "https://img.itch.zone/aW1hZ2UvMzE0NzAxMi8xODkyMjI5MC5qcGVn/original/gMR1AF.jpeg"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Authors": "Enweave, ashwinvenkat, Bahaa S, DE4D POOL, sidetilt",
+          "Genre": "Shooter",
+          "Made with": "Unreal Engine",
+          "Average session": "A few seconds",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 3135983,
+      "gameUrl": "https://mentisfaber.itch.io/hellustration",
+      "overallRank": 12,
+      "topCategories": [
+        "Graphics",
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE4NzY3Nzk0LnBuZw==/300x240%23c/cutFyP.png",
+        "id": 3135983,
+        "title": "Hellustration",
+        "raw_score": 4.2,
+        "contributors": [
+          {
+            "name": "artorad",
+            "id": 8877746
+          },
+          {
+            "name": "AlenaKudelina",
+            "id": 9360360
+          },
+          {
+            "name": "Mariyaaa",
+            "id": 12157696
+          },
+          {
+            "name": "bzzanya",
+            "id": 12157003
+          },
+          {
+            "name": "Nikolat",
+            "id": 12152105
+          },
+          {
+            "name": "stLobster",
+            "id": 8884892
+          },
+          {
+            "name": "PshiCon",
+            "id": 12152830
+          },
+          {
+            "name": "dstmttrs",
+            "id": 10352783
+          }
+        ],
+        "score": 4.2,
+        "url": "https://itch.io/jam/game-off-2024/rate/3135983",
+        "rank": 12,
+        "rating_count": 20,
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 4.2,
+            "rank": 12,
+            "score": 4.2
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.65,
+            "rank": 7,
+            "score": 4.65
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.8,
+            "rank": 30,
+            "score": 3.8
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 4.1,
+            "rank": 24,
+            "score": 4.1
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.45,
+            "rank": 3,
+            "score": 4.45
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.85,
+            "rank": 23,
+            "score": 3.85
+          }
+        ]
+      },
+      "entryData": {
+        "id": 629631,
+        "rating_count": 20,
+        "coolness": 32,
+        "created_at": "2024-11-30 18:36:34",
+        "contributors": [
+          {
+            "name": "artorad",
+            "url": "https://mentisfaber.itch.io"
+          },
+          {
+            "name": "AlenaKudelina",
+            "url": "https://alenakudelina.itch.io"
+          },
+          {
+            "name": "Mariyaaa",
+            "url": "https://mariyaaa.itch.io"
+          },
+          {
+            "name": "bzzanya",
+            "url": "https://bzzanya.itch.io"
+          },
+          {
+            "name": "Nikolat",
+            "url": "https://nikolat.itch.io"
+          },
+          {
+            "name": "stLobster",
+            "url": "https://stlobster.itch.io"
+          },
+          {
+            "name": "PshiCon",
+            "url": "https://pshicon.itch.io"
+          },
+          {
+            "name": "dstmttrs",
+            "url": "https://dstmttrs.itch.io"
+          }
+        ],
+        "game": {
+          "user": {
+            "name": "artorad",
+            "url": "https://mentisfaber.itch.io",
+            "id": 8877746
+          },
+          "url": "https://mentisfaber.itch.io/hellustration",
+          "cover": "https://img.itch.zone/aW1nLzE4NzY3Nzk0LnBuZw==/300x240%23c/cutFyP.png",
+          "id": 3135983,
+          "title": "Hellustration",
+          "cover_color": "#dacdcd"
+        },
+        "url": "/jam/game-off-2024/rate/3135983"
+      },
+      "details": {
+        "title": "Hellustration",
+        "description": "\n\nThis is a game about a girl trapped in a hellish hotel . As the protagonist gets closer to the exit, she must face increasingly dark and horrifying demons that she needs to defeat to escape.\n\n\n\n The goal is to find items that will help build a trap for the demons inhabiting the hotel floors. Reveal the secret of each demon to defeat it.\nHide from demons\n\n\nSearch for clues\n.\nFind items to assemble the trap \n\n\nUnique art style depicting a dark  world\n  \n  Immersive horror amplified by      tension-building sound design and demon hunting mechanics\n  Strategic gameplay combining      item search, environment interaction, and trap crafting\n  \nDemo features one haunted hotel      floor showcasing core mechanics and atmosphere\n\nTEAM:\nGame Designer/Team Lead:\n  Andrey Boronnikov\nNarrative Designer/Vision Holder\nElena Kudelina\nUnity Developers:\n  Artur Sadreev\n  Fedor Zavidia\n2D Artists:\n  Sofia Voronina( Art lead)Anastasia MoskovskikhSergey Haritoshkin\n 2D Animations:\nViktor Maximets\nAnton Sergeev\nSound Designer/Composer\n\nAndrei Gorshkov\n\nCinematographer:\nDavid Bukia\n\nSMM \nAnna Birukova\nWith participation from:\n  Nikita Egorov\nMaria PopovaAnna Belimovich\n\nSpecial thanks to:\n  Georgy Sergeev (2D Animations)- without whose support this      project would not be possible\n Anna Birukova",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzEzNTk4My8xODc4MDUxMS5wbmc=/original/4L32xS.png",
+          "https://img.itch.zone/aW1hZ2UvMzEzNTk4My8xODc4MDUxMi5wbmc=/original/Yxk2Kp.png",
+          "https://img.itch.zone/aW1hZ2UvMzEzNTk4My8xODc4MDUxMy5wbmc=/original/mKOHNY.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Authors": "artorad, AlenaKudelina, Mariyaaa, bzzanya, Nikolat, stLobster, PshiCon, dstmttrs",
+          "Genre": "Survival",
+          "Tags": "2D, Atmospheric, gamebox, githubgameoff, Horror, Indie, secrets, Singleplayer, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 3139057,
+      "gameUrl": "https://delphin-casado.itch.io/where-dogs-taste-like-flowers",
+      "overallRank": 15,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE4NzgxMDY3LmpwZw==/300x240%23c/44KVyr.jpg",
+        "id": 3139057,
+        "title": "Where Dogs Taste Like Flowers",
+        "raw_score": 4.1538461538462,
+        "contributors": [
+          {
+            "name": "Delphin Casado",
+            "id": 1998116
+          }
+        ],
+        "score": 4.1538461538462,
+        "url": "https://itch.io/jam/game-off-2024/rate/3139057",
+        "rank": 15,
+        "rating_count": 52,
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 4.1538461538462,
+            "rank": 15,
+            "score": 4.1538461538462
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.6346153846154,
+            "rank": 44,
+            "score": 3.6346153846154
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.6153846153846,
+            "rank": 9,
+            "score": 4.6153846153846
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.9038461538462,
+            "rank": 36,
+            "score": 3.9038461538462
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.3846153846154,
+            "rank": 87,
+            "score": 3.3846153846154
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 4.0384615384615,
+            "rank": 31,
+            "score": 4.0384615384615
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 52,
+        "coolness": 25,
+        "id": 629496,
+        "created_at": "2024-11-30 13:02:20",
+        "game": {
+          "title": "Where Dogs Taste Like Flowers",
+          "short_text": "Escape the abandoned school in this short exploration game. At what price will you uncover the secrets of the town?",
+          "user": {
+            "name": "Delphin Casado",
+            "url": "https://delphin-casado.itch.io",
+            "id": 1998116
+          },
+          "url": "https://delphin-casado.itch.io/where-dogs-taste-like-flowers",
+          "cover": "https://img.itch.zone/aW1nLzE4NzgxMDY3LmpwZw==/300x240%23c/44KVyr.jpg",
+          "id": 3139057,
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "cover_color": "#190f13"
+        },
+        "url": "/jam/game-off-2024/rate/3139057"
+      },
+      "details": {
+        "title": "Where Dogs Taste Like Flowers",
+        "description": "Escape the abandoned school in this short exploration game. At what price will you uncover the secrets of the town?\nFor a smoother and better experience, try the downloadable versions below!\n\nABOUTAll art, writing, music, and dev by Delphin Casado.\n \nThis is a jam game, made for Game Off 2024.\nSome \"Creative Commons 0\" sounds effects were used, thanks to the kind users of freesound and mixkit. \nSpecial thanks to Clement, Michael, Yann & Fanny for testing and feedbacks!\n\nHere's the link to the source code",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzEzOTA1Ny8xODc4MDA0Ni5wbmc=/original/XkRx0o.png",
+          "https://img.itch.zone/aW1hZ2UvMzEzOTA1Ny8xODc4MDA0Ny5wbmc=/original/CTtEbV.png",
+          "https://img.itch.zone/aW1hZ2UvMzEzOTA1Ny8xODc4MDA1MS5wbmc=/original/egj6Kf.png",
+          "https://img.itch.zone/aW1hZ2UvMzEzOTA1Ny8xODc4MDA0OS5wbmc=/original/t%2FzmoA.png",
+          "https://img.itch.zone/aW1hZ2UvMzEzOTA1Ny8xODc4MDA1Mi5wbmc=/original/WSRenG.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 4.9 out of 5 stars(16 total ratings)",
+          "Author": "Delphin Casado",
+          "Genre": "Adventure, Survival",
+          "Made with": "Ren'Py",
+          "Tags": "2D, Atmospheric, Creepy, Hand-drawn, Multiple Endings, Mystery, Narrative, Point & Click, Short"
+        }
+      }
+    },
+    {
+      "gameId": 3098991,
+      "gameUrl": "https://sunspoken.itch.io/nocturne",
+      "overallRank": 20,
+      "topCategories": [
+        "Graphics",
+        "Theme interpretation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE4NzkxNjM5LnBuZw==/300x240%23c/%2FXG9Rb.png",
+        "id": 3098991,
+        "title": "Nocturne",
+        "raw_score": 4.1111111111111,
+        "contributors": [
+          {
+            "name": "Sunspoken",
+            "id": 12014827
+          },
+          {
+            "name": "mildmore",
+            "id": 11832028
+          },
+          {
+            "name": "hyohyohyo",
+            "id": 11528377
+          },
+          {
+            "name": "liminalbeams",
+            "id": 11158855
+          }
+        ],
+        "score": 4.1111111111111,
+        "url": "https://itch.io/jam/game-off-2024/rate/3098991",
+        "rank": 20,
+        "rating_count": 18,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.7777777777778,
+            "rank": 31,
+            "score": 3.7777777777778
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.6111111111111,
+            "rank": 10,
+            "score": 4.6111111111111
+          },
+          {
+            "name": "Overall",
+            "raw_score": 4.1111111111111,
+            "rank": 20,
+            "score": 4.1111111111111
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.6111111111111,
+            "rank": 46,
+            "score": 3.6111111111111
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 4.3333333333333,
+            "rank": 6,
+            "score": 4.3333333333333
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.0555555555556,
+            "rank": 20,
+            "score": 4.0555555555556
+          }
+        ]
+      },
+      "entryData": {
+        "id": 630113,
+        "game": {
+          "title": "Nocturne",
+          "short_text": "Manage the night shift at a cyberpunk hotel where secret agents and unsuspecting guests collide.",
+          "user": {
+            "name": "Sunspoken",
+            "url": "https://sunspoken.itch.io",
+            "id": 12014827
+          },
+          "url": "https://sunspoken.itch.io/nocturne",
+          "cover": "https://img.itch.zone/aW1nLzE4NzkxNjM5LnBuZw==/300x240%23c/%2FXG9Rb.png",
+          "id": 3098991,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#04131a"
+        },
+        "rating_count": 18,
+        "coolness": 7,
+        "created_at": "2024-12-01 10:19:18",
+        "contributors": [
+          {
+            "name": "Sunspoken",
+            "url": "https://sunspoken.itch.io"
+          },
+          {
+            "name": "mildmore",
+            "url": "https://mildmore.itch.io"
+          },
+          {
+            "name": "hyohyohyo",
+            "url": "https://hyohyohyo.itch.io"
+          },
+          {
+            "name": "liminalbeams",
+            "url": "https://liminalbeams.itch.io"
+          }
+        ],
+        "field_responses": [
+          "32569:1"
+        ],
+        "url": "/jam/game-off-2024/rate/3098991"
+      },
+      "details": {
+        "title": "Nocturne",
+        "description": "\nNocturne is a narrative-driven puzzle game where you play as a receptionist in a cyberpunk hotel lobby. It might seem like an ordinary hotel, but Nocturne hides a secret in plain sight—it serves as a sanctuary for secret agents.\n\nEach day, visitors arrive with stories to tell, and it’s up to you to decide whether they are on a mission, simply passing through, or perhaps lying to take you down. Failure is not an option—stay sharp and deduce everything carefully.\n----------\nGameplay Highlights:\n👥 Engaging Interactions: \nMeet a bunch of visitors with distinct personalities. Analyze their dialogue, appearance, and documents to find clues that match the day's code.\n🕵️‍♂️ Agent Identification:\nTo confirm someone as an agent, ensure all parts of the code are revealed through their dialogue or documents or any other means. Partial matches won’t cut it!\n🏨 High-Stakes Decisions:\nChoose carefully—assign visitors either a standard room card or an agent-exclusive card based on your deductions. One wrong move could lead to something you don't want to know.\n🌆 Atmospheric Immersion:\nDive into a detailed cyberpunk hotel setting, complete with neon-lit aesthetics, gritty interiors, and a moody soundtrack.\n🔑 Multiple EndingsUnravel the story through multiple endings, including a secret one. Can you find it?\n----------\nPlaying Notes:\nThis game is optimized to be played in desktop browser.\n----------\nAbout Us:\nNocturne is brought to you by Sunspoken Studio, a small indie game team with a passion for creating immersive experience.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzA5ODk5MS8xODgwMjkwOS5wbmc=/original/TGku78.png",
+          "https://img.itch.zone/aW1hZ2UvMzA5ODk5MS8xODgwMjkwOC5wbmc=/original/jnl50e.png",
+          "https://img.itch.zone/aW1hZ2UvMzA5ODk5MS8xODgwMjkxMC5wbmc=/original/8PfDLS.png",
+          "https://img.itch.zone/aW1hZ2UvMzA5ODk5MS8xODgwMjkxMS5wbmc=/original/6OpHeR.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Authors": "Sunspoken, mildmore, hyohyohyo, liminalbeams",
+          "Genre": "Simulation, Visual Novel",
+          "Made with": "Unity",
+          "Tags": "Multiple Endings"
+        }
+      }
+    },
+    {
+      "gameId": 3138854,
+      "gameUrl": "https://grumelkeks.itch.io/trail-of-secrets",
+      "overallRank": 1,
+      "topCategories": [
+        "Overall",
+        "Theme interpretation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE4NzYzNDgxLnBuZw==/300x240%23c/zQDC25.png",
+        "id": 3138854,
+        "title": "Trail of Secrets",
+        "raw_score": 4.4313725490196,
+        "contributors": [
+          {
+            "name": "Grumelkeks",
+            "id": 9057981
+          },
+          {
+            "name": "Tobinotron",
+            "id": 9076032
+          }
+        ],
+        "score": 4.4313725490196,
+        "url": "https://itch.io/jam/game-off-2024/rate/3138854",
+        "rank": 1,
+        "rating_count": 51,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 4.078431372549,
+            "rank": 13,
+            "score": 4.078431372549
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.0392156862745,
+            "rank": 58,
+            "score": 4.0392156862745
+          },
+          {
+            "name": "Overall",
+            "raw_score": 4.4313725490196,
+            "rank": 1,
+            "score": 4.4313725490196
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 4.6078431372549,
+            "rank": 1,
+            "score": 4.6078431372549
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.9411764705882,
+            "rank": 31,
+            "score": 3.9411764705882
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.8823529411765,
+            "rank": 21,
+            "score": 3.8823529411765
+          }
+        ]
+      },
+      "entryData": {
+        "id": 629799,
+        "rating_count": 51,
+        "coolness": 2,
+        "created_at": "2024-11-30 22:24:28",
+        "contributors": [
+          {
+            "name": "Grumelkeks",
+            "url": "https://grumelkeks.itch.io"
+          },
+          {
+            "name": "Tobinotron",
+            "url": "https://tobinotron.itch.io"
+          }
+        ],
+        "game": {
+          "title": "Trail of Secrets",
+          "short_text": "​A looping 2D platformer where every run reveals hidden paths and secret endings.",
+          "user": {
+            "name": "Grumelkeks",
+            "url": "https://grumelkeks.itch.io",
+            "id": 9057981
+          },
+          "url": "https://grumelkeks.itch.io/trail-of-secrets",
+          "cover": "https://img.itch.zone/aW1nLzE4NzYzNDgxLnBuZw==/300x240%23c/zQDC25.png",
+          "id": 3138854,
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#09090a"
+        },
+        "url": "/jam/game-off-2024/rate/3138854"
+      },
+      "details": {
+        "title": "Trail of Secrets",
+        "description": "Not everything is as it seems...\nA looping 2D platformer where every run reveals hidden paths and secret endings. Explore, experiment, and uncover the mysteries hidden in the layers of a whimsical world.\nControls\nMouse:\n- [A] & [D] to move\n- [Space] to jump\n- [TAB] to show progress\nCan you uncover all secrets?\n12 secret ways to end the level are just waiting to be found. Can you find them all?\nCredits:\nGrumelkeks - Coding & Art\nTobinotron - Art, Music, Coding & SFX\nSFX - https://pixabay.com/\nThis game was made for the Game-Off 2024 with Theme Secrets \n    ",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzEzODg1NC8xODgxMjUzNS5wbmc=/original/f0KujE.png",
+          "https://img.itch.zone/aW1hZ2UvMzEzODg1NC8xODgxMjc5My5wbmc=/original/M46hGf.png",
+          "https://img.itch.zone/aW1hZ2UvMzEzODg1NC8xODgxMjkxMi5wbmc=/original/vYU089.png",
+          "https://img.itch.zone/aW1hZ2UvMzEzODg1NC8xODgxMzQ2OC5wbmc=/original/HQ8yTd.png",
+          "https://img.itch.zone/aW1hZ2UvMzEzODg1NC8xODgxMzMzNi5wbmc=/original/gSr%2Bld.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.6 out of 5 stars(14 total ratings)",
+          "Authors": "Grumelkeks, Tobinotron",
+          "Genre": "Adventure, Platformer",
+          "Made with": "Aseprite, Godot",
+          "Tags": "2D, Pixel Art, secrets",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Xbox controller"
+        }
+      }
+    },
+    {
+      "gameId": 3140757,
+      "gameUrl": "https://furren-rain.itch.io/aurora",
+      "overallRank": 3,
+      "topCategories": [
+        "Overall",
+        "Theme interpretation",
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE4NzYzOTkwLmpwZw==/300x240%23c/nE%2Bqvb.jpg",
+        "id": 3140757,
+        "title": "Aurora",
+        "raw_score": 4.3333333333333,
+        "contributors": [
+          {
+            "name": "Furren_rain",
+            "id": 12150180
+          },
+          {
+            "name": "setradate",
+            "id": 8450370
+          },
+          {
+            "name": "Evtanaziya",
+            "id": 8468868
+          },
+          {
+            "name": "Inna Shinkareva",
+            "id": 11795575
+          },
+          {
+            "name": "Nadzeya \"Fumuse\" Shenfeld",
+            "id": 5091824
+          },
+          {
+            "name": "Mylasta",
+            "id": 5841155
+          },
+          {
+            "name": "Juliett1991",
+            "id": 12189345
+          }
+        ],
+        "score": 4.3333333333333,
+        "url": "https://itch.io/jam/game-off-2024/rate/3140757",
+        "rank": 3,
+        "rating_count": 18,
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 4.3333333333333,
+            "rank": 3,
+            "score": 4.3333333333333
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.5,
+            "rank": 15,
+            "score": 4.5
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 4,
+            "rank": 15,
+            "score": 4
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.2222222222222,
+            "rank": 10,
+            "score": 4.2222222222222
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.6666666666667,
+            "rank": 38,
+            "score": 3.6666666666667
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 4.2777777777778,
+            "rank": 10,
+            "score": 4.2777777777778
+          }
+        ]
+      },
+      "entryData": {
+        "id": 630308,
+        "rating_count": 18,
+        "coolness": 6,
+        "created_at": "2024-12-01 15:05:50",
+        "contributors": [
+          {
+            "name": "Furren_rain",
+            "url": "https://furren-rain.itch.io"
+          },
+          {
+            "name": "setradate",
+            "url": "https://setradate.itch.io"
+          },
+          {
+            "name": "Evtanaziya",
+            "url": "https://evtanaziya.itch.io"
+          },
+          {
+            "name": "Inna Shinkareva",
+            "url": "https://grechkaart.itch.io"
+          },
+          {
+            "name": "Nadzeya \"Fumuse\" Shenfeld",
+            "url": "https://fumuse.itch.io"
+          },
+          {
+            "name": "Mylasta",
+            "url": "https://mylasta.itch.io"
+          },
+          {
+            "name": "Juliett1991",
+            "url": "https://juliett1991.itch.io"
+          }
+        ],
+        "game": {
+          "title": "Aurora",
+          "short_text": "Short horror reflection about relationship with granny.",
+          "user": {
+            "name": "Furren_rain",
+            "url": "https://furren-rain.itch.io",
+            "id": 12150180
+          },
+          "url": "https://furren-rain.itch.io/aurora",
+          "cover": "https://img.itch.zone/aW1nLzE4NzYzOTkwLmpwZw==/300x240%23c/nE%2Bqvb.jpg",
+          "id": 3140757,
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#000000"
+        },
+        "url": "/jam/game-off-2024/rate/3140757"
+      },
+      "details": {
+        "title": "Aurora",
+        "description": "Hi Friend, \nWe are pleased to present you our game project. It's a short spooky self-reflection regarding relationship with relatives and difficulties of maintaining contact with them. \nPlot\nAurora travels to the village to visit her grandmother. They used to be very close, but Aurora hasn't visited her grandmother in several years. Upon arriving at the house, Aurora discovers that her grandmother passed away a few days before she arrived. Missing her granddaughter and deprived of a final conversation, the grandmother's spirit couldn't rest. The house, absorbing its mistress's resentment, anger, and sadness, also changed. Aurora must either escape the cursed house or brave a final conversation with her grandmother.\nConception\nIn this game, you will need to explore the house within a limited amount of time, using a flashlight or adjusting your eyes to the darkness.  Not all items will be available immediately, and each significant interaction will consume your time. Some of your actions may upset the ghosts in the house, so think carefully before acting.\nControls\nUse the left mouse button to move and interact with objects.Use the right mouse button to turn the flashlight on/off.\nOur team\nIgor Shapovalov - game designerTrisha Skarzgard - 2D artistInna Shinkareva - 2D artistLyudmila Bryzgalova - 2D artistYuliya Shchigareva - narrative designerVitaly Fesov - developerNadzeya Shenfeld - developerHelena Borka - video editorAlena Goncharenko - mentor",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzE0MDc1Ny8xODkwMzM2NC5qcGc=/original/yU3IT%2F.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzE0MDc1Ny8xODc2NDAwMS5qcGc=/original/hCn%2FFy.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzE0MDc1Ny8xODc2Mzk5OS5qcGc=/original/Y0Ej9n.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzE0MDc1Ny8xODc2NDAwMC5qcGc=/original/wNZwq3.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzE0MDc1Ny8xODkwMzM2Mi5qcGc=/original/fo5cNg.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.3 out of 5 stars(3 total ratings)",
+          "Authors": "Furren_rain, setradate, Evtanaziya, Inna Shinkareva, Nadzeya \"Fumuse\" Shenfeld, Mylasta, Juliett1991",
+          "Genre": "Interactive Fiction",
+          "Tags": "2D, Horror",
+          "Average session": "About a half-hour",
+          "Languages": "English, Russian"
+        }
+      }
+    },
+    {
+      "gameId": 3097561,
+      "gameUrl": "https://dutchlish.itch.io/secret-scoffer",
+      "overallRank": 6,
+      "topCategories": [
+        "Overall"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE4Nzk3MDc0LmpwZw==/300x240%23c/Tlb9%2Ba.jpg",
+        "id": 3097561,
+        "title": "The Secret Scoffer of Saffron Walden",
+        "raw_score": 4.3076923076923,
+        "contributors": [
+          {
+            "name": "dutchlish",
+            "id": 1795050
+          }
+        ],
+        "score": 4.3076923076923,
+        "url": "https://itch.io/jam/game-off-2024/rate/3097561",
+        "rank": 6,
+        "rating_count": 13,
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 4.3076923076923,
+            "rank": 6,
+            "score": 4.3076923076923
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.6153846153846,
+            "rank": 120,
+            "score": 3.6153846153846
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 4,
+            "rank": 15,
+            "score": 4
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 3.6153846153846,
+            "rank": 90,
+            "score": 3.6153846153846
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.6153846153846,
+            "rank": 63,
+            "score": 3.6153846153846
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 4.0769230769231,
+            "rank": 11,
+            "score": 4.0769230769231
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 13,
+        "coolness": 15,
+        "id": 629647,
+        "created_at": "2024-11-30 19:10:51",
+        "game": {
+          "title": "The Secret Scoffer of Saffron Walden",
+          "short_text": "Competitive eating sim/shooter",
+          "user": {
+            "name": "dutchlish",
+            "url": "https://dutchlish.itch.io",
+            "id": 1795050
+          },
+          "url": "https://dutchlish.itch.io/secret-scoffer",
+          "cover": "https://img.itch.zone/aW1nLzE4Nzk3MDc0LmpwZw==/300x240%23c/Tlb9%2Ba.jpg",
+          "id": 3097561,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#5bae11"
+        },
+        "url": "/jam/game-off-2024/rate/3097561"
+      },
+      "details": {
+        "title": "The Secret Scoffer of Saffron Walden",
+        "description": "(WebGL runs fine but may take around 20 seconds to load)\n2002, SAFFRON WALDEN, ESSEX, ENGLAND\nYou have lost your job. You can't tell Doris, your Disnae-obsessed, ex-wrestler wife, as she wants you to take her to Disnae land and insists you have a steady job to save for the trip. \nLuckily for you, you love scoffing, and Saffron Walden has become a culinary theme park, with food challenges all over the place offering CASH PRIZES to scoff down food as fast as you can. \nBeats working. So what are you waiting for? Get scoffing! Just don't tell Doris. Yet.\nMade in one month for the Github GameOff 2024.\n1 known minor issue: It is unlikely but possible to complete the walkies and then be killed if this happens at the same moment. This will load the scene outside the house but the completion of the walkies will be registered and you can proceed as  normal.\nCredits:\nProgramming, art, game design, some voices and one piece of music - Mike Bailey\nOther voices - Elevenlabs and Hulk Hogan.\nAll sounds from freesound.org under creative commons license.\nMusic:\nHome theme - https://freesound.org/people/Mrthenoronha/sounds/513667/\nSaffron Walden theme - https://freesound.org/people/Victor_Natas/sounds/627104/\nMavis theme - https://freesound.org/people/yummie/sounds/410574/\nHotdog theme - https://freesound.org/people/AudioCoffee/sounds/723829/\nSally theme - https://freesound.org/people/BloodPixelHero/sounds/667375/\nNachos theme  - https://freesound.org/people/deleted_user_9455283/sounds/541645/\nDe-li-lah-lah-lah-lah theme - https://freesound.org/people/Setuniman/sounds/474405/\nCorn theme - https://freesound.org/people/GregorQuendel/sounds/725325/\nUnstoppable fax machine theme - https://freesound.org/people/josefpres/sounds/567895/\nPizza theme - https://freesound.org/people/GregorQuendel/sounds/710027/\nHellcrusher Kathy theme - https://freesound.org/people/Victor_Natas/sounds/614016/\nChilli theme -https://freesound.org/people/djskevenelis/sounds/458595/\nThe wind theme - https://freesound.org/people/RokZRooM/sounds/573903/\nSushi theme - https://freesound.org/people/Universfield/sounds/761766/\nBard theme - https://freesound.org/people/The_Ramdom_Cheese/sounds/742565/\nFinale theme - https://freesound.org/people/SergeQuadrado/sounds/701152/",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzA5NzU2MS8xODgwODY3My5wbmc=/original/YDYG2u.png",
+          "https://img.itch.zone/aW1hZ2UvMzA5NzU2MS8xODgwODY2MC5wbmc=/original/S%2FuXU0.png",
+          "https://img.itch.zone/aW1hZ2UvMzA5NzU2MS8xODc5ODMyNS5wbmc=/original/sGwskp.png",
+          "https://img.itch.zone/aW1hZ2UvMzA5NzU2MS8xODgwODY0MC5wbmc=/original/5Y4Zzn.png",
+          "https://img.itch.zone/aW1hZ2UvMzA5NzU2MS8xODc5ODMyOS5wbmc=/original/ZJFaFI.png",
+          "https://img.itch.zone/aW1hZ2UvMzA5NzU2MS8xODc5ODMyMS5wbmc=/original/o1apzY.png",
+          "https://img.itch.zone/aW1hZ2UvMzA5NzU2MS8xODc5NjQwNC5wbmc=/original/KeAZRl.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "dutchlish",
+          "Genre": "Action",
+          "Made with": "Unity",
+          "Tags": "Comedy, Surreal, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 3149163,
+      "gameUrl": "https://conorwilson.itch.io/the-search-for-the-secret-sapphire",
+      "overallRank": 10,
+      "topCategories": [
+        "Overall",
+        "Theme interpretation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIyMzg0MDQzLmdpZg==/300x240%23c/TtPqXr.gif",
+        "id": 3149163,
+        "title": "The Search for the Secret Sapphire",
+        "raw_score": 4.2682926829268,
+        "contributors": [
+          {
+            "name": "Conor Wilson",
+            "id": 10446754
+          }
+        ],
+        "score": 4.2682926829268,
+        "url": "https://itch.io/jam/game-off-2024/rate/3149163",
+        "rank": 10,
+        "rating_count": 41,
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 4.2682926829268,
+            "rank": 10,
+            "score": 4.2682926829268
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.9756097560976,
+            "rank": 64,
+            "score": 3.9756097560976
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 4.0243902439024,
+            "rank": 14,
+            "score": 4.0243902439024
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 4.5609756097561,
+            "rank": 3,
+            "score": 4.5609756097561
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.8536585365854,
+            "rank": 41,
+            "score": 3.8536585365854
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 4.0243902439024,
+            "rank": 13,
+            "score": 4.0243902439024
+          }
+        ]
+      },
+      "entryData": {
+        "id": 630580,
+        "rating_count": 41,
+        "coolness": 69,
+        "game": {
+          "url": "https://conorwilson.itch.io/the-search-for-the-secret-sapphire",
+          "cover_color": "#555555",
+          "gif_cover": "https://img.itch.zone/aW1nLzIyMzg0MDQzLmdpZg==/original/MgUZFH.gif",
+          "user": {
+            "name": "Conor Wilson",
+            "url": "https://conorwilson.itch.io",
+            "id": 10446754
+          },
+          "cover": "https://img.itch.zone/aW1nLzIyMzg0MDQzLmdpZg==/300x240%23c/TtPqXr.gif",
+          "id": 3149163,
+          "title": "The Search for the Secret Sapphire",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "short_text": "An adventure-puzzle game about searching a mansion for a jewel. There is definitely nothing else going on in this game."
+        },
+        "created_at": "2024-12-01 19:22:47",
+        "field_responses": [
+          "32569:2"
+        ],
+        "url": "/jam/game-off-2024/rate/3149163"
+      },
+      "details": {
+        "title": "The Search for the Secret Sapphire",
+        "description": "A point-and-click adventure puzzle game... with a twist...\nLost in a  haunted mansion without a hope of escape, the only way out is in. Will  you find the Secret Sapphire and cure the curse?  DEV'S NOTE: This assumes that you are able to  start the game. If the start-button breaks, the HELP BOT should be able  to assist you. That shouldn't happen though. Probably.\n\n    SPOILER\nThe point-and-click adventure actually takes place inside of the menu of \"The Search for the Secret Sapphire\". Your goal is to fix the start button and finally get to play the game :)\n\nPuzzle Hints\nIf you're struggling with some of the puzzles, here's a couple of hints to help you along :) \n\n    Username Puzzle Hint\nHave a look around the main menu screen, I'm sure I must have credited myself with my username somewhere there...\n\n\n    Password Puzzle Hint\nThere might be a useful TOOL in the menu somewhere that could help you find a clue for the password. Once you've found the clue, you might find some more information if you CLICK on everything, be it moving or STATIC. This puzzle could have been clearer, but I just spent so long looking at pictures of TURTLEs that I ran out of time...\n\n\n    S Puzzle Hint\nI've been working on another game called HammerMan. It's pretty basic, but something weird has happened, there's a character that showed up in the game that I didn't intend on being there... It's sort of shaped like a snake with legs??\n\n\n    T1 Puzzle Hint\nThat HammerMan sure has a knack for getting in places he was never intended to... he's even able to break the edges of my screen and run on top of the windows on my desktop! \n\n\n    A Puzzle Hint\nIf there's one thing I love more than turtles, it's memes about turtles. If only there was a way to help out the turtle in the meme on my desktop... Maybe some other program on my computer can give me something that will help? (Make sure that you help the meme turtle completely, as it will give you a tool that's required to solve a later puzzle)\n\n\n    R Puzzle Hint\nI wonder where that pesky letter R got to... You might need to start thinking outside of (or rather, on top of) the box for this one...\n\n\n    T2 Puzzle Hint\nI find the best tools can be found on the fringes of the game world. Tools like these really change your perspective and allow you to zoom out and see the bigger picture. You might even find something mysterious in the void. Luckily for me, I'm able to remember secrets like these by leaving hints for them on stickynotes. \n\n\n    Finale Puzzle Hint\nI'm afraid that you're at the mercy of the HELP BOT. They are immune to anything that is found within the game. Although... maybe there's something (or someone) from a DIFFERENT game that might be able to do some damage...\n\n\n    Secret Sapphire Puzzle Hint I like turtles...\nControls: \nInteract / Pick Up Item / Use Held Item: Left ClickDrop Held Item: Right ClickSkip Dialogue: Left Click / TabPan Camera: Middle-Mouse / Ctrl+Left ClickZoom Camera: Scroll Wheel / Ctrl+ & Ctrl-Return Home: EnterCheat Codes:  ↑  ↓ ← →Hammer Man: ↑  ↓ ← →  Spacebar\nTools Used: \nEngine: Godot\nGameplay Code: GDScript\nArt: Aseprite\nCredits: \nCode & Artwork: MeMusic:Detective Stories by FreeGrooveCreepy radio frequency by MixKitMystery Of The Investigation by PaoloArgentoSuspense e investigação - HipervigilRPG by descreveaiRPGVideo Game Boss Fiight by IHateTuesdaysHaunted Mansion by Beau-Tengu974Cinematic Cello Farewell by nickpanek Sound Effects: 200 Free SFX by Kronbits8-bit / 16-bit Sound Effects (x25) Pack by JDWasabiExplosion by morganpurkis (Freesound)Laser by Kronos1001 (Freesound)Metal Knock 2 by dster777 (Freesound)Button Press 2 by DRAGON-STUDIODoor Opening by Fletchpikepartyblower by u_a9w845fdm3Title Font: Font+ [Antiquity Print] by SciGhoOther Fonts: m6x11 by Daniel Linssen (aka managore)Wacky Joe by VEXEDFormal Future by VEXED\nThe original version of this was made in 30 days as my submission for the GitHub Game Off 2024: \"SECRETS\". It came 10th overall, and was featured as an \"Honorable Mention\" in GitHub's \"Game Off 2024 winners\" article :)\nLink to GitHub repo",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzE0OTE2My8xOTY1ODM3OS5naWY=/original/qP58yq.gif",
+          "https://img.itch.zone/aW1hZ2UvMzE0OTE2My8xOTY1ODMzNy5naWY=/original/VoQ53e.gif",
+          "https://img.itch.zone/aW1hZ2UvMzE0OTE2My8xOTY1ODM4MS5naWY=/original/XjVCMD.gif",
+          "https://img.itch.zone/aW1hZ2UvMzE0OTE2My8xOTY1ODM4Ni5naWY=/original/4EsUxQ.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(5 total ratings)",
+          "Author": "Conor Wilson",
+          "Genre": "Puzzle, Adventure",
+          "Made with": "Godot",
+          "Tags": "2D, Godot, meta, Mystery, Pixel Art, Point & Click, secrets, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 3149497,
+      "gameUrl": "https://avovocado.itch.io/mail-watcher",
+      "overallRank": 94,
+      "topCategories": [
+        "Theme interpretation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE4ODEzMTM3LnBuZw==/300x240%23c/uDBync.png",
+        "id": 3149497,
+        "title": "Mail Watcher",
+        "raw_score": 3.5714285714286,
+        "contributors": [
+          {
+            "name": "avovocado",
+            "id": 8954467
+          },
+          {
+            "name": "MikaGut",
+            "id": 5021446
+          }
+        ],
+        "score": 3.5714285714286,
+        "url": "https://itch.io/jam/game-off-2024/rate/3149497",
+        "rank": 94,
+        "rating_count": 7,
+        "criteria": [
+          {
+            "name": "Graphics",
+            "raw_score": 4.1428571428571,
+            "rank": 49,
+            "score": 4.1428571428571
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.5714285714286,
+            "rank": 51,
+            "score": 3.5714285714286
+          },
+          {
+            "name": "Overall",
+            "raw_score": 3.5714285714286,
+            "rank": 94,
+            "score": 3.5714285714286
+          },
+          {
+            "name": "Audio",
+            "raw_score": 2.8571428571429,
+            "rank": 211,
+            "score": 2.8571428571429
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 4.5714285714286,
+            "rank": 2,
+            "score": 4.5714285714286
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.5714285714286,
+            "rank": 54,
+            "score": 3.5714285714286
+          }
+        ]
+      },
+      "entryData": {
+        "id": 630695,
+        "rating_count": 7,
+        "coolness": 0,
+        "created_at": "2024-12-01 20:33:42",
+        "contributors": [
+          {
+            "name": "avovocado",
+            "url": "https://avovocado.itch.io"
+          },
+          {
+            "name": "MikaGut",
+            "url": "https://mikagutierrez.itch.io"
+          }
+        ],
+        "game": {
+          "title": "Mail Watcher",
+          "short_text": "You are assigned to look through the letters to find a place where people have been dissappearing to!",
+          "user": {
+            "name": "avovocado",
+            "url": "https://avovocado.itch.io",
+            "id": 8954467
+          },
+          "url": "https://avovocado.itch.io/mail-watcher",
+          "cover": "https://img.itch.zone/aW1nLzE4ODEzMTM3LnBuZw==/300x240%23c/uDBync.png",
+          "id": 3149497,
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#50332D"
+        },
+        "url": "/jam/game-off-2024/rate/3149497"
+      },
+      "details": {
+        "title": "Mail Watcher",
+        "description": "You are assigned to look through the letters to find a place where people have been dissappearing to!\n\nPlease DO read the in-game tutorial thoughtfully for the better gaming experience!\n\nEnglish is not our first language so the texts may be a bit weird to read. Sorry!\n\n[ We had to update a game file due to the: ]\n- several bug reports that had highly affected game completion\n- a really story-impactful typo in the Databook that we also had to fix\n\n[SPOILERS AHEAD]\n\nAdditional secrets you can find:\n\n- Try to locate Dickenson and tell his location to your boss\n\n- Try to call to the Ducky Company  (You never know when an add might suggest a real high quality item!)\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzE0OTQ5Ny8xODgxMzMwNS5wbmc=/original/wTUGhJ.png",
+          "https://img.itch.zone/aW1hZ2UvMzE0OTQ5Ny8xODgxMzMwNi5wbmc=/original/O0FVz4.png",
+          "https://img.itch.zone/aW1hZ2UvMzE0OTQ5Ny8xODgxMzMwNC5wbmc=/original/NW3ZSn.png",
+          "https://img.itch.zone/aW1hZ2UvMzE0OTQ5Ny8xODgxMzMwNy5wbmc=/original/LMbsj5.png",
+          "https://img.itch.zone/aW1hZ2UvMzE0OTQ5Ny8xODgxMzMwOC5qcGc=/original/Z4na%2Bj.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 3.2 out of 5 stars(5 total ratings)",
+          "Authors": "avovocado, MikaGut",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "Detective, Funny"
+        }
+      }
+    },
+    {
+      "gameId": 3087311,
+      "gameUrl": "https://crowfox-creatives.itch.io/ryans-drive",
+      "overallRank": 28,
+      "topCategories": [
+        "Theme interpretation",
+        "Innovation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE4ODEzMDkxLmpwZw==/300x240%23c/e9zzAf.jpg",
+        "id": 3087311,
+        "title": "Ryans Drive",
+        "raw_score": 4,
+        "contributors": [
+          {
+            "name": "CrowfoxCreatives",
+            "id": 10321084
+          }
+        ],
+        "score": 4,
+        "url": "https://itch.io/jam/game-off-2024/rate/3087311",
+        "rank": 28,
+        "rating_count": 12,
+        "criteria": [
+          {
+            "name": "Graphics",
+            "raw_score": 3.25,
+            "rank": 195,
+            "score": 3.25
+          },
+          {
+            "name": "Overall",
+            "raw_score": 4,
+            "rank": 28,
+            "score": 4
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 4,
+            "rank": 15,
+            "score": 4
+          },
+          {
+            "name": "Audio",
+            "raw_score": 2.3333333333333,
+            "rank": 289,
+            "score": 2.3333333333333
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 4.5,
+            "rank": 4,
+            "score": 4.5
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 4.1666666666667,
+            "rank": 4,
+            "score": 4.1666666666667
+          }
+        ]
+      },
+      "entryData": {
+        "id": 629374,
+        "rating_count": 12,
+        "coolness": 11,
+        "game": {
+          "title": "Ryans Drive",
+          "short_text": "A game dev's found hard drive",
+          "user": {
+            "name": "CrowfoxCreatives",
+            "url": "https://crowfox-creatives.itch.io",
+            "id": 10321084
+          },
+          "url": "https://crowfox-creatives.itch.io/ryans-drive",
+          "cover": "https://img.itch.zone/aW1nLzE4ODEzMDkxLmpwZw==/300x240%23c/e9zzAf.jpg",
+          "id": 3087311,
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#21002c"
+        },
+        "created_at": "2024-11-30 03:11:04",
+        "field_responses": [
+          "32569:1",
+          "32569:2",
+          "32569:3"
+        ],
+        "url": "/jam/game-off-2024/rate/3087311"
+      },
+      "details": {
+        "title": "Ryans Drive",
+        "description": "Made over a month for Game Off 2024\"So we found this hard drive, but we didn't get far looking through it. Maybe someone could be of help?\"\n\nPlease use Full Screen and increase the volume in the beginning (default might be too low)\n\nIf you don't want to spoil yourself, read this after playing:\n\n\n\n\n\n\n\n\n\n\n\n\n\nAll content was made or collected by us between the start and end of the jam. We hope you enjoy this game!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzA4NzMxMS8xODgxNDczMi5wbmc=/original/kun7i6.png"
+        ],
+        "moreInfo": {
+          "Status": "On hold",
+          "Platforms": "HTML5, Windows",
+          "Author": "CrowfoxCreatives",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "dialogue, Mental Health, No AI, Singleplayer, storygame, thinking, unique, Unity",
+          "Average session": "About a half-hour",
+          "Languages": "English"
+        }
+      }
+    },
+    {
+      "gameId": 3130378,
+      "gameUrl": "https://grubwall.itch.io/looking-glass",
+      "overallRank": 28,
+      "topCategories": [
+        "Theme interpretation",
+        "Innovation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE4NzA0MzY1LmpwZw==/300x240%23c/CiJr68.jpg",
+        "id": 3130378,
+        "title": "Looking Glass",
+        "raw_score": 4,
+        "contributors": [
+          {
+            "name": "grubwall",
+            "id": 6226735
+          }
+        ],
+        "score": 4,
+        "url": "https://itch.io/jam/game-off-2024/rate/3130378",
+        "rank": 28,
+        "rating_count": 8,
+        "criteria": [
+          {
+            "name": "Graphics",
+            "raw_score": 3.375,
+            "rank": 163,
+            "score": 3.375
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 2.875,
+            "rank": 196,
+            "score": 2.875
+          },
+          {
+            "name": "Overall",
+            "raw_score": 4,
+            "rank": 28,
+            "score": 4
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.5,
+            "rank": 72,
+            "score": 3.5
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 4.375,
+            "rank": 5,
+            "score": 4.375
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 4.125,
+            "rank": 6,
+            "score": 4.125
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 8,
+        "coolness": 9,
+        "id": 627708,
+        "created_at": "2024-11-25 01:27:11",
+        "game": {
+          "title": "Looking Glass",
+          "short_text": "Explore a corrupted hard drive",
+          "user": {
+            "name": "grubwall",
+            "url": "https://grubwall.itch.io",
+            "id": 6226735
+          },
+          "url": "https://grubwall.itch.io/looking-glass",
+          "cover": "https://img.itch.zone/aW1nLzE4NzA0MzY1LmpwZw==/300x240%23c/CiJr68.jpg",
+          "id": 3130378,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#000000"
+        },
+        "url": "/jam/game-off-2024/rate/3130378"
+      },
+      "details": {
+        "title": "Looking Glass",
+        "description": "Tumble down the rabbit hole of a corrupted hard drive. \nNOTE: The text is not encoded correctly when playing through the itch client. It is recommended to use an internet browser like Chrome or Edge.Made for the Game Off 2024 game jam.\nMade using the Jupiter Engine",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzEzMDM3OC8xODc5OTkxMS5wbmc=/original/3dAtDw.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "grubwall",
+          "Genre": "Interactive Fiction",
+          "Tags": "Horror, Sci-fi, Short",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 3148691,
+      "gameUrl": "https://diizz.itch.io/scalp",
+      "overallRank": 28,
+      "topCategories": [
+        "Theme interpretation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE4ODA5NTUwLmpwZw==/300x240%23c/D861YR.jpg",
+        "id": 3148691,
+        "title": "S.C.A.L.P.",
+        "raw_score": 4,
+        "contributors": [
+          {
+            "name": "DiiZz",
+            "id": 10079536
+          },
+          {
+            "name": "Valentin-Savinov",
+            "id": 4807511
+          },
+          {
+            "name": "Ksenia_Zavelitskaya",
+            "id": 12165126
+          },
+          {
+            "name": "Emory",
+            "id": 12164601
+          },
+          {
+            "name": "oskal.37",
+            "id": 10112139
+          },
+          {
+            "name": "Shamborkin",
+            "id": 11182409
+          },
+          {
+            "name": "yanamoshnina",
+            "id": 10363834
+          },
+          {
+            "name": "AnSer Games",
+            "id": 10079103
+          },
+          {
+            "name": "Vlad Astapenko",
+            "id": 11185789
+          }
+        ],
+        "score": 4,
+        "url": "https://itch.io/jam/game-off-2024/rate/3148691",
+        "rank": 28,
+        "rating_count": 12,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.9166666666667,
+            "rank": 23,
+            "score": 3.9166666666667
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.1666666666667,
+            "rank": 43,
+            "score": 4.1666666666667
+          },
+          {
+            "name": "Overall",
+            "raw_score": 4,
+            "rank": 28,
+            "score": 4
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 4.3333333333333,
+            "rank": 6,
+            "score": 4.3333333333333
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.5833333333333,
+            "rank": 50,
+            "score": 3.5833333333333
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.9166666666667,
+            "rank": 34,
+            "score": 3.9166666666667
+          }
+        ]
+      },
+      "entryData": {
+        "id": 630591,
+        "game": {
+          "title": "S.C.A.L.P.",
+          "short_text": "Can you unravel the secret of your origin?",
+          "user": {
+            "name": "DiiZz",
+            "url": "https://diizz.itch.io",
+            "id": 10079536
+          },
+          "url": "https://diizz.itch.io/scalp",
+          "cover": "https://img.itch.zone/aW1nLzE4ODA5NTUwLmpwZw==/300x240%23c/D861YR.jpg",
+          "id": 3148691,
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#000000"
+        },
+        "rating_count": 12,
+        "coolness": 5,
+        "created_at": "2024-12-01 19:30:40",
+        "contributors": [
+          {
+            "name": "DiiZz",
+            "url": "https://diizz.itch.io"
+          },
+          {
+            "name": "Valentin-Savinov",
+            "url": "https://valentin-savinov.itch.io"
+          },
+          {
+            "name": "Ksenia_Zavelitskaya",
+            "url": "https://ksenia-zavelitskaya.itch.io"
+          },
+          {
+            "name": "Emory",
+            "url": "https://emoryx.itch.io"
+          },
+          {
+            "name": "oskal.37",
+            "url": "https://oskal37.itch.io"
+          },
+          {
+            "name": "Shamborkin",
+            "url": "https://shamborkin.itch.io"
+          },
+          {
+            "name": "yanamoshnina",
+            "url": "https://yanamoshnina.itch.io"
+          },
+          {
+            "name": "AnSer Games",
+            "url": "https://ansergames.itch.io"
+          },
+          {
+            "name": "Vlad Astapenko",
+            "url": "https://vlad-astapenko.itch.io"
+          }
+        ],
+        "field_responses": [
+          "32569:1"
+        ],
+        "url": "/jam/game-off-2024/rate/3148691"
+      },
+      "details": {
+        "title": "S.C.A.L.P.",
+        "description": "Background:\nIn the early 1980s, a group of scientists, medical researchers, and entrepreneurs joined forces to create an ambitious initiative — S.C.A.L.P. Lab (Scientific Center for Advanced Lifeform Projects). They aimed to unlock the mysteries of life and improve human health, but from the very beginning, their methods raised numerous questions. Their ambitious goal was to create new forms of life. However, over time, their pursuit of progress began to cross ethical lines.\nGameplay:\nYou have escaped from your chamber, but... who are you? Your goal is to reach the exit of your current location without getting caught by the guards armed with electroshock batons, while picking the right keys for the necessary doors and simultaneously collecting as many secret documents as possible that will help you piece together both your past and the past of the lab.\n\n\nUSP:\n• Procedural generation: Experience a sense of uncertainty with each playthrough, as the layout of all rooms and corridors will differ from the previous attempt.\n• Mystery of origin: To uncover the character's backstory and, most importantly, its appearance, you will need to reach the end of the level while collecting items to explore everything in the archive.\n• Visual style: The limitation on the number of colors used allows for the creation of a dark atmosphere while also highlighting important areas for the player where these colors do appear.\nControl:\nWASD – movement\nSPACE – jump\nSHIFT + WASD – run\nCTRL + WASD – crouch\nE/MMB– interact/pick up items \nF/LMB – throw item \nQ/RMB – put down item\nTeam:\nValentin Savinov – Mentor\nNikita Chumak – Game Designer\nAlina Karavaeva– Unity Developer\nAndrey Spirin – Unity Developer\nKseniya Zavelitskaya – 3D Artist\nSaveliy Kislyakov – 3D Artist\nOleg Shamborkin – 2D Artist\nVladislav Astapenko – Narrative Designer\nYana Moshnina – Motion Designer//// RU RU ////\nПредыстория:\nВ начале 1980-х годов группа ученых, медицинских исследователей и предпринимателей объединила свои усилия для создания амбициозной инициативы — S.C.A.L.P. Lab (Scientific Center for Advanced Lifeform Projects). Они стремились раскрыть тайны жизни и улучшить здоровье человечества, но с самого начала их методы вызывали множество вопросов. Их амбициозная цель заключалась в создании новых форм жизни. Однако со временем их стремление к прогрессу начало переходить границы этики.\nГеймплей:\nВы выбрались на свободу из своей колбы, но... кто вы? Ваша цель: не попавшись в руки охранников, вооружённых электрошокерами, добраться до выхода из текущей локации, подбирая правильные ключи к нужным дверям и параллельно собирая как можно больше секретных документов, которые позволят вам собрать картину как своего прошлого, так и прошлого лаборатории.\nUSP:\nПроцедурная генерация: испытай чувство неопределённости при каждом запуске, ведь расположение всех комнат и коридоров будет отличаться от предыдущей попытки.\nТайна происхождения: для того, чтобы узнать историю персонажа и, главное, его внешний вид, придётся, собирая коллекционные предметы, дойти до конца уровня, чтобы изучить всё в архиве.\nВизуальный стиль: ограничение в количестве используемых цветов позволяет как создать мрачную атмосферу, так и выделить для игрока важные области, где эти цвета всё же имеются.\nУправление:\nWASD – движение\nSPACE – прыжок\nSHIFT + WASD – бег\nCTRL + WASD – красться\nE\\СКМ – взаимодействие\\подбор предметов\nF\\ЛКМ – бросить предмет\nQ\\ПКМ – положить предмет\nКоманда:\nВалентин Савинов – Наставник\nНикита Чумак – Game Designer\nАлина Караваева – Unity Developer\nАндрей Спирин – Unity Developer\nКсения Завелитская – 3D Artist\nСавелий Кисляков – 3D Artist\nОлег Шамборкин – 2D Artist\nВладислав Астапенко – Narrative Designer\nЯна Мошнина – Motion DesignerDownload, unzip, run the executable exe file.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzE0ODY5MS8xODg1OTg2Ny5qcGc=/original/P1N5Tv.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzE0ODY5MS8xODgwODY2OS5wbmc=/original/y0tNRB.png",
+          "https://img.itch.zone/aW1hZ2UvMzE0ODY5MS8xODgwODY2OC5wbmc=/original/ODbELt.png",
+          "https://img.itch.zone/aW1hZ2UvMzE0ODY5MS8xODg1OTg0Mi5qcGc=/original/bVMlQP.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzE0ODY5MS8xODg1OTg0MC5qcGc=/original/addlOX.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzE0ODY5MS8xODg1OTgzOS5qcGc=/original/uXUexK.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzE0ODY5MS8xODg1OTg0MS5qcGc=/original/wyjxry.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzE0ODY5MS8xODg0NTM3NS5qcGc=/original/lSn5LF.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzE0ODY5MS8xODg1OTg2MC5qcGc=/original/rU%2Bgob.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzE0ODY5MS8xODg1OTg3Ni5qcGc=/original/6GqSow.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzE0ODY5MS8xODg1OTg3Ny5qcGc=/original/ezKoyA.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "DiiZz, Valentin-Savinov, Ksenia_Zavelitskaya, Emory, oskal.37, Shamborkin, yanamoshnina, AnSer Games, Vlad Astapenko",
+          "Genre": "Survival",
+          "Tags": "3D, dark-atmosphere, Exploration, First-Person, Horror, Indie, Procedural Generation, secrets, Stealth"
+        }
+      }
+    },
+    {
+      "gameId": 3100159,
+      "gameUrl": "https://avacadjoe.itch.io/the-meadows",
+      "overallRank": 109,
+      "topCategories": [
+        "Theme interpretation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE4NzQ3NzM0LnBuZw==/300x240%23c/si79VE.png",
+        "id": 3100159,
+        "title": "The Meadows",
+        "raw_score": 3.5,
+        "contributors": [
+          {
+            "name": "AvacadJoe",
+            "id": 8709880
+          }
+        ],
+        "score": 3.5,
+        "url": "https://itch.io/jam/game-off-2024/rate/3100159",
+        "rank": 109,
+        "rating_count": 6,
+        "criteria": [
+          {
+            "name": "Graphics",
+            "raw_score": 3.5,
+            "rank": 138,
+            "score": 3.5
+          },
+          {
+            "name": "Overall",
+            "raw_score": 3.5,
+            "rank": 109,
+            "score": 3.5
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.1666666666667,
+            "rank": 120,
+            "score": 3.1666666666667
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.6666666666667,
+            "rank": 56,
+            "score": 3.6666666666667
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.3333333333333,
+            "rank": 97,
+            "score": 3.3333333333333
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 4.3333333333333,
+            "rank": 6,
+            "score": 4.3333333333333
+          }
+        ]
+      },
+      "entryData": {
+        "id": 630001,
+        "rating_count": 6,
+        "coolness": 10,
+        "game": {
+          "title": "The Meadows",
+          "short_text": "Atmospheric open-world exploration game",
+          "user": {
+            "name": "AvacadJoe",
+            "url": "https://avacadjoe.itch.io",
+            "id": 8709880
+          },
+          "url": "https://avacadjoe.itch.io/the-meadows",
+          "cover": "https://img.itch.zone/aW1nLzE4NzQ3NzM0LnBuZw==/300x240%23c/si79VE.png",
+          "id": 3100159,
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#555568"
+        },
+        "created_at": "2024-12-01 05:35:38",
+        "field_responses": [
+          "32569:1"
+        ],
+        "url": "/jam/game-off-2024/rate/3100159"
+      },
+      "details": {
+        "title": "The Meadows",
+        "description": "Explore the Asphodel Meadows, the resting place of ordinary souls in the Greek afterlife, and uncover the secrets of your past in this highly stylized atmospheric exploration game.  \n\nMade by AvacadJoe and n0mm3rz for Github Game Off 2024!\nGit repo: https://github.com/AvacadJoe/The-Meadows",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzEwMDE1OS8xODc0NzgzOC5wbmc=/original/xWtTV4.png",
+          "https://img.itch.zone/aW1hZ2UvMzEwMDE1OS8xODgwMjY2NS5wbmc=/original/XJGYin.png",
+          "https://img.itch.zone/aW1hZ2UvMzEwMDE1OS8xODc0NzgzNy5wbmc=/original/PDNSRs.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Author": "AvacadJoe",
+          "Genre": "Adventure"
+        }
+      }
+    },
+    {
+      "gameId": 3147389,
+      "gameUrl": "https://luke-game-dev.itch.io/erase-the-secret",
+      "overallRank": 28,
+      "topCategories": [
+        "Theme interpretation",
+        "Innovation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE4ODAxMjc1LnBuZw==/300x240%23c/lrPInz.png",
+        "id": 3147389,
+        "title": "Erase the Secret",
+        "raw_score": 4,
+        "contributors": [
+          {
+            "name": "Luke_Game_Dev",
+            "id": 9593296
+          }
+        ],
+        "score": 4,
+        "url": "https://itch.io/jam/game-off-2024/rate/3147389",
+        "rank": 28,
+        "rating_count": 7,
+        "criteria": [
+          {
+            "name": "Graphics",
+            "raw_score": 3.7142857142857,
+            "rank": 95,
+            "score": 3.7142857142857
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.5714285714286,
+            "rank": 51,
+            "score": 3.5714285714286
+          },
+          {
+            "name": "Overall",
+            "raw_score": 4,
+            "rank": 28,
+            "score": 4
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 4.2857142857143,
+            "rank": 3,
+            "score": 4.2857142857143
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.1428571428571,
+            "rank": 15,
+            "score": 4.1428571428571
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 4.2857142857143,
+            "rank": 9,
+            "score": 4.2857142857143
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 7,
+        "coolness": 0,
+        "id": 629881,
+        "created_at": "2024-12-01 01:45:37",
+        "game": {
+          "title": "Erase the Secret",
+          "user": {
+            "name": "Luke_Game_Dev",
+            "url": "https://luke-game-dev.itch.io",
+            "id": 9593296
+          },
+          "url": "https://luke-game-dev.itch.io/erase-the-secret",
+          "cover": "https://img.itch.zone/aW1nLzE4ODAxMjc1LnBuZw==/300x240%23c/lrPInz.png",
+          "id": 3147389,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#f10e16"
+        },
+        "url": "/jam/game-off-2024/rate/3147389"
+      },
+      "details": {
+        "title": "Erase the Secret",
+        "description": "\nWelcome to Erase the Secret! In this game, you play as a secret agent who must prevent a secret from getting out.\nPress W, A, S, and D to move. Press space to use the Mind-Erase-3000 to make people forget the secret. Left click to dash in the direction of your mouse. Right click to teleport to where your mouse is. Be careful though, all of these abilities have to recharge!\nPeople with exclamation mark speech bubbles are aware of the secret! You have to erase all their memories to win! Be quick, because they will spread the secret to other people around them! As your score increases, more people will know the secret when the round starts.\nPeople with a white outline are able to destroy the organization if the find out the secret! If they find out, you lose!\nThis game was made for the Github Game Off 2024! The Github repository can be found at https://github.com/Luke-Parker1/Game-Off-2024.\nThe music was made by Matthew Pablo under the Creative Commons license at opengameart.org.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE4ODAxMjc1LnBuZw==/original/Ju55jn.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Luke_Game_Dev",
+          "Made with": "Godot"
+        }
+      }
+    },
+    {
+      "gameId": 3147063,
+      "gameUrl": "https://brillliantframe.itch.io/swift-and-the-wizard-trials",
+      "overallRank": 175,
+      "topCategories": [
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE4ODEyMjU3LnBuZw==/300x240%23c/7Weu5b.png",
+        "id": 3147063,
+        "title": "Swift and The Wizard Trials",
+        "raw_score": 3.1666666666667,
+        "contributors": [
+          {
+            "name": "Frame",
+            "id": 4220149
+          },
+          {
+            "name": "Moonmakes",
+            "id": 11910668
+          },
+          {
+            "name": "Vainui",
+            "id": 11472410
+          },
+          {
+            "name": "CITSComposer",
+            "id": 8905807
+          },
+          {
+            "name": "Sandro Martínez",
+            "id": 9643513
+          },
+          {
+            "name": "MarcoNuova",
+            "id": 3044080
+          }
+        ],
+        "score": 3.1666666666667,
+        "url": "https://itch.io/jam/game-off-2024/rate/3147063",
+        "rank": 175,
+        "rating_count": 6,
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 3.1666666666667,
+            "rank": 175,
+            "score": 3.1666666666667
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.5,
+            "rank": 15,
+            "score": 4.5
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 2.6666666666667,
+            "rank": 231,
+            "score": 2.6666666666667
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 2.6666666666667,
+            "rank": 221,
+            "score": 2.6666666666667
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.5,
+            "rank": 2,
+            "score": 4.5
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 3,
+            "rank": 197,
+            "score": 3
+          }
+        ]
+      },
+      "entryData": {
+        "id": 630822,
+        "game": {
+          "title": "Swift and The Wizard Trials",
+          "short_text": "Complete the Trials and become the wizard you are meant to be.",
+          "user": {
+            "name": "Frame",
+            "url": "https://brillliantframe.itch.io",
+            "id": 4220149
+          },
+          "url": "https://brillliantframe.itch.io/swift-and-the-wizard-trials",
+          "cover": "https://img.itch.zone/aW1nLzE4ODEyMjU3LnBuZw==/300x240%23c/7Weu5b.png",
+          "id": 3147063,
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#eeeeee"
+        },
+        "rating_count": 6,
+        "coolness": 1,
+        "created_at": "2024-12-01 21:28:50",
+        "contributors": [
+          {
+            "name": "Frame",
+            "url": "https://brillliantframe.itch.io"
+          },
+          {
+            "name": "Moonmakes",
+            "url": "https://moonmakes.itch.io"
+          },
+          {
+            "name": "Vainui",
+            "url": "https://otto1j.itch.io"
+          },
+          {
+            "name": "CITSComposer",
+            "url": "https://citscomposer.itch.io"
+          },
+          {
+            "name": "Sandro Martínez",
+            "url": "https://s-mart.itch.io"
+          },
+          {
+            "name": "MarcoNuova",
+            "url": "https://marconuova.itch.io"
+          }
+        ],
+        "field_responses": [
+          "32569:2"
+        ],
+        "url": "/jam/game-off-2024/rate/3147063"
+      },
+      "details": {
+        "title": "Swift and The Wizard Trials",
+        "description": "Enjoy the first look out our latest game Swift and The Wizard Trials. Explore the world and find your way out to complete tests set by your Elder Wizard, uncover details about why you are doing these trials and maybe some other secrets along the way. \n\nTeam Members : \nBrandon L. Brewer - https://www.linkedin.com/in/brandon-l-brewer-84665a235/\nSandro Martinez Felli - https://www.linkedin.com/in/sandro-mart%C3%ADnez-felli-a71362139/\nReyna Jansen - https://www.artstation.com/reynajansen\nMarco Nieuwenhuis - https://www.instagram.com/marconuova.3d/\nVainui Feltin - https://www.linkedin.com/in/vainui-feltin-b74066252?utm_source=share&utm_campaig...\nSkyler Newsome - https://www.linkedin.com/in/skyler-newsome-b6186a289/",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzE0NzA2My8xODc5OTE2NC5wbmc=/original/j5z5I5.png",
+          "https://img.itch.zone/aW1hZ2UvMzE0NzA2My8xODc5OTE2Ni5wbmc=/original/8S6ud6.png",
+          "https://img.itch.zone/aW1hZ2UvMzE0NzA2My8xODc5OTE2My5wbmc=/original/lWFyQy.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows",
+          "Authors": "Frame, Moonmakes, Vainui, CITSComposer, Sandro Martínez, MarcoNuova",
+          "Genre": "Platformer, Strategy",
+          "Made with": "Unity",
+          "Tags": "2D, Fantasy, Indie, Singleplayer, Unity",
+          "Average session": "About a half-hour"
+        }
+      }
+    },
+    {
+      "gameId": 3149622,
+      "gameUrl": "https://zewaffelman.itch.io/kitchen-hand",
+      "overallRank": 122,
+      "topCategories": [
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE4ODIwNTg3LnBuZw==/300x240%23c/aMM1lr.png",
+        "id": 3149622,
+        "title": "Kitchen Hand",
+        "raw_score": 3.4375,
+        "contributors": [
+          {
+            "name": "waffelaman",
+            "id": 3302620
+          },
+          {
+            "name": "Lymb0",
+            "id": 8807076
+          },
+          {
+            "name": "fosterstonemusic",
+            "id": 8873880
+          }
+        ],
+        "score": 3.4375,
+        "url": "https://itch.io/jam/game-off-2024/rate/3149622",
+        "rank": 122,
+        "rating_count": 16,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.25,
+            "rank": 108,
+            "score": 3.25
+          },
+          {
+            "name": "Overall",
+            "raw_score": 3.4375,
+            "rank": 122,
+            "score": 3.4375
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.375,
+            "rank": 27,
+            "score": 4.375
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.4375,
+            "rank": 80,
+            "score": 3.4375
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.4375,
+            "rank": 4,
+            "score": 4.4375
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 2.375,
+            "rank": 297,
+            "score": 2.375
+          }
+        ]
+      },
+      "entryData": {
+        "id": 630757,
+        "rating_count": 16,
+        "coolness": 41,
+        "created_at": "2024-12-01 21:02:55",
+        "contributors": [
+          {
+            "name": "waffelaman",
+            "url": "https://zewaffelman.itch.io"
+          },
+          {
+            "name": "Lymb0",
+            "url": "https://lymb0.itch.io"
+          },
+          {
+            "name": "fosterstonemusic",
+            "url": "https://fosterstonemusic.itch.io"
+          }
+        ],
+        "game": {
+          "title": "Kitchen Hand",
+          "short_text": "Take back your kitchen and show them who's king",
+          "user": {
+            "name": "waffelaman",
+            "url": "https://zewaffelman.itch.io",
+            "id": 3302620
+          },
+          "url": "https://zewaffelman.itch.io/kitchen-hand",
+          "cover": "https://img.itch.zone/aW1nLzE4ODIwNTg3LnBuZw==/300x240%23c/aMM1lr.png",
+          "id": 3149622,
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#000000"
+        },
+        "url": "/jam/game-off-2024/rate/3149622"
+      },
+      "details": {
+        "title": "Kitchen Hand",
+        "description": "Grab, throw enemies into walls, and slap enemies to damage and kill them and get past each stage until you reach the kitchen's end\n \nMade this juicy game inspired by the mii channel on the Wii for the Game Off 2024 Jam, but its a little more violent\n\n\nCheck Us Out\nZeWaffelMan - Art and Programming\nStone - Music\nLymbo - Sound\n\nMultiplayer\nyou can't connect more than one controller because I couldn't figure out how to map them out in time... - banana waffel man\nMouse Controls\nLeft Click - GrabRight Click - SlapMiddle Mouse or Left and Right Click - Shockwave\nController Controls\nRight Trigger - GrabLeft Trigger - SlapY - ShockwaveHold X - Accelerate",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzE0OTYyMi8xODgyMDE0NC5wbmc=/original/ZlHn0I.png",
+          "https://img.itch.zone/aW1hZ2UvMzE0OTYyMi8xODgyMDE0NS5wbmc=/original/1lOtQH.png",
+          "https://img.itch.zone/aW1hZ2UvMzE0OTYyMi8xODgyMDE0Ni5wbmc=/original/peRvux.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Authors": "waffelaman, Lymb0, fosterstonemusic",
+          "Genre": "Action",
+          "Tags": "2D, Colorful, Cute, Fast-Paced, Godot, Local multiplayer, Physics, Short, Singleplayer, Versus",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Mouse, Xbox controller",
+          "Multiplayer": "Local multiplayer",
+          "Player count": "1 - 2"
+        }
+      }
+    },
+    {
+      "gameId": 3122086,
+      "gameUrl": "https://ufen.itch.io/orlog",
+      "overallRank": 70,
+      "topCategories": [
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIwODM4MDgzLnBuZw==/300x240%23c/rajG3e.png",
+        "id": 3122086,
+        "title": "ørlǫg: The Moment Fate Stalled",
+        "raw_score": 3.6666666666667,
+        "contributors": [
+          {
+            "name": "UFEN",
+            "id": 8153071
+          },
+          {
+            "name": "CYTea",
+            "id": 11415423
+          }
+        ],
+        "score": 3.6666666666667,
+        "url": "https://itch.io/jam/game-off-2024/rate/3122086",
+        "rank": 70,
+        "rating_count": 6,
+        "criteria": [
+          {
+            "name": "Graphics",
+            "raw_score": 4.5,
+            "rank": 15,
+            "score": 4.5
+          },
+          {
+            "name": "Overall",
+            "raw_score": 3.6666666666667,
+            "rank": 70,
+            "score": 3.6666666666667
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 2.5,
+            "rank": 262,
+            "score": 2.5
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 3.5,
+            "rank": 104,
+            "score": 3.5
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.8333333333333,
+            "rank": 26,
+            "score": 3.8333333333333
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.3333333333333,
+            "rank": 6,
+            "score": 4.3333333333333
+          }
+        ]
+      },
+      "entryData": {
+        "id": 630492,
+        "game": {
+          "title": "ørlǫg: The Moment Fate Stalled",
+          "short_text": "Unrevealed secrets of Orloj and human history",
+          "user": {
+            "name": "UFEN",
+            "url": "https://ufen.itch.io",
+            "id": 8153071
+          },
+          "url": "https://ufen.itch.io/orlog",
+          "cover": "https://img.itch.zone/aW1nLzIwODM4MDgzLnBuZw==/300x240%23c/rajG3e.png",
+          "id": 3122086,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#003ac9"
+        },
+        "rating_count": 6,
+        "coolness": 0,
+        "created_at": "2024-12-01 17:46:55",
+        "contributors": [
+          {
+            "name": "UFEN",
+            "url": "https://ufen.itch.io"
+          },
+          {
+            "name": "CYTea",
+            "url": "https://cytea.itch.io"
+          }
+        ],
+        "field_responses": [
+          "32569:1",
+          "32569:2"
+        ],
+        "url": "/jam/game-off-2024/rate/3122086"
+      },
+      "details": {
+        "title": "ørlǫg: The Moment Fate Stalled",
+        "description": "“What shapes the course of humanity? A decision, a clock, or a dance?”\n- · - · -\nIntro\nIn 1974, I arrived in Prague to attend a modern SF Art exhibition. However, I found myself short on small change after forgetting to exchange my currency for koruna. When suddenly, a mysterious, beautiful girl came to my aid. By chance, we met again later that evening in a bar. She used me as an excuse to escape from someone, calling me her friend, and we ended up boarding a midnight train together.\n\nDuring the journey, when she learned that I was a surrealist painter, she revealed that her family was responsible for overseeing the “Prague Astronomical Clock (orloj),” which determines the course of human evolution. But in truth, its function was damaged during the 1945 shelling, leaving humanity’s future uncertain.\n\nShe also mentioned that encounters between people are never truly random—they are the result of something arranged, perhaps by fate. She spoke of fate with a strange mix of familiarity and resistance.\n\n- · - · -\nDesign Background\nørlǫg is a narrative-driven experience told from a third-party perspective, weaving the surreal and the profound into an unforgettable journey.\nThe story follows a celebrated modern SF artist, now hollowed by the weight of their success, as they encounter a mysterious girl on a quiet night. She introduces herself as the embodiment of Time and History. Every century, she chooses an artist to determine the future of humanity.\n\nGuided by this enigmatic figure, the artist embarks on a dreamlike odyssey to wind the clock of history, making a choice that will define the fate of the world. The ritual culminates in an otherworldly dance of the Vitruvian figure—a symbolic performance tying art, humanity, and destiny into one.\nMade by  CYT & UFEN\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzEyMjA4Ni8xODcxMzM0OC5wbmc=/original/XYsw%2FN.png",
+          "https://img.itch.zone/aW1hZ2UvMzEyMjA4Ni8xODcxMzM1Mi5wbmc=/original/MoIyKi.png",
+          "https://img.itch.zone/aW1hZ2UvMzEyMjA4Ni8xODcxMzQ2MS5wbmc=/original/4lRYu7.png",
+          "https://img.itch.zone/aW1hZ2UvMzEyMjA4Ni8xODcxMzM1NS5wbmc=/original/wwgWor.png",
+          "https://img.itch.zone/aW1hZ2UvMzEyMjA4Ni8xODcxMzM1OC5wbmc=/original/BlSn3K.png",
+          "https://img.itch.zone/aW1hZ2UvMzEyMjA4Ni8xODcxMzM2My5wbmc=/original/K0HsoG.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Authors": "UFEN, CYTea",
+          "Genre": "Interactive Fiction",
+          "Made with": "Unity"
+        }
+      }
+    },
+    {
+      "gameId": 3140057,
+      "gameUrl": "https://rowanfuture.itch.io/shaki-shaki-island",
+      "overallRank": 12,
+      "topCategories": [
+        "Innovation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE4ODAyODA1LmpwZw==/300x240%23c/jEq76o.jpg",
+        "id": 3140057,
+        "title": "Shaki Shaki Island",
+        "raw_score": 4.2,
+        "contributors": [
+          {
+            "name": "ROWAN FUTURE",
+            "id": 610575
+          },
+          {
+            "name": "Alphons63",
+            "id": 2407702
+          },
+          {
+            "name": "Tetraminose",
+            "id": 2123401
+          }
+        ],
+        "score": 4.2,
+        "url": "https://itch.io/jam/game-off-2024/rate/3140057",
+        "rank": 12,
+        "rating_count": 20,
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 4.2,
+            "rank": 12,
+            "score": 4.2
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.4,
+            "rank": 23,
+            "score": 4.4
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.9,
+            "rank": 24,
+            "score": 3.9
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 4.15,
+            "rank": 19,
+            "score": 4.15
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 4.6,
+            "rank": 1,
+            "score": 4.6
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.2,
+            "rank": 12,
+            "score": 4.2
+          }
+        ]
+      },
+      "entryData": {
+        "id": 629983,
+        "game": {
+          "title": "Shaki Shaki Island",
+          "short_text": "Puzzle adventure draw-em-up!",
+          "user": {
+            "name": "ROWAN FUTURE",
+            "url": "https://rowanfuture.itch.io",
+            "id": 610575
+          },
+          "url": "https://rowanfuture.itch.io/shaki-shaki-island",
+          "cover": "https://img.itch.zone/aW1nLzE4ODAyODA1LmpwZw==/300x240%23c/jEq76o.jpg",
+          "id": 3140057,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#2c4251"
+        },
+        "rating_count": 20,
+        "coolness": 0,
+        "created_at": "2024-12-01 04:57:20",
+        "contributors": [
+          {
+            "name": "ROWAN FUTURE",
+            "url": "https://rowanfuture.itch.io"
+          },
+          {
+            "name": "Alphons63",
+            "url": "https://alphons6.itch.io"
+          },
+          {
+            "name": "Tetraminose",
+            "url": "https://tetraminose.itch.io"
+          }
+        ],
+        "field_responses": [
+          "32569:1",
+          "32569:2"
+        ],
+        "url": "/jam/game-off-2024/rate/3140057"
+      },
+      "details": {
+        "title": "Shaki Shaki Island",
+        "description": "(Please wishlist Bonnie Fell on Steam!)Notepad Controls\nLEFT CLICK - Draw\nRIGHT CLICK - Erase\n\nMade for https://itch.io/jam/game-off-2024\n\nArtAlphons63TetraminoseCover ArtmadebyabraProgrammingRowan FutureMusicrobotmeadows",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzE0MDA1Ny8xODgxNDU2MC5wbmc=/original/9bVdHW.png",
+          "https://img.itch.zone/aW1hZ2UvMzE0MDA1Ny8xODgxNDU1OS5wbmc=/original/syMD3n.png",
+          "https://img.itch.zone/aW1hZ2UvMzE0MDA1Ny8xODgxNDU2MS5wbmc=/original/GbbiyC.png",
+          "https://img.itch.zone/aW1hZ2UvMzE0MDA1Ny8xODgxNDU2Mi5wbmc=/original/FFgXuE.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.6 out of 5 stars(67 total ratings)",
+          "Authors": "ROWAN FUTURE, Alphons63, Tetraminose",
+          "Genre": "Puzzle, Adventure",
+          "Made with": "GameMaker",
+          "Tags": "Drawing, Game Boy, Pixel Art, Retro, Top-Down, Top Down Adventure"
+        }
+      }
+    },
+    {
+      "gameId": 3139914,
+      "gameUrl": "https://lowpolyfreak.itch.io/ellie-dees-adventure",
+      "overallRank": 39,
+      "topCategories": [
+        "Innovation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE4NzU5OTcwLnBuZw==/300x240%23c/DpB0Wv.png",
+        "id": 3139914,
+        "title": "Ellie Dee`s Adventure",
+        "raw_score": 3.9375,
+        "contributors": [
+          {
+            "name": "LowPolyFreak",
+            "id": 10014487
+          }
+        ],
+        "score": 3.9375,
+        "url": "https://itch.io/jam/game-off-2024/rate/3139914",
+        "rank": 39,
+        "rating_count": 32,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.9375,
+            "rank": 21,
+            "score": 3.9375
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.90625,
+            "rank": 76,
+            "score": 3.90625
+          },
+          {
+            "name": "Overall",
+            "raw_score": 3.9375,
+            "rank": 39,
+            "score": 3.9375
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.25,
+            "rank": 122,
+            "score": 3.25
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 4.125,
+            "rank": 6,
+            "score": 4.125
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 3.71875,
+            "rank": 63,
+            "score": 3.71875
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 32,
+        "coolness": 42,
+        "id": 630036,
+        "created_at": "2024-12-01 07:08:05",
+        "game": {
+          "title": "Ellie Dee`s Adventure",
+          "short_text": "Adventure game where you control two little light bulbs, using the whole light spectrum to find secrets!",
+          "user": {
+            "name": "LowPolyFreak",
+            "url": "https://lowpolyfreak.itch.io",
+            "id": 10014487
+          },
+          "url": "https://lowpolyfreak.itch.io/ellie-dees-adventure",
+          "cover": "https://img.itch.zone/aW1nLzE4NzU5OTcwLnBuZw==/300x240%23c/DpB0Wv.png",
+          "id": 3139914,
+          "platforms": [
+            "windows",
+            "linux",
+            "web"
+          ],
+          "cover_color": "#382459"
+        },
+        "url": "/jam/game-off-2024/rate/3139914"
+      },
+      "details": {
+        "title": "Ellie Dee`s Adventure",
+        "description": "\nSolo/Local co-op game where you take control of two little light bulbs. Explore and escape the attic while using the whole light spectrum and discover secrets.\nWarning! CTRL + W will reload the page, use FULLSCREEN to avoid this.\n\nSession lenght: 10 min\n\nMade solo in 30 days for GitHub's 2024 Game Off Jam.\n________________________\nCredits:\nUV Drawings by KylleyInocence\nAll audio purchased thru Imphenzia\nhttps://imphenzia.com/",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzEzOTkxNC8xODgwMzg3Ny5naWY=/original/kmhftd.gif",
+          "https://img.itch.zone/aW1hZ2UvMzEzOTkxNC8xODgwMzg1Ni5naWY=/original/CX2vnH.gif",
+          "https://img.itch.zone/aW1hZ2UvMzEzOTkxNC8xODgwMzg4MS5naWY=/original/82GBQy.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, Linux",
+          "Author": "LowPolyFreak",
+          "Genre": "Adventure",
+          "Made with": "Blender, Godot",
+          "Tags": "Co-op, Exploration, Horror, Low-poly, Stealth",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse, Xbox controller, Playstation controller",
+          "Multiplayer": "Local multiplayer",
+          "Player count": "1 - 2"
+        }
+      }
+    },
+    {
+      "gameId": 3145750,
+      "gameUrl": "https://olgatsoy.itch.io/the-shard",
+      "overallRank": 20,
+      "topCategories": [
+        "Innovation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE4ODQ5Mzc3LmdpZg==/300x240%23c/PkhR3p.gif",
+        "id": 3145750,
+        "title": "The Shard",
+        "raw_score": 4.1111111111111,
+        "contributors": [
+          {
+            "name": "OlgaTsoy",
+            "id": 11154430
+          },
+          {
+            "name": "Artyom_Apanasenko",
+            "id": 8099376
+          },
+          {
+            "name": "Kapl-jpg",
+            "id": 6620110
+          },
+          {
+            "name": "SonOhko",
+            "id": 12116836
+          },
+          {
+            "name": "Puhovon",
+            "id": 8427390
+          },
+          {
+            "name": "Airmonz",
+            "id": 12176927
+          },
+          {
+            "name": "Marich_maker",
+            "id": 12183979
+          },
+          {
+            "name": "Иван Ростиславович",
+            "id": 3434729
+          }
+        ],
+        "score": 4.1111111111111,
+        "url": "https://itch.io/jam/game-off-2024/rate/3145750",
+        "rank": 20,
+        "rating_count": 9,
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 4.1111111111111,
+            "rank": 20,
+            "score": 4.1111111111111
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.7777777777778,
+            "rank": 31,
+            "score": 3.7777777777778
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.2222222222222,
+            "rank": 40,
+            "score": 4.2222222222222
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4,
+            "rank": 21,
+            "score": 4
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 4.1111111111111,
+            "rank": 9,
+            "score": 4.1111111111111
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 4.1111111111111,
+            "rank": 23,
+            "score": 4.1111111111111
+          }
+        ]
+      },
+      "entryData": {
+        "id": 630675,
+        "rating_count": 9,
+        "coolness": 8,
+        "created_at": "2024-12-01 20:16:44",
+        "contributors": [
+          {
+            "name": "OlgaTsoy",
+            "url": "https://olgatsoy.itch.io"
+          },
+          {
+            "name": "Artyom_Apanasenko",
+            "url": "https://artyom-apanasenko.itch.io"
+          },
+          {
+            "name": "Kapl-jpg",
+            "url": "https://kapl-jpg.itch.io"
+          },
+          {
+            "name": "SonOhko",
+            "url": "https://sonohko.itch.io"
+          },
+          {
+            "name": "Puhovon",
+            "url": "https://puhovon.itch.io"
+          },
+          {
+            "name": "Airmonz",
+            "url": "https://airmonz.itch.io"
+          },
+          {
+            "name": "Marich_maker",
+            "url": "https://marich-maker.itch.io"
+          },
+          {
+            "name": "Иван Ростиславович",
+            "url": "https://devlin-atlan.itch.io"
+          }
+        ],
+        "game": {
+          "title": "The Shard",
+          "gif_cover": "https://img.itch.zone/aW1nLzE4ODQ5Mzc3LmdpZg==/original/oMgLpg.gif",
+          "user": {
+            "name": "OlgaTsoy",
+            "url": "https://olgatsoy.itch.io",
+            "id": 11154430
+          },
+          "url": "https://olgatsoy.itch.io/the-shard",
+          "cover": "https://img.itch.zone/aW1nLzE4ODQ5Mzc3LmdpZg==/300x240%23c/PkhR3p.gif",
+          "id": 3145750,
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#eeeeee"
+        },
+        "url": "/jam/game-off-2024/rate/3145750"
+      },
+      "details": {
+        "title": "The Shard",
+        "description": "-ENG-\nA monster, a small shard of a mirror in the hand, and only one goal – to save their child. But what secrets does this place hold?\nControl:\nWASD - Movement\nCTRL+WASD -  Crouch\nSPACE - Mirror\nMouse - Hand position \nLBM - Mirror rotation\nTeam:\nIvan Narsky - MENTOR\nTsoy Olga - NARRATIVE DESIGN \nArtem Apanasenko- GAME DESIGN \nArtem Marichev - 3D ARTIST\nEvgeny Semenov - 3D ARTIST\n\nAshot Grigoryan - 3D ARTIST \n\nSofia Voronina - 2D ARTIST\n\nVladimir Belov - VIDEO MAKER\n\nIvan Titov - UNITY DEVELOPER\nArkady Alaverdyan - UNITY DEVELOPER\nVlad Zaytsev - UNITY DEVELOPER\n\n-RUS-\nМонстр, маленький осколок зеркала в руке и лишь одна цель - спасти своего ребенка.  Но какие секреты хранит это место?\nУправление:\nWASD - Движение\nCTRL+WASD -  Присесть\n\nSPACE - Зеркало\n\nMouse - Положение руки\n\nLBM - Вращение зеркала\nКоманда: \nИван Нарский - MENTOR\nОльга Цой - NARRATIVE DESIGN\nАртём Апанасенко - GAME DESIGN\nАртем Маричев - 3D ARTIST\nЕвгений Семёнов - 3D ARTIST\nАшот Григорян - 3D ARTIST \nСофья Воронина - 2D ARTIST\nВладимир Белов - VIDEO MAKER\nИван Титов - UNITY DEVELOPER\nАркадий Алавердян - UNITY DEVELOPER\nВладислав Зайцев - UNITY DEVELOPER",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzE0NTc1MC8xODc5NDAwNC5qcGc=/original/znF6QR.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzE0NTc1MC8xODc5NDAwNy5qcGc=/original/b1D45K.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzE0NTc1MC8xODg0OTM3OS5qcGc=/original/Ohfl0N.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzE0NTc1MC8xODc5NDAxMi5qcGc=/original/oiIsJQ.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzE0NTc1MC8xODgzNTk4My5wbmc=/original/79eb8W.png",
+          "https://img.itch.zone/aW1hZ2UvMzE0NTc1MC8xODgzNTk4Ny5wbmc=/original/wccCd%2B.png",
+          "https://img.itch.zone/aW1hZ2UvMzE0NTc1MC8xODg0OTM4MS5qcGc=/original/FDlO8K.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzE0NTc1MC8xODc5NDAxMS5qcGc=/original/qhjLhH.jpg"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Authors": "OlgaTsoy, Artyom_Apanasenko, Kapl-jpg, SonOhko, Puhovon, Airmonz, Marich_maker, Иван Ростиславович",
+          "Tags": "Horror, horrorgame, mirror, Monsters, realstory, secret, Stealth",
+          "Average session": "A few minutes",
+          "Languages": "English, Russian"
+        }
+      }
+    },
+    {
+      "gameId": 3148425,
+      "gameUrl": "https://itsmawal.itch.io/if-trees-could-talk",
+      "overallRank": 143,
+      "topCategories": [
+        "Innovation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE4ODQ5MDcyLnBuZw==/300x240%23c/SzrR4n.png",
+        "id": 3148425,
+        "title": "If Trees Could Talk",
+        "raw_score": 3.3333333333333,
+        "contributors": [
+          {
+            "name": "itsmawal",
+            "id": 907500
+          }
+        ],
+        "score": 3.3333333333333,
+        "url": "https://itch.io/jam/game-off-2024/rate/3148425",
+        "rank": 143,
+        "rating_count": 9,
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 3.3333333333333,
+            "rank": 143,
+            "score": 3.3333333333333
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 2.7777777777778,
+            "rank": 273,
+            "score": 2.7777777777778
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 2.6666666666667,
+            "rank": 231,
+            "score": 2.6666666666667
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3,
+            "rank": 178,
+            "score": 3
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 4.1111111111111,
+            "rank": 9,
+            "score": 4.1111111111111
+          },
+          {
+            "name": "Theme interpretation",
+            "raw_score": 3.3333333333333,
+            "rank": 135,
+            "score": 3.3333333333333
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 9,
+        "coolness": 10,
+        "id": 630795,
+        "created_at": "2024-12-01 21:19:11",
+        "game": {
+          "title": "If Trees Could Talk",
+          "short_text": "A game focused on sharing messages",
+          "user": {
+            "name": "itsmawal",
+            "url": "https://itsmawal.itch.io",
+            "id": 907500
+          },
+          "url": "https://itsmawal.itch.io/if-trees-could-talk",
+          "cover": "https://img.itch.zone/aW1nLzE4ODQ5MDcyLnBuZw==/300x240%23c/SzrR4n.png",
+          "id": 3148425,
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#a1b989"
+        },
+        "url": "/jam/game-off-2024/rate/3148425"
+      },
+      "details": {
+        "title": "If Trees Could Talk",
+        "description": "Time capsule of a messaging game in a cozy environment> INFOThis game was intended to run forever. All messages posted are now stored locally, the online functionality was removed. Thank you for 542 messages posted between December 2024 and January 2025.\n> LEAVE YOUR MARK\nPost anonymous messages in a shared, persistant world. Let you words linger for others to discover, even if you moved on.\n> HOW TO PLAY\n\nDrop a message, take a seat, listen to music. Return when you feel like.\n> INFO\n\nThis is a calm, reflective experience unfolding over time. Play at you own pace, leave a mark, take a break, come back later.Simply extract the .zip and run the .exe file. Alternatively use the itch.io app",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzE0ODQyNS8xODgxNjEwMS5wbmc=/original/JbtD65.png",
+          "https://img.itch.zone/aW1hZ2UvMzE0ODQyNS8xODgxNjEwMC5wbmc=/original/dfVRjw.png",
+          "https://img.itch.zone/aW1hZ2UvMzE0ODQyNS8xODgxNjEwMi5wbmc=/original/%2FO%2Fudx.png",
+          "https://img.itch.zone/aW1hZ2UvMzE0ODQyNS8xODgxNjA5OC5wbmc=/original/dn3oql.png",
+          "https://img.itch.zone/aW1hZ2UvMzE0ODQyNS8xODgxNjEyMS5wbmc=/original/K6cYCh.png",
+          "https://img.itch.zone/aW1hZ2UvMzE0ODQyNS8xODgzMjE5OC5wbmc=/original/ho5Y6J.png",
+          "https://img.itch.zone/aW1hZ2UvMzE0ODQyNS8xODgxNjA5OS5wbmc=/original/VjpDz%2B.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "itsmawal",
+          "Tags": "3D, async-multiplayer, Cozy, Experimental, gameoff2024, Music, Narrative, Third Person, Unity, Walking simulator"
+        }
+      }
+    }
+  ]
+}

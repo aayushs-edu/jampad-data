@@ -1,0 +1,3968 @@
+{
+  "n": 91,
+  "name": "GBJAM 12",
+  "url": "https://itch.io/jam/gbjam-12",
+  "theme": "Gameboy, Spooky",
+  "slug": "gbjam-12",
+  "jamMeta": {
+    "jamType": "ended",
+    "ratings": "6,240",
+    "entries": "396",
+    "title": "GBJAM 12",
+    "jamURL": "https://itch.io/jam/gbjam-12",
+    "hosts": {
+      "Polyducks": "https://polyducks.itch.io",
+      "batfeula": "https://batfeula.itch.io",
+      "Traslogan": "https://traslo.itch.io",
+      "timconceivable": "https://timconceivable.itch.io",
+      "arknano": "https://arknano.itch.io",
+      "tatltuae": "https://tatltuae.itch.io",
+      "DL": "https://lafontainedl.itch.io",
+      "#GBJAM": "https://bsky.app/hashtag/GBJAM"
+    },
+    "jamID": "382485"
+  },
+  "totalEntries": 381,
+  "ranked": true,
+  "hasCategories": true,
+  "needsManualSelection": false,
+  "categories": [
+    "Graphics",
+    "Gameplay",
+    "Soundtrack/SFX",
+    "Gameboy Soul",
+    "Interpretation of the Secondary Theme"
+  ],
+  "topGames": [
+    {
+      "gameId": 2989633,
+      "gameUrl": "https://galdormin.itch.io/beyond-the-veil",
+      "overallRank": 25,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "id": 2989633,
+        "score": 4.08,
+        "cover_url": "https://img.itch.zone/aW1nLzE3ODgzMjA3LnBuZw==/300x240%23c/CB2ygs.png",
+        "raw_score": 4.08,
+        "rating_count": 20,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 3.55,
+            "raw_score": 3.55,
+            "rank": 75
+          },
+          {
+            "name": "Graphics",
+            "score": 4.9,
+            "raw_score": 4.9,
+            "rank": 1
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "score": 4.2,
+            "raw_score": 4.2,
+            "rank": 22
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "score": 3.9,
+            "raw_score": 3.9,
+            "rank": 130
+          },
+          {
+            "name": "Gameboy Soul",
+            "score": 3.85,
+            "raw_score": 3.85,
+            "rank": 110
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Galdormin",
+            "id": 4824418
+          },
+          {
+            "name": "Tchouki",
+            "id": 11635999
+          },
+          {
+            "name": "Paraguus",
+            "id": 11636215
+          },
+          {
+            "name": "Valenwed",
+            "id": 11605520
+          }
+        ],
+        "url": "https://itch.io/jam/gbjam-12/rate/2989633",
+        "rank": 25,
+        "title": "Beyond the Veil"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://galdormin.itch.io/beyond-the-veil",
+          "title": "Beyond the Veil",
+          "user": {
+            "name": "Galdormin",
+            "url": "https://galdormin.itch.io",
+            "id": 4824418
+          },
+          "id": 2989633,
+          "short_text": "Hugo isn’t a cheerful boy, and he’s even less so when it comes to visiting his grandfather, the graveyard keeper.",
+          "cover": "https://img.itch.zone/aW1nLzE3ODgzMjA3LnBuZw==/300x240%23c/CB2ygs.png",
+          "cover_color": "#c6b7be",
+          "platforms": [
+            "web"
+          ]
+        },
+        "rating_count": 20,
+        "id": 601946,
+        "coolness": 5,
+        "created_at": "2024-09-23 08:35:40",
+        "contributors": [
+          {
+            "name": "Galdormin",
+            "url": "https://galdormin.itch.io"
+          },
+          {
+            "name": "Tchouki",
+            "url": "https://tchouki.itch.io"
+          },
+          {
+            "name": "Paraguus",
+            "url": "https://paraguus.itch.io"
+          },
+          {
+            "name": "Valenwed",
+            "url": "https://valenwed.itch.io"
+          }
+        ],
+        "url": "/jam/gbjam-12/rate/2989633"
+      },
+      "details": {
+        "title": "Beyond the Veil",
+        "description": "Beyond the Veil \nBeyond the Veil is a game where you play as Hugo, a rather melancholic boy who visits his grandfather in the countryside. His grandfather is the graveyard keeper, and Hugo will end up helping the ghosts that have made the graveyard their home.\n--MADE 10 DAYS for GBJam12---\n    \nHave fun! \n--- CONTROLS ---\nAll keyboard controls are based on physical key, so it should work on whateveer keyboard you're using (between bracket is for french keyboard). \n\nActionControllerKeyboardMoveLeft Stick / D-PadWASD (or ZQSD)InterractA (Xbox)Q (or A)StartStartSpace\n--- THE TEAM---\n    \nGaldormin: Progamming \nParaguus: Art\nTchouki: Art\nValenwed: Music\n---CREDITS---           \nFont: https://fonts.google.com/specimen/Pixelify+SansSpanish translation (post jam): Victor Calatayud",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjk4OTYzMy8xNzg4MzI2Ny5wbmc=/original/5fp%2Ft6.png",
+          "https://img.itch.zone/aW1hZ2UvMjk4OTYzMy8xNzg4MzI2OS5wbmc=/original/ev9YYG.png",
+          "https://img.itch.zone/aW1hZ2UvMjk4OTYzMy8xNzg4MzI2OC5wbmc=/original/Fjf7T%2F.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(3 total ratings)",
+          "Authors": "Galdormin, Tchouki, Paraguus, Valenwed",
+          "Genre": "Visual Novel",
+          "Made with": "Godot",
+          "Tags": "Game Boy, GBJam, Pixel Art",
+          "Average session": "A few minutes",
+          "Languages": "English, French",
+          "Inputs": "Keyboard, Joystick"
+        }
+      }
+    },
+    {
+      "gameId": 2967074,
+      "gameUrl": "https://datagoblin.itch.io/cat-death",
+      "overallRank": 164,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "id": 2967074,
+        "score": 3.3939393939394,
+        "cover_url": "https://img.itch.zone/aW1nLzE3OTAwMjM0LnBuZw==/300x240%23c/Gu9W0O.png",
+        "raw_score": 3.3939393939394,
+        "rating_count": 99,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 3.0707070707071,
+            "raw_score": 3.0707070707071,
+            "rank": 165
+          },
+          {
+            "name": "Graphics",
+            "score": 4.8888888888889,
+            "raw_score": 4.8888888888889,
+            "rank": 2
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "score": 1.3434343434343,
+            "raw_score": 1.3434343434343,
+            "rank": 325
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "score": 4.2323232323232,
+            "raw_score": 4.2323232323232,
+            "rank": 57
+          },
+          {
+            "name": "Gameboy Soul",
+            "score": 3.4343434343434,
+            "raw_score": 3.4343434343434,
+            "rank": 192
+          }
+        ],
+        "contributors": [
+          {
+            "name": "datagoblin",
+            "id": 115869
+          }
+        ],
+        "url": "https://itch.io/jam/gbjam-12/rate/2967074",
+        "rank": 164,
+        "title": "a cat's death"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://datagoblin.itch.io/cat-death",
+          "title": "a cat's death",
+          "user": {
+            "name": "datagoblin",
+            "url": "https://datagoblin.itch.io",
+            "id": 115869
+          },
+          "id": 2967074,
+          "short_text": "wanted dead and alive",
+          "cover": "https://img.itch.zone/aW1nLzE3OTAwMjM0LnBuZw==/300x240%23c/Gu9W0O.png",
+          "cover_color": "#000000",
+          "platforms": [
+            "web"
+          ]
+        },
+        "rating_count": 99,
+        "id": 601790,
+        "created_at": "2024-09-23 03:30:06",
+        "coolness": 30,
+        "url": "/jam/gbjam-12/rate/2967074"
+      },
+      "details": {
+        "title": "a cat's death",
+        "description": "You're wanted dead AND alive\nAn alley cat's life isn't always easy. Un-life didn't make it much easier either.\nPlay through a charming puzzle-platformer as a tiny cat that's been granted big powers, and must now walk the line between dead and alive - all while trying to solve the mysteries of Ghost City, a place where nothing is as it seems.\n\nGBJAM 12 entrant\nThis game was developed by me as a solo project for the 12th edition of GBJAM! \nThe currently available build was developed during the jam, and is a bite-sized taste of things to come. An updated version with bug-fixes and more content is coming soon!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjk2NzA3NC8xNzkwMTEyOS5naWY=/original/Dd4HMT.gif",
+          "https://img.itch.zone/aW1hZ2UvMjk2NzA3NC8xNzkwMTU2Ni5naWY=/original/yxPQek.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(3 total ratings)",
+          "Author": "datagoblin",
+          "Genre": "Platformer, Puzzle",
+          "Made with": "Godot",
+          "Tags": "Cats, Halloween, Puzzle-Platformer, Spooky",
+          "Average session": "A few seconds",
+          "Languages": "English",
+          "Accessibility": "High-contrast"
+        }
+      }
+    },
+    {
+      "gameId": 2981518,
+      "gameUrl": "https://rowanfuture.itch.io/gbjam12",
+      "overallRank": 2,
+      "topCategories": [
+        "Graphics",
+        "Gameplay",
+        "Soundtrack/SFX"
+      ],
+      "resultData": {
+        "id": 2981518,
+        "score": 4.5333333333333,
+        "cover_url": "https://img.itch.zone/aW1nLzE3ODkyODExLnBuZw==/300x240%23c/V1NAbh.png",
+        "raw_score": 4.5333333333333,
+        "rating_count": 66,
+        "criteria": [
+          {
+            "name": "Graphics",
+            "score": 4.8030303030303,
+            "raw_score": 4.8030303030303,
+            "rank": 3
+          },
+          {
+            "name": "Gameplay",
+            "score": 4.5,
+            "raw_score": 4.5,
+            "rank": 3
+          },
+          {
+            "name": "Gameboy Soul",
+            "score": 4.3333333333333,
+            "raw_score": 4.3333333333333,
+            "rank": 34
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "score": 4.5454545454545,
+            "raw_score": 4.5454545454545,
+            "rank": 2
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "score": 4.4848484848485,
+            "raw_score": 4.4848484848485,
+            "rank": 25
+          }
+        ],
+        "contributors": [
+          {
+            "name": "ROWAN FUTURE",
+            "id": 610575
+          },
+          {
+            "name": "batfeula",
+            "id": 4887669
+          },
+          {
+            "name": "Tetraminose",
+            "id": 2123401
+          },
+          {
+            "name": "alvesito",
+            "id": 7031253
+          },
+          {
+            "name": "robotmeadows",
+            "id": 3022380
+          },
+          {
+            "name": "sunnexo",
+            "id": 2743462
+          }
+        ],
+        "url": "https://itch.io/jam/gbjam-12/rate/2981518",
+        "rank": 2,
+        "title": "Professor Lucifer"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://rowanfuture.itch.io/gbjam12",
+          "title": "Professor Lucifer",
+          "user": {
+            "name": "ROWAN FUTURE",
+            "url": "https://rowanfuture.itch.io",
+            "id": 610575
+          },
+          "id": 2981518,
+          "short_text": "Take your trusty lantern and venture into the night!",
+          "cover": "https://img.itch.zone/aW1nLzE3ODkyODExLnBuZw==/300x240%23c/V1NAbh.png",
+          "cover_color": "#000000",
+          "platforms": [
+            "windows",
+            "web"
+          ]
+        },
+        "rating_count": 66,
+        "id": 601853,
+        "coolness": 7,
+        "created_at": "2024-09-23 05:42:41",
+        "contributors": [
+          {
+            "name": "ROWAN FUTURE",
+            "url": "https://rowanfuture.itch.io"
+          },
+          {
+            "name": "batfeula",
+            "url": "https://batfeula.itch.io"
+          },
+          {
+            "name": "Tetraminose",
+            "url": "https://tetraminose.itch.io"
+          },
+          {
+            "name": "alvesito",
+            "url": "https://alvesito.itch.io"
+          },
+          {
+            "name": "robotmeadows",
+            "url": "https://robotmeadows.itch.io"
+          },
+          {
+            "name": "sunnexo",
+            "url": "https://sunnexo.itch.io"
+          }
+        ],
+        "url": "/jam/gbjam-12/rate/2981518"
+      },
+      "details": {
+        "title": "Professor Lucifer",
+        "description": "\n\"What lurks behind these walls remains untold...\nWandering through the darkness of night with his lantern in hand,\nWhat does Lucifer desire enough to brave the pitch black?\"\n\n\n   \n  Controls \n  \n\nTop tip! Your lantern shoots in diagonals,so go snatch those ghosts before they even know it.\n\n\t\n\t\t\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\tKeyboard\n\t\t\t\tGameBoy\n\t\t\t\n\t\t\t\n\t\t\t\tMovement\n\t\t\t\tArrow keys or WASD\n\t\t\t\tD-Pad\n\t\t\t\n\t\t\t\n\t\t\t\tCharge and throw lantern\n\t\t\t\tZ or K\n\t\t\t\tA\n\t\t\t\n\t\t\t\n\t\t\t\tSummon captured ghost\n\t\t\t\tX or L\n\t\t\t\tB\n\t\t\n\t\n\n\n\n   \n  Credits\n  \n\n\n\t\n\t\t\n\t\t\t\n\t\t\t\tCode\n\t\t\t\t Alvesito\n\t\t\t\tRowanFuture\n\t\t\t\n\t\t\t\n\t\t\t\tArt\n\t\t\t\t Tetra\n\t\t\t\tBatfeula\n\t\t\t\n\t\t\t\n\t\t\t\tSound\n\t\t\t\tSunnexo\n\t\t\t\trobotmeadows\n\t\t\t\n\t\t\n\t\n\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjk4MTUxOC8xNzg5NTk2MC5naWY=/original/gwNdIT.gif",
+          "https://img.itch.zone/aW1hZ2UvMjk4MTUxOC8xNzg5NjAxMC5naWY=/original/ldUC0D.gif",
+          "https://img.itch.zone/aW1hZ2UvMjk4MTUxOC8xNzg5NjIzOC5naWY=/original/8w1DGg.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.6 out of 5 stars(46 total ratings)",
+          "Authors": "ROWAN FUTURE, batfeula, Tetraminose, alvesito, robotmeadows, sunnexo",
+          "Genre": "Puzzle, Adventure",
+          "Made with": "Godot",
+          "Tags": "Exploration, Game Boy, GBJam, Ghosts, Godot, Pixel Art, Retro, Spooky, Top-Down"
+        }
+      }
+    },
+    {
+      "gameId": 2987558,
+      "gameUrl": "https://weeppiko.itch.io/bloodstabbed",
+      "overallRank": 3,
+      "topCategories": [
+        "Graphics",
+        "Gameplay",
+        "Soundtrack/SFX"
+      ],
+      "resultData": {
+        "id": 2987558,
+        "score": 4.4833333333333,
+        "cover_url": "https://img.itch.zone/aW1nLzE3ODg5MjM2LnBuZw==/300x240%23c/ouCJGB.png",
+        "raw_score": 4.4833333333333,
+        "rating_count": 24,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 4.2916666666667,
+            "raw_score": 4.2916666666667,
+            "rank": 9
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "score": 4.6666666666667,
+            "raw_score": 4.6666666666667,
+            "rank": 1
+          },
+          {
+            "name": "Graphics",
+            "score": 4.7916666666667,
+            "raw_score": 4.7916666666667,
+            "rank": 4
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "score": 4.5416666666667,
+            "raw_score": 4.5416666666667,
+            "rank": 17
+          },
+          {
+            "name": "Gameboy Soul",
+            "score": 4.125,
+            "raw_score": 4.125,
+            "rank": 64
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Weeppiko",
+            "id": 1772665
+          },
+          {
+            "name": "Laggy",
+            "id": 5473324
+          },
+          {
+            "name": "dekaeru",
+            "id": 1307467
+          }
+        ],
+        "url": "https://itch.io/jam/gbjam-12/rate/2987558",
+        "rank": 3,
+        "title": "Bloodstabbed"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://weeppiko.itch.io/bloodstabbed",
+          "user": {
+            "name": "Weeppiko",
+            "url": "https://weeppiko.itch.io",
+            "id": 1772665
+          },
+          "id": 2987558,
+          "title": "Bloodstabbed",
+          "cover": "https://img.itch.zone/aW1nLzE3ODg5MjM2LnBuZw==/300x240%23c/ouCJGB.png",
+          "cover_color": "#0e0225",
+          "platforms": [
+            "windows",
+            "web"
+          ]
+        },
+        "rating_count": 24,
+        "id": 600782,
+        "coolness": 33,
+        "created_at": "2024-09-22 01:22:37",
+        "contributors": [
+          {
+            "name": "Weeppiko",
+            "url": "https://weeppiko.itch.io"
+          },
+          {
+            "name": "Laggy",
+            "url": "https://thelaggy.itch.io"
+          },
+          {
+            "name": "dekaeru",
+            "url": "https://dekaeru.itch.io"
+          }
+        ],
+        "url": "/jam/gbjam-12/rate/2987558"
+      },
+      "details": {
+        "title": "Bloodstabbed",
+        "description": "Rush to Dracula's castle and defeat him to save the world\nMade by:\nWeeppikoDekaeruLaggyMachaach\n\nMade for GBJAM12\n\nControls:\nActionGamepad (Xbox 360)KeyboardStab (B)Power (A)Move/Jump/Climb (D-Pad)Start/PauseToggle FullscreenFor Windows:\nSimply download it, extract the zip file and run the executable.\nFor Linux:\nInstall LÖVE and run the bloodstabbed.love file",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjk4NzU1OC8xNzkwNDk0Ni5naWY=/original/UuX%2B7T.gif",
+          "https://img.itch.zone/aW1hZ2UvMjk4NzU1OC8xNzkwNDk2Ni5naWY=/original/UGzBqi.gif",
+          "https://img.itch.zone/aW1hZ2UvMjk4NzU1OC8xNzg3MDMwNy5wbmc=/original/pkGqUX.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.8 out of 5 stars(4 total ratings)",
+          "Authors": "Weeppiko, Laggy, dekaeru",
+          "Genre": "Action",
+          "Made with": "LÖVE, Aseprite",
+          "Tags": "Game Boy, GBJam, Gothic, Pixel Art"
+        }
+      }
+    },
+    {
+      "gameId": 2991517,
+      "gameUrl": "https://pinksquaregames.itch.io/rondoofbooze",
+      "overallRank": 63,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "id": 2991517,
+        "score": 3.86,
+        "cover_url": "https://img.itch.zone/aW1nLzE3ODk0NTAwLnBuZw==/300x240%23c/PJX0FS.png",
+        "raw_score": 3.86,
+        "rating_count": 30,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 3.0666666666667,
+            "raw_score": 3.0666666666667,
+            "rank": 166
+          },
+          {
+            "name": "Graphics",
+            "score": 4.7666666666667,
+            "raw_score": 4.7666666666667,
+            "rank": 5
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "score": 3.7,
+            "raw_score": 3.7,
+            "rank": 79
+          },
+          {
+            "name": "Gameboy Soul",
+            "score": 3.9,
+            "raw_score": 3.9,
+            "rank": 100
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "score": 3.8666666666667,
+            "raw_score": 3.8666666666667,
+            "rank": 134
+          }
+        ],
+        "contributors": [
+          {
+            "name": "pinkSquareGames",
+            "id": 2365518
+          }
+        ],
+        "url": "https://itch.io/jam/gbjam-12/rate/2991517",
+        "rank": 63,
+        "title": "CastleBreak: Rondo of Booze"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://pinksquaregames.itch.io/rondoofbooze",
+          "title": "CastleBreak: Rondo of Booze",
+          "user": {
+            "name": "pinkSquareGames",
+            "url": "https://pinksquaregames.itch.io",
+            "id": 2365518
+          },
+          "id": 2991517,
+          "short_text": "Stealth Platformer about a monster trying to skip their job.",
+          "cover": "https://img.itch.zone/aW1nLzE3ODk0NTAwLnBuZw==/300x240%23c/PJX0FS.png",
+          "cover_color": "#252525",
+          "platforms": [
+            "web"
+          ]
+        },
+        "rating_count": 30,
+        "id": 601958,
+        "created_at": "2024-09-23 08:53:42",
+        "coolness": 6,
+        "url": "/jam/gbjam-12/rate/2991517"
+      },
+      "details": {
+        "title": "CastleBreak: Rondo of Booze",
+        "description": "Being a monster for the Vampire Lord is hard...\nUse your wits to try and flee the Castle without being caught by his guards!\nHow to Play\nAvoid being spotted by the \"peepers\" outside the windows.\nsome states make allow you to be disguised, like crouching or hanging like a bat!\nControls\nArrow keysUp, Down, Left and Right Down Arrow (on ground)Crouches (Hides the player when not in bat form)Up Arrow (on ar, not gliding, bat form)Shoots up a rope that pulls you towards the ceiling. Hold it to stay hidden upside down.ZA, Confirms in menus, Jump, (when in bat form) hold to gilde.XB\n\nCredits:\n\nGraphics, SFX and CodeZa \"rata\" FonsecaMusic005 - itch.ioLevel DesignDanilo César\nPOST-JAM Version with bug-fixes on the making!\nKnown Issue(s):\nFor some people the  player's jump isn't high enough to jump two tiles, this can lead you to getting stuck in a hole on the start of the level 2. Please forgive that and restart the page. (You can skip menus/cutscenes by pressing the \"A\" button (Z on the keyboard).\nAlso there's a collision problem on at the end of the first cave level that doesn't allow you to go any further, therefore you can't beat the game. Sorry everyone.",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE3ODk0NTAwLnBuZw==/original/5XxC0W.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "pinkSquareGames",
+          "Genre": "Platformer",
+          "Made with": "Godot",
+          "Tags": "2D, Comedy, Game Boy, GBJam, Retro, Spooky, Stealth"
+        }
+      }
+    },
+    {
+      "gameId": 2985894,
+      "gameUrl": "https://brittbrady.itch.io/phantom-flash",
+      "overallRank": 1,
+      "topCategories": [
+        "Graphics",
+        "Gameboy Soul",
+        "Interpretation of the Secondary Theme"
+      ],
+      "resultData": {
+        "id": 2985894,
+        "score": 4.5444444444444,
+        "cover_url": "https://img.itch.zone/aW1nLzE3ODYwNjgzLmdpZg==/300x240%23c/dmJIFA.gif",
+        "raw_score": 4.5444444444444,
+        "rating_count": 36,
+        "criteria": [
+          {
+            "name": "Graphics",
+            "score": 4.75,
+            "raw_score": 4.75,
+            "rank": 6
+          },
+          {
+            "name": "Gameplay",
+            "score": 4.25,
+            "raw_score": 4.25,
+            "rank": 11
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "score": 4.1944444444444,
+            "raw_score": 4.1944444444444,
+            "rank": 23
+          },
+          {
+            "name": "Gameboy Soul",
+            "score": 4.8333333333333,
+            "raw_score": 4.8333333333333,
+            "rank": 1
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "score": 4.6944444444444,
+            "raw_score": 4.6944444444444,
+            "rank": 6
+          }
+        ],
+        "contributors": [
+          {
+            "name": "brittbrady",
+            "id": 89448
+          }
+        ],
+        "url": "https://itch.io/jam/gbjam-12/rate/2985894",
+        "rank": 1,
+        "title": "Phantom Flash"
+      },
+      "entryData": {
+        "game": {
+          "short_text": "Explore a creepy manor and rid it of phantoms for Gameboy DMG",
+          "id": 2985894,
+          "cover": "https://img.itch.zone/aW1nLzE3ODYwNjgzLmdpZg==/300x240%23c/dmJIFA.gif",
+          "cover_color": "#529273",
+          "gif_cover": "https://img.itch.zone/aW1nLzE3ODYwNjgzLmdpZg==/original/JHzUL7.gif",
+          "title": "Phantom Flash",
+          "url": "https://brittbrady.itch.io/phantom-flash",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "brittbrady",
+            "url": "https://brittbrady.itch.io",
+            "id": 89448
+          }
+        },
+        "rating_count": 36,
+        "id": 600690,
+        "created_at": "2024-09-21 19:32:26",
+        "coolness": 30,
+        "url": "/jam/gbjam-12/rate/2985894"
+      },
+      "details": {
+        "title": "Phantom Flash",
+        "description": "Flashing lights warning!!!\nExplore and collect items to help you progress through a haunted manor. Made for GBJAM 12.Playtime: 10 mins\nDownloads for Gameboy DMG and Analogue Pocket below.\n\nIf you are using an emulator in GBC mode, it will automatically add default color palettes to the sprites and background. Do not vote against this; it is how GBC works. The game was made for DMG in only 4 colors.\nMusic by ZBWEverything else by Britt Brady",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjk4NTg5NC8xNzg2MDM2My5naWY=/original/N1Xntk.gif",
+          "https://img.itch.zone/aW1hZ2UvMjk4NTg5NC8xNzg2MDM3Mi5naWY=/original/hofDbf.gif",
+          "https://img.itch.zone/aW1hZ2UvMjk4NTg5NC8xNzg2MDQyOC5naWY=/original/domK4b.gif",
+          "https://img.itch.zone/aW1hZ2UvMjk4NTg5NC8xNzg2MDQ1MS5naWY=/original/ZA1skK.gif",
+          "https://img.itch.zone/aW1hZ2UvMjk4NTg5NC8xNzg3MDQ1Mi5wbmc=/original/%2F7yUzJ.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(4 total ratings)",
+          "Author": "brittbrady",
+          "Genre": "Adventure",
+          "Tags": "dmg, Game Boy, GBJam, Metroidvania"
+        }
+      }
+    },
+    {
+      "gameId": 2990202,
+      "gameUrl": "https://teamslime.itch.io/space-threnody",
+      "overallRank": 96,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "id": 2990202,
+        "score": 3.7,
+        "cover_url": "https://img.itch.zone/aW1nLzE3ODg2NDcxLmdpZg==/300x240%23c/EtjHK6.gif",
+        "raw_score": 3.7,
+        "rating_count": 12,
+        "criteria": [
+          {
+            "name": "Soundtrack/SFX",
+            "score": 3.1666666666667,
+            "raw_score": 3.1666666666667,
+            "rank": 166
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.4166666666667,
+            "raw_score": 3.4166666666667,
+            "rank": 98
+          },
+          {
+            "name": "Graphics",
+            "score": 4.75,
+            "raw_score": 4.75,
+            "rank": 6
+          },
+          {
+            "name": "Gameboy Soul",
+            "score": 3.8333333333333,
+            "raw_score": 3.8333333333333,
+            "rank": 115
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "score": 3.3333333333333,
+            "raw_score": 3.3333333333333,
+            "rank": 221
+          }
+        ],
+        "contributors": [
+          {
+            "name": "team slime",
+            "id": 667730
+          }
+        ],
+        "url": "https://itch.io/jam/gbjam-12/rate/2990202",
+        "rank": 96,
+        "title": "space threnody"
+      },
+      "entryData": {
+        "game": {
+          "short_text": "a ship-searching, shooting game",
+          "id": 2990202,
+          "cover": "https://img.itch.zone/aW1nLzE3ODg2NDcxLmdpZg==/300x240%23c/EtjHK6.gif",
+          "cover_color": "#2a1e22",
+          "gif_cover": "https://img.itch.zone/aW1nLzE3ODg2NDcxLmdpZg==/original/rakWp%2B.gif",
+          "title": "space threnody",
+          "url": "https://teamslime.itch.io/space-threnody",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ],
+          "user": {
+            "name": "team slime",
+            "url": "https://teamslime.itch.io",
+            "id": 667730
+          }
+        },
+        "rating_count": 12,
+        "id": 602055,
+        "created_at": "2024-09-23 10:53:41",
+        "coolness": 7,
+        "url": "/jam/gbjam-12/rate/2990202"
+      },
+      "details": {
+        "title": "space threnody",
+        "description": "The scans are complete, and your handler sees just one blip on the radar.\nA small spaceship, drifting aimlessly, with a signature that couldn't belong to anyone but her... Right?\nDon your gear, grab your weapons, and take up the mantle of Space Lass! as you navigate a spaceship overrun with hostile lifeforms, searching desperately for its pilot: Your best friend... and the one that got away.\nspace threnody is a first person shooter adventure with atmospheric sci-fi horror sensibilities and sprite-based 3D environments that push portable 8-bit hardware  to its limits.\nWe're also excited to announce a publishing deal through WOW! So Limited Games! Their team has been working closely with us up until release day to make sure the standard physical cartridge release and then limited edition physical collector's edition of space threnody are everything our fans want them to be. You can place your pre-order here!\ninputs:\nX - (A) Interact  C - (B) Shift / cancelV - (Start) Pause gameB - (Select) Change weaponsArrow keys - (D-pad) Move, turn\n(While holding B)\nUp - ReloadDown - Quick turnLeft/right - Strafe\nMore control information on pause menu in-game.\nKnown issues:\nStart menu doesn't tell you how to reloadOccasional soft-lock when turning away from enemiesCollectible counter at level end doesn't reset when restarting\ncredits:\nwriting, music, gilmore girls expertaustinbrook\nenvironment artvictor caveda\ngame programmingjackie fishervictoria lacroix\ngun sommelierjane underscore\ncopywriter and publisher liaisonbluesturngold\na sequel to 2021's fallstar\nEDIT: Hey Team Slime fans! Our sincerest apologies to those who pre-ordered a physical copy of space threnody through WOW! So Limited. If you aren't part of our mailing list, you may have missed news of their sudden closure. We have nothing but love and well wishes for the former employees who are searching for new positions right now. Just an update on where we're at with refunds, since some of you have been asking and we want to be as transparent as possible... communication with their CEO has broken down, so we are currently reviewing our legal options. Our legal advisor says we can't share anything further at this time just to maintain the integrity of our case, but we'll let you know when there is more we can say. In the meantime, we encourage you to enjoy the digital release of space threnody!\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjk5MDIwMi8xNzg4NjUxMS5naWY=/original/ZCdnqe.gif",
+          "https://img.itch.zone/aW1hZ2UvMjk5MDIwMi8xNzg5NjA2My5naWY=/original/f9O%2FFT.gif",
+          "https://img.itch.zone/aW1hZ2UvMjk5MDIwMi8xNzg5NjA2OS5naWY=/original/RAfPKl.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS, Linux",
+          "Author": "team slime",
+          "Genre": "Shooter, Adventure",
+          "Tags": "3D, 8-Bit, Atmospheric, First-Person, GBJam, Horror, Pixel Art, Sci-fi, Space"
+        }
+      }
+    },
+    {
+      "gameId": 2989174,
+      "gameUrl": "https://aelexaender.itch.io/the-brainvore",
+      "overallRank": 16,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "id": 2989174,
+        "score": 4.2315789473684,
+        "cover_url": "https://img.itch.zone/aW1nLzE3ODg0MzE3LnBuZw==/300x240%23c/Ew0EIC.png",
+        "raw_score": 4.2315789473684,
+        "rating_count": 19,
+        "criteria": [
+          {
+            "name": "Graphics",
+            "score": 4.7368421052632,
+            "raw_score": 4.7368421052632,
+            "rank": 8
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.8421052631579,
+            "raw_score": 3.8421052631579,
+            "rank": 37
+          },
+          {
+            "name": "Gameboy Soul",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 78
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 37
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "score": 4.5789473684211,
+            "raw_score": 4.5789473684211,
+            "rank": 13
+          }
+        ],
+        "contributors": [
+          {
+            "name": "aelexaender",
+            "id": 7604046
+          },
+          {
+            "name": "hell_fina",
+            "id": 11201510
+          },
+          {
+            "name": "ChazOh",
+            "id": 7616416
+          }
+        ],
+        "url": "https://itch.io/jam/gbjam-12/rate/2989174",
+        "rank": 16,
+        "title": "The Brainvore"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://aelexaender.itch.io/the-brainvore",
+          "title": "The Brainvore",
+          "user": {
+            "name": "aelexaender",
+            "url": "https://aelexaender.itch.io",
+            "id": 7604046
+          },
+          "id": 2989174,
+          "short_text": "Brainvore is a spooky survival adventure made for the GB-Jam 12",
+          "cover": "https://img.itch.zone/aW1nLzE3ODg0MzE3LnBuZw==/300x240%23c/Ew0EIC.png",
+          "cover_color": "#081820",
+          "platforms": [
+            "windows",
+            "linux",
+            "web"
+          ]
+        },
+        "rating_count": 19,
+        "id": 602346,
+        "coolness": 21,
+        "created_at": "2024-09-24 10:59:45",
+        "contributors": [
+          {
+            "name": "aelexaender",
+            "url": "https://aelexaender.itch.io"
+          },
+          {
+            "name": "hell_fina",
+            "url": "https://hell-fina.itch.io"
+          },
+          {
+            "name": "ChazOh",
+            "url": "https://chazoh.itch.io"
+          }
+        ],
+        "url": "/jam/gbjam-12/rate/2989174"
+      },
+      "details": {
+        "title": "The Brainvore",
+        "description": "This game was made for the GB-Jam 12  \nby  Fina (Visual Artist), Chaz O. (Composer) and Aelexaender (Programmer) The year is 2240 you are an officer aboard the UESS Humboldt a ship in the fleet of the United Earth Space Agency.  \nYou and your crew are currently on the way home from a survey mission  to the Proxima Centauri system. Your science officers found some  organic material on one of the planets and you are now tasked with  returning those samples to Sol. \n    \nSomething seems to have gone wrong. When you wake up your bunk  mate is gone. You also can't seem to find anyone else. At least anyone  that still breaths.\n    \nIf you are having performance issues inside the web page, consider   downloading the game for Linux or Windows it should run way better on  your local  computer.Instructions: \nIn the option menu you can adjust the volume of the sound and music\nFull Controller Support \nIn the Menu Press Space/A (controller) to select an option\nGame Boy Keys Legend: \nW / A / S / D Up / Left / Down / Right = D-Pad     \n\nSpace = A (interact)\nShift / K= B (shoot)\nTab = Select (Open Interactive Map)\nESC = Start (Open Fancy Map)\n\nYou use Left and Right turn and Up and Down to move.\nYou can interact with object and doors by pressing A.\nAfter you found a gun you can shoot by Pressing B.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjk4OTE3NC8xNzg4NDMyMy5wbmc=/original/1Be58a.png",
+          "https://img.itch.zone/aW1hZ2UvMjk4OTE3NC8xNzg4NDMyOS5wbmc=/original/DiBbdh.png",
+          "https://img.itch.zone/aW1hZ2UvMjk4OTE3NC8xNzg4MjQ2OC5wbmc=/original/vBAzpp.png",
+          "https://img.itch.zone/aW1hZ2UvMjk4OTE3NC8xNzg4MjQ2OS5wbmc=/original/0l7DOW.png",
+          "https://img.itch.zone/aW1hZ2UvMjk4OTE3NC8xNzg4MjQ3MC5wbmc=/original/9OtkBu.png",
+          "https://img.itch.zone/aW1hZ2UvMjk4OTE3NC8xNzg4MjQ3MS5wbmc=/original/g0E1eI.png",
+          "https://img.itch.zone/aW1hZ2UvMjk4OTE3NC8xNzg4MjQ3Mi5wbmc=/original/dZDfZz.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, Linux",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "aelexaender, hell_fina, ChazOh",
+          "Genre": "Adventure",
+          "Made with": "Godot",
+          "Tags": "2D, eldritch-horror, Horror, pseudo-3d, Sci-fi, Space, Spooky",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Keyboard, Xbox controller"
+        }
+      }
+    },
+    {
+      "gameId": 2978652,
+      "gameUrl": "https://macrowdev.itch.io/pooky-pet",
+      "overallRank": 18,
+      "topCategories": [
+        "Graphics",
+        "Interpretation of the Secondary Theme"
+      ],
+      "resultData": {
+        "id": 2978652,
+        "score": 4.1866666666667,
+        "cover_url": "https://img.itch.zone/aW1nLzE5ODI1OTUyLnBuZw==/300x240%23c/%2FC0oCR.png",
+        "raw_score": 4.1866666666667,
+        "rating_count": 60,
+        "criteria": [
+          {
+            "name": "Graphics",
+            "score": 4.7333333333333,
+            "raw_score": 4.7333333333333,
+            "rank": 9
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.7,
+            "raw_score": 3.7,
+            "rank": 51
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "score": 4.1666666666667,
+            "raw_score": 4.1666666666667,
+            "rank": 26
+          },
+          {
+            "name": "Gameboy Soul",
+            "score": 3.65,
+            "raw_score": 3.65,
+            "rank": 156
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "score": 4.6833333333333,
+            "raw_score": 4.6833333333333,
+            "rank": 7
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Macrow",
+            "id": 10978783
+          },
+          {
+            "name": "weeversang",
+            "id": 3862262
+          },
+          {
+            "name": "Deshui Yu",
+            "id": 10555712
+          },
+          {
+            "name": "jerebee",
+            "id": 9575753
+          }
+        ],
+        "url": "https://itch.io/jam/gbjam-12/rate/2978652",
+        "rank": 18,
+        "title": "Pooky Pet"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://macrowdev.itch.io/pooky-pet",
+          "title": "Pooky Pet",
+          "user": {
+            "name": "Macrow",
+            "url": "https://macrowdev.itch.io",
+            "id": 10978783
+          },
+          "id": 2978652,
+          "short_text": "Care for your pet... or else",
+          "cover": "https://img.itch.zone/aW1nLzE5ODI1OTUyLnBuZw==/300x240%23c/%2FC0oCR.png",
+          "cover_color": "#545C7E",
+          "platforms": [
+            "web"
+          ]
+        },
+        "rating_count": 60,
+        "id": 600626,
+        "coolness": 16,
+        "created_at": "2024-09-21 13:46:53",
+        "contributors": [
+          {
+            "name": "Macrow",
+            "url": "https://macrowdev.itch.io"
+          },
+          {
+            "name": "weeversang",
+            "url": "https://weeversang.itch.io"
+          },
+          {
+            "name": "Deshui Yu",
+            "url": "https://deshuiyu.itch.io"
+          },
+          {
+            "name": "jerebee",
+            "url": "https://jerebee-av.itch.io"
+          }
+        ],
+        "url": "/jam/gbjam-12/rate/2978652"
+      },
+      "details": {
+        "title": "Pooky Pet",
+        "description": "game jam submission for GBJAM 12\nRank #18      \n \nControls \nZ\nInteract /  ActionX\nCancel / BackLeft | RightMove RoomsUp | DownSelect ObjectR\nReset\n\n \n\nTake Care of your Pet... no matter the cost\nCare for your adorable pixelated pet in this cute and cozy game!  Keep your tiny friend happy and healthy by feeding, resting and playing with them.  Each pet has its own personality, making every playthrough unique.  Can you make your pet happy and take care of all its needs, no matter what? \n\n\n\nProgrammer ␥ Macrow\nArtist & Game Designer ␥  weeversang\nTechnical Sound Designer ␥ Deshui Yu\nMusic ␥ jerebee",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjk3ODY1Mi8xNzg5NTc3My5naWY=/original/Kxf8lj.gif",
+          "https://img.itch.zone/aW1hZ2UvMjk3ODY1Mi8xNzg5NTc3Mi5naWY=/original/jqjwFS.gif",
+          "https://img.itch.zone/aW1hZ2UvMjk3ODY1Mi8xNzg5NTc3MS5naWY=/original/If3n%2Fc.gif",
+          "https://img.itch.zone/aW1hZ2UvMjk3ODY1Mi8xNzg5NTc3NC5naWY=/original/Tuxl8g.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(4 total ratings)",
+          "Authors": "Macrow, weeversang, Deshui Yu, jerebee",
+          "Genre": "Interactive Fiction, Visual Novel",
+          "Made with": "GameMaker",
+          "Tags": "Cute, Desktop Pet, Horror, Music, Mystery, Spooky, storygame, Virtual Pet"
+        }
+      }
+    },
+    {
+      "gameId": 2990720,
+      "gameUrl": "https://clark-padmore.itch.io/grief-and-garbage",
+      "overallRank": 11,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "id": 2990720,
+        "score": 4.3260869565217,
+        "cover_url": "https://img.itch.zone/aW1nLzE3ODkxNDcxLmdpZg==/300x240%23c/jDAF81.gif",
+        "raw_score": 4.3260869565217,
+        "rating_count": 46,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 4.6739130434783,
+            "raw_score": 4.6739130434783,
+            "rank": 1
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "score": 3.8913043478261,
+            "raw_score": 3.8913043478261,
+            "rank": 54
+          },
+          {
+            "name": "Graphics",
+            "score": 4.2173913043478,
+            "raw_score": 4.2173913043478,
+            "rank": 64
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "score": 4.6304347826087,
+            "raw_score": 4.6304347826087,
+            "rank": 11
+          },
+          {
+            "name": "Gameboy Soul",
+            "score": 4.2173913043478,
+            "raw_score": 4.2173913043478,
+            "rank": 51
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Clark Padmore",
+            "id": 5370320
+          }
+        ],
+        "url": "https://itch.io/jam/gbjam-12/rate/2990720",
+        "rank": 11,
+        "title": "Grief & Garbage"
+      },
+      "entryData": {
+        "game": {
+          "short_text": "Split apart to enjoy your last Halloween.",
+          "id": 2990720,
+          "cover": "https://img.itch.zone/aW1nLzE3ODkxNDcxLmdpZg==/300x240%23c/jDAF81.gif",
+          "cover_color": "#390000",
+          "gif_cover": "https://img.itch.zone/aW1nLzE3ODkxNDcxLmdpZg==/original/IeHeyn.gif",
+          "title": "Grief & Garbage",
+          "url": "https://clark-padmore.itch.io/grief-and-garbage",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "user": {
+            "name": "Clark Padmore",
+            "url": "https://clark-padmore.itch.io",
+            "id": 5370320
+          }
+        },
+        "rating_count": 46,
+        "id": 601943,
+        "created_at": "2024-09-23 08:34:57",
+        "coolness": 112,
+        "url": "/jam/gbjam-12/rate/2990720"
+      },
+      "details": {
+        "title": "Grief & Garbage",
+        "description": "[ Color changing may not work correctly on specific browser configurations. ]\nControls can be remapped in the options menu.\nNon-boss levels can be restarted with [SELECT] (by default this is 'R', 'V', ';', or 'R-Shift').\nControlGame=== Keyboard ====== Gamepad ===[D-Pad](Move)WASD, Arrow KeysSticks, D-Pad[A](Jump)Z, J, SpaceA[B](Split)X, K, QB[START](Pause)C, L, E, EnterStart[SELECT](Retry)V, ;, RBack\nMenu=== Keyboard ====== Gamepad ===(MENU CONFIRM)[A], [START]Jump, Pause(MENU BACK)[B]B\n\n\nActivates...Passes Through...Destroys...Stopped by...Killed by...GhostElectrical switches and plugsPermeable walls; SpikesSpidersReligious sigilsFlames, Lanterns, FireballsZombieLevers and buttonsReligious sigils; FlamesLanterns, FireballsPermeable wallsSpikes, SpidersCombinedEverythingNothingNothingEverythingEverything\nThe level select in the pause menu may be used to skip one level ahead.\n\n\nCollect the candy to finish the game.\n[ Completion time: 20-30 minutes ][ Options, records, and level completion progress is saved. The player's current level is not saved. ]\n\n\n\nGrief & Garbage\nOriginally created in 10 days for GBJAM 12.\n\nThank you, the participants of GBJAM 12, for voting Grief & Garbage #11 overall. You are a community flush with proficiency, creativity, and hard work, and I am deeply humbled that you voted our game so highly. It is especially humbling to receive the #1 Gameplay vote in a competition with so many excellent mechanical experiences. It was an honor to develop with you all.\nHappy Halloween!\n\n= Developer & Writer =Clark Padmore\n\n\n= Duo Platformer Concept =Joyce\n= Additional Design =Joyce\n= Testers =Joyce & Wilson\n= GBJAM 12 Logo =Batfuela\n\nChiptune created using DefleMask\nMade with GDevelop 5.4\n\n=== Pre-existing code ===\nGrief & Garbage was built using large sections of pre-existing general functionality. This includes:Deltatiming logicUnified input systemTouch control systemText sprite systemMenu systemOptions systemColor palette systemBasic save/loadDebug / Frame-by-frame systemBasic scene switchBasic platformer characterMost of the dialogue systemEvent script system    By Clark Padmore\n=== Exempted pre-existing assets ===\n\"TextCharacter\" sprite font, as outlined by the font exception.The \"Clark Padmore\" logo and jingle, as outlined by the splash logo exception.    By Clark Padmore\n\n\nThe GBJAM 12 logo, as outlined by the permission to use it from the jam page.    By Batfuela\nAll other assets, including assets associated with pre-existing systems (touch control, menu, dialogue), were created during the duration of the jam.\nSpecial thanks to the organizers and moderators of GBJAM 12 for providing this opportunity to create and to share.\nSpecial thanks to my dear family for their undying love and support.\n© Clark Padmore 2024Generative artificial intelligence programs and features (genAI) were purposefully avoided and not used in the production of this software. This includes all phases of conceptualization, research, development, marketing, and publication. I value intentional design as a method of quality and a praxis of life.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjk5MDcyMC8xNzg5MTQ0MS5naWY=/original/oIab1w.gif",
+          "https://img.itch.zone/aW1hZ2UvMjk5MDcyMC8xNzg5MTQ3NS5naWY=/original/Ti87Wl.gif",
+          "https://img.itch.zone/aW1hZ2UvMjk5MDcyMC8xNzg5MTQ3My5naWY=/original/hj9U6L.gif",
+          "https://img.itch.zone/aW1hZ2UvMjk5MDcyMC8xNzg5MTQ3NC5naWY=/original/sxuxSw.gif",
+          "https://img.itch.zone/aW1hZ2UvMjk5MDcyMC8xNzg5MTQ3Mi5naWY=/original/kvMc7p.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 5.0 out of 5 stars(4 total ratings)",
+          "Author": "Clark Padmore",
+          "Genre": "Platformer, Puzzle",
+          "Made with": "Aseprite, Audacity, Paint.net, GDevelop",
+          "Tags": "2D, Creepy, Game Boy, Horror, Pixel Art, Retro, Short, Singleplayer, supernatural",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse, Gamepad (any), Touchscreen",
+          "Accessibility": "Configurable controls"
+        }
+      }
+    },
+    {
+      "gameId": 2991007,
+      "gameUrl": "https://doctor-succubus.itch.io/evening-of-the-dead",
+      "overallRank": 4,
+      "topCategories": [
+        "Gameplay",
+        "Soundtrack/SFX",
+        "Gameboy Soul"
+      ],
+      "resultData": {
+        "id": 2991007,
+        "score": 4.4733333333333,
+        "cover_url": "https://img.itch.zone/aW1nLzE3ODk4NTM4LmdpZg==/300x240%23c/ltgSPI.gif",
+        "raw_score": 4.4733333333333,
+        "rating_count": 30,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 4.6,
+            "raw_score": 4.6,
+            "rank": 2
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "score": 4.5,
+            "raw_score": 4.5,
+            "rank": 3
+          },
+          {
+            "name": "Graphics",
+            "score": 4.6,
+            "raw_score": 4.6,
+            "rank": 17
+          },
+          {
+            "name": "Gameboy Soul",
+            "score": 4.7,
+            "raw_score": 4.7,
+            "rank": 4
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "score": 3.9666666666667,
+            "raw_score": 3.9666666666667,
+            "rank": 116
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Doctor_Succubus",
+            "id": 1758281
+          }
+        ],
+        "url": "https://itch.io/jam/gbjam-12/rate/2991007",
+        "rank": 4,
+        "title": "Evening of the Dead"
+      },
+      "entryData": {
+        "game": {
+          "short_text": "Spooky Shoot-em-Up!",
+          "id": 2991007,
+          "cover": "https://img.itch.zone/aW1nLzE3ODk4NTM4LmdpZg==/300x240%23c/ltgSPI.gif",
+          "cover_color": "#C09B7A",
+          "gif_cover": "https://img.itch.zone/aW1nLzE3ODk4NTM4LmdpZg==/original/FANXlJ.gif",
+          "title": "Evening of the Dead",
+          "url": "https://doctor-succubus.itch.io/evening-of-the-dead",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "Doctor_Succubus",
+            "url": "https://doctor-succubus.itch.io",
+            "id": 1758281
+          }
+        },
+        "rating_count": 30,
+        "id": 601837,
+        "created_at": "2024-09-23 04:57:54",
+        "coolness": 20,
+        "url": "/jam/gbjam-12/rate/2991007"
+      },
+      "details": {
+        "title": "Evening of the Dead",
+        "description": "Creepy monsters are terrorizing your cozy farm! Grab your gun and get rid of em'!\nControls:\n\nArrow Keys: move (tap forward twice to roll) Z: Jump\nX: Shoot (hold to fire!)Enter: Pause (Gamepad Supported!)\n\nFor GBJAM12\nFor the smoothest experience, download and play on Windows!\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjk5MTAwNy8xNzg5MjE3Ni5naWY=/original/K0YD4T.gif",
+          "https://img.itch.zone/aW1hZ2UvMjk5MTAwNy8xNzg5MjIwOS5naWY=/original/0EmAiW.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.9 out of 5 stars(10 total ratings)",
+          "Author": "Doctor_Succubus",
+          "Genre": "Platformer",
+          "Tags": "2D, Halloween, Pixel Art, Shoot 'Em Up, Spooky"
+        }
+      }
+    },
+    {
+      "gameId": 2991238,
+      "gameUrl": "https://artistgamergal.itch.io/sallys-house",
+      "overallRank": 6,
+      "topCategories": [
+        "Gameplay",
+        "Interpretation of the Secondary Theme"
+      ],
+      "resultData": {
+        "id": 2991238,
+        "score": 4.4181818181818,
+        "cover_url": "https://img.itch.zone/aW1nLzE3ODk0MzcwLnBuZw==/300x240%23c/SbyDQJ.png",
+        "raw_score": 4.4181818181818,
+        "rating_count": 22,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 4.4545454545455,
+            "raw_score": 4.4545454545455,
+            "rank": 4
+          },
+          {
+            "name": "Graphics",
+            "score": 4.4090909090909,
+            "raw_score": 4.4090909090909,
+            "rank": 40
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "score": 4.2272727272727,
+            "raw_score": 4.2272727272727,
+            "rank": 18
+          },
+          {
+            "name": "Gameboy Soul",
+            "score": 4.2727272727273,
+            "raw_score": 4.2727272727273,
+            "rank": 41
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "score": 4.7272727272727,
+            "raw_score": 4.7272727272727,
+            "rank": 4
+          }
+        ],
+        "contributors": [
+          {
+            "name": "AGG - ArtistGamerGal (Laura Kerger)",
+            "id": 9843527
+          },
+          {
+            "name": "LadyAdlihn",
+            "id": 9886465
+          }
+        ],
+        "url": "https://itch.io/jam/gbjam-12/rate/2991238",
+        "rank": 6,
+        "title": "Sally's House"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://artistgamergal.itch.io/sallys-house",
+          "title": "Sally's House",
+          "user": {
+            "name": "AGG - ArtistGamerGal (Laura Kerger)",
+            "url": "https://artistgamergal.itch.io",
+            "id": 9843527
+          },
+          "id": 2991238,
+          "short_text": "Try to solve the mystery of Sally's house. Has two different endings!",
+          "cover": "https://img.itch.zone/aW1nLzE3ODk0MzcwLnBuZw==/300x240%23c/SbyDQJ.png",
+          "cover_color": "#1e051e",
+          "platforms": [
+            "web"
+          ]
+        },
+        "rating_count": 22,
+        "id": 601897,
+        "coolness": 16,
+        "created_at": "2024-09-23 07:04:48",
+        "contributors": [
+          {
+            "name": "AGG - ArtistGamerGal (Laura Kerger)",
+            "url": "https://artistgamergal.itch.io"
+          },
+          {
+            "name": "LadyAdlihn",
+            "url": "https://ladyadlihn.itch.io"
+          }
+        ],
+        "url": "/jam/gbjam-12/rate/2991238"
+      },
+      "details": {
+        "title": "Sally's House",
+        "description": "About:\nMade for GB Jam 12 - Theme: SpookySally's House is an adventure game with a spooky twist.\nHelp Sally water her houseplants and find her missing gate key on a dark and stormy night. Find items to use throughout the house and try to solve the mystery of Sally's house. There are two different endings in this game depending on what you do! \nControls:\nActionKeyboardKeyboard AltGamePadMovementArrow keysWASDLeft stickInteract (A)ZJAUse Tool (B)XKBSwitch Tool (Select)CLSelect\nCredits:\nProgramming, Art, Music - ArtistGamerGalProgramming/Art - LadyAdlihn",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjk5MTIzOC8xNzg5Mjk4MC5wbmc=/original/N3P2YI.png",
+          "https://img.itch.zone/aW1hZ2UvMjk5MTIzOC8xNzg5Mjk3OC5wbmc=/original/OiV6BN.png",
+          "https://img.itch.zone/aW1hZ2UvMjk5MTIzOC8xNzg5MzAxMi5wbmc=/original/2aJJXa.png",
+          "https://img.itch.zone/aW1hZ2UvMjk5MTIzOC8xNzg5Mjk4OS5wbmc=/original/zznpqJ.png",
+          "https://img.itch.zone/aW1hZ2UvMjk5MTIzOC8xNzg5Mjk5MC5wbmc=/original/nyau60.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.7 out of 5 stars(6 total ratings)",
+          "Authors": "AGG - ArtistGamerGal (Laura Kerger), LadyAdlihn",
+          "Genre": "Adventure",
+          "Made with": "Unity",
+          "Tags": "2D, Creepy, Game Boy, GBJam, Horror, Pixel Art, Psychological Horror, Singleplayer, Spooky, Top-Down"
+        }
+      }
+    },
+    {
+      "gameId": 2989845,
+      "gameUrl": "https://jhonamath.itch.io/spookapult",
+      "overallRank": 77,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "id": 2989845,
+        "score": 3.7882352941176,
+        "cover_url": "https://img.itch.zone/aW1nLzE3ODkwODA2LnBuZw==/300x240%23c/pE8rce.png",
+        "raw_score": 3.7882352941176,
+        "rating_count": 17,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 4.4117647058824,
+            "raw_score": 4.4117647058824,
+            "rank": 5
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "score": 3.1176470588235,
+            "raw_score": 3.1176470588235,
+            "rank": 175
+          },
+          {
+            "name": "Graphics",
+            "score": 3.6470588235294,
+            "raw_score": 3.6470588235294,
+            "rank": 168
+          },
+          {
+            "name": "Gameboy Soul",
+            "score": 3.8823529411765,
+            "raw_score": 3.8823529411765,
+            "rank": 101
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "score": 3.8823529411765,
+            "raw_score": 3.8823529411765,
+            "rank": 131
+          }
+        ],
+        "contributors": [
+          {
+            "name": "JhonaMath",
+            "id": 4364491
+          },
+          {
+            "name": "Guideon",
+            "id": 6133865
+          },
+          {
+            "name": "Crull",
+            "id": 11565272
+          }
+        ],
+        "url": "https://itch.io/jam/gbjam-12/rate/2989845",
+        "rank": 77,
+        "title": "Spookapult"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://jhonamath.itch.io/spookapult",
+          "title": "Spookapult",
+          "user": {
+            "name": "JhonaMath",
+            "url": "https://jhonamath.itch.io",
+            "id": 4364491
+          },
+          "id": 2989845,
+          "short_text": "Ghost that use graves as catapult",
+          "cover": "https://img.itch.zone/aW1nLzE3ODkwODA2LnBuZw==/300x240%23c/pE8rce.png",
+          "cover_color": "#181425",
+          "platforms": [
+            "windows",
+            "web"
+          ]
+        },
+        "rating_count": 17,
+        "id": 601889,
+        "coolness": 11,
+        "created_at": "2024-09-23 06:36:40",
+        "contributors": [
+          {
+            "name": "JhonaMath",
+            "url": "https://jhonamath.itch.io"
+          },
+          {
+            "name": "Guideon",
+            "url": "https://anidus.itch.io"
+          },
+          {
+            "name": "Crull",
+            "url": "https://crull.itch.io"
+          }
+        ],
+        "url": "/jam/gbjam-12/rate/2989845"
+      },
+      "details": {
+        "title": "Spookapult",
+        "description": "Spookapult is a fast-paced game where you launch a ghost from a grave and collect fire while avoiding bishops. Try not to die!\nCan you collect all the fires and unlock the true ending? The secret awaits you! 😲\n\nCreated in just 10 days for GB Jam 12, the game features a retro look with limited colors inspired by the Game Boy. We try to simulate the music, art, feeling and controls.Theme: Spooky\nControlsAWSD -> MoveK -> AL -> BEsc -> Pause/Menu\n\nArt: Guideon (@Guideon)Dev: Crull (@Crull)Dev + Art + Music: JhonaMath (@JhonaMath)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjk4OTg0NS8xNzg5MDgyMi5wbmc=/original/FBdddA.png",
+          "https://img.itch.zone/aW1hZ2UvMjk4OTg0NS8xNzg5MDgyNC5wbmc=/original/RsEpr7.png",
+          "https://img.itch.zone/aW1hZ2UvMjk4OTg0NS8xNzg5MDgyMy5wbmc=/original/XNNKEX.png",
+          "https://img.itch.zone/aW1hZ2UvMjk4OTg0NS8xNzg5MDgyNS5naWY=/original/C3f9s5.gif"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Authors": "JhonaMath, Guideon, Crull",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "Horror, Spooky",
+          "Average session": "A few seconds",
+          "Languages": "English"
+        }
+      }
+    },
+    {
+      "gameId": 2989943,
+      "gameUrl": "https://keyslam.itch.io/spectral-shift",
+      "overallRank": 5,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "id": 2989943,
+        "score": 4.4210526315789,
+        "cover_url": "https://img.itch.zone/aW1nLzE3ODg1Mjg0LnBuZw==/300x240%23c/%2FOEV2F.png",
+        "raw_score": 4.4210526315789,
+        "rating_count": 19,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 4.3684210526316,
+            "raw_score": 4.3684210526316,
+            "rank": 6
+          },
+          {
+            "name": "Graphics",
+            "score": 4.5789473684211,
+            "raw_score": 4.5789473684211,
+            "rank": 22
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "score": 4.3157894736842,
+            "raw_score": 4.3157894736842,
+            "rank": 11
+          },
+          {
+            "name": "Gameboy Soul",
+            "score": 4.2631578947368,
+            "raw_score": 4.2631578947368,
+            "rank": 43
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "score": 4.5789473684211,
+            "raw_score": 4.5789473684211,
+            "rank": 13
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Keyslam",
+            "id": 480070
+          },
+          {
+            "name": "poltergasm",
+            "id": 1287912
+          },
+          {
+            "name": "HyphenPixel",
+            "id": 4058779
+          }
+        ],
+        "url": "https://itch.io/jam/gbjam-12/rate/2989943",
+        "rank": 5,
+        "title": "Spectral Shift"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://keyslam.itch.io/spectral-shift",
+          "user": {
+            "name": "Keyslam",
+            "url": "https://keyslam.itch.io",
+            "id": 480070
+          },
+          "id": 2989943,
+          "title": "Spectral Shift",
+          "cover": "https://img.itch.zone/aW1nLzE3ODg1Mjg0LnBuZw==/300x240%23c/%2FOEV2F.png",
+          "cover_color": "#5D5FC6",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ]
+        },
+        "rating_count": 19,
+        "id": 601311,
+        "coolness": 27,
+        "created_at": "2024-09-22 18:25:32",
+        "contributors": [
+          {
+            "name": "Keyslam",
+            "url": "https://keyslam.itch.io"
+          },
+          {
+            "name": "poltergasm",
+            "url": "https://poltergasm.itch.io"
+          },
+          {
+            "name": "HyphenPixel",
+            "url": "https://hyphenpixel.itch.io"
+          }
+        ],
+        "url": "/jam/gbjam-12/rate/2989943"
+      },
+      "details": {
+        "title": "Spectral Shift",
+        "description": "Escape the haunted mansion filled with mischievous ghosts that want to possess your body in this thrilling puzzle-platformer!!Can you find the secret room?\n\n\nThis game support keyboard and controllers.Please note that keyboard input will be ignored while a controller is plugged in.\nControllerKeyboardActionAZJumpBXShiftDpadArrowsNavigateSelectRight ShiftSwitch PaletteStartEnterReset level\n\nKeyslam: CodePoltergasm: GraphicsHyphenPixel: Audio\nMade for GBJam 12",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjk4OTk0My8xNzg4NjE0OC5wbmc=/original/Vs9WJO.png",
+          "https://img.itch.zone/aW1hZ2UvMjk4OTk0My8xNzg4NjE0OS5wbmc=/original/ACsTRG.png",
+          "https://img.itch.zone/aW1hZ2UvMjk4OTk0My8xNzg5NTI0NC5wbmc=/original/dXrIm9.png",
+          "https://img.itch.zone/aW1hZ2UvMjk4OTk0My8xNzg5NTI0My5wbmc=/original/qECW2F.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows, macOS, Linux",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Authors": "Keyslam, poltergasm, HyphenPixel",
+          "Genre": "Platformer",
+          "Made with": "LÖVE",
+          "Code license": "MIT License",
+          "Average session": "A few minutes",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": 2981797,
+      "gameUrl": "https://yunglem.itch.io/canary",
+      "overallRank": 49,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "id": 2981797,
+        "score": 3.9405405405405,
+        "cover_url": "https://img.itch.zone/aW1nLzE3ODM4ODY4LnBuZw==/300x240%23c/6LwkaF.png",
+        "raw_score": 3.9405405405405,
+        "rating_count": 37,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 4.3243243243243,
+            "raw_score": 4.3243243243243,
+            "rank": 7
+          },
+          {
+            "name": "Graphics",
+            "score": 4.5945945945946,
+            "raw_score": 4.5945945945946,
+            "rank": 19
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "score": 3.3783783783784,
+            "raw_score": 3.3783783783784,
+            "rank": 129
+          },
+          {
+            "name": "Gameboy Soul",
+            "score": 3.8108108108108,
+            "raw_score": 3.8108108108108,
+            "rank": 121
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "score": 3.5945945945946,
+            "raw_score": 3.5945945945946,
+            "rank": 181
+          }
+        ],
+        "contributors": [
+          {
+            "name": "yunglem",
+            "id": 7816875
+          }
+        ],
+        "url": "https://itch.io/jam/gbjam-12/rate/2981797",
+        "rank": 49,
+        "title": "Canary"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://yunglem.itch.io/canary",
+          "title": "Canary",
+          "user": {
+            "name": "yunglem",
+            "url": "https://yunglem.itch.io",
+            "id": 7816875
+          },
+          "id": 2981797,
+          "short_text": "Precision platformer with micro-metroidvania elements",
+          "cover": "https://img.itch.zone/aW1nLzE3ODM4ODY4LnBuZw==/300x240%23c/6LwkaF.png",
+          "cover_color": "#3B3D53",
+          "platforms": [
+            "web"
+          ]
+        },
+        "rating_count": 37,
+        "id": 600691,
+        "created_at": "2024-09-21 19:45:28",
+        "coolness": 50,
+        "url": "/jam/gbjam-12/rate/2981797"
+      },
+      "details": {
+        "title": "Canary",
+        "description": "Note: game may not load on newest version of Safari. Please use Chrome. Thanks!\nMade for GBJam 12\n--------------------------------------------------\nEscape the Depths\nIn 1911, coal miners began using sacrificial canaries to detect deadly gases. The birds, more sensitive to toxins, would show distress or die, warning miners to evacuate before gas levels became lethal. Though this practice has now ended, the spirits of canaries from abandoned coal mines still seek their final rest. \n--------------------------------------------------\nObjective\nDodge and avoid the toxic gases and mysterious eyeballs to obtain a total of 5 feathers from other fallen canaries and escape the mines. Good luck!\n--------------------------------------------------\nControls\nW A S D or Arrow Keys - move and look\nK or Z - jump\nJ or X - claim grave\nO - change palette for fun!\nP - pause and stats\n--------------------------------------------------\nPost your best times when you reach the goal!\n--------------------------------------------------\nTools used:\nGame Engine: Godot 4.3Art: PixakiMusic and SFX: Bosca Ceoil - The Blue Album and JFXRPalette Overlay Shader by datagoblin (https://datagoblin.itch.io/)\nStuck? Video playthrough:",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjk4MTc5Ny8xNzg1NzYyMi5naWY=/original/hf42kn.gif",
+          "https://img.itch.zone/aW1hZ2UvMjk4MTc5Ny8xNzg1NzY1OS5naWY=/original/O1%2F3xj.gif",
+          "https://img.itch.zone/aW1hZ2UvMjk4MTc5Ny8xNzg2MDQ5MC5naWY=/original/8Zsw1O.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "yunglem",
+          "Genre": "Platformer",
+          "Made with": "Godot",
+          "Tags": "GBJam, gbjam12, Pixel Art",
+          "Average session": "A few minutes"
+        }
+      }
+    },
+    {
+      "gameId": 2988851,
+      "gameUrl": "https://cricketnoise.itch.io/moles-chasm",
+      "overallRank": 78,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "id": 2988851,
+        "score": 3.7875,
+        "cover_url": "https://img.itch.zone/aW1nLzE4MTAwODE3LmdpZg==/300x240%23c/3Z%2BHwJ.gif",
+        "raw_score": 3.7875,
+        "rating_count": 16,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 4.3125,
+            "raw_score": 4.3125,
+            "rank": 8
+          },
+          {
+            "name": "Graphics",
+            "score": 3.875,
+            "raw_score": 3.875,
+            "rank": 123
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "score": 3.4375,
+            "raw_score": 3.4375,
+            "rank": 121
+          },
+          {
+            "name": "Gameboy Soul",
+            "score": 4.0625,
+            "raw_score": 4.0625,
+            "rank": 74
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "score": 3.25,
+            "raw_score": 3.25,
+            "rank": 241
+          }
+        ],
+        "contributors": [
+          {
+            "name": "cricketnoise",
+            "id": 1601926
+          }
+        ],
+        "url": "https://itch.io/jam/gbjam-12/rate/2988851",
+        "rank": 78,
+        "title": "Mole's Chasm"
+      },
+      "entryData": {
+        "game": {
+          "short_text": "Light your way out of a dark and ghostly mine",
+          "id": 2988851,
+          "cover": "https://img.itch.zone/aW1nLzE4MTAwODE3LmdpZg==/300x240%23c/3Z%2BHwJ.gif",
+          "cover_color": "#395c98",
+          "gif_cover": "https://img.itch.zone/aW1nLzE4MTAwODE3LmdpZg==/original/d6gvOd.gif",
+          "title": "Mole's Chasm",
+          "url": "https://cricketnoise.itch.io/moles-chasm",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "cricketnoise",
+            "url": "https://cricketnoise.itch.io",
+            "id": 1601926
+          }
+        },
+        "rating_count": 16,
+        "id": 600897,
+        "created_at": "2024-09-22 11:04:26",
+        "coolness": 15,
+        "url": "/jam/gbjam-12/rate/2988851"
+      },
+      "details": {
+        "title": "Mole's Chasm",
+        "description": "About \nA survival-puzzle game with a focus on escaping a dark and ghostly mine with limited resources.\nMade for GB Jam 12 - Spooky\nFull Playthrough ~10min\nControls\n⌨️ KEYBOARD⌨️ ALT KEYBOARD🎮 GAMEPADACTIONArrow keys\nWASD\nDPAD\nLIGHT UP/MOVE/DIG/Select\nX\nK\nX\nUse FLARE\nEnter\nEnter\nA\nPause/Confirm\nF12\nF12\nSelect\nSound on/off\n\n\nCredits\n\nbelinhacbr / cricketnoise",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjk4ODg1MS8xODEwMDg0Ny5wbmc=/original/M%2FVhcD.png",
+          "https://img.itch.zone/aW1hZ2UvMjk4ODg1MS8xODEwMDkyMS5wbmc=/original/MLn8XM.png",
+          "https://img.itch.zone/aW1hZ2UvMjk4ODg1MS8xODEwMDg0Ni5wbmc=/original/s6T8Lf.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "cricketnoise",
+          "Genre": "Puzzle, Survival",
+          "Tags": "Game Boy, Pixel Art, Spooky"
+        }
+      }
+    },
+    {
+      "gameId": 2987009,
+      "gameUrl": "https://pixel-tanuki.itch.io/curseofaterwoodmanor",
+      "overallRank": 7,
+      "topCategories": [
+        "Gameplay",
+        "Gameboy Soul"
+      ],
+      "resultData": {
+        "id": 2987009,
+        "score": 4.4105263157895,
+        "cover_url": "https://img.itch.zone/aW1nLzE3ODkxNTUzLnBuZw==/300x240%23c/VtMgSN.png",
+        "raw_score": 4.4105263157895,
+        "rating_count": 19,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 4.2631578947368,
+            "raw_score": 4.2631578947368,
+            "rank": 10
+          },
+          {
+            "name": "Graphics",
+            "score": 4.5789473684211,
+            "raw_score": 4.5789473684211,
+            "rank": 22
+          },
+          {
+            "name": "Gameboy Soul",
+            "score": 4.7368421052632,
+            "raw_score": 4.7368421052632,
+            "rank": 2
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "score": 4.3157894736842,
+            "raw_score": 4.3157894736842,
+            "rank": 11
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "score": 4.1578947368421,
+            "raw_score": 4.1578947368421,
+            "rank": 72
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Pixel Tanuki Games",
+            "id": 7821718
+          },
+          {
+            "name": "MOMONGA",
+            "id": 6377154
+          },
+          {
+            "name": "Jyken",
+            "id": 9902201
+          },
+          {
+            "name": "Forcy",
+            "id": 269438
+          }
+        ],
+        "url": "https://itch.io/jam/gbjam-12/rate/2987009",
+        "rank": 7,
+        "title": "Curse of Aterwood Manor"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://pixel-tanuki.itch.io/curseofaterwoodmanor",
+          "title": "Curse of Aterwood Manor",
+          "user": {
+            "name": "Pixel Tanuki Games",
+            "url": "https://pixel-tanuki.itch.io",
+            "id": 7821718
+          },
+          "id": 2987009,
+          "short_text": "Will you escape the mansion's grasp or become a part of its haunted legacy?",
+          "cover": "https://img.itch.zone/aW1nLzE3ODkxNTUzLnBuZw==/300x240%23c/VtMgSN.png",
+          "cover_color": "#092659",
+          "platforms": [
+            "web"
+          ]
+        },
+        "rating_count": 19,
+        "id": 601801,
+        "coolness": 4,
+        "created_at": "2024-09-23 03:49:08",
+        "contributors": [
+          {
+            "name": "Pixel Tanuki Games",
+            "url": "https://pixel-tanuki.itch.io"
+          },
+          {
+            "name": "MOMONGA",
+            "url": "https://momongaa.itch.io"
+          },
+          {
+            "name": "Jyken",
+            "url": "https://jyken.itch.io"
+          },
+          {
+            "name": "Forcy",
+            "url": "https://forcy.itch.io"
+          }
+        ],
+        "url": "/jam/gbjam-12/rate/2987009"
+      },
+      "details": {
+        "title": "Curse of Aterwood Manor",
+        "description": "\nControls\nTo Move: Arrows or WASD\nA button (interact): E or J\nB button (attack): C or L\nStart: Enter\nSelect: Shift\nTaking notes is recommended.\n---------------------------\nIn \"Curse of Aterwood Manor\" you play as Detective Elias Aterwood, who inherits a mysterious, abandoned mansion rumored to be haunted.\nAs you explore its eerie halls, you discover an empty painting in the mansion's scriptorium. To unlock the secrets of the mansion and its ghostly inhabitants, you must collect painting pieces scattered across rooms, each tied to the spirits of the previous residents. \nAlong the way, you'll solve puzzles, confront apparitions, and unravel the tragic fate of the family. But as the truth unfolds, so does your own connection to the curse. Will you escape the mansion's grasp or become a part of its haunted legacy?\n\nTeam:\nProgrammer, Level Designer, and Artist: https://jyken.itch.io/\nComposer: https://forcy.itch.io/\nArtist: https://momongaa.itch.io/\nNarrative & Level Designer, Artist and Programmer: https://rtfxstudio.itch.io/\n\nThe manor music was inspired by \"In the Hall of the Mountain King\" by Edvard Grieg and the ending music was inspired by \"Moonlight Sonata\" by Ludwig van Beethoven.\n\nThis game is playable on Game Boy Color or any emulator that uses .gbc files! \nMade with GB Studio for the GB JAM 12!\n---------------------------\nKnown bugs: -If you're stuck at the harp puzzle, you have to use B > Down > A to get out as the choice dialogue doesn't show up. (The answer to the puzzle is Mi Do Mi So Mi Ti)\nFixed in version 1.1\n-The loading of the painting pieces can be inconsistent. If they do not update correctly when finding new pieces, try going back and looking at the painting a second time. ( in case it still doesn't load you can see the full painting below)\nFixed in version 1.1\nThanks for playing !\nFull Music Soundtrack:\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjk4NzAwOS8xNzg5MTk1Mi5wbmc=/original/VQDznn.png",
+          "https://img.itch.zone/aW1hZ2UvMjk4NzAwOS8xNzg5MTg4NS5wbmc=/original/T8M3UA.png",
+          "https://img.itch.zone/aW1hZ2UvMjk4NzAwOS8xNzg5NjU1Ny5wbmc=/original/JC6eEw.png",
+          "https://img.itch.zone/aW1hZ2UvMjk4NzAwOS8xNzg5MTc0OC5wbmc=/original/EAoIA4.png",
+          "https://img.itch.zone/aW1hZ2UvMjk4NzAwOS8xNzg5MTczNy5wbmc=/original/%2BWZxf2.png",
+          "https://img.itch.zone/aW1hZ2UvMjk4NzAwOS8xNzg2Njc2Ny5wbmc=/original/JCheTr.png",
+          "https://img.itch.zone/aW1hZ2UvMjk4NzAwOS8xNzg5MTY3Ni5wbmc=/original/O8CCI1.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.3 out of 5 stars(4 total ratings)",
+          "Authors": "Pixel Tanuki Games, MOMONGA, Jyken, Forcy",
+          "Genre": "Puzzle",
+          "Made with": "GB Studio",
+          "Tags": "2D, Game Boy, gbstudio, Ghosts, haunted, Indie, Pixel Art, Short, Spooky, Top-Down",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Keyboard, Touchscreen"
+        }
+      }
+    },
+    {
+      "gameId": 2982607,
+      "gameUrl": "https://scarmez.itch.io/little-pet-of-potions",
+      "overallRank": 67,
+      "topCategories": [
+        "Soundtrack/SFX"
+      ],
+      "resultData": {
+        "id": 2982607,
+        "score": 3.8375,
+        "cover_url": "https://img.itch.zone/aW1nLzE3ODY3MTIzLnBuZw==/300x240%23c/0LJ5td.png",
+        "raw_score": 3.8375,
+        "rating_count": 16,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 3.875,
+            "raw_score": 3.875,
+            "rank": 34
+          },
+          {
+            "name": "Graphics",
+            "score": 4.3125,
+            "raw_score": 4.3125,
+            "rank": 53
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "score": 4.5,
+            "raw_score": 4.5,
+            "rank": 3
+          },
+          {
+            "name": "Gameboy Soul",
+            "score": 3.375,
+            "raw_score": 3.375,
+            "rank": 207
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "score": 3.125,
+            "raw_score": 3.125,
+            "rank": 262
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Scarmez",
+            "id": 1150851
+          },
+          {
+            "name": "It’s Whitney!",
+            "id": 1955127
+          },
+          {
+            "name": "RABBITKNG",
+            "id": 5307820
+          },
+          {
+            "name": "IndigoHowler",
+            "id": 11384972
+          }
+        ],
+        "url": "https://itch.io/jam/gbjam-12/rate/2982607",
+        "rank": 67,
+        "title": "Little Pet of Potions"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://scarmez.itch.io/little-pet-of-potions",
+          "title": "Little Pet of Potions",
+          "user": {
+            "name": "Scarmez",
+            "url": "https://scarmez.itch.io",
+            "id": 1150851
+          },
+          "id": 2982607,
+          "short_text": "Summon a familiar, brew potions.",
+          "cover": "https://img.itch.zone/aW1nLzE3ODY3MTIzLnBuZw==/300x240%23c/0LJ5td.png",
+          "cover_color": "#ff8b40",
+          "platforms": [
+            "web"
+          ]
+        },
+        "rating_count": 16,
+        "id": 601896,
+        "coolness": 13,
+        "created_at": "2024-09-23 07:02:22",
+        "contributors": [
+          {
+            "name": "Scarmez",
+            "url": "https://scarmez.itch.io"
+          },
+          {
+            "name": "It’s Whitney!",
+            "url": "https://pixel-bluewit.itch.io"
+          },
+          {
+            "name": "RABBITKNG",
+            "url": "https://rabbitkngstudio.itch.io"
+          },
+          {
+            "name": "IndigoHowler",
+            "url": "https://indigohowler.itch.io"
+          }
+        ],
+        "url": "/jam/gbjam-12/rate/2982607"
+      },
+      "details": {
+        "title": "Little Pet of Potions",
+        "description": "\n\nLet's Get Brewing!\nThe potion business is booming, and as an aspiring user of the magical arts - you need to make a quota. Summon your familiar and brew potions to the beat of the music in this adorable creature keeper. \nKeep your pet happy and maybe... just maybe... something good will happen~ \nFeatures\nTwo familiars to choose fromFamiliars evolve and grow as you play the game Amazing music and rhythm mini-game \nControls\nThis game uses gameboy controls, the keys for PC are mapped below. \nGameboy InputsKeyAZBXStartEnterSelectRight ShiftDirectional PadArrow  Keys \n\nAcknowledgements\nThis game was created in 10 days for the Gameboy Jam 12. ",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjk4MjYwNy8xNzg5NDc4MC5wbmc=/original/cYhWz7.png",
+          "https://img.itch.zone/aW1hZ2UvMjk4MjYwNy8xNzg5NDc4MS5wbmc=/original/Gc7W1n.png",
+          "https://img.itch.zone/aW1hZ2UvMjk4MjYwNy8xNzg5NDc3OS5wbmc=/original/HlWIcH.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Authors": "Scarmez, It’s Whitney!, RABBITKNG, IndigoHowler",
+          "Genre": "Simulation, Rhythm",
+          "Tags": "2D, Game Boy, gameboy-jam-12, gameboyjam12, Pixel Art, Virtual Pet, witch"
+        }
+      }
+    },
+    {
+      "gameId": 2981242,
+      "gameUrl": "https://retrobright.itch.io/monster-munch",
+      "overallRank": 94,
+      "topCategories": [
+        "Soundtrack/SFX"
+      ],
+      "resultData": {
+        "id": 2981242,
+        "score": 3.7111111111111,
+        "cover_url": "https://img.itch.zone/aW1nLzE3ODQ2MDUzLnBuZw==/300x240%23c/9Ca4KM.png",
+        "raw_score": 3.7111111111111,
+        "rating_count": 18,
+        "criteria": [
+          {
+            "name": "Gameboy Soul",
+            "score": 3.3888888888889,
+            "raw_score": 3.3888888888889,
+            "rank": 199
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.1666666666667,
+            "raw_score": 3.1666666666667,
+            "rank": 147
+          },
+          {
+            "name": "Graphics",
+            "score": 4.2222222222222,
+            "raw_score": 4.2222222222222,
+            "rank": 63
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "score": 4.5,
+            "raw_score": 4.5,
+            "rank": 3
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "score": 3.2777777777778,
+            "raw_score": 3.2777777777778,
+            "rank": 235
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Retrobright",
+            "id": 3592944
+          }
+        ],
+        "url": "https://itch.io/jam/gbjam-12/rate/2981242",
+        "rank": 94,
+        "title": "Monster Munch"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://retrobright.itch.io/monster-munch",
+          "user": {
+            "name": "Retrobright",
+            "url": "https://retrobright.itch.io",
+            "id": 3592944
+          },
+          "id": 2981242,
+          "title": "Monster Munch",
+          "cover": "https://img.itch.zone/aW1nLzE3ODQ2MDUzLnBuZw==/300x240%23c/9Ca4KM.png",
+          "cover_color": "#7c3f58",
+          "platforms": [
+            "web"
+          ]
+        },
+        "rating_count": 18,
+        "id": 601246,
+        "created_at": "2024-09-22 17:22:32",
+        "coolness": 6,
+        "url": "/jam/gbjam-12/rate/2981242"
+      },
+      "details": {
+        "title": "Monster Munch",
+        "description": "\nControls\nA button - SpacebarB button - CD-Pad -  Arrow keys\nCredits\nArt/Programming/Game design - RetrobrightSoundtrack - Tiaco",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjk4MTI0Mi8xNzg0NjE5OC5wbmc=/original/hp4y31.png",
+          "https://img.itch.zone/aW1hZ2UvMjk4MTI0Mi8xNzg0NjE0Mi5wbmc=/original/JEPaUK.png",
+          "https://img.itch.zone/aW1hZ2UvMjk4MTI0Mi8xNzg0NjIzMS5wbmc=/original/M%2B%2BgXD.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "Retrobright",
+          "Genre": "Simulation",
+          "Made with": "Godot"
+        }
+      }
+    },
+    {
+      "gameId": 2985226,
+      "gameUrl": "https://jordiexe.itch.io/purga-story",
+      "overallRank": 24,
+      "topCategories": [
+        "Soundtrack/SFX"
+      ],
+      "resultData": {
+        "id": 2985226,
+        "score": 4.0962962962963,
+        "cover_url": "https://img.itch.zone/aW1nLzE3ODc4NDU1LnBuZw==/300x240%23c/K6quKf.png",
+        "raw_score": 4.0962962962963,
+        "rating_count": 27,
+        "criteria": [
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "score": 4.2592592592593,
+            "raw_score": 4.2592592592593,
+            "rank": 51
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.4074074074074,
+            "raw_score": 3.4074074074074,
+            "rank": 101
+          },
+          {
+            "name": "Graphics",
+            "score": 3.962962962963,
+            "raw_score": 3.962962962963,
+            "rank": 112
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "score": 4.3703703703704,
+            "raw_score": 4.3703703703704,
+            "rank": 6
+          },
+          {
+            "name": "Gameboy Soul",
+            "score": 4.4814814814815,
+            "raw_score": 4.4814814814815,
+            "rank": 18
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Jordi.exe",
+            "id": 429690
+          },
+          {
+            "name": "SeaNoodle",
+            "id": 11386221
+          },
+          {
+            "name": "MicroMana",
+            "id": 11442113
+          },
+          {
+            "name": "Bobsicles",
+            "id": 10515887
+          }
+        ],
+        "url": "https://itch.io/jam/gbjam-12/rate/2985226",
+        "rank": 24,
+        "title": "Purga-Story Demo"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://jordiexe.itch.io/purga-story",
+          "title": "Purga-Story Demo",
+          "user": {
+            "name": "Jordi.exe",
+            "url": "https://jordiexe.itch.io",
+            "id": 429690
+          },
+          "id": 2985226,
+          "short_text": "Run! Jump! Float!? Ghosts!?!? Prepare yourself for this spooky metroidvania!",
+          "cover": "https://img.itch.zone/aW1nLzE3ODc4NDU1LnBuZw==/300x240%23c/K6quKf.png",
+          "cover_color": "#425e42",
+          "platforms": [
+            "web"
+          ]
+        },
+        "rating_count": 27,
+        "id": 602043,
+        "coolness": 48,
+        "created_at": "2024-09-23 10:47:09",
+        "contributors": [
+          {
+            "name": "Jordi.exe",
+            "url": "https://jordiexe.itch.io"
+          },
+          {
+            "name": "SeaNoodle",
+            "url": "https://seanoodle.itch.io"
+          },
+          {
+            "name": "MicroMana",
+            "url": "https://micromana.itch.io"
+          },
+          {
+            "name": "Bobsicles",
+            "url": "https://bobsicles.itch.io"
+          }
+        ],
+        "url": "/jam/gbjam-12/rate/2985226"
+      },
+      "details": {
+        "title": "Purga-Story Demo",
+        "description": "The blood moon rises in this spooky Metroidvania. Local newly-dead ghost girl Claire has been awakened by the blood moon. With no memories and only a vague idea of who she is, she must brave the terrors of the living world with her ghastly abilities to reclaim her past and get her closure, before she is locked in purgatory forever. Also there is a skull there too, I suppose.\n\nControls\nArrow Keys/AWSD - (DPad Controls)\nZ - A (Jump/Hold to float)\nX - B (Special Ability)\nShift - Select (Shift Ability)",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE3ODc4NDU1LnBuZw==/original/eclHk%2F.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "Jordi.exe, SeaNoodle, MicroMana, Bobsicles",
+          "Genre": "Platformer, Shooter",
+          "Tags": "Game Boy, Game Boy ROM, GBJam, Metroidvania, Spooky"
+        }
+      }
+    },
+    {
+      "gameId": 2991629,
+      "gameUrl": "https://michirin.itch.io/akumanor-gaiden",
+      "overallRank": 13,
+      "topCategories": [
+        "Soundtrack/SFX",
+        "Gameboy Soul"
+      ],
+      "resultData": {
+        "id": 2991629,
+        "score": 4.2634146341463,
+        "cover_url": "https://img.itch.zone/aW1nLzE3ODk1MjMxLmpwZw==/300x240%23c/W0rWcr.jpg",
+        "raw_score": 4.2634146341463,
+        "rating_count": 41,
+        "criteria": [
+          {
+            "name": "Gameboy Soul",
+            "score": 4.6829268292683,
+            "raw_score": 4.6829268292683,
+            "rank": 6
+          },
+          {
+            "name": "Graphics",
+            "score": 4.4146341463415,
+            "raw_score": 4.4146341463415,
+            "rank": 39
+          },
+          {
+            "name": "Gameplay",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 22
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "score": 4.3658536585366,
+            "raw_score": 4.3658536585366,
+            "rank": 7
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "score": 3.8536585365854,
+            "raw_score": 3.8536585365854,
+            "rank": 138
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Michirin",
+            "id": 1743791
+          }
+        ],
+        "url": "https://itch.io/jam/gbjam-12/rate/2991629",
+        "rank": 13,
+        "title": "Akumanor Gaiden"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://michirin.itch.io/akumanor-gaiden",
+          "user": {
+            "name": "Michirin",
+            "url": "https://michirin.itch.io",
+            "id": 1743791
+          },
+          "id": 2991629,
+          "title": "Akumanor Gaiden",
+          "cover": "https://img.itch.zone/aW1nLzE3ODk1MjMxLmpwZw==/300x240%23c/W0rWcr.jpg",
+          "short_text": "Infiltrate the Akumanor and vanquish the evils within!",
+          "platforms": [
+            "web"
+          ]
+        },
+        "rating_count": 41,
+        "id": 602004,
+        "created_at": "2024-09-23 10:18:33",
+        "coolness": 24,
+        "url": "/jam/gbjam-12/rate/2991629"
+      },
+      "details": {
+        "title": "Akumanor Gaiden",
+        "description": "Orochi terrorises the land! You are Sakura, youkai hunter, and you vow to protect your village and destroy Orochi, who inhabits the most vile of castles, The Akumanor!\nJump, whip, throw shuriken, and vanquish youkai in this exciting adventure inspired by Japanese horror!\nKeyboard Controls:Movement: Arrow Keys or W, A, S and DJump: Z, J or AltWhip: X, K or CtrlShuriken: Up + WhipOpen Treasure Chests: UpPause: Enter\nController Controls:Movement : D-PadJump: A / CircleWhip: B / CrossShuriken: Up + WhipOpen Treasure Chests: UpPause: StartYou can also download the ROM below, but you will need an emulator to play it, I recommend BGB: https://bgb.bircd.org/\nPost Jam Note: I've decided that the browser version is going to remain the initial 1.0 release, which has a bug which can disable player damage from enemy collisions if certain conditions are met, I made that decision to preserve the state in which the game was initially submitted to the GBJAM 12.On that note, I strongly recommend downloading the fixed ROM below and playing that instead.I'm also working on a colour version of the game which has no lag and a small amount of extra content, I'll post it and link it here as soon as it's done.I've also decided to accept donations for the game if anyone is so inclined, thank you very much in advance!Also thanks to everyone who's played and rated the game during the jam period!\n(13/9/2024 - 23:34 UTC) Note: Currently the Browser version is the original game as it was submitted to the Jam, however the ROM is a small bugfix update. Please judge the game for the Jam by the Browser version, and enjoy the fixed ROM at your leisure later!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjk5MTYyOS8xNzg5NTg0My5wbmc=/original/PGILsw.png",
+          "https://img.itch.zone/aW1hZ2UvMjk5MTYyOS8xNzg5NTg0OC5wbmc=/original/mnUYlp.png",
+          "https://img.itch.zone/aW1hZ2UvMjk5MTYyOS8xNzg5NTg1MC5wbmc=/original/ljnW%2Bs.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.6 out of 5 stars(5 total ratings)",
+          "Author": "Michirin",
+          "Genre": "Platformer",
+          "Tags": "Game Boy, GBJam, Homebrew, Retro"
+        }
+      }
+    },
+    {
+      "gameId": 2991672,
+      "gameUrl": "https://playinstinct.itch.io/doomslinger-dungeon",
+      "overallRank": 8,
+      "topCategories": [
+        "Soundtrack/SFX"
+      ],
+      "resultData": {
+        "id": 2991672,
+        "score": 4.3958333333333,
+        "cover_url": "https://img.itch.zone/aW1nLzIzMTUyNzc2LnBuZw==/300x240%23c/rHZ6sU.png",
+        "raw_score": 4.3958333333333,
+        "rating_count": 48,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 4.1041666666667,
+            "raw_score": 4.1041666666667,
+            "rank": 19
+          },
+          {
+            "name": "Graphics",
+            "score": 4.4583333333333,
+            "raw_score": 4.4583333333333,
+            "rank": 33
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "score": 4.3333333333333,
+            "raw_score": 4.3333333333333,
+            "rank": 8
+          },
+          {
+            "name": "Gameboy Soul",
+            "score": 4.5625,
+            "raw_score": 4.5625,
+            "rank": 11
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "score": 4.5208333333333,
+            "raw_score": 4.5208333333333,
+            "rank": 20
+          }
+        ],
+        "contributors": [
+          {
+            "name": "playinstinct",
+            "id": 8024888
+          }
+        ],
+        "url": "https://itch.io/jam/gbjam-12/rate/2991672",
+        "rank": 8,
+        "title": "Doomslinger Dungeon"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://playinstinct.itch.io/doomslinger-dungeon",
+          "title": "Doomslinger Dungeon",
+          "user": {
+            "name": "playinstinct",
+            "url": "https://playinstinct.itch.io",
+            "id": 8024888
+          },
+          "id": 2991672,
+          "short_text": "A first-person  dungeon-crawling rougue-lite shooter for the Game Boy.",
+          "cover": "https://img.itch.zone/aW1nLzIzMTUyNzc2LnBuZw==/300x240%23c/rHZ6sU.png",
+          "cover_color": "#000000",
+          "platforms": [
+            "web"
+          ]
+        },
+        "rating_count": 48,
+        "id": 602072,
+        "created_at": "2024-09-23 10:58:28",
+        "coolness": 11,
+        "url": "/jam/gbjam-12/rate/2991672"
+      },
+      "details": {
+        "title": "Doomslinger Dungeon",
+        "description": "\nA spookyfirst-person dungeon-crawlingrougue-liteshooterfor the Game Boy \n\n\n\nMy entry for GBJAM 12 \nThis game was originally built within 10 days during the game jam. This includes the creation of all assets. It placed 8th of around 400 submissions.\n\n\n\nThere were next to no first-person shooters on the original Game Boy. So, I wanted to change that :)\n\n \n\nPlay as the Doomslinger, a mysterious gunslinger. Venture into a creepy dungeon and defeat all kinds of spooky monsters like ghosts, zombies and pumpkin monsters.\n\n\n\nHow to Play\nIf the web player does not play any sound or respond to your inputs, click into the web player area once again with your mouse.\n\n\n\nPlay the Latest Version\nAfter the game jam I have updated the game. I'm going to keep the submitted version online, if you are curious what the game looked like when it was submitted. In any other case you should probably play the most recent version. \nIf you are interested in what changed since the game jam and what are my future ideas and plans for this game, please read my devlogs. I'm looking forward to your feedback.\n\n\n\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjk5MTY3Mi8xNzg5NjQwOC5naWY=/original/vqF59m.gif",
+          "https://img.itch.zone/aW1hZ2UvMjk5MTY3Mi8xNzg5NzA3OC5qcGc=/original/I5dMRb.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjk5MTY3Mi8xNzg5NzEyMS5qcGc=/original/m5Psio.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjk5MTY3Mi8xNzg5Nzk5MC5qcGc=/original/kfzZMF.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjk5MTY3Mi8xNzg5NzMwOS5qcGc=/original/4dhrt4.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjk5MTY3Mi8xNzg5NzA3Ny5qcGc=/original/bWhjN%2F.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjk5MTY3Mi8xNzg5NzA2OS5qcGc=/original/qSHRNB.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjk5MTY3Mi8xNzg5NzA2OC5qcGc=/original/oS3g8z.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjk5MTY3Mi8xNzg5NzA2Ni5qcGc=/original/ef3M6w.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjk5MTY3Mi8xNzg5NzEwNS5qcGc=/original/9QR7WB.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjk5MTY3Mi8xNzg5NzMwOC5qcGc=/original/zd5Q1I.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.7 out of 5 stars(21 total ratings)",
+          "Author": "playinstinct",
+          "Genre": "Shooter"
+        }
+      }
+    },
+    {
+      "gameId": 2987219,
+      "gameUrl": "https://memosa.itch.io/deadline",
+      "overallRank": 23,
+      "topCategories": [
+        "Soundtrack/SFX",
+        "Interpretation of the Secondary Theme"
+      ],
+      "resultData": {
+        "id": 2987219,
+        "score": 4.1,
+        "cover_url": "https://img.itch.zone/aW1nLzE3ODk0MzY1LnBuZw==/300x240%23c/dF1uPP.png",
+        "raw_score": 4.1,
+        "rating_count": 12,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 3.25,
+            "raw_score": 3.25,
+            "rank": 127
+          },
+          {
+            "name": "Graphics",
+            "score": 4.5833333333333,
+            "raw_score": 4.5833333333333,
+            "rank": 21
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "score": 4.3333333333333,
+            "raw_score": 4.3333333333333,
+            "rank": 8
+          },
+          {
+            "name": "Gameboy Soul",
+            "score": 3.6666666666667,
+            "raw_score": 3.6666666666667,
+            "rank": 145
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "score": 4.6666666666667,
+            "raw_score": 4.6666666666667,
+            "rank": 9
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Meansofa",
+            "id": 9595420
+          },
+          {
+            "name": "muhakun1001",
+            "id": 11623644
+          },
+          {
+            "name": "PlayerXYZ",
+            "id": 2036590
+          },
+          {
+            "name": "EddieR222",
+            "id": 10074442
+          },
+          {
+            "name": "Rhi",
+            "id": 2528973
+          }
+        ],
+        "url": "https://itch.io/jam/gbjam-12/rate/2987219",
+        "rank": 23,
+        "title": "DeadLine"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://memosa.itch.io/deadline",
+          "title": "DeadLine",
+          "user": {
+            "name": "Meansofa",
+            "url": "https://memosa.itch.io",
+            "id": 9595420
+          },
+          "id": 2987219,
+          "short_text": "Don't you hate it when you're alone in your room and you feel that someone is watching you",
+          "cover": "https://img.itch.zone/aW1nLzE3ODk0MzY1LnBuZw==/300x240%23c/dF1uPP.png",
+          "cover_color": "#1d3d20",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ]
+        },
+        "rating_count": 12,
+        "id": 601713,
+        "coolness": 8,
+        "created_at": "2024-09-23 00:44:51",
+        "contributors": [
+          {
+            "name": "Meansofa",
+            "url": "https://memosa.itch.io"
+          },
+          {
+            "name": "muhakun1001",
+            "url": "https://muhakun1001.itch.io"
+          },
+          {
+            "name": "PlayerXYZ",
+            "url": "https://playerxyz.itch.io"
+          },
+          {
+            "name": "EddieR222",
+            "url": "https://eddier222.itch.io"
+          },
+          {
+            "name": "Rhi",
+            "url": "https://digipaw.itch.io"
+          }
+        ],
+        "url": "/jam/gbjam-12/rate/2987219"
+      },
+      "details": {
+        "title": "DeadLine",
+        "description": "Ever get the feeling of being watched while your alone by a window at night, You stop what your doing to look outside but can't see anything?  \nStep into the shoes of an art student who didn't get their assignments done on time and needs to pull an all-nighter to get it all done before the deadline. Alone working on their assignments a creeping sense of unease fills them as they look towards the window. Is there something out there? Is it watching them?  Will they be able to get their work done on time while surviving the night?Find out in this mash up drawing and horror game, where you must get your work done while keeping an eye out for what lurks just out of sight. \nINSTRUCTIONS\nDraw on the canvas according to the details of the assignment by using the cursor to move the pencil around. You can do this in drawing mode, but while in this mode you are vulnerable to the monsters outside the window.  Switching into room mode so that you turn the lights on and off to see outside. If you see the monster close the blinds so that it can no longer see you causing it to momentarily go away. Take too long to check on it and close the blinds and the monster will start hitting the glass breaking it. But don't leave the blinds closed too long.If the monster hits the glass 4 times it will enter the room. \nCONTROLS (Keyboard)\n\"E\" > press or hold in drawing mode to color spaces, close/ open blinds in room mode\"Q\" >  Erase in Drawing mode, Turn off Lights in Room Mode \"W, A, S, D\" > Move cursor around screen, move options in menus\"Space \" > Switch between Room and Drawing mode \"Tab \" > Open the pause menu to look at the assignment again/ see options in the menu\nTEAM\nMeansofa | sparrow6550 | global_xi | Rhi (@Digipaw1 ) | PlayerXYZ | muhakun1001 ",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE3ODk0MzY1LnBuZw==/original/gyyMd%2B.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Authors": "Meansofa, muhakun1001, PlayerXYZ, EddieR222, Rhi",
+          "Genre": "Simulation",
+          "Made with": "Godot",
+          "Tags": "2D, Creepy, Drawing, Game Boy, Godot, Horror, Pixel Art, Retro, Short, Spooky"
+        }
+      }
+    },
+    {
+      "gameId": 2974705,
+      "gameUrl": "https://caseportman.itch.io/lurk",
+      "overallRank": 10,
+      "topCategories": [
+        "Soundtrack/SFX",
+        "Interpretation of the Secondary Theme"
+      ],
+      "resultData": {
+        "id": 2974705,
+        "score": 4.35,
+        "cover_url": "https://img.itch.zone/aW1nLzE3ODk2OTczLnBuZw==/300x240%23c/ZPE688.png",
+        "raw_score": 4.35,
+        "rating_count": 76,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 4.2105263157895,
+            "raw_score": 4.2105263157895,
+            "rank": 15
+          },
+          {
+            "name": "Graphics",
+            "score": 4.6578947368421,
+            "raw_score": 4.6578947368421,
+            "rank": 13
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "score": 4.3289473684211,
+            "raw_score": 4.3289473684211,
+            "rank": 10
+          },
+          {
+            "name": "Gameboy Soul",
+            "score": 3.8552631578947,
+            "raw_score": 3.8552631578947,
+            "rank": 109
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "score": 4.6973684210526,
+            "raw_score": 4.6973684210526,
+            "rank": 5
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Case Portman",
+            "id": 4263
+          }
+        ],
+        "url": "https://itch.io/jam/gbjam-12/rate/2974705",
+        "rank": 10,
+        "title": "Lurk."
+      },
+      "entryData": {
+        "game": {
+          "url": "https://caseportman.itch.io/lurk",
+          "title": "Lurk.",
+          "user": {
+            "name": "Case Portman",
+            "url": "https://caseportman.itch.io",
+            "id": 4263
+          },
+          "id": 2974705,
+          "short_text": "They just want to play.",
+          "cover": "https://img.itch.zone/aW1nLzE3ODk2OTczLnBuZw==/300x240%23c/ZPE688.png",
+          "cover_color": "#134736",
+          "platforms": [
+            "windows",
+            "web"
+          ]
+        },
+        "rating_count": 76,
+        "id": 601970,
+        "created_at": "2024-09-23 09:24:28",
+        "coolness": 56,
+        "url": "/jam/gbjam-12/rate/2974705"
+      },
+      "details": {
+        "title": "Lurk.",
+        "description": "Loot an abandoned building like the brave bunny you are. You have no choice anyway.Use the initial 15 seconds wisely because after that, the ghouls are set free! \nSearch through crates, bookshelves and even big ol' treasure chests (who put them there??) and collect the quota to enable your escape.\nControls\nArrows = MoveZ = Action (HOLD to open / break things)X = Brighten Lamp (Uses more Oil)\nOr try WASD + K/L if that's more your thing.Works with controller too!For GBJam 12 - Theme: Spooky.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjk3NDcwNS8xNzg5NDcyNS5wbmc=/original/keSC34.png",
+          "https://img.itch.zone/aW1hZ2UvMjk3NDcwNS8xNzg5NDcyNi5wbmc=/original/XnP14L.png",
+          "https://img.itch.zone/aW1hZ2UvMjk3NDcwNS8xNzg5NDcyMi5wbmc=/original/rVUayg.png",
+          "https://img.itch.zone/aW1hZ2UvMjk3NDcwNS8xNzg5NDcyNC5wbmc=/original/%2FHml2i.png",
+          "https://img.itch.zone/aW1hZ2UvMjk3NDcwNS8xNzg5NDcyMS5wbmc=/original/CvzGQg.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.8 out of 5 stars(22 total ratings)",
+          "Author": "Case Portman",
+          "Genre": "Adventure",
+          "Tags": "Game Boy, Horror, Loot, Top-Down"
+        }
+      }
+    },
+    {
+      "gameId": 2988808,
+      "gameUrl": "https://protopixel.itch.io/charavera-non-chilla",
+      "overallRank": 21,
+      "topCategories": [
+        "Gameboy Soul"
+      ],
+      "resultData": {
+        "id": 2988808,
+        "score": 4.1555555555556,
+        "cover_url": "https://img.itch.zone/aW1nLzE3OTA0Nzg0LmpwZWc=/300x240%23c/ECQr2p.jpeg",
+        "raw_score": 4.1555555555556,
+        "rating_count": 18,
+        "criteria": [
+          {
+            "name": "Gameboy Soul",
+            "score": 4.7222222222222,
+            "raw_score": 4.7222222222222,
+            "rank": 3
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "score": 3.8888888888889,
+            "raw_score": 3.8888888888889,
+            "rank": 55
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "score": 4.1666666666667,
+            "raw_score": 4.1666666666667,
+            "rank": 68
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.6666666666667,
+            "raw_score": 3.6666666666667,
+            "rank": 55
+          },
+          {
+            "name": "Graphics",
+            "score": 4.3333333333333,
+            "raw_score": 4.3333333333333,
+            "rank": 50
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Protopixel",
+            "id": 1405248
+          },
+          {
+            "name": "naujmaga",
+            "id": 11043699
+          }
+        ],
+        "url": "https://itch.io/jam/gbjam-12/rate/2988808",
+        "rank": 21,
+        "title": "CharaVera Non Chilla - GBJam 12 Entry UPDATE"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://protopixel.itch.io/charavera-non-chilla",
+          "title": "CharaVera Non Chilla - GBJam 12 Entry UPDATE",
+          "user": {
+            "name": "Protopixel",
+            "url": "https://protopixel.itch.io",
+            "id": 1405248
+          },
+          "id": 2988808,
+          "short_text": "Help Chara get back to sleep getting rid of the new habitants of the graveyard!",
+          "cover": "https://img.itch.zone/aW1nLzE3OTA0Nzg0LmpwZWc=/300x240%23c/ECQr2p.jpeg",
+          "cover_color": "#306850",
+          "platforms": [
+            "web"
+          ]
+        },
+        "rating_count": 18,
+        "id": 600885,
+        "coolness": 27,
+        "created_at": "2024-09-22 10:30:14",
+        "contributors": [
+          {
+            "name": "Protopixel",
+            "url": "https://protopixel.itch.io"
+          },
+          {
+            "name": "naujmaga",
+            "url": "https://naujmaga.itch.io"
+          }
+        ],
+        "url": "/jam/gbjam-12/rate/2988808"
+      },
+      "details": {
+        "title": "CharaVera Non Chilla - GBJam 12 Entry UPDATE",
+        "description": "Help Chara, our little skelleton friend to go back to sleep on this single-screen platformer in the style of old arcade games n_n\nbeware, some bugs might ocurr U_U the game is cursed...EDIT: bugs i think are fixed :P\ncontrols for computer:\n             WASD: move the character\n             J: Jump\n             H: shoot bones\n             G: pause the game\ncontrols for gameboy:\n             Cross: move the character\n\n             A: Jump\n\n             B: shoot bones\n\n             Start: pause the game\n\nHope you all like it\nMusic by the great Naujmaga n_n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjk4ODgwOC8xODA5MjIzMC5wbmc=/original/qkO1hl.png",
+          "https://img.itch.zone/aW1hZ2UvMjk4ODgwOC8xODA5MjIzMS5wbmc=/original/bwU5CK.png",
+          "https://img.itch.zone/aW1hZ2UvMjk4ODgwOC8xODA5MjIzMi5wbmc=/original/FkvSEJ.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Authors": "Protopixel, naujmaga",
+          "Genre": "Platformer",
+          "Tags": "Arcade, Game Boy, GBJam, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 2990675,
+      "gameUrl": "https://bam-tam.itch.io/soul-sleuth",
+      "overallRank": 17,
+      "topCategories": [
+        "Gameboy Soul"
+      ],
+      "resultData": {
+        "id": 2990675,
+        "score": 4.2086956521739,
+        "cover_url": "https://img.itch.zone/aW1nLzE3ODg5MTk0LnBuZw==/300x240%23c/hyIDB0.png",
+        "raw_score": 4.2086956521739,
+        "rating_count": 23,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 3.6086956521739,
+            "raw_score": 3.6086956521739,
+            "rank": 67
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "score": 4.304347826087,
+            "raw_score": 4.304347826087,
+            "rank": 13
+          },
+          {
+            "name": "Graphics",
+            "score": 4.4782608695652,
+            "raw_score": 4.4782608695652,
+            "rank": 29
+          },
+          {
+            "name": "Gameboy Soul",
+            "score": 4.695652173913,
+            "raw_score": 4.695652173913,
+            "rank": 5
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "score": 3.9565217391304,
+            "raw_score": 3.9565217391304,
+            "rank": 118
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Bam Tam",
+            "id": 982841
+          }
+        ],
+        "url": "https://itch.io/jam/gbjam-12/rate/2990675",
+        "rank": 17,
+        "title": "Soul Sleuth - GBJAM 12"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://bam-tam.itch.io/soul-sleuth",
+          "title": "Soul Sleuth - GBJAM 12",
+          "user": {
+            "name": "Bam Tam",
+            "url": "https://bam-tam.itch.io",
+            "id": 982841
+          },
+          "id": 2990675,
+          "short_text": "GBJAM 12 Entry; A very short adventure",
+          "cover": "https://img.itch.zone/aW1nLzE3ODg5MTk0LnBuZw==/300x240%23c/hyIDB0.png",
+          "cover_color": "#704e61",
+          "platforms": [
+            "web"
+          ]
+        },
+        "rating_count": 23,
+        "id": 601675,
+        "created_at": "2024-09-22 23:31:19",
+        "coolness": 48,
+        "url": "/jam/gbjam-12/rate/2990675"
+      },
+      "details": {
+        "title": "Soul Sleuth - GBJAM 12",
+        "description": "SOUL SLEUTHThis is my entry for GBJAM 12\nMy first ever entry to a Jam and my first \"playable\" game.\nAll art, music and coding by Bam Tam (that's me)\nExplore the village and cemetery and complete a task...\nUnfortunately I had very limited time available to me what with working a full time job, but I'm quite proud of what I managed to accomplish in the time I had.\nThank you for checking out my game and I hope you found something to enjoy, what little there is of it. ",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjk5MDY3NS8xNzg4OTc2MS5wbmc=/original/Hmc6y1.png",
+          "https://img.itch.zone/aW1hZ2UvMjk5MDY3NS8xNzg4OTc2Mi5wbmc=/original/Om2zqJ.png",
+          "https://img.itch.zone/aW1hZ2UvMjk5MDY3NS8xNzg4OTc2My5wbmc=/original/%2Bd7Gy5.png",
+          "https://img.itch.zone/aW1hZ2UvMjk5MDY3NS8xNzg4OTc2NC5wbmc=/original/J5%2Fyld.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Author": "Bam Tam",
+          "Genre": "Adventure",
+          "Tags": "8-Bit, Exploration, Game Boy, Ghosts, Pixel Art, Retro, Short, Spooky, Top-Down"
+        }
+      }
+    },
+    {
+      "gameId": 2991182,
+      "gameUrl": "https://salivaried.itch.io/crazy-cauldron",
+      "overallRank": 27,
+      "topCategories": [
+        "Gameboy Soul"
+      ],
+      "resultData": {
+        "id": 2991182,
+        "score": 4.0666666666667,
+        "cover_url": "https://img.itch.zone/aW1nLzE3ODk5MDQ2LnBuZw==/300x240%23c/K0lZ7G.png",
+        "raw_score": 4.0666666666667,
+        "rating_count": 12,
+        "criteria": [
+          {
+            "name": "Soundtrack/SFX",
+            "score": 2.4166666666667,
+            "raw_score": 2.4166666666667,
+            "rank": 267
+          },
+          {
+            "name": "Gameplay",
+            "score": 4.0833333333333,
+            "raw_score": 4.0833333333333,
+            "rank": 20
+          },
+          {
+            "name": "Graphics",
+            "score": 4.6666666666667,
+            "raw_score": 4.6666666666667,
+            "rank": 11
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "score": 4.5,
+            "raw_score": 4.5,
+            "rank": 21
+          },
+          {
+            "name": "Gameboy Soul",
+            "score": 4.6666666666667,
+            "raw_score": 4.6666666666667,
+            "rank": 7
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Salivaried",
+            "id": 1222637
+          }
+        ],
+        "url": "https://itch.io/jam/gbjam-12/rate/2991182",
+        "rank": 27,
+        "title": "Crazy Cauldron"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://salivaried.itch.io/crazy-cauldron",
+          "title": "Crazy Cauldron",
+          "user": {
+            "name": "Salivaried",
+            "url": "https://salivaried.itch.io",
+            "id": 1222637
+          },
+          "id": 2991182,
+          "short_text": "Gbjam 12 Submission",
+          "cover": "https://img.itch.zone/aW1nLzE3ODk5MDQ2LnBuZw==/300x240%23c/K0lZ7G.png",
+          "cover_color": "#110311",
+          "platforms": [
+            "windows"
+          ]
+        },
+        "rating_count": 12,
+        "id": 601843,
+        "created_at": "2024-09-23 05:13:26",
+        "coolness": 1,
+        "url": "/jam/gbjam-12/rate/2991182"
+      },
+      "details": {
+        "title": "Crazy Cauldron",
+        "description": "A ghost stole your potion ingredients. Show the inhabitants of the haunted castle next door that you're not a witch to mess with.\nCrazy Cauldron is a combat platformer about throwing enemies into your cauldron to assemble spells. Stun enemies with your broom or your spells, throw them in your cauldron (or your cauldron at them), then stir up more magic. But beware - freaky sludgemen, eyeballs, bats, spiders, and more will try to stop you from getting your valuable ingredients back! Will they stop you in your tracks, or will they become ingredients in your evil brew?\nMESS WITH THE CRONE, PREPARE TO GET OWNED.\nCONTROLS:\n  Left and right arrow keys move you around. \n  Press Z to jump in a fixed arc. Press Z in midair to mount your broom to get some more height and readjust your jump.\n  X swings your broom to whack beasties. If you have a spell equipped, it also launches the spell. It can knock around stunned enemies.\n  Down picks up stunned enemies. If you're holding an enemy, hit X to throw them, or down again to drop them.\n  Shift summons your cauldron if it's offscreen. It appears in your hands, so you can throw it immediately.\n  Up lets you stir your cauldron. When you do, you can choose a new spell to equip. Hit Z to select a spell.\nTIPS:\n  Stunned enemies can get back up after a while, so act fast! \n  When you select a spell, you get mana based on how many enemies your cauldron ate. Four's the max, but if you get all four, you can access a powerful healing spell.\n  Each spell has its benefits. Fireball is fast and hits hard. Homing Bolt isn't the strongest, but it homes in on enemies. Bubble is cheap and can hit areas above you that are challenging to whack with your broom. Experiment and see what works!\n  The HAND will chase you if you don't get away from it quick enough. Either take it out or outrun it -- but beware, it's a better jumper than you are.\n  You can use your broom to access platforms you can't quite jump up to.\n  Hitting enemies with other enemies will deal some damage in a pinch.",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE3ODk5MDQ2LnBuZw==/original/5zlnJS.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Salivaried",
+          "Genre": "Platformer"
+        }
+      }
+    },
+    {
+      "gameId": 2990915,
+      "gameUrl": "https://kurogamedev.itch.io/xyndrahe",
+      "overallRank": 37,
+      "topCategories": [
+        "Gameboy Soul"
+      ],
+      "resultData": {
+        "id": 2990915,
+        "score": 4.0090909090909,
+        "cover_url": "https://img.itch.zone/aW1nLzE3ODkxODU2LnBuZw==/300x240%23c/NXsSU0.png",
+        "raw_score": 4.0090909090909,
+        "rating_count": 22,
+        "criteria": [
+          {
+            "name": "Graphics",
+            "score": 4.4090909090909,
+            "raw_score": 4.4090909090909,
+            "rank": 40
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.9545454545455,
+            "raw_score": 3.9545454545455,
+            "rank": 27
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "score": 4.1363636363636,
+            "raw_score": 4.1363636363636,
+            "rank": 32
+          },
+          {
+            "name": "Gameboy Soul",
+            "score": 4.5909090909091,
+            "raw_score": 4.5909090909091,
+            "rank": 8
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "score": 2.9545454545455,
+            "raw_score": 2.9545454545455,
+            "rank": 284
+          }
+        ],
+        "contributors": [
+          {
+            "name": "KuroGamedev",
+            "id": 8459431
+          }
+        ],
+        "url": "https://itch.io/jam/gbjam-12/rate/2990915",
+        "rank": 37,
+        "title": "Xyndrahe"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://kurogamedev.itch.io/xyndrahe",
+          "title": "Xyndrahe",
+          "user": {
+            "name": "KuroGamedev",
+            "url": "https://kurogamedev.itch.io",
+            "id": 8459431
+          },
+          "id": 2990915,
+          "short_text": "Drakhe travels to a mysterious island to uncover the secrets behind a pumpkin, costumes and candy.",
+          "cover": "https://img.itch.zone/aW1nLzE3ODkxODU2LnBuZw==/300x240%23c/NXsSU0.png",
+          "cover_color": "#510",
+          "platforms": [
+            "web"
+          ]
+        },
+        "rating_count": 22,
+        "id": 601752,
+        "created_at": "2024-09-23 01:55:56",
+        "coolness": 24,
+        "url": "/jam/gbjam-12/rate/2990915"
+      },
+      "details": {
+        "title": "Xyndrahe",
+        "description": "There have been a couple concerns posted regarding survival problems. Here are a few tips to help stay alive.\nAfter purchasing equipment, make sure you go to the menu, select 'ITEMS' and hit left/right to move the selection boxes over to the sword and shield.  This will boost your STR and DEF and allow you to be more effective against enemies.Farm your way up to level 3 before you worry about leaving the first 'world' area on the map.Your first goal should be to head west (past the mansion) and explore the caves. You will find a key in there that will help lead you to your first artifact.\nOn a distant island resides a god that no one has ever seen.  His name is Torrochi and has suppressed many of the old traditions of an older god named Xyndrahe who disappeared long ago. One such tradition, while it is rumor, involved the use of pumpkins, costumes and candy, but no one seems to understand what this all means and why they were related to one another.\nEnter Drakhe, a young and aspiring adventurer. \nHe sets out on a ship to reach the island and learn of the old traditions of Xyndrahe, but what he finds on the island is not what he expected.\nXyndrahe is a RPG featuring bump mechanics; you 'literally' run into the enemy to damage them, though there is strategy behind this method. A direct, frontal assault is most likely to harm the player in the process. Off-center attacks greatly reduces the chances of being attacked and a side/back attack will allow him to attack without being harmed.\n\n  \nGame Details\n\nFile Size204 kb\nGenreBump Action RPG\nThemesGB JAM #12: Hallowe'en* The different monsters around the world map, haunted house, tales of a festive activity that involves pumpkins, candy and costumes, the list goes on.\nResolution 160 x 144\nPalettes* 1x 4-colour active palette. Options page allows the player to select from a range of pre-included palettes.\nSound/Music*4-channel sound limit with 1 channel on noise.\nInput Support* Keyboard * Touch Screen * Controller \n\nHow to Play\n\n\n\nKeyboardSet1\nKeyboardSet2\nKeyboardSet3\nTouch Controls\nDescription\n\nArrow KeysWASDWASDDirectional PadMove Drakhe\n\nZXJXA BUTTON* Examine chest* Talk to NPC* Open door\n\nXCKOB BUTTON* Use item (selected in 'ITEMS' when accessing the menu).\n\nENTER\n+\nSTART BUTTON* Access menu.\n\nSHIFT-SELECT BUTTON\n\n\nChanges to the keyboard set will not take place until after the player leaves the OPTIONS page.\nThe default setup when playing for the first time is Keyboard Set 1. If this is an issue, the touch screen buttons can be controlled with a mouse to allow a player access to the OPTIONS page and change the setup to one of the WASD options.\nNavigate Drakhe around the island, locate three special artifacts and bring them to Torrochi's temple for the final confrontation.\nMenu\nPress START to bring up the menu. This can also be done to pause the game.\n\nITEMS - Organize which equipment and items you want to have on-hand. This will affect your equipped sword, shield, ring and which item you can use while on the field (By pressing the B button).LOAD - Load a previously saved game.SAVE - Save your game. This can be done anywhere except when fighting a boss.RETURN - Back to the game.QUIT - You can return to the main menu.\nTowns\nTalk to NPCs and get information on what is going on and clues to where to look for artifacts.Shop at the stores for items and equipment upgrades. Be sure to bring plenty of funds.Visit the shrine and have the servants of Torrochi recover your health (free of charge).\nOverworld\nNavigate the overworld and engage enemies to collect experience to build your levels and character strengths.\nDungeons / Caves\nMany locations have locked doors which require a key and treasure chests to open and collect items from.  Monsters are (typically) more dangerous in caves than on the overworld.\nEquipment\n\nNameDescription\nShort Sword100+5 Attack Power\nBroad Sword500+15 Attack Power\nCleaver1500+30 Attack Power\nSlayer4000+45 Attack Power\nHeroic Sword---+60 Attack Power\nSmall Shield100+5 Defense Power\nMedium Shield400+15 Defense Power\nLarge Shield1200+30 Defense Power\nY-Cross Shield3200+45 Defense Power\nBrave Shield---+60 Defense Power\nProtect Ring---Reduces Damage Taken\nPower Ring---Increases Damage Dealt\nHealer Ring---Increases HP Recovery\nPotion50HP +40\nPotion2250HP +80\nPotion31000Full HP\nWing100Warp to Bradport\nMansion Key---Opens the Mansion door.\nScary Key---Opens a door inside the mansion.\nCastle Key---Opens a door inside the castle.\nCave Key---Opens a door inside the final cave.\nDemon Key---Opens a door inside the final cave.\nLantern---Special artifact.\nCostume---Special artifact.\nCandy---Special artifact.\n\nDonators\nPizza Doggy\nLatest Updates\nVersion 1.02, Build 1 -- July 7th, 2025 \nFixed an issue that can cause the game to run slow on Firefox 110+\nRe-wrote the game's HOW TO PLAY a little bit so it's easier to read.110+\nEdited a few source tiles.\n\nVersion 1.02 -- July 2nd, 2025 \nController support has been added.\nOptions page can be accessed from the game menu.\nThe ITEMS page now includes all the special items the player collects along the way.\nMade some minor changes to the source tiles.\nAn unfinished boss music has been completed and now plays during the final boss battle.\nFixed a few tile placements, sprites, choices in words used in dialogue; mostly just cleanup.\nFixed an issue where it was possible to prematurely open the gate to the final boss. Of course, without sufficient level and equipment, the player would not last long.\nFixed an issue in the game menu where pressing up/down while given the option to quit the game would place the cursor in an unusual spot on the screen.\nVersion 1.01, Build 1 -- March 16th, 2025\nFixed an issue that 'could' impact the frame rate of the game.\nVersion 1.01 -- October 17th, 2024\nFound a few more badly placed tiles in one town and the first forest and fixed them.Found the issue that was causing the smallest of stuttering to occur while Drakhe was moving around on the map. The animation should feel much smoother, now.While more of a backend update, some code was changed around to help optimize how fast the game can draw content on the screen.Shops have been given a bit more personality. You can now talk to the shopkeeps to learn some information about the island.\nVersion 1.00, Build 2 -- October 15th, 2024\nApparently during the last update, much of the title screen concept was broken. It now works as it should. I also shortened the Jam splash screen so the title screen pops up faster.\nVersion 1.00, Build 1 -- October 7th, 2024\nFixed several problems with the map layout, including some bad tiles and warp positions within the second town (They would still take you to and from town, but...).Updated the music for the 2nd dungeon (the castle).Updated and fixed the touchpad and other two keyboard controls so combat will properly work for them.\nVersion 1.00 -- September 23rd, 2024\nProject has been uploaded to Itch.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjk5MDkxNS8xNzg5MTkzOS5wbmc=/original/LRAwcn.png",
+          "https://img.itch.zone/aW1hZ2UvMjk5MDkxNS8xNzg5MjAxMC5wbmc=/original/e4zN4d.png",
+          "https://img.itch.zone/aW1hZ2UvMjk5MDkxNS8xNzg5MTk0Mi5wbmc=/original/VIIulp.png",
+          "https://img.itch.zone/aW1hZ2UvMjk5MDkxNS8xNzg5MTk0My5wbmc=/original/eikd6v.png",
+          "https://img.itch.zone/aW1hZ2UvMjk5MDkxNS8xNzg5MTk0MS5wbmc=/original/NHdQI8.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "KuroGamedev",
+          "Genre": "Role Playing",
+          "Tags": "2D, 8-Bit, bump, chiptune, Game Boy, Retro",
+          "Asset license": "Creative Commons Attribution_NonCommercial_ShareAlike v4.0 International",
+          "Average session": "A few minutes"
+        }
+      }
+    },
+    {
+      "gameId": 2969638,
+      "gameUrl": "https://riquerique.itch.io/graveescape",
+      "overallRank": 52,
+      "topCategories": [
+        "Gameboy Soul"
+      ],
+      "resultData": {
+        "id": 2969638,
+        "score": 3.9333333333333,
+        "cover_url": "https://img.itch.zone/aW1nLzE3ODc2MDY0LnBuZw==/300x240%23c/iu78Dp.png",
+        "raw_score": 3.9333333333333,
+        "rating_count": 12,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 3.5,
+            "raw_score": 3.5,
+            "rank": 82
+          },
+          {
+            "name": "Graphics",
+            "score": 3.8333333333333,
+            "raw_score": 3.8333333333333,
+            "rank": 131
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "score": 3.25,
+            "raw_score": 3.25,
+            "rank": 147
+          },
+          {
+            "name": "Gameboy Soul",
+            "score": 4.5833333333333,
+            "raw_score": 4.5833333333333,
+            "rank": 9
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "score": 4.5,
+            "raw_score": 4.5,
+            "rank": 21
+          }
+        ],
+        "contributors": [
+          {
+            "name": "riquerique",
+            "id": 11562279
+          },
+          {
+            "name": "guselect",
+            "id": 1762757
+          }
+        ],
+        "url": "https://itch.io/jam/gbjam-12/rate/2969638",
+        "rank": 52,
+        "title": "GRAVE ESCAPE"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://riquerique.itch.io/graveescape",
+          "title": "GRAVE ESCAPE",
+          "user": {
+            "name": "riquerique",
+            "url": "https://riquerique.itch.io",
+            "id": 11562279
+          },
+          "id": 2969638,
+          "short_text": "Escape a graveyard as a ghost to haunt a mansion on a halloween night!",
+          "cover": "https://img.itch.zone/aW1nLzE3ODc2MDY0LnBuZw==/300x240%23c/iu78Dp.png",
+          "cover_color": "#1d0e2c",
+          "platforms": [
+            "web"
+          ]
+        },
+        "rating_count": 12,
+        "id": 601855,
+        "coolness": 3,
+        "created_at": "2024-09-23 05:44:20",
+        "contributors": [
+          {
+            "name": "riquerique",
+            "url": "https://riquerique.itch.io"
+          },
+          {
+            "name": "guselect",
+            "url": "https://guselect.itch.io"
+          }
+        ],
+        "url": "/jam/gbjam-12/rate/2969638"
+      },
+      "details": {
+        "title": "GRAVE ESCAPE",
+        "description": "This game was developed for the GB JAM 12!\nYou're a GHOST. Your main ability? POSSESSING CREATURES! As a ghost you can't be hurt by most things, but at the same time you may not be able to interact with some mechanics, taking the body of a mortal creature might allow you to interact with the physical realm, but at the same time it will make you vulnerable! Use your powers to solve small puzzles to escape from the graveyard.\nThis is a short and sweet game, I hope you enjoy it :)\nIMPORTANT: This game can be played on your browser, but there's also a .gbc ROM available, this ROM can be used on Gameboy Emulators that support Gameboy Color, you can also use this on official hardware, of course.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjk2OTYzOC8xNzg3NjA5NS5wbmc=/original/I%2BbrY3.png",
+          "https://img.itch.zone/aW1hZ2UvMjk2OTYzOC8xNzg3NjA5Ny5wbmc=/original/W0qVht.png",
+          "https://img.itch.zone/aW1hZ2UvMjk2OTYzOC8xNzg3NjEwMC5wbmc=/original/kRgGud.png",
+          "https://img.itch.zone/aW1hZ2UvMjk2OTYzOC8xNzg3NjEwMy5wbmc=/original/Sxljo2.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Authors": "riquerique, guselect",
+          "Genre": "Adventure",
+          "Tags": "2D, Game Boy, Game Boy ROM, Ghosts, Retro, Spooky",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Xbox controller, Gamepad (any), Joystick, Touchscreen, Smartphone, Playstation controller, Joy-Con"
+        }
+      }
+    },
+    {
+      "gameId": 2964759,
+      "gameUrl": "https://javier-games.itch.io/unloved-blessing",
+      "overallRank": 45,
+      "topCategories": [
+        "Gameboy Soul"
+      ],
+      "resultData": {
+        "id": 2964759,
+        "score": 3.9565217391304,
+        "cover_url": "https://img.itch.zone/aW1nLzE4MTE4MTgzLnBuZw==/300x240%23c/2O9wFG.png",
+        "raw_score": 3.9565217391304,
+        "rating_count": 23,
+        "criteria": [
+          {
+            "name": "Soundtrack/SFX",
+            "score": 3.9130434782609,
+            "raw_score": 3.9130434782609,
+            "rank": 52
+          },
+          {
+            "name": "Gameplay",
+            "score": 2.8695652173913,
+            "raw_score": 2.8695652173913,
+            "rank": 192
+          },
+          {
+            "name": "Gameboy Soul",
+            "score": 4.5652173913043,
+            "raw_score": 4.5652173913043,
+            "rank": 10
+          },
+          {
+            "name": "Graphics",
+            "score": 4.2173913043478,
+            "raw_score": 4.2173913043478,
+            "rank": 64
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "score": 4.2173913043478,
+            "raw_score": 4.2173913043478,
+            "rank": 59
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Javier García",
+            "id": 5502811
+          },
+          {
+            "name": "akari-momose",
+            "id": 11581547
+          }
+        ],
+        "url": "https://itch.io/jam/gbjam-12/rate/2964759",
+        "rank": 45,
+        "title": "Unloved Blessing (2024)"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://javier-games.itch.io/unloved-blessing",
+          "title": "Unloved Blessing (2024)",
+          "user": {
+            "name": "Javier García",
+            "url": "https://javier-games.itch.io",
+            "id": 5502811
+          },
+          "id": 2964759,
+          "short_text": "Oswald seeks his wife in a medieval church seized by a cult. Stealth, explore, survive!",
+          "cover": "https://img.itch.zone/aW1nLzE4MTE4MTgzLnBuZw==/300x240%23c/2O9wFG.png",
+          "cover_color": "#010303",
+          "platforms": [
+            "web"
+          ]
+        },
+        "rating_count": 23,
+        "id": 601453,
+        "coolness": 0,
+        "created_at": "2024-09-22 20:00:02",
+        "contributors": [
+          {
+            "name": "Javier García",
+            "url": "https://javier-games.itch.io"
+          },
+          {
+            "name": "akari-momose",
+            "url": "https://akari-momose.itch.io"
+          }
+        ],
+        "url": "/jam/gbjam-12/rate/2964759"
+      },
+      "details": {
+        "title": "Unloved Blessing (2024)",
+        "description": "Transformed into a monstrous being, Oswald finds himself trapped in a medieval church by a dangerous cult. Led by a deranged 'Pope', the cult seeks to use Oswald as a vessel to communicate with the outer god, Yog-Sothoth. Driven by the love for his wife, Theodora, Oswald must navigate through dimly lit corridors and avoid detection by patrolling monks.\n\n  \n  \n\nUtilize your newfound abilities to intimidate and outsmart these not-so-clever cultists. As you search for Theodora and uncover grim truths, every decision brings you closer to freedom or eternal bondage. Will you escape their clutches, or succumb to the horrific fate they have in store?\n\n\n  \n  \n\nDevelopment\nCrafted for GBJAM 12 which second theme is \"Spooky\", \"Unloved Blessing\" combines atmospheric storytelling with engaging gameplay. Immerse yourself in this 2D top-down adventure inspired by the works of H.P. Lovecraft and the question what would happen if the Necronomicon were found in a medieval age by a dangerous religious person.\nCredits\n\nMusic and Texts: Akari Momose\nProgramming, Design and Story: Javier Garcia",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjk2NDc1OS8xNzk1NDcyMy5wbmc=/original/TCXWhz.png",
+          "https://img.itch.zone/aW1hZ2UvMjk2NDc1OS8xNzk1NDcyNC5wbmc=/original/%2FOvR22.png",
+          "https://img.itch.zone/aW1hZ2UvMjk2NDc1OS8xNzk1NDcyNS5wbmc=/original/03jLcF.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Release date": "Sep 22, 2024",
+          "Authors": "Javier García, akari-momose",
+          "Genre": "Adventure",
+          "Made with": "Tiled, GB Studio",
+          "Tags": "Game Boy, GBJam, Lovecraftian Horror, Medieval, Spooky",
+          "Code license": "GNU General Public License v3.0 (GPL)",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Touchscreen",
+          "Links": "Source code"
+        }
+      }
+    },
+    {
+      "gameId": 2990537,
+      "gameUrl": "https://cozer-official971.itch.io/the-basement",
+      "overallRank": 72,
+      "topCategories": [
+        "Interpretation of the Secondary Theme"
+      ],
+      "resultData": {
+        "id": 2990537,
+        "score": 3.8222222222222,
+        "cover_url": "https://img.itch.zone/aW1nLzE3ODg4NDI4LnBuZw==/300x240%23c/zl84zv.png",
+        "raw_score": 3.8222222222222,
+        "rating_count": 18,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 3.1666666666667,
+            "raw_score": 3.1666666666667,
+            "rank": 147
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "score": 3.7777777777778,
+            "raw_score": 3.7777777777778,
+            "rank": 67
+          },
+          {
+            "name": "Graphics",
+            "score": 4.0555555555556,
+            "raw_score": 4.0555555555556,
+            "rank": 93
+          },
+          {
+            "name": "Gameboy Soul",
+            "score": 3.3333333333333,
+            "raw_score": 3.3333333333333,
+            "rank": 213
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "score": 4.7777777777778,
+            "raw_score": 4.7777777777778,
+            "rank": 1
+          }
+        ],
+        "contributors": [
+          {
+            "name": "COZER",
+            "id": 4737443
+          }
+        ],
+        "url": "https://itch.io/jam/gbjam-12/rate/2990537",
+        "rank": 72,
+        "title": "The Basement"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://cozer-official971.itch.io/the-basement",
+          "user": {
+            "name": "COZER",
+            "url": "https://cozer-official971.itch.io",
+            "id": 4737443
+          },
+          "id": 2990537,
+          "title": "The Basement",
+          "cover": "https://img.itch.zone/aW1nLzE3ODg4NDI4LnBuZw==/300x240%23c/zl84zv.png",
+          "cover_color": "#2e007b",
+          "platforms": [
+            "web"
+          ]
+        },
+        "rating_count": 18,
+        "id": 601604,
+        "created_at": "2024-09-22 22:26:15",
+        "coolness": 24,
+        "url": "/jam/gbjam-12/rate/2990537"
+      },
+      "details": {
+        "title": "The Basement",
+        "description": "a very short game developped by me Cozer, and warriorSCP for GB jam, with the theme \"SpOoKy\"\nwe were kinda late to the game jam we didnt have enough time to finish everrything we wanted to be in the game but oh well, hope you enjoy\nDPAD RIGHTDwalkDPAD LEFTSwalkDPAD UPWclimb laddersDPAD DOWNSclimb ladders\nAEinteractB//\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE3ODg4NDI4LnBuZw==/original/vbsNNq.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "COZER",
+          "Made with": "Godot",
+          "Tags": "16x16, 2D, Game Boy, Horror, Indie, Pixel Art, Retro, Short, Singleplayer, Spooky",
+          "Average session": "A few seconds",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": 2986612,
+      "gameUrl": "https://morgis.itch.io/lauras-room",
+      "overallRank": 12,
+      "topCategories": [
+        "Interpretation of the Secondary Theme"
+      ],
+      "resultData": {
+        "id": 2986612,
+        "score": 4.2833333333333,
+        "cover_url": "https://img.itch.zone/aW1nLzE3ODkxMzE2LnBuZw==/300x240%23c/ofBYgb.png",
+        "raw_score": 4.2833333333333,
+        "rating_count": 12,
+        "criteria": [
+          {
+            "name": "Graphics",
+            "score": 4.4166666666667,
+            "raw_score": 4.4166666666667,
+            "rank": 36
+          },
+          {
+            "name": "Gameplay",
+            "score": 3.6666666666667,
+            "raw_score": 3.6666666666667,
+            "rank": 55
+          },
+          {
+            "name": "Gameboy Soul",
+            "score": 4.4166666666667,
+            "raw_score": 4.4166666666667,
+            "rank": 24
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "score": 4.1666666666667,
+            "raw_score": 4.1666666666667,
+            "rank": 26
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "score": 4.75,
+            "raw_score": 4.75,
+            "rank": 2
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Morgis",
+            "id": 165514
+          },
+          {
+            "name": "callmeDJ",
+            "id": 2980807
+          },
+          {
+            "name": "ejbcya",
+            "id": 1053778
+          }
+        ],
+        "url": "https://itch.io/jam/gbjam-12/rate/2986612",
+        "rank": 12,
+        "title": "Laura's Room"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://morgis.itch.io/lauras-room",
+          "title": "Laura's Room",
+          "user": {
+            "name": "Morgis",
+            "url": "https://morgis.itch.io",
+            "id": 165514
+          },
+          "id": 2986612,
+          "short_text": "Danni is driving on a rainy road in the dark night, on the run from something...",
+          "cover": "https://img.itch.zone/aW1nLzE3ODkxMzE2LnBuZw==/300x240%23c/ofBYgb.png",
+          "cover_color": "#414060",
+          "platforms": [
+            "web"
+          ]
+        },
+        "rating_count": 12,
+        "id": 601824,
+        "coolness": 0,
+        "created_at": "2024-09-23 04:33:34",
+        "contributors": [
+          {
+            "name": "Morgis",
+            "url": "https://morgis.itch.io"
+          },
+          {
+            "name": "callmeDJ",
+            "url": "https://callmedj169.itch.io"
+          },
+          {
+            "name": "ejbcya",
+            "url": "https://ejbcya.itch.io"
+          }
+        ],
+        "url": "/jam/gbjam-12/rate/2986612"
+      },
+      "details": {
+        "title": "Laura's Room",
+        "description": "Controls: \n    \nWASD/Arrow KeysMoveZ InteractXJump & Return\n(To play the game in fullscreen, press the little arrow button on the right side of the game screen)\n----------------------------------------------------\nDanni is driving on a rainy road in the dark night, on the run from something...\nLaura's Room is a short psychological horror game made for GBJAM 12 with the theme of \"Spooky\". Created with GB Studio and developed by: \n\n\nMorgis – Programmer, Lead Artist, Lead Writer DJ – Lead Composer, Sound DesignerMei – Programmer, Technical Artist\nSpecial thanks to Bartanax for helping with the story and to Brandon for helping with setting up git. :) \nThis game also used rya's Dynamic Lighting Asset.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjk4NjYxMi8xNzg5NDgzNS5wbmc=/original/oHp6eZ.png",
+          "https://img.itch.zone/aW1hZ2UvMjk4NjYxMi8xNzg5NDgzOC5wbmc=/original/pR%2B0Tx.png",
+          "https://img.itch.zone/aW1hZ2UvMjk4NjYxMi8xNzg5NDgzNy5wbmc=/original/GDCRft.png",
+          "https://img.itch.zone/aW1hZ2UvMjk4NjYxMi8xNzg5NDgzNi5wbmc=/original/PLJh%2BT.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.8 out of 5 stars(11 total ratings)",
+          "Authors": "Morgis, callmeDJ, ejbcya",
+          "Made with": "Aseprite, Clip Studio Paint, GB Studio",
+          "Tags": "2D, Atmospheric, Game Boy, Horror, Pixel Art, Psychological Horror",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard",
+          "Mentions": "Free and fresh browser games for your we..."
+        }
+      }
+    },
+    {
+      "gameId": 2991166,
+      "gameUrl": "https://lydian-games.itch.io/ana",
+      "overallRank": 15,
+      "topCategories": [
+        "Interpretation of the Secondary Theme"
+      ],
+      "resultData": {
+        "id": 2991166,
+        "score": 4.25,
+        "cover_url": "https://img.itch.zone/aW1nLzE4NDEwMDg1LnBuZw==/300x240%23c/U2SeZm.png",
+        "raw_score": 4.25,
+        "rating_count": 20,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 3.8,
+            "raw_score": 3.8,
+            "rank": 39
+          },
+          {
+            "name": "Graphics",
+            "score": 4.3,
+            "raw_score": 4.3,
+            "rank": 57
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "score": 4.15,
+            "raw_score": 4.15,
+            "rank": 30
+          },
+          {
+            "name": "Gameboy Soul",
+            "score": 4.25,
+            "raw_score": 4.25,
+            "rank": 44
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "score": 4.75,
+            "raw_score": 4.75,
+            "rank": 2
+          }
+        ],
+        "contributors": [
+          {
+            "name": "lydian-games",
+            "id": 9194168
+          },
+          {
+            "name": "Phossis",
+            "id": 9253386
+          },
+          {
+            "name": "spacechurro",
+            "id": 9289261
+          },
+          {
+            "name": "the_ozzy",
+            "id": 9256321
+          },
+          {
+            "name": "kevyn89",
+            "id": 11798886
+          }
+        ],
+        "url": "https://itch.io/jam/gbjam-12/rate/2991166",
+        "rank": 15,
+        "title": "Ana"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://lydian-games.itch.io/ana",
+          "title": "Ana",
+          "user": {
+            "name": "lydian-games",
+            "url": "https://lydian-games.itch.io",
+            "id": 9194168
+          },
+          "id": 2991166,
+          "short_text": "Platformer with a f(r)iend",
+          "cover": "https://img.itch.zone/aW1nLzE4NDEwMDg1LnBuZw==/300x240%23c/U2SeZm.png",
+          "cover_color": "#1b1b1b",
+          "platforms": [
+            "web"
+          ]
+        },
+        "rating_count": 20,
+        "id": 602070,
+        "coolness": 3,
+        "created_at": "2024-09-23 10:58:11",
+        "contributors": [
+          {
+            "name": "lydian-games",
+            "url": "https://lydian-games.itch.io"
+          },
+          {
+            "name": "Phossis",
+            "url": "https://phossis.itch.io"
+          },
+          {
+            "name": "spacechurro",
+            "url": "https://spacechurro.itch.io"
+          },
+          {
+            "name": "the_ozzy",
+            "url": "https://the-ozzy.itch.io"
+          },
+          {
+            "name": "kevyn89",
+            "url": "https://kevyn89.itch.io"
+          }
+        ],
+        "url": "/jam/gbjam-12/rate/2991166"
+      },
+      "details": {
+        "title": "Ana",
+        "description": "Just your average platformer, with a friend you meet along the way.\nMany control options for accessibility.Walk:  WASD / arrows or controller d-pad / joystickRun: Double Press WalkJump: Space / X / Right click / controller south buttonAll original art, music, and code. Built in Godot 4.3.\nWe started with a different idea about working in a haunted video store, but we all watched Ring together and went this direction instead. We didn't quite get to finish it to the point that we'd like, but there's a bunch of good creepiness to experience in the current state anyway. We had a ton of fun with this jam!\n\nArt - https://itch.io/profile/spacechurroMusic - https://itch.io/profile/the-ozzyLevel Design - https://phossis.itch.io/Coding and Junk  - Kevyn (this itch page)",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE4NDEwMDg1LnBuZw==/original/p3CqCh.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "lydian-games, Phossis, spacechurro, the_ozzy, kevyn89",
+          "Genre": "Platformer",
+          "Made with": "Godot"
+        }
+      }
+    },
+    {
+      "gameId": 2990737,
+      "gameUrl": "https://melonboyo.itch.io/tower-of-sacrifice",
+      "overallRank": 54,
+      "topCategories": [
+        "Interpretation of the Secondary Theme"
+      ],
+      "resultData": {
+        "id": 2990737,
+        "score": 3.9189189189189,
+        "cover_url": "https://img.itch.zone/aW1nLzE3ODkzNDIyLnBuZw==/300x240%23c/8WlUzg.png",
+        "raw_score": 3.9189189189189,
+        "rating_count": 37,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 3.7027027027027,
+            "raw_score": 3.7027027027027,
+            "rank": 50
+          },
+          {
+            "name": "Graphics",
+            "score": 4.6216216216216,
+            "raw_score": 4.6216216216216,
+            "rank": 15
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "score": 3.972972972973,
+            "raw_score": 3.972972972973,
+            "rank": 46
+          },
+          {
+            "name": "Gameboy Soul",
+            "score": 2.6216216216216,
+            "raw_score": 2.6216216216216,
+            "rank": 315
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "score": 4.6756756756757,
+            "raw_score": 4.6756756756757,
+            "rank": 8
+          }
+        ],
+        "contributors": [
+          {
+            "name": "melon",
+            "id": 2405235
+          },
+          {
+            "name": "devune",
+            "id": 7963473
+          },
+          {
+            "name": "TrystVar",
+            "id": 9045117
+          }
+        ],
+        "url": "https://itch.io/jam/gbjam-12/rate/2990737",
+        "rank": 54,
+        "title": "Tower of Sacrifice"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://melonboyo.itch.io/tower-of-sacrifice",
+          "title": "Tower of Sacrifice",
+          "user": {
+            "name": "melon",
+            "url": "https://melonboyo.itch.io",
+            "id": 2405235
+          },
+          "id": 2990737,
+          "short_text": "A Tower of Mystique. What Dare You Sacrifice?",
+          "cover": "https://img.itch.zone/aW1nLzE3ODkzNDIyLnBuZw==/300x240%23c/8WlUzg.png",
+          "cover_color": "#171A24",
+          "platforms": [
+            "web"
+          ]
+        },
+        "rating_count": 37,
+        "id": 601962,
+        "coolness": 12,
+        "created_at": "2024-09-23 08:59:13",
+        "contributors": [
+          {
+            "name": "melon",
+            "url": "https://melonboyo.itch.io"
+          },
+          {
+            "name": "devune",
+            "url": "https://devune.itch.io"
+          },
+          {
+            "name": "TrystVar",
+            "url": "https://trystvar.itch.io"
+          }
+        ],
+        "url": "/jam/gbjam-12/rate/2990737"
+      },
+      "details": {
+        "title": "Tower of Sacrifice",
+        "description": "Short horror adventure for GBJAM 12 made by GOFROG\nGameboyKeyboardController|What it doesAZA / B / 〇|Walk forward / Advance textBXB / A / ✖|Interact / Skip textD-padArrow keysD-pad|Turn left/right & Look up/downStartEsc / S / EnterStart / Minus|Pause\nHint: Mash A to walk faster!\nYou can adjust volume in the pause menu. Make sure to play with sound on!\nLead developer & Programmer - melon (https://x.com/melonboyoyo)Concept artist, Game designer & Sound engineer - TrystVar (https://trystvar.itch.io/)3D modeller & Game artist - devune  (https://devune.itch.io/)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjk5MDczNy8xNzg5NDk0Mi5naWY=/original/XWoUJW.gif",
+          "https://img.itch.zone/aW1hZ2UvMjk5MDczNy8xNzg5NDk0MS5naWY=/original/KEN14m.gif",
+          "https://img.itch.zone/aW1hZ2UvMjk5MDczNy8xNzg5NDcxNS5wbmc=/original/wAxLCN.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "melon, devune, TrystVar",
+          "Genre": "Adventure",
+          "Made with": "Godot",
+          "Tags": "3D, Game Boy, Horror, Retro, Walking simulator"
+        }
+      }
+    },
+    {
+      "gameId": 2986016,
+      "gameUrl": "https://pgcomai.itch.io/super-spooker-porch-defense-get-off-my-lawn",
+      "overallRank": 57,
+      "topCategories": [
+        "Interpretation of the Secondary Theme"
+      ],
+      "resultData": {
+        "id": 2986016,
+        "score": 3.9142857142857,
+        "cover_url": "https://img.itch.zone/aW1nLzE3ODkzNjc0LnBuZw==/300x240%23c/AYX4%2Bs.png",
+        "raw_score": 3.9142857142857,
+        "rating_count": 14,
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 3.6428571428571,
+            "raw_score": 3.6428571428571,
+            "rank": 59
+          },
+          {
+            "name": "Gameboy Soul",
+            "score": 4.0714285714286,
+            "raw_score": 4.0714285714286,
+            "rank": 71
+          },
+          {
+            "name": "Graphics",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 100
+          },
+          {
+            "name": "Interpretation of the Secondary Theme",
+            "score": 4.6428571428571,
+            "raw_score": 4.6428571428571,
+            "rank": 10
+          },
+          {
+            "name": "Soundtrack/SFX",
+            "score": 3.2142857142857,
+            "raw_score": 3.2142857142857,
+            "rank": 153
+          }
+        ],
+        "contributors": [
+          {
+            "name": "PGComai",
+            "id": 198005
+          },
+          {
+            "name": "bucky1729",
+            "id": 11493369
+          }
+        ],
+        "url": "https://itch.io/jam/gbjam-12/rate/2986016",
+        "rank": 57,
+        "title": "Super Spooker Porch Defense: GET OFF MY LAWN!"
+      },
+      "entryData": {
+        "game": {
+          "url": "https://pgcomai.itch.io/super-spooker-porch-defense-get-off-my-lawn",
+          "title": "Super Spooker Porch Defense: GET OFF MY LAWN!",
+          "user": {
+            "name": "PGComai",
+            "url": "https://pgcomai.itch.io",
+            "id": 198005
+          },
+          "id": 2986016,
+          "short_text": "Protect your candy!",
+          "cover": "https://img.itch.zone/aW1nLzE3ODkzNjc0LnBuZw==/300x240%23c/AYX4%2Bs.png",
+          "cover_color": "#3a3a3a",
+          "platforms": [
+            "web"
+          ]
+        },
+        "rating_count": 14,
+        "id": 601919,
+        "coolness": 35,
+        "created_at": "2024-09-23 07:43:06",
+        "contributors": [
+          {
+            "name": "PGComai",
+            "url": "https://pgcomai.itch.io"
+          },
+          {
+            "name": "bucky1729",
+            "url": "https://bucky1729.itch.io"
+          }
+        ],
+        "url": "/jam/gbjam-12/rate/2986016"
+      },
+      "details": {
+        "title": "Super Spooker Porch Defense: GET OFF MY LAWN!",
+        "description": "Every year they enter your yard. Every year you must scare them away. Buy and place spooky decorations to frighten the trick-or-treaters and keep your candy for yourself.\n\nControls:\nWASD - Move cursorK/L - Browse/PlaceK/L - Sell/Buy (Shop)N - Toggle shopM - Skip to Halloween\n\nFonts used:\nhttps://not-jam.itch.io/not-jam-signature-17https://managore.itch.io/m3x604B-11\n\nRoles:\nProgramming: PGComaiArt: bucky1729",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjk4NjAxNi8xNzg5Mzc0NS5wbmc=/original/bNsJMk.png",
+          "https://img.itch.zone/aW1hZ2UvMjk4NjAxNi8xNzg5Mzc0My5wbmc=/original/Qnb1ex.png",
+          "https://img.itch.zone/aW1hZ2UvMjk4NjAxNi8xNzg5Mzc0NC5wbmc=/original/6F8DRG.png",
+          "https://img.itch.zone/aW1hZ2UvMjk4NjAxNi8xNzg5Mzc0Mi5wbmc=/original/bkUAK3.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Authors": "PGComai, bucky1729",
+          "Genre": "Strategy",
+          "Made with": "Godot",
+          "Tags": "Game Boy, GBJam, gbjam12, Halloween, Pixel Art, Spooky, Tower Defense"
+        }
+      }
+    }
+  ]
+}

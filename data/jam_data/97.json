@@ -1,0 +1,888 @@
+{
+  "n": 97,
+  "name": "Winter MelonJam 2023",
+  "url": "https://itch.io/jam/winter-melonjam-2023",
+  "theme": "Charm",
+  "slug": "winter-melonjam-2023",
+  "jamMeta": {
+    "jamType": "ongoing",
+    "joined": "",
+    "entries": "459",
+    "title": "Winter MelonJam 2023 ❄️🍈",
+    "jamURL": "https://itch.io/jam/winter-melonjam-2023",
+    "hosts": {
+      "Cupertino Game Dev Club": "https://cupertinogamedev.itch.io",
+      "cinnamew": "https://cinnamew.itch.io",
+      "#melonjam": "https://bsky.app/hashtag/melonjam"
+    },
+    "jamID": "383559"
+  },
+  "totalEntries": 430,
+  "ranked": true,
+  "hasCategories": false,
+  "needsManualSelection": false,
+  "categories": [],
+  "topGames": [
+    {
+      "gameId": 2447087,
+      "gameUrl": "https://mossbone-digital.itch.io/charm",
+      "overallRank": 1,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/winter-melonjam-2023/rate/2447087",
+        "created_at": "2023-12-30 12:25:39",
+        "id": 488750,
+        "game": {
+          "id": 2447087,
+          "short_text": "Submission for the 2023 Winter Melon Jam. VR Horror game for Meta Quest.",
+          "url": "https://mossbone-digital.itch.io/charm",
+          "platforms": [
+            "android"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzE0NDk5MTM0LnBuZw==/300x240%23c/Bp1r4v.png",
+          "title": "C.H.A.R.M.",
+          "user": {
+            "id": 5178411,
+            "url": "https://mossbone-digital.itch.io",
+            "name": "Mossbone Digital"
+          },
+          "cover_color": "#000000"
+        },
+        "field_responses": [
+          "26269:3",
+          "26274:1",
+          "27188:1"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "C.H.A.R.M.",
+        "description": "This was a project created for the 2023 Winter Melon Jam. The purpose of the game is to take the role of a member of C.H.A.R.M. (Catastrophic and Hostile Anomaly Reality Management) and find each anomaly that appears in the gas station before they become permanent. Press 'a' to switch your flashlight into blacklight mode, allowing you to return a fresh anomaly to it's normal state, fail to find and secure the anomaly within 30 seconds and the threads of reality will grow thin. If three anomalies manage to become permanent, the game has been lost, survive the duration of the event without this happening and you've successfully completed your mission. Made for Meta Quest.",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE0NDk5MTM0LnBuZw==/original/MrYOXB.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Android",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Mossbone Digital",
+          "Tags": "Horror, meta, meta-quest, Oculus Quest, PSX (PlayStation), Singleplayer, Virtual Reality (VR), xr"
+        }
+      }
+    },
+    {
+      "gameId": 2448262,
+      "gameUrl": "https://brewed-leaves.itch.io/charming-up-the-corporate-ladder",
+      "overallRank": 2,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/winter-melonjam-2023/rate/2448262",
+        "created_at": "2023-12-30 23:44:11",
+        "id": 489224,
+        "game": {
+          "id": 2448262,
+          "short_text": "Charm your way up the corporate ladder!",
+          "url": "https://brewed-leaves.itch.io/charming-up-the-corporate-ladder",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzE0NTA3MzcwLnBuZw==/300x240%23c/E8aI3y.png",
+          "title": "Charming up the Corporate Ladder",
+          "user": {
+            "id": 3026215,
+            "url": "https://brewed-leaves.itch.io",
+            "name": "Brewed Leaves"
+          },
+          "cover_color": "#ecccff"
+        },
+        "field_responses": [
+          "26269:3",
+          "26274:1",
+          "27188:1"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Charming up the Corporate Ladder",
+        "description": "Description\n\n\nAfter you found a charm that gives you the ability to charm anyone, you now climb the corporate ladder and must charm 3 different bosses in 3 unique forms of gameplay based on each individual boss! (I don't know why I thought it was a good idea to do this for a 3 day jam)\n\nCredits\nBrewed Leaves - Programming, Music, UI & Sprites Art\nMatchboxMox - Charm Bar, Portraits, Intro, Outro, & Icon Art",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQ0ODI2Mi8xNDUwNjk1NC5wbmc=/original/B%2BNQHT.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ0ODI2Mi8xNDUwNjk1Mi5wbmc=/original/jK81yx.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ0ODI2Mi8xNDUwNjk1My5wbmc=/original/1lwSVy.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.5 out of 5 stars(59 total ratings)",
+          "Author": "Brewed Leaves",
+          "Genre": "Action, Strategy",
+          "Made with": "Aseprite, Godot, Bfxr, LMMS",
+          "Tags": "2D, Boss battle, Bullet Hell, Godot, Pixel Art, Real time strategy, Singleplayer, Top down shooter, Twin Stick Shooter",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 2445868,
+      "gameUrl": "https://aengel-studio.itch.io/succubus-red",
+      "overallRank": 3,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/winter-melonjam-2023/rate/2445868",
+        "created_at": "2023-12-30 22:46:42",
+        "id": 489119,
+        "game": {
+          "url": "https://aengel-studio.itch.io/succubus-red",
+          "platforms": [
+            "web"
+          ],
+          "title": "Succubus Red",
+          "user": {
+            "id": 4248333,
+            "url": "https://aengel-studio.itch.io",
+            "name": "Aengel Studio"
+          },
+          "id": 2445868,
+          "cover": "https://img.itch.zone/aW1nLzE0NTAxNjA5LmdpZg==/300x240%23c/37WeFQ.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzE0NTAxNjA5LmdpZg==/original/GeTDgp.gif",
+          "short_text": "They may fight but no one resists to the succubus",
+          "cover_color": "#492c57"
+        },
+        "field_responses": [
+          "26269:3",
+          "26274:1",
+          "27188:1"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Succubus Red",
+        "description": "IF YOU ARE LOST PLEASE READ THE CARD AND ENEMY DESCRIPTIONS \nPERSONAL BEST : 45875!\n\n\n        Introduction\n Succubus Red ! Hordes of soldiers from the Black Cross are comming to take you down for the (c)harm you caused to the people ot their kingdom. While you cannot Damage enemies directly you can however use their perversion against them, charm them and watch how they kill each other. Good Luck !  \n    \n\n        How to play\n        You get cards every few secconds, use them wisely to control the enemies. \n        \n            Left Click : Select/Deselect Card\n            Right Click: Place Card at cursor/ Discard a certain card (Cost half the charm)\n        Enemies close to you will sacrifice themselves to damage you ! \n    \n\n        Cards\n      \nCards have a Charm cost and a Level, each card increases a random stat with each level gained (range, amount of health restored, etc.), gain charm over time and by killing enemies.\nDiscarding a card costs a part of the cards charm but replaces it with a new one.\n        \n            Love Totem: Makes a zone of love that charms light units inside\n            Love Bomb: Will shatter on the ground and charm all nearby units for a long duration (even the Juggernauts) \n            Bandage Heart: Heals your player (Highest cost card)\n            Bloody Upgrade: Prompts the player to upgrade one of two cards (this also happens naturally every once in a while)\n\n\n        Enemies\n      \nThe difficulty scale increases with time, here are the enemies that you can encounter across different formations :\n        \n            Knight : The standard unit\n            Archer: Can shoot from a distance\n            Juggernaut: The heaviest unit, it resists to some charms\n\n    \n\n\n        Thank You\n        If you enjoyed this game please leave a rating or a comment ! Everything in this project was made by me in 72 hours for the Winter Melon Game Jam 2023, excepted for :\n              \n            Lean Tween :  Unity asset to move UI smoothly\n    ",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQ0NTg2OC8xNDUwMTYxOC5wbmc=/original/3sPFDS.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ0NTg2OC8xNDUwMTYxNy5wbmc=/original/p%2FuKtT.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ0NTg2OC8xNDUxMzE0My5wbmc=/original/ct%2Bhnl.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.7 out of 5 stars(6 total ratings)",
+          "Author": "Aengel Studio",
+          "Genre": "Action",
+          "Made with": "Unity",
+          "Tags": "2D, Arcade, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 2448007,
+      "gameUrl": "https://metaphysicalmonsters.itch.io/monster-parlor",
+      "overallRank": 4,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/winter-melonjam-2023/rate/2448007",
+        "rating_count": 0,
+        "created_at": "2023-12-30 23:55:30",
+        "id": 489270,
+        "game": {
+          "id": 2448007,
+          "short_text": "Make monsters beautiful",
+          "url": "https://metaphysicalmonsters.itch.io/monster-parlor",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzE0NTA1OTU2LnBuZw==/300x240%23c/81%2BC1v.png",
+          "title": "Monster Parlor",
+          "user": {
+            "id": 4649039,
+            "url": "https://metaphysicalmonsters.itch.io",
+            "name": "MetaphysicalMonsters"
+          },
+          "cover_color": "#ecb8c0"
+        },
+        "field_responses": [
+          "26269:3",
+          "26274:1",
+          "27188:1"
+        ],
+        "coolness": 0,
+        "contributors": [
+          {
+            "url": "https://metaphysicalmonsters.itch.io",
+            "name": "MetaphysicalMonsters"
+          },
+          {
+            "url": "https://smallbuggames.itch.io",
+            "name": "Small Bug Games"
+          },
+          {
+            "url": "https://dogoryx.itch.io",
+            "name": "Twelve Pens"
+          },
+          {
+            "url": "https://cobyte.itch.io",
+            "name": "CoByte"
+          }
+        ]
+      },
+      "details": {
+        "title": "Monster Parlor",
+        "description": "Content Warnings\nUnsettling imagery, very intense gore, cursing, ringing sound (music (source of the ringing) can be muted in the pause screen).\nMonster Parlor is a game in which you run a beauty parlor for monsters, where you have the privilege to make them into something a bit more charming! Strike up a conversation, convince them of your ways, and earn some charms of your own.\nMade in 72 hours for the 2023 Winter Melon Jam! The theme was  \"charm\". \nPlay time: approx. 15-20 min\nDisclaimer: The fixed download  and web versions were uploaded after the grace period ended. Also, the web version has had a QOL update, but not the downloadable versions.\nOptional Tutorial\nThere is an in-game tutorial, this tutorial is just for refreshers!\nIn Monster Parlor you run a beauty parlor for monsters, where you make them into more palatable creatures. To do so, you must enter a conversation and lower their esteem. In it you can compliment, persuade, or berate them. In turn, they might become defensive, retaliate, or they might recover some of their esteem. Each monster also has a special ability, so watch out for that! \n\nA monster’s mood greatly affects how the conversation goes - from how effective your words may be, to how a monster responds to them. There are six moods: ashamed, very ashamed, enraged, very enraged, flustered, and very flustered. All monsters have different personalities, so their moods affect the conversation differently. Pay attention, learn their patterns, and you might be able to exploit a little insecurity of theirs.\n\nIf you successfully convince a monster they need to be fixed, you get a unique charm from them, which gives you a special ability! You can use one charm per turn, and each charm can only be used once per combat.\nCredits\nSmallBugGames - AI Programming, \"Combat\" Design\nCoByte - UI Programming, Scrum Mastery\ndogoryx - Character Art, End Sequence Illustration\nMetaphysicalMonsters - Environmental & UI Art, Sound Design, Writing \nSound effects sourced from Freesound.com - Attributions\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQ0ODAwNy8xNDUwNzU0MS5wbmc=/original/yEXV5i.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ0ODAwNy8xNDUwNzU0My5wbmc=/original/FnbKUK.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.8 out of 5 stars(18 total ratings)",
+          "Authors": "MetaphysicalMonsters, Small Bug Games, Twelve Pens, CoByte",
+          "Genre": "Puzzle",
+          "Made with": "GameMaker, Audacity",
+          "Tags": "2D, Dark, Furry, GameMaker, Gore, Horror, Psychological Horror, Singleplayer, Turn-based",
+          "Average session": "About a half-hour"
+        }
+      }
+    },
+    {
+      "gameId": 2448335,
+      "gameUrl": "https://adexia.itch.io/the-love-application",
+      "overallRank": 5,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/winter-melonjam-2023/rate/2448335",
+        "created_at": "2023-12-31 00:51:09",
+        "id": 489413,
+        "game": {
+          "id": 2448335,
+          "short_text": "Play matchmaker to find the perfect partner for your bestie!",
+          "url": "https://adexia.itch.io/the-love-application",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzE0NTA3MDU2LnBuZw==/300x240%23c/DgOZ91.png",
+          "title": "The Love Application",
+          "user": {
+            "id": 6353085,
+            "url": "https://adexia.itch.io",
+            "name": "adexia"
+          },
+          "cover_color": "#9e2835"
+        },
+        "field_responses": [
+          "26269:2",
+          "26274:1",
+          "27188:1"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "The Love Application",
+        "description": "\"These necklaces are a promise to be together. Always.\"\nIt’s tough work being the designated matchmaker for your best friend. But to Stacy, it's all worth it to make Mia happy. So when the two girls start their senior year of high school, Stacy makes it her personal mission to find Mia the perfect boyfriend. \nYou play as Stacy as she creates a \"boyfriend application\" and tries to find the most charming, suitable boy for Mia. Along the way, will Stacy discover something about herself and take matters into her own hands, or will she rely on the application to fulfill her goal? You decide!\n[Four main endings.]\nMade in 72 hours by Adexia and Faernis for the 2023 Winter MelonJam!\nI reccomend the downloadable version over the browser version! but if you can't download them for some reason, the browser version is there too -- it's just a little buggy.Download and unzip the file for your device (mac or windows/linux)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQ0ODMzNS8xNDUwNzI5NS5wbmc=/original/SHnAPO.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ0ODMzNS8xNDUwNzI5NC5wbmc=/original/XJM7Fr.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ0ODMzNS8xNDUwNzI5Ni5wbmc=/original/x0Wtsy.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 5.0 out of 5 stars(5 total ratings)",
+          "Author": "adexia",
+          "Genre": "Visual Novel",
+          "Made with": "Ren'Py",
+          "Tags": "2D, Dating Sim, LGBT, matchmaking-sim, Meaningful Choices, Multiple Endings, Ren'Py, Romance, Singleplayer",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse, Touchscreen, Smartphone"
+        }
+      }
+    },
+    {
+      "gameId": 2447131,
+      "gameUrl": "https://thetra00.itch.io/gamejammeltroid",
+      "overallRank": 6,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/winter-melonjam-2023/rate/2447131",
+        "created_at": "2023-12-30 12:19:58",
+        "id": 488749,
+        "game": {
+          "id": 2447131,
+          "url": "https://thetra00.itch.io/gamejammeltroid",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzE0NDk5NDAzLnBuZw==/300x240%23c/v8tKtK.png",
+          "title": "[GameJam]Meltroid",
+          "user": {
+            "id": 4840506,
+            "url": "https://thetra00.itch.io",
+            "name": "Thetra00"
+          },
+          "cover_color": "#000000"
+        },
+        "field_responses": [
+          "26269:3",
+          "26274:1",
+          "27188:1"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "[GameJam]Meltroid",
+        "description": "This Game was made for the Melon Jam in 72 Hours\nControlls:\nA - leftD - rightW - UpSpace - Jump & DoubleJumpJ - Shoot (Hold to Aim)Use Mouse in the UI\nTheme Implementation:\nI made new Year Good Luck Charms you have to find, to exit the Station.\nI hope you have fun, and a wonderfull new year!\n\nYou like my Games and what I do? Join my Discord https://discord.gg/bfGhqSF85D",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQ0NzEzMS8xNDQ5OTQwNi5wbmc=/original/OsBX1o.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.6 out of 5 stars(23 total ratings)",
+          "Author": "Thetra00",
+          "Made with": "Unity"
+        }
+      }
+    },
+    {
+      "gameId": 2448307,
+      "gameUrl": "https://frogmakesgames.itch.io/glass-ninja",
+      "overallRank": 7,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/winter-melonjam-2023/rate/2448307",
+        "created_at": "2023-12-30 23:58:49",
+        "id": 489297,
+        "game": {
+          "id": 2448307,
+          "short_text": "Don't get shattered.",
+          "url": "https://frogmakesgames.itch.io/glass-ninja",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzE0NTA3MDU4LnBuZw==/300x240%23c/aUr%2FTo.png",
+          "title": "Glass Ninja",
+          "user": {
+            "id": 8876426,
+            "url": "https://frogmakesgames.itch.io",
+            "name": "frogmakesgames"
+          },
+          "cover_color": "#FFBB00"
+        },
+        "field_responses": [
+          "26269:1",
+          "26274:1",
+          "27188:1"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Glass Ninja",
+        "description": "As a Glass Vessel, it is your sole duty and purpose to rid the world of its evil. Don't get shattered. \nRun, gun, dodge, and dash your way through hordes of enemies, platform through an abstract world, mix and match different charms for a variety of playstyles, and face off against an ultimate evil.\nVersion 1.0 was made in 72 hours as part of the Winter MelonJam 2023 game jam. My first public game release.\nDefault Controls:\nWASD to moveLeft Mouse Button to throw kunaiSpacebar to jumpE to interactTab for inventoryEscape for menuNumbers 1, 2, and 3 to use equipped charms\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQ0ODMwNy8xNDUwNzEzMi5wbmc=/original/fHkhX%2B.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ0ODMwNy8xNDUwNzEzMy5wbmc=/original/9jBUgD.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.2 out of 5 stars(5 total ratings)",
+          "Author": "frogmakesgames",
+          "Genre": "Platformer, Action, Adventure, Shooter",
+          "Tags": "3D, Difficult, Fast-Paced, First-Person, FPS, Retro, weird"
+        }
+      }
+    },
+    {
+      "gameId": 2446771,
+      "gameUrl": "https://44kyam.itch.io/little-charm-artisan",
+      "overallRank": 8,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/winter-melonjam-2023/rate/2446771",
+        "rating_count": 0,
+        "created_at": "2023-12-30 19:59:37",
+        "id": 488931,
+        "game": {
+          "id": 2446771,
+          "short_text": "Play as a Charm Artisan who makes charm bracelets. Help clients solve their pressing problems!",
+          "url": "https://44kyam.itch.io/little-charm-artisan",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzE0NDk4ODkyLnBuZw==/300x240%23c/HX%2BLpA.png",
+          "title": "Little Charm Artisan",
+          "user": {
+            "id": 9422772,
+            "url": "https://44kyam.itch.io",
+            "name": "44kyam"
+          },
+          "cover_color": "#586009"
+        },
+        "field_responses": [
+          "26269:2",
+          "26274:1",
+          "27188:1"
+        ],
+        "coolness": 0,
+        "contributors": [
+          {
+            "url": "https://44kyam.itch.io",
+            "name": "44kyam"
+          },
+          {
+            "url": "https://salt4045.itch.io",
+            "name": "Salt"
+          },
+          {
+            "url": "https://jintii.itch.io",
+            "name": "Jintii"
+          }
+        ]
+      },
+      "details": {
+        "title": "Little Charm Artisan",
+        "description": "After graduating from your apprenticeship, you're finally ready to operate as an independent charm artisan - opening for business right from your very own caravan! Learn mystical sigils with a variety of energies to create charms for your clients (who are probably desperately looking for help).\n\nFantastic features!\nCreate colorful charms with simple clicks of your mouse \nSolve pressing problems for your concerned and concerning clients Master an original set of sigils that represents different powers and energiesGet paid a lot of money (?)\nAssets and code were created during the period of Winter Melonjam 2023! Links of assets created by others are credited here.\n\nHow to play \nPlay directly on the browser with your mouse.If you're really, really stuck - here's a guide for you to solve all your charm making problems.\n\n\n\nCredits\n\n\nProgramming: Aka Art & Writing: Jintii & Salt",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQ0Njc3MS8xNDUwMjU3Ny5wbmc=/original/lS98Lr.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ0Njc3MS8xNDUwMjU3Ni5wbmc=/original/jyuhyV.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ0Njc3MS8xNDUwMjU3NC5wbmc=/original/ATtU60.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ0Njc3MS8xNDUwMjU3NS5wbmc=/original/Hkzfzy.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.6 out of 5 stars(8 total ratings)",
+          "Authors": "44kyam, Salt, Jintii",
+          "Genre": "Interactive Fiction, Puzzle",
+          "Made with": "Godot",
+          "Tags": "2D, Narrative, Point & Click, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 2447111,
+      "gameUrl": "https://lunarapocalypse.itch.io/a-loki-scam",
+      "overallRank": 9,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/winter-melonjam-2023/rate/2447111",
+        "created_at": "2023-12-30 12:53:24",
+        "id": 488756,
+        "game": {
+          "id": 2447111,
+          "short_text": "Are you sure it's not a scam?",
+          "url": "https://lunarapocalypse.itch.io/a-loki-scam",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzE0NDk5MzM5LnBuZw==/300x240%23c/sfuBXD.png",
+          "title": "A Loki...?",
+          "user": {
+            "id": 7510851,
+            "url": "https://lunarapocalypse.itch.io",
+            "name": "lunarApocalypse"
+          },
+          "cover_color": "#3F4E78"
+        },
+        "field_responses": [
+          "26269:2",
+          "26274:1",
+          "27188:1"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "A Loki...?",
+        "description": "You play as an antique shop owner named Loki. You sell various relics and hidden treasures. All of your items are bona fide, genuine, and not-fake collectables! You just gotta convince this girl that this charm is the real deal...\nMade for the Winter MelonJam 2023 within 2 days. Hopefully, both the browser and the downloadable version works um. Ya! Think of this game as a real-time visual novel where your responses are timed essentially.\nNote: Each playthrough is quick and it is intended to be a game that is replayed multiple times for different dialogues/endings. \nControls\nEnter - Continue/select\nArrow Keys - Change selection\nCredits\nSFX - Pixabay\nMusic - MusMus",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQ0NzExMS8xNDQ5OTM5NC5wbmc=/original/zddjAr.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ0NzExMS8xNDQ5OTM5NS5wbmc=/original/5ECZ5s.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.0 out of 5 stars(9 total ratings)",
+          "Author": "lunarApocalypse",
+          "Genre": "Visual Novel",
+          "Made with": "GameMaker",
+          "Tags": "2D, Casual, GameMaker, Hand-drawn, Short, Singleplayer",
+          "Average session": "A few seconds",
+          "Languages": "English",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": 2447021,
+      "gameUrl": "https://alambik.itch.io/unagi",
+      "overallRank": 10,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/winter-melonjam-2023/rate/2447021",
+        "created_at": "2023-12-30 15:44:14",
+        "id": 488809,
+        "game": {
+          "id": 2447021,
+          "short_text": "You can swim but you can't EEL-SCAPE.",
+          "url": "https://alambik.itch.io/unagi",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzE0NTAzNjk5LnBuZw==/300x240%23c/QLqa%2Fa.png",
+          "title": "UNAGI | EEL-SCAPE",
+          "user": {
+            "id": 5059758,
+            "url": "https://alambik.itch.io",
+            "name": "Alambik ⚗"
+          },
+          "cover_color": "#31BBED"
+        },
+        "field_responses": [
+          "26269:3",
+          "26274:1",
+          "27188:1"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "UNAGI | EEL-SCAPE",
+        "description": "\nYou can swim but you can't EEL-SCAPE.\nBrewed with love for Winter MelonJam 2023, UNAGI is my take on the legendary SNAKE.\n\n\nWASD/ZQSD/ARROWS to MOVE\nM to MUTE/UNMUTE the music\nP to TOGGLE HQ/LQ\n\n\nAn unlooped version of the title song is available here : TWILIGHT ZONE \n\nPS : Feel free to post your scores down below, I would love to see how far you can brain NEMES-EEL.\nI also made an another arcade game about fish (it's my fetish), you will probably like it if you like this one, go check it out : https://alambik.itch.io/fff\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQ0NzAyMS8xNDUwMDQ3Mi5wbmc=/original/%2BFnprQ.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ0NzAyMS8xNDUwNDgwNC5wbmc=/original/PRBHCR.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ0NzAyMS8xNDUwMDUwMS5wbmc=/original/z8qGWD.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ0NzAyMS8xNDUwMDQ5Mi5wbmc=/original/0g2djW.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.9 out of 5 stars(9 total ratings)",
+          "Author": "Alambik ⚗",
+          "Genre": "Action, Survival",
+          "Made with": "Construct",
+          "Tags": "2D, Arcade, Cartoon, Minimalist, pacman, scoring, Short, Snake, submarine",
+          "Average session": "A few minutes",
+          "Inputs": "Keyboard",
+          "Accessibility": "Textless"
+        }
+      }
+    },
+    {
+      "gameId": 2443583,
+      "gameUrl": "https://potipot.itch.io/melon-jam",
+      "overallRank": 11,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/winter-melonjam-2023/rate/2443583",
+        "created_at": "2023-12-30 23:45:48",
+        "id": 489230,
+        "game": {
+          "id": 2443583,
+          "short_text": "2d handrawn platformer",
+          "url": "https://potipot.itch.io/melon-jam",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzE0NTA2NjU1LnBuZw==/300x240%23c/X8v5UO.png",
+          "title": "Steam charm",
+          "user": {
+            "id": 3041002,
+            "url": "https://potipot.itch.io",
+            "name": "potipot"
+          },
+          "cover_color": "#742140"
+        },
+        "field_responses": [
+          "26269:3",
+          "26274:1",
+          "27188:1"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Steam charm",
+        "description": "Welcome To my Melon jam entry!\n    Find The secret to all knowledge in the universe with the help of your Meka. Charm some guards along the way to open doors. And finally get to the boss of them all, and charm him to get his secrets.\nAfter acquiring the charm ability, double jump near an NPC to charm them with your cool moves.\nThe speed-run update:\nSome small quality of life updates that includes: \nBigger dialogue text size.Options menu + Pause menu to change volume and  full screen.You can activate the speed-run timer and Skip cut-scenes in Pause/options menu.Quick restart: activates Speed-run timer, spawns you in the first room and skip the First two tutorial cut-scenes and gives you the double jump directly. Level design changes to make some jumping sections less annoying.\nControls:\nAction typecontrols 1controls 2MovementArrow keysWASDJumpZSPACEDashCSHIFTPauseEscapeEnter\nCredits:\n\nGot some sound effects from: pixabay.com\nDialogue system has a little of old code from older project. More than half was rewritten for this one tho.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQ0MzU4My8xNDUwNjc1MC5wbmc=/original/IzIjhC.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ0MzU4My8xNDUwNjc1My5wbmc=/original/qZz8vf.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ0MzU4My8xNDUwNjc1MS5wbmc=/original/l4qgkl.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ0MzU4My8xNDUwNjc1Mi5wbmc=/original/oFZMOf.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ0MzU4My8xNDUwNjc1NC5wbmc=/original/e0pW3q.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.6 out of 5 stars(8 total ratings)",
+          "Author": "potipot",
+          "Genre": "Platformer, Adventure",
+          "Made with": "Godot",
+          "Tags": "2D, Cute, Godot, Hand-drawn, Simple, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 2447403,
+      "gameUrl": "https://sushyk.itch.io/a-big-craving",
+      "overallRank": 12,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/winter-melonjam-2023/rate/2447403",
+        "rating_count": 0,
+        "created_at": "2023-12-30 23:54:51",
+        "id": 489265,
+        "game": {
+          "url": "https://sushyk.itch.io/a-big-craving",
+          "platforms": [
+            "web"
+          ],
+          "title": "A Big Craving",
+          "user": {
+            "id": 4623612,
+            "url": "https://sushyk.itch.io",
+            "name": "Sushyk"
+          },
+          "id": 2447403,
+          "cover": "https://img.itch.zone/aW1nLzE0NTA3MDQ1LmdpZg==/300x240%23c/LBZtC%2F.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzE0NTA3MDQ1LmdpZg==/original/mWEc9c.gif",
+          "short_text": "Game made for the 72-hour Winter MelonJam 2023",
+          "cover_color": "#eeeeee"
+        },
+        "field_responses": [
+          "26269:3",
+          "26274:1",
+          "27188:1"
+        ],
+        "coolness": 0,
+        "contributors": [
+          {
+            "url": "https://sushyk.itch.io",
+            "name": "Sushyk"
+          },
+          {
+            "url": "https://twin-steely.itch.io",
+            "name": "Twin Steely"
+          },
+          {
+            "url": "https://mazuchi.itch.io",
+            "name": "Mazuchi"
+          },
+          {
+            "url": "https://terriblenazgul.itch.io",
+            "name": "TerribleNazgul"
+          }
+        ]
+      },
+      "details": {
+        "title": "A Big Craving",
+        "description": "You will have to bake a charming cake, with the addition of different ingredients! Playing as a charming sorceress, you must mix everything in a bowl, put it in a stand mixer, and then put it in the oven and enjoy the charming taste of the resulting pie.\nControls: \nA,D - Movement\n1 - Pause and volume menu\nLMB - Interact\n\nArt - Mazuchi\nProgramming - Sush, Nazgul\nAudio - Twin Steely",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQ0NzQwMy8xNDUwNjA1My5wbmc=/original/7eTGUG.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ0NzQwMy8xNDUwNjg4MS5naWY=/original/tiF4D%2F.gif",
+          "https://img.itch.zone/aW1hZ2UvMjQ0NzQwMy8xNDUwNjA1NC5wbmc=/original/NQXcTD.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ0NzQwMy8xNDUwNjg2Ni5wbmc=/original/21UTXV.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.7 out of 5 stars(7 total ratings)",
+          "Authors": "Sushyk, Twin Steely, Mazuchi, TerribleNazgul",
+          "Made with": "Unity",
+          "Tags": "2D, Pixel Art, Relaxing"
+        }
+      }
+    },
+    {
+      "gameId": 2446291,
+      "gameUrl": "https://faceleste.itch.io/the-bosta-bar",
+      "overallRank": 13,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/winter-melonjam-2023/rate/2446291",
+        "created_at": "2023-12-29 23:50:41",
+        "id": 488643,
+        "game": {
+          "id": 2446291,
+          "short_text": "sly stealth mastery",
+          "url": "https://faceleste.itch.io/the-bosta-bar",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzE0NDk1NTc2LnBuZw==/300x240%23c/c1ggtZ.png",
+          "title": "The Bosta Bar",
+          "user": {
+            "id": 9418450,
+            "url": "https://faceleste.itch.io",
+            "name": "Faceleste"
+          },
+          "cover_color": "#04000e"
+        },
+        "field_responses": [
+          "26269:2",
+          "26274:1",
+          "27188:1"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "The Bosta Bar",
+        "description": "!!!!!! PLAY ON FULLSCREEN !!!!!!\n  The Bosta Bar is a stealth/persuation game created in 3 days by the Faceleste Studio for the Melon Jam 2023 with the theme \"Charm\". In the game, you follow a pair of thieves that, by distracting their victims, perform burglaries inside a bar.\n\n\n\nDevelopers of The Bosta Bar \nRafaelProgrammingGiovanniArtsJoãoProgrammingThomasArts & Sounds\n\n⬇️  -CONTROLS-  ⬇️\nA - move to the leftD - move to the rightF - stealing (Hold it until the message pops up! We found a bug where the progress bar becomes invisible)E - change character\n⬇️  -MECHANICS -   ⬇️\nFrom time to time the victim will look back, noticing Donny's strange and imposing presence, he'll look more often if your sus-o-meter is too high.\nPaul can use his charm to talk to the victim, choosing the best option will make the sus-o-meter go down, making it safer for Donny to steal.\nWhen approaching a pillar or a table, Donny will automatically hide behind the object, the victim won't be able to see him.\nThe symbol of ! means the victim is about to look back, wait for the ! to disappear before leaving the hiding spot.\nDonny needs to hold the \"F\" button near the victim for 3 seconds in order to steal what they have, then go back to the entrance. (As mentioned before, we found a bug where the button disappears after the first 2 seconds, but continue holding until the dialogue shows up).\n                                                                               FINAL NOTE:\nThe game was made in 72 hours to the MelonJam. There were some ideas that we've had that were not present in the final project due to the lack of time. We've seen a lot of potential in the idea. That, and the people that enjoyed our game makes us consider the idea of working on more updates, and, maybe, releasing a more ambitious version of The Bosta Bar. (name yet to be confirmed)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQ0NjI5MS8xNDUyMjQ1MS5wbmc=/original/ngrHZa.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ0NjI5MS8xNDUyMjQ0Ni5wbmc=/original/%2BBYkC%2F.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ0NjI5MS8xNDUyMjQ0OS5wbmc=/original/ZY2%2BkR.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ0NjI5MS8xNDUyMjQ0NS5wbmc=/original/syoaBY.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ0NjI5MS8xNDUyMjQ1MC5wbmc=/original/GZcbbP.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ0NjI5MS8xNDUyMjQ0OC5wbmc=/original/x6yeBI.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ0NjI5MS8xNDUyMjQ4NC5wbmc=/original/n3tRUh.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ0NjI5MS8xNDUyMjQ5MS5wbmc=/original/VKcYPF.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ0NjI5MS8xNDUyNTMyMy5naWY=/original/csKcU4.gif"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.8 out of 5 stars(9 total ratings)",
+          "Author": "Faceleste",
+          "Genre": "Action",
+          "Made with": "Unity",
+          "Tags": "2D, Indie, Management, Meaningful Choices, Pixel Art, Singleplayer, Sprites, Stealth",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": 2448115,
+      "gameUrl": "https://artmattgeddon.itch.io/hexed-hearts",
+      "overallRank": 14,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/winter-melonjam-2023/rate/2448115",
+        "created_at": "2023-12-30 23:00:40",
+        "id": 489142,
+        "game": {
+          "short_text": "Made for Melon Jam 2023",
+          "url": "https://artmattgeddon.itch.io/hexed-hearts",
+          "id": 2448115,
+          "cover": "https://img.itch.zone/aW1nLzE0NTA2MDk2LnBuZw==/300x240%23c/B72mEM.png",
+          "title": "Hexed Hearts",
+          "user": {
+            "id": 9369686,
+            "url": "https://artmattgeddon.itch.io",
+            "name": "ArtMattgeddon"
+          },
+          "cover_color": "#ba556f"
+        },
+        "field_responses": [
+          "26269:1",
+          "26274:1",
+          "27188:1"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Hexed Hearts",
+        "description": "The player is a fumbling witch who bought a love potion to charm her crush. However, the witch didn't read the label and assumed it didn't work, carelessly throwing it away into the local town's well, causing the towns folk to be madly in love with her. She uses her magic powers to stop them from being charmed! Use upgrades for your magic to stop the wave of charmed towns folk. \n\nFollow us on Social Media!\n@ArtMattgeddon\n@EsfiArt",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQ0ODExNS8xNDUwNTcxMy5wbmc=/original/oQxteI.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ0ODExNS8xNDUwNTcxNC5wbmc=/original/gI9kVP.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ0ODExNS8xNDUwNTcxNS5wbmc=/original/ibcNcf.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Rating": "Rated 4.4 out of 5 stars(5 total ratings)",
+          "Author": "ArtMattgeddon",
+          "Genre": "Survival, Visual Novel",
+          "Tags": "2D, Cute, Fantasy, Game Jam, Godot, godot-4, Singleplayer, vampire-surivors, witch"
+        }
+      }
+    },
+    {
+      "gameId": 2446894,
+      "gameUrl": "https://rethuna.itch.io/snake-sweeper",
+      "overallRank": 15,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/winter-melonjam-2023/rate/2446894",
+        "created_at": "2023-12-30 18:07:42",
+        "id": 488860,
+        "game": {
+          "id": 2446894,
+          "short_text": "Minesweeper with Charms and Snakes",
+          "url": "https://rethuna.itch.io/snake-sweeper",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzE0NDk2NzEwLnBuZw==/300x240%23c/cJ1dB%2B.png",
+          "title": "Snake Sweeper",
+          "user": {
+            "id": 2732313,
+            "url": "https://rethuna.itch.io",
+            "name": "Rethuna"
+          },
+          "cover_color": "#62cc80"
+        },
+        "field_responses": [
+          "26269:3",
+          "26274:1",
+          "27188:1"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Snake Sweeper",
+        "description": "Puzzle Game made in 3 Days for the Winter Melon Jam 2023. \nInspired by minesweeper. \n\n\n\n\n\n\n\nHow To Play!\nGoal is to charm all the snakes in the level.\nCollect Charms to charm snakes.\nFlip tiles, the numbers will guide you on where the snakes are (minesweeper), avoid snakes and until you have enough charms!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQ0Njg5NC8xNDUwMjMzOC5naWY=/original/45x%2Bmp.gif",
+          "https://img.itch.zone/aW1hZ2UvMjQ0Njg5NC8xNDUwMjM0Ny5wbmc=/original/AZK5HE.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ0Njg5NC8xNDUwMjM0OC5wbmc=/original/fMH5II.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.8 out of 5 stars(4 total ratings)",
+          "Author": "Rethuna",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "Casual, Minesweeper, Short"
+        }
+      }
+    }
+  ]
+}

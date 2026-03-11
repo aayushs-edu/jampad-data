@@ -1,0 +1,849 @@
+{
+  "n": 90,
+  "name": "New Year, New Skills Game Jam",
+  "url": "https://itch.io/jam/new-year-new-skills-game-jam",
+  "theme": "No theme",
+  "slug": "new-year-new-skills-game-jam",
+  "jamMeta": {
+    "jamType": "ongoing",
+    "joined": "",
+    "entries": "340",
+    "title": "New Year, New Skills Game Jam",
+    "jamURL": "https://itch.io/jam/new-year-new-skills-game-jam",
+    "hosts": {
+      "Bitter Sails Games": "https://bittersails.itch.io",
+      "#blacksailsgamejam": "https://bsky.app/hashtag/blacksailsgamejam"
+    },
+    "jamID": "384549"
+  },
+  "totalEntries": 328,
+  "ranked": true,
+  "hasCategories": false,
+  "needsManualSelection": false,
+  "categories": [],
+  "topGames": [
+    {
+      "gameId": 2467397,
+      "gameUrl": "https://jaqueofalltrades.itch.io/a-way-back-home",
+      "overallRank": 1,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "game": {
+          "id": 2467397,
+          "user": {
+            "url": "https://jaqueofalltrades.itch.io",
+            "id": 8026066,
+            "name": "Jaqueofalltrades"
+          },
+          "cover_color": "#a1cdb0",
+          "cover": "https://img.itch.zone/aW1nLzE0NjQxMzAxLnBuZw==/300x240%23c/a0ehPE.png",
+          "url": "https://jaqueofalltrades.itch.io/a-way-back-home",
+          "platforms": [
+            "web"
+          ],
+          "title": "A Way Back Home"
+        },
+        "id": 492672,
+        "rating_count": 0,
+        "created_at": "2024-01-13 17:59:05",
+        "coolness": 0,
+        "url": "/jam/new-year-new-skills-game-jam/rate/2467397"
+      },
+      "details": {
+        "title": "A Way Back Home",
+        "description": "A way back home is a platformer in which you have to ˜ connect ˜ your way back home by collecting all the crystals in each level to build a bridge that takes you closer to your goal.Use arrows to move and space to jump.Made with Godot by Jaqueline Santos and Bruno Tabor for the New Year, New Skills game jam.Credits:\nCharacter: BrullovSong: Spencer_YKCrystal sound effect: PixabayBridge sound effect: SergeQuadrado",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE0NjQxMzAxLnBuZw==/original/ZwxJrQ.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.0 out of 5 stars(2 total ratings)",
+          "Author": "Jaqueofalltrades",
+          "Genre": "Platformer",
+          "Made with": "Godot",
+          "Tags": "Godot, Pixel Art"
+        }
+      }
+    },
+    {
+      "gameId": 2468334,
+      "gameUrl": "https://franco-yudica.itch.io/tethering-faith",
+      "overallRank": 2,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "game": {
+          "id": 2468334,
+          "cover": "https://img.itch.zone/aW1nLzE0NjU4NTk5LnBuZw==/300x240%23c/3IdJRm.png",
+          "user": {
+            "url": "https://franco-yudica.itch.io",
+            "id": 2329217,
+            "name": "Franco Yudica"
+          },
+          "cover_color": "#000000",
+          "platforms": [
+            "windows",
+            "linux"
+          ],
+          "url": "https://franco-yudica.itch.io/tethering-faith",
+          "short_text": "A short gothic pixel game where you connect the living and the dead.",
+          "title": "Tethering Faith"
+        },
+        "url": "/jam/new-year-new-skills-game-jam/rate/2468334",
+        "id": 493045,
+        "contributors": [
+          {
+            "name": "Franco Yudica",
+            "url": "https://franco-yudica.itch.io"
+          },
+          {
+            "name": "Futotori",
+            "url": "https://futotori.itch.io"
+          },
+          {
+            "name": "KosoGames",
+            "url": "https://kosogames.itch.io"
+          },
+          {
+            "name": "Sage901",
+            "url": "https://sage901.itch.io"
+          },
+          {
+            "name": "TheBlackSolace",
+            "url": "https://theblacksolace.itch.io"
+          }
+        ],
+        "created_at": "2024-01-14 12:36:23",
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Tethering Faith",
+        "description": "Tethering Faith is a short 2D side scroller puzzle and narrative driven gothic pixel game. Set in a post apocalyptic world with fantasy elements,  you follow the story of Aveline; the last vessel of her god's will. \nUsing her unique ability to connect the living and the dead, Aveline without knowing must determine the fate of her realm. \n┌─ ･｡ﾟ: ∘◦☾◦∘｡ﾟ. ─┐\n❝ 「 He has willed it, and it is so. 」❞\n\n└─ ･｡ﾟ: ∘◦☾◦∘｡ﾟ. ─┘\n══════ ✝ { Controls } ✝ ══════ \n\n[ X ] To interact \n[ Space ] To Jump\n➥ Hold space bar to jump higher. \nClick it again to double jump and hold for height\n[ F11 ] Full Screen\n\n══════ ✝ { Features } ✝ ══════ \n➥  Original Sound Track \n➥  4 Unique locations \n➥  10+ unique NPCs\n➥  Choices that matter\n➥  2 Endings \n\n══════ ✝ { Development } ✝ ══════ \n ◦☾◦ Programmers ◦☾◦\nFranco Yudica and Lucas 'Koso' Moyano\n◦☾◦ Artist ◦☾◦\nDax\n◦☾◦ Composer ◦☾◦\nSeth Monyette\n◦☾◦ Sound Designer ◦☾◦ \nSolace\n◦☾◦ Writer ◦☾◦\nDax  and  Seth Monyette\n\n\n 。　☆　　　ﾟ ＊  ¸ .　    ✦˖　      ° :   ﹢ 　   ˖ . •　 .　﹢˖✦\n\nThis was a game made for New Year, New Skills Game Jam and everything for this project was made within a week! As well as that, this is everyones first Game Jam. If you want us to make this into a full game please let us know!\nAny feedback is greatly welcome and thank you for checking out our page!\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQ2ODMzNC8xNDY1OTA2OC5wbmc=/original/buJdGF.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ2ODMzNC8xNDY1OTA1OS5wbmc=/original/t3oNSx.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ2ODMzNC8xNDY1OTA2MC5wbmc=/original/6qL4WX.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ2ODMzNC8xNDY1OTA2MS5wbmc=/original/0evkmI.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, Linux",
+          "Rating": "Rated 4.8 out of 5 stars(4 total ratings)",
+          "Authors": "Franco Yudica, Futotori, KosoGames, Sage901, TheBlackSolace",
+          "Genre": "Puzzle, Visual Novel",
+          "Tags": "Dark Fantasy, Fantasy, Gothic, Multiple Endings, Pixel Art, Psychological Horror"
+        }
+      }
+    },
+    {
+      "gameId": 2468469,
+      "gameUrl": "https://real2lazy.itch.io/the-tome",
+      "overallRank": 3,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "game": {
+          "id": 2468469,
+          "cover": "https://img.itch.zone/aW1nLzE0NjU0MjE0LnBuZw==/300x240%23c/b3iIrd.png",
+          "user": {
+            "url": "https://real2lazy.itch.io",
+            "id": 6264476,
+            "name": "2LAZY"
+          },
+          "cover_color": "#000000",
+          "platforms": [
+            "windows"
+          ],
+          "url": "https://real2lazy.itch.io/the-tome",
+          "short_text": "Solve the mysterious murders.",
+          "title": "The Tome"
+        },
+        "id": 492637,
+        "rating_count": 0,
+        "created_at": "2024-01-13 15:25:20",
+        "coolness": 0,
+        "url": "/jam/new-year-new-skills-game-jam/rate/2468469"
+      },
+      "details": {
+        "title": "The Tome",
+        "description": "My name is Detective Williams for the New York City Police Department. I was sent to solve a case of potentially connected murders. \nFour people were murdered in a trailer park in the outbacks of Albany. My orders are to gather any evidence relating to The Cult, and find any possible motivations.\nThe Tome is a PSX-style horror game with an emphasis on exploration and atmosphere.\n\nSubmission of New Years, New Skills game jam.\nProgramming:\npulp_dev\nLevel design and story:\ndagon_gd\npulp_dev\nSound Effects:\nSnakeWig\nMusic:\nKzarkses\n\nHorror Free SFX by YourPalRob\nArchitecture Kit by Comp-3 Interactive\nMax Damage's Low Poly Zombie\nEssential Series NOX SOUND\nTrailer Park by Elbolilloduro\nSBS Tiny Texture Pack by All Screaming Brain Studios\nPSX Style Cars by GGBot\nMade in Godot Engine",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQ2ODQ2OS8xNDY1NzA2NS5wbmc=/original/UCIw2s.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ2ODQ2OS8xNDY1NzA2Ni5wbmc=/original/vLiAJG.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(5 total ratings)",
+          "Author": "2LAZY",
+          "Genre": "Puzzle",
+          "Tags": "3D, Atmospheric, Creepy, Horror, Lovecraftian Horror, PSX (PlayStation), Psychological Horror, Retro, Short"
+        }
+      }
+    },
+    {
+      "gameId": 2468075,
+      "gameUrl": "https://clema.itch.io/underground-apartment",
+      "overallRank": 4,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "game": {
+          "id": 2468075,
+          "cover": "https://img.itch.zone/aW1nLzE0NjUwMDg3LnBuZw==/300x240%23c/WThtM1.png",
+          "user": {
+            "url": "https://clema.itch.io",
+            "id": 7748595,
+            "name": "Cle"
+          },
+          "cover_color": "#65451F",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "url": "https://clema.itch.io/underground-apartment",
+          "short_text": "build a dream apartment",
+          "title": "Underground Apartment"
+        },
+        "url": "/jam/new-year-new-skills-game-jam/rate/2468075",
+        "id": 492666,
+        "contributors": [
+          {
+            "name": "Cle",
+            "url": "https://clema.itch.io"
+          },
+          {
+            "name": "Mulitang",
+            "url": "https://mulitang.itch.io"
+          }
+        ],
+        "created_at": "2024-01-13 17:40:41",
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Underground Apartment",
+        "description": "Welcome to Underground Apartment, the home for critters of all kinds.\nBuild your own 3 star apartment for cute animals!\nMade for New Year, New Skills Game Jam 2024\n🎮Control🎮\nright click to cancel build\nscroll down using the mouse wheel or hold right mouse and drag for more room.\n(there are 99 room slots available, and buildings cannot be removed, so plan ahead to build that luxury apartment)\n✏️Credits✏️\nartist：Mulitang\nprogramming：Cle\n🎵Other🎵\nBGM Frog Shop by flowerhead\nFont: https://booth.pm/en/items/5199816\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQ2ODA3NS8xNDY1MDA4OS5naWY=/original/FFDKk0.gif",
+          "https://img.itch.zone/aW1hZ2UvMjQ2ODA3NS8xNDY1MDI0My5wbmc=/original/fEJsUq.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.5 out of 5 stars(6 total ratings)",
+          "Authors": "Cle, Mulitang",
+          "Genre": "Strategy",
+          "Made with": "Godot",
+          "Tags": "2D, Casual, City Builder, Cozy, Cute, Godot, Management, Relaxing"
+        }
+      }
+    },
+    {
+      "gameId": 2461545,
+      "gameUrl": "https://tempuracatgames.itch.io/unplugged",
+      "overallRank": 5,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "game": {
+          "id": 2461545,
+          "cover": "https://img.itch.zone/aW1nLzE0NjU1Mzg2LnBuZw==/300x240%23c/hn3lTi.png",
+          "user": {
+            "url": "https://tempuracatgames.itch.io",
+            "id": 8869192,
+            "name": "TempuraCatGames"
+          },
+          "cover_color": "#8BB48D",
+          "platforms": [
+            "web"
+          ],
+          "url": "https://tempuracatgames.itch.io/unplugged",
+          "short_text": "a puzzle game about plugging in",
+          "title": "UNPLUGGED"
+        },
+        "id": 492832,
+        "rating_count": 0,
+        "created_at": "2024-01-14 03:29:20",
+        "coolness": 0,
+        "url": "/jam/new-year-new-skills-game-jam/rate/2461545"
+      },
+      "details": {
+        "title": "UNPLUGGED",
+        "description": "\n-UNPLUGGED-\n\nControls:\nMouse to move\nclick to disconnect plugs\n\nAbout:\n\nmade in 1 week for New Year New Skills Game Jam 2024\nmade using Godot v4.2\n\nCredits:\n\nart - me, using piskelapp\n\nmusic - me, using cubase 12 pro\n\ncode - me, using Godot 4.2\ninspiration, support, and playtesting - friends and family\n\nsounds - various online sources, mixed and edited by me\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE0NjU1Mzg2LnBuZw==/original/6m9tzf.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.6 out of 5 stars(7 total ratings)",
+          "Author": "TempuraCatGames",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "2D"
+        }
+      }
+    },
+    {
+      "gameId": 2469995,
+      "gameUrl": "https://kofikrumble.itch.io/flirter-not-a-fighter",
+      "overallRank": 6,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "game": {
+          "id": 2469995,
+          "cover": "https://img.itch.zone/aW1nLzE0NjU5NzI2LnBuZw==/300x240%23c/6MUtBg.png",
+          "user": {
+            "url": "https://kofikrumble.itch.io",
+            "id": 8754495,
+            "name": "KofiKrumble"
+          },
+          "cover_color": "#eeeeee",
+          "platforms": [
+            "web"
+          ],
+          "url": "https://kofikrumble.itch.io/flirter-not-a-fighter",
+          "short_text": "Charm your way through the beach and flirt with plenty of various dudes with your limited deck of words!",
+          "title": "Flirter, Not a Fighter"
+        },
+        "url": "/jam/new-year-new-skills-game-jam/rate/2469995",
+        "id": 493057,
+        "contributors": [
+          {
+            "name": "KofiKrumble",
+            "url": "https://kofikrumble.itch.io"
+          },
+          {
+            "name": "powbrick",
+            "url": "https://powderbrick.itch.io"
+          }
+        ],
+        "created_at": "2024-01-14 12:42:43",
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Flirter, Not a Fighter",
+        "description": "VERSION 1.0.0.4\n====================================================\nHOW TO PLAY:\n- WASD to move\n- Make phrases for every encounter (bad phrases are also accepted)\n- Stay alive until the end!\n====================================================\n\nOVERVIEW\n\nCharm your way through the beach and flirt with plenty of various dudes with your limited deck of words!\nMEET DUDES ON THE BEACH\n- Connect with various (most often stereotypical, oops) beach boys and see them in action!\n\nTALK YOUR WAY TO VICTORY\n\n- Fighting with your fists is not an option. Words are the way to the heart in this game!\n\nFAST-PACED PHRASE BUILDING ACTION\n\n- The clock is ticking, better think quick before people give you a knuckle sandwich!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQ2OTk5NS8xNDY3MjgwNC5wbmc=/original/jKJiG2.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ2OTk5NS8xNDY3MjgxMy5wbmc=/original/ePc1xB.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ2OTk5NS8xNDY3MjgxOC5wbmc=/original/70uv7a.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ2OTk5NS8xNDY3MjgyOS5wbmc=/original/JJzB7N.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.3 out of 5 stars(3 total ratings)",
+          "Authors": "KofiKrumble, powbrick",
+          "Genre": "Card Game",
+          "Made with": "Godot",
+          "Tags": "2D, beach, Deck Building, Godot, phrase, phrase-builder, Robots, Side Scroller"
+        }
+      }
+    },
+    {
+      "gameId": 2468461,
+      "gameUrl": "https://johncavatelli.itch.io/rift-electric",
+      "overallRank": 7,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "game": {
+          "id": 2468461,
+          "cover": "https://img.itch.zone/aW1nLzE0ODY0NDk2LnBuZw==/300x240%23c/55W%2BXj.png",
+          "user": {
+            "url": "https://johncavatelli.itch.io",
+            "id": 2332025,
+            "name": "John Cavatelli"
+          },
+          "cover_color": "#000000",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ],
+          "url": "https://johncavatelli.itch.io/rift-electric",
+          "short_text": "peer deep into the 'RIFT'",
+          "title": "'RIFT' Electric"
+        },
+        "id": 492831,
+        "rating_count": 0,
+        "created_at": "2024-01-14 03:23:20",
+        "coolness": 0,
+        "url": "/jam/new-year-new-skills-game-jam/rate/2468461"
+      },
+      "details": {
+        "title": "'RIFT' Electric",
+        "description": "'RIFT' Electric is a first person puzzle game where you take a questionable job listing  and must enter strange homes to turn off all the lights. Using a lens that reveals hidden objects and electrical connections, you must figure how the rooms are wired to escape safely.\n\n\nControlButtonMovementWASDInteract'E' or Left MouseToggle Lens'Q' or Right MouseElectrical Gates ManualTab (Hold)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQ2ODQ2MS8xNDg2NDY0Mi5naWY=/original/kxsVmY.gif",
+          "https://img.itch.zone/aW1hZ2UvMjQ2ODQ2MS8xNDg2NDY0NC5naWY=/original/xrGUHG.gif",
+          "https://img.itch.zone/aW1hZ2UvMjQ2ODQ2MS8xNDg2NDY0My5naWY=/original/ynMYG5.gif",
+          "https://img.itch.zone/aW1hZ2UvMjQ2ODQ2MS8xNDg2NDY0MS5naWY=/original/AkUYL4.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS, Linux",
+          "Rating": "Rated 4.5 out of 5 stars(4 total ratings)",
+          "Author": "John Cavatelli",
+          "Genre": "Puzzle",
+          "Tags": "First-Person, PSX (PlayStation)"
+        }
+      }
+    },
+    {
+      "gameId": 2469939,
+      "gameUrl": "https://tawasmoke.itch.io/demon-knight",
+      "overallRank": 8,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "game": {
+          "id": 2469939,
+          "user": {
+            "url": "https://tawasmoke.itch.io",
+            "id": 760541,
+            "name": "Tawasmoke"
+          },
+          "cover_color": "#eeeeee",
+          "cover": "https://img.itch.zone/aW1nLzE0NjU5Mjc2LnBuZw==/300x240%23c/4XlE5X.png",
+          "url": "https://tawasmoke.itch.io/demon-knight",
+          "platforms": [
+            "web"
+          ],
+          "title": "Demon Knight"
+        },
+        "id": 493123,
+        "rating_count": 0,
+        "created_at": "2024-01-14 14:01:50",
+        "coolness": 0,
+        "url": "/jam/new-year-new-skills-game-jam/rate/2469939"
+      },
+      "details": {
+        "title": "Demon Knight",
+        "description": "Controls: WASD,ESC to Quit,Enter to Start\nCamera:Mousefor windows copy both files in to one folder ! ",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE0NjU5Mjc2LnBuZw==/original/buL2O2.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Tawasmoke",
+          "Genre": "Adventure",
+          "Made with": "Godot",
+          "Tags": "3D, Atmospheric, Fantasy, Godot"
+        }
+      }
+    },
+    {
+      "gameId": 2469676,
+      "gameUrl": "https://lizardlike.itch.io/precept",
+      "overallRank": 9,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "game": {
+          "id": 2469676,
+          "cover": "https://img.itch.zone/aW1nLzE0NjYwMDg0LnBuZw==/300x240%23c/5GBmxm.png",
+          "user": {
+            "url": "https://lizardlike.itch.io",
+            "id": 9150239,
+            "name": "Lizardlike"
+          },
+          "cover_color": "#000000",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "url": "https://lizardlike.itch.io/precept",
+          "short_text": "A world has fallen to totalitarianism. You control a machine from that world.",
+          "title": "PRECEPT"
+        },
+        "id": 493122,
+        "rating_count": 0,
+        "created_at": "2024-01-14 14:00:42",
+        "coolness": 0,
+        "url": "/jam/new-year-new-skills-game-jam/rate/2469676"
+      },
+      "details": {
+        "title": "PRECEPT",
+        "description": "This is a very short game about you, and what you can do.\nDownloading recommended for the best experience.\n\nThis game was made in 7 days for the New Year, New Skills Game Jam.\nI made all of the models, sounds and textures, did all the programming, visuals and level design.\n\nWASD to move\nSPACE to jump\nLeft Mouse Button to grab\nP to pause the game\nI highly encourage speedrunners to try and speedrun it, because it's the most fun I've had with the game.\n\nLEADERBOARD:\n1st place: Lizardlike, time: 1:33 (developer)\n2nd place: SumOfAllN00bs, time: 1:34\n3rd place: Charlie257318, time: 1:39\n\n\nPS: The web version is very buggy and much weaker in comparison to the PC version in many ways. Sorry about any problems with performance. Download the .zip fileExtract the filesOpen PRECEPT.exe",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQ2OTY3Ni8xNDY2MDE0Ny5wbmc=/original/VlJ16W.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ2OTY3Ni8xNDY2MDE1Ni5wbmc=/original/J4Ryjg.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ2OTY3Ni8xNDY2MDE1Ny5wbmc=/original/bNctCH.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ2OTY3Ni8xNDY2MDE1NC5wbmc=/original/iEzGId.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ2OTY3Ni8xNDY2MDE1NS5wbmc=/original/VTVNQB.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(3 total ratings)",
+          "Author": "Lizardlike",
+          "Genre": "Platformer, Action, Puzzle",
+          "Made with": "Unity",
+          "Tags": "3D, Atmospheric, Parkour, Short, Speedrun"
+        }
+      }
+    },
+    {
+      "gameId": 2467028,
+      "gameUrl": "https://sallad-dev.itch.io/dio-cant-connect",
+      "overallRank": 10,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "game": {
+          "id": 2467028,
+          "cover": "https://img.itch.zone/aW1nLzE0NjM4MjY2LnBuZw==/300x240%23c/v8hBan.png",
+          "user": {
+            "url": "https://sallad-dev.itch.io",
+            "id": 9382245,
+            "name": "Sallad Dev"
+          },
+          "cover_color": "#191f22",
+          "platforms": [
+            "web"
+          ],
+          "url": "https://sallad-dev.itch.io/dio-cant-connect",
+          "short_text": "Dio's journey! He can't turn back now!",
+          "title": "Dio Can't Connect!"
+        },
+        "id": 492630,
+        "rating_count": 0,
+        "created_at": "2024-01-13 15:02:30",
+        "coolness": 0,
+        "url": "/jam/new-year-new-skills-game-jam/rate/2467028"
+      },
+      "details": {
+        "title": "Dio Can't Connect!",
+        "description": "\nControls:\nESC - pause menu\nA,D - left and right\nSpace - jump / jump off wire\nLeft Mouse Button , E - grab things\nR - let go of said grabbed things\nMy first game! This was originally submitted for the Bitter Sails New Year, New Skills Game Jam! In this you place as Dio the diode. On his tricky journey he must connect to sources that will unlock his path forward.\nMusic:\nLeap - nene (https://opengameart.org/content/leap-8bit) \nAll other assets are done by myself !\nJust a heads up! My Personal Best  is 24.071. Good luck!\nThanks for playing :)\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE0NjM4MjY2LnBuZw==/original/IC27bT.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.6 out of 5 stars(5 total ratings)",
+          "Author": "Sallad Dev",
+          "Genre": "Platformer",
+          "Made with": "Godot",
+          "Tags": "2D, 8-Bit, Pixel Art, Short, Speedrun",
+          "Average session": "A few seconds",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 2469383,
+      "gameUrl": "https://cognito-labs.itch.io/project-memento",
+      "overallRank": 11,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "game": {
+          "id": 2469383,
+          "cover": "https://img.itch.zone/aW1nLzE0NjU1NTM3LnBuZw==/300x240%23c/nlxLc6.png",
+          "user": {
+            "url": "https://cognito-labs.itch.io",
+            "id": 9467302,
+            "name": "Cognito Labs"
+          },
+          "cover_color": "#000000",
+          "platforms": [
+            "windows"
+          ],
+          "url": "https://cognito-labs.itch.io/project-memento",
+          "short_text": "Do you believe in free will?",
+          "title": "Project Memento (Demo)"
+        },
+        "id": 492865,
+        "rating_count": 0,
+        "created_at": "2024-01-14 05:18:18",
+        "coolness": 0,
+        "url": "/jam/new-year-new-skills-game-jam/rate/2469383"
+      },
+      "details": {
+        "title": "Project Memento (Demo)",
+        "description": "“Do you believe in free will?”\n\nProject Memento is a psychological horror game where you wake up without memory in a strange apartment. With no idea what lies outside and with the main door being mysteriously blocked, you must navigate through the eerie environment to uncover the truth. As you delve deeper into the apartment's dark corners, you realize that something lurks within. Would you be able to recover your memory and find the truth?\n\nProject Memento was developed as part of the New Year, New Skills Game Jam, in just 7 days, by a team of five artists and developers following the theme \"building connections\".\n\nTeam Roles:\n\nRole\nName\nManagement & Game DesignJorge NaderGameplay & Narrative\nLindsey Vanthorn, Aixa Turlan and Jorge NaderProgramming & Level Design\nMykola Kozoriz and Jorge NaderArt\nLindsey Vanthorn \nMusic & Sound\nNe4a\n\n\nOur 2D art was made by the talented Lindsey Vanthorn. To learn more about her work, visit  here\n\n\nAll the music in this game was composed by Ne4a. To check out more of Ne4a's impressive work, visit here\n\n\n\nContact the developers at:\n\nJorge Nader: LinkedIn\n\nAixa Turlan: LinkedIn\n\nMykola Kozoriz: LinkedIn\n\n\nControls:\nMovement: WASD\nInteract with objects: E\nInteract with dialog: Left click\n\nSYSTEM REQUIREMENTS:\n\n- Relatively modern dedicated graphics cardDownload the zip file and unzip it to a folder of your choiceNavigate to the 'Windows' folder you just unzipped\nDouble click the \"memento\" executable file with a black icon\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQ2OTM4My8xNDY1NjIxNi5wbmc=/original/f3hNcB.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ2OTM4My8xNDY1NTU0MC5wbmc=/original/ha9FnY.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ2OTM4My8xNDY1NTY3Ny5wbmc=/original/agNX12.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ2OTM4My8xNDY1NTU0My5wbmc=/original/S%2FcXIf.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Cognito Labs",
+          "Genre": "Role Playing",
+          "Made with": "Unreal Engine",
+          "Tags": "Atmospheric, First-Person, Horror, Mystery, Narrative, Psychological Horror, Short, Singleplayer, Surreal, Unreal Engine",
+          "Average session": "A few minutes"
+        }
+      }
+    },
+    {
+      "gameId": 2469880,
+      "gameUrl": "https://bratah123.itch.io/overcropped",
+      "overallRank": 12,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "game": {
+          "id": 2469880,
+          "user": {
+            "url": "https://bratah123.itch.io",
+            "id": 1922589,
+            "name": "Bratah"
+          },
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzE0NjU5MDI2LnBuZw==/300x240%23c/reXF1p.png",
+          "url": "https://bratah123.itch.io/overcropped",
+          "short_text": "Quickly plant and grow those vegetables to deliver those farming connections!",
+          "title": "Overcropped"
+        },
+        "url": "/jam/new-year-new-skills-game-jam/rate/2469880",
+        "id": 493000,
+        "contributors": [
+          {
+            "name": "Bratah",
+            "url": "https://bratah123.itch.io"
+          },
+          {
+            "name": "angietea",
+            "url": "https://angietea.itch.io"
+          },
+          {
+            "name": "ragnaorok",
+            "url": "https://ragnaorok.itch.io"
+          }
+        ],
+        "created_at": "2024-01-14 11:46:29",
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Overcropped",
+        "description": "Overcropped is a fast-paced repeating farming game, where you try to deliver to other farming companies in hopes that you build the connections needed to build your farming empire!The game is lacking many features that the team tried, but as mostly all first time jammers, we are proud of our creation!Check out the source code at: https://github.com/Bratah123/NewYearNewSkillsJamWe greatly appreciate you for playing and giving our game a chance!Lead:PeterProgrammers: https://ragnaorok.itch.io/https://angietea.itch.io/https://bratah123.itch.io/Artist:https://deltzio.itch.io/Drag the contents of the zip, and run the exe!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQ2OTg4MC8xNDY1ODk3Ni5wbmc=/original/a4uKJg.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ2OTg4MC8xNDY1ODk4MC5wbmc=/original/EuuT7x.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ2OTg4MC8xNDY1ODk4NS5wbmc=/original/kI6YqJ.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(3 total ratings)",
+          "Authors": "Bratah, angietea, ragnaorok",
+          "Genre": "Simulation",
+          "Made with": "Godot",
+          "Tags": "2D, Farming"
+        }
+      }
+    },
+    {
+      "gameId": 2466549,
+      "gameUrl": "https://neofocena.itch.io/kaalub",
+      "overallRank": 13,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "game": {
+          "id": 2466549,
+          "cover": "https://img.itch.zone/aW1nLzE0NjM0OTc1LnBuZw==/300x240%23c/WqEVns.png",
+          "user": {
+            "url": "https://neofocena.itch.io",
+            "id": 3281840,
+            "name": "Kyara"
+          },
+          "cover_color": "#191f22",
+          "platforms": [
+            "web"
+          ],
+          "url": "https://neofocena.itch.io/kaalub",
+          "short_text": "Attempt a ritual using the Sinister Tarots to build a connection with the demon Kaalub, the Oracle of Obsessions.",
+          "title": "Kaalub"
+        },
+        "url": "/jam/new-year-new-skills-game-jam/rate/2466549",
+        "id": 493073,
+        "contributors": [
+          {
+            "name": "Kyara",
+            "url": "https://neofocena.itch.io"
+          },
+          {
+            "name": "MatteoRichardGaudino",
+            "url": "https://matteorichardgaudino.itch.io"
+          },
+          {
+            "name": "Icaro",
+            "url": "https://icarosirio.itch.io"
+          }
+        ],
+        "created_at": "2024-01-14 12:50:07",
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Kaalub",
+        "description": "Through a mediumistic ritual with the Sinister Tarots, we will build a connection with the demon Kaalub, \"Oracle of Obsessions\". \nKaalub will grant the privilege of obtaining divination on any question to anyone who completes the ritual correctly.She will devour a thought, idea or ambition instead, every time the Tarot user fails the occult process until his mind is completely drained.\nThis game was created in 7 days, for the Game Jam  New Year New SkillsGame assets, visuals and design: @KyaraGame music and SFX: @IcaroSirioGame Dev: @MatteoRichardGaudino",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQ2NjU0OS8xNDY1ODgzMi5wbmc=/original/Zezr4Q.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ2NjU0OS8xNDY2MDI5MC5wbmc=/original/oCfi1s.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ2NjU0OS8xNDY2MDI5My5wbmc=/original/liFhUD.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ2NjU0OS8xNDcwMzY3Ny5wbmc=/original/qCUIDp.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ2NjU0OS8xNDcwMzc0MC5wbmc=/original/6kJOkw.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ2NjU0OS8xNDcwMzkwNi5wbmc=/original/s3lD90.png",
+          "https://img.itch.zone/aW1hZ2UvMjQ2NjU0OS8xNDcwMzkwNy5wbmc=/original/dnn690.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Release date": "Jan 14, 2024",
+          "Rating": "Rated 5.0 out of 5 stars(3 total ratings)",
+          "Authors": "Kyara, MatteoRichardGaudino, Icaro",
+          "Genre": "Card Game, Puzzle",
+          "Tags": "divination, mistery, Pixel Art, solitaire, wikka",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Mouse, Touchscreen",
+          "Accessibility": "Color-blind friendly"
+        }
+      }
+    },
+    {
+      "gameId": 2464595,
+      "gameUrl": "https://bluehair.itch.io/the-dragon-escapes",
+      "overallRank": 14,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "game": {
+          "id": 2464595,
+          "user": {
+            "url": "https://bluehair.itch.io",
+            "id": 9093337,
+            "name": "Bluehair/ Bluey"
+          },
+          "platforms": [
+            "web"
+          ],
+          "cover": "",
+          "url": "https://bluehair.itch.io/the-dragon-escapes",
+          "short_text": "The fearsome pet of an evil king decides he's had enough.",
+          "title": "The Dragon Escapes"
+        },
+        "id": 491912,
+        "rating_count": 0,
+        "created_at": "2024-01-10 23:41:17",
+        "coolness": 0,
+        "url": "/jam/new-year-new-skills-game-jam/rate/2464595"
+      },
+      "details": {
+        "title": "The Dragon Escapes",
+        "description": "A short and sweet game about a dragon who escapes the evil king's castle.\nAuthor's submission to the New Year, New Skills game jam. My first time coding/releasing a game, please let me know if you experience any bugs.\nMade in Bitsy: https://ledoux.itch.io/bitsy\n",
+        "screenshots": [],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Bluehair/ Bluey",
+          "Made with": "bitsy",
+          "Tags": "Bitsy, Pixel Art, small"
+        }
+      }
+    },
+    {
+      "gameId": 2468446,
+      "gameUrl": "https://salviadiv.itch.io/seenosun",
+      "overallRank": 15,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "game": {
+          "id": 2468446,
+          "cover": "https://img.itch.zone/aW1nLzE0NjYwMjE0LmpwZw==/300x240%23c/XGvVXL.jpg",
+          "user": {
+            "url": "https://salviadiv.itch.io",
+            "id": 4520415,
+            "name": "salvia"
+          },
+          "cover_color": "#0e0e0e",
+          "platforms": [
+            "windows",
+            "linux",
+            "web"
+          ],
+          "url": "https://salviadiv.itch.io/seenosun",
+          "short_text": "Survive harsh life in subway after the end of the world",
+          "title": "See No Sun"
+        },
+        "url": "/jam/new-year-new-skills-game-jam/rate/2468446",
+        "id": 492627,
+        "contributors": [
+          {
+            "name": "salvia",
+            "url": "https://salviadiv.itch.io"
+          },
+          {
+            "name": "hea7en",
+            "url": "https://hea7en.itch.io"
+          },
+          {
+            "name": "Arficord",
+            "url": "https://arficord.itch.io"
+          },
+          {
+            "name": "erth `n craft",
+            "url": "https://erth-n-craft.itch.io"
+          },
+          {
+            "name": "Antonio Spark",
+            "url": "https://antonio-spark.itch.io"
+          },
+          {
+            "name": "Rock And Forest",
+            "url": "https://rockandforest.itch.io"
+          },
+          {
+            "name": "markrimskij1@gmail.com",
+            "url": "https://pistoletito.itch.io"
+          }
+        ],
+        "created_at": "2024-01-13 14:51:37",
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "See No Sun",
+        "description": "Survive the harsh life in the subway after the end of the world.\nHow to play\n© Copyright: Volodya Khavunka, Andriy Dulienko, and etc. developers of this game! (salvia, Arficord, Rock and Forest, Akiro)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQ2ODQ0Ni8xNDY2MDAyNi5naWY=/original/njvzJV.gif"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows, Linux",
+          "Release date": "Jan 13, 2024",
+          "Rating": "Rated 3.7 out of 5 stars(3 total ratings)",
+          "Authors": "salvia, hea7en, Arficord, erth `n craft, Antonio Spark, Rock And Forest, markrimskij1@gmail.com",
+          "Genre": "Strategy, Simulation",
+          "Made with": "Unity",
+          "Tags": "2D, City Builder, Management, metro, Pixel Art, subway"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,5218 @@
+{
+  "n": 24,
+  "name": "Community Game Jam",
+  "url": "https://itch.io/jam/cgj",
+  "theme": "The Game Is A Liar",
+  "slug": "cgj",
+  "jamMeta": {
+    "jamType": "ended",
+    "ratings": "15,919",
+    "entries": "982",
+    "title": "Community Game Jam",
+    "jamURL": "https://itch.io/jam/cgj",
+    "hosts": {
+      "CodeMyst": "https://codemyst.itch.io",
+      "Duxez": "https://duxez.itch.io",
+      "TheDutchMagikarp": "https://thedutchmagikarp.itch.io",
+      "Yilian": "https://yilian.itch.io",
+      "AquaXV": "https://aquaxv.itch.io",
+      "Brackeys": "https://brackeysgames.itch.io",
+      "Dani": "https://danidev.itch.io",
+      "Blackthornprod Games": "https://blackthornprod-games.itch.io",
+      "Sykoo": "https://sykoo.itch.io",
+      "#CommunityGameJam": "https://bsky.app/hashtag/CommunityGameJam"
+    },
+    "jamID": "10660"
+  },
+  "totalEntries": 928,
+  "ranked": true,
+  "hasCategories": true,
+  "needsManualSelection": false,
+  "categories": [
+    "Game Design",
+    "Fun",
+    "Innovation",
+    "Theme",
+    "Graphics",
+    "Audio"
+  ],
+  "topGames": [
+    {
+      "gameId": 477365,
+      "gameUrl": "https://basyk-games.itch.io/back-and-white-cgj",
+      "overallRank": 1,
+      "topCategories": [
+        "Game Design",
+        "Fun",
+        "Innovation",
+        "Graphics",
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NjAwODUuanBn/300x240%23c/fQgDcf.jpg",
+        "contributors": [
+          {
+            "name": "Basyk Games",
+            "id": 1731563
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/477365",
+        "title": "Back And White",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 4.4782608695652,
+            "raw_score": 4.4782608695652,
+            "rank": 1
+          },
+          {
+            "name": "Fun",
+            "score": 4.3913043478261,
+            "raw_score": 4.3913043478261,
+            "rank": 1
+          },
+          {
+            "name": "Innovation",
+            "score": 4.304347826087,
+            "raw_score": 4.304347826087,
+            "rank": 5
+          },
+          {
+            "name": "Theme",
+            "score": 3.5652173913043,
+            "raw_score": 3.5652173913043,
+            "rank": 120
+          },
+          {
+            "name": "Graphics",
+            "score": 4.3913043478261,
+            "raw_score": 4.3913043478261,
+            "rank": 8
+          },
+          {
+            "name": "Audio",
+            "score": 4.0434782608696,
+            "raw_score": 4.0434782608696,
+            "rank": 13
+          }
+        ],
+        "score": 4.195652173913,
+        "rating_count": 23,
+        "id": 477365,
+        "rank": 1,
+        "raw_score": 4.195652173913
+      },
+      "entryData": {
+        "rating_count": 23,
+        "created_at": "2019-08-31 18:56:48",
+        "coolness": 9,
+        "id": 87404,
+        "url": "/jam/cgj/rate/477365",
+        "game": {
+          "cover_color": "#232323",
+          "user": {
+            "name": "Basyk Games",
+            "url": "https://basyk-games.itch.io",
+            "id": 1731563
+          },
+          "url": "https://basyk-games.itch.io/back-and-white-cgj",
+          "title": "Back And White",
+          "id": 477365,
+          "cover": "https://img.itch.zone/aW1nLzI0NjAwODUuanBn/300x240%23c/fQgDcf.jpg"
+        }
+      },
+      "details": {
+        "title": "Back And White",
+        "description": "Back and White.\nBack and White is a small platformer with a puzzle touch and a interesting twist that I let you discover for now...\nHope you enjoy !\nDemos :\nWindows :\nhttps://drive.google.com/file/d/1PDJf8QZ__gcV4cpmgt3hhUyRZJhq50tJ/view?usp=shari...\nMAC :\nhttps://drive.google.com/file/d/1pYcjTdIrtM6JdqOBE6HGuJf9P289-Yuy/view?usp=shari...",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDc3MzY1LzI0NTk3MTkuanBn/original/GN8bn8.jpg",
+          "https://img.itch.zone/aW1hZ2UvNDc3MzY1LzI0NTk3MjEuanBn/original/ogHoTM.jpg",
+          "https://img.itch.zone/aW1hZ2UvNDc3MzY1LzI0NTk3MjIuanBn/original/fC0zYZ.jpg",
+          "https://img.itch.zone/aW1hZ2UvNDc3MzY1LzI0NTk3MjMuanBn/original/eG10LS.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Rating": "Rated 4.6 out of 5 stars(5 total ratings)",
+          "Author": "Basyk Games",
+          "Genre": "Platformer, Puzzle",
+          "Tags": "2D, Pixel Art"
+        }
+      }
+    },
+    {
+      "gameId": 476041,
+      "gameUrl": "https://niksnk.itch.io/shadow-deflect",
+      "overallRank": 23,
+      "topCategories": [
+        "Game Design",
+        "Fun",
+        "Innovation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NDUyMDgucG5n/300x240%23c/MN5%2FAk.png",
+        "contributors": [
+          {
+            "name": "Seulgi",
+            "id": 1782930
+          },
+          {
+            "name": "Kutographer",
+            "id": 1481667
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/476041",
+        "title": "Shadow Deflect",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 4.4,
+            "raw_score": 4.4,
+            "rank": 3
+          },
+          {
+            "name": "Fun",
+            "score": 4.2,
+            "raw_score": 4.2,
+            "rank": 4
+          },
+          {
+            "name": "Innovation",
+            "score": 4.4,
+            "raw_score": 4.4,
+            "rank": 3
+          },
+          {
+            "name": "Theme",
+            "score": 2.6,
+            "raw_score": 2.6,
+            "rank": 511
+          },
+          {
+            "name": "Graphics",
+            "score": 4.2,
+            "raw_score": 4.2,
+            "rank": 26
+          },
+          {
+            "name": "Audio",
+            "score": 2.6,
+            "raw_score": 2.6,
+            "rank": 419
+          }
+        ],
+        "score": 3.7333333333333,
+        "rating_count": 10,
+        "id": 476041,
+        "rank": 23,
+        "raw_score": 3.7333333333333
+      },
+      "entryData": {
+        "rating_count": 10,
+        "created_at": "2019-08-30 20:32:55",
+        "coolness": 2,
+        "id": 86388,
+        "url": "/jam/cgj/rate/476041",
+        "contributors": [
+          {
+            "name": "Seulgi",
+            "url": "https://niksnk.itch.io"
+          },
+          {
+            "name": "Kutographer",
+            "url": "https://kutographer.itch.io"
+          }
+        ],
+        "game": {
+          "cover_color": "#eeeeee",
+          "id": 476041,
+          "user": {
+            "name": "Seulgi",
+            "url": "https://niksnk.itch.io",
+            "id": 1782930
+          },
+          "url": "https://niksnk.itch.io/shadow-deflect",
+          "short_text": "A pixel puzzle game where you clear the stages by shooting a bullet towards your enemies, or do you?",
+          "title": "Shadow Deflect",
+          "platforms": [
+            "windows",
+            "osx",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0NDUyMDgucG5n/300x240%23c/MN5%2FAk.png"
+        }
+      },
+      "details": {
+        "title": "Shadow Deflect",
+        "description": "This game was made in the Community Game Jam 2019 with the theme: The game is a liar\nYou get to play as Kris, who is a lone wanderer and is haunted by her dark past. She then decided to confront her shadow to erase all the regrets she has once and for all.\nThe enemies shoot instead of the player, use the pillars and walls to kill them!\nControls:\nKeyboard: \nW,A,S,D to moveR to restartSPACE to shoot\nController:\nLS to moveX to restartRT to shoot\ncreated by Nikolas Abraham and  Jason Xuextract the files \nrun the app\nenjoy!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDc2MDQxLzI0NDUyMjUucG5n/original/eSSlXL.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2MDQxLzI0NDUyMjQucG5n/original/P5lyXL.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2MDQxLzI0NDUyMjEucG5n/original/GyL2Px.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2MDQxLzI0NDUyMjIucG5n/original/%2BgpFlH.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2MDQxLzI0NDUyMjMucG5n/original/X6BrgX.png"
+        ],
+        "moreInfo": {
+          "Status": "On hold",
+          "Platforms": "HTML5, Windows, macOS",
+          "Rating": "Rated 3.0 out of 5 stars(1 total ratings)",
+          "Authors": "Seulgi, Kutographer",
+          "Genre": "Puzzle, Shooter",
+          "Made with": "Unity",
+          "Tags": "Pixel Art, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 477323,
+      "gameUrl": "https://silvarc.itch.io/clickhead",
+      "overallRank": 3,
+      "topCategories": [
+        "Game Design",
+        "Fun",
+        "Innovation",
+        "Graphics"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NTIyMzQucG5n/300x240%23c/TqcUye.png",
+        "contributors": [
+          {
+            "name": "Silvarc",
+            "id": 1428408
+          },
+          {
+            "name": "SrsSpy",
+            "id": 1749349
+          },
+          {
+            "name": "Tasgod",
+            "id": 1816569
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/477323",
+        "title": "Clickhead",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 4.2222222222222,
+            "raw_score": 4.2222222222222,
+            "rank": 4
+          },
+          {
+            "name": "Fun",
+            "score": 4.1296296296296,
+            "raw_score": 4.1296296296296,
+            "rank": 5
+          },
+          {
+            "name": "Innovation",
+            "score": 4.3148148148148,
+            "raw_score": 4.3148148148148,
+            "rank": 4
+          },
+          {
+            "name": "Theme",
+            "score": 4.0555555555556,
+            "raw_score": 4.0555555555556,
+            "rank": 16
+          },
+          {
+            "name": "Graphics",
+            "score": 4.3703703703704,
+            "raw_score": 4.3703703703704,
+            "rank": 12
+          },
+          {
+            "name": "Audio",
+            "score": 3.4814814814815,
+            "raw_score": 3.4814814814815,
+            "rank": 107
+          }
+        ],
+        "score": 4.0956790123457,
+        "rating_count": 54,
+        "id": 477323,
+        "rank": 3,
+        "raw_score": 4.0956790123457
+      },
+      "entryData": {
+        "rating_count": 54,
+        "created_at": "2019-08-31 18:56:33",
+        "coolness": 6,
+        "id": 87393,
+        "url": "/jam/cgj/rate/477323",
+        "contributors": [
+          {
+            "name": "Silvarc",
+            "url": "https://silvarc.itch.io"
+          },
+          {
+            "name": "SrsSpy",
+            "url": "https://srsspy.itch.io"
+          },
+          {
+            "name": "Tasgod",
+            "url": "https://tasgod.itch.io"
+          }
+        ],
+        "game": {
+          "cover_color": "#cf4db2",
+          "id": 477323,
+          "user": {
+            "name": "Silvarc",
+            "url": "https://silvarc.itch.io",
+            "id": 1428408
+          },
+          "url": "https://silvarc.itch.io/clickhead",
+          "short_text": "Nothing to see here, click along.",
+          "title": "Clickhead",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0NTIyMzQucG5n/300x240%23c/TqcUye.png"
+        }
+      },
+      "details": {
+        "title": "Clickhead",
+        "description": "Use mouse and WASD or arrow keys to play.\nCLICK ON YOUR OPPONENTS' HEADS IN CLICKHEAD THE HEADSHOT SIMULATwhat that was not the script I got the first time... ok can I speak to the previous guy...What, I'M rude?  It just clicked for me, I'm not made for this...\n\nMade in a week for Community Game Jam in Unity.\n\nOur team:SrsSpy - pixel art, animations, level design\nTasgod - music, sounds, sound design(90% nuked by WebGL in jam version >:| more below)\nSilvarc - programming, game design, level design, writing\nMost ideas were developed together as a team!\n\nWe planned our time a bit wrong and didn't get to test the build. Sooo, the sounds got wrecked by WebGL, some sound files are missing, the volume levels are not adjusted and there is NO MUSIC :(We will have a post-jam, fixed version of the game in the link below. (But rate accordingly to the jam version)\nEDIT: This version online is now the post-jam one. If you want to play the jam version download it below.\nStuck in jam version:If you are stuck on the fast glitch maze section, it may not work as intended. You can cheese it by moving your cursor below the whole thing, then running to the right and going straight for the 'CLICK' button.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDc3MzIzLzI0NTMyNzUucG5n/original/P1ZD84.png",
+          "https://img.itch.zone/aW1hZ2UvNDc3MzIzLzI0NTUxODgucG5n/original/HAFYIZ.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.7 out of 5 stars(41 total ratings)",
+          "Authors": "Silvarc, SrsSpy, Tasgod",
+          "Genre": "Platformer",
+          "Made with": "Unity",
+          "Tags": "Pixel Art"
+        }
+      }
+    },
+    {
+      "gameId": 477043,
+      "gameUrl": "https://minibobbo.itch.io/computer-safety",
+      "overallRank": 10,
+      "topCategories": [
+        "Game Design",
+        "Fun",
+        "Graphics"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NTA3MjkucG5n/300x240%23c/pFEkDC.png",
+        "contributors": [
+          {
+            "name": "MiniBobbo",
+            "id": 266023
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/477043",
+        "title": "AI Can Make Even Trivial Tasks Deadly",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 4.2,
+            "raw_score": 4.2,
+            "rank": 5
+          },
+          {
+            "name": "Fun",
+            "score": 4.3,
+            "raw_score": 4.3,
+            "rank": 2
+          },
+          {
+            "name": "Innovation",
+            "score": 2.9,
+            "raw_score": 2.9,
+            "rank": 269
+          },
+          {
+            "name": "Theme",
+            "score": 3.7,
+            "raw_score": 3.7,
+            "rank": 79
+          },
+          {
+            "name": "Graphics",
+            "score": 4.4,
+            "raw_score": 4.4,
+            "rank": 6
+          },
+          {
+            "name": "Audio",
+            "score": 3.8,
+            "raw_score": 3.8,
+            "rank": 39
+          }
+        ],
+        "score": 3.8833333333333,
+        "rating_count": 10,
+        "id": 477043,
+        "rank": 10,
+        "raw_score": 3.8833333333333
+      },
+      "entryData": {
+        "rating_count": 10,
+        "created_at": "2019-08-31 18:56:06",
+        "coolness": 4,
+        "id": 87384,
+        "url": "/jam/cgj/rate/477043",
+        "game": {
+          "url": "https://minibobbo.itch.io/computer-safety",
+          "user": {
+            "name": "MiniBobbo",
+            "url": "https://minibobbo.itch.io",
+            "id": 266023
+          },
+          "id": 477043,
+          "short_text": "The robot uprising will come swiftly and for stupid reasons.",
+          "title": "AI Can Make Even Trivial Tasks Deadly",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0NTA3MjkucG5n/300x240%23c/pFEkDC.png"
+        }
+      },
+      "details": {
+        "title": "AI Can Make Even Trivial Tasks Deadly",
+        "description": "This game takes a second to load...\nWASD or Arrow Keys move.\nL or Space jumps. \nDon't die.  ",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDc3MDQzLzI0NTIxMTYuZ2lm/original/4UbG7T.gif",
+          "https://img.itch.zone/aW1hZ2UvNDc3MDQzLzI0NTIxMTkuZ2lm/original/ymFD%2BP.gif"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Rating": "Rated 3.0 out of 5 stars(2 total ratings)",
+          "Author": "MiniBobbo"
+        }
+      }
+    },
+    {
+      "gameId": 476199,
+      "gameUrl": "https://silvergearinteractive.itch.io/a-byte-sized-lie",
+      "overallRank": 9,
+      "topCategories": [
+        "Game Design",
+        "Fun"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NDYyODYucG5n/300x240%23c/mw1qVU.png",
+        "contributors": [
+          {
+            "name": "Silver Gear Interactive",
+            "id": 1415936
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/476199",
+        "title": "A Byte Sized Lie",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 4.1,
+            "raw_score": 4.1,
+            "rank": 6
+          },
+          {
+            "name": "Fun",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 9
+          },
+          {
+            "name": "Innovation",
+            "score": 3.6,
+            "raw_score": 3.6,
+            "rank": 41
+          },
+          {
+            "name": "Theme",
+            "score": 3.8,
+            "raw_score": 3.8,
+            "rank": 59
+          },
+          {
+            "name": "Graphics",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 64
+          },
+          {
+            "name": "Audio",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 17
+          }
+        ],
+        "score": 3.9166666666667,
+        "rating_count": 10,
+        "id": 476199,
+        "rank": 9,
+        "raw_score": 3.9166666666667
+      },
+      "entryData": {
+        "rating_count": 10,
+        "created_at": "2019-08-31 01:32:25",
+        "coolness": 2,
+        "id": 86458,
+        "url": "/jam/cgj/rate/476199",
+        "game": {
+          "cover_color": "#000000",
+          "id": 476199,
+          "user": {
+            "name": "Silver Gear Interactive",
+            "url": "https://silvergearinteractive.itch.io",
+            "id": 1415936
+          },
+          "url": "https://silvergearinteractive.itch.io/a-byte-sized-lie",
+          "short_text": "Glitch is trapped under the watchful eye of an oppresive A.I.",
+          "title": "A Byte Sized Lie",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0NDYyODYucG5n/300x240%23c/mw1qVU.png"
+        }
+      },
+      "details": {
+        "title": "A Byte Sized Lie",
+        "description": "Community Game Jam Entry\nAll assets were created in one week\nCheck out our profile for other games we've made.\nFollow our twitter for updates on projects we're currently working on!\n\nGlitch finds himself trapped in a cyber domain controlled by a malevolent A.I. The A.I. seems to be running test on him for unknown reasons.\n\n\nMovement: WASDInteract: Left Mouse ButtonShoot: Left Mouse Button\n\nSilver Gear Interactive Team:\nFinch: Programming Bloody: Art DesignVincent Grim: Art, Music & Sound Design\nSimply extract the \"A Byte Sized Lie\"  folder from the zip file and run the application inside. Windows defender may prevent the application from running, just ignore the warning if this happens. ",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDc2MTk5LzI0NDYyODMucG5n/original/He8WPf.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2MTk5LzI0NDYyODAucG5n/original/vzUR7v.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2MTk5LzI0NDYyODEucG5n/original/OtKSiG.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2MTk5LzI0NDYyODIucG5n/original/b9Hg%2Bp.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 3.0 out of 5 stars(1 total ratings)",
+          "Author": "Silver Gear Interactive",
+          "Genre": "Puzzle",
+          "Tags": "Atmospheric, Creepy, Cute, Pixel Art, Psychological Horror, Singleplayer, Surreal, Top Down Adventure, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 473242,
+      "gameUrl": "https://shoze.itch.io/liar",
+      "overallRank": 26,
+      "topCategories": [
+        "Game Design"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NDYwMDYucG5n/300x240%23c/9qM1mz.png",
+        "contributors": [
+          {
+            "name": "shoze",
+            "id": 961331
+          },
+          {
+            "name": "maxletraxle",
+            "id": 1774822
+          },
+          {
+            "name": "robbymn",
+            "id": 139081
+          },
+          {
+            "name": "XuX26",
+            "id": 1477090
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/473242",
+        "title": "Good Robot",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 4.0888888888889,
+            "raw_score": 4.0888888888889,
+            "rank": 8
+          },
+          {
+            "name": "Fun",
+            "score": 3.6888888888889,
+            "raw_score": 3.6888888888889,
+            "rank": 41
+          },
+          {
+            "name": "Innovation",
+            "score": 3.8666666666667,
+            "raw_score": 3.8666666666667,
+            "rank": 18
+          },
+          {
+            "name": "Theme",
+            "score": 2.7111111111111,
+            "raw_score": 2.7111111111111,
+            "rank": 441
+          },
+          {
+            "name": "Graphics",
+            "score": 3.9333333333333,
+            "raw_score": 3.9333333333333,
+            "rank": 82
+          },
+          {
+            "name": "Audio",
+            "score": 3.9333333333333,
+            "raw_score": 3.9333333333333,
+            "rank": 25
+          }
+        ],
+        "score": 3.7037037037037,
+        "rating_count": 45,
+        "id": 473242,
+        "rank": 26,
+        "raw_score": 3.7037037037037
+      },
+      "entryData": {
+        "rating_count": 45,
+        "created_at": "2019-08-31 01:44:54",
+        "coolness": 20,
+        "id": 86464,
+        "url": "/jam/cgj/rate/473242",
+        "contributors": [
+          {
+            "name": "shoze",
+            "url": "https://shoze.itch.io"
+          },
+          {
+            "name": "maxletraxle",
+            "url": "https://maxletraxle.itch.io"
+          },
+          {
+            "name": "robbymn",
+            "url": "https://robbymn.itch.io"
+          },
+          {
+            "name": "XuX26",
+            "url": "https://xux26.itch.io"
+          }
+        ],
+        "game": {
+          "cover_color": "#000000",
+          "id": 473242,
+          "user": {
+            "name": "shoze",
+            "url": "https://shoze.itch.io",
+            "id": 961331
+          },
+          "url": "https://shoze.itch.io/liar",
+          "short_text": "Bad robot!",
+          "title": "Good Robot",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0NDYwMDYucG5n/300x240%23c/9qM1mz.png"
+        }
+      },
+      "details": {
+        "title": "Good Robot",
+        "description": "A one week jam done for the community game jam\nTheme : \"The game is a liar\"\n-----------------------------------------------------------------------------------------------\nGame description:\n Switch the level rules from true to false to help your bot reach the goal !\n\nControls:\nAs simple as clicking your mouse.\n\nCredits:\nArt - Galit \"shoze\" Weisberg\nProgramming - Max Himmel  |  Ulysse Raillon\nSound - Rob Neubauer\nFont: Gameplay\n\nPro tips : Click on pause when the level start if you need more time to read the rules",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDczMjQyLzI0NDU5NzgucG5n/original/jH9IuO.png",
+          "https://img.itch.zone/aW1hZ2UvNDczMjQyLzI0NDU5ODkucG5n/original/KQr7wA.png",
+          "https://img.itch.zone/aW1hZ2UvNDczMjQyLzI0NDU5OTAucG5n/original/cXwFmz.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Authors": "shoze, maxletraxle, robbymn, XuX26",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "2D, brackeys, community_game_jam, Gravity, liar, Puzzle-Platformer, Short, Space, Touch-Friendly, Unity",
+          "Inputs": "Touchscreen"
+        }
+      }
+    },
+    {
+      "gameId": 476849,
+      "gameUrl": "https://imrainydan.itch.io/dissonance",
+      "overallRank": 6,
+      "topCategories": [
+        "Game Design",
+        "Fun",
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NDk4MDMucG5n/300x240%23c/BL5KRL.png",
+        "contributors": [
+          {
+            "name": "Rain",
+            "id": 1729360
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/476849",
+        "title": "Dissonance",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 4.0793650793651,
+            "raw_score": 4.0793650793651,
+            "rank": 9
+          },
+          {
+            "name": "Fun",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 9
+          },
+          {
+            "name": "Innovation",
+            "score": 3.7142857142857,
+            "raw_score": 3.7142857142857,
+            "rank": 32
+          },
+          {
+            "name": "Theme",
+            "score": 3.8412698412698,
+            "raw_score": 3.8412698412698,
+            "rank": 49
+          },
+          {
+            "name": "Graphics",
+            "score": 3.9206349206349,
+            "raw_score": 3.9206349206349,
+            "rank": 85
+          },
+          {
+            "name": "Audio",
+            "score": 4.1269841269841,
+            "raw_score": 4.1269841269841,
+            "rank": 6
+          }
+        ],
+        "score": 3.9470899470899,
+        "rating_count": 63,
+        "id": 476849,
+        "rank": 6,
+        "raw_score": 3.9470899470899
+      },
+      "entryData": {
+        "rating_count": 63,
+        "created_at": "2019-08-31 16:28:36",
+        "coolness": 65,
+        "id": 86893,
+        "url": "/jam/cgj/rate/476849",
+        "game": {
+          "cover_color": "#000000",
+          "id": 476849,
+          "user": {
+            "name": "Rain",
+            "url": "https://imrainydan.itch.io",
+            "id": 1729360
+          },
+          "url": "https://imrainydan.itch.io/dissonance",
+          "short_text": "“Most of the evil in this world is done by people with good intentions.”  ― T.S. Eliot",
+          "title": "Dissonance",
+          "platforms": [
+            "osx",
+            "linux",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0NDk4MDMucG5n/300x240%23c/BL5KRL.png"
+        }
+      },
+      "details": {
+        "title": "Dissonance",
+        "description": "“Most of the evil in this world is done by people with good intentions.” ― T.S. Eliot\n\nA game about a struggle, and a compromise.\n\nSoundtrack: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/860270963&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDc2ODQ5LzI0NTA3MDAucG5n/original/3efqWw.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2ODQ5LzI0NDk4MDYucG5n/original/y4tbOi.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2ODQ5LzI0NTAxNjIucG5n/original/NdPIY8.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2ODQ5LzI0NDk4MDcucG5n/original/t3RRci.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, macOS, Linux",
+          "Rating": "Rated 4.1 out of 5 stars(7 total ratings)",
+          "Author": "Rain",
+          "Genre": "Platformer",
+          "Made with": "Unity",
+          "Tags": "2D, Multiple Endings, My First Game Jam, Pixel Art, Short, Side Scroller, Spooky, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 476562,
+      "gameUrl": "https://andreasroschal.itch.io/funfair",
+      "overallRank": 11,
+      "topCategories": [
+        "Game Design",
+        "Fun",
+        "Theme"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NTE5ODMucG5n/300x240%23c/3RSs%2FR.png",
+        "contributors": [
+          {
+            "name": "Andreas Roschal",
+            "id": 1056776
+          },
+          {
+            "name": "woergbi",
+            "id": 1056777
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/476562",
+        "title": "(F)unfair",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 4.0666666666667,
+            "raw_score": 4.0666666666667,
+            "rank": 10
+          },
+          {
+            "name": "Fun",
+            "score": 3.9333333333333,
+            "raw_score": 3.9333333333333,
+            "rank": 14
+          },
+          {
+            "name": "Innovation",
+            "score": 3.8,
+            "raw_score": 3.8,
+            "rank": 23
+          },
+          {
+            "name": "Theme",
+            "score": 4.2,
+            "raw_score": 4.2,
+            "rank": 7
+          },
+          {
+            "name": "Graphics",
+            "score": 3.9333333333333,
+            "raw_score": 3.9333333333333,
+            "rank": 82
+          },
+          {
+            "name": "Audio",
+            "score": 3.2666666666667,
+            "raw_score": 3.2666666666667,
+            "rank": 172
+          }
+        ],
+        "score": 3.8666666666667,
+        "rating_count": 15,
+        "id": 476562,
+        "rank": 11,
+        "raw_score": 3.8666666666667
+      },
+      "entryData": {
+        "rating_count": 15,
+        "created_at": "2019-08-31 18:43:32",
+        "coolness": 8,
+        "id": 87252,
+        "url": "/jam/cgj/rate/476562",
+        "contributors": [
+          {
+            "name": "Andreas Roschal",
+            "url": "https://andreasroschal.itch.io"
+          },
+          {
+            "name": "woergbi",
+            "url": "https://woergbi.itch.io"
+          }
+        ],
+        "game": {
+          "cover_color": "#eeeeee",
+          "id": 476562,
+          "user": {
+            "name": "Andreas Roschal",
+            "url": "https://andreasroschal.itch.io",
+            "id": 1056776
+          },
+          "url": "https://andreasroschal.itch.io/funfair",
+          "short_text": "In this mini-tycoon game you are the manager of a funfair.",
+          "title": "(F)unfair",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0NTE5ODMucG5n/300x240%23c/3RSs%2FR.png"
+        }
+      },
+      "details": {
+        "title": "(F)unfair",
+        "description": "This game is an entry for the Community Game Jam and has been made in 7 days.\n\nUpdate [31.08.2019 - 21:30 (UTC+2h)]: Fixed a small, but not game-breaking bug (just some missing UI update) and uploaded Windows version 2. HTML version has been updated as well. (\"Funfair - Windows.zip\" is still the original version uploaded before the deadline.)\n\n(F)unfair\nIn (F)unfair you are the manager of a funfair. You design the layout by placing paths and building stands with games for your customers. To earn more money you have the option of rigging your games. However, customers won't be happy being scammed and lied to. If there happens to be an unsatisfied customer expressing their anger, you have to \"take care\" of the problem. Don't let the satisfaction level of your customers stay too low, or less visitors will come to your funfair.\n\n\nTheme implementation\nThe theme of this game jam was \"The game is a liar\". We usually don't like to choose the most obvious interpretation of a jam theme, which in this case would be the video game itself lying to the player. Hence we started to think about where real-life games are \"lying\" to their players and soon rigged funfair games came to our minds. We wanted to make a video game that builds around this aspect, and the result is a mini-tycoon where you have to scam NPCs with rigged funfair games.\n\nGameplay / Controls\nGameplay instructions and controls are explained in-game.\n\nTechnical details\nThe game was made in Unity.All used graphics and sounds have been made by ourselves (except the font - see below).Used font: Press Start 2P (Open Font License)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDc2NTYyLzI0NjMzMjEuZ2lm/original/xaMoFF.gif",
+          "https://img.itch.zone/aW1hZ2UvNDc2NTYyLzI0NjMzMjIuZ2lm/original/x1PoUp.gif",
+          "https://img.itch.zone/aW1hZ2UvNDc2NTYyLzI0NjMzMjMuZ2lm/original/iQXsol.gif",
+          "https://img.itch.zone/aW1hZ2UvNDc2NTYyLzI0NjMzMjQuZ2lm/original/JYS%2Bk%2B.gif",
+          "https://img.itch.zone/aW1hZ2UvNDc2NTYyLzI0NjMzMjUuZ2lm/original/ANPi5Q.gif",
+          "https://img.itch.zone/aW1hZ2UvNDc2NTYyLzI0NjMzMjYuZ2lm/original/%2FrHTZa.gif",
+          "https://img.itch.zone/aW1hZ2UvNDc2NTYyLzI0NjMzMjcuZ2lm/original/Cr4MTE.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.4 out of 5 stars(7 total ratings)",
+          "Authors": "Andreas Roschal, woergbi",
+          "Genre": "Simulation",
+          "Made with": "Unity",
+          "Tags": "Pixel Art, Tycoon",
+          "Average session": "About an hour",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 476211,
+      "gameUrl": "https://choochoothetrain.itch.io/the-suspects",
+      "overallRank": 8,
+      "topCategories": [
+        "Game Design",
+        "Fun",
+        "Innovation",
+        "Theme"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NDg0MDgucG5n/300x240%23c/%2F7wR0y.png",
+        "contributors": [
+          {
+            "name": "choochoothetrain",
+            "id": 1748773
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/476211",
+        "title": "the suspects",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 12
+          },
+          {
+            "name": "Fun",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 9
+          },
+          {
+            "name": "Innovation",
+            "score": 4.4285714285714,
+            "raw_score": 4.4285714285714,
+            "rank": 2
+          },
+          {
+            "name": "Theme",
+            "score": 4.1428571428571,
+            "raw_score": 4.1428571428571,
+            "rank": 10
+          },
+          {
+            "name": "Graphics",
+            "score": 3.4285714285714,
+            "raw_score": 3.4285714285714,
+            "rank": 228
+          },
+          {
+            "name": "Audio",
+            "score": 3.5714285714286,
+            "raw_score": 3.5714285714286,
+            "rank": 78
+          }
+        ],
+        "score": 3.9285714285714,
+        "rating_count": 7,
+        "id": 476211,
+        "rank": 8,
+        "raw_score": 3.9285714285714
+      },
+      "entryData": {
+        "rating_count": 7,
+        "created_at": "2019-08-31 01:59:14",
+        "coolness": 9,
+        "id": 86466,
+        "url": "/jam/cgj/rate/476211",
+        "game": {
+          "cover_color": "#1e0149",
+          "id": 476211,
+          "user": {
+            "name": "choochoothetrain",
+            "url": "https://choochoothetrain.itch.io",
+            "id": 1748773
+          },
+          "url": "https://choochoothetrain.itch.io/the-suspects",
+          "short_text": "Short detective game made for Community Game Jam 2019",
+          "title": "the suspects",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0NDg0MDgucG5n/300x240%23c/%2F7wR0y.png"
+        }
+      },
+      "details": {
+        "title": "the suspects",
+        "description": "the suspects\n\nThere are four suspects, click on the one you want to talk to. \n\n\nThey will tell 4 facts - 2 about themselves and 2 about the neighbor on the right. Not all of them will be true, but you have a TRUTH-O-METER that shows how many true facts the suspect said. As a result, we need to draw up a report on who is guilty of what crime, indicating in green icons with the appropriate place, weapon and time of the crime. After you finish, press the red button on your TRUTH-O-METER to send the correct result. \n\n\nGood luck, policeman ;)\n\nps. This is my very first game jam and i'm waiting for any feedback, thanks)\n\npps. For those of you who want to see the end of this game here is the link (Win64): https://drive.google.com/open?id=1JFxb-SJqZtjPKxcSi3d7no6uFIc2EGj_ppps. Never trust indexes in array which was created via GameObject.FindGameObjectsWithTag!!! ",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDc2MjExLzI0NDY0NTIuanBn/original/aZxVhg.jpg",
+          "https://img.itch.zone/aW1hZ2UvNDc2MjExLzI0NDY0NTMuanBn/original/P%2Bds73.jpg",
+          "https://img.itch.zone/aW1hZ2UvNDc2MjExLzI0NDY0NTUuanBn/original/Viui1e.jpg",
+          "https://img.itch.zone/aW1hZ2UvNDc2MjExLzI0NDY0NTQuanBn/original/3jx3t4.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 3.5 out of 5 stars(4 total ratings)",
+          "Author": "choochoothetrain",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "2D, Detective, Mouse only, Noir"
+        }
+      }
+    },
+    {
+      "gameId": 477293,
+      "gameUrl": "https://the-french-dummy.itch.io/liar",
+      "overallRank": 15,
+      "topCategories": [
+        "Game Design"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NTQ2NDcucG5n/300x240%23c/GDtN0i.png",
+        "contributors": [
+          {
+            "name": "the_french_dummy",
+            "id": 1761772
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/477293",
+        "title": "After a liar's funeral",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 12
+          },
+          {
+            "name": "Fun",
+            "score": 3.8571428571429,
+            "raw_score": 3.8571428571429,
+            "rank": 19
+          },
+          {
+            "name": "Innovation",
+            "score": 3.4285714285714,
+            "raw_score": 3.4285714285714,
+            "rank": 70
+          },
+          {
+            "name": "Theme",
+            "score": 3.5714285714286,
+            "raw_score": 3.5714285714286,
+            "rank": 114
+          },
+          {
+            "name": "Graphics",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 64
+          },
+          {
+            "name": "Audio",
+            "score": 3.8571428571429,
+            "raw_score": 3.8571428571429,
+            "rank": 35
+          }
+        ],
+        "score": 3.7857142857143,
+        "rating_count": 7,
+        "id": 477293,
+        "rank": 15,
+        "raw_score": 3.7857142857143
+      },
+      "entryData": {
+        "rating_count": 7,
+        "created_at": "2019-08-31 18:51:48",
+        "coolness": 9,
+        "id": 87322,
+        "url": "/jam/cgj/rate/477293",
+        "game": {
+          "user": {
+            "name": "the_french_dummy",
+            "url": "https://the-french-dummy.itch.io",
+            "id": 1761772
+          },
+          "id": 477293,
+          "url": "https://the-french-dummy.itch.io/liar",
+          "title": "After a liar's funeral",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0NTQ2NDcucG5n/300x240%23c/GDtN0i.png"
+        }
+      },
+      "details": {
+        "title": "After a liar's funeral",
+        "description": "",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzI0NTQ2NDcucG5n/original/1Crnaq.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.5 out of 5 stars(2 total ratings)",
+          "Author": "the_french_dummy",
+          "Genre": "Platformer, Adventure",
+          "Made with": "Unity",
+          "Tags": "2D, Pixel Art"
+        }
+      }
+    },
+    {
+      "gameId": 476781,
+      "gameUrl": "https://theliverman.itch.io/defunct",
+      "overallRank": 62,
+      "topCategories": [
+        "Game Design"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NDkxNDgucG5n/300x240%23c/xQ0xQn.png",
+        "contributors": [
+          {
+            "name": "liver man",
+            "id": 759226
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/476781",
+        "title": "Defunct",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 12
+          },
+          {
+            "name": "Fun",
+            "score": 3.6666666666667,
+            "raw_score": 3.6666666666667,
+            "rank": 42
+          },
+          {
+            "name": "Innovation",
+            "score": 3.3333333333333,
+            "raw_score": 3.3333333333333,
+            "rank": 103
+          },
+          {
+            "name": "Theme",
+            "score": 3,
+            "raw_score": 3,
+            "rank": 320
+          },
+          {
+            "name": "Graphics",
+            "score": 3.4,
+            "raw_score": 3.4,
+            "rank": 241
+          },
+          {
+            "name": "Audio",
+            "score": 3.8666666666667,
+            "raw_score": 3.8666666666667,
+            "rank": 32
+          }
+        ],
+        "score": 3.5444444444444,
+        "rating_count": 15,
+        "id": 476781,
+        "rank": 62,
+        "raw_score": 3.5444444444444
+      },
+      "entryData": {
+        "rating_count": 15,
+        "created_at": "2019-08-31 18:52:22",
+        "coolness": 31,
+        "id": 87329,
+        "url": "/jam/cgj/rate/476781",
+        "game": {
+          "cover_color": "#ffffff",
+          "id": 476781,
+          "user": {
+            "name": "liver man",
+            "url": "https://theliverman.itch.io",
+            "id": 759226
+          },
+          "url": "https://theliverman.itch.io/defunct",
+          "short_text": "Can you find your way out?",
+          "title": "Defunct",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0NDkxNDgucG5n/300x240%23c/xQ0xQn.png"
+        }
+      },
+      "details": {
+        "title": "Defunct",
+        "description": "You've woken up in a strange house. The front door is sealed, and there are no seemingly easy ways out. Can you escape the evidently inescapable house? UPDATE (WEBGL):\n[The WebGL contains the v1.01 build, while the download below represents the original state]\nCREDITS TO ORDINARY BAG STUDIOS:\nliver man - ProgrammerYeebus - Artist + UI Designer/Artist + Level Designer + Audio ManagerRelish - Artist + Level Designer\nGAME JAM INFORMATION:\nThis game was submitted to the 2019 Community Game Jam. It was made over the span of 5-6 days.The way it relates to the theme will be revealed once you complete the game.",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzI0NDkxNDgucG5n/original/FcKSxN.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "liver man",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "Detective, Mystery"
+        }
+      }
+    },
+    {
+      "gameId": 477044,
+      "gameUrl": "https://the-gear-shift.itch.io/dev",
+      "overallRank": 93,
+      "topCategories": [
+        "Game Design",
+        "Fun"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NTA5MzMucG5n/300x240%23c/87u0Dt.png",
+        "contributors": [
+          {
+            "name": "The Gear Shift",
+            "id": 1372967
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/477044",
+        "title": "Indev Version 1",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 3.9821428571429,
+            "raw_score": 3.9821428571429,
+            "rank": 15
+          },
+          {
+            "name": "Fun",
+            "score": 3.9464285714286,
+            "raw_score": 3.9464285714286,
+            "rank": 12
+          },
+          {
+            "name": "Innovation",
+            "score": 3.125,
+            "raw_score": 3.125,
+            "rank": 178
+          },
+          {
+            "name": "Theme",
+            "score": 2.8571428571429,
+            "raw_score": 2.8571428571429,
+            "rank": 386
+          },
+          {
+            "name": "Graphics",
+            "score": 3.8392857142857,
+            "raw_score": 3.8392857142857,
+            "rank": 104
+          },
+          {
+            "name": "Audio",
+            "score": 2.6964285714286,
+            "raw_score": 2.6964285714286,
+            "rank": 375
+          }
+        ],
+        "score": 3.4077380952381,
+        "rating_count": 56,
+        "id": 477044,
+        "rank": 93,
+        "raw_score": 3.4077380952381
+      },
+      "entryData": {
+        "rating_count": 56,
+        "created_at": "2019-08-31 18:37:50",
+        "coolness": 18,
+        "id": 87198,
+        "url": "/jam/cgj/rate/477044",
+        "game": {
+          "cover_color": "#17191b",
+          "id": 477044,
+          "user": {
+            "name": "The Gear Shift",
+            "url": "https://the-gear-shift.itch.io",
+            "id": 1372967
+          },
+          "url": "https://the-gear-shift.itch.io/dev",
+          "short_text": "An (un)finished puzzle game",
+          "title": "Indev Version 1",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0NTA5MzMucG5n/300x240%23c/87u0Dt.png"
+        }
+      },
+      "details": {
+        "title": "Indev Version 1",
+        "description": "This game is supposed to be a puzzle game so don't bother with the controls since its not done (Or is it?)Controls:\nArrow keys to moveSpacebar to restart",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzI0NTA5MzMucG5n/original/Lj8YyO.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "The Gear Shift",
+          "Genre": "Puzzle, Adventure",
+          "Made with": "Unity",
+          "Tags": "Tilemap"
+        }
+      }
+    },
+    {
+      "gameId": 476721,
+      "gameUrl": "https://thepieface.itch.io/mondays",
+      "overallRank": 5,
+      "topCategories": [
+        "Fun",
+        "Theme",
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NDk4NjUuanBn/300x240%23c/eyKorc.jpg",
+        "contributors": [
+          {
+            "name": "ThePieFace",
+            "id": 1469636
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/476721",
+        "title": "Mondays",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 3.5172413793103,
+            "raw_score": 3.5172413793103,
+            "rank": 101
+          },
+          {
+            "name": "Fun",
+            "score": 4.1034482758621,
+            "raw_score": 4.1034482758621,
+            "rank": 6
+          },
+          {
+            "name": "Innovation",
+            "score": 3.5862068965517,
+            "raw_score": 3.5862068965517,
+            "rank": 42
+          },
+          {
+            "name": "Theme",
+            "score": 4.1034482758621,
+            "raw_score": 4.1034482758621,
+            "rank": 12
+          },
+          {
+            "name": "Graphics",
+            "score": 4.1724137931034,
+            "raw_score": 4.1724137931034,
+            "rank": 28
+          },
+          {
+            "name": "Audio",
+            "score": 4.2068965517241,
+            "raw_score": 4.2068965517241,
+            "rank": 3
+          }
+        ],
+        "score": 3.948275862069,
+        "rating_count": 29,
+        "id": 476721,
+        "rank": 5,
+        "raw_score": 3.948275862069
+      },
+      "entryData": {
+        "rating_count": 29,
+        "created_at": "2019-08-31 15:56:03",
+        "coolness": 41,
+        "id": 86850,
+        "url": "/jam/cgj/rate/476721",
+        "game": {
+          "url": "https://thepieface.itch.io/mondays",
+          "user": {
+            "name": "ThePieFace",
+            "url": "https://thepieface.itch.io",
+            "id": 1469636
+          },
+          "id": 476721,
+          "short_text": "A Game That Feels Like A Monday",
+          "title": "Mondays",
+          "platforms": [
+            "windows",
+            "osx"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0NDk4NjUuanBn/300x240%23c/eyKorc.jpg"
+        }
+      },
+      "details": {
+        "title": "Mondays",
+        "description": "Submitted as part of the Community Game Jam with the theme, 'The Game is a Liar.'Had a lot of fun with the concept though the game is definitely lacking in some polish.I assure you there is more to the game than the main menu and it is also possible to beat the game without dying. GLHF\n\n\nAlso if you are interested in hiring our narrator for voice work here is where you can find him.\nhttp://Voices.com/actors/Topsail",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDc2NzIxLzI0NDk1OTUuZ2lm/original/EIhtjH.gif"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows, macOS",
+          "Rating": "Rated 3.8 out of 5 stars(4 total ratings)",
+          "Author": "ThePieFace",
+          "Genre": "Puzzle",
+          "Tags": "Comedy"
+        }
+      }
+    },
+    {
+      "gameId": 475695,
+      "gameUrl": "https://mikedabird.itch.io/instrucdoors",
+      "overallRank": 21,
+      "topCategories": [
+        "Fun"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NDY1MzcuZ2lm/300x240%23c/y%2B5jIw.gif",
+        "contributors": [
+          {
+            "name": "Mike Da Bird",
+            "id": 1781481
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/475695",
+        "title": "Instrucdoors",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 3.7777777777778,
+            "raw_score": 3.7777777777778,
+            "rank": 37
+          },
+          {
+            "name": "Fun",
+            "score": 4.0833333333333,
+            "raw_score": 4.0833333333333,
+            "rank": 7
+          },
+          {
+            "name": "Innovation",
+            "score": 3.25,
+            "raw_score": 3.25,
+            "rank": 140
+          },
+          {
+            "name": "Theme",
+            "score": 3.8611111111111,
+            "raw_score": 3.8611111111111,
+            "rank": 35
+          },
+          {
+            "name": "Graphics",
+            "score": 3.5555555555556,
+            "raw_score": 3.5555555555556,
+            "rank": 182
+          },
+          {
+            "name": "Audio",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 17
+          }
+        ],
+        "score": 3.7546296296296,
+        "rating_count": 36,
+        "id": 475695,
+        "rank": 21,
+        "raw_score": 3.7546296296296
+      },
+      "entryData": {
+        "rating_count": 36,
+        "created_at": "2019-08-30 13:24:58",
+        "coolness": 34,
+        "id": 86305,
+        "url": "/jam/cgj/rate/475695",
+        "game": {
+          "cover_color": "#12161f",
+          "url": "https://mikedabird.itch.io/instrucdoors",
+          "short_text": "Will you trust what the narrator tells you?",
+          "user": {
+            "name": "Mike Da Bird",
+            "url": "https://mikedabird.itch.io",
+            "id": 1781481
+          },
+          "platforms": [
+            "windows",
+            "osx",
+            "web"
+          ],
+          "title": "Instrucdoors",
+          "id": 475695,
+          "gif_cover": "https://img.itch.zone/aW1nLzI0NDY1MzcuZ2lm/original/LZD1U1.gif",
+          "cover": "https://img.itch.zone/aW1nLzI0NDY1MzcuZ2lm/300x240%23c/y%2B5jIw.gif"
+        }
+      },
+      "details": {
+        "title": "Instrucdoors",
+        "description": "Hi there! Welcome to Instrucdoors! You may be here because of the Community Game Jam, but that's not important. All you have to do here is follow my instructions to get a sick reward! If you don't do that, your faith may not be the same. There may or may not be 7 different endings that you can try to find.\nSo, ready to follow my instructions?\nApril 9th, 2020:\nThe making of video of this game is now available on my YouTube channel!\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDc1Njk1LzI0NDY3NTkucG5n/original/%2FJpPXD.png",
+          "https://img.itch.zone/aW1hZ2UvNDc1Njk1LzI0NDY3NjAucG5n/original/sAY%2Fr1.png",
+          "https://img.itch.zone/aW1hZ2UvNDc1Njk1LzI0NDY3NjEucG5n/original/S%2FIsPK.png",
+          "https://img.itch.zone/aW1hZ2UvNDc1Njk1LzI0NDY3NTgucG5n/original/33N2i8.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS",
+          "Rating": "Rated 4.2 out of 5 stars(5 total ratings)",
+          "Author": "Mike Da Bird",
+          "Genre": "Platformer",
+          "Made with": "Unity",
+          "Tags": "2D, cgj, community-game-jam, communitygamejam, Multiple Endings, My First Game Jam, Pixel Art",
+          "Average session": "A few seconds",
+          "Languages": "English",
+          "Inputs": "Keyboard, Xbox controller"
+        }
+      }
+    },
+    {
+      "gameId": 476812,
+      "gameUrl": "https://pattedecanard.itch.io/dungeons-and-deception",
+      "overallRank": 28,
+      "topCategories": [
+        "Fun"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NDk5OTguZ2lm/300x240%23c/iBiIQf.gif",
+        "contributors": [
+          {
+            "name": "PatteDeCanard",
+            "id": 1178703
+          },
+          {
+            "name": "Hernz",
+            "id": 1434101
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/476812",
+        "title": "Dungeons  and Deception",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 3.9666666666667,
+            "raw_score": 3.9666666666667,
+            "rank": 16
+          },
+          {
+            "name": "Fun",
+            "score": 4.0333333333333,
+            "raw_score": 4.0333333333333,
+            "rank": 8
+          },
+          {
+            "name": "Innovation",
+            "score": 3.8333333333333,
+            "raw_score": 3.8333333333333,
+            "rank": 21
+          },
+          {
+            "name": "Theme",
+            "score": 4.0333333333333,
+            "raw_score": 4.0333333333333,
+            "rank": 18
+          },
+          {
+            "name": "Graphics",
+            "score": 3.3,
+            "raw_score": 3.3,
+            "rank": 270
+          },
+          {
+            "name": "Audio",
+            "score": 3,
+            "raw_score": 3,
+            "rank": 252
+          }
+        ],
+        "score": 3.6944444444444,
+        "rating_count": 30,
+        "id": 476812,
+        "rank": 28,
+        "raw_score": 3.6944444444444
+      },
+      "entryData": {
+        "rating_count": 30,
+        "created_at": "2019-08-31 17:14:44",
+        "coolness": 35,
+        "id": 86975,
+        "url": "/jam/cgj/rate/476812",
+        "contributors": [
+          {
+            "name": "PatteDeCanard",
+            "url": "https://pattedecanard.itch.io"
+          },
+          {
+            "name": "Hernz",
+            "url": "https://hernz.itch.io"
+          }
+        ],
+        "game": {
+          "cover_color": "#61594e",
+          "title": "Dungeons  and Deception",
+          "user": {
+            "name": "PatteDeCanard",
+            "url": "https://pattedecanard.itch.io",
+            "id": 1178703
+          },
+          "url": "https://pattedecanard.itch.io/dungeons-and-deception",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "gif_cover": "https://img.itch.zone/aW1nLzI0NDk5OTguZ2lm/original/Obi0Y%2B.gif",
+          "id": 476812,
+          "cover": "https://img.itch.zone/aW1nLzI0NDk5OTguZ2lm/300x240%23c/iBiIQf.gif"
+        }
+      },
+      "details": {
+        "title": "Dungeons  and Deception",
+        "description": "Would you dare crawl through the dungeons of deception ?\nEach turn, use your energy to play cards and beat your enemies ! Fight your way to the boss and prevail !... if you can...hahahahAHAHAHAHA.\nTeam:\n hernzpattedecanaard\nTools:\nEngine: Godot 3.1Graphics: KritaMusics and Sounds: Bosca Ceoil, LMMS\nAll the code, sounds and graphical assets have been created during the jam.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDc2ODEyLzI0NTAxMTcucG5n/original/94GFWm.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2ODEyLzI0NTAxMjAucG5n/original/K3B0ga.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2ODEyLzI0NTAxMjIucG5n/original/lWZIQg.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2ODEyLzI0NTAxMjEucG5n/original/TmG0%2FT.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 4.6 out of 5 stars(7 total ratings)",
+          "Authors": "PatteDeCanard, Hernz",
+          "Genre": "Card Game",
+          "Made with": "Godot"
+        }
+      }
+    },
+    {
+      "gameId": 477059,
+      "gameUrl": "https://iv2b.itch.io/wreckeys",
+      "overallRank": 143,
+      "topCategories": [
+        "Fun"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NTE0MjYucG5n/300x240%23c/dXxblR.png",
+        "contributors": [
+          {
+            "name": "iv2b",
+            "id": 1018480
+          },
+          {
+            "name": "Igor Konyakhin",
+            "id": 521642
+          },
+          {
+            "name": "Sleepwalk Studios",
+            "id": 526395
+          },
+          {
+            "name": "spfan009",
+            "id": 1726856
+          },
+          {
+            "name": "Conciliator",
+            "id": 128027
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/477059",
+        "title": "Wreckeys",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 3.576,
+            "raw_score": 3.576,
+            "rank": 81
+          },
+          {
+            "name": "Fun",
+            "score": 3.936,
+            "raw_score": 3.936,
+            "rank": 13
+          },
+          {
+            "name": "Innovation",
+            "score": 2.76,
+            "raw_score": 2.76,
+            "rank": 344
+          },
+          {
+            "name": "Theme",
+            "score": 2.368,
+            "raw_score": 2.368,
+            "rank": 605
+          },
+          {
+            "name": "Graphics",
+            "score": 3.528,
+            "raw_score": 3.528,
+            "rank": 196
+          },
+          {
+            "name": "Audio",
+            "score": 3.456,
+            "raw_score": 3.456,
+            "rank": 112
+          }
+        ],
+        "score": 3.2706666666667,
+        "rating_count": 125,
+        "id": 477059,
+        "rank": 143,
+        "raw_score": 3.2706666666667
+      },
+      "entryData": {
+        "rating_count": 125,
+        "created_at": "2019-08-31 18:41:54",
+        "coolness": 20,
+        "id": 87232,
+        "url": "/jam/cgj/rate/477059",
+        "contributors": [
+          {
+            "name": "iv2b",
+            "url": "https://iv2b.itch.io"
+          },
+          {
+            "name": "Igor Konyakhin",
+            "url": "https://nns2009.itch.io"
+          },
+          {
+            "name": "Sleepwalk Studios",
+            "url": "https://sleepwalk-studios.itch.io"
+          },
+          {
+            "name": "spfan009",
+            "url": "https://spfan009.itch.io"
+          },
+          {
+            "name": "Conciliator",
+            "url": "https://conciliator.itch.io"
+          }
+        ],
+        "game": {
+          "cover_color": "#3d0b4a",
+          "id": 477059,
+          "user": {
+            "name": "iv2b",
+            "url": "https://iv2b.itch.io",
+            "id": 1018480
+          },
+          "url": "https://iv2b.itch.io/wreckeys",
+          "short_text": "Kill an endless swarm of enemies, modifiers spice up the gameplay but they're told to you in reverse!",
+          "title": "Wreckeys",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0NTE0MjYucG5n/300x240%23c/dXxblR.png"
+        }
+      },
+      "details": {
+        "title": "Wreckeys",
+        "description": "Heck yeah it's happening!\nSlay endless waves of enemies with 9 different weapons on 3 different arenas, then share your highscore with your friends!\nBeware of modifiers that will be applied as time goes on, they're quite impactful but they're reversed!\nThe webGL version has audio performance issues, download the executable for the best experience!\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDc3MDU5LzI0NTE5MTEuanBn/original/qSIUsX.jpg",
+          "https://img.itch.zone/aW1hZ2UvNDc3MDU5LzI0NTE5MTAuanBn/original/OMieOh.jpg",
+          "https://img.itch.zone/aW1hZ2UvNDc3MDU5LzI0NTE5MTIuanBn/original/qgHNDz.jpg",
+          "https://img.itch.zone/aW1hZ2UvNDc3MDU5LzI0NTE5MDkuanBn/original/xbbi0u.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Authors": "iv2b, Igor Konyakhin, Sleepwalk Studios, spfan009, Conciliator",
+          "Genre": "Action",
+          "Made with": "Unity",
+          "Tags": "2D, cgj2019, Neon"
+        }
+      }
+    },
+    {
+      "gameId": 476537,
+      "gameUrl": "https://charutak.itch.io/mindless-runner",
+      "overallRank": 12,
+      "topCategories": [
+        "Fun"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NTA1MzEuZ2lm/300x240%23c/ww%2ByxZ.gif",
+        "contributors": [
+          {
+            "name": "Charu Tak",
+            "id": 1595941
+          },
+          {
+            "name": "runvarunrun",
+            "id": 1780013
+          },
+          {
+            "name": "devanshutak25",
+            "id": 663637
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/476537",
+        "title": "Mindless Runner",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 3.8,
+            "raw_score": 3.8,
+            "rank": 29
+          },
+          {
+            "name": "Fun",
+            "score": 3.925,
+            "raw_score": 3.925,
+            "rank": 15
+          },
+          {
+            "name": "Innovation",
+            "score": 3.725,
+            "raw_score": 3.725,
+            "rank": 31
+          },
+          {
+            "name": "Theme",
+            "score": 3.75,
+            "raw_score": 3.75,
+            "rank": 64
+          },
+          {
+            "name": "Graphics",
+            "score": 3.95,
+            "raw_score": 3.95,
+            "rank": 79
+          },
+          {
+            "name": "Audio",
+            "score": 3.825,
+            "raw_score": 3.825,
+            "rank": 36
+          }
+        ],
+        "score": 3.8291666666667,
+        "rating_count": 40,
+        "id": 476537,
+        "rank": 12,
+        "raw_score": 3.8291666666667
+      },
+      "entryData": {
+        "rating_count": 40,
+        "created_at": "2019-08-31 12:31:19",
+        "coolness": 40,
+        "id": 86652,
+        "url": "/jam/cgj/rate/476537",
+        "contributors": [
+          {
+            "name": "Charu Tak",
+            "url": "https://charutak.itch.io"
+          },
+          {
+            "name": "runvarunrun",
+            "url": "https://runvarunrun.itch.io"
+          },
+          {
+            "name": "devanshutak25",
+            "url": "https://devanshutak25.itch.io"
+          }
+        ],
+        "game": {
+          "cover_color": "#000000",
+          "url": "https://charutak.itch.io/mindless-runner",
+          "short_text": "Brainteasing endless runner. Don't lose focus!",
+          "user": {
+            "name": "Charu Tak",
+            "url": "https://charutak.itch.io",
+            "id": 1595941
+          },
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "title": "Mindless Runner",
+          "id": 476537,
+          "gif_cover": "https://img.itch.zone/aW1nLzI0NTA1MzEuZ2lm/original/Ub9Rvp.gif",
+          "cover": "https://img.itch.zone/aW1nLzI0NTA1MzEuZ2lm/300x240%23c/ww%2ByxZ.gif"
+        }
+      },
+      "details": {
+        "title": "Mindless Runner",
+        "description": "An intense endless runner puzzle hybrid. A gruesome test of focus, dexterity and patience. Our entry for the 2019 community game jam!  How to play:Match the color on the left to the word on the right! Avoid the obstacles. Score 10 score to earn an extra life!\nControls: \nMove Up: Up Arrow / WMove Down: DownArrow / S Back to Menu: M",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDc2NTM3LzI0NTA1NjMucG5n/original/dbAE70.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2NTM3LzI0NTA1NjUucG5n/original/qrhcLW.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2NTM3LzI0NTA1NjgucG5n/original/gqbmBg.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2NTM3LzI0NTA1NjkucG5n/original/Yambvp.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2NTM3LzI0NTA1NzEucG5n/original/o7tFv6.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.7 out of 5 stars(3 total ratings)",
+          "Authors": "Charu Tak, runvarunrun, devanshutak25",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "3D, Arcade, Difficult, Endless, infinite-runner, mind-bending, Singleplayer, Top-Down"
+        }
+      }
+    },
+    {
+      "gameId": 476520,
+      "gameUrl": "https://ratrat44.itch.io/out-of-my-window",
+      "overallRank": 248,
+      "topCategories": [
+        "Innovation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NjI4NTQucG5n/300x240%23c/bqgnH6.png",
+        "contributors": [
+          {
+            "name": "ratrat44",
+            "id": 1271547
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/476520",
+        "title": "Out of My Window",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 3.4444444444444,
+            "raw_score": 3.4444444444444,
+            "rank": 124
+          },
+          {
+            "name": "Fun",
+            "score": 3.2222222222222,
+            "raw_score": 3.2222222222222,
+            "rank": 200
+          },
+          {
+            "name": "Innovation",
+            "score": 4.1111111111111,
+            "raw_score": 4.1111111111111,
+            "rank": 8
+          },
+          {
+            "name": "Theme",
+            "score": 2.1111111111111,
+            "raw_score": 2.1111111111111,
+            "rank": 695
+          },
+          {
+            "name": "Graphics",
+            "score": 2.9444444444444,
+            "raw_score": 2.9444444444444,
+            "rank": 400
+          },
+          {
+            "name": "Audio",
+            "score": 2.6666666666667,
+            "raw_score": 2.6666666666667,
+            "rank": 381
+          }
+        ],
+        "score": 3.0833333333333,
+        "rating_count": 18,
+        "id": 476520,
+        "rank": 248,
+        "raw_score": 3.0833333333333
+      },
+      "entryData": {
+        "rating_count": 18,
+        "created_at": "2019-08-31 12:09:32",
+        "coolness": 14,
+        "id": 86640,
+        "url": "/jam/cgj/rate/476520",
+        "game": {
+          "cover_color": "#353535",
+          "id": 476520,
+          "user": {
+            "name": "ratrat44",
+            "url": "https://ratrat44.itch.io",
+            "id": 1271547
+          },
+          "url": "https://ratrat44.itch.io/out-of-my-window",
+          "short_text": "multi window",
+          "title": "Out of My Window",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0NjI4NTQucG5n/300x240%23c/bqgnH6.png"
+        }
+      },
+      "details": {
+        "title": "Out of My Window",
+        "description": "you must not get hit by rocks.\nControls A D and drag windowMade with Processing\nI used Fake Music Generator for the musicdownload the zip and unzip and click the .exe",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDc2NTIwLzI0NDgxOTgucG5n/original/O5jGLJ.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2NTIwLzI0NDgyMDAucG5n/original/xnYI%2Bp.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2NTIwLzI0NDgyMDIucG5n/original/9Z28tN.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Author": "ratrat44",
+          "Tags": "2D"
+        }
+      }
+    },
+    {
+      "gameId": 477090,
+      "gameUrl": "https://tomyatemo.itch.io/escape",
+      "overallRank": 54,
+      "topCategories": [
+        "Innovation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NTEwNDkucG5n/300x240%23c/3Aegwr.png",
+        "contributors": [
+          {
+            "name": "Tomyatemo",
+            "id": 1709769
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/477090",
+        "title": "__escape__",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 3.3636363636364,
+            "raw_score": 3.3636363636364,
+            "rank": 171
+          },
+          {
+            "name": "Fun",
+            "score": 3.0909090909091,
+            "raw_score": 3.0909090909091,
+            "rank": 273
+          },
+          {
+            "name": "Innovation",
+            "score": 4.0909090909091,
+            "raw_score": 4.0909090909091,
+            "rank": 9
+          },
+          {
+            "name": "Theme",
+            "score": 3.8181818181818,
+            "raw_score": 3.8181818181818,
+            "rank": 54
+          },
+          {
+            "name": "Graphics",
+            "score": 3.5454545454545,
+            "raw_score": 3.5454545454545,
+            "rank": 189
+          },
+          {
+            "name": "Audio",
+            "score": 3.4545454545455,
+            "raw_score": 3.4545454545455,
+            "rank": 113
+          }
+        ],
+        "score": 3.5606060606061,
+        "rating_count": 11,
+        "id": 477090,
+        "rank": 54,
+        "raw_score": 3.5606060606061
+      },
+      "entryData": {
+        "rating_count": 11,
+        "created_at": "2019-08-31 18:18:19",
+        "coolness": 13,
+        "id": 87124,
+        "url": "/jam/cgj/rate/477090",
+        "game": {
+          "cover_color": "#000000",
+          "user": {
+            "name": "Tomyatemo",
+            "url": "https://tomyatemo.itch.io",
+            "id": 1709769
+          },
+          "url": "https://tomyatemo.itch.io/escape",
+          "id": 477090,
+          "title": "__escape__",
+          "short_text": "A Top-Down 2D RPG Puzzle Game about two worlds and a mysterious place.",
+          "cover": "https://img.itch.zone/aW1nLzI0NTEwNDkucG5n/300x240%23c/3Aegwr.png"
+        }
+      },
+      "details": {
+        "title": "__escape__",
+        "description": "This is my first game made in unity... kinda.  __escape__ is a  Top-Down 2D RPG Puzzle Game about two worlds and a mysterious place.\nI made this short game for the Community Game Jam 2019. Even though the jam lasted for like a week, I could only manage to invest 27 hours in it. It was a super fun experience and I really like the results :D\nSomeone asked me for a linux version so I put them here",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzI0NTEwNDkucG5n/original/f%2BwY1c.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Tomyatemo",
+          "Genre": "Puzzle",
+          "Tags": "2D, Pixel Art, Short, Singleplayer, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 476523,
+      "gameUrl": "https://tudvari.itch.io/just-a-prank",
+      "overallRank": 87,
+      "topCategories": [
+        "Innovation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NDgxNjUucG5n/300x240%23c/0CePp6.png",
+        "contributors": [
+          {
+            "name": "Tudvari",
+            "id": 267692
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/476523",
+        "title": "Just a prank",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 3.6363636363636,
+            "raw_score": 3.6363636363636,
+            "rank": 61
+          },
+          {
+            "name": "Fun",
+            "score": 3.0909090909091,
+            "raw_score": 3.0909090909091,
+            "rank": 273
+          },
+          {
+            "name": "Innovation",
+            "score": 4.0909090909091,
+            "raw_score": 4.0909090909091,
+            "rank": 9
+          },
+          {
+            "name": "Theme",
+            "score": 3.5454545454545,
+            "raw_score": 3.5454545454545,
+            "rank": 127
+          },
+          {
+            "name": "Graphics",
+            "score": 3.0909090909091,
+            "raw_score": 3.0909090909091,
+            "rank": 346
+          },
+          {
+            "name": "Audio",
+            "score": 3.1818181818182,
+            "raw_score": 3.1818181818182,
+            "rank": 202
+          }
+        ],
+        "score": 3.4393939393939,
+        "rating_count": 11,
+        "id": 476523,
+        "rank": 87,
+        "raw_score": 3.4393939393939
+      },
+      "entryData": {
+        "rating_count": 11,
+        "created_at": "2019-08-31 12:13:21",
+        "coolness": 24,
+        "id": 86642,
+        "url": "/jam/cgj/rate/476523",
+        "game": {
+          "cover_color": "#2a2a2a",
+          "user": {
+            "name": "Tudvari",
+            "url": "https://tudvari.itch.io",
+            "id": 267692
+          },
+          "url": "https://tudvari.itch.io/just-a-prank",
+          "id": 476523,
+          "title": "Just a prank",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0NDgxNjUucG5n/300x240%23c/0CePp6.png"
+        }
+      },
+      "details": {
+        "title": "Just a prank",
+        "description": "The inhabitants of a (haunted) mansion are living their life just as usual:\nthey are doing their favourite activities, like watching TVand they talk to each other about stuff... like their likes and dislikesand while doing this, their relation with each other change and change.\nAnd this is where you come in:\nYou must manipulate the activities by breaking them and framing someone, or by repairing them. If they hate someone enough, they are starting to get agressive! (making traps, picking up lethal weapons, like ... furnitures...)and your final goal is to KILL EVERYONE before it dawns! (the last person commits suicide))\nYou gain score if hate is generated, and you spend score by breaking and repairing activites.\nCan you finish the job before dawn, and earn the most points?\nHere's the post mortem if you're interested :)\n\n====================================\nLinux build: \nhttps://drive.google.com/file/d/10b9wMnpJzH0K3W46-kMJbfAdg_6hpkVA/view?usp=shari...\nMac build:\nhttps://drive.google.com/file/d/1qOJBE_zcs9g7rVzhom6LAK5r0P0N-NVn/view?usp=shari...\n====================================\nMade by Áron Gere, Tibor Udvari, Viktor Makki under a few days for Community Game Jam 2019.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDc2NTIzLzI0NTUzNDYucG5n/original/TDevhS.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2NTIzLzI0NTUzNDcucG5n/original/fDLWfe.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2NTIzLzI0NTUzNDkucG5n/original/nVl37f.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS, Linux",
+          "Author": "Tudvari",
+          "Genre": "Strategy, Action",
+          "Tags": "2D, community-game-jam, Gore"
+        }
+      }
+    },
+    {
+      "gameId": 476646,
+      "gameUrl": "https://qenton.itch.io/big-money-machine",
+      "overallRank": 4,
+      "topCategories": [
+        "Innovation",
+        "Theme",
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NDk5MjIucG5n/300x240%23c/sfs0ZP.png",
+        "contributors": [
+          {
+            "name": "Qenton",
+            "id": 1768171
+          },
+          {
+            "name": "klamante",
+            "id": 1223272
+          },
+          {
+            "name": "pawelrobak",
+            "id": 1521288
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/476646",
+        "title": "Big Money Machine",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 3.875,
+            "raw_score": 3.875,
+            "rank": 21
+          },
+          {
+            "name": "Fun",
+            "score": 3.875,
+            "raw_score": 3.875,
+            "rank": 16
+          },
+          {
+            "name": "Innovation",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 11
+          },
+          {
+            "name": "Theme",
+            "score": 4.125,
+            "raw_score": 4.125,
+            "rank": 11
+          },
+          {
+            "name": "Graphics",
+            "score": 4.25,
+            "raw_score": 4.25,
+            "rank": 22
+          },
+          {
+            "name": "Audio",
+            "score": 4.125,
+            "raw_score": 4.125,
+            "rank": 7
+          }
+        ],
+        "score": 4.0416666666667,
+        "rating_count": 8,
+        "id": 476646,
+        "rank": 4,
+        "raw_score": 4.0416666666667
+      },
+      "entryData": {
+        "rating_count": 8,
+        "created_at": "2019-08-31 14:26:51",
+        "coolness": 6,
+        "id": 86729,
+        "url": "/jam/cgj/rate/476646",
+        "contributors": [
+          {
+            "name": "Qenton",
+            "url": "https://qenton.itch.io"
+          },
+          {
+            "name": "klamante",
+            "url": "https://klamante.itch.io"
+          },
+          {
+            "name": "pawelrobak",
+            "url": "https://pawelrobak.itch.io"
+          }
+        ],
+        "game": {
+          "url": "https://qenton.itch.io/big-money-machine",
+          "user": {
+            "name": "Qenton",
+            "url": "https://qenton.itch.io",
+            "id": 1768171
+          },
+          "id": 476646,
+          "short_text": "Can you cheat the system?",
+          "title": "Big Money Machine",
+          "platforms": [
+            "windows",
+            "osx"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0NDk5MjIucG5n/300x240%23c/sfs0ZP.png"
+        }
+      },
+      "details": {
+        "title": "Big Money Machine",
+        "description": "You've been told that there's no way to win that money... But you're stubborn. You try everyday, at all costs. Prove them they are lying! \nThere are two ways to make the money back can you find them?\nLast screenshots show prototype vs concept art c:\nMade for #communitygamejam, in hours after work.\nmouse controls and esc for menu.Pc version only for OSX go here https://drive.google.com/file/,",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDc2NjQ2LzI0NDk2MDYucG5n/original/R8n0Sq.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2NjQ2LzI0NDk2MDcucG5n/original/sgLUoA.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2NjQ2LzI0NDk2MDgucG5n/original/6%2Bqj2Z.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2NjQ2LzI0NDk2MTMucG5n/original/e5sOsy.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2NjQ2LzI0NTQ4NzUucG5n/original/I36VsV.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2NjQ2LzI0NTQ4NzYucG5n/original/wwOClk.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS",
+          "Rating": "Rated 3.0 out of 5 stars(2 total ratings)",
+          "Authors": "Qenton, klamante, pawelrobak",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "2D, cassino, community-game-jam",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 476371,
+      "gameUrl": "https://ardos12.itch.io/this-is-how-it-ends",
+      "overallRank": 38,
+      "topCategories": [
+        "Innovation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NDc3NTkucG5n/300x240%23c/SFh5wm.png",
+        "contributors": [
+          {
+            "name": "Ardos",
+            "id": 923352
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/476371",
+        "title": "This is how it ends !",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 3.6153846153846,
+            "raw_score": 3.6153846153846,
+            "rank": 67
+          },
+          {
+            "name": "Fun",
+            "score": 3.5384615384615,
+            "raw_score": 3.5384615384615,
+            "rank": 76
+          },
+          {
+            "name": "Innovation",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 11
+          },
+          {
+            "name": "Theme",
+            "score": 3.5384615384615,
+            "raw_score": 3.5384615384615,
+            "rank": 129
+          },
+          {
+            "name": "Graphics",
+            "score": 3.4615384615385,
+            "raw_score": 3.4615384615385,
+            "rank": 210
+          },
+          {
+            "name": "Audio",
+            "score": 3.6153846153846,
+            "raw_score": 3.6153846153846,
+            "rank": 73
+          }
+        ],
+        "score": 3.6282051282051,
+        "rating_count": 13,
+        "id": 476371,
+        "rank": 38,
+        "raw_score": 3.6282051282051
+      },
+      "entryData": {
+        "rating_count": 13,
+        "created_at": "2019-08-31 11:02:58",
+        "coolness": 30,
+        "id": 86611,
+        "url": "/jam/cgj/rate/476371",
+        "game": {
+          "cover_color": "#665851",
+          "id": 476371,
+          "user": {
+            "name": "Ardos",
+            "url": "https://ardos12.itch.io",
+            "id": 923352
+          },
+          "url": "https://ardos12.itch.io/this-is-how-it-ends",
+          "short_text": "Made for the 2019 Community Game Jam",
+          "title": "This is how it ends !",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0NDc3NTkucG5n/300x240%23c/SFh5wm.png"
+        }
+      },
+      "details": {
+        "title": "This is how it ends !",
+        "description": "The game tells the story of the end of the world. \nWatch the world die as you desesperatly try to keep it alive in this apocalyptic \"point and clicker\" !\n\nAlso, sorry for my incredible english accent and my awsome acting, I'm not used to do that :')\nThis game was made for the 2019 Community Game Jam.\nThe theme was \"The game is a liar\"Extract the zip in a folder and run the game !",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDc2MzcxLzI0NDc0NTkuZ2lm/original/Tj0TME.gif",
+          "https://img.itch.zone/aW1hZ2UvNDc2MzcxLzI0NDc0NDIucG5n/original/P0ozip.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2MzcxLzI0NDc0NTEucG5n/original/fWJjl0.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Ardos",
+          "Genre": "Interactive Fiction",
+          "Made with": "GameMaker, FL Studio, Paint.net",
+          "Tags": "2D, Clicker, Colorful, Non violent, Pixel Art, Point & Click, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 474073,
+      "gameUrl": "https://mrbru3.itch.io/illusion",
+      "overallRank": 44,
+      "topCategories": [
+        "Innovation",
+        "Theme"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0MzI1MjMuZ2lm/300x240%23c/PrnCXb.gif",
+        "contributors": [
+          {
+            "name": "mrbru3",
+            "id": 1633332
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/474073",
+        "title": "ILLUSION",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 3.8,
+            "raw_score": 3.8,
+            "rank": 29
+          },
+          {
+            "name": "Fun",
+            "score": 3.6,
+            "raw_score": 3.6,
+            "rank": 62
+          },
+          {
+            "name": "Innovation",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 11
+          },
+          {
+            "name": "Theme",
+            "score": 4.4,
+            "raw_score": 4.4,
+            "rank": 2
+          },
+          {
+            "name": "Graphics",
+            "score": 4.3,
+            "raw_score": 4.3,
+            "rank": 19
+          },
+          {
+            "name": "Audio",
+            "score": 1.5,
+            "raw_score": 1.5,
+            "rank": 780
+          }
+        ],
+        "score": 3.6,
+        "rating_count": 10,
+        "id": 474073,
+        "rank": 44,
+        "raw_score": 3.6
+      },
+      "entryData": {
+        "rating_count": 10,
+        "created_at": "2019-08-26 20:50:24",
+        "coolness": 7,
+        "id": 85864,
+        "url": "/jam/cgj/rate/474073",
+        "game": {
+          "cover_color": "#98D150",
+          "url": "https://mrbru3.itch.io/illusion",
+          "short_text": "Your eyes deceive you",
+          "user": {
+            "name": "mrbru3",
+            "url": "https://mrbru3.itch.io",
+            "id": 1633332
+          },
+          "platforms": [
+            "windows",
+            "osx"
+          ],
+          "title": "ILLUSION",
+          "id": 474073,
+          "gif_cover": "https://img.itch.zone/aW1nLzI0MzI1MjMuZ2lm/original/15fpnj.gif",
+          "cover": "https://img.itch.zone/aW1nLzI0MzI1MjMuZ2lm/300x240%23c/PrnCXb.gif"
+        }
+      },
+      "details": {
+        "title": "ILLUSION",
+        "description": "You cant see the full story with only one perspective.\n\nControls:\nWASD to move",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDc0MDczLzI0MzI0MTcuZ2lm/original/D2z0hz.gif",
+          "https://img.itch.zone/aW1hZ2UvNDc0MDczLzI0MzI0NTMucG5n/original/%2FvG7qk.png",
+          "https://img.itch.zone/aW1hZ2UvNDc0MDczLzI0MzI0NTgucG5n/original/wHch5N.png",
+          "https://img.itch.zone/aW1hZ2UvNDc0MDczLzI0MzI0NjQucG5n/original/bBfvZU.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS",
+          "Rating": "Rated 3.0 out of 5 stars(3 total ratings)",
+          "Author": "mrbru3",
+          "Genre": "Puzzle",
+          "Tags": "3D, communitygamejam, Low-poly, Minimalist, Short"
+        }
+      }
+    },
+    {
+      "gameId": 474461,
+      "gameUrl": "https://duskitten.itch.io/a-room",
+      "overallRank": 51,
+      "topCategories": [
+        "Innovation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0MzQ4OTMucG5n/300x240%23c/FX9XMX.png",
+        "contributors": [
+          {
+            "name": "duskitten",
+            "id": 73635
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/474461",
+        "title": "A_Room",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 3.8461538461538,
+            "raw_score": 3.8461538461538,
+            "rank": 25
+          },
+          {
+            "name": "Fun",
+            "score": 3.2307692307692,
+            "raw_score": 3.2307692307692,
+            "rank": 196
+          },
+          {
+            "name": "Innovation",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 11
+          },
+          {
+            "name": "Theme",
+            "score": 2.8461538461538,
+            "raw_score": 2.8461538461538,
+            "rank": 395
+          },
+          {
+            "name": "Graphics",
+            "score": 3.8461538461538,
+            "raw_score": 3.8461538461538,
+            "rank": 101
+          },
+          {
+            "name": "Audio",
+            "score": 3.6923076923077,
+            "raw_score": 3.6923076923077,
+            "rank": 63
+          }
+        ],
+        "score": 3.5769230769231,
+        "rating_count": 13,
+        "id": 474461,
+        "rank": 51,
+        "raw_score": 3.5769230769231
+      },
+      "entryData": {
+        "rating_count": 13,
+        "created_at": "2019-08-27 11:47:29",
+        "coolness": 1,
+        "id": 86064,
+        "url": "/jam/cgj/rate/474461",
+        "game": {
+          "cover_color": "#000000",
+          "user": {
+            "name": "duskitten",
+            "url": "https://duskitten.itch.io",
+            "id": 73635
+          },
+          "url": "https://duskitten.itch.io/a-room",
+          "id": 474461,
+          "title": "A_Room",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0MzQ4OTMucG5n/300x240%23c/FX9XMX.png"
+        }
+      },
+      "details": {
+        "title": "A_Room",
+        "description": "You wake up in a room.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDc0NDYxLzI0MzQ4ODgucG5n/original/PKk%2BNS.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS, Linux",
+          "Author": "duskitten",
+          "Genre": "Puzzle"
+        }
+      }
+    },
+    {
+      "gameId": 475955,
+      "gameUrl": "https://biebrass.itch.io/lying-ads",
+      "overallRank": 34,
+      "topCategories": [
+        "Innovation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NTA2MTUucG5n/300x240%23c/3IwDGl.png",
+        "contributors": [
+          {
+            "name": "Biebrass",
+            "id": 1205911
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/475955",
+        "title": "Lying Ads",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 3.4782608695652,
+            "raw_score": 3.4782608695652,
+            "rank": 113
+          },
+          {
+            "name": "Fun",
+            "score": 3.3913043478261,
+            "raw_score": 3.3913043478261,
+            "rank": 120
+          },
+          {
+            "name": "Innovation",
+            "score": 3.9565217391304,
+            "raw_score": 3.9565217391304,
+            "rank": 15
+          },
+          {
+            "name": "Theme",
+            "score": 4.0434782608696,
+            "raw_score": 4.0434782608696,
+            "rank": 17
+          },
+          {
+            "name": "Graphics",
+            "score": 3.6086956521739,
+            "raw_score": 3.6086956521739,
+            "rank": 170
+          },
+          {
+            "name": "Audio",
+            "score": 3.4347826086957,
+            "raw_score": 3.4347826086957,
+            "rank": 120
+          }
+        ],
+        "score": 3.6521739130435,
+        "rating_count": 23,
+        "id": 475955,
+        "rank": 34,
+        "raw_score": 3.6521739130435
+      },
+      "entryData": {
+        "rating_count": 23,
+        "created_at": "2019-08-31 18:51:27",
+        "coolness": 20,
+        "id": 87316,
+        "url": "/jam/cgj/rate/475955",
+        "game": {
+          "cover_color": "#000000",
+          "user": {
+            "name": "Biebrass",
+            "url": "https://biebrass.itch.io",
+            "id": 1205911
+          },
+          "url": "https://biebrass.itch.io/lying-ads",
+          "id": 475955,
+          "title": "Lying Ads",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0NTA2MTUucG5n/300x240%23c/3IwDGl.png"
+        }
+      },
+      "details": {
+        "title": "Lying Ads",
+        "description": "Windows Version Recommended! No audio crackling!!!\n\nIt's an unforgiving world we live in...\nAnd much in the same way, the internet is a savage and unpredictable place, with a prime example being the oodles of click-bait horrible ads sprinkled through-out it.\nIt most definitely wouldn't be a good idea to let your life sway with every suggestion of these dastardly advertisements.\nBut it might be fun to try!\nIn this game, you do just that! With your goal being to try and stay alive for as long as you can, passing the time only by enthusiastically accepting the internet's many suggestions for better living!\nProudly brought to you by:\nProgrammer/Assistant artist/Game designer/The Best guy: Biebrass\nArtist and a lazy on at that: Ignas\nComposer/Writer/Assistant artist/Animator/Game designer : Hitmanatee https://soundcloud.com/hitmanatee",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDc1OTU1LzI0NTEwNTUucG5n/original/rV5Mah.png",
+          "https://img.itch.zone/aW1hZ2UvNDc1OTU1LzI0NTEwNTYucG5n/original/X%2FrxFj.png",
+          "https://img.itch.zone/aW1hZ2UvNDc1OTU1LzI0NTE5NDAucG5n/original/4wriqC.png",
+          "https://img.itch.zone/aW1hZ2UvNDc1OTU1LzI0NTE2OTkucG5n/original/44BsLe.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Biebrass",
+          "Genre": "Strategy, Simulation",
+          "Made with": "Unity",
+          "Tags": "2D, Arcade, Atmospheric, Funny, Pixel Art, Point & Click, Roguelite, weird"
+        }
+      }
+    },
+    {
+      "gameId": 476063,
+      "gameUrl": "https://edzhuang.itch.io/totally-normal-platformer",
+      "overallRank": 99,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NDU0OTYucG5n/300x240%23c/sHcLvp.png",
+        "contributors": [
+          {
+            "name": "edzhuang",
+            "id": 1708387
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/476063",
+        "title": "Totally Normal Platformer",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 3.9,
+            "raw_score": 3.9,
+            "rank": 18
+          },
+          {
+            "name": "Fun",
+            "score": 3.7,
+            "raw_score": 3.7,
+            "rank": 39
+          },
+          {
+            "name": "Innovation",
+            "score": 3.5,
+            "raw_score": 3.5,
+            "rank": 55
+          },
+          {
+            "name": "Theme",
+            "score": 4.5,
+            "raw_score": 4.5,
+            "rank": 1
+          },
+          {
+            "name": "Graphics",
+            "score": 3.3,
+            "raw_score": 3.3,
+            "rank": 270
+          },
+          {
+            "name": "Audio",
+            "score": 1.4,
+            "raw_score": 1.4,
+            "rank": 789
+          }
+        ],
+        "score": 3.3833333333333,
+        "rating_count": 10,
+        "id": 476063,
+        "rank": 99,
+        "raw_score": 3.3833333333333
+      },
+      "entryData": {
+        "rating_count": 10,
+        "created_at": "2019-08-30 20:54:40",
+        "coolness": 5,
+        "id": 86392,
+        "url": "/jam/cgj/rate/476063",
+        "game": {
+          "cover_color": "#eeeeee",
+          "id": 476063,
+          "user": {
+            "name": "edzhuang",
+            "url": "https://edzhuang.itch.io",
+            "id": 1708387
+          },
+          "url": "https://edzhuang.itch.io/totally-normal-platformer",
+          "short_text": "A platformer where nothing is as it seems...",
+          "title": "Totally Normal Platformer",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0NDU0OTYucG5n/300x240%23c/sHcLvp.png"
+        }
+      },
+      "details": {
+        "title": "Totally Normal Platformer",
+        "description": "A short platformer where nothing is as it seems...\nThis game was made for the Community Game Jam!\nNotes:\nThis is my first unity game btwThere's no sounds because I don't have enough time to figure out how to add them, and any music I'd try to make would be so terrible that you would turn sound off anyways.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDc2MDYzLzI0NDU1NDAucG5n/original/Qa4WRw.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2MDYzLzI0NDU1NTEucG5n/original/Z8ZsYr.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2MDYzLzI0NDU1NDUucG5n/original/f6Juf1.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 3.8 out of 5 stars(6 total ratings)",
+          "Author": "edzhuang",
+          "Genre": "Platformer",
+          "Made with": "Unity",
+          "Tags": "Pixel Art"
+        }
+      }
+    },
+    {
+      "gameId": 477000,
+      "gameUrl": "https://wala-interactive.itch.io/this-game-is-a-liar",
+      "overallRank": 61,
+      "topCategories": [
+        "Theme",
+        "Graphics"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NTA0OTMucG5n/300x240%23c/2wDdsq.png",
+        "contributors": [
+          {
+            "name": "Wala Interactive",
+            "id": 1793809
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/477000",
+        "title": "This Game Is A Liar",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 3.4285714285714,
+            "raw_score": 3.4285714285714,
+            "rank": 137
+          },
+          {
+            "name": "Fun",
+            "score": 3.2857142857143,
+            "raw_score": 3.2857142857143,
+            "rank": 166
+          },
+          {
+            "name": "Innovation",
+            "score": 3.1428571428571,
+            "raw_score": 3.1428571428571,
+            "rank": 167
+          },
+          {
+            "name": "Theme",
+            "score": 4.2857142857143,
+            "raw_score": 4.2857142857143,
+            "rank": 3
+          },
+          {
+            "name": "Graphics",
+            "score": 4.4285714285714,
+            "raw_score": 4.4285714285714,
+            "rank": 4
+          },
+          {
+            "name": "Audio",
+            "score": 2.7142857142857,
+            "raw_score": 2.7142857142857,
+            "rank": 359
+          }
+        ],
+        "score": 3.547619047619,
+        "rating_count": 7,
+        "id": 477000,
+        "rank": 61,
+        "raw_score": 3.547619047619
+      },
+      "entryData": {
+        "rating_count": 7,
+        "created_at": "2019-08-31 17:39:22",
+        "coolness": 2,
+        "id": 87016,
+        "url": "/jam/cgj/rate/477000",
+        "game": {
+          "url": "https://wala-interactive.itch.io/this-game-is-a-liar",
+          "user": {
+            "name": "Wala Interactive",
+            "url": "https://wala-interactive.itch.io",
+            "id": 1793809
+          },
+          "id": 477000,
+          "short_text": "Every object in this game is a lie",
+          "title": "This Game Is A Liar",
+          "platforms": [
+            "windows",
+            "osx"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0NTA0OTMucG5n/300x240%23c/2wDdsq.png"
+        }
+      },
+      "details": {
+        "title": "This Game Is A Liar",
+        "description": "MacOS :",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzI0NTA0OTMucG5n/original/1PRMmO.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows, macOS",
+          "Rating": "Rated 1.0 out of 5 stars(1 total ratings)",
+          "Author": "Wala Interactive",
+          "Genre": "Puzzle",
+          "Tags": "3D"
+        }
+      }
+    },
+    {
+      "gameId": 476767,
+      "gameUrl": "https://saleh89.itch.io/robots-never-lie",
+      "overallRank": 88,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NDkyODEucG5n/300x240%23c/rtmWkC.png",
+        "contributors": [
+          {
+            "name": "Saleh Almatrafi",
+            "id": 1746446
+          },
+          {
+            "name": "hawthan",
+            "id": 1725248
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/476767",
+        "title": "Robots Never Lie",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 3.5,
+            "raw_score": 3.5,
+            "rank": 104
+          },
+          {
+            "name": "Fun",
+            "score": 3,
+            "raw_score": 3,
+            "rank": 290
+          },
+          {
+            "name": "Innovation",
+            "score": 2.75,
+            "raw_score": 2.75,
+            "rank": 347
+          },
+          {
+            "name": "Theme",
+            "score": 4.25,
+            "raw_score": 4.25,
+            "rank": 4
+          },
+          {
+            "name": "Graphics",
+            "score": 3.25,
+            "raw_score": 3.25,
+            "rank": 291
+          },
+          {
+            "name": "Audio",
+            "score": 3.875,
+            "raw_score": 3.875,
+            "rank": 30
+          }
+        ],
+        "score": 3.4375,
+        "rating_count": 8,
+        "id": 476767,
+        "rank": 88,
+        "raw_score": 3.4375
+      },
+      "entryData": {
+        "rating_count": 8,
+        "created_at": "2019-08-31 15:39:19",
+        "coolness": 3,
+        "id": 86821,
+        "url": "/jam/cgj/rate/476767",
+        "contributors": [
+          {
+            "name": "Saleh Almatrafi",
+            "url": "https://saleh89.itch.io"
+          },
+          {
+            "name": "hawthan",
+            "url": "https://hawthan.itch.io"
+          }
+        ],
+        "game": {
+          "user": {
+            "name": "Saleh Almatrafi",
+            "url": "https://saleh89.itch.io",
+            "id": 1746446
+          },
+          "id": 476767,
+          "url": "https://saleh89.itch.io/robots-never-lie",
+          "title": "Robots Never Lie",
+          "platforms": [
+            "windows",
+            "osx",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0NDkyODEucG5n/300x240%23c/rtmWkC.png"
+        }
+      },
+      "details": {
+        "title": "Robots Never Lie",
+        "description": "This game made for Community Game Jam\n-------------------------------------------------\nControls:\nDon't Worry every things are explained in the game, I think ;)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDc2NzY3LzI0NDkzMjcucG5n/original/bDteAm.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2NzY3LzI0NDkzMjgucG5n/original/xX18Of.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS",
+          "Authors": "Saleh Almatrafi, hawthan",
+          "Genre": "Puzzle",
+          "Made with": "Unity"
+        }
+      }
+    },
+    {
+      "gameId": 476728,
+      "gameUrl": "https://flashygoblin.itch.io/the-race",
+      "overallRank": 7,
+      "topCategories": [
+        "Theme",
+        "Graphics",
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NDkwOTkuanBn/300x240%23c/t0LgCZ.jpg",
+        "contributors": [
+          {
+            "name": "FlashyGoblin",
+            "id": 626534
+          },
+          {
+            "name": "sailawayent",
+            "id": 1523036
+          },
+          {
+            "name": "Episkeptis",
+            "id": 1061737
+          },
+          {
+            "name": "audments_art",
+            "id": 1775587
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/476728",
+        "title": "The Race: A Track of Lies!",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 3.7950819672131,
+            "raw_score": 3.7950819672131,
+            "rank": 33
+          },
+          {
+            "name": "Fun",
+            "score": 3.7377049180328,
+            "raw_score": 3.7377049180328,
+            "rank": 30
+          },
+          {
+            "name": "Innovation",
+            "score": 3.2459016393443,
+            "raw_score": 3.2459016393443,
+            "rank": 145
+          },
+          {
+            "name": "Theme",
+            "score": 4.2459016393443,
+            "raw_score": 4.2459016393443,
+            "rank": 5
+          },
+          {
+            "name": "Graphics",
+            "score": 4.3606557377049,
+            "raw_score": 4.3606557377049,
+            "rank": 14
+          },
+          {
+            "name": "Audio",
+            "score": 4.2049180327869,
+            "raw_score": 4.2049180327869,
+            "rank": 4
+          }
+        ],
+        "score": 3.931693989071,
+        "rating_count": 122,
+        "id": 476728,
+        "rank": 7,
+        "raw_score": 3.931693989071
+      },
+      "entryData": {
+        "rating_count": 122,
+        "created_at": "2019-08-31 17:58:43",
+        "coolness": 56,
+        "id": 87065,
+        "url": "/jam/cgj/rate/476728",
+        "contributors": [
+          {
+            "name": "FlashyGoblin",
+            "url": "https://flashygoblin.itch.io"
+          },
+          {
+            "name": "sailawayent",
+            "url": "https://sailawayent.itch.io"
+          },
+          {
+            "name": "Episkeptis",
+            "url": "https://episkeptis.itch.io"
+          },
+          {
+            "name": "audments_art",
+            "url": "https://audments-art.itch.io"
+          }
+        ],
+        "game": {
+          "cover_color": "#000000",
+          "id": 476728,
+          "user": {
+            "name": "FlashyGoblin",
+            "url": "https://flashygoblin.itch.io",
+            "id": 626534
+          },
+          "url": "https://flashygoblin.itch.io/the-race",
+          "short_text": "Your only objective is to RACE! Wink! Wink!",
+          "title": "The Race: A Track of Lies!",
+          "platforms": [
+            "windows",
+            "osx",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0NDkwOTkuanBn/300x240%23c/t0LgCZ.jpg"
+        }
+      },
+      "details": {
+        "title": "The Race: A Track of Lies!",
+        "description": "\n( This game was created in one week for the Community Game Jam 2019, where the theme was \"The game is a liar\".  )\nIn this game, your only objective is to RACE! Wink! Wink!\nSelect your vehicle and get ready to beat the competition... though your competition may not be where you expect to find it.\nThe Race was made from start to finish in a week as part of the Community Game Jam 2019, under the theme \"The Game is a Liar\". We had a ton of fun! Please try out this little project we've created and share your thoughts!\nTeam:\n\n\n\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDc2NzI4LzI0NTAxODUuanBn/original/kJ3vcY.jpg",
+          "https://img.itch.zone/aW1hZ2UvNDc2NzI4LzI0NTAxODYuanBn/original/VooUJn.jpg",
+          "https://img.itch.zone/aW1hZ2UvNDc2NzI4LzI0NTAxODcuanBn/original/K%2BNH0k.jpg",
+          "https://img.itch.zone/aW1hZ2UvNDc2NzI4LzI0NTAxODguanBn/original/0BXCBC.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS",
+          "Rating": "Rated 2.8 out of 5 stars(4 total ratings)",
+          "Authors": "FlashyGoblin, sailawayent, Episkeptis, audments_art",
+          "Genre": "Platformer, Racing",
+          "Made with": "Unity",
+          "Tags": "2D, Cyberpunk",
+          "Average session": "A few seconds",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 475207,
+      "gameUrl": "https://clemonades.itch.io/round-o-emporium",
+      "overallRank": 13,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NDQ0NTMuZ2lm/300x240%23c/TwRpjM.gif",
+        "contributors": [
+          {
+            "name": "clemonades",
+            "id": 35338
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/475207",
+        "title": "Round-o Emporium",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 3.8965517241379,
+            "raw_score": 3.8965517241379,
+            "rank": 19
+          },
+          {
+            "name": "Fun",
+            "score": 3.7931034482759,
+            "raw_score": 3.7931034482759,
+            "rank": 21
+          },
+          {
+            "name": "Innovation",
+            "score": 3.3448275862069,
+            "raw_score": 3.3448275862069,
+            "rank": 102
+          },
+          {
+            "name": "Theme",
+            "score": 4.2413793103448,
+            "raw_score": 4.2413793103448,
+            "rank": 6
+          },
+          {
+            "name": "Graphics",
+            "score": 4.2413793103448,
+            "raw_score": 4.2413793103448,
+            "rank": 24
+          },
+          {
+            "name": "Audio",
+            "score": 3.4137931034483,
+            "raw_score": 3.4137931034483,
+            "rank": 126
+          }
+        ],
+        "score": 3.8218390804598,
+        "rating_count": 29,
+        "id": 475207,
+        "rank": 13,
+        "raw_score": 3.8218390804598
+      },
+      "entryData": {
+        "rating_count": 29,
+        "created_at": "2019-08-30 16:30:02",
+        "coolness": 27,
+        "id": 86350,
+        "url": "/jam/cgj/rate/475207",
+        "game": {
+          "cover_color": "#050e18",
+          "url": "https://clemonades.itch.io/round-o-emporium",
+          "short_text": "Run your new shop with the help of your lying and deceitful robot Pal",
+          "user": {
+            "name": "clemonades",
+            "url": "https://clemonades.itch.io",
+            "id": 35338
+          },
+          "platforms": [
+            "web"
+          ],
+          "title": "Round-o Emporium",
+          "id": 475207,
+          "gif_cover": "https://img.itch.zone/aW1nLzI0NDQ0NTMuZ2lm/original/tbvVds.gif",
+          "cover": "https://img.itch.zone/aW1nLzI0NDQ0NTMuZ2lm/300x240%23c/TwRpjM.gif"
+        }
+      },
+      "details": {
+        "title": "Round-o Emporium",
+        "description": "Run your new shop with the help of your lying and deceitful robot Pal.\nmove with arrow keys or wasd\ninteract with spacebar\nMade for the Community Game Jam with the theme \"The game is a Lie\"Art, Code, Music created by Kyle Clemons",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDc1MjA3LzI0NDQ0NDYuZ2lm/original/s6r7ZT.gif",
+          "https://img.itch.zone/aW1hZ2UvNDc1MjA3LzI0NDQ0NDkuZ2lm/original/9qyHyx.gif",
+          "https://img.itch.zone/aW1hZ2UvNDc1MjA3LzI0NDQ0NDcuZ2lm/original/X8ZMhm.gif",
+          "https://img.itch.zone/aW1hZ2UvNDc1MjA3LzI0NDQ0NDguZ2lm/original/zN%2Btb0.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.2 out of 5 stars(9 total ratings)",
+          "Author": "clemonades",
+          "Genre": "Puzzle",
+          "Tags": "2D, Pixel Art, Retro"
+        }
+      }
+    },
+    {
+      "gameId": 476893,
+      "gameUrl": "https://dapper-dino.itch.io/the-game-isnt-a-liar",
+      "overallRank": 480,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NTE1MjEucG5n/300x240%23c/kt6Ze3.png",
+        "contributors": [
+          {
+            "name": "Dapper Dino",
+            "id": 1549480
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/476893",
+        "title": "The Game Isn't A Liar",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 2.5384615384615,
+            "raw_score": 2.5384615384615,
+            "rank": 536
+          },
+          {
+            "name": "Fun",
+            "score": 2.6153846153846,
+            "raw_score": 2.6153846153846,
+            "rank": 478
+          },
+          {
+            "name": "Innovation",
+            "score": 2.4615384615385,
+            "raw_score": 2.4615384615385,
+            "rank": 489
+          },
+          {
+            "name": "Theme",
+            "score": 4.1538461538462,
+            "raw_score": 4.1538461538462,
+            "rank": 9
+          },
+          {
+            "name": "Graphics",
+            "score": 1.9230769230769,
+            "raw_score": 1.9230769230769,
+            "rank": 746
+          },
+          {
+            "name": "Audio",
+            "score": 2.0769230769231,
+            "raw_score": 2.0769230769231,
+            "rank": 581
+          }
+        ],
+        "score": 2.6282051282051,
+        "rating_count": 13,
+        "id": 476893,
+        "rank": 480,
+        "raw_score": 2.6282051282051
+      },
+      "entryData": {
+        "rating_count": 13,
+        "created_at": "2019-08-31 16:45:08",
+        "coolness": 0,
+        "id": 86929,
+        "url": "/jam/cgj/rate/476893",
+        "game": {
+          "url": "https://dapper-dino.itch.io/the-game-isnt-a-liar",
+          "user": {
+            "name": "Dapper Dino",
+            "url": "https://dapper-dino.itch.io",
+            "id": 1549480
+          },
+          "id": 476893,
+          "short_text": "A Platformer Where You Can't Always Trust What The Game Tells You.",
+          "title": "The Game Isn't A Liar",
+          "platforms": [
+            "windows",
+            "osx"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0NTE1MjEucG5n/300x240%23c/kt6Ze3.png"
+        }
+      },
+      "details": {
+        "title": "The Game Isn't A Liar",
+        "description": "A Platformer Where You Can't Always Trust What The Game Tells You.\nShort (8 Levels) but Challenging.\nFeel Free To Check Out My Social Media:\nYouTube: https://www.youtube.com/c/dapperdinocodingtutorials\nTwitch: https://www.twitch.tv/dapper_dino\nGitHub: https://github.com/DapperDino\nTwitter: https://twitter.com/dapperdino4\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDc2ODkzLzI0NTE0MzAucG5n/original/pFm3cn.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2ODkzLzI0NTE0MzYucG5n/original/Aco98b.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2ODkzLzI0NTE0MzgucG5n/original/IQ8HI3.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Author": "Dapper Dino",
+          "Genre": "Platformer, Puzzle",
+          "Made with": "Unity, Blender, Bfxr",
+          "Tags": "Ludum Dare 44, Short, Singleplayer",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Keyboard",
+          "Links": "YouTube, Twitch, Twitter/X, Patreon, Source code"
+        }
+      }
+    },
+    {
+      "gameId": 477164,
+      "gameUrl": "https://borjan1peovski.itch.io/personality-test",
+      "overallRank": 152,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NTE3MTgucG5n/300x240%23c/pVEDWM.png",
+        "contributors": [
+          {
+            "name": "borjan1peovski",
+            "id": 1187531
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/477164",
+        "title": "Personality Test",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 3,
+            "raw_score": 3,
+            "rank": 334
+          },
+          {
+            "name": "Fun",
+            "score": 3.2,
+            "raw_score": 3.2,
+            "rank": 217
+          },
+          {
+            "name": "Innovation",
+            "score": 2.5,
+            "raw_score": 2.5,
+            "rank": 469
+          },
+          {
+            "name": "Theme",
+            "score": 4.1,
+            "raw_score": 4.1,
+            "rank": 13
+          },
+          {
+            "name": "Graphics",
+            "score": 3.7,
+            "raw_score": 3.7,
+            "rank": 148
+          },
+          {
+            "name": "Audio",
+            "score": 3,
+            "raw_score": 3,
+            "rank": 252
+          }
+        ],
+        "score": 3.25,
+        "rating_count": 10,
+        "id": 477164,
+        "rank": 152,
+        "raw_score": 3.25
+      },
+      "entryData": {
+        "rating_count": 10,
+        "created_at": "2019-08-31 18:55:31",
+        "coolness": 14,
+        "id": 87372,
+        "url": "/jam/cgj/rate/477164",
+        "game": {
+          "url": "https://borjan1peovski.itch.io/personality-test",
+          "user": {
+            "name": "borjan1peovski",
+            "url": "https://borjan1peovski.itch.io",
+            "id": 1187531
+          },
+          "id": 477164,
+          "short_text": "A game made in under 7 days for the Community Game Jam 2019.",
+          "title": "Personality Test",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0NTE3MTgucG5n/300x240%23c/pVEDWM.png"
+        }
+      },
+      "details": {
+        "title": "Personality Test",
+        "description": "A game made in under 7 days for the Community Game Jam 2019.Theme: \"The game is a liar\"",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzI0NTE3MTgucG5n/original/BPkwaS.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "borjan1peovski",
+          "Made with": "Unity"
+        }
+      }
+    },
+    {
+      "gameId": 477138,
+      "gameUrl": "https://aldravan.itch.io/fake-prin",
+      "overallRank": 65,
+      "topCategories": [
+        "Graphics",
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NTExNDgucG5n/300x240%23c/UFPtvW.png",
+        "contributors": [
+          {
+            "name": "Aldravan",
+            "id": 1114957
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/477138",
+        "title": "Fake Prin",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 3.3076923076923,
+            "raw_score": 3.3076923076923,
+            "rank": 191
+          },
+          {
+            "name": "Fun",
+            "score": 3,
+            "raw_score": 3,
+            "rank": 290
+          },
+          {
+            "name": "Innovation",
+            "score": 2.3846153846154,
+            "raw_score": 2.3846153846154,
+            "rank": 540
+          },
+          {
+            "name": "Theme",
+            "score": 3.3846153846154,
+            "raw_score": 3.3846153846154,
+            "rank": 179
+          },
+          {
+            "name": "Graphics",
+            "score": 4.8461538461538,
+            "raw_score": 4.8461538461538,
+            "rank": 1
+          },
+          {
+            "name": "Audio",
+            "score": 4.2307692307692,
+            "raw_score": 4.2307692307692,
+            "rank": 2
+          }
+        ],
+        "score": 3.525641025641,
+        "rating_count": 13,
+        "id": 477138,
+        "rank": 65,
+        "raw_score": 3.525641025641
+      },
+      "entryData": {
+        "rating_count": 13,
+        "created_at": "2019-08-31 18:27:03",
+        "coolness": 0,
+        "id": 87152,
+        "url": "/jam/cgj/rate/477138",
+        "game": {
+          "url": "https://aldravan.itch.io/fake-prin",
+          "user": {
+            "name": "Aldravan",
+            "url": "https://aldravan.itch.io",
+            "id": 1114957
+          },
+          "id": 477138,
+          "short_text": "It may be a walking simulator. But it's a beautiful walking simulator!",
+          "title": "Fake Prin",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0NTExNDgucG5n/300x240%23c/UFPtvW.png"
+        }
+      },
+      "details": {
+        "title": "Fake Prin",
+        "description": "",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDc3MTM4LzI0NTE1NDEucG5n/original/xyXA83.png",
+          "https://img.itch.zone/aW1hZ2UvNDc3MTM4LzI0NTE1NDMucG5n/original/Az2JPK.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Rating": "Rated 2.0 out of 5 stars(1 total ratings)",
+          "Author": "Aldravan"
+        }
+      }
+    },
+    {
+      "gameId": 476121,
+      "gameUrl": "https://navrcl.itch.io/the-tutorial",
+      "overallRank": 40,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NDU3MTMuZ2lm/300x240%23c/1w3BBN.gif",
+        "contributors": [
+          {
+            "name": "Lukas",
+            "id": 1686455
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/476121",
+        "title": "The Tutorial",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 3.5121951219512,
+            "raw_score": 3.5121951219512,
+            "rank": 103
+          },
+          {
+            "name": "Fun",
+            "score": 3.4024390243902,
+            "raw_score": 3.4024390243902,
+            "rank": 113
+          },
+          {
+            "name": "Innovation",
+            "score": 2.780487804878,
+            "raw_score": 2.780487804878,
+            "rank": 330
+          },
+          {
+            "name": "Theme",
+            "score": 3.7317073170732,
+            "raw_score": 3.7317073170732,
+            "rank": 73
+          },
+          {
+            "name": "Graphics",
+            "score": 4.5,
+            "raw_score": 4.5,
+            "rank": 2
+          },
+          {
+            "name": "Audio",
+            "score": 3.7682926829268,
+            "raw_score": 3.7682926829268,
+            "rank": 45
+          }
+        ],
+        "score": 3.6158536585366,
+        "rating_count": 82,
+        "id": 476121,
+        "rank": 40,
+        "raw_score": 3.6158536585366
+      },
+      "entryData": {
+        "rating_count": 82,
+        "created_at": "2019-08-30 22:41:16",
+        "coolness": 54,
+        "id": 86426,
+        "url": "/jam/cgj/rate/476121",
+        "game": {
+          "gif_cover": "https://img.itch.zone/aW1nLzI0NDU3MTMuZ2lm/original/DtuQ%2Bm.gif",
+          "short_text": "Use your intuition",
+          "user": {
+            "name": "Lukas",
+            "url": "https://navrcl.itch.io",
+            "id": 1686455
+          },
+          "url": "https://navrcl.itch.io/the-tutorial",
+          "platforms": [
+            "windows",
+            "osx"
+          ],
+          "title": "The Tutorial",
+          "id": 476121,
+          "cover": "https://img.itch.zone/aW1nLzI0NDU3MTMuZ2lm/300x240%23c/1w3BBN.gif"
+        }
+      },
+      "details": {
+        "title": "The Tutorial",
+        "description": "Thank you for stopping by.\nThis game was made for Community Game Jam in one week.\nTheme: The Game is a Liar.\nGenre:\nKind of a puzzle platformer with a little bit of humor.\nStory:\nYou play as a small creature trying to change its destiny.\nFeel free to give us honest feedback. We've made a few games before but this was our first game jam and we're looking forward to any opinions.\nYou can follow us on Twitter or FacebookPatch notes v1.02:\n- Added checkpoint system (kind of)\n- Fixed some platforms and stuff\n- Some little tweaks here and there\n\nPatch notes v1.01:\n- Added a Mac build\n- Minor tweaks",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDc2MTIxLzI0NDU3MTQucG5n/original/6j7vob.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2MTIxLzI0NDU3MTUucG5n/original/XUH0VO.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2MTIxLzI0NDU3MTYucG5n/original/%2B0UoVh.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS",
+          "Rating": "Rated 4.1 out of 5 stars(7 total ratings)",
+          "Author": "Lukas",
+          "Genre": "Platformer, Puzzle",
+          "Made with": "Unity",
+          "Tags": "2D, Cute, Funny, Game Jam, My First Game Jam, parallax, Perma Death, Puzzle-Platformer"
+        }
+      }
+    },
+    {
+      "gameId": 475834,
+      "gameUrl": "https://moolordking.itch.io/candour",
+      "overallRank": 19,
+      "topCategories": [
+        "Graphics",
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NDQ3NDMucG5n/300x240%23c/IC7lpq.png",
+        "contributors": [
+          {
+            "name": "Malachi Bance",
+            "id": 916913
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/475834",
+        "title": "Candour",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 3.7898550724638,
+            "raw_score": 3.7898550724638,
+            "rank": 35
+          },
+          {
+            "name": "Fun",
+            "score": 3.3623188405797,
+            "raw_score": 3.3623188405797,
+            "rank": 136
+          },
+          {
+            "name": "Innovation",
+            "score": 3.3550724637681,
+            "raw_score": 3.3550724637681,
+            "rank": 96
+          },
+          {
+            "name": "Theme",
+            "score": 3.5289855072464,
+            "raw_score": 3.5289855072464,
+            "rank": 132
+          },
+          {
+            "name": "Graphics",
+            "score": 4.4492753623188,
+            "raw_score": 4.4492753623188,
+            "rank": 3
+          },
+          {
+            "name": "Audio",
+            "score": 4.0652173913043,
+            "raw_score": 4.0652173913043,
+            "rank": 10
+          }
+        ],
+        "score": 3.7584541062802,
+        "rating_count": 138,
+        "id": 475834,
+        "rank": 19,
+        "raw_score": 3.7584541062802
+      },
+      "entryData": {
+        "rating_count": 138,
+        "created_at": "2019-08-31 11:59:40",
+        "coolness": 63,
+        "id": 86634,
+        "url": "/jam/cgj/rate/475834",
+        "game": {
+          "cover_color": "#873F35",
+          "id": 475834,
+          "user": {
+            "name": "Malachi Bance",
+            "url": "https://moolordking.itch.io",
+            "id": 916913
+          },
+          "url": "https://moolordking.itch.io/candour",
+          "short_text": "A mystical adventure game.",
+          "title": "Candour",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0NDQ3NDMucG5n/300x240%23c/IC7lpq.png"
+        }
+      },
+      "details": {
+        "title": "Candour",
+        "description": "\nA short adventure game for the Community Game Jam. Enroll yourself in the mystical world of Candour.  \nEnjoy exploring a game filled with secrets and regret.\nExtract the zip and click \"Candour\"",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDc1ODM0LzI0NDQxODcucG5n/original/Q2FYnP.png",
+          "https://img.itch.zone/aW1hZ2UvNDc1ODM0LzI0NDQyMDkucG5n/original/M6NOGy.png",
+          "https://img.itch.zone/aW1hZ2UvNDc1ODM0LzI0NDQyMTEucG5n/original/bZMKQb.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.0 out of 5 stars(4 total ratings)",
+          "Author": "Malachi Bance",
+          "Genre": "Adventure",
+          "Made with": "Unity",
+          "Tags": "cgj, day, liar, lie, night, story"
+        }
+      }
+    },
+    {
+      "gameId": 476025,
+      "gameUrl": "https://djokix.itch.io/mendacium",
+      "overallRank": 17,
+      "topCategories": [
+        "Graphics",
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NDUwMzQucG5n/300x240%23c/j0fIlR.png",
+        "contributors": [
+          {
+            "name": "The Caecus",
+            "id": 1727884
+          },
+          {
+            "name": "NicolaeD",
+            "id": 1727950
+          },
+          {
+            "name": "Lukianze",
+            "id": 1733412
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/476025",
+        "title": "Mendacium",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 3.5952380952381,
+            "raw_score": 3.5952380952381,
+            "rank": 73
+          },
+          {
+            "name": "Fun",
+            "score": 3.4285714285714,
+            "raw_score": 3.4285714285714,
+            "rank": 106
+          },
+          {
+            "name": "Innovation",
+            "score": 3.2380952380952,
+            "raw_score": 3.2380952380952,
+            "rank": 148
+          },
+          {
+            "name": "Theme",
+            "score": 3.6904761904762,
+            "raw_score": 3.6904761904762,
+            "rank": 82
+          },
+          {
+            "name": "Graphics",
+            "score": 4.4047619047619,
+            "raw_score": 4.4047619047619,
+            "rank": 5
+          },
+          {
+            "name": "Audio",
+            "score": 4.2380952380952,
+            "raw_score": 4.2380952380952,
+            "rank": 1
+          }
+        ],
+        "score": 3.765873015873,
+        "rating_count": 42,
+        "id": 476025,
+        "rank": 17,
+        "raw_score": 3.765873015873
+      },
+      "entryData": {
+        "rating_count": 42,
+        "created_at": "2019-08-31 16:33:04",
+        "coolness": 62,
+        "id": 86904,
+        "url": "/jam/cgj/rate/476025",
+        "contributors": [
+          {
+            "name": "The Caecus",
+            "url": "https://djokix.itch.io"
+          },
+          {
+            "name": "NicolaeD",
+            "url": "https://nicolaed.itch.io"
+          },
+          {
+            "name": "Lukianze",
+            "url": "https://lukianze.itch.io"
+          }
+        ],
+        "game": {
+          "cover_color": "#000000",
+          "id": 476025,
+          "user": {
+            "name": "The Caecus",
+            "url": "https://djokix.itch.io",
+            "id": 1727884
+          },
+          "url": "https://djokix.itch.io/mendacium",
+          "short_text": "Dark, atmospheric and story driven mini metroidvania game. Publication for CGJ 2019",
+          "title": "Mendacium",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0NDUwMzQucG5n/300x240%23c/j0fIlR.png"
+        }
+      },
+      "details": {
+        "title": "Mendacium",
+        "description": "\nExplore Mendacium, a dark, mysterious world infected with depression, and uncover the truth and the fate of a sightless young boy, Caecus.\nIn order to solve the mystery of the game, it is necessary to read all of the dialogues carefully. When the player is killed and sent back to the main menu, it does not count as an actual ending, since there are only two legit ones and you will get an end credit scene if you manage to get one of them.If you are really stuck, just remember the theme of the jam.\n\nThis game is a submission for  CGJ 2019 for the theme \"Game is a Liar\". Everything, including Art, Code, Music, Sounds and Animations were created during 7 days period of the game jam.\n\n\n\nThe Controls:\nMove Left and Right: \"A\" and \"D\"Jump: \"W\", hold \"W\" to jump higherMap: \"M\"\n\n\n\nOriginal Soundtrack:\n\nhttps://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/858477299&color=%23121516&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\n\n\nTeam Caecus (@teamcaecus)\nDjokix: Art, Story, Design, Voice Acting @mihicdjordjeOcin: Programming @nicolaedamaschinLukianze: Music, SFX, Voice Acting @lukianze\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDc2MDI1LzI0NDUxOTMucG5n/original/RcJWiJ.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2MDI1LzI0NDUwNDAucG5n/original/ZbAm8O.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2MDI1LzI0NDUwNTUucG5n/original/uoZhpJ.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2MDI1LzI0NDUwNTYucG5n/original/HwaT2%2B.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2MDI1LzI0NDUwNTgucG5n/original/3AmYtQ.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.3 out of 5 stars(3 total ratings)",
+          "Authors": "The Caecus, NicolaeD, Lukianze",
+          "Genre": "Adventure, Platformer, Puzzle",
+          "Tags": "Atmospheric, Casual, Dark, Multiple Endings, Music, Mystery",
+          "Average session": "A few minutes"
+        }
+      }
+    },
+    {
+      "gameId": 477071,
+      "gameUrl": "https://chandymandy.itch.io/blindmage",
+      "overallRank": 169,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NTA5NjEucG5n/300x240%23c/kuClwl.png",
+        "contributors": [
+          {
+            "name": "Chandru Suresh",
+            "id": 1218174
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/477071",
+        "title": "BlindMage",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 3.0857142857143,
+            "raw_score": 3.0857142857143,
+            "rank": 306
+          },
+          {
+            "name": "Fun",
+            "score": 3.2285714285714,
+            "raw_score": 3.2285714285714,
+            "rank": 198
+          },
+          {
+            "name": "Innovation",
+            "score": 2.8857142857143,
+            "raw_score": 2.8857142857143,
+            "rank": 276
+          },
+          {
+            "name": "Theme",
+            "score": 3,
+            "raw_score": 3,
+            "rank": 320
+          },
+          {
+            "name": "Graphics",
+            "score": 4.4,
+            "raw_score": 4.4,
+            "rank": 6
+          },
+          {
+            "name": "Audio",
+            "score": 2.7714285714286,
+            "raw_score": 2.7714285714286,
+            "rank": 346
+          }
+        ],
+        "score": 3.2285714285714,
+        "rating_count": 35,
+        "id": 477071,
+        "rank": 169,
+        "raw_score": 3.2285714285714
+      },
+      "entryData": {
+        "rating_count": 35,
+        "created_at": "2019-08-31 18:05:13",
+        "coolness": 17,
+        "id": 87087,
+        "url": "/jam/cgj/rate/477071",
+        "game": {
+          "cover_color": "#191a22",
+          "id": 477071,
+          "user": {
+            "name": "Chandru Suresh",
+            "url": "https://chandymandy.itch.io",
+            "id": 1218174
+          },
+          "url": "https://chandymandy.itch.io/blindmage",
+          "short_text": "Dont let your eyes deceive you",
+          "title": "BlindMage",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0NTA5NjEucG5n/300x240%23c/kuClwl.png"
+        }
+      },
+      "details": {
+        "title": "BlindMage",
+        "description": "Welcome player, you play as a mage in a retro style platformer, killing skeletons and avoiding obstacles to reach the end. However, beware the path you take to get there.\nCredits to zapsplats (sound) & fontenddev.com (font)\nControls:\nAD/ left-right arrow to move player.Z to jumpC to charge/attackX action buttonM to mute music (advisable very annoying :))R to reset levelShift-R to reset game\n========SPOILERS==DONT READ BEFORE FIRST ATTEMPT=========\nIf you're struggling with this half baked mess:\nTravel to the left on the first level to discover the \"all seeing eye\" which grants you to see a new perspective (press X). You'll discover that what you once knew, may shock you.\nThose skeletons you once eagery killed, are stuck in a hellish limbo and you must save them (press X to revive when close).\n\nGoodluck",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDc3MDcxLzI0NTMxMzQucG5n/original/Yx%2FiqH.png",
+          "https://img.itch.zone/aW1hZ2UvNDc3MDcxLzI0NTMxMzMucG5n/original/T9%2FeR2.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 2.0 out of 5 stars(1 total ratings)",
+          "Author": "Chandru Suresh",
+          "Genre": "Platformer",
+          "Made with": "Unity",
+          "Tags": "2D, 8, brackeys, btp, cgj, communityjam, fant, Magic, ret"
+        }
+      }
+    },
+    {
+      "gameId": 475259,
+      "gameUrl": "https://supriseorb.itch.io/wlw",
+      "overallRank": 30,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NTQxNDYucG5n/300x240%23c/6H%2Bpha.png",
+        "contributors": [
+          {
+            "name": "SupriseOrb",
+            "id": 1318144
+          },
+          {
+            "name": "Rezi",
+            "id": 753856
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/475259",
+        "title": "Water? Love! Wine?!",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 3.375,
+            "raw_score": 3.375,
+            "rank": 165
+          },
+          {
+            "name": "Fun",
+            "score": 3.375,
+            "raw_score": 3.375,
+            "rank": 125
+          },
+          {
+            "name": "Innovation",
+            "score": 3.375,
+            "raw_score": 3.375,
+            "rank": 89
+          },
+          {
+            "name": "Theme",
+            "score": 3.5,
+            "raw_score": 3.5,
+            "rank": 135
+          },
+          {
+            "name": "Graphics",
+            "score": 4.375,
+            "raw_score": 4.375,
+            "rank": 9
+          },
+          {
+            "name": "Audio",
+            "score": 4,
+            "raw_score": 4,
+            "rank": 17
+          }
+        ],
+        "score": 3.6666666666667,
+        "rating_count": 8,
+        "id": 475259,
+        "rank": 30,
+        "raw_score": 3.6666666666667
+      },
+      "entryData": {
+        "rating_count": 8,
+        "created_at": "2019-08-31 18:43:29",
+        "coolness": 10,
+        "id": 87251,
+        "url": "/jam/cgj/rate/475259",
+        "contributors": [
+          {
+            "name": "SupriseOrb",
+            "url": "https://supriseorb.itch.io"
+          },
+          {
+            "name": "Rezi",
+            "url": "https://rezirae.itch.io"
+          }
+        ],
+        "game": {
+          "cover_color": "#eeeeee",
+          "id": 475259,
+          "user": {
+            "name": "SupriseOrb",
+            "url": "https://supriseorb.itch.io",
+            "id": 1318144
+          },
+          "url": "https://supriseorb.itch.io/wlw",
+          "short_text": "OWO UWU >~< ^^ o.o Come play with us~",
+          "title": "Water? Love! Wine?!",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0NTQxNDYucG5n/300x240%23c/6H%2Bpha.png"
+        }
+      },
+      "details": {
+        "title": "Water? Love! Wine?!",
+        "description": "About\nHow do you tell the love of your life how you feel about them? Well sometimes, you need a little help. Water? Love! Wine?! is a short game where you help Rheis build up the courage to talk to their crush Flora during a very special party. The only problem? Whether by a lack of sufficient sleep, something or another from the party, or a general anxiety of talking to others, Rheis isn’t quite all there. \nAn entry for the first Community Jam on Itch, WLW tackles the theme of “The Game is A Liar” by not telling the whole truth of the situation at hand. The intention is to obscure what is actually happening for comedic effect.\nControlsWASD to moveMouse to interactESC to pause\nTeamSupriseOrb - Programming, Art, ConceptRiley Park - DialogueKristen Campbell - Audio\nReferences to alcohol, but no consumptions shown. The Team does not condone underage or excessive drinking. Please take care of yourselves, get plenty of sleep, and drink water, not alcohol.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDc1MjU5LzI0NTQxMzkucG5n/original/qEDnk7.png",
+          "https://img.itch.zone/aW1hZ2UvNDc1MjU5LzI0NTQxMzcucG5n/original/rNDtr9.png",
+          "https://img.itch.zone/aW1hZ2UvNDc1MjU5LzI0NTQxNDAucG5n/original/fFEhaE.png",
+          "https://img.itch.zone/aW1hZ2UvNDc1MjU5LzI0NTQxMzgucG5n/original/L4glh3.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Authors": "SupriseOrb, Rezi",
+          "Made with": "Unity",
+          "Tags": "2D, Cute, LGBTQIA, pastel"
+        }
+      }
+    },
+    {
+      "gameId": 476961,
+      "gameUrl": "https://funkypepe.itch.io/we-dont-lie-corp",
+      "overallRank": 197,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NTEwNzQucG5n/300x240%23c/5UZB68.png",
+        "contributors": [
+          {
+            "name": "Funky Pepe",
+            "id": 1734639
+          },
+          {
+            "name": "Nikkocai",
+            "id": 1759982
+          },
+          {
+            "name": "Max Tales",
+            "id": 6460140
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/476961",
+        "title": "We Don’t Lie Corp.",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 2.625,
+            "raw_score": 2.625,
+            "rank": 494
+          },
+          {
+            "name": "Fun",
+            "score": 2.625,
+            "raw_score": 2.625,
+            "rank": 464
+          },
+          {
+            "name": "Innovation",
+            "score": 2.375,
+            "raw_score": 2.375,
+            "rank": 543
+          },
+          {
+            "name": "Theme",
+            "score": 3.5,
+            "raw_score": 3.5,
+            "rank": 135
+          },
+          {
+            "name": "Graphics",
+            "score": 4.375,
+            "raw_score": 4.375,
+            "rank": 9
+          },
+          {
+            "name": "Audio",
+            "score": 3.625,
+            "raw_score": 3.625,
+            "rank": 72
+          }
+        ],
+        "score": 3.1875,
+        "rating_count": 8,
+        "id": 476961,
+        "rank": 197,
+        "raw_score": 3.1875
+      },
+      "entryData": {
+        "rating_count": 8,
+        "created_at": "2019-08-31 17:24:27",
+        "coolness": 4,
+        "id": 86987,
+        "url": "/jam/cgj/rate/476961",
+        "contributors": [
+          {
+            "name": "Funky Pepe",
+            "url": "https://funkypepe.itch.io"
+          },
+          {
+            "name": "Nikkocai",
+            "url": "https://nikkocai.itch.io"
+          },
+          {
+            "name": "Max Tales",
+            "url": "https://max-tales.itch.io"
+          }
+        ],
+        "game": {
+          "cover_color": "#eeeeee",
+          "id": 476961,
+          "user": {
+            "name": "Funky Pepe",
+            "url": "https://funkypepe.itch.io",
+            "id": 1734639
+          },
+          "url": "https://funkypepe.itch.io/we-dont-lie-corp",
+          "short_text": "You are not welcome to our installations… or maybe it’s the other way around?",
+          "title": "We Don’t Lie Corp.",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0NTEwNzQucG5n/300x240%23c/5UZB68.png"
+        }
+      },
+      "details": {
+        "title": "We Don’t Lie Corp.",
+        "description": "\nYou are awakened inside We Don’t lie Corp. Installations, your only goal is to get out of there. But here, you can trust nobody. Everything is lies, everyone lies, there’s no honest one in the entire building. \nWe Don’t lie Corp. is a plat former RPG where you have to sort your way out by reverting what everyone says. This game was made for the #ComunityGameJam 2019It’s actually mine and my team’s first take on a Game Jam before, we didn’t went too crazy because of that (we did include some references though) , but we had a lot of fun, and hope you can enjoy playing our game as well!If you are interested, you can follow us on twitter or instagram:@maxdigitaldraws\n@defnikk / @_nikkocai\n @funky_pepe / @funky_pepe \nThanks for passing by!\nThe jam is over and we get #9 rank in graphics, #72 in audio and #197 overall, that's awesome and we're so happy about that!. Thank you so much!\nOST: https://soundcloud.com/funky_pepe/sets/we-dont-lie-corp-music",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDc2OTYxLzI0NTA5MzcucG5n/original/IU98HS.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2OTYxLzI0NTA5MzkucG5n/original/UtLrOn.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2OTYxLzI0NTA5MzgucG5n/original/HkGGyQ.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2OTYxLzI0NTExMDQucG5n/original/EWl%2BYz.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Authors": "Funky Pepe, Nikkocai, Max Tales",
+          "Genre": "Adventure, Platformer, Role Playing",
+          "Tags": "2D, comunitygamejam, Pixel Art"
+        }
+      }
+    },
+    {
+      "gameId": 475872,
+      "gameUrl": "https://juanjesusbr00.itch.io/backwards",
+      "overallRank": 14,
+      "topCategories": [
+        "Graphics",
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NDQyODEuZ2lm/300x240%23c/XHbgqh.gif",
+        "contributors": [
+          {
+            "name": "JJ",
+            "id": 1577908
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/475872",
+        "title": "Backwards",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 3.7457627118644,
+            "raw_score": 3.7457627118644,
+            "rank": 45
+          },
+          {
+            "name": "Fun",
+            "score": 3.3728813559322,
+            "raw_score": 3.3728813559322,
+            "rank": 127
+          },
+          {
+            "name": "Innovation",
+            "score": 3.5593220338983,
+            "raw_score": 3.5593220338983,
+            "rank": 46
+          },
+          {
+            "name": "Theme",
+            "score": 3.5932203389831,
+            "raw_score": 3.5932203389831,
+            "rank": 110
+          },
+          {
+            "name": "Graphics",
+            "score": 4.3728813559322,
+            "raw_score": 4.3728813559322,
+            "rank": 11
+          },
+          {
+            "name": "Audio",
+            "score": 4.0847457627119,
+            "raw_score": 4.0847457627119,
+            "rank": 9
+          }
+        ],
+        "score": 3.7881355932203,
+        "rating_count": 59,
+        "id": 475872,
+        "rank": 14,
+        "raw_score": 3.7881355932203
+      },
+      "entryData": {
+        "rating_count": 59,
+        "created_at": "2019-08-30 22:00:13",
+        "coolness": 65,
+        "id": 86419,
+        "url": "/jam/cgj/rate/475872",
+        "game": {
+          "cover_color": "#29403e",
+          "url": "https://juanjesusbr00.itch.io/backwards",
+          "short_text": "Uncover the secret the game itself is hiding. #14 - Community Game Jam 2019",
+          "user": {
+            "name": "JJ",
+            "url": "https://juanjesusbr00.itch.io",
+            "id": 1577908
+          },
+          "platforms": [
+            "web"
+          ],
+          "title": "Backwards",
+          "id": 475872,
+          "gif_cover": "https://img.itch.zone/aW1nLzI0NDQyODEuZ2lm/original/ETZab0.gif",
+          "cover": "https://img.itch.zone/aW1nLzI0NDQyODEuZ2lm/300x240%23c/XHbgqh.gif"
+        }
+      },
+      "details": {
+        "title": "Backwards",
+        "description": "\nMade for the Community Game Jam 2019\n9th place in Audio\n11th place in Graphics\n14th place overall\n\nThis is a short story in which you as the player and the game itself are the main characters. Uncover the secret that it is hiding. Can you trust the game? What does it really want? And why is it telling you lies to hide it?\n\nWATERCOLOR LOOK\nAll the sprites for the game were made digitally in Krita simulating the look of watercolor paintings. \n\n\n\nAN ORIGINAL SOUNDTRACK\nThe soundtrack for this game was made during the jam using SoundBrigde. You can listen to it here!\nhttps://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/858233867&color=%2375dbb6&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\nFIVE INTENSE MINUTES\nA long story told in just five minutes. A short but intense experience resembling the way shortfilms tell a story, but with the advantages of an interactive media, which also takes an important role in the story itself.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDc1ODcyLzI0NDM5OTkucG5n/original/uuHoHh.png",
+          "https://img.itch.zone/aW1hZ2UvNDc1ODcyLzI0NDQwMDIucG5n/original/aM5XMl.png",
+          "https://img.itch.zone/aW1hZ2UvNDc1ODcyLzI0NDQwMDcucG5n/original/a1nXdc.png",
+          "https://img.itch.zone/aW1hZ2UvNDc1ODcyLzI0NDQwMDUucG5n/original/pdgdtf.png",
+          "https://img.itch.zone/aW1hZ2UvNDc1ODcyLzI0NDQwMDMucG5n/original/KS2lAq.png",
+          "https://img.itch.zone/aW1hZ2UvNDc1ODcyLzI0NDQwMDkucG5n/original/iipkmu.png",
+          "https://img.itch.zone/aW1hZ2UvNDc1ODcyLzI0NDQwMDQucG5n/original/SYMqz9.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Release date": "Aug 30, 2019",
+          "Rating": "Rated 4.6 out of 5 stars(9 total ratings)",
+          "Author": "JJ",
+          "Genre": "Adventure, Platformer",
+          "Made with": "Unity, Audacity, Krita, Paint.net",
+          "Tags": "2D, artgame, Dark, Hand-drawn, secrets, Story Rich, watercolor",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse",
+          "Links": "Soundtrack"
+        }
+      }
+    },
+    {
+      "gameId": 476732,
+      "gameUrl": "https://gianni-vallerini.itch.io/follow-the-truth",
+      "overallRank": 29,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NTExNjgucG5n/300x240%23c/DufKbi.png",
+        "contributors": [
+          {
+            "name": "Gianni Vallerini",
+            "id": 1651923
+          },
+          {
+            "name": "Alberto Martino",
+            "id": 1728805
+          },
+          {
+            "name": "Giuseppe Gangi",
+            "id": 1733728
+          },
+          {
+            "name": "samuelebandini",
+            "id": 1791598
+          },
+          {
+            "name": "Fabio Fatticcioni",
+            "id": 1738043
+          },
+          {
+            "name": "Zemasu",
+            "id": 1741117
+          },
+          {
+            "name": "SofiaTaylor",
+            "id": 1794132
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/476732",
+        "title": "Follow the Truth",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 3.5957446808511,
+            "raw_score": 3.5957446808511,
+            "rank": 72
+          },
+          {
+            "name": "Fun",
+            "score": 3.2553191489362,
+            "raw_score": 3.2553191489362,
+            "rank": 183
+          },
+          {
+            "name": "Innovation",
+            "score": 3.4255319148936,
+            "raw_score": 3.4255319148936,
+            "rank": 75
+          },
+          {
+            "name": "Theme",
+            "score": 3.531914893617,
+            "raw_score": 3.531914893617,
+            "rank": 131
+          },
+          {
+            "name": "Graphics",
+            "score": 4.3617021276596,
+            "raw_score": 4.3617021276596,
+            "rank": 13
+          },
+          {
+            "name": "Audio",
+            "score": 3.9148936170213,
+            "raw_score": 3.9148936170213,
+            "rank": 26
+          }
+        ],
+        "score": 3.6808510638298,
+        "rating_count": 47,
+        "id": 476732,
+        "rank": 29,
+        "raw_score": 3.6808510638298
+      },
+      "entryData": {
+        "rating_count": 47,
+        "created_at": "2019-08-31 15:17:43",
+        "coolness": 28,
+        "id": 86788,
+        "url": "/jam/cgj/rate/476732",
+        "contributors": [
+          {
+            "name": "Gianni Vallerini",
+            "url": "https://gianni-vallerini.itch.io"
+          },
+          {
+            "name": "Alberto Martino",
+            "url": "https://redbambooleaf.itch.io"
+          },
+          {
+            "name": "Giuseppe Gangi",
+            "url": "https://giuseppe-gangi.itch.io"
+          },
+          {
+            "name": "samuelebandini",
+            "url": "https://samuelebandini.itch.io"
+          },
+          {
+            "name": "Fabio Fatticcioni",
+            "url": "https://fabio-fatticcioni.itch.io"
+          },
+          {
+            "name": "Zemasu",
+            "url": "https://zemasu.itch.io"
+          },
+          {
+            "name": "SofiaTaylor",
+            "url": "https://sofiataylor.itch.io"
+          }
+        ],
+        "game": {
+          "cover_color": "#29202b",
+          "id": 476732,
+          "user": {
+            "name": "Gianni Vallerini",
+            "url": "https://gianni-vallerini.itch.io",
+            "id": 1651923
+          },
+          "url": "https://gianni-vallerini.itch.io/follow-the-truth",
+          "short_text": "Adventure game based on solving puzzles.",
+          "title": "Follow the Truth",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0NTExNjgucG5n/300x240%23c/DufKbi.png"
+        }
+      },
+      "details": {
+        "title": "Follow the Truth",
+        "description": "Team: Nibiru Games\nCrowdforge team link: https://crowdforge.io/jams/cgj/teams/4041/dashboard\n\nThis game will let you play as Elijah, a liar exiled from his own town.\nElijah, now, has only one objective, discover new lands to live a free life, to achieve that he needs the help of a mysterious man, Noah.\nNoah, in exchange, wants a very rare item.  Will you help Elijah find this mystic item? ",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDc2NzMyLzI0NTIxNzcuanBn/original/6dL%2FSc.jpg",
+          "https://img.itch.zone/aW1hZ2UvNDc2NzMyLzI0NTIxNzYuanBn/original/bGn60e.jpg",
+          "https://img.itch.zone/aW1hZ2UvNDc2NzMyLzI0NTY1NzkucG5n/original/4m9RYF.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Rating": "Rated 3.0 out of 5 stars(1 total ratings)",
+          "Authors": "Gianni Vallerini, Alberto Martino, Giuseppe Gangi, samuelebandini, Fabio Fatticcioni, Zemasu, SofiaTaylor",
+          "Genre": "Adventure, Puzzle",
+          "Tags": "2D, 3D, Fantasy, Isometric, Singleplayer, Unity",
+          "Average session": "A few seconds",
+          "Languages": "English"
+        }
+      }
+    },
+    {
+      "gameId": 475691,
+      "gameUrl": "https://rorius.itch.io/wispeare",
+      "overallRank": 64,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NDM1OTQucG5n/300x240%23c/0C6Wbo.png",
+        "contributors": [
+          {
+            "name": "FirstFrontStudios",
+            "id": 175030
+          },
+          {
+            "name": "ohbabyitsdamien",
+            "id": 1792453
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/475691",
+        "title": "Wispeare",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 3.4347826086957,
+            "raw_score": 3.4347826086957,
+            "rank": 134
+          },
+          {
+            "name": "Fun",
+            "score": 3.5217391304348,
+            "raw_score": 3.5217391304348,
+            "rank": 77
+          },
+          {
+            "name": "Innovation",
+            "score": 2.695652173913,
+            "raw_score": 2.695652173913,
+            "rank": 381
+          },
+          {
+            "name": "Theme",
+            "score": 3.4347826086957,
+            "raw_score": 3.4347826086957,
+            "rank": 157
+          },
+          {
+            "name": "Graphics",
+            "score": 4.3478260869565,
+            "raw_score": 4.3478260869565,
+            "rank": 15
+          },
+          {
+            "name": "Audio",
+            "score": 3.7391304347826,
+            "raw_score": 3.7391304347826,
+            "rank": 51
+          }
+        ],
+        "score": 3.5289855072464,
+        "rating_count": 23,
+        "id": 475691,
+        "rank": 64,
+        "raw_score": 3.5289855072464
+      },
+      "entryData": {
+        "rating_count": 23,
+        "created_at": "2019-08-31 16:44:45",
+        "coolness": 21,
+        "id": 86928,
+        "url": "/jam/cgj/rate/475691",
+        "contributors": [
+          {
+            "name": "FirstFrontStudios",
+            "url": "https://rorius.itch.io"
+          },
+          {
+            "name": "ohbabyitsdamien",
+            "url": "https://ohbabyitsdamien.itch.io"
+          }
+        ],
+        "game": {
+          "cover_color": "#a97bff",
+          "id": 475691,
+          "user": {
+            "name": "FirstFrontStudios",
+            "url": "https://rorius.itch.io",
+            "id": 175030
+          },
+          "url": "https://rorius.itch.io/wispeare",
+          "short_text": "Orion the wisp travels through a land of vibrant foliage and multi-coloured slimes",
+          "title": "Wispeare",
+          "platforms": [
+            "windows",
+            "osx"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0NDM1OTQucG5n/300x240%23c/0C6Wbo.png"
+        }
+      },
+      "details": {
+        "title": "Wispeare",
+        "description": "A game made as a submission for the Community Game Jam \nCommunity Game Jam\nExplore the ethereal world of Adorno as Orion the wisp, travel through a land of vibrant foliage, multi-coloured slimes and discover your supernatural wil-o-powers!\nA large portion of the development was made live on the Rorius YouTube channel!\nControls:A, D: Move Left, RightW/Space: Jump  LMB: Will-o-pulse (towards mouse)RMB: Will-o-blast (omnidirectional)ESC: PauseStand Still: HealWindows: Extract the zip file and run Wispeare.exe, it's as simple as that ;)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDc1NjkxLzI0NDk0ODQucG5n/original/sONayc.png",
+          "https://img.itch.zone/aW1hZ2UvNDc1NjkxLzI0NDk0ODEucG5n/original/EOWFld.png",
+          "https://img.itch.zone/aW1hZ2UvNDc1NjkxLzI0NDk0ODAucG5n/original/DFb42%2B.png",
+          "https://img.itch.zone/aW1hZ2UvNDc1NjkxLzI0NDk0ODIucG5n/original/Xg%2FlmK.png",
+          "https://img.itch.zone/aW1hZ2UvNDc1NjkxLzI0NDk0ODMucG5n/original/2HU2HP.png",
+          "https://img.itch.zone/aW1hZ2UvNDc1NjkxLzI0NDk5NzEucG5n/original/dv93LR.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows, macOS",
+          "Rating": "Rated 3.0 out of 5 stars(1 total ratings)",
+          "Authors": "FirstFrontStudios, ohbabyitsdamien",
+          "Genre": "Platformer",
+          "Tags": "2D, community-game-jam, Fantasy, Multiple Endings, My First Game Jam, Pixel Art, Singleplayer, wispeare"
+        }
+      }
+    },
+    {
+      "gameId": 476977,
+      "gameUrl": "https://dypsloom.itch.io/night-mirage",
+      "overallRank": 50,
+      "topCategories": [
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NTA1MDUucG5n/300x240%23c/jGOYT%2F.png",
+        "contributors": [
+          {
+            "name": "Dypsloom",
+            "id": 1364097
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/476977",
+        "title": "Night Mirage",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 3.4761904761905,
+            "raw_score": 3.4761904761905,
+            "rank": 115
+          },
+          {
+            "name": "Fun",
+            "score": 3.0952380952381,
+            "raw_score": 3.0952380952381,
+            "rank": 270
+          },
+          {
+            "name": "Innovation",
+            "score": 3.4761904761905,
+            "raw_score": 3.4761904761905,
+            "rank": 62
+          },
+          {
+            "name": "Theme",
+            "score": 3.1428571428571,
+            "raw_score": 3.1428571428571,
+            "rank": 265
+          },
+          {
+            "name": "Graphics",
+            "score": 4.1428571428571,
+            "raw_score": 4.1428571428571,
+            "rank": 32
+          },
+          {
+            "name": "Audio",
+            "score": 4.1428571428571,
+            "raw_score": 4.1428571428571,
+            "rank": 5
+          }
+        ],
+        "score": 3.5793650793651,
+        "rating_count": 21,
+        "id": 476977,
+        "rank": 50,
+        "raw_score": 3.5793650793651
+      },
+      "entryData": {
+        "rating_count": 21,
+        "created_at": "2019-08-31 17:30:24",
+        "coolness": 5,
+        "id": 87003,
+        "url": "/jam/cgj/rate/476977",
+        "game": {
+          "cover_color": "#ba6fa8",
+          "id": 476977,
+          "user": {
+            "name": "Dypsloom",
+            "url": "https://dypsloom.itch.io",
+            "id": 1364097
+          },
+          "url": "https://dypsloom.itch.io/night-mirage",
+          "short_text": "Repair your boat by finding missing parts in a treacherous desert with strong mirages before your stamina runs out",
+          "title": "Night Mirage",
+          "platforms": [
+            "windows",
+            "osx"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0NTA1MDUucG5n/300x240%23c/jGOYT%2F.png"
+        }
+      },
+      "details": {
+        "title": "Night Mirage",
+        "description": "This game is a Community Game Jam entry for the theme \"The game is a liar\".\nIn our game you will take control of a little desert wanderer who crashes his ship and tries to find the missing pieces to repair it. He is faced with a treacherous desert which distorts his surrounding with strong mirages.\nWe interpreted the theme by creating a game with visual deception. The objects of interest have similar colors as the monsters lurking the desert. From far you will have difficulty making the difference... You cannot defend yourself so if you see a monster ... RUN!\nMake sure to find all the missing objects AND fix the ship before you run out of stamina! You can eat some cactus fruit to regain stamina. \nUse the mouse to look around and the WASD keys to move. Click with the mouse to interact with objects.\nMade by:\nSantiago Rubio (Sangemdoko) : Coding and Unity stuff \nEduardo Rubio (@Wardl_) : Animation + Art\nMae (@MouevaArt) : 3D + Art\nTheo Gonzalez (NEWOOL) : Music + Sounds \nhttps://sleepingpenguinz.com/\nPS: Juggling between the jam and work was an experience. I was to busy to do anything else. Even the though this was a week long jam I think we spent just as much time on it as other jams... considering we started on Monday. But even though we actively worked the same amount as usual I think the additional thinking time was very beneficial. Especially to work out the intricate parts like the mirages and the infinite terrain.\nUnizip the folder and run the executable. Only works for Windows PC.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDc2OTc3LzI0NTA4MzkucG5n/original/oB2b%2FS.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2OTc3LzI0NTQ3MjEuZ2lm/original/KoktpD.gif",
+          "https://img.itch.zone/aW1hZ2UvNDc2OTc3LzI0NTQ2OTkuZ2lm/original/%2BJC%2FyT.gif",
+          "https://img.itch.zone/aW1hZ2UvNDc2OTc3LzI0NTA1MDcucG5n/original/PWU2SO.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2OTc3LzI0NTA4MDkucG5n/original/ZerlRH.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS",
+          "Author": "Dypsloom",
+          "Genre": "Simulation",
+          "Tags": "community-game-jam-2019"
+        }
+      }
+    },
+    {
+      "gameId": 476186,
+      "gameUrl": "https://gusastudiosmx.itch.io/amazonia",
+      "overallRank": 102,
+      "topCategories": [
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NTE3OTUucG5n/300x240%23c/p%2BhklT.png",
+        "contributors": [
+          {
+            "name": "GUSA",
+            "id": 1211731
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/476186",
+        "title": "Amazonia",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 3.1875,
+            "raw_score": 3.1875,
+            "rank": 248
+          },
+          {
+            "name": "Fun",
+            "score": 3.75,
+            "raw_score": 3.75,
+            "rank": 27
+          },
+          {
+            "name": "Innovation",
+            "score": 2.75,
+            "raw_score": 2.75,
+            "rank": 347
+          },
+          {
+            "name": "Theme",
+            "score": 2.75,
+            "raw_score": 2.75,
+            "rank": 427
+          },
+          {
+            "name": "Graphics",
+            "score": 3.75,
+            "raw_score": 3.75,
+            "rank": 127
+          },
+          {
+            "name": "Audio",
+            "score": 4.0625,
+            "raw_score": 4.0625,
+            "rank": 11
+          }
+        ],
+        "score": 3.375,
+        "rating_count": 16,
+        "id": 476186,
+        "rank": 102,
+        "raw_score": 3.375
+      },
+      "entryData": {
+        "rating_count": 16,
+        "created_at": "2019-08-31 13:40:28",
+        "coolness": 16,
+        "id": 86696,
+        "url": "/jam/cgj/rate/476186",
+        "game": {
+          "cover_color": "#743f39",
+          "id": 476186,
+          "user": {
+            "name": "GUSA",
+            "url": "https://gusastudiosmx.itch.io",
+            "id": 1211731
+          },
+          "url": "https://gusastudiosmx.itch.io/amazonia",
+          "short_text": "Move. Jump. Shoot. Extinguish fires.",
+          "title": "Amazonia",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0NTE3OTUucG5n/300x240%23c/p%2BhklT.png"
+        }
+      },
+      "details": {
+        "title": "Amazonia",
+        "description": "About the game\nEmbrace the journey of  this challenging  run & gun game about a native trying to help a water spirit to put out the fires of the Amazon rainforest. Extinguish the fire monsters responsible of such tragedy by shooting them in the face while you listen to some groovy beats.\nThis game was made for the Community Game Jam in five days.\nControls\nArrow Keys - Move | AimSpacebar - Jump | Double JumpX - Shoot.Z - Dash.\nAssets\nUnless listed below, all the assets were made during the jam.\nAnima2D  - Used for some skeletal animations.Cinemachine - Really nice to work with.TextMeshPro - Clean and crisp pieces of text.OMG Write Like William - Font obtained from DaFont. Public Domain Licence.\nCreation Specifics\nNot sure if anyone wants to know these, buuuuuut:\nUnity3D - Game Engine.LMMS Studio - Music composition and sound effect creation.Audacity - Sound effect creation and edition.Krita - Graphic elements.\nFollow us on Twitter! @gusastudiosmx",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDc2MTg2LzI0NDY1NDEucG5n/original/X2m2Cs.png",
+          "https://img.itch.zone/aW1hZ2UvNDc2MTg2LzI0NDg1MTUucG5n/original/xwPKl5.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "GUSA",
+          "Genre": "Action, Adventure",
+          "Made with": "Unity"
+        }
+      }
+    },
+    {
+      "gameId": 477069,
+      "gameUrl": "https://saturas.itch.io/tales-of-the-cursed-word",
+      "overallRank": 18,
+      "topCategories": [
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NTI3MzkucG5n/300x240%23c/Haxkmh.png",
+        "contributors": [
+          {
+            "name": "Saturas",
+            "id": 1604957
+          },
+          {
+            "name": "SouLonTwitch",
+            "id": 1615770
+          },
+          {
+            "name": "Stefano Bertolino",
+            "id": 1615769
+          },
+          {
+            "name": "Chariot Games",
+            "id": 2004522
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/477069",
+        "title": "Tales of the Cursed Word",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 3.4313725490196,
+            "raw_score": 3.4313725490196,
+            "rank": 136
+          },
+          {
+            "name": "Fun",
+            "score": 3.6078431372549,
+            "raw_score": 3.6078431372549,
+            "rank": 61
+          },
+          {
+            "name": "Innovation",
+            "score": 3.7058823529412,
+            "raw_score": 3.7058823529412,
+            "rank": 33
+          },
+          {
+            "name": "Theme",
+            "score": 3.843137254902,
+            "raw_score": 3.843137254902,
+            "rank": 48
+          },
+          {
+            "name": "Graphics",
+            "score": 3.9411764705882,
+            "raw_score": 3.9411764705882,
+            "rank": 80
+          },
+          {
+            "name": "Audio",
+            "score": 4.0392156862745,
+            "raw_score": 4.0392156862745,
+            "rank": 14
+          }
+        ],
+        "score": 3.7614379084967,
+        "rating_count": 51,
+        "id": 477069,
+        "rank": 18,
+        "raw_score": 3.7614379084967
+      },
+      "entryData": {
+        "rating_count": 51,
+        "created_at": "2019-08-31 18:05:04",
+        "coolness": 83,
+        "id": 87086,
+        "url": "/jam/cgj/rate/477069",
+        "contributors": [
+          {
+            "name": "Saturas",
+            "url": "https://saturas.itch.io"
+          },
+          {
+            "name": "SouLonTwitch",
+            "url": "https://soulontwitch.itch.io"
+          },
+          {
+            "name": "Stefano Bertolino",
+            "url": "https://stefano-bertolino.itch.io"
+          },
+          {
+            "name": "Chariot Games",
+            "url": "https://chariotgames.itch.io"
+          }
+        ],
+        "game": {
+          "cover_color": "#6c6c6c",
+          "user": {
+            "name": "Saturas",
+            "url": "https://saturas.itch.io",
+            "id": 1604957
+          },
+          "url": "https://saturas.itch.io/tales-of-the-cursed-word",
+          "id": 477069,
+          "title": "Tales of the Cursed Word",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0NTI3MzkucG5n/300x240%23c/Haxkmh.png"
+        }
+      },
+      "details": {
+        "title": "Tales of the Cursed Word",
+        "description": "- Game Overview -\nThis game has been made for the Community Game Jam, August 2019, it is an unconventional 2D Fantasy Point-Click Puzzle game. In the thought process, when developing this,  we realised how hard it is to develope a game that is ACTUALLY a liar to you and not the opposite.If the game is a liar, lying shouldn't be your in game purpose, in fact, in this game, our goal is to make you feel the sense of being lied to!* We suggest playing it on fullscreen and to lower the base volume of your windows before starting, it probably only works on windows 10!  The game was tested only on fullHD resolution (1920*1080), other resolutions might not show the ui correctly. *\n- Key Bindings -Left Mouse Button: does everything in this game, if clicked in the right spot obviously.- Game-flow -The flow should work perfectly, anyway, if you feel you are stuck into a bug, please, notify it to us in the comment section! \nNotice that, if you think it doesn't work, you are probably doing it wrong, it's a puzzle game and if you need any help you can click the \"Info Button\" on the bottom right corner of your screen to get some help!There are a total of EIGHT core \"riddles\" you will have to solve, THREE different music tracks you will hear during the game.Let's get realistic. You only need to press START!- Credits -\nWe're an italian group of friends making games, in particular:\n\n\nSimone Turello: programming and animation.\nStefano Bertolino: graphics, music and sound design.\nMatteo Lista: texts, game-flow design and general supporter.\nThe general design has been made up in a particularly hilarious evening by the previous trio.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDc3MDY5LzI0NTI3NDYucG5n/original/pepW3o.png",
+          "https://img.itch.zone/aW1hZ2UvNDc3MDY5LzI0NTIyOTUucG5n/original/wZr4HY.png",
+          "https://img.itch.zone/aW1hZ2UvNDc3MDY5LzI0NTIyMzcucG5n/original/50o0US.png",
+          "https://img.itch.zone/aW1hZ2UvNDc3MDY5LzI0NTIyNDEucG5n/original/b0Coz4.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Authors": "Saturas, SouLonTwitch, Stefano Bertolino, Chariot Games",
+          "Genre": "Puzzle, Role Playing",
+          "Made with": "Unity",
+          "Tags": "2D, Fantasy, unconventional",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 475435,
+      "gameUrl": "https://groovy-grooves-games.itch.io/the-cavern",
+      "overallRank": 55,
+      "topCategories": [
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI0NTA4NTAuanBn/300x240%23c/V9%2BxHo.jpg",
+        "contributors": [
+          {
+            "name": "Groovy Grooves Games",
+            "id": 1774430
+          },
+          {
+            "name": "badadoodle",
+            "id": 1749391
+          },
+          {
+            "name": "Papi Socrates",
+            "id": 1244512
+          }
+        ],
+        "url": "https://itch.io/jam/cgj/rate/475435",
+        "title": "The Cavern",
+        "criteria": [
+          {
+            "name": "Game Design",
+            "score": 3.5483870967742,
+            "raw_score": 3.5483870967742,
+            "rank": 92
+          },
+          {
+            "name": "Fun",
+            "score": 3.2903225806452,
+            "raw_score": 3.2903225806452,
+            "rank": 165
+          },
+          {
+            "name": "Innovation",
+            "score": 3,
+            "raw_score": 3,
+            "rank": 219
+          },
+          {
+            "name": "Theme",
+            "score": 3.2258064516129,
+            "raw_score": 3.2258064516129,
+            "rank": 238
+          },
+          {
+            "name": "Graphics",
+            "score": 4.258064516129,
+            "raw_score": 4.258064516129,
+            "rank": 21
+          },
+          {
+            "name": "Audio",
+            "score": 4.0322580645161,
+            "raw_score": 4.0322580645161,
+            "rank": 15
+          }
+        ],
+        "score": 3.5591397849462,
+        "rating_count": 31,
+        "id": 475435,
+        "rank": 55,
+        "raw_score": 3.5591397849462
+      },
+      "entryData": {
+        "rating_count": 31,
+        "created_at": "2019-08-29 16:30:24",
+        "coolness": 55,
+        "id": 86209,
+        "url": "/jam/cgj/rate/475435",
+        "contributors": [
+          {
+            "name": "Groovy Grooves Games",
+            "url": "https://groovy-grooves-games.itch.io"
+          },
+          {
+            "name": "badadoodle",
+            "url": "https://badadoodle.itch.io"
+          },
+          {
+            "name": "Papi Socrates",
+            "url": "https://papi-socrates.itch.io"
+          }
+        ],
+        "game": {
+          "cover_color": "#0a0300",
+          "id": 475435,
+          "user": {
+            "name": "Groovy Grooves Games",
+            "url": "https://groovy-grooves-games.itch.io",
+            "id": 1774430
+          },
+          "url": "https://groovy-grooves-games.itch.io/the-cavern",
+          "short_text": "Plato, the dude was full of crap",
+          "title": "The Cavern",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0NTA4NTAuanBn/300x240%23c/V9%2BxHo.jpg"
+        }
+      },
+      "details": {
+        "title": "The Cavern",
+        "description": "\nOur adventurer goes on a journey to find who he really is.\n Will he find the truth? Will he see the light?\n\n# How to play\nExecute the .exe\nYour objective is to reach the bonfire.\n\n# Inputs\nA,D for move.W or Space to jump.\n\nSHIFT for running and higher jumps\n\n\nIn case you can't download it from here, check out our release in GitHub\nhttps://github.com/PapaSocrates/The-Cavern/releases",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDc1NDM1LzI0NTA4NTYucG5n/original/tskfKx.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Authors": "Groovy Grooves Games, badadoodle, Papi Socrates",
+          "Genre": "Platformer",
+          "Tags": "2D, Pixel Art, plato"
+        }
+      }
+    }
+  ]
+}

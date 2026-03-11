@@ -1,0 +1,2157 @@
+{
+  "n": 57,
+  "name": "Kenney Jam 2023",
+  "url": "https://itch.io/jam/kenney-jam-2023",
+  "theme": "Exploration",
+  "slug": "kenney-jam-2023",
+  "jamMeta": {
+    "jamType": "ended",
+    "ratings": "6,014",
+    "entries": "447",
+    "title": "Kenney Jam 2023",
+    "jamURL": "https://itch.io/jam/kenney-jam-2023",
+    "hosts": {
+      "Kenney": "https://kenney.itch.io",
+      "#kenneyjam": "https://bsky.app/hashtag/kenneyjam"
+    },
+    "jamID": "329935"
+  },
+  "totalEntries": 421,
+  "ranked": true,
+  "hasCategories": true,
+  "needsManualSelection": false,
+  "categories": [
+    "Concept (gameplay)",
+    "Presentation (visuals)",
+    "Adheres to jam theme"
+  ],
+  "topGames": [
+    {
+      "gameId": 2183587,
+      "gameUrl": "https://nszym.itch.io/this-is-your-dungeon",
+      "overallRank": 8,
+      "topCategories": [
+        "Concept (gameplay)"
+      ],
+      "resultData": {
+        "title": "This is your dungeon",
+        "raw_score": 4.2708333333333,
+        "cover_url": "https://img.itch.zone/aW1nLzEyODk5MDA3LnBuZw==/300x240%23c/F34RbZ.png",
+        "id": 2183587,
+        "contributors": [
+          {
+            "name": "Szym",
+            "id": 4505973
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Adheres to jam theme",
+            "raw_score": 4.28125,
+            "score": 4.28125,
+            "rank": 20
+          },
+          {
+            "name": "Concept (gameplay)",
+            "raw_score": 4.5625,
+            "score": 4.5625,
+            "rank": 1
+          },
+          {
+            "name": "Presentation (visuals)",
+            "raw_score": 3.96875,
+            "score": 3.96875,
+            "rank": 46
+          }
+        ],
+        "score": 4.2708333333333,
+        "rating_count": 32,
+        "rank": 8,
+        "url": "https://itch.io/jam/kenney-jam-2023/rate/2183587"
+      },
+      "entryData": {
+        "rating_count": 32,
+        "created_at": "2023-07-23 14:37:53",
+        "coolness": 33,
+        "id": 438735,
+        "url": "/jam/kenney-jam-2023/rate/2183587",
+        "game": {
+          "cover_color": "#171A1E",
+          "id": 2183587,
+          "user": {
+            "name": "Szym",
+            "url": "https://nszym.itch.io",
+            "id": 4505973
+          },
+          "url": "https://nszym.itch.io/this-is-your-dungeon",
+          "short_text": "Build your own dungeon as you explore it and fight the evil creatures that roam inside.",
+          "title": "This is your dungeon",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEyODk5MDA3LnBuZw==/300x240%23c/F34RbZ.png"
+        }
+      },
+      "details": {
+        "title": "This is your dungeon",
+        "description": "This Jam game has been extended into a Full Game !!!\nCheck out : Tilemancer Dungeon\n\n-------------------------------------\nMade in 48h for KenneyJam 2023with the theme Exploration\n-------------------------------------A damned cyclops & his minions decided to make their nest in your dungeon.Your Dungeon ! For F sack !But there's one thing they didn't anticipate...The dungeon obey only to you. You can mold it as you see fit.Place rooms as you go to create the ideal path to victory and reclaim your dungeon.\n\n------Controls------ \nLeft click  - select, use & place a roomLeft click - move to a roomRight click - unselect a roomP or Escape - to pause\n------Notes------\nThe game should be able to detect if you trapped yourself by closing every available paths and throw you a game over. But in case you get stuck anyway you can restart a run from the pause menu.\n\n\n------Sources------ \n\n------Music------ \n8bit Dungeon Boss by Kevin Macleod\n8bit Dungeon Level by Kevin Macleod\n------ Sounds------ \nPack: 8-bit by timgormly\n8 Bit Slam by Jofae\nPack: Hurt (Retro video game SFX) by cabled_mess\nPack: 8-Bit Sound Effects Library by LittleRobotSoundFactory\nPoof/Puff by JustInvoke\nHeal - Rpg by colorsCrimsonTears\n8-bit footsteps.wav by EVRetro\nUI Audio Pack by Kenney\n------ Sprites------ \nTiny Dungeon by Kenney\nScribble Dungeons By Kenney\nUI Pack (RPG Expansion) By Kenney\nSplat Pack By keney\n------ Fonts------ \nKenney Pixel By kenney\nSouthland by MJB Letters",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjE4MzU4Ny8xMjg5OTYwOC5wbmc=/original/v5wsK4.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4MzU4Ny8xMjg5OTYxMC5wbmc=/original/nZapzj.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4MzU4Ny8xMjg5OTYxNS5wbmc=/original/8i%2ByYu.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4MzU4Ny8xMjg5OTYxNy5wbmc=/original/qyiqdR.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.3 out of 5 stars(3 total ratings)",
+          "Author": "Szym",
+          "Genre": "Strategy, Survival",
+          "Made with": "Unity",
+          "Tags": "2D, Cute, Fantasy, Minimalist, Pixel Art, Retro, Singleplayer, Top-Down"
+        }
+      }
+    },
+    {
+      "gameId": 2183689,
+      "gameUrl": "https://alzhu1.itch.io/growth-spurt-dungeoneer",
+      "overallRank": 13,
+      "topCategories": [
+        "Concept (gameplay)"
+      ],
+      "resultData": {
+        "title": "Growth Spurt Dungeoneer",
+        "raw_score": 4.1604938271605,
+        "cover_url": "https://img.itch.zone/aW1nLzEyODk0MzY4LmdpZg==/300x240%23c/zCN1qH.gif",
+        "id": 2183689,
+        "contributors": [
+          {
+            "name": "alzhu1",
+            "id": 3320656
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "raw_score": 4.5,
+            "score": 4.5,
+            "rank": 2
+          },
+          {
+            "name": "Presentation (visuals)",
+            "raw_score": 4.1666666666667,
+            "score": 4.1666666666667,
+            "rank": 26
+          },
+          {
+            "name": "Adheres to jam theme",
+            "raw_score": 3.8148148148148,
+            "score": 3.8148148148148,
+            "rank": 83
+          }
+        ],
+        "score": 4.1604938271605,
+        "rating_count": 54,
+        "rank": 13,
+        "url": "https://itch.io/jam/kenney-jam-2023/rate/2183689"
+      },
+      "entryData": {
+        "rating_count": 54,
+        "created_at": "2023-07-23 06:07:30",
+        "coolness": 63,
+        "id": 438298,
+        "url": "/jam/kenney-jam-2023/rate/2183689",
+        "game": {
+          "cover_color": "#472d3c",
+          "url": "https://alzhu1.itch.io/growth-spurt-dungeoneer",
+          "short_text": "Grow and shrink your way through a set of branching levels",
+          "user": {
+            "name": "alzhu1",
+            "url": "https://alzhu1.itch.io",
+            "id": 3320656
+          },
+          "platforms": [
+            "web"
+          ],
+          "title": "Growth Spurt Dungeoneer",
+          "id": 2183689,
+          "gif_cover": "https://img.itch.zone/aW1nLzEyODk0MzY4LmdpZg==/original/fVyJpO.gif",
+          "cover": "https://img.itch.zone/aW1nLzEyODk0MzY4LmdpZg==/300x240%23c/zCN1qH.gif"
+        }
+      },
+      "details": {
+        "title": "Growth Spurt Dungeoneer",
+        "description": "You can grow and shrink your size. Use this to traverse a set of levels, some with branching paths. Try to find them all!\nSubmission for the Kenney Jam 2023! (Theme: Exploration)\nControls:\nA and D/Left and Right: Movement\nW/Up: Grow\nS/Down: Shrink\nSpace: JumpR: Restart levelEsc: Back to Title\n\nMisc:\nSource code: https://github.com/alzhu1/Kenney-Jam-2023\nKenney assets used:\nhttps://kenney.nl/assets/1-bit-pack\nhttps://kenney.nl/assets/ui-pack\n\nOther assets (i.e. font, music, SFX) used:\n\nhttps://tallbeard.itch.io/music-loop-bundle\nhttps://www.dafont.com/pixellari.font\nhttps://coloralpha.itch.io/50-menu-interface-sfx\n\n\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzEyODk0MzY4LmdpZg==/original/fVyJpO.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "alzhu1",
+          "Genre": "Platformer",
+          "Made with": "Unity",
+          "Tags": "2D, Exploration, kenney, My First Game Jam, Pixel Art, Simple, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 2181704,
+      "gameUrl": "https://melonboyo.itch.io/callie",
+      "overallRank": 4,
+      "topCategories": [
+        "Concept (gameplay)",
+        "Presentation (visuals)"
+      ],
+      "resultData": {
+        "title": "CALLIE",
+        "raw_score": 4.3958333333333,
+        "cover_url": "https://img.itch.zone/aW1nLzEyOTAyNjg3LnBuZw==/300x240%23c/SmJShk.png",
+        "id": 2181704,
+        "contributors": [
+          {
+            "name": "melon",
+            "id": 2405235
+          },
+          {
+            "name": "Chai the Tea",
+            "id": 5651539
+          },
+          {
+            "name": "Torsk",
+            "id": 2952071
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "raw_score": 4.375,
+            "score": 4.375,
+            "rank": 3
+          },
+          {
+            "name": "Adheres to jam theme",
+            "raw_score": 4.1875,
+            "score": 4.1875,
+            "rank": 29
+          },
+          {
+            "name": "Presentation (visuals)",
+            "raw_score": 4.625,
+            "score": 4.625,
+            "rank": 3
+          }
+        ],
+        "score": 4.3958333333333,
+        "rating_count": 16,
+        "rank": 4,
+        "url": "https://itch.io/jam/kenney-jam-2023/rate/2181704"
+      },
+      "entryData": {
+        "rating_count": 16,
+        "created_at": "2023-07-23 14:40:38",
+        "coolness": 4,
+        "id": 438746,
+        "url": "/jam/kenney-jam-2023/rate/2181704",
+        "contributors": [
+          {
+            "name": "melon",
+            "url": "https://melonboyo.itch.io"
+          },
+          {
+            "name": "Chai the Tea",
+            "url": "https://chai-the-tea.itch.io"
+          },
+          {
+            "name": "Torsk",
+            "url": "https://torsk.itch.io"
+          }
+        ],
+        "game": {
+          "cover_color": "#3b313c",
+          "id": 2181704,
+          "user": {
+            "name": "melon",
+            "url": "https://melonboyo.itch.io",
+            "id": 2405235
+          },
+          "url": "https://melonboyo.itch.io/callie",
+          "short_text": "A small movement-based metroidvania made for Kenney Jam 2023",
+          "title": "CALLIE",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEyOTAyNjg3LnBuZw==/300x240%23c/SmJShk.png"
+        }
+      },
+      "details": {
+        "title": "CALLIE",
+        "description": "You are CALLIE. Living in your forest home hasnurtured your curiosity and you finally decide to go explore the world. What lies hidden aroundthe corner? Play and find out!\n\nGame by GoFrog Games\nLead developer:　@melonboyMusic and sounds:　@Chai the TeaPlay testing and scenery artist:　@Torsk\n\nControls\n'WASD' or Arrow Keys:　Move (up and down on vines or ladders)\n'Space':　Jump (hold for more height)\n'Page Up' / 'Page Down':　Change color palette\n'E':　Enter level\n'Shift' / 'F':　Use power (when unlocked)\n(Last power-up is a wall-run, jump onto walls to use)\nThoughts\nWas fun to make and I surprised myself with how much I could get done. Definitelyroom for improvement. Also know that there is no real ending. After the third powerup, there's a last section before you can enter a hole which is where I ran out of time.\nHope you enjoy! Upgraded version to be released after judging period.\n\nKnown Issues\nNo ending.Only one checkpoint in the third level.Camera at right side of forest moves the wrong way.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjE4MTcwNC8xMjkwMTg2Mi5wbmc=/original/FyR2Hy.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4MTcwNC8xMjkwMTg2Ny5wbmc=/original/I57eHN.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4MTcwNC8xMjkwMTg2OS5wbmc=/original/C9PoIA.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4MTcwNC8xMjkwMjQzMS5wbmc=/original/bg5DTS.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "melon, Chai the Tea, Torsk",
+          "Genre": "Platformer, Adventure",
+          "Made with": "Godot",
+          "Tags": "2D, Asset Pack, Indie, kenneyjam, Metroidvania, Pixel Art, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 2183063,
+      "gameUrl": "https://ludows.itch.io/enchanted-realms",
+      "overallRank": 1,
+      "topCategories": [
+        "Concept (gameplay)",
+        "Adheres to jam theme"
+      ],
+      "resultData": {
+        "title": "Enchanted Realms",
+        "raw_score": 4.6666666666667,
+        "cover_url": "https://img.itch.zone/aW1nLzEyODkwODc4LnBuZw==/300x240%23c/nF0Av1.png",
+        "id": 2183063,
+        "contributors": [
+          {
+            "name": "Ludows",
+            "id": 3692930
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "raw_score": 4.5555555555556,
+            "score": 4.3217794688968,
+            "rank": 4
+          },
+          {
+            "name": "Presentation (visuals)",
+            "raw_score": 4.5555555555556,
+            "score": 4.3217794688968,
+            "rank": 12
+          },
+          {
+            "name": "Adheres to jam theme",
+            "raw_score": 4.8888888888889,
+            "score": 4.6380072349136,
+            "rank": 5
+          }
+        ],
+        "score": 4.4271887242357,
+        "rating_count": 9,
+        "rank": 1,
+        "url": "https://itch.io/jam/kenney-jam-2023/rate/2183063"
+      },
+      "entryData": {
+        "rating_count": 9,
+        "created_at": "2023-07-22 22:24:16",
+        "coolness": 0,
+        "id": 438127,
+        "url": "/jam/kenney-jam-2023/rate/2183063",
+        "game": {
+          "cover_color": "#eeeeee",
+          "user": {
+            "name": "Ludows",
+            "url": "https://ludows.itch.io",
+            "id": 3692930
+          },
+          "url": "https://ludows.itch.io/enchanted-realms",
+          "id": 2183063,
+          "title": "Enchanted Realms",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEyODkwODc4LnBuZw==/300x240%23c/nF0Av1.png"
+        }
+      },
+      "details": {
+        "title": "Enchanted Realms",
+        "description": "Join my Discord server to stay updated on Enchaned Realm development:\nhttps://discord.gg/FkuncbqQ\n--------------About the Game:\nThe game is a small open world RPG game, your objective is to explore the world and to stuff like killing outposts of enemies, explore dungeons around the map and stuff\n--------------Controls:\nWASD: Movement\nMouse Left Click: Item Use/ Weapon Attack\n--------------Gameplay:\nTip: never buy stuff from merchants with weapons in hand (Trust me)\nVillages names, the villagers dialogue line, the placement of trees, rocks and chests is completely random\nIf a villager says something about a story or something don't trust him",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjE4MzA2My8xMjg5MTI4My5naWY=/original/NZ7b3u.gif",
+          "https://img.itch.zone/aW1hZ2UvMjE4MzA2My8xMjg5MTI5MC5wbmc=/original/on96eY.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 3.0 out of 5 stars(1 total ratings)",
+          "Author": "Ludows",
+          "Genre": "Role Playing, Action, Fighting",
+          "Made with": "Godot",
+          "Tags": "Medieval, npcs, storygame"
+        }
+      }
+    },
+    {
+      "gameId": 2182564,
+      "gameUrl": "https://ironhidemakes.itch.io/stellarexplorer",
+      "overallRank": 2,
+      "topCategories": [
+        "Concept (gameplay)",
+        "Adheres to jam theme"
+      ],
+      "resultData": {
+        "title": "Stellar Explorer",
+        "raw_score": 4.4166666666667,
+        "cover_url": "https://img.itch.zone/aW1nLzEyODk5MDY2LnBuZw==/300x240%23c/IMSI1s.png",
+        "id": 2182564,
+        "contributors": [
+          {
+            "name": "IronhideMakes",
+            "id": 1924587
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "raw_score": 4.25,
+            "score": 4.25,
+            "rank": 5
+          },
+          {
+            "name": "Presentation (visuals)",
+            "raw_score": 4.25,
+            "score": 4.25,
+            "rank": 20
+          },
+          {
+            "name": "Adheres to jam theme",
+            "raw_score": 4.75,
+            "score": 4.75,
+            "rank": 1
+          }
+        ],
+        "score": 4.4166666666667,
+        "rating_count": 12,
+        "rank": 2,
+        "url": "https://itch.io/jam/kenney-jam-2023/rate/2182564"
+      },
+      "entryData": {
+        "rating_count": 12,
+        "created_at": "2023-07-23 14:45:58",
+        "coolness": 0,
+        "id": 438767,
+        "url": "/jam/kenney-jam-2023/rate/2182564",
+        "game": {
+          "cover_color": "#02006a",
+          "id": 2182564,
+          "user": {
+            "name": "IronhideMakes",
+            "url": "https://ironhidemakes.itch.io",
+            "id": 1924587
+          },
+          "url": "https://ironhidemakes.itch.io/stellarexplorer",
+          "short_text": "Build up your base and explore other planets for rare artifacts!",
+          "title": "Stellar Explorer",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEyODk5MDY2LnBuZw==/300x240%23c/IMSI1s.png"
+        }
+      },
+      "details": {
+        "title": "Stellar Explorer",
+        "description": "Stellar Explorer is a base building space exploration game, created for the Kenney Jam 2023. Theme - Exploration.\nExplore your home planet and create a base of operations to gather resources and craft items, then launch your rocket into space and send probes to explore new planets, discover resources, artifacts, fossils and ancient alien technology.\nControls:\nW A S D  to move on your home planet.\nMouse to navigate UI and Space View.\nCredits:\nProgramming and Game Design done Solo.\nAll 2D & 3D Assets by Kenney.\nPlay in Browser, or Download, Unzip and play on Windows!\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjE4MjU2NC8xMjg5ODk2NC5wbmc=/original/8sWzrL.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4MjU2NC8xMjg5ODk2NS5wbmc=/original/98JwsO.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4MjU2NC8xMjg5ODk2Ni5wbmc=/original/AbK%2FCB.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4MjU2NC8xMjg5ODk2Ny5wbmc=/original/C6tFdm.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "IronhideMakes",
+          "Genre": "Simulation",
+          "Tags": "Exploration, Game Jam, Indie, planets, Short, Singleplayer, Space, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 2183842,
+      "gameUrl": "https://herwe1ns.itch.io/thebullethoppper",
+      "overallRank": 22,
+      "topCategories": [
+        "Concept (gameplay)"
+      ],
+      "resultData": {
+        "title": "The Bullet Hopper (Jam Version)",
+        "raw_score": 3.9733333333333,
+        "cover_url": "https://img.itch.zone/aW1nLzEzMDM1NTA5LnBuZw==/300x240%23c/dxtIuB.png",
+        "id": 2183842,
+        "contributors": [
+          {
+            "name": "Herweins",
+            "id": 4164533
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "raw_score": 4.24,
+            "score": 4.24,
+            "rank": 6
+          },
+          {
+            "name": "Adheres to jam theme",
+            "raw_score": 3.52,
+            "score": 3.52,
+            "rank": 140
+          },
+          {
+            "name": "Presentation (visuals)",
+            "raw_score": 4.16,
+            "score": 4.16,
+            "rank": 27
+          }
+        ],
+        "score": 3.9733333333333,
+        "rating_count": 25,
+        "rank": 22,
+        "url": "https://itch.io/jam/kenney-jam-2023/rate/2183842"
+      },
+      "entryData": {
+        "rating_count": 25,
+        "created_at": "2023-07-23 14:46:56",
+        "coolness": 10,
+        "id": 438774,
+        "url": "/jam/kenney-jam-2023/rate/2183842",
+        "game": {
+          "cover_color": "#000000",
+          "id": 2183842,
+          "user": {
+            "name": "Herweins",
+            "url": "https://herwe1ns.itch.io",
+            "id": 4164533
+          },
+          "url": "https://herwe1ns.itch.io/thebullethoppper",
+          "short_text": "A platformer where you jump on your own bullets.",
+          "title": "The Bullet Hopper (Jam Version)",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEzMDM1NTA5LnBuZw==/300x240%23c/dxtIuB.png"
+        }
+      },
+      "details": {
+        "title": "The Bullet Hopper (Jam Version)",
+        "description": "Made in 48h for the Kenney Jam 2023 THEME: ExplorationExplore the map and locate&collect all 13 treasures as swiftly as you can. To aid you in this quest, you will be equipped with three types of guns that propel you with their bullets:\n\nImpact: His bullets launches forwards upon contact, making it useful for quick boosts and performing simple double jumps.\nHoming: When the bullet from this gun makes contact with a solid surface, it will home in on the player, enabling you to execute double jumps (or triple) in more intricate environments and scenarios.\nBridge: With a higher firing rate and slower bullets, the Bridge gun serves as a valuable tool for traversing large gaps efficiently as well as for walljumps.\n\n\n===============================================\nControl:\nWASD/ArrowKeys/Spacebar: Move & JumpMouse: Aim & ShootR: RestartL: Quit to main\n==============================================Assets Used:https://kenney.nl/assets/pixel-line-platformerhttps://kenney.nl/assets/1-bit-packhttps://kenney.nl/assets/1-bit-platformer-packhttps://kenney.nl/assets/1-bit-input-prompts-pixel-16https://kenney.nl/assets/crosshair-pack\nSound effects obtained from https://www.zapsplat.comMusic obtained from https://opengameart.orghttps://opengameart.org/content/cave-themehttps://opengameart.org/content/hero-immortal",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjE4Mzg0Mi8xMjkwMDM4Ni5naWY=/original/lA7%2FUN.gif",
+          "https://img.itch.zone/aW1hZ2UvMjE4Mzg0Mi8xMjkwMDEyOC5wbmc=/original/n9ayQf.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4Mzg0Mi8xMzAzNTY3Ni5wbmc=/original/NZYBFG.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4Mzg0Mi8xMjkwMDMwOS5wbmc=/original/UzJ2Fp.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4Mzg0Mi8xMjkwMDMxMC5wbmc=/original/yub0%2F5.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Herweins",
+          "Genre": "Platformer",
+          "Made with": "Construct"
+        }
+      }
+    },
+    {
+      "gameId": 2184260,
+      "gameUrl": "https://querijn.itch.io/kenneys-assetventure",
+      "overallRank": 53,
+      "topCategories": [
+        "Concept (gameplay)"
+      ],
+      "resultData": {
+        "title": "Kenney's Assetventure",
+        "raw_score": 3.7272727272727,
+        "cover_url": "https://img.itch.zone/aW1nLzEyODk5NTY0LnBuZw==/300x240%23c/1WS51g.png",
+        "id": 2184260,
+        "contributors": [
+          {
+            "name": "Querijn Heijmans",
+            "id": 112116
+          },
+          {
+            "name": "RaINSeNN",
+            "id": 3248704
+          },
+          {
+            "name": "Neekhaulas",
+            "id": 26125
+          },
+          {
+            "name": "denowq",
+            "id": 6318851
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "raw_score": 4.1818181818182,
+            "score": 4.1818181818182,
+            "rank": 7
+          },
+          {
+            "name": "Presentation (visuals)",
+            "raw_score": 4.1818181818182,
+            "score": 4.1818181818182,
+            "rank": 24
+          },
+          {
+            "name": "Adheres to jam theme",
+            "raw_score": 2.8181818181818,
+            "score": 2.8181818181818,
+            "rank": 294
+          }
+        ],
+        "score": 3.7272727272727,
+        "rating_count": 11,
+        "rank": 53,
+        "url": "https://itch.io/jam/kenney-jam-2023/rate/2184260"
+      },
+      "entryData": {
+        "rating_count": 11,
+        "created_at": "2023-07-23 13:16:36",
+        "coolness": 0,
+        "id": 438577,
+        "url": "/jam/kenney-jam-2023/rate/2184260",
+        "contributors": [
+          {
+            "name": "Querijn Heijmans",
+            "url": "https://querijn.itch.io"
+          },
+          {
+            "name": "RaINSeNN",
+            "url": "https://rainsenn.itch.io"
+          },
+          {
+            "name": "Neekhaulas",
+            "url": "https://neekhaulas.itch.io"
+          },
+          {
+            "name": "denowq",
+            "url": "https://denowq.itch.io"
+          }
+        ],
+        "game": {
+          "cover_color": "#b5ecfc",
+          "id": 2184260,
+          "user": {
+            "name": "Querijn Heijmans",
+            "url": "https://querijn.itch.io",
+            "id": 112116
+          },
+          "url": "https://querijn.itch.io/kenneys-assetventure",
+          "short_text": "Explore Kenney's Asset Packs through a series of minigames",
+          "title": "Kenney's Assetventure",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEyODk5NTY0LnBuZw==/300x240%23c/1WS51g.png"
+        }
+      },
+      "details": {
+        "title": "Kenney's Assetventure",
+        "description": "",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzEyODk5NTY0LnBuZw==/original/o9HcWb.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Authors": "Querijn Heijmans, RaINSeNN, Neekhaulas, denowq",
+          "Made with": "Unity"
+        }
+      }
+    },
+    {
+      "gameId": 2179485,
+      "gameUrl": "https://pyrocreep.itch.io/mimiquest",
+      "overallRank": 37,
+      "topCategories": [
+        "Concept (gameplay)"
+      ],
+      "resultData": {
+        "title": "Mimiquest",
+        "raw_score": 3.8645833333333,
+        "cover_url": "https://img.itch.zone/aW1nLzEyODk4MTYzLnBuZw==/300x240%23c/1sFgeV.png",
+        "id": 2179485,
+        "contributors": [
+          {
+            "name": "Pyrocreep",
+            "id": 8245370
+          },
+          {
+            "name": "Lily P.",
+            "id": 3232530
+          },
+          {
+            "name": "Fruitmasterscoop",
+            "id": 8192640
+          },
+          {
+            "name": "Dino0040",
+            "id": 1656699
+          },
+          {
+            "name": "KBMSFX",
+            "id": 1336339
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "raw_score": 4.15625,
+            "score": 4.15625,
+            "rank": 8
+          },
+          {
+            "name": "Presentation (visuals)",
+            "raw_score": 3.9375,
+            "score": 3.9375,
+            "rank": 48
+          },
+          {
+            "name": "Adheres to jam theme",
+            "raw_score": 3.5,
+            "score": 3.5,
+            "rank": 142
+          }
+        ],
+        "score": 3.8645833333333,
+        "rating_count": 32,
+        "rank": 37,
+        "url": "https://itch.io/jam/kenney-jam-2023/rate/2179485"
+      },
+      "entryData": {
+        "rating_count": 32,
+        "created_at": "2023-07-23 14:55:05",
+        "coolness": 24,
+        "id": 438828,
+        "url": "/jam/kenney-jam-2023/rate/2179485",
+        "contributors": [
+          {
+            "name": "Pyrocreep",
+            "url": "https://pyrocreep.itch.io"
+          },
+          {
+            "name": "Lily P.",
+            "url": "https://sillils.itch.io"
+          },
+          {
+            "name": "Fruitmasterscoop",
+            "url": "https://fruitmasterscoop.itch.io"
+          },
+          {
+            "name": "Dino0040",
+            "url": "https://dino0040.itch.io"
+          },
+          {
+            "name": "KBMSFX",
+            "url": "https://kbmsfx.itch.io"
+          }
+        ],
+        "game": {
+          "cover_color": "#743f39",
+          "id": 2179485,
+          "user": {
+            "name": "Pyrocreep",
+            "url": "https://pyrocreep.itch.io",
+            "id": 8245370
+          },
+          "url": "https://pyrocreep.itch.io/mimiquest",
+          "short_text": "Play as a mimic collecting tons of weapons in a grid-based world",
+          "title": "Mimiquest",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEyODk4MTYzLnBuZw==/300x240%23c/1sFgeV.png"
+        }
+      },
+      "details": {
+        "title": "Mimiquest",
+        "description": "Click and drag items from your inventory to use them\nWASD to move",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjE3OTQ4NS8xMjkwMDYzMy5wbmc=/original/bN7NUc.png",
+          "https://img.itch.zone/aW1hZ2UvMjE3OTQ4NS8xMjkwMDYzNS5wbmc=/original/cP%2BUrx.png",
+          "https://img.itch.zone/aW1hZ2UvMjE3OTQ4NS8xMjkwMDY0Mi5wbmc=/original/1VGAEE.png",
+          "https://img.itch.zone/aW1hZ2UvMjE3OTQ4NS8xMjkwMDY1NS5wbmc=/original/EyXge1.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Authors": "Pyrocreep, Lily P., Fruitmasterscoop, Dino0040, KBMSFX",
+          "Genre": "Strategy, Adventure, Card Game",
+          "Made with": "Unity",
+          "Tags": "Chess, kenney, kenneyjam, kenneyjam2023, Tilemap, Turn-Based Combat, Turn-based Strategy"
+        }
+      }
+    },
+    {
+      "gameId": 2183066,
+      "gameUrl": "https://chamhc.itch.io/sketchy-crown-hunt",
+      "overallRank": 49,
+      "topCategories": [
+        "Concept (gameplay)"
+      ],
+      "resultData": {
+        "title": "Sketchy Crown Hunt",
+        "raw_score": 4.2083333333333,
+        "cover_url": "https://img.itch.zone/aW1nLzEyODkwNTkzLnBuZw==/300x240%23c/2E9t6B.png",
+        "id": 2183066,
+        "contributors": [
+          {
+            "name": "ChamHC",
+            "id": 8196017
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "raw_score": 4.625,
+            "score": 4.1367257583746,
+            "rank": 9
+          },
+          {
+            "name": "Presentation (visuals)",
+            "raw_score": 4.125,
+            "score": 3.6895121628747,
+            "rank": 85
+          },
+          {
+            "name": "Adheres to jam theme",
+            "raw_score": 3.875,
+            "score": 3.4659053651247,
+            "rank": 159
+          }
+        ],
+        "score": 3.7640477621246,
+        "rating_count": 8,
+        "rank": 49,
+        "url": "https://itch.io/jam/kenney-jam-2023/rate/2183066"
+      },
+      "entryData": {
+        "rating_count": 8,
+        "created_at": "2023-07-22 20:34:12",
+        "coolness": 0,
+        "id": 438076,
+        "url": "/jam/kenney-jam-2023/rate/2183066",
+        "game": {
+          "url": "https://chamhc.itch.io/sketchy-crown-hunt",
+          "user": {
+            "name": "ChamHC",
+            "url": "https://chamhc.itch.io",
+            "id": 8196017
+          },
+          "id": 2183066,
+          "short_text": "Unleash Your Colors, Hunt the Crown! 🎨👑",
+          "title": "Sketchy Crown Hunt",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEyODkwNTkzLnBuZw==/300x240%23c/2E9t6B.png"
+        }
+      },
+      "details": {
+        "title": "Sketchy Crown Hunt",
+        "description": "\"Sketchy Crown Hunt\" is a game developed for Kenney Jam 2023, embracing the theme of \"Exploration.\"\n\nRecommended for full-screen play as the game utilizes the mouse wheel for gameplay.Press ESC to pause game.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjE4MzA2Ni8xMjg5MDU5Ni5wbmc=/original/9JxaBE.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4MzA2Ni8xMjg5MDU5NS5wbmc=/original/MbJZuo.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Category": "Other",
+          "Platforms": "HTML5",
+          "Author": "ChamHC",
+          "Genre": "Puzzle",
+          "Made with": "GDevelop",
+          "Tags": "2D, Exploration, gdevelop, Indie, Singleplayer, Top Down Adventure"
+        }
+      }
+    },
+    {
+      "gameId": 2184139,
+      "gameUrl": "https://duckgoosegames.itch.io/beware-the-mine",
+      "overallRank": 3,
+      "topCategories": [
+        "Concept (gameplay)",
+        "Presentation (visuals)",
+        "Adheres to jam theme"
+      ],
+      "resultData": {
+        "title": "Beware the Mine",
+        "raw_score": 4.4090909090909,
+        "cover_url": "https://img.itch.zone/aW1nLzEyODk3NTA4LnBuZw==/300x240%23c/jE6zkS.png",
+        "id": 2184139,
+        "contributors": [
+          {
+            "name": "Magpie",
+            "id": 2359222
+          },
+          {
+            "name": "Euruss",
+            "id": 3978348
+          },
+          {
+            "name": "W35",
+            "id": 4109250
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "raw_score": 4.1363636363636,
+            "score": 4.1363636363636,
+            "rank": 10
+          },
+          {
+            "name": "Presentation (visuals)",
+            "raw_score": 4.5454545454545,
+            "score": 4.5454545454545,
+            "rank": 5
+          },
+          {
+            "name": "Adheres to jam theme",
+            "raw_score": 4.5454545454545,
+            "score": 4.5454545454545,
+            "rank": 7
+          }
+        ],
+        "score": 4.4090909090909,
+        "rating_count": 22,
+        "rank": 3,
+        "url": "https://itch.io/jam/kenney-jam-2023/rate/2184139"
+      },
+      "entryData": {
+        "rating_count": 22,
+        "created_at": "2023-07-23 12:29:26",
+        "coolness": 42,
+        "id": 438526,
+        "url": "/jam/kenney-jam-2023/rate/2184139",
+        "contributors": [
+          {
+            "name": "Magpie",
+            "url": "https://duckgoosegames.itch.io"
+          },
+          {
+            "name": "Euruss",
+            "url": "https://euruss.itch.io"
+          },
+          {
+            "name": "W35",
+            "url": "https://w35.itch.io"
+          }
+        ],
+        "game": {
+          "cover_color": "#000000",
+          "id": 2184139,
+          "user": {
+            "name": "Magpie",
+            "url": "https://duckgoosegames.itch.io",
+            "id": 2359222
+          },
+          "url": "https://duckgoosegames.itch.io/beware-the-mine",
+          "short_text": "Look out ahead, who knows what's lurking...",
+          "title": "Beware the Mine",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEyODk3NTA4LnBuZw==/300x240%23c/jE6zkS.png"
+        }
+      },
+      "details": {
+        "title": "Beware the Mine",
+        "description": "If you're having issues with performance in the web browser, please download the PC build! It's nicer looking anyway. ;)\nCreated in 2 days for Kenney Jam 2023\nTheme: Exploration\nTeam:\nEurus- Programmer\nMagpie - Art/VFX\nW35 - Designer\n\n\nSynopsis:\nPlay as miner trapped in a cave, who teams up with an enchanted pickaxe to escape together. \n\nControls:\nWASD - Move\nLeft mouse - Swing Pickaxe\nUnlockable Abilities (find the glowing yellow orbs)\nRight mouse - Heavy Swing Ability\nQ - Wayfinder Ability\nE - Scream Ability\n\nTips:\nGoal: Find the switches to trigger the escape route and find the abilities to make your search easer.\nPickaxe: has some very good tips, you should probably pay attention to what he has to say. \nMap: the map consists of 3 switches, 3 abilities, enemy rocks that will hunt the player down, explosive rocks do damage to the player. ",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjE4NDEzOS8xMjg5NzEwNC5wbmc=/original/C8oyoZ.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4NDEzOS8xMjg5NzEwNS5wbmc=/original/Tiu6l3.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4NDEzOS8xMjg5NzEwNy5wbmc=/original/%2BMZ6yX.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4NDEzOS8xMjg5NzEwMy5wbmc=/original/I4Y491.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Authors": "Magpie, Euruss, W35",
+          "Genre": "Adventure, Puzzle",
+          "Made with": "Unity",
+          "Tags": "Exploration, Mystery, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 2184476,
+      "gameUrl": "https://extrone.itch.io/tiny-lands",
+      "overallRank": 29,
+      "topCategories": [
+        "Presentation (visuals)"
+      ],
+      "resultData": {
+        "title": "Tiny-Lands",
+        "raw_score": 3.9,
+        "cover_url": "https://img.itch.zone/aW1nLzEyOTAyMDI3LnBuZw==/300x240%23c/us%2FoxJ.png",
+        "id": 2184476,
+        "contributors": [
+          {
+            "name": "Extrone",
+            "id": 717487
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "raw_score": 3.3,
+            "score": 3.3,
+            "rank": 109
+          },
+          {
+            "name": "Presentation (visuals)",
+            "raw_score": 4.8,
+            "score": 4.8,
+            "rank": 1
+          },
+          {
+            "name": "Adheres to jam theme",
+            "raw_score": 3.6,
+            "score": 3.6,
+            "rank": 123
+          }
+        ],
+        "score": 3.9,
+        "rating_count": 10,
+        "rank": 29,
+        "url": "https://itch.io/jam/kenney-jam-2023/rate/2184476"
+      },
+      "entryData": {
+        "rating_count": 10,
+        "created_at": "2023-07-23 14:45:35",
+        "coolness": 8,
+        "id": 438763,
+        "url": "/jam/kenney-jam-2023/rate/2184476",
+        "game": {
+          "cover_color": "#23463c",
+          "url": "https://extrone.itch.io/tiny-lands",
+          "short_text": "Explore tiny islands, collect apples and enjoy the views",
+          "price": "$1.99",
+          "user": {
+            "name": "Extrone",
+            "url": "https://extrone.itch.io",
+            "id": 717487
+          },
+          "title": "Tiny-Lands",
+          "id": 2184476,
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEyOTAyMDI3LnBuZw==/300x240%23c/us%2FoxJ.png"
+        }
+      },
+      "details": {
+        "title": "Tiny-Lands",
+        "description": "\n\nExplore Islands\n\nCollect Apples\n\nUnlock New Islands\n\nEnjoy the views\n\nCredits\n3D Models and 2D Sprites from Kenney.nl\nMusic from weloveindies.com\n\nKenney Jam 2023\nRanked\n 1st \nin Presentation (visuals)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjE4NDQ3Ni8xMjg5OTYyMi5wbmc=/original/y7fJGU.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4NDQ3Ni8xMjkxMDMwMC5wbmc=/original/PYhO6c.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4NDQ3Ni8xMjg5OTYyMy5wbmc=/original/y7hq4K.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4NDQ3Ni8xMjkxMDMwMS5wbmc=/original/cqqg%2FQ.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4NDQ3Ni8xMjkxMDMwMi5wbmc=/original/GKvkLK.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Author": "Extrone",
+          "Genre": "Platformer",
+          "Made with": "Unreal Engine",
+          "Tags": "3D, Atmospheric, Casual, Exploration, islands, nature, Unreal Engine",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 2182248,
+      "gameUrl": "https://dunkingdoggames.itch.io/secrets-of-the-abyss",
+      "overallRank": 9,
+      "topCategories": [
+        "Presentation (visuals)"
+      ],
+      "resultData": {
+        "title": "Secrets of the Abyss",
+        "raw_score": 4.2298850574713,
+        "cover_url": "https://img.itch.zone/aW1nLzEyOTY5NjAxLnBuZw==/300x240%23c/yRc7tb.png",
+        "id": 2182248,
+        "contributors": [
+          {
+            "name": "Dunking Dog Games",
+            "id": 2191672
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "raw_score": 4.0344827586207,
+            "score": 4.0344827586207,
+            "rank": 16
+          },
+          {
+            "name": "Presentation (visuals)",
+            "raw_score": 4.7931034482759,
+            "score": 4.7931034482759,
+            "rank": 2
+          },
+          {
+            "name": "Adheres to jam theme",
+            "raw_score": 3.8620689655172,
+            "score": 3.8620689655172,
+            "rank": 78
+          }
+        ],
+        "score": 4.2298850574713,
+        "rating_count": 29,
+        "rank": 9,
+        "url": "https://itch.io/jam/kenney-jam-2023/rate/2182248"
+      },
+      "entryData": {
+        "rating_count": 29,
+        "created_at": "2023-07-23 13:34:48",
+        "coolness": 27,
+        "id": 438607,
+        "url": "/jam/kenney-jam-2023/rate/2182248",
+        "game": {
+          "cover_color": "#1c2638",
+          "id": 2182248,
+          "user": {
+            "name": "Dunking Dog Games",
+            "url": "https://dunkingdoggames.itch.io",
+            "id": 2191672
+          },
+          "url": "https://dunkingdoggames.itch.io/secrets-of-the-abyss",
+          "short_text": "A simple rogue-lite made for Kenney's Jam 2023",
+          "title": "Secrets of the Abyss",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEyOTY5NjAxLnBuZw==/300x240%23c/yRc7tb.png"
+        }
+      },
+      "details": {
+        "title": "Secrets of the Abyss",
+        "description": "Entry for Kenney Jam 2023\nRanked\n2nd in Presentation (visuals)\n9th Overall\n30 Randomly generated Levels - can you beat them?\nControls (Keyboard)\nWASD: MoveLeft-click: Attack (in movement direction)Right-click: Dash\nKnow Bugs\nThe game is probably highly imbalance at this point.\nEmbark on a perilous journey into the dark depths of the Abyss, where untold secrets and unimaginable treasures lie hidden. \"Secrets of the Abyss\" is an enthralling rogue-lite dungeon crawler that challenges players to navigate through procedurally generated levels, battle menacing creatures, uncover ancient mysteries, and overcome treacherous traps.\nAssets Used\nGraphics: Mini Dungeon (by Kenney)Animations: MixamoMusic: SUSPENSEFUL - Suspense Background Music - YouTube\nSome of these are affiliate links, I get a small kick-back.\nDestruction: RayFireDamage Numbers: Damage Numbers ProInput Handling: RewiredPathfinding: A* Pathfinding ProSound: Cute UI & Interact Sound Effects Pack",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjE4MjI0OC8xMjkxMTMyOC5qcGc=/original/ynrmy2.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjE4MjI0OC8xMjkxNTUyMC5qcGc=/original/8NOGP9.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjE4MjI0OC8xMjkxNTUzNi5qcGc=/original/BoD6Xd.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjE4MjI0OC8xMjkxNTUyNi5qcGc=/original/ZoNNtq.jpg"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Rating": "Rated 2.7 out of 5 stars(3 total ratings)",
+          "Author": "Dunking Dog Games",
+          "Genre": "Survival, Role Playing",
+          "Made with": "Unity",
+          "Tags": "Dungeon Crawler, Hack and Slash, Roguelite"
+        }
+      }
+    },
+    {
+      "gameId": 2184315,
+      "gameUrl": "https://thesoulselector.itch.io/where-the-bleep-are-my-keys",
+      "overallRank": 27,
+      "topCategories": [
+        "Presentation (visuals)"
+      ],
+      "resultData": {
+        "title": "Where The Bleep Are My Keys?",
+        "raw_score": 3.9259259259259,
+        "cover_url": "https://img.itch.zone/aW1nLzEyODk4MDgyLnBuZw==/300x240%23c/T9KWCV.png",
+        "id": 2184315,
+        "contributors": [
+          {
+            "name": "TheSoulSelector",
+            "id": 92307
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "raw_score": 3.1111111111111,
+            "score": 3.1111111111111,
+            "rank": 163
+          },
+          {
+            "name": "Presentation (visuals)",
+            "raw_score": 4.5555555555556,
+            "score": 4.5555555555556,
+            "rank": 4
+          },
+          {
+            "name": "Adheres to jam theme",
+            "raw_score": 4.1111111111111,
+            "score": 4.1111111111111,
+            "rank": 41
+          }
+        ],
+        "score": 3.9259259259259,
+        "rating_count": 18,
+        "rank": 27,
+        "url": "https://itch.io/jam/kenney-jam-2023/rate/2184315"
+      },
+      "entryData": {
+        "rating_count": 18,
+        "created_at": "2023-07-23 14:49:49",
+        "coolness": 40,
+        "id": 438789,
+        "url": "/jam/kenney-jam-2023/rate/2184315",
+        "game": {
+          "cover_color": "#555555",
+          "id": 2184315,
+          "user": {
+            "name": "TheSoulSelector",
+            "url": "https://thesoulselector.itch.io",
+            "id": 92307
+          },
+          "url": "https://thesoulselector.itch.io/where-the-bleep-are-my-keys",
+          "short_text": "Lost Keys, go find",
+          "title": "Where The Bleep Are My Keys?",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEyODk4MDgyLnBuZw==/300x240%23c/T9KWCV.png"
+        }
+      },
+      "details": {
+        "title": "Where The Bleep Are My Keys?",
+        "description": "Where The Bleep Are My Keys?\nMade for Kenney Jam 2023, the Theme is 'Exploration'\nControls:\nL/R Arrows - Movement\nU Arrow - Interact with Signs\nD Arrow - Search the ground\nSpace - Jump\nEscape - Pause / Quit\nSearch the land for your lost keys. Look for glinting objects in the dark. 52 things to find, but you only need one to get out of here. 8 paths connect 5 locations, keep your eyes peeled as you explore. \nSolo project completed in 48 hours\nAssets from Kenney\nMusic by Ben Pugh with Matt Daw\nItems curated by Zeta",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjE4NDMxNS8xMjg5OTQwNi5wbmc=/original/wFTyjP.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4NDMxNS8xMjg5OTQwOS5wbmc=/original/GIzz06.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4NDMxNS8xMjg5OTQwOC5wbmc=/original/efg%2FtO.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4NDMxNS8xMjg5OTQxMC5wbmc=/original/bBCZys.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4NDMxNS8xMjg5OTQwNy5wbmc=/original/%2F8UitV.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Author": "TheSoulSelector",
+          "Genre": "Platformer",
+          "Tags": "Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 2183146,
+      "gameUrl": "https://ogulcantopsakal.itch.io/corpse-collector",
+      "overallRank": 55,
+      "topCategories": [
+        "Presentation (visuals)"
+      ],
+      "resultData": {
+        "title": "Corpse Collector",
+        "raw_score": 3.7142857142857,
+        "cover_url": "https://img.itch.zone/aW1nLzEyODk3NTI1LnBuZw==/300x240%23c/aV9cc%2F.png",
+        "id": 2183146,
+        "contributors": [
+          {
+            "name": "ogulcantopsakal",
+            "id": 4070856
+          },
+          {
+            "name": "Alexandre Bandola",
+            "id": 6978415
+          },
+          {
+            "name": "merveyuksel",
+            "id": 8546511
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "raw_score": 3.3877551020408,
+            "score": 3.3877551020408,
+            "rank": 93
+          },
+          {
+            "name": "Presentation (visuals)",
+            "raw_score": 4.469387755102,
+            "score": 4.469387755102,
+            "rank": 6
+          },
+          {
+            "name": "Adheres to jam theme",
+            "raw_score": 3.2857142857143,
+            "score": 3.2857142857143,
+            "rank": 201
+          }
+        ],
+        "score": 3.7142857142857,
+        "rating_count": 98,
+        "rank": 55,
+        "url": "https://itch.io/jam/kenney-jam-2023/rate/2183146"
+      },
+      "entryData": {
+        "rating_count": 98,
+        "created_at": "2023-07-23 02:31:04",
+        "coolness": 65,
+        "id": 438225,
+        "url": "/jam/kenney-jam-2023/rate/2183146",
+        "contributors": [
+          {
+            "name": "ogulcantopsakal",
+            "url": "https://ogulcantopsakal.itch.io"
+          },
+          {
+            "name": "Alexandre Bandola",
+            "url": "https://alexandre-bandola.itch.io"
+          },
+          {
+            "name": "merveyuksel",
+            "url": "https://merveyuksel.itch.io"
+          }
+        ],
+        "game": {
+          "cover_color": "#000000",
+          "id": 2183146,
+          "user": {
+            "name": "ogulcantopsakal",
+            "url": "https://ogulcantopsakal.itch.io",
+            "id": 4070856
+          },
+          "url": "https://ogulcantopsakal.itch.io/corpse-collector",
+          "short_text": "Collect the corpses and try to survive the night!",
+          "title": "Corpse Collector",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEyODk3NTI1LnBuZw==/300x240%23c/aV9cc%2F.png"
+        }
+      },
+      "details": {
+        "title": "Corpse Collector",
+        "description": "Description \nDeveloped for the Kenney Jam 2023 in 48 hours. In this game, you have to carry the corpses around and purify them at your altar. While doing this, you need to use your time wisely and set up an appropriate strategy. Do not forget to use the lights against zombies.\n\n-\nDisclaimer\nIf you want to play in better quality without having too much trouble on the browser  you need to download and play windows or mac files. \n-\nCredits\n\nDeveloped by Ogulcan Topsakal\n\nDesigned by Merve Yuksel\n\nSound by Alexandre Bandola\nAll art used in this project from https://kenney.nl/.\n-\n\nUsed Tools\n\nZenject, FMOD",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjE4MzE0Ni8xMjg5NjEyOC5naWY=/original/zFFkj8.gif",
+          "https://img.itch.zone/aW1hZ2UvMjE4MzE0Ni8xMjg5NjA2MC5naWY=/original/UFoTNU.gif",
+          "https://img.itch.zone/aW1hZ2UvMjE4MzE0Ni8xMjg5NjExNC5naWY=/original/%2FV9RFg.gif",
+          "https://img.itch.zone/aW1hZ2UvMjE4MzE0Ni8xMjg5NjA1OS5naWY=/original/5rIzis.gif",
+          "https://img.itch.zone/aW1hZ2UvMjE4MzE0Ni8xMjg5NjA3NS5naWY=/original/Oy7s77.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "ogulcantopsakal, Alexandre Bandola, merveyuksel",
+          "Genre": "Adventure, Survival",
+          "Tags": "3D, Cute, Low-poly, Speedrun"
+        }
+      }
+    },
+    {
+      "gameId": 2182357,
+      "gameUrl": "https://liftyforever.itch.io/treacherous-sea",
+      "overallRank": 5,
+      "topCategories": [
+        "Presentation (visuals)",
+        "Adheres to jam theme"
+      ],
+      "resultData": {
+        "title": "Treacherous Sea",
+        "raw_score": 4.3611111111111,
+        "cover_url": "https://img.itch.zone/aW1nLzEyODg2MzI3LnBuZw==/300x240%23c/NzcZUd.png",
+        "id": 2182357,
+        "contributors": [
+          {
+            "name": "LiftyForever",
+            "id": 1669279
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "raw_score": 3.9166666666667,
+            "score": 3.9166666666667,
+            "rank": 24
+          },
+          {
+            "name": "Presentation (visuals)",
+            "raw_score": 4.4166666666667,
+            "score": 4.4166666666667,
+            "rank": 7
+          },
+          {
+            "name": "Adheres to jam theme",
+            "raw_score": 4.75,
+            "score": 4.75,
+            "rank": 1
+          }
+        ],
+        "score": 4.3611111111111,
+        "rating_count": 12,
+        "rank": 5,
+        "url": "https://itch.io/jam/kenney-jam-2023/rate/2182357"
+      },
+      "entryData": {
+        "rating_count": 12,
+        "created_at": "2023-07-22 10:59:05",
+        "coolness": 0,
+        "id": 437911,
+        "url": "/jam/kenney-jam-2023/rate/2182357",
+        "game": {
+          "cover_color": "#a1672d",
+          "id": 2182357,
+          "user": {
+            "name": "LiftyForever",
+            "url": "https://liftyforever.itch.io",
+            "id": 1669279
+          },
+          "url": "https://liftyforever.itch.io/treacherous-sea",
+          "short_text": "Uncover the secrets of the Treacherous Sea",
+          "title": "Treacherous Sea",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEyODg2MzI3LnBuZw==/300x240%23c/NzcZUd.png"
+        }
+      },
+      "details": {
+        "title": "Treacherous Sea",
+        "description": "Treacherous Sea is a short game made for Kenney Jam 2023! The theme was Exploration, so, do you want to uncover the mysteries of the Treacherous Sea?\n(Recommended to play in fullscreen)\n\n\nABOUT\nYou play as a pirate, hungry for gold. There are legends about unimagineable riches hidden in the Treacherous Sea. No one was able to get it before, but they are just amateurs.\nControl the ship and move along the sea. Explore all of its interesting places and stories.\nBut remember, your main goal is the treasure.\n\nGame assets: Kenney. Only the font is my custom one. (Requirements of the jam)\nCONTROLS\nW, S - Move ship forward / backward.\nA, D - Rotate the ship.\nE, Q - Rotate the camera.\nLMB - Interact, place marker.\n\nTAB - Open map.\n\nRMB - Destroy marker if in hand. Otherwise, LMB on the already placed marker.\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjE4MjM1Ny8xMjg4NjIxMi5wbmc=/original/Ro%2Ft0o.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4MjM1Ny8xMjg4NjIxNi5wbmc=/original/2MiH7B.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4MjM1Ny8xMjg4NjIxNC5wbmc=/original/wqxbFG.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4MjM1Ny8xMjg4NjIxMy5wbmc=/original/6e81FC.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4MjM1Ny8xMjg4NjIxMS5wbmc=/original/1xLmi9.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4MjM1Ny8xMjg4NjIxNS5wbmc=/original/g0w3ve.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Author": "LiftyForever",
+          "Genre": "Adventure",
+          "Made with": "Unity",
+          "Tags": "3D, Atmospheric, Exploration, sea, secrets, ships, Story Rich, Top-Down, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 2183215,
+      "gameUrl": "https://tumbum.itch.io/kennygamejam",
+      "overallRank": 38,
+      "topCategories": [
+        "Presentation (visuals)"
+      ],
+      "resultData": {
+        "title": "Lost Murder",
+        "raw_score": 3.8616352201258,
+        "cover_url": "https://img.itch.zone/aW1nLzEyOTE1MTUxLnBuZw==/300x240%23c/PoYTOS.png",
+        "id": 2183215,
+        "contributors": [
+          {
+            "name": "TumBum",
+            "id": 3660401
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "raw_score": 3.6792452830189,
+            "score": 3.6792452830189,
+            "rank": 47
+          },
+          {
+            "name": "Presentation (visuals)",
+            "raw_score": 4.4150943396226,
+            "score": 4.4150943396226,
+            "rank": 8
+          },
+          {
+            "name": "Adheres to jam theme",
+            "raw_score": 3.4905660377358,
+            "score": 3.4905660377358,
+            "rank": 152
+          }
+        ],
+        "score": 3.8616352201258,
+        "rating_count": 53,
+        "rank": 38,
+        "url": "https://itch.io/jam/kenney-jam-2023/rate/2183215"
+      },
+      "entryData": {
+        "rating_count": 53,
+        "created_at": "2023-07-23 12:49:49",
+        "coolness": 34,
+        "id": 438542,
+        "url": "/jam/kenney-jam-2023/rate/2183215",
+        "game": {
+          "cover_color": "#23272d",
+          "id": 2183215,
+          "user": {
+            "name": "TumBum",
+            "url": "https://tumbum.itch.io",
+            "id": 3660401
+          },
+          "url": "https://tumbum.itch.io/kennygamejam",
+          "short_text": "There's Been A Murder",
+          "title": "Lost Murder",
+          "platforms": [
+            "windows",
+            "osx",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEyOTE1MTUxLnBuZw==/300x240%23c/PoYTOS.png"
+        }
+      },
+      "details": {
+        "title": "Lost Murder",
+        "description": "Made for the kenny jam 2023.\nControls:\nLook - MouseMove - WASDSprint - shiftInteract - Left mouse button\nNavigate Menu - W / S Menu Select - EnterSkip Dialog - Space\nChristian Timothy - Voice actingTumBum - Developer\nAssets used:https://kenney.nl/assets/car-kithttps://kenney.nl/assets/graveyard-kithttps://kenney.nl/assets/retro-urban-kithttps://kenney.nl/assets/animated-characters-1\n\n\nInstall 'LostMurder.zip'Extract it.Open Lost Murder.exe",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjE4MzIxNS8xMjg5NzQzNi5wbmc=/original/L%2BTOA6.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4MzIxNS8xMjg5NzQ0NS5wbmc=/original/5kYVN8.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4MzIxNS8xMjg5NzQ0OC5wbmc=/original/VqRkuQ.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS",
+          "Rating": "Rated 4.2 out of 5 stars(6 total ratings)",
+          "Author": "TumBum",
+          "Genre": "Action",
+          "Made with": "Unity",
+          "Tags": "3D, First-Person, Horror, murder, Pixel Art, PSX (PlayStation), Retro, Short, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 2181434,
+      "gameUrl": "https://stasiandr.itch.io/tender-quest",
+      "overallRank": 33,
+      "topCategories": [
+        "Presentation (visuals)"
+      ],
+      "resultData": {
+        "title": "Tender Quest",
+        "raw_score": 3.8717948717949,
+        "cover_url": "https://img.itch.zone/aW1nLzEyODk4ODk3LnBuZw==/300x240%23c/HAYinH.png",
+        "id": 2181434,
+        "contributors": [
+          {
+            "name": "stasiandr",
+            "id": 2358091
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "raw_score": 3.6153846153846,
+            "score": 3.6153846153846,
+            "rank": 55
+          },
+          {
+            "name": "Presentation (visuals)",
+            "raw_score": 4.3846153846154,
+            "score": 4.3846153846154,
+            "rank": 9
+          },
+          {
+            "name": "Adheres to jam theme",
+            "raw_score": 3.6153846153846,
+            "score": 3.6153846153846,
+            "rank": 121
+          }
+        ],
+        "score": 3.8717948717949,
+        "rating_count": 13,
+        "rank": 33,
+        "url": "https://itch.io/jam/kenney-jam-2023/rate/2181434"
+      },
+      "entryData": {
+        "rating_count": 13,
+        "created_at": "2023-07-23 14:33:30",
+        "coolness": 12,
+        "id": 438724,
+        "url": "/jam/kenney-jam-2023/rate/2181434",
+        "game": {
+          "cover_color": "#ffffff",
+          "id": 2181434,
+          "user": {
+            "name": "stasiandr",
+            "url": "https://stasiandr.itch.io",
+            "id": 2358091
+          },
+          "url": "https://stasiandr.itch.io/tender-quest",
+          "short_text": "Short story of a boy looking for his girlfriend",
+          "title": "Tender Quest",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEyODk4ODk3LnBuZw==/300x240%23c/HAYinH.png"
+        }
+      },
+      "details": {
+        "title": "Tender Quest",
+        "description": "\nWelcome to Tender Quest\nGame made  for Kenney Jam 2023.\n\nEmbark on a heartwarming adventure in a whimsical world of magic, as a brave young boy searches for his lost girlfriend. Solve enchanting puzzles, befriend magical creatures, and discover the power of love on this captivating journey. Will you find your true love in the land of enchantment?",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjE4MTQzNC8xMjg5ODQ2Mi5qcGc=/original/yJnTih.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjE4MTQzNC8xMjg5ODQ2MS5qcGc=/original/e097sb.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjE4MTQzNC8xMjg5ODQ2My5qcGc=/original/TCiiPO.jpg"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Author": "stasiandr",
+          "Genre": "Adventure",
+          "Made with": "Unity"
+        }
+      }
+    },
+    {
+      "gameId": 2183057,
+      "gameUrl": "https://tnnv.itch.io/deep-space-cargo",
+      "overallRank": 32,
+      "topCategories": [
+        "Presentation (visuals)"
+      ],
+      "resultData": {
+        "title": "Deep Space Cargo (Kenney Jam 2023)",
+        "raw_score": 4.3333333333333,
+        "cover_url": "https://img.itch.zone/aW1nLzEyODk3NzY1LnBuZw==/300x240%23c/%2FcvtfU.png",
+        "id": 2183057,
+        "contributors": [
+          {
+            "name": "Tnnv",
+            "id": 1349753
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "raw_score": 4.25,
+            "score": 3.8013155617496,
+            "rank": 32
+          },
+          {
+            "name": "Presentation (visuals)",
+            "raw_score": 4.875,
+            "score": 4.3603325561246,
+            "rank": 10
+          },
+          {
+            "name": "Adheres to jam theme",
+            "raw_score": 3.875,
+            "score": 3.4659053651247,
+            "rank": 159
+          }
+        ],
+        "score": 3.8758511609996,
+        "rating_count": 8,
+        "rank": 32,
+        "url": "https://itch.io/jam/kenney-jam-2023/rate/2183057"
+      },
+      "entryData": {
+        "rating_count": 8,
+        "created_at": "2023-07-22 20:18:17",
+        "coolness": 0,
+        "id": 438069,
+        "url": "/jam/kenney-jam-2023/rate/2183057",
+        "game": {
+          "cover_color": "#111111",
+          "id": 2183057,
+          "user": {
+            "name": "Tnnv",
+            "url": "https://tnnv.itch.io",
+            "id": 1349753
+          },
+          "url": "https://tnnv.itch.io/deep-space-cargo",
+          "short_text": "Cargo ship piloting game",
+          "title": "Deep Space Cargo (Kenney Jam 2023)",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEyODk3NzY1LnBuZw==/300x240%23c/%2FcvtfU.png"
+        }
+      },
+      "details": {
+        "title": "Deep Space Cargo (Kenney Jam 2023)",
+        "description": "Deep Space Cargo is a Kenney Jam 2023 submission. Theme is \"Exploration\".\nTime has come to move further into the unknown.\nGather resources from nearby planets and deliver them to the factories!\nThen deliver produced materials to the construction site to build an intergalactic rocket!Kenney assets used:Survival KitSpace KitPlanetsParticle PackUI AudioUI Pack (Space Expansion)Kenney FontsMusic:  https://www.purple-planet.comSounds: https://freesound.org/\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjE4MzA1Ny8xMjg5NzY2Ni5wbmc=/original/F80zbZ.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4MzA1Ny8xMjg5NzcwOS5wbmc=/original/r4O7%2FN.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4MzA1Ny8xMjg5NzczNy5wbmc=/original/MNz0Hq.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4MzA1Ny8xMjg5NzcxOS5wbmc=/original/fJb%2F5o.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4MzA1Ny8xMjg5NzcyMC5wbmc=/original/ov7X1j.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows",
+          "Author": "Tnnv",
+          "Genre": "Adventure",
+          "Tags": "3D, Short, Singleplayer, Space, Unreal Engine"
+        }
+      }
+    },
+    {
+      "gameId": 2184019,
+      "gameUrl": "https://kletsgpt.itch.io/x-marks-the-spot",
+      "overallRank": 7,
+      "topCategories": [
+        "Adheres to jam theme"
+      ],
+      "resultData": {
+        "title": "X Marks the Spot",
+        "raw_score": 4.3181818181818,
+        "cover_url": "https://img.itch.zone/aW1nLzEyODk1ODQ3LnBuZw==/300x240%23c/0Ws2fK.png",
+        "id": 2184019,
+        "contributors": [
+          {
+            "name": "KletsGPT",
+            "id": 1298296
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "raw_score": 4.1363636363636,
+            "score": 4.1363636363636,
+            "rank": 10
+          },
+          {
+            "name": "Presentation (visuals)",
+            "raw_score": 4.1363636363636,
+            "score": 4.1363636363636,
+            "rank": 31
+          },
+          {
+            "name": "Adheres to jam theme",
+            "raw_score": 4.6818181818182,
+            "score": 4.6818181818182,
+            "rank": 4
+          }
+        ],
+        "score": 4.3181818181818,
+        "rating_count": 22,
+        "rank": 7,
+        "url": "https://itch.io/jam/kenney-jam-2023/rate/2184019"
+      },
+      "entryData": {
+        "rating_count": 22,
+        "created_at": "2023-07-23 10:50:42",
+        "coolness": 22,
+        "id": 438444,
+        "url": "/jam/kenney-jam-2023/rate/2184019",
+        "game": {
+          "url": "https://kletsgpt.itch.io/x-marks-the-spot",
+          "user": {
+            "name": "KletsGPT",
+            "url": "https://kletsgpt.itch.io",
+            "id": 1298296
+          },
+          "id": 2184019,
+          "short_text": "Find hidden treasures and uncover mysteries!",
+          "title": "X Marks the Spot",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEyODk1ODQ3LnBuZw==/300x240%23c/0Ws2fK.png"
+        }
+      },
+      "details": {
+        "title": "X Marks the Spot",
+        "description": "Controls: \nWASD to moveMove mouse to look aroundClick to interact/use toolsScroll to change tools\nDear Adventurer,\nIf you are reading this, then fate has brought you to a place of profound mystery. You see, I was looking for remains of the enigmatic Xiteks civilisation that made their home on this island thousands of years ago. I was expecting to find little more than empty ruins. The truth, however, proved far more incredible.\nAlas, unforeseen circumstances forced me to an early departure, thwarting any further attempts to uncover the secrets that this place holds. To keep my findings save, I locked down the site and hid my preliminary findings. It is up to you to unravel the mysteries of the Xiteks and change the course of history.\nGodspeed,\nProfessor James McKenney\nP.S. X marks the spot\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjE4NDAxOS8xMjg5Nzk4Ny5wbmc=/original/1vqEhj.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4NDAxOS8xMjg5Nzk5MC5wbmc=/original/xH%2FNjp.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4NDAxOS8xMjg5Nzk5Mi5wbmc=/original/mJMADG.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4NDAxOS8xMjg5Nzk5OC5wbmc=/original/kHT%2FzF.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4NDAxOS8xMjg5ODAwMC5wbmc=/original/OHgO7x.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4NDAxOS8xMjg5ODAwMi5wbmc=/original/M2dkGe.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 1.0 out of 5 stars(1 total ratings)",
+          "Author": "KletsGPT",
+          "Genre": "Puzzle, Adventure",
+          "Made with": "Godot",
+          "Tags": "3D, First-Person, Mystery, Puzzle-Platformer, Short, Singleplayer",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 2183883,
+      "gameUrl": "https://keays.itch.io/cawtography",
+      "overallRank": 17,
+      "topCategories": [
+        "Adheres to jam theme"
+      ],
+      "resultData": {
+        "title": "Cawtography",
+        "raw_score": 4.1111111111111,
+        "cover_url": "https://img.itch.zone/aW1nLzEyODk1Mjc1LnBuZw==/300x240%23c/jy4K0R.png",
+        "id": 2183883,
+        "contributors": [
+          {
+            "name": "keays",
+            "id": 7638110
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "raw_score": 3.6296296296296,
+            "score": 3.6296296296296,
+            "rank": 53
+          },
+          {
+            "name": "Presentation (visuals)",
+            "raw_score": 4.1111111111111,
+            "score": 4.1111111111111,
+            "rank": 33
+          },
+          {
+            "name": "Adheres to jam theme",
+            "raw_score": 4.5925925925926,
+            "score": 4.5925925925926,
+            "rank": 6
+          }
+        ],
+        "score": 4.1111111111111,
+        "rating_count": 27,
+        "rank": 17,
+        "url": "https://itch.io/jam/kenney-jam-2023/rate/2183883"
+      },
+      "entryData": {
+        "rating_count": 27,
+        "created_at": "2023-07-23 09:48:38",
+        "coolness": 27,
+        "id": 438413,
+        "url": "/jam/kenney-jam-2023/rate/2183883",
+        "game": {
+          "url": "https://keays.itch.io/cawtography",
+          "user": {
+            "name": "keays",
+            "url": "https://keays.itch.io",
+            "id": 7638110
+          },
+          "id": 2183883,
+          "short_text": "Assemble a map with your avian friend",
+          "title": "Cawtography",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEyODk1Mjc1LnBuZw==/300x240%23c/jy4K0R.png"
+        }
+      },
+      "details": {
+        "title": "Cawtography",
+        "description": "The goal of this game is to discover all of the landmarks in the game area and build an accurate map out of the collected tiles.\nMove with WASD. Jump with spacebar. Hold shift to run. Tab to open/close map.\nMusic: Waiting II by Joseph Gilbert / Kistol.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjE4Mzg4My8xMjg5NTQ1Ni5wbmc=/original/Tw9JjR.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4Mzg4My8xMjg5NTQ1OC5wbmc=/original/8sPyl5.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4Mzg4My8xMjg5NTQ1OS5wbmc=/original/hGJZfW.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "keays",
+          "Genre": "Platformer",
+          "Made with": "Unity",
+          "Tags": "3D, 3D Platformer, Exploration, Relaxing"
+        }
+      }
+    },
+    {
+      "gameId": 2182672,
+      "gameUrl": "https://moontile.itch.io/astronomini",
+      "overallRank": 12,
+      "topCategories": [
+        "Adheres to jam theme"
+      ],
+      "resultData": {
+        "title": "Astronomini",
+        "raw_score": 4.1818181818182,
+        "cover_url": "https://img.itch.zone/aW1nLzEyOTc5NTA5LnBuZw==/300x240%23c/5KCME9.png",
+        "id": 2182672,
+        "contributors": [
+          {
+            "name": "Moon Tile",
+            "id": 3064651
+          },
+          {
+            "name": "Coding4rtist",
+            "id": 166791
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "raw_score": 3.7272727272727,
+            "score": 3.7272727272727,
+            "rank": 38
+          },
+          {
+            "name": "Presentation (visuals)",
+            "raw_score": 4.2727272727273,
+            "score": 4.2727272727273,
+            "rank": 18
+          },
+          {
+            "name": "Adheres to jam theme",
+            "raw_score": 4.5454545454545,
+            "score": 4.5454545454545,
+            "rank": 7
+          }
+        ],
+        "score": 4.1818181818182,
+        "rating_count": 11,
+        "rank": 12,
+        "url": "https://itch.io/jam/kenney-jam-2023/rate/2182672"
+      },
+      "entryData": {
+        "rating_count": 11,
+        "created_at": "2023-07-23 14:52:45",
+        "coolness": 20,
+        "id": 438812,
+        "url": "/jam/kenney-jam-2023/rate/2182672",
+        "contributors": [
+          {
+            "name": "Moon Tile",
+            "url": "https://moontile.itch.io"
+          },
+          {
+            "name": "Coding4rtist",
+            "url": "https://coding4rtist.itch.io"
+          }
+        ],
+        "game": {
+          "cover_color": "#1d1325",
+          "id": 2182672,
+          "user": {
+            "name": "Moon Tile",
+            "url": "https://moontile.itch.io",
+            "id": 3064651
+          },
+          "url": "https://moontile.itch.io/astronomini",
+          "short_text": "Asynchronous multiplayer space exploration adventure to name all the constellations of the universe!",
+          "title": "Astronomini",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEyOTc5NTA5LnBuZw==/300x240%23c/5KCME9.png"
+        }
+      },
+      "details": {
+        "title": "Astronomini",
+        "description": "Travel the universe\n\nMove your ship with simple controls (WASD) but hard to master!\nName constellations\n\nLight the stars of the constellation, to take ownership of it.\n\nEveryone playing the game will see the constellation that you named!\n\nComplete the universe\n\nWork with outer players to name all the constellations in this asynchronous multiplayer game!\nJoin the community\nJoin our community to stay up-to-date with the latest game news, make connections with fellow explorers, and much more!\n     \nCredits\nMade in 48 h by Coding4rtist and Guido MeoGoogle Fonts - Josefin Sans font",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjE4MjY3Mi8xMjkwMDQ4MS5naWY=/original/ZqHdZI.gif",
+          "https://img.itch.zone/aW1hZ2UvMjE4MjY3Mi8xMjkwMDgxNS5naWY=/original/nU8D2d.gif",
+          "https://img.itch.zone/aW1hZ2UvMjE4MjY3Mi8xMjkwMDU0Ni5naWY=/original/buUagq.gif",
+          "https://img.itch.zone/aW1hZ2UvMjE4MjY3Mi8xMjkwMDg3MC5naWY=/original/H6LBvz.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "Moon Tile, Coding4rtist",
+          "Genre": "Adventure, Simulation",
+          "Tags": "2D, Arcade, Atmospheric, Experimental, Exploration, Multiplayer, Open World, Space",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard",
+          "Links": "Community, Community"
+        }
+      }
+    },
+    {
+      "gameId": 2183137,
+      "gameUrl": "https://dplekh.itch.io/space-scouts",
+      "overallRank": 26,
+      "topCategories": [
+        "Adheres to jam theme"
+      ],
+      "resultData": {
+        "title": "Space Scouts",
+        "raw_score": 3.9298245614035,
+        "cover_url": "https://img.itch.zone/aW1nLzEyODkxMTc1LnBuZw==/300x240%23c/b%2FuCAG.png",
+        "id": 2183137,
+        "contributors": [
+          {
+            "name": "Dmytro",
+            "id": 6403096
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "raw_score": 3.4210526315789,
+            "score": 3.4210526315789,
+            "rank": 85
+          },
+          {
+            "name": "Presentation (visuals)",
+            "raw_score": 3.8421052631579,
+            "score": 3.8421052631579,
+            "rank": 58
+          },
+          {
+            "name": "Adheres to jam theme",
+            "raw_score": 4.5263157894737,
+            "score": 4.5263157894737,
+            "rank": 9
+          }
+        ],
+        "score": 3.9298245614035,
+        "rating_count": 19,
+        "rank": 26,
+        "url": "https://itch.io/jam/kenney-jam-2023/rate/2183137"
+      },
+      "entryData": {
+        "rating_count": 19,
+        "created_at": "2023-07-22 21:50:06",
+        "coolness": 21,
+        "id": 438114,
+        "url": "/jam/kenney-jam-2023/rate/2183137",
+        "game": {
+          "url": "https://dplekh.itch.io/space-scouts",
+          "user": {
+            "name": "Dmytro",
+            "url": "https://dplekh.itch.io",
+            "id": 6403096
+          },
+          "id": 2183137,
+          "short_text": "Restore your planet after a catastrophe",
+          "title": "Space Scouts",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEyODkxMTc1LnBuZw==/300x240%23c/b%2FuCAG.png"
+        }
+      },
+      "details": {
+        "title": "Space Scouts",
+        "description": "Goal\nDiscover and unlock all 7 planets(including your home planet) by gathering required resources around the map.\nControls\nSPACE or E - to move through dialogs.\nWASD or ARROW keys - to control your spaceship.\nM - to open a map.\nHints\nMap contains a few black holes that teleport you into defined part of the map. They become inactive for the next 5 seconds after the activation. Use them to shorten your travel time through the map. \nCheck the map if you feel lost.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjE4MzEzNy8xMjg5MTE3Ny5wbmc=/original/jRzslP.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4MzEzNy8xMjg5MTE4Ny5wbmc=/original/QdGYMU.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4MzEzNy8xMjg5MTE4Ni5wbmc=/original/I8Zj80.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4MzEzNy8xMjg5MTE4OS5wbmc=/original/DW5yC3.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4MzEzNy8xMjg5MTE4OC5wbmc=/original/dkeOdN.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4MzEzNy8xMjg5MTE5MC5wbmc=/original/EuH2KX.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4MzEzNy8xMjg5MTE5MS5wbmc=/original/OG9J2R.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Dmytro",
+          "Genre": "Adventure",
+          "Made with": "Unity",
+          "Tags": "Exploration, Singleplayer, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 2183007,
+      "gameUrl": "https://gameandcode.itch.io/space-exploration",
+      "overallRank": 41,
+      "topCategories": [
+        "Adheres to jam theme"
+      ],
+      "resultData": {
+        "title": "Space exploration",
+        "raw_score": 3.8333333333333,
+        "cover_url": "https://img.itch.zone/aW1nLzEyODk0ODg2LnBuZw==/300x240%23c/9GQpHG.png",
+        "id": 2183007,
+        "contributors": [
+          {
+            "name": "YoghurtDrop",
+            "id": 8247660
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "raw_score": 3.5555555555556,
+            "score": 3.5555555555556,
+            "rank": 64
+          },
+          {
+            "name": "Adheres to jam theme",
+            "raw_score": 4.3888888888889,
+            "score": 4.3888888888889,
+            "rank": 10
+          },
+          {
+            "name": "Presentation (visuals)",
+            "raw_score": 3.5555555555556,
+            "score": 3.5555555555556,
+            "rank": 120
+          }
+        ],
+        "score": 3.8333333333333,
+        "rating_count": 18,
+        "rank": 41,
+        "url": "https://itch.io/jam/kenney-jam-2023/rate/2183007"
+      },
+      "entryData": {
+        "rating_count": 18,
+        "created_at": "2023-07-23 12:18:11",
+        "coolness": 26,
+        "id": 438515,
+        "url": "/jam/kenney-jam-2023/rate/2183007",
+        "game": {
+          "cover_color": "#c71717",
+          "id": 2183007,
+          "user": {
+            "name": "YoghurtDrop",
+            "url": "https://gameandcode.itch.io",
+            "id": 8247660
+          },
+          "url": "https://gameandcode.itch.io/space-exploration",
+          "short_text": "Explore the endless space and collect resources to survive",
+          "title": "Space exploration",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEyODk0ODg2LnBuZw==/300x240%23c/9GQpHG.png"
+        }
+      },
+      "details": {
+        "title": "Space exploration",
+        "description": "Setting:\nLost in time and space, you travel to planets and stars to gather resources for your ship. Unfortunately, each journey will cost you fuel and damage your ship. Choose your path wisely to travel through space as long as you can. Who knows what mysterious things you might find out there?\nHow to play:\nHover your mouse over planets in the grid to see what resources they give you in the info box at the top right. Clicking on a planet next to your ship will move your ship there and collect the resources. Each move will cost you 10 fuel and 5 hull. You can see your current stats in the top left info box. There are also some risky options. Planets marked with \"???\" will either give you a big boost or cost you more. Traveling further may trigger some visual events. Have fun!\nUniqueness:\nTo make each run unique, every map is generated anew. The background images also change with each run.\nThis game is part of the KenneyJam\nThe theme of the jam was Exploration and the time limit was 53h.\nAll assets except the background music, are from Kenneys website. Thank you so much! \nBackground music: Space Atmosphere by Alexandr Zhelanov, https://soundcloud.com/alexandr-zhelanov\n\nYou want more?\nIf you liked this game and are interested in more space games. Check out the action rouglike game from my friend Studio Boreli. There is currently a demo on itch.io and steam.\nYou can also check out my Twitter for updates on my game Radiant darkness.Unpack the zip and start the Space exploration.exe\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjE4MzAwNy8xMjg5NzEwMi5wbmc=/original/QBNSTe.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4MzAwNy8xMjg5NDYwMS5wbmc=/original/20pEsA.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4MzAwNy8xMjg5NzExMi5wbmc=/original/JPXp%2B4.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4MzAwNy8xMjg5NDYwNC5wbmc=/original/JF8hYe.png",
+          "https://img.itch.zone/aW1hZ2UvMjE4MzAwNy8xMjg5NDYwMy5wbmc=/original/52CBls.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Author": "YoghurtDrop",
+          "Genre": "Survival, Puzzle",
+          "Made with": "Unity",
+          "Tags": "2D, Atmospheric, Indie, Management, Mystery, Roguelite, Singleplayer, Space",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Mouse"
+        }
+      }
+    }
+  ]
+}

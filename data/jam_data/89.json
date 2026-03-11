@@ -1,0 +1,3122 @@
+{
+  "n": 89,
+  "name": "Adventure Jam 2023",
+  "url": "https://itch.io/jam/advjam2023",
+  "theme": "Adventure",
+  "slug": "advjam2023",
+  "jamMeta": {
+    "jamType": "ended",
+    "ratings": "3,358",
+    "entries": "325",
+    "title": "Adventure Jam 2023",
+    "jamURL": "https://itch.io/jam/advjam2023",
+    "hosts": {
+      "Cassie Benter": "https://fenderbenter.itch.io",
+      "Cheeseness": "https://cheeseness.itch.io",
+      "Stacy Davidson": "https://stacydavidson.itch.io",
+      "#AdvJam2023": "https://bsky.app/hashtag/AdvJam2023"
+    },
+    "jamID": "329727"
+  },
+  "totalEntries": 293,
+  "ranked": true,
+  "hasCategories": true,
+  "needsManualSelection": false,
+  "categories": [
+    "Emotional Engagement",
+    "Mental Engagement",
+    "Atmosphere",
+    "Lasting Impression",
+    "Characterization",
+    "Overall"
+  ],
+  "topGames": [
+    {
+      "gameId": 2103371,
+      "gameUrl": "https://jos87.itch.io/my-mother-and-me",
+      "overallRank": 22,
+      "topCategories": [
+        "Emotional Engagement"
+      ],
+      "resultData": {
+        "rank": 22,
+        "rating_count": 49,
+        "url": "https://itch.io/jam/advjam2023/rate/2103371",
+        "contributors": [
+          {
+            "name": "JOS87",
+            "id": 736292
+          }
+        ],
+        "score": 3.6700680272109,
+        "title": "My Mother & Me",
+        "raw_score": 3.6700680272109,
+        "id": 2103371,
+        "cover_url": "https://img.itch.zone/aW1nLzEyMzkyMTA2LnBuZw==/300x240%23c/%2Bpgb7c.png",
+        "criteria": [
+          {
+            "name": "Mental Engagement",
+            "raw_score": 2.8163265306122,
+            "score": 2.8163265306122,
+            "rank": 76
+          },
+          {
+            "name": "Lasting Impression",
+            "raw_score": 3.8367346938776,
+            "score": 3.8367346938776,
+            "rank": 12
+          },
+          {
+            "name": "Atmosphere",
+            "raw_score": 3.469387755102,
+            "score": 3.469387755102,
+            "rank": 90
+          },
+          {
+            "name": "Characterization",
+            "raw_score": 3.9591836734694,
+            "score": 3.9591836734694,
+            "rank": 13
+          },
+          {
+            "name": "Emotional Engagement",
+            "raw_score": 4.3469387755102,
+            "score": 4.3469387755102,
+            "rank": 1
+          },
+          {
+            "name": "Overall",
+            "raw_score": 3.5918367346939,
+            "score": 3.5918367346939,
+            "rank": 42
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 49,
+        "created_at": "2023-06-06 14:39:35",
+        "coolness": 144,
+        "id": 418757,
+        "url": "/jam/advjam2023/rate/2103371",
+        "game": {
+          "cover_color": "#00ad63",
+          "id": 2103371,
+          "user": {
+            "name": "JOS87",
+            "url": "https://jos87.itch.io",
+            "id": 736292
+          },
+          "url": "https://jos87.itch.io/my-mother-and-me",
+          "short_text": "A daughter visits her deceased mother to pay respects. They share a hidden past that’s about to come out of the grave.",
+          "title": "My Mother & Me",
+          "platforms": [
+            "windows",
+            "osx"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEyMzkyMTA2LnBuZw==/300x240%23c/%2Bpgb7c.png"
+        }
+      },
+      "details": {
+        "title": "My Mother & Me",
+        "description": "\nAbout the game\n\nAfter ten long years, a daughter visits her deceased mother to pay her respects. They share a long hidden past that’s about to come out of the grave.\n\n\n\nThis game includes depictions of but does not condone the following: domestic violence, depression, suicide, and transphobia.\n\nI used to love making short narrative ZZT games, so my first ever jam submission was made in that style! This is for the Adventure Jam 2023: https://itch.io/jam/advjam2023\n\nHow to play\n\nThis game was made in RPG Maker MV, and uses the default controls from that engine. Controller, mouse, and keyboard are supported.\nEsc opens the menu\nF4 toggles fullscreen\nF5 restarts the game.\n\n\nAny feedback is appreciated! For windows, download and unzip the  MOMwin.zip file and run the game.exe file.\nFor mac, download and unzip the MOMmac.zip file. The game file can be run from any location on your computer, but for full options and save functionality it must be placed in your applications folder.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjEwMzM3MS8xMjM5NTY5My5qcGc=/original/AHS83s.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjEwMzM3MS8xMjM5MjIyNS5qcGc=/original/pFzzRa.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjEwMzM3MS8xMjM5MjIyNi5qcGc=/original/qZpUJC.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjEwMzM3MS8xMjM5MjIyOS5qcGc=/original/TxVO0n.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "JOS87",
+          "Genre": "Adventure",
+          "Tags": "drama, LGBT, Short, Singleplayer, Story Rich"
+        }
+      }
+    },
+    {
+      "gameId": 2111009,
+      "gameUrl": "https://jdcustard.itch.io/perturbation",
+      "overallRank": 28,
+      "topCategories": [
+        "Emotional Engagement",
+        "Atmosphere"
+      ],
+      "resultData": {
+        "rank": 28,
+        "rating_count": 11,
+        "url": "https://itch.io/jam/advjam2023/rate/2111009",
+        "contributors": [
+          {
+            "name": "JDCustard",
+            "id": 1901037
+          },
+          {
+            "name": "amodelkit",
+            "id": 7434920
+          }
+        ],
+        "score": 3.6060606060606,
+        "title": "Perturbation",
+        "raw_score": 3.6060606060606,
+        "id": 2111009,
+        "cover_url": "https://img.itch.zone/aW1nLzEyNDI4ODEwLnBuZw==/300x240%23c/Ginf03.png",
+        "criteria": [
+          {
+            "name": "Emotional Engagement",
+            "raw_score": 4.0909090909091,
+            "score": 4.0909090909091,
+            "rank": 2
+          },
+          {
+            "name": "Atmosphere",
+            "raw_score": 4.3636363636364,
+            "score": 4.3636363636364,
+            "rank": 8
+          },
+          {
+            "name": "Lasting Impression",
+            "raw_score": 3.7272727272727,
+            "score": 3.7272727272727,
+            "rank": 18
+          },
+          {
+            "name": "Mental Engagement",
+            "raw_score": 3,
+            "score": 3,
+            "rank": 58
+          },
+          {
+            "name": "Characterization",
+            "raw_score": 2.8181818181818,
+            "score": 2.8181818181818,
+            "rank": 102
+          },
+          {
+            "name": "Overall",
+            "raw_score": 3.6363636363636,
+            "score": 3.6363636363636,
+            "rank": 37
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 11,
+        "created_at": "2023-06-09 23:07:19",
+        "coolness": 9,
+        "id": 419394,
+        "url": "/jam/advjam2023/rate/2111009",
+        "contributors": [
+          {
+            "name": "JDCustard",
+            "url": "https://jdcustard.itch.io"
+          },
+          {
+            "name": "amodelkit",
+            "url": "https://amodelkit.itch.io"
+          }
+        ],
+        "game": {
+          "cover_color": "#000000",
+          "user": {
+            "name": "JDCustard",
+            "url": "https://jdcustard.itch.io",
+            "id": 1901037
+          },
+          "url": "https://jdcustard.itch.io/perturbation",
+          "id": 2111009,
+          "title": "Perturbation",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEyNDI4ODEwLnBuZw==/300x240%23c/Ginf03.png"
+        }
+      },
+      "details": {
+        "title": "Perturbation",
+        "description": "Perturbation:  anxiety; mental uneasiness.\nWarning: Contains references to mental health illnesses\nPerturbation is a short, immersive 3D first-person adventure game, made in two weeks for the Adventure Game Jam 2023. It offers players a glimpse into the world of anxiety. The game's primary focus is to create a heightened sense of empathy and understanding surrounding the challenges individuals face when dealing with anxiety. The game aims to capture the essence of anxiety through atmospheric exploration and subtle gameplay mechanics, providing players with a meaningful experience.\n- To play the experience,  Unzip the downloaded zip file and run AGJ.exe\nControls:\nMovement: WASD\nInteract: E\nCredits:\n- Jevan Dean: Project Manager, Designer, Programmer\n- A Model Kit: Sound Designer/Composer\n-Autif Kamal (MrGold) Programmer\n\nAssets used:\nhttps://assetstore.unity.com/packages/3d/props/furniture/furniture-free-pack-192...\n\nThank you for playing!\n\nKnown Issues:\n-When launching the game, the window may not be focused. All you need to do is press the windows key then click or ALT Tab to the correct window.\n-To exit, use the windows key and fine the icon and close the game. You can also use Alt f4. \n- You Interact with notes by hovering over a note and pressing E. To close the note, hover over the note again and press E.\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjExMTAwOS8xMjQyODgxNC5wbmc=/original/sUwVAG.png",
+          "https://img.itch.zone/aW1hZ2UvMjExMTAwOS8xMjQyODgxNS5wbmc=/original/u%2BfSFB.png",
+          "https://img.itch.zone/aW1hZ2UvMjExMTAwOS8xMjQyODgxNy5wbmc=/original/P6JODl.png",
+          "https://img.itch.zone/aW1hZ2UvMjExMTAwOS8xMjQyODgxNi5wbmc=/original/p3mrch.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Authors": "JDCustard, amodelkit",
+          "Genre": "Adventure",
+          "Tags": "3D, Atmospheric, First-Person, Horror, Indie, Short, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 2103835,
+      "gameUrl": "https://gugames.itch.io/wicked",
+      "overallRank": 1,
+      "topCategories": [
+        "Emotional Engagement",
+        "Mental Engagement",
+        "Lasting Impression",
+        "Characterization",
+        "Overall"
+      ],
+      "resultData": {
+        "rank": 1,
+        "rating_count": 38,
+        "url": "https://itch.io/jam/advjam2023/rate/2103835",
+        "contributors": [
+          {
+            "name": "Gugames.eu",
+            "id": 2287828
+          }
+        ],
+        "score": 4.3114035087719,
+        "title": "No Rest for the Wicked",
+        "raw_score": 4.3114035087719,
+        "id": 2103835,
+        "cover_url": "https://img.itch.zone/aW1nLzEyMzk1MzQ1LnBuZw==/300x240%23c/4diLRv.png",
+        "criteria": [
+          {
+            "name": "Emotional Engagement",
+            "raw_score": 3.9210526315789,
+            "score": 3.9210526315789,
+            "rank": 3
+          },
+          {
+            "name": "Mental Engagement",
+            "raw_score": 4.3947368421053,
+            "score": 4.3947368421053,
+            "rank": 3
+          },
+          {
+            "name": "Atmosphere",
+            "raw_score": 4.2631578947368,
+            "score": 4.2631578947368,
+            "rank": 14
+          },
+          {
+            "name": "Lasting Impression",
+            "raw_score": 4.2631578947368,
+            "score": 4.2631578947368,
+            "rank": 1
+          },
+          {
+            "name": "Characterization",
+            "raw_score": 4.6052631578947,
+            "score": 4.6052631578947,
+            "rank": 1
+          },
+          {
+            "name": "Overall",
+            "raw_score": 4.4210526315789,
+            "score": 4.4210526315789,
+            "rank": 1
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 38,
+        "created_at": "2023-06-05 07:51:00",
+        "coolness": 48,
+        "id": 418476,
+        "url": "/jam/advjam2023/rate/2103835",
+        "game": {
+          "cover_color": "#222323",
+          "id": 2103835,
+          "user": {
+            "name": "Gugames.eu",
+            "url": "https://gugames.itch.io",
+            "id": 2287828
+          },
+          "url": "https://gugames.itch.io/wicked",
+          "short_text": "After 200 years of sleep, it's time to help your vampire master to conquer humanity.",
+          "title": "No Rest for the Wicked",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEyMzk1MzQ1LnBuZw==/300x240%23c/4diLRv.png"
+        }
+      },
+      "details": {
+        "title": "No Rest for the Wicked",
+        "description": "Inside a manor frozen in time, a vampire patiently waits for the right moment to rise again. The time has come, and it's up to you - his not so faithful servant - to help him make the spell that will bring humanity to an end.This is a point and click game. Use your mouse to control the character.\nLeft click: walk to, or perform action indicated by the cursor icon (take, talk, look, use)Right click: look at hotspotInventory: left click to use, right click to look. Right click with a selected object will deselect it.\nNote on video: the game will start full screen. You can change to windowed in the options. When you do, the window will be 960x540, but if you select free cursor you can resize it freely.\nNote on text: the game will start with both voice and subtitles, and the text will auto-advance. If you wish the game to wait for your input to go on, you have to disable voice in the options selecting text only, wait for click.\nMade in 14 days for Adventure Jam 2023Fabio \"Guga\" GuggeriWriting, design, programming, character art, background art, music.\nVoice cast:David Howlett as The ServantDavid Nagel as The MasterJD Kelly as OttoSally Beaumont as CarlaShaun Mendum as NeilPaul Thomas as GaryMichael Forward as the narrator\nTranslators:Fabio \"Guga\" Guggeri - ItalianNiccolò Romero-Passerin - FrenchRamón Wilhelm - GermanAlodia Lozano - Spanish\nSpecial thanks to:Ilaria and Alice Guggeri for their inspiration on setting, plot, puzzles and musicPaolo \"StickGrinder\" Pustorino, Fabio \"Zak Phoenix McKracken\" Belli, Maurizio \"Seguso\" Colucci, Dario \"drbb\" Rudoni for testing, proofreading and feedback.\nMade with PowerQuest by Powerhoof.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjEwMzgzNS8xMjQxNjgxMi5wbmc=/original/%2B2Gw1A.png",
+          "https://img.itch.zone/aW1hZ2UvMjEwMzgzNS8xMjQxNjgxMy5wbmc=/original/yFOHdz.png",
+          "https://img.itch.zone/aW1hZ2UvMjEwMzgzNS8xMjQxNjgxNS5wbmc=/original/VPsGnk.png",
+          "https://img.itch.zone/aW1hZ2UvMjEwMzgzNS8xMjQxNjgxNC5wbmc=/original/WRZtOB.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS, Linux",
+          "Rating": "Rated 4.9 out of 5 stars(77 total ratings)",
+          "Author": "Gugames.eu",
+          "Genre": "Adventure, Puzzle",
+          "Made with": "Unity",
+          "Tags": "2D, Comedy, Mouse only, Narrative, Pixel Art, Point & Click, Retro, Story Rich, Unity",
+          "Average session": "About a half-hour",
+          "Languages": "German, English, Spanish; Castilian, French, Italian",
+          "Inputs": "Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 2092306,
+      "gameUrl": "https://el-antonio.itch.io/the-last-firewatch",
+      "overallRank": 26,
+      "topCategories": [
+        "Emotional Engagement",
+        "Atmosphere"
+      ],
+      "resultData": {
+        "rank": 26,
+        "rating_count": 8,
+        "url": "https://itch.io/jam/advjam2023/rate/2092306",
+        "contributors": [
+          {
+            "name": "antonio",
+            "id": 8157364
+          }
+        ],
+        "score": 3.625,
+        "title": "The Last Firewatch",
+        "raw_score": 3.625,
+        "id": 2092306,
+        "cover_url": "https://img.itch.zone/aW1nLzEyMzA5MTE1LnBuZw==/300x240%23c/YGkNU9.png",
+        "criteria": [
+          {
+            "name": "Mental Engagement",
+            "raw_score": 2.625,
+            "score": 2.625,
+            "rank": 94
+          },
+          {
+            "name": "Atmosphere",
+            "raw_score": 4.375,
+            "score": 4.375,
+            "rank": 6
+          },
+          {
+            "name": "Lasting Impression",
+            "raw_score": 3.75,
+            "score": 3.75,
+            "rank": 14
+          },
+          {
+            "name": "Characterization",
+            "raw_score": 3.5,
+            "score": 3.5,
+            "rank": 40
+          },
+          {
+            "name": "Emotional Engagement",
+            "raw_score": 3.875,
+            "score": 3.875,
+            "rank": 4
+          },
+          {
+            "name": "Overall",
+            "raw_score": 3.625,
+            "score": 3.625,
+            "rank": 38
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 8,
+        "created_at": "2023-06-09 22:41:06",
+        "coolness": 0,
+        "id": 419375,
+        "url": "/jam/advjam2023/rate/2092306",
+        "game": {
+          "cover_color": "#d28262",
+          "id": 2092306,
+          "user": {
+            "name": "antonio",
+            "url": "https://el-antonio.itch.io",
+            "id": 8157364
+          },
+          "url": "https://el-antonio.itch.io/the-last-firewatch",
+          "short_text": "You are one of the last remaining Firewatch bots on earth and you haven't heard from your friends in a while. Find them.",
+          "title": "The Last Firewatch",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEyMzA5MTE1LnBuZw==/300x240%23c/YGkNU9.png"
+        }
+      },
+      "details": {
+        "title": "The Last Firewatch",
+        "description": "As one of the last Firewatch bots on earth, you are returning to your post and notice you haven't heard from your friends.What happened to them?",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjA5MjMwNi8xMjMwOTExMC5wbmc=/original/zWimT6.png",
+          "https://img.itch.zone/aW1hZ2UvMjA5MjMwNi8xMjMwOTEwOS5wbmc=/original/%2Fej3bi.png",
+          "https://img.itch.zone/aW1hZ2UvMjA5MjMwNi8xMjMwOTExMS5wbmc=/original/njGiUY.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Author": "antonio",
+          "Genre": "Adventure",
+          "Made with": "Unreal Engine",
+          "Tags": "Atmospheric, First-Person, Relaxing, Short, Story Rich",
+          "Average session": "A few seconds",
+          "Languages": "English",
+          "Links": "Steam"
+        }
+      }
+    },
+    {
+      "gameId": 2107710,
+      "gameUrl": "https://duckofwood.itch.io/d3ad-hand-jam",
+      "overallRank": 5,
+      "topCategories": [
+        "Emotional Engagement",
+        "Mental Engagement",
+        "Lasting Impression",
+        "Overall"
+      ],
+      "resultData": {
+        "rank": 5,
+        "rating_count": 26,
+        "url": "https://itch.io/jam/advjam2023/rate/2107710",
+        "contributors": [
+          {
+            "name": "Duck Made Of Wood",
+            "id": 7532338
+          }
+        ],
+        "score": 3.9935897435897,
+        "title": "D3AD HAND - Jam Version",
+        "raw_score": 3.9935897435897,
+        "id": 2107710,
+        "cover_url": "https://img.itch.zone/aW1nLzEyNDc3OTU2LmdpZg==/300x240%23c/39wteT.gif",
+        "criteria": [
+          {
+            "name": "Characterization",
+            "raw_score": 3.8076923076923,
+            "score": 3.8076923076923,
+            "rank": 24
+          },
+          {
+            "name": "Lasting Impression",
+            "raw_score": 3.9615384615385,
+            "score": 3.9615384615385,
+            "rank": 7
+          },
+          {
+            "name": "Atmosphere",
+            "raw_score": 4.1923076923077,
+            "score": 4.1923076923077,
+            "rank": 23
+          },
+          {
+            "name": "Emotional Engagement",
+            "raw_score": 3.8461538461538,
+            "score": 3.8461538461538,
+            "rank": 5
+          },
+          {
+            "name": "Mental Engagement",
+            "raw_score": 4.0769230769231,
+            "score": 4.0769230769231,
+            "rank": 8
+          },
+          {
+            "name": "Overall",
+            "raw_score": 4.0769230769231,
+            "score": 4.0769230769231,
+            "rank": 8
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 26,
+        "created_at": "2023-06-08 20:24:55",
+        "coolness": 17,
+        "id": 419045,
+        "url": "/jam/advjam2023/rate/2107710",
+        "game": {
+          "cover_color": "#ff430c",
+          "url": "https://duckofwood.itch.io/d3ad-hand-jam",
+          "short_text": "Point and click satirical adventure set during the cold war in a soviet bunker - 5th place Adventure Game Jam 2023",
+          "user": {
+            "name": "Duck Made Of Wood",
+            "url": "https://duckofwood.itch.io",
+            "id": 7532338
+          },
+          "platforms": [
+            "windows"
+          ],
+          "title": "D3AD HAND - Jam Version",
+          "id": 2107710,
+          "gif_cover": "https://img.itch.zone/aW1nLzEyNDc3OTU2LmdpZg==/original/5maQj%2F.gif",
+          "cover": "https://img.itch.zone/aW1nLzEyNDc3OTU2LmdpZg==/300x240%23c/39wteT.gif"
+        }
+      },
+      "details": {
+        "title": "D3AD HAND - Jam Version",
+        "description": "\"If you like the Jam version please consider buying the extended version here or on Steam. Thanks.\"STORY\nYuri Spraytyvich has been selected for the role of Junior Strategic Missile Force Manager of Čerëmuški Command Post in Chita, Siberia. \n\nHis new position comes with a lot of responsabilities and he will need to deal with lack of maintenance, worker strikes, radioactive materials and PERIMETER, the automatic defence system. \nWhen PERIMETER receives by mistake the order to start the launch of the ballistic missile, it is up to Yuri to fix the problem and save the world from nuclear apocalypse. \nD3AD HAND is a satirical graphic adventure inspired by LucasArts golden age videogames like Monkey Island and the Indiana Jones series. \nDISCLAIMER: The game does NOT support WAR in any form or shape, quite the contrary. \nCONTROLS\nMain ActionLeft Mouse ButtonSecondary Action (when available)Right Mouse ButtonExamine  Talk to UsePick upGo to \nINVENTORY\nShow Inventory Mouse over on the top of the screenUse Inventory ItemsLeft Mouse ButtonExamine Inventory ItemRight Mouse Button\nSAVE GAME\nNote that you cannot save the game during cut scenes or dialogues. But the game will create an AUTOSAVE file when you will enter a room where an automatic cutscene or dialogue will start.\nPowered by: Unity Adventure Creator\nPixel Art and Development: Duck Made Of Wood\nDialogues edited by: Fleur Doidge\nFreeware music from: \nmelodyayresgriffiths\nhttps://pixabay.com/users/melodyayresgriffiths-27269767/?tab=audio\nSoundtrack:\nhttps://pixabay.com/it/music/gente-the-devil-dances-in-moscow-putin-russia-disco-instrumental-russian-142457/\nhttps://pixabay.com/it/music/gente-russian-folk-kalinka-108671/\n\nhttps://pixabay.com/it/music/gente-russian-fun-109091/\n\nhttps://pixabay.com/it/music/video-giochi-rasputin-russia-tetris-game-cossack-pu...\nhttps://www.silvermansound.com/free-music/soviet-march\nITALIAN LOCALISATION\nSeleziona \"Options\" nel menù dei titoli o premendo ESC durante il gioco. Clicca su \"Language: English\" per passare alla lingua italiana.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjEwNzcxMC8xMjQxMzQ1MS5wbmc=/original/Gqww1R.png",
+          "https://img.itch.zone/aW1hZ2UvMjEwNzcxMC8xMjQxMzQ1My5wbmc=/original/YYo0oY.png",
+          "https://img.itch.zone/aW1hZ2UvMjEwNzcxMC8xMjQxMzg3OC5wbmc=/original/J8hCRd.png",
+          "https://img.itch.zone/aW1hZ2UvMjEwNzcxMC8xMjQxMzg4Ni5wbmc=/original/weVuNI.png",
+          "https://img.itch.zone/aW1hZ2UvMjEwNzcxMC8xMjQxMzg4MS5wbmc=/original/xYFT%2Bh.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.9 out of 5 stars(22 total ratings)",
+          "Author": "Duck Made Of Wood",
+          "Genre": "Adventure",
+          "Made with": "Unity",
+          "Tags": "cold-war, Comedy, free, graphicadventure, Indie, italiano, Pixel Art, Point & Click, Retro",
+          "Average session": "About a half-hour",
+          "Languages": "English, Italian",
+          "Inputs": "Mouse",
+          "Links": "Steam"
+        }
+      }
+    },
+    {
+      "gameId": 2107510,
+      "gameUrl": "https://vqshr.itch.io/eva",
+      "overallRank": 16,
+      "topCategories": [
+        "Emotional Engagement"
+      ],
+      "resultData": {
+        "rank": 16,
+        "rating_count": 36,
+        "url": "https://itch.io/jam/advjam2023/rate/2107510",
+        "contributors": [
+          {
+            "name": "VQSHR",
+            "id": 8116357
+          },
+          {
+            "name": "OtakuZhang",
+            "id": 8233958
+          }
+        ],
+        "score": 3.7268518518519,
+        "title": "EVA",
+        "raw_score": 3.7268518518519,
+        "id": 2107510,
+        "cover_url": "https://img.itch.zone/aW1nLzEyNDA3MzY5LnBuZw==/300x240%23c/1OiFhj.png",
+        "criteria": [
+          {
+            "name": "Mental Engagement",
+            "raw_score": 3.4722222222222,
+            "score": 3.4722222222222,
+            "rank": 37
+          },
+          {
+            "name": "Atmosphere",
+            "raw_score": 3.9166666666667,
+            "score": 3.9166666666667,
+            "rank": 42
+          },
+          {
+            "name": "Emotional Engagement",
+            "raw_score": 3.75,
+            "score": 3.75,
+            "rank": 6
+          },
+          {
+            "name": "Characterization",
+            "raw_score": 3.7777777777778,
+            "score": 3.7777777777778,
+            "rank": 27
+          },
+          {
+            "name": "Lasting Impression",
+            "raw_score": 3.6388888888889,
+            "score": 3.6388888888889,
+            "rank": 26
+          },
+          {
+            "name": "Overall",
+            "raw_score": 3.8055555555556,
+            "score": 3.8055555555556,
+            "rank": 22
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 36,
+        "created_at": "2023-06-09 17:37:32",
+        "coolness": 14,
+        "id": 419262,
+        "url": "/jam/advjam2023/rate/2107510",
+        "contributors": [
+          {
+            "name": "VQSHR",
+            "url": "https://vqshr.itch.io"
+          },
+          {
+            "name": "OtakuZhang",
+            "url": "https://otakuzhang.itch.io"
+          }
+        ],
+        "game": {
+          "cover_color": "#000319",
+          "id": 2107510,
+          "user": {
+            "name": "VQSHR",
+            "url": "https://vqshr.itch.io",
+            "id": 8116357
+          },
+          "url": "https://vqshr.itch.io/eva",
+          "short_text": "A point-and-click adventure game.",
+          "title": "EVA",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEyNDA3MzY5LnBuZw==/300x240%23c/1OiFhj.png"
+        }
+      },
+      "details": {
+        "title": "EVA",
+        "description": "Introduction\nEVA is a point-and-click suspense adventure game about a mystery in a hospital.\nYou wake up somewhere in the hospital without remembering anything. You are going to find out who you are, what you do by exploring the hospital. But at the same time, a greater secret slowly unveils...\nHow to play\nLeft-click on the ground to move your character around.Left-click on an object to interact or pick it up.Right-click on an object to inspect it.\nCredits\nArt, Code, Design, Story: VQSHR, OtakuZhangAudio: Old City Theme by remaxim licensed CC-BY-SA 3.0Rise of Spirit by Alexandr Zhelanov licensed CC-BY 3.0Art:Hospital TopDown perspective 2D pixel art by Rodrimanu360 licensed CC-BY 4.0Cartoon Detective Pack by hugues labordeWarped Sci-Fi Lab by ansimuz\nEVA was created using PowerQuest for Unity by Powerhoof for Adventure Jam 2023.\n\n\n    Change Log\n    06/10/2023-v1.0.1(Bug Fix): Fixed an issue that would cause a button disappear after certain operation. Fixed an issue that would cause an inventory item unusable. \n\nPlease rate and leave a comment if you enjoyed the game! We appreciate any feedbacks too!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjEwNzUxMC8xMjQyNTE3MS5wbmc=/original/BORjSo.png",
+          "https://img.itch.zone/aW1hZ2UvMjEwNzUxMC8xMjQyNTE3Mi5wbmc=/original/HAGRfX.png",
+          "https://img.itch.zone/aW1hZ2UvMjEwNzUxMC8xMjQyNTE3My5wbmc=/original/M90zmR.png",
+          "https://img.itch.zone/aW1hZ2UvMjEwNzUxMC8xMjQyNTE3NC5wbmc=/original/wSCpWz.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.4 out of 5 stars(8 total ratings)",
+          "Authors": "VQSHR, OtakuZhang",
+          "Genre": "Adventure, Role Playing",
+          "Tags": "Pixel Art, Singleplayer, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 2108424,
+      "gameUrl": "https://homonarrans.itch.io/subject-of-observation",
+      "overallRank": 25,
+      "topCategories": [
+        "Emotional Engagement"
+      ],
+      "resultData": {
+        "rank": 25,
+        "rating_count": 26,
+        "url": "https://itch.io/jam/advjam2023/rate/2108424",
+        "contributors": [
+          {
+            "name": "Homo Narrans Studio",
+            "id": 4951466
+          }
+        ],
+        "score": 3.6410256410256,
+        "title": "Subject Of Observation",
+        "raw_score": 3.6410256410256,
+        "id": 2108424,
+        "cover_url": "https://img.itch.zone/aW1nLzEyNDExOTc0LnBuZw==/300x240%23c/M3jXGv.png",
+        "criteria": [
+          {
+            "name": "Mental Engagement",
+            "raw_score": 2.9230769230769,
+            "score": 2.9230769230769,
+            "rank": 64
+          },
+          {
+            "name": "Atmosphere",
+            "raw_score": 3.9230769230769,
+            "score": 3.9230769230769,
+            "rank": 41
+          },
+          {
+            "name": "Characterization",
+            "raw_score": 3.8076923076923,
+            "score": 3.8076923076923,
+            "rank": 24
+          },
+          {
+            "name": "Emotional Engagement",
+            "raw_score": 3.7307692307692,
+            "score": 3.7307692307692,
+            "rank": 7
+          },
+          {
+            "name": "Lasting Impression",
+            "raw_score": 3.6923076923077,
+            "score": 3.6923076923077,
+            "rank": 21
+          },
+          {
+            "name": "Overall",
+            "raw_score": 3.7692307692308,
+            "score": 3.7692307692308,
+            "rank": 23
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 26,
+        "created_at": "2023-06-09 15:52:33",
+        "coolness": 35,
+        "id": 419233,
+        "url": "/jam/advjam2023/rate/2108424",
+        "game": {
+          "cover_color": "#000000",
+          "id": 2108424,
+          "user": {
+            "name": "Homo Narrans Studio",
+            "url": "https://homonarrans.itch.io",
+            "id": 4951466
+          },
+          "url": "https://homonarrans.itch.io/subject-of-observation",
+          "short_text": "Face your past as a citizen under observation and find out who broke your trust",
+          "title": "Subject Of Observation",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEyNDExOTc0LnBuZw==/300x240%23c/M3jXGv.png"
+        }
+      },
+      "details": {
+        "title": "Subject Of Observation",
+        "description": "Welcome to \"Subject Of Observation,\" an atmospheric pixel-art adventure that takes you on an introspective journey into a woman's haunting past.\nAfter the fall of the \"great nation\", it became known that its citizens were spied on by their own government. For this, informal collaborators spied on their neighbours, friends, and even family members. Now, several years later, Erika Mustermann decides to face her past as a citizen of a dictatorship. As a SUBJECT OF OBSERVATION.\nAs Erika reads her files, she remembers the past. Help her to piece together who spied on her and broke her trust.\nHow to play:\nIn general it's always a good idea to click on anything blinking.\nRead the text of each file, then click on the underlined text. Make sure to click on EVERY NPC to read all dialogue. Use the arrows to identify the spie.\n\nMade in 14 days for Adventure Jam 2023.\n\nCredits:\nWords & Code: Gregor Müller\nPixels & GUI: Gwendolyn Yamashita\nMusic & Sound: Bertrand Guegan\nVoice Acting: Leonie Schliesing\n\nThe inspiration for this game lies in the very real surveillance of the citizens of the GDR by the Ministerium für Staatssicherheit. If you want to know more about the real history behind this game, go here, here or here.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjEwODQyNC8xMjQyNTIxNi5wbmc=/original/dNXvZ9.png",
+          "https://img.itch.zone/aW1hZ2UvMjEwODQyNC8xMjQyNTIxNC5wbmc=/original/SluKT9.png",
+          "https://img.itch.zone/aW1hZ2UvMjEwODQyNC8xMjQyNTIxNS5wbmc=/original/RdIu5T.png",
+          "https://img.itch.zone/aW1hZ2UvMjEwODQyNC8xMjQyNTIxNy5wbmc=/original/HHrZl8.png"
+        ],
+        "moreInfo": {
+          "Updated": "11 days ago",
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Release date": "Jun 09, 2023",
+          "Rating": "Rated 4.9 out of 5 stars(7 total ratings)",
+          "Author": "Homo Narrans Studio",
+          "Genre": "Adventure",
+          "Tags": "Detective, Historical, Mystery, Pixel Art, Short, Singleplayer",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Mouse",
+          "Accessibility": "Subtitles"
+        }
+      }
+    },
+    {
+      "gameId": 2096724,
+      "gameUrl": "https://caseportman.itch.io/lucid",
+      "overallRank": 2,
+      "topCategories": [
+        "Emotional Engagement",
+        "Mental Engagement",
+        "Atmosphere",
+        "Lasting Impression",
+        "Characterization",
+        "Overall"
+      ],
+      "resultData": {
+        "rank": 2,
+        "rating_count": 47,
+        "url": "https://itch.io/jam/advjam2023/rate/2096724",
+        "contributors": [
+          {
+            "name": "Case Portman",
+            "id": 4263
+          }
+        ],
+        "score": 4.0992907801418,
+        "title": "LUCID",
+        "raw_score": 4.0992907801418,
+        "id": 2096724,
+        "cover_url": "https://img.itch.zone/aW1nLzEyNzY3OTIyLnBuZw==/300x240%23c/4bTOlx.png",
+        "criteria": [
+          {
+            "name": "Mental Engagement",
+            "raw_score": 4.0425531914894,
+            "score": 4.0425531914894,
+            "rank": 10
+          },
+          {
+            "name": "Atmosphere",
+            "raw_score": 4.3404255319149,
+            "score": 4.3404255319149,
+            "rank": 9
+          },
+          {
+            "name": "Lasting Impression",
+            "raw_score": 4.0212765957447,
+            "score": 4.0212765957447,
+            "rank": 4
+          },
+          {
+            "name": "Emotional Engagement",
+            "raw_score": 3.7234042553191,
+            "score": 3.7234042553191,
+            "rank": 8
+          },
+          {
+            "name": "Characterization",
+            "raw_score": 4.2127659574468,
+            "score": 4.2127659574468,
+            "rank": 4
+          },
+          {
+            "name": "Overall",
+            "raw_score": 4.2553191489362,
+            "score": 4.2553191489362,
+            "rank": 2
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 47,
+        "created_at": "2023-06-09 20:32:13",
+        "coolness": 74,
+        "id": 419320,
+        "url": "/jam/advjam2023/rate/2096724",
+        "game": {
+          "cover_color": "#363039",
+          "id": 2096724,
+          "user": {
+            "name": "Case Portman",
+            "url": "https://caseportman.itch.io",
+            "id": 4263
+          },
+          "url": "https://caseportman.itch.io/lucid",
+          "short_text": "Where are you? Who are they? What is?",
+          "title": "LUCID",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEyNzY3OTIyLnBuZw==/300x240%23c/4bTOlx.png"
+        }
+      },
+      "details": {
+        "title": "LUCID",
+        "description": "LUCID is a Point & Click / Top-down hybrid adventure about a young kid in a very bizarre world of odd characters and even weirder happenings.\n----\nHow to Play\nWASD / Arrow keys - MoveLeft Mouse Button - InteractRight Mouse Button - Unequip\nUse the cursor to highlight objects and characters, left click on them to interact. When the cursor displays a blue X, this means you're not close enough to the target and must move closer before interacting.\n----\nCredits\nDesign, Art, Sound & Code:Case Portman\nFonts:By The Butterfly - http://bythebutterfly.com\n\nDavid Kerkhoff\nExtra Music/SFX:Miguel Lopez - https://mlopezaudio.itch.io/metroidvania\nTesting:\n\nEmily Quinn - https://twitter.com/EmilyQ92_\nLUCID was made for Adventure Jam 2023 in the timeframe of 2 weeks.Made with Gamemaker.\n----\nWalkthrough\n\n(Many of these can be done in any order, this is just a rough guideline if you need a nudge in the right direction)\nSpeak with Roya to obtain the Midnight Snack\nGive Midnight Snack to Bus and acquire Teleport Thoughts (speak with Ballook for instructions)Speak with Mr. Dreebus\nPurchase Marbles from Zag (for 6 stars)Use Marbles halfway round Bell’s path (opposite the race line) \nSpeak with Mr. Dreebus to acquire Fuzzlamp (Dead)Use Fuzzlamp (Dead) on Aislin to start his next quest\nPurchase Battery from Zag (for 2 stars) - Combine with Fuzzlamp(Dead)Speak with Aislin with empty hand for tips on how to use Fuzzlamp\nGather Info from the Fuzz EntityFind the Large Stone and Branch - then combine\nUse Mallet to play the right chimes and destroy the fuzz\nCollect the Rusty Screw from the grey chime\nGive Rusty Screw to Roya in exchange for Screw\nWith the entity destroyed, talk to Belle and have her follow you\nSpeak with Choggers and acquire Soap\nReturn Belle to her brother, Bell. Acquire Bells\nGive Soap to Aislin and acquire “Legs?”\nTake Bells, Screw and “Legs?” to the starting area and insert them.\nSpeak with Lurd.\n\n\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjA5NjcyNC8xMjQyNTkwNS5wbmc=/original/I%2ByjGC.png",
+          "https://img.itch.zone/aW1hZ2UvMjA5NjcyNC8xMjQyNjE2NC5wbmc=/original/c%2BQzWu.png",
+          "https://img.itch.zone/aW1hZ2UvMjA5NjcyNC8xMjQyNTkyNy5wbmc=/original/Yj6bc0.png",
+          "https://img.itch.zone/aW1hZ2UvMjA5NjcyNC8xMjQyNjE2NS5wbmc=/original/4JPN0D.png",
+          "https://img.itch.zone/aW1hZ2UvMjA5NjcyNC8xMjQyNTkyOC5wbmc=/original/OFFte3.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.6 out of 5 stars(8 total ratings)",
+          "Author": "Case Portman",
+          "Genre": "Adventure",
+          "Made with": "GameMaker",
+          "Tags": "Abstract, Characters, Dreams, Point & Click, Top-Down, weird"
+        }
+      }
+    },
+    {
+      "gameId": 2106394,
+      "gameUrl": "https://mostlydecent.itch.io/alignment-paradox",
+      "overallRank": 3,
+      "topCategories": [
+        "Emotional Engagement",
+        "Mental Engagement",
+        "Characterization",
+        "Overall"
+      ],
+      "resultData": {
+        "rank": 3,
+        "rating_count": 35,
+        "url": "https://itch.io/jam/advjam2023/rate/2106394",
+        "contributors": [
+          {
+            "name": "MostlyDecentGames",
+            "id": 2925288
+          }
+        ],
+        "score": 4.052380952381,
+        "title": "The Alignment Paradox",
+        "raw_score": 4.052380952381,
+        "id": 2106394,
+        "cover_url": "https://img.itch.zone/aW1nLzE1MTkwOTk4LnBuZw==/300x240%23c/OPF1E1.png",
+        "criteria": [
+          {
+            "name": "Mental Engagement",
+            "raw_score": 4.2285714285714,
+            "score": 4.2285714285714,
+            "rank": 5
+          },
+          {
+            "name": "Atmosphere",
+            "raw_score": 4.2571428571429,
+            "score": 4.2571428571429,
+            "rank": 15
+          },
+          {
+            "name": "Lasting Impression",
+            "raw_score": 3.8571428571429,
+            "score": 3.8571428571429,
+            "rank": 11
+          },
+          {
+            "name": "Emotional Engagement",
+            "raw_score": 3.7142857142857,
+            "score": 3.7142857142857,
+            "rank": 9
+          },
+          {
+            "name": "Characterization",
+            "raw_score": 4.1142857142857,
+            "score": 4.1142857142857,
+            "rank": 6
+          },
+          {
+            "name": "Overall",
+            "raw_score": 4.1428571428571,
+            "score": 4.1428571428571,
+            "rank": 5
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 35,
+        "created_at": "2023-06-09 22:10:52",
+        "coolness": 60,
+        "id": 419365,
+        "url": "/jam/advjam2023/rate/2106394",
+        "game": {
+          "cover_color": "#253a5e",
+          "id": 2106394,
+          "user": {
+            "name": "MostlyDecentGames",
+            "url": "https://mostlydecent.itch.io",
+            "id": 2925288
+          },
+          "url": "https://mostlydecent.itch.io/alignment-paradox",
+          "short_text": "A mystery sci-fi point & click adventure",
+          "title": "The Alignment Paradox",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzE1MTkwOTk4LnBuZw==/300x240%23c/OPF1E1.png"
+        }
+      },
+      "details": {
+        "title": "The Alignment Paradox",
+        "description": "A point & click adventure game that came 3rd overall in Adventure Jam 2023.\nHow to Play\nRight-click to Look. Left click to Interact. Inventory is at the top of the screen. Click one inventory item then another to use them together.\nIf you get stuck, remember: you're not the only one who can interact with things!\nImpatient Gamers\nLeft-click to skip dialogue. Esc to skip cutscenes.\nCredits\nWriting, design, artwork, programming: Dan JohnsonVoice Acting:Rich Keeble - www.richkeeble.comNaomi Miller - www.naomimillervo.com\nMusic: Joel Steudler - https://joelsteudler.itch.io/\nSound attribution:Proccessed version of \"Pant1.wav\" by user GB01 by adh.dreaming | License: Attribution 4.0DogYelp.wav by TobiasKosmos | License: Attribution 3.0\nMade with PowerQuest for Unity\nThanks to Dave for all the PowerQuest help!\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjEwNjM5NC8xMjgyNjI1My5wbmc=/original/P6sDZr.png",
+          "https://img.itch.zone/aW1hZ2UvMjEwNjM5NC8xMjQyNzM3MS5wbmc=/original/tTZVql.png",
+          "https://img.itch.zone/aW1hZ2UvMjEwNjM5NC8xMjgyNjI2NC5wbmc=/original/3bxAW2.png",
+          "https://img.itch.zone/aW1hZ2UvMjEwNjM5NC8xMjQyNzM2OC5wbmc=/original/dtWoRk.png",
+          "https://img.itch.zone/aW1hZ2UvMjEwNjM5NC8xMjQyNzM2Ny5wbmc=/original/iQmQJO.png",
+          "https://img.itch.zone/aW1hZ2UvMjEwNjM5NC8xMjQyNzM2OS5wbmc=/original/9JQifp.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS, Linux",
+          "Rating": "Rated 4.7 out of 5 stars(52 total ratings)",
+          "Author": "MostlyDecentGames",
+          "Genre": "Adventure",
+          "Made with": "Unity",
+          "Tags": "2D, artificial-intelligence, Escape Game, Indie, Mystery, Pixel Art, Point & Click, Sci-fi, Singleplayer, Thriller",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse",
+          "Links": "Twitter/X"
+        }
+      }
+    },
+    {
+      "gameId": 2110868,
+      "gameUrl": "https://moonbreadgames.itch.io/shoecake",
+      "overallRank": 36,
+      "topCategories": [
+        "Emotional Engagement"
+      ],
+      "resultData": {
+        "rank": 36,
+        "rating_count": 17,
+        "url": "https://itch.io/jam/advjam2023/rate/2110868",
+        "contributors": [
+          {
+            "name": "Moon Bread",
+            "id": 7160459
+          }
+        ],
+        "score": 3.5294117647059,
+        "title": "Shoecake",
+        "raw_score": 3.5294117647059,
+        "id": 2110868,
+        "cover_url": "https://img.itch.zone/aW1nLzEyNDI3MDc2LnBuZw==/300x240%23c/lJccdj.png",
+        "criteria": [
+          {
+            "name": "Characterization",
+            "raw_score": 3.4117647058824,
+            "score": 3.4117647058824,
+            "rank": 46
+          },
+          {
+            "name": "Atmosphere",
+            "raw_score": 4.1764705882353,
+            "score": 4.1764705882353,
+            "rank": 24
+          },
+          {
+            "name": "Emotional Engagement",
+            "raw_score": 3.7058823529412,
+            "score": 3.7058823529412,
+            "rank": 10
+          },
+          {
+            "name": "Mental Engagement",
+            "raw_score": 2.8235294117647,
+            "score": 2.8235294117647,
+            "rank": 75
+          },
+          {
+            "name": "Lasting Impression",
+            "raw_score": 3.4705882352941,
+            "score": 3.4705882352941,
+            "rank": 35
+          },
+          {
+            "name": "Overall",
+            "raw_score": 3.5882352941176,
+            "score": 3.5882352941176,
+            "rank": 43
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 17,
+        "created_at": "2023-06-09 21:26:11",
+        "coolness": 16,
+        "id": 419338,
+        "url": "/jam/advjam2023/rate/2110868",
+        "game": {
+          "cover_color": "#000000",
+          "id": 2110868,
+          "user": {
+            "name": "Moon Bread",
+            "url": "https://moonbreadgames.itch.io",
+            "id": 7160459
+          },
+          "url": "https://moonbreadgames.itch.io/shoecake",
+          "short_text": "A short story about love and loss",
+          "title": "Shoecake",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEyNDI3MDc2LnBuZw==/300x240%23c/lJccdj.png"
+        }
+      },
+      "details": {
+        "title": "Shoecake",
+        "description": "A short trip to the park with your companion. Takes ~10-15 minutes to finish. Made for the 2023 Adventure Jam.Press space to advance dialogue.\nContent warning: contains death and potentially startling scenes.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjExMDg2OC8xMjQyNzA3OC5wbmc=/original/woV1hj.png",
+          "https://img.itch.zone/aW1hZ2UvMjExMDg2OC8xMjQyNzA4MC5wbmc=/original/S8leGh.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Moon Bread",
+          "Genre": "Visual Novel",
+          "Tags": "Atmospheric, Creepy, Narrative, Short, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 2107776,
+      "gameUrl": "https://accatosh.itch.io/mannequin-of-time",
+      "overallRank": 15,
+      "topCategories": [
+        "Mental Engagement",
+        "Overall"
+      ],
+      "resultData": {
+        "rank": 15,
+        "rating_count": 25,
+        "url": "https://itch.io/jam/advjam2023/rate/2107776",
+        "contributors": [
+          {
+            "name": "Accatosh",
+            "id": 7312056
+          }
+        ],
+        "score": 3.7333333333333,
+        "title": "Mannequin of Time",
+        "raw_score": 3.7333333333333,
+        "id": 2107776,
+        "cover_url": "https://img.itch.zone/aW1nLzEyNDExNjU3LnBuZw==/300x240%23c/Q1pAqD.png",
+        "criteria": [
+          {
+            "name": "Emotional Engagement",
+            "raw_score": 3,
+            "score": 3,
+            "rank": 44
+          },
+          {
+            "name": "Atmosphere",
+            "raw_score": 3.88,
+            "score": 3.88,
+            "rank": 43
+          },
+          {
+            "name": "Mental Engagement",
+            "raw_score": 4.52,
+            "score": 4.52,
+            "rank": 1
+          },
+          {
+            "name": "Characterization",
+            "raw_score": 3.28,
+            "score": 3.28,
+            "rank": 60
+          },
+          {
+            "name": "Lasting Impression",
+            "raw_score": 3.68,
+            "score": 3.68,
+            "rank": 23
+          },
+          {
+            "name": "Overall",
+            "raw_score": 4.04,
+            "score": 4.04,
+            "rank": 10
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 25,
+        "created_at": "2023-06-09 13:04:02",
+        "coolness": 27,
+        "id": 419208,
+        "url": "/jam/advjam2023/rate/2107776",
+        "game": {
+          "cover_color": "#494d7e",
+          "id": 2107776,
+          "user": {
+            "name": "Accatosh",
+            "url": "https://accatosh.itch.io",
+            "id": 7312056
+          },
+          "url": "https://accatosh.itch.io/mannequin-of-time",
+          "short_text": "A puzzle adventure game with an unusual ability!",
+          "title": "Mannequin of Time",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEyNDExNjU3LnBuZw==/300x240%23c/Q1pAqD.png"
+        }
+      },
+      "details": {
+        "title": "Mannequin of Time",
+        "description": "Mannequin of Time\nMannequin of Time is a puzzle adventure game, in which you use a unique ability to make your way out of a dungeon. \nBoth keyboard and gamepad controls are supported!\nThis game was created during two weeks as a submission for Adventure Jam 2023.\nIf you ever get stuck, I recommend watching the embedded video to see a solution.\nWarning: this game includes violence and death.\n\nFeatures\nEscape from the dungeon and learn about its secrets!Control a mannequin that will copy your exact movements to solve multiple puzzlesWhen you use your ability, all your actions will be recorded and then repeated by a mannequinCollect 10 notes written by a former adventurer\n\nSynopsis\n\"The place you can obtain anything, even supernatural powers and immortality, as long as you clear its trials.\"\nThis is what people call the dungeon you have entered and gotten trapped in. Your goal is to escape and the dungeon is willing to help you, but something seems amiss in this unknown place.\n\nControls\nKeyboard:\nWalkWASDJumpSpaceClimbMove towards the wall. W and S for moving up/downInteractFOpen/close menuM or ESCStart/stop recording actionsRPlay recordingEContinue DialogueLeft mouse button\nGamepad:\nWalk\nLeft stickJump\nSouth buttonClimbMove towards the wall. Interact\nEast buttonOpen/close menu\nStart buttonStart/stop recording actions\nWest buttonPlay recordingNorth buttonContinue DialogueSouth button- Controls for the menu -------RestartSouth buttonChange music volumeShoulders (bumpers)Change SFX volumeTriggers\n\nCredits\nGame, art, music and story by AccatoshFont by ingoFontsColor palette by GrafxKidSound effects created with ChipTonePathfinding by Aron Granberg\nSpecial thanks to my fatherDownload the game or play it in the browser. If you choose to download, unzip the zip file with a file compression software, and then open the folder to find \"Mannequin of Time.exe\". Open this file to start the game.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjEwNzc3Ni8xMjQxMTc3NS5qcGc=/original/o6SILm.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjEwNzc3Ni8xMjQxMzI2NS5naWY=/original/D5JbEe.gif",
+          "https://img.itch.zone/aW1hZ2UvMjEwNzc3Ni8xMjQxNzEwNS5qcGc=/original/oTQdNm.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjEwNzc3Ni8xMjQxMzMyOC5naWY=/original/84jzwY.gif",
+          "https://img.itch.zone/aW1hZ2UvMjEwNzc3Ni8xMjQxNzEwNi5qcGc=/original/rcUrI3.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Author": "Accatosh",
+          "Genre": "Adventure, Puzzle",
+          "Made with": "Unity, Aseprite, ChipTone",
+          "Tags": "2D, 8-Bit, Atmospheric, Fantasy, Pixel Art, Side Scroller, Singleplayer, Unity",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Keyboard, Gamepad (any)"
+        }
+      }
+    },
+    {
+      "gameId": 2110707,
+      "gameUrl": "https://the-argonauts.itch.io/under-the-sea",
+      "overallRank": 4,
+      "topCategories": [
+        "Mental Engagement",
+        "Lasting Impression",
+        "Overall"
+      ],
+      "resultData": {
+        "rank": 4,
+        "rating_count": 50,
+        "url": "https://itch.io/jam/advjam2023/rate/2110707",
+        "contributors": [
+          {
+            "name": "The Argonauts",
+            "id": 2412572
+          },
+          {
+            "name": "Krokant",
+            "id": 2161334
+          },
+          {
+            "name": "Esmeralda",
+            "id": 208920
+          },
+          {
+            "name": "z10",
+            "id": 2194260
+          }
+        ],
+        "score": 4.0466666666667,
+        "title": "Under the Sea",
+        "raw_score": 4.0466666666667,
+        "id": 2110707,
+        "cover_url": "https://img.itch.zone/aW1nLzEyNDI2MTEyLnBuZw==/300x240%23c/B8M7qn.png",
+        "criteria": [
+          {
+            "name": "Atmosphere",
+            "raw_score": 4.28,
+            "score": 4.28,
+            "rank": 13
+          },
+          {
+            "name": "Lasting Impression",
+            "raw_score": 3.9,
+            "score": 3.9,
+            "rank": 9
+          },
+          {
+            "name": "Mental Engagement",
+            "raw_score": 4.4,
+            "score": 4.4,
+            "rank": 2
+          },
+          {
+            "name": "Characterization",
+            "raw_score": 4.02,
+            "score": 4.02,
+            "rank": 11
+          },
+          {
+            "name": "Emotional Engagement",
+            "raw_score": 3.48,
+            "score": 3.48,
+            "rank": 18
+          },
+          {
+            "name": "Overall",
+            "raw_score": 4.2,
+            "score": 4.2,
+            "rank": 3
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 50,
+        "created_at": "2023-06-09 23:56:59",
+        "coolness": 108,
+        "id": 419472,
+        "url": "/jam/advjam2023/rate/2110707",
+        "contributors": [
+          {
+            "name": "The Argonauts",
+            "url": "https://the-argonauts.itch.io"
+          },
+          {
+            "name": "Krokant",
+            "url": "https://krokant.itch.io"
+          },
+          {
+            "name": "Esmeralda",
+            "url": "https://esmeralda.itch.io"
+          },
+          {
+            "name": "z10",
+            "url": "https://awesomeaxolotl.itch.io"
+          }
+        ],
+        "game": {
+          "cover_color": "#111c29",
+          "id": 2110707,
+          "user": {
+            "name": "The Argonauts",
+            "url": "https://the-argonauts.itch.io",
+            "id": 2412572
+          },
+          "url": "https://the-argonauts.itch.io/under-the-sea",
+          "short_text": "A point & click adventure game made for AdventureJam 2023.",
+          "title": "Under the Sea",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEyNDI2MTEyLnBuZw==/300x240%23c/B8M7qn.png"
+        }
+      },
+      "details": {
+        "title": "Under the Sea",
+        "description": "A team of scientists aboard an underwater research station are suddenly confronted by an emergency. Will they manage to escape in time?\n\nAbout\nA classic point & click adventure game made for AdventureJam 2023. \n\n\nLanguage\nThe game can be played in English or German. There is no voiceover.\n\n\nControls\nLeft click to interact (or just walk) Right click to inspect Double left click on a door to leave the current room instantlyMove cursor to top of the screen to show full inventory  and access the menuThe portrait in the bottom left can be used to switch characters when available\nCredits\nUnder the Sea was created within a fortnight by \"The Argonauts\" in 2023 for the \"Adventure Jam 2023\" jam at https://itch.io/jam/advjam2023\nMusic: \"Darkpulse\",  \"Decent\", \"Mysterious Passage\" and \"Sleepless Night Dreams\"  by Joel Steudler\nSFX: \"Underwater Rumble\" by EminYILDIRIM (CC by 4.0) from freesound.org and various other sounds licensed under CC0                      \nDevelopment Team (The Argonauts)\nEsmeraldaEinzelkämpferz10Anke",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjExMDcwNy8xMjQyODU3NS5wbmc=/original/Za4Dna.png",
+          "https://img.itch.zone/aW1hZ2UvMjExMDcwNy8xMjQyNjIyMy5wbmc=/original/Sw7lI%2B.png",
+          "https://img.itch.zone/aW1hZ2UvMjExMDcwNy8xMjQyNzI0MS5qcGc=/original/I8bQqI.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjExMDcwNy8xMjQyNjIzNC5wbmc=/original/CYCem1.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.9 out of 5 stars(21 total ratings)",
+          "Authors": "The Argonauts, Krokant, Esmeralda, z10",
+          "Genre": "Adventure, Puzzle",
+          "Tags": "2D, Point & Click, Singleplayer",
+          "Average session": "About an hour",
+          "Languages": "German, English",
+          "Inputs": "Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 2108840,
+      "gameUrl": "https://chpas.itch.io/9-rooms",
+      "overallRank": 51,
+      "topCategories": [
+        "Mental Engagement"
+      ],
+      "resultData": {
+        "rank": 51,
+        "rating_count": 11,
+        "url": "https://itch.io/jam/advjam2023/rate/2108840",
+        "contributors": [
+          {
+            "name": "chpas",
+            "id": 8132528
+          }
+        ],
+        "score": 3.3030303030303,
+        "title": "9 Rooms",
+        "raw_score": 3.3030303030303,
+        "id": 2108840,
+        "cover_url": "https://img.itch.zone/aW1nLzEyNDE0NDY5LnBuZw==/300x240%23c/a78HD2.png",
+        "criteria": [
+          {
+            "name": "Atmosphere",
+            "raw_score": 3.3636363636364,
+            "score": 3.3636363636364,
+            "rank": 101
+          },
+          {
+            "name": "Characterization",
+            "raw_score": 2.5454545454545,
+            "score": 2.5454545454545,
+            "rank": 122
+          },
+          {
+            "name": "Emotional Engagement",
+            "raw_score": 3,
+            "score": 3,
+            "rank": 44
+          },
+          {
+            "name": "Mental Engagement",
+            "raw_score": 4.3636363636364,
+            "score": 4.3636363636364,
+            "rank": 4
+          },
+          {
+            "name": "Overall",
+            "raw_score": 3.3636363636364,
+            "score": 3.3636363636364,
+            "rank": 56
+          },
+          {
+            "name": "Lasting Impression",
+            "raw_score": 3.1818181818182,
+            "score": 3.1818181818182,
+            "rank": 61
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 11,
+        "created_at": "2023-06-08 16:12:52",
+        "coolness": 3,
+        "id": 419017,
+        "url": "/jam/advjam2023/rate/2108840",
+        "game": {
+          "url": "https://chpas.itch.io/9-rooms",
+          "user": {
+            "name": "chpas",
+            "url": "https://chpas.itch.io",
+            "id": 8132528
+          },
+          "id": 2108840,
+          "short_text": "An escape room game.",
+          "title": "9 Rooms",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEyNDE0NDY5LnBuZw==/300x240%23c/a78HD2.png"
+        }
+      },
+      "details": {
+        "title": "9 Rooms",
+        "description": "CONTENT WARNING: Violence (not shown, only audio)\nYou wake up in a place you've never been before, with no memories of how you got there or who you are. You must escape using the items that you can find. Interact with everything and craft items into other items to solve the various puzzles and escape.\nIf you have questions, feel free to comment below, but try not to spoil the puzzle solutions. Thanks!\nControls\nUP, DOWN, LEFT, RIGHT - Move\nENTER - Interact/Talk\nSPACE (while touching an entity) - Use Item on Entity\nSPACE (while not touching entity) - Use Item/Combine Items\nENTER (during a combination) - Select Second Item to Combine\nA, D - Select Item in Inventory\nESCAPE - View Controls\nC - View Credits\nNote: the controls and credits can only be viewed if you're not touching an entity.\nCreditsGame programmed by chpas\nAssets:\nDog by Benvictus\nMysterious Liquid by Onocentaur\nStorage Key by dustdfg\nDoors by Pipoya\nInventory Bar by Dev Bandeira\nSkeleton by Calciumtrice\nFurniture by sierrassets\nTileset/NPCs by 0x72\nFont - \"Menu Card\" by SysL\nMusic:\n\"Awkward Meeting\" Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 4.0\nLicense: http://creativecommons.org/licenses/by/4.0/\nDialogue Sound by Alan Dalcastagne\nThank you for playing my game!\n (hint hint: if you've read this far, open the credits in-game for a little surprise :) )",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzEyNDE0NDY5LnBuZw==/original/QD54Sl.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "chpas",
+          "Genre": "Adventure, Puzzle",
+          "Made with": "Unity",
+          "Tags": "2D, Dark, Escape Game"
+        }
+      }
+    },
+    {
+      "gameId": 2089978,
+      "gameUrl": "https://axelftv.itch.io/castle-colossus",
+      "overallRank": 74,
+      "topCategories": [
+        "Mental Engagement"
+      ],
+      "resultData": {
+        "rank": 74,
+        "rating_count": 12,
+        "url": "https://itch.io/jam/advjam2023/rate/2089978",
+        "contributors": [
+          {
+            "name": "Axelf",
+            "id": 1511720
+          }
+        ],
+        "score": 3.125,
+        "title": "Castle Colossus",
+        "raw_score": 3.125,
+        "id": 2089978,
+        "cover_url": "https://img.itch.zone/aW1nLzEyNDI2NDM1LnBuZw==/300x240%23c/q8ODMM.png",
+        "criteria": [
+          {
+            "name": "Characterization",
+            "raw_score": 2.3333333333333,
+            "score": 2.3333333333333,
+            "rank": 143
+          },
+          {
+            "name": "Mental Engagement",
+            "raw_score": 4.1666666666667,
+            "score": 4.1666666666667,
+            "rank": 6
+          },
+          {
+            "name": "Emotional Engagement",
+            "raw_score": 2.4166666666667,
+            "score": 2.4166666666667,
+            "rank": 110
+          },
+          {
+            "name": "Atmosphere",
+            "raw_score": 3.1666666666667,
+            "score": 3.1666666666667,
+            "rank": 114
+          },
+          {
+            "name": "Lasting Impression",
+            "raw_score": 3.3333333333333,
+            "score": 3.3333333333333,
+            "rank": 46
+          },
+          {
+            "name": "Overall",
+            "raw_score": 3.3333333333333,
+            "score": 3.3333333333333,
+            "rank": 60
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 12,
+        "created_at": "2023-06-07 00:00:13",
+        "coolness": 3,
+        "id": 418826,
+        "url": "/jam/advjam2023/rate/2089978",
+        "game": {
+          "cover_color": "#153a10",
+          "id": 2089978,
+          "user": {
+            "name": "Axelf",
+            "url": "https://axelftv.itch.io",
+            "id": 1511720
+          },
+          "url": "https://axelftv.itch.io/castle-colossus",
+          "short_text": "Short adventure game about exploring an ancient castle!",
+          "title": "Castle Colossus",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEyNDI2NDM1LnBuZw==/300x240%23c/q8ODMM.png"
+        }
+      },
+      "details": {
+        "title": "Castle Colossus",
+        "description": "Made in 2 weeks for Adventure Jam 2023! Please Enjoy!\nAn Ancient evil is stirring in an abandoned castle! Take it upon yourself to deal with it once and for all.\n\nControls - \nWASD - move\nArrow Keys - Aim\nQ - Shoot\nShift - Dodge\nSpace - Attack\n\nCredits -\n\nDesign, Art, Programming - \nRory Lyons(me)\n\nFont - \nMenu Regular by PixelDroid\n\nMusic -\nsourced online for free:\nDark Ambiance - Philippe Groarke\nAdrift on the currents of Time (Main Menu Music) - HitCtrl\nOld City Theme - remaxim\n\"Showdown of Misdeeds\" Composed by Jonathan Shaw (www.jshaw.co.uk)\nCastle - Maou\nHigh Castle - James Gargette\n\"Can't Stop Winning\" Composed by Jonathan Shaw (www.jshaw.co.uk)\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjA4OTk3OC8xMjQzMjI1Ny5wbmc=/original/bX7ie6.png",
+          "https://img.itch.zone/aW1hZ2UvMjA4OTk3OC8xMjQzMjI1OS5wbmc=/original/%2FsPGZk.png",
+          "https://img.itch.zone/aW1hZ2UvMjA4OTk3OC8xMjQzMjI2MS5wbmc=/original/wxZOme.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.0 out of 5 stars(2 total ratings)",
+          "Author": "Axelf",
+          "Genre": "Adventure, Action, Puzzle",
+          "Made with": "Unity",
+          "Tags": "Action-Adventure, Fantasy, My First Game Jam, Pixel Art, Short, Sprites, Top-Down, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 2108496,
+      "gameUrl": "https://notdurris.itch.io/escape",
+      "overallRank": 37,
+      "topCategories": [
+        "Mental Engagement"
+      ],
+      "resultData": {
+        "rank": 37,
+        "rating_count": 16,
+        "url": "https://itch.io/jam/advjam2023/rate/2108496",
+        "contributors": [
+          {
+            "name": "NotDurris",
+            "id": 1735873
+          }
+        ],
+        "score": 3.5208333333333,
+        "title": "Escape",
+        "raw_score": 3.5208333333333,
+        "id": 2108496,
+        "cover_url": "https://img.itch.zone/aW1nLzE1NDc5OTM0LnBuZw==/300x240%23c/HoBqnU.png",
+        "criteria": [
+          {
+            "name": "Mental Engagement",
+            "raw_score": 4.125,
+            "score": 4.125,
+            "rank": 7
+          },
+          {
+            "name": "Atmosphere",
+            "raw_score": 3.8125,
+            "score": 3.8125,
+            "rank": 50
+          },
+          {
+            "name": "Characterization",
+            "raw_score": 3.1875,
+            "score": 3.1875,
+            "rank": 66
+          },
+          {
+            "name": "Emotional Engagement",
+            "raw_score": 2.875,
+            "score": 2.875,
+            "rank": 57
+          },
+          {
+            "name": "Lasting Impression",
+            "raw_score": 3.375,
+            "score": 3.375,
+            "rank": 43
+          },
+          {
+            "name": "Overall",
+            "raw_score": 3.75,
+            "score": 3.75,
+            "rank": 26
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 16,
+        "created_at": "2023-06-09 11:41:33",
+        "coolness": 11,
+        "id": 419196,
+        "url": "/jam/advjam2023/rate/2108496",
+        "game": {
+          "cover_color": "#000000",
+          "user": {
+            "name": "NotDurris",
+            "url": "https://notdurris.itch.io",
+            "id": 1735873
+          },
+          "url": "https://notdurris.itch.io/escape",
+          "id": 2108496,
+          "title": "Escape",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzE1NDc5OTM0LnBuZw==/300x240%23c/HoBqnU.png"
+        }
+      },
+      "details": {
+        "title": "Escape",
+        "description": "",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE1NDc5OTM0LnBuZw==/original/SsQS6X.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Author": "NotDurris",
+          "Genre": "Puzzle, Adventure",
+          "Tags": "Atmospheric, Dark, Escape Game, Pixel Art, Short, Story Rich, Text based, Top Down Adventure"
+        }
+      }
+    },
+    {
+      "gameId": 2092600,
+      "gameUrl": "https://polytelygames.itch.io/darklight-game-jam",
+      "overallRank": 41,
+      "topCategories": [
+        "Mental Engagement"
+      ],
+      "resultData": {
+        "rank": 41,
+        "rating_count": 56,
+        "url": "https://itch.io/jam/advjam2023/rate/2092600",
+        "contributors": [
+          {
+            "name": "polytely games",
+            "id": 4999225
+          },
+          {
+            "name": "Dorian Simpson",
+            "id": 6012970
+          },
+          {
+            "name": "Javier Ventosa",
+            "id": 5902192
+          }
+        ],
+        "score": 3.4315476190476,
+        "title": "Dark Light (Game Jam)",
+        "raw_score": 3.4315476190476,
+        "id": 2092600,
+        "cover_url": "https://img.itch.zone/aW1nLzEyNDMxMDY1LnBuZw==/300x240%23c/UtaqbW.png",
+        "criteria": [
+          {
+            "name": "Atmosphere",
+            "raw_score": 4.25,
+            "score": 4.25,
+            "rank": 16
+          },
+          {
+            "name": "Characterization",
+            "raw_score": 2.4821428571429,
+            "score": 2.4821428571429,
+            "rank": 129
+          },
+          {
+            "name": "Emotional Engagement",
+            "raw_score": 2.7857142857143,
+            "score": 2.7857142857143,
+            "rank": 67
+          },
+          {
+            "name": "Mental Engagement",
+            "raw_score": 4.0535714285714,
+            "score": 4.0535714285714,
+            "rank": 9
+          },
+          {
+            "name": "Lasting Impression",
+            "raw_score": 3.3928571428571,
+            "score": 3.3928571428571,
+            "rank": 40
+          },
+          {
+            "name": "Overall",
+            "raw_score": 3.625,
+            "score": 3.625,
+            "rank": 38
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 56,
+        "created_at": "2023-06-09 23:07:07",
+        "coolness": 317,
+        "id": 419393,
+        "url": "/jam/advjam2023/rate/2092600",
+        "contributors": [
+          {
+            "name": "polytely games",
+            "url": "https://polytelygames.itch.io"
+          },
+          {
+            "name": "Dorian Simpson",
+            "url": "https://poltergayst.itch.io"
+          },
+          {
+            "name": "Javier Ventosa",
+            "url": "https://ventousa.itch.io"
+          }
+        ],
+        "game": {
+          "cover_color": "#3c3c3c",
+          "id": 2092600,
+          "user": {
+            "name": "polytely games",
+            "url": "https://polytelygames.itch.io",
+            "id": 4999225
+          },
+          "url": "https://polytelygames.itch.io/darklight-game-jam",
+          "short_text": "The light has gone out. The truth remains hidden.",
+          "title": "Dark Light (Game Jam)",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEyNDMxMDY1LnBuZw==/300x240%23c/UtaqbW.png"
+        }
+      },
+      "details": {
+        "title": "Dark Light (Game Jam)",
+        "description": " The year is 1923, and you have been dispatched to a remote lighthouse to investigate a series of mysterious occurrences. According to reports, the lighthouse's light has been emitting a strange red glow for several days, but now it has gone completely dark.\n As you approach the lighthouse, you sense that something is amiss – the air is thick with an eerie silence that seems to hang heavily in the desolate surroundings. As you begin your investigation, you realize that the lighthouse is hiding secrets that are far more ominous than you could have ever imagined. \n You must tap into your problem-solving skills and use your intuition to uncover the truth behind the lighthouse's malfunction and the strange happenings that have been taking place there. Each puzzle you solve and every clue you discover brings you closer to unraveling the mystery and confronting the source of the strange occurrences.\nInstructions\nLeft mouse button click to interact with the environment.\nMove cursor arrow to upper centre of screen to open inventory.\nPress Q to quit game.\nCreated in 14 days for Adventure Jam 2023\nGame Designer\nKevin Wickenden\n@polytelygames (itch.io)\nSound Designer\nJavier Ventosa\n@ventousa (itch.io)\nArt Designer\nTheodora Simpson\n@poltergayst (itch.io)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjA5MjYwMC8xMjQzMTE5MC5wbmc=/original/R5nQIP.png",
+          "https://img.itch.zone/aW1hZ2UvMjA5MjYwMC8xMjQzMTE4OS5wbmc=/original/VLzdU9.png",
+          "https://img.itch.zone/aW1hZ2UvMjA5MjYwMC8xMjQzMTAzNi5wbmc=/original/wAk51v.png",
+          "https://img.itch.zone/aW1hZ2UvMjA5MjYwMC8xMjQzMTA0My5wbmc=/original/96pMij.png",
+          "https://img.itch.zone/aW1hZ2UvMjA5MjYwMC8xMjQzMTAzNC5wbmc=/original/p0r5mA.png",
+          "https://img.itch.zone/aW1hZ2UvMjA5MjYwMC8xMjQzMTAzOS5wbmc=/original/bLOxez.png",
+          "https://img.itch.zone/aW1hZ2UvMjA5MjYwMC8xMjQzMTAzOC5wbmc=/original/1ShQWG.png",
+          "https://img.itch.zone/aW1hZ2UvMjA5MjYwMC8xMjQzMTAzNS5wbmc=/original/bgd3QB.png",
+          "https://img.itch.zone/aW1hZ2UvMjA5MjYwMC8xMjQzMTAzNy5wbmc=/original/cXTxij.png",
+          "https://img.itch.zone/aW1hZ2UvMjA5MjYwMC8xMjQzMTA0MC5wbmc=/original/hRR%2FqO.png",
+          "https://img.itch.zone/aW1hZ2UvMjA5MjYwMC8xMjQzMTA0Mi5wbmc=/original/bxTifR.png",
+          "https://img.itch.zone/aW1hZ2UvMjA5MjYwMC8xMjQzMTA0MS5wbmc=/original/qWV1G1.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows, macOS, Linux",
+          "Publisher": "",
+          "Release date": "Jun 09, 2023",
+          "Rating": "Rated 5.0 out of 5 stars(3 total ratings)",
+          "Authors": "polytely games, Dorian Simpson, Javier Ventosa",
+          "Genre": "Adventure, Puzzle",
+          "Tags": "2D, Escape Game, escape-room, Point & Click, room-escape"
+        }
+      }
+    },
+    {
+      "gameId": 2111017,
+      "gameUrl": "https://akchen.itch.io/moth-to-the-flame",
+      "overallRank": 7,
+      "topCategories": [
+        "Atmosphere",
+        "Lasting Impression",
+        "Characterization"
+      ],
+      "resultData": {
+        "rank": 7,
+        "rating_count": 12,
+        "url": "https://itch.io/jam/advjam2023/rate/2111017",
+        "contributors": [
+          {
+            "name": "Andrew",
+            "id": 4637408
+          },
+          {
+            "name": "okshirl",
+            "id": 3749492
+          },
+          {
+            "name": "Gabriel Chan",
+            "id": 4533988
+          },
+          {
+            "name": "Chan Gim",
+            "id": 4642962
+          },
+          {
+            "name": "carte blanche",
+            "id": 347707
+          }
+        ],
+        "score": 3.9861111111111,
+        "title": "Moth To The Flame",
+        "raw_score": 3.9861111111111,
+        "id": 2111017,
+        "cover_url": "https://img.itch.zone/aW1nLzEyNDI4MzA1LnBuZw==/300x240%23c/JVFKyp.png",
+        "criteria": [
+          {
+            "name": "Mental Engagement",
+            "raw_score": 3.5833333333333,
+            "score": 3.5833333333333,
+            "rank": 29
+          },
+          {
+            "name": "Atmosphere",
+            "raw_score": 4.5833333333333,
+            "score": 4.5833333333333,
+            "rank": 1
+          },
+          {
+            "name": "Lasting Impression",
+            "raw_score": 4.1666666666667,
+            "score": 4.1666666666667,
+            "rank": 2
+          },
+          {
+            "name": "Emotional Engagement",
+            "raw_score": 3.5,
+            "score": 3.5,
+            "rank": 17
+          },
+          {
+            "name": "Characterization",
+            "raw_score": 4.25,
+            "score": 4.25,
+            "rank": 3
+          },
+          {
+            "name": "Overall",
+            "raw_score": 3.8333333333333,
+            "score": 3.8333333333333,
+            "rank": 18
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 12,
+        "created_at": "2023-06-09 23:11:41",
+        "coolness": 6,
+        "id": 419402,
+        "url": "/jam/advjam2023/rate/2111017",
+        "contributors": [
+          {
+            "name": "Andrew",
+            "url": "https://akchen.itch.io"
+          },
+          {
+            "name": "okshirl",
+            "url": "https://okshirl.itch.io"
+          },
+          {
+            "name": "Gabriel Chan",
+            "url": "https://zihang.itch.io"
+          },
+          {
+            "name": "Chan Gim",
+            "url": "https://bhanhg.itch.io"
+          },
+          {
+            "name": "carte blanche",
+            "url": "https://carte-blanche.itch.io"
+          }
+        ],
+        "game": {
+          "cover_color": "#eeeeee",
+          "id": 2111017,
+          "user": {
+            "name": "Andrew",
+            "url": "https://akchen.itch.io",
+            "id": 4637408
+          },
+          "url": "https://akchen.itch.io/moth-to-the-flame",
+          "short_text": "a point-and-click adventure story game",
+          "title": "Moth To The Flame",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEyNDI4MzA1LnBuZw==/300x240%23c/JVFKyp.png"
+        }
+      },
+      "details": {
+        "title": "Moth To The Flame",
+        "description": "Uncover the secrets of a friendship between a boy and a moth. This point-and-click adventure game consists of more than 10 mini puzzles, 7 different scenes, and various dialogue choices for you to explore. Investigate the small village from a child's perspective and make friends along the way.Click around to move and interact with objects. Drag and combine items to find new combinations.TW: Blood/Gore, Alcohol References, Murder.\nThis game was made for the Adventure Jam 2023 #AdvJam2023.Our team has 3 programmers, 1 artist, and 1 musician/audio designer/writer. This is our first attempt at a point-and-click game. Enjoy!\nFixed Bugs\n-Fixed bug where if you exit the lockbox, you could not move or interact.(Had wrong version on the page, and the new version is out)\n- Added sfx and more updates to game (07/2023)\n- Fixed bug in general store minigame (07/2023)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjExMTAxNy8xMjQyODMxNS5wbmc=/original/9%2FYybg.png",
+          "https://img.itch.zone/aW1hZ2UvMjExMTAxNy8xMjQyODQzMy5wbmc=/original/OsS90n.png",
+          "https://img.itch.zone/aW1hZ2UvMjExMTAxNy8xMjQyODQ0MS5wbmc=/original/SHxMu%2F.png",
+          "https://img.itch.zone/aW1hZ2UvMjExMTAxNy8xMjQyODM2MC5wbmc=/original/qI3zy1.png",
+          "https://img.itch.zone/aW1hZ2UvMjExMTAxNy8xMjQyODQyMS5wbmc=/original/tu3f%2B3.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Authors": "Andrew, okshirl, Gabriel Chan, Chan Gim, carte blanche",
+          "Genre": "Adventure, Puzzle, Visual Novel",
+          "Made with": "Unity",
+          "Tags": "Black and White, Dark, Multiple Endings, Point & Click, Top Down Adventure"
+        }
+      }
+    },
+    {
+      "gameId": 2110665,
+      "gameUrl": "https://luckilamps.itch.io/the-scholars-path",
+      "overallRank": 11,
+      "topCategories": [
+        "Atmosphere",
+        "Lasting Impression"
+      ],
+      "resultData": {
+        "rank": 11,
+        "rating_count": 11,
+        "url": "https://itch.io/jam/advjam2023/rate/2110665",
+        "contributors": [
+          {
+            "name": "lucki lamps",
+            "id": 7510916
+          }
+        ],
+        "score": 3.8636363636364,
+        "title": "Scholar's Path",
+        "raw_score": 3.8636363636364,
+        "id": 2110665,
+        "cover_url": "https://img.itch.zone/aW1nLzE0MTM2MTkwLnBuZw==/300x240%23c/HE8EHP.png",
+        "criteria": [
+          {
+            "name": "Mental Engagement",
+            "raw_score": 3.4545454545455,
+            "score": 3.4545454545455,
+            "rank": 38
+          },
+          {
+            "name": "Atmosphere",
+            "raw_score": 4.5454545454545,
+            "score": 4.5454545454545,
+            "rank": 2
+          },
+          {
+            "name": "Lasting Impression",
+            "raw_score": 4.0909090909091,
+            "score": 4.0909090909091,
+            "rank": 3
+          },
+          {
+            "name": "Characterization",
+            "raw_score": 3.7272727272727,
+            "score": 3.7272727272727,
+            "rank": 28
+          },
+          {
+            "name": "Emotional Engagement",
+            "raw_score": 3.3636363636364,
+            "score": 3.3636363636364,
+            "rank": 25
+          },
+          {
+            "name": "Overall",
+            "raw_score": 4,
+            "score": 4,
+            "rank": 12
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 11,
+        "created_at": "2023-06-09 19:55:45",
+        "coolness": 12,
+        "id": 419304,
+        "url": "/jam/advjam2023/rate/2110665",
+        "game": {
+          "cover_color": "#ffa916",
+          "id": 2110665,
+          "user": {
+            "name": "lucki lamps",
+            "url": "https://luckilamps.itch.io",
+            "id": 7510916
+          },
+          "url": "https://luckilamps.itch.io/the-scholars-path",
+          "short_text": "3rd Person Adventure through a Desert Border Town.",
+          "title": "Scholar's Path",
+          "platforms": [
+            "windows",
+            "osx"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzE0MTM2MTkwLnBuZw==/300x240%23c/HE8EHP.png"
+        }
+      },
+      "details": {
+        "title": "Scholar's Path",
+        "description": "Made for Adventure Jam 2023\nYou are Dr Jonah Gilroy, a Scholar in a world ravaged by a global calamity.\nTasked with discovering the cause behind an unusual planetary disturbance, Dr Gilroy has travelled to the Atruvian Sea, to begin his study into the event. Using maps and journal entries scattered throughout the world, navigate and explore the Border Town and the areas around it via foot or Light Step, a dune walking device to speed up your travels. \nControls:\nWASD for Movement.Spacebar to Jump.Shift to Sprint.E to Interact and for Next SubtitleClick to Select Player Dialogue OptionsEsc to bring up Menu & Journal\nWhat to expect:\n3rd Person Character controllera dune walker called a Light Step to speed up your travel.A story that guides you through the world with various dialogue opportunities\n8 original songs/beats.4 maps to help you navigate the world.5 journal entries3 different Exits options\nContributors:\nGame, Art & Animation: Lachlan Toft\nStory: Harry Fritsch\nSound Design: Mitchell Toft\nMade in Unity using the following published assets:\nJann Ott's - Character Movement FundamentalsPixel Crusher's - Dialogue System for UnityJean Moreno's - Toony Colors Pro 2",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjExMDY2NS8xMjQyNjEzNS5wbmc=/original/j31kCO.png",
+          "https://img.itch.zone/aW1hZ2UvMjExMDY2NS8xMjQyNjEzNC5wbmc=/original/MfdHqe.png",
+          "https://img.itch.zone/aW1hZ2UvMjExMDY2NS8xMjQzMDYxMy5wbmc=/original/7mPLnI.png",
+          "https://img.itch.zone/aW1hZ2UvMjExMDY2NS8xMjQzMDYxMS5wbmc=/original/Yw%2BXXZ.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS",
+          "Author": "lucki lamps",
+          "Genre": "Adventure, Role Playing",
+          "Made with": "Unity, Blender",
+          "Tags": "Atmospheric, Casual, Exploration, Indie, Singleplayer, Unity",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse",
+          "Accessibility": "Subtitles"
+        }
+      }
+    },
+    {
+      "gameId": 2085979,
+      "gameUrl": "https://aliceliu.itch.io/amari",
+      "overallRank": 31,
+      "topCategories": [
+        "Atmosphere"
+      ],
+      "resultData": {
+        "rank": 31,
+        "rating_count": 26,
+        "url": "https://itch.io/jam/advjam2023/rate/2085979",
+        "contributors": [
+          {
+            "name": "alice",
+            "id": 6654058
+          },
+          {
+            "name": "Wrai",
+            "id": 2534333
+          },
+          {
+            "name": "at the tone",
+            "id": 2843693
+          },
+          {
+            "name": "ninehearts",
+            "id": 5824589
+          },
+          {
+            "name": "Tung T. Tran",
+            "id": 3221660
+          },
+          {
+            "name": "Maxsito",
+            "id": 2843300
+          }
+        ],
+        "score": 3.5641025641026,
+        "title": "Amari",
+        "raw_score": 3.5641025641026,
+        "id": 2085979,
+        "cover_url": "https://img.itch.zone/aW1nLzEyNDI3ODgwLnBuZw==/300x240%23c/LwH4CP.png",
+        "criteria": [
+          {
+            "name": "Mental Engagement",
+            "raw_score": 2.8846153846154,
+            "score": 2.8846153846154,
+            "rank": 70
+          },
+          {
+            "name": "Atmosphere",
+            "raw_score": 4.5384615384615,
+            "score": 4.5384615384615,
+            "rank": 3
+          },
+          {
+            "name": "Characterization",
+            "raw_score": 3.5,
+            "score": 3.5,
+            "rank": 40
+          },
+          {
+            "name": "Emotional Engagement",
+            "raw_score": 3.4230769230769,
+            "score": 3.4230769230769,
+            "rank": 21
+          },
+          {
+            "name": "Lasting Impression",
+            "raw_score": 3.3846153846154,
+            "score": 3.3846153846154,
+            "rank": 42
+          },
+          {
+            "name": "Overall",
+            "raw_score": 3.6538461538462,
+            "score": 3.6538461538462,
+            "rank": 35
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 26,
+        "created_at": "2023-06-09 23:57:05",
+        "coolness": 4,
+        "id": 419473,
+        "url": "/jam/advjam2023/rate/2085979",
+        "contributors": [
+          {
+            "name": "alice",
+            "url": "https://aliceliu.itch.io"
+          },
+          {
+            "name": "Wrai",
+            "url": "https://lettucewrychu.itch.io"
+          },
+          {
+            "name": "at the tone",
+            "url": "https://at-the-tone.itch.io"
+          },
+          {
+            "name": "ninehearts",
+            "url": "https://ninehearts.itch.io"
+          },
+          {
+            "name": "Tung T. Tran",
+            "url": "https://tungtt.itch.io"
+          },
+          {
+            "name": "Maxsito",
+            "url": "https://maxsito.itch.io"
+          }
+        ],
+        "game": {
+          "cover_color": "#020307",
+          "id": 2085979,
+          "user": {
+            "name": "alice",
+            "url": "https://aliceliu.itch.io",
+            "id": 6654058
+          },
+          "url": "https://aliceliu.itch.io/amari",
+          "short_text": "Explore a forest with Point and Click movement in this adventure game to fulfill an old friend's final wish.",
+          "title": "Amari",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEyNDI3ODgwLnBuZw==/300x240%23c/LwH4CP.png"
+        }
+      },
+      "details": {
+        "title": "Amari",
+        "description": "Amari\nWhen Amari receives an unmarked package in the mail, she finds herself returning to ‘the forest behind the hills’, a place where she spent many childhood summers exploring within. Now, years later, the forest still stands, but something’s changed. Follow Amari as she traverses through the forest in an attempt to fulfill her friend’s last wish.\nControls:\nUse Left Mouse click to move around and interact. \nAlice — Producer, UI/UX DesignTung — Art Director,  Art & Animation\nLuna — Technical Director, Implementation,  ProgrammingChris — ProgrammingWrai — Game Design, Narrative Design\nCryvera — Sound Design, Music",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzEyNDI3ODgwLnBuZw==/original/My6BUs.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Authors": "alice, Wrai, at the tone, ninehearts, Tung T. Tran, Maxsito",
+          "Genre": "Adventure, Puzzle",
+          "Tags": "2D, Animals, Forest, Hand-drawn, Music, Narrative, Point & Click, Singleplayer, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 2108884,
+      "gameUrl": "https://digital-mosaic-games.itch.io/interstellar-interruption",
+      "overallRank": 20,
+      "topCategories": [
+        "Atmosphere"
+      ],
+      "resultData": {
+        "rank": 20,
+        "rating_count": 15,
+        "url": "https://itch.io/jam/advjam2023/rate/2108884",
+        "contributors": [
+          {
+            "name": "Digital Mosaic Games",
+            "id": 652599
+          }
+        ],
+        "score": 3.7111111111111,
+        "title": "Interstellar Interruption",
+        "raw_score": 3.7111111111111,
+        "id": 2108884,
+        "cover_url": "https://img.itch.zone/aW1nLzEyNDMwNzcwLnBuZw==/300x240%23c/TiNi1m.png",
+        "criteria": [
+          {
+            "name": "Mental Engagement",
+            "raw_score": 3.2,
+            "score": 3.2,
+            "rank": 48
+          },
+          {
+            "name": "Atmosphere",
+            "raw_score": 4.4666666666667,
+            "score": 4.4666666666667,
+            "rank": 4
+          },
+          {
+            "name": "Emotional Engagement",
+            "raw_score": 3.3333333333333,
+            "score": 3.3333333333333,
+            "rank": 29
+          },
+          {
+            "name": "Characterization",
+            "raw_score": 3.8,
+            "score": 3.8,
+            "rank": 26
+          },
+          {
+            "name": "Lasting Impression",
+            "raw_score": 3.6,
+            "score": 3.6,
+            "rank": 27
+          },
+          {
+            "name": "Overall",
+            "raw_score": 3.8666666666667,
+            "score": 3.8666666666667,
+            "rank": 16
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 15,
+        "created_at": "2023-06-09 06:26:27",
+        "coolness": 0,
+        "id": 419166,
+        "url": "/jam/advjam2023/rate/2108884",
+        "game": {
+          "cover_color": "#000000",
+          "id": 2108884,
+          "user": {
+            "name": "Digital Mosaic Games",
+            "url": "https://digital-mosaic-games.itch.io",
+            "id": 652599
+          },
+          "url": "https://digital-mosaic-games.itch.io/interstellar-interruption",
+          "short_text": "Scifi Mystery",
+          "title": "Interstellar Interruption",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEyNDMwNzcwLnBuZw==/300x240%23c/TiNi1m.png"
+        }
+      },
+      "details": {
+        "title": "Interstellar Interruption",
+        "description": "RATE THE GAME HERE: https://itch.io/jam/advjam2023/rate/2108884When you wake up in the middle of space with no memory of who you are or what your mission is, you must search the ship, learn what happened and complete your mission if you can.\nDaniel Kobylarz - Audio, UI, Puzzle Design, Voice ActingSteven Avigliano - Writing, Dialogue, Voice ActingVincent Cortese - Programming, Puzzle DesignDavid Brocek - Writing, Puzzle Design, Art\nDreena Moran - Voice ActingGabrielle Crespo - Voice Acting\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjEwODg4NC8xMjQxNDYxMC5wbmc=/original/XMuyJj.png",
+          "https://img.itch.zone/aW1hZ2UvMjEwODg4NC8xMjQxNDYyOC5naWY=/original/UzxlLn.gif",
+          "https://img.itch.zone/aW1hZ2UvMjEwODg4NC8xMjQyMDQyOC5wbmc=/original/Q8il1i.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.5 out of 5 stars(23 total ratings)",
+          "Author": "Digital Mosaic Games",
+          "Genre": "Adventure",
+          "Tags": "Dark, First-Person, Horror, Mystery, Point & Click, Sci-fi, Space"
+        }
+      }
+    },
+    {
+      "gameId": 2110015,
+      "gameUrl": "https://georgebroussard.itch.io/the-third-wish",
+      "overallRank": 10,
+      "topCategories": [
+        "Atmosphere",
+        "Lasting Impression",
+        "Characterization",
+        "Overall"
+      ],
+      "resultData": {
+        "rank": 10,
+        "rating_count": 49,
+        "url": "https://itch.io/jam/advjam2023/rate/2110015",
+        "contributors": [
+          {
+            "name": "George Broussard",
+            "id": 677891
+          }
+        ],
+        "score": 3.8707482993197,
+        "title": "The Third Wish",
+        "raw_score": 3.8707482993197,
+        "id": 2110015,
+        "cover_url": "https://img.itch.zone/aW1nLzEyNTQzMzgxLnBuZw==/300x240%23c/07cYwV.png",
+        "criteria": [
+          {
+            "name": "Mental Engagement",
+            "raw_score": 3.1428571428571,
+            "score": 3.1428571428571,
+            "rank": 51
+          },
+          {
+            "name": "Atmosphere",
+            "raw_score": 4.3877551020408,
+            "score": 4.3877551020408,
+            "rank": 5
+          },
+          {
+            "name": "Lasting Impression",
+            "raw_score": 3.9387755102041,
+            "score": 3.9387755102041,
+            "rank": 8
+          },
+          {
+            "name": "Characterization",
+            "raw_score": 4.0408163265306,
+            "score": 4.0408163265306,
+            "rank": 8
+          },
+          {
+            "name": "Emotional Engagement",
+            "raw_score": 3.6326530612245,
+            "score": 3.6326530612245,
+            "rank": 13
+          },
+          {
+            "name": "Overall",
+            "raw_score": 4.0816326530612,
+            "score": 4.0816326530612,
+            "rank": 7
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 49,
+        "created_at": "2023-06-09 15:07:05",
+        "coolness": 5,
+        "id": 419224,
+        "url": "/jam/advjam2023/rate/2110015",
+        "game": {
+          "cover_color": "#060305",
+          "id": 2110015,
+          "user": {
+            "name": "George Broussard",
+            "url": "https://georgebroussard.itch.io",
+            "id": 677891
+          },
+          "url": "https://georgebroussard.itch.io/the-third-wish",
+          "short_text": "A sci-fi adventure game.",
+          "title": "The Third Wish",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEyNTQzMzgxLnBuZw==/300x240%23c/07cYwV.png"
+        }
+      },
+      "details": {
+        "title": "The Third Wish",
+        "description": "Sharing this game with your friends (Twitter, etc) is the #1 thing you can do to support it. Thanks!\n\nThe Third Wish is a sci-fi point & click adventure about a family and fate and consequence. Full voice acting.\n--\nAltair 4. A planet 17 light years from Earth, containing one Mr. and Mrs. White who run a moisture farm for an unconcerned company at the far edge of explored space.\nToday is like any other in the lives of Mr. and Mrs. White but tonight they entertain a guest with a particular artifact that will test the limit of their belief in fate.\nHow to Play\n\n\nLeft MouseWalk aroundUse/Interact with item or characterRight MouseLook at/examine somethingCan do multiple times. Might be critical to progress.Move mouse to top left of screenInventory barMove mouse totop right of screenOptions barSave / Load GameOptionsQuitInventory Bar- Equip item: Left click.- Combine items: Left click an item when holding an item.- Examine item: Right click.- Left click while holding item to use in the world.- Right click to clear hands and what you're holding.F1TipsSPACEPause gameF5 / F7Quick save / Quick loadTABHighlight hotspots(WARNING: this can and will spoil the game.Use as a last resort.)\nThe game will autosave on exit.\n\n\nCredits\nDesign, Code, Art, Sounds: George Broussard\nVoice Actor: Travis Baldree \nThe Third Wish was created in Unity (and PowerQuest by Powerhoof) over two weeks for Adventure Jam 2023.\nPlease rate, leave a comment and share with your friends!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjExMDAxNS8xMjQyMjI3MS5wbmc=/original/FbCsBp.png",
+          "https://img.itch.zone/aW1hZ2UvMjExMDAxNS8xMjQyMjI3NS5wbmc=/original/wsiVw3.png",
+          "https://img.itch.zone/aW1hZ2UvMjExMDAxNS8xMjQyMjI3OC5wbmc=/original/ZpNivL.png",
+          "https://img.itch.zone/aW1hZ2UvMjExMDAxNS8xMjQyMjI3Mi5wbmc=/original/gD0pW6.png",
+          "https://img.itch.zone/aW1hZ2UvMjExMDAxNS8xMjQyMjI3NC5wbmc=/original/kT00BN.png",
+          "https://img.itch.zone/aW1hZ2UvMjExMDAxNS8xMjQyMjI2Ny5wbmc=/original/FWrIgw.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS, Linux",
+          "Rating": "Rated 4.6 out of 5 stars(131 total ratings)",
+          "Author": "George Broussard",
+          "Genre": "Adventure, Puzzle",
+          "Made with": "Unity, Aseprite, Adobe Photoshop, Clip Studio Paint",
+          "Tags": "2D, Dark Fantasy, Horror, Mystery, Narrative, Pixel Art, Point & Click, Sci-fi, Story Rich",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Mouse",
+          "Accessibility": "Subtitles",
+          "Links": "Twitter/X"
+        }
+      }
+    },
+    {
+      "gameId": 2110687,
+      "gameUrl": "https://golosogames.itch.io/pixels-time-paradox",
+      "overallRank": 9,
+      "topCategories": [
+        "Atmosphere",
+        "Characterization",
+        "Overall"
+      ],
+      "resultData": {
+        "rank": 9,
+        "rating_count": 38,
+        "url": "https://itch.io/jam/advjam2023/rate/2110687",
+        "contributors": [
+          {
+            "name": "Goloso Games",
+            "id": 355924
+          }
+        ],
+        "score": 3.890350877193,
+        "title": "Pixel's Time Paradox",
+        "raw_score": 3.890350877193,
+        "id": 2110687,
+        "cover_url": "https://img.itch.zone/aW1nLzEyNDI2OTM1LnBuZw==/300x240%23c/AmccS9.png",
+        "criteria": [
+          {
+            "name": "Emotional Engagement",
+            "raw_score": 3.2631578947368,
+            "score": 3.2631578947368,
+            "rank": 33
+          },
+          {
+            "name": "Atmosphere",
+            "raw_score": 4.3684210526316,
+            "score": 4.3684210526316,
+            "rank": 7
+          },
+          {
+            "name": "Mental Engagement",
+            "raw_score": 3.7894736842105,
+            "score": 3.7894736842105,
+            "rank": 17
+          },
+          {
+            "name": "Characterization",
+            "raw_score": 4.0263157894737,
+            "score": 4.0263157894737,
+            "rank": 10
+          },
+          {
+            "name": "Lasting Impression",
+            "raw_score": 3.7368421052632,
+            "score": 3.7368421052632,
+            "rank": 17
+          },
+          {
+            "name": "Overall",
+            "raw_score": 4.1578947368421,
+            "score": 4.1578947368421,
+            "rank": 4
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 38,
+        "created_at": "2023-06-09 21:48:52",
+        "coolness": 27,
+        "id": 419352,
+        "url": "/jam/advjam2023/rate/2110687",
+        "game": {
+          "cover_color": "#eeeeee",
+          "user": {
+            "name": "Goloso Games",
+            "url": "https://golosogames.itch.io",
+            "id": 355924
+          },
+          "url": "https://golosogames.itch.io/pixels-time-paradox",
+          "id": 2110687,
+          "title": "Pixel's Time Paradox",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEyNDI2OTM1LnBuZw==/300x240%23c/AmccS9.png"
+        }
+      },
+      "details": {
+        "title": "Pixel's Time Paradox",
+        "description": "Story\n  \nWhen Pixel learns that author T. T. Hunter died, he’s devastated. Now he might never know how his favourite book series ends! So, he does what any inventor cat would do: he builds a time machine, to travel back to the novelist’s final hours, in hopes of preventing the tragic act.\n  \nBut things are never that easy. In this latest addition to the Inspector Waffles universe—created in two weeks for Adventure Jam 2023—help Pixel, along with his flamingo pal JayJay, to solve time travel puzzles, avoid paradoxes, and save the day for literature fans everywhere! \n  \n \n  \nControls\n  \nLeft click to walk, interact, look at hotspots, and combine items. Right-click to examine inventory items.\n  \n\nCredits\nArt: Marilou Renault-Carraro\nMusic/SFX: Philip Aldous\nTesting/Proofreading: Will Ackermann\nCode/Design/Story: Goloso Games\n\n \n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjExMDY4Ny8xMjQyNjMyOC5naWY=/original/B0lTyJ.gif",
+          "https://img.itch.zone/aW1hZ2UvMjExMDY4Ny8xMjQyNjU4NC5wbmc=/original/4ytKTm.png",
+          "https://img.itch.zone/aW1hZ2UvMjExMDY4Ny8xMjQyNjU4Ny5wbmc=/original/LxDb9y.png",
+          "https://img.itch.zone/aW1hZ2UvMjExMDY4Ny8xMjQyNjU4My5wbmc=/original/Bp5zsE.png",
+          "https://img.itch.zone/aW1hZ2UvMjExMDY4Ny8xMjQyNjU4Ni5wbmc=/original/x3%2Ffjd.png",
+          "https://img.itch.zone/aW1hZ2UvMjExMDY4Ny8xMjQyNjU4NS5wbmc=/original/CyjvqG.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.8 out of 5 stars(54 total ratings)",
+          "Author": "Goloso Games",
+          "Genre": "Adventure, Puzzle",
+          "Tags": "Cats, Point & Click, Story Rich, Time Travel"
+        }
+      }
+    },
+    {
+      "gameId": 2111099,
+      "gameUrl": "https://maazgamedev.itch.io/the-fabricwalker",
+      "overallRank": 40,
+      "topCategories": [
+        "Atmosphere"
+      ],
+      "resultData": {
+        "rank": 40,
+        "rating_count": 16,
+        "url": "https://itch.io/jam/advjam2023/rate/2111099",
+        "contributors": [
+          {
+            "name": "Maaz",
+            "id": 5855815
+          }
+        ],
+        "score": 3.4791666666667,
+        "title": "The Fabricwalker",
+        "raw_score": 3.4791666666667,
+        "id": 2111099,
+        "cover_url": "https://img.itch.zone/aW1nLzEyNDI4ODY0LnBuZw==/300x240%23c/jLbUQ4.png",
+        "criteria": [
+          {
+            "name": "Mental Engagement",
+            "raw_score": 3.625,
+            "score": 3.625,
+            "rank": 22
+          },
+          {
+            "name": "Atmosphere",
+            "raw_score": 4.3125,
+            "score": 4.3125,
+            "rank": 10
+          },
+          {
+            "name": "Characterization",
+            "raw_score": 3.125,
+            "score": 3.125,
+            "rank": 74
+          },
+          {
+            "name": "Emotional Engagement",
+            "raw_score": 2.8125,
+            "score": 2.8125,
+            "rank": 63
+          },
+          {
+            "name": "Overall",
+            "raw_score": 3.625,
+            "score": 3.625,
+            "rank": 38
+          },
+          {
+            "name": "Lasting Impression",
+            "raw_score": 3.375,
+            "score": 3.375,
+            "rank": 43
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 16,
+        "created_at": "2023-06-10 00:11:23",
+        "coolness": 8,
+        "id": 419489,
+        "url": "/jam/advjam2023/rate/2111099",
+        "game": {
+          "cover_color": "#f5eafe",
+          "id": 2111099,
+          "user": {
+            "name": "Maaz",
+            "url": "https://maazgamedev.itch.io",
+            "id": 5855815
+          },
+          "url": "https://maazgamedev.itch.io/the-fabricwalker",
+          "short_text": "Unravel the Cosmic Tapestry!",
+          "title": "The Fabricwalker",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEyNDI4ODY0LnBuZw==/300x240%23c/jLbUQ4.png"
+        }
+      },
+      "details": {
+        "title": "The Fabricwalker",
+        "description": "Embark on a journey through a unraveling universe in this enigmatic sidescroller. Embrace your role as the Fabricwalker, a chosen hero destined to restore balance to a crumbling universe.\n Weave through time and space, challenge the forces that threaten reality, and discover the secrets of the Cosmic Tapestry. \nWill you mend the threads of existence or succumb to the chaos?\nSolo developed in a week for the Adventure Jam 2023",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjExMTA5OS8xMjQyODk3NC5wbmc=/original/CdeQzc.png",
+          "https://img.itch.zone/aW1hZ2UvMjExMTA5OS8xMjQyODk3Ny5wbmc=/original/l2EJ%2Fi.png",
+          "https://img.itch.zone/aW1hZ2UvMjExMTA5OS8xMjQyODk3OC5wbmc=/original/ZYynRB.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Author": "Maaz",
+          "Genre": "Adventure, Action, Platformer",
+          "Made with": "Unity",
+          "Tags": "2D, Atmospheric, Creepy, Fantasy, Pixel Art, Short, Singleplayer",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Accessibility": "Interactive tutorial"
+        }
+      }
+    },
+    {
+      "gameId": 2092548,
+      "gameUrl": "https://powerhoof.itch.io/the-telwynium-book-three",
+      "overallRank": 6,
+      "topCategories": [
+        "Lasting Impression",
+        "Characterization",
+        "Overall"
+      ],
+      "resultData": {
+        "rank": 6,
+        "rating_count": 20,
+        "url": "https://itch.io/jam/advjam2023/rate/2092548",
+        "contributors": [
+          {
+            "name": "Powerhoof",
+            "id": 55454
+          }
+        ],
+        "score": 3.9916666666667,
+        "title": "The Telwynium: Book Three",
+        "raw_score": 3.9916666666667,
+        "id": 2092548,
+        "cover_url": "https://img.itch.zone/aW1nLzEyNDI4MTA5LmdpZg==/300x240%23c/RFyqNE.gif",
+        "criteria": [
+          {
+            "name": "Atmosphere",
+            "raw_score": 4.25,
+            "score": 4.25,
+            "rank": 16
+          },
+          {
+            "name": "Lasting Impression",
+            "raw_score": 4,
+            "score": 4,
+            "rank": 5
+          },
+          {
+            "name": "Mental Engagement",
+            "raw_score": 3.95,
+            "score": 3.95,
+            "rank": 11
+          },
+          {
+            "name": "Emotional Engagement",
+            "raw_score": 3.65,
+            "score": 3.65,
+            "rank": 12
+          },
+          {
+            "name": "Characterization",
+            "raw_score": 4.05,
+            "score": 4.05,
+            "rank": 7
+          },
+          {
+            "name": "Overall",
+            "raw_score": 4.05,
+            "score": 4.05,
+            "rank": 9
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 20,
+        "created_at": "2023-06-09 23:37:00",
+        "coolness": 27,
+        "id": 419439,
+        "url": "/jam/advjam2023/rate/2092548",
+        "game": {
+          "cover_color": "#000000",
+          "url": "https://powerhoof.itch.io/the-telwynium-book-three",
+          "short_text": "A Cosy 90s Fantasy Adventure",
+          "user": {
+            "name": "Powerhoof",
+            "url": "https://powerhoof.itch.io",
+            "id": 55454
+          },
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ],
+          "title": "The Telwynium: Book Three",
+          "id": 2092548,
+          "gif_cover": "https://img.itch.zone/aW1nLzEyNDI4MTA5LmdpZg==/original/4Ga%2Bro.gif",
+          "cover": "https://img.itch.zone/aW1nLzEyNDI4MTA5LmdpZg==/300x240%23c/RFyqNE.gif"
+        }
+      },
+      "details": {
+        "title": "The Telwynium: Book Three",
+        "description": "The Telwynium: Book Three\n- The Shadow of Spring -\nThe Summer King walks! The fellowship from Willows Dene has been split asunder, each a prisoner in grave, tomb or cell. Each faces their own peril, with only their wits to guide them against merciless brigands, the living dead, shadowfell, and the witches of Targoth. \nThe Telwynium: Book Three is an early 90s style point and click, with Sierra SCI0 style graphics, but with a fancy new-fangled point 'n click interface.\nMade with PowerQuest!\nDave's 2d adventure game toolkit for Unity. \n\nTry it out yourself!\nThe Third Book of The Telwynium Saga\nBook One - Winter's Dawn\nBook Two - The Summer King\nBook Three - The Shadow of Spring\n\nCheck out our other adventures:\n\n\n\nHow To Play\nWhen in doubt, look about! In this style of game, looking is very important, It's easy to miss things if you're not looking at everything.The walkthrough is included in a readme file if you get stuck.\nLeft click:With the Boot cursor to walk.\nWith the Gauntlet cursor to interact. (Talk, Pick-up, Use)\nWith the Eye cursor to Examine, and find clues to solve the puzzles.\nOn an inventory item to Equip it (or examine with the eye cursor)\nWith an inventory item to use it\n\nRight click:To change cursor\nTo unequip an inventory item\n\nC to toggle CRT camera effectsF1 for help, F2 for settingsQ, W and E keys select Walk, Use, LookAt.If you're using an *actual* CRT monitor: 'M' toggles native resolutions and F to toggles fullscreen modes.\n\nCredits:\nDave Lloyd (@DuzzOnDrums) -  Story, Code, Art\nBrandon Blume (@BrandonBlume) - Music and SFXFonts by GoatmealSome SFX hacked up from old SCI0 games\nSpecial thanks and inspiration:\nIrreverentPixel, Dan (MostlyDecentGames), 13x666, Clare Del Beato - TestingTom Lloyd - Story sounding boardBarney Cumming (@Powerhoof) - Walk Anim Template\nLouis Meyer (@LouisDMeyer) - Additional Music in Book OneThe Seadads and Feeding Timers\nChristy Marx & Peter Ledger\nRobert Jordan & Brandon Sanderson\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjA5MjU0OC8xMjQyNzk2NS5wbmc=/original/qTlx3D.png",
+          "https://img.itch.zone/aW1hZ2UvMjA5MjU0OC8xMjQyNzk2Ni5wbmc=/original/Cl1rVI.png",
+          "https://img.itch.zone/aW1hZ2UvMjA5MjU0OC8xMjQyNzk2Ny5wbmc=/original/BEajUi.png",
+          "https://img.itch.zone/aW1hZ2UvMjA5MjU0OC8xNDYyNDM5MC5wbmc=/original/WHRUgt.png",
+          "https://img.itch.zone/aW1hZ2UvMjA5MjU0OC8xMjQyNzk2NC5wbmc=/original/CL%2B7wm.png",
+          "https://img.itch.zone/aW1hZ2UvMjA5MjU0OC8xNDYyNDM5My5wbmc=/original/Lf%2Fusx.png",
+          "https://img.itch.zone/aW1hZ2UvMjA5MjU0OC8xNDYyNDM5Mi5wbmc=/original/m5PRcc.png",
+          "https://img.itch.zone/aW1hZ2UvMjA5MjU0OC8xNDYyNDM5NC5wbmc=/original/e1jEuM.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS, Linux",
+          "Rating": "Rated 4.9 out of 5 stars(66 total ratings)",
+          "Author": "Powerhoof",
+          "Genre": "Adventure",
+          "Made with": "Unity",
+          "Tags": "2D, Dark Fantasy, Fantasy, Medieval, Pixel Art, Point & Click, powerquest, sierra",
+          "Average session": "A few hours",
+          "Languages": "English",
+          "Inputs": "Mouse",
+          "Accessibility": "Subtitles"
+        }
+      }
+    },
+    {
+      "gameId": 2098682,
+      "gameUrl": "https://marcogiorgini.itch.io/twisted-times-in-twinsmouth",
+      "overallRank": 13,
+      "topCategories": [
+        "Lasting Impression",
+        "Characterization"
+      ],
+      "resultData": {
+        "rank": 13,
+        "rating_count": 30,
+        "url": "https://itch.io/jam/advjam2023/rate/2098682",
+        "contributors": [
+          {
+            "name": "Marco Giorgini",
+            "id": 484515
+          }
+        ],
+        "score": 3.8333333333333,
+        "title": "Twisted Times in Twinsmouth",
+        "raw_score": 3.8333333333333,
+        "id": 2098682,
+        "cover_url": "https://img.itch.zone/aW1nLzEyNDMwOTE3LmpwZw==/300x240%23c/u5IgB2.jpg",
+        "criteria": [
+          {
+            "name": "Characterization",
+            "raw_score": 4.0333333333333,
+            "score": 4.0333333333333,
+            "rank": 9
+          },
+          {
+            "name": "Mental Engagement",
+            "raw_score": 3.8,
+            "score": 3.8,
+            "rank": 15
+          },
+          {
+            "name": "Emotional Engagement",
+            "raw_score": 3.3,
+            "score": 3.3,
+            "rank": 31
+          },
+          {
+            "name": "Atmosphere",
+            "raw_score": 3.9333333333333,
+            "score": 3.9333333333333,
+            "rank": 40
+          },
+          {
+            "name": "Lasting Impression",
+            "raw_score": 4,
+            "score": 4,
+            "rank": 5
+          },
+          {
+            "name": "Overall",
+            "raw_score": 3.9333333333333,
+            "score": 3.9333333333333,
+            "rank": 13
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 30,
+        "created_at": "2023-06-09 20:06:47",
+        "coolness": 26,
+        "id": 419311,
+        "url": "/jam/advjam2023/rate/2098682",
+        "game": {
+          "cover_color": "#15121f",
+          "id": 2098682,
+          "user": {
+            "name": "Marco Giorgini",
+            "url": "https://marcogiorgini.itch.io",
+            "id": 484515
+          },
+          "url": "https://marcogiorgini.itch.io/twisted-times-in-twinsmouth",
+          "short_text": "A point-n-click pixelart adventure game about writers, killings, undersea dreaming gods and time tunnels",
+          "title": "Twisted Times in Twinsmouth",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEyNDMwOTE3LmpwZw==/300x240%23c/u5IgB2.jpg"
+        }
+      },
+      "details": {
+        "title": "Twisted Times in Twinsmouth",
+        "description": "A point-n-click pixel-art adventure game about writers, killings, undersea dreaming gods, and time tunnels - done for #AdvJam2023\n[Warning: Despite the comedic mood, this game contains (unrealistic) blood, death and monsters, and even talks about mental illness (caused by monsters and gods... so not exactly a common situation, but).\nWhere do writers get their wonderful ideas? \nYes, like you, we KNOW they're hiding something from us - a place - a food - something that makes them LOOK smarter! \nSo let's try to find out their secret SOON - after all, the story of the jam game is not going to write itself!\nThe Story\n\nWho is the mysterious and powerful lord who asked E. A. Poe to come to his house a few days before he died? Is he the same person who, almost a century later, would send a similar invitation to H.P. Lovecraft?\nAnd how do two small towns founded by twin brothers on either side of a small stream relate to all these events?\nA mistake made in grief may have unleashed something that should never have come ashore.\nWhere are you when the game starts?\n\nMarco and Stefania are in Pinkhouse Cove, a small seaside town in Massachusetts. Not because of its 2-star hotels or its dangerous food, but because Marco seems to be close to discovering the \"Big Writers Lie\" about the origin of ideas and to finally be able to create a decent game.\nBut things may be a little different than this great guy thinks. And much more dangerous - not only for him.\nHow to play\nLeft-click: use / interact / talk to \nRight-click: look at / move to \nTo change area, click to move to the exit point, then once there, click again\n\nYou can switch between the two main characters anytime, using the two bottom-left icons\n\nPressing space you can see the usable hotspots (including directions)\n\nCredits\n\nStory, Graphics, and Animations by Marco Giorgini (@marcogiorgini)\n\nOriginal Music by Andrea Baroni (@bluegestalt)\nThe game was built with Defold engine (http://www.defold.com)\nWalkthrough\n\nIf you need some help finishing the game, you can use the Walkthrough file available for download\nSource & Resources\n\nAs I said, my engine is based on Defold - in the next weeks my plan is to release the full source code of this game (but with different licenses for code and resources)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjA5ODY4Mi8xMjM0OTc0MS5naWY=/original/af9GxL.gif",
+          "https://img.itch.zone/aW1hZ2UvMjA5ODY4Mi8xMjM0OTc0My5naWY=/original/KmrMGV.gif",
+          "https://img.itch.zone/aW1hZ2UvMjA5ODY4Mi8xMjM0OTc0Mi5naWY=/original/S4WLpM.gif",
+          "https://img.itch.zone/aW1hZ2UvMjA5ODY4Mi8xMjM0OTc0MC5naWY=/original/Cs2fA%2B.gif"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 4.9 out of 5 stars(14 total ratings)",
+          "Author": "Marco Giorgini",
+          "Genre": "Adventure",
+          "Made with": "Defold",
+          "Tags": "16-bit, 2D, Pixel Art, Point & Click, Story Rich",
+          "Average session": "About an hour",
+          "Languages": "English"
+        }
+      }
+    },
+    {
+      "gameId": 2111004,
+      "gameUrl": "https://standoffsoftware.itch.io/saure-gurken-audiospawn",
+      "overallRank": 8,
+      "topCategories": [
+        "Lasting Impression",
+        "Characterization",
+        "Overall"
+      ],
+      "resultData": {
+        "rank": 8,
+        "rating_count": 19,
+        "url": "https://itch.io/jam/advjam2023/rate/2111004",
+        "contributors": [
+          {
+            "name": "StandOffSoftware",
+            "id": 594851
+          },
+          {
+            "name": "GottderFrucht",
+            "id": 2572547
+          },
+          {
+            "name": "Jon Paul Sapsford",
+            "id": 1680289
+          }
+        ],
+        "score": 3.9473684210526,
+        "title": "Saure Gurken: Audiospawn",
+        "raw_score": 3.9473684210526,
+        "id": 2111004,
+        "cover_url": "https://img.itch.zone/aW1nLzEyNDI4NDcxLnBuZw==/300x240%23c/EUPBcL.png",
+        "criteria": [
+          {
+            "name": "Mental Engagement",
+            "raw_score": 3.8947368421053,
+            "score": 3.8947368421053,
+            "rank": 12
+          },
+          {
+            "name": "Atmosphere",
+            "raw_score": 3.7894736842105,
+            "score": 3.7894736842105,
+            "rank": 52
+          },
+          {
+            "name": "Lasting Impression",
+            "raw_score": 3.8947368421053,
+            "score": 3.8947368421053,
+            "rank": 10
+          },
+          {
+            "name": "Characterization",
+            "raw_score": 4.4210526315789,
+            "score": 4.4210526315789,
+            "rank": 2
+          },
+          {
+            "name": "Emotional Engagement",
+            "raw_score": 3.5789473684211,
+            "score": 3.5789473684211,
+            "rank": 15
+          },
+          {
+            "name": "Overall",
+            "raw_score": 4.1052631578947,
+            "score": 4.1052631578947,
+            "rank": 6
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 19,
+        "created_at": "2023-06-09 23:12:38",
+        "coolness": 21,
+        "id": 419403,
+        "url": "/jam/advjam2023/rate/2111004",
+        "contributors": [
+          {
+            "name": "StandOffSoftware",
+            "url": "https://standoffsoftware.itch.io"
+          },
+          {
+            "name": "GottderFrucht",
+            "url": "https://gottderfrucht.itch.io"
+          },
+          {
+            "name": "Jon Paul Sapsford",
+            "url": "https://jon-paul-sapsford.itch.io"
+          }
+        ],
+        "game": {
+          "cover_color": "#373737",
+          "id": 2111004,
+          "user": {
+            "name": "StandOffSoftware",
+            "url": "https://standoffsoftware.itch.io",
+            "id": 594851
+          },
+          "url": "https://standoffsoftware.itch.io/saure-gurken-audiospawn",
+          "short_text": "This show is a matter of life or death!",
+          "title": "Saure Gurken: Audiospawn",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEyNDI4NDcxLnBuZw==/300x240%23c/EUPBcL.png"
+        }
+      },
+      "details": {
+        "title": "Saure Gurken: Audiospawn",
+        "description": "Download build might be a slightly better graphical experience than the web build\n\nStep into the shoes of Korea's most bizarre rock band, Saure Gurken! This time, they're battling more than just the booze in this absurd and darkly comedic adventure.\nNavigate a series of increasingly bizarre obstacles to get to the gig because this show is a matter of life or death!\nFeaturing an all new original Saure Gurken song written and recorded during the jam for this game!\n\nInstructions:\nLeft click.\nInventory is at the top of the screen if you move your mouse there.\n\nCredits:\nDeveloped by Vance Baryn, Stand Off Software\nArt by Elisabeth Sagaischek (GottderFrüchte)\nIn-Game Music by Jon Paul Sapsford\n\"Audiospawn\" song by Saure Gurken\nSaure Gurken: Vance, Quaziq, Ethan, & Dr. Dan\nClub Owner: Alex Chang\nSushi Chef: Emily Koike\nMusic Shop Owner: Walter Mack\nBarista: Jason Hall\nBella the Survivor: Maia Harlap\nSarah the Survivor: Jasmin Bartlett\nStanley the Survivor: Jason Hall\nSome sound effects from freesound.org\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjExMTAwNC8xMjQyODU3MS5wbmc=/original/21QREG.png",
+          "https://img.itch.zone/aW1hZ2UvMjExMTAwNC8xMjQyODU3Mi5wbmc=/original/YmMi6e.png",
+          "https://img.itch.zone/aW1hZ2UvMjExMTAwNC8xMjQyODU3My5wbmc=/original/WVtIZB.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.0 out of 5 stars(4 total ratings)",
+          "Authors": "StandOffSoftware, GottderFrucht, Jon Paul Sapsford",
+          "Genre": "Adventure",
+          "Made with": "Unity",
+          "Tags": "Music"
+        }
+      }
+    },
+    {
+      "gameId": 2094243,
+      "gameUrl": "https://hankworx.itch.io/mrx",
+      "overallRank": 23,
+      "topCategories": [
+        "Characterization"
+      ],
+      "resultData": {
+        "rank": 23,
+        "rating_count": 29,
+        "url": "https://itch.io/jam/advjam2023/rate/2094243",
+        "contributors": [
+          {
+            "name": "hankworx",
+            "id": 693563
+          }
+        ],
+        "score": 3.6494252873563,
+        "title": "The Enigma of Mr. X",
+        "raw_score": 3.6494252873563,
+        "id": 2094243,
+        "cover_url": "https://img.itch.zone/aW1nLzEyNDI3NzUzLmdpZg==/300x240%23c/8p6fA0.gif",
+        "criteria": [
+          {
+            "name": "Mental Engagement",
+            "raw_score": 2.5862068965517,
+            "score": 2.5862068965517,
+            "rank": 102
+          },
+          {
+            "name": "Atmosphere",
+            "raw_score": 4.2068965517241,
+            "score": 4.2068965517241,
+            "rank": 21
+          },
+          {
+            "name": "Characterization",
+            "raw_score": 4.2068965517241,
+            "score": 4.2068965517241,
+            "rank": 5
+          },
+          {
+            "name": "Emotional Engagement",
+            "raw_score": 3.6551724137931,
+            "score": 3.6551724137931,
+            "rank": 11
+          },
+          {
+            "name": "Lasting Impression",
+            "raw_score": 3.5862068965517,
+            "score": 3.5862068965517,
+            "rank": 28
+          },
+          {
+            "name": "Overall",
+            "raw_score": 3.6551724137931,
+            "score": 3.6551724137931,
+            "rank": 34
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 29,
+        "created_at": "2023-06-09 23:08:31",
+        "coolness": 57,
+        "id": 419395,
+        "url": "/jam/advjam2023/rate/2094243",
+        "game": {
+          "cover_color": "#000000",
+          "url": "https://hankworx.itch.io/mrx",
+          "short_text": "Have you ever eaten raw sweet corn?",
+          "user": {
+            "name": "hankworx",
+            "url": "https://hankworx.itch.io",
+            "id": 693563
+          },
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "title": "The Enigma of Mr. X",
+          "id": 2094243,
+          "gif_cover": "https://img.itch.zone/aW1nLzEyNDI3NzUzLmdpZg==/original/DNiYc9.gif",
+          "cover": "https://img.itch.zone/aW1nLzEyNDI3NzUzLmdpZg==/300x240%23c/8p6fA0.gif"
+        }
+      },
+      "details": {
+        "title": "The Enigma of Mr. X",
+        "description": "Emily's brother is missing, she's succumbing to various addictions, and can't seem to escape her broken home. The nightmares started about a month ago. Maybe today is the day she can turn it all around? The Enigma of Mr. X is a fully voiced character driven side-scrolling psychological horror adventure involving nightmares, missing persons, and dysfunctional relationships, featuring an immersive soundtrack, mostly meaningless choices, existential dread, a ridiculous breakfast order, raw sweet corn, a drunk dad, run-on sentences, and a sweet lil kitty cat. \n\nContent Warning: This game contains themes of depression, drug usage, and mental abuse. Includes adult language, disturbing audio and visuals, and representations of violence.\n\nMoveLeft / Right a / dInteractUp / Downw / sContinueEnter /  Space / Clicke\n\nNotes: \n-Interactions marked with \">>>\" move to next scene\n-Recommend headphones and desktop version for best experience\n-Takes about 30-45 minutes to complete, no save system sorry\n\n-There's  a weird bug I haven't found a fix for yet. If you press Esc while a  choice is available, you will have to use the mouse to select that  choice, the keyboard selection should work fine after. \n    \n\n\nCreated in two weeks for Adventure Jam 2023\n\n\nStarring:\nMaya Murphy as Emily\nDave McClellan as Deputy Billings\nShaun Mendum as Stranger & Junkie\nJasmin Bartlett as Alex\nArrianna Abraham as Rachel\nGale Hall as Mark & Kid\nChristopher Rocco as Dad",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjA5NDI0My8xMjQyNzczNS5wbmc=/original/azfkx5.png",
+          "https://img.itch.zone/aW1hZ2UvMjA5NDI0My8xMjQyNzczNi5wbmc=/original/tm6214.png",
+          "https://img.itch.zone/aW1hZ2UvMjA5NDI0My8xMjQyNzczOC5wbmc=/original/kmi9w3.png",
+          "https://img.itch.zone/aW1hZ2UvMjA5NDI0My8xMjQyNzc0MS5wbmc=/original/l846qG.png",
+          "https://img.itch.zone/aW1hZ2UvMjA5NDI0My8xMjQyNzc0My5wbmc=/original/%2FjyHih.png",
+          "https://img.itch.zone/aW1hZ2UvMjA5NDI0My8xMjQyNzc0MC5wbmc=/original/byxOoX.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Author": "hankworx",
+          "Genre": "Adventure, Interactive Fiction, Visual Novel",
+          "Made with": "Unity, Audacity, MagicaVoxel, Pyxel Edit",
+          "Tags": "Atmospheric, Dark, Female Protagonist, Horror, Psychological Horror, Side Scroller, Story Rich, Voice Acting",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Keyboard",
+          "Accessibility": "Color-blind friendly, Subtitles"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,2960 @@
+{
+  "n": 72,
+  "name": "Bigmode Game Jam 2023",
+  "url": "https://itch.io/jam/bigmode-2023",
+  "theme": "MODE",
+  "slug": "bigmode-2023",
+  "jamMeta": {
+    "jamType": "ended",
+    "ratings": "9,475",
+    "entries": "484",
+    "title": "Bigmode Game Jam 2023",
+    "jamURL": "https://itch.io/jam/bigmode-2023",
+    "hosts": {
+      "BIGMODEsean": "https://bigmodesean.itch.io"
+    },
+    "jamID": "383944"
+  },
+  "totalEntries": 479,
+  "ranked": true,
+  "hasCategories": true,
+  "needsManualSelection": false,
+  "categories": [
+    "Fun",
+    "Originality",
+    "Presentation (graphics, audio)",
+    "Theme"
+  ],
+  "topGames": [
+    {
+      "gameId": 2419210,
+      "gameUrl": "https://kindanice.itch.io/ballfight",
+      "overallRank": 1,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 0,
+        "rating_count": 137,
+        "created_at": "2023-12-15 05:41:57",
+        "id": 483820,
+        "game": {
+          "user": {
+            "url": "https://kindanice.itch.io",
+            "name": "kindanice",
+            "id": 2729853
+          },
+          "title": "BALLFIGHT",
+          "cover": "https://img.itch.zone/aW1nLzE0MzUyNjg2LnBuZw==/300x240%23c/oLjzhL.png",
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#60803c",
+          "id": 2419210,
+          "short_text": "medieval twitch channel",
+          "url": "https://kindanice.itch.io/ballfight"
+        },
+        "url": "/jam/bigmode-2023/rate/2419210"
+      },
+      "details": {
+        "title": "BALLFIGHT",
+        "description": "this is what esports were like in 500 AD (fullscreen recommended)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQxOTIxMC8xNDM2MDA3Ni5wbmc=/original/n4RNOK.png",
+          "https://img.itch.zone/aW1hZ2UvMjQxOTIxMC8xNDM2MDA3Ny5wbmc=/original/15DsB3.png",
+          "https://img.itch.zone/aW1hZ2UvMjQxOTIxMC8xNDM2MDA4MC5wbmc=/original/23csPO.png",
+          "https://img.itch.zone/aW1hZ2UvMjQxOTIxMC8xNDM2MDA4Mi5wbmc=/original/QWT74m.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.4 out of 5 stars(66 total ratings)",
+          "Author": "kindanice",
+          "Genre": "Simulation, Action",
+          "Made with": "Godot",
+          "Tags": "2D, Auto Battler, Cute, Funny, Godot, Management, Physics, Roguelike",
+          "Average session": "A few minutes",
+          "Inputs": "Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 2399676,
+      "gameUrl": "https://charliedolphin.itch.io/redsnow",
+      "overallRank": 2,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 76,
+        "rating_count": 98,
+        "created_at": "2023-12-15 22:17:52",
+        "id": 484165,
+        "game": {
+          "user": {
+            "url": "https://charliedolphin.itch.io",
+            "name": "charliedolphin",
+            "id": 9263929
+          },
+          "title": "Red Snow",
+          "cover": "https://img.itch.zone/aW1nLzE0MzI5NjIxLnBuZw==/300x240%23c/LVn6f7.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#88f0f7",
+          "id": 2399676,
+          "short_text": "Incredibly violent winter sport modes!",
+          "url": "https://charliedolphin.itch.io/redsnow"
+        },
+        "contributors": [
+          {
+            "name": "charliedolphin",
+            "url": "https://charliedolphin.itch.io"
+          },
+          {
+            "name": "mo1ok",
+            "url": "https://mo1ok.itch.io"
+          },
+          {
+            "name": "basematerial",
+            "url": "https://basematerial.itch.io"
+          }
+        ],
+        "url": "/jam/bigmode-2023/rate/2399676"
+      },
+      "details": {
+        "title": "Red Snow",
+        "description": "\n 1st place winner of the 2023 Bigmode Game Jam!\nRED SNOW is being revamped for a Steam release! Wishlist it today!\nFollow Red Snow development on twitter, @playRedSnow\nGet ready for RED SNOW, a dynamic downhill winter sports game created in just 2 1/2 weeks for the Big Mode 2023 Game Jam! \nDive into intense and exciting downhill gameplay across a variety of winter-sports modes. Challenge players worldwide for a chance to claim your spot on the leaderboard!\nLaggy? Try enabling \"Use hardware acceleration when available\" In Chrome Settings -> System.\n\n~~LORE~~\nThe year is 2146. The battle for freedom intensifies as communist invaders target America's pristine ski slopes. In Aspen, Colorado, a lone American patriot and winter sports enthusiast named JOHN CLOD takes a defiant stand against an army of communist ski jumpers.\n Welcome to RED SNOW.\nBy\n \n@CharlieBratches - Lead programmer, voice acting, maestro\n\n    \n@BaseMaterial - Artistic genius\n    \n@LyerionClash - Programming, audio FX\n\n\n    @tkinthepocket - Original music\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjM5OTY3Ni8xNDM2MDk0Ni5naWY=/original/OURsQQ.gif",
+          "https://img.itch.zone/aW1hZ2UvMjM5OTY3Ni8xNDM2MDg5OS5naWY=/original/dpVd3e.gif",
+          "https://img.itch.zone/aW1hZ2UvMjM5OTY3Ni8xNDM2MDYzMS5naWY=/original/K35oRI.gif",
+          "https://img.itch.zone/aW1hZ2UvMjM5OTY3Ni8xNDM2MDc1OC5naWY=/original/fd7U9H.gif",
+          "https://img.itch.zone/aW1hZ2UvMjM5OTY3Ni8xNDM2MDg1OC5naWY=/original/rLYEfU.gif",
+          "https://img.itch.zone/aW1hZ2UvMjM5OTY3Ni8xNDM2MTAxMC5naWY=/original/AsbLUz.gif",
+          "https://img.itch.zone/aW1hZ2UvMjM5OTY3Ni8xNDM2MTIwNS5naWY=/original/4ZOEd1.gif",
+          "https://img.itch.zone/aW1hZ2UvMjM5OTY3Ni8xNDM2MDI5Ny5wbmc=/original/W%2FIuCM.png",
+          "https://img.itch.zone/aW1hZ2UvMjM5OTY3Ni8xNDM2MTEwMi5naWY=/original/b0rQce.gif",
+          "https://img.itch.zone/aW1hZ2UvMjM5OTY3Ni8xNDM2MDI5Ni5wbmc=/original/Q%2BITrp.png",
+          "https://img.itch.zone/aW1hZ2UvMjM5OTY3Ni8xNDM2MDI5OC5wbmc=/original/v2uCAL.png",
+          "https://img.itch.zone/aW1hZ2UvMjM5OTY3Ni8xNDM2MDI5NS5wbmc=/original/TY2ihR.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.4 out of 5 stars(51 total ratings)",
+          "Authors": "charliedolphin, mo1ok, basematerial",
+          "Genre": "Action, Fighting, Sports",
+          "Tags": "Christmas, Retro"
+        }
+      }
+    },
+    {
+      "gameId": 2421230,
+      "gameUrl": "https://therock32.itch.io/monkey-mode",
+      "overallRank": 3,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 291,
+        "rating_count": 96,
+        "created_at": "2023-12-14 03:43:39",
+        "id": 483494,
+        "game": {
+          "title": "Monkey Mode",
+          "cover": "https://img.itch.zone/aW1nLzE0MzM0MzE5LnBuZw==/300x240%23c/WpUa7g.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#eeeeee",
+          "user": {
+            "url": "https://therock32.itch.io",
+            "name": "TheRock32",
+            "id": 676642
+          },
+          "id": 2421230,
+          "url": "https://therock32.itch.io/monkey-mode"
+        },
+        "contributors": [
+          {
+            "name": "TheRock32",
+            "url": "https://therock32.itch.io"
+          },
+          {
+            "name": "MischeviousMalfais",
+            "url": "https://mischeviousmalfais.itch.io"
+          }
+        ],
+        "url": "/jam/bigmode-2023/rate/2421230"
+      },
+      "details": {
+        "title": "Monkey Mode",
+        "description": "R = Reset Level\nWASD = Move\n25 Levels\nCollect Bananas to go Monkey Mode\n\nCheck out my games on steam: https://store.steampowered.com/app/1479360/Button_Lock_2_Star_Carrier/\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQyMTIzMC8xNDMyOTY2MC5wbmc=/original/IEl8hd.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyMTIzMC8xNDMyOTY2MS5wbmc=/original/sKW%2FP%2F.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyMTIzMC8xNDMyOTY2My5wbmc=/original/u3XZ1T.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyMTIzMC8xNDMyOTY2NS5wbmc=/original/POyerG.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyMTIzMC8xNDMyOTY2OS5wbmc=/original/KwfSlh.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.7 out of 5 stars(7 total ratings)",
+          "Authors": "TheRock32, MischeviousMalfais",
+          "Genre": "Action",
+          "Made with": "Unity",
+          "Tags": "Indie, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 2392577,
+      "gameUrl": "https://michael-grieshofer.itch.io/legend-of-lu-remastered",
+      "overallRank": 4,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 105,
+        "rating_count": 93,
+        "created_at": "2023-12-15 18:33:51",
+        "id": 484029,
+        "game": {
+          "user": {
+            "url": "https://michael-grieshofer.itch.io",
+            "name": "Michael Grieshofer",
+            "id": 2080301
+          },
+          "title": "Legend of Lu: Remastered",
+          "cover": "https://img.itch.zone/aW1nLzE0MjUyNDU3LnBuZw==/300x240%23c/6g%2Bviz.png",
+          "platforms": [
+            "windows",
+            "osx",
+            "web"
+          ],
+          "cover_color": "#9e2835",
+          "id": 2392577,
+          "short_text": "A classic platformer game featuring Luis the Capybara.",
+          "url": "https://michael-grieshofer.itch.io/legend-of-lu-remastered"
+        },
+        "contributors": [
+          {
+            "name": "Michael Grieshofer",
+            "url": "https://michael-grieshofer.itch.io"
+          },
+          {
+            "name": "mini.music",
+            "url": "https://minimusic.itch.io"
+          },
+          {
+            "name": "Toro",
+            "url": "https://torosiken.itch.io"
+          },
+          {
+            "name": "SantiagoBoscan",
+            "url": "https://santiagoboscan.itch.io"
+          }
+        ],
+        "url": "/jam/bigmode-2023/rate/2392577"
+      },
+      "details": {
+        "title": "Legend of Lu: Remastered",
+        "description": "\n    \n\n\n\nLegend of Lu is BACK!\nRelive the classic in this amazing updated experience with “Legend of Lu: Remastered”. It's the same ol’ capybara you loved from way back when but with new updated graphics and extra digital content for you to enjoy. \n\nFollow the journey of the martial arts fighter Luis the Capybara to save his (retiring) Master!\n\n\n\nNever played the original game? \nDo not fret, your trusty pal over here is streaming BOTH the original game AND the remake at the same time! Don't forget to leave a follow and sub to see if they can beat both modes in one go! #2Games1Controller #classicmode #modernmode\n\n\n\nLaunch Trailer\n\n\n\n\nLegend of Lu is a classic platformer game featuring Luis the Capybara. Lu was born in a land far away however he was raised practicing martial arts with his master from a very young age. Lu is well versed in the art of the bō staff. He has become a skilled warrior who is quick to act but never reckless.\nIn this remastered version, we're bringing you all the experiences and features in the original game, even while also including new ones.\nFeatures:\nEnjoy your platforming journey in 2 modesUpdated graphics and art styleExpanded enemy AIRemastered musicNew cutscenesNew hard mode difficulty optionExtra collectibles and digital contents to unlock!\n\n\n\n\n\n\n\n\n\nLegend of Lu: Remastered and/or Legend of Lu is a game created for BigMode Game Jam 2023. We took the creative liberty of applying the theme \"mode\" through the remaster mode switch mechanic and building the entire idea around remastered game vs. original game playthrough. Player is playing as a streamer tackling the challenge of playing 2 games(classic and remastered) at once with one controller. Any kind of feedback and support is very appreciated.Game download is recommended for best gameplay performance.Default Controls*all controls are rebindable in settings, game offers controller support.← : left → : right Space:  jump\n S: use staffShift: switch mode\n P: open stream layout (pause)\nDigital Library\n\nArtworks: https://torosiken.artstation.com/projects/Ge3kbV\nMusic: https://on.soundcloud.com/WUYDi\n\nCredits\nTeam\nMichael GrieshoferSantiagoBoscan07Toromini.music\nTools & Resources\nGodot 4\nAseprite\nPixquare\nClip Studio Paint\nProcreate\nibisPaint\nTilesetter\nAbleton Live intro 10\nCRT shader: https://godotshaders.com/shader/retro-tv-shader/\naction icon plugin: https://godotengine.org/asset-library/asset/1431\nThank you for playing our game!\nP.S.: There's a little secret reward in the game if you managed to beat the hard mode.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE0MjUyNDU3LnBuZw==/original/AYfNLb.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows, macOS",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Authors": "Michael Grieshofer, mini.music, Toro, SantiagoBoscan",
+          "Genre": "Platformer",
+          "Made with": "Aseprite, Godot, Clip Studio Paint",
+          "Tags": "capybara, classic, Demake, mode, Modern, Remake, remaster, Retro, screens, streamer",
+          "Asset license": "Creative Commons Attribution_NonCommercial v4.0 International",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Xbox controller, Playstation controller, Joy-Con",
+          "Accessibility": "Subtitles, Configurable controls"
+        }
+      }
+    },
+    {
+      "gameId": 2425927,
+      "gameUrl": "https://carlton-fade.itch.io/unduster-jam",
+      "overallRank": 5,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 31,
+        "rating_count": 89,
+        "created_at": "2023-12-16 04:16:22",
+        "id": 484488,
+        "game": {
+          "user": {
+            "url": "https://carlton-fade.itch.io",
+            "name": "CFish",
+            "id": 7779521
+          },
+          "title": "UnDuster (Jam Version)",
+          "cover": "https://img.itch.zone/aW1nLzE0NDA0MzIyLnBuZw==/300x240%23c/StqYrp.png",
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#160d0c",
+          "id": 2425927,
+          "short_text": "Grandma Platformer",
+          "url": "https://carlton-fade.itch.io/unduster-jam"
+        },
+        "contributors": [
+          {
+            "name": "CFish",
+            "url": "https://carlton-fade.itch.io"
+          },
+          {
+            "name": "Kyoninh",
+            "url": "https://kyoninh.itch.io"
+          },
+          {
+            "name": "Brevillo",
+            "url": "https://brevillo.itch.io"
+          },
+          {
+            "name": "TheRedRogue",
+            "url": "https://gerigrape9.itch.io"
+          },
+          {
+            "name": "Atlas",
+            "url": "https://xerxeshex.itch.io"
+          }
+        ],
+        "url": "/jam/bigmode-2023/rate/2425927"
+      },
+      "details": {
+        "title": "UnDuster (Jam Version)",
+        "description": "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\nThe full release of this game is available on steam!\nhttps://store.steampowered.com/app/2753920/UnDuster/\n\nWe have a discord server where you can chat with the devs and fellow UnDusterheads.https://discord.gg/GvGpk6BNdb\n\nWinner of the Bigmode 2023 Game Jam \"Least Dusty Platformer\" Award!\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nGranny's at it again!\nPlay as Gertrude Gummers, an elderly cleaning lady hired to clean a mysterious mansion by an unknown source (She doesn't care, she just needs the $$$). Use your custom made battery powered vacuum with two modes, push and pull, to escape this decrepit and cultish dungeon. Will she make it out? Probably!\nControls:\nWASD to move\nSpace bar to jumpClick LMB to suck towards the mouseClick or hold RMB to push away from the mouse\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nDeveloped by:\nOliver Beebe - Itch.io PageLance Halma - Itch.io Page, Steam WorkshopCarson Lakefish - Itch.io PageGabriel Medina - Itch.io Page, YouTube channelAtlas Stewart - Itch.io Page\n\nMade for 2023 Bigmode Game Jam",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQyNTkyNy8xNDM1OTUwOC5wbmc=/original/ksQxPM.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyNTkyNy8xNDM1OTU0Mi5wbmc=/original/73ICPs.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyNTkyNy8xNDM1OTUyMS5wbmc=/original/ycoAQm.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(6 total ratings)",
+          "Authors": "CFish, Kyoninh, Brevillo, TheRedRogue, Atlas",
+          "Genre": "Platformer",
+          "Made with": "Unity",
+          "Tags": "2D, Singleplayer",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse, Gamepad (any)",
+          "Links": "Steam"
+        }
+      }
+    },
+    {
+      "gameId": 2399993,
+      "gameUrl": "https://rhum.itch.io/all-in-one",
+      "overallRank": 6,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 4,
+        "rating_count": 74,
+        "created_at": "2023-12-15 20:37:38",
+        "id": 484105,
+        "game": {
+          "gif_cover": "https://img.itch.zone/aW1nLzE0MzUxNTU0LmdpZg==/original/2qqTc4.gif",
+          "title": "All In One !",
+          "cover": "https://img.itch.zone/aW1nLzE0MzUxNTU0LmdpZg==/300x240%23c/9He48s.gif",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#3a1a2c",
+          "id": 2399993,
+          "user": {
+            "url": "https://rhum.itch.io",
+            "name": "rhum",
+            "id": 1356626
+          },
+          "url": "https://rhum.itch.io/all-in-one"
+        },
+        "contributors": [
+          {
+            "name": "rhum",
+            "url": "https://rhum.itch.io"
+          },
+          {
+            "name": "deltari!",
+            "url": "https://seachowder.itch.io"
+          },
+          {
+            "name": "lciarlante",
+            "url": "https://lciarlante.itch.io"
+          },
+          {
+            "name": "Matthis Pillonel",
+            "url": "https://no0801.itch.io"
+          },
+          {
+            "name": "retr0grape",
+            "url": "https://retr0grape.itch.io"
+          }
+        ],
+        "url": "/jam/bigmode-2023/rate/2399993"
+      },
+      "details": {
+        "title": "All In One !",
+        "description": "PLAY GOLF IN DICTATOR MODECongratulations! \nYou have been invited to a golf game with His Highness Hector The Handsome!\nBut BEWARE! For he is SHORT TEMPERED!\nMake sure he scores a Hole-In-One in each green, or else you'll be sent to jail!\nTo do so, push his majestic golden ball into the hole, using your balls, no less!\nYou can press TAB to change between normal shot and lobbed shot !\nYou can press TAB when charging a shot to cancel it.\nA game made by :\nRetrogrape : VisualsInaf/Deltari : Level DesignLucas C. : SoundRhum and No0801 : Gameplay and Implementation",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjM5OTk5My8xNDM1NDQwNC5wbmc=/original/SIWBfZ.png",
+          "https://img.itch.zone/aW1hZ2UvMjM5OTk5My8xNDM5NDI0MC5naWY=/original/P6AddZ.gif",
+          "https://img.itch.zone/aW1hZ2UvMjM5OTk5My8xNDM1NDQ3MS5wbmc=/original/T3Lwpt.png",
+          "https://img.itch.zone/aW1hZ2UvMjM5OTk5My8xNDM1NDQ3Mi5wbmc=/original/bJRiIu.png",
+          "https://img.itch.zone/aW1hZ2UvMjM5OTk5My8xNDM1NDQ3My5wbmc=/original/W%2BBb6w.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.3 out of 5 stars(4 total ratings)",
+          "Authors": "rhum, deltari!, lciarlante, Matthis Pillonel, retr0grape",
+          "Genre": "Sports, Puzzle",
+          "Made with": "Unity",
+          "Tags": "caricature, Cartoon, Funny, Golf, minigolf"
+        }
+      }
+    },
+    {
+      "gameId": 2425771,
+      "gameUrl": "https://gerblesh.itch.io/froggo-mode",
+      "overallRank": 7,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 27,
+        "rating_count": 73,
+        "created_at": "2023-12-16 02:26:56",
+        "id": 484365,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE0MzU3OTQ5LmdpZg==/300x240%23c/WpytMM.gif",
+          "platforms": [
+            "windows",
+            "linux",
+            "web"
+          ],
+          "cover_color": "#14182e",
+          "title": "Froggo Mode",
+          "id": 2425771,
+          "user": {
+            "url": "https://gerblesh.itch.io",
+            "name": "Gerblesh",
+            "id": 1992163
+          },
+          "gif_cover": "https://img.itch.zone/aW1nLzE0MzU3OTQ5LmdpZg==/original/hcCyV%2B.gif",
+          "short_text": "become the ultimate eepy Froggo!",
+          "url": "https://gerblesh.itch.io/froggo-mode"
+        },
+        "contributors": [
+          {
+            "name": "Gerblesh",
+            "url": "https://gerblesh.itch.io"
+          },
+          {
+            "name": "tenseven",
+            "url": "https://tenseven.itch.io"
+          }
+        ],
+        "url": "/jam/bigmode-2023/rate/2425771"
+      },
+      "details": {
+        "title": "Froggo Mode",
+        "description": "Go on a fun adventure with Froggo! Dodge turrets, avoid lasers and spikes, and become eepy (and possibly jolly!)Controls:\n\nA/D for bullet (left/right)\n\nW for froggo\n\nS for anvil\nCredits:\nhuge thanks to tenseven for making all of the art and helping immensely with levels and coding. We both had pretty busy weeks and we're just happy to have this finished.\nMusic:\nTalking Cute Chiptune by Alex McCulloch found here: \nhttps://opengameart.org/content/talking-cute-chiptune\nSideways City by Zane Little Music found here:\nhttps://opengameart.org/content/sideways-cityDownload correct zip file for your OS\nUnzip the file\nDouble click the executable",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQyNTc3MS8xNDM1NzkzNS5naWY=/original/t2%2BMDD.gif",
+          "https://img.itch.zone/aW1hZ2UvMjQyNTc3MS8xNDM1NzkzNi5naWY=/original/2pl0Tf.gif",
+          "https://img.itch.zone/aW1hZ2UvMjQyNTc3MS8xNDM1Nzk0My5qcGc=/original/WD%2FFvW.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjQyNTc3MS8xNDM1Nzk0NC5qcGc=/original/qx%2Fbm4.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, Linux",
+          "Rating": "Rated 4.7 out of 5 stars(3 total ratings)",
+          "Authors": "Gerblesh, tenseven",
+          "Genre": "Platformer",
+          "Tags": "Frogs, Godot, Pixel Art, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 2414867,
+      "gameUrl": "https://drillsoftgames.itch.io/slug-mode",
+      "overallRank": 8,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 120,
+        "rating_count": 72,
+        "created_at": "2023-12-16 03:30:04",
+        "id": 484439,
+        "game": {
+          "title": "SLUG MODE",
+          "cover": "https://img.itch.zone/aW1nLzE0MzU4ODA2LnBuZw==/300x240%23c/amDfYt.png",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "user": {
+            "url": "https://drillsoftgames.itch.io",
+            "name": "DrillSoft Games",
+            "id": 7912612
+          },
+          "id": 2414867,
+          "short_text": "Defeat the Slug in several different game modes!",
+          "url": "https://drillsoftgames.itch.io/slug-mode"
+        },
+        "url": "/jam/bigmode-2023/rate/2414867"
+      },
+      "details": {
+        "title": "SLUG MODE",
+        "description": "Thanks for checking out SLUG MODE! If you've got feedback to share, we'd love to hear it.\nSLUG MODE is our submission to Bigmode Game Jam 2023. Our goal was to build a game where players could experience battling a single boss across several  modes. In each mode, we wanted the visuals, audio, and gameplay to feel distinct yet connected by shifting style, tone, and genre between levels. We also wanted the boss to be a slug.\nThe last few weeks were challenging, but we all pushed ourselves and learned a lot. Thank you to the Bigmode team for hosting the event.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQxNDg2Ny8xNDM1Njc1MS5wbmc=/original/3DU%2Bqo.png",
+          "https://img.itch.zone/aW1hZ2UvMjQxNDg2Ny8xNDM1Njc1MC5wbmc=/original/bJc9dE.png",
+          "https://img.itch.zone/aW1hZ2UvMjQxNDg2Ny8xNDM1Njc0OS5wbmc=/original/OckRTu.png",
+          "https://img.itch.zone/aW1hZ2UvMjQxNDg2Ny8xNDM1Njc0OC5wbmc=/original/S47DsX.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "DrillSoft Games",
+          "Genre": "Action, Adventure, Platformer, Rhythm",
+          "Made with": "Godot",
+          "Tags": "2D, Dating Sim, Pixel Art, Shoot 'Em Up, Short, Singleplayer",
+          "Average session": "A few minutes"
+        }
+      }
+    },
+    {
+      "gameId": 2426057,
+      "gameUrl": "https://bonejackal.itch.io/teleco",
+      "overallRank": 9,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 68,
+        "rating_count": 68,
+        "created_at": "2023-12-16 04:47:28",
+        "id": 484578,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE0NDY0NjY2LmdpZg==/300x240%23c/tTRzfP.gif",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#000000",
+          "title": "ＴＥＬＥＣＯ２０ＸＸ",
+          "id": 2426057,
+          "user": {
+            "url": "https://bonejackal.itch.io",
+            "name": "bonejackal",
+            "id": 4501908
+          },
+          "gif_cover": "https://img.itch.zone/aW1nLzE0NDY0NjY2LmdpZg==/original/ObhT0H.gif",
+          "short_text": "A ghost appeared in your television. Help her move on to the afterlife.",
+          "url": "https://bonejackal.itch.io/teleco"
+        },
+        "url": "/jam/bigmode-2023/rate/2426057"
+      },
+      "details": {
+        "title": "ＴＥＬＥＣＯ２０ＸＸ",
+        "description": "An overworked office ghost needs your help to navigate signals on the path to the next life.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQyNjA1Ny8xNDM2MjAxNi5wbmc=/original/vwNZH0.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyNjA1Ny8xNDM2MjAyNS5wbmc=/original/qXrPyf.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyNjA1Ny8xNDM2MDAxMC5wbmc=/original/5NSJHd.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyNjA1Ny8xNDM2MDAxNC5wbmc=/original/U1eAtR.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyNjA1Ny8xNDM2MDAxMy5wbmc=/original/2qLmq0.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "bonejackal",
+          "Genre": "Puzzle, Rhythm",
+          "Made with": "Godot",
+          "Tags": "2D, 3D, Atmospheric, Cute, Ghosts, Pixel Art",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Xbox controller, Playstation controller"
+        }
+      }
+    },
+    {
+      "gameId": 2426051,
+      "gameUrl": "https://valvespring.itch.io/bobby-wants-soup",
+      "overallRank": 10,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 135,
+        "rating_count": 67,
+        "created_at": "2023-12-16 04:55:34",
+        "id": 484627,
+        "game": {
+          "user": {
+            "url": "https://valvespring.itch.io",
+            "name": "Valvespring",
+            "id": 9386970
+          },
+          "title": "Bobby Wants Soup",
+          "cover": "https://img.itch.zone/aW1nLzE0MzU5OTQyLnBuZw==/300x240%23c/P107j8.png",
+          "platforms": [
+            "windows",
+            "osx"
+          ],
+          "cover_color": "#636761",
+          "id": 2426051,
+          "short_text": "Feed the soul, feed with Bobby...",
+          "url": "https://valvespring.itch.io/bobby-wants-soup"
+        },
+        "contributors": [
+          {
+            "name": "Valvespring",
+            "url": "https://valvespring.itch.io"
+          },
+          {
+            "name": "pshaft",
+            "url": "https://pshaft.itch.io"
+          },
+          {
+            "name": "StarionChikafusa",
+            "url": "https://starionchikafusa.itch.io"
+          },
+          {
+            "name": "SavageBabbidge",
+            "url": "https://savagebabbidge.itch.io"
+          },
+          {
+            "name": "shleepytime",
+            "url": "https://shleepytime.itch.io"
+          }
+        ],
+        "url": "/jam/bigmode-2023/rate/2426051"
+      },
+      "details": {
+        "title": "Bobby Wants Soup",
+        "description": "Bobby wants soup! Help Bobby obtain his missing  ingredients so he can fix up the most savory and delicious soup this side of the border. On this platforming adventure you will utilize Bobby's various M.O.D.E.S. (Must Obviously Desire Eating Soup) in order to acquire his desired mise en place for the soup. Bobby has two M.O.D.E.S. he can switch between which allow him to phase in and out of solid matter. Utilize these incredible M.O.D.E.S. so Bobby can have soup. Please enjoy your brief time with Bobby, remind him that soup is good, but it's the journey that matters.",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE0MzU5OTQyLnBuZw==/original/zl%2FV2p.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows, macOS",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "Valvespring, pshaft, StarionChikafusa, SavageBabbidge, shleepytime",
+          "Genre": "Platformer",
+          "Tags": "2D, Funny, Godot, Hand-drawn, Physics, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 2424576,
+      "gameUrl": "https://italo4d.itch.io/skaterwitch",
+      "overallRank": 11,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 29,
+        "rating_count": 65,
+        "created_at": "2023-12-16 04:41:40",
+        "id": 484565,
+        "game": {
+          "user": {
+            "url": "https://italo4d.itch.io",
+            "name": "Ítalo D",
+            "id": 1909090
+          },
+          "title": "SKATERWITCH",
+          "cover": "https://img.itch.zone/aW1nLzE0MzU2NTIzLnBuZw==/300x240%23c/OMa3Rb.png",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#2a505c",
+          "id": 2424576,
+          "short_text": "A platformer about flying on your skatebroom.",
+          "url": "https://italo4d.itch.io/skaterwitch"
+        },
+        "contributors": [
+          {
+            "name": "Ítalo D",
+            "url": "https://italo4d.itch.io"
+          },
+          {
+            "name": "Yesenia 🤍",
+            "url": "https://yevazma.itch.io"
+          },
+          {
+            "name": "sylks",
+            "url": "https://sylkspxl.itch.io"
+          },
+          {
+            "name": "Floh",
+            "url": "https://flohhh.itch.io"
+          },
+          {
+            "name": "Joaquim Scandurra (Sku)",
+            "url": "https://skuaunicorn.itch.io"
+          }
+        ],
+        "url": "/jam/bigmode-2023/rate/2424576"
+      },
+      "details": {
+        "title": "SKATERWITCH",
+        "description": "--- ⚠️This is the version we made for the Big Mode Jam 2023 in 19 days, and now we’re in full development on this game.  Try the latest version here: https://magicrainstudios.itch.io/ila-frostyglide\nIf you'd like to be part of the evolution of this game subscribe to our list!\n💌 Follow the journey!\n\n\nJOIN THE DISCORD!\nWe're pouring our hearts into this game, so your support means the world to us! Thank you so much ❤️\n-----✨✨✨-----\nThe magic school awaits you at the summit, but your skate isn't ready for these snowy landscapes. Work on enhancing the magic of your board and your flying skills to achieve the permanent witch mode and gain entry to the magic school.\n-----🌨🌨🌨-----GAME FEATURES\nCollect scrolls to enhance your flying ability and soar higher and farther.Find special scrolls that will give you your witchy appearance.Get the permanent witch mode and enjoy flying on your skatebroom wherever you want.Immerse yourself in a captivating original soundtrack by Joaquim Scandurra (Sku) that progresses dynamically as you forge your way to the top. \n-----✨✨✨-----MAGIC TEAM\nMade with ❤️  by:\nÍtalo D. - Game Design, Programmer, 3D Animation. (https://www.magicrainstudios.com/)\nYesenia Vázquez - Art direction, 3D Art, Story. (https://twitter.com/MagicRainStudio)Floh -  Technical Art, VFX(https://www.artstation.com/floh)Joaquim Scandurra (Sku) - Music composer, Sound effects, Dynamic audio. (https://www.instagram.com/skuaunicorn/)Danilo Almeida (sylks) - UI, Pixel Art, 2D animation (https://www.artstation.com/sylkspxl)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQyNDU3Ni8xNDM4NTgxMC5naWY=/original/PUx%2FXA.gif",
+          "https://img.itch.zone/aW1hZ2UvMjQyNDU3Ni8xNDM2MDA2Mi5qcGc=/original/lMItKe.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjQyNDU3Ni8xNDM2MDA2My5qcGc=/original/Cbv52v.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjQyNDU3Ni8xNDM2MDA2NS5qcGc=/original/Evxyqk.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjQyNDU3Ni8xNDM2MDA2Ni5qcGc=/original/KU2fcR.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjQyNDU3Ni8xNDM2MDA2NC5qcGc=/original/ONzvOV.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.6 out of 5 stars(5 total ratings)",
+          "Authors": "Ítalo D, Yesenia 🤍, sylks, Floh, Joaquim Scandurra (Sku)",
+          "Genre": "Platformer, Adventure",
+          "Tags": "Casual, Cute, Exploration, Flight, Magic, Relaxing, Short, Singleplayer, Voxel"
+        }
+      }
+    },
+    {
+      "gameId": 2425858,
+      "gameUrl": "https://spk-tk.itch.io/mowed",
+      "overallRank": 12,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 73,
+        "rating_count": 64,
+        "created_at": "2023-12-16 04:20:11",
+        "id": 484497,
+        "game": {
+          "user": {
+            "url": "https://spk-tk.itch.io",
+            "name": "SpK_tk",
+            "id": 2872570
+          },
+          "title": "MOWED",
+          "cover": "https://img.itch.zone/aW1nLzE0MzU5NDU5LnBuZw==/300x240%23c/M54kMy.png",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#8ed38d",
+          "id": 2425858,
+          "short_text": "SKATE FAST MOW GRASS - a hectic score attack landscaping experience!",
+          "url": "https://spk-tk.itch.io/mowed"
+        },
+        "contributors": [
+          {
+            "name": "SpK_tk",
+            "url": "https://spk-tk.itch.io"
+          },
+          {
+            "name": "axollyon",
+            "url": "https://axollyon.itch.io"
+          }
+        ],
+        "url": "/jam/bigmode-2023/rate/2425858"
+      },
+      "details": {
+        "title": "MOWED",
+        "description": "Rev your engines, put on your sunscreen, and get ready to MOW!\nIn this arcade score attack landscaping experience,  you are tasked with mowing grass as fast as you can! Use your handbrake to drift and boost, and reach for the peak of grass mowing perfection, the M rank!\nA game by SpK and axollyon\nAdditional Art by BoomerDaCat\nAdditional Code provided by Juju Adams, Alynne Keith, xot, strawbryjam, and Matharoo\nMade for the BIGMODE Jam 2023\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQyNTg1OC8xNDM2MTgxNC5naWY=/original/qD7O%2FE.gif",
+          "https://img.itch.zone/aW1hZ2UvMjQyNTg1OC8xNDM1ODM5OC5qcGc=/original/o8htEZ.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjQyNTg1OC8xNDM1ODM5Ny5qcGc=/original/zbWoP1.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjQyNTg1OC8xNDM1ODM5OS5wbmc=/original/gV88PQ.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyNTg1OC8xNDM1ODQwMC5wbmc=/original/3XXpLw.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Authors": "SpK_tk, axollyon",
+          "Genre": "Action",
+          "Made with": "GameMaker",
+          "Tags": "2D, Arcade, Fast-Paced, GameMaker, lawnmowing, Score Attack, Singleplayer, Top-Down",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Xbox controller"
+        }
+      }
+    },
+    {
+      "gameId": 2425641,
+      "gameUrl": "https://the-water-museum.itch.io/arctic-eggs-jam",
+      "overallRank": 13,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 53,
+        "rating_count": 64,
+        "created_at": "2023-12-16 02:08:00",
+        "id": 484346,
+        "game": {
+          "user": {
+            "url": "https://the-water-museum.itch.io",
+            "name": "The Water Museum",
+            "id": 6853643
+          },
+          "title": "Arctic Eggs (Jam Version)",
+          "cover": "https://img.itch.zone/aW1nLzE0MzY4NDc0LnBuZw==/300x240%23c/o5ayys.png",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#eeeeee",
+          "id": 2425641,
+          "short_text": "Cook eggs and learn about life I think.",
+          "url": "https://the-water-museum.itch.io/arctic-eggs-jam"
+        },
+        "url": "/jam/bigmode-2023/rate/2425641"
+      },
+      "details": {
+        "title": "Arctic Eggs (Jam Version)",
+        "description": "A Sci-Fi Cooking game where you take up the role of a Poultry Peddler stuck in Antarctica and longing for a way out.  Sell your illegal eggs to those who look hungry.\nThis was made for the BIGMODE Jam 2023. Other Team members include: CDbunker2, Cameron Ginex, and A.B. MarnieLINK TO FULL VERSION: https://store.steampowered.com/app/2763670/Arctic_Eggs/",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQyNTY0MS8xNDM1NzYzOC5wbmc=/original/5YxIe1.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyNTY0MS8xNDM1NzI5OC5wbmc=/original/SDJO97.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyNTY0MS8xNDM1NzYyNC5wbmc=/original/vTH0vD.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyNTY0MS8xNDM1NzM1OC5wbmc=/original/WZbMGI.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyNTY0MS8xNDM1NzYxNi5wbmc=/original/b9P%2FZv.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyNTY0MS8xNDM1NzI2My5wbmc=/original/HNQdmH.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyNTY0MS8xNDM1NzI1Ni5wbmc=/original/p5Q4OW.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.4 out of 5 stars(25 total ratings)",
+          "Author": "The Water Museum",
+          "Tags": "Cooking, Experimental, Sci-fi"
+        }
+      }
+    },
+    {
+      "gameId": 2396643,
+      "gameUrl": "https://campteam-games.itch.io/the-creature-in-my-dreams",
+      "overallRank": 14,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 13,
+        "rating_count": 63,
+        "created_at": "2023-12-09 11:03:56",
+        "id": 481897,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzI0NzMxMDg4LmdpZg==/300x240%23c/asrrn1.gif",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#140000",
+          "title": "🟥🟥🟥The Creature In My Dreams🟥🟥🟥🕹️🏅🔥",
+          "id": 2396643,
+          "user": {
+            "url": "https://campteam-games.itch.io",
+            "name": "CampTeam Games",
+            "id": 7362598
+          },
+          "gif_cover": "https://img.itch.zone/aW1nLzI0NzMxMDg4LmdpZg==/original/sRu3ar.gif",
+          "short_text": "A short horror experience built around a real, terrifying dream.",
+          "url": "https://campteam-games.itch.io/the-creature-in-my-dreams"
+        },
+        "url": "/jam/bigmode-2023/rate/2396643"
+      },
+      "details": {
+        "title": "🟥🟥🟥The Creature In My Dreams🟥🟥🟥🕹️🏅🔥",
+        "description": "\n\nThis experience is built around a real dream.\nDreams are so strange, almost like a movie that cannot be skipped. This house is where it all started. With no way to look away from the movie, I must face what is to come...\n\n\n\n\n\n\nAn atmospheric short horror experience...\nWith our carefully crafted audio design and retro graphics, we’re bringing you a creepy horror experience that you can play right in\nyour browser or on your PC.\n\n\n\n\n\n\n\n\n\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjM5NjY0My8yNDczMTEzNy5wbmc=/original/Wkc0nc.png",
+          "https://img.itch.zone/aW1hZ2UvMjM5NjY0My8yNDczMTEzOC5wbmc=/original/rTQpAr.png",
+          "https://img.itch.zone/aW1hZ2UvMjM5NjY0My8yNDczMTEzOS5wbmc=/original/kErTNA.png"
+        ],
+        "moreInfo": {
+          "Updated": "11 days ago",
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.0 out of 5 stars(53 total ratings)",
+          "Author": "CampTeam Games",
+          "Genre": "Adventure",
+          "Made with": "Blender, Godot",
+          "Tags": "Atmospheric, Creepy, creepypasta, First-Person, Horror, Pixel Art, Retro, Singleplayer, Story Rich",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse",
+          "Accessibility": "Subtitles",
+          "Links": "YouTube, Homepage, IndieDB"
+        }
+      }
+    },
+    {
+      "gameId": 2425987,
+      "gameUrl": "https://crabpalace.itch.io/dark-mode",
+      "overallRank": 15,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 14,
+        "rating_count": 62,
+        "created_at": "2023-12-16 04:37:56",
+        "id": 484550,
+        "game": {
+          "title": "Dark Mode",
+          "cover": "https://img.itch.zone/aW1nLzE0MzU5ODI4LnBuZw==/300x240%23c/ypWjAX.png",
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#000000",
+          "user": {
+            "url": "https://crabpalace.itch.io",
+            "name": "crabpalace",
+            "id": 6708823
+          },
+          "id": 2425987,
+          "url": "https://crabpalace.itch.io/dark-mode"
+        },
+        "url": "/jam/bigmode-2023/rate/2425987"
+      },
+      "details": {
+        "title": "Dark Mode",
+        "description": "A pretty simple game. To make everyone's eyes most comfortable, I added the functionality to allow the player to change to dark mode (and back to light mode if they change their mind!) It's a nice feature, I think. Surely nothing will go awry.  ",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE0MzU5ODI4LnBuZw==/original/Xjn2k6.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Author": "crabpalace",
+          "Genre": "Interactive Fiction",
+          "Made with": "GameMaker",
+          "Tags": "bigmode, Casual, dunkey, GameMaker"
+        }
+      }
+    },
+    {
+      "gameId": 2425946,
+      "gameUrl": "https://studio-barefoot.itch.io/big-mode",
+      "overallRank": 16,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 65,
+        "rating_count": 60,
+        "created_at": "2023-12-16 04:17:17",
+        "id": 484490,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE0MzU5MjExLmdpZg==/300x240%23c/QL3RGO.gif",
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#444",
+          "title": "Bigmode Jam Kart 2023",
+          "id": 2425946,
+          "user": {
+            "url": "https://studio-barefoot.itch.io",
+            "name": "Studio Barefoot",
+            "id": 6265362
+          },
+          "gif_cover": "https://img.itch.zone/aW1nLzE0MzU5MjExLmdpZg==/original/EHZypJ.gif",
+          "short_text": "Kart Racer made for Bigmode Game Jam 2023",
+          "url": "https://studio-barefoot.itch.io/big-mode"
+        },
+        "url": "/jam/bigmode-2023/rate/2425946"
+      },
+      "details": {
+        "title": "Bigmode Jam Kart 2023",
+        "description": "Made for https://itch.io/jam/bigmode-2023/entriesPlease activate full screen mode for the best experience, and play with a controller if possible. See the How to Play section on the title screen for the controls. Your first goal while playing the game should be to not fall off the sides, and the second goal is to master the boost mechanics so that you can beat the Hard Mode rivals. To beat the Hard Mode rivals you must also master swapping in and out of HoverKart Mode to maximize your speed at the price of maneuverability.\nLast month I was playing a lot of Mario Kart with my family and having a blast, so for the Bigmode Jam 2023 I decided to make a Kart Racer.\nThe awesome Menu and Fidget Acres music tracks were custom made by Bryce with Rice, many thanks to Bryce and sorry for butchering your meticulous recordings in the scramble to get the game released. The raw music tracks are even more amazing than the clips I edited down to include in the game.\nAll Rival race data was recorded live by myself, so when you're racing against the rivals you really are racing against my ghost.\nI was hoping to have unlockable characters featured in the game but I ran out of time, so all characters are unlocked by default. I also wanted to add more respawn points so that racers did not always reset to the Starting Line after falling, but I was running into too many issues to get that working in time.\nThanks for playing! Please share any feedback you have but keep in mind this was made in 18 days. As I type this description, it is 1 hour until the Jam submission deadline and I need some sleep.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQyNTk0Ni8xNDM1OTYyOS5wbmc=/original/MkZAVK.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyNTk0Ni8xNDM1OTU5NS5wbmc=/original/EKFyV2.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyNTk0Ni8xNDM1OTY0NS5wbmc=/original/zq%2B7%2Fu.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Studio Barefoot",
+          "Genre": "Racing",
+          "Tags": "Characters, kart, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 2413681,
+      "gameUrl": "https://tommy-keys.itch.io/fully-dogomatic-classic",
+      "overallRank": 17,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 2,
+        "rating_count": 58,
+        "created_at": "2023-12-16 03:34:58",
+        "id": 484441,
+        "game": {
+          "user": {
+            "url": "https://tommy-keys.itch.io",
+            "name": "Tommy Keys",
+            "id": 837399
+          },
+          "title": "Fully Dogomatic Classic",
+          "cover": "https://img.itch.zone/aW1nLzE0Mjg1NDMwLnBuZw==/300x240%23c/5kSRCw.png",
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#3d3a80",
+          "id": 2413681,
+          "short_text": "Press B to Bark",
+          "url": "https://tommy-keys.itch.io/fully-dogomatic-classic"
+        },
+        "url": "/jam/bigmode-2023/rate/2413681"
+      },
+      "details": {
+        "title": "Fully Dogomatic Classic",
+        "description": "Check out the new demo and Steam page!\nFully Dogomatic is a top down shooter inspired by games like Vampire Survivors where you're a psychic dog who controls guns with their mind. The twist  is that you can’t change where you aim a gun after you pick it up!\nWASD or Arrow Keys to Move\nDesign, art, code by Tommy Keys\nSong: Midnight Cruise V2 by WrathOfTwinmold ",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQxMzY4MS8xNDM1ODM1OC5naWY=/original/x9DcpQ.gif",
+          "https://img.itch.zone/aW1hZ2UvMjQxMzY4MS8xNDM1ODM2NC5naWY=/original/749q7%2B.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.5 out of 5 stars(2 total ratings)",
+          "Author": "Tommy Keys",
+          "Genre": "Action, Shooter, Survival",
+          "Made with": "Godot",
+          "Tags": "2D, Arcade, Casual, Funny, Pixel Art, Short, Top down shooter",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard",
+          "Accessibility": "High-contrast"
+        }
+      }
+    },
+    {
+      "gameId": 2416216,
+      "gameUrl": "https://cookedbench.itch.io/wolfcat",
+      "overallRank": 18,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 14,
+        "rating_count": 56,
+        "created_at": "2023-12-16 04:31:23",
+        "id": 484534,
+        "game": {
+          "user": {
+            "url": "https://cookedbench.itch.io",
+            "name": "CookedBench",
+            "id": 3071297
+          },
+          "title": "Wolf / Cat",
+          "cover": "https://img.itch.zone/aW1nLzE0MzU5Nzg5LnBuZw==/300x240%23c/GkSeLS.png",
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#15122a",
+          "id": 2416216,
+          "short_text": "Protect your cat from the creature you turn into",
+          "url": "https://cookedbench.itch.io/wolfcat"
+        },
+        "contributors": [
+          {
+            "name": "CookedBench",
+            "url": "https://cookedbench.itch.io"
+          },
+          {
+            "name": "TotallyHumanGameDevelopers",
+            "url": "https://andrespv.itch.io"
+          }
+        ],
+        "url": "/jam/bigmode-2023/rate/2416216"
+      },
+      "details": {
+        "title": "Wolf / Cat",
+        "description": "During the day, you are an average man who loves his cat. During the night you transform into a werewolf that wants to eat him. . . \nBuild a level during the day that will enable your cat to escape from the Werewolf AI, and play as the cat at night to try and outsmart your wolf self. Last as many nights as you can! Each night you will get more furniture to work with, but the nights also get longer, meaning the werewolf is active for longer.\nPlease read controls:\nA and D: Move left and right\nLMouse: attach or remove rope from object. you can use this to pull objects around or walk into a hook (circles on screen) to attach rope to the hook and hang the object. Click on hook to detach ropes.\nW and S: tighten or loosen rope\n\nThanks to z3r0 - Copyright Free Music for the music!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQxNjIxNi8xNDM1OTA1MS5naWY=/original/VdCVSv.gif",
+          "https://img.itch.zone/aW1hZ2UvMjQxNjIxNi8xNDM1OTA2My5wbmc=/original/8TrXv%2B.png",
+          "https://img.itch.zone/aW1hZ2UvMjQxNjIxNi8xNDM1OTA2Mi5wbmc=/original/OOUMIj.png",
+          "https://img.itch.zone/aW1hZ2UvMjQxNjIxNi8xNDM1OTY3Ny5wbmc=/original/quDW3n.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Authors": "CookedBench, TotallyHumanGameDevelopers",
+          "Genre": "Survival",
+          "Made with": "Unity"
+        }
+      }
+    },
+    {
+      "gameId": 2401540,
+      "gameUrl": "https://patsui.itch.io/winter-cabin",
+      "overallRank": 19,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 11,
+        "rating_count": 56,
+        "created_at": "2023-12-15 22:13:31",
+        "id": 484161,
+        "game": {
+          "user": {
+            "url": "https://patsui.itch.io",
+            "name": "Patsui Games",
+            "id": 1073725
+          },
+          "title": "My Winter Cabin",
+          "cover": "https://img.itch.zone/aW1nLzE0MzU0OTc3LnBuZw==/300x240%23c/41%2FjvV.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#3f2832",
+          "id": 2401540,
+          "short_text": "A hard-hitting winter survival game",
+          "url": "https://patsui.itch.io/winter-cabin"
+        },
+        "contributors": [
+          {
+            "name": "Patsui Games",
+            "url": "https://patsui.itch.io"
+          },
+          {
+            "name": "miikakan",
+            "url": "https://miikakan.itch.io"
+          },
+          {
+            "name": "lauranto",
+            "url": "https://lauranto.itch.io"
+          }
+        ],
+        "url": "/jam/bigmode-2023/rate/2401540"
+      },
+      "details": {
+        "title": "My Winter Cabin",
+        "description": "My Winter Cabin is a survival mode game where you get to experience the authentic Finnish cabin lifestyle!\nPunch trees and eat shrooms to stave off starvation mode in this juiced up survival game released exclusively on Pelit Magazine's PSX demo disc vol 01 in 1995.\nControls\nWASD to move, space to jump, mouse to aimLeft click to punch/pick up/throwRight click to eat 1 mushroom you're holdingRemember to use the PHONE once you've had enough!Hit Esc for volume, mouse sensitivity & to view survival instructions\nOther info\nMade by Mopeful Games for BIG MODE JAM 2023. ",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQwMTU0MC8xNDM1NTI2NS5naWY=/original/BA6xeb.gif",
+          "https://img.itch.zone/aW1hZ2UvMjQwMTU0MC8xNDM1NTMzMS5naWY=/original/958Unh.gif",
+          "https://img.itch.zone/aW1hZ2UvMjQwMTU0MC8xNDM2MjQxMC5wbmc=/original/84u77U.png",
+          "https://img.itch.zone/aW1hZ2UvMjQwMTU0MC8xNDM1NTM1MC5wbmc=/original/3QQiJn.png",
+          "https://img.itch.zone/aW1hZ2UvMjQwMTU0MC8xNDM1NTM0OS5wbmc=/original/JL7Tfe.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.3 out of 5 stars(7 total ratings)",
+          "Authors": "Patsui Games, miikakan, lauranto",
+          "Genre": "Survival",
+          "Made with": "Unity",
+          "Tags": "Atmospheric, Crafting, Funny, PSX (PlayStation), Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 2422368,
+      "gameUrl": "https://grogdev.itch.io/tarot-survivors",
+      "overallRank": 20,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 43,
+        "rating_count": 55,
+        "created_at": "2023-12-16 02:15:20",
+        "id": 484350,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE0MzU1ODcxLmdpZg==/300x240%23c/FfoH0Y.gif",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#100a19",
+          "title": "Tarot Survivors",
+          "id": 2422368,
+          "user": {
+            "url": "https://grogdev.itch.io",
+            "name": "GrogDev",
+            "id": 328848
+          },
+          "gif_cover": "https://img.itch.zone/aW1nLzE0MzU1ODcxLmdpZg==/original/eaeos4.gif",
+          "short_text": "FPS Bullet-heaven",
+          "url": "https://grogdev.itch.io/tarot-survivors"
+        },
+        "url": "/jam/bigmode-2023/rate/2422368"
+      },
+      "details": {
+        "title": "Tarot Survivors",
+        "description": ">>  Development will continue under the name Arcana Immortals! << Interested in playtesting? Fill out this short form.\n\n\n------------------------------------------\nTarot Survivors is an FPS bullet-heaven survivor game. Avoid hordes of enemies as you collect XP and level up your spells (Fizzy, Starburst, and Orbit), all while you play cards from your Tarot deck. Your drawn card will be played every minute, and will change the game mode. Each card can only be used once, so choose wisely!\nSurvive, get stronger, and eventually play the Death card and attempt to overcome the ultimate obstacle.\n\nControlsMove: WASDDraw Card: Left Click / ECards activate on their own every minute.\n\nCard Descriptions\nDeath: Summons the final boss who slowly kills you over time.\nCheep: Spawns chickens. Big: Enemies turn big, and spawns some special guests. Beeg: Spawn the beeg guy himself.Jammer: Disables radar.Dark: Visibility decreases.Hyper: Move faster.Slow: Enemies and bullets are slower.God: You can't take damage.Attract: Pulls all XP to you.\n\nTips\n- Fizzy, Starburst and Orbit are spells and are good to level up early.- Running away from enemies can keep you alive, but be sure to collect XP or else you will fall behind.- Duration+ increases how long a bullet lasts on screen (great for powering up Starburst and Orbit)- Getting rid of annoying cards early can be good.- Playing cards that spawn enemies for increased XP can also be good early to get ahead of the curve.Credits:\n@grogdev - Code / Art\n@tophtacular - Music / Code",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE0MzU1ODcxLmdpZg==/original/eaeos4.gif"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "GrogDev",
+          "Genre": "Shooter, Survival",
+          "Made with": "GameMaker, Aseprite",
+          "Tags": "Bullet Hell, First-Person, Pixel Art",
+          "Average session": "About a half-hour",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 2424386,
+      "gameUrl": "https://bubbles789.itch.io/abyssal-ascent",
+      "overallRank": 21,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 27,
+        "rating_count": 55,
+        "created_at": "2023-12-15 13:55:29",
+        "id": 483909,
+        "game": {
+          "user": {
+            "url": "https://bubbles789.itch.io",
+            "name": "Bubbles789",
+            "id": 7486220
+          },
+          "title": "Abyssal Ascent",
+          "cover": "https://img.itch.zone/aW1nLzE0MzQ5MzIwLnBuZw==/300x240%23c/4CVO8y.png",
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#000000",
+          "id": 2424386,
+          "short_text": "Black and White Platformer!",
+          "url": "https://bubbles789.itch.io/abyssal-ascent"
+        },
+        "url": "/jam/bigmode-2023/rate/2424386"
+      },
+      "details": {
+        "title": "Abyssal Ascent",
+        "description": "Submission to the 2023 Big Mode Game Jam. \nWORKS BETTER WHEN DOWNLOADED (options menu doesn't work and there is latency making the game harder)\nStory: You have been sent to the underworld. The only way to escape is to change between light and dark modes and traverse through 9 different rooms. Will you make it? or give up like everyone before you?",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE0MzQ5MzIwLnBuZw==/original/4aQpmF.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Bubbles789",
+          "Genre": "Platformer",
+          "Made with": "Unity",
+          "Tags": "2D, Pixel Art, Puzzle-Platformer"
+        }
+      }
+    },
+    {
+      "gameId": 2414185,
+      "gameUrl": "https://devious-oatmeal.itch.io/metal-mode",
+      "overallRank": 22,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 255,
+        "rating_count": 54,
+        "created_at": "2023-12-10 11:34:09",
+        "id": 482251,
+        "game": {
+          "user": {
+            "url": "https://devious-oatmeal.itch.io",
+            "name": "Devious_Oatmeal",
+            "id": 390621
+          },
+          "title": "Metal Mode",
+          "cover": "https://img.itch.zone/aW1nLzE0Mzk5NDA0LnBuZw==/300x240%23c/GSBRMj.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#000000",
+          "id": 2414185,
+          "short_text": "A tower defense roguelike with mechs and dice!",
+          "url": "https://devious-oatmeal.itch.io/metal-mode"
+        },
+        "url": "/jam/bigmode-2023/rate/2414185"
+      },
+      "details": {
+        "title": "Metal Mode",
+        "description": "I HIGHLY RECOMMEND that you download the game because this is the first embeded game that I've done. So it might have some issues, and the scroll is used (minimally).\nYou only need to use the MOUSE:Left ClickRight ClickRight HOLDScroll Wheel\n#-------------------------------------------------------------------------| CREDITS |-------------------------------------------------------------------------#\n[Art] - Devious Oatmeal[Code] - Devious Oatmeal[Music] - Rusterdax (Great musician, I highly recommend their work)[SFX] - Epic Stock Media and Various free sounds\n#-----------------------------------------------------------------------------------------------------------------------------------------------------------------#\n\nThis game was made for the Big Mode Game Jam.\nI've made many small games (Very few actually finished) and figured this jam would be a good way to showcase and try to further apply what I've learned.\nThis is my 2nd jam ever, and had a blast working on this!\n\n:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::|  STORY  |:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::\nSomething I love doing with all my games is have them be connected to each other, or have them in some sort of grouping; each new game adding to the lore and expanding their \"Universe\". Currently, I have 2 \"Universes\" I play around in; this one being the \"Junker Punk\" Universe.\nIn this game, you play as the \"Clearing\" group that eliminates the Creatures in an area ,before excavation, by using  special mechs called \"Metals\"; the Core being the Power Source of all your operations, which is why it's important to protect it and keep the Creatures away.\nAnd like all objects in the \"Junker Punk\" Universe, these Metals are made with the scraps of fallen machines and from pieces of the Creatures that inhabit this World; which are also made of metal. \"Space Mad Max\"\nThe job is perilous and the pay's not so great, but with dwindling resources and the fact that you're a Ruster, you don't have much choice.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQxNDE4NS8xNDI5ODMyMS5wbmc=/original/D35OsX.png",
+          "https://img.itch.zone/aW1hZ2UvMjQxNDE4NS8xNDI5ODM0MS5wbmc=/original/8ulD6Q.png",
+          "https://img.itch.zone/aW1hZ2UvMjQxNDE4NS8xNDI5ODM1NS5wbmc=/original/90fGld.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows",
+          "Author": "Devious_Oatmeal",
+          "Genre": "Strategy",
+          "Made with": "GameMaker",
+          "Tags": "Dice, Experimental, Indie, Monsters, Pixel Art, Robots, Roguelike, Singleplayer, Tower Defense, Turn-based",
+          "Average session": "A few seconds"
+        }
+      }
+    },
+    {
+      "gameId": 2424932,
+      "gameUrl": "https://imshredda.itch.io/snackattack",
+      "overallRank": 23,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 77,
+        "rating_count": 54,
+        "created_at": "2023-12-16 02:51:18",
+        "id": 484395,
+        "game": {
+          "title": "Snack Attack",
+          "cover": "https://img.itch.zone/aW1nLzE0MzU1OTIzLnBuZw==/300x240%23c/RX5OIF.png",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "url": "https://imshredda.itch.io",
+            "name": "Shredda",
+            "id": 8106774
+          },
+          "id": 2424932,
+          "short_text": "Delicious snacks are hungry for action! Help them fry their enemies as they make their escape!",
+          "url": "https://imshredda.itch.io/snackattack"
+        },
+        "contributors": [
+          {
+            "name": "Shredda",
+            "url": "https://imshredda.itch.io"
+          },
+          {
+            "name": "BottledBottle",
+            "url": "https://bottled-games.itch.io"
+          }
+        ],
+        "url": "/jam/bigmode-2023/rate/2424932"
+      },
+      "details": {
+        "title": "Snack Attack",
+        "description": "The controls for the game are as follows:\n\nA & D - Move Left & Move Right\n\nSpace - Jump\n\nSpace While In Air And Facing Wall - Wall Jump\n\nF - Melee\n\nF While In Air - Ground Slam\n\nE - Special Ability\nSnack attack is a 2.5D platformer game, where you play as a fast food item of your choice, escape restaurants and make it safely to the farmer.\nThis game started out as something where you would be playing as a potato who spawns underground and has to make it back to the farm. The gimmick was that he would be able to rotate gravity. He was known as 'Rotato Potato'. \nHowever this swiftly changed into french fries, and eventually into many fast food characters. Then, the entire restaurant was built. The underground assets were already made so we stuck with it.\nThe idea is simple; you play as a fast food item who has the ability to melee attack, ground smash from the air and also have a unique special ability. Currently we have two playable characters; Papa Fritas and Colonel Cola. Papa Fritas can throw condiment grenades and Colonel Cola can freeze his enemies and smash them into pieces.\n\nPlease note that this game was made for the BigMode game jam and will not be receiving any further updates. However, due to the characters being well designed, they may appear in future, non-jam games.\nCoding, 3D Modeling & Music - https://twitch.tv/imShredda\nAnimation & Level Design - https://www.twitch.tv/bott1edbott1e\nUI Elements - https://twitch.tv/umm_hello_dere\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQyNDkzMi8xNDM1Mjc4MC5wbmc=/original/rInVD4.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyNDkzMi8xNDM1Mjc3OS5wbmc=/original/mbpTD1.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyNDkzMi8xNDM1Mjc3Ni5wbmc=/original/gcCw9r.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyNDkzMi8xNDM1Mjc3OC5wbmc=/original/uaTmu2.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyNDkzMi8xNDM1Mjc3Ny5wbmc=/original/hqPkrx.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Authors": "Shredda, BottledBottle",
+          "Genre": "Platformer, Action",
+          "Tags": "3D Platformer, bigmode, Creepy, Food, Low-poly"
+        }
+      }
+    },
+    {
+      "gameId": 2401648,
+      "gameUrl": "https://waynemadeagame.itch.io/bon-voyage-charlie",
+      "overallRank": 24,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 93,
+        "rating_count": 53,
+        "created_at": "2023-12-14 13:07:06",
+        "id": 483562,
+        "game": {
+          "user": {
+            "url": "https://waynemadeagame.itch.io",
+            "name": "WayneMadeAGame",
+            "id": 9222600
+          },
+          "title": "Bon Voyage Charlie!",
+          "cover": "https://img.itch.zone/aW1nLzE0MzEwNDY5LnBuZw==/300x240%23c/NAJYo%2F.png",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#eeeeee",
+          "id": 2401648,
+          "short_text": "Save the skies as a multi-modal moggy!",
+          "url": "https://waynemadeagame.itch.io/bon-voyage-charlie"
+        },
+        "contributors": [
+          {
+            "name": "WayneMadeAGame",
+            "url": "https://waynemadeagame.itch.io"
+          },
+          {
+            "name": "AbePutnam",
+            "url": "https://abeputnam.itch.io"
+          },
+          {
+            "name": "Lucia Ruocco",
+            "url": "https://faeri002.itch.io"
+          }
+        ],
+        "url": "/jam/bigmode-2023/rate/2401648"
+      },
+      "details": {
+        "title": "Bon Voyage Charlie!",
+        "description": "**Some people are reporting issues when pressing a button, it looks like this is down to xml files being altered in decompression on some machines. It can be fixed by editing the file Preferences.xml under Source/Content/XML and setting musicVolume and sfxVolume to 0 (you should then be able to turn these back up from the options menu)**\nCharlie is off on a well earned holiday, but some rude kittens on the flight haven't switched their phones to airplane mode. In order to avoid CATastrophy he'll have to tap into his many (more specifically, three) animalistic modes in order to dash, hop, and climb his way around the cabin, righting these egregious wrongs!\nOur entry to the Big Mode Game Jam 2023, Bon Voyage Charlie is a 2D platformer designed to be short and snappy in order to promote high score chasing speed runs. Switch fluidly between modes in order to move smoothly through the levels, picking your own path around the objectives.\nWe've also included an in-game level editor and dev console under the options menu to allow you to create your own challenges and tweak the movement to suit you. \nThe Team for the Jam consists of a programmer (Wayne), an artist (Elina) and an audio specialist (Abe), each participating in their first jam!\nThe game was built in the Monogame framework, meaning everything from basic physics and collision detection to animation and audio implementation had to be built from scratch.\nUnzip the contents in a place of your choosing and run BonVoyage.exe (may just appear as BonVoyage in file explorer, windows like to hide file extensions).",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE0MzEwNDY5LnBuZw==/original/OTFwsp.png"
+        ],
+        "moreInfo": {
+          "Updated": "23 days ago",
+          "Status": "In development",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "WayneMadeAGame, AbePutnam, Lucia Ruocco",
+          "Genre": "Platformer",
+          "Tags": "big-mode, Cute, Short, Speedrun"
+        }
+      }
+    },
+    {
+      "gameId": 2401808,
+      "gameUrl": "https://ozmaister.itch.io/big-trouble-in-little-garden",
+      "overallRank": 25,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 48,
+        "rating_count": 53,
+        "created_at": "2023-12-15 22:44:37",
+        "id": 484187,
+        "game": {
+          "user": {
+            "url": "https://ozmaister.itch.io",
+            "name": "OzMaister",
+            "id": 1320187
+          },
+          "title": "Big Trouble in Little Garden",
+          "cover": "https://img.itch.zone/aW1nLzE0NDExMDk1LnBuZw==/300x240%23c/86f5F7.png",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "cover_color": "#1bd9ff",
+          "id": 2401808,
+          "short_text": "Build up your garden to prepare for the pumpkin harvest",
+          "url": "https://ozmaister.itch.io/big-trouble-in-little-garden"
+        },
+        "contributors": [
+          {
+            "name": "OzMaister",
+            "url": "https://ozmaister.itch.io"
+          },
+          {
+            "name": "SurffingBird",
+            "url": "https://surffingbird.itch.io"
+          }
+        ],
+        "url": "/jam/bigmode-2023/rate/2401808"
+      },
+      "details": {
+        "title": "Big Trouble in Little Garden",
+        "description": "It's time to get ready for next Halloween!\nBuild up your garden to prepare for the pumpkin harvest.\nBut beware, the plants aren't as innocent as they seem.\n\n\nBasic FPS Controls\n\nMoveWASD\nJumpSpaceUse tool / shootLeft mouse button \nSwitch toolMouse wheel / Q\nInteractE\nPause gameP / ESC\n\n\nThis game was made for Bigmode Game Jam 2023.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQwMTgwOC8xNDM2MjI3MC5naWY=/original/TaKGKd.gif",
+          "https://img.itch.zone/aW1hZ2UvMjQwMTgwOC8xNDQxMTEwMC5wbmc=/original/aETw%2F0.png",
+          "https://img.itch.zone/aW1hZ2UvMjQwMTgwOC8xNDM2MTg1MS5qcGc=/original/%2BXIgrQ.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjQwMTgwOC8xNDM2MTg1NC5qcGc=/original/5b%2Fuhc.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjQwMTgwOC8xNDM2MTg1Ni5qcGc=/original/nYA3e7.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 4.9 out of 5 stars(15 total ratings)",
+          "Authors": "OzMaister, SurffingBird",
+          "Genre": "Action",
+          "Tags": "3D, First-Person, FPS, Gardening, Godot"
+        }
+      }
+    },
+    {
+      "gameId": 2424830,
+      "gameUrl": "https://big-boy-games.itch.io/big-moat",
+      "overallRank": 26,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 9,
+        "rating_count": 53,
+        "created_at": "2023-12-16 04:35:58",
+        "id": 484547,
+        "game": {
+          "user": {
+            "url": "https://big-boy-games.itch.io",
+            "name": "Big Boy Games",
+            "id": 772348
+          },
+          "title": "Big Moat",
+          "cover": "https://img.itch.zone/aW1nLzE0MzUyNjM5LnBuZw==/300x240%23c/28KFbx.png",
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#ffffff",
+          "id": 2424830,
+          "short_text": "Expand your moat, defend your kingdom, and survive!",
+          "url": "https://big-boy-games.itch.io/big-moat"
+        },
+        "url": "/jam/bigmode-2023/rate/2424830"
+      },
+      "details": {
+        "title": "Big Moat",
+        "description": "Big Moat was made for the 2023 Bigmode Game Jam, where the theme was MODE.\nYou've done it! You're finally king at last, however you've stepped on quite a few toes in the process. Now everyone hates you and is out to destroy your newfound kingdom. Earn gold, build defenses, expand your moat, and survive the onslaught of foes in this pixel art tower defense game!\nControls\nRight click - deselect active structureWASD (or middle click) - camera movementEscape - pause the gameScroll wheel - zoom camera in and out\nOur Theme Interpretation\nFor Big Moat, we decided to involve the MODE theme in multiple ways. The first (and obvious) is a play on words. The second is the mode switching between rounds. The player swaps between a building mode (the time to plan and fortify defenses), and a battle mode (the time for enemies to attack you).\nNotes\nPlay the downloadable .zip version of the game for better performance, resolution scaling, and more!Made in Godot",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQyNDgzMC8xNDM1OTU2MC5wbmc=/original/w%2FSKLL.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyNDgzMC8xNDM1OTU2MS5wbmc=/original/ad309x.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Release date": "Dec 15, 2023",
+          "Author": "Big Boy Games",
+          "Genre": "Strategy",
+          "Made with": "Godot, Audacity, Paint.net",
+          "Tags": "bigmode, Casual, High Score, Indie, Medieval, Pixel Art, Singleplayer, Tower Defense",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse",
+          "Links": "Homepage, YouTube"
+        }
+      }
+    },
+    {
+      "gameId": 2419702,
+      "gameUrl": "https://commanderjersey.itch.io/race-against-a-duck",
+      "overallRank": 27,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 30,
+        "rating_count": 52,
+        "created_at": "2023-12-15 07:39:46",
+        "id": 483846,
+        "game": {
+          "user": {
+            "url": "https://commanderjersey.itch.io",
+            "name": "CommanderJersey",
+            "id": 2969326
+          },
+          "title": "Race Against a Duck",
+          "cover": "https://img.itch.zone/aW1nLzE0MzQ2ODc3LnBuZw==/300x240%23c/zzyRI3.png",
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#676767",
+          "id": 2419702,
+          "short_text": "Can you win a race against nature's All Terrain Vehicle?",
+          "url": "https://commanderjersey.itch.io/race-against-a-duck"
+        },
+        "contributors": [
+          {
+            "name": "CommanderJersey",
+            "url": "https://commanderjersey.itch.io"
+          },
+          {
+            "name": "bradbizar",
+            "url": "https://bradbizar.itch.io"
+          }
+        ],
+        "url": "/jam/bigmode-2023/rate/2419702"
+      },
+      "details": {
+        "title": "Race Against a Duck",
+        "description": "\"Water... Land... Sky...\"\n\"Do you have what it takes to defeat nature's All Terrain Vehicle?\"\nWe hope you enjoy our newest game, made for the Big Mode game jam! Featuring misbradventures with art & music, TrainOfDarkness on the race music, and myself (CommanderJersey) on programming. I hope you enjoy discovering just how hard it is to beat a duck in a race!\n2/1/2024 Update: The game is currently being developed into an expanded release! Wishlist 'Race Against a Duck: Duck Deluxe' on Steam for news & updates! https://store.steampowered.com/app/2808150/Race_Against_a_Duck_Duck_Deluxe/\n\nIf you like the game, I'd love it for you to check out our big game that we're currently working on: Space Crab VS! It has a free demo too, both here on itch.io and on Steam.\nhttps://store.steampowered.com/app/2416940/Space_Crab_VS/",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQxOTcwMi8xNDM3MTYxNS5wbmc=/original/YayaF0.png",
+          "https://img.itch.zone/aW1hZ2UvMjQxOTcwMi8xNDM3MTYxNy5wbmc=/original/Xt58zP.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.8 out of 5 stars(16 total ratings)",
+          "Authors": "CommanderJersey, bradbizar",
+          "Genre": "Racing",
+          "Made with": "AppGameKit",
+          "Tags": "bigmode, Comedy, duck, mode, Pixel Art"
+        }
+      }
+    },
+    {
+      "gameId": 2420642,
+      "gameUrl": "https://jamtonyx.itch.io/mecha-mode",
+      "overallRank": 28,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 30,
+        "rating_count": 52,
+        "created_at": "2023-12-16 04:27:49",
+        "id": 484523,
+        "game": {
+          "user": {
+            "url": "https://jamtonyx.itch.io",
+            "name": "Jamtonyx",
+            "id": 4089085
+          },
+          "title": "Mecha Mode",
+          "cover": "https://img.itch.zone/aW1nLzE0MzQ2ODk5LnBuZw==/300x240%23c/zsSJTe.png",
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#000000",
+          "id": 2420642,
+          "short_text": "Mayhem and Madness in an arena based FPS, with constantly changing gun!",
+          "url": "https://jamtonyx.itch.io/mecha-mode"
+        },
+        "contributors": [
+          {
+            "name": "Jamtonyx",
+            "url": "https://jamtonyx.itch.io"
+          },
+          {
+            "name": "Logan",
+            "url": "https://lurlichs.itch.io"
+          },
+          {
+            "name": "DevShark",
+            "url": "https://devsharkau.itch.io"
+          },
+          {
+            "name": "Fatguyinspace",
+            "url": "https://fatguyinspace.itch.io"
+          }
+        ],
+        "url": "/jam/bigmode-2023/rate/2420642"
+      },
+      "details": {
+        "title": "Mecha Mode",
+        "description": "THE FORESIGHT COPORATION COMMISSIONS YOU TO ERADICATE THE GOBLIN INFESTATION ON THE FORESIGHT MARS RESEARCH FACILITY.  YOU ARE FORBIDDEN TO LEAVE THE FACILITY UNTIL ALL PESTS ARE ELMINATED.\n\n\nThis game and all assets used in it was made for and during BigModeGameJam2023\nMecha-Mode is a manic FPS combat survival arena in which you fight hordes of Undead Space Punk Rock goblins, meanwhile dealing with an uncontrollable virus that constantly forces your weaponry and playstyles to change throughout the game. CONTROLSWASD - MovementSpace - JumpLeft click - ShootLeft shift - DashR - ReloadE - InteractMECHA MODES MAYHEMAs apart of your task you will be provided with a mech. This mech is expected to glitch out and will switch modes. These modes switch up your playstyle by changing your weapons, movement and Goblin attributes. FORESIGHT COPORATION FACILITYThe Foresight Corporation has noticed the faulty mode switching and has placed a solution in the middle of the facility. Pressing this button allows you to access the Mech's terminal prompting 3 modes to be removed per round. Accessing the button also starts the round, the punks will enter the facility through the teleportation pads.THE GOBLINS\n\nThe endless horde of Undead Punk-Rock crazy Space goblins from Mars are overrunning the Foresight Corporation! As apart of your task you are to exterminate these Space goblins. They may seem a bit deranged but these crafty punks know how to use tools, guns and vehicles they've stolen and repurposed.  CreditsTHIS GAME WAS MADE BY SUSPICIOUS JAM @SusJamGames@timedotdelta@LeptonyxArt@devshark_au@FatGuyInSpaceAdditional credits and detailsCOME JOIN US ON DISCORD!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQyMDY0Mi8xNDM5NzU5Mi5wbmc=/original/N1l2gY.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyMDY0Mi8xNDM5NzU5My5wbmc=/original/Onua3K.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyMDY0Mi8xNDM5NzU5MC5wbmc=/original/E5NaKZ.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyMDY0Mi8xNDM5NzU4OS5wbmc=/original/Yyb05h.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyMDY0Mi8xNDM5NzU5MS5wbmc=/original/HLf1ft.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Authors": "Jamtonyx, Logan, DevShark, Fatguyinspace",
+          "Genre": "Shooter",
+          "Tags": "3D, bigmode, First-Person, Global Game Jam"
+        }
+      }
+    },
+    {
+      "gameId": 2417963,
+      "gameUrl": "https://foodwad.itch.io/administer",
+      "overallRank": 29,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 94,
+        "rating_count": 51,
+        "created_at": "2023-12-16 04:54:17",
+        "id": 484615,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE0MzcyMTgyLmdpZg==/300x240%23c/OA5T01.gif",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#070707",
+          "title": "ADMINISTER",
+          "id": 2417963,
+          "user": {
+            "url": "https://foodwad.itch.io",
+            "name": "foodwad",
+            "id": 2995521
+          },
+          "gif_cover": "https://img.itch.zone/aW1nLzE0MzcyMTgyLmdpZg==/original/tgqX1v.gif",
+          "short_text": "A farming game inside a computer",
+          "url": "https://foodwad.itch.io/administer"
+        },
+        "contributors": [
+          {
+            "name": "foodwad",
+            "url": "https://foodwad.itch.io"
+          },
+          {
+            "name": "Rychuz",
+            "url": "https://rychuz.itch.io"
+          }
+        ],
+        "url": "/jam/bigmode-2023/rate/2417963"
+      },
+      "details": {
+        "title": "ADMINISTER",
+        "description": "!WARNING!\nContains flashing lights that can be unsuitable for photosensitive players!\n\n\nDescription\nSince its USER has gone missing, it is now up to the citizens of an abandoned computer to upkeep their home. Play as BYTE, a small green resident of the computer who has been given ADMIN privileges to help everyone. \n\nControls\nENTER -  confirm (title screen)\n\n\nQ&A (Tutorial Spoilers)\n\nQ: What if I run out of bits (money)?\n\nA: Don't.\n\n\nQ: How do I farm?\nA: Buy seeds from the Interweb, grow them using ADMIN privileges, sell them in the Mail.\n\nQ: Where do I go next?\nA: Check for red exclamation marks on the applications \n\nV1 Bug (End Spoiler): \nClosing out the Computer application after inserting all upgrades causes the button to turn invisible on reopen.  You can still interact with the button, it's just invisible.  \n\nCredits\n\nProgramming - Ryan Chu (rychuz)\nArt - Hannah Feder (foodwad)\nWriting - Ryan + Hannah\nMusic/Sound Effect assets from Pixabay and Freesound\nPhoto from Pixabay\n\n\n\nFor BIGMODE game jam",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQxNzk2My8xNDM3MjE4Ni5naWY=/original/0edATC.gif",
+          "https://img.itch.zone/aW1hZ2UvMjQxNzk2My8xNDM1ODkyMS5naWY=/original/O%2F%2BS5w.gif",
+          "https://img.itch.zone/aW1hZ2UvMjQxNzk2My8xNDM1ODU5MS5naWY=/original/4XvAyh.gif",
+          "https://img.itch.zone/aW1hZ2UvMjQxNzk2My8xNDM1ODY5NC5naWY=/original/gUjrMm.gif",
+          "https://img.itch.zone/aW1hZ2UvMjQxNzk2My8xNDM1ODg2OS5naWY=/original/gZSes%2F.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "foodwad, Rychuz",
+          "Genre": "Adventure",
+          "Tags": "2D, Farming, Pixel Art, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 2425782,
+      "gameUrl": "https://robruana.itch.io/dunki-dunki-panic",
+      "overallRank": 30,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 28,
+        "rating_count": 51,
+        "created_at": "2023-12-16 03:13:08",
+        "id": 484419,
+        "game": {
+          "user": {
+            "url": "https://robruana.itch.io",
+            "name": "Rob Ruana",
+            "id": 4136514
+          },
+          "title": "Dunki Dunki Panic",
+          "cover": "https://img.itch.zone/aW1nLzE0MzcwNzI0LnBuZw==/300x240%23c/qsqTcC.png",
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#0484d1",
+          "id": 2425782,
+          "short_text": "Crafted exclusively for the first ever BIGMODE Game Jame!",
+          "url": "https://robruana.itch.io/dunki-dunki-panic"
+        },
+        "url": "/jam/bigmode-2023/rate/2425782"
+      },
+      "details": {
+        "title": "Dunki Dunki Panic",
+        "description": "Help Biggy defeat the evil Pie King and restore the Candy Kingdom to peace!\n\nNo one knows why the Pie King went bad, but it all started when he got that scoop of ice cream.\n\n\nControls\nSupports both keyboard or controller, but using a controller is much easier. Input map can be updated from the \"Options\" or \"Pause\" menu screens.\nKeyboard\nWalk left/right: A/D keys, left/right arrow keysPick up/throw item: J keyAim while throwing: WASD keys, arrow keysDrop cube without throwing: Press down while throwingJump: Space barRun: Shift keyPause: Escape keyMenu Accept: Enter keyMenu Cancel: Escape key\nController\nWalk left/right: D-Pad, left stickPick up/throw item: X/Y buttonsAim while throwing: D-Pad, left stickDrop cube without throwing: Press down while throwing\nJump: A/B buttonsRun: A/B buttons\nPause: Start button\nMenu Accept: A button (Nintendo style)Menu Cancel: B button (Nintendo style)\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQyNTc4Mi8xNDM3MDcyNi5wbmc=/original/l2zgXc.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyNTc4Mi8xNDM3MDcyOS5wbmc=/original/RfMp87.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyNTc4Mi8xNDM3MDczMC5wbmc=/original/g86Wvx.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyNTc4Mi8xNDM3MDcyNy5wbmc=/original/v34K8f.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyNTc4Mi8xNDM3MDcyOC5wbmc=/original/PqCUnp.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Rob Ruana",
+          "Genre": "Platformer",
+          "Made with": "Aseprite, Godot",
+          "Tags": "2D, 3D, Casual, Cute, Fangame, Indie, Pixel Art, Retro, Short, Singleplayer",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Joy-Con"
+        }
+      }
+    },
+    {
+      "gameId": 2422040,
+      "gameUrl": "https://lilfoxbot.itch.io/biggie-blaster",
+      "overallRank": 31,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 128,
+        "rating_count": 50,
+        "created_at": "2023-12-14 08:45:58",
+        "id": 483530,
+        "game": {
+          "user": {
+            "url": "https://lilfoxbot.itch.io",
+            "name": "lilfoxbot",
+            "id": 4367025
+          },
+          "title": "Biggie Blaster",
+          "cover": "https://img.itch.zone/aW1nLzE0MzM0MTMwLnBuZw==/300x240%23c/hhjhXk.png",
+          "platforms": [
+            "windows",
+            "osx"
+          ],
+          "cover_color": "#2ce8f4",
+          "id": 2422040,
+          "short_text": "Fire 2 cannons at once! Can you survive for 60 seconds?",
+          "url": "https://lilfoxbot.itch.io/biggie-blaster"
+        },
+        "url": "/jam/bigmode-2023/rate/2422040"
+      },
+      "details": {
+        "title": "Biggie Blaster",
+        "description": "A shoot 'em up game with simple controls.\nYou can fire in both directions at once!\nCan you survive for more than 60 seconds?Unzip into folder and run BiggieBlaster.exe",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQyMjA0MC8xNDc2NjM2OS5wbmc=/original/FzIhco.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyMjA0MC8xNDc2NjQwMC5wbmc=/original/O0m9dQ.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyMjA0MC8xNDM2NjA0MC5wbmc=/original/%2FSeOQK.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyMjA0MC8xNDM2NjAxNS5wbmc=/original/s3lURe.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyMjA0MC8xNDM3MDE2Mi5wbmc=/original/4Q82Pv.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS",
+          "Author": "lilfoxbot",
+          "Genre": "Shooter"
+        }
+      }
+    },
+    {
+      "gameId": 2425896,
+      "gameUrl": "https://ogunasekara.itch.io/sticko-mode",
+      "overallRank": 32,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 70,
+        "rating_count": 50,
+        "created_at": "2023-12-16 04:22:32",
+        "id": 484503,
+        "game": {
+          "user": {
+            "url": "https://ogunasekara.itch.io",
+            "name": "ogunasekara",
+            "id": 9234867
+          },
+          "title": "Sticko Mode",
+          "cover": "https://img.itch.zone/aW1nLzE0NTI5MjM4LnBuZw==/300x240%23c/m492ub.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#2e152c",
+          "id": 2425896,
+          "short_text": "Plan your attack in PREDICTO MODE. Execute it in STICKO MODE.",
+          "url": "https://ogunasekara.itch.io/sticko-mode"
+        },
+        "contributors": [
+          {
+            "name": "ogunasekara",
+            "url": "https://ogunasekara.itch.io"
+          },
+          {
+            "name": "discopandaz",
+            "url": "https://discopandaz.itch.io"
+          },
+          {
+            "name": "Thatoneguy_159",
+            "url": "https://thatoneguy-159.itch.io"
+          },
+          {
+            "name": "aaaalan",
+            "url": "https://aaaalan.itch.io"
+          },
+          {
+            "name": "Rosune",
+            "url": "https://rosunestudios.itch.io"
+          }
+        ],
+        "url": "/jam/bigmode-2023/rate/2425896"
+      },
+      "details": {
+        "title": "Sticko Mode",
+        "description": "\nPlan your attack in PREDICTO MODEExecute it in STICKO MODE\nBigmode Game Jam 2023 Finalist!BEST PLAYED DOWNLOADED. WE TESTED THE BROWSER VERSION EVEN LESS THAN THE DOWNLOADED. PLEASE. IT'S ALSO PRETTIER\nFeatures:\n \nCarefully plan your route to eliminate home invaders from outer space in PREDICTO mode.Play a high-stakes rhythm game to execute your carefully planned route in STICKO mode.\nHow to Play:\n    \nPREDICTO ModeWASD to move.\n \nDouble tap WASD to dash.WASD + ENTER to attack or reflect. \nYou can move or dash in eight directions but can only attack or reflect in four (see below)BACKSPACE to undo an action. \n\nSTICKO ModeWASD to hit arrow key circles.\nENTER to hit the cane key circles. \n\nCredits\n \nProgramming, Art - Alan Cheng (https://www.youtube.com/@aaaalan)  Programming - Oshadha Gunasekara (https://github.com/ogunasekara) Programming, Level Design - Minh Nguyen (mtnguyen.dev@gmail.com)Programming, Music - Rosune (rosunestudios@gmail.com)Programming, Level Design - Eric JaramilloDownload and unzip sticko-mode-build-v2.zipExecute Sticko Mode.exe",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQyNTg5Ni8xNDM1OTI4NS5wbmc=/original/VuBXC8.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyNTg5Ni8xNDM1OTM5MS5wbmc=/original/CrMJQZ.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyNTg5Ni8xNDM1OTQxNi5wbmc=/original/3kBYwg.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyNTg5Ni8xNDM1OTQyNi5wbmc=/original/7jjVET.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Release date": "Dec 16, 2023",
+          "Authors": "ogunasekara, discopandaz, Thatoneguy_159, aaaalan, Rosune",
+          "Genre": "Rhythm, Action",
+          "Made with": "Unity",
+          "Tags": "2D, Short, Singleplayer, Turn-based Strategy",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": 2395392,
+      "gameUrl": "https://justinsix.itch.io/streamer-of-the-year",
+      "overallRank": 33,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 45,
+        "rating_count": 50,
+        "created_at": "2023-12-15 23:05:59",
+        "id": 484211,
+        "game": {
+          "user": {
+            "url": "https://justinsix.itch.io",
+            "name": "JustinSix",
+            "id": 659717
+          },
+          "title": "Streamer of The Year",
+          "cover": "https://img.itch.zone/aW1nLzE0MzUwODAzLnBuZw==/300x240%23c/0EvFWO.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#040a00",
+          "id": 2395392,
+          "short_text": "Dunkey has abducted the top streamers, to determine who is the best streamer.",
+          "url": "https://justinsix.itch.io/streamer-of-the-year"
+        },
+        "contributors": [
+          {
+            "name": "JustinSix",
+            "url": "https://justinsix.itch.io"
+          },
+          {
+            "name": "Malethar",
+            "url": "https://malethar.itch.io"
+          },
+          {
+            "name": "bjaksel",
+            "url": "https://bjaksel.itch.io"
+          }
+        ],
+        "url": "/jam/bigmode-2023/rate/2395392"
+      },
+      "details": {
+        "title": "Streamer of The Year",
+        "description": "Our game can be played in the browser (1 min~ loading time..)We recommend downloading the game for the best experience!It's time to immerse yourselves in the role of a top streamer. Pick your favorite and contribute to their overall score on an online leaderboard. Scoreboard closes on new years eve, who will end up as The Streamer of the Year!This game is played with a mix of mouseclicks, QTE's and WASD+Space for movement. Each mini game is played differently.Dev video posted here: https://www.youtube.com/@JustinSixVideos",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE0MzUwODAzLnBuZw==/original/Ty1hYC.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 3.5 out of 5 stars(2 total ratings)",
+          "Authors": "JustinSix, Malethar, bjaksel",
+          "Made with": "Unity"
+        }
+      }
+    },
+    {
+      "gameId": 2424836,
+      "gameUrl": "https://rdpolarity.itch.io/little-big-mode",
+      "overallRank": 34,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 26,
+        "rating_count": 50,
+        "created_at": "2023-12-15 19:15:54",
+        "id": 484068,
+        "game": {
+          "user": {
+            "url": "https://rdpolarity.itch.io",
+            "name": "RDPolarity",
+            "id": 936223
+          },
+          "title": "Little Big Mode 🐸",
+          "cover": "https://img.itch.zone/aW1nLzE0MzUyMTk0LnBuZw==/300x240%23c/ag9gBl.png",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#00372e",
+          "id": 2424836,
+          "short_text": "top-down unit management arena froge-like",
+          "url": "https://rdpolarity.itch.io/little-big-mode"
+        },
+        "contributors": [
+          {
+            "name": "RDPolarity",
+            "url": "https://rdpolarity.itch.io"
+          },
+          {
+            "name": "Quarks",
+            "url": "https://quarks404.itch.io"
+          },
+          {
+            "name": "T0meo",
+            "url": "https://t0meo.itch.io"
+          }
+        ],
+        "url": "/jam/bigmode-2023/rate/2424836"
+      },
+      "details": {
+        "title": "Little Big Mode 🐸",
+        "description": "top-down unit management arena froge-like made in 6 days:Mass = Health,Collect mass by eating flies,Spend mass to spawn allies,Be careful of the toads (ew),Survive as many rounds as possible!\nmass also increases your size, tongue radius, 'health' and view distance... however it will decrease your speed, regulate at your own risk!\n__CONTROLS__\nWASD - MoveLEFT CLICK / SHIFT - Eat fly (if in radius)1 - Soldier mode2 - Archer mode3 - Bomber modeSPACE - Spawn freg\nFeatures:\nRandomly generated mapPre-programmed enemy wavesNew random upgrades each roundIntelligent army AIDiverse enemy types\nChoose 1 of 3 BIG 'modes'\nWhat the public are saying:\"An innovative new froge type game, \" ~ IGN\"A master piece among the froge-like genre.\" ~ PCGAMER\n\"wow epic\" ~ Amazon Bezos\"this game uhhh suck\" ~ Toad gang\nMade for the Bigmode Gamejam",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQyNDgzNi8xNDM4MzExNy5naWY=/original/Hfjyo8.gif",
+          "https://img.itch.zone/aW1hZ2UvMjQyNDgzNi8xNDM4MzExOC5naWY=/original/v2tIPi.gif"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.7 out of 5 stars(3 total ratings)",
+          "Authors": "RDPolarity, Quarks, T0meo",
+          "Genre": "Action",
+          "Tags": "army, bigmode, froge-like, Game Jam, Pixel Art, Retro, rogue-like"
+        }
+      }
+    },
+    {
+      "gameId": 2415959,
+      "gameUrl": "https://prophetia.itch.io/an-origami-tale",
+      "overallRank": 35,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 62,
+        "rating_count": 49,
+        "created_at": "2023-12-16 00:16:11",
+        "id": 484264,
+        "game": {
+          "user": {
+            "url": "https://prophetia.itch.io",
+            "name": "prophetia",
+            "id": 8590666
+          },
+          "title": "An Origami Tale",
+          "cover": "https://img.itch.zone/aW1nLzE0MzQxNDMyLnBuZw==/300x240%23c/DEJHom.png",
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#ffffff",
+          "id": 2415959,
+          "short_text": "Inventive puzzle-platformer that merges level editing and action! Navigate the stages your own way!",
+          "url": "https://prophetia.itch.io/an-origami-tale"
+        },
+        "url": "/jam/bigmode-2023/rate/2415959"
+      },
+      "details": {
+        "title": "An Origami Tale",
+        "description": "Our submission to BiG MODE`s 2023 Game Jam!Theme: MODE.An Origami Tale is a puzzle/platformer that combines two different game modes at the same time: Find your way through the stages using the different origami transformations to move around freely! And, if you want,  you can seamlessly switch to Craft Mode and modify the stages to your likeness!Follow us on Threads/Twitter/Discord for more updates!@prophetiaGThank you for playing! :)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQxNTk1OS8xNDM2NDE5NC5wbmc=/original/s0JRsE.png",
+          "https://img.itch.zone/aW1hZ2UvMjQxNTk1OS8xNDM2NDE5Mi5wbmc=/original/ckHE%2Ft.png",
+          "https://img.itch.zone/aW1hZ2UvMjQxNTk1OS8xNDM2NDE5NS5wbmc=/original/dB8Jro.png",
+          "https://img.itch.zone/aW1hZ2UvMjQxNTk1OS8xNDM2NDE5My5wbmc=/original/4CAgGf.png",
+          "https://img.itch.zone/aW1hZ2UvMjQxNTk1OS8xNDM2NDE5Ni5wbmc=/original/JR2XfH.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "prophetia",
+          "Genre": "Platformer, Adventure, Puzzle",
+          "Tags": "32x32, Pixel Art, Puzzle-Platformer, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 2410894,
+      "gameUrl": "https://leyza.itch.io/grow-big-or-go-home",
+      "overallRank": 36,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 99,
+        "rating_count": 48,
+        "created_at": "2023-12-16 02:22:40",
+        "id": 484356,
+        "game": {
+          "user": {
+            "url": "https://leyza.itch.io",
+            "name": "Leyza",
+            "id": 1194733
+          },
+          "title": "Grow BIG (or go home)",
+          "cover": "https://img.itch.zone/aW1nLzE0MzU4MTI0LnBuZw==/300x240%23c/JSaT9U.png",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#6da7e4",
+          "id": 2410894,
+          "short_text": "Go big or go home",
+          "url": "https://leyza.itch.io/grow-big-or-go-home"
+        },
+        "contributors": [
+          {
+            "name": "Leyza",
+            "url": "https://leyza.itch.io"
+          },
+          {
+            "name": "DiceSpinner",
+            "url": "https://dicespinner.itch.io"
+          },
+          {
+            "name": "4yli3n",
+            "url": "https://4yli3n.itch.io"
+          },
+          {
+            "name": "WillTheKrill",
+            "url": "https://willthekrill.itch.io"
+          },
+          {
+            "name": "StrifePainter",
+            "url": "https://strifepainter.itch.io"
+          }
+        ],
+        "url": "/jam/bigmode-2023/rate/2410894"
+      },
+      "details": {
+        "title": "Grow BIG (or go home)",
+        "description": "Scientist Dr. Edward has always been insecure about his height. His colleagues always made fun of him for it. Now, Ed has had enough. With his homemade concoction, he's set on achieving his goal and growing big!\n\nThis game was created in 2.5 weeks for BigMode game jam 2023, featuring 2 gamemodes: Bigmode and Smallmode. \n\nControls: Mouse and Keyboard\nBigMode:\n[WASD] - Feet placement\n[LeftShift] - Stomp\n[LMB] - Left Arm Attack\n[RMB] - Right Arm Attack\nSmallMode:\n[WASD] - Player movement\n[Mouse] - Camera movement\n[LeftShift] - Dodge\n\nKnown Bugs and Additional Notes\nWe forgot to remove some debug commands in current build, so some keypresses may manually spawn objects. Avoid hitting [h], [j], and [space].The cat in Smallmode may start floating if it lands on obstacles. The hit indicator may become inaccurate because of that.\n\nTeam:\nLeyzaLead designer, Programmer, AnimatorDiceSpinnerProgrammer4yli3n3D artistWilltheKrillAudio and MusicStrifePainter2D artist\n\nOther Assets Credits:\n\"Explosion.\" By Iwiploppenisse (Own work) [CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)], via freesound.org. Available at https://freesound.org/people/Iwiploppenisse/sounds/156031/.\"Car Crash.\" By squareal (Own work) [CC0-1.0 (https://creativecommons.org/publicdomain/zero/1.0/)], via freesound.org. Available at https://freesound.org/people/squareal/sounds/237375/.\"Big Structure Collision Heard from Inside.\" By Osvoldon (Own work) [CC0-1.0 (https://creativecommons.org/publicdomain/zero/1.0/)], via freesound.org. Available at https://freesound.org/people/Osvoldon/sounds/653294/.\"Crash.wav.\" By Eponn (Own work) [CC0-1.0 (https://creativecommons.org/publicdomain/zero/1.0/)], via freesound.org. Available at https://freesound.org/people/Eponn/sounds/420356/.\"Helicopter.\" By deleted_user_3544904 (Own work) [CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/)], via freesound.org. Available at https://freesound.org/people/deleted_user_3544904/sounds/194250/.Stylized Skybox by Yuki2022\n at https://assetstore.unity.com/packages/2d/textures-materials/sky/free-stylized-sk...Toon Shader by Eric Hu\n at https://assetstore.unity.com/packages/vfx/shaders/otoon-urp-toon-shading-216102Chibi Cat by Ladymito at https://assetstore.unity.com/packages/3d/characters/animals/mammals/free-chibi-c...SimplePoly City by VenCreations at https://assetstore.unity.com/packages/3d/environments/simplepoly-city-low-poly-a...1. Download and extract zip file2. Launch game from 'BigModeGameJam' application",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQxMDg5NC8xNDM3MDE5My5wbmc=/original/AsR4nM.png",
+          "https://img.itch.zone/aW1hZ2UvMjQxMDg5NC8xNDM3MDE2OS5wbmc=/original/Mb231t.png",
+          "https://img.itch.zone/aW1hZ2UvMjQxMDg5NC8xNDM3MDE3MC5wbmc=/original/6hdpvn.png",
+          "https://img.itch.zone/aW1hZ2UvMjQxMDg5NC8xNDM3MDE3MS5wbmc=/original/Pr9znJ.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows",
+          "Authors": "Leyza, DiceSpinner, 4yli3n, WillTheKrill, StrifePainter",
+          "Genre": "Simulation, Action",
+          "Tags": "3D, Arcade, Cats, chaotic, Cute, Fast-Paced, Multiple Endings, Short, Walking simulator"
+        }
+      }
+    },
+    {
+      "gameId": 2425714,
+      "gameUrl": "https://chompdev.itch.io/context-catacombs",
+      "overallRank": 37,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 35,
+        "rating_count": 48,
+        "created_at": "2023-12-16 04:37:28",
+        "id": 484549,
+        "game": {
+          "user": {
+            "url": "https://chompdev.itch.io",
+            "name": "chompdev",
+            "id": 1372890
+          },
+          "title": "Context Catacombs",
+          "cover": "https://img.itch.zone/aW1nLzE0MzYyMDQ2LnBuZw==/300x240%23c/l2EpFJ.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#000000",
+          "id": 2425714,
+          "short_text": "​A first person dungeon-delving adventure where text and context are everything.",
+          "url": "https://chompdev.itch.io/context-catacombs"
+        },
+        "contributors": [
+          {
+            "name": "chompdev",
+            "url": "https://chompdev.itch.io"
+          },
+          {
+            "name": "mcbombadev",
+            "url": "https://mcbombadev.itch.io"
+          }
+        ],
+        "url": "/jam/bigmode-2023/rate/2425714"
+      },
+      "details": {
+        "title": "Context Catacombs",
+        "description": "Wishlist on Steam!A first person dungeon-delving adventure where text and context are everything.\n------------------------------------------------\n* Audio required to reach game ending *------------------------------------------------\nIf the Unity plugin crashes upon loading, please try the zip below, or you can try an older version of the game here.\nCredits",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQyNTcxNC8xNDM2MTkyMC5naWY=/original/%2BqRrtA.gif",
+          "https://img.itch.zone/aW1hZ2UvMjQyNTcxNC8xNDM2MjEwMy5wbmc=/original/krBISh.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyNTcxNC8xNDM2MjA2OS5naWY=/original/fWSVkT.gif",
+          "https://img.itch.zone/aW1hZ2UvMjQyNTcxNC8xNDM2MjExMi5wbmc=/original/Q8HMUi.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.6 out of 5 stars(21 total ratings)",
+          "Authors": "chompdev, mcbombadev",
+          "Genre": "Adventure, Puzzle",
+          "Made with": "Unity",
+          "Tags": "3D, First-Person, Text based"
+        }
+      }
+    },
+    {
+      "gameId": 2423011,
+      "gameUrl": "https://seanjob.itch.io/host-killer",
+      "overallRank": 38,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 103,
+        "rating_count": 47,
+        "created_at": "2023-12-15 23:06:40",
+        "id": 484212,
+        "game": {
+          "title": "Host Killer",
+          "cover": "https://img.itch.zone/aW1nLzE0MzQwOTU2LnBuZw==/300x240%23c/%2FZ5xA2.png",
+          "id": 2423011,
+          "cover_color": "#980200",
+          "user": {
+            "url": "https://seanjob.itch.io",
+            "name": "SeanJOB",
+            "id": 4822881
+          },
+          "short_text": "BIG MODE Game Jam 2023",
+          "url": "https://seanjob.itch.io/host-killer"
+        },
+        "contributors": [
+          {
+            "name": "SeanJOB",
+            "url": "https://seanjob.itch.io"
+          },
+          {
+            "name": "Rabger",
+            "url": "https://rabger.itch.io"
+          },
+          {
+            "name": "pijinguy",
+            "url": "https://pijinguy.itch.io"
+          },
+          {
+            "name": "Daniel Kreative",
+            "url": "https://daniel-kreative.itch.io"
+          }
+        ],
+        "url": "/jam/bigmode-2023/rate/2423011"
+      },
+      "details": {
+        "title": "Host Killer",
+        "description": "Kill all of the enemies using your two modes of attack. your attacks come out automatically.\n\n\n\n\n\nRanged mode: Shoots 4 bullets at a time in a X formation, does less damage.\nMelee mode: Short range, attacks horizontally, kills regular enemies in one hit.\n\n\n\n\n\nControls:\n\n\nSwitch attack mode - SPACE\nMove - WASD\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQyMzAxMS8xNDM1NTg0Ni5wbmc=/original/Uqn5Jn.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyMzAxMS8xNDM1NTQ2OC5wbmc=/original/EK0OZ4.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyMzAxMS8xNDM1NTU4Mi5wbmc=/original/MFXwNP.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyMzAxMS8xNDM1NTU5MC5wbmc=/original/5AAXbm.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyMzAxMS8xNDM1NTU5MS5wbmc=/original/gmt5QK.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyMzAxMS8xNDM1NTU5Ni5wbmc=/original/gfd%2Fzn.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Authors": "SeanJOB, Rabger, pijinguy, Daniel Kreative",
+          "Genre": "Action, Shooter",
+          "Tags": "Atmospheric, Pixel Art, Singleplayer",
+          "Average session": "A few minutes",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 2422680,
+      "gameUrl": "https://featurekreep.itch.io/samsara",
+      "overallRank": 39,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 1,
+        "rating_count": 46,
+        "created_at": "2023-12-15 22:19:03",
+        "id": 484167,
+        "game": {
+          "user": {
+            "url": "https://featurekreep.itch.io",
+            "name": "FeatureKreep",
+            "id": 878997
+          },
+          "title": "Samsara",
+          "cover": "https://img.itch.zone/aW1nLzE0MzU1NDg4LnBuZw==/300x240%23c/id5tOY.png",
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#49beff",
+          "id": 2422680,
+          "short_text": "A puzzle game about death and rebirth",
+          "url": "https://featurekreep.itch.io/samsara"
+        },
+        "url": "/jam/bigmode-2023/rate/2422680"
+      },
+      "details": {
+        "title": "Samsara",
+        "description": "The wheel of samsara is ever-turning\nA young monk is searching for the greater truth. What he cannot learn in this life, perhaps he can gain in another. Die and get resurrected into different forms to solve puzzles and reach enlightenment.\nMade for Bigmode Game Jam 2023 (theme: Mode) over the course of two weeks.\nMusic by Clement Panchout 🎵\nControls\nArrow keys — movementZ — jump / confirm / otherX — pushC — depends on the form\nAbout FeatureKreep\nI'm a one-man game dev army on a quest to bring you 12 games in 12 months.  Help yourself to a new game every month by subscribing to my Patreon for as little as 2.5€.\n\nDo you want to cover my game, ask a question or simply chat? Drop me a line at featurekreepgames@gmail.com\n\n\n\n\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQyMjY4MC8xNDM1NTU1MS5wbmc=/original/mkQGt2.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyMjY4MC8xNDM1NTU1My5wbmc=/original/d1p4Ea.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyMjY4MC8xNDM1NTU1NC5wbmc=/original/rx1vLV.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyMjY4MC8xNDM1NTU1Mi5wbmc=/original/Fe9pni.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.5 out of 5 stars(23 total ratings)",
+          "Author": "FeatureKreep",
+          "Genre": "Puzzle",
+          "Made with": "Construct",
+          "Tags": "2D, Cozy, Cute, Experimental, Pixel Art, Puzzle-Platformer"
+        }
+      }
+    },
+    {
+      "gameId": 2423232,
+      "gameUrl": "https://stackman.itch.io/build-mode-play-mode",
+      "overallRank": 40,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 24,
+        "rating_count": 44,
+        "created_at": "2023-12-14 21:58:03",
+        "id": 483673,
+        "game": {
+          "title": "Build Mode Play Mode",
+          "cover": "https://img.itch.zone/aW1nLzE0MzQxOTU3LnBuZw==/300x240%23c/I8IWfE.png",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "url": "https://stackman.itch.io",
+            "name": "stackman",
+            "id": 8387333
+          },
+          "id": 2423232,
+          "url": "https://stackman.itch.io/build-mode-play-mode"
+        },
+        "url": "/jam/bigmode-2023/rate/2423232"
+      },
+      "details": {
+        "title": "Build Mode Play Mode",
+        "description": "Place colored blocks to solve various puzzles.\nControls:\nMouse: Place/Select/Remove ObjectWASD: MoveSpace: Jump / Enter Play ModeZ: Enter Build Mode / UndoQ/E: Rotate Object",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQyMzIzMi8xNDM0MTk1OS5wbmc=/original/W%2BceJs.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyMzIzMi8xNDM0MTk2MS5wbmc=/original/XIbxeh.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyMzIzMi8xNDM0MTk2MC5wbmc=/original/LNpgXo.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Author": "stackman",
+          "Genre": "Puzzle",
+          "Tags": "3D, Isometric"
+        }
+      }
+    },
+    {
+      "gameId": 2421852,
+      "gameUrl": "https://evanmmo.itch.io/dungeon-deli",
+      "overallRank": 41,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 11,
+        "rating_count": 44,
+        "created_at": "2023-12-15 21:31:20",
+        "id": 484124,
+        "game": {
+          "user": {
+            "url": "https://evanmmo.itch.io",
+            "name": "EvanMMO",
+            "id": 3163231
+          },
+          "title": "Dungeon Deli",
+          "cover": "https://img.itch.zone/aW1nLzE0MzMzNjI1LnBuZw==/300x240%23c/KlKEdw.png",
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#ff67a5",
+          "id": 2421852,
+          "short_text": "Venture into the dungeon to retrieve your sandwich",
+          "url": "https://evanmmo.itch.io/dungeon-deli"
+        },
+        "contributors": [
+          {
+            "name": "EvanMMO",
+            "url": "https://evanmmo.itch.io"
+          },
+          {
+            "name": "Mehdi Kazim Alrubai",
+            "url": "https://ragchomp.itch.io"
+          },
+          {
+            "name": "Emma Catherine",
+            "url": "https://bampikku.itch.io"
+          },
+          {
+            "name": "TTKurok",
+            "url": "https://ttkurok.itch.io"
+          }
+        ],
+        "url": "/jam/bigmode-2023/rate/2421852"
+      },
+      "details": {
+        "title": "Dungeon Deli",
+        "description": "A sinkhole interrupted your picnic and a mouse ran off with your sandwich. Venture deep into the dungeon to get your sammy back!\nEvery step is a turn.\n- Arrow keys/WASD/D-Pad to move.\n- Click/space/A button to wait (or close menus).\nDifferent terrains influence...\n- Powers: Your attacks.\n- Modes: Effects on the field.\n-----------------\n\nDungeon Deli was built over the course of 19 days for Videogamedunkey's Bigmode Game Jam 2023 with the theme \"MODE\".\nProgramming: EvanMMO\nGraphics: Bampikku, Theo K and Prism\nAudio: Ragchomp\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQyMTg1Mi8xNDM3MDg3OC5wbmc=/original/uUKhRB.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyMTg1Mi8xNDM3MDg4MC5wbmc=/original/JLjApC.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyMTg1Mi8xNDM3MDg3OS5wbmc=/original/L2gnrq.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyMTg1Mi8xNDM3MDg4MS5wbmc=/original/gG84K0.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Authors": "EvanMMO, Mehdi Kazim Alrubai, Emma Catherine, TTKurok",
+          "Genre": "Adventure, Puzzle",
+          "Tags": "big-mode, Dungeon Crawler, Pixel Art, Turn-based Strategy"
+        }
+      }
+    },
+    {
+      "gameId": 2425201,
+      "gameUrl": "https://twice-twice.itch.io/miss-paint",
+      "overallRank": 42,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 60,
+        "rating_count": 43,
+        "created_at": "2023-12-16 04:48:23",
+        "id": 484586,
+        "game": {
+          "user": {
+            "url": "https://twice-twice.itch.io",
+            "name": "twice-twice",
+            "id": 9385065
+          },
+          "title": "Miss Paint (GAME JAM VERSION)",
+          "cover": "https://img.itch.zone/aW1nLzE0MzU4NzcwLnBuZw==/300x240%23c/K74%2FIA.png",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "cover_color": "#bbb",
+          "id": 2425201,
+          "short_text": "a puzzle platformer you can draw on!",
+          "url": "https://twice-twice.itch.io/miss-paint"
+        },
+        "contributors": [
+          {
+            "name": "twice-twice",
+            "url": "https://twice-twice.itch.io"
+          },
+          {
+            "name": "wilfredtheboss",
+            "url": "https://wilfredtheboss.itch.io"
+          },
+          {
+            "name": "HackaKat",
+            "url": "https://hackakat.itch.io"
+          },
+          {
+            "name": "foggles",
+            "url": "https://foggles.itch.io"
+          },
+          {
+            "name": "jneen",
+            "url": "https://jneen.itch.io"
+          },
+          {
+            "name": "Canyyon",
+            "url": "https://canyyon.itch.io"
+          }
+        ],
+        "url": "/jam/bigmode-2023/rate/2425201"
+      },
+      "details": {
+        "title": "Miss Paint (GAME JAM VERSION)",
+        "description": "Play the new demo and wishlist now on Steam https://store.steampowered.com/app/2755990/Miss_Paint/An editable platformer!\nEnter edit mode in levels in a nostalgic Paint interface to lead Miss Paint to victory in this simple but surprisingly deep puzzle game!\nMake and play custom levels with any image editor!\nDownloaded version is recommended. The web version can be laggy.\nControls:\n\nWASD / Arrow Keys : Move\nSpace / Up : Jump\nE / Enter : Edit Mode\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQyNTIwMS8xNDM1ODcwNi5wbmc=/original/hv9Ats.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyNTIwMS8xNDM1ODcwNy5wbmc=/original/9j1%2FYo.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 4.9 out of 5 stars(21 total ratings)",
+          "Authors": "twice-twice, wilfredtheboss, HackaKat, foggles, jneen, Canyyon",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "2D, Female Protagonist, Level Editor, Non violent, Painting, Pixel Art, Puzzle-Platformer, Retro, Short"
+        }
+      }
+    },
+    {
+      "gameId": 2425545,
+      "gameUrl": "https://battlenaut.itch.io/shepherd-of-the-convergence",
+      "overallRank": 43,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 42,
+        "rating_count": 43,
+        "created_at": "2023-12-16 04:55:15",
+        "id": 484624,
+        "game": {
+          "title": "Shepherd of the Convergence",
+          "cover": "https://img.itch.zone/aW1nLzIwNTU5MTE3LnBuZw==/300x240%23c/mWfC9V.png",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "url": "https://battlenaut.itch.io",
+            "name": "Battlenaut",
+            "id": 5461073
+          },
+          "id": 2425545,
+          "short_text": "Will you bring Harmony or Chaos? Your choice in this tight 2D platformer with multiple endings.",
+          "url": "https://battlenaut.itch.io/shepherd-of-the-convergence"
+        },
+        "url": "/jam/bigmode-2023/rate/2425545"
+      },
+      "details": {
+        "title": "Shepherd of the Convergence",
+        "description": "CONTROLS:\nACTIONSKeyboardControllerMove Left\n L ARROW\nLEFT on Analog stick or D-Pad\nMove Right\nR ARROW\nRIGHT on Analog stick or D-Pad\nSwap DimensionsX\nRight Face Button (X on Xbox)\nJumpC\nBottom Face Button\n(A on Xbox)\nStrikeV\nRight Face Button\n(B on Xbox)\n\n*** This game was made in 20 days for the 2023 BigMode Game Jam ***\n\n\nOVERVIEW\nTwo Dimensions, Cyberpunk and Fantasy, once completely separate and distinct, are now beginning to converge. Nothing can stop the convergence, but as Shepherd of the Convergence, you decide if the two dimensions will merge in Harmony or in Chaos!\nUse your Staff of Convergence to strike beings you want to conjoin or split in this tight 2D puzzle platformer with 8-bit inspired Graphics and sounds!\nMULTIPLE ENDINGS\nTwo Different Ways to play! Each with their own unique ending!\n1. Separate all the Robots and the Creatures to ensure CHAOS ensues when the dimensions merge!\n2. Conjoin them all into Cyborgs to facilitate HARMONY when the dimensions merge!\nCHIPTUNE BEETHOVEN\nBeethoven! That’s the right, enjoy the  8-Bit chiptune version of Beethoven’s 5th symphony  arranged by me!\nNES INSPIRED GRAPHICS\nAll colors in the game come from the NES Palette. And the restrictions on colors per sprite/background tile are loosely followed.\nGAME JAM PROTOTYPE\nThis is a short prototype made for the 2023 Big Mode Game Jam. All Assets, graphics, sounds, code were made by me, Travis Battles, during the 2.5 week Jam!\nThe game was built on the free and open source HaxeFlixel framework. Sounds were made in sfxr. The chiptune Beethoven was made in FamiStudio.\nUPDATES\n3/7/2025: Converted the game to HTML build so it can be played In Browser!\n4/5/2025: Big Update!MINIMAP! Part of a UI overhaul. A small minimap in the top left and a small timer on the top right of the screen replace the old UI.Redesigned Background Tileset.Redesigned the Level layout.Level now split into distinct Rooms.Camera is now Room-based, instead of constantly following the player.New Animations for Player and the BeingsController Support!Platforming QOL (Coyote time, jump buffering, etc.)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQyNTU0NS8yMDU4MDMyNC5wbmc=/original/ZfY3Kp.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyNTU0NS8yMDU4MDMyMC5wbmc=/original/J6FHaB.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyNTU0NS8yMDU4MDMyMi5wbmc=/original/zMWr%2F%2B.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyNTU0NS8yMDU4MDMyMS5wbmc=/original/3B6eK5.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyNTU0NS8yMDU4MDMyMy5wbmc=/original/8ODyIe.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Battlenaut",
+          "Genre": "Platformer, Action",
+          "Made with": "OpenFL",
+          "Tags": "2D, Pixel Art, Puzzle-Platformer"
+        }
+      }
+    },
+    {
+      "gameId": 2426004,
+      "gameUrl": "https://ducc-devs.itch.io/modding-in-the-rat-kingdom",
+      "overallRank": 44,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 57,
+        "rating_count": 42,
+        "created_at": "2023-12-16 04:29:20",
+        "id": 484530,
+        "game": {
+          "user": {
+            "url": "https://ducc-devs.itch.io",
+            "name": "ducc",
+            "id": 64247
+          },
+          "title": "MODDING: in the rat kingdom",
+          "cover": "https://img.itch.zone/aW1nLzE0MzU5NDE4LnBuZw==/300x240%23c/gIZ5Dy.png",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#0c0c0c",
+          "id": 2426004,
+          "short_text": "mitrk",
+          "url": "https://ducc-devs.itch.io/modding-in-the-rat-kingdom"
+        },
+        "url": "/jam/bigmode-2023/rate/2426004"
+      },
+      "details": {
+        "title": "MODDING: in the rat kingdom",
+        "description": "YOU are a modder.MODDERS are underground doctors that do sick experimentations on rats.RATS fight in the ring for that sweet ratCoinExperiment with different builds, replace limbs, attach mods, nothing is off limits in the rat kingdom with a modder like you.---------------------------------------------------------------------------------------------------Features:build and upgrade your ratfight against other like minded rats, getting stronger the further you get.---------------------------------------------------------------------------------------------------this game was made in 2 and a half weeks for the BIGMODE gamejam, please enjoy, and remember to \"gamba\"RatOS out >",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQyNjAwNC8xNDM1OTQ2MC5wbmc=/original/h6StvP.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyNjAwNC8xNDM1OTQ1NS5wbmc=/original/Pivdxa.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyNjAwNC8xNDM1OTQ1Ni5wbmc=/original/muNhyO.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Author": "ducc",
+          "Genre": "Strategy, Puzzle, Simulation",
+          "Tags": "Indie, Point & Click, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 2421862,
+      "gameUrl": "https://kobemano.itch.io/little-stitches",
+      "overallRank": 45,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 49,
+        "rating_count": 42,
+        "created_at": "2023-12-16 04:22:52",
+        "id": 484504,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE0Mzg1NDc4LmdpZg==/300x240%23c/JdMTYn.gif",
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#212933",
+          "title": "Little Stitches",
+          "id": 2421862,
+          "user": {
+            "url": "https://kobemano.itch.io",
+            "name": "kobemano",
+            "id": 3036659
+          },
+          "gif_cover": "https://img.itch.zone/aW1nLzE0Mzg1NDc4LmdpZg==/original/FTSzPW.gif",
+          "short_text": "She Changes from Small Mode to Big Mode",
+          "url": "https://kobemano.itch.io/little-stitches"
+        },
+        "url": "/jam/bigmode-2023/rate/2421862"
+      },
+      "details": {
+        "title": "Little Stitches",
+        "description": "Little Stitches is a game about a girl who's constantly shrinking & growing, she changes from Big Mode to Small Mode. This is happening during one of the most prestigious fashion shows in the world!! That she's in!! Oh noo!!Small Mode How To: Draw thread to encircle items for the order\n'wasd' or 'arrows' -> move\n'left click' or 'space' -> Start drawing thread\nYou get more time in Big Mode, the more orders you completed in Small ModeBig Mode How To: Do poses that the crowd wants for points\n'wasd' or 'arrows' -> to do different pose\nMade for the Big Mode Game Jam, by:\nProgrammer & Maker:  Kobemano \nArt & Music: Kor ",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQyMTg2Mi8xNDM2MDIxNC5wbmc=/original/rzQIE0.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyMTg2Mi8xNDM2MDIxNS5wbmc=/original/AgwrGz.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyMTg2Mi8xNDM2MDc0MC5wbmc=/original/ZUYL5M.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyMTg2Mi8xNDM5MzU3Ni5naWY=/original/d1uW2D.gif",
+          "https://img.itch.zone/aW1hZ2UvMjQyMTg2Mi8xNDM5MzU4Mi5naWY=/original/6EuZ4t.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "kobemano",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "2D, Anime, Short"
+        }
+      }
+    },
+    {
+      "gameId": 2393249,
+      "gameUrl": "https://gator-gaming.itch.io/biggys-big-lunch",
+      "overallRank": 46,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 21,
+        "rating_count": 42,
+        "created_at": "2023-12-13 01:06:37",
+        "id": 483241,
+        "game": {
+          "title": "Biggy's Big Lunch",
+          "cover": "https://img.itch.zone/aW1nLzE0MzEwMDc3LnBuZw==/300x240%23c/VwO8Qq.png",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "url": "https://gator-gaming.itch.io",
+            "name": "gator-gaming",
+            "id": 8819729
+          },
+          "id": 2393249,
+          "short_text": "Help Biggy catch flies!",
+          "url": "https://gator-gaming.itch.io/biggys-big-lunch"
+        },
+        "url": "/jam/bigmode-2023/rate/2393249"
+      },
+      "details": {
+        "title": "Biggy's Big Lunch",
+        "description": "Biggy's hungry! Help him eat flies in his (apparently Floridian) swamp!\nBe careful to avoid the logs and alligators, or else they'll steal all of Biggy's YouTube subscribers! (features multiple death sounds! try to collect them all! :]  )\nDon't worry, eating flies will charge up Biggy's gamer meter and when it's full, you can activate X-FACTOR MODE. In this mode you are invincible and your attack/thrust cooldown are reduced!\naside from that just try for the highest score lol\nCONTROLS:MOUSE = AimLEFT CLICK = Shoot tongueSPACE = Thrust in the direction you're facingRIGHT CLICK = Activate X-FACTOR MODE (when charge is full)\nCREDITS:Art & Coding: MeMusic: Kevin MacLeodSound: Random stuff from YouTube & dunkey voice clips\nNOTE FOR MAC USERS: It takes a minute or two to load (also how are you playing on a hamburger? lol)",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE0MzEwMDc3LnBuZw==/original/4bBcWi.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.0 out of 5 stars(2 total ratings)",
+          "Author": "gator-gaming",
+          "Genre": "Action",
+          "Made with": "Godot",
+          "Tags": "biggy, bigmode"
+        }
+      }
+    },
+    {
+      "gameId": 2417098,
+      "gameUrl": "https://tier-87-games.itch.io/modeguy2000",
+      "overallRank": 47,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 18,
+        "rating_count": 42,
+        "created_at": "2023-12-16 04:46:13",
+        "id": 484575,
+        "game": {
+          "user": {
+            "url": "https://tier-87-games.itch.io",
+            "name": "Tier 87 Games",
+            "id": 5373376
+          },
+          "title": "MODEGUY2000",
+          "cover": "https://img.itch.zone/aW1nLzE0MzUzMTUxLnBuZw==/300x240%23c/eu%2BFHL.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#ffcc00",
+          "id": 2417098,
+          "short_text": "A tactical puzzler about a robot and his modes",
+          "url": "https://tier-87-games.itch.io/modeguy2000"
+        },
+        "contributors": [
+          {
+            "name": "Tier 87 Games",
+            "url": "https://tier-87-games.itch.io"
+          },
+          {
+            "name": "jkamalu",
+            "url": "https://jkamalu.itch.io"
+          },
+          {
+            "name": "Daniel Leclair",
+            "url": "https://danielsleclair.itch.io"
+          },
+          {
+            "name": "Sound Guy Jeff",
+            "url": "https://soundguyjeff.itch.io"
+          }
+        ],
+        "url": "/jam/bigmode-2023/rate/2417098"
+      },
+      "details": {
+        "title": "MODEGUY2000",
+        "description": "Features: \nMODEGUY2000 is a puzzle game built on traversing a colorful hand-drawn world using different and unique MODES! Each level is hand crafted to give your brain that A-HA moment that you're craving. Featuring original music by Jordan Kamalu and Sound Design by Jeff Carpenter, you will immediately be immersed in this charming little world.\nContributors:\nAndrew Leclair - Art/Programming\nDaniel Leclair - Programming\nJeff Carpenter - Sound Design\nOriginal Music by Jordan Kamalu",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQxNzA5OC8xNDM1OTc2OC5wbmc=/original/gGMawc.png",
+          "https://img.itch.zone/aW1hZ2UvMjQxNzA5OC8xNDM1NDM3Mi5wbmc=/original/SJ6rjg.png",
+          "https://img.itch.zone/aW1hZ2UvMjQxNzA5OC8xNDM1NDM3MS5wbmc=/original/F6cbV%2F.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(6 total ratings)",
+          "Authors": "Tier 87 Games, jkamalu, Daniel Leclair, Sound Guy Jeff",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "bigmode, dunkey, Game Jam, handdrawn, Robots, Tactical"
+        }
+      }
+    },
+    {
+      "gameId": 2417082,
+      "gameUrl": "https://liberomasini.itch.io/leftonread",
+      "overallRank": 48,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 73,
+        "rating_count": 41,
+        "created_at": "2023-12-16 03:07:53",
+        "id": 484416,
+        "game": {
+          "user": {
+            "url": "https://liberomasini.itch.io",
+            "name": "Libero Masini",
+            "id": 31498
+          },
+          "title": "left on read",
+          "cover": "https://img.itch.zone/aW1nLzE0MzkxNDUxLnBuZw==/300x240%23c/PJq28n.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#5ccdf5",
+          "id": 2417082,
+          "short_text": "Please put your phones in airplane mode.",
+          "url": "https://liberomasini.itch.io/leftonread"
+        },
+        "contributors": [
+          {
+            "name": "Libero Masini",
+            "url": "https://liberomasini.itch.io"
+          },
+          {
+            "name": "Antea ✮⋆˙",
+            "url": "https://stcrbcn.itch.io"
+          },
+          {
+            "name": "Montoya",
+            "url": "https://unclimainfame.itch.io"
+          },
+          {
+            "name": "Keivan Ameri",
+            "url": "https://keivanameri.itch.io"
+          },
+          {
+            "name": "Andrea Guerriero",
+            "url": "https://andreawarrior.itch.io"
+          }
+        ],
+        "url": "/jam/bigmode-2023/rate/2417082"
+      },
+      "details": {
+        "title": "left on read",
+        "description": "\nHello everyone this is your Captain speaking, we will depart shortly so I'll guide you through the proper procedures.\nThank you for flying with us today, we kindly ask you buckle your belts, keep your window shaders up and remain seated during the lift-off operations. We remind you that your phones should be in airplane mode at ALL times, for safety reasons.Thank you for your cooperation.\nThis game is a submission for the Bigmode Game Jam 2023. It should take about ten minutes to complete, as long as the weather keeps up.\nDuring the flight, our beautiful flight assistant will randomly pass through to check that you all are keeping your phones in airplane mode, as interference from your phone might actually crash the plane. If she catches you with your phone NOT in airplane mode she might just take it from you. A really handy bar will tell you how much interference the plane can take before it fries our navigation systems, so I suggest you check it out.\nAlso be sure to not disturb your sleeping fellow passengers as they will call on our flight assistant. They're kind of douchebags, but hey, they payed a ticket.\nOn your phone you will find some really useful apps, and although we suggest you DON'T answer any messages, if you deactivate the airplane mode you can access, receive and send texts to your loved ones and to your work.\nHere's our crew:\nIn the coding cockpitLibero Masini - linkedinKeivan Ameri - personal website\nin the art wingAntea Chiariello - personal website \nin the music and sfx cabinAndrea Guerriero - Linktr.ee\nin the story engineMontoya - itch.io \nOurs is a very small crew with wildly different backgrounds and experiences and we're still learning the basics of videogame making. Feedbacks are much appreciated, so leave us comments!\nEnjoy your flight.Known bugs:(Some emoji might be broken due to the html5 port, in our testing, this has been fixed, but should you have issues with that we suggest downloading the windows build)\nSome timers are too fast for the natural progression of the game and it's possible that the messages lines would end too soon related to the game time. A run finishes at the ten minutes mark anyway, so you might have to wait to get to the game over screen.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQxNzA4Mi8xNDM1ODgwOC5wbmc=/original/tEjaWs.png",
+          "https://img.itch.zone/aW1hZ2UvMjQxNzA4Mi8xNDM1ODgxMS5wbmc=/original/bGNxZP.png",
+          "https://img.itch.zone/aW1hZ2UvMjQxNzA4Mi8xNDM1ODgxMi5wbmc=/original/LH8qg4.png",
+          "https://img.itch.zone/aW1hZ2UvMjQxNzA4Mi8xNDM1ODgzNi5wbmc=/original/UzqESu.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Authors": "Libero Masini, Antea ✮⋆˙, Montoya, Keivan Ameri, Andrea Guerriero",
+          "Genre": "Visual Novel, Puzzle",
+          "Made with": "Godot",
+          "Tags": "2D, Clicker, Godot, Mystery, Narrative, Pixel Art, Short",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 2425684,
+      "gameUrl": "https://zidsmith.itch.io/cellshocked",
+      "overallRank": 49,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 51,
+        "rating_count": 41,
+        "created_at": "2023-12-16 03:53:43",
+        "id": 484463,
+        "game": {
+          "user": {
+            "url": "https://zidsmith.itch.io",
+            "name": "Zidsmith",
+            "id": 8160735
+          },
+          "title": "CellShocked",
+          "cover": "https://img.itch.zone/aW1nLzE0MzU5NDU4LmpwZw==/300x240%23c/V7dZKl.jpg",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#1e1e1e",
+          "id": 2425684,
+          "short_text": "Top down bullet hell shooter with a \"small\" twist",
+          "url": "https://zidsmith.itch.io/cellshocked"
+        },
+        "contributors": [
+          {
+            "name": "Zidsmith",
+            "url": "https://zidsmith.itch.io"
+          },
+          {
+            "name": "cho.binz",
+            "url": "https://chobinz.itch.io"
+          }
+        ],
+        "url": "/jam/bigmode-2023/rate/2425684"
+      },
+      "details": {
+        "title": "CellShocked",
+        "description": "CellShocked is a top-down bullet hell shooter. \nEnter the human body and destroy deadly viruses. \nIf their onslaught is too much to handle, switch into small mode letting you dodge more easily. Protect your nucleus above all else. \nControls\nController recommended\nWASD or Analog stick to move\nHold space bar or Right Trigger to switch modes\nP / Esc / Pause to pause \n\nThis game was made for the BigMode Game Jam 2023. \n\nGame Design: Tamzid Mahmood\n3D Art: Robin Cho, Nathan Estrabillo \n2D & Concept Art: Aldi AbujanUnpack the zip file and open CellShocked.exe to run the game. ",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQyNTY4NC8xNDM1OTQ2NS5qcGVn/original/wJvD%2B1.jpeg",
+          "https://img.itch.zone/aW1hZ2UvMjQyNTY4NC8xNDM1OTQ2Ni5qcGVn/original/MmpLdq.jpeg",
+          "https://img.itch.zone/aW1hZ2UvMjQyNTY4NC8xNDM1OTQ2Ny5qcGVn/original/YNnFjo.jpeg",
+          "https://img.itch.zone/aW1hZ2UvMjQyNTY4NC8xNDM1OTY2Ny5naWY=/original/vssnl%2B.gif"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Authors": "Zidsmith, cho.binz",
+          "Genre": "Shooter",
+          "Tags": "Bullet Hell, Retro, Top down shooter"
+        }
+      }
+    },
+    {
+      "gameId": 2425014,
+      "gameUrl": "https://pneumajams.itch.io/frontline-froggy",
+      "overallRank": 50,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 50,
+        "rating_count": 41,
+        "created_at": "2023-12-16 03:41:42",
+        "id": 484452,
+        "game": {
+          "user": {
+            "url": "https://pneumajams.itch.io",
+            "name": "PneumaJams",
+            "id": 8542011
+          },
+          "title": "Frontline Froggy",
+          "cover": "https://img.itch.zone/aW1nLzE0MzU1NTA4LnBuZw==/300x240%23c/5Ul0y7.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#1764b2",
+          "id": 2425014,
+          "short_text": "Stylized Bullet-hell",
+          "url": "https://pneumajams.itch.io/frontline-froggy"
+        },
+        "contributors": [
+          {
+            "name": "PneumaJams",
+            "url": "https://pneumajams.itch.io"
+          },
+          {
+            "name": "Buzzsawjonez",
+            "url": "https://buzzsawjonez.itch.io"
+          },
+          {
+            "name": "Olin the Producer",
+            "url": "https://olintheproducer.itch.io"
+          },
+          {
+            "name": "JadonZen",
+            "url": "https://jadonzen.itch.io"
+          },
+          {
+            "name": "SculptKid",
+            "url": "https://sculptkid.itch.io"
+          },
+          {
+            "name": "CholfyJams",
+            "url": "https://cholfyjams.itch.io"
+          }
+        ],
+        "url": "/jam/bigmode-2023/rate/2425014"
+      },
+      "details": {
+        "title": "Frontline Froggy",
+        "description": "Please Note:BEST EXPERIENCED ON WINDOWS BUILD WITH A CONTROLLER This pond won't defend itself, and you're all we've got soldier! The enemy has taken out all of our remote operations! Pick up randomized modes and modifiers along the way for a unique play session every time! Fend off waves of enemies, and survive the ultimate challenge!\nControls:\n\nPS5:\n\nLeft Joystick - Move\nRight Joystick - Aim\nRight Trigger - Shoot and Select\n\n\n\nKeyboard: (Not Preferred)\n\nWASD - Move\nArrows - Aim\nSpace Bar - Shoot and Select\n\n\n\n\n\nTeam:\n\nOlin Anderson\nWarren Anderson\nSculptKid\nJadonZen\nBuzzsawjonez",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjQyNTAxNC8xNDM1OTM1MS5wbmc=/original/1xyrPV.png",
+          "https://img.itch.zone/aW1hZ2UvMjQyNTAxNC8xNDM1OTM2Mi5wbmc=/original/54bsZD.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.7 out of 5 stars(3 total ratings)",
+          "Authors": "PneumaJams, Buzzsawjonez, Olin the Producer, JadonZen, SculptKid, CholfyJams",
+          "Genre": "Shooter",
+          "Made with": "Unity",
+          "Tags": "Arcade, Bullet Hell, Shoot 'Em Up, Singleplayer, Top down shooter, Twin Stick Shooter"
+        }
+      }
+    }
+  ]
+}

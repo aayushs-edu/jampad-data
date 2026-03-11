@@ -1,0 +1,4853 @@
+{
+  "n": 82,
+  "name": "FishFest",
+  "url": "https://itch.io/jam/fishfest",
+  "theme": "Fish",
+  "slug": "fishfest",
+  "jamMeta": {
+    "jamType": "ended",
+    "ratings": "7,006",
+    "entries": "554",
+    "title": "FishFest",
+    "jamURL": "https://itch.io/jam/fishfest",
+    "hosts": {
+      "PossiblyAxolotl": "https://possiblyaxolotl.itch.io",
+      "#fishfest": "https://bsky.app/hashtag/fishfest"
+    },
+    "jamID": "386626"
+  },
+  "totalEntries": 537,
+  "ranked": true,
+  "hasCategories": true,
+  "needsManualSelection": false,
+  "categories": [
+    "Fun",
+    "Visuals",
+    "Creativity",
+    "Audio",
+    "Fishiness(?)"
+  ],
+  "topGames": [
+    {
+      "gameId": 2632195,
+      "gameUrl": "https://itella-itella.itch.io/hook-line-sniper-jam-version",
+      "overallRank": 1,
+      "topCategories": [
+        "Fun",
+        "Creativity",
+        "Audio",
+        "Fishiness(?)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1Njg0NDQxLnBuZw==/300x240%23c/TG3u4D.png",
+        "id": 2632195,
+        "contributors": [
+          {
+            "name": "Itella Itella",
+            "id": 7266443
+          },
+          {
+            "name": "Justin1L8",
+            "id": 5060991
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Fun",
+            "raw_score": 4.7777777777778,
+            "rank": 1,
+            "score": 4.7777777777778
+          },
+          {
+            "name": "Visuals",
+            "raw_score": 4.4444444444444,
+            "rank": 25,
+            "score": 4.4444444444444
+          },
+          {
+            "name": "Creativity",
+            "raw_score": 4.4666666666667,
+            "rank": 7,
+            "score": 4.4666666666667
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.1777777777778,
+            "rank": 4,
+            "score": 4.1777777777778
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 4.5555555555556,
+            "rank": 14,
+            "score": 4.5555555555556
+          }
+        ],
+        "title": "Hook Line & Sniper | Jam Version",
+        "score": 4.4844444444444,
+        "rank": 1,
+        "raw_score": 4.4844444444444,
+        "rating_count": 45,
+        "url": "https://itch.io/jam/fishfest/rate/2632195"
+      },
+      "entryData": {
+        "coolness": 12,
+        "url": "/jam/fishfest/rate/2632195",
+        "id": 526501,
+        "created_at": "2024-04-08 21:21:41",
+        "contributors": [
+          {
+            "name": "Itella Itella",
+            "url": "https://itella-itella.itch.io"
+          },
+          {
+            "name": "Justin1L8",
+            "url": "https://justin1l8.itch.io"
+          }
+        ],
+        "rating_count": 45,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE1Njg0NDQxLnBuZw==/300x240%23c/TG3u4D.png",
+          "title": "Hook Line & Sniper | Jam Version",
+          "cover_color": "#2b82ce",
+          "id": 2632195,
+          "short_text": "A Fast-Paced Arcade Shooter About a Goldfish with a Sniper Rifle Grappling Hook",
+          "platforms": [
+            "windows",
+            "linux",
+            "web"
+          ],
+          "user": {
+            "name": "Itella Itella",
+            "url": "https://itella-itella.itch.io",
+            "id": 7266443
+          },
+          "url": "https://itella-itella.itch.io/hook-line-sniper-jam-version"
+        }
+      },
+      "details": {
+        "title": "Hook Line & Sniper | Jam Version",
+        "description": "# Check Out The Full Game! itch.io, Steam\nThis game was made in 3 days as part of a game jam. We've since been adding to it for the past 11 months! This is where it all started. \n===================\nYou're a fish. Take your rifle, rack up those points, and go on the  ultimate krilling spree.\n===================\nJustin1L8 - Programming & UX\nJoshua \"ItellaItella\" Gaines - Sound Design & Artist\n===================\n* Submission to Fish Fest Game Jam & GADIG JamFest Game Jam *",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjYzMjE5NS8xNTY4NDYwMy5naWY=/original/dGcVgz.gif",
+          "https://img.itch.zone/aW1hZ2UvMjYzMjE5NS8xNTY4NDYwOC5qcGc=/original/seasjj.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjYzMjE5NS8xNTY4NDYxMC5qcGc=/original/BMKLAB.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjYzMjE5NS8xNTY4NDcyNy5wbmc=/original/y%2BpNiJ.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, Linux",
+          "Rating": "Rated 4.5 out of 5 stars(4 total ratings)",
+          "Authors": "Itella Itella, Justin1L8",
+          "Genre": "Action, Shooter",
+          "Made with": "Godot",
+          "Tags": "2D, Arcade, Fishing, Pixel Art, underwater",
+          "Average session": "A few minutes",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 2632344,
+      "gameUrl": "https://d3nji.itch.io/ninja-of-the-deep",
+      "overallRank": 6,
+      "topCategories": [
+        "Fun",
+        "Creativity"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1NzEyNjgxLmdpZg==/300x240%23c/PQ5ycY.gif",
+        "id": 2632344,
+        "contributors": [
+          {
+            "name": "Denji",
+            "id": 1422149
+          },
+          {
+            "name": "El Fideo Rubio ( Héctor )",
+            "id": 1459917
+          },
+          {
+            "name": "Discorde",
+            "id": 9800406
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "raw_score": 4.7,
+            "rank": 1,
+            "score": 4.7
+          },
+          {
+            "name": "Fun",
+            "raw_score": 4.6,
+            "rank": 2,
+            "score": 4.6
+          },
+          {
+            "name": "Visuals",
+            "raw_score": 3.9,
+            "rank": 88,
+            "score": 3.9
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.8,
+            "rank": 39,
+            "score": 3.8
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 4.2,
+            "rank": 85,
+            "score": 4.2
+          }
+        ],
+        "title": "Ninja of the Deep",
+        "score": 4.24,
+        "rank": 6,
+        "raw_score": 4.24,
+        "rating_count": 10,
+        "url": "https://itch.io/jam/fishfest/rate/2632344"
+      },
+      "entryData": {
+        "coolness": 13,
+        "url": "/jam/fishfest/rate/2632344",
+        "id": 526532,
+        "created_at": "2024-04-08 21:46:49",
+        "contributors": [
+          {
+            "name": "Denji",
+            "url": "https://d3nji.itch.io"
+          },
+          {
+            "name": "El Fideo Rubio ( Héctor )",
+            "url": "https://el-fideo-rubio.itch.io"
+          },
+          {
+            "name": "Discorde",
+            "url": "https://d-i-s-c-o-r-d-e.itch.io"
+          }
+        ],
+        "rating_count": 10,
+        "game": {
+          "gif_cover": "https://img.itch.zone/aW1nLzE1NzEyNjgxLmdpZg==/original/BG5m2O.gif",
+          "id": 2632344,
+          "user": {
+            "name": "Denji",
+            "url": "https://d3nji.itch.io",
+            "id": 1422149
+          },
+          "cover": "https://img.itch.zone/aW1nLzE1NzEyNjgxLmdpZg==/300x240%23c/PQ5ycY.gif",
+          "title": "Ninja of the Deep",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#d79d85",
+          "short_text": "Fishjutsu",
+          "url": "https://d3nji.itch.io/ninja-of-the-deep"
+        }
+      },
+      "details": {
+        "title": "Ninja of the Deep",
+        "description": "\nWelcome to Ninja of the Deep! \nFish game unlike any other! 3D puzzle platformer, where you'll dive into the depths as Finley the Ninjafish.Harness the power of water blending to overcome challenging obstacles and navigate through the remnants of an ancient ninja temple.\n\n\n\n\nCredits:\nProgramming:\nEl fideo Rubio \n3D Art:\nDenji - Character models         \nSound Design:\nDiscorde - Music composer\nLevel Design:\nDenji          \nGame Design:\nDenji\nEl fideo Rubio          \n\n\nTools used:https://freesound.org/https://www.unrealengine.com/marketplace/en-US/product/watermills-nature-environment?sessionInvalidated=true\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjYzMjM0NC8xNTY5NzAwMC5wbmc=/original/mqEMgN.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMjM0NC8xNTY5NzAwNS5wbmc=/original/8Mj2sZ.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMjM0NC8xNTY5NzAwMS5wbmc=/original/pmlG06.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMjM0NC8xNTY5NzAwNi5wbmc=/original/CUTQbA.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMjM0NC8xNTY5NzAwMy5wbmc=/original/0Zp%2Brg.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMjM0NC8xNTY5NzAwMi5wbmc=/original/TokPUY.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMjM0NC8xNTY5NzAwNy5wbmc=/original/nbn0b8.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMjM0NC8xNTY5NzAwNC5wbmc=/original/k9DEx4.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "Denji, El Fideo Rubio ( Héctor ), Discorde",
+          "Genre": "Platformer",
+          "Tags": "3D, 3D Platformer, Fishing, Ninja, Puzzle-Platformer, Third Person, Third-Person Shooter"
+        }
+      }
+    },
+    {
+      "gameId": 2631016,
+      "gameUrl": "https://hkendo.itch.io/fish-n-chips",
+      "overallRank": 26,
+      "topCategories": [
+        "Fun"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1Njc4MDYzLnBuZw==/300x240%23c/Fcnede.png",
+        "id": 2631016,
+        "contributors": [
+          {
+            "name": "HKendo",
+            "id": 6316392
+          },
+          {
+            "name": "RalpharDev",
+            "id": 6005147
+          },
+          {
+            "name": "TARA A-RAT",
+            "id": 10079093
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "raw_score": 3.7714285714286,
+            "rank": 107,
+            "score": 3.7714285714286
+          },
+          {
+            "name": "Visuals",
+            "raw_score": 4.0285714285714,
+            "rank": 73,
+            "score": 4.0285714285714
+          },
+          {
+            "name": "Fun",
+            "raw_score": 4.5142857142857,
+            "rank": 3,
+            "score": 4.5142857142857
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.0285714285714,
+            "rank": 17,
+            "score": 4.0285714285714
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 3.7714285714286,
+            "rank": 190,
+            "score": 3.7714285714286
+          }
+        ],
+        "title": "Fish n Chips",
+        "score": 4.0228571428571,
+        "rank": 26,
+        "raw_score": 4.0228571428571,
+        "rating_count": 35,
+        "url": "https://itch.io/jam/fishfest/rate/2631016"
+      },
+      "entryData": {
+        "coolness": 28,
+        "url": "/jam/fishfest/rate/2631016",
+        "id": 526386,
+        "created_at": "2024-04-08 18:46:13",
+        "contributors": [
+          {
+            "name": "HKendo",
+            "url": "https://hkendo.itch.io"
+          },
+          {
+            "name": "RalpharDev",
+            "url": "https://ralphar.itch.io"
+          },
+          {
+            "name": "TARA A-RAT",
+            "url": "https://tara-a-rat.itch.io"
+          }
+        ],
+        "rating_count": 35,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE1Njc4MDYzLnBuZw==/300x240%23c/Fcnede.png",
+          "title": "Fish n Chips",
+          "cover_color": "#0b65e6",
+          "id": 2631016,
+          "short_text": "A Fish Tower Defense Game where you can merge towers",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "HKendo",
+            "url": "https://hkendo.itch.io",
+            "id": 6316392
+          },
+          "url": "https://hkendo.itch.io/fish-n-chips"
+        }
+      },
+      "details": {
+        "title": "Fish n Chips",
+        "description": "Fish n Chips \n(Desktop Version recommended)\n\nIntroduction:        \n        Fish n Chips is a tower defense game where the Fish and the Chips put aside their differences to help protect the Nimbus Tower from the spirits of animals (and British food for some reasons) \n        The Fish are weaker but strong in numbers while the chips have the technology but lack versatility. Combine the powers (and units!!) of the two race to defend against 30 waves of relentless animal spirits. What to expect: \n8 Towers (2 Fish, 2 Chips and 4 Fish n Chips)\n30 Waves of enemies\n7 Enemies\n1 Map and 1 Difficulty (damn)\nA bunch of jokes about food and computer science\n\nHow to Play:\n        Like any other tower defense game BUT you can click and drag certain towers to merge them together! (more specifically fish and chips, get it?)\n Lore: \n        Many years after humans transfer their consciousness into the Nimbus Tower, marine animals rise up with the sea levels and cover all lands. Over time, what seems to be spirits begin rising up from the depths of the ocean, towards the Nimbus Tower. The marine animals and computer chips were force to help each other.\n\n\na submission to the FishFest game jam\nmade by:\nHKendo (Programmer)Ralphar (Game Designer) TARA A-RAT (Music and Art)\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjYzMTAxNi8xNTY5Mjk2MC5wbmc=/original/sL96q9.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMTAxNi8xNTY5Mjk1OC5wbmc=/original/90Hupe.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMTAxNi8xNTY5Mjk1OS5wbmc=/original/lFPdUA.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMTAxNi8xNTY5Mjk1Ni5wbmc=/original/1Xk54J.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMTAxNi8xNTY5Mjk1Ny5wbmc=/original/c%2Fx5Sr.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Authors": "HKendo, RalpharDev, TARA A-RAT",
+          "Genre": "Strategy",
+          "Made with": "Aseprite, Godot",
+          "Tags": "fish, Tower Defense",
+          "Average session": "A few minutes",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 2633653,
+      "gameUrl": "https://sunnycat-dev.itch.io/fishes-vs-crabs",
+      "overallRank": 80,
+      "topCategories": [
+        "Fun",
+        "Fishiness(?)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1NjkzNDAxLnBuZw==/300x240%23c/oxpIwI.png",
+        "id": 2633653,
+        "contributors": [
+          {
+            "name": "sunnycat",
+            "id": 10225297
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Visuals",
+            "raw_score": 2.8709677419355,
+            "rank": 276,
+            "score": 2.8709677419355
+          },
+          {
+            "name": "Fun",
+            "raw_score": 4.3870967741935,
+            "rank": 5,
+            "score": 4.3870967741935
+          },
+          {
+            "name": "Creativity",
+            "raw_score": 3.6451612903226,
+            "rank": 142,
+            "score": 3.6451612903226
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 4.6451612903226,
+            "rank": 4,
+            "score": 4.6451612903226
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.2258064516129,
+            "rank": 141,
+            "score": 3.2258064516129
+          }
+        ],
+        "title": "Fishes vs Crabs",
+        "score": 3.7548387096774,
+        "rank": 80,
+        "raw_score": 3.7548387096774,
+        "rating_count": 31,
+        "url": "https://itch.io/jam/fishfest/rate/2633653"
+      },
+      "entryData": {
+        "coolness": 53,
+        "id": 526397,
+        "created_at": "2024-04-08 19:06:29",
+        "url": "/jam/fishfest/rate/2633653",
+        "rating_count": 31,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE1NjkzNDAxLnBuZw==/300x240%23c/oxpIwI.png",
+          "title": "Fishes vs Crabs",
+          "cover_color": "#0ba0e1",
+          "id": 2633653,
+          "short_text": "Protect fish house from the invading crabs! My fishfest submission.",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "sunnycat",
+            "url": "https://sunnycat-dev.itch.io",
+            "id": 10225297
+          },
+          "url": "https://sunnycat-dev.itch.io/fishes-vs-crabs"
+        }
+      },
+      "details": {
+        "title": "Fishes vs Crabs",
+        "description": "This tower defense game puts you in  the fins of mighty aquatic creatures, using strategic fish towers to fend off relentless onslaught of invasive crabs threatening to breach your underwater sanctuary.\nCreated for Fishfest\n\n\nControls:\nUse mouse for playing.\nCancel - Right click\nPause - Esc/Space\n\nAssets used:\nPixabay:\nsounds:\nUnderwater Movement Whoosh 1 by floraphonic\nWater Jump Splash Pool by Alex_Jauk\nPillow Hit by SoundReality\nBalloon Inflation by Pixabay\nSuccess Fanfare Trumpets by Pixabay\nFolding by Pixabay\nsand_stepb by Pixabay\nZombie Bite by Pixabay\nleafpilehit by Pixabay\nUnderwater Movement Whoosh 4 by floraphonic\nRock destroy by Pixabay\nPiano crash sound by Pixabay\nMusic:\nDance Gabino. Latin Slap House version Background music for video vlog by White_Records\nAction Drums 6 by Ashenrise\nThe Bonfire Smoke by oliver_dee\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjYzMzY1My8xNTY5MzQwOS5wbmc=/original/ZsD%2FbP.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMzY1My8xNTY5MzQxMC5wbmc=/original/1StSIr.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Author": "sunnycat",
+          "Genre": "Strategy",
+          "Made with": "Godot",
+          "Tags": "Short, Singleplayer, Tower Defense"
+        }
+      }
+    },
+    {
+      "gameId": 2632612,
+      "gameUrl": "https://skosnowich.itch.io/bottom-of-the-blue",
+      "overallRank": 3,
+      "topCategories": [
+        "Fun",
+        "Visuals",
+        "Audio",
+        "Fishiness(?)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1NzMxNTc3LnBuZw==/300x240%23c/WIgNhz.png",
+        "id": 2632612,
+        "contributors": [
+          {
+            "name": "Skosnowich",
+            "id": 228250
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "raw_score": 4.0909090909091,
+            "rank": 39,
+            "score": 4.0909090909091
+          },
+          {
+            "name": "Visuals",
+            "raw_score": 4.7272727272727,
+            "rank": 3,
+            "score": 4.7272727272727
+          },
+          {
+            "name": "Fun",
+            "raw_score": 4.3636363636364,
+            "rank": 6,
+            "score": 4.3636363636364
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 4.6363636363636,
+            "rank": 5,
+            "score": 4.6363636363636
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.4545454545455,
+            "rank": 1,
+            "score": 4.4545454545455
+          }
+        ],
+        "title": "Bottom of the Blue",
+        "score": 4.4545454545455,
+        "rank": 3,
+        "raw_score": 4.4545454545455,
+        "rating_count": 11,
+        "url": "https://itch.io/jam/fishfest/rate/2632612"
+      },
+      "entryData": {
+        "coolness": 24,
+        "id": 526422,
+        "created_at": "2024-04-08 19:43:11",
+        "url": "/jam/fishfest/rate/2632612",
+        "rating_count": 11,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE1NzMxNTc3LnBuZw==/300x240%23c/WIgNhz.png",
+          "title": "Bottom of the Blue",
+          "cover_color": "#00093c",
+          "id": 2632612,
+          "short_text": "An immersive underwater exploration game playing as a blue tang",
+          "platforms": [
+            "windows",
+            "linux"
+          ],
+          "user": {
+            "name": "Skosnowich",
+            "url": "https://skosnowich.itch.io",
+            "id": 228250
+          },
+          "url": "https://skosnowich.itch.io/bottom-of-the-blue"
+        }
+      },
+      "details": {
+        "title": "Bottom of the Blue",
+        "description": "Dive into \"Bottom of the Blue\", an immersive underwater exploration game where you navigate the deep sea as a blue tang, uncovering hidden secrets and immerse yourself in the atmospheric underwater world.\n\nOverview\nIn this 3D game you explore an open underwater world to unlock as much achievements as possible. But beware to not swim too far out, because you might be easy catch for predators.\nThe goal in this game is to explore and have a good time.\nYou control the character by using W, S, A, D for movement and looking around with your mouse. With holding Shift, you have a limited sprint. Use Space to swim upwards and X/C to swim downwards.\nAchievements are listed in the menu (ESC) where you only see the title and an image for unachieved entries.\nControls\nW, S, A, D - movementMouse - look aroundShift - sprintingSpace - swim upX/C - swim downESC - open menuScroll mouse wheel - Zoom in/Zoom out\nBehind the scenes\nThe game was developed using Godot Engine and C#. The graphical assets are made by myself. The sounds and music are third-party assets. This game was created in a week as a submission for the game jam \"Fish Fest\".\nDownloads\nWindows & Linux builds are successfully tested (Linux build was tested on Steam Deck and works if you configure your controls accordingly :)).",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjYzMjYxMi8xNTY4NzI2My5wbmc=/original/eAWbZv.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMjYxMi8xNTY4NzI2Ni5wbmc=/original/dF0iDr.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMjYxMi8xNTY4NzI2Mi5wbmc=/original/Wsglww.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMjYxMi8xNTcyMTMzNy5wbmc=/original/Qko7ar.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMjYxMi8xNTcyMTMzNi5wbmc=/original/27YrRZ.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMjYxMi8xNTY4NzI2NC5wbmc=/original/EweyWt.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMjYxMi8xNTY4NzI2NS5wbmc=/original/%2BIj67i.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, Linux",
+          "Author": "Skosnowich",
+          "Genre": "Adventure",
+          "Tags": "3D, achievements, Animals, Atmospheric, completionist, Cozy, Exploration, fish, Godot, underwater"
+        }
+      }
+    },
+    {
+      "gameId": 2629694,
+      "gameUrl": "https://rhum.itch.io/the-last-shell",
+      "overallRank": 4,
+      "topCategories": [
+        "Fun",
+        "Visuals",
+        "Creativity",
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1NjkxOTg3LnBuZw==/300x240%23c/SgL6Vf.png",
+        "id": 2629694,
+        "contributors": [
+          {
+            "name": "rhum",
+            "id": 1356626
+          },
+          {
+            "name": "Matthis Pillonel",
+            "id": 1360048
+          },
+          {
+            "name": "STEVO+",
+            "id": 2401929
+          },
+          {
+            "name": "deltari!",
+            "id": 6726763
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Fun",
+            "raw_score": 4.3181818181818,
+            "rank": 7,
+            "score": 4.3181818181818
+          },
+          {
+            "name": "Creativity",
+            "raw_score": 4.5909090909091,
+            "rank": 4,
+            "score": 4.5909090909091
+          },
+          {
+            "name": "Visuals",
+            "raw_score": 4.7272727272727,
+            "rank": 3,
+            "score": 4.7272727272727
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.0909090909091,
+            "rank": 8,
+            "score": 4.0909090909091
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 4.3409090909091,
+            "rank": 53,
+            "score": 4.3409090909091
+          }
+        ],
+        "title": "The Last Shell",
+        "score": 4.4136363636364,
+        "rank": 4,
+        "raw_score": 4.4136363636364,
+        "rating_count": 44,
+        "url": "https://itch.io/jam/fishfest/rate/2629694"
+      },
+      "entryData": {
+        "coolness": 51,
+        "url": "/jam/fishfest/rate/2629694",
+        "id": 526228,
+        "created_at": "2024-04-08 10:14:07",
+        "contributors": [
+          {
+            "name": "rhum",
+            "url": "https://rhum.itch.io"
+          },
+          {
+            "name": "Matthis Pillonel",
+            "url": "https://no0801.itch.io"
+          },
+          {
+            "name": "STEVO+",
+            "url": "https://stevoleblanc.itch.io"
+          },
+          {
+            "name": "deltari!",
+            "url": "https://seachowder.itch.io"
+          }
+        ],
+        "rating_count": 44,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE1NjkxOTg3LnBuZw==/300x240%23c/SgL6Vf.png",
+          "title": "The Last Shell",
+          "cover_color": "#0b2258",
+          "id": 2629694,
+          "short_text": "The shell is within reach. Will you claim it?",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "rhum",
+            "url": "https://rhum.itch.io",
+            "id": 1356626
+          },
+          "url": "https://rhum.itch.io/the-last-shell"
+        }
+      },
+      "details": {
+        "title": "The Last Shell",
+        "description": "Embark on an underwater adventure in \"The Last Shell,\" and guide 3 shell-fishes toward the famous Shell Garden...The game is a team oriented turn-based combat rogue-like. \nThe game was made in a week for the FishFest jam 2024\nThe team : \nInaf/Deltari : Character design, Game art, UI -> https://seachowder.itch.io/\nStevo : VFX design\nLucas Ciarlante : Composer / Sound design -> www.lucasciarlante.com\nRhum : Development, Game Designer\n801 : Development, Animations\nYou can either play on the web browser, or download the archive, unzip it, and launch the executable with the Unity logo !For a better experience, of course, we recommend downloading the executable !",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjYyOTY5NC8xNTcwMTQzMC5wbmc=/original/jE68NA.png",
+          "https://img.itch.zone/aW1hZ2UvMjYyOTY5NC8xNTcwMTQzMS5wbmc=/original/nwwzlg.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows",
+          "Authors": "rhum, Matthis Pillonel, STEVO+, deltari!",
+          "Genre": "Strategy",
+          "Made with": "Unity",
+          "Tags": "Roguelike, Team-Based"
+        }
+      }
+    },
+    {
+      "gameId": 2627736,
+      "gameUrl": "https://kitchen-games.itch.io/fishtank",
+      "overallRank": 47,
+      "topCategories": [
+        "Fun"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1Njk3MjQ1LnBuZw==/300x240%23c/vZQx7o.png",
+        "id": 2627736,
+        "contributors": [
+          {
+            "name": "Kitchen Games",
+            "id": 1955466
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 3.7619047619048,
+            "rank": 196,
+            "score": 3.7619047619048
+          },
+          {
+            "name": "Creativity",
+            "raw_score": 4.047619047619,
+            "rank": 49,
+            "score": 4.047619047619
+          },
+          {
+            "name": "Fun",
+            "raw_score": 4.2857142857143,
+            "rank": 8,
+            "score": 4.2857142857143
+          },
+          {
+            "name": "Visuals",
+            "raw_score": 3.6666666666667,
+            "rank": 120,
+            "score": 3.6666666666667
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.7619047619048,
+            "rank": 45,
+            "score": 3.7619047619048
+          }
+        ],
+        "title": "Fish Tank",
+        "score": 3.9047619047619,
+        "rank": 47,
+        "raw_score": 3.9047619047619,
+        "rating_count": 21,
+        "url": "https://itch.io/jam/fishfest/rate/2627736"
+      },
+      "entryData": {
+        "coolness": 13,
+        "id": 526642,
+        "created_at": "2024-04-08 22:53:15",
+        "url": "/jam/fishfest/rate/2627736",
+        "rating_count": 21,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE1Njk3MjQ1LnBuZw==/300x240%23c/vZQx7o.png",
+          "title": "Fish Tank",
+          "cover_color": "#506574",
+          "id": 2627736,
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "Kitchen Games",
+            "url": "https://kitchen-games.itch.io",
+            "id": 1955466
+          },
+          "url": "https://kitchen-games.itch.io/fishtank"
+        }
+      },
+      "details": {
+        "title": "Fish Tank",
+        "description": "The browser version might lag quite a bit. Consider downloading the game for best experience! Thanks <3\nYou are a fish soldier. As the last unit of your company, you embark on a bloody revenge campaign. Enter a fishtank tank, upgrade your shells, and make your home coral reef proud!\nFeatures:\n\nRoguelike\n13 combinable modifiers for your shells (projectiles)\nVarious types of enemies\nDestructible environment!\nFISH!!\nCredits:Music and FX: ProtonautStudios\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjYyNzczNi8xNTY5NzQyMy5naWY=/original/Nqi1C%2B.gif",
+          "https://img.itch.zone/aW1hZ2UvMjYyNzczNi8xNTY5NzI1MS5wbmc=/original/1gdsxn.png",
+          "https://img.itch.zone/aW1hZ2UvMjYyNzczNi8xNTY5NzI2NS5wbmc=/original/luQEKK.png",
+          "https://img.itch.zone/aW1hZ2UvMjYyNzczNi8xNTY5NzI2MS5wbmc=/original/FOXAOo.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows",
+          "Author": "Kitchen Games",
+          "Genre": "Action",
+          "Made with": "Godot",
+          "Tags": "2D, fish, Pixel Art, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 2633159,
+      "gameUrl": "https://anothedev.itch.io/neptunes-wrath",
+      "overallRank": 39,
+      "topCategories": [
+        "Fun"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1NzM5MjMwLnBuZw==/300x240%23c/hLGsaO.png",
+        "id": 2633159,
+        "contributors": [
+          {
+            "name": "AnoTheDev",
+            "id": 5252877
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "raw_score": 3.7647058823529,
+            "rank": 112,
+            "score": 3.7647058823529
+          },
+          {
+            "name": "Fun",
+            "raw_score": 4.2352941176471,
+            "rank": 9,
+            "score": 4.2352941176471
+          },
+          {
+            "name": "Visuals",
+            "raw_score": 3.8235294117647,
+            "rank": 98,
+            "score": 3.8235294117647
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.9411764705882,
+            "rank": 21,
+            "score": 3.9411764705882
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 4.0588235294118,
+            "rank": 128,
+            "score": 4.0588235294118
+          }
+        ],
+        "title": "Neptune's Wrath",
+        "score": 3.9647058823529,
+        "rank": 39,
+        "raw_score": 3.9647058823529,
+        "rating_count": 17,
+        "url": "https://itch.io/jam/fishfest/rate/2633159"
+      },
+      "entryData": {
+        "coolness": 4,
+        "id": 526268,
+        "created_at": "2024-04-08 13:39:55",
+        "url": "/jam/fishfest/rate/2633159",
+        "rating_count": 17,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE1NzM5MjMwLnBuZw==/300x240%23c/hLGsaO.png",
+          "title": "Neptune's Wrath",
+          "cover_color": "#824d74",
+          "id": 2633159,
+          "short_text": "Game for the FishFest gamejam 2024",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "AnoTheDev",
+            "url": "https://anothedev.itch.io",
+            "id": 5252877
+          },
+          "url": "https://anothedev.itch.io/neptunes-wrath"
+        }
+      },
+      "details": {
+        "title": "Neptune's Wrath",
+        "description": "Story : You have gone against Neptune's orders and now he has sent all his power against you!\nUse W,A,S,D or the arrow keys to moveReach 1000 to escape Neptune's Wrath",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjYzMzE1OS8xNTczOTIwOS5wbmc=/original/YYvJ9Y.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "AnoTheDev",
+          "Genre": "Survival",
+          "Made with": "Godot"
+        }
+      }
+    },
+    {
+      "gameId": 2631035,
+      "gameUrl": "https://johnminer.itch.io/fish-debt-rpg",
+      "overallRank": 57,
+      "topCategories": [
+        "Fun",
+        "Creativity"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1Njk0OTIwLnBuZw==/300x240%23c/VT4pNq.png",
+        "id": 2631035,
+        "contributors": [
+          {
+            "name": "Tempetus Cabinet",
+            "id": 114239
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Fun",
+            "raw_score": 4.2222222222222,
+            "rank": 10,
+            "score": 4.2222222222222
+          },
+          {
+            "name": "Visuals",
+            "raw_score": 3.4444444444444,
+            "rank": 166,
+            "score": 3.4444444444444
+          },
+          {
+            "name": "Creativity",
+            "raw_score": 4.3333333333333,
+            "rank": 12,
+            "score": 4.3333333333333
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 3.8888888888889,
+            "rank": 171,
+            "score": 3.8888888888889
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.3333333333333,
+            "rank": 117,
+            "score": 3.3333333333333
+          }
+        ],
+        "title": "Fish Debt RPG",
+        "score": 3.8444444444444,
+        "rank": 57,
+        "raw_score": 3.8444444444444,
+        "rating_count": 9,
+        "url": "https://itch.io/jam/fishfest/rate/2631035"
+      },
+      "entryData": {
+        "coolness": 8,
+        "id": 527003,
+        "created_at": "2024-04-09 19:33:10",
+        "url": "/jam/fishfest/rate/2631035",
+        "rating_count": 9,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE1Njk0OTIwLnBuZw==/300x240%23c/VT4pNq.png",
+          "title": "Fish Debt RPG",
+          "cover_color": "#0079ed",
+          "id": 2631035,
+          "short_text": "Pay your debt within 20 days as a fish",
+          "platforms": [
+            "windows",
+            "linux",
+            "web"
+          ],
+          "user": {
+            "name": "Tempetus Cabinet",
+            "url": "https://johnminer.itch.io",
+            "id": 114239
+          },
+          "url": "https://johnminer.itch.io/fish-debt-rpg"
+        }
+      },
+      "details": {
+        "title": "Fish Debt RPG",
+        "description": "Story\nYou are a Sign Eviota fish. Matured Eviota only lived for around 3 and a half weeks.Depressed by your short life, you signed a soul contract with the Fish Devil in exchange for a tons of cash.However, you burned all of them in gambling. Now with the thread of eternal torment in Fish-hell, you must find a way to pay the Fish Devil back .\nControl\nUse WASD to move around.Use Tab to open menu.Use E to interact with things.A day's time is divided in 8 periods. Works and Activities will take time.Go to your apartment to sleep and pay debt.\nHint\nHigh reputation will multiply  your salary.Try focus on a workplace and climb the corporate ladder.You can steal money from friendly fish for a headstart, if you not get caught.\nCredit\nMain menu and game BGM: Bo en\nSource code:  https://github.com/lamnguyenkhoa/fish-debt-rpg",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjYzMTAzNS8xNTY5NDkyMi5wbmc=/original/9XZ02z.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMTAzNS8xNTY5NDkyMy5wbmc=/original/LREvX%2F.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMTAzNS8xNTY5NDkyNS5wbmc=/original/%2FZxClg.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMTAzNS8xNTY5NDkyNy5wbmc=/original/65X1vd.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMTAzNS8xNTY5NDkyNi5wbmc=/original/3u3M0B.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, Linux",
+          "Author": "Tempetus Cabinet",
+          "Genre": "Adventure, Role Playing",
+          "Made with": "Godot",
+          "Tags": "Comedy, Sandbox, underwater"
+        }
+      }
+    },
+    {
+      "gameId": 2628371,
+      "gameUrl": "https://zygoth.itch.io/fisht-fight",
+      "overallRank": 93,
+      "topCategories": [
+        "Fun"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1NjkzNDk1LnBuZw==/300x240%23c/nwyhkm.png",
+        "id": 2628371,
+        "contributors": [
+          {
+            "name": "zygoth",
+            "id": 7026253
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "raw_score": 4.0526315789474,
+            "rank": 46,
+            "score": 4.0526315789474
+          },
+          {
+            "name": "Visuals",
+            "raw_score": 3.2631578947368,
+            "rank": 200,
+            "score": 3.2631578947368
+          },
+          {
+            "name": "Fun",
+            "raw_score": 4.2105263157895,
+            "rank": 11,
+            "score": 4.2105263157895
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 3.7894736842105,
+            "rank": 186,
+            "score": 3.7894736842105
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.3157894736842,
+            "rank": 122,
+            "score": 3.3157894736842
+          }
+        ],
+        "title": "Fisht Fight",
+        "score": 3.7263157894737,
+        "rank": 93,
+        "raw_score": 3.7263157894737,
+        "rating_count": 19,
+        "url": "https://itch.io/jam/fishfest/rate/2628371"
+      },
+      "entryData": {
+        "coolness": 29,
+        "id": 526379,
+        "created_at": "2024-04-08 18:38:11",
+        "url": "/jam/fishfest/rate/2628371",
+        "rating_count": 19,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE1NjkzNDk1LnBuZw==/300x240%23c/nwyhkm.png",
+          "title": "Fisht Fight",
+          "id": 2628371,
+          "short_text": "Deckbuilding Roguelike with feesh",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "zygoth",
+            "url": "https://zygoth.itch.io",
+            "id": 7026253
+          },
+          "url": "https://zygoth.itch.io/fisht-fight"
+        }
+      },
+      "details": {
+        "title": "Fisht Fight",
+        "description": "Build your deck from 18 different cards and make it to the end of 10 levels with 10 different monsters. Made for Fish Fest (4/2/2024)Get your name in the credits, propose new features, & help me keep making games by becoming my patron at: https://ko-fi.com/bencoffman\nCredits:\nBen Coffman (Design & programming)Sul Ponticellist (Sound Design/Music): https://open.spotify.com/artist/34NlubZLAaUK22z1sIKBiy",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE1NjkzNDk1LnBuZw==/original/XpEDx4.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "zygoth"
+        }
+      }
+    },
+    {
+      "gameId": 2633343,
+      "gameUrl": "https://turtlesocks.itch.io/a-splash-ka",
+      "overallRank": 10,
+      "topCategories": [
+        "Fun"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1Njk2MzI5LnBuZw==/300x240%23c/6899cd.png",
+        "id": 2633343,
+        "contributors": [
+          {
+            "name": "TurtleSocks",
+            "id": 10368159
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Fun",
+            "raw_score": 4.2,
+            "rank": 12,
+            "score": 4.2
+          },
+          {
+            "name": "Visuals",
+            "raw_score": 4.2,
+            "rank": 50,
+            "score": 4.2
+          },
+          {
+            "name": "Creativity",
+            "raw_score": 4.0666666666667,
+            "rank": 43,
+            "score": 4.0666666666667
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.9333333333333,
+            "rank": 23,
+            "score": 3.9333333333333
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 4.4666666666667,
+            "rank": 24,
+            "score": 4.4666666666667
+          }
+        ],
+        "title": "A-SPLASH-KA",
+        "score": 4.1733333333333,
+        "rank": 10,
+        "raw_score": 4.1733333333333,
+        "rating_count": 15,
+        "url": "https://itch.io/jam/fishfest/rate/2633343"
+      },
+      "entryData": {
+        "coolness": 10,
+        "id": 526546,
+        "created_at": "2024-04-08 21:56:16",
+        "url": "/jam/fishfest/rate/2633343",
+        "rating_count": 15,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE1Njk2MzI5LnBuZw==/300x240%23c/6899cd.png",
+          "title": "A-SPLASH-KA",
+          "cover_color": "#353535",
+          "id": 2633343,
+          "short_text": "Help a lone Alaskan salmon navigate home",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "user": {
+            "name": "TurtleSocks",
+            "url": "https://turtlesocks.itch.io",
+            "id": 10368159
+          },
+          "url": "https://turtlesocks.itch.io/a-splash-ka"
+        }
+      },
+      "details": {
+        "title": "A-SPLASH-KA",
+        "description": "A-Splash-Ka is a game based on the annual fish migration event, the Salmon run, created for the Fish Fest. Set in Alaska, during the summer months, you play as a Salmon who is just about to return to the river where you were born. You must navigate swimming upstream while avoiding trash and other obstacles in order to return to where you were born. \nCreated for Fish Fest over the course of 7 days.\nGoal\nThe game is very short and typically takes around 60 seconds to complete, try to finish it as quickly as possible! \nControls\nYou can control the movement of the salmon with WASD or the arrow keysJump with the Spacebar. \nAssets Used\nVarious from ShubibubiKeys from greatdocbrownAudio from HoliznaCC0\nBrowser Compatibility\nWater shaders currently do not load in the browser, download the executable to view thoseAudio seems to work best in non-Chromium based browsersTo view this game with shaders you can download the .exe file and run it. ",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjYzMzM0My8xNTY5NjQ3NC5wbmc=/original/PPzZJ7.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMzM0My8xNTY5NjQ3Ny5wbmc=/original/C%2FbVt3.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMzM0My8xNTY5NjQ3NS5wbmc=/original/wTMa1S.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMzM0My8xNTY5NjQ3Ni5wbmc=/original/leHlf5.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Author": "TurtleSocks",
+          "Genre": "Survival",
+          "Made with": "Godot",
+          "Tags": "2D, Casual, Godot, Indie, My First Game Jam, Pixel Art, Short, Singleplayer, Speedrun, Top-Down"
+        }
+      }
+    },
+    {
+      "gameId": 2627791,
+      "gameUrl": "https://individualkex.itch.io/fishtrain",
+      "overallRank": 87,
+      "topCategories": [
+        "Fun"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1NjU2NTA0LnBuZw==/300x240%23c/XX32Ld.png",
+        "id": 2627791,
+        "contributors": [
+          {
+            "name": "IndividualKex",
+            "id": 5322248
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Fun",
+            "raw_score": 4.1777777777778,
+            "rank": 13,
+            "score": 4.1777777777778
+          },
+          {
+            "name": "Visuals",
+            "raw_score": 4.0666666666667,
+            "rank": 69,
+            "score": 4.0666666666667
+          },
+          {
+            "name": "Creativity",
+            "raw_score": 3.5555555555556,
+            "rank": 160,
+            "score": 3.5555555555556
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.9333333333333,
+            "rank": 23,
+            "score": 3.9333333333333
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 2.9555555555556,
+            "rank": 345,
+            "score": 2.9555555555556
+          }
+        ],
+        "title": "FISHTRAIN",
+        "score": 3.7377777777778,
+        "rank": 87,
+        "raw_score": 3.7377777777778,
+        "rating_count": 45,
+        "url": "https://itch.io/jam/fishfest/rate/2627791"
+      },
+      "entryData": {
+        "coolness": 4,
+        "id": 525430,
+        "created_at": "2024-04-07 03:54:32",
+        "url": "/jam/fishfest/rate/2627791",
+        "rating_count": 45,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE1NjU2NTA0LnBuZw==/300x240%23c/XX32Ld.png",
+          "title": "FISHTRAIN",
+          "cover_color": "#000000",
+          "id": 2627791,
+          "short_text": "FISHTRAIN",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "IndividualKex",
+            "url": "https://individualkex.itch.io",
+            "id": 5322248
+          },
+          "url": "https://individualkex.itch.io/fishtrain"
+        }
+      },
+      "details": {
+        "title": "FISHTRAIN",
+        "description": "WARNING: DOWNLOADED VERSION LOOKS COOLER / RUNS BETTER\n🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆🐟🚆\nmusic by me - extended version",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjYyNzc5MS8xNTY4MDQ1Ni5wbmc=/original/wD%2Bbv3.png",
+          "https://img.itch.zone/aW1hZ2UvMjYyNzc5MS8xNTY4MDQ1Ny5wbmc=/original/OTdQJi.png",
+          "https://img.itch.zone/aW1hZ2UvMjYyNzc5MS8xNTY4MDQ1OC5wbmc=/original/pjHK9o.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "IndividualKex",
+          "Genre": "Platformer",
+          "Made with": "Unity",
+          "Tags": "Arcade, infinite-runner, Retro",
+          "Average session": "A few minutes",
+          "Inputs": "Keyboard, Xbox controller, Gamepad (any), Dance pad"
+        }
+      }
+    },
+    {
+      "gameId": 2636126,
+      "gameUrl": "https://serg2207.itch.io/floppy-fish",
+      "overallRank": 97,
+      "topCategories": [
+        "Fun"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1NzA5NTI3LnBuZw==/300x240%23c/xYmSAt.png",
+        "id": 2636126,
+        "contributors": [
+          {
+            "name": "serg2207",
+            "id": 6086849
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Visuals",
+            "raw_score": 3,
+            "rank": 247,
+            "score": 3
+          },
+          {
+            "name": "Fun",
+            "raw_score": 4.1764705882353,
+            "rank": 14,
+            "score": 4.1764705882353
+          },
+          {
+            "name": "Creativity",
+            "raw_score": 3.9411764705882,
+            "rank": 74,
+            "score": 3.9411764705882
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 3.5882352941176,
+            "rank": 232,
+            "score": 3.5882352941176
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.8823529411765,
+            "rank": 32,
+            "score": 3.8823529411765
+          }
+        ],
+        "title": "Floppy Fish",
+        "score": 3.7176470588235,
+        "rank": 97,
+        "raw_score": 3.7176470588235,
+        "rating_count": 17,
+        "url": "https://itch.io/jam/fishfest/rate/2636126"
+      },
+      "entryData": {
+        "coolness": 19,
+        "id": 527122,
+        "created_at": "2024-04-10 07:50:27",
+        "url": "/jam/fishfest/rate/2636126",
+        "rating_count": 17,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE1NzA5NTI3LnBuZw==/300x240%23c/xYmSAt.png",
+          "title": "Floppy Fish",
+          "cover_color": "#2ab3c3",
+          "id": 2636126,
+          "short_text": "The fish goes flop",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "serg2207",
+            "url": "https://serg2207.itch.io",
+            "id": 6086849
+          },
+          "url": "https://serg2207.itch.io/floppy-fish"
+        }
+      },
+      "details": {
+        "title": "Floppy Fish",
+        "description": "FLOPPY FISH\nDescription\nThis is a game which you tests your limits. Scientists are conducting an experiment; they want to find out if fish are capable of more complex intelligence. You become Fish 725, the first fish to pass the initial examinations. You need to prove your intelligence to the scientists to show what fish are TRULY capable of. \nUse P or Esc (preferably P within the browser) to pause.Pretty sure the exit game buttons don't work because they were made for an application, so just don't use them.\nAnything else\nThis is my first published game that I made in roughly 3 days and a half for April 2024 FishFest (slightly late). \nThe game and the art are made by me. The sound effects were jointly made between me and my sister, Claudia. The music was made by Claudia (best part of the game not gonna lie).\nThe subtitles are slightly wonky in some places and it definitely has a lot of bugs to say the least, but hopefully its playable. Please tell me all of your thoughts, I'm very new to all this.\nThe videos \"How to add sound effects the right way\" by Sasquatch B and \"Unity Subtitles for cutscenes with multiple lines/phrases\" by Vincent Adinolfi were very useful. Do recommend.\nEnjoy!",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE1NzA5NTI3LnBuZw==/original/JyG9Ze.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "serg2207",
+          "Genre": "Platformer, Action",
+          "Made with": "Unity",
+          "Tags": "2D, Cute, Funny, Indie, Pixel Art, Short, Singleplayer, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 2621446,
+      "gameUrl": "https://sojioto.itch.io/clam",
+      "overallRank": 40,
+      "topCategories": [
+        "Fun"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1NzE5NjgxLnBuZw==/300x240%23c/2eosxo.png",
+        "id": 2621446,
+        "contributors": [
+          {
+            "name": "Sojioto",
+            "id": 3676360
+          },
+          {
+            "name": "Mike Goetz",
+            "id": 8862352
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Visuals",
+            "raw_score": 4.2068965517241,
+            "rank": 49,
+            "score": 4.2068965517241
+          },
+          {
+            "name": "Fun",
+            "raw_score": 4.1724137931034,
+            "rank": 15,
+            "score": 4.1724137931034
+          },
+          {
+            "name": "Creativity",
+            "raw_score": 3.7586206896552,
+            "rank": 113,
+            "score": 3.7586206896552
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 3.551724137931,
+            "rank": 241,
+            "score": 3.551724137931
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.0344827586207,
+            "rank": 16,
+            "score": 4.0344827586207
+          }
+        ],
+        "title": "Clam up!🍲🐟🦪",
+        "score": 3.9448275862069,
+        "rank": 40,
+        "raw_score": 3.9448275862069,
+        "rating_count": 29,
+        "url": "https://itch.io/jam/fishfest/rate/2621446"
+      },
+      "entryData": {
+        "coolness": 17,
+        "url": "/jam/fishfest/rate/2621446",
+        "id": 526441,
+        "created_at": "2024-04-08 20:17:59",
+        "contributors": [
+          {
+            "name": "Sojioto",
+            "url": "https://sojioto.itch.io"
+          },
+          {
+            "name": "Mike Goetz",
+            "url": "https://mikegoetz.itch.io"
+          }
+        ],
+        "rating_count": 29,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE1NzE5NjgxLnBuZw==/300x240%23c/2eosxo.png",
+          "title": "Clam up!🍲🐟🦪",
+          "cover_color": "#a93b3b",
+          "id": 2621446,
+          "short_text": "Escape being boiled alive, It's time to Clam up!",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Sojioto",
+            "url": "https://sojioto.itch.io",
+            "id": 3676360
+          },
+          "url": "https://sojioto.itch.io/clam"
+        }
+      },
+      "details": {
+        "title": "Clam up!🍲🐟🦪",
+        "description": "Made in 7 days for Fishfest 2024\n    \nWhile all the other sea life thinks they are getting a warm bath, one clam is determined to escape before he is boiled alive!\n    \nUse your clam feet ( clams do have feet!) to wall jump to safety, it can be done in under 5 minutes!  \nToggle noise effect with the F key\nFeatures a killer song from Mike Goetz to help fuel your ascent.\n  \nMay be bugged in Firefoxfont used Weird Comic Font - OFL by GGBotNet (itch.io)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjYyMTQ0Ni8xNTcwNjUzMC5wbmc=/original/j3ZSkt.png",
+          "https://img.itch.zone/aW1hZ2UvMjYyMTQ0Ni8xNTcwNjUzMS5wbmc=/original/RnthcC.png",
+          "https://img.itch.zone/aW1hZ2UvMjYyMTQ0Ni8xNTY5NDY2MS5wbmc=/original/Dc47k%2B.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.5 out of 5 stars(2 total ratings)",
+          "Authors": "Sojioto, Mike Goetz",
+          "Genre": "Platformer",
+          "Made with": "Construct",
+          "Tags": "2D, 3D Platformer, Arcade, Casual, Escape Game, Horror, Pixel Art, Retro, Short"
+        }
+      }
+    },
+    {
+      "gameId": 2633279,
+      "gameUrl": "https://kaylachu23.itch.io/salmantra",
+      "overallRank": 106,
+      "topCategories": [
+        "Visuals"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1NjkwNjI5LnBuZw==/300x240%23c/pNNJsB.png",
+        "id": 2633279,
+        "contributors": [
+          {
+            "name": "Kayla",
+            "id": 750040
+          },
+          {
+            "name": "Komic",
+            "id": 8731367
+          },
+          {
+            "name": "Nullifi",
+            "id": 4322692
+          },
+          {
+            "name": "RTSQ",
+            "id": 8643147
+          },
+          {
+            "name": "GabrielH",
+            "id": 1638813
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Fun",
+            "raw_score": 2.9375,
+            "rank": 232,
+            "score": 2.9375
+          },
+          {
+            "name": "Creativity",
+            "raw_score": 3.875,
+            "rank": 86,
+            "score": 3.875
+          },
+          {
+            "name": "Visuals",
+            "raw_score": 4.8125,
+            "rank": 1,
+            "score": 4.8125
+          },
+          {
+            "name": "Audio",
+            "raw_score": 2.75,
+            "rank": 227,
+            "score": 2.75
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 4.0625,
+            "rank": 126,
+            "score": 4.0625
+          }
+        ],
+        "title": "Salmantra",
+        "score": 3.6875,
+        "rank": 106,
+        "raw_score": 3.6875,
+        "rating_count": 16,
+        "url": "https://itch.io/jam/fishfest/rate/2633279"
+      },
+      "entryData": {
+        "coolness": 1,
+        "url": "/jam/fishfest/rate/2633279",
+        "id": 527001,
+        "created_at": "2024-04-09 19:30:46",
+        "contributors": [
+          {
+            "name": "Kayla",
+            "url": "https://kaylachu23.itch.io"
+          },
+          {
+            "name": "Komic",
+            "url": "https://bloodhana.itch.io"
+          },
+          {
+            "name": "Nullifi",
+            "url": "https://nullifi.itch.io"
+          },
+          {
+            "name": "RTSQ",
+            "url": "https://rtsq.itch.io"
+          },
+          {
+            "name": "GabrielH",
+            "url": "https://gabrielholtschlag.itch.io"
+          }
+        ],
+        "rating_count": 16,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE1NjkwNjI5LnBuZw==/300x240%23c/pNNJsB.png",
+          "title": "Salmantra",
+          "cover_color": "#97ccd9",
+          "id": 2633279,
+          "short_text": "“Fishing” game and rhythm game",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "Kayla",
+            "url": "https://kaylachu23.itch.io",
+            "id": 750040
+          },
+          "url": "https://kaylachu23.itch.io/salmantra"
+        }
+      },
+      "details": {
+        "title": "Salmantra",
+        "description": "Salmantra is a fishing game about…not catching fish? What a surprise! You play as a Salmon on a quest to build her collection of occupants. There is a convention soon and she is determined to showcase her collection. Occupants are humans but mini sized.   Once you grab hold, get ready to jam out to some tunes and play a quick Rhythm game! Catch all 8 to build your collection in time, maybe you will even find some rare ones! \nThis game was created in 7 days for the Fish Fest Game Jam\n(Please be patient for the rare occupants to show up}\nCONTROLS: \nFor the rhythm game press the wasd in the direction of the orange arrow. \nESC: Pause\nWASD/arrow - move fishing pole and to play rhythm game. SPACE- swing fishing pole/reel fishing pole\nMOUSE- selection for settings\nCREDITS:\nhttps://bloodhana.itch.io/- background art, 4 occupants, Ui\nhttps://kaylachu23.itch.io/- Character Artist, 4 occupants, some Ui\nhttps://gabrielholtschlag.itch.io/- Programmer/Gameplay Designer \nhttps://nullifi.itch.io/- Composer/SFX\n https://rtsq.itch.io/- Programmer",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjYzMzI3OS8xNTcwMDA2OS5wbmc=/original/ZeXDvN.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMzI3OS8xNTY5MDcxMC5wbmc=/original/cEvQUA.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMzI3OS8xNTY5MDY1Ni5wbmc=/original/iYzMCx.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMzI3OS8xNTY5MDY1OC5wbmc=/original/ynpD5W.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMzI3OS8xNTY5MDY1Ny5wbmc=/original/BEFhK%2B.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Authors": "Kayla, Komic, Nullifi, RTSQ, GabrielH",
+          "Genre": "Simulation",
+          "Made with": "Unity",
+          "Tags": "2D, Fishing, fishing-game"
+        }
+      }
+    },
+    {
+      "gameId": 2632544,
+      "gameUrl": "https://cookiecrayon.itch.io/flopfish",
+      "overallRank": 8,
+      "topCategories": [
+        "Visuals",
+        "Creativity"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1OTU0NjUzLmdpZg==/300x240%23c/zhnCym.gif",
+        "id": 2632544,
+        "contributors": [
+          {
+            "name": "cookiecrayon",
+            "id": 2179161
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Audio",
+            "raw_score": 4,
+            "rank": 18,
+            "score": 4
+          },
+          {
+            "name": "Fun",
+            "raw_score": 3.5416666666667,
+            "rank": 101,
+            "score": 3.5416666666667
+          },
+          {
+            "name": "Creativity",
+            "raw_score": 4.2916666666667,
+            "rank": 14,
+            "score": 4.2916666666667
+          },
+          {
+            "name": "Visuals",
+            "raw_score": 4.7916666666667,
+            "rank": 2,
+            "score": 4.7916666666667
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 4.3333333333333,
+            "rank": 54,
+            "score": 4.3333333333333
+          }
+        ],
+        "title": "FLOPFISH",
+        "score": 4.1916666666667,
+        "rank": 8,
+        "raw_score": 4.1916666666667,
+        "rating_count": 24,
+        "url": "https://itch.io/jam/fishfest/rate/2632544"
+      },
+      "entryData": {
+        "coolness": 11,
+        "id": 526356,
+        "created_at": "2024-04-08 17:56:05",
+        "url": "/jam/fishfest/rate/2632544",
+        "rating_count": 24,
+        "game": {
+          "gif_cover": "https://img.itch.zone/aW1nLzE1OTU0NjUzLmdpZg==/original/kSoTfx.gif",
+          "id": 2632544,
+          "user": {
+            "name": "cookiecrayon",
+            "url": "https://cookiecrayon.itch.io",
+            "id": 2179161
+          },
+          "cover": "https://img.itch.zone/aW1nLzE1OTU0NjUzLmdpZg==/300x240%23c/zhnCym.gif",
+          "title": "FLOPFISH",
+          "platforms": [
+            "windows",
+            "osx",
+            "web"
+          ],
+          "cover_color": "#000000",
+          "short_text": "Battle your mates with a randomly generated fish",
+          "url": "https://cookiecrayon.itch.io/flopfish"
+        }
+      },
+      "details": {
+        "title": "FLOPFISH",
+        "description": "\n\n\n\n\n\n\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjYzMjU0NC8xNTk1NjczNy5qcGc=/original/x9eZRN.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjYzMjU0NC8xNTk1Njc0My5qcGc=/original/9KcrvW.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjYzMjU0NC8xNTk1NjczMy5qcGc=/original/wLcK3w.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjYzMjU0NC8xNTk1NjczNC5qcGc=/original/NKSAQl.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjYzMjU0NC8xNTk1NjczNS5qcGc=/original/OcN2J%2F.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows, macOS",
+          "Rating": "Rated 4.8 out of 5 stars(14 total ratings)",
+          "Author": "cookiecrayon",
+          "Genre": "Fighting",
+          "Made with": "Unity",
+          "Tags": "Arcade, Casual, Colorful, Cute, Experimental, Funny, Local multiplayer, Multiplayer, Short",
+          "Average session": "A few seconds",
+          "Multiplayer": "Local multiplayer",
+          "Player count": "1 - 2"
+        }
+      }
+    },
+    {
+      "gameId": 2629383,
+      "gameUrl": "https://blightworks.itch.io/robofish-virtual-brain",
+      "overallRank": 13,
+      "topCategories": [
+        "Visuals",
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1Njc2MzkwLnBuZw==/300x240%23c/4cWz2u.png",
+        "id": 2629383,
+        "contributors": [
+          {
+            "name": "BLIGHTWORKS",
+            "id": 6207838
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "raw_score": 4,
+            "rank": 54,
+            "score": 4
+          },
+          {
+            "name": "Visuals",
+            "raw_score": 4.6923076923077,
+            "rank": 5,
+            "score": 4.6923076923077
+          },
+          {
+            "name": "Fun",
+            "raw_score": 4.0769230769231,
+            "rank": 22,
+            "score": 4.0769230769231
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.1538461538462,
+            "rank": 6,
+            "score": 4.1538461538462
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 3.7692307692308,
+            "rank": 192,
+            "score": 3.7692307692308
+          }
+        ],
+        "title": "Robofish: Virtual-Brain",
+        "score": 4.1384615384615,
+        "rank": 13,
+        "raw_score": 4.1384615384615,
+        "rating_count": 13,
+        "url": "https://itch.io/jam/fishfest/rate/2629383"
+      },
+      "entryData": {
+        "coolness": 1,
+        "id": 525956,
+        "created_at": "2024-04-07 21:18:01",
+        "url": "/jam/fishfest/rate/2629383",
+        "rating_count": 13,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE1Njc2MzkwLnBuZw==/300x240%23c/4cWz2u.png",
+          "title": "Robofish: Virtual-Brain",
+          "cover_color": "#000000",
+          "id": 2629383,
+          "short_text": "FISH IN A MONEY MECH",
+          "platforms": [
+            "windows"
+          ],
+          "user": {
+            "name": "BLIGHTWORKS",
+            "url": "https://blightworks.itch.io",
+            "id": 6207838
+          },
+          "url": "https://blightworks.itch.io/robofish-virtual-brain"
+        }
+      },
+      "details": {
+        "title": "Robofish: Virtual-Brain",
+        "description": "What is Robofish: VirtualBrain?\nSome intern named Mitchell leaves a billion-dollar mech laying around and a fish in debt happens to fall inside. As a brave Lionfish drowning in debt, you better go take on that Loanshark (ha. ha.) Jump, run, and smash through an underwater ruin to get riches and make sushi out of your foes. It's sounds all fishy, but it's a Wario clone like no other.\nThis game has a colour shift feature!\nUse it to change the hue of the graphics to less harsh hues.\nMADE FOR FISHFEST GAMEJAM!\n(Note that only in POST JAM UPDATE version, we have controller support! The game will auto detect XBOX gamepads. To tell the game to use gamepads other than XBOX, you can force gamepad mode pressing F5)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjYyOTM4My8xNTY3NjI5My5wbmc=/original/4xPKmd.png",
+          "https://img.itch.zone/aW1hZ2UvMjYyOTM4My8xNjgyMjM3MS5wbmc=/original/YsJrOk.png",
+          "https://img.itch.zone/aW1hZ2UvMjYyOTM4My8xNTY3NjI4Ni5wbmc=/original/EXAiW6.png",
+          "https://img.itch.zone/aW1hZ2UvMjYyOTM4My8xNjgyMjM5My5wbmc=/original/1g9q%2FE.png",
+          "https://img.itch.zone/aW1hZ2UvMjYyOTM4My8xNTY3NjMxOS5wbmc=/original/dlv5BG.png",
+          "https://img.itch.zone/aW1hZ2UvMjYyOTM4My8xNTY3NjI4OC5wbmc=/original/jJQWeu.png",
+          "https://img.itch.zone/aW1hZ2UvMjYyOTM4My8xNTY3NjI5Mi5wbmc=/original/8UiqJa.png",
+          "https://img.itch.zone/aW1hZ2UvMjYyOTM4My8xNTY3NjMxMi5wbmc=/original/vLACKj.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "BLIGHTWORKS",
+          "Genre": "Platformer, Action",
+          "Made with": "Clickteam Fusion",
+          "Tags": "Pixel Art, Puzzle-Platformer, Retro, underwater",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": 2632059,
+      "gameUrl": "https://swiftmakesgames.itch.io/an-ordinary-fishing-trip",
+      "overallRank": 2,
+      "topCategories": [
+        "Visuals",
+        "Creativity",
+        "Audio",
+        "Fishiness(?)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1Njk3NTc1LnBuZw==/300x240%23c/8ufGAy.png",
+        "id": 2632059,
+        "contributors": [
+          {
+            "name": "SwiftMakesGames",
+            "id": 6100565
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Fun",
+            "raw_score": 4.1666666666667,
+            "rank": 16,
+            "score": 4.1666666666667
+          },
+          {
+            "name": "Creativity",
+            "raw_score": 4.6111111111111,
+            "rank": 3,
+            "score": 4.6111111111111
+          },
+          {
+            "name": "Visuals",
+            "raw_score": 4.6666666666667,
+            "rank": 6,
+            "score": 4.6666666666667
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.3333333333333,
+            "rank": 2,
+            "score": 4.3333333333333
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 4.5555555555556,
+            "rank": 14,
+            "score": 4.5555555555556
+          }
+        ],
+        "title": "An Ordinary Fishing Trip",
+        "score": 4.4666666666667,
+        "rank": 2,
+        "raw_score": 4.4666666666667,
+        "rating_count": 18,
+        "url": "https://itch.io/jam/fishfest/rate/2632059"
+      },
+      "entryData": {
+        "coolness": 33,
+        "id": 526184,
+        "created_at": "2024-04-08 06:30:29",
+        "url": "/jam/fishfest/rate/2632059",
+        "rating_count": 18,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE1Njk3NTc1LnBuZw==/300x240%23c/8ufGAy.png",
+          "title": "An Ordinary Fishing Trip",
+          "cover_color": "#000000",
+          "id": 2632059,
+          "short_text": "A short game about Fishing. Made in a week for the FishFest game jam.",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ],
+          "user": {
+            "name": "SwiftMakesGames",
+            "url": "https://swiftmakesgames.itch.io",
+            "id": 6100565
+          },
+          "url": "https://swiftmakesgames.itch.io/an-ordinary-fishing-trip"
+        }
+      },
+      "details": {
+        "title": "An Ordinary Fishing Trip",
+        "description": "ABOUT\nAn Ordinary Fishing Trip is a relaxing laid-back game, about selling fish, buying upgrades, and avoiding the unavoidable!\n\n\nCREDITS\nThe game was made by me in a week, as a submission to the FishFest game jam.\nMost sounds are from pixabay and edited by me. The piano music is by me.\nFonts from DaFont\nSome visual effects (Fog, skybox) are from OccaSoftware package\nDither Shader\nPixel Shader\nThe water is an edited version of Binary Lunar's stylized water shader.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjYzMjA1OS8xNTY5MjcyMC5wbmc=/original/zF8jjx.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMjA1OS8xNTY5MjcxOS5wbmc=/original/RzMolt.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMjA1OS8xNTY5MjcyMy5wbmc=/original/np6mLB.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS, Linux",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "SwiftMakesGames",
+          "Genre": "Simulation",
+          "Tags": "3D, Fishing, Horror"
+        }
+      }
+    },
+    {
+      "gameId": 2630675,
+      "gameUrl": "https://chikinnoodlesupp.itch.io/fishy-buisness",
+      "overallRank": 14,
+      "topCategories": [
+        "Visuals"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1NjkyMzQzLnBuZw==/300x240%23c/vUeO2T.png",
+        "id": 2630675,
+        "contributors": [
+          {
+            "name": "Chikin",
+            "id": 3362482
+          },
+          {
+            "name": "snurlsss",
+            "id": 2073457
+          },
+          {
+            "name": "H e r o n",
+            "id": 3363559
+          },
+          {
+            "name": "Igotlazy",
+            "id": 2906043
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Fun",
+            "raw_score": 3.75,
+            "rank": 64,
+            "score": 3.75
+          },
+          {
+            "name": "Creativity",
+            "raw_score": 4,
+            "rank": 54,
+            "score": 4
+          },
+          {
+            "name": "Visuals",
+            "raw_score": 4.6666666666667,
+            "rank": 6,
+            "score": 4.6666666666667
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.75,
+            "rank": 46,
+            "score": 3.75
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 4.5,
+            "rank": 18,
+            "score": 4.5
+          }
+        ],
+        "title": "Fishy Business - Deals from the Deep",
+        "score": 4.1333333333333,
+        "rank": 14,
+        "raw_score": 4.1333333333333,
+        "rating_count": 12,
+        "url": "https://itch.io/jam/fishfest/rate/2630675"
+      },
+      "entryData": {
+        "coolness": 6,
+        "url": "/jam/fishfest/rate/2630675",
+        "id": 526862,
+        "created_at": "2024-04-09 08:07:52",
+        "contributors": [
+          {
+            "name": "Chikin",
+            "url": "https://chikinnoodlesupp.itch.io"
+          },
+          {
+            "name": "snurlsss",
+            "url": "https://snurlsss.itch.io"
+          },
+          {
+            "name": "H e r o n",
+            "url": "https://h-e-r-o-n.itch.io"
+          },
+          {
+            "name": "Igotlazy",
+            "url": "https://igotlazy.itch.io"
+          }
+        ],
+        "rating_count": 12,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE1NjkyMzQzLnBuZw==/300x240%23c/vUeO2T.png",
+          "title": "Fishy Business - Deals from the Deep",
+          "cover_color": "#000000",
+          "id": 2630675,
+          "short_text": "Experience the struggle of profit at the black market",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "Chikin",
+            "url": "https://chikinnoodlesupp.itch.io",
+            "id": 3362482
+          },
+          "url": "https://chikinnoodlesupp.itch.io/fishy-buisness"
+        }
+      },
+      "details": {
+        "title": "Fishy Business - Deals from the Deep",
+        "description": "Fishy business - Deals from the Deep was made through the Fish Fest game jam.Manage your booth at the Black Market. Satisfy your customers' needs while sending out your fishing boats to haul in goods and fill your stock. All to hit the daily quota to please the Loan Sharks.\nHow to play FAQ\nWhat's my goal? At the end of each day you must pay off your ever increasing debt. Survive 5 days and you win!\nWhat are the controls? Left click to accept/decline offers and gather resources from ships. Right click and drag ships to move them to locations so they can begin harvesting. \nWhat should I do? Send out ships to fish. Gather fish. Sell fish. ????. Profit! Oh and be fast about it, when you start the day, the time starts tickin'. Just ring the bell to open up your shop!\nHow do I send out ships? Put your mouse near the left of the screen, and the map will show up. Drag the ships using right click to any location you fancy. But do keep in mind that some items are more easily obtained at different locations, click the anchor icon on the map to see where. Once the ships got exclamation marks above them, you can gather their loot!\nHow do I upgrade/buy new ships? Click the top left sign to open the ship menu. Pay dabloons to level up your ship or get new ones. \nWhat are those things popping up to the right? They're customers. Only 4 will stick around at once. Sell 'em goods and they'll give you money. Be quick cuz they're very impatient. Don't got what they need? Boot 'em out so more can come in.\nI'm stuck in game, how do I quit? Alt + F4 babyyyyyyyyyyyyyy~\n\nCredits\nLazy - Programmer / Design\nChikin - SFX / QA\nSnurlsss - Art / UI\nHeron - Art\nSpecial thanks to:\nZapsplat - SFX\nLoops - BGM",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjYzMDY3NS8xNTcwMDM1NC5wbmc=/original/JRYxYK.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMDY3NS8xNTcwMDM1NS5wbmc=/original/Zg4q8O.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMDY3NS8xNTcwMDY2Ni5wbmc=/original/Sti6JK.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.7 out of 5 stars(3 total ratings)",
+          "Authors": "Chikin, snurlsss, H e r o n, Igotlazy",
+          "Genre": "Strategy",
+          "Made with": "Unity",
+          "Tags": "2D, fish, Singleplayer, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 2633932,
+      "gameUrl": "https://bitfehler.itch.io/ink-escape",
+      "overallRank": 86,
+      "topCategories": [
+        "Visuals"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1Njk2OTE5LnBuZw==/300x240%23c/f1fXCI.png",
+        "id": 2633932,
+        "contributors": [
+          {
+            "name": "BitFehler",
+            "id": 1332718
+          },
+          {
+            "name": "Nachito",
+            "id": 10204450
+          },
+          {
+            "name": "l0nz",
+            "id": 3898493
+          },
+          {
+            "name": "geckoparty",
+            "id": 10046482
+          },
+          {
+            "name": "Pixxiewin",
+            "id": 4788638
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Visuals",
+            "raw_score": 4.6153846153846,
+            "rank": 10,
+            "score": 4.6153846153846
+          },
+          {
+            "name": "Fun",
+            "raw_score": 3,
+            "rank": 209,
+            "score": 3
+          },
+          {
+            "name": "Creativity",
+            "raw_score": 3.6923076923077,
+            "rank": 126,
+            "score": 3.6923076923077
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.2692307692308,
+            "rank": 135,
+            "score": 3.2692307692308
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 4.1153846153846,
+            "rank": 113,
+            "score": 4.1153846153846
+          }
+        ],
+        "title": "Ink Escape",
+        "score": 3.7384615384615,
+        "rank": 86,
+        "raw_score": 3.7384615384615,
+        "rating_count": 26,
+        "url": "https://itch.io/jam/fishfest/rate/2633932"
+      },
+      "entryData": {
+        "coolness": 11,
+        "url": "/jam/fishfest/rate/2633932",
+        "id": 526693,
+        "created_at": "2024-04-08 22:59:15",
+        "contributors": [
+          {
+            "name": "BitFehler",
+            "url": "https://bitfehler.itch.io"
+          },
+          {
+            "name": "Nachito",
+            "url": "https://nachitovidela.itch.io"
+          },
+          {
+            "name": "l0nz",
+            "url": "https://l0nz.itch.io"
+          },
+          {
+            "name": "geckoparty",
+            "url": "https://geckoparty.itch.io"
+          },
+          {
+            "name": "Pixxiewin",
+            "url": "https://pixxiewin.itch.io"
+          }
+        ],
+        "rating_count": 26,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE1Njk2OTE5LnBuZw==/300x240%23c/f1fXCI.png",
+          "title": "Ink Escape",
+          "cover_color": "#30747a",
+          "id": 2633932,
+          "short_text": "Squiddle the squid is on a mission to save his children from evil dungeon fish and makes some friends along the way",
+          "platforms": [
+            "windows",
+            "linux",
+            "web"
+          ],
+          "user": {
+            "name": "BitFehler",
+            "url": "https://bitfehler.itch.io",
+            "id": 1332718
+          },
+          "url": "https://bitfehler.itch.io/ink-escape"
+        }
+      },
+      "details": {
+        "title": "Ink Escape",
+        "description": "Ink Escape\nSquiddle the squid is on a mission to save his children from evil dungeon fish and makes some friends along the way!\nThis is a project for the fishfest jam and everything was created within 7 days\n⚠️NOTE\nThe sounds and music seem to be quite a bit too silent, for a better experience we recommend playing the game with headphones!\nControls:\nControl:What?WASDMoving the playerMouse 1 / Left Mouse ButtonShootingMouse PositionAmingSpaceTackleWindows:\nDownload the .zip file\nRight click it, and unzip the file \nDouble click \"Ink Escape.exe\" to run the game!\n\nLinux:\nDownload the .zip file\nRight click it, and unzip the file\nOpen a terminal in the Install location and execute this command: \"chmod +x Ink Escape.x86_64\"\nDouble click \"Ink Escape.x86_64\" to run the game!\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjYzMzkzMi8xNTcxNTE3Ny5wbmc=/original/nal8DA.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMzkzMi8xNTcxNTE5NC5wbmc=/original/6kZBZP.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMzkzMi8xNTcxNTIwOC5wbmc=/original/jhgbU5.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, Linux",
+          "Authors": "BitFehler, Nachito, l0nz, geckoparty, Pixxiewin",
+          "Genre": "Adventure",
+          "Made with": "Godot, Krita",
+          "Tags": "3D, Dungeon Crawler, Godot, underwater",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 2634364,
+      "gameUrl": "https://brootalist.itch.io/fish-and-chops",
+      "overallRank": 117,
+      "topCategories": [
+        "Visuals"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1Njk4MzM5LnBuZw==/300x240%23c/Kecuav.png",
+        "id": 2634364,
+        "contributors": [
+          {
+            "name": "Brootalist",
+            "id": 10349561
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "raw_score": 3.6,
+            "rank": 149,
+            "score": 3.6
+          },
+          {
+            "name": "Fun",
+            "raw_score": 3.1,
+            "rank": 192,
+            "score": 3.1
+          },
+          {
+            "name": "Visuals",
+            "raw_score": 4.6,
+            "rank": 11,
+            "score": 4.6
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 3.1,
+            "rank": 325,
+            "score": 3.1
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.7,
+            "rank": 48,
+            "score": 3.7
+          }
+        ],
+        "title": "Fish and Chops",
+        "score": 3.62,
+        "rank": 117,
+        "raw_score": 3.62,
+        "rating_count": 10,
+        "url": "https://itch.io/jam/fishfest/rate/2634364"
+      },
+      "entryData": {
+        "coolness": 16,
+        "id": 526762,
+        "created_at": "2024-04-09 01:11:01",
+        "url": "/jam/fishfest/rate/2634364",
+        "rating_count": 10,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE1Njk4MzM5LnBuZw==/300x240%23c/Kecuav.png",
+          "title": "Fish and Chops",
+          "id": 2634364,
+          "short_text": "Chop fish to the rhythm!",
+          "platforms": [
+            "windows"
+          ],
+          "user": {
+            "name": "Brootalist",
+            "url": "https://brootalist.itch.io",
+            "id": 10349561
+          },
+          "url": "https://brootalist.itch.io/fish-and-chops"
+        }
+      },
+      "details": {
+        "title": "Fish and Chops",
+        "description": "You are a cat working at the top fish restaurant on the planet, chop fish correctly or the head chef will get mad! Made for FishFest 2024.In-browser HTML5 Version: https://brootalist.itch.io/html5-version?secret=B9lrDMauJ6Ms5Hbu96RmvobNYA",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjYzNDM2NC8xNTY5ODI0Ny5wbmc=/original/5txfT%2B.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Author": "Brootalist",
+          "Genre": "Rhythm",
+          "Tags": "2D, Cats, Cute"
+        }
+      }
+    },
+    {
+      "gameId": 2624180,
+      "gameUrl": "https://alvesito.itch.io/fish-battalion",
+      "overallRank": 11,
+      "topCategories": [
+        "Visuals",
+        "Audio",
+        "Fishiness(?)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1NzAyMzk5LmdpZg==/300x240%23c/OxeVeQ.gif",
+        "id": 2624180,
+        "contributors": [
+          {
+            "name": "alvesito",
+            "id": 7031253
+          },
+          {
+            "name": "aCalicoDragon",
+            "id": 3192299
+          },
+          {
+            "name": "sarn",
+            "id": 168485
+          },
+          {
+            "name": "Tetraminose",
+            "id": 2123401
+          },
+          {
+            "name": "ViktorRKraus",
+            "id": 1277437
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Fun",
+            "raw_score": 3.5925925925926,
+            "rank": 88,
+            "score": 3.5925925925926
+          },
+          {
+            "name": "Creativity",
+            "raw_score": 3.9259259259259,
+            "rank": 78,
+            "score": 3.9259259259259
+          },
+          {
+            "name": "Visuals",
+            "raw_score": 4.5925925925926,
+            "rank": 12,
+            "score": 4.5925925925926
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.1481481481481,
+            "rank": 7,
+            "score": 4.1481481481481
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 4.5925925925926,
+            "rank": 11,
+            "score": 4.5925925925926
+          }
+        ],
+        "title": "Fish Battalion",
+        "score": 4.1703703703704,
+        "rank": 11,
+        "raw_score": 4.1703703703704,
+        "rating_count": 27,
+        "url": "https://itch.io/jam/fishfest/rate/2624180"
+      },
+      "entryData": {
+        "coolness": 12,
+        "url": "/jam/fishfest/rate/2624180",
+        "id": 526408,
+        "created_at": "2024-04-08 19:23:00",
+        "contributors": [
+          {
+            "name": "alvesito",
+            "url": "https://alvesito.itch.io"
+          },
+          {
+            "name": "aCalicoDragon",
+            "url": "https://acalicodragon.itch.io"
+          },
+          {
+            "name": "sarn",
+            "url": "https://saturnyoshi.itch.io"
+          },
+          {
+            "name": "Tetraminose",
+            "url": "https://tetraminose.itch.io"
+          },
+          {
+            "name": "ViktorRKraus",
+            "url": "https://viktorrkraus.itch.io"
+          }
+        ],
+        "rating_count": 27,
+        "game": {
+          "gif_cover": "https://img.itch.zone/aW1nLzE1NzAyMzk5LmdpZg==/original/ksp9%2Fc.gif",
+          "id": 2624180,
+          "user": {
+            "name": "alvesito",
+            "url": "https://alvesito.itch.io",
+            "id": 7031253
+          },
+          "cover": "https://img.itch.zone/aW1nLzE1NzAyMzk5LmdpZg==/300x240%23c/OxeVeQ.gif",
+          "title": "Fish Battalion",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#131234",
+          "short_text": "Explore and make fishy friends as you navigate your way through the deep ocean in this aquatic roguelike!",
+          "url": "https://alvesito.itch.io/fish-battalion"
+        }
+      },
+      "details": {
+        "title": "Fish Battalion",
+        "description": "\"Explore and make fishy friends as you navigate your way through the deep ocean in this aquatic roguelike!\"\n \nPlay as a cute anglerfish exploring the perilous depths of the ocean, luring lesser fish into fighting for you! But beware—over time, your hunger grows, and your light dims. Will you risk battling your foes to feed, or will you cautiously consume your allies?\n\nWEB BUILD MIGHT HAVE LAG SPIKES. Consider downloading Windows build.\n\nControls\n\n\n    \n        WASD\n        Character movement\n    \n    \n        Mouse/Arrow keys\n        Camera movement\n    \n    \n        Left click/Spacebar\n        Bite: Eat your enemies and allies to regain health\n    \n    \n        Right click/Shift\n        Recall: Make smaller fish fight for you\n    \n\n\nCredits\n\nAlvesito (@alsitocpp): Programming, game design, some modelling\nSaturnyoshi (@plutobirdo): Programming\nCalico Dragon (@aCalicoDragon): Modelling, animation\nTetra (@Tetraminose): UI design\nViktor Kraus (@ViktorKraus2): Music and SFX\nSpecial thanks to  Oroshibu!\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjYyNDE4MC8xNTcwMjUzNS5naWY=/original/5V6b%2By.gif",
+          "https://img.itch.zone/aW1hZ2UvMjYyNDE4MC8xNTY5NzU1OC5naWY=/original/JpDAnJ.gif",
+          "https://img.itch.zone/aW1hZ2UvMjYyNDE4MC8xNTY5NzU5MC5naWY=/original/SeeFP1.gif",
+          "https://img.itch.zone/aW1hZ2UvMjYyNDE4MC8xNTY5NzQ1OS5wbmc=/original/JfznxF.png",
+          "https://img.itch.zone/aW1hZ2UvMjYyNDE4MC8xNTY5NzQ1OC5wbmc=/original/c0iFi3.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.5 out of 5 stars(2 total ratings)",
+          "Authors": "alvesito, aCalicoDragon, sarn, Tetraminose, ViktorRKraus",
+          "Genre": "Adventure",
+          "Made with": "Godot",
+          "Tags": "3D, Animals, Exploration, Fishing, Low-poly, Retro, Roguelike, Short, Singleplayer, Third Person"
+        }
+      }
+    },
+    {
+      "gameId": 2631641,
+      "gameUrl": "https://bulldoggames.itch.io/the-fissure",
+      "overallRank": 55,
+      "topCategories": [
+        "Visuals"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1NjkxNzc3LmpwZw==/300x240%23c/k0YPtR.jpg",
+        "id": 2631641,
+        "contributors": [
+          {
+            "name": "BulldogGames",
+            "id": 3251040
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Fun",
+            "raw_score": 3.0833333333333,
+            "rank": 195,
+            "score": 3.0833333333333
+          },
+          {
+            "name": "Visuals",
+            "raw_score": 4.5833333333333,
+            "rank": 13,
+            "score": 4.5833333333333
+          },
+          {
+            "name": "Creativity",
+            "raw_score": 4.0833333333333,
+            "rank": 41,
+            "score": 4.0833333333333
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.4166666666667,
+            "rank": 100,
+            "score": 3.4166666666667
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 4.0833333333333,
+            "rank": 122,
+            "score": 4.0833333333333
+          }
+        ],
+        "title": "The Fissure",
+        "score": 3.85,
+        "rank": 55,
+        "raw_score": 3.85,
+        "rating_count": 12,
+        "url": "https://itch.io/jam/fishfest/rate/2631641"
+      },
+      "entryData": {
+        "coolness": 31,
+        "id": 527433,
+        "created_at": "2024-04-12 00:27:08",
+        "url": "/jam/fishfest/rate/2631641",
+        "rating_count": 12,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE1NjkxNzc3LmpwZw==/300x240%23c/k0YPtR.jpg",
+          "title": "The Fissure",
+          "cover_color": "#117fae",
+          "id": 2631641,
+          "short_text": "Take photos of aquatic creatures in an immersive deep-sea ecosystem to gather evidence about the mysterious fissure.",
+          "platforms": [
+            "windows"
+          ],
+          "user": {
+            "name": "BulldogGames",
+            "url": "https://bulldoggames.itch.io",
+            "id": 3251040
+          },
+          "url": "https://bulldoggames.itch.io/the-fissure"
+        }
+      },
+      "details": {
+        "title": "The Fissure",
+        "description": "\nLocated on the precipice of “the fissure,” your job as a new recruit aboard the deep sea base, NOAH, is to take photos of ocean life. However, looking out into the abyss you feel as if something unknown may be lurking below. Discover the mystery of the affected environment and uncover what lies in “The Fissure.”\nGameplay\n- Gather evidence by snapping pictures of multiple depths in an aquatic ecosystem.\n- Earn points based on photo quality to upgrade your license.\n- Document a variety of creatures, such as the clownfish, shark, shrimp, anglerfish, and more!\n\nSubmitted to the FishFest game jam in April 2024",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjYzMTY0MS8xNTY5MTc5OC5wbmc=/original/3y094O.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMTY0MS8xNTY5MTgwNS5wbmc=/original/zM6YZm.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMTY0MS8xNTY5MTgwMC5wbmc=/original/8kcmGS.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMTY0MS8xNTY5MTgwMS5wbmc=/original/rGybr4.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMTY0MS8xNTY5MTc5Ni5wbmc=/original/e%2FT9m%2F.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMTY0MS8xNTY5MTgxMC5wbmc=/original/0gaW49.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 3.5 out of 5 stars(4 total ratings)",
+          "Author": "BulldogGames",
+          "Genre": "Adventure, Strategy",
+          "Tags": "3D, aquatic, Fishing, Immersive, Mystery, photography, Singleplayer, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 2631978,
+      "gameUrl": "https://mike-27.itch.io/prawn-stars",
+      "overallRank": 42,
+      "topCategories": [
+        "Visuals",
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1Njk1ODIwLnBuZw==/300x240%23c/69RT1t.png",
+        "id": 2631978,
+        "contributors": [
+          {
+            "name": "Mike 27",
+            "id": 7926121
+          },
+          {
+            "name": "cloetta89",
+            "id": 4304402
+          },
+          {
+            "name": "Leafitalonee",
+            "id": 10252527
+          },
+          {
+            "name": "mattstell",
+            "id": 10254918
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "raw_score": 3.6341463414634,
+            "rank": 143,
+            "score": 3.6341463414634
+          },
+          {
+            "name": "Visuals",
+            "raw_score": 4.5609756097561,
+            "rank": 14,
+            "score": 4.5609756097561
+          },
+          {
+            "name": "Fun",
+            "raw_score": 3.6585365853659,
+            "rank": 77,
+            "score": 3.6585365853659
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.0731707317073,
+            "rank": 10,
+            "score": 4.0731707317073
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 3.7560975609756,
+            "rank": 197,
+            "score": 3.7560975609756
+          }
+        ],
+        "title": "Prawn Stars",
+        "score": 3.9365853658537,
+        "rank": 42,
+        "raw_score": 3.9365853658537,
+        "rating_count": 41,
+        "url": "https://itch.io/jam/fishfest/rate/2631978"
+      },
+      "entryData": {
+        "coolness": 14,
+        "url": "/jam/fishfest/rate/2631978",
+        "id": 526766,
+        "created_at": "2024-04-09 01:22:04",
+        "contributors": [
+          {
+            "name": "Mike 27",
+            "url": "https://mike-27.itch.io"
+          },
+          {
+            "name": "cloetta89",
+            "url": "https://cloetta89.itch.io"
+          },
+          {
+            "name": "Leafitalonee",
+            "url": "https://leafitalonee.itch.io"
+          },
+          {
+            "name": "mattstell",
+            "url": "https://mattstell.itch.io"
+          }
+        ],
+        "rating_count": 41,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE1Njk1ODIwLnBuZw==/300x240%23c/69RT1t.png",
+          "title": "Prawn Stars",
+          "cover_color": "#282828",
+          "id": 2631978,
+          "short_text": "A frantically fun fish themed rhythm game.",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Mike 27",
+            "url": "https://mike-27.itch.io",
+            "id": 7926121
+          },
+          "url": "https://mike-27.itch.io/prawn-stars"
+        }
+      },
+      "details": {
+        "title": "Prawn Stars",
+        "description": "\nControls:\nW/A/S/D or Arrow Keys: Play NotesEscape: Pause Menu\nDo you have the Prawn Factor?\n\n\nTake on the challenge and perform in this classic rhythm game! Hit the right keys in time with the notes and put on the show of a lifetime. Progress through three musical acts challenging your reactions and timing. It's shrimple!Art, UI, Audio and Code are all provided and produced by the amazing people below:\nCredits:\nMike 27:  Lead Game & UI Designer, Technical Designer & Project Managercloetta89: Lead Programmer leafitalonee: 2D Artist (Concept, Character, Environment & Props)mattstell: Audio Designer and ComposerMade in 7 days! \nDisclaimer: Only one shrimp was harmed during the making of this game.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjYzMTk3OC8xNTcwMTcwMy5wbmc=/original/U1ZS1Y.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMTk3OC8xNTcwMTcxMi5wbmc=/original/zVvUEH.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMTk3OC8xNTcwMTcyMC5wbmc=/original/jewwSS.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Authors": "Mike 27, cloetta89, Leafitalonee, mattstell",
+          "Genre": "Rhythm",
+          "Made with": "Unity",
+          "Tags": "2D, fish, Indie, Music, Singleplayer, stylized, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 2626067,
+      "gameUrl": "https://laxmax85.itch.io/axolotl-to-space",
+      "overallRank": 5,
+      "topCategories": [
+        "Visuals",
+        "Creativity",
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1NzIzMjk4LmpwZw==/300x240%23c/zjmH4W.jpg",
+        "id": 2626067,
+        "contributors": [
+          {
+            "name": "laxmax85",
+            "id": 6268973
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Fun",
+            "raw_score": 4,
+            "rank": 27,
+            "score": 4
+          },
+          {
+            "name": "Visuals",
+            "raw_score": 4.5555555555556,
+            "rank": 15,
+            "score": 4.5555555555556
+          },
+          {
+            "name": "Creativity",
+            "raw_score": 4.6666666666667,
+            "rank": 2,
+            "score": 4.6666666666667
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.3333333333333,
+            "rank": 2,
+            "score": 4.3333333333333
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 4.3333333333333,
+            "rank": 54,
+            "score": 4.3333333333333
+          }
+        ],
+        "title": "Axolotl To Space",
+        "score": 4.3777777777778,
+        "rank": 5,
+        "raw_score": 4.3777777777778,
+        "rating_count": 9,
+        "url": "https://itch.io/jam/fishfest/rate/2626067"
+      },
+      "entryData": {
+        "coolness": 5,
+        "id": 526336,
+        "created_at": "2024-04-08 17:23:03",
+        "url": "/jam/fishfest/rate/2626067",
+        "rating_count": 9,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE1NzIzMjk4LmpwZw==/300x240%23c/zjmH4W.jpg",
+          "title": "Axolotl To Space",
+          "cover_color": "#eeeeee",
+          "id": 2626067,
+          "platforms": [
+            "windows"
+          ],
+          "user": {
+            "name": "laxmax85",
+            "url": "https://laxmax85.itch.io",
+            "id": 6268973
+          },
+          "url": "https://laxmax85.itch.io/axolotl-to-space"
+        }
+      },
+      "details": {
+        "title": "Axolotl To Space",
+        "description": "Description\nAxolotl to space is a puzzle mini game with 7 different areas made during the Fish Fest Game Jam 2024.\n\nLore\nIn a world where humans never existed and were sealife are the dominant lifeforms on earth. But now they are driven away by preditors. Not only that the nation of axolotl are also on a brink of war the only solution? To expand to space of course! \n\nControls\nWASD - Move\nE - Pick up item\nF - Interact\nSpace - Continue Dialogue\nEsc - Pause game\n\nContributers\nLaxmax85 : Programming, Level Design, Art\nhttps://laxmax85.itch.io/\nAmnesiaSilence : Musics\nhttps://www.youtube.com/channel/UCpSIi77X4YDGjMIogmxeiRQ\nMadeUpName : Level Design\nKptain_Infini : Sound Design, Ending music, Level Design, Art\nhttps://www.youtube.com/channel/UCzD5bZEIrGHfCqyTbo-K9TQ\n\nUsed Asset Packs\nAxolotl: https://pop-shop-packs.itch.io/axolotl-pixel-asset-pack\nTilemap: https://chimplement.itch.io/crater-caverns\nSpaceship: https://foozlecc.itch.io/void-main-ship\nfish: https://free-game-assets.itch.io/octopus-jellyfish-shark-and-turtle-free-sprite-...\nBackground: https://opengameart.org/content/pixelated-sunset-behind-the-clouds-game-backgrou...\n\nBUGS, A LOT OF THEM!\nYes there are bugs some of them are clipping through walls when rotating the carackter as well as getting soft locked on puzzles we will fix them after the jam if the game gets some appreciation, so thank you for your Support!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjYyNjA2Ny8xNTY5MjMwOC5wbmc=/original/j0QOrj.png",
+          "https://img.itch.zone/aW1hZ2UvMjYyNjA2Ny8xNTY5MjMwOS5wbmc=/original/gIRFfH.png",
+          "https://img.itch.zone/aW1hZ2UvMjYyNjA2Ny8xNTY5MjMwNy5wbmc=/original/oYhZJw.png",
+          "https://img.itch.zone/aW1hZ2UvMjYyNjA2Ny8xNTY3NjIzNS5wbmc=/original/ELj2ff.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "laxmax85",
+          "Genre": "Puzzle"
+        }
+      }
+    },
+    {
+      "gameId": 2620623,
+      "gameUrl": "https://splendiddog.itch.io/fishstellations",
+      "overallRank": 12,
+      "topCategories": [
+        "Creativity",
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1NjUwMjcyLmdpZg==/300x240%23c/lfcYXf.gif",
+        "id": 2620623,
+        "contributors": [
+          {
+            "name": "SplendidDog",
+            "id": 1445756
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Fun",
+            "raw_score": 3.8444444444444,
+            "rank": 52,
+            "score": 3.8444444444444
+          },
+          {
+            "name": "Visuals",
+            "raw_score": 4.3555555555556,
+            "rank": 35,
+            "score": 4.3555555555556
+          },
+          {
+            "name": "Creativity",
+            "raw_score": 4.4222222222222,
+            "rank": 8,
+            "score": 4.4222222222222
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.1555555555556,
+            "rank": 5,
+            "score": 4.1555555555556
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 4.0222222222222,
+            "rank": 137,
+            "score": 4.0222222222222
+          }
+        ],
+        "title": "Fishstellations",
+        "score": 4.16,
+        "rank": 12,
+        "raw_score": 4.16,
+        "rating_count": 45,
+        "url": "https://itch.io/jam/fishfest/rate/2620623"
+      },
+      "entryData": {
+        "coolness": 23,
+        "id": 525948,
+        "created_at": "2024-04-07 21:03:55",
+        "url": "/jam/fishfest/rate/2620623",
+        "rating_count": 45,
+        "game": {
+          "gif_cover": "https://img.itch.zone/aW1nLzE1NjUwMjcyLmdpZg==/original/TL6z65.gif",
+          "id": 2620623,
+          "user": {
+            "name": "SplendidDog",
+            "url": "https://splendiddog.itch.io",
+            "id": 1445756
+          },
+          "cover": "https://img.itch.zone/aW1nLzE1NjUwMjcyLmdpZg==/300x240%23c/lfcYXf.gif",
+          "title": "Fishstellations",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#eeeeee",
+          "short_text": "A game about guiding fishes home.",
+          "url": "https://splendiddog.itch.io/fishstellations"
+        }
+      },
+      "details": {
+        "title": "Fishstellations",
+        "description": "IMPORTANT: This game currently only has mouse support. \nClick fish and drag to fling them in direction of mouseScroll middle mouse button to Zoom In/OutPress 'R' to restart the current level\nFishstellations is an adorable short game about helping guide fish back home to complete constellations!\nCreated in a week for the FishFest 2024 Game Jam!\n\n\n\nCredits\nGameplay,  Art - Chase Middleton / SplendidDog\"SplendidDog Intro Music\" - Composed by Roy Wasilco\n\nExtra SFX & Music provided by ZapSplat.com\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE1NjUwMjcyLmdpZg==/original/TL6z65.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "SplendidDog",
+          "Genre": "Puzzle, Strategy",
+          "Made with": "Aseprite, Godot",
+          "Tags": "2D, Casual, Cute, Non violent, Pixel Art, Short, Simple, Singleplayer, Surreal",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Mouse",
+          "Accessibility": "Subtitles, One button",
+          "Links": "Twitter/X, Home Website"
+        }
+      }
+    },
+    {
+      "gameId": 2622938,
+      "gameUrl": "https://kiwijuice56.itch.io/void-fish",
+      "overallRank": 20,
+      "topCategories": [
+        "Creativity"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1NjcyNTI1LnBuZw==/300x240%23c/y%2BCQkQ.png",
+        "id": 2622938,
+        "contributors": [
+          {
+            "name": "Lucy B. Locks",
+            "id": 4450828
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Fun",
+            "raw_score": 3.575,
+            "rank": 94,
+            "score": 3.575
+          },
+          {
+            "name": "Visuals",
+            "raw_score": 4.4,
+            "rank": 30,
+            "score": 4.4
+          },
+          {
+            "name": "Creativity",
+            "raw_score": 4.4,
+            "rank": 9,
+            "score": 4.4
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 4.025,
+            "rank": 136,
+            "score": 4.025
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.925,
+            "rank": 26,
+            "score": 3.925
+          }
+        ],
+        "title": "Void Fish",
+        "score": 4.065,
+        "rank": 20,
+        "raw_score": 4.065,
+        "rating_count": 40,
+        "url": "https://itch.io/jam/fishfest/rate/2622938"
+      },
+      "entryData": {
+        "coolness": 7,
+        "id": 525429,
+        "created_at": "2024-04-07 03:52:22",
+        "url": "/jam/fishfest/rate/2622938",
+        "rating_count": 40,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE1NjcyNTI1LnBuZw==/300x240%23c/y%2BCQkQ.png",
+          "title": "Void Fish",
+          "cover_color": "#000000",
+          "id": 2622938,
+          "short_text": "You're a small fish in an infinite and unforgiving pond",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "Lucy B. Locks",
+            "url": "https://kiwijuice56.itch.io",
+            "id": 4450828
+          },
+          "url": "https://kiwijuice56.itch.io/void-fish"
+        }
+      },
+      "details": {
+        "title": "Void Fish",
+        "description": "your objective is to survive.\nguide and expand your flock of fish to traverse the void. gather food pellets to lay eggs and hatch more fish. the fish in your flock can help distract predators and also take over if your leader fish dies.controls:\nleft mouse: gather your flock towards the leader. your leader fish follows your mouse by default.right mouse: lay eggs (if available) that hatch into more fish.esc: freezes your leader fish in place \nheadphones recommended. windows build may run better than web build.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjYyMjkzOC8xNTY3MjU2Mi5naWY=/original/Kp4yi0.gif",
+          "https://img.itch.zone/aW1hZ2UvMjYyMjkzOC8xNTY3MjYxMC5wbmc=/original/XbrI4m.png",
+          "https://img.itch.zone/aW1hZ2UvMjYyMjkzOC8xNTY3MjYwOS5wbmc=/original/EDAiEo.png",
+          "https://img.itch.zone/aW1hZ2UvMjYyMjkzOC8xNTY3MjYwNy5wbmc=/original/hBbOOT.png",
+          "https://img.itch.zone/aW1hZ2UvMjYyMjkzOC8xNTY3MjYwOC5wbmc=/original/XoZeDa.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Author": "Lucy B. Locks",
+          "Genre": "Survival, Adventure",
+          "Made with": "Godot",
+          "Tags": "2D, Atmospheric, Creepy, Exploration, Horror, Mouse only, nature, Singleplayer, Top-Down",
+          "Code license": "MIT License",
+          "Asset license": "Creative Commons Attribution v4.0 International",
+          "Average session": "About a half-hour",
+          "Inputs": "Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 2632070,
+      "gameUrl": "https://1celery.itch.io/youll-regret-that",
+      "overallRank": 137,
+      "topCategories": [
+        "Creativity"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1NjgzOTA4LnBuZw==/300x240%23c/olPwDM.png",
+        "id": 2632070,
+        "contributors": [
+          {
+            "name": "1Celery",
+            "id": 9776029
+          },
+          {
+            "name": "Lemonz",
+            "id": 6933145
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Visuals",
+            "raw_score": 2.7254901960784,
+            "rank": 299,
+            "score": 2.7254901960784
+          },
+          {
+            "name": "Fun",
+            "raw_score": 3.3333333333333,
+            "rank": 138,
+            "score": 3.3333333333333
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 3.921568627451,
+            "rank": 162,
+            "score": 3.921568627451
+          },
+          {
+            "name": "Creativity",
+            "raw_score": 4.3725490196078,
+            "rank": 10,
+            "score": 4.3725490196078
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.4117647058824,
+            "rank": 101,
+            "score": 3.4117647058824
+          }
+        ],
+        "title": "You'll Regret That",
+        "score": 3.5529411764706,
+        "rank": 137,
+        "raw_score": 3.5529411764706,
+        "rating_count": 51,
+        "url": "https://itch.io/jam/fishfest/rate/2632070"
+      },
+      "entryData": {
+        "coolness": 59,
+        "url": "/jam/fishfest/rate/2632070",
+        "id": 526188,
+        "created_at": "2024-04-08 06:45:18",
+        "contributors": [
+          {
+            "name": "1Celery",
+            "url": "https://1celery.itch.io"
+          },
+          {
+            "name": "Lemonz",
+            "url": "https://the-lemon-dude.itch.io"
+          }
+        ],
+        "rating_count": 51,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE1NjgzOTA4LnBuZw==/300x240%23c/olPwDM.png",
+          "title": "You'll Regret That",
+          "cover_color": "#b0ddfd",
+          "id": 2632070,
+          "short_text": "A fast paced phishing puzzle game",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "1Celery",
+            "url": "https://1celery.itch.io",
+            "id": 9776029
+          },
+          "url": "https://1celery.itch.io/youll-regret-that"
+        }
+      },
+      "details": {
+        "title": "You'll Regret That",
+        "description": "You'll Regret That (Audio Required)\nMade in 1 week for the the Fish Fest\nYou are a fish named Henry who is seeking his revenge against the fishermen who murdered his family with Phishing attacks!  You connect to your targets computer for 30 seconds to read their emails and then you compose a phishing email based on what you saw. \nArt by: https://the-lemon-dude.itch.io/\nMusic and voice acting by: https://itch.io/profile/fk-sterling\nIdeas and a little bit of writing by: Cash (Hambone) Fishburne\nDevelopment by me",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjYzMjA3MC8xNTY5Njg0MS5wbmc=/original/V4k43a.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMjA3MC8xNTY5Njg0Mi5wbmc=/original/QImb41.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMjA3MC8xNTY5Njg0NC5wbmc=/original/YHJxRR.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMjA3MC8xNTY5Njg0Ni5wbmc=/original/fTdJVh.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Authors": "1Celery, Lemonz",
+          "Genre": "Strategy, Puzzle",
+          "Made with": "Unity",
+          "Tags": "2D, computer, Fast-Paced, Game Jam, Mouse only, Pixel Art, timer"
+        }
+      }
+    },
+    {
+      "gameId": 2631780,
+      "gameUrl": "https://cyps.itch.io/idkissthatfish",
+      "overallRank": 25,
+      "topCategories": [
+        "Creativity"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1NjkzMTMyLnBuZw==/300x240%23c/KmVa%2Bp.png",
+        "id": 2631780,
+        "contributors": [
+          {
+            "name": "cyps",
+            "id": 1880383
+          },
+          {
+            "name": "sugarcyube",
+            "id": 1886901
+          },
+          {
+            "name": "Cal's Games",
+            "id": 3326442
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "raw_score": 4.34375,
+            "rank": 11,
+            "score": 4.34375
+          },
+          {
+            "name": "Fun",
+            "raw_score": 3.59375,
+            "rank": 87,
+            "score": 3.59375
+          },
+          {
+            "name": "Visuals",
+            "raw_score": 4.46875,
+            "rank": 19,
+            "score": 4.46875
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 4.375,
+            "rank": 48,
+            "score": 4.375
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.34375,
+            "rank": 115,
+            "score": 3.34375
+          }
+        ],
+        "title": "I'd kiss THAT fish!",
+        "score": 4.025,
+        "rank": 25,
+        "raw_score": 4.025,
+        "rating_count": 32,
+        "url": "https://itch.io/jam/fishfest/rate/2631780"
+      },
+      "entryData": {
+        "coolness": 28,
+        "url": "/jam/fishfest/rate/2631780",
+        "id": 526661,
+        "created_at": "2024-04-08 22:56:01",
+        "contributors": [
+          {
+            "name": "cyps",
+            "url": "https://cyps.itch.io"
+          },
+          {
+            "name": "sugarcyube",
+            "url": "https://sugarcyube.itch.io"
+          },
+          {
+            "name": "Cal's Games",
+            "url": "https://calumsarjeant.itch.io"
+          }
+        ],
+        "rating_count": 32,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE1NjkzMTMyLnBuZw==/300x240%23c/KmVa%2Bp.png",
+          "title": "I'd kiss THAT fish!",
+          "cover_color": "#232850",
+          "id": 2631780,
+          "short_text": "Create a new OC, Mascot or Friend in this FINtastic fish dressing game!",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "cyps",
+            "url": "https://cyps.itch.io",
+            "id": 1880383
+          },
+          "url": "https://cyps.itch.io/idkissthatfish"
+        }
+      },
+      "details": {
+        "title": "I'd kiss THAT fish!",
+        "description": "This is a fish dressing game where you can let your creativity run wild and create a new OC, Mascot or Friend!\n\nThis game was originally made for the FishFest Jam!!! 🐟🐟🐟\n\nMade by:\nProgramming & Shaders by cyps 👾\n\nArt & Sprites by sugarcyube🎨\nMusic & SFX by calum 🎶\n\n\nShortcuts:\nDuplicate Selected - Right click or Ctrl + D\nSelect All - Ctrl + A (Unselects all if already all selected)\nSelect Single - Ctrl + Click (Unselects if already selected)\nDelete Selected - X or Delete\nShrink Selected - S or Mousewheel Down\nGrow Selected - W or Mousewheel Up\nRotate Left - A or Mousewheel Down + Shift\nRotate Right - D or Mousewheel Up + Shift\nFlip Horizontal - F\nFlip Vertical - F + Shift\nSend to above layer - Q\nSend to below layer - E\nSend to top layer - Q + Shift\nSend to bottom layer - E + Shift",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjYzMTc4MC8xNTc5MDE3OS5wbmc=/original/EwKWgV.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMTc4MC8xNTY5NzE1Mi5wbmc=/original/WVxi9N.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMTc4MC8xNTczNTQ2NC5wbmc=/original/3SCn3U.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMTc4MC8xNTczNTQ2OC5wbmc=/original/NLxPQF.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMTc4MC8xNTY5NzE1NS5wbmc=/original/j2KQqp.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMTc4MC8xNTY5NzE1OS5wbmc=/original/WD1W7Y.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMTc4MC8xNTY5NzE2My5wbmc=/original/psJvP7.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMTc4MC8xNTY5NzE2OS5wbmc=/original/n7Kf7i.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMTc4MC8xNTY5NzE3MC5wbmc=/original/bKEV5K.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMTc4MC8xNTY5NzQ2Mi5wbmc=/original/NYzY12.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMTc4MC8xNTc5MDE4MS5wbmc=/original/O%2FlwGl.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.5 out of 5 stars(4 total ratings)",
+          "Authors": "cyps, sugarcyube, Cal's Games",
+          "Made with": "Godot",
+          "Tags": "2D, Casual, Cute, Dress Up, Fishing, Funny, Godot, Indie, Relaxing, Sprites",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse",
+          "Links": "Steam"
+        }
+      }
+    },
+    {
+      "gameId": 2631797,
+      "gameUrl": "https://guurff.itch.io/vive-la-fish",
+      "overallRank": 30,
+      "topCategories": [
+        "Creativity"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1NjgxOTI2LnBuZw==/300x240%23c/6ySHsZ.png",
+        "id": 2631797,
+        "contributors": [
+          {
+            "name": "Guurf",
+            "id": 3862059
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Fun",
+            "raw_score": 3.8333333333333,
+            "rank": 54,
+            "score": 3.8333333333333
+          },
+          {
+            "name": "Visuals",
+            "raw_score": 4.2083333333333,
+            "rank": 48,
+            "score": 4.2083333333333
+          },
+          {
+            "name": "Creativity",
+            "raw_score": 4.3333333333333,
+            "rank": 12,
+            "score": 4.3333333333333
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.25,
+            "rank": 138,
+            "score": 3.25
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 4.4166666666667,
+            "rank": 38,
+            "score": 4.4166666666667
+          }
+        ],
+        "title": "Vive La Fish",
+        "score": 4.0083333333333,
+        "rank": 30,
+        "raw_score": 4.0083333333333,
+        "rating_count": 24,
+        "url": "https://itch.io/jam/fishfest/rate/2631797"
+      },
+      "entryData": {
+        "coolness": 9,
+        "id": 526372,
+        "created_at": "2024-04-08 18:21:36",
+        "url": "/jam/fishfest/rate/2631797",
+        "rating_count": 24,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE1NjgxOTI2LnBuZw==/300x240%23c/6ySHsZ.png",
+          "title": "Vive La Fish",
+          "cover_color": "#0074b5",
+          "id": 2631797,
+          "short_text": "Flip and flop between restaurant goers and guards to free the sea creatures!",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Guurf",
+            "url": "https://guurff.itch.io",
+            "id": 3862059
+          },
+          "url": "https://guurff.itch.io/vive-la-fish"
+        }
+      },
+      "details": {
+        "title": "Vive La Fish",
+        "description": "Evil humans took your friends as food! Slip between their sights and smash open the tank to save them!\nMade for the FishFest Game Jam in like 3 days   I had no time lol\nI didn't have much time free for this gamejam but I like this idea so I'll probably expand on it in the future :)\nControls:\nWASD / Arrow keys - Move\n(Hold) Spacebar   - Stop Fish Friends\nESC               - Title\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjYzMTc5Ny8xNTY4MjY3NC5naWY=/original/YWkkkt.gif",
+          "https://img.itch.zone/aW1hZ2UvMjYzMTc5Ny8xNTY4MjY3MS5naWY=/original/3XOo8s.gif"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Author": "Guurf",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "fish, Stealth"
+        }
+      }
+    },
+    {
+      "gameId": 2633054,
+      "gameUrl": "https://karelessocelot.itch.io/catching-a-date",
+      "overallRank": 123,
+      "topCategories": [
+        "Creativity"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1NjkwMDcxLnBuZw==/300x240%23c/yi44OJ.png",
+        "id": 2633054,
+        "contributors": [
+          {
+            "name": "karelessocelot",
+            "id": 6442044
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "raw_score": 4.2894736842105,
+            "rank": 15,
+            "score": 4.2894736842105
+          },
+          {
+            "name": "Fun",
+            "raw_score": 3.3157894736842,
+            "rank": 146,
+            "score": 3.3157894736842
+          },
+          {
+            "name": "Visuals",
+            "raw_score": 3.8684210526316,
+            "rank": 94,
+            "score": 3.8684210526316
+          },
+          {
+            "name": "Audio",
+            "raw_score": 2.7631578947368,
+            "rank": 225,
+            "score": 2.7631578947368
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 3.7894736842105,
+            "rank": 186,
+            "score": 3.7894736842105
+          }
+        ],
+        "title": "Catching a Date",
+        "score": 3.6052631578947,
+        "rank": 123,
+        "raw_score": 3.6052631578947,
+        "rating_count": 38,
+        "url": "https://itch.io/jam/fishfest/rate/2633054"
+      },
+      "entryData": {
+        "coolness": 100,
+        "id": 526305,
+        "created_at": "2024-04-08 16:07:47",
+        "url": "/jam/fishfest/rate/2633054",
+        "rating_count": 38,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE1NjkwMDcxLnBuZw==/300x240%23c/yi44OJ.png",
+          "title": "Catching a Date",
+          "cover_color": "#b2e0e6",
+          "id": 2633054,
+          "short_text": "You made a mistake and now there's fish to date.",
+          "platforms": [
+            "windows",
+            "osx",
+            "web"
+          ],
+          "user": {
+            "name": "karelessocelot",
+            "url": "https://karelessocelot.itch.io",
+            "id": 6442044
+          },
+          "url": "https://karelessocelot.itch.io/catching-a-date"
+        }
+      },
+      "details": {
+        "title": "Catching a Date",
+        "description": "\"Dammit! If only it wasn't so easy to throw car batteries into the ocean!\"\nNote: Contains fast-moving images and one minor jumpscare, as well as extremely minor horror elements. You have been warned.\nA fast-paced fishing/dating-sim game that can be played entirely with mouse!\nFish up phone numbers and get to meet new fish!\nBuild up your experience over time to score a date with one lucky (or unlucky) fish!\nGet eaten by a shark! Wait, what?\n\nEach run through the game takes around 4 minutes. Seriously, that's all the time you get.  Multiply that by the amount of endings you want to get.\nA visual guide for those who need it:\n\n\n\n\nIf you're tired of talking to the same types of fish, just change your tackle and you'll meet plenty (6 total) new faces! Maybe there's one you don't want to meet?\n\nIf you're tired of the game (I don't blame you, I am too), just hit escape to pause whenever you're not in a menu or talking to someone.\n\nalso for the one person who will complain \"ew windowed mode\" just hit enter and it'll fullscreen.\n\nAdditional features include:\n\nOutdated surrealist humor!\n3 different artstyles! Maybe even 4 if you count the UI!\nA terrible, terminally-online protagonist!\nHD+++++ quality fish!\nand even SECRET NPCS! (including a certain one who i will happily chuck at the wall :D)\n\nSome things to consider:\n\nPlease try to get eaten by sharks in the open. The shark is so powerful... that it may break your game. And that would be suboptimal.\nThere are 7 endings, each with an optional CG. If you wish to get the CG, please try to maximize your experience with talking to fish before dating your favorite one.\nAnswers change over time as you talk to more fish. Always remember to read and pick the BEST answer, not just the one you've been picking this entire time if you want to actually date one.\nyes it is on purpose that the fishing goes on without you. it is part of seth's terminally online powers of multitasking (i couldn't phrase this any other way without it sounding bad)\nCredits:\nThank you to Henry, Atomic Ant, and notaShrineMaiden for playtesting.\nFonts used are Art Club and Open Sans.\nSoftware used are Godot Engine, Firealpaca, and Garageband.\nThank you to Atomic Ant once again for this being the absolute mess that it is. Lastly, all other assets were made by me or recorded by me. Yes, even the art of the fish. And I programmed it but I think that was obvious.\n\n\n\nthank you for reading. hope you enjoy the game.\nWindows: Download the zip file, unzip by clicking \"Extract all\" or by right-clicking it and doing it from the context menu, and run it as normal (which is to say, double-click it and ignore all the warnings that Windows throws up if you want to play the game).\nMacOS: just run it dudeHTML build contains no music because otherwise it'd be too large. I got no time to test it so I can only hope it works.\nI can only guarantee that the Windows build works (to an extent) because I haven't extensively tested the latest version of the MacOS build.\nBy the way, don't reenact any of this IRL... making out with fish is probably illegal (I haven't checked) and throwing car batteries in the ocean is bad for the ocean (and probably your car).",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjYzMzA1NC8xNTcwMTM3Ny5wbmc=/original/zT8u1s.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMzA1NC8xNTY4OTU3My5wbmc=/original/VAUXzF.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMzA1NC8xNTY4OTU3NC5wbmc=/original/ayl1Jb.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMzA1NC8xNTY4OTU4Ni5wbmc=/original/mLz9ZO.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMzA1NC8xNTY4OTgxMS5wbmc=/original/64%2Fu0L.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS",
+          "Rating": "Rated 4.7 out of 5 stars(3 total ratings)",
+          "Author": "karelessocelot",
+          "Genre": "Simulation",
+          "Tags": "Comedy, Dating Sim, Fishing, Godot"
+        }
+      }
+    },
+    {
+      "gameId": 2633783,
+      "gameUrl": "https://playimu.itch.io/aqualiens",
+      "overallRank": 9,
+      "topCategories": [
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1Njk1MTUwLnBuZw==/300x240%23c/dE58OG.png",
+        "id": 2633783,
+        "contributors": [
+          {
+            "name": "Playimu",
+            "id": 3671460
+          },
+          {
+            "name": "MARROW",
+            "id": 4846192
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Fun",
+            "raw_score": 4,
+            "rank": 27,
+            "score": 4
+          },
+          {
+            "name": "Visuals",
+            "raw_score": 4.375,
+            "rank": 33,
+            "score": 4.375
+          },
+          {
+            "name": "Creativity",
+            "raw_score": 4.05,
+            "rank": 47,
+            "score": 4.05
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.075,
+            "rank": 9,
+            "score": 4.075
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 4.4,
+            "rank": 42,
+            "score": 4.4
+          }
+        ],
+        "title": "Aqualiens!",
+        "score": 4.18,
+        "rank": 9,
+        "raw_score": 4.18,
+        "rating_count": 40,
+        "url": "https://itch.io/jam/fishfest/rate/2633783"
+      },
+      "entryData": {
+        "coolness": 25,
+        "url": "/jam/fishfest/rate/2633783",
+        "id": 526517,
+        "created_at": "2024-04-08 21:39:50",
+        "contributors": [
+          {
+            "name": "Playimu",
+            "url": "https://playimu.itch.io"
+          },
+          {
+            "name": "MARROW",
+            "url": "https://marrowaudio.itch.io"
+          }
+        ],
+        "rating_count": 40,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE1Njk1MTUwLnBuZw==/300x240%23c/dE58OG.png",
+          "title": "Aqualiens!",
+          "cover_color": "#0f4bd3",
+          "id": 2633783,
+          "short_text": "Save your fish from the Aqualien Invaders!",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Playimu",
+            "url": "https://playimu.itch.io",
+            "id": 3671460
+          },
+          "url": "https://playimu.itch.io/aqualiens"
+        }
+      },
+      "details": {
+        "title": "Aqualiens!",
+        "description": "Take care of your new pet fish while you defend it from Aliens that want to eat it!\nsatisfy the needs of your pet fish to earn money and purchase upgrades (to make more money!)\nMouse is required to play.\nCredits:\nGame by Playimu\nMusic by MarrowColor palette: Mega Drive Blue",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjYzMzc4My8xNTY5NTY5My5naWY=/original/EyKO33.gif",
+          "https://img.itch.zone/aW1hZ2UvMjYzMzc4My8xNTY5NTY5Mi5wbmc=/original/6%2FQYM%2B.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Authors": "Playimu, MARROW",
+          "Genre": "Action",
+          "Tags": "2D, Arcade, Clicker, Pixel Art, Roguelike, Short, Singleplayer, Virtual Pet"
+        }
+      }
+    },
+    {
+      "gameId": 2633992,
+      "gameUrl": "https://benjohnson03.itch.io/super-fish-defence",
+      "overallRank": 7,
+      "topCategories": [
+        "Audio",
+        "Fishiness(?)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1Njk2ODI0LnBuZw==/300x240%23c/RnitqY.png",
+        "id": 2633992,
+        "contributors": [
+          {
+            "name": "BenJohnson03",
+            "id": 2283527
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Fun",
+            "raw_score": 3.9666666666667,
+            "rank": 34,
+            "score": 3.9666666666667
+          },
+          {
+            "name": "Creativity",
+            "raw_score": 3.9666666666667,
+            "rank": 69,
+            "score": 3.9666666666667
+          },
+          {
+            "name": "Visuals",
+            "raw_score": 4.4333333333333,
+            "rank": 27,
+            "score": 4.4333333333333
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 4.5666666666667,
+            "rank": 12,
+            "score": 4.5666666666667
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.0666666666667,
+            "rank": 11,
+            "score": 4.0666666666667
+          }
+        ],
+        "title": "[JAM] Super Fish Defence",
+        "score": 4.2,
+        "rank": 7,
+        "raw_score": 4.2,
+        "rating_count": 30,
+        "url": "https://itch.io/jam/fishfest/rate/2633992"
+      },
+      "entryData": {
+        "coolness": 1,
+        "id": 526617,
+        "created_at": "2024-04-08 22:42:10",
+        "url": "/jam/fishfest/rate/2633992",
+        "rating_count": 30,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE1Njk2ODI0LnBuZw==/300x240%23c/RnitqY.png",
+          "title": "[JAM] Super Fish Defence",
+          "cover_color": "#2c1b2e",
+          "id": 2633992,
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "BenJohnson03",
+            "url": "https://benjohnson03.itch.io",
+            "id": 2283527
+          },
+          "url": "https://benjohnson03.itch.io/super-fish-defence"
+        }
+      },
+      "details": {
+        "title": "[JAM] Super Fish Defence",
+        "description": "SUPER FISH DEFENCE\nA small fish roguelike tower defense made in 7 days for FishFest game jam hosted by PossiblyAxolotl. Fullscreen experience is best!\nMusic by Sam M.\nKenney Assets Sound Effects.",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE1Njk2ODI0LnBuZw==/original/osjk7r.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Author": "BenJohnson03",
+          "Genre": "Strategy",
+          "Made with": "Unity",
+          "Tags": "2D, Atmospheric, fish-fest, Game Jam, Pixel Art, Roguelike, Tower Defense"
+        }
+      }
+    },
+    {
+      "gameId": 2633542,
+      "gameUrl": "https://troingle.itch.io/fishtoxication",
+      "overallRank": 64,
+      "topCategories": [
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1NjkyNjIyLnBuZw==/300x240%23c/3VxiIx.png",
+        "id": 2633542,
+        "contributors": [
+          {
+            "name": "‎‎‎troingle",
+            "id": 5808666
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Fun",
+            "raw_score": 3.5882352941176,
+            "rank": 91,
+            "score": 3.5882352941176
+          },
+          {
+            "name": "Visuals",
+            "raw_score": 4.1176470588235,
+            "rank": 62,
+            "score": 4.1176470588235
+          },
+          {
+            "name": "Creativity",
+            "raw_score": 4.0588235294118,
+            "rank": 44,
+            "score": 4.0588235294118
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.0588235294118,
+            "rank": 12,
+            "score": 4.0588235294118
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 3.2352941176471,
+            "rank": 304,
+            "score": 3.2352941176471
+          }
+        ],
+        "title": "FISHTOXICATION",
+        "score": 3.8117647058824,
+        "rank": 64,
+        "raw_score": 3.8117647058824,
+        "rating_count": 17,
+        "url": "https://itch.io/jam/fishfest/rate/2633542"
+      },
+      "entryData": {
+        "coolness": 17,
+        "id": 526358,
+        "created_at": "2024-04-08 18:00:24",
+        "url": "/jam/fishfest/rate/2633542",
+        "rating_count": 17,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE1NjkyNjIyLnBuZw==/300x240%23c/3VxiIx.png",
+          "title": "FISHTOXICATION",
+          "cover_color": "#000000",
+          "id": 2633542,
+          "short_text": "a short horror game",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "‎‎‎troingle",
+            "url": "https://troingle.itch.io",
+            "id": 5808666
+          },
+          "url": "https://troingle.itch.io/fishtoxication"
+        }
+      },
+      "details": {
+        "title": "FISHTOXICATION",
+        "description": "a short horror game about feeding your fish. nothing else\n\ndon't forget to feed the fish.\n\npossibly not finding the fish is not an excuse.\n\n\n\ncreated for fishfest\nthe browser version might be a bit buggy, especially on low-end computers, but should be playable. if you're experiencing issues the downloadable version should work better",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE1NjkyNjIyLnBuZw==/original/c9etYq.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Author": "‎‎‎troingle",
+          "Genre": "Adventure",
+          "Made with": "Godot",
+          "Tags": "3D, First-Person, Horror, Retro, Short, weird"
+        }
+      }
+    },
+    {
+      "gameId": 2634211,
+      "gameUrl": "https://deadm3m3.itch.io/s",
+      "overallRank": 32,
+      "topCategories": [
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1Njk4OTYzLnBuZw==/300x240%23c/YmFEX%2B.png",
+        "id": 2634211,
+        "contributors": [
+          {
+            "name": "DeadM3M3",
+            "id": 546861
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Fun",
+            "raw_score": 3.7777777777778,
+            "rank": 59,
+            "score": 3.7777777777778
+          },
+          {
+            "name": "Visuals",
+            "raw_score": 3.3333333333333,
+            "rank": 182,
+            "score": 3.3333333333333
+          },
+          {
+            "name": "Creativity",
+            "raw_score": 4.2777777777778,
+            "rank": 16,
+            "score": 4.2777777777778
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.0555555555556,
+            "rank": 13,
+            "score": 4.0555555555556
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 4.5,
+            "rank": 18,
+            "score": 4.5
+          }
+        ],
+        "title": "Fish Slap",
+        "score": 3.9888888888889,
+        "rank": 32,
+        "raw_score": 3.9888888888889,
+        "rating_count": 18,
+        "url": "https://itch.io/jam/fishfest/rate/2634211"
+      },
+      "entryData": {
+        "coolness": 37,
+        "id": 526673,
+        "created_at": "2024-04-08 22:57:30",
+        "url": "/jam/fishfest/rate/2634211",
+        "rating_count": 18,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE1Njk4OTYzLnBuZw==/300x240%23c/YmFEX%2B.png",
+          "title": "Fish Slap",
+          "cover_color": "#2587c2",
+          "id": 2634211,
+          "platforms": [
+            "windows",
+            "linux",
+            "web"
+          ],
+          "user": {
+            "name": "DeadM3M3",
+            "url": "https://deadm3m3.itch.io",
+            "id": 546861
+          },
+          "url": "https://deadm3m3.itch.io/s"
+        }
+      },
+      "details": {
+        "title": "Fish Slap",
+        "description": "Fish Slap is a game where you compete to be the best fish slapper\n\n\nClick and move the mouse to slapEsc to skipP to pause (esc in build)\nModels: burnt mcnuggieSFX: Spyder\nMusic: Fosil https://www.youtube.com/@fosil7260'>https://www.youtube.com/@fosil72602D UI yogieiefe\nTextures smolbraincells/smolsteakCoin & Voice Actor: ianotheruserRef Fish: jqsonProgramming: Me\ndownload and extract zip",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjYzNDIxMS8xNTcwOTg5MS5wbmc=/original/XY%2BSGj.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzNDIxMS8xNTcwOTg1MC5wbmc=/original/LmU8D3.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzNDIxMS8xNTcwOTg5My5wbmc=/original/YjfKG9.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzNDIxMS8xNTcwOTg1NC5wbmc=/original/BGUiBU.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzNDIxMS8xNTcwOTg1Ny5wbmc=/original/KYL2Ct.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzNDIxMS8xNTcwOTg1NS5wbmc=/original/vdw0MV.png"
+        ],
+        "moreInfo": {
+          "Status": "On hold",
+          "Platforms": "HTML5, Windows, Linux",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "DeadM3M3",
+          "Genre": "Fighting",
+          "Made with": "Unity",
+          "Tags": "3D, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 2633297,
+      "gameUrl": "https://lizardlike.itch.io/this-fish",
+      "overallRank": 37,
+      "topCategories": [
+        "Audio"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1NzAyODgwLmpwZw==/300x240%23c/1ClFiS.jpg",
+        "id": 2633297,
+        "contributors": [
+          {
+            "name": "Lizardlike",
+            "id": 9150239
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Visuals",
+            "raw_score": 4.4054054054054,
+            "rank": 29,
+            "score": 4.4054054054054
+          },
+          {
+            "name": "Fun",
+            "raw_score": 4.0810810810811,
+            "rank": 20,
+            "score": 4.0810810810811
+          },
+          {
+            "name": "Creativity",
+            "raw_score": 3.6756756756757,
+            "rank": 130,
+            "score": 3.6756756756757
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.0540540540541,
+            "rank": 14,
+            "score": 4.0540540540541
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 3.6756756756757,
+            "rank": 212,
+            "score": 3.6756756756757
+          }
+        ],
+        "title": "This Fish",
+        "score": 3.9783783783784,
+        "rank": 37,
+        "raw_score": 3.9783783783784,
+        "rating_count": 37,
+        "url": "https://itch.io/jam/fishfest/rate/2633297"
+      },
+      "entryData": {
+        "coolness": 2,
+        "id": 526380,
+        "created_at": "2024-04-08 18:39:21",
+        "url": "/jam/fishfest/rate/2633297",
+        "rating_count": 37,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE1NzAyODgwLmpwZw==/300x240%23c/1ClFiS.jpg",
+          "title": "This Fish",
+          "cover_color": "#08181f",
+          "id": 2633297,
+          "short_text": "This fish has had enough. Kill as many humans as you can.",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "Lizardlike",
+            "url": "https://lizardlike.itch.io",
+            "id": 9150239
+          },
+          "url": "https://lizardlike.itch.io/this-fish"
+        }
+      },
+      "details": {
+        "title": "This Fish",
+        "description": "WARNING: The game might not run smoothly in the browser. Download it for the best experience.\n\nThis fish has had enough.\n\n\nKill as many humans as you can before you die!\n\nI made this game in about 4 days for the FishFest game jam.\nI made all of the art, animations, effects, code, music, and sounds by myself.Download the .zip file\nExtract it\nOpen This Fish.exe\nKill",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjYzMzI5Ny8xNTcwNTg2OS5naWY=/original/G2RAav.gif",
+          "https://img.itch.zone/aW1hZ2UvMjYzMzI5Ny8xNTY5NTcwNC5wbmc=/original/xoVCA0.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMzI5Ny8xNTY5NTcwOC5wbmc=/original/wtODla.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMzI5Ny8xNTY5NTcwNS5wbmc=/original/EVFMYg.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMzI5Ny8xNTY5NTcwNi5wbmc=/original/FYb1O7.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMzI5Ny8xNTY5NTcwNy5wbmc=/original/xSVzHF.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.0 out of 5 stars(2 total ratings)",
+          "Author": "Lizardlike",
+          "Genre": "Action",
+          "Made with": "Unity",
+          "Tags": "2D, Arcade, Endless, Fast-Paced, Pixel Art, Shoot 'Em Up, Top down shooter"
+        }
+      }
+    },
+    {
+      "gameId": 2633545,
+      "gameUrl": "https://metal-bread.itch.io/long-live-tony",
+      "overallRank": 17,
+      "topCategories": [
+        "Audio",
+        "Fishiness(?)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1Njk3NDMxLnBuZw==/300x240%23c/IB7pyU.png",
+        "id": 2633545,
+        "contributors": [
+          {
+            "name": "Metal Bread",
+            "id": 10374200
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Fun",
+            "raw_score": 3.5909090909091,
+            "rank": 89,
+            "score": 3.5909090909091
+          },
+          {
+            "name": "Creativity",
+            "raw_score": 3.8181818181818,
+            "rank": 97,
+            "score": 3.8181818181818
+          },
+          {
+            "name": "Visuals",
+            "raw_score": 4.3181818181818,
+            "rank": 37,
+            "score": 4.3181818181818
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.0454545454545,
+            "rank": 15,
+            "score": 4.0454545454545
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 4.6363636363636,
+            "rank": 5,
+            "score": 4.6363636363636
+          }
+        ],
+        "title": "Long live Tony!",
+        "score": 4.0818181818182,
+        "rank": 17,
+        "raw_score": 4.0818181818182,
+        "rating_count": 22,
+        "url": "https://itch.io/jam/fishfest/rate/2633545"
+      },
+      "entryData": {
+        "coolness": 42,
+        "id": 526415,
+        "created_at": "2024-04-08 19:34:44",
+        "url": "/jam/fishfest/rate/2633545",
+        "rating_count": 22,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE1Njk3NDMxLnBuZw==/300x240%23c/IB7pyU.png",
+          "title": "Long live Tony!",
+          "cover_color": "#313131",
+          "id": 2633545,
+          "short_text": "Take care of your fish until their inevitable death in this pet sim meet rogue lite combo !",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Metal Bread",
+            "url": "https://metal-bread.itch.io",
+            "id": 10374200
+          },
+          "url": "https://metal-bread.itch.io/long-live-tony"
+        }
+      },
+      "details": {
+        "title": "Long live Tony!",
+        "description": "\nFish are adorable and deserve the best through their life!\n\nThat's why in Long live Tony! you take care of your fish to make them the happiest possible before the inevitable end of their life .\nFeed them, wash them, play with them, keep them happy, but be careful! Your fish needs a lot of attention, neglecting them is not an option.\nAnd to better your chances, there may be a way to gain a little bit of cash selling some old stuff lying around to purchase better tools and take care of a lot more fish even more demanding!\n\nHow  to play:\nUse your mouse's cursor and left click to interact with the game. Earn the most amount of money after each run and take care of as many fish as you can!\nTake the time to name your fish! Form a special bond with them, forever and ever.\nThe circular bars on the left will deplete over time based on different factors:\nThe moral circle will decrease if other circles are orange or red and will increase if all of them are green (except for the life circle).The food circle decreases over time and increases when feeding the fish.The hygiene circle will decrease based on the amount of smudge on the fish tank and will increase when they get cleaned.The entertainment circle decreases over time and increases when entertaining the fish.The life circle decreases over time and there is nothing you can do about that, it's inevitable.\nIf any of the circle bars decreases to 0, the run ends. The run is considered failed if the first circle bar to get to zero isn't the fish's life which will make you earn less money.\nThe icons at the bottom are the tools that allow you to take care of your fish:\nThe shop gives you access to upgrades for the other tools, making them more effective. Upgrades get carried on next runs.The food box allows you to feed your fish by clicking over the fish tank.The Sponge allows you to clean the fish tank by moving back and forth over the smudges.The Hula hoop allows you to entertain your fish.\nDifferent fish have different stats, the pricier they get, the harder it is to keep the circle bars up. They also live longer and give more reward at the end of the run.\nAlso, please, don't tap on the glass. The fish doesn't like it.\n\n\nCredits:\nMusic from #Uppbeat (free for Creators!):https://uppbeat.io/t/color-parade/pixel-playgroundLicense code: 6FICBZNYDBOLRCWN\nSound FX from Zapsplat.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjYzMzU0NS8xNTY5MzYzMy5wbmc=/original/QzuG57.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMzU0NS8xNTY5MzYzMC5wbmc=/original/MZjsFo.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMzU0NS8xNTY5MzYzMi5wbmc=/original/CPiR2n.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMzU0NS8xNTY5MzYzMS5wbmc=/original/Bmc%2FTv.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Metal Bread",
+          "Genre": "Simulation",
+          "Made with": "Godot",
+          "Tags": "Life Simulation, Roguelite, Virtual Pet",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 2627511,
+      "gameUrl": "https://zatzu.itch.io/fin-tasking-quest",
+      "overallRank": 96,
+      "topCategories": [
+        "Fishiness(?)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1NzE0OTYyLnBuZw==/300x240%23c/aHDJk3.png",
+        "id": 2627511,
+        "contributors": [
+          {
+            "name": "ZatzuDevs",
+            "id": 6068580
+          },
+          {
+            "name": "OneWayMusic",
+            "id": 237925
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Visuals",
+            "raw_score": 3.1,
+            "rank": 229,
+            "score": 3.1
+          },
+          {
+            "name": "Fun",
+            "raw_score": 3.7,
+            "rank": 70,
+            "score": 3.7
+          },
+          {
+            "name": "Creativity",
+            "raw_score": 3.1,
+            "rank": 255,
+            "score": 3.1
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 4.8,
+            "rank": 1,
+            "score": 4.8
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.9,
+            "rank": 29,
+            "score": 3.9
+          }
+        ],
+        "title": "Fin-Tasking Quest",
+        "score": 3.72,
+        "rank": 96,
+        "raw_score": 3.72,
+        "rating_count": 10,
+        "url": "https://itch.io/jam/fishfest/rate/2627511"
+      },
+      "entryData": {
+        "coolness": 17,
+        "url": "/jam/fishfest/rate/2627511",
+        "id": 526385,
+        "created_at": "2024-04-08 18:44:48",
+        "contributors": [
+          {
+            "name": "ZatzuDevs",
+            "url": "https://zatzu.itch.io"
+          },
+          {
+            "name": "OneWayMusic",
+            "url": "https://emanueleboth.itch.io"
+          }
+        ],
+        "rating_count": 10,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE1NzE0OTYyLnBuZw==/300x240%23c/aHDJk3.png",
+          "title": "Fin-Tasking Quest",
+          "id": 2627511,
+          "short_text": "A feeding frenzy inspired game",
+          "platforms": [
+            "windows"
+          ],
+          "user": {
+            "name": "ZatzuDevs",
+            "url": "https://zatzu.itch.io",
+            "id": 6068580
+          },
+          "url": "https://zatzu.itch.io/fin-tasking-quest"
+        }
+      },
+      "details": {
+        "title": "Fin-Tasking Quest",
+        "description": "Submission for FishFest Jam.\nIt's a fish eat fish world out there. Go consume and grow big, and one day you'll be the biggest fish in the sea.\nInstructions:\n\nUse the mouse to moveLeft-click to dashRight-click to inhale groups of fishEsc/ Tab to open settings.\nProgrammer: ZatzuDevs\nArtist: @natdefrog\nComposer: OneWayMusicBackground art: google\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjYyNzUxMS8xNTY3NjMwNy5wbmc=/original/7xzKGt.png",
+          "https://img.itch.zone/aW1hZ2UvMjYyNzUxMS8xNTcxNDk2My5wbmc=/original/bLBSxR.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Authors": "ZatzuDevs, OneWayMusic",
+          "Genre": "Adventure",
+          "Tags": "2D, Casual, Fishing"
+        }
+      }
+    },
+    {
+      "gameId": 2633001,
+      "gameUrl": "https://rainhoutas.itch.io/jumfish",
+      "overallRank": 141,
+      "topCategories": [
+        "Fishiness(?)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1Njg4NzM1LnBuZw==/300x240%23c/EAT2TT.png",
+        "id": 2633001,
+        "contributors": [
+          {
+            "name": "RainHoutas",
+            "id": 10342290
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "raw_score": 3.7777777777778,
+            "rank": 106,
+            "score": 3.7777777777778
+          },
+          {
+            "name": "Fun",
+            "raw_score": 3.7777777777778,
+            "rank": 59,
+            "score": 3.7777777777778
+          },
+          {
+            "name": "Visuals",
+            "raw_score": 2.6666666666667,
+            "rank": 320,
+            "score": 2.6666666666667
+          },
+          {
+            "name": "Audio",
+            "raw_score": 2.6666666666667,
+            "rank": 248,
+            "score": 2.6666666666667
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 4.7777777777778,
+            "rank": 2,
+            "score": 4.7777777777778
+          }
+        ],
+        "title": "JumFish",
+        "score": 3.5333333333333,
+        "rank": 141,
+        "raw_score": 3.5333333333333,
+        "rating_count": 9,
+        "url": "https://itch.io/jam/fishfest/rate/2633001"
+      },
+      "entryData": {
+        "coolness": 6,
+        "id": 526239,
+        "created_at": "2024-04-08 11:57:30",
+        "url": "/jam/fishfest/rate/2633001",
+        "rating_count": 9,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE1Njg4NzM1LnBuZw==/300x240%23c/EAT2TT.png",
+          "title": "JumFish",
+          "cover_color": "#0700fc",
+          "id": 2633001,
+          "short_text": "RainHoutas'FirstGame",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "RainHoutas",
+            "url": "https://rainhoutas.itch.io",
+            "id": 10342290
+          },
+          "url": "https://rainhoutas.itch.io/jumfish"
+        }
+      },
+      "details": {
+        "title": "JumFish",
+        "description": "Point the mouse to control movement, and use fishpower to accelerate with the left button.\n\nIt support on web and windows<font color=\"red\">DON'T  TOUCH  RED!!!</font>\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE1Njg4NzM1LnBuZw==/original/dFtQis.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Author": "RainHoutas",
+          "Genre": "Platformer, Action",
+          "Made with": "Unity",
+          "Tags": "2D, Pixel Art, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 2632321,
+      "gameUrl": "https://c0nflex.itch.io/my-pet-shark",
+      "overallRank": 102,
+      "topCategories": [
+        "Fishiness(?)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1Njg1MTgwLnBuZw==/300x240%23c/GF%2Bz48.png",
+        "id": 2632321,
+        "contributors": [
+          {
+            "name": "C0nflex",
+            "id": 10389430
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Visuals",
+            "raw_score": 3,
+            "rank": 247,
+            "score": 3
+          },
+          {
+            "name": "Creativity",
+            "raw_score": 4.05,
+            "rank": 47,
+            "score": 4.05
+          },
+          {
+            "name": "Fun",
+            "raw_score": 3.65,
+            "rank": 79,
+            "score": 3.65
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.15,
+            "rank": 158,
+            "score": 3.15
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 4.65,
+            "rank": 3,
+            "score": 4.65
+          }
+        ],
+        "title": "My pet shark",
+        "score": 3.7,
+        "rank": 102,
+        "raw_score": 3.7,
+        "rating_count": 20,
+        "url": "https://itch.io/jam/fishfest/rate/2632321"
+      },
+      "entryData": {
+        "coolness": 10,
+        "id": 527028,
+        "created_at": "2024-04-09 21:05:14",
+        "url": "/jam/fishfest/rate/2632321",
+        "rating_count": 20,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE1Njg1MTgwLnBuZw==/300x240%23c/GF%2Bz48.png",
+          "title": "My pet shark",
+          "cover_color": "#1b3eff",
+          "id": 2632321,
+          "short_text": "Use the shark attacks on you to clear other enemies!",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "C0nflex",
+            "url": "https://c0nflex.itch.io",
+            "id": 10389430
+          },
+          "url": "https://c0nflex.itch.io/my-pet-shark"
+        }
+      },
+      "details": {
+        "title": "My pet shark",
+        "description": "avoid getting eaten by your own pet (or others to be fair..) and use the fact he tries to attack you to your advantage!\nchain combos and gain as many points as you possibly can!!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjYzMjMyMS8xNTY4NTI0Ni5wbmc=/original/LtQbyz.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMjMyMS8xNTY4NTI4OC5wbmc=/original/HloKZ2.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMjMyMS8xNTY4ODgzNy5qcGVn/original/rAkWqv.jpeg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "C0nflex",
+          "Genre": "Survival",
+          "Made with": "Unity",
+          "Tags": "2D, Casual, Cute, Pixel Art"
+        }
+      }
+    },
+    {
+      "gameId": 2621927,
+      "gameUrl": "https://pkill27.itch.io/metamorphofish",
+      "overallRank": 83,
+      "topCategories": [
+        "Fishiness(?)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1Njk3MzI2LnBuZw==/300x240%23c/OLy8At.png",
+        "id": 2621927,
+        "contributors": [
+          {
+            "name": "PKill27",
+            "id": 1332150
+          },
+          {
+            "name": "Common",
+            "id": 7934186
+          },
+          {
+            "name": "Naku",
+            "id": 6283384
+          },
+          {
+            "name": "Kayla",
+            "id": 750040
+          },
+          {
+            "name": "layabita",
+            "id": 10413140
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Fun",
+            "raw_score": 2.7272727272727,
+            "rank": 271,
+            "score": 2.7272727272727
+          },
+          {
+            "name": "Visuals",
+            "raw_score": 4.4545454545455,
+            "rank": 23,
+            "score": 4.4545454545455
+          },
+          {
+            "name": "Creativity",
+            "raw_score": 3.8181818181818,
+            "rank": 97,
+            "score": 3.8181818181818
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.0909090909091,
+            "rank": 170,
+            "score": 3.0909090909091
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 4.6363636363636,
+            "rank": 5,
+            "score": 4.6363636363636
+          }
+        ],
+        "title": "Metamorphofish",
+        "score": 3.7454545454545,
+        "rank": 83,
+        "raw_score": 3.7454545454545,
+        "rating_count": 11,
+        "url": "https://itch.io/jam/fishfest/rate/2621927"
+      },
+      "entryData": {
+        "coolness": 6,
+        "url": "/jam/fishfest/rate/2621927",
+        "id": 526313,
+        "created_at": "2024-04-08 16:39:41",
+        "contributors": [
+          {
+            "name": "PKill27",
+            "url": "https://pkill27.itch.io"
+          },
+          {
+            "name": "Common",
+            "url": "https://commonbruno.itch.io"
+          },
+          {
+            "name": "Naku",
+            "url": "https://nakillo.itch.io"
+          },
+          {
+            "name": "Kayla",
+            "url": "https://kaylachu23.itch.io"
+          },
+          {
+            "name": "layabita",
+            "url": "https://layabita.itch.io"
+          }
+        ],
+        "rating_count": 11,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE1Njk3MzI2LnBuZw==/300x240%23c/OLy8At.png",
+          "title": "Metamorphofish",
+          "cover_color": "#eeeeee",
+          "id": 2621927,
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "PKill27",
+            "url": "https://pkill27.itch.io",
+            "id": 1332150
+          },
+          "url": "https://pkill27.itch.io/metamorphofish"
+        }
+      },
+      "details": {
+        "title": "Metamorphofish",
+        "description": "Note: If the game starts without music, please restart (web bug)\nWelcome to Metamorphofish, you are a mutated fish who managed to escape the grasp of science from the laboratory that created you and kept you captive. Use your shapeshifting powers to travel the perils of the sea.\nTaste as much freedom as you can, but be wary of obstacles, you will need to think fast and use your powers to get through safely. The ocean is much bigger than your old little acquarium, so good luck.\n\n3D artist and animator (Game designer): Guayabita\nMusic and Sound Design (Game designer) : Naku\nLead Developer (Level Designer): Porter \nDeveloper: Common\n2d Artist: Kayla\nUsed https://danqzq.itch.io/leaderboard-creator as a package  to create the leaderboard system.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjYyMTkyNy8xNTY5Njk5OC5wbmc=/original/EiT1ec.png",
+          "https://img.itch.zone/aW1hZ2UvMjYyMTkyNy8xNTY5NjI5Ny5wbmc=/original/l3pgEL.png",
+          "https://img.itch.zone/aW1hZ2UvMjYyMTkyNy8xNTY5NjI5Ni5wbmc=/original/n8hAJt.png",
+          "https://img.itch.zone/aW1hZ2UvMjYyMTkyNy8xNTY5NjI5OC5wbmc=/original/qLulj%2B.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Authors": "PKill27, Common, Naku, Kayla, layabita",
+          "Genre": "Action",
+          "Tags": "Endless Runner, Fast-Paced, Fishing, Side Scroller"
+        }
+      }
+    },
+    {
+      "gameId": 2631094,
+      "gameUrl": "https://the-pixelated-manatee.itch.io/anglerfish-journey",
+      "overallRank": 15,
+      "topCategories": [
+        "Fishiness(?)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1NjgzNTg4LmdpZg==/300x240%23c/iAUI5O.gif",
+        "id": 2631094,
+        "contributors": [
+          {
+            "name": "The Pixelated Manatee",
+            "id": 10263407
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Creativity",
+            "raw_score": 3.5862068965517,
+            "rank": 153,
+            "score": 3.5862068965517
+          },
+          {
+            "name": "Visuals",
+            "raw_score": 4.3103448275862,
+            "rank": 39,
+            "score": 4.3103448275862
+          },
+          {
+            "name": "Fun",
+            "raw_score": 4.0689655172414,
+            "rank": 23,
+            "score": 4.0689655172414
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 4.6206896551724,
+            "rank": 8,
+            "score": 4.6206896551724
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.9655172413793,
+            "rank": 20,
+            "score": 3.9655172413793
+          }
+        ],
+        "title": "Anglerfish Journey",
+        "score": 4.1103448275862,
+        "rank": 15,
+        "raw_score": 4.1103448275862,
+        "rating_count": 29,
+        "url": "https://itch.io/jam/fishfest/rate/2631094"
+      },
+      "entryData": {
+        "coolness": 11,
+        "id": 526261,
+        "created_at": "2024-04-08 13:09:22",
+        "url": "/jam/fishfest/rate/2631094",
+        "rating_count": 29,
+        "game": {
+          "gif_cover": "https://img.itch.zone/aW1nLzE1NjgzNTg4LmdpZg==/original/LbyrF2.gif",
+          "id": 2631094,
+          "user": {
+            "name": "The Pixelated Manatee",
+            "url": "https://the-pixelated-manatee.itch.io",
+            "id": 10263407
+          },
+          "cover": "https://img.itch.zone/aW1nLzE1NjgzNTg4LmdpZg==/300x240%23c/iAUI5O.gif",
+          "title": "Anglerfish Journey",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#0f3136",
+          "short_text": "A fish themed pixel art action shooter game.",
+          "url": "https://the-pixelated-manatee.itch.io/anglerfish-journey"
+        }
+      },
+      "details": {
+        "title": "Anglerfish Journey",
+        "description": ">>NOTE: The web version of the game might be a bit heavy for some browsers. If you experience lag or other issues with the web player, try downloading the executable version of the game.<<\n\nHelp a magical anglerfish defeat undead evil fish in this pixel art action shooter game.\nProgress through 5 different areas, level up, and defeat the final boss.\nThis game was created as an entry for the Fishfest game jam.\nCONTROLS\nMovement: WASD or arrow keysMouse to aimLeft mouse button: shootRight mouse button: use fish powersESC: in-game menu\nHOW TO PLAY\nDefeat all the waves of enemies in each area to progressGain xp by killing enemies and by collecting xp pickupsEvery time you level up you'll be able to pick an upgrade among 3 random optionsCharged fish powers are shown as little fish rotating around the main character. The glowing indicates which one is going to be used next. There are 3 types of fish powers: healing (red fish), fish rocket (orange fish) and an area damage bubble that lasts for a few seconds (green fish). You start with 1 fish power slot, which means you'll only be able to charge 1 fish power at a time. By leveling up, sometimes you'll get the option to increase the available fish power slots, up to a maximum of 8.Fish powers gets charged when the mana bar is full or by collecting fish power bubbles. The mana bar recharges over time.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjYzMTA5NC8xNTY4MzYyNy5naWY=/original/NGXmaH.gif",
+          "https://img.itch.zone/aW1hZ2UvMjYzMTA5NC8xNTY4MzA5Ni5qcGc=/original/y4KM1j.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjYzMTA5NC8xNTY4MzEwMy5qcGc=/original/AKgJzO.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjYzMTA5NC8xNTY4MzEwMi5qcGc=/original/5YSC%2Bs.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjYzMTA5NC8xNTY4MzEwNC5qcGc=/original/dGxmqS.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjYzMTA5NC8xNTY4MzA5OC5qcGc=/original/xcNMV2.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Author": "The Pixelated Manatee",
+          "Genre": "Action, Shooter",
+          "Made with": "Unity, Aseprite",
+          "Tags": "2D, Action-Adventure, Action RPG, Animals, Bullet Hell, Cute, Indie, Pixel Art",
+          "Average session": "About a half-hour",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 2631397,
+      "gameUrl": "https://hamgoblin.itch.io/gone-humanin",
+      "overallRank": 18,
+      "topCategories": [
+        "Fishiness(?)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1Njc5NjUxLnBuZw==/300x240%23c/lVd3gC.png",
+        "id": 2631397,
+        "contributors": [
+          {
+            "name": "hamgoblin",
+            "id": 8669684
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Visuals",
+            "raw_score": 4.3,
+            "rank": 42,
+            "score": 4.3
+          },
+          {
+            "name": "Fun",
+            "raw_score": 3.9,
+            "rank": 41,
+            "score": 3.9
+          },
+          {
+            "name": "Creativity",
+            "raw_score": 4,
+            "rank": 54,
+            "score": 4
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 4.6,
+            "rank": 9,
+            "score": 4.6
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.6,
+            "rank": 67,
+            "score": 3.6
+          }
+        ],
+        "title": "Gone Humanin'",
+        "score": 4.08,
+        "rank": 18,
+        "raw_score": 4.08,
+        "rating_count": 10,
+        "url": "https://itch.io/jam/fishfest/rate/2631397"
+      },
+      "entryData": {
+        "coolness": 10,
+        "id": 525778,
+        "created_at": "2024-04-07 17:32:44",
+        "url": "/jam/fishfest/rate/2631397",
+        "rating_count": 10,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE1Njc5NjUxLnBuZw==/300x240%23c/lVd3gC.png",
+          "title": "Gone Humanin'",
+          "cover_color": "#152d05",
+          "id": 2631397,
+          "short_text": "Catch humans with your fish buddy! Made for FishFest 2024",
+          "user": {
+            "name": "hamgoblin",
+            "url": "https://hamgoblin.itch.io",
+            "id": 8669684
+          },
+          "url": "https://hamgoblin.itch.io/gone-humanin"
+        }
+      },
+      "details": {
+        "title": "Gone Humanin'",
+        "description": "Catch mutated humans with your fish buddy. Who ever catches 100 lbs worth wins!\nE begins the fishing minigame (after dialogue)Click and Hold to charge up castRelease to castClick and Hold to reel inRight Click to retract bobber\nMade for FishFest 2024 Game Jam",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjYzMTM5Ny8xNTY3OTY1Ni5wbmc=/original/OXi%2B6C.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMTM5Ny8xNTY3OTY1Ny5wbmc=/original/bymwOz.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMTM5Ny8xNTY3OTY1OC5wbmc=/original/KdEr48.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Author": "hamgoblin",
+          "Genre": "Simulation",
+          "Tags": "Creepy, Fishing, Funny, Horror, My First Game Jam"
+        }
+      }
+    },
+    {
+      "gameId": 2632720,
+      "gameUrl": "https://antekson.itch.io/fishing-without-a-fishing-license",
+      "overallRank": 19,
+      "topCategories": [
+        "Fishiness(?)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1NzQ1ODA1LnBuZw==/300x240%23c/B5Pboz.png",
+        "id": 2632720,
+        "contributors": [
+          {
+            "name": "Antekson",
+            "id": 3458973
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Fun",
+            "raw_score": 3.9333333333333,
+            "rank": 37,
+            "score": 3.9333333333333
+          },
+          {
+            "name": "Creativity",
+            "raw_score": 4,
+            "rank": 54,
+            "score": 4
+          },
+          {
+            "name": "Visuals",
+            "raw_score": 4.2666666666667,
+            "rank": 45,
+            "score": 4.2666666666667
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.5333333333333,
+            "rank": 78,
+            "score": 3.5333333333333
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 4.6,
+            "rank": 9,
+            "score": 4.6
+          }
+        ],
+        "title": "Fishing Without a Fishing License",
+        "score": 4.0666666666667,
+        "rank": 19,
+        "raw_score": 4.0666666666667,
+        "rating_count": 15,
+        "url": "https://itch.io/jam/fishfest/rate/2632720"
+      },
+      "entryData": {
+        "coolness": 23,
+        "id": 526398,
+        "created_at": "2024-04-08 19:06:45",
+        "url": "/jam/fishfest/rate/2632720",
+        "rating_count": 15,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE1NzQ1ODA1LnBuZw==/300x240%23c/B5Pboz.png",
+          "title": "Fishing Without a Fishing License",
+          "cover_color": "#000000",
+          "id": 2632720,
+          "short_text": "May be illegal, but that won't stop you from fishing.",
+          "platforms": [
+            "windows"
+          ],
+          "user": {
+            "name": "Antekson",
+            "url": "https://antekson.itch.io",
+            "id": 3458973
+          },
+          "url": "https://antekson.itch.io/fishing-without-a-fishing-license"
+        }
+      },
+      "details": {
+        "title": "Fishing Without a Fishing License",
+        "description": "Your uncle got his fishing license taken away and he needs YOU to buy him a new one.   Fish like, over 100 unique fish, and like buy like, upgrades??? And stuff???\nMade for the \"Fishacious Festival\" game jam.\n\n\n\nThe amazing:\nOver 100 fishies(i am really emphasizing this)28 Upgrades (26 in jam version)Awesome fishin' minigameDay night cycleMediocre ostNose FishTHE GAME SAVES!!!Can you collect all the fish? (i only added fish collecting in post jam version go play that)\n\nCredits:\nRetro Gaming Font by Daymarius  from Dafont\nZapsplat.com Sound effects\nJsfxr Sound Effects\n\nunzip the file",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjYzMjcyMC8xNTY5MTA5Mi5wbmc=/original/2QwaLN.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMjcyMC8xNTY5MTM1OC5wbmc=/original/FjbVUO.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMjcyMC8xNTY5MTQxNC5wbmc=/original/QIHhGb.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMjcyMC8xNTY5MTQyNS5wbmc=/original/ikBIbl.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMjcyMC8xNTY5MTM3Ni5wbmc=/original/SYFALu.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMjcyMC8xNTY5MTQ1MS5wbmc=/original/wPNI6I.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMjcyMC8xNTY5MTQ1NS5wbmc=/original/Fb2G8q.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Author": "Antekson",
+          "Genre": "Simulation",
+          "Made with": "Godot, Krita, FL Studio",
+          "Tags": "2D, Arcade, fish, fishfest, Fishing, Funny, My First Game Jam, Pixel Art, Point & Click",
+          "Average session": "About an hour"
+        }
+      }
+    },
+    {
+      "gameId": 2632939,
+      "gameUrl": "https://wildwildspace.itch.io/fishmash-aquarium",
+      "overallRank": 71,
+      "topCategories": [
+        "Fishiness(?)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1Njk2OTQ1LnBuZw==/300x240%23c/k%2FRqeU.png",
+        "id": 2632939,
+        "contributors": [
+          {
+            "name": "Wild Wild Space",
+            "id": 223952
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Fun",
+            "raw_score": 4.125,
+            "rank": 17,
+            "score": 4.125
+          },
+          {
+            "name": "Visuals",
+            "raw_score": 3.875,
+            "rank": 92,
+            "score": 3.875
+          },
+          {
+            "name": "Creativity",
+            "raw_score": 3.1875,
+            "rank": 237,
+            "score": 3.1875
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.1875,
+            "rank": 153,
+            "score": 3.1875
+          },
+          {
+            "name": "Fishiness(?)",
+            "raw_score": 4.5625,
+            "rank": 13,
+            "score": 4.5625
+          }
+        ],
+        "title": "Fishmash Aquarium",
+        "score": 3.7875,
+        "rank": 71,
+        "raw_score": 3.7875,
+        "rating_count": 16,
+        "url": "https://itch.io/jam/fishfest/rate/2632939"
+      },
+      "entryData": {
+        "coolness": 12,
+        "id": 526630,
+        "created_at": "2024-04-08 22:49:37",
+        "url": "/jam/fishfest/rate/2632939",
+        "rating_count": 16,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE1Njk2OTQ1LnBuZw==/300x240%23c/k%2FRqeU.png",
+          "title": "Fishmash Aquarium",
+          "cover_color": "#5154ab",
+          "id": 2632939,
+          "short_text": "Fish tank tycoon game.",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "Wild Wild Space",
+            "url": "https://wildwildspace.itch.io",
+            "id": 223952
+          },
+          "url": "https://wildwildspace.itch.io/fishmash-aquarium"
+        }
+      },
+      "details": {
+        "title": "Fishmash Aquarium",
+        "description": "Fishmash Aquarium is a fish tank simulation game. Feed the fish and they give you jewelry. Collect the jewelry to earn shells (money) and unlock fish and upgrades. Unlock all fish and you can finish the game. How fast can you reach the ending?\nGame Rule (Fishmash mode)\nFeed the fish by clicking on the fish tank. Be careful not to kill all the fish.Grown fish will drop collectibles and consumables.Some fish eat collectibles, some eat other fish.There might be some threats to the fishMix and match the fish to make more money and leave some choresBuy the trophy at the end to clear the Fishmash mode!\nPlanned\nCurrent version only includes Fishmash™ mode which randomly unlocks fish and you have only one goal, buying the trophy to finish the game. The full version includes also FishLab (adventure mode), and FishZen (sandbox mode) mode. In FishLab you can mix and match the fish to fit the situation and discover various types of fish to unlock the entries in Codex Fishyius, which is the encyclopedia of Fishmash Aquarium. Once unlocked, the discovered fish are added into the Fishmash mode to help you clear the game. In FishZen, you can mix and match any kind of discovered fish and observe how they interact. You can also decorate and admire the FishZen tank with the decors unlocked by clearing Fishmash mode. Decors have difference unlock conditions, so that you can try mishmashed combinations of fish, hence Fishmash Aquarium. The full version of Fishmash Aquarium is planned to release in about late 2024.\nAnimations for fish (planned in 0.08)Fishmash modeMore fish and traits to unlock and help gameplayReward decors to use in FishZen modeFishLab modeStage clear and deck building mechanismGame save and continue\nFishZen modeMix and match systemsInteractive behaviourDecorating the tankCodex FishyiusFish pagesDecor pagesHall of fame pages (leaderboard)Tutorials pagesMore background musicOptimisationsand more\nDifferences in Paid Version\nCurrently there's almost no difference in paid version. As a sign of patronage, you can change the username recorded in the leaderboard when you finish the game. There will be more features as the version upgrades. I promise I will show you appreciation.\nYou can change the username in the leaderboard.More features coming in later versions.\nSupported Environment\nWindows (recommended)\nBrowser (performance issue, sorry)\n!!Warning!!: Read before downloading fishfest version (0.03)\nI unfortunately didn't check the sound to be normalised in the fistfest jam version. And I have my sound settings lower than others. So there is an earrape issue. Be careful to lower your volume before playing it. There's no volume control feature and the music plays immediately after starting the game. (only applied to 0.03 version)\nDisclaimer\nAll resources are hand crafted or properly licensed, however, there might be some assets created by others that inspired me. If some assets remind you of something you made and they discomfort you, please contact me.This game is an homage to the famous Insaniquarium! So there should be many things that are inspired by Insaniquarium. However, none of the assets are directly brought from Insaniquarium.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjYzMjkzOS8xNTY5NjkzOS5wbmc=/original/U%2F2La%2B.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMjkzOS8xNTY5Njk0MC5wbmc=/original/7a4zde.png",
+          "https://img.itch.zone/aW1hZ2UvMjYzMjkzOS8xNTY5NjkzOC5wbmc=/original/YeX%2Bd3.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.8 out of 5 stars(4 total ratings)",
+          "Author": "Wild Wild Space",
+          "Genre": "Simulation",
+          "Made with": "GameMaker",
+          "Tags": "aquarium, fish, Pixel Art, Singleplayer, Tycoon"
+        }
+      }
+    }
+  ]
+}

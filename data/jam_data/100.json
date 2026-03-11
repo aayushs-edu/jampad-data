@@ -1,0 +1,3051 @@
+{
+  "n": 100,
+  "name": "VimJam: Collectables",
+  "url": "https://itch.io/jam/vimjam",
+  "theme": "Collectables",
+  "slug": "vimjam",
+  "jamMeta": {
+    "jamType": "ended",
+    "ratings": "5,778",
+    "entries": "453",
+    "title": "VimJam: Collectables (8 Bits to Infinity)",
+    "jamURL": "https://itch.io/jam/vimjam",
+    "hosts": {
+      "8 Bits to Infinity": "https://8bitstoinfinity.itch.io",
+      "Vimlark": "https://vimlark.itch.io",
+      "Retro Indie Josh": "https://retroindiejosh.itch.io",
+      "#8bitstoinfinity": "https://bsky.app/hashtag/8bitstoinfinity"
+    },
+    "jamID": "17518"
+  },
+  "totalEntries": 435,
+  "ranked": true,
+  "hasCategories": true,
+  "needsManualSelection": false,
+  "categories": [
+    "Fun/Design",
+    "Technical Implementation",
+    "Music/Sound",
+    "Graphics/Animation",
+    "Theme/Limitation"
+  ],
+  "topGames": [
+    {
+      "gameId": 768067,
+      "gameUrl": "https://fortythreesam.itch.io/a-bouncing-tale",
+      "overallRank": 17,
+      "topCategories": [
+        "Fun/Design"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "fortythreesam",
+            "id": 1241163
+          }
+        ],
+        "rank": 17,
+        "url": "https://itch.io/jam/vimjam/rate/768067",
+        "title": "A Bouncing Tale",
+        "rating_count": 24,
+        "raw_score": 3.9833333333333,
+        "cover_url": "https://img.itch.zone/aW1nLzQzODc4MDIucG5n/300x240%23c/C5q9B7.png",
+        "score": 3.9833333333333,
+        "criteria": [
+          {
+            "name": "Fun/Design",
+            "score": 4.5416666666667,
+            "rank": 1,
+            "raw_score": 4.5416666666667
+          },
+          {
+            "name": "Technical Implementation",
+            "score": 3.75,
+            "rank": 45,
+            "raw_score": 3.75
+          },
+          {
+            "name": "Music/Sound",
+            "score": 3.4583333333333,
+            "rank": 78,
+            "raw_score": 3.4583333333333
+          },
+          {
+            "name": "Graphics/Animation",
+            "score": 3.9583333333333,
+            "rank": 42,
+            "raw_score": 3.9583333333333
+          },
+          {
+            "name": "Theme/Limitation",
+            "score": 4.2083333333333,
+            "rank": 20,
+            "raw_score": 4.2083333333333
+          }
+        ],
+        "id": 768067
+      },
+      "entryData": {
+        "rating_count": 24,
+        "url": "/jam/vimjam/rate/768067",
+        "id": 158634,
+        "coolness": 22,
+        "field_responses": [
+          "9997:1",
+          "9999:1",
+          "9999:2",
+          "9999:3",
+          "9999:4",
+          "9999:5"
+        ],
+        "created_at": "2020-09-25 16:44:39",
+        "game": {
+          "title": "A Bouncing Tale",
+          "cover": "https://img.itch.zone/aW1nLzQzODc4MDIucG5n/300x240%23c/C5q9B7.png",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "id": 768067,
+          "url": "https://fortythreesam.itch.io/a-bouncing-tale",
+          "short_text": "Use your poles to bounce through caverns as fast as possible",
+          "cover_color": "#291d2b",
+          "user": {
+            "name": "fortythreesam",
+            "url": "https://fortythreesam.itch.io",
+            "id": 1241163
+          }
+        }
+      },
+      "details": {
+        "title": "A Bouncing Tale",
+        "description": "A game in which you use your pole to vault around levels to collect coins!\nI'd recommend downloading if possible as the online version has various issues.\nFeedback is very welcome!\n\nFont made by Eeve Somepx from Humble Fonts \nAll other work done by me\n@samlowercase",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzQzODc4MDIucG5n/original/esbChy.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 5.0 out of 5 stars(3 total ratings)",
+          "Author": "fortythreesam",
+          "Genre": "Platformer, Action",
+          "Made with": "Godot",
+          "Tags": "1-bit, 2D, Difficult, Fast-Paced, Singleplayer",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Gamepad (any)"
+        }
+      }
+    },
+    {
+      "gameId": 767842,
+      "gameUrl": "https://louis-denizet.itch.io/lifeline",
+      "overallRank": 7,
+      "topCategories": [
+        "Fun/Design",
+        "Technical Implementation",
+        "Music/Sound"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Louis Denizet",
+            "id": 7676
+          }
+        ],
+        "rank": 7,
+        "url": "https://itch.io/jam/vimjam/rate/767842",
+        "title": "Lifeline",
+        "rating_count": 13,
+        "raw_score": 4.2615384615385,
+        "cover_url": "https://img.itch.zone/aW1nLzQzNjg3ODkuZ2lm/300x240%23c/iMNSqW.gif",
+        "score": 4.2615384615385,
+        "criteria": [
+          {
+            "name": "Fun/Design",
+            "score": 4.4615384615385,
+            "rank": 2,
+            "raw_score": 4.4615384615385
+          },
+          {
+            "name": "Technical Implementation",
+            "score": 4.3846153846154,
+            "rank": 3,
+            "raw_score": 4.3846153846154
+          },
+          {
+            "name": "Music/Sound",
+            "score": 4.1538461538462,
+            "rank": 9,
+            "raw_score": 4.1538461538462
+          },
+          {
+            "name": "Graphics/Animation",
+            "score": 4.3076923076923,
+            "rank": 18,
+            "raw_score": 4.3076923076923
+          },
+          {
+            "name": "Theme/Limitation",
+            "score": 4,
+            "rank": 36,
+            "raw_score": 4
+          }
+        ],
+        "id": 767842
+      },
+      "entryData": {
+        "rating_count": 13,
+        "url": "/jam/vimjam/rate/767842",
+        "id": 158454,
+        "coolness": 21,
+        "field_responses": [
+          "9997:1",
+          "9998:3",
+          "9999:1",
+          "9999:2",
+          "9999:3",
+          "9999:4",
+          "9999:5"
+        ],
+        "created_at": "2020-09-25 14:45:52",
+        "game": {
+          "title": "Lifeline",
+          "platforms": [
+            "web"
+          ],
+          "id": 767842,
+          "gif_cover": "https://img.itch.zone/aW1nLzQzNjg3ODkuZ2lm/original/dD4SfB.gif",
+          "user": {
+            "name": "Louis Denizet",
+            "url": "https://louis-denizet.itch.io",
+            "id": 7676
+          },
+          "url": "https://louis-denizet.itch.io/lifeline",
+          "short_text": "VimJam - There and back",
+          "cover": "https://img.itch.zone/aW1nLzQzNjg3ODkuZ2lm/300x240%23c/iMNSqW.gif",
+          "cover_color": "#394960"
+        }
+      },
+      "details": {
+        "title": "Lifeline",
+        "description": "Welcome to Lifeline\n\nMade for VimJam #1\n\n_____\nIn the game you must survive by collecting lifenodes while being chased by enemies that appear from the nodes you created! I made the game during 2 evenings, I made my best to do the game as fast as possible so I made it very minimalistic to be able to do within 10h max (which I challenged myself to), it was still way easier by having time to think between each coding session.\n\n\n_____\nI gained time by using sound designs made by Romain Rope for a previous game jam and musics from Scott Buckley :- Sleep (intro music)- Tears in Rain (game music)\n_____\nGame can be played with mouse only but it is not very well optimized and it uses a LOT of objects to create trails so it might lags in late game!Even it is a small game I hope you will enjoy and thanks for playing!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzY3ODQyLzQyOTYxODQuanBn/original/q6jL4d.jpg",
+          "https://img.itch.zone/aW1hZ2UvNzY3ODQyLzQyOTYzNDYuanBn/original/rvIPGd.jpg",
+          "https://img.itch.zone/aW1hZ2UvNzY3ODQyLzQyOTYxODUuanBn/original/JKtbGv.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(3 total ratings)",
+          "Author": "Louis Denizet",
+          "Genre": "Rhythm",
+          "Made with": "Construct",
+          "Tags": "construct, construct-3, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 768132,
+      "gameUrl": "https://the-t-v1rus.itch.io/there-and-back-the-show",
+      "overallRank": 11,
+      "topCategories": [
+        "Fun/Design",
+        "Theme/Limitation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "THE_T_V1RUS",
+            "id": 1570285
+          },
+          {
+            "name": "Kidd Frog",
+            "id": 131209
+          }
+        ],
+        "rank": 11,
+        "url": "https://itch.io/jam/vimjam/rate/768132",
+        "title": "THERE AND BACK - THE SHOW",
+        "rating_count": 13,
+        "raw_score": 4.0923076923077,
+        "cover_url": "https://img.itch.zone/aW1nLzQzMDY5NTAucG5n/300x240%23c/9EkGkQ.png",
+        "score": 4.0923076923077,
+        "criteria": [
+          {
+            "name": "Fun/Design",
+            "score": 4.4615384615385,
+            "rank": 2,
+            "raw_score": 4.4615384615385
+          },
+          {
+            "name": "Technical Implementation",
+            "score": 3.7692307692308,
+            "rank": 42,
+            "raw_score": 3.7692307692308
+          },
+          {
+            "name": "Music/Sound",
+            "score": 3.6153846153846,
+            "rank": 57,
+            "raw_score": 3.6153846153846
+          },
+          {
+            "name": "Graphics/Animation",
+            "score": 3.9230769230769,
+            "rank": 48,
+            "raw_score": 3.9230769230769
+          },
+          {
+            "name": "Theme/Limitation",
+            "score": 4.6923076923077,
+            "rank": 1,
+            "raw_score": 4.6923076923077
+          }
+        ],
+        "id": 768132
+      },
+      "entryData": {
+        "coolness": 30,
+        "contributors": [
+          {
+            "name": "THE_T_V1RUS",
+            "url": "https://the-t-v1rus.itch.io"
+          },
+          {
+            "name": "Kidd Frog",
+            "url": "https://kiddfrog.itch.io"
+          }
+        ],
+        "url": "/jam/vimjam/rate/768132",
+        "id": 159041,
+        "created_at": "2020-09-26 22:14:50",
+        "field_responses": [
+          "9997:2",
+          "9998:1",
+          "9998:3",
+          "9999:1",
+          "9999:2",
+          "9999:3",
+          "9999:4",
+          "9999:5"
+        ],
+        "rating_count": 13,
+        "game": {
+          "title": "THERE AND BACK - THE SHOW",
+          "cover": "https://img.itch.zone/aW1nLzQzMDY5NTAucG5n/300x240%23c/9EkGkQ.png",
+          "platforms": [
+            "windows"
+          ],
+          "id": 768132,
+          "url": "https://the-t-v1rus.itch.io/there-and-back-the-show",
+          "short_text": "VimJam Submission (#11 Overall - #1 Theme/Limitation)",
+          "cover_color": "#9c0096",
+          "user": {
+            "name": "THE_T_V1RUS",
+            "url": "https://the-t-v1rus.itch.io",
+            "id": 1570285
+          }
+        }
+      },
+      "details": {
+        "title": "THERE AND BACK - THE SHOW",
+        "description": "\nCONTROLS (MOUSE REQUIRED):WASD  = moveUse mouse to face left, right, up, or downLeft Mouse = attackRight Mouse = dashTab = base finderNotice:Some players have missed that you can upgrade your alien in the upgrade menu. There are arrows in the upgrade menu that lets you change to upgrading your alien and back to upgrading your human.\nDESCRIPTION:BINGE WATCH THE ALL NEW SEASON OF \"THERE AND BACK!\" -- A gameshow where contestants forage a savage planet for the opportunity to return homeEach day both contestants must venture out \"THERE\" to collect gems and then return \"BACK\" to base before running out of oxygen.Why do the contestants need these gems? To upgrade and train their super killer alien battle pet of course! I mean, they could use their gems on themselves, but that's not going to help them in the epic 1v1 alien vs alien winner takes all show down.Yes that's right! After 5 days of collecting gems, both contestants aliens will fight each other. The winner get's to go back to Earth. The loser gets eaten by BlobbyBlob TentacleThing!This game was made in 1 week for the VimJam!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzY4MTMyLzQzMTcyNjcucG5n/original/rwT9xs.png",
+          "https://img.itch.zone/aW1hZ2UvNzY4MTMyLzQyOTgwOTQuZ2lm/original/tumXs%2F.gif",
+          "https://img.itch.zone/aW1hZ2UvNzY4MTMyLzQzMDA2ODguZ2lm/original/oNtpBm.gif",
+          "https://img.itch.zone/aW1hZ2UvNzY4MTMyLzQyOTgwNDUucG5n/original/e5xhvu.png",
+          "https://img.itch.zone/aW1hZ2UvNzY4MTMyLzQzMDA2NzguZ2lm/original/21QEra.gif",
+          "https://img.itch.zone/aW1hZ2UvNzY4MTMyLzQzMDA2ODMuZ2lm/original/mpSDsg.gif",
+          "https://img.itch.zone/aW1hZ2UvNzY4MTMyLzQzMDA2OTAuZ2lm/original/dv1%2Ftq.gif",
+          "https://img.itch.zone/aW1hZ2UvNzY4MTMyLzQyOTgyNjYuZ2lm/original/LpBkDm.gif",
+          "https://img.itch.zone/aW1hZ2UvNzY4MTMyLzQyOTgyNDQuZ2lm/original/uHmeR%2B.gif",
+          "https://img.itch.zone/aW1hZ2UvNzY4MTMyLzQyOTgwNDQucG5n/original/%2BPZhlw.png",
+          "https://img.itch.zone/aW1hZ2UvNzY4MTMyLzQyOTgwNDMucG5n/original/%2BcrqFK.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "THE_T_V1RUS, Kidd Frog",
+          "Genre": "Action"
+        }
+      }
+    },
+    {
+      "gameId": 767997,
+      "gameUrl": "https://m77mdsd.itch.io/skills-game",
+      "overallRank": 4,
+      "topCategories": [
+        "Fun/Design",
+        "Technical Implementation",
+        "Music/Sound",
+        "Graphics/Animation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "M77mdsD",
+            "id": 2386837
+          },
+          {
+            "name": "sco_otr",
+            "id": 3081369
+          }
+        ],
+        "rank": 4,
+        "url": "https://itch.io/jam/vimjam/rate/767997",
+        "title": "Skills Game",
+        "rating_count": 11,
+        "raw_score": 4.3090909090909,
+        "cover_url": "https://img.itch.zone/aW1nLzQyOTc3NDIucG5n/300x240%23c/08Kunm.png",
+        "score": 4.3090909090909,
+        "criteria": [
+          {
+            "name": "Fun/Design",
+            "score": 4.4545454545455,
+            "rank": 4,
+            "raw_score": 4.4545454545455
+          },
+          {
+            "name": "Technical Implementation",
+            "score": 4.2727272727273,
+            "rank": 5,
+            "raw_score": 4.2727272727273
+          },
+          {
+            "name": "Music/Sound",
+            "score": 4.2727272727273,
+            "rank": 6,
+            "raw_score": 4.2727272727273
+          },
+          {
+            "name": "Graphics/Animation",
+            "score": 4.5454545454545,
+            "rank": 4,
+            "raw_score": 4.5454545454545
+          },
+          {
+            "name": "Theme/Limitation",
+            "score": 4,
+            "rank": 36,
+            "raw_score": 4
+          }
+        ],
+        "id": 767997
+      },
+      "entryData": {
+        "coolness": 15,
+        "contributors": [
+          {
+            "name": "M77mdsD",
+            "url": "https://m77mdsd.itch.io"
+          },
+          {
+            "name": "sco_otr",
+            "url": "https://sco-otr.itch.io"
+          }
+        ],
+        "url": "/jam/vimjam/rate/767997",
+        "id": 158641,
+        "created_at": "2020-09-25 16:45:53",
+        "field_responses": [
+          "9997:3",
+          "9998:3",
+          "9999:1",
+          "9999:2",
+          "9999:3",
+          "9999:4",
+          "9999:5"
+        ],
+        "rating_count": 11,
+        "game": {
+          "title": "Skills Game",
+          "cover": "https://img.itch.zone/aW1nLzQyOTc3NDIucG5n/300x240%23c/08Kunm.png",
+          "platforms": [
+            "windows"
+          ],
+          "id": 767997,
+          "url": "https://m77mdsd.itch.io/skills-game",
+          "short_text": "Where are your skills? sorry, but i took them and now you need to collect them and play my game",
+          "cover_color": "#181c19",
+          "user": {
+            "name": "M77mdsD",
+            "url": "https://m77mdsd.itch.io",
+            "id": 2386837
+          }
+        }
+      },
+      "details": {
+        "title": "Skills Game",
+        "description": "Hi!\nCredits and used Assets:Coding and Level Design:    -M77mdsD.Art:    -sco_otr.Sound Effects:    -M77mdsD    -Daniel A. Ward.Music:    -Itch Asset (Link).Font:    -DP Comic (Link).",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzY3OTk3LzQyOTcxNjAucG5n/original/%2FT14V9.png",
+          "https://img.itch.zone/aW1hZ2UvNzY3OTk3LzQyOTcxNTkucG5n/original/PslTpG.png",
+          "https://img.itch.zone/aW1hZ2UvNzY3OTk3LzQyOTcxNjEucG5n/original/2ysxLw.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Authors": "M77mdsD, sco_otr",
+          "Genre": "Adventure",
+          "Tags": "Pixel Art, Singleplayer, vimjam"
+        }
+      }
+    },
+    {
+      "gameId": 767928,
+      "gameUrl": "https://sidfishgames.itch.io/pushy-worm",
+      "overallRank": 2,
+      "topCategories": [
+        "Fun/Design",
+        "Technical Implementation",
+        "Graphics/Animation",
+        "Theme/Limitation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Sid Fish Games",
+            "id": 2137095
+          }
+        ],
+        "rank": 2,
+        "url": "https://itch.io/jam/vimjam/rate/767928",
+        "title": "Pushy Worm",
+        "rating_count": 27,
+        "raw_score": 4.3555555555556,
+        "cover_url": "https://img.itch.zone/aW1nLzQyOTYyMjMucG5n/300x240%23c/TY4YHM.png",
+        "score": 4.3555555555556,
+        "criteria": [
+          {
+            "name": "Fun/Design",
+            "score": 4.3703703703704,
+            "rank": 5,
+            "raw_score": 4.3703703703704
+          },
+          {
+            "name": "Technical Implementation",
+            "score": 4.5185185185185,
+            "rank": 1,
+            "raw_score": 4.5185185185185
+          },
+          {
+            "name": "Music/Sound",
+            "score": 4.037037037037,
+            "rank": 13,
+            "raw_score": 4.037037037037
+          },
+          {
+            "name": "Graphics/Animation",
+            "score": 4.5185185185185,
+            "rank": 7,
+            "raw_score": 4.5185185185185
+          },
+          {
+            "name": "Theme/Limitation",
+            "score": 4.3333333333333,
+            "rank": 8,
+            "raw_score": 4.3333333333333
+          }
+        ],
+        "id": 767928
+      },
+      "entryData": {
+        "rating_count": 27,
+        "url": "/jam/vimjam/rate/767928",
+        "id": 158498,
+        "coolness": 31,
+        "field_responses": [
+          "9997:1",
+          "9998:3",
+          "9999:1",
+          "9999:2",
+          "9999:3",
+          "9999:4",
+          "9999:5"
+        ],
+        "created_at": "2020-09-25 15:36:35",
+        "game": {
+          "title": "Pushy Worm",
+          "cover": "https://img.itch.zone/aW1nLzQyOTYyMjMucG5n/300x240%23c/TY4YHM.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 767928,
+          "url": "https://sidfishgames.itch.io/pushy-worm",
+          "short_text": "Help daddy worm as he embarks on a puzzle filled adventure to gather fruit for his hungry little family",
+          "cover_color": "#7ca1c0",
+          "user": {
+            "name": "Sid Fish Games",
+            "url": "https://sidfishgames.itch.io",
+            "id": 2137095
+          }
+        }
+      },
+      "details": {
+        "title": "Pushy Worm",
+        "description": "Original version was made for the 8 Bits to Infinity VimJam (Game Jam)\nJam Focus: CollectablesTheme: There and Back\nYour kids are hungry. Use your puzzle skills to bring them back food. \nControls:WASD or Arrow keys to moveU key to undo moveR key to restart levelESC to return to menu/map\n\n\nIf you want to keep up-to-date with progress on the game, follow me on twitter: https://twitter.com/SidFishGames\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzY3OTI4LzQyOTY3MDAuZ2lm/original/RqWZWF.gif",
+          "https://img.itch.zone/aW1hZ2UvNzY3OTI4LzQyOTY1NzUucG5n/original/2bjicH.png",
+          "https://img.itch.zone/aW1hZ2UvNzY3OTI4LzQyOTY1NzcucG5n/original/zZh50N.png",
+          "https://img.itch.zone/aW1hZ2UvNzY3OTI4LzQyOTY1NzgucG5n/original/tQxF06.png",
+          "https://img.itch.zone/aW1hZ2UvNzY3OTI4LzQyOTY1NzkucG5n/original/jNyCpW.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.9 out of 5 stars(14 total ratings)",
+          "Author": "Sid Fish Games",
+          "Genre": "Puzzle",
+          "Made with": "GameMaker",
+          "Tags": "2D, Cute, Short, Singleplayer, Sokoban"
+        }
+      }
+    },
+    {
+      "gameId": 763769,
+      "gameUrl": "https://mightyjor.itch.io/off-brand-hero",
+      "overallRank": 9,
+      "topCategories": [
+        "Fun/Design",
+        "Music/Sound"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "MightyJor",
+            "id": 1747846
+          }
+        ],
+        "rank": 9,
+        "url": "https://itch.io/jam/vimjam/rate/763769",
+        "title": "Off-Brand Hero",
+        "rating_count": 71,
+        "raw_score": 4.1718309859155,
+        "cover_url": "https://img.itch.zone/aW1nLzQyODA3NTMucG5n/300x240%23c/nNRH3G.png",
+        "score": 4.1718309859155,
+        "criteria": [
+          {
+            "name": "Fun/Design",
+            "score": 4.3521126760563,
+            "rank": 6,
+            "raw_score": 4.3521126760563
+          },
+          {
+            "name": "Technical Implementation",
+            "score": 3.9718309859155,
+            "rank": 17,
+            "raw_score": 3.9718309859155
+          },
+          {
+            "name": "Music/Sound",
+            "score": 4.1971830985915,
+            "rank": 8,
+            "raw_score": 4.1971830985915
+          },
+          {
+            "name": "Graphics/Animation",
+            "score": 4.112676056338,
+            "rank": 29,
+            "raw_score": 4.112676056338
+          },
+          {
+            "name": "Theme/Limitation",
+            "score": 4.2253521126761,
+            "rank": 17,
+            "raw_score": 4.2253521126761
+          }
+        ],
+        "id": 763769
+      },
+      "entryData": {
+        "rating_count": 71,
+        "url": "/jam/vimjam/rate/763769",
+        "id": 158260,
+        "coolness": 120,
+        "field_responses": [
+          "9997:1",
+          "9999:1",
+          "9999:2",
+          "9999:3",
+          "9999:4",
+          "9999:5"
+        ],
+        "created_at": "2020-09-25 05:10:46",
+        "game": {
+          "title": "Off-Brand Hero",
+          "cover": "https://img.itch.zone/aW1nLzQyODA3NTMucG5n/300x240%23c/nNRH3G.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 763769,
+          "url": "https://mightyjor.itch.io/off-brand-hero",
+          "short_text": "Vimjam Game Jam entry - 9th place",
+          "cover_color": "#336e44",
+          "user": {
+            "name": "MightyJor",
+            "url": "https://mightyjor.itch.io",
+            "id": 1747846
+          }
+        }
+      },
+      "details": {
+        "title": "Off-Brand Hero",
+        "description": "SUBMISSION FOR VIMJAM 2020\n\nRanked out of  465 entries\nPlay as a cute kid transported to a world of imagination while trying to escape from her greatest enemy! While there, she will COLLECT the powers of various copyright friendly costumes and build confidence in herself until she can ultimately return to her home, confront the enemy, and make it THERE AND BACK AGAIN. \nThe game is playable to completion between 5-15 minutes and it's not terribly hard. The ending is my favorite part so I hope you get to see it! I will include a dev log with hints if you need help progressing!\nIf you're looking for secrets (i.e. hidden rooms), try investigating the main villain a little more :)\nAll artwork, music, code and sound effects were created specifically for this jam. My main focus for this jam was POLISH. I wanted to make a condensed version of a game that you might see published. Overall, I'm incredibly proud of what I've put together. \nController support is enabled as well, though it was a last minute addition so it doesn't say in the game. On an xbox controller use the following: A - Jump, B - Change costume, X - Special move, Analog stick moves.\nCheck out my devlog if you want to see how I made it!\n\n\nDownload, extract and play :)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzYzNzY5LzQyOTIxNDMucG5n/original/iEBL%2BQ.png",
+          "https://img.itch.zone/aW1hZ2UvNzYzNzY5LzQyOTIxMzgucG5n/original/Dg09GS.png",
+          "https://img.itch.zone/aW1hZ2UvNzYzNzY5LzQyOTIxNDEucG5n/original/jCmzDP.png",
+          "https://img.itch.zone/aW1hZ2UvNzYzNzY5LzQyOTIxMzkucG5n/original/NjxSrH.png",
+          "https://img.itch.zone/aW1hZ2UvNzYzNzY5LzQyOTIxNDAucG5n/original/WIObEz.png",
+          "https://img.itch.zone/aW1hZ2UvNzYzNzY5LzQyOTIxNDIucG5n/original/h%2BsXyk.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.5 out of 5 stars(2 total ratings)",
+          "Author": "MightyJor",
+          "Genre": "Platformer",
+          "Made with": "GameMaker",
+          "Tags": "2D, Controller, GameMaker, kidfriendly, Metroidvania, Singleplayer",
+          "Inputs": "Gamepad (any)"
+        }
+      }
+    },
+    {
+      "gameId": 767720,
+      "gameUrl": "https://xanderwood.itch.io/collect-or-die",
+      "overallRank": 13,
+      "topCategories": [
+        "Fun/Design"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Xanderwood",
+            "id": 3173472
+          }
+        ],
+        "rank": 13,
+        "url": "https://itch.io/jam/vimjam/rate/767720",
+        "title": "Collect or Die",
+        "rating_count": 43,
+        "raw_score": 4.0325581395349,
+        "cover_url": "https://img.itch.zone/aW1nLzQyOTUxMzIucG5n/300x240%23c/TMQ9kC.png",
+        "score": 4.0325581395349,
+        "criteria": [
+          {
+            "name": "Fun/Design",
+            "score": 4.3488372093023,
+            "rank": 7,
+            "raw_score": 4.3488372093023
+          },
+          {
+            "name": "Technical Implementation",
+            "score": 3.8604651162791,
+            "rank": 32,
+            "raw_score": 3.8604651162791
+          },
+          {
+            "name": "Music/Sound",
+            "score": 3.8837209302326,
+            "rank": 26,
+            "raw_score": 3.8837209302326
+          },
+          {
+            "name": "Graphics/Animation",
+            "score": 4.046511627907,
+            "rank": 34,
+            "raw_score": 4.046511627907
+          },
+          {
+            "name": "Theme/Limitation",
+            "score": 4.0232558139535,
+            "rank": 35,
+            "raw_score": 4.0232558139535
+          }
+        ],
+        "id": 767720
+      },
+      "entryData": {
+        "rating_count": 43,
+        "url": "/jam/vimjam/rate/767720",
+        "id": 158351,
+        "coolness": 68,
+        "field_responses": [
+          "9997:1",
+          "9998:3",
+          "9999:1",
+          "9999:2",
+          "9999:3",
+          "9999:4",
+          "9999:5"
+        ],
+        "created_at": "2020-09-25 12:00:55",
+        "game": {
+          "title": "Collect or Die",
+          "cover": "https://img.itch.zone/aW1nLzQyOTUxMzIucG5n/300x240%23c/TMQ9kC.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 767720,
+          "url": "https://xanderwood.itch.io/collect-or-die",
+          "short_text": "Go back to 1984. Collect the best loved video game characters of the past. Return to the present and save the Arcade!",
+          "cover_color": "#c05dc2",
+          "user": {
+            "name": "Xanderwood",
+            "url": "https://xanderwood.itch.io",
+            "id": 3173472
+          }
+        }
+      },
+      "details": {
+        "title": "Collect or Die",
+        "description": "Made for the VimJam Game Jam September 2020. \nTheme: There and Back & Collectibles\nCan you help save a local arcade owner? A crazy game dev has kidnapped 16 of the best loved video game characters and trapped them inside a video game in 1984! Journey back to 1984, play the video game and return with all 16 characters to save the arcade!All artwork/coding made by me for this game during the Jam period. Sound credit: www.bensound.com and also some creative common licence effects from www.freesound.org ",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzY3NzIwLzQyOTUxMzYucG5n/original/2kQZkC.png",
+          "https://img.itch.zone/aW1hZ2UvNzY3NzIwLzQyOTUxMzMucG5n/original/eIXbjf.png",
+          "https://img.itch.zone/aW1hZ2UvNzY3NzIwLzQyOTUxMzcucG5n/original/5hWZce.png",
+          "https://img.itch.zone/aW1hZ2UvNzY3NzIwLzQyOTUxMzQucG5n/original/WZOk5Z.png",
+          "https://img.itch.zone/aW1hZ2UvNzY3NzIwLzQyOTUxMzUucG5n/original/kMCcxi.png",
+          "https://img.itch.zone/aW1hZ2UvNzY3NzIwLzQyOTUxMzkucG5n/original/QcNep2.png",
+          "https://img.itch.zone/aW1hZ2UvNzY3NzIwLzQyOTUxNDAucG5n/original/qTqlYF.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Author": "Xanderwood",
+          "Genre": "Action, Shooter",
+          "Made with": "Construct",
+          "Tags": "Arcade, Retro, Shoot 'Em Up, Side Scroller, Top-Down"
+        }
+      }
+    },
+    {
+      "gameId": 768187,
+      "gameUrl": "https://swagshaw.itch.io/drop-off",
+      "overallRank": 42,
+      "topCategories": [
+        "Fun/Design",
+        "Technical Implementation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "🕹️swagshaw",
+            "id": 2862819
+          },
+          {
+            "name": "Huntrox",
+            "id": 1650064
+          }
+        ],
+        "rank": 42,
+        "url": "https://itch.io/jam/vimjam/rate/768187",
+        "title": "Drop Off",
+        "rating_count": 21,
+        "raw_score": 3.7619047619048,
+        "cover_url": "https://img.itch.zone/aW1nLzg5Mjg5OTIucG5n/300x240%23c/AXHQm1.png",
+        "score": 3.7619047619048,
+        "criteria": [
+          {
+            "name": "Fun/Design",
+            "score": 4.3333333333333,
+            "rank": 8,
+            "raw_score": 4.3333333333333
+          },
+          {
+            "name": "Technical Implementation",
+            "score": 4.1428571428571,
+            "rank": 9,
+            "raw_score": 4.1428571428571
+          },
+          {
+            "name": "Music/Sound",
+            "score": 3.2857142857143,
+            "rank": 111,
+            "raw_score": 3.2857142857143
+          },
+          {
+            "name": "Graphics/Animation",
+            "score": 3.5238095238095,
+            "rank": 117,
+            "raw_score": 3.5238095238095
+          },
+          {
+            "name": "Theme/Limitation",
+            "score": 3.5238095238095,
+            "rank": 125,
+            "raw_score": 3.5238095238095
+          }
+        ],
+        "id": 768187
+      },
+      "entryData": {
+        "coolness": 27,
+        "contributors": [
+          {
+            "name": "🕹️swagshaw",
+            "url": "https://swagshaw.itch.io"
+          },
+          {
+            "name": "Huntrox",
+            "url": "https://huntrox.itch.io"
+          }
+        ],
+        "url": "/jam/vimjam/rate/768187",
+        "id": 158734,
+        "created_at": "2020-09-25 16:59:49",
+        "field_responses": [
+          "9997:2",
+          "9998:1",
+          "9998:3",
+          "9999:1",
+          "9999:2",
+          "9999:3",
+          "9999:4",
+          "9999:5"
+        ],
+        "rating_count": 21,
+        "game": {
+          "title": "Drop Off",
+          "cover": "https://img.itch.zone/aW1nLzg5Mjg5OTIucG5n/300x240%23c/AXHQm1.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 768187,
+          "url": "https://swagshaw.itch.io/drop-off",
+          "short_text": "You know the drill! Get the loot, beat the boss, be the hero!",
+          "cover_color": "#ff6795",
+          "user": {
+            "name": "🕹️swagshaw",
+            "url": "https://swagshaw.itch.io",
+            "id": 2862819
+          }
+        }
+      },
+      "details": {
+        "title": "Drop Off",
+        "description": "Welcome to the Drop Off.A simple dungeon crawler but with all the best parts we could add.- Juicy combat- Loot and Gold- Weapon Upgrades and Gear- Large Map- Check Points- Multiple Enemies and a Boss FightControls:WASD - MoveShift - Dash (Uses EP, it recharges so dash a lot)Left Click - Basic AttackRight Click - Special Attack (Has Cooldown)Scroll Wheel - Pick item to use in lowest item barE - Use item and Equip gear1 - Use Sword2 - Use Bow\nThe doors allow you to go \"Forward and Back\" to the main room so you can buy, sell, and upgrade.\nCredits:Huntrox and SwagshawCode, Asset Assembly, and some pixel art\nFurther Credits:SoundsBeep Yeah!artisticdudeMusicEric SkiffArt0x72Aleksandr MakarovFontFonts for Flash",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzY4MTg3LzQyOTgzMzAucG5n/original/6ifKmm.png",
+          "https://img.itch.zone/aW1hZ2UvNzY4MTg3LzQzMDM5MDIuZ2lm/original/MdGhXv.gif",
+          "https://img.itch.zone/aW1hZ2UvNzY4MTg3LzQzMDM4MDEuZ2lm/original/ymdQZ7.gif",
+          "https://img.itch.zone/aW1hZ2UvNzY4MTg3LzQzMDM3ODUuZ2lm/original/ykBMTg.gif",
+          "https://img.itch.zone/aW1hZ2UvNzY4MTg3LzQzMDM3NzUuZ2lm/original/nNwxJg.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.3 out of 5 stars(3 total ratings)",
+          "Authors": "🕹️swagshaw, Huntrox",
+          "Genre": "Action, Adventure, Role Playing",
+          "Made with": "Unity",
+          "Tags": "2D, Dungeon Crawler, Fast-Paced, Loot, Pixel Art, Retro, Short, Singleplayer",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": 767940,
+      "gameUrl": "https://ricenoodles.itch.io/rewinder",
+      "overallRank": 3,
+      "topCategories": [
+        "Fun/Design",
+        "Technical Implementation",
+        "Graphics/Animation",
+        "Theme/Limitation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "ricenoodles",
+            "id": 753165
+          }
+        ],
+        "rank": 3,
+        "url": "https://itch.io/jam/vimjam/rate/767940",
+        "title": "Rewinder",
+        "rating_count": 71,
+        "raw_score": 4.3464788732394,
+        "cover_url": "https://img.itch.zone/aW1nLzQyOTY2MDUuanBn/300x240%23c/11CR2X.jpg",
+        "score": 4.3464788732394,
+        "criteria": [
+          {
+            "name": "Fun/Design",
+            "score": 4.3239436619718,
+            "rank": 9,
+            "raw_score": 4.3239436619718
+          },
+          {
+            "name": "Technical Implementation",
+            "score": 4.3943661971831,
+            "rank": 2,
+            "raw_score": 4.3943661971831
+          },
+          {
+            "name": "Music/Sound",
+            "score": 3.9295774647887,
+            "rank": 21,
+            "raw_score": 3.9295774647887
+          },
+          {
+            "name": "Graphics/Animation",
+            "score": 4.6619718309859,
+            "rank": 1,
+            "raw_score": 4.6619718309859
+          },
+          {
+            "name": "Theme/Limitation",
+            "score": 4.4225352112676,
+            "rank": 5,
+            "raw_score": 4.4225352112676
+          }
+        ],
+        "id": 767940
+      },
+      "entryData": {
+        "rating_count": 71,
+        "url": "/jam/vimjam/rate/767940",
+        "id": 158518,
+        "coolness": 23,
+        "field_responses": [
+          "9997:1",
+          "9998:3",
+          "9999:1",
+          "9999:2",
+          "9999:3",
+          "9999:4",
+          "9999:5"
+        ],
+        "created_at": "2020-09-25 15:49:37",
+        "game": {
+          "title": "Rewinder",
+          "cover": "https://img.itch.zone/aW1nLzQyOTY2MDUuanBn/300x240%23c/11CR2X.jpg",
+          "platforms": [
+            "web"
+          ],
+          "id": 767940,
+          "url": "https://ricenoodles.itch.io/rewinder",
+          "short_text": "Rescue your daughter from the interdimensional dangers",
+          "cover_color": "#eeeeee",
+          "user": {
+            "name": "ricenoodles",
+            "url": "https://ricenoodles.itch.io",
+            "id": 753165
+          }
+        }
+      },
+      "details": {
+        "title": "Rewinder",
+        "description": "What will you do to bring your daughter back to safety?\nRewinder is a short twin-stick shooter, made for VimJam: Collectables (8 Bits to Infinity). Shoot your way across this strange dimension and rewind your mistakes by saving your daughter's life.\nYou can play with Keyboard & Mouse (left-handed config. included) or Controller (Xbox One/360 recommended).\nCode and Art by @ricenoodlesSFX:  Kenney & Juhani JunkalaMusic:  \"Stand With Us\", \"Constellation\" and \"The Void\" by Trevor LentzFont: Pixellari by Zacchary Dempsey-Plante\n*-*-*-*-*-*-*-*-*SPOILERS AHEAD*-*-*-*-*-*-*-*-*\n\n-How to obtain the 4th node: https://gyazo.com/23de3b7ef52b5a36d5375c058dc6ff3a\n-To unlock the secret ending, you will need a total of 16 nodes. To achieve that, craft the first 15 and head north from your base. At one point, you will see a lonely plant, head WEST from there and you will find the last and secret cluster.  Backtrack to craft your new and last node, and head back north again. Once you reach the final zone, don't activate the capsule and head EAST, you will find there the secret ending.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzY3OTQwLzQyOTY4NjcuanBn/original/aazI60.jpg",
+          "https://img.itch.zone/aW1hZ2UvNzY3OTQwLzQyOTY1ODYuZ2lm/original/JWGhra.gif",
+          "https://img.itch.zone/aW1hZ2UvNzY3OTQwLzQyOTY1ODcuZ2lm/original/x3kimx.gif",
+          "https://img.itch.zone/aW1hZ2UvNzY3OTQwLzQyOTY1ODUuZ2lm/original/aHTP1O.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.8 out of 5 stars(16 total ratings)",
+          "Author": "ricenoodles",
+          "Genre": "Action",
+          "Made with": "Construct",
+          "Tags": "Aliens, Pixel Art, Space, Twin Stick Shooter"
+        }
+      }
+    },
+    {
+      "gameId": 763608,
+      "gameUrl": "https://cornerpoint.itch.io/hardcore-frogkour",
+      "overallRank": 43,
+      "topCategories": [
+        "Fun/Design"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "CornerPoint",
+            "id": 2019606
+          }
+        ],
+        "rank": 43,
+        "url": "https://itch.io/jam/vimjam/rate/763608",
+        "title": "Hardcore Frogkour",
+        "rating_count": 16,
+        "raw_score": 3.7375,
+        "cover_url": "https://img.itch.zone/aW1nLzQyOTQ0ODQucG5n/300x240%23c/ray6cg.png",
+        "score": 3.7375,
+        "criteria": [
+          {
+            "name": "Fun/Design",
+            "score": 4.3125,
+            "rank": 10,
+            "raw_score": 4.3125
+          },
+          {
+            "name": "Technical Implementation",
+            "score": 3.75,
+            "rank": 45,
+            "raw_score": 3.75
+          },
+          {
+            "name": "Music/Sound",
+            "score": 3.6875,
+            "rank": 47,
+            "raw_score": 3.6875
+          },
+          {
+            "name": "Graphics/Animation",
+            "score": 3.1875,
+            "rank": 164,
+            "raw_score": 3.1875
+          },
+          {
+            "name": "Theme/Limitation",
+            "score": 3.75,
+            "rank": 79,
+            "raw_score": 3.75
+          }
+        ],
+        "id": 763608
+      },
+      "entryData": {
+        "rating_count": 16,
+        "url": "/jam/vimjam/rate/763608",
+        "id": 158683,
+        "coolness": 24,
+        "field_responses": [
+          "9997:2",
+          "9998:2",
+          "9999:1",
+          "9999:2",
+          "9999:3",
+          "9999:4",
+          "9999:5"
+        ],
+        "created_at": "2020-09-25 16:54:35",
+        "game": {
+          "title": "Hardcore Frogkour",
+          "cover": "https://img.itch.zone/aW1nLzQyOTQ0ODQucG5n/300x240%23c/ray6cg.png",
+          "platforms": [
+            "windows"
+          ],
+          "id": 763608,
+          "url": "https://cornerpoint.itch.io/hardcore-frogkour",
+          "short_text": "Froggy Platformer",
+          "cover_color": "#28a02a",
+          "user": {
+            "name": "CornerPoint",
+            "url": "https://cornerpoint.itch.io",
+            "id": 2019606
+          }
+        }
+      },
+      "details": {
+        "title": "Hardcore Frogkour",
+        "description": "WebGL Version: https://cornerpoint.itch.io/hardcore-frogkour-webgl\nHardcore Frogkour is a micro-sized Platformer where you play as a frog who must retrieve and return gems throughout 15 levels. Swinging around with your tongue is the only form of mobility. Walking or jumping is not allowed here! Make sure you chain  swings to achieve high speeds.  Now grab those gems and get the heck back!\n\n\n\nP.s. sorry for the lack of content, college had me working hard. ,_, \nThank you Biruhan for helping me out with the music. ",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzYzNjA4LzQyOTQ1NDguZ2lm/original/NU8nhw.gif",
+          "https://img.itch.zone/aW1hZ2UvNzYzNjA4LzQyOTQ1NTUucG5n/original/OragV6.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Author": "CornerPoint",
+          "Genre": "Platformer, Adventure",
+          "Tags": "2D, Arcade, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 767332,
+      "gameUrl": "https://engineerkappa.itch.io/buddclassic",
+      "overallRank": 1,
+      "topCategories": [
+        "Technical Implementation",
+        "Music/Sound",
+        "Graphics/Animation",
+        "Theme/Limitation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "EngineerKappa",
+            "id": 1171292
+          }
+        ],
+        "rank": 1,
+        "url": "https://itch.io/jam/vimjam/rate/767332",
+        "title": "B.U.D.D. Classic",
+        "rating_count": 13,
+        "raw_score": 4.3692307692308,
+        "cover_url": "https://img.itch.zone/aW1nLzk1ODM4ODUucG5n/300x240%23c/OgwHNy.png",
+        "score": 4.3692307692308,
+        "criteria": [
+          {
+            "name": "Fun/Design",
+            "score": 4.3076923076923,
+            "rank": 11,
+            "raw_score": 4.3076923076923
+          },
+          {
+            "name": "Technical Implementation",
+            "score": 4.3846153846154,
+            "rank": 3,
+            "raw_score": 4.3846153846154
+          },
+          {
+            "name": "Music/Sound",
+            "score": 4.2307692307692,
+            "rank": 7,
+            "raw_score": 4.2307692307692
+          },
+          {
+            "name": "Graphics/Animation",
+            "score": 4.4615384615385,
+            "rank": 10,
+            "raw_score": 4.4615384615385
+          },
+          {
+            "name": "Theme/Limitation",
+            "score": 4.4615384615385,
+            "rank": 3,
+            "raw_score": 4.4615384615385
+          }
+        ],
+        "id": 767332
+      },
+      "entryData": {
+        "rating_count": 13,
+        "url": "/jam/vimjam/rate/767332",
+        "id": 158392,
+        "coolness": 1,
+        "field_responses": [
+          "9997:1",
+          "9999:1",
+          "9999:2",
+          "9999:3",
+          "9999:4",
+          "9999:5"
+        ],
+        "created_at": "2020-09-25 13:25:37",
+        "game": {
+          "title": "B.U.D.D. Classic",
+          "cover": "https://img.itch.zone/aW1nLzk1ODM4ODUucG5n/300x240%23c/OgwHNy.png",
+          "platforms": [
+            "windows"
+          ],
+          "id": 767332,
+          "url": "https://engineerkappa.itch.io/buddclassic",
+          "short_text": "Make new friends on this isolated alien planet!",
+          "cover_color": "#327345",
+          "user": {
+            "name": "EngineerKappa",
+            "url": "https://engineerkappa.itch.io",
+            "id": 1171292
+          }
+        }
+      },
+      "details": {
+        "title": "B.U.D.D. Classic",
+        "description": "This is the 2020 game jam prototype version of BUDD! If you're looking for the new game of the same name, click here!\nCrash landed on an alien planet without any weapons to defend yourself, you find a support drone that can help you on your way. Can you use it find new ship parts and get off this planet?\nI made this game for VimJam: Collectables in less than a week. The theme was \"There and Back\" with a focus on \"Collectables\". This inspired me to do a really tiny retro Metroidvania style game where you collect additional abilities in the form of tiny robot friends.\nThe game is about 15 minutes long, can you get 100%?\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzY3MzMyLzExMzkyNjgwLnBuZw==/original/j88FQM.png",
+          "https://img.itch.zone/aW1hZ2UvNzY3MzMyLzExMzkyNjg1LnBuZw==/original/AzAaGN.png",
+          "https://img.itch.zone/aW1hZ2UvNzY3MzMyLzQyOTI3MTUucG5n/original/7hO12x.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.7 out of 5 stars(6 total ratings)",
+          "Author": "EngineerKappa",
+          "Genre": "Platformer, Adventure",
+          "Made with": "GameMaker, Aseprite, Bfxr",
+          "Tags": "2D, Aliens, Anime, Exploration, Metroidvania, NES (Nintendo Entertainment System), Retro, Sci-fi",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Xbox controller"
+        }
+      }
+    },
+    {
+      "gameId": 767944,
+      "gameUrl": "https://havana24.itch.io/hop-hop-miner",
+      "overallRank": 5,
+      "topCategories": [
+        "Technical Implementation",
+        "Graphics/Animation",
+        "Theme/Limitation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "havana24",
+            "id": 8232
+          }
+        ],
+        "rank": 5,
+        "url": "https://itch.io/jam/vimjam/rate/767944",
+        "title": "Hop Hop Miner",
+        "rating_count": 24,
+        "raw_score": 4.3083333333333,
+        "cover_url": "https://img.itch.zone/aW1nLzQyOTcyOTkuZ2lm/300x240%23c/Ldrb10.gif",
+        "score": 4.3083333333333,
+        "criteria": [
+          {
+            "name": "Fun/Design",
+            "score": 4.2916666666667,
+            "rank": 12,
+            "raw_score": 4.2916666666667
+          },
+          {
+            "name": "Technical Implementation",
+            "score": 4.2083333333333,
+            "rank": 6,
+            "raw_score": 4.2083333333333
+          },
+          {
+            "name": "Music/Sound",
+            "score": 3.9583333333333,
+            "rank": 20,
+            "raw_score": 3.9583333333333
+          },
+          {
+            "name": "Graphics/Animation",
+            "score": 4.5416666666667,
+            "rank": 5,
+            "raw_score": 4.5416666666667
+          },
+          {
+            "name": "Theme/Limitation",
+            "score": 4.5416666666667,
+            "rank": 2,
+            "raw_score": 4.5416666666667
+          }
+        ],
+        "id": 767944
+      },
+      "entryData": {
+        "rating_count": 24,
+        "url": "/jam/vimjam/rate/767944",
+        "id": 158653,
+        "coolness": 10,
+        "field_responses": [
+          "9997:1",
+          "9999:1",
+          "9999:2",
+          "9999:3",
+          "9999:4",
+          "9999:5"
+        ],
+        "created_at": "2020-09-25 16:48:47",
+        "game": {
+          "title": "Hop Hop Miner",
+          "platforms": [
+            "web"
+          ],
+          "id": 767944,
+          "gif_cover": "https://img.itch.zone/aW1nLzQyOTcyOTkuZ2lm/original/v5UDi%2F.gif",
+          "user": {
+            "name": "havana24",
+            "url": "https://havana24.itch.io",
+            "id": 8232
+          },
+          "url": "https://havana24.itch.io/hop-hop-miner",
+          "short_text": "Hop Hop Miner is an action-procedural-permadeath game where you need to collect as many golden gem as possible!",
+          "cover": "https://img.itch.zone/aW1nLzQyOTcyOTkuZ2lm/300x240%23c/Ldrb10.gif",
+          "cover_color": "#31283e"
+        }
+      },
+      "details": {
+        "title": "Hop Hop Miner",
+        "description": "Hop Hop Miner is an action-procedural game where you need to collect as many golden gem as possible. All the caves are made procedurally so they are different every time (so if you loose, try again!). You start only with 3 lives and there is a permadeath, so choose wisely upgrades from the shop!How many golden gems can you collect? Post the screenshot down below! :)\nThis games was made in 7 days for the VimJam with jam focus on \"collectables\" and a theme \"there and back\".For collectables I decided to go for the gems that are crucial in this game since you need them in order to buy upgrades and proceed.For the theme \"there and back\"  the player need to collect the golden gem and carry it back. \nThis is my first time with procedural generation, so be understanding! XDFollow me on twitter if you like my game @hav24  \nControls:   \n- Arrow keys or WASD to move (you can move only left and right).- Mouse click to buy upgrades from the shop.\nCredits:       \nAll assets were made by me. Alessandro Pezzetti aka havana24 (except for the music, credit below).8bit sound effects made with Bfxr.\nBackground music by Playonloop.com  Pixel font by Kenney.nl.\nA game made by havana24.net Twitter @hav24  ",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzY3OTQ0LzQyOTczNDcuZ2lm/original/S9zBem.gif",
+          "https://img.itch.zone/aW1hZ2UvNzY3OTQ0LzQyOTgyMDQuZ2lm/original/VJaPBs.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.6 out of 5 stars(10 total ratings)",
+          "Author": "havana24",
+          "Genre": "Action, Adventure",
+          "Made with": "Stencyl, OpenFL",
+          "Tags": "2D, Action-Adventure, gem, miner, Perma Death, Pixel Art, Procedural Generation, vimjam, vimlark"
+        }
+      }
+    },
+    {
+      "gameId": 765872,
+      "gameUrl": "https://velander.itch.io/teddy-bear-story-a-fabian-velander-creation",
+      "overallRank": 15,
+      "topCategories": [
+        "Technical Implementation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "fabian velander",
+            "id": 1249183
+          }
+        ],
+        "rank": 15,
+        "url": "https://itch.io/jam/vimjam/rate/765872",
+        "title": "Teddy Bear Story - A Fabian Velander Creation",
+        "rating_count": 16,
+        "raw_score": 4.0125,
+        "cover_url": "https://img.itch.zone/aW1nLzQzMDIzNzEucG5n/300x240%23c/h7z%2F8h.png",
+        "score": 4.0125,
+        "criteria": [
+          {
+            "name": "Fun/Design",
+            "score": 4.25,
+            "rank": 15,
+            "raw_score": 4.25
+          },
+          {
+            "name": "Technical Implementation",
+            "score": 4.1875,
+            "rank": 7,
+            "raw_score": 4.1875
+          },
+          {
+            "name": "Music/Sound",
+            "score": 3.8125,
+            "rank": 35,
+            "raw_score": 3.8125
+          },
+          {
+            "name": "Graphics/Animation",
+            "score": 3.5625,
+            "rank": 105,
+            "raw_score": 3.5625
+          },
+          {
+            "name": "Theme/Limitation",
+            "score": 4.25,
+            "rank": 14,
+            "raw_score": 4.25
+          }
+        ],
+        "id": 765872
+      },
+      "entryData": {
+        "rating_count": 16,
+        "url": "/jam/vimjam/rate/765872",
+        "id": 158025,
+        "coolness": 20,
+        "field_responses": [
+          "9997:1",
+          "9998:3",
+          "9999:1",
+          "9999:2",
+          "9999:3",
+          "9999:4",
+          "9999:5"
+        ],
+        "created_at": "2020-09-24 09:20:05",
+        "game": {
+          "title": "Teddy Bear Story - A Fabian Velander Creation",
+          "cover": "https://img.itch.zone/aW1nLzQzMDIzNzEucG5n/300x240%23c/h7z%2F8h.png",
+          "platforms": [
+            "windows"
+          ],
+          "id": 765872,
+          "url": "https://velander.itch.io/teddy-bear-story-a-fabian-velander-creation",
+          "short_text": "Cope with your daughters death through experimental drugs.",
+          "cover_color": "#eeeeee",
+          "user": {
+            "name": "fabian velander",
+            "url": "https://velander.itch.io",
+            "id": 1249183
+          }
+        }
+      },
+      "details": {
+        "title": "Teddy Bear Story - A Fabian Velander Creation",
+        "description": "\"Teddy Bear Story is a heartbreaking game where you're trying to fulfill your daughters last wish. I've never cared more for a capsule than I did while playing this game.\" - Vimlark\n\n\n\"It really is an artistic achievement.\"  - H.H. Magoo\n\"WOW such a good game, the best story in this jam!\" - amitklein\n\"A tragic little vignette with very polished production values.\" - DrManticore\n\nRead the many more reviews on this games submission page :)\n\n\n\n\n\n\n\nCoping with loss can be hard.\nYour daughter died in a car crash.\nThere was nothing you could do to save her, and you know that.\nThe car crash wasn't your fault, and you know that.\nLooking for a teddy bear should not be a priority when your child is bleeding out on the ground, and you know that.\nBut you still can't forgive yourself for ignoring her last wish.\nMade for VimJam: Collectables (8 Bits to Infinity)Download --> Unzip --> Play",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzY1ODcyLzQyODQ4MzcucG5n/original/0JeCpw.png",
+          "https://img.itch.zone/aW1hZ2UvNzY1ODcyLzQyODQ4MzgucG5n/original/GJlpya.png",
+          "https://img.itch.zone/aW1hZ2UvNzY1ODcyLzQyODczNzAucG5n/original/u0pyW%2B.png",
+          "https://img.itch.zone/aW1hZ2UvNzY1ODcyLzQyODczNjgucG5n/original/JjCwSo.png",
+          "https://img.itch.zone/aW1hZ2UvNzY1ODcyLzQyODczNjkucG5n/original/L50U%2BK.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Author": "fabian velander",
+          "Tags": "3D, Abstract, artgame, Atmospheric, Dark, First-Person, Narrative, Singleplayer, Story Rich, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 765236,
+      "gameUrl": "https://straightupgruntled.itch.io/legato",
+      "overallRank": 8,
+      "topCategories": [
+        "Technical Implementation",
+        "Music/Sound"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "StraightUpGruntled",
+            "id": 1093977
+          }
+        ],
+        "rank": 8,
+        "url": "https://itch.io/jam/vimjam/rate/765236",
+        "title": "Legato",
+        "rating_count": 44,
+        "raw_score": 4.1772727272727,
+        "cover_url": "https://img.itch.zone/aW1nLzQyOTM2MjUucG5n/300x240%23c/udD%2BSy.png",
+        "score": 4.1772727272727,
+        "criteria": [
+          {
+            "name": "Fun/Design",
+            "score": 4.2272727272727,
+            "rank": 17,
+            "raw_score": 4.2272727272727
+          },
+          {
+            "name": "Technical Implementation",
+            "score": 4.1818181818182,
+            "rank": 8,
+            "raw_score": 4.1818181818182
+          },
+          {
+            "name": "Music/Sound",
+            "score": 4.5909090909091,
+            "rank": 2,
+            "raw_score": 4.5909090909091
+          },
+          {
+            "name": "Graphics/Animation",
+            "score": 4.1363636363636,
+            "rank": 27,
+            "raw_score": 4.1363636363636
+          },
+          {
+            "name": "Theme/Limitation",
+            "score": 3.75,
+            "rank": 79,
+            "raw_score": 3.75
+          }
+        ],
+        "id": 765236
+      },
+      "entryData": {
+        "rating_count": 44,
+        "url": "/jam/vimjam/rate/765236",
+        "id": 158312,
+        "coolness": 5,
+        "field_responses": [
+          "9997:1",
+          "9998:1",
+          "9999:1",
+          "9999:2",
+          "9999:3",
+          "9999:4",
+          "9999:5"
+        ],
+        "created_at": "2020-09-25 09:40:04",
+        "game": {
+          "title": "Legato",
+          "cover": "https://img.itch.zone/aW1nLzQyOTM2MjUucG5n/300x240%23c/udD%2BSy.png",
+          "platforms": [
+            "windows",
+            "linux",
+            "web"
+          ],
+          "id": 765236,
+          "url": "https://straightupgruntled.itch.io/legato",
+          "short_text": "Follow the musical journey of a young boy, who someday hopes to be a composer.",
+          "cover_color": "#eeeeee",
+          "user": {
+            "name": "StraightUpGruntled",
+            "url": "https://straightupgruntled.itch.io",
+            "id": 1093977
+          }
+        }
+      },
+      "details": {
+        "title": "Legato",
+        "description": "Note:  I recommend using keyboard for this game, as controller tool tips aren't present. The puzzles in the game also require number buttons 1 through 5.\nI also recommend playing with the downloadable version, as the web browser version is a tad bit buggy in terms of audio and visuals, which is a big problem for this game. However, it does seem playable for those who can't download the game.\n\nMusic is such an important part of our lives. It has the ability to move others, and let them experience emotions, simply through sound. This young boy has been obsessed with music and playing the piano, and wants to make a difference in the world through his joy of piano. In this game, you play as the young boy, and follow him in the emotional imagination that is his own music and song. You take an entire journey to his dream, and then safely return back to the comfort of his own home.\nAlso, the theme of this game was not taken super literally. Keep in mind when you finish a puzzle, you can continue down the path. You don't have to go back from where you came.\nControls are explained in the game for the most part, but for those who want to use a combination of controller for movement and keyboard for the actual piano, here are those:\nMovement:  A and S  OR  Left Stick Left and Right\nJump:  W / Space Bar  OR Controller A\nCrystal Listen/Music Staff (White) Door Open:   E  OR  Controller X\nPIANO: (number keys)  | 1 | 2 | 3 | 4 | 5 |\n\nI also really just want to give both Vimlark and the 8-Bits to Infinity Community a big thank you for such an amazing jam. I'm stoked to see what everybody else made, and I'm hoping you all will enjoy my game as well!\n\nTwitter: https://twitter.com/SGruntled\nYoutube: https://www.youtube.com/channel/UCIzce-d35l1aVbZpDM8jNYQ\n**If you are experiencing trouble with the browser version of the game, a .exe file of the game is also accessible through a download.**",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzY1MjM2LzQyOTQ1MDAucG5n/original/O5Q5Sf.png",
+          "https://img.itch.zone/aW1hZ2UvNzY1MjM2LzQyOTQ1MDEucG5n/original/eQdo%2BC.png",
+          "https://img.itch.zone/aW1hZ2UvNzY1MjM2LzQyOTQ1MDIucG5n/original/uBaLB1.png",
+          "https://img.itch.zone/aW1hZ2UvNzY1MjM2LzQyOTQ1MDMucG5n/original/L0%2FLsi.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, Linux",
+          "Rating": "Rated 5.0 out of 5 stars(5 total ratings)",
+          "Author": "StraightUpGruntled",
+          "Genre": "Platformer, Puzzle",
+          "Made with": "Aseprite, Godot, Audacity",
+          "Tags": "Music"
+        }
+      }
+    },
+    {
+      "gameId": 768159,
+      "gameUrl": "https://doctorhummer.itch.io/goodwell",
+      "overallRank": 24,
+      "topCategories": [
+        "Technical Implementation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "DoctorHummer",
+            "id": 3234056
+          }
+        ],
+        "rank": 24,
+        "url": "https://itch.io/jam/vimjam/rate/768159",
+        "title": "GoodWell",
+        "rating_count": 17,
+        "raw_score": 3.9058823529412,
+        "cover_url": "https://img.itch.zone/aW1nLzQyOTc2MjcucG5n/300x240%23c/nYNU5a.png",
+        "score": 3.9058823529412,
+        "criteria": [
+          {
+            "name": "Fun/Design",
+            "score": 3.8235294117647,
+            "rank": 51,
+            "raw_score": 3.8235294117647
+          },
+          {
+            "name": "Technical Implementation",
+            "score": 4.1176470588235,
+            "rank": 10,
+            "raw_score": 4.1176470588235
+          },
+          {
+            "name": "Music/Sound",
+            "score": 4.1176470588235,
+            "rank": 11,
+            "raw_score": 4.1176470588235
+          },
+          {
+            "name": "Graphics/Animation",
+            "score": 4.4117647058824,
+            "rank": 11,
+            "raw_score": 4.4117647058824
+          },
+          {
+            "name": "Theme/Limitation",
+            "score": 3.0588235294118,
+            "rank": 221,
+            "raw_score": 3.0588235294118
+          }
+        ],
+        "id": 768159
+      },
+      "entryData": {
+        "rating_count": 17,
+        "url": "/jam/vimjam/rate/768159",
+        "id": 158707,
+        "coolness": 11,
+        "field_responses": [
+          "9997:1",
+          "9998:3",
+          "9999:1",
+          "9999:2",
+          "9999:3",
+          "9999:4",
+          "9999:5"
+        ],
+        "created_at": "2020-09-25 16:58:04",
+        "game": {
+          "title": "GoodWell",
+          "url": "https://doctorhummer.itch.io/goodwell",
+          "id": 768159,
+          "cover": "https://img.itch.zone/aW1nLzQyOTc2MjcucG5n/300x240%23c/nYNU5a.png",
+          "short_text": "...and everything changed when people found the mysterious well that turns everything into gold..",
+          "cover_color": "#040632",
+          "user": {
+            "name": "DoctorHummer",
+            "url": "https://doctorhummer.itch.io",
+            "id": 3234056
+          }
+        }
+      },
+      "details": {
+        "title": "GoodWell",
+        "description": "GoodWell is a little arcade game created in a day for VinJam: Collectables, about a mysterious well that turns everything into gold. Play as Crunchy and get as many coins as you can, by throwing all kinds of garbage (and even other people) into the well. And don't forget about eldritch creatures...Use <Arrow Keys> to move around and <Z> key to grab objects and throw them (you can also hold <Z> to choose direction and throw precisely. Simple as that!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzY4MTU5LzQyOTgwNTUucG5n/original/YKuOU2.png",
+          "https://img.itch.zone/aW1hZ2UvNzY4MTU5LzQyOTgxNDgucG5n/original/jzUBwf.png",
+          "https://img.itch.zone/aW1hZ2UvNzY4MTU5LzQyOTgxNDcucG5n/original/Jvn8A7.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Rating": "Rated 4.3 out of 5 stars(9 total ratings)",
+          "Author": "DoctorHummer",
+          "Genre": "Action",
+          "Tags": "2D, Casual, coins, gold, Monsters, Pixel Art, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 767973,
+      "gameUrl": "https://onlinemusiccamps.itch.io/bach-in-time",
+      "overallRank": 31,
+      "topCategories": [
+        "Music/Sound"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "onlinemusiccamps",
+            "id": 2302091
+          }
+        ],
+        "rank": 31,
+        "url": "https://itch.io/jam/vimjam/rate/767973",
+        "title": "Bach In Time",
+        "rating_count": 28,
+        "raw_score": 3.8357142857143,
+        "cover_url": "https://img.itch.zone/aW1nLzQyOTY3MDkucG5n/300x240%23c/VQA29t.png",
+        "score": 3.8357142857143,
+        "criteria": [
+          {
+            "name": "Fun/Design",
+            "score": 3.8571428571429,
+            "rank": 47,
+            "raw_score": 3.8571428571429
+          },
+          {
+            "name": "Technical Implementation",
+            "score": 3.5714285714286,
+            "rank": 69,
+            "raw_score": 3.5714285714286
+          },
+          {
+            "name": "Music/Sound",
+            "score": 4.6071428571429,
+            "rank": 1,
+            "raw_score": 4.6071428571429
+          },
+          {
+            "name": "Graphics/Animation",
+            "score": 3.8571428571429,
+            "rank": 58,
+            "raw_score": 3.8571428571429
+          },
+          {
+            "name": "Theme/Limitation",
+            "score": 3.2857142857143,
+            "rank": 173,
+            "raw_score": 3.2857142857143
+          }
+        ],
+        "id": 767973
+      },
+      "entryData": {
+        "rating_count": 28,
+        "url": "/jam/vimjam/rate/767973",
+        "id": 158522,
+        "coolness": 51,
+        "field_responses": [
+          "9997:2",
+          "9999:1",
+          "9999:2",
+          "9999:3",
+          "9999:4",
+          "9999:5"
+        ],
+        "created_at": "2020-09-25 15:51:42",
+        "game": {
+          "title": "Bach In Time",
+          "platforms": [
+            "web"
+          ],
+          "id": 767973,
+          "url": "https://onlinemusiccamps.itch.io/bach-in-time",
+          "cover": "https://img.itch.zone/aW1nLzQyOTY3MDkucG5n/300x240%23c/VQA29t.png",
+          "user": {
+            "name": "onlinemusiccamps",
+            "url": "https://onlinemusiccamps.itch.io",
+            "id": 2302091
+          }
+        }
+      },
+      "details": {
+        "title": "Bach In Time",
+        "description": "\n\nWelcome to Bach in Time.  If you play this game and press enter you won't accidentally summon a time wizard who will send you back in an edutaining journey about musical terms.  Time wizard's honor.  But if that does somehow happen to you, just type the vocab terms in time to return home to 2020.  It can't be that hard....\nCreated for the      VimJam: Collectables (8 Bits to Infinity)\n\n\n\n\n\nRecommended to play game in a google chrome browser.  Don't forget to type in time!\n\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzY3OTczLzQyOTY2ODYucG5n/original/bt0Yde.png",
+          "https://img.itch.zone/aW1hZ2UvNzY3OTczLzQyOTY2ODcucG5n/original/Hdlb2M.png",
+          "https://img.itch.zone/aW1hZ2UvNzY3OTczLzQyOTY3MTkucG5n/original/PoqAtp.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Author": "onlinemusiccamps",
+          "Genre": "Rhythm, Educational",
+          "Made with": "Construct",
+          "Tags": "bach, beatles, challenging, classical, hard, Music, Typing, vocabulary"
+        }
+      }
+    },
+    {
+      "gameId": 765814,
+      "gameUrl": "https://dr-monkfish.itch.io/flashback",
+      "overallRank": 10,
+      "topCategories": [
+        "Music/Sound",
+        "Theme/Limitation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Dr_Monkfish",
+            "id": 517603
+          }
+        ],
+        "rank": 10,
+        "url": "https://itch.io/jam/vimjam/rate/765814",
+        "title": "Flashback",
+        "rating_count": 12,
+        "raw_score": 4.1166666666667,
+        "cover_url": "https://img.itch.zone/aW1nLzQyODU0NTAucG5n/300x240%23c/nsTe0t.png",
+        "score": 4.1166666666667,
+        "criteria": [
+          {
+            "name": "Fun/Design",
+            "score": 3.9166666666667,
+            "rank": 37,
+            "raw_score": 3.9166666666667
+          },
+          {
+            "name": "Technical Implementation",
+            "score": 3.8333333333333,
+            "rank": 35,
+            "raw_score": 3.8333333333333
+          },
+          {
+            "name": "Music/Sound",
+            "score": 4.5833333333333,
+            "rank": 3,
+            "raw_score": 4.5833333333333
+          },
+          {
+            "name": "Graphics/Animation",
+            "score": 3.9166666666667,
+            "rank": 49,
+            "raw_score": 3.9166666666667
+          },
+          {
+            "name": "Theme/Limitation",
+            "score": 4.3333333333333,
+            "rank": 8,
+            "raw_score": 4.3333333333333
+          }
+        ],
+        "id": 765814
+      },
+      "entryData": {
+        "rating_count": 12,
+        "url": "/jam/vimjam/rate/765814",
+        "id": 158164,
+        "coolness": 17,
+        "field_responses": [
+          "9997:1",
+          "9999:1",
+          "9999:2",
+          "9999:3",
+          "9999:4",
+          "9999:5"
+        ],
+        "created_at": "2020-09-24 21:59:33",
+        "game": {
+          "title": "Flashback",
+          "cover": "https://img.itch.zone/aW1nLzQyODU0NTAucG5n/300x240%23c/nsTe0t.png",
+          "platforms": [
+            "windows",
+            "osx"
+          ],
+          "id": 765814,
+          "url": "https://dr-monkfish.itch.io/flashback",
+          "short_text": "Vimjam 2020",
+          "cover_color": "#000000",
+          "user": {
+            "name": "Dr_Monkfish",
+            "url": "https://dr-monkfish.itch.io",
+            "id": 517603
+          }
+        }
+      },
+      "details": {
+        "title": "Flashback",
+        "description": "After a nuclear accident destroyed most of the world, you acquired super natural powers that allowed you to shift through space time into the past. You use this new power to collect the mementos of your lost family scattered throughout the world.\n\nAll code, art, music and SFX were made by me. Your friendly neighborhood Dr. Monkfish.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzY1ODE0LzQyOTE1NzcucG5n/original/ZH32eW.png",
+          "https://img.itch.zone/aW1hZ2UvNzY1ODE0LzQyOTE1NzkucG5n/original/tgphp1.png",
+          "https://img.itch.zone/aW1hZ2UvNzY1ODE0LzQyOTE1NzgucG5n/original/xPjMTe.png",
+          "https://img.itch.zone/aW1hZ2UvNzY1ODE0LzQyOTE1ODAucG5n/original/9Qt9hM.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS",
+          "Author": "Dr_Monkfish",
+          "Genre": "Platformer",
+          "Tags": "Dystopian, Pixel Art, Post-apocalyptic, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 768179,
+      "gameUrl": "https://spirits.itch.io/crystal-mission",
+      "overallRank": 6,
+      "topCategories": [
+        "Music/Sound",
+        "Graphics/Animation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "SpiRiTs",
+            "id": 977785
+          },
+          {
+            "name": "lzklein",
+            "id": 1461499
+          }
+        ],
+        "rank": 6,
+        "url": "https://itch.io/jam/vimjam/rate/768179",
+        "title": "Crystal Mission",
+        "rating_count": 25,
+        "raw_score": 4.28,
+        "cover_url": "https://img.itch.zone/aW1nLzQyOTc5MzkucG5n/300x240%23c/OvQADD.png",
+        "score": 4.28,
+        "criteria": [
+          {
+            "name": "Fun/Design",
+            "score": 4.2,
+            "rank": 19,
+            "raw_score": 4.2
+          },
+          {
+            "name": "Technical Implementation",
+            "score": 4.08,
+            "rank": 11,
+            "raw_score": 4.08
+          },
+          {
+            "name": "Music/Sound",
+            "score": 4.36,
+            "rank": 5,
+            "raw_score": 4.36
+          },
+          {
+            "name": "Graphics/Animation",
+            "score": 4.52,
+            "rank": 6,
+            "raw_score": 4.52
+          },
+          {
+            "name": "Theme/Limitation",
+            "score": 4.24,
+            "rank": 16,
+            "raw_score": 4.24
+          }
+        ],
+        "id": 768179
+      },
+      "entryData": {
+        "coolness": 51,
+        "contributors": [
+          {
+            "name": "SpiRiTs",
+            "url": "https://spirits.itch.io"
+          },
+          {
+            "name": "lzklein",
+            "url": "https://lzklein.itch.io"
+          }
+        ],
+        "url": "/jam/vimjam/rate/768179",
+        "id": 158853,
+        "created_at": "2020-09-25 21:29:02",
+        "field_responses": [
+          "9997:2",
+          "9999:1",
+          "9999:2",
+          "9999:3",
+          "9999:4",
+          "9999:5"
+        ],
+        "rating_count": 25,
+        "game": {
+          "title": "Crystal Mission",
+          "cover": "https://img.itch.zone/aW1nLzQyOTc5MzkucG5n/300x240%23c/OvQADD.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 768179,
+          "url": "https://spirits.itch.io/crystal-mission",
+          "short_text": "1 bit Top Down Action Game",
+          "cover_color": "#000000",
+          "user": {
+            "name": "SpiRiTs",
+            "url": "https://spirits.itch.io",
+            "id": 977785
+          }
+        }
+      },
+      "details": {
+        "title": "Crystal Mission",
+        "description": "The Crystal Gallery has been taken by a magician who has an army of monsters. Help the owner to recover his expensive Crystals and save the day.\nMove -  ( W A S D ) Attack - (Swing  'J' , Throw 'K')Interact - (E or Space)\nGame Made By:\nProgrammer & Artist: SpiRiTsMusic & SFX: Izklein",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzY4MTc5LzQzMTczNDYuZ2lm/original/e4HoIO.gif",
+          "https://img.itch.zone/aW1hZ2UvNzY4MTc5LzQzMTczMzcuZ2lm/original/LiqPcC.gif",
+          "https://img.itch.zone/aW1hZ2UvNzY4MTc5LzQzMTczMjcucG5n/original/5ttiLw.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "SpiRiTs, lzklein",
+          "Genre": "Action"
+        }
+      }
+    },
+    {
+      "gameId": 764742,
+      "gameUrl": "https://anaba-games.itch.io/i-command-thee",
+      "overallRank": 53,
+      "topCategories": [
+        "Music/Sound"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Anaba-Games",
+            "id": 915288
+          },
+          {
+            "name": "Nathan",
+            "id": 1883072
+          },
+          {
+            "name": "Antoine Brousse",
+            "id": 3133666
+          },
+          {
+            "name": "Matías Godoy - Zoundbie",
+            "id": 3116129
+          },
+          {
+            "name": "Rowgue",
+            "id": 2238397
+          }
+        ],
+        "rank": 53,
+        "url": "https://itch.io/jam/vimjam/rate/764742",
+        "title": "I Command Thee",
+        "rating_count": 14,
+        "raw_score": 3.6857142857143,
+        "cover_url": "https://img.itch.zone/aW1nLzQyOTM5NzUucG5n/300x240%23c/jyKdcK.png",
+        "score": 3.6857142857143,
+        "criteria": [
+          {
+            "name": "Fun/Design",
+            "score": 3.0714285714286,
+            "rank": 201,
+            "raw_score": 3.0714285714286
+          },
+          {
+            "name": "Technical Implementation",
+            "score": 3.8571428571429,
+            "rank": 33,
+            "raw_score": 3.8571428571429
+          },
+          {
+            "name": "Music/Sound",
+            "score": 4.1428571428571,
+            "rank": 10,
+            "raw_score": 4.1428571428571
+          },
+          {
+            "name": "Graphics/Animation",
+            "score": 4.2857142857143,
+            "rank": 20,
+            "raw_score": 4.2857142857143
+          },
+          {
+            "name": "Theme/Limitation",
+            "score": 3.0714285714286,
+            "rank": 220,
+            "raw_score": 3.0714285714286
+          }
+        ],
+        "id": 764742
+      },
+      "entryData": {
+        "coolness": 9,
+        "contributors": [
+          {
+            "name": "Anaba-Games",
+            "url": "https://anaba-games.itch.io"
+          },
+          {
+            "name": "Nathan",
+            "url": "https://natwpinerise.itch.io"
+          },
+          {
+            "name": "Antoine Brousse",
+            "url": "https://itsmetwn.itch.io"
+          },
+          {
+            "name": "Matías Godoy - Zoundbie",
+            "url": "https://zoundbie.itch.io"
+          },
+          {
+            "name": "Rowgue",
+            "url": "https://rowgue.itch.io"
+          }
+        ],
+        "url": "/jam/vimjam/rate/764742",
+        "id": 158700,
+        "created_at": "2020-09-25 16:57:05",
+        "field_responses": [
+          "9997:3",
+          "9999:1",
+          "9999:2",
+          "9999:3",
+          "9999:4",
+          "9999:5"
+        ],
+        "rating_count": 14,
+        "game": {
+          "title": "I Command Thee",
+          "cover": "https://img.itch.zone/aW1nLzQyOTM5NzUucG5n/300x240%23c/jyKdcK.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 764742,
+          "url": "https://anaba-games.itch.io/i-command-thee",
+          "short_text": "You take the role of a manager with the mantra: avoid working at all costs !",
+          "cover_color": "#979797",
+          "user": {
+            "name": "Anaba-Games",
+            "url": "https://anaba-games.itch.io",
+            "id": 915288
+          }
+        }
+      },
+      "details": {
+        "title": "I Command Thee",
+        "description": "\n\n\n\nControls\nReceive a mail -> Give to employee -> Stamp -> Send -> Done\nMouse Drag & Drop. Right click on a mail to see its content.\nAvoid getting too many mails waiting around, or you'll get overwhelmed with them !\n__\nDescription\nI Command Thee is a satirical game, in which you take the role of a manager, that has one single purpose : avoid working at all costs !\nTo achieve this, you'll have to make sure you delegate tasks to your slaves interns, stamp them and quickly send them back to your clients. You also must get rid of all those pesky junk mails to avoid getting overwhelmed by them !\n__\nThis game was made for the 2020 VimJam Game Jam, and had to comply with two themes :\nThere and back : This theme is taken quite literally by the emails, that have to go there and back, between you, the ones to actually do the tasks, you again, and the clients !\nCollectables : Is this game, you collect emails, which you absolutely do not want ! If you collect too many of them, this means game over. Experience being afraid of watching that collectable meter going higher and higher, completely out of your control !\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzY0NzQyLzQyOTc5NTQuZ2lm/original/snKwiK.gif",
+          "https://img.itch.zone/aW1hZ2UvNzY0NzQyLzQyOTc5MDgucG5n/original/bFixse.png",
+          "https://img.itch.zone/aW1hZ2UvNzY0NzQyLzQyOTc4NTUucG5n/original/sgZQK7.png",
+          "https://img.itch.zone/aW1hZ2UvNzY0NzQyLzQyOTc4NTYucG5n/original/BWB8Za.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Authors": "Anaba-Games, Nathan, Antoine Brousse, Matías Godoy - Zoundbie, Rowgue",
+          "Made with": "Unity",
+          "Tags": "2D, Arcade, Difficult, Game Jam, Management, Short, Singleplayer",
+          "Code license": "MIT License",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 767012,
+      "gameUrl": "https://kaiakairos.itch.io/corrupted",
+      "overallRank": 81,
+      "topCategories": [
+        "Graphics/Animation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "kaiakairos",
+            "id": 3182296
+          }
+        ],
+        "rank": 81,
+        "url": "https://itch.io/jam/vimjam/rate/767012",
+        "title": "Corrupted Dread - VimJam",
+        "rating_count": 11,
+        "raw_score": 3.5454545454545,
+        "cover_url": "https://img.itch.zone/aW1nLzQyOTA2OTcucG5n/300x240%23c/%2FVxG69.png",
+        "score": 3.5454545454545,
+        "criteria": [
+          {
+            "name": "Fun/Design",
+            "score": 3.5454545454545,
+            "rank": 95,
+            "raw_score": 3.5454545454545
+          },
+          {
+            "name": "Technical Implementation",
+            "score": 3.2727272727273,
+            "rank": 129,
+            "raw_score": 3.2727272727273
+          },
+          {
+            "name": "Music/Sound",
+            "score": 3.0909090909091,
+            "rank": 146,
+            "raw_score": 3.0909090909091
+          },
+          {
+            "name": "Graphics/Animation",
+            "score": 4.6363636363636,
+            "rank": 2,
+            "raw_score": 4.6363636363636
+          },
+          {
+            "name": "Theme/Limitation",
+            "score": 3.1818181818182,
+            "rank": 192,
+            "raw_score": 3.1818181818182
+          }
+        ],
+        "id": 767012
+      },
+      "entryData": {
+        "rating_count": 11,
+        "url": "/jam/vimjam/rate/767012",
+        "id": 158133,
+        "coolness": 0,
+        "field_responses": [
+          "9997:1",
+          "9998:3",
+          "9999:1",
+          "9999:2",
+          "9999:3",
+          "9999:4",
+          "9999:5"
+        ],
+        "created_at": "2020-09-24 20:10:28",
+        "game": {
+          "title": "Corrupted Dread - VimJam",
+          "platforms": [
+            "web"
+          ],
+          "id": 767012,
+          "cover": "https://img.itch.zone/aW1nLzQyOTA2OTcucG5n/300x240%23c/%2FVxG69.png",
+          "url": "https://kaiakairos.itch.io/corrupted",
+          "cover_color": "#000000",
+          "user": {
+            "name": "kaiakairos",
+            "url": "https://kaiakairos.itch.io",
+            "id": 3182296
+          }
+        }
+      },
+      "details": {
+        "title": "Corrupted Dread - VimJam",
+        "description": "READ DESCRIPTION - VimJam2020\nA critical error causes you to be accidentally teleported in the middle of the corruption zone, fight your way out and make it back to the lab.\nPlease read the credits in game. I also included what I learned from the jam :)\n\nHow it related to the jam:\nSamples are collectables, that's easy to explain. I have a feeling the \"there and back\" might be a little harder to understand. Originally, the ending was involving making it back to the lab, but due to time restraints I wasn't able to complete the ending fully. So instead I added a weapon upgrade system, but there's only one per level, requiring the player to go \"there (to the collectables) and back (to upgrade their weapon)\". The reason I point this out is because I'm worried that it might go over peoples head, and people might try and call me out for not following the theme. I hope you understand, and have fun playing my short little game :)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzY3MDEyLzQyOTA2OTgucG5n/original/yP5%2FE8.png",
+          "https://img.itch.zone/aW1hZ2UvNzY3MDEyLzQyOTA3MDAucG5n/original/lQmlnQ.png",
+          "https://img.itch.zone/aW1hZ2UvNzY3MDEyLzQyOTA3MDEucG5n/original/AYbDqY.png",
+          "https://img.itch.zone/aW1hZ2UvNzY3MDEyLzQyOTA3MDIucG5n/original/h3Wfbw.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "kaiakairos",
+          "Genre": "Shooter, Platformer",
+          "Made with": "Aseprite, Audacity, GDevelop",
+          "Tags": "2D, Horror, Pixel Art, Short",
+          "Average session": "A few minutes",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 767640,
+      "gameUrl": "https://lunid.itch.io/1113pm",
+      "overallRank": 14,
+      "topCategories": [
+        "Graphics/Animation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "lunid",
+            "id": 2305371
+          }
+        ],
+        "rank": 14,
+        "url": "https://itch.io/jam/vimjam/rate/767640",
+        "title": "11:13 p.m.",
+        "rating_count": 20,
+        "raw_score": 4.02,
+        "cover_url": "https://img.itch.zone/aW1nLzQzNzU5NDUuZ2lm/300x240%23c/ekdLdJ.gif",
+        "score": 4.02,
+        "criteria": [
+          {
+            "name": "Fun/Design",
+            "score": 3.65,
+            "rank": 76,
+            "raw_score": 3.65
+          },
+          {
+            "name": "Technical Implementation",
+            "score": 3.75,
+            "rank": 45,
+            "raw_score": 3.75
+          },
+          {
+            "name": "Music/Sound",
+            "score": 3.9,
+            "rank": 22,
+            "raw_score": 3.9
+          },
+          {
+            "name": "Graphics/Animation",
+            "score": 4.6,
+            "rank": 3,
+            "raw_score": 4.6
+          },
+          {
+            "name": "Theme/Limitation",
+            "score": 4.2,
+            "rank": 21,
+            "raw_score": 4.2
+          }
+        ],
+        "id": 767640
+      },
+      "entryData": {
+        "rating_count": 20,
+        "url": "/jam/vimjam/rate/767640",
+        "id": 158361,
+        "coolness": 11,
+        "field_responses": [
+          "9997:1",
+          "9999:1",
+          "9999:2",
+          "9999:3",
+          "9999:4",
+          "9999:5"
+        ],
+        "created_at": "2020-09-25 12:17:30",
+        "game": {
+          "title": "11:13 p.m.",
+          "platforms": [
+            "windows",
+            "osx",
+            "web"
+          ],
+          "id": 767640,
+          "gif_cover": "https://img.itch.zone/aW1nLzQzNzU5NDUuZ2lm/original/k%2Bue7L.gif",
+          "user": {
+            "name": "lunid",
+            "url": "https://lunid.itch.io",
+            "id": 2305371
+          },
+          "url": "https://lunid.itch.io/1113pm",
+          "short_text": "remember before 11:13 ...",
+          "cover": "https://img.itch.zone/aW1nLzQzNzU5NDUuZ2lm/300x240%23c/ekdLdJ.gif",
+          "cover_color": "#000000"
+        }
+      },
+      "details": {
+        "title": "11:13 p.m.",
+        "description": "made in a week for VimJam!\n(audio is a bit weird on the web build, please download if you can <3)\n-\ncontrols: \n[< ]  [ >] or [ A ]  [ D ] - walk\n[ down ]  or [ S ] - crouch\n[ space ] - jump\n[ up ] - interact\n- \n11:13 p.m.\na game about collecting memories... and time loops.\n-\nafter jam edit: updated a bit (to make it more enjoyable hopefully)\n-\nby lunid ^^\n\n\nfirst two downloads are the latest versions\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzY3NjQwLzQyOTQ1MzIuZ2lm/original/oRl0dU.gif",
+          "https://img.itch.zone/aW1hZ2UvNzY3NjQwLzQyOTQ1NDUucG5n/original/qGAfAj.png",
+          "https://img.itch.zone/aW1hZ2UvNzY3NjQwLzQyOTQ1NDEucG5n/original/fmOLiW.png",
+          "https://img.itch.zone/aW1hZ2UvNzY3NjQwLzQyOTQ1MzkucG5n/original/iLx7OH.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS",
+          "Rating": "Rated 4.4 out of 5 stars(17 total ratings)",
+          "Author": "lunid",
+          "Made with": "Unity",
+          "Tags": "Dark, Pixel Art, Short"
+        }
+      }
+    },
+    {
+      "gameId": 768036,
+      "gameUrl": "https://neenaw.itch.io/distress-signal",
+      "overallRank": 35,
+      "topCategories": [
+        "Graphics/Animation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "neenaw",
+            "id": 1545580
+          }
+        ],
+        "rank": 35,
+        "url": "https://itch.io/jam/vimjam/rate/768036",
+        "title": "Distress Signal",
+        "rating_count": 33,
+        "raw_score": 3.8242424242424,
+        "cover_url": "https://img.itch.zone/aW1nLzQzMDUyOTUuanBn/300x240%23c/qE3Wj8.jpg",
+        "score": 3.8242424242424,
+        "criteria": [
+          {
+            "name": "Fun/Design",
+            "score": 3.8181818181818,
+            "rank": 53,
+            "raw_score": 3.8181818181818
+          },
+          {
+            "name": "Technical Implementation",
+            "score": 3.5757575757576,
+            "rank": 68,
+            "raw_score": 3.5757575757576
+          },
+          {
+            "name": "Music/Sound",
+            "score": 3.6060606060606,
+            "rank": 59,
+            "raw_score": 3.6060606060606
+          },
+          {
+            "name": "Graphics/Animation",
+            "score": 4.4848484848485,
+            "rank": 8,
+            "raw_score": 4.4848484848485
+          },
+          {
+            "name": "Theme/Limitation",
+            "score": 3.6363636363636,
+            "rank": 100,
+            "raw_score": 3.6363636363636
+          }
+        ],
+        "id": 768036
+      },
+      "entryData": {
+        "rating_count": 33,
+        "url": "/jam/vimjam/rate/768036",
+        "id": 158818,
+        "coolness": 19,
+        "field_responses": [
+          "9997:1",
+          "9998:3",
+          "9999:1",
+          "9999:2",
+          "9999:3",
+          "9999:4",
+          "9999:5"
+        ],
+        "created_at": "2020-09-25 18:28:16",
+        "game": {
+          "title": "Distress Signal",
+          "cover": "https://img.itch.zone/aW1nLzQzMDUyOTUuanBn/300x240%23c/qE3Wj8.jpg",
+          "platforms": [
+            "web"
+          ],
+          "id": 768036,
+          "url": "https://neenaw.itch.io/distress-signal",
+          "short_text": "VimJam 2020 Entry",
+          "cover_color": "#ffffff",
+          "user": {
+            "name": "neenaw",
+            "url": "https://neenaw.itch.io",
+            "id": 1545580
+          }
+        }
+      },
+      "details": {
+        "title": "Distress Signal",
+        "description": " I made this game in 7 days for VimJam.  It was very difficult so I made the post jam version much easier.\n\n\nDistress Signal\nA space themed looter-shooter bullet hell where you must investigate a distress signal at precisely 1337 astronomical units away from earth. Space is not for the faint hearted.\nTIPS\n Asteroids provide cover.Enemies can also destroy asteroids, which helps you mine.Asteroids and Enemies are spawned in the direction you're facing.When you've whittled down to 1 enemy practice dodging their shots.\n\n How To Play\nACTIONKEYMovementW, A, S, DPrimary FireLeft Mouse ButtonMissilesRight Mouse ButtonBoostSpace",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzY4MDM2LzQyOTkzMDgucG5n/original/9DsCJB.png",
+          "https://img.itch.zone/aW1hZ2UvNzY4MDM2LzQyOTkzMTAucG5n/original/vWmnfp.png",
+          "https://img.itch.zone/aW1hZ2UvNzY4MDM2LzQyOTkzMTEucG5n/original/REMWm6.png",
+          "https://img.itch.zone/aW1hZ2UvNzY4MDM2LzQyOTkzMDkucG5n/original/8tm9JP.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "neenaw",
+          "Genre": "Shooter",
+          "Made with": "Unity",
+          "Tags": "Asteroids, Bullet Hell, Difficult, Space, Top down shooter"
+        }
+      }
+    },
+    {
+      "gameId": 766866,
+      "gameUrl": "https://fatwednesday.itch.io/ghostel",
+      "overallRank": 16,
+      "topCategories": [
+        "Graphics/Animation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "FatWednesday",
+            "id": 725628
+          }
+        ],
+        "rank": 16,
+        "url": "https://itch.io/jam/vimjam/rate/766866",
+        "title": "Ghostel",
+        "rating_count": 32,
+        "raw_score": 3.99375,
+        "cover_url": "https://img.itch.zone/aW1nLzQyOTA5OTIucG5n/300x240%23c/qbN7nk.png",
+        "score": 3.99375,
+        "criteria": [
+          {
+            "name": "Fun/Design",
+            "score": 4.25,
+            "rank": 15,
+            "raw_score": 4.25
+          },
+          {
+            "name": "Technical Implementation",
+            "score": 4,
+            "rank": 13,
+            "raw_score": 4
+          },
+          {
+            "name": "Music/Sound",
+            "score": 3.34375,
+            "rank": 94,
+            "raw_score": 3.34375
+          },
+          {
+            "name": "Graphics/Animation",
+            "score": 4.46875,
+            "rank": 9,
+            "raw_score": 4.46875
+          },
+          {
+            "name": "Theme/Limitation",
+            "score": 3.90625,
+            "rank": 57,
+            "raw_score": 3.90625
+          }
+        ],
+        "id": 766866
+      },
+      "entryData": {
+        "rating_count": 32,
+        "url": "/jam/vimjam/rate/766866",
+        "id": 158278,
+        "coolness": 26,
+        "field_responses": [
+          "9997:1",
+          "9999:1",
+          "9999:2",
+          "9999:3",
+          "9999:4",
+          "9999:5"
+        ],
+        "created_at": "2020-09-25 06:56:51",
+        "game": {
+          "title": "Ghostel",
+          "cover": "https://img.itch.zone/aW1nLzQyOTA5OTIucG5n/300x240%23c/qbN7nk.png",
+          "platforms": [
+            "windows"
+          ],
+          "id": 766866,
+          "url": "https://fatwednesday.itch.io/ghostel",
+          "short_text": "A short game for the Vimlark + 8Bits to Infinity game jam (VimJam)",
+          "cover_color": "#3f2832",
+          "user": {
+            "name": "FatWednesday",
+            "url": "https://fatwednesday.itch.io",
+            "id": 725628
+          }
+        }
+      },
+      "details": {
+        "title": "Ghostel",
+        "description": "EDIT: Updated to support gamepad controls, fix the bug with input lock relating to signpost in secret room, and tweak camera follow settings a little bit.---------------------------------------------------------------------You find yourself trapped inside the Ghostel Inn. What is this place? How did you get here? What's with these purple walls, when was this place last decorated?\nThe front door is locked! You must find a way to open the door and reach your freedom. On the way you'll be collecting these strange orbs of incorporeal matter. \nYou wonder what manner of beings left these spirit orbs here, but before you leave, you'll have to travel to the other side and back.\n---------------------------------------------------------------------\nGhostel (Ghost-Hotel) Is a working title for this small platform/puzzle game for the VimJam. The theme was \"There and Back\" with a requirement for the game to contain some form of collectables. So in Ghostel you're goal is to collect as many spirit orbs as possible whilst trying to find your way out of this unusual place. \n---------------------------------------------------------------------\nRandom Dev Thoughts / Post Mortem:\nOriginally the collectables were going to have more mechanical value than just a form of 'score'.  If the project see's any more life the pickups would almost certainly become some form of usable currency, be that for items, unlocks, or perhaps replacing the machines as a way to enter your incorporeal form whilst draining your spirit reserves... I guess we'll see what the future may hold for the project if I revisit it.\nThis is the first time I've tried to create a large single world style level for a game, so trying to layout rooms and routes that felt open whilst still ensuring players would be able to be where they needed to be was an interesting challenge. It is also a huge step forward in terms of my practicing pixel art and it was great fun trying to create assets that (for the most part) felt like they followed a consistent style.\nI think if I was going to use Unity TileMaps to build levels in the future I'd likely want some more advanced custom tools to help with room creation, as swapping between multiple tilemap layers each time you want to build a room was tiresome.Extract the project from the downloaded zip folder and just run the Ghostel.exe application.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzY2ODY2LzQyOTEwNDgucG5n/original/G4WVDE.png",
+          "https://img.itch.zone/aW1hZ2UvNzY2ODY2LzQyOTEwNDkucG5n/original/vu%2BCqQ.png",
+          "https://img.itch.zone/aW1hZ2UvNzY2ODY2LzQyOTEwNTEucG5n/original/xc1bIU.png",
+          "https://img.itch.zone/aW1hZ2UvNzY2ODY2LzQyOTEwNTAucG5n/original/rluhY%2F.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "FatWednesday",
+          "Genre": "Platformer, Puzzle"
+        }
+      }
+    },
+    {
+      "gameId": 767900,
+      "gameUrl": "https://alariann.itch.io/alchemist-blast",
+      "overallRank": 62,
+      "topCategories": [
+        "Theme/Limitation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Alariann",
+            "id": 1024990
+          }
+        ],
+        "rank": 62,
+        "url": "https://itch.io/jam/vimjam/rate/767900",
+        "title": "Alchemist Blast",
+        "rating_count": 9,
+        "raw_score": 3.6222222222222,
+        "cover_url": "https://img.itch.zone/aW1nLzQyOTc0MDUucG5n/300x240%23c/Guc7AS.png",
+        "score": 3.6222222222222,
+        "criteria": [
+          {
+            "name": "Fun/Design",
+            "score": 3.4444444444444,
+            "rank": 119,
+            "raw_score": 3.4444444444444
+          },
+          {
+            "name": "Technical Implementation",
+            "score": 3.6666666666667,
+            "rank": 55,
+            "raw_score": 3.6666666666667
+          },
+          {
+            "name": "Music/Sound",
+            "score": 3.1111111111111,
+            "rank": 141,
+            "raw_score": 3.1111111111111
+          },
+          {
+            "name": "Graphics/Animation",
+            "score": 3.4444444444444,
+            "rank": 131,
+            "raw_score": 3.4444444444444
+          },
+          {
+            "name": "Theme/Limitation",
+            "score": 4.4444444444444,
+            "rank": 4,
+            "raw_score": 4.4444444444444
+          }
+        ],
+        "id": 767900
+      },
+      "entryData": {
+        "rating_count": 9,
+        "url": "/jam/vimjam/rate/767900",
+        "id": 158649,
+        "coolness": 33,
+        "field_responses": [
+          "9997:1",
+          "9999:1",
+          "9999:2",
+          "9999:3",
+          "9999:4",
+          "9999:5"
+        ],
+        "created_at": "2020-09-25 16:47:25",
+        "game": {
+          "title": "Alchemist Blast",
+          "cover": "https://img.itch.zone/aW1nLzQyOTc0MDUucG5n/300x240%23c/Guc7AS.png",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "android"
+          ],
+          "id": 767900,
+          "url": "https://alariann.itch.io/alchemist-blast",
+          "short_text": "Casual high score jump game for the vim game jam",
+          "cover_color": "#171717",
+          "user": {
+            "name": "Alariann",
+            "url": "https://alariann.itch.io",
+            "id": 1024990
+          }
+        }
+      },
+      "details": {
+        "title": "Alchemist Blast",
+        "description": "Casual high score game made for the VIMJAM  (8 Bits to Infinity), made in solo by myself, Alariann (Alariann Games).  It's been started around 3 days before the deadline.\nThe goal is to go as high as possible!\nClick on the upper part of the screen (when the tutorial is finished and the potion shop is closed) to jump in that direction!\n\nFor that, you can use potions that you throw while in midair (first click pauses the game so you have time to choose where you want the potion to explode).\nThe blue potions explosion give you a push in the desired direction. Click below you to push you upward, click on the side to be pushed to the other side etc...\n (blue potions give you a push, but later other potions will be added to the game with other cool effects!)\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzY3OTAwLzQyOTczODYucG5n/original/mCQ2q2.png",
+          "https://img.itch.zone/aW1hZ2UvNzY3OTAwLzQyOTczODMucG5n/original/IqjHa5.png",
+          "https://img.itch.zone/aW1hZ2UvNzY3OTAwLzQyOTczODIucG5n/original/9EmoIE.png",
+          "https://img.itch.zone/aW1hZ2UvNzY3OTAwLzQyOTczNzcucG5n/original/3hswPN.png",
+          "https://img.itch.zone/aW1hZ2UvNzY3OTAwLzQyOTczODAucG5n/original/LhHKp3.png",
+          "https://img.itch.zone/aW1hZ2UvNzY3OTAwLzQyOTczNzkucG5n/original/atHwL2.png",
+          "https://img.itch.zone/aW1hZ2UvNzY3OTAwLzQyOTczODEucG5n/original/uSc%2Bv3.png",
+          "https://img.itch.zone/aW1hZ2UvNzY3OTAwLzQyOTczODUucG5n/original/cKWtcS.png",
+          "https://img.itch.zone/aW1hZ2UvNzY3OTAwLzQyOTczODQucG5n/original/YqDcyL.png",
+          "https://img.itch.zone/aW1hZ2UvNzY3OTAwLzQyOTc0OTgucG5n/original/Dys43B.png",
+          "https://img.itch.zone/aW1hZ2UvNzY3OTAwLzQyOTc0MTIucG5n/original/EhxSKg.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows, macOS, Linux, Android",
+          "Author": "Alariann",
+          "Tags": "2D, High Score, jumping"
+        }
+      }
+    },
+    {
+      "gameId": 767384,
+      "gameUrl": "https://gophergames.itch.io/hurrah-hurrah",
+      "overallRank": 54,
+      "topCategories": [
+        "Theme/Limitation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "H.H.Magoo",
+            "id": 1493713
+          }
+        ],
+        "rank": 54,
+        "url": "https://itch.io/jam/vimjam/rate/767384",
+        "title": "Hurrah, Hurrah!",
+        "rating_count": 10,
+        "raw_score": 3.68,
+        "cover_url": "https://img.itch.zone/aW1nLzQyOTMxMzkucG5n/300x240%23c/BdDjWa.png",
+        "score": 3.68,
+        "criteria": [
+          {
+            "name": "Fun/Design",
+            "score": 3.7,
+            "rank": 70,
+            "raw_score": 3.7
+          },
+          {
+            "name": "Technical Implementation",
+            "score": 3.5,
+            "rank": 81,
+            "raw_score": 3.5
+          },
+          {
+            "name": "Music/Sound",
+            "score": 3.8,
+            "rank": 36,
+            "raw_score": 3.8
+          },
+          {
+            "name": "Graphics/Animation",
+            "score": 3,
+            "rank": 194,
+            "raw_score": 3
+          },
+          {
+            "name": "Theme/Limitation",
+            "score": 4.4,
+            "rank": 6,
+            "raw_score": 4.4
+          }
+        ],
+        "id": 767384
+      },
+      "entryData": {
+        "rating_count": 10,
+        "url": "/jam/vimjam/rate/767384",
+        "id": 158261,
+        "coolness": 13,
+        "field_responses": [
+          "9997:3",
+          "9999:1",
+          "9999:2",
+          "9999:3",
+          "9999:4",
+          "9999:5"
+        ],
+        "created_at": "2020-09-25 05:11:07",
+        "game": {
+          "title": "Hurrah, Hurrah!",
+          "cover": "https://img.itch.zone/aW1nLzQyOTMxMzkucG5n/300x240%23c/BdDjWa.png",
+          "platforms": [
+            "windows"
+          ],
+          "id": 767384,
+          "url": "https://gophergames.itch.io/hurrah-hurrah",
+          "short_text": "Frantic antics by frantic ants",
+          "cover_color": "#eeeeee",
+          "user": {
+            "name": "H.H.Magoo",
+            "url": "https://gophergames.itch.io",
+            "id": 1493713
+          }
+        }
+      },
+      "details": {
+        "title": "Hurrah, Hurrah!",
+        "description": "Direct a colony of ants to collect as many crumbs as possible before the music stops. \n'Hurrah Hurrah' is a family-friendly arcade game with multiple strategies.\nWho made this game? \nH. H. Magoo did all of the game design, programming, sound effects, photography, and art. A trio of her friends who wish to be identified only as 'Queenie and the Drones' sang 'The Ants Go Marching'. \nHow does it meet the requirements of 8 Bits to Infinity's VimJam? \nThe goal of the game is to collect crumbs. Your ants must safely bring the crumbs back to the nest before they are added to your score. As for optional challenges, Magoo was inspired by the theme of 8 Bits to Infinity's arcade jam, \"swarm\", and each round of the game lasts for the length of the song 'The Ants Go Marching'.\nWhy is this game fun?\nThere is an interesting \"it takes money to make money\" tension regarding which of the six Enh-ants-ments to purchase and in which order. They all measurably improve performance but not always enough to cover their cost.\nAny strategy suggestions? \nFor your first game, I recommend purchasing Olfactovision as soon as you have 5 crumbs, and then Jumbo Ants. \n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzY3Mzg0LzQyOTMzODIucG5n/original/NWNuUZ.png",
+          "https://img.itch.zone/aW1hZ2UvNzY3Mzg0LzQyOTM0NjcucG5n/original/wrQHG7.png",
+          "https://img.itch.zone/aW1hZ2UvNzY3Mzg0LzQyOTMzODQucG5n/original/%2B9HHZ1.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Author": "H.H.Magoo",
+          "Genre": "Action",
+          "Tags": "2D, ants, Arcade, Top-Down"
+        }
+      }
+    },
+    {
+      "gameId": 767734,
+      "gameUrl": "https://dsjams.itch.io/ourobo",
+      "overallRank": 18,
+      "topCategories": [
+        "Theme/Limitation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "dsjams",
+            "id": 133787
+          }
+        ],
+        "rank": 18,
+        "url": "https://itch.io/jam/vimjam/rate/767734",
+        "title": "Ouroboros",
+        "rating_count": 29,
+        "raw_score": 3.9448275862069,
+        "cover_url": "https://img.itch.zone/aW1nLzQzMDY3NTcucG5n/300x240%23c/4ltNNf.png",
+        "score": 3.9448275862069,
+        "criteria": [
+          {
+            "name": "Fun/Design",
+            "score": 4.2068965517241,
+            "rank": 18,
+            "raw_score": 4.2068965517241
+          },
+          {
+            "name": "Technical Implementation",
+            "score": 3.8965517241379,
+            "rank": 24,
+            "raw_score": 3.8965517241379
+          },
+          {
+            "name": "Music/Sound",
+            "score": 3.4137931034483,
+            "rank": 86,
+            "raw_score": 3.4137931034483
+          },
+          {
+            "name": "Graphics/Animation",
+            "score": 3.8275862068966,
+            "rank": 61,
+            "raw_score": 3.8275862068966
+          },
+          {
+            "name": "Theme/Limitation",
+            "score": 4.3793103448276,
+            "rank": 7,
+            "raw_score": 4.3793103448276
+          }
+        ],
+        "id": 767734
+      },
+      "entryData": {
+        "rating_count": 29,
+        "url": "/jam/vimjam/rate/767734",
+        "id": 158373,
+        "coolness": 57,
+        "field_responses": [
+          "9997:1",
+          "9998:3",
+          "9999:1",
+          "9999:2",
+          "9999:3",
+          "9999:4",
+          "9999:5"
+        ],
+        "created_at": "2020-09-25 12:59:07",
+        "game": {
+          "title": "Ouroboros",
+          "cover": "https://img.itch.zone/aW1nLzQzMDY3NTcucG5n/300x240%23c/4ltNNf.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 767734,
+          "url": "https://dsjams.itch.io/ourobo",
+          "short_text": "Help a tiny snake munch its way around the levels",
+          "cover_color": "#1f1c25",
+          "user": {
+            "name": "dsjams",
+            "url": "https://dsjams.itch.io",
+            "id": 133787
+          }
+        }
+      },
+      "details": {
+        "title": "Ouroboros",
+        "description": "Entry for https://itch.io/jam/vimjam\nHelp a tiny snake munch its way around the levels, though it can't seem to tell the difference between the things it should be eating and its own tail\nControls: \nMove: WASD / Arrow KeysReset: R",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzY3NzM0LzQyOTU1NzYucG5n/original/q%2BsUqx.png",
+          "https://img.itch.zone/aW1hZ2UvNzY3NzM0LzQyOTU1ODAucG5n/original/bfHUDp.png",
+          "https://img.itch.zone/aW1hZ2UvNzY3NzM0LzQyOTU1ODIucG5n/original/fTLtr7.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Author": "dsjams",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "Game Jam, Short"
+        }
+      }
+    },
+    {
+      "gameId": 763982,
+      "gameUrl": "https://woolamander.itch.io/expecting-groceries",
+      "overallRank": 29,
+      "topCategories": [
+        "Theme/Limitation"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Woolamander",
+            "id": 3243909
+          },
+          {
+            "name": "annuke",
+            "id": 3311551
+          }
+        ],
+        "rank": 29,
+        "url": "https://itch.io/jam/vimjam/rate/763982",
+        "title": "Expecting Groceries",
+        "rating_count": 48,
+        "raw_score": 3.8583333333333,
+        "cover_url": "https://img.itch.zone/aW1nLzQyNzM3NzYucG5n/300x240%23c/0bAtqT.png",
+        "score": 3.8583333333333,
+        "criteria": [
+          {
+            "name": "Fun/Design",
+            "score": 3.8125,
+            "rank": 54,
+            "raw_score": 3.8125
+          },
+          {
+            "name": "Technical Implementation",
+            "score": 3.6041666666667,
+            "rank": 66,
+            "raw_score": 3.6041666666667
+          },
+          {
+            "name": "Music/Sound",
+            "score": 3.625,
+            "rank": 55,
+            "raw_score": 3.625
+          },
+          {
+            "name": "Graphics/Animation",
+            "score": 3.9375,
+            "rank": 45,
+            "raw_score": 3.9375
+          },
+          {
+            "name": "Theme/Limitation",
+            "score": 4.3125,
+            "rank": 10,
+            "raw_score": 4.3125
+          }
+        ],
+        "id": 763982
+      },
+      "entryData": {
+        "coolness": 53,
+        "contributors": [
+          {
+            "name": "Woolamander",
+            "url": "https://woolamander.itch.io"
+          },
+          {
+            "name": "annuke",
+            "url": "https://annuke.itch.io"
+          }
+        ],
+        "url": "/jam/vimjam/rate/763982",
+        "id": 158635,
+        "created_at": "2020-09-25 16:44:55",
+        "field_responses": [
+          "9997:2",
+          "9998:1",
+          "9998:3",
+          "9999:1",
+          "9999:2",
+          "9999:3",
+          "9999:4",
+          "9999:5"
+        ],
+        "rating_count": 48,
+        "game": {
+          "title": "Expecting Groceries",
+          "cover": "https://img.itch.zone/aW1nLzQyNzM3NzYucG5n/300x240%23c/0bAtqT.png",
+          "platforms": [
+            "windows",
+            "osx"
+          ],
+          "id": 763982,
+          "url": "https://woolamander.itch.io/expecting-groceries",
+          "short_text": "Shopping isn't for the light hearted.",
+          "cover_color": "#2d4059",
+          "user": {
+            "name": "Woolamander",
+            "url": "https://woolamander.itch.io",
+            "id": 3243909
+          }
+        }
+      },
+      "details": {
+        "title": "Expecting Groceries",
+        "description": "Getting groceries gets wild for soon-to-be dad Lester Quest.\nOne moment, he’s checking out; the next his beautiful and -very- pregnant wife, Madge Quest, is overcome with ravenous cravings.\n  \nHe knows there isn’t much time before the check-out clerk loses his cool, but Lester insists on making his wife happy–at any cost.\n  \nThis punny, super dad knows the clock is ticking.  Summoning his sacred “Dad Powers” he’ll dodge around grocery hazards to get whatever his beloved desires.   \nHowever, when the sample lady throws deadly shrimp, Lester has to decide what is more important: getting the goods, or staying alive?\nControls:\nMovement Keys: W, A, S, D\n[Right-click] to channel your Dad Powers into a concentrated burst of speed towards the mouse. \n[SPACEBAR] to discuss food strategies with your pregnant wife. \nKeep your stress down by dodging past rolling cans, flying jams, and scampi bullets. \nNavigate the treacherous grocery to retrieve the ingredients for a dish most magnificent before time's up! \n**This game was created for VimJam 2020 with a focus on collectables and a theme of \"There and Back\".  This is our first game and our first jam!  Hope you enjoy.**\nCredits:\nCode and Concept by Woolamander (Goats Gruff Games)Art and Animation by Annuke (Goats Gruff Games)\nCover Font by FenotypeBase Sprite Art by Lokif (Changes made: some poses, hair, eyes, clothes, and shoes)\nMusic:Gameplay Theme \"Sweet 70s\" composed by Clement PanchoutMainMenu Theme \"CVP701Jam\" composed by omfgdudeGameOver Theme \"The Charm 68\" composed by The Cynic Project - https://pixelsphere.org/\nVarious sound effects composed by:Wobbleboxx.comartisticdudequbodup\nDownload zip file.Extract folders from zip file.Click on \"expecting groceries\" application with the headshot icon.Enjoy!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzYzOTgyLzQyOTY5MzgucG5n/original/RKwQRm.png",
+          "https://img.itch.zone/aW1hZ2UvNzYzOTgyLzQyOTcxOTEuanBn/original/8nf7cC.jpg",
+          "https://img.itch.zone/aW1hZ2UvNzYzOTgyLzQyOTcyODkucG5n/original/2Hc%2Fd9.png",
+          "https://img.itch.zone/aW1hZ2UvNzYzOTgyLzQyOTczMDcucG5n/original/96S5tD.png",
+          "https://img.itch.zone/aW1hZ2UvNzYzOTgyLzQyOTc0MDIuanBn/original/P67858.jpg"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows, macOS",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "Woolamander, annuke",
+          "Genre": "Action",
+          "Tags": "2D, Action-Adventure, Funny, My First Game Jam, Pixel Art, Short, Singleplayer, Top-Down, Top Down Adventure, Unity"
+        }
+      }
+    }
+  ]
+}

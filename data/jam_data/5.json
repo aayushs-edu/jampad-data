@@ -1,0 +1,4974 @@
+{
+  "n": 5,
+  "name": "GMTK Game Jam 2021",
+  "url": "https://itch.io/jam/gmtk-2021",
+  "theme": "Joined Together",
+  "slug": "gmtk-2021",
+  "jamMeta": {
+    "jamType": "ended",
+    "ratings": "142,082",
+    "entries": "5,642",
+    "title": "GMTK Game Jam 2021",
+    "jamURL": "https://itch.io/jam/gmtk-2021",
+    "hosts": {
+      "Game Maker's Toolkit": "https://gmtk.itch.io",
+      "#gmtkjam": "https://bsky.app/hashtag/gmtkjam"
+    },
+    "jamID": "14786"
+  },
+  "totalEntries": 5498,
+  "ranked": true,
+  "hasCategories": true,
+  "needsManualSelection": false,
+  "categories": [
+    "Fun",
+    "Originality",
+    "Presentation"
+  ],
+  "topGames": [
+    {
+      "gameId": 1083414,
+      "gameUrl": "https://chaoclypse.itch.io/ball-to-the-wall",
+      "overallRank": 17,
+      "topCategories": [
+        "Fun"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYyMTAyODkuZ2lm/300x240%23c/JQZkvE.gif",
+        "contributors": [
+          {
+            "name": "Chaoclypse",
+            "id": 63563
+          },
+          {
+            "name": "quantumtea",
+            "id": 4461367
+          },
+          {
+            "name": "Conspite",
+            "id": 963225
+          }
+        ],
+        "id": 1083414,
+        "criteria": [
+          {
+            "name": "Fun",
+            "rank": 1,
+            "score": 4.6578947368421,
+            "raw_score": 4.6578947368421
+          },
+          {
+            "name": "Presentation",
+            "rank": 43,
+            "score": 4.5263157894737,
+            "raw_score": 4.5263157894737
+          },
+          {
+            "name": "Originality",
+            "rank": 369,
+            "score": 3.9210526315789,
+            "raw_score": 3.9210526315789
+          },
+          {
+            "name": "Top Marks",
+            "rank": 1,
+            "score": 0,
+            "raw_score": 0
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1083414",
+        "raw_score": 4.3684210526316,
+        "rating_count": 38,
+        "score": 4.3684210526316,
+        "title": "BALL TO THE WALL",
+        "rank": 17
+      },
+      "entryData": {
+        "created_at": "2021-06-13 16:05:00",
+        "field_responses": [
+          "12554:1",
+          "12555:1"
+        ],
+        "url": "/jam/gmtk-2021/rate/1083414",
+        "id": 222656,
+        "rating_count": 38,
+        "contributors": [
+          {
+            "name": "Chaoclypse",
+            "url": "https://chaoclypse.itch.io"
+          },
+          {
+            "name": "quantumtea",
+            "url": "https://quantumtea.itch.io"
+          },
+          {
+            "name": "Conspite",
+            "url": "https://conspite.itch.io"
+          }
+        ],
+        "coolness": 6,
+        "game": {
+          "title": "BALL TO THE WALL",
+          "cover_color": "#7bc1ff",
+          "short_text": "BALL SMASH",
+          "user": {
+            "name": "Chaoclypse",
+            "url": "https://chaoclypse.itch.io",
+            "id": 63563
+          },
+          "url": "https://chaoclypse.itch.io/ball-to-the-wall",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzYyMTAyODkuZ2lm/300x240%23c/JQZkvE.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzYyMTAyODkuZ2lm/original/GqnwS3.gif",
+          "id": 1083414
+        }
+      },
+      "details": {
+        "title": "BALL TO THE WALL",
+        "description": "for GMTK Jam 2021\n\nTheme: Joined Together\n\nTeam:\nChaoclypse (Programmer, Designer)\nConspite (Programmer, Designer)\nQuantumtea (Artist, Designer)\nVav (Musician)\n\nInstructions: WASD to move, mouse to shoot your dude towards the ball. Get to the goal to continue!",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzYyMTAyODkuZ2lm/original/GqnwS3.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.4 out of 5 stars(28 total ratings)",
+          "Authors": "Chaoclypse, quantumtea, Conspite",
+          "Genre": "Action",
+          "Tags": "Arcade, Difficult, Game Maker's Toolkit Jam, Top down shooter"
+        }
+      }
+    },
+    {
+      "gameId": 1083491,
+      "gameUrl": "https://mvln.itch.io/phasing-puller",
+      "overallRank": 9,
+      "topCategories": [
+        "Fun"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzkyMDYwNTEucG5n/300x240%23c/pjakEm.png",
+        "contributors": [
+          {
+            "name": "MVLN",
+            "id": 1571384
+          }
+        ],
+        "id": 1083491,
+        "criteria": [
+          {
+            "name": "Fun",
+            "rank": 2,
+            "score": 4.5161290322581,
+            "raw_score": 4.5161290322581
+          },
+          {
+            "name": "Originality",
+            "rank": 103,
+            "score": 4.1935483870968,
+            "raw_score": 4.1935483870968
+          },
+          {
+            "name": "Presentation",
+            "rank": 32,
+            "score": 4.5483870967742,
+            "raw_score": 4.5483870967742
+          },
+          {
+            "name": "Top Marks",
+            "rank": 1,
+            "score": 0,
+            "raw_score": 0
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1083491",
+        "raw_score": 4.4193548387097,
+        "rating_count": 31,
+        "score": 4.4193548387097,
+        "title": "Phasing Puller",
+        "rank": 9
+      },
+      "entryData": {
+        "field_responses": [
+          "12554:1",
+          "12555:1"
+        ],
+        "url": "/jam/gmtk-2021/rate/1083491",
+        "id": 222827,
+        "rating_count": 31,
+        "created_at": "2021-06-13 16:22:57",
+        "coolness": 59,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzkyMDYwNTEucG5n/300x240%23c/pjakEm.png",
+          "title": "Phasing Puller",
+          "url": "https://mvln.itch.io/phasing-puller",
+          "id": 1083491,
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#000000",
+          "short_text": "Pull blocks into blocks -- from the other side",
+          "user": {
+            "name": "MVLN",
+            "url": "https://mvln.itch.io",
+            "id": 1571384
+          }
+        }
+      },
+      "details": {
+        "title": "Phasing Puller",
+        "description": "\nMake your way using a Phasing Puller!\n \nBy phasing through objects, this tool can pull and fasten physical objects to the bypassed item from the other side.\n\nDespite achieving a remarkable advance in technology, the facility now appears to be forlorn. Enveloped by a desolate atmosphere, an android sets out.\n\n\n\nBoth arrow keys and WASD work simultaneously; pick and choose!\n\n\n\n\n\n\n\nHere's a playthrough of the jam-version, found on Itch's YouTube channel:\n\nAnd here's a showcase of speedrunning the jam-version, made by Weaboo Degenerate:\n\nBut wait, there's more: a complete recreation of the game in GD, made by Zejoant:\n\n\nFinally, here's a full playthrough of the Casket edition of the game, made by ToasterCoder:\n\n\nAnd in the end, you can listen to the OST on Bandcamp.I only have .zip-files available, so you'll have to extract the game from one of these.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTA4MzQ5MS85MjA5MTA2LmdpZg==/original/eV4qBy.gif",
+          "https://img.itch.zone/aW1hZ2UvMTA4MzQ5MS85MjA5MTA3LmdpZg==/original/qEy%2F7w.gif",
+          "https://img.itch.zone/aW1hZ2UvMTA4MzQ5MS85MjA5MTEwLmdpZg==/original/fzOUSt.gif",
+          "https://img.itch.zone/aW1hZ2UvMTA4MzQ5MS85MjA5MTA5LmdpZg==/original/eKGuCx.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.7 out of 5 stars(23 total ratings)",
+          "Author": "MVLN",
+          "Genre": "Platformer",
+          "Made with": "GameMaker, Aseprite, Bfxr, FL Studio",
+          "Tags": "Puzzle-Platformer",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard",
+          "Accessibility": "Color-blind friendly, High-contrast"
+        }
+      }
+    },
+    {
+      "gameId": 1082834,
+      "gameUrl": "https://serponge.itch.io/sparklink",
+      "overallRank": 4,
+      "topCategories": [
+        "Fun"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYyMTI1OTYucG5n/300x240%23c/9C1JKl.png",
+        "contributors": [
+          {
+            "name": "Serponge",
+            "id": 1241619
+          },
+          {
+            "name": "Vermillion",
+            "id": 2480392
+          }
+        ],
+        "id": 1082834,
+        "criteria": [
+          {
+            "name": "Fun",
+            "rank": 3,
+            "score": 4.5090909090909,
+            "raw_score": 4.5090909090909
+          },
+          {
+            "name": "Originality",
+            "rank": 25,
+            "score": 4.4181818181818,
+            "raw_score": 4.4181818181818
+          },
+          {
+            "name": "Presentation",
+            "rank": 42,
+            "score": 4.5272727272727,
+            "raw_score": 4.5272727272727
+          },
+          {
+            "name": "Top Marks",
+            "rank": 1,
+            "score": 0,
+            "raw_score": 0
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1082834",
+        "raw_score": 4.4848484848485,
+        "rating_count": 55,
+        "score": 4.4848484848485,
+        "title": "SparkLink",
+        "rank": 4
+      },
+      "entryData": {
+        "created_at": "2021-06-13 17:52:23",
+        "field_responses": [
+          "12554:1",
+          "12555:1"
+        ],
+        "url": "/jam/gmtk-2021/rate/1082834",
+        "id": 225049,
+        "rating_count": 55,
+        "contributors": [
+          {
+            "name": "Serponge",
+            "url": "https://serponge.itch.io"
+          },
+          {
+            "name": "Vermillion",
+            "url": "https://vermillion-indie.itch.io"
+          }
+        ],
+        "coolness": 30,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzYyMTI1OTYucG5n/300x240%23c/9C1JKl.png",
+          "title": "SparkLink",
+          "url": "https://serponge.itch.io/sparklink",
+          "id": 1082834,
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#000000",
+          "short_text": "“I feel so powerless without you…”",
+          "user": {
+            "name": "Serponge",
+            "url": "https://serponge.itch.io",
+            "id": 1241619
+          }
+        }
+      },
+      "details": {
+        "title": "SparkLink",
+        "description": "In SparkLink you play as Robi, a robot that can only move when connected to electricity, and Sparky, a bundle of energy that can interact with machinery. \nFollow these two through their adventure as they are joined together to solve fast-paced action puzzles in a large futuristic city.\n Made in 48 hours for the GMTK 2021 \nGame Jam Theme: Joined Together \nHow to play: Mouse control – guide Sparky Left click – interact with objects as Sparky WAD/ZQD/Spacebar – control Robi when connected to SparkyR - restartF11 - fullscreen switching\nCreators: \nMade a boulder simulation - Lumpy Game Designer - Serponge Game Artist - Thomartin https://mobile.twitter.com/ThomartinGDProgrammer - Vermillion https://mobile.twitter.com/vermillion_gdMusic - Novedeth https://mobile.twitter.com/novedeht\nSFX- MickelBach https://mobile.twitter.com/mickelbach\nA little bit of everything - Disp https://mobile.twitter.com/PoorDispPrototype Designer - Spu7nix https://mobile.twitter.com/Spu7NixPromo Illustrator - Erdyuri https://mobile.twitter.com/Erdyuri\nExtra Notes:\nF11 - fullscreen switchingR - restart",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTA4MjgzNC82MjE0NDk1LnBuZw==/original/4nnGT%2B.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4MjgzNC82MjE0NTI0LnBuZw==/original/r40J1l.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4MjgzNC82MjE0OTQwLnBuZw==/original/JUKv5X.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.7 out of 5 stars(17 total ratings)",
+          "Authors": "Serponge, Vermillion",
+          "Genre": "Platformer",
+          "Tags": "2D, Pixel Art, Puzzle-Platformer, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 1081512,
+      "gameUrl": "https://davifox.itch.io/sleepy-blocks",
+      "overallRank": 27,
+      "topCategories": [
+        "Fun"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzY4OTEwNDEuZ2lm/300x240%23c/9uGZgF.gif",
+        "contributors": [
+          {
+            "name": "Davi Fox",
+            "id": 1037449
+          }
+        ],
+        "id": 1081512,
+        "criteria": [
+          {
+            "name": "Fun",
+            "rank": 4,
+            "score": 4.4827586206897,
+            "raw_score": 4.4827586206897
+          },
+          {
+            "name": "Originality",
+            "rank": 354,
+            "score": 3.9310344827586,
+            "raw_score": 3.9310344827586
+          },
+          {
+            "name": "Presentation",
+            "rank": 61,
+            "score": 4.4827586206897,
+            "raw_score": 4.4827586206897
+          },
+          {
+            "name": "Top Marks",
+            "rank": 1,
+            "score": 0,
+            "raw_score": 0
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1081512",
+        "raw_score": 4.2988505747126,
+        "rating_count": 29,
+        "score": 4.2988505747126,
+        "title": "Sleepy Blocks",
+        "rank": 27
+      },
+      "entryData": {
+        "field_responses": [
+          "12554:1",
+          "12555:1"
+        ],
+        "url": "/jam/gmtk-2021/rate/1081512",
+        "id": 220881,
+        "rating_count": 29,
+        "created_at": "2021-06-13 05:46:03",
+        "coolness": 18,
+        "game": {
+          "title": "Sleepy Blocks",
+          "cover_color": "#265282",
+          "short_text": "Block moving puzzler",
+          "user": {
+            "name": "Davi Fox",
+            "url": "https://davifox.itch.io",
+            "id": 1037449
+          },
+          "url": "https://davifox.itch.io/sleepy-blocks",
+          "platforms": [
+            "windows",
+            "android"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzY4OTEwNDEuZ2lm/300x240%23c/9uGZgF.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzY4OTEwNDEuZ2lm/original/aNPLgF.gif",
+          "id": 1081512
+        }
+      },
+      "details": {
+        "title": "Sleepy Blocks",
+        "description": "ALSO AVAILABLE ON GOOGLE PLAY!\n\nGMTK 2021 Winner (video)\n\nSleepy Blocks 1.0 is out!\n\nThe full version of the game, winner of the GMTK Game Jam 2021 is here!\nWhat is new?\n- 50 levels! (the jam version has only the first 13)\n- new block types\n- new mechanics\n- level selection screen\n- undo functionality\n- star system\n\nHOW TO PLAY:\nArrows/WASDmoveZundo last moveRrestart current levelESCmenu",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTA4MTUxMi83MjMzNzU5LnBuZw==/original/SrHKmA.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4MTUxMi82ODQwMDA5LnBuZw==/original/zfuaAE.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4MTUxMi82ODQwMDE1LnBuZw==/original/RrU6Jy.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4MTUxMi82ODQwMDEyLnBuZw==/original/1geZ8o.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4MTUxMi82ODQwMDEwLnBuZw==/original/7l7MGs.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4MTUxMi82ODQwMDE2LnBuZw==/original/4SNg0a.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4MTUxMi82ODQwMDE0LnBuZw==/original/xUq0Md.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4MTUxMi82ODQwMDExLnBuZw==/original/QAbOHX.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4MTUxMi82ODQwMDEzLnBuZw==/original/rTEaxV.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, Android",
+          "Rating": "Rated 4.7 out of 5 stars(33 total ratings)",
+          "Author": "Davi Fox",
+          "Genre": "Puzzle",
+          "Tags": "2D, Atmospheric, blocks, Casual, Cute, Pixel Art, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 1083948,
+      "gameUrl": "https://team-bugulon.itch.io/static-cling",
+      "overallRank": 2,
+      "topCategories": [
+        "Fun",
+        "Originality",
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYyNDYxNzcuanBn/300x240%23c/chaCM4.jpg",
+        "contributors": [
+          {
+            "name": "Team Bugulon",
+            "id": 3730371
+          }
+        ],
+        "id": 1083948,
+        "criteria": [
+          {
+            "name": "Fun",
+            "rank": 5,
+            "score": 4.4583333333333,
+            "raw_score": 4.4583333333333
+          },
+          {
+            "name": "Originality",
+            "rank": 15,
+            "score": 4.4583333333333,
+            "raw_score": 4.4583333333333
+          },
+          {
+            "name": "Presentation",
+            "rank": 4,
+            "score": 4.7604166666667,
+            "raw_score": 4.7604166666667
+          },
+          {
+            "name": "Top Marks",
+            "rank": 1,
+            "score": 0,
+            "raw_score": 0
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1083948",
+        "raw_score": 4.5590277777778,
+        "rating_count": 96,
+        "score": 4.5590277777778,
+        "title": "Static Cling",
+        "rank": 2
+      },
+      "entryData": {
+        "field_responses": [
+          "12554:1",
+          "12555:1"
+        ],
+        "url": "/jam/gmtk-2021/rate/1083948",
+        "id": 225114,
+        "rating_count": 96,
+        "created_at": "2021-06-13 17:53:05",
+        "coolness": 77,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzYyNDYxNzcuanBn/300x240%23c/chaCM4.jpg",
+          "title": "Static Cling",
+          "url": "https://team-bugulon.itch.io/static-cling",
+          "id": 1083948,
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#eeeeee",
+          "short_text": "Solve 21 levels of unique, electric puzzles!",
+          "user": {
+            "name": "Team Bugulon",
+            "url": "https://team-bugulon.itch.io",
+            "id": 3730371
+          }
+        }
+      },
+      "details": {
+        "title": "Static Cling",
+        "description": "Play as a rogue spark restrained to electronic devices, running, climbing and stretching through 3 worlds of unique puzzles. Can you free yourself of your electric tethers and escape?\nFeatures:\n21 Levels of unique puzzle solving! A variety of mechanics and controllable objectsAn original soundtrackHigh quality pixel art graphics\nControls:\nMouse - AimLeft Click - ExtendWASD - Move Space - Jump\nContributors: \nsarn - ProgrammingOroshibu - Level Editor\nsqup - Level DesignShrombus - Level DesignTHX - Art\nSnakeblock - Art\norisghost - Art\nNotYourSagittarius - ArtBub - Concept ArtMista Jub - Sound and Music\n\nGame design by everyone involved. \nThe OST can be found here. \nStatic Cling is a puzzle-platformer made in 48 hours for GMTK Jam 2021 with the theme \"Joined Together\". \n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTA4Mzk0OC82MjM5MTM0LnBuZw==/original/ouD4pN.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4Mzk0OC82MjM5MTM1LnBuZw==/original/t8CE71.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4Mzk0OC82MjM5MTM2LnBuZw==/original/YBTLEW.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4Mzk0OC82MjQ2MjkxLnBuZw==/original/WjFiPY.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.7 out of 5 stars(266 total ratings)",
+          "Author": "Team Bugulon",
+          "Genre": "Puzzle, Platformer",
+          "Made with": "GameMaker",
+          "Tags": "2D, gmtk-2021, Game Maker's Toolkit Jam, Pixel Art, Puzzle-Platformer, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 1077447,
+      "gameUrl": "https://z-richman.itch.io/maze-of-the-mini-taur",
+      "overallRank": 5,
+      "topCategories": [
+        "Fun"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYxOTY5NzUuZ2lm/300x240%23c/VG5Dmj.gif",
+        "contributors": [
+          {
+            "name": "Zachary Richman",
+            "id": 3090532
+          },
+          {
+            "name": "Amorphous",
+            "id": 35154
+          },
+          {
+            "name": "FartFish",
+            "id": 1678406
+          },
+          {
+            "name": "Leko",
+            "id": 1709429
+          },
+          {
+            "name": "adikar1",
+            "id": 2629335
+          },
+          {
+            "name": "Kira",
+            "id": 1799141
+          }
+        ],
+        "id": 1077447,
+        "criteria": [
+          {
+            "name": "Fun",
+            "rank": 6,
+            "score": 4.4543080939948,
+            "raw_score": 4.4543080939948
+          },
+          {
+            "name": "Originality",
+            "rank": 65,
+            "score": 4.2845953002611,
+            "raw_score": 4.2845953002611
+          },
+          {
+            "name": "Presentation",
+            "rank": 24,
+            "score": 4.6135770234987,
+            "raw_score": 4.6135770234987
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1077447",
+        "raw_score": 4.4508268059182,
+        "rating_count": 383,
+        "score": 4.4508268059182,
+        "title": "Maze of the Mini-taur",
+        "rank": 5
+      },
+      "entryData": {
+        "created_at": "2021-06-13 17:50:59",
+        "field_responses": [
+          "12554:1",
+          "12555:1"
+        ],
+        "url": "/jam/gmtk-2021/rate/1077447",
+        "id": 224949,
+        "rating_count": 383,
+        "contributors": [
+          {
+            "name": "Zachary Richman",
+            "url": "https://z-richman.itch.io"
+          },
+          {
+            "name": "Amorphous",
+            "url": "https://amorphous.itch.io"
+          },
+          {
+            "name": "FartFish",
+            "url": "https://fartfish.itch.io"
+          },
+          {
+            "name": "Leko",
+            "url": "https://leko20.itch.io"
+          },
+          {
+            "name": "adikar1",
+            "url": "https://adikar1.itch.io"
+          },
+          {
+            "name": "Kira",
+            "url": "https://kiraroci.itch.io"
+          }
+        ],
+        "coolness": 55,
+        "game": {
+          "title": "Maze of the Mini-taur",
+          "cover_color": "#110524",
+          "short_text": "Make your way through the labyrinth while you move and manipulate its very rooms. Can you escape?",
+          "user": {
+            "name": "Zachary Richman",
+            "url": "https://z-richman.itch.io",
+            "id": 3090532
+          },
+          "url": "https://z-richman.itch.io/maze-of-the-mini-taur",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzYxOTY5NzUuZ2lm/300x240%23c/VG5Dmj.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzYxOTY5NzUuZ2lm/original/znvQkX.gif",
+          "id": 1077447
+        }
+      },
+      "details": {
+        "title": "Maze of the Mini-taur",
+        "description": "Ranked 5th in the 2021 GMTK Game Jam\nWelcome to the Maze of the Mini-taur! Make your way through the labyrinth while you manipulate its very rooms. Can you escape?\nIn this puzzle-platformer, each level is made up of 9 joined together rooms. Shift the columns and rows of the level to separate and rejoin the various rooms, to create new (and perilous) paths for your Mini-taur to reach the exit. Good luck!\n_________________________________________________\nJoin our Discord for updates on the game and to chat with devs/players!_________________________________________________\nCONTROLS:\nWASD / Arrow keys – Move and jumpLeft click – Move maze columns/rowsR – Reset levelO / P – Previous level / skip level\n_________________________________________________\nCREDITS:\nZachary Richman – Director, WriterLeko – ProgrammerKira – Programmer, Level DesignerFartfish – Pixel Artist, AnimatorAmorphous – Pixel Artist, AnimatorAdrian Karmanski – Music, SFX\n_________________________________________________Stuck? Find all the puzzle answers below!\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTA3NzQ0Ny82MjE4MjMxLmdpZg==/original/ACiN38.gif",
+          "https://img.itch.zone/aW1hZ2UvMTA3NzQ0Ny82MjE3MDQyLmdpZg==/original/kK1yFj.gif",
+          "https://img.itch.zone/aW1hZ2UvMTA3NzQ0Ny82MjE3NzA3LmdpZg==/original/vOmsKY.gif",
+          "https://img.itch.zone/aW1hZ2UvMTA3NzQ0Ny82MjE4Mjc0LmdpZg==/original/vWKV6%2F.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.6 out of 5 stars(48 total ratings)",
+          "Authors": "Zachary Richman, Amorphous, FartFish, Leko, adikar1, Kira",
+          "Genre": "Puzzle, Platformer, Strategy",
+          "Made with": "GameMaker",
+          "Tags": "2D, Arcade, Game Maker's Toolkit Jam, maze, mythology, Pixel Art, Puzzle-Platformer, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 1082501,
+      "gameUrl": "https://finite-reflection.itch.io/space-scrap-shuffle",
+      "overallRank": 14,
+      "topCategories": [
+        "Fun"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYyOTI1NDkuZ2lm/300x240%23c/kTO%2FRf.gif",
+        "contributors": [
+          {
+            "name": "Finite Reflection",
+            "id": 453871
+          }
+        ],
+        "id": 1082501,
+        "criteria": [
+          {
+            "name": "Fun",
+            "rank": 7,
+            "score": 4.4102564102564,
+            "raw_score": 4.4102564102564
+          },
+          {
+            "name": "Originality",
+            "rank": 54,
+            "score": 4.3076923076923,
+            "raw_score": 4.3076923076923
+          },
+          {
+            "name": "Presentation",
+            "rank": 58,
+            "score": 4.4871794871795,
+            "raw_score": 4.4871794871795
+          },
+          {
+            "name": "Top Marks",
+            "rank": 1,
+            "score": 0,
+            "raw_score": 0
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1082501",
+        "raw_score": 4.4017094017094,
+        "rating_count": 39,
+        "score": 4.4017094017094,
+        "title": "Space Scrap Shuffle",
+        "rank": 14
+      },
+      "entryData": {
+        "field_responses": [
+          "12554:1",
+          "12555:2"
+        ],
+        "url": "/jam/gmtk-2021/rate/1082501",
+        "id": 225509,
+        "rating_count": 39,
+        "created_at": "2021-06-13 17:57:40",
+        "coolness": 69,
+        "game": {
+          "title": "Space Scrap Shuffle",
+          "cover_color": "#92002d",
+          "short_text": "Join and rearrange modules on your ship to fight your way to the warp gates",
+          "user": {
+            "name": "Finite Reflection",
+            "url": "https://finite-reflection.itch.io",
+            "id": 453871
+          },
+          "url": "https://finite-reflection.itch.io/space-scrap-shuffle",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzYyOTI1NDkuZ2lm/300x240%23c/kTO%2FRf.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzYyOTI1NDkuZ2lm/original/nW9ufo.gif",
+          "id": 1082501
+        }
+      },
+      "details": {
+        "title": "Space Scrap Shuffle",
+        "description": "Collect modules from destroyed enemy ships to grow your own. Not happy with where a turret is attached? Pop it off and put it somewhere else! Reconfiguring the layout of your ship could be the reason you survive... or it could be the reason you die.  Survive the onslaught of enemies as you try to make your way to the warp gates.\nControls\nWASD To MoveQ & E To RotateScroll Wheel to ZoomSpace for Tactical PauseLeft Click on Modules for context menus\n\nCreated for the 2021 GMTK Jam   \nTheme: Joined Together\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTA4MjUwMS82MjE5MjMxLnBuZw==/original/qqQvBc.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4MjUwMS82MjQ4NzExLnBuZw==/original/8AwkzI.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4MjUwMS82MjQ4NzE3LnBuZw==/original/XwVHXQ.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4MjUwMS82MjQ4NzIxLnBuZw==/original/cSJqG%2F.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.4 out of 5 stars(13 total ratings)",
+          "Author": "Finite Reflection",
+          "Genre": "Survival, Simulation, Strategy",
+          "Made with": "Unity",
+          "Tags": "Futuristic, Game Maker's Toolkit Jam, Space, Top-Down",
+          "Average session": "A few minutes",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 1084855,
+      "gameUrl": "https://waytoomuchrice.itch.io/amalga",
+      "overallRank": 218,
+      "topCategories": [
+        "Fun"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYyMTk5NTAucG5n/300x240%23c/XmUfWO.png",
+        "contributors": [
+          {
+            "name": "waytoomuchrice",
+            "id": 4505391
+          },
+          {
+            "name": "Smis",
+            "id": 4522875
+          },
+          {
+            "name": "1nterrobang",
+            "id": 4536563
+          }
+        ],
+        "id": 1084855,
+        "criteria": [
+          {
+            "name": "Originality",
+            "rank": 445,
+            "score": 3.8653846153846,
+            "raw_score": 3.8653846153846
+          },
+          {
+            "name": "Fun",
+            "rank": 8,
+            "score": 4.4038461538462,
+            "raw_score": 4.4038461538462
+          },
+          {
+            "name": "Presentation",
+            "rank": 1085,
+            "score": 3.5192307692308,
+            "raw_score": 3.5192307692308
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1084855",
+        "raw_score": 3.9294871794872,
+        "rating_count": 52,
+        "score": 3.9294871794872,
+        "title": "AMALGA",
+        "rank": 218
+      },
+      "entryData": {
+        "created_at": "2021-06-13 17:15:02",
+        "field_responses": [
+          "12554:1",
+          "12555:1"
+        ],
+        "url": "/jam/gmtk-2021/rate/1084855",
+        "id": 223600,
+        "rating_count": 52,
+        "contributors": [
+          {
+            "name": "waytoomuchrice",
+            "url": "https://waytoomuchrice.itch.io"
+          },
+          {
+            "name": "Smis",
+            "url": "https://smis.itch.io"
+          },
+          {
+            "name": "1nterrobang",
+            "url": "https://1nterrobang.itch.io"
+          }
+        ],
+        "coolness": 29,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzYyMTk5NTAucG5n/300x240%23c/XmUfWO.png",
+          "title": "AMALGA",
+          "url": "https://waytoomuchrice.itch.io/amalga",
+          "id": 1084855,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#222f74",
+          "short_text": "Bullet hell where you can join with destroyed enemies to gain their power!",
+          "user": {
+            "name": "waytoomuchrice",
+            "url": "https://waytoomuchrice.itch.io",
+            "id": 4505391
+          }
+        }
+      },
+      "details": {
+        "title": "AMALGA",
+        "description": "Frantically avoid enemy bullets while picking up destroyed enemies to grow in size and power! How many waves can you survive before everything falls apart? \n(Play in fullscreen for the best experience)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTA4NDg1NS82MjQ5MTQ1LnBuZw==/original/TeqJCR.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4NDg1NS82MjI1MTcwLnBuZw==/original/gXNfvG.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4NDg1NS82MjI2NDk4LnBuZw==/original/%2FR3MF8.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4NDg1NS82MjI2MzcyLnBuZw==/original/rBv3W%2F.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.0 out of 5 stars(4 total ratings)",
+          "Authors": "waytoomuchrice, Smis, 1nterrobang",
+          "Genre": "Action",
+          "Made with": "Unity",
+          "Tags": "Arcade, Bullet Hell, Game Maker's Toolkit Jam, Retro, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 1083016,
+      "gameUrl": "https://ihapiece.itch.io/rift-shift",
+      "overallRank": 18,
+      "topCategories": [
+        "Fun",
+        "Originality"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYyMjAwMjkucG5n/300x240%23c/voh5v2.png",
+        "contributors": [
+          {
+            "name": "ihapiece",
+            "id": 4494666
+          }
+        ],
+        "id": 1083016,
+        "criteria": [
+          {
+            "name": "Presentation",
+            "rank": 452,
+            "score": 3.9571428571429,
+            "raw_score": 3.9571428571429
+          },
+          {
+            "name": "Fun",
+            "rank": 9,
+            "score": 4.4,
+            "raw_score": 4.4
+          },
+          {
+            "name": "Originality",
+            "rank": 2,
+            "score": 4.7142857142857,
+            "raw_score": 4.7142857142857
+          },
+          {
+            "name": "Top Marks",
+            "rank": 1,
+            "score": 0,
+            "raw_score": 0
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1083016",
+        "raw_score": 4.3571428571429,
+        "rating_count": 70,
+        "score": 4.3571428571429,
+        "title": "Rift Shift",
+        "rank": 18
+      },
+      "entryData": {
+        "field_responses": [
+          "12554:1",
+          "12555:1"
+        ],
+        "url": "/jam/gmtk-2021/rate/1083016",
+        "id": 223640,
+        "rating_count": 70,
+        "created_at": "2021-06-13 17:16:58",
+        "coolness": 16,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzYyMjAwMjkucG5n/300x240%23c/voh5v2.png",
+          "url": "https://ihapiece.itch.io/rift-shift",
+          "id": 1083016,
+          "title": "Rift Shift",
+          "cover_color": "#1b1b1b",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "ihapiece",
+            "url": "https://ihapiece.itch.io",
+            "id": 4494666
+          }
+        }
+      },
+      "details": {
+        "title": "Rift Shift",
+        "description": "Made in 48 hours for the 2021 GMTK Game Jam.\nIf you are experiencing performance issues (<60 fps), please try the windows executable below.\nKnown Issues:\nRestarting in the last level sends you back to the title screen, this only happens in the browser version, I have no idea why.Sounds are played randomly when tabbing out of the browser version.Game is detected as a virus by windows because downloaded exe, but considered safe after a scan.",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzYyMjAwMjkucG5n/original/vGMfeE.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.5 out of 5 stars(47 total ratings)",
+          "Author": "ihapiece",
+          "Genre": "Platformer",
+          "Made with": "GameMaker",
+          "Average session": "A few minutes",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 1086420,
+      "gameUrl": "https://justcamh.itch.io/abra-click",
+      "overallRank": 6,
+      "topCategories": [
+        "Fun",
+        "Originality"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYyNTY1NDkucG5n/300x240%23c/Y5%2F%2Bi0.png",
+        "contributors": [
+          {
+            "name": "Justcamh",
+            "id": 1363453
+          }
+        ],
+        "id": 1086420,
+        "criteria": [
+          {
+            "name": "Fun",
+            "rank": 10,
+            "score": 4.3823529411765,
+            "raw_score": 4.3823529411765
+          },
+          {
+            "name": "Originality",
+            "rank": 7,
+            "score": 4.5588235294118,
+            "raw_score": 4.5588235294118
+          },
+          {
+            "name": "Presentation",
+            "rank": 108,
+            "score": 4.3823529411765,
+            "raw_score": 4.3823529411765
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1086420",
+        "raw_score": 4.4411764705882,
+        "rating_count": 34,
+        "score": 4.4411764705882,
+        "title": "Abra Click (Trial Version)",
+        "rank": 6
+      },
+      "entryData": {
+        "field_responses": [
+          "12554:1",
+          "12555:2"
+        ],
+        "url": "/jam/gmtk-2021/rate/1086420",
+        "id": 225404,
+        "rating_count": 34,
+        "created_at": "2021-06-13 17:56:31",
+        "coolness": 48,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzYyNTY1NDkucG5n/300x240%23c/Y5%2F%2Bi0.png",
+          "title": "Abra Click (Trial Version)",
+          "url": "https://justcamh.itch.io/abra-click",
+          "id": 1086420,
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ],
+          "cover_color": "#e1dbca",
+          "short_text": "Now includes basic privacy measures!",
+          "user": {
+            "name": "Justcamh",
+            "url": "https://justcamh.itch.io",
+            "id": 1363453
+          }
+        }
+      },
+      "details": {
+        "title": "Abra Click (Trial Version)",
+        "description": "Abra Click is a marvel of the digital age, a powerful new piece of software able to fix computer problems with a single click of your mouse. It's so easy, it's criminalistic! \n\n\n\nMade for the GMTK Jam 2021, by JUSTCAMHMusic by ClockMakerSounds from all over the interconnected web (CC-0)\n\nNEW: Abra Click ANON!Use ANON to censor your personal information, including usernames and files!\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTA4NjQyMC82MjU2NDU1LnBuZw==/original/y6A8WZ.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4NjQyMC82MjU2NDU2LnBuZw==/original/IW6IiF.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4NjQyMC82MjU2NTIzLnBuZw==/original/nqAvWg.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS, Linux",
+          "Rating": "Rated 4.7 out of 5 stars(9 total ratings)",
+          "Author": "Justcamh",
+          "Genre": "Puzzle",
+          "Made with": "Unity, Krita",
+          "Tags": "2D, Futuristic, glitch, Game Maker's Toolkit Jam, minigames, Minimalist, Physics, Puzzle-Platformer, satire, Short",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 1082111,
+      "gameUrl": "https://oandco.itch.io/tethergeist",
+      "overallRank": 10,
+      "topCategories": [
+        "Fun",
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYyMDM1NTcuanBn/300x240%23c/eHrdvj.jpg",
+        "contributors": [
+          {
+            "name": "O. & Co. Games",
+            "id": 3805976
+          },
+          {
+            "name": "Jefftacular",
+            "id": 4537468
+          },
+          {
+            "name": "rusty fishburger",
+            "id": 3806117
+          },
+          {
+            "name": "Doctor Ty",
+            "id": 4100277
+          },
+          {
+            "name": "TheCanyonKid",
+            "id": 4538697
+          },
+          {
+            "name": "RaeAllenArt",
+            "id": 4539974
+          }
+        ],
+        "id": 1082111,
+        "criteria": [
+          {
+            "name": "Fun",
+            "rank": 11,
+            "score": 4.3653846153846,
+            "raw_score": 4.3653846153846
+          },
+          {
+            "name": "Originality",
+            "rank": 91,
+            "score": 4.2211538461538,
+            "raw_score": 4.2211538461538
+          },
+          {
+            "name": "Presentation",
+            "rank": 14,
+            "score": 4.6634615384615,
+            "raw_score": 4.6634615384615
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1082111",
+        "raw_score": 4.4166666666667,
+        "rating_count": 104,
+        "score": 4.4166666666667,
+        "title": "TetherGeist",
+        "rank": 10
+      },
+      "entryData": {
+        "created_at": "2021-06-13 13:20:27",
+        "field_responses": [
+          "12554:1",
+          "12555:1"
+        ],
+        "url": "/jam/gmtk-2021/rate/1082111",
+        "id": 221717,
+        "rating_count": 104,
+        "contributors": [
+          {
+            "name": "O. & Co. Games",
+            "url": "https://oandco.itch.io"
+          },
+          {
+            "name": "Jefftacular",
+            "url": "https://jefftacular.itch.io"
+          },
+          {
+            "name": "rusty fishburger",
+            "url": "https://rusty-fishburger.itch.io"
+          },
+          {
+            "name": "Doctor Ty",
+            "url": "https://doctor-ty.itch.io"
+          },
+          {
+            "name": "TheCanyonKid",
+            "url": "https://thecanyonkid.itch.io"
+          },
+          {
+            "name": "RaeAllenArt",
+            "url": "https://raeallenart.itch.io"
+          }
+        ],
+        "coolness": 41,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzYyMDM1NTcuanBn/300x240%23c/eHrdvj.jpg",
+          "title": "TetherGeist",
+          "url": "https://oandco.itch.io/tethergeist",
+          "id": 1082111,
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#eeeeee",
+          "short_text": "(GMTK Jam 2021 - Top 10 Popular Vote) Traverse a mystical world by separating and rejoining  with your ghost.",
+          "user": {
+            "name": "O. & Co. Games",
+            "url": "https://oandco.itch.io",
+            "id": 3805976
+          }
+        }
+      },
+      "details": {
+        "title": "TetherGeist",
+        "description": "TetherGeist\nTetherGeist is a puzzle-platformer created in 48 hours for GMTK Jam 2021 following the theme  \"Joined Together.\" The Jam version received exceptionally high praise, ranking 10th (top 0.2%) based on the popular vote. Nearly a month later, the post-jam version was released with twice as many stages and many improvements to the gameplay. \nControls\nActionKeyboardControllerJumpSpace / W / Up ArrowB Button (bottom face)LeftA / Left ArrowLeft D PadRightD / Right ArrowRight D PadSplit / RejoinJLeft Shoulder / X Button (top face)Restart LevelRStart\nJoin Our Discord\nCome hang out with us on Discord. Ask questions. Make fun of our game (politely).\nhttps://discord.gg/KbgvDrBbXX \nSign Up For Our Newsletter\nhttps://jordanottesen.com/tethergeist-email-signup\nJam Notes\n\"While joined with your soul, the landscape seems relatively calm, but once you separate from your soul, the land comes to life. Of course, the separation comes at a price... \n\nWe've explored this core mechanic in many ways and are admittedly pretty happy with what we've created in these last hectic 48 hours. \n\nWe've put our hearts and souls into this... and have sacrificed much sleep lol. Thank you so much for playing!\n\nJordan & Team\"\nArtwork was created during the Jam. \nAudio was created during the Jam with some ideation rehearsed prior.\nPostmortem to follow.\n\nTools\nGamemaker Studio 2PhotoshopReaperfreesound.orgKenney SFXGoogle DriveDiscordZoom\nCredits\nJordan Ottesen - Development, Pixel Art, SFX, Game/Level DesignJeff Smith - Development, Game/Level DesignRae Allen - Splash Art, Pixel ArtNoah Allen - Pixel ArtRussell Hodges - Soundtrack https://linktr.ee/russellhodgesmusicTyler Ottesen - Level DesignMichael Ottesen - Level Design\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTA4MjExMS82MjA3NzQ3LmdpZg==/original/AHuKZG.gif",
+          "https://img.itch.zone/aW1hZ2UvMTA4MjExMS82MjA3NjU5LnBuZw==/original/%2Bn8fGQ.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4MjExMS82MjA3NjUzLnBuZw==/original/MaUsEC.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4MjExMS82MjA3NjU1LnBuZw==/original/aG%2Fg3M.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4MjExMS82MjA3NjgyLnBuZw==/original/Pjzfm%2F.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.2 out of 5 stars(13 total ratings)",
+          "Authors": "O. & Co. Games, Jefftacular, rusty fishburger, Doctor Ty, TheCanyonKid, RaeAllenArt",
+          "Genre": "Platformer",
+          "Made with": "GameMaker",
+          "Average session": "A few seconds",
+          "Languages": "English",
+          "Inputs": "Keyboard, Gamepad (any)"
+        }
+      }
+    },
+    {
+      "gameId": 1082943,
+      "gameUrl": "https://olhermite.itch.io/ghostel",
+      "overallRank": 7,
+      "topCategories": [
+        "Fun",
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYyNDg0MzAucG5n/300x240%23c/TNyO6G.png",
+        "contributors": [
+          {
+            "name": "olhermite",
+            "id": 705304
+          },
+          {
+            "name": "Sephius",
+            "id": 36285
+          },
+          {
+            "name": "Iwa",
+            "id": 48463
+          },
+          {
+            "name": "MonsieurJon",
+            "id": 4535569
+          },
+          {
+            "name": "Greyo",
+            "id": 1749106
+          },
+          {
+            "name": "Valgrim",
+            "id": 4495469
+          }
+        ],
+        "id": 1082943,
+        "criteria": [
+          {
+            "name": "Fun",
+            "rank": 12,
+            "score": 4.3571428571429,
+            "raw_score": 4.3571428571429
+          },
+          {
+            "name": "Originality",
+            "rank": 257,
+            "score": 4.0238095238095,
+            "raw_score": 4.0238095238095
+          },
+          {
+            "name": "Presentation",
+            "rank": 1,
+            "score": 4.8809523809524,
+            "raw_score": 4.8809523809524
+          },
+          {
+            "name": "Top Marks",
+            "rank": 1,
+            "score": 0,
+            "raw_score": 0
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1082943",
+        "raw_score": 4.4206349206349,
+        "rating_count": 42,
+        "score": 4.4206349206349,
+        "title": "Ghostel",
+        "rank": 7
+      },
+      "entryData": {
+        "created_at": "2021-06-13 17:39:59",
+        "field_responses": [
+          "12554:1",
+          "12555:2"
+        ],
+        "url": "/jam/gmtk-2021/rate/1082943",
+        "id": 224341,
+        "rating_count": 42,
+        "contributors": [
+          {
+            "name": "olhermite",
+            "url": "https://olhermite.itch.io"
+          },
+          {
+            "name": "Sephius",
+            "url": "https://sephius.itch.io"
+          },
+          {
+            "name": "Iwa",
+            "url": "https://iwa.itch.io"
+          },
+          {
+            "name": "MonsieurJon",
+            "url": "https://monsieurjon.itch.io"
+          },
+          {
+            "name": "Greyo",
+            "url": "https://greyo.itch.io"
+          },
+          {
+            "name": "Valgrim",
+            "url": "https://valgrim.itch.io"
+          }
+        ],
+        "coolness": 39,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzYyNDg0MzAucG5n/300x240%23c/TNyO6G.png",
+          "title": "Ghostel",
+          "url": "https://olhermite.itch.io/ghostel",
+          "id": 1082943,
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#000000",
+          "short_text": "Clear the hostel from as much ghosts as you can.",
+          "user": {
+            "name": "olhermite",
+            "url": "https://olhermite.itch.io",
+            "id": 705304
+          }
+        }
+      },
+      "details": {
+        "title": "Ghostel",
+        "description": "\nYou ain't 'fraid of no ghost!\n\nChallenge yourself in this arcade game! \nDon't let the two characters fool you. It's a single player game!\nTake control of ghost hunters linked to each other with a beam capable of destroying ghosts. Don't separate them too much or the link will break!Run across the room to kill as many spirits as you can.\nCompare your score with other players in the online leaderboard!\nControlsThe game can be played with the keyboard or a gamepad.\nGamepad : use the left and right stick to control each character. Press LB to trigger the current power up you may have collected.\nKeyboard : use wasd/zqsd and the arrow keys to control each character. Press space to trigger the current power up you may have collected.PowerupsThere are two powerups you can collect after destroying orange ghosts:1. Time Freeze: freezes enemies for ~5 seconds to help you clear the area without danger. Display turns to black and white.2. Attraction Trap: A trap is dropped in the middle of your beam. It attracts all enemies near by and destroy them on contact. Beware: this one is a double edge sword, it may give you a lot of points but don't get in the way of enemies being attracted to the trap!\nTipTry to keep the small guy on the left and the tall guy on the right\nCredits - Grégory Dassibat- Julien Foucher- Jonathan Gillard- Louis Le Brun- Pierre Le Brun- Olivier Lhermite\n\nunzip the package and run Ghostel.exe",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTA4Mjk0My82Mjg2MDQ5LmdpZg==/original/GYdRQo.gif",
+          "https://img.itch.zone/aW1hZ2UvMTA4Mjk0My82Mjg2MDk4LmdpZg==/original/Z9LiH2.gif",
+          "https://img.itch.zone/aW1hZ2UvMTA4Mjk0My82Mjg0MDYxLnBuZw==/original/XQIr8i.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4Mjk0My82Mjg0MDYzLnBuZw==/original/IJW%2Bnl.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4Mjk0My82Mjg0MDYyLnBuZw==/original/mcYRC1.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.5 out of 5 stars(14 total ratings)",
+          "Authors": "olhermite, Sephius, Iwa, MonsieurJon, Greyo, Valgrim",
+          "Genre": "Shooter",
+          "Tags": "2D, Arcade, Ghosts, Game Maker's Toolkit Jam, joined, Singleplayer, together"
+        }
+      }
+    },
+    {
+      "gameId": 1085546,
+      "gameUrl": "https://mmena.itch.io/acid-split",
+      "overallRank": 31,
+      "topCategories": [
+        "Fun"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYzMjEwMTMucG5n/300x240%23c/k5SNbF.png",
+        "contributors": [
+          {
+            "name": "mmena",
+            "id": 355128
+          },
+          {
+            "name": "cdubus",
+            "id": 4537437
+          }
+        ],
+        "id": 1085546,
+        "criteria": [
+          {
+            "name": "Fun",
+            "rank": 13,
+            "score": 4.35,
+            "raw_score": 4.35
+          },
+          {
+            "name": "Originality",
+            "rank": 299,
+            "score": 3.9833333333333,
+            "raw_score": 3.9833333333333
+          },
+          {
+            "name": "Presentation",
+            "rank": 77,
+            "score": 4.45,
+            "raw_score": 4.45
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1085546",
+        "raw_score": 4.2611111111111,
+        "rating_count": 60,
+        "score": 4.2611111111111,
+        "title": "Acid Split",
+        "rank": 31
+      },
+      "entryData": {
+        "created_at": "2021-06-13 17:47:42",
+        "field_responses": [
+          "12554:1",
+          "12555:2"
+        ],
+        "url": "/jam/gmtk-2021/rate/1085546",
+        "id": 224748,
+        "rating_count": 60,
+        "contributors": [
+          {
+            "name": "mmena",
+            "url": "https://mmena.itch.io"
+          },
+          {
+            "name": "cdubus",
+            "url": "https://cdubus.itch.io"
+          }
+        ],
+        "coolness": 18,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzYzMjEwMTMucG5n/300x240%23c/k5SNbF.png",
+          "title": "Acid Split",
+          "url": "https://mmena.itch.io/acid-split",
+          "id": 1085546,
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#000000",
+          "short_text": "A straight-up Bullet-Hell madness with a little twist to the formula",
+          "user": {
+            "name": "mmena",
+            "url": "https://mmena.itch.io",
+            "id": 355128
+          }
+        }
+      },
+      "details": {
+        "title": "Acid Split",
+        "description": "Bullet Hell Top-Down Shooter Entry for the GMTK 2021\n\n\n48 Hours - 2 Man Team - Unity3D\nA straight-up Bullet-Hell madness with a little twist to the formula. You control two characters stringed by a very thin and fragile link, very simple... one moves and can't shoot the other shoots but can move.\nDON't GET TO FAR OR IT WILL BREAK! IF EITHER ONE DIES ITS GAME OVER!\nGive a try and show yourself what you're made of, it's no walk in the park\n\nINSTRUCTIONS \nWASD to Move\nMOUSE to Aim - LEFT-CLICK to Shoot \nSPACE to Join/Split when at x20 SREAK \nSPACE to Restart after dying\n\nPost your scores in the comments!\n//noSleepTeam\nIG: @mmena_sTwitter: @mmena_s\nIG: @carlosdubusmDownload the ZIP FileExtract itOpen Acid Split.exe",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTA4NTU0Ni82MjQwMDMzLnBuZw==/original/qoRhfO.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4NTU0Ni82MjQwMDMxLnBuZw==/original/VXA%2Bc6.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4NTU0Ni82MjQwMDMyLnBuZw==/original/Eho0By.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4NTU0Ni82MjQwMDI5LnBuZw==/original/Ghp3Ke.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4NTU0Ni82MjQwMDMwLnBuZw==/original/3Ygz%2Bb.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(3 total ratings)",
+          "Authors": "mmena, cdubus",
+          "Genre": "Shooter, Action",
+          "Tags": "3D, Arcade, Bullet Hell, Colorful, Game Maker's Toolkit Jam, High Score, Local multiplayer, Score Attack, Unity",
+          "Multiplayer": "Local multiplayer",
+          "Player count": "Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 1085944,
+      "gameUrl": "https://nathanpowlesslynes.itch.io/tongue-tied",
+      "overallRank": 26,
+      "topCategories": [
+        "Fun",
+        "Originality"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYyNzY4MzkuanBn/300x240%23c/9jFlef.jpg",
+        "contributors": [
+          {
+            "name": "Nathan Powless-Lynes",
+            "id": 646289
+          }
+        ],
+        "id": 1085944,
+        "criteria": [
+          {
+            "name": "Presentation",
+            "rank": 530,
+            "score": 3.8888888888889,
+            "raw_score": 3.8888888888889
+          },
+          {
+            "name": "Fun",
+            "rank": 14,
+            "score": 4.3333333333333,
+            "raw_score": 4.3333333333333
+          },
+          {
+            "name": "Originality",
+            "rank": 1,
+            "score": 4.7222222222222,
+            "raw_score": 4.7222222222222
+          },
+          {
+            "name": "Top Marks",
+            "rank": 1,
+            "score": 0,
+            "raw_score": 0
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1085944",
+        "raw_score": 4.3148148148148,
+        "rating_count": 18,
+        "score": 4.3148148148148,
+        "title": "Tongue-Tied",
+        "rank": 26
+      },
+      "entryData": {
+        "field_responses": [
+          "12554:1",
+          "12555:1"
+        ],
+        "url": "/jam/gmtk-2021/rate/1085944",
+        "id": 227480,
+        "rating_count": 18,
+        "created_at": "2021-06-13 19:09:48",
+        "coolness": 45,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzYyNzY4MzkuanBn/300x240%23c/9jFlef.jpg",
+          "title": "Tongue-Tied",
+          "url": "https://nathanpowlesslynes.itch.io/tongue-tied",
+          "id": 1085944,
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#19293b",
+          "short_text": "Your tongue is stuck to a frozen pole and life has never been better.",
+          "user": {
+            "name": "Nathan Powless-Lynes",
+            "url": "https://nathanpowlesslynes.itch.io",
+            "id": 646289
+          }
+        }
+      },
+      "details": {
+        "title": "Tongue-Tied",
+        "description": "Tongue-Tied is a surreal puzzle game about odd experiences you have while your tongue stuck to a frozen lamppost. Embark on a journey to free yourself, growing your tongue and becoming entangled in the world around you.Controls:Use WASD or arrow keys to move around.Download zip file and extract it. Run .exe file to play.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTA4NTk0NC82MjQ5MDM1LmpwZw==/original/3l2Equ.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTA4NTk0NC82MjQ4ODQ3LmpwZw==/original/BMqJF4.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTA4NTk0NC82MjQ5MDM2LmpwZw==/original/bmSc%2F4.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTA4NTk0NC82MjQ5MDM0LmpwZw==/original/gAetuU.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.7 out of 5 stars(92 total ratings)",
+          "Author": "Nathan Powless-Lynes",
+          "Genre": "Puzzle",
+          "Tags": "Atmospheric, Comedy, Dark Humor, Game Maker's Toolkit Jam, Horror, Short, Surreal, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 1082192,
+      "gameUrl": "https://sworncoyote.itch.io/dr-baggos-super-weapon",
+      "overallRank": 764,
+      "topCategories": [
+        "Fun"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYyMDQxMjQucG5n/300x240%23c/YPNw1q.png",
+        "contributors": [
+          {
+            "name": "SwornCoyote",
+            "id": 3058862
+          }
+        ],
+        "id": 1082192,
+        "criteria": [
+          {
+            "name": "Fun",
+            "rank": 14,
+            "score": 4.3333333333333,
+            "raw_score": 4.3333333333333
+          },
+          {
+            "name": "Originality",
+            "rank": 1111,
+            "score": 3.5238095238095,
+            "raw_score": 3.5238095238095
+          },
+          {
+            "name": "Presentation",
+            "rank": 2446,
+            "score": 2.8095238095238,
+            "raw_score": 2.8095238095238
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1082192",
+        "raw_score": 3.5555555555556,
+        "rating_count": 21,
+        "score": 3.5555555555556,
+        "title": "Dr Baggos Super Weapon",
+        "rank": 764
+      },
+      "entryData": {
+        "field_responses": [
+          "12554:2",
+          "12555:2"
+        ],
+        "url": "/jam/gmtk-2021/rate/1082192",
+        "id": 221333,
+        "rating_count": 21,
+        "created_at": "2021-06-13 10:42:28",
+        "coolness": 35,
+        "game": {
+          "platforms": [
+            "windows"
+          ],
+          "url": "https://sworncoyote.itch.io/dr-baggos-super-weapon",
+          "id": 1082192,
+          "title": "Dr Baggos Super Weapon",
+          "cover": "https://img.itch.zone/aW1nLzYyMDQxMjQucG5n/300x240%23c/YPNw1q.png",
+          "short_text": "Like Katamari Damacy... but with Guns!",
+          "user": {
+            "name": "SwornCoyote",
+            "url": "https://sworncoyote.itch.io",
+            "id": 3058862
+          }
+        }
+      },
+      "details": {
+        "title": "Dr Baggos Super Weapon",
+        "description": "Welcome to Dr Baggos Super Weapon! It's like Katamari Damacy... but with guns!\nYou play as the creature developed in Dr Baggos laboratory. Your special ability? You can control weapons... with your mind! Aiding on your mission to bring the world to it's knees is your power to JOIN TOGETHER and become one with the gun (or as you will soon see... be one with dozens of firearms  at once!)\nControls: WASD or Arrows to move. Left Mouse to Shoot.\nDeveloped for the 2021 GMTK Game Jam \"Joined Together\".  The game follows the theme by when you find a gun it then becomes linked to you. One gun may not seem like a big deal, but eventually you will have dozens of pistols, machine guns, and rocket launchers all joined together in unison under your control. As your arsenal gets bigger the more enemies you can take on at once... which in turn gives you even more guns to control.\nCredits:\nCreated with Game Maker Studio 2\nProgramming/Design by Me\nGraphics:\nMajority of graphics like the tile sets and characters are mostly from Kenney's Top Down Shooter Pack - https://www.kenney.nl/assets/topdown-shooter\nWeapons are from Jestan - https://jestan.itch.io/weapons-pack\nTank is from Ragewortt - https://ragewortt.itch.io/top-down-sci-fi-tanks\nSound: \nFrom https://freesound.org/ - specifically thanks to lemudcrab, marregheriti, superphat, jarusca, highpixel, and tonsil5.\nMusic:\nLinear Phase by Electronic Senses | https://soundcloud.com/electronicsenses Absolom by Electronic Senses | https://soundcloud.com/electronicsenses Aura by Electronic Senses | https://soundcloud.com/electronicsensesMusic promoted by https://www.free-stock-music.comCreative Commons Attribution-ShareAlike 3.0 Unportedhttps://creativecommons.org/licenses/by-sa/3.0/deed.en_US\nMotion Blur by Nihilore - http://www.nihilore.com/synthwave\nThanks so much for playing! \"N\" key skips levels btw...\n-SwornCoyoteDownload zip and play! Should also be playable in the itch.io app.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTA4MjE5Mi82MjA0MTI2LnBuZw==/original/RbFtot.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4MjE5Mi82MjA0MTI3LnBuZw==/original/%2BrK2xJ.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4MjE5Mi82MjA0MTI4LnBuZw==/original/r90MEu.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Author": "SwornCoyote",
+          "Genre": "Shooter",
+          "Tags": "2D, Bullet Hell, GameMaker, Game Maker's Toolkit Jam, Top-Down, Twin Stick Shooter",
+          "Average session": "A few minutes"
+        }
+      }
+    },
+    {
+      "gameId": 1078958,
+      "gameUrl": "https://lapspider45.itch.io/eject-bombin",
+      "overallRank": 75,
+      "topCategories": [
+        "Fun"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYyMjE5NjUuZ2lm/300x240%23c/8Yy08R.gif",
+        "contributors": [
+          {
+            "name": "lapspider45",
+            "id": 3145484
+          },
+          {
+            "name": "jpeg2k",
+            "id": 2295858
+          },
+          {
+            "name": "Ed [SFX/Music] [Thunderplause.com]",
+            "id": 4499290
+          }
+        ],
+        "id": 1078958,
+        "criteria": [
+          {
+            "name": "Originality",
+            "rank": 935,
+            "score": 3.6102941176471,
+            "raw_score": 3.6102941176471
+          },
+          {
+            "name": "Fun",
+            "rank": 16,
+            "score": 4.3161764705882,
+            "raw_score": 4.3161764705882
+          },
+          {
+            "name": "Presentation",
+            "rank": 81,
+            "score": 4.4485294117647,
+            "raw_score": 4.4485294117647
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1078958",
+        "raw_score": 4.125,
+        "rating_count": 136,
+        "score": 4.125,
+        "title": "EJECT BOMBIN'",
+        "rank": 75
+      },
+      "entryData": {
+        "created_at": "2021-06-13 17:52:28",
+        "field_responses": [
+          "12554:1",
+          "12555:1"
+        ],
+        "url": "/jam/gmtk-2021/rate/1078958",
+        "id": 225060,
+        "rating_count": 136,
+        "contributors": [
+          {
+            "name": "lapspider45",
+            "url": "https://lapspider45.itch.io"
+          },
+          {
+            "name": "jpeg2k",
+            "url": "https://jpeg2k.itch.io"
+          },
+          {
+            "name": "Ed [SFX/Music] [Thunderplause.com]",
+            "url": "https://thunderplause.itch.io"
+          }
+        ],
+        "coolness": 157,
+        "game": {
+          "title": "EJECT BOMBIN'",
+          "cover_color": "#3b2c96",
+          "short_text": "Throw away your teammates in a high-stakes shoot 'em up!",
+          "user": {
+            "name": "lapspider45",
+            "url": "https://lapspider45.itch.io",
+            "id": 3145484
+          },
+          "url": "https://lapspider45.itch.io/eject-bombin",
+          "platforms": [
+            "windows",
+            "linux",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzYyMjE5NjUuZ2lm/300x240%23c/8Yy08R.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzYyMjE5NjUuZ2lm/original/W26UCV.gif",
+          "id": 1078958
+        }
+      },
+      "details": {
+        "title": "EJECT BOMBIN'",
+        "description": "Sector GMTK is under attack! Fight off the magnetic Magnezoids with the power of... ejecting your teammates? Being joined together has its benefits and downfalls, so choose wisely when to let someone go!\n\nControls\nArrow Keys: Movement\nZ: Shoot\nX: Eject\nR: Restart\nCredits\nlapspider45 (@lapspider45) - programmingjpeg2k (@jpeg2k) - artEd Hund (Thunderplause) - music & SFX",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTA3ODk1OC82MjI3MTQ1LmdpZg==/original/t7AGXY.gif",
+          "https://img.itch.zone/aW1hZ2UvMTA3ODk1OC82MjI5MjE3LnBuZw==/original/nBp1pD.png",
+          "https://img.itch.zone/aW1hZ2UvMTA3ODk1OC82MjI5MjU4LnBuZw==/original/q3mujN.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, Linux",
+          "Rating": "Rated 4.4 out of 5 stars(36 total ratings)",
+          "Authors": "lapspider45, jpeg2k, Ed [SFX/Music] [Thunderplause.com]",
+          "Genre": "Shooter, Action",
+          "Made with": "Godot",
+          "Tags": "Arcade, Difficult, Game Maker's Toolkit Jam, Pixel Art, Retro, Shoot 'Em Up",
+          "Average session": "A few minutes",
+          "Inputs": "Keyboard",
+          "Links": "Soundtrack"
+        }
+      }
+    },
+    {
+      "gameId": 1084016,
+      "gameUrl": "https://stargardengames.itch.io/word-factori",
+      "overallRank": 1,
+      "topCategories": [
+        "Fun",
+        "Originality",
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzEwMTQ0OTY1LnBuZw==/300x240%23c/WSrlbT.png",
+        "contributors": [
+          {
+            "name": "Star Garden Games",
+            "id": 102812
+          }
+        ],
+        "id": 1084016,
+        "criteria": [
+          {
+            "name": "Fun",
+            "rank": 17,
+            "score": 4.315,
+            "raw_score": 4.315
+          },
+          {
+            "name": "Originality",
+            "rank": 4,
+            "score": 4.655,
+            "raw_score": 4.655
+          },
+          {
+            "name": "Presentation",
+            "rank": 6,
+            "score": 4.745,
+            "raw_score": 4.745
+          },
+          {
+            "name": "Top Marks",
+            "rank": 1,
+            "score": 0,
+            "raw_score": 0
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1084016",
+        "raw_score": 4.5716666666667,
+        "rating_count": 400,
+        "score": 4.5716666666667,
+        "title": "Word Factori",
+        "rank": 1
+      },
+      "entryData": {
+        "field_responses": [
+          "12554:1",
+          "12555:2"
+        ],
+        "url": "/jam/gmtk-2021/rate/1084016",
+        "id": 225652,
+        "rating_count": 400,
+        "created_at": "2021-06-13 17:58:55",
+        "coolness": 82,
+        "game": {
+          "title": "Word Factori",
+          "cover_color": "#F1ECE3",
+          "short_text": "starting with just the letter “i”, bend, merge, rotate, and reflect to create entire words.",
+          "user": {
+            "name": "Star Garden Games",
+            "url": "https://stargardengames.itch.io",
+            "id": 102812
+          },
+          "url": "https://stargardengames.itch.io/word-factori",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEwMTQ0OTY1LnBuZw==/300x240%23c/WSrlbT.png",
+          "id": 1084016,
+          "price": "$5.99"
+        }
+      },
+      "details": {
+        "title": "Word Factori",
+        "description": "A new & improved version of Word Factori is OUT NOW (Launched August 3 2023)! \nThe new version is here on Itch AND Steam. No matter where you buy it, you will get the updated version.\n\n\nThe 2021 GMTK Game Jam winner, Word Factori (previously known as factori), is now a fully featured game.\nWord Factori is a game about creating all the letters of the alphabet from the letter i, chaining together a system of satisfying factories to form words.\n\nstarting with the letter i, you will apply rotations, reflections, bending, and merging to craft more complex letters. create your interconnected system of factories and link them to the blue bins at the top of the screen to produce the required letter or word. \nthen sit back and smile as your beautiful machines chug along.\n\nWord Factori was originally made in 48 hours for the 2021 GMTK Game Jam, where it was selected for Mark Brown's top 20 games, and was ranked #1 by popular vote. we have since expanded the game into its current full version.\n\n\nwant more from Star Garden Games? \ncheck out Sixit, and join us on Discord & Twitter!Sixit: https://stargardengames.itch.io/sixitDiscord: https://discord.gg/qCZyTrZacJTwitter: https://twitter.com/stargardengames",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTA4NDAxNi8xMzAxNjM3MC5wbmc=/original/81NB%2FX.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4NDAxNi8xMzAxNjM3Mi5wbmc=/original/YM3xzc.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4NDAxNi8xMzAxNjM3My5wbmc=/original/Ce83Yc.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4NDAxNi8xMzAxNjM3NS5wbmc=/original/mw9txZ.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.6 out of 5 stars(81 total ratings)",
+          "Author": "Star Garden Games",
+          "Genre": "Puzzle",
+          "Tags": "2D, Game Maker's Toolkit Jam, Minimalist"
+        }
+      }
+    },
+    {
+      "gameId": 1081688,
+      "gameUrl": "https://mmatt-ugh.itch.io/aqua",
+      "overallRank": 29,
+      "topCategories": [
+        "Fun"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYyMTYwNDMuanBn/300x240%23c/Rp2hAz.jpg",
+        "contributors": [
+          {
+            "name": "mmatt_ugh",
+            "id": 1435417
+          }
+        ],
+        "id": 1081688,
+        "criteria": [
+          {
+            "name": "Fun",
+            "rank": 18,
+            "score": 4.3111111111111,
+            "raw_score": 4.3111111111111
+          },
+          {
+            "name": "Presentation",
+            "rank": 102,
+            "score": 4.3888888888889,
+            "raw_score": 4.3888888888889
+          },
+          {
+            "name": "Originality",
+            "rank": 143,
+            "score": 4.1444444444444,
+            "raw_score": 4.1444444444444
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1081688",
+        "raw_score": 4.2814814814815,
+        "rating_count": 90,
+        "score": 4.2814814814815,
+        "title": "aqua",
+        "rank": 29
+      },
+      "entryData": {
+        "field_responses": [
+          "12554:1"
+        ],
+        "url": "/jam/gmtk-2021/rate/1081688",
+        "id": 220969,
+        "rating_count": 90,
+        "created_at": "2021-06-13 07:02:48",
+        "coolness": 1,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzYyMTYwNDMuanBn/300x240%23c/Rp2hAz.jpg",
+          "title": "aqua",
+          "url": "https://mmatt-ugh.itch.io/aqua",
+          "id": 1081688,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#291d2b",
+          "short_text": "water some plants",
+          "user": {
+            "name": "mmatt_ugh",
+            "url": "https://mmatt-ugh.itch.io",
+            "id": 1435417
+          }
+        }
+      },
+      "details": {
+        "title": "aqua",
+        "description": "-controls-\narrow keys or wasd!\nDone for the GMTK 2021!!\nmusic and sfx by connor grail!!!\nhave fun woooo!!!!\nplay more games on my website : https://mmattugh.com/ !\n-matt\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzYyMTYwNDMuanBn/original/JAUHkr.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.5 out of 5 stars(52 total ratings)",
+          "Author": "mmatt_ugh",
+          "Genre": "Platformer",
+          "Made with": "GameMaker"
+        }
+      }
+    },
+    {
+      "gameId": 1079034,
+      "gameUrl": "https://chsxf.itch.io/top-and-tom",
+      "overallRank": 38,
+      "topCategories": [
+        "Fun"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYyMDM5MDcucG5n/300x240%23c/I6HfDg.png",
+        "contributors": [
+          {
+            "name": "chsxf",
+            "id": 81511
+          }
+        ],
+        "id": 1079034,
+        "criteria": [
+          {
+            "name": "Fun",
+            "rank": 19,
+            "score": 4.2941176470588,
+            "raw_score": 4.2941176470588
+          },
+          {
+            "name": "Originality",
+            "rank": 112,
+            "score": 4.1764705882353,
+            "raw_score": 4.1764705882353
+          },
+          {
+            "name": "Presentation",
+            "rank": 194,
+            "score": 4.2352941176471,
+            "raw_score": 4.2352941176471
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1079034",
+        "raw_score": 4.2352941176471,
+        "rating_count": 34,
+        "score": 4.2352941176471,
+        "title": "Top&Tom - Two Bots on the Road",
+        "rank": 38
+      },
+      "entryData": {
+        "field_responses": [
+          "12554:1",
+          "12555:2"
+        ],
+        "url": "/jam/gmtk-2021/rate/1079034",
+        "id": 222083,
+        "rating_count": 34,
+        "created_at": "2021-06-13 14:46:17",
+        "coolness": 13,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzYyMDM5MDcucG5n/300x240%23c/I6HfDg.png",
+          "title": "Top&Tom - Two Bots on the Road",
+          "url": "https://chsxf.itch.io/top-and-tom",
+          "id": 1079034,
+          "platforms": [
+            "windows",
+            "osx",
+            "web"
+          ],
+          "cover_color": "#141413",
+          "short_text": "2 bots part on a road trip, but you can only control one of them",
+          "user": {
+            "name": "chsxf",
+            "url": "https://chsxf.itch.io",
+            "id": 81511
+          }
+        }
+      },
+      "details": {
+        "title": "Top&Tom - Two Bots on the Road",
+        "description": "Top&Tom - Two Bots on the Road\nImportant Preliminary Note\nThe game has only been tested on screens with a 16:9 aspect ratio. Other aspect ratios may produce unexpected results.\nKnown Issues\nIt is highly probable that gamepad controls do not work in the browser version. Use mouse or keyboard instead.If you click on the sound icon (or on the \"Replay Tutorial\" on the title screen), the game registers a jump action. Don't be surprised. The same occurs when starting a run from the title screen.\nAbout This Game\nTom&Top has been created during the GMTK Game Jam 2021.\nYou play Top and Tom, two bots that went on a road trip while being attached to one another. The twist is you can only control Top directly, but you have to help both of them continue their journey.\nRequirements\nThose requirements only apply to the downloadable versions of the game.\nPlatformMinimum RequirementsWindowsWindows 7 (SP1+) or Windows 1032 or 64 bitsDX10 capable graphics cardmacOSmacOS High Sierra 10.13 or laterApple Silicon or Intel 64 bits processorMetal capable graphics card\nControls\nControls in Tom&Top are very easy.\nFollow the tutorial at the beginning of the game to practice the different actions.\nAction   KeysJumpGamepad : A (Xbox) / X (PS)Keyboard : Up arrowMouse : Left buttonRush for the groundGamepad : B (Xbox) / O (PS)Keyboard : Down arrowMouse : Right button\nIndirect Control of Tom\nTom cannot be controlled directly, but you can make it avoid obstacles anyway. Jump then rush for the ground to bounce it below obstacles on its side of the road. Jump just after to bring it back to the road faster than it would be by itself.\nCredits\nAll code and visual elements have been done by me.\nMusic : https://opengameart.org/content/lasso-lady-seamless-loopSound Effects : https://opengameart.org/content/8-bit-sound-effects-library ",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTA3OTAzNC82MjEwMDY3LnBuZw==/original/E3EE7l.png",
+          "https://img.itch.zone/aW1hZ2UvMTA3OTAzNC82MjEwMDY4LnBuZw==/original/G%2FUkOy.png",
+          "https://img.itch.zone/aW1hZ2UvMTA3OTAzNC82MjEwMDY2LnBuZw==/original/ShKyt9.png",
+          "https://img.itch.zone/aW1hZ2UvMTA3OTAzNC82MjEwMDY5LnBuZw==/original/fOBG0c.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS",
+          "Release date": "Jun 13, 2021",
+          "Rating": "Rated 3.5 out of 5 stars(4 total ratings)",
+          "Author": "chsxf",
+          "Genre": "Platformer",
+          "Made with": "Unity, Aseprite",
+          "Tags": "2D, Game Maker's Toolkit Jam, infinite-runner, Pixel Art, Unity",
+          "Asset license": "Creative Commons Attribution_NonCommercial_ShareAlike v4.0 International",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse, Gamepad (any)",
+          "Accessibility": "High-contrast"
+        }
+      }
+    },
+    {
+      "gameId": 1084399,
+      "gameUrl": "https://fajpaj.itch.io/clump",
+      "overallRank": 40,
+      "topCategories": [
+        "Fun"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYyMTYzODIuZ2lm/300x240%23c/tM1swL.gif",
+        "contributors": [
+          {
+            "name": "Fajpaj",
+            "id": 1003628
+          }
+        ],
+        "id": 1084399,
+        "criteria": [
+          {
+            "name": "Originality",
+            "rank": 140,
+            "score": 4.1470588235294,
+            "raw_score": 4.1470588235294
+          },
+          {
+            "name": "Fun",
+            "rank": 19,
+            "score": 4.2941176470588,
+            "raw_score": 4.2941176470588
+          },
+          {
+            "name": "Presentation",
+            "rank": 194,
+            "score": 4.2352941176471,
+            "raw_score": 4.2352941176471
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1084399",
+        "raw_score": 4.2254901960784,
+        "rating_count": 34,
+        "score": 4.2254901960784,
+        "title": "Clump",
+        "rank": 40
+      },
+      "entryData": {
+        "field_responses": [
+          "12554:1",
+          "12555:2"
+        ],
+        "url": "/jam/gmtk-2021/rate/1084399",
+        "id": 222964,
+        "rating_count": 34,
+        "created_at": "2021-06-13 16:34:46",
+        "coolness": 0,
+        "game": {
+          "title": "Clump",
+          "cover_color": "#100220",
+          "short_text": "Grow your clump to solve puzzles",
+          "user": {
+            "name": "Fajpaj",
+            "url": "https://fajpaj.itch.io",
+            "id": 1003628
+          },
+          "url": "https://fajpaj.itch.io/clump",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzYyMTYzODIuZ2lm/300x240%23c/tM1swL.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzYyMTYzODIuZ2lm/original/xdJZn%2F.gif",
+          "id": 1084399
+        }
+      },
+      "details": {
+        "title": "Clump",
+        "description": "WASD or ARROW KEYS to move\nBACKSPACE to restart a level\nNote: In some browsers, the game's controls haven't worked 100%. Refreshing the page should fix this.\nCover all of the blue lights to beat a level\nCreated by Levi Pinkert\nLogo by Ella Pinkert\nSound Effects from zapsplat.com\nRoyalty Free Music by Eon",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzYyMTYzODIuZ2lm/original/xdJZn%2F.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.0 out of 5 stars(6 total ratings)",
+          "Author": "Fajpaj",
+          "Genre": "Puzzle",
+          "Made with": "GameMaker"
+        }
+      }
+    },
+    {
+      "gameId": 1085903,
+      "gameUrl": "https://countthrepe.itch.io/utterly-threadful",
+      "overallRank": 3,
+      "topCategories": [
+        "Originality",
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYyNDkyMjcucG5n/300x240%23c/zGcgBR.png",
+        "contributors": [
+          {
+            "name": "CountThrepe",
+            "id": 3269209
+          },
+          {
+            "name": "Aveaf",
+            "id": 2246938
+          },
+          {
+            "name": "Invisii",
+            "id": 3877525
+          },
+          {
+            "name": "Luis",
+            "id": 3972263
+          }
+        ],
+        "id": 1085903,
+        "criteria": [
+          {
+            "name": "Fun",
+            "rank": 95,
+            "score": 4.03125,
+            "raw_score": 4.03125
+          },
+          {
+            "name": "Originality",
+            "rank": 3,
+            "score": 4.6875,
+            "raw_score": 4.6875
+          },
+          {
+            "name": "Presentation",
+            "rank": 3,
+            "score": 4.78125,
+            "raw_score": 4.78125
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1085903",
+        "raw_score": 4.5,
+        "rating_count": 32,
+        "score": 4.5,
+        "title": "Utterly Threadful",
+        "rank": 3
+      },
+      "entryData": {
+        "created_at": "2021-06-13 17:45:16",
+        "field_responses": [
+          "12554:1",
+          "12555:1"
+        ],
+        "url": "/jam/gmtk-2021/rate/1085903",
+        "id": 224613,
+        "rating_count": 32,
+        "contributors": [
+          {
+            "name": "CountThrepe",
+            "url": "https://countthrepe.itch.io"
+          },
+          {
+            "name": "Aveaf",
+            "url": "https://aveaf.itch.io"
+          },
+          {
+            "name": "Invisii",
+            "url": "https://invisii.itch.io"
+          },
+          {
+            "name": "Luis",
+            "url": "https://whatifzeldawasagirl.itch.io"
+          }
+        ],
+        "coolness": 25,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzYyNDkyMjcucG5n/300x240%23c/zGcgBR.png",
+          "title": "Utterly Threadful",
+          "url": "https://countthrepe.itch.io/utterly-threadful",
+          "id": 1085903,
+          "platforms": [
+            "osx",
+            "web"
+          ],
+          "cover_color": "#eeeeee",
+          "short_text": "Sew your way to victory!",
+          "user": {
+            "name": "CountThrepe",
+            "url": "https://countthrepe.itch.io",
+            "id": 3269209
+          }
+        }
+      },
+      "details": {
+        "title": "Utterly Threadful",
+        "description": "Play as a little ghost saving your elderly friend's embroidery hoops. Win by fixing the tear in each level: you'll have to go over and under to repair them fully! You are attached to a spool of thread you can use to create platforms, but be careful, you only have so much thread to do your repairs. Remember that embroidery has a front and back side: you can only stand on platforms created on the side you're on!\nCredits:\n Code: Nathan Howard\nArt: Avery A.\nMusic: Luis Murillo\nAll of the above and more: Dani Emrich",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzYyNDkyMjcucG5n/original/tBXq0h.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, macOS",
+          "Rating": "Rated 4.4 out of 5 stars(5 total ratings)",
+          "Authors": "CountThrepe, Aveaf, Invisii, Luis",
+          "Genre": "Platformer",
+          "Made with": "Unity",
+          "Average session": "A few minutes",
+          "Languages": "English"
+        }
+      }
+    },
+    {
+      "gameId": 1081097,
+      "gameUrl": "https://williamha.itch.io/hello-operator",
+      "overallRank": 49,
+      "topCategories": [
+        "Originality"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYyNDgxNTYucG5n/300x240%23c/S5KSrd.png",
+        "contributors": [
+          {
+            "name": "William Ha",
+            "id": 187917
+          }
+        ],
+        "id": 1081097,
+        "criteria": [
+          {
+            "name": "Fun",
+            "rank": 357,
+            "score": 3.7179487179487,
+            "raw_score": 3.7179487179487
+          },
+          {
+            "name": "Originality",
+            "rank": 5,
+            "score": 4.5897435897436,
+            "raw_score": 4.5897435897436
+          },
+          {
+            "name": "Presentation",
+            "rank": 169,
+            "score": 4.2820512820513,
+            "raw_score": 4.2820512820513
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1081097",
+        "raw_score": 4.1965811965812,
+        "rating_count": 39,
+        "score": 4.1965811965812,
+        "title": "Hello, Operator",
+        "rank": 49
+      },
+      "entryData": {
+        "field_responses": [
+          "12554:1",
+          "12555:1"
+        ],
+        "url": "/jam/gmtk-2021/rate/1081097",
+        "id": 226866,
+        "rating_count": 39,
+        "created_at": "2021-06-13 18:15:04",
+        "coolness": 49,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzYyNDgxNTYucG5n/300x240%23c/S5KSrd.png",
+          "title": "Hello, Operator",
+          "url": "https://williamha.itch.io/hello-operator",
+          "id": 1081097,
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#282D26",
+          "short_text": "You're a telephone switchboard operator for a country on the brink of war. You choose who talks to who.",
+          "user": {
+            "name": "William Ha",
+            "url": "https://williamha.itch.io",
+            "id": 187917
+          }
+        }
+      },
+      "details": {
+        "title": "Hello, Operator",
+        "description": "You're a telephone switchboard operator for a country on the brink of war. You choose who talks to who. Short game a la Papers, Please.  \nSubmission for GMTK Game Jam 2021\n---\nClicking on a jack creates a cord. Click on another jack to connect the cord between two jacks. To disconnect a cord from a jack, click the jack the cord is connected to.\nConnect the jack with flashing lamp to the jack labelled \"IN\" to start the game.\nPress F11 for fullscreen.\n--\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTA4MTA5Ny82MjM3Njc2LnBuZw==/original/vZhu3M.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4MTA5Ny82MjQ4MzMwLnBuZw==/original/5UMPS1.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows",
+          "Rating": "Rated 2.8 out of 5 stars(4 total ratings)",
+          "Author": "William Ha",
+          "Genre": "Simulation, Adventure, Interactive Fiction, Puzzle",
+          "Made with": "GameMaker",
+          "Tags": "Narrative, Pixel Art, Point & Click",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 1083792,
+      "gameUrl": "https://levimoore.itch.io/dongle-hell",
+      "overallRank": 28,
+      "topCategories": [
+        "Originality"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYyODU4MjAucG5n/300x240%23c/Lzx24B.png",
+        "contributors": [
+          {
+            "name": "Levi Moore",
+            "id": 660834
+          }
+        ],
+        "id": 1083792,
+        "criteria": [
+          {
+            "name": "Fun",
+            "rank": 136,
+            "score": 3.9657534246575,
+            "raw_score": 3.9657534246575
+          },
+          {
+            "name": "Originality",
+            "rank": 8,
+            "score": 4.541095890411,
+            "raw_score": 4.541095890411
+          },
+          {
+            "name": "Presentation",
+            "rank": 121,
+            "score": 4.3561643835616,
+            "raw_score": 4.3561643835616
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1083792",
+        "raw_score": 4.2876712328767,
+        "rating_count": 146,
+        "score": 4.2876712328767,
+        "title": "Dongle Hell",
+        "rank": 28
+      },
+      "entryData": {
+        "field_responses": [
+          "12554:2",
+          "12555:2"
+        ],
+        "url": "/jam/gmtk-2021/rate/1083792",
+        "id": 224299,
+        "rating_count": 146,
+        "created_at": "2021-06-13 17:38:58",
+        "coolness": 62,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzYyODU4MjAucG5n/300x240%23c/Lzx24B.png",
+          "title": "Dongle Hell",
+          "url": "https://levimoore.itch.io/dongle-hell",
+          "id": 1083792,
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#eeeeee",
+          "short_text": "Before you can show your presentation you have to dongle your way from USB to SATA",
+          "user": {
+            "name": "Levi Moore",
+            "url": "https://levimoore.itch.io",
+            "id": 660834
+          }
+        }
+      },
+      "details": {
+        "title": "Dongle Hell",
+        "description": "This is my entry for GMTK Game Jam 2021\nDescriptionYou are about to share an important earnings report that might land you a promotion, but for some reason, the projector uses a SATA cable while your laptop only has USB ports. Luckily for you, the office has many weird dongles you can use. Find a way to convert USB into SATA so you can give the maybe most important presentation of your life.\nControls\n\n\nYou can drag dongles around using left mouse button.Dongles automatically connect when pushed into matching connection type.You can disconnect a dongle again using right mouse button.When you hover over a dongle, the connection type is shown in the top right corner.\nCodingI did all the coding and game design.You can find me on Twitter @LeviMooreDev\nArt & Audiohttps://assetstore.unity.com/packages/3d/environments/low-poly-microchip-city-17...https://assetstore.unity.com/packages/3d/environments/urban/low-poly-modular-off...https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-f...https://assetstore.unity.com/packages/3d/characters/humanoids/humans/cube-people...https://assetstore.unity.com/packages/2d/gui/icons/simple-ui-103969https://assetstore.unity.com/packages/audio/sound-fx/universal-sound-fx-17256\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTA4Mzc5Mi82MjIyMDg4LnBuZw==/original/dCATOR.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4Mzc5Mi82MjIyMDkzLnBuZw==/original/jhvGJa.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4Mzc5Mi82MjIyMDk4LnBuZw==/original/mczsW%2F.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.4 out of 5 stars(11 total ratings)",
+          "Author": "Levi Moore",
+          "Made with": "Unity"
+        }
+      }
+    },
+    {
+      "gameId": 1084071,
+      "gameUrl": "https://freefang.itch.io/tsugite",
+      "overallRank": 511,
+      "topCategories": [
+        "Originality"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYyMTc0MDMucG5n/300x240%23c/xCMSPy.png",
+        "contributors": [
+          {
+            "name": "freefang",
+            "id": 2719927
+          }
+        ],
+        "id": 1084071,
+        "criteria": [
+          {
+            "name": "Fun",
+            "rank": 799,
+            "score": 3.425,
+            "raw_score": 3.425
+          },
+          {
+            "name": "Originality",
+            "rank": 9,
+            "score": 4.525,
+            "raw_score": 4.525
+          },
+          {
+            "name": "Presentation",
+            "rank": 1669,
+            "score": 3.175,
+            "raw_score": 3.175
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1084071",
+        "raw_score": 3.7083333333333,
+        "rating_count": 40,
+        "score": 3.7083333333333,
+        "title": "Tsugite",
+        "rank": 511
+      },
+      "entryData": {
+        "field_responses": [
+          "12554:1",
+          "12555:2"
+        ],
+        "url": "/jam/gmtk-2021/rate/1084071",
+        "id": 223383,
+        "rating_count": 40,
+        "created_at": "2021-06-13 17:03:47",
+        "coolness": 28,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzYyMTc0MDMucG5n/300x240%23c/xCMSPy.png",
+          "title": "Tsugite",
+          "url": "https://freefang.itch.io/tsugite",
+          "id": 1084071,
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#eeeeee",
+          "short_text": "Explore the joys of Japanese woodworking in this puzzle game!",
+          "user": {
+            "name": "freefang",
+            "url": "https://freefang.itch.io",
+            "id": 2719927
+          }
+        }
+      },
+      "details": {
+        "title": "Tsugite",
+        "description": "Tsugite is the Japanese art of woodworking. Inspired by the art of making wooden joints without screws or nails this puzzle game allows you to see if you have what it takes to be a real craftsmen.\nWarning\nWeb version of the game might start to struggle on higher levels. Try the offline version if you have any performance issues.\nTsugite_Gamejam_V1.2 is the game as delivered during the GTK2021 jam and contains errors fixed in newer versions. If you still want to play it please read the included readme for info about issues and glitches.\nControls\n- Left click Carve the last piece by clicking on it until it fits together with the rest of the pieces.\n- Click and drag Rotate the camera, scroll to zoom.\n- Escape Pause menu\n- Scroll Zoom in/out\nQuirks\nThe characters on the bottom left are the level code, you can use this to share randomized puzzles.\nCredits\nJust me, this was my first solo game jam entry I ever did.\nHope you'll enjoy it!\n\nFeel free to share interesting level codes in the comments! It can be seen on the bottom left during gameplay.Unzip the download and run the Tsugite.exe",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTA4NDA3MS82MjUwNjUyLmdpZg==/original/eSV1dh.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.0 out of 5 stars(2 total ratings)",
+          "Author": "freefang",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "japan, Relaxing, Singleplayer, wood"
+        }
+      }
+    },
+    {
+      "gameId": 1081964,
+      "gameUrl": "https://jontopielski.itch.io/puzzle-sigma",
+      "overallRank": 13,
+      "topCategories": [
+        "Originality"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYzODI3MjgucG5n/300x240%23c/NjWqxM.png",
+        "contributors": [
+          {
+            "name": "Jon Topielski",
+            "id": 1525436
+          },
+          {
+            "name": "Thoof",
+            "id": 1557342
+          },
+          {
+            "name": "beardy",
+            "id": 3076584
+          }
+        ],
+        "id": 1081964,
+        "criteria": [
+          {
+            "name": "Fun",
+            "rank": 49,
+            "score": 4.1818181818182,
+            "raw_score": 4.1818181818182
+          },
+          {
+            "name": "Originality",
+            "rank": 10,
+            "score": 4.5206611570248,
+            "raw_score": 4.5206611570248
+          },
+          {
+            "name": "Presentation",
+            "rank": 51,
+            "score": 4.504132231405,
+            "raw_score": 4.504132231405
+          },
+          {
+            "name": "Top Marks",
+            "rank": 1,
+            "score": 0,
+            "raw_score": 0
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1081964",
+        "raw_score": 4.4022038567493,
+        "rating_count": 121,
+        "score": 4.4022038567493,
+        "title": "Puzzle Sigma",
+        "rank": 13
+      },
+      "entryData": {
+        "created_at": "2021-06-13 18:09:10",
+        "field_responses": [
+          "12554:1",
+          "12555:1"
+        ],
+        "url": "/jam/gmtk-2021/rate/1081964",
+        "id": 226569,
+        "rating_count": 121,
+        "contributors": [
+          {
+            "name": "Jon Topielski",
+            "url": "https://jontopielski.itch.io"
+          },
+          {
+            "name": "Thoof",
+            "url": "https://thoof.itch.io"
+          },
+          {
+            "name": "beardy",
+            "url": "https://beardyyy.itch.io"
+          }
+        ],
+        "coolness": 21,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzYzODI3MjgucG5n/300x240%23c/NjWqxM.png",
+          "title": "Puzzle Sigma",
+          "url": "https://jontopielski.itch.io/puzzle-sigma",
+          "id": 1081964,
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "cover_color": "#eeeeee",
+          "short_text": "Play as mathematical operators and build equations to solve puzzles",
+          "user": {
+            "name": "Jon Topielski",
+            "url": "https://jontopielski.itch.io",
+            "id": 1525436
+          }
+        }
+      },
+      "details": {
+        "title": "Puzzle Sigma",
+        "description": "Play as mathematical operators and build equations to solve puzzles.\nBy Jon Topielski (Programming), Thoof (Art) and Beardy (Music, SFX)\nMade for GMTK Game Jam 2021.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTA4MTk2NC82Mzg0NDMwLnBuZw==/original/LksRo6.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4MTk2NC82Mzg0NDIyLnBuZw==/original/YCSAd%2F.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4MTk2NC82Mzg0NDI0LnBuZw==/original/JVmoKS.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4MTk2NC82Mzg0NDIxLnBuZw==/original/7jZ0WL.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 4.5 out of 5 stars(98 total ratings)",
+          "Authors": "Jon Topielski, Thoof, beardy",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "2D, Game Maker's Toolkit Jam, Math, Pixel Art, Short, Singleplayer, Top-Down",
+          "Average session": "About a half-hour"
+        }
+      }
+    },
+    {
+      "gameId": 1073058,
+      "gameUrl": "https://zexsoft.itch.io/project-marble",
+      "overallRank": 138,
+      "topCategories": [
+        "Originality"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYxNTA4MDAucG5n/300x240%23c/UcZBZI.png",
+        "contributors": [
+          {
+            "name": "Zexsoft",
+            "id": 1789022
+          }
+        ],
+        "id": 1073058,
+        "criteria": [
+          {
+            "name": "Fun",
+            "rank": 342,
+            "score": 3.7272727272727,
+            "raw_score": 3.7272727272727
+          },
+          {
+            "name": "Presentation",
+            "rank": 559,
+            "score": 3.8636363636364,
+            "raw_score": 3.8636363636364
+          },
+          {
+            "name": "Originality",
+            "rank": 11,
+            "score": 4.5,
+            "raw_score": 4.5
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1073058",
+        "raw_score": 4.030303030303,
+        "rating_count": 22,
+        "score": 4.030303030303,
+        "title": "Project Marble",
+        "rank": 138
+      },
+      "entryData": {
+        "field_responses": [
+          "12554:1",
+          "12555:1"
+        ],
+        "url": "/jam/gmtk-2021/rate/1073058",
+        "id": 225427,
+        "rating_count": 22,
+        "created_at": "2021-06-13 17:56:46",
+        "coolness": 28,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzYxNTA4MDAucG5n/300x240%23c/UcZBZI.png",
+          "url": "https://zexsoft.itch.io/project-marble",
+          "id": 1073058,
+          "title": "Project Marble",
+          "cover_color": "#f9d7f8",
+          "short_text": "Colorful & strategic board game",
+          "user": {
+            "name": "Zexsoft",
+            "url": "https://zexsoft.itch.io",
+            "id": 1789022
+          }
+        }
+      },
+      "details": {
+        "title": "Project Marble",
+        "description": "Project Marble is a turn-based, strategic board game in which your aim is to eliminate your opponent's marbles. Link marbles together in strategic ways to outsmart the CPU or your friends with local multiplayer.\nFeatures\nOriginal soundtrackUnique gameplayLocal multiplayer & singleplayerOriginally ranked top 4 percent in GMTK Jam 2021\nCheck out Zexsoft's other projects\nProject Marble on INDY\nConsider donating to support future development",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTA3MzA1OC82MjYxNjE0LnBuZw==/original/50ia90.png",
+          "https://img.itch.zone/aW1hZ2UvMTA3MzA1OC82MjQzODQwLnBuZw==/original/e8fyG8.png",
+          "https://img.itch.zone/aW1hZ2UvMTA3MzA1OC82MjQzODM5LnBuZw==/original/yBIU74.png",
+          "https://img.itch.zone/aW1hZ2UvMTA3MzA1OC82MjgyODI4LnBuZw==/original/VGoXSZ.png",
+          "https://img.itch.zone/aW1hZ2UvMTA3MzA1OC82MjgyODMyLnBuZw==/original/s0%2Bm63.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Zexsoft",
+          "Genre": "Strategy, Puzzle",
+          "Made with": "Unity",
+          "Tags": "2D, Board Game, Casual, Chess, Local multiplayer, marble, Singleplayer, Turn-based Strategy",
+          "Average session": "A few minutes",
+          "Inputs": "Mouse, Touchscreen",
+          "Multiplayer": "Local multiplayer",
+          "Player count": "2",
+          "Links": "Twitter/X"
+        }
+      }
+    },
+    {
+      "gameId": 1082864,
+      "gameUrl": "https://spoonbill.itch.io/world-flutist",
+      "overallRank": 358,
+      "topCategories": [
+        "Originality"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYyMDgwMjkucG5n/300x240%23c/bUD1Yj.png",
+        "contributors": [
+          {
+            "name": "spoonbill",
+            "id": 4294936
+          }
+        ],
+        "id": 1082864,
+        "criteria": [
+          {
+            "name": "Fun",
+            "rank": 1133,
+            "score": 3.25,
+            "raw_score": 3.25
+          },
+          {
+            "name": "Originality",
+            "rank": 11,
+            "score": 4.5,
+            "raw_score": 4.5
+          },
+          {
+            "name": "Presentation",
+            "rank": 858,
+            "score": 3.65625,
+            "raw_score": 3.65625
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1082864",
+        "raw_score": 3.8020833333333,
+        "rating_count": 32,
+        "score": 3.8020833333333,
+        "title": "World Flutist",
+        "rank": 358
+      },
+      "entryData": {
+        "field_responses": [
+          "12554:1",
+          "12555:1"
+        ],
+        "url": "/jam/gmtk-2021/rate/1082864",
+        "id": 222716,
+        "rating_count": 32,
+        "created_at": "2021-06-13 16:12:00",
+        "coolness": 52,
+        "game": {
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "url": "https://spoonbill.itch.io/world-flutist",
+          "id": 1082864,
+          "title": "World Flutist",
+          "cover": "https://img.itch.zone/aW1nLzYyMDgwMjkucG5n/300x240%23c/bUD1Yj.png",
+          "short_text": "Shape an island's ecosystem by playing your magical flute!",
+          "user": {
+            "name": "spoonbill",
+            "url": "https://spoonbill.itch.io",
+            "id": 4294936
+          }
+        }
+      },
+      "details": {
+        "title": "World Flutist",
+        "description": "Hello and welcome to World Flutist!A game developed for GMTK's 2021 Game Jam.\nIn this game, you shape an island's ecosystem by playing your magical flute! \nEach note on your flute represents one of the five elements: Fire, Earth, Water, Wind, and Life. \nTo shape the island, join together two of the notes on your flute and the resulting magical song will help bring life to the island!\nEach turn, you choose a song to play.  The magical song will have an effect on the island. After that the animals will interact with each other, and their population will change according to the ecosystem.  If all goes well, the population on the island will increase.  Win Condition: \nYou win the game when you have achieved full population for every animal species (represented by more than 4 icons of the species)!\n\nCredits:\nKhaze - Music, art, population mechanicsCedar - Programming, flavor text\nGame Jam Theme:\n\n    \nThis game highlights the \"joined together\" theme in several ways:\n    \nMechanics: Actively joins together music and gameplay - by playing the game, you are composing a song and vice-versa.\nGameplay: The player must join together two notes on the flute to summon / conjure magical effects.\nEcosystem  management: The populations of every living creature are co-dependent  on every other population and element in the ecosystem.  In this way,  all elements of the ecosystem are joined together.\n\nHere are all the possible magical songs (spoilers):\nSummoning:\nVegetation (Water+Earth): summons vegetationInsects (Life+Earth): summons insects (eats vegetation)Fishes (Life+Water): summons fishes (eats vegetation)Birds (Life+Wind): summons birds (eats insects)Ground Animals (Life+Fire): summons ground animals (eats fishes)\n Conjuring:\nTerraform (Wind+Earth): Terraforms the island for it to be able to develop a lake. The movement of the earth frees up some insects.Rain (Wind+Water): Makes a lake if there is a hole on the island. Allows birds to feed extra on bugs. Wild Fire (Wind+Fire): Covers the lake, damages ground animals and vegetation.Thunder Storm (Fire+Water): Makes a lake if there is a hole on the island. Damages birds and vegetation.Clear Skies  (Fire+Earth): Dries up the lake if there is one. Supports vegetation growth.\nDefault (by not selecting notes): - Does no magical actions and let the animal interactions continue\nAnimal interactions during the magical songs:\n Birds eats insectsGround animals eats fishesInsects and fishes eats vegetationVegetation gets nourishment from the environmentIf any of the species gets enough nourishment their population will increase!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTA4Mjg2NC82MjI2MzU4LnBuZw==/original/ew4JjA.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4Mjg2NC82MjI2Mjk1LnBuZw==/original/qqovRg.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4Mjg2NC82MjI2NDIzLnBuZw==/original/4qS4k3.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Author": "spoonbill",
+          "Genre": "Simulation",
+          "Tags": "2D, Casual, Game Maker's Toolkit Jam, Music, nature, Short"
+        }
+      }
+    },
+    {
+      "gameId": 1083766,
+      "gameUrl": "https://kultisti.itch.io/onward-blocks",
+      "overallRank": 25,
+      "topCategories": [
+        "Originality"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYyNDc1NzEuZ2lm/300x240%23c/%2FY8Dot.gif",
+        "contributors": [
+          {
+            "name": "Kultisti",
+            "id": 706839
+          }
+        ],
+        "id": 1083766,
+        "criteria": [
+          {
+            "name": "Fun",
+            "rank": 56,
+            "score": 4.1368421052632,
+            "raw_score": 4.1368421052632
+          },
+          {
+            "name": "Originality",
+            "rank": 13,
+            "score": 4.4947368421053,
+            "raw_score": 4.4947368421053
+          },
+          {
+            "name": "Presentation",
+            "rank": 146,
+            "score": 4.3157894736842,
+            "raw_score": 4.3157894736842
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1083766",
+        "raw_score": 4.3157894736842,
+        "rating_count": 95,
+        "score": 4.3157894736842,
+        "title": "Onward Blocks",
+        "rank": 25
+      },
+      "entryData": {
+        "field_responses": [
+          "12554:1",
+          "12555:1"
+        ],
+        "url": "/jam/gmtk-2021/rate/1083766",
+        "id": 224599,
+        "rating_count": 95,
+        "created_at": "2021-06-13 17:45:01",
+        "coolness": 42,
+        "game": {
+          "title": "Onward Blocks",
+          "cover_color": "#170e19",
+          "short_text": "puzzle fighting blocks!",
+          "user": {
+            "name": "Kultisti",
+            "url": "https://kultisti.itch.io",
+            "id": 706839
+          },
+          "url": "https://kultisti.itch.io/onward-blocks",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzYyNDc1NzEuZ2lm/300x240%23c/%2FY8Dot.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzYyNDc1NzEuZ2lm/original/po1oiB.gif",
+          "id": 1083766
+        }
+      },
+      "details": {
+        "title": "Onward Blocks",
+        "description": "\n\n\n\nout-block your enemiesand solve their challenges to claim victory!\n ⋯ \n\nmade in 48 hours for\n\nGMTK game jam 2021\n\n( with colour palettes!! )",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTA4Mzc2Ni82MjI3MzY3LmdpZg==/original/LFtYom.gif",
+          "https://img.itch.zone/aW1hZ2UvMTA4Mzc2Ni82MjE3MjkzLmdpZg==/original/P8WwnU.gif",
+          "https://img.itch.zone/aW1hZ2UvMTA4Mzc2Ni82MjI5NDM4LmdpZg==/original/G8Wh2h.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.7 out of 5 stars(52 total ratings)",
+          "Author": "Kultisti",
+          "Genre": "Action, Puzzle, Role Playing",
+          "Made with": "GameMaker",
+          "Tags": "blocks, Boss battle, Cute, Fantasy, Game Maker's Toolkit Jam, Pixel Art, Short, Tetris"
+        }
+      }
+    },
+    {
+      "gameId": 1084242,
+      "gameUrl": "https://walaber-ent.itch.io/mrs-modifier",
+      "overallRank": 11,
+      "topCategories": [
+        "Originality",
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYyNDg3NTIucG5n/300x240%23c/xo0tcU.png",
+        "contributors": [
+          {
+            "name": "Walaber Entertainment",
+            "id": 1287379
+          }
+        ],
+        "id": 1084242,
+        "criteria": [
+          {
+            "name": "Presentation",
+            "rank": 13,
+            "score": 4.6734693877551,
+            "raw_score": 4.6734693877551
+          },
+          {
+            "name": "Fun",
+            "rank": 76,
+            "score": 4.0816326530612,
+            "raw_score": 4.0816326530612
+          },
+          {
+            "name": "Originality",
+            "rank": 14,
+            "score": 4.4897959183673,
+            "raw_score": 4.4897959183673
+          },
+          {
+            "name": "Top Marks",
+            "rank": 1,
+            "score": 0,
+            "raw_score": 0
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1084242",
+        "raw_score": 4.4149659863946,
+        "rating_count": 49,
+        "score": 4.4149659863946,
+        "title": "Mrs. MODIFIER",
+        "rank": 11
+      },
+      "entryData": {
+        "field_responses": [
+          "12554:1",
+          "12555:2"
+        ],
+        "url": "/jam/gmtk-2021/rate/1084242",
+        "id": 224951,
+        "rating_count": 49,
+        "created_at": "2021-06-13 17:51:01",
+        "coolness": 43,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzYyNDg3NTIucG5n/300x240%23c/xo0tcU.png",
+          "title": "Mrs. MODIFIER",
+          "url": "https://walaber-ent.itch.io/mrs-modifier",
+          "id": 1084242,
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#000000",
+          "short_text": "Entry for the GMTK Jam 2021: \"JoinedTogether\"",
+          "user": {
+            "name": "Walaber Entertainment",
+            "url": "https://walaber-ent.itch.io",
+            "id": 1287379
+          }
+        }
+      },
+      "details": {
+        "title": "Mrs. MODIFIER",
+        "description": "Entry for the GMTK Jam 2021 \"Joined Together\".\nClassic platformer \"Mrs. MODIFIER\" has been installed in an arcade cabinet with only 3 buttons!  \nControls: \n[Left Arrow] / [A]\n[Right Arrow] / [D]\n[X] / [Up Arrow] / [W]\nPress [`] or [Q] or [Tab] to access the pause menu\nOther controls are indicated in-game.\n\nIf the Web build is slow, consider downloading the Windows build linked below!\n\nCreated by:\nWalaber, Chad Cable, and secret contributor(s)\nMusic by Eric Matyas\n\nwww.soundimage.org\n\n\n\n\n\n\n\n*** Spoiler below that explains how we implemented the theme ***\n\n\n\n\n\nYou might need to modify the game from time to time by \"joining together\" multiple actions onto the same button in order to progress.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTA4NDI0Mi82MjMyNjAyLnBuZw==/original/Clp4G1.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4NDI0Mi82MjMyODkzLnBuZw==/original/PPcA9b.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4NDI0Mi82MjMyOTc3LnBuZw==/original/iNjHOD.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4NDI0Mi82MjMzMDkzLnBuZw==/original/Fc5F35.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.5 out of 5 stars(26 total ratings)",
+          "Author": "Walaber Entertainment",
+          "Genre": "Platformer",
+          "Made with": "Unity",
+          "Tags": "Game Maker's Toolkit Jam"
+        }
+      }
+    },
+    {
+      "gameId": 1079343,
+      "gameUrl": "https://andyahn.itch.io/timelight",
+      "overallRank": 50,
+      "topCategories": [
+        "Originality"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYyNzg1ODQucG5n/300x240%23c/iH7zYX.png",
+        "contributors": [
+          {
+            "name": "AndyAhn",
+            "id": 1764624
+          },
+          {
+            "name": "desigNULL",
+            "id": 4329930
+          }
+        ],
+        "id": 1079343,
+        "criteria": [
+          {
+            "name": "Fun",
+            "rank": 206,
+            "score": 3.875,
+            "raw_score": 3.875
+          },
+          {
+            "name": "Originality",
+            "rank": 15,
+            "score": 4.4583333333333,
+            "raw_score": 4.4583333333333
+          },
+          {
+            "name": "Presentation",
+            "rank": 180,
+            "score": 4.25,
+            "raw_score": 4.25
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1079343",
+        "raw_score": 4.1944444444444,
+        "rating_count": 24,
+        "score": 4.1944444444444,
+        "title": "Timelight",
+        "rank": 50
+      },
+      "entryData": {
+        "created_at": "2021-06-13 18:16:28",
+        "field_responses": [
+          "12554:1",
+          "12555:2"
+        ],
+        "url": "/jam/gmtk-2021/rate/1079343",
+        "id": 226947,
+        "rating_count": 24,
+        "contributors": [
+          {
+            "name": "AndyAhn",
+            "url": "https://andyahn.itch.io"
+          },
+          {
+            "name": "desigNULL",
+            "url": "https://designull.itch.io"
+          }
+        ],
+        "coolness": 0,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzYyNzg1ODQucG5n/300x240%23c/iH7zYX.png",
+          "title": "Timelight",
+          "url": "https://andyahn.itch.io/timelight",
+          "id": 1079343,
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#322828",
+          "short_text": "Peek through the time with your flashlight. Escape the Mysterious Hotel.",
+          "user": {
+            "name": "AndyAhn",
+            "url": "https://andyahn.itch.io",
+            "id": 1764624
+          }
+        }
+      },
+      "details": {
+        "title": "Timelight",
+        "description": "A GMTK Game Jam 2021 game by Waikiki Games.\nPast and Present, Joined together.\nPeek through the time with your Timelight, and Escape the Mysterious Hotel.\nYou can see the past through your flashlight.\n\n\nControls\nWASD - Move\nE - Interact\nLeft Click - Turn on the Timelight\nRight Click - Fix the Timelight Position\n\nCredits\nMade By\nAndy Ahn - Game Designer @ AlohaFactory\nVito Lee - Game Programmer @ AlohaFactory\nSpecial Thanks to\nConnor Kang\nAdditional Thanks to\nAnnis Jina Kim",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTA3OTM0My82MjQ2OTUzLnBuZw==/original/8RmdnH.png",
+          "https://img.itch.zone/aW1hZ2UvMTA3OTM0My82MjQ2OTU0LnBuZw==/original/W8lFCk.png",
+          "https://img.itch.zone/aW1hZ2UvMTA3OTM0My82MjQ2OTU1LnBuZw==/original/MJN0d%2B.png",
+          "https://img.itch.zone/aW1hZ2UvMTA3OTM0My82MjQ2OTU2LnBuZw==/original/RPTzeO.png",
+          "https://img.itch.zone/aW1hZ2UvMTA3OTM0My82MjQ2OTU3LnBuZw==/original/oFzh%2BI.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "AndyAhn, desigNULL",
+          "Genre": "Puzzle, Shooter",
+          "Tags": "3D, First-Person"
+        }
+      }
+    },
+    {
+      "gameId": 1082044,
+      "gameUrl": "https://edmond00.itch.io/timeline",
+      "overallRank": 43,
+      "topCategories": [
+        "Originality"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYyMDU3NDQuZ2lm/300x240%23c/%2FKjnSH.gif",
+        "contributors": [
+          {
+            "name": "edmond00",
+            "id": 659767
+          }
+        ],
+        "id": 1082044,
+        "criteria": [
+          {
+            "name": "Fun",
+            "rank": 222,
+            "score": 3.8474576271186,
+            "raw_score": 3.8474576271186
+          },
+          {
+            "name": "Originality",
+            "rank": 17,
+            "score": 4.4576271186441,
+            "raw_score": 4.4576271186441
+          },
+          {
+            "name": "Presentation",
+            "rank": 136,
+            "score": 4.3220338983051,
+            "raw_score": 4.3220338983051
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1082044",
+        "raw_score": 4.2090395480226,
+        "rating_count": 59,
+        "score": 4.2090395480226,
+        "title": "Timeline",
+        "rank": 43
+      },
+      "entryData": {
+        "field_responses": [
+          "12554:2",
+          "12555:2"
+        ],
+        "url": "/jam/gmtk-2021/rate/1082044",
+        "id": 221819,
+        "rating_count": 59,
+        "created_at": "2021-06-13 13:44:34",
+        "coolness": 66,
+        "game": {
+          "title": "Timeline",
+          "cover_color": "#dbedf4",
+          "short_text": "A minimalistic management game.",
+          "user": {
+            "name": "edmond00",
+            "url": "https://edmond00.itch.io",
+            "id": 659767
+          },
+          "url": "https://edmond00.itch.io/timeline",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzYyMDU3NDQuZ2lm/300x240%23c/%2FKjnSH.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzYyMDU3NDQuZ2lm/original/Ml%2F9xc.gif",
+          "id": 1082044
+        }
+      },
+      "details": {
+        "title": "Timeline",
+        "description": "Timeline is a minimalistic management game simulating a network economy through space and time. It has been developed  with Unity for the GMTK game jam 2021. The theme of the jam was \"joined together\". Its gameplay rely on joining different kind of worker, ressources and locations together in a big economic network to produce more and more advanced techonologies. It proposes to illustrate how any product is the result of the joint labor of a multitude of people.\n\nHow to play\nDrag the round anchor at the end of a wire on an empty place in the timeline to build a new location.Drag the round anchor at the end of a wire on an existing location to link two locations and create a new ressource.The anchor that has been placed can  be removed or moved only if no location depends on it.The wire has limited size and the number of anchor that can be linked to a location is limited so be careful to not be stucked. If you are stucked, remove the last anchors you placed to unlock the situation.Put the mouse cursor over a location to display the ressources the location produce and the ressources it can convert.\n\nInspiration\nThis game is inspired by the  woolen coat example written by Adam Smith in The Wealth of Nations :\n\nThe woolen-coat, for example… is the produce of the joint labor of a great multitude of workmen. The shepherd, the sorter of the wool, the wool-comber or carder, the dyer, the scribbler, the spinner, the weaver, the fuller, the dresser, with many others, must all join their different arts in order to complete even this homely production. How many merchants and carriers, besides, must have been employed in transporting the materials from some of those workmen to others who often live in a very distant part of the country! How much commerce and navigation in particular, how many ship-builders, sailors, sail-makers, rope-makers, must have been employed in order to bring together the different drugs made use of by the dyer, which often come from the remotest corners of the world! What a variety of labor too is necessary in order to produce the tools of the meanest of those workmen! To say nothing of such complicated machines as the ship of the sailor, the mill of the fuller, or even the loom of the weaver, let us consider only what a variety of labor is requisite in order to form that very simple machine, the shears with which the shepherd clips the wool. The miner, the builder of the furnace for smelting the ore, the feller of the timber, the burner of the charcoal to be made use of in the smeltinghouse, the brick-maker, the brick-layer, the workmen who attend the furnace, the mill-wright, the forger, the smith, must all of them join their different arts in order to produce them. \n\nIf you enjoyed this and want to support my work, the best way to do so is by checking out my long term RPG project,  Jellyfish Egg — a deep, procedural fantasy world with full character freedom and dynamic storytelling.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTA4MjA0NC82MjU4NDUxLmdpZg==/original/HH4Joo.gif",
+          "https://img.itch.zone/aW1hZ2UvMTA4MjA0NC82MjU4NDUyLmdpZg==/original/%2F3AFSs.gif",
+          "https://img.itch.zone/aW1hZ2UvMTA4MjA0NC82MjU4NDUzLmdpZg==/original/FO9SmC.gif",
+          "https://img.itch.zone/aW1hZ2UvMTA4MjA0NC82MjU4NDU0LmdpZg==/original/m2d7pj.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.3 out of 5 stars(239 total ratings)",
+          "Author": "edmond00",
+          "Genre": "Simulation, Puzzle, Strategy",
+          "Made with": "Unity",
+          "Tags": "City Builder, Economy, Endless, Farming, Management, Relaxing, Sandbox, Space",
+          "Average session": "About an hour",
+          "Languages": "English",
+          "Inputs": "Mouse",
+          "Accessibility": "Color-blind friendly, High-contrast, One button"
+        }
+      }
+    },
+    {
+      "gameId": 1079828,
+      "gameUrl": "https://matheuscunegato.itch.io/join-now",
+      "overallRank": 16,
+      "topCategories": [
+        "Originality",
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYyMTMzNzguZ2lm/300x240%23c/uW4auc.gif",
+        "contributors": [
+          {
+            "name": "MatheusCunegato",
+            "id": 259052
+          },
+          {
+            "name": "MDSalomon",
+            "id": 2666620
+          },
+          {
+            "name": "Bruna Richter",
+            "id": 1749684
+          }
+        ],
+        "id": 1079828,
+        "criteria": [
+          {
+            "name": "Fun",
+            "rank": 98,
+            "score": 4.0265486725664,
+            "raw_score": 4.0265486725664
+          },
+          {
+            "name": "Originality",
+            "rank": 18,
+            "score": 4.4513274336283,
+            "raw_score": 4.4513274336283
+          },
+          {
+            "name": "Presentation",
+            "rank": 19,
+            "score": 4.646017699115,
+            "raw_score": 4.646017699115
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1079828",
+        "raw_score": 4.3746312684366,
+        "rating_count": 113,
+        "score": 4.3746312684366,
+        "title": "Join Now!",
+        "rank": 16
+      },
+      "entryData": {
+        "created_at": "2021-06-13 17:32:59",
+        "field_responses": [
+          "12554:1",
+          "12555:1"
+        ],
+        "url": "/jam/gmtk-2021/rate/1079828",
+        "id": 224078,
+        "rating_count": 113,
+        "contributors": [
+          {
+            "name": "MatheusCunegato",
+            "url": "https://matheuscunegato.itch.io"
+          },
+          {
+            "name": "MDSalomon",
+            "url": "https://mdsalomon.itch.io"
+          },
+          {
+            "name": "Bruna Richter",
+            "url": "https://brunarich.itch.io"
+          }
+        ],
+        "coolness": 49,
+        "game": {
+          "title": "Join Now!",
+          "cover_color": "#f6edd3",
+          "short_text": "A game about joining meetings and doing your job as expected",
+          "user": {
+            "name": "MatheusCunegato",
+            "url": "https://matheuscunegato.itch.io",
+            "id": 259052
+          },
+          "url": "https://matheuscunegato.itch.io/join-now",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzYyMTMzNzguZ2lm/300x240%23c/uW4auc.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzYyMTMzNzguZ2lm/original/7oQGJ3.gif",
+          "id": 1079828
+        }
+      },
+      "details": {
+        "title": "Join Now!",
+        "description": "Welcome to the workforce!\nAs you can well imagine, the home office life has taken its toll on us all. Thankfully, we can work past that and feel absolutely no further effects, just by staying productive and staying connected.\nThis is the foundation of our company: Productivity and Connectivity. And with modern technology we've become quite good at quantifying both. \nEvery day you'll receive several tasks that must be completed and several meetings that must be attended. Use your mouse to interact with anything that comes your way, and to maintain focus on your meetings. Let's all work together! Everything will be fine as long as nobody breaks eye contact. Ever.\nFollow us on Twitter!\nMatheus Cunegato (Game Designer and Programmer)\nhttps://twitter.com/MatheusCunegato\nM D Salomon (Game Designer)\nhttps://twitter.com/emdeesalomon\nBruna Richter (Artist)\nhttps://twitter.com/_brunarichter\nMatheus Herrmann (Music/SFX)\nhttps://www.instagram.com/herrmannito_/\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzYyMTMzNzguZ2lm/original/7oQGJ3.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.2 out of 5 stars(28 total ratings)",
+          "Authors": "MatheusCunegato, MDSalomon, Bruna Richter",
+          "Made with": "GameMaker",
+          "Tags": "Comedy, Cute, Female Protagonist, Funny, GameMaker, job-system, Management, Mouse only, Short, weird"
+        }
+      }
+    },
+    {
+      "gameId": 1086012,
+      "gameUrl": "https://averyhiebert.itch.io/you-are-a-strange-world",
+      "overallRank": 36,
+      "topCategories": [
+        "Originality"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYyNDgwNzgucG5n/300x240%23c/5L9gXk.png",
+        "contributors": [
+          {
+            "name": "Avery Hiebert",
+            "id": 4248535
+          }
+        ],
+        "id": 1086012,
+        "criteria": [
+          {
+            "name": "Fun",
+            "rank": 99,
+            "score": 4.0126582278481,
+            "raw_score": 4.0126582278481
+          },
+          {
+            "name": "Originality",
+            "rank": 19,
+            "score": 4.4430379746835,
+            "raw_score": 4.4430379746835
+          },
+          {
+            "name": "Presentation",
+            "rank": 165,
+            "score": 4.2911392405063,
+            "raw_score": 4.2911392405063
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1086012",
+        "raw_score": 4.2489451476793,
+        "rating_count": 79,
+        "score": 4.2489451476793,
+        "title": "You Are a Strange World",
+        "rank": 36
+      },
+      "entryData": {
+        "field_responses": [
+          "12554:1",
+          "12555:2"
+        ],
+        "url": "/jam/gmtk-2021/rate/1086012",
+        "id": 225835,
+        "rating_count": 79,
+        "created_at": "2021-06-13 18:00:12",
+        "coolness": 30,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzYyNDgwNzgucG5n/300x240%23c/5L9gXk.png",
+          "title": "You Are a Strange World",
+          "url": "https://averyhiebert.itch.io/you-are-a-strange-world",
+          "id": 1086012,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#7732a6",
+          "short_text": "You control the world, and the world controls you.",
+          "user": {
+            "name": "Avery Hiebert",
+            "url": "https://averyhiebert.itch.io",
+            "id": 4248535
+          }
+        }
+      },
+      "details": {
+        "title": "You Are a Strange World",
+        "description": "You live in a strange world that is influenced by, and influences, your actions, just as your brain influences your limbs and vice-versa.  We might wonder, then, whether \"you\" and \"the world\" are, in fact, one and the same.  This is true in the game as well.\nAn experimental platformer made in 48 hours for the 2021 GMTK Game Jam, in which the position of platforms is determined by the position of the character.  Very loosely inspired by the idea that the \"self\" and the external world might not be as easily separable as we normally assume.  In other words, the game world and the player character (and the real world and the real player) are inextricably \"joined together\" into a single entity.\nControls\n\n←/→ or a/d to move.\n↑/w/[space]/[shift] to jump.\n\nObjective\nGet to the gate to move to the next level.  There are 10 levels in total.\nFor an extra challenge, try to rescue all three cats.\nAudio Credits\nThe background cricket sounds are a slight modification of this CC0 recording by hdfreema.\nAll other sound effects were generated using JFXR.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTA4NjAxMi82MjQ4MTAzLnBuZw==/original/W3jx7h.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4NjAxMi82MjQ4MTE1LnBuZw==/original/QvcszM.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 3.7 out of 5 stars(10 total ratings)",
+          "Author": "Avery Hiebert",
+          "Genre": "Platformer",
+          "Made with": "Aseprite, Godot, Audacity",
+          "Tags": "Game Maker's Toolkit Jam",
+          "Average session": "A few minutes",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": 1082888,
+      "gameUrl": "https://boolst.itch.io/frankspet",
+      "overallRank": 372,
+      "topCategories": [
+        "Originality"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYyNzQzNjMucG5n/300x240%23c/k4U7qq.png",
+        "contributors": [
+          {
+            "name": "boolst",
+            "id": 4490667
+          }
+        ],
+        "id": 1082888,
+        "criteria": [
+          {
+            "name": "Fun",
+            "rank": 512,
+            "score": 3.5882352941176,
+            "raw_score": 3.5882352941176
+          },
+          {
+            "name": "Originality",
+            "rank": 20,
+            "score": 4.4411764705882,
+            "raw_score": 4.4411764705882
+          },
+          {
+            "name": "Presentation",
+            "rank": 1363,
+            "score": 3.3529411764706,
+            "raw_score": 3.3529411764706
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1082888",
+        "raw_score": 3.7941176470588,
+        "rating_count": 34,
+        "score": 3.7941176470588,
+        "title": "Frank's Pet",
+        "rank": 372
+      },
+      "entryData": {
+        "field_responses": [
+          "12554:1",
+          "12555:2"
+        ],
+        "url": "/jam/gmtk-2021/rate/1082888",
+        "id": 221921,
+        "rating_count": 34,
+        "created_at": "2021-06-13 14:13:07",
+        "coolness": 7,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzYyNzQzNjMucG5n/300x240%23c/k4U7qq.png",
+          "title": "Frank's Pet",
+          "url": "https://boolst.itch.io/frankspet",
+          "id": 1082888,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#353767",
+          "short_text": "Feed Frank's pet by combining the right animals and reaching the food.",
+          "user": {
+            "name": "boolst",
+            "url": "https://boolst.itch.io",
+            "id": 4490667
+          }
+        }
+      },
+      "details": {
+        "title": "Frank's Pet",
+        "description": "Frank has created a machine that combines the best abilities of different animals to create the perfect pet. Only problem is that some animal combinations cant reach the food. Find the right combination to clear the level and feed franks pet.\nControls \n-Right arrow or D controls right side\n-Left arrow or A controls left side\n-Mouse to use the machine.\n-ESC to pause and restart.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTA4Mjg4OC82Mjc5ODU5LnBuZw==/original/tqW68L.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4Mjg4OC82Mjc5ODU4LnBuZw==/original/XAoOcr.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4Mjg4OC82Mjc5ODYwLnBuZw==/original/IlNZlI.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.5 out of 5 stars(4 total ratings)",
+          "Author": "boolst",
+          "Genre": "Platformer, Puzzle",
+          "Made with": "Unity",
+          "Tags": "Puzzle-Platformer",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 1083344,
+      "gameUrl": "https://azoththecreator.itch.io/the-adventure-vol1",
+      "overallRank": 421,
+      "topCategories": [
+        "Originality"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYyMDk2NTYucG5n/300x240%23c/RD56Xc.png",
+        "contributors": [
+          {
+            "name": "azoththecreator",
+            "id": 4535700
+          }
+        ],
+        "id": 1083344,
+        "criteria": [
+          {
+            "name": "Fun",
+            "rank": 994,
+            "score": 3.32,
+            "raw_score": 3.32
+          },
+          {
+            "name": "Originality",
+            "rank": 21,
+            "score": 4.44,
+            "raw_score": 4.44
+          },
+          {
+            "name": "Presentation",
+            "rank": 1081,
+            "score": 3.52,
+            "raw_score": 3.52
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1083344",
+        "raw_score": 3.76,
+        "rating_count": 25,
+        "score": 3.76,
+        "title": "The Adventure Vol.1",
+        "rank": 421
+      },
+      "entryData": {
+        "field_responses": [
+          "12554:2",
+          "12555:2"
+        ],
+        "url": "/jam/gmtk-2021/rate/1083344",
+        "id": 222701,
+        "rating_count": 25,
+        "created_at": "2021-06-13 16:09:13",
+        "coolness": 22,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzYyMDk2NTYucG5n/300x240%23c/RD56Xc.png",
+          "url": "https://azoththecreator.itch.io/the-adventure-vol1",
+          "id": 1083344,
+          "title": "The Adventure Vol.1",
+          "cover_color": "#a9b6df",
+          "platforms": [
+            "windows"
+          ],
+          "user": {
+            "name": "azoththecreator",
+            "url": "https://azoththecreator.itch.io",
+            "id": 4535700
+          }
+        }
+      },
+      "details": {
+        "title": "The Adventure Vol.1",
+        "description": "Caution: I found out that 32-bit OS can't run this game normally. I'm not sure because it was an old laptop, but I'm not sure it will work on 32-bit. Please tell me if it works on 32-bit OS.\n\"The Adventure Vol.1\" is a puzzle platformer game made for GMTK Game Jam 2021.\nThe theme for 2021 is \"Joined Together\", so I tried to connect inside and outside of my game.\nThis game uses your Windows' volume settings.\nMany things in this game interact with your system's volume.\nUse A, D to move, W to jump, and R to restart.\n\nCaution: Don't change your volume too fast. It can cause physics engine glitches.\n+If you make your volume to 100%, it can be bad to your ears. Please adjust your volume like the last screenshot! Individual program's volume doesn't matter to this game.\n\n\"Simple 2D Platformer Assets Pack\" by Goldmetal\nhttps://assetstore.unity.com/packages/2d/characters/simple-2d-platformer-assets-...\n\"HappyNes\" by Shane Ivers\nhttps://www.silvermansound.com/free-music/happynes\n\"Press Start 2P Font\" by codeman38\nhttps://www.fontspace.com/press-start-2p-font-f11591\n\"10 8bit coin sounds\" by Luke.RUSTLTD\nhttps://opengameart.org/content/10-8bit-coin-sounds\n\"SFX_Jump_39\" by jalastram\nhttps://freesound.org/people/jalastram/sounds/386658/\n\"World Clear 8 bit\" by Mrthenoronha\nhttps://freesound.org/people/Mrthenoronha/sounds/518308/",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTA4MzM0NC82MjU0ODAzLmdpZg==/original/UYEXsx.gif",
+          "https://img.itch.zone/aW1hZ2UvMTA4MzM0NC82MjU0MTAxLnBuZw==/original/2hLKyj.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4MzM0NC82MjU0MTAyLnBuZw==/original/r1RWWV.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4MzM0NC82MjY4MTAzLnBuZw==/original/2kx1QE.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Author": "azoththecreator",
+          "Genre": "Platformer, Puzzle",
+          "Tags": "Game Maker's Toolkit Jam, Puzzle-Platformer"
+        }
+      }
+    },
+    {
+      "gameId": 1083913,
+      "gameUrl": "https://indie-pixel.itch.io/silkgame",
+      "overallRank": 110,
+      "topCategories": [
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYyMTQyMTIucG5n/300x240%23c/jaEGMg.png",
+        "contributors": [
+          {
+            "name": "Keys",
+            "id": 3096916
+          }
+        ],
+        "id": 1083913,
+        "criteria": [
+          {
+            "name": "Originality",
+            "rank": 459,
+            "score": 3.8571428571429,
+            "raw_score": 3.8571428571429
+          },
+          {
+            "name": "Fun",
+            "rank": 713,
+            "score": 3.4642857142857,
+            "raw_score": 3.4642857142857
+          },
+          {
+            "name": "Presentation",
+            "rank": 2,
+            "score": 4.8571428571429,
+            "raw_score": 4.8571428571429
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1083913",
+        "raw_score": 4.0595238095238,
+        "rating_count": 28,
+        "score": 4.0595238095238,
+        "title": "Silk",
+        "rank": 110
+      },
+      "entryData": {
+        "field_responses": [
+          "12554:1",
+          "12555:1"
+        ],
+        "url": "/jam/gmtk-2021/rate/1083913",
+        "id": 222734,
+        "rating_count": 28,
+        "created_at": "2021-06-13 16:13:32",
+        "coolness": 2,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzYyMTQyMTIucG5n/300x240%23c/jaEGMg.png",
+          "title": "Silk",
+          "url": "https://indie-pixel.itch.io/silkgame",
+          "id": 1083913,
+          "platforms": [
+            "windows",
+            "osx"
+          ],
+          "cover_color": "#ff8e4e",
+          "short_text": "try your best to  carry a lone silk egg out of  a dangerous cavern of hungry monsters",
+          "user": {
+            "name": "Keys",
+            "url": "https://indie-pixel.itch.io",
+            "id": 3096916
+          }
+        }
+      },
+      "details": {
+        "title": "Silk",
+        "description": "Try your best as you carry a lone silk egg out of a dangerous cavern of monsters. Be carful though! The egg an crack and will eventually break! The monsters want the egg, not you, so keep that in mind when maneuvering around the cramped corridors of the cave!\nControls:  W,A,S,D, arrow keys, or left joystick to move around\nThere is one minor bug with the end cutscene, certain particles don't show up, Ill fix this after the jam at some point\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzYyMTQyMTIucG5n/original/EwWgrJ.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Author": "Keys",
+          "Genre": "Adventure",
+          "Tags": "2D, 8-Bit, Atmospheric, Pixel Art, Short, Singleplayer, Unity",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Joystick"
+        }
+      }
+    },
+    {
+      "gameId": 1077451,
+      "gameUrl": "https://whalesandgames.itch.io/starsnap",
+      "overallRank": 34,
+      "topCategories": [
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYyNjU2MTQuZ2lm/300x240%23c/u7EF2B.gif",
+        "contributors": [
+          {
+            "name": "Whales And Games 🐳",
+            "id": 101429
+          },
+          {
+            "name": "JorgeGameDev",
+            "id": 652602
+          },
+          {
+            "name": "Robin Naite",
+            "id": 107318
+          },
+          {
+            "name": "MoskiDraws",
+            "id": 67691
+          }
+        ],
+        "id": 1077451,
+        "criteria": [
+          {
+            "name": "Fun",
+            "rank": 516,
+            "score": 3.5833333333333,
+            "raw_score": 3.5833333333333
+          },
+          {
+            "name": "Originality",
+            "rank": 23,
+            "score": 4.4236111111111,
+            "raw_score": 4.4236111111111
+          },
+          {
+            "name": "Presentation",
+            "rank": 5,
+            "score": 4.75,
+            "raw_score": 4.75
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1077451",
+        "raw_score": 4.2523148148148,
+        "rating_count": 144,
+        "score": 4.2523148148148,
+        "title": "Starsnap",
+        "rank": 34
+      },
+      "entryData": {
+        "created_at": "2021-06-13 17:58:06",
+        "field_responses": [
+          "12554:1",
+          "12555:1"
+        ],
+        "url": "/jam/gmtk-2021/rate/1077451",
+        "id": 225551,
+        "rating_count": 144,
+        "contributors": [
+          {
+            "name": "Whales And Games 🐳",
+            "url": "https://whalesandgames.itch.io"
+          },
+          {
+            "name": "JorgeGameDev",
+            "url": "https://jorgegd.itch.io"
+          },
+          {
+            "name": "Robin Naite",
+            "url": "https://robinaite.itch.io"
+          },
+          {
+            "name": "MoskiDraws",
+            "url": "https://moskidraws.itch.io"
+          }
+        ],
+        "coolness": 25,
+        "game": {
+          "title": "Starsnap",
+          "cover_color": "#4904A9",
+          "short_text": "It’s a beautiful star shower, so grab a camera and immortalize the moment!",
+          "user": {
+            "name": "Whales And Games 🐳",
+            "url": "https://whalesandgames.itch.io",
+            "id": 101429
+          },
+          "url": "https://whalesandgames.itch.io/starsnap",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzYyNjU2MTQuZ2lm/300x240%23c/u7EF2B.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzYyNjU2MTQuZ2lm/original/aUQ7m4.gif",
+          "id": 1077451
+        }
+      },
+      "details": {
+        "title": "Starsnap",
+        "description": "It’s a beautiful star shower, so grab a camera and immortalize the moment!\nPhotograph the shooting stars to stop them on their tracks. Then, connect them to create constellations, and place them back in the starry night sky!\n\nTake your time, enjoy the show, and rewrite the sky! It’s only you and the stars!\n\nCreated for GMTK Game Jam 2021\n\nWatch as the star shower goes on. Whenever you see a group of stars cluttered close, take a photo of them to freeze them on the spot. Connect them to each other (with some having more than one connection available), and then place them back into the sky! Repeat until you’re satisfied!\n\nYour score is based on the number of stars on each constellation, the distance between each connection, and if you managed to take a photo of special objects around them. If you’re not satisfied with your constellation, you may discard it.\n\nWhen you’re done, you can even save your work as a wallpaper!\n\nA casual night at a star shower! Photograph what you see and create constellations!Bunch of names for the constellations! Do they seem to relate to the connections you made? Neither do real ones, don’t worry! But out of almost 27,000 different names, some ought to!\nSave your sky as a wallpaper! Enjoy your creation at the convenience of your computer! Of course, it also has a name!\n\nThe game is played with a mouse, using Left and Right Click!\n\nOnce you have placed down enough constellations, you can save your very own star cluster into a one-of-a-kind desktop wallpaper by pressing the Snap Wallpaper in the results screen!\nOn Windows, a button that allows you to Open Wallpaper Folder will appear after you snap a wallpaper. You can press it to be taken directly to it!\nOn other platforms, you can check the following directories to find your wallpaper:\nPlatformDirectoryWindows\n%userprofile%\\AppData\\LocalLow\\Whales And Games\\Starsnap\nMac OSX(Might be hidden by default)\n~/Library/Application Support/Whales And Games/StarsnapLinux\n$HOME/.config/unity3d/Whales And Games/Starsnap$XDG_CONFIG_HOME/unity3d/Whales And Games/Starsnap\n\nOn the Web, the wallpaper will download a few seconds after you press the button, though if you miss it, you can press the Redownload Wallpaper button to fetch it again!\n\nCome and share your night sky or brag about the funny names of your constellations! We’re always happy to receive new starsnappers at our Discord Server!\n\nCreated, Developed & Presented by Whales and Games\n\nOther Whales and Games Projects\nWebsite\nTwitter\nFacebook\nDiscord Server\n\nDevelopment Team\n\nProgrammer – JorgeGameDev (Twitter)\nGraphics Designer – Moski (Twitter)\nAudio Composer - Robinaite (Twitter)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTA3NzQ1MS82MjY2OTM0LnBuZw==/original/NLLThn.png",
+          "https://img.itch.zone/aW1hZ2UvMTA3NzQ1MS82MjY2OTM3LnBuZw==/original/qKEHRm.png",
+          "https://img.itch.zone/aW1hZ2UvMTA3NzQ1MS82MzY2NzM3LnBuZw==/original/c%2FvsJU.png",
+          "https://img.itch.zone/aW1hZ2UvMTA3NzQ1MS82MjY2OTM4LnBuZw==/original/4On0l4.png",
+          "https://img.itch.zone/aW1hZ2UvMTA3NzQ1MS82MzY2NzM2LnBuZw==/original/%2FfU8ee.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Release date": "Jun 13, 2021",
+          "Rating": "Rated 4.6 out of 5 stars(21 total ratings)",
+          "Authors": "Whales And Games 🐳, JorgeGameDev, Robin Naite, MoskiDraws",
+          "Genre": "Simulation",
+          "Made with": "Unity, Clip Studio Paint",
+          "Tags": "2D, Arcade, Atmospheric, Casual, Cute, Drawing, Game Maker's Toolkit Jam, Hand-drawn, Relaxing, Short",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Mouse",
+          "Links": "Homepage, Community, Twitter/X"
+        }
+      }
+    },
+    {
+      "gameId": 1086352,
+      "gameUrl": "https://madnukin.itch.io/drone-head",
+      "overallRank": 87,
+      "topCategories": [
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYyNjE2NzQucG5n/300x240%23c/SGsXSm.png",
+        "contributors": [
+          {
+            "name": "Mads",
+            "id": 3243957
+          },
+          {
+            "name": "mafgar",
+            "id": 2170591
+          }
+        ],
+        "id": 1086352,
+        "criteria": [
+          {
+            "name": "Fun",
+            "rank": 102,
+            "score": 4,
+            "raw_score": 4
+          },
+          {
+            "name": "Originality",
+            "rank": 925,
+            "score": 3.6111111111111,
+            "raw_score": 3.6111111111111
+          },
+          {
+            "name": "Presentation",
+            "rank": 7,
+            "score": 4.7222222222222,
+            "raw_score": 4.7222222222222
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1086352",
+        "raw_score": 4.1111111111111,
+        "rating_count": 18,
+        "score": 4.1111111111111,
+        "title": "Drone Head",
+        "rank": 87
+      },
+      "entryData": {
+        "created_at": "2021-06-13 17:56:09",
+        "field_responses": [
+          "12554:1",
+          "12555:1"
+        ],
+        "url": "/jam/gmtk-2021/rate/1086352",
+        "id": 225363,
+        "rating_count": 18,
+        "contributors": [
+          {
+            "name": "Mads",
+            "url": "https://madnukin.itch.io"
+          },
+          {
+            "name": "mafgar",
+            "url": "https://mafgar.itch.io"
+          }
+        ],
+        "coolness": 15,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzYyNjE2NzQucG5n/300x240%23c/SGsXSm.png",
+          "url": "https://madnukin.itch.io/drone-head",
+          "id": 1086352,
+          "title": "Drone Head",
+          "cover_color": "#110524",
+          "short_text": "Control two robot parts for double the pleasure",
+          "user": {
+            "name": "Mads",
+            "url": "https://madnukin.itch.io",
+            "id": 3243957
+          }
+        }
+      },
+      "details": {
+        "title": "Drone Head",
+        "description": "\nControls:\nBody:Left or Right - Jump with body Space - Eject DroneDrone:Left, Right or Space - Shoot\n\n\n*!* We have updated the game a little bit for HTML5 and posted it on Newgrounds, please give it a try if you don't feel like downloading. Also there's medals and scoreboard *!*\n\n\nCredits:Madnukin - Programming/DesignMiroko - Art/DesignJamieR - ArtYeramia - ArtMafgar - sfxMister_Jamesss - MusicConnorGrail - Music",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTA4NjM1Mi82MjY2OTE3LmdpZg==/original/6%2BceK3.gif",
+          "https://img.itch.zone/aW1hZ2UvMTA4NjM1Mi82MjMxNTExLnBuZw==/original/mJcFBQ.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4NjM1Mi82MjMxNTQ1LnBuZw==/original/hF8Kgd.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Rating": "Rated 3.0 out of 5 stars(1 total ratings)",
+          "Authors": "Mads, mafgar",
+          "Genre": "Action, Platformer",
+          "Tags": "2D, drone, Game Maker's Toolkit Jam, gmtkjam2021, High Score, joined-together, Pixel Art, shooting"
+        }
+      }
+    },
+    {
+      "gameId": 1080552,
+      "gameUrl": "https://curious-bird.itch.io/clotheslines",
+      "overallRank": 269,
+      "topCategories": [
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYyMTEyMDEucG5n/300x240%23c/Yk9%2Bk0.png",
+        "contributors": [
+          {
+            "name": "curious bird",
+            "id": 1422924
+          },
+          {
+            "name": "Leo Teiknar",
+            "id": 2068078
+          },
+          {
+            "name": "B0HU",
+            "id": 3951223
+          }
+        ],
+        "id": 1080552,
+        "criteria": [
+          {
+            "name": "Fun",
+            "rank": 1547,
+            "score": 3.0521978021978,
+            "raw_score": 3.0521978021978
+          },
+          {
+            "name": "Presentation",
+            "rank": 8,
+            "score": 4.6840659340659,
+            "raw_score": 4.6840659340659
+          },
+          {
+            "name": "Originality",
+            "rank": 377,
+            "score": 3.9120879120879,
+            "raw_score": 3.9120879120879
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1080552",
+        "raw_score": 3.8827838827839,
+        "rating_count": 364,
+        "score": 3.8827838827839,
+        "title": "Clotheslines",
+        "rank": 269
+      },
+      "entryData": {
+        "created_at": "2021-06-13 16:15:31",
+        "field_responses": [
+          "12554:1",
+          "12555:1"
+        ],
+        "url": "/jam/gmtk-2021/rate/1080552",
+        "id": 222763,
+        "rating_count": 364,
+        "contributors": [
+          {
+            "name": "curious bird",
+            "url": "https://curious-bird.itch.io"
+          },
+          {
+            "name": "Leo Teiknar",
+            "url": "https://lo-underscore.itch.io"
+          },
+          {
+            "name": "B0HU",
+            "url": "https://b0hu.itch.io"
+          }
+        ],
+        "coolness": 14,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzYyMTEyMDEucG5n/300x240%23c/Yk9%2Bk0.png",
+          "title": "Clotheslines",
+          "url": "https://curious-bird.itch.io/clotheslines",
+          "id": 1080552,
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#2f4f8f",
+          "short_text": "Find the pairs and connect them using clotheslines!",
+          "user": {
+            "name": "curious bird",
+            "url": "https://curious-bird.itch.io",
+            "id": 1422924
+          }
+        }
+      },
+      "details": {
+        "title": "Clotheslines",
+        "description": "\nABOUT THE GAME\nWhat a beautiful day to hang out the laundry! In this little game, you have to connect the apartments using clotheslines. But one apartment can correspond to another. You need to spot the inhabitants who have affinities!\nThis game was made during the GMTKjam 2021.\n\nCREDITS\nGame Design & Programming :  Bohu\n \nArt & Animation :  Leo Teiknar\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTA4MDU1Mi82MjA3MzUxLmdpZg==/original/vrEOpt.gif",
+          "https://img.itch.zone/aW1hZ2UvMTA4MDU1Mi82MjA3NTQ3LmdpZg==/original/FEg%2Bmh.gif",
+          "https://img.itch.zone/aW1hZ2UvMTA4MDU1Mi82MjA3NzM5LmdpZg==/original/1RtY0T.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.4 out of 5 stars(276 total ratings)",
+          "Authors": "curious bird, Leo Teiknar, B0HU",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "2D, Animals, Atmospheric, Cute, Feel Good, Game Maker's Toolkit Jam, Pixel Art, Short"
+        }
+      }
+    },
+    {
+      "gameId": 1086577,
+      "gameUrl": "https://thestoff.itch.io/fallen-angel",
+      "overallRank": 171,
+      "topCategories": [
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYyNDc2NjAucG5n/300x240%23c/8VToSs.png",
+        "contributors": [
+          {
+            "name": "Stoff",
+            "id": 224456
+          },
+          {
+            "name": "Ryan Whyman",
+            "id": 4232340
+          }
+        ],
+        "id": 1086577,
+        "criteria": [
+          {
+            "name": "Fun",
+            "rank": 354,
+            "score": 3.72,
+            "raw_score": 3.72
+          },
+          {
+            "name": "Originality",
+            "rank": 1119,
+            "score": 3.52,
+            "raw_score": 3.52
+          },
+          {
+            "name": "Presentation",
+            "rank": 9,
+            "score": 4.68,
+            "raw_score": 4.68
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1086577",
+        "raw_score": 3.9733333333333,
+        "rating_count": 25,
+        "score": 3.9733333333333,
+        "title": "Fallen Angel",
+        "rank": 171
+      },
+      "entryData": {
+        "created_at": "2021-06-13 17:55:06",
+        "field_responses": [
+          "12554:1",
+          "12555:1"
+        ],
+        "url": "/jam/gmtk-2021/rate/1086577",
+        "id": 225273,
+        "rating_count": 25,
+        "contributors": [
+          {
+            "name": "Stoff",
+            "url": "https://thestoff.itch.io"
+          },
+          {
+            "name": "Ryan Whyman",
+            "url": "https://whymaniac.itch.io"
+          }
+        ],
+        "coolness": 23,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzYyNDc2NjAucG5n/300x240%23c/8VToSs.png",
+          "url": "https://thestoff.itch.io/fallen-angel",
+          "id": 1086577,
+          "title": "Fallen Angel",
+          "cover_color": "#272744",
+          "short_text": "Survive the Netherword",
+          "user": {
+            "name": "Stoff",
+            "url": "https://thestoff.itch.io",
+            "id": 224456
+          }
+        }
+      },
+      "details": {
+        "title": "Fallen Angel",
+        "description": "Ray, an angel, has fallen to the netherworld. She forms a pact with a demon named Nor in order to survive. Now they are connected until Ray can return home.\nChristoph Schoch - Art and GameplayRyan Whyman - Music",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTA4NjU3Ny82MjU0NzE5LmdpZg==/original/WrbN3W.gif",
+          "https://img.itch.zone/aW1hZ2UvMTA4NjU3Ny82MjQ3NjkzLnBuZw==/original/WHRpej.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4NjU3Ny82MjQ3Njk2LnBuZw==/original/hCSuGU.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4NjU3Ny82MjQ3Njk3LnBuZw==/original/oJTTq0.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4NjU3Ny82MjQ3Njk5LnBuZw==/original/eQ4x6W.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Rating": "Rated 3.0 out of 5 stars(2 total ratings)",
+          "Authors": "Stoff, Ryan Whyman",
+          "Genre": "Action",
+          "Tags": "Arcade, Atmospheric, Pixel Art, Retro, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 1081429,
+      "gameUrl": "https://alice-bottino.itch.io/babel",
+      "overallRank": 95,
+      "topCategories": [
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYyMTM5OTUucG5n/300x240%23c/PmETn8.png",
+        "contributors": [
+          {
+            "name": "Alice Bottino",
+            "id": 250037
+          },
+          {
+            "name": "Roman Muradov",
+            "id": 3089195
+          }
+        ],
+        "id": 1081429,
+        "criteria": [
+          {
+            "name": "Fun",
+            "rank": 937,
+            "score": 3.3453815261044,
+            "raw_score": 3.3453815261044
+          },
+          {
+            "name": "Originality",
+            "rank": 70,
+            "score": 4.2771084337349,
+            "raw_score": 4.2771084337349
+          },
+          {
+            "name": "Presentation",
+            "rank": 10,
+            "score": 4.6787148594378,
+            "raw_score": 4.6787148594378
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1081429",
+        "raw_score": 4.1004016064257,
+        "rating_count": 249,
+        "score": 4.1004016064257,
+        "title": "Babel",
+        "rank": 95
+      },
+      "entryData": {
+        "created_at": "2021-06-13 17:20:42",
+        "field_responses": [
+          "12554:1",
+          "12555:1"
+        ],
+        "url": "/jam/gmtk-2021/rate/1081429",
+        "id": 223728,
+        "rating_count": 249,
+        "contributors": [
+          {
+            "name": "Alice Bottino",
+            "url": "https://alice-bottino.itch.io"
+          },
+          {
+            "name": "Roman Muradov",
+            "url": "https://romanmuradov.itch.io"
+          }
+        ],
+        "coolness": 51,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzYyMTM5OTUucG5n/300x240%23c/PmETn8.png",
+          "title": "Babel",
+          "url": "https://alice-bottino.itch.io/babel",
+          "id": 1081429,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#13132a",
+          "short_text": "Join together pieces of your everyday life to build your very own Tower of Babel.",
+          "user": {
+            "name": "Alice Bottino",
+            "url": "https://alice-bottino.itch.io",
+            "id": 250037
+          }
+        }
+      },
+      "details": {
+        "title": "Babel",
+        "description": "Join together pieces of your everyday life to build your very own Tower of Babel.\nKnown Issue: Pressing ESC sometimes causes the screen to go blank\nControls: WASD to moveSpace to JumpMouse to move cameraclick to grab objectsHold and release left click to place object\n\nCredits: design/programming by alice bottinodesign/art by roman muradovmusic/sound by dory bavarsky/full color sound records\nAwards:Indie Game of the Week Award 2021\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTA4MTQyOS82MjE0NjU4LnBuZw==/original/GZxy%2FG.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4MTQyOS82MjE0NjYyLnBuZw==/original/nUL%2FhT.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4MTQyOS82MjE0NjcxLnBuZw==/original/y%2FhIEz.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4MTQyOS82MjE0Njc1LnBuZw==/original/VhXCRu.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4MTQyOS82MjE0Njc4LnBuZw==/original/N2CcyC.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4MTQyOS82MjE0Njg4LnBuZw==/original/3eK9ux.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.5 out of 5 stars(11 total ratings)",
+          "Authors": "Alice Bottino, Roman Muradov",
+          "Genre": "Platformer",
+          "Made with": "Unity",
+          "Tags": "3D, Game Maker's Toolkit Jam, Minimalist, Third Person"
+        }
+      }
+    },
+    {
+      "gameId": 1084359,
+      "gameUrl": "https://cometx5.itch.io/i-died-in-a-cave",
+      "overallRank": 30,
+      "topCategories": [
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYyMTUyMjYucG5n/300x240%23c/tVSFwl.png",
+        "contributors": [
+          {
+            "name": "Keith Makes Games",
+            "id": 4368843
+          },
+          {
+            "name": "DumpsterCuddles",
+            "id": 4533873
+          },
+          {
+            "name": "Kochipo",
+            "id": 4537694
+          },
+          {
+            "name": "KatZombieBrains",
+            "id": 4536423
+          },
+          {
+            "name": "GlimMusic",
+            "id": 3710387
+          },
+          {
+            "name": "TylerSerino",
+            "id": 4534128
+          }
+        ],
+        "id": 1084359,
+        "criteria": [
+          {
+            "name": "Fun",
+            "rank": 97,
+            "score": 4.0281690140845,
+            "raw_score": 4.0281690140845
+          },
+          {
+            "name": "Presentation",
+            "rank": 11,
+            "score": 4.6760563380282,
+            "raw_score": 4.6760563380282
+          },
+          {
+            "name": "Originality",
+            "rank": 198,
+            "score": 4.0845070422535,
+            "raw_score": 4.0845070422535
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1084359",
+        "raw_score": 4.2629107981221,
+        "rating_count": 71,
+        "score": 4.2629107981221,
+        "title": "I Died in a Cave",
+        "rank": 30
+      },
+      "entryData": {
+        "created_at": "2021-06-13 16:40:08",
+        "field_responses": [
+          "12554:1",
+          "12555:1"
+        ],
+        "url": "/jam/gmtk-2021/rate/1084359",
+        "id": 223029,
+        "rating_count": 71,
+        "contributors": [
+          {
+            "name": "Keith Makes Games",
+            "url": "https://cometx5.itch.io"
+          },
+          {
+            "name": "DumpsterCuddles",
+            "url": "https://dumpstercuddles.itch.io"
+          },
+          {
+            "name": "Kochipo",
+            "url": "https://kochipo.itch.io"
+          },
+          {
+            "name": "KatZombieBrains",
+            "url": "https://katzombiebrains.itch.io"
+          },
+          {
+            "name": "GlimMusic",
+            "url": "https://glimmusic.itch.io"
+          },
+          {
+            "name": "TylerSerino",
+            "url": "https://tylerserino.itch.io"
+          }
+        ],
+        "coolness": 113,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzYyMTUyMjYucG5n/300x240%23c/tVSFwl.png",
+          "url": "https://cometx5.itch.io/i-died-in-a-cave",
+          "id": 1084359,
+          "title": "I Died in a Cave",
+          "cover_color": "#e201ab",
+          "short_text": "A game about being one with your soul... just separated",
+          "user": {
+            "name": "Keith Makes Games",
+            "url": "https://cometx5.itch.io",
+            "id": 4368843
+          }
+        }
+      },
+      "details": {
+        "title": "I Died in a Cave",
+        "description": "Have you ever accidently fell into a cave and died? Well it turns out, it's pretty fun. In this short and sweet platforming puzzler, you travel through the underground using a plethora of acrobatic moves like crouching, sliding, wall jumping, and more. You aren't alone in this journey... well you are, but your soul is separated from your body. Linked together by a tight thread, you must use your soul to reach feat's you couldn't have otherwise. \nMoves:\nRun: A and DCrouch: Left ControlSlide: Run then Left ControlJump: Space or WSoul Ability: Left Mouse ButtonCheckpoint: Slam with soul\n---- Quick Note -----\nWe noticed that some monitors don't work very well with the game.  A fix for this would be to force windowed mode by pressing Alt + Enter. This will be remedied in a later patch.\nThis project was made out of passion for games by game development graduates for the 2021 GMTK game jam.\nTeam Members:\nKeith Willett: https://www.artstation.com/cometx5Kat Woods: https://www.artstation.com/katwoodsTyler Serino: tylerserino.comBrianna 'Rose' Davis: https://www.artstation.com/briannarosedavisDavid Milne: https://davidmilne2013.wixsite.com/onlineportfolioDavid Bryant: https://www.artstation.com/davidbryant1Glim Music: https://www.glimmusic.com/\n1) Download the zip file\n2) Unzip the zip file\n3) Play the executable within the folder.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTA4NDM1OS82MjY2Mzk3LnBuZw==/original/LAwmf7.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4NDM1OS82MjE1NDI5LnBuZw==/original/bFE0Q%2B.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4NDM1OS82MjE1NDkzLmpwZw==/original/oCaahu.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTA4NDM1OS82MjE1NTMwLmpwZw==/original/hsJ8gs.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Rating": "Rated 4.6 out of 5 stars(5 total ratings)",
+          "Authors": "Keith Makes Games, DumpsterCuddles, Kochipo, KatZombieBrains, GlimMusic, TylerSerino",
+          "Genre": "Platformer",
+          "Tags": "3D, Puzzle-Platformer, Side Scroller, Singleplayer, Unreal Engine"
+        }
+      }
+    },
+    {
+      "gameId": 1083833,
+      "gameUrl": "https://zomorrostudio.itch.io/arroxa",
+      "overallRank": 52,
+      "topCategories": [
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYyMTIwMTAuanBn/300x240%23c/zaQzME.jpg",
+        "contributors": [
+          {
+            "name": "Zomorro Studio",
+            "id": 960017
+          }
+        ],
+        "id": 1083833,
+        "criteria": [
+          {
+            "name": "Fun",
+            "rank": 266,
+            "score": 3.8028169014085,
+            "raw_score": 3.8028169014085
+          },
+          {
+            "name": "Originality",
+            "rank": 198,
+            "score": 4.0845070422535,
+            "raw_score": 4.0845070422535
+          },
+          {
+            "name": "Presentation",
+            "rank": 11,
+            "score": 4.6760563380282,
+            "raw_score": 4.6760563380282
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1083833",
+        "raw_score": 4.18779342723,
+        "rating_count": 71,
+        "score": 4.18779342723,
+        "title": "Arroxa",
+        "rank": 52
+      },
+      "entryData": {
+        "field_responses": [
+          "12554:1",
+          "12555:1"
+        ],
+        "url": "/jam/gmtk-2021/rate/1083833",
+        "id": 224608,
+        "rating_count": 71,
+        "created_at": "2021-06-13 17:45:11",
+        "coolness": 42,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzYyMTIwMTAuanBn/300x240%23c/zaQzME.jpg",
+          "title": "Arroxa",
+          "url": "https://zomorrostudio.itch.io/arroxa",
+          "id": 1083833,
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "cover_color": "#c9edda",
+          "short_text": "Gather pink creatures to fight against yellow evil forces from your comodity of your tabletop.",
+          "user": {
+            "name": "Zomorro Studio",
+            "url": "https://zomorrostudio.itch.io",
+            "id": 960017
+          }
+        }
+      },
+      "details": {
+        "title": "Arroxa",
+        "description": "This game was made for GMTK Game Jam 2021 by Ibai Aizpurua (code, game design, graphics, sounds and music!)\nAfter the game jam I am updating and trying to make this game better thanks to the really nice feedback I get from this great commutity.\nGather pink creatures to fight against yellow evil forces from your comodity of your desktop.\n\n\"Arroxa\" is an action stop motion game made with craft materials and humor.\n\nI used Construct 3 to create this game.\nArroxa got 60th position in general category and 16th position in presentation category in GMTK Game Jam 2021 from 5883 games! NOT BAD!\n\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTA4MzgzMy82MjIzMzQyLnBuZw==/original/2hC12A.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4MzgzMy82MzIwODE5LnBuZw==/original/A1z81%2B.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4MzgzMy82MzIwODIwLnBuZw==/original/sT7aYW.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 4.2 out of 5 stars(10 total ratings)",
+          "Author": "Zomorro Studio",
+          "Genre": "Action",
+          "Made with": "Construct",
+          "Tags": "Action-Adventure, construct3, Game Jam, Game Maker's Toolkit Jam, handmade, stop-motion"
+        }
+      }
+    },
+    {
+      "gameId": 1080299,
+      "gameUrl": "https://cegexe.itch.io/holymatrixmony",
+      "overallRank": 35,
+      "topCategories": [
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYyMDExNDUuZ2lm/300x240%23c/zFxfex.gif",
+        "contributors": [
+          {
+            "name": "CEG.exe",
+            "id": 2434810
+          }
+        ],
+        "id": 1080299,
+        "criteria": [
+          {
+            "name": "Fun",
+            "rank": 39,
+            "score": 4.2054794520548,
+            "raw_score": 4.2054794520548
+          },
+          {
+            "name": "Presentation",
+            "rank": 15,
+            "score": 4.6575342465753,
+            "raw_score": 4.6575342465753
+          },
+          {
+            "name": "Originality",
+            "rank": 412,
+            "score": 3.8904109589041,
+            "raw_score": 3.8904109589041
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1080299",
+        "raw_score": 4.2511415525114,
+        "rating_count": 73,
+        "score": 4.2511415525114,
+        "title": "Holy Matri(x)mony",
+        "rank": 35
+      },
+      "entryData": {
+        "field_responses": [
+          "12554:1",
+          "12555:1"
+        ],
+        "url": "/jam/gmtk-2021/rate/1080299",
+        "id": 225556,
+        "rating_count": 73,
+        "created_at": "2021-06-13 17:58:08",
+        "coolness": 26,
+        "game": {
+          "title": "Holy Matri(x)mony",
+          "cover_color": "#38384c",
+          "short_text": "A Circuit-Joining Puzzle Game",
+          "user": {
+            "name": "CEG.exe",
+            "url": "https://cegexe.itch.io",
+            "id": 2434810
+          },
+          "url": "https://cegexe.itch.io/holymatrixmony",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzYyMDExNDUuZ2lm/300x240%23c/zFxfex.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzYyMDExNDUuZ2lm/original/y3qpqv.gif",
+          "id": 1080299
+        }
+      },
+      "details": {
+        "title": "Holy Matri(x)mony",
+        "description": "\"Teamwork Makes The Network Work!\"\nPlay with Arrow Keys or WASD, Retry with R\nOur world is joined together by screens. LED Repair will strengthen that bond. That's where you come in.\n\n\n--------------------------------------------------------------------------------------------------------\nMade for GMTK2021 following the theme \"Joined Together\".\nMade by Austin and Devyn. Thanks for checking out our 4th jam!\nSpecial Thanks:\n \nGavin Brooks - Game Music. Check out his work!\nFonts For Flash - Abstract font\nÆnigma\n - Upheaval font\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTA4MDI5OS82MjAxOTIyLnBuZw==/original/zL8tvC.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4MDI5OS82MjAyNDQ4LnBuZw==/original/NfmCs4.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4MDI5OS82MjAyNDg4LnBuZw==/original/yBgygQ.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.2 out of 5 stars(5 total ratings)",
+          "Author": "CEG.exe",
+          "Genre": "Puzzle",
+          "Tags": "2D, Game Maker's Toolkit Jam"
+        }
+      }
+    },
+    {
+      "gameId": 1084395,
+      "gameUrl": "https://moraguma.itch.io/whale-eater",
+      "overallRank": 8,
+      "topCategories": [
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYyMTUxMzgucG5n/300x240%23c/%2F7MvIp.png",
+        "contributors": [
+          {
+            "name": "Moraguma",
+            "id": 1756449
+          },
+          {
+            "name": "amorabot",
+            "id": 2725394
+          }
+        ],
+        "id": 1084395,
+        "criteria": [
+          {
+            "name": "Fun",
+            "rank": 33,
+            "score": 4.2544378698225,
+            "raw_score": 4.2544378698225
+          },
+          {
+            "name": "Originality",
+            "rank": 38,
+            "score": 4.3491124260355,
+            "raw_score": 4.3491124260355
+          },
+          {
+            "name": "Presentation",
+            "rank": 16,
+            "score": 4.6568047337278,
+            "raw_score": 4.6568047337278
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1084395",
+        "raw_score": 4.4201183431953,
+        "rating_count": 169,
+        "score": 4.4201183431953,
+        "title": "Whale Eater",
+        "rank": 8
+      },
+      "entryData": {
+        "created_at": "2021-06-13 16:31:35",
+        "field_responses": [
+          "12554:1",
+          "12555:2"
+        ],
+        "url": "/jam/gmtk-2021/rate/1084395",
+        "id": 222926,
+        "rating_count": 169,
+        "contributors": [
+          {
+            "name": "Moraguma",
+            "url": "https://moraguma.itch.io"
+          },
+          {
+            "name": "amorabot",
+            "url": "https://amorabot.itch.io"
+          }
+        ],
+        "coolness": 30,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzYyMTUxMzgucG5n/300x240%23c/%2F7MvIp.png",
+          "title": "Whale Eater",
+          "url": "https://moraguma.itch.io/whale-eater",
+          "id": 1084395,
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "cover_color": "#c61e3a",
+          "short_text": "Puzzle game about exploring a living, breathing whale",
+          "user": {
+            "name": "Moraguma",
+            "url": "https://moraguma.itch.io",
+            "id": 1756449
+          }
+        }
+      },
+      "details": {
+        "title": "Whale Eater",
+        "description": "Made in two days for GMTK Jam 2021, with the theme Joined Together\nIt is only natural that a Whale Eater would be eaten in turn\n\nSOLUTIONS:\n\n\n\nHOW TO PLAY:\n \nMove - A and D \nFire Grapple/Harpoon - Arrow Keys\nSwitch Equipment - Space Bar\nReset - R\nMenu - Esc\n\nCREDITS:\n \nProgramming and Game Design -  @moraguma\n \nArt and Game Design - @amoradbot\n\n\"Cyberspace Lurkers\" by Carlos Hernandez",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTA4NDM5NS82MjE1NDU0LmpwZw==/original/AXXLhH.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTA4NDM5NS82MjE1NDU3LmpwZw==/original/lOLlF5.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTA4NDM5NS82MjE1NDU4LmpwZw==/original/F8WSaA.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTA4NDM5NS82MjE1NDU1LmpwZw==/original/WbJM7U.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTA4NDM5NS82MjE1NDU2LmpwZw==/original/h8G5PB.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 4.3 out of 5 stars(21 total ratings)",
+          "Authors": "Moraguma, amorabot",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "2D, Gravity, Pixel Art, Robots, Zero Gravity",
+          "Average session": "About an hour",
+          "Languages": "English",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": 1082534,
+      "gameUrl": "https://guilloteam.itch.io/long-leash",
+      "overallRank": 121,
+      "topCategories": [
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYyMDkzNDYuanBn/300x240%23c/5AxeVf.jpg",
+        "contributors": [
+          {
+            "name": "GuilloTeam",
+            "id": 3371259
+          },
+          {
+            "name": "Delphin Casado",
+            "id": 1998116
+          },
+          {
+            "name": "JRevel",
+            "id": 2067560
+          },
+          {
+            "name": "Igotsi",
+            "id": 1511954
+          }
+        ],
+        "id": 1082534,
+        "criteria": [
+          {
+            "name": "Originality",
+            "rank": 472,
+            "score": 3.8514851485149,
+            "raw_score": 3.8514851485149
+          },
+          {
+            "name": "Fun",
+            "rank": 472,
+            "score": 3.6237623762376,
+            "raw_score": 3.6237623762376
+          },
+          {
+            "name": "Presentation",
+            "rank": 17,
+            "score": 4.6534653465347,
+            "raw_score": 4.6534653465347
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1082534",
+        "raw_score": 4.042904290429,
+        "rating_count": 101,
+        "score": 4.042904290429,
+        "title": "Long Leash",
+        "rank": 121
+      },
+      "entryData": {
+        "created_at": "2021-06-13 17:34:27",
+        "field_responses": [
+          "12554:1",
+          "12555:1"
+        ],
+        "url": "/jam/gmtk-2021/rate/1082534",
+        "id": 224124,
+        "rating_count": 101,
+        "contributors": [
+          {
+            "name": "GuilloTeam",
+            "url": "https://guilloteam.itch.io"
+          },
+          {
+            "name": "Delphin Casado",
+            "url": "https://delphin-casado.itch.io"
+          },
+          {
+            "name": "JRevel",
+            "url": "https://jrevel.itch.io"
+          },
+          {
+            "name": "Igotsi",
+            "url": "https://igotsi.itch.io"
+          }
+        ],
+        "coolness": 72,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzYyMDkzNDYuanBn/300x240%23c/5AxeVf.jpg",
+          "title": "Long Leash",
+          "url": "https://guilloteam.itch.io/long-leash",
+          "id": 1082534,
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#f3e9ce",
+          "short_text": "Spray chaos trough town as an excited dog ! But don't hurt your owner !",
+          "user": {
+            "name": "GuilloTeam",
+            "url": "https://guilloteam.itch.io",
+            "id": 3371259
+          }
+        }
+      },
+      "details": {
+        "title": "Long Leash",
+        "description": "CONTROLS\nMove with the Arrow Keys\nGAMEPLAY\nDo the best score by spraying mayhem trough town as fast as possible,  as an excited dog pulling on his leash!\nBark at birds, tip over trashcan and mark your territory, but don't hurt your owner in the process!\nTHEME\nThis game was created for the GameMaker ToolKit Jam 2021. The theme was \"Joined Together\"\nCREDIT\nA game by the 'Guilloteam' : Delphin Casado, Adrien Jeannerod, Florent Lahalle, Julien Revel and Clément Ribeyre-Soret. \n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTA4MjUzNC82NTM4NzQwLmdpZg==/original/rOJAgw.gif",
+          "https://img.itch.zone/aW1hZ2UvMTA4MjUzNC82NTM4NzM5LnBuZw==/original/sxLPCi.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4MjUzNC82NTM4NzM3LnBuZw==/original/rwRG%2B6.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4MjUzNC82NTM4NzM4LnBuZw==/original/0XCzf2.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.5 out of 5 stars(15 total ratings)",
+          "Authors": "GuilloTeam, Delphin Casado, JRevel, Igotsi",
+          "Genre": "Action",
+          "Made with": "Unity",
+          "Tags": "2D, Cute, Dogs, Funny, Game Maker's Toolkit Jam, Hand-drawn, paper, Short, Unity",
+          "Average session": "A few seconds",
+          "Languages": "English",
+          "Inputs": "Keyboard, Xbox controller"
+        }
+      }
+    },
+    {
+      "gameId": 1085243,
+      "gameUrl": "https://ragir.itch.io/blinding-lights",
+      "overallRank": 134,
+      "topCategories": [
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYyMTk1NTUucG5n/300x240%23c/KnUEWg.png",
+        "contributors": [
+          {
+            "name": "ragir",
+            "id": 721753
+          }
+        ],
+        "id": 1085243,
+        "criteria": [
+          {
+            "name": "Fun",
+            "rank": 378,
+            "score": 3.7,
+            "raw_score": 3.7
+          },
+          {
+            "name": "Presentation",
+            "rank": 18,
+            "score": 4.65,
+            "raw_score": 4.65
+          },
+          {
+            "name": "Originality",
+            "rank": 634,
+            "score": 3.75,
+            "raw_score": 3.75
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1085243",
+        "raw_score": 4.0333333333333,
+        "rating_count": 20,
+        "score": 4.0333333333333,
+        "title": "Blinding Lights",
+        "rank": 134
+      },
+      "entryData": {
+        "field_responses": [
+          "12554:1",
+          "12555:1"
+        ],
+        "url": "/jam/gmtk-2021/rate/1085243",
+        "id": 224296,
+        "rating_count": 20,
+        "created_at": "2021-06-13 17:38:55",
+        "coolness": 24,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzYyMTk1NTUucG5n/300x240%23c/KnUEWg.png",
+          "title": "Blinding Lights",
+          "url": "https://ragir.itch.io/blinding-lights",
+          "id": 1085243,
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#000000",
+          "short_text": "An atmospheric physics puzzle game",
+          "user": {
+            "name": "ragir",
+            "url": "https://ragir.itch.io",
+            "id": 721753
+          }
+        }
+      },
+      "details": {
+        "title": "Blinding Lights",
+        "description": "An atmospheric puzzle game based on throwing a cube around. You can only move where the cube is and only when it's stopped.\n13 levels currently, all made in 48 hours for the GMTK Jam 2021!\nAssets used:\nKino Posprocessing Effects by Keijiro Takahashi:https://github.com/keijiro/KinoLicense: Unlicense\nCommand Font by jeti:https://www.dafont.com/enter-command.fontLicense: Public Domain\nEverything else, including all of the art, music, sfx, design and code was made during the 48 hours.\nAnd I slept for 20 of them (take care of yourself people!)\nHave fun playing!Download, unzip, run the .exe!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTA4NTI0My82MjIwOTU2LmpwZw==/original/%2FMWYuD.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTA4NTI0My82MjIwOTU0LmpwZw==/original/GLndy6.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTA4NTI0My82MjIwOTU3LmpwZw==/original/Rt9O6R.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTA4NTI0My82MjIwOTU1LmpwZw==/original/TNCcab.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Author": "ragir",
+          "Genre": "Puzzle",
+          "Tags": "Atmospheric, Physics"
+        }
+      }
+    },
+    {
+      "gameId": 1081133,
+      "gameUrl": "https://nulledwine.itch.io/aminus",
+      "overallRank": 41,
+      "topCategories": [
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzYyNjk3MDMucG5n/300x240%23c/%2B9Ye38.png",
+        "contributors": [
+          {
+            "name": "Daniel Graves",
+            "id": 2281942
+          }
+        ],
+        "id": 1081133,
+        "criteria": [
+          {
+            "name": "Fun",
+            "rank": 123,
+            "score": 3.9888888888889,
+            "raw_score": 3.9888888888889
+          },
+          {
+            "name": "Originality",
+            "rank": 247,
+            "score": 4.0333333333333,
+            "raw_score": 4.0333333333333
+          },
+          {
+            "name": "Presentation",
+            "rank": 20,
+            "score": 4.6444444444444,
+            "raw_score": 4.6444444444444
+          }
+        ],
+        "url": "https://itch.io/jam/gmtk-2021/rate/1081133",
+        "raw_score": 4.2222222222222,
+        "rating_count": 90,
+        "score": 4.2222222222222,
+        "title": "Aminus",
+        "rank": 41
+      },
+      "entryData": {
+        "field_responses": [
+          "12554:1",
+          "12555:1"
+        ],
+        "url": "/jam/gmtk-2021/rate/1081133",
+        "id": 220994,
+        "rating_count": 90,
+        "created_at": "2021-06-13 07:20:35",
+        "coolness": 53,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzYyNjk3MDMucG5n/300x240%23c/%2B9Ye38.png",
+          "title": "Aminus",
+          "url": "https://nulledwine.itch.io/aminus",
+          "id": 1081133,
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#000000",
+          "short_text": "Possess and link yourself to enemies to fight through endless waves",
+          "user": {
+            "name": "Daniel Graves",
+            "url": "https://nulledwine.itch.io",
+            "id": 2281942
+          }
+        }
+      },
+      "details": {
+        "title": "Aminus",
+        "description": "NOTE: There's a bug with the slow motion effect; if you get locked into slow-motion, pause and un-pause. If it happens in the tutorial, just click \"Skip tutorial\"\nAnd yes, enemies that fly are supposed to travel through walls.\nThe core is a vessel that has the ability to connect and forge itself within other beings, taking control of them and their abilities. Fight through infinite hordes of shadow-like husks as you take control of them and use their own abilities against their own kind.\nMade in 48 hours for the GMTK Game Jam with the theme \"Joined Together\"\n\nMeet the husks!\nIf you have Windows, also try downloading the game with the link below.\nControls\nWASD or Arrow Keys to move\nAim and click with your mouse to fire your chain\nClick to use ability if you are connected with an enemy\nTips and Strategies\nIf the heart takes contact damage, the enemy you're connected to will also die\nAny enemy that takes contact damage with the heart will instantly die, however the heart takes double damage than from getting shot\nThere is no penalty for letting the enemy you're connected to die other than not being able to attack.  You can take advantage of this and use your connected enemy as a meat shield\nAnd, if you're planning to try to beat me, my record kill count is 80.\n\n\n\nCredits\nProgramming, Art, Animation, SFX - Daniel Graves\nMusic - Benjamin WangCheck out the game's ost!\n\nAwards\nPinto's Choice Indie Game of the Week Award 2021\n1. Download ZIP\n2. Extract ZIP to desired location\n3. Open folder and open the .exe file (Do not delete, move, or modify any of the files in this folder as the game depends on it).",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTA4MTEzMy82MjY3OTczLnBuZw==/original/Tiu2mV.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4MTEzMy82MjAxOTg0LnBuZw==/original/bubEpS.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4MTEzMy82MjAxOTg2LnBuZw==/original/yIuUYB.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4MTEzMy82MjAxOTg1LnBuZw==/original/KK0IZN.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4MTEzMy82MjAxOTg4LnBuZw==/original/KxPJPr.png",
+          "https://img.itch.zone/aW1hZ2UvMTA4MTEzMy82MjAxOTg3LnBuZw==/original/w7Yk8Z.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 2.3 out of 5 stars(3 total ratings)",
+          "Author": "Daniel Graves",
+          "Genre": "Shooter",
+          "Made with": "Unity, Krita, FL Studio, Piskel",
+          "Tags": "2D, Bullet Hell, Game Maker's Toolkit Jam, Pixel Art, Top-Down, Top down shooter",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    }
+  ]
+}

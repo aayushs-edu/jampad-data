@@ -1,0 +1,872 @@
+{
+  "n": 60,
+  "name": "2021 Epic MegaJam",
+  "url": "https://itch.io/jam/2021-epic-megajam",
+  "theme": "Running out of Space",
+  "slug": "2021-epic-megajam",
+  "jamMeta": {
+    "jamType": "ongoing",
+    "joined": "",
+    "entries": "474",
+    "title": "2021 Epic MegaJam",
+    "jamURL": "https://itch.io/jam/2021-epic-megajam",
+    "hosts": {
+      "Unreal Engine": "https://unrealengine.itch.io",
+      "#unrealjam": "https://bsky.app/hashtag/unrealjam"
+    },
+    "jamID": "309989"
+  },
+  "totalEntries": 466,
+  "ranked": false,
+  "hasCategories": false,
+  "needsManualSelection": true,
+  "categories": [],
+  "topGames": [
+    {
+      "gameId": 1184381,
+      "gameUrl": "https://gamma-girl.itch.io/gob",
+      "overallRank": 1,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/2021-epic-megajam/rate/1184381",
+        "created_at": "2021-09-02 18:55:15",
+        "id": 251747,
+        "game": {
+          "url": "https://gamma-girl.itch.io/gob",
+          "platforms": [
+            "windows"
+          ],
+          "title": "Gob",
+          "user": {
+            "id": 4834548,
+            "url": "https://gamma-girl.itch.io",
+            "name": "gamma girl"
+          },
+          "id": 1184381,
+          "cover": "https://img.itch.zone/aW1nLzY5MjIzMDEuZ2lm/300x240%23c/12lCoH.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzY5MjIzMDEuZ2lm/original/d1FC1Z.gif",
+          "short_text": "Groggy and hungry, you search for the ingredients of your favorite meal.",
+          "cover_color": "#000000"
+        },
+        "field_responses": [
+          "14669:Platform1"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Gob",
+        "description": "\nCURRENTLY IN DEVELOPMENTFollow for development updates: https://twitter.com/gammagirlLabs\nAfter a deep slumber, a trip to the vending machine spirals into an unintentional journey underground.\nPlay as Gob to solve the puzzles of your messy home and trudge through the unseen corners of a cavernous tunnel network. Mash things together, break them apart, and observe the environment to get yourself back home.\nFeatures:\nUnique hand-painted artwork\nPoint and click mechanics, without the pointing and clickingWordless design.\n\nDownload the zip file and extract to play application.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTE4NDM4MS84NDY2OTgzLnBuZw==/original/9jQEFN.png",
+          "https://img.itch.zone/aW1hZ2UvMTE4NDM4MS84NDY3MTA5LnBuZw==/original/PovjbS.png",
+          "https://img.itch.zone/aW1hZ2UvMTE4NDM4MS84NDY3MDAzLnBuZw==/original/wFVpbQ.png",
+          "https://img.itch.zone/aW1hZ2UvMTE4NDM4MS84NDY3MDAyLnBuZw==/original/22IkHR.png",
+          "https://img.itch.zone/aW1hZ2UvMTE4NDM4MS84NDY3MDA1LnBuZw==/original/jRjqx8.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.8 out of 5 stars(216 total ratings)",
+          "Author": "gamma girl",
+          "Genre": "Adventure, Puzzle",
+          "Tags": "2D, 3D, Atmospheric, Creepy, Dark, Experimental, Exploration, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 1176999,
+      "gameUrl": "https://airnean.itch.io/claustrophobia",
+      "overallRank": 2,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/2021-epic-megajam/rate/1176999",
+        "created_at": "2021-08-30 22:26:43",
+        "id": 249962,
+        "game": {
+          "id": 1176999,
+          "short_text": "A puzzle game where the room constantly shrinks - and you feel like somebody might be watching...",
+          "url": "https://airnean.itch.io/claustrophobia",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzY4NzYwODUucG5n/300x240%23c/2NuyTf.png",
+          "title": "Claustrophobia",
+          "user": {
+            "id": 4745808,
+            "url": "https://airnean.itch.io",
+            "name": "Airnean"
+          },
+          "cover_color": "#555555"
+        },
+        "field_responses": [
+          "14669:Platform1"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Claustrophobia",
+        "description": "Claustrophobia is a game made for the Epic MegaJam 2021 in a week on the theme of Running Out Of Space!\nIt's my first solo dev project that I've seen through to completion and I'm super happy with how it's come out so far.\nIn claustrophobia you try to solve puzzles in shrinking rooms of ever growing complexity with clues along the way as to why you're here, and who made all of these puzzles...\nCurrently the game consists of 10 levels, though more may be planned for after the jam depending on reception.\nIf you want to chat to me about the game, it's development, or speedrunning it (there's already a couple speedrunners out there!) come and join the discord:\nhttps://discord.gg/rDAcFpFWR for current version (0.5)https://www.youtube.com/watch?v=vuN2-n0v6LA&ab_channel=ShaunHowes",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTE3Njk5OS82ODc2MTA4LnBuZw==/original/%2FZuwr8.png",
+          "https://img.itch.zone/aW1hZ2UvMTE3Njk5OS82ODc2MTE0LnBuZw==/original/bQLTxq.png",
+          "https://img.itch.zone/aW1hZ2UvMTE3Njk5OS82ODc2MTE5LnBuZw==/original/VGCRuG.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "Airnean",
+          "Genre": "Puzzle",
+          "Made with": "Unreal Engine, Krita",
+          "Tags": "Singleplayer, Speedrun, Unreal Engine",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard",
+          "Links": "Twitch, Source code, Twitter/X"
+        }
+      }
+    },
+    {
+      "gameId": 1183087,
+      "gameUrl": "https://noloadingrequired.itch.io/pageturner",
+      "overallRank": 3,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/2021-epic-megajam/rate/1183087",
+        "created_at": "2021-09-02 17:43:17",
+        "id": 251485,
+        "game": {
+          "id": 1183087,
+          "short_text": "An adorable interactive narrative with a roguelike twist",
+          "url": "https://noloadingrequired.itch.io/pageturner",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzY5MDI0MTcucG5n/300x240%23c/XN06xs.png",
+          "title": "Pageturner",
+          "user": {
+            "id": 1338925,
+            "url": "https://noloadingrequired.itch.io",
+            "name": "No Loading Required"
+          },
+          "cover_color": "#f4ddb3"
+        },
+        "field_responses": [
+          "14669:Platform1"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Pageturner",
+        "description": "\nJoin Aviena and Borbu on their journey to Harmonia in this adorable interactive narrative with a roguelike twist. \n  \n \n  \nSet in the pages of a book and played through whimsical illustrations, you choose how Aviena and Borbu will tackle their challenges! Aviena and Borbu gain modifiers based on your choices, and those modifiers help you in the minigames that follow. If you succeed or fail, your path branches on your journey to Harmonia.\n  \n \n  \nEpic Megajam 2021\n  \nThe game was made in 7 days for the Epic Megajam 2021, with the theme “Running out of space”. \n  \nRunning Out of Space\n  \n\nThis game tackles the theme in two ways; the narrative and the reoccurring mechanic.\n  \nAfter you make your choice and the minigame begins, the page slowly fills with the words of the story – giving you less and less space to complete your task, akin to a battle royale arena.\n  \n \n  \nWhat to expect\nThis was  a game jam game - it is very short and it is more of a demo.  Expect 5-10 minutes of gameplay.\nIn the game demo, you will get an introduction and three minigames; in a single playthrough you will play two minigames, as the result of the first game dictates which path you then take. Even though Pageturner is a small demo with only three minigames, there are actually 18 variations of the game and four endings based on your modifier selections and the minigame outcomes.\nExpect bugs! Again, a game jam game has many bugs. Be kind to them!\nWhat's next? Check our Devlog below for updates on what we're up to!\n\n \n \nControls\n  \nPlay Pageturner with your keyboard using WASD and SPACE.\n  \n\n \n  \nCredits\n  \nGameplay Design\nCari Watterton & Scott Simpson\nGameplay Programming\nScott Simpson\nUI Art, Design & Code:\nCari Watterton\nNarration & Writing\nJames Gardner\nMusic & Sound Effects\nWe Love Indies (sponsor of Epic Megajam)\n\n \n  \nSpecial Thanks:\n  \nJames Clayton for Tech Support!\n\n\nAviena & Borbu Character Concepts\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTE4MzA4Ny82OTAyMzg0LmpwZw==/original/Sz0ug1.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTE4MzA4Ny82OTAyMzg1LmpwZw==/original/BnDIC%2F.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTE4MzA4Ny82OTAyMzg2LmpwZw==/original/JJOVyE.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTE4MzA4Ny82OTAyMzg5LmpwZw==/original/moHC3A.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTE4MzA4Ny82OTAyMzg4LmpwZw==/original/nX0nyl.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTE4MzA4Ny82OTAyMzg3LmpwZw==/original/8TvAiz.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTE4MzA4Ny82OTAzMDUwLmpwZw==/original/eULdXl.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTE4MzA4Ny82OTAyMzgzLmpwZw==/original/yn1UR9.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Rating": "Rated 2.0 out of 5 stars(4 total ratings)",
+          "Author": "No Loading Required",
+          "Genre": "Visual Novel, Adventure, Interactive Fiction, Puzzle",
+          "Tags": "2D, Cute, Narrative, Short, Singleplayer, Story Rich"
+        }
+      }
+    },
+    {
+      "gameId": 1184023,
+      "gameUrl": "https://seager1111.itch.io/botiboi",
+      "overallRank": 4,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/2021-epic-megajam/rate/1184023",
+        "rating_count": 0,
+        "created_at": "2021-09-02 15:54:47",
+        "id": 251342,
+        "game": {
+          "short_text": "User-caused file influx can cause the crash anytime now! Let's gather files and upload them to the cloud server.",
+          "url": "https://seager1111.itch.io/botiboi",
+          "id": 1184023,
+          "cover": "https://img.itch.zone/aW1nLzY5MzE0NjkucG5n/300x240%23c/SPcXeI.png",
+          "title": "BotiBoi",
+          "user": {
+            "id": 4807709,
+            "url": "https://seager1111.itch.io",
+            "name": "Seager1111"
+          },
+          "cover_color": "#1e939c"
+        },
+        "field_responses": [
+          "14669:Platform1"
+        ],
+        "coolness": 0,
+        "contributors": [
+          {
+            "url": "https://seager1111.itch.io",
+            "name": "Seager1111"
+          },
+          {
+            "url": "https://muroski.itch.io",
+            "name": "Muroski"
+          },
+          {
+            "url": "https://rapiduch.itch.io",
+            "name": "rapiduch"
+          },
+          {
+            "url": "https://dscreators.itch.io",
+            "name": "DSCreators"
+          },
+          {
+            "url": "https://bomba69.itch.io",
+            "name": "Bomba69"
+          }
+        ]
+      },
+      "details": {
+        "title": "BotiBoi",
+        "description": "\nGameplay Instructions:\nHelp BotiBoi gather as many files as possible and upload them to the server before the inevitable system crash. Be quick and avoid bumpers and bugs. Compete with your friends for the highest spot on the high-score table. \n\nControls:\n\n[WSAD]    to move around\n\n[SPACE]    to jump and double jump\n\n[L.SHIFT]    to dash and double dash\n[LMB] or [E]    to upload\n\n[ESC] or [P]    to pause\nWe are deeply, sorry but name of the zip is Windows.zip, please be mindful of that.Unzip and run mysterius.exe",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTE4NDAyMy82OTA1MDY4LnBuZw==/original/ZSW6Ua.png",
+          "https://img.itch.zone/aW1hZ2UvMTE4NDAyMy82OTEzNTM1LmdpZg==/original/n88dZp.gif",
+          "https://img.itch.zone/aW1hZ2UvMTE4NDAyMy82OTEzMzAxLnBuZw==/original/DLqZHI.png",
+          "https://img.itch.zone/aW1hZ2UvMTE4NDAyMy82OTEzMzQ5LnBuZw==/original/lQLS0O.png",
+          "https://img.itch.zone/aW1hZ2UvMTE4NDAyMy82OTEzMzM0LnBuZw==/original/wFxLCq.png",
+          "https://img.itch.zone/aW1hZ2UvMTE4NDAyMy82OTA1MDU4LnBuZw==/original/2jZacf.png",
+          "https://img.itch.zone/aW1hZ2UvMTE4NDAyMy82OTEzMzg3LnBuZw==/original/%2FbCtep.png",
+          "https://img.itch.zone/aW1hZ2UvMTE4NDAyMy82OTEzMzEwLnBuZw==/original/UUpAdx.png",
+          "https://img.itch.zone/aW1hZ2UvMTE4NDAyMy82OTEzMzk4LnBuZw==/original/kZYjBd.png",
+          "https://img.itch.zone/aW1hZ2UvMTE4NDAyMy82OTA1MDYwLnBuZw==/original/U7%2FVOb.png",
+          "https://img.itch.zone/aW1hZ2UvMTE4NDAyMy82OTA1MDY1LnBuZw==/original/sn9RK0.png",
+          "https://img.itch.zone/aW1hZ2UvMTE4NDAyMy82OTA1MDY2LnBuZw==/original/bq%2FmS0.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Rating": "Rated 5.0 out of 5 stars(4 total ratings)",
+          "Authors": "Seager1111, Muroski, rapiduch, DSCreators, Bomba69",
+          "Genre": "Platformer",
+          "Tags": "3D, artgame, High Score, Singleplayer, ue5"
+        }
+      }
+    },
+    {
+      "gameId": 1183591,
+      "gameUrl": "https://tonire.itch.io/hoarders-cloud",
+      "overallRank": 5,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/2021-epic-megajam/rate/1183591",
+        "created_at": "2021-09-02 16:53:26",
+        "id": 251402,
+        "game": {
+          "id": 1183591,
+          "short_text": "A game about collecting and taking care of plants in VR",
+          "url": "https://tonire.itch.io/hoarders-cloud",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzgwNTk3MzEucG5n/300x240%23c/2jWeg1.png",
+          "title": "Hoarder's Cloud",
+          "user": {
+            "id": 1597280,
+            "url": "https://tonire.itch.io",
+            "name": "Tonire"
+          },
+          "cover_color": "#edeadd"
+        },
+        "field_responses": [
+          "14669:Platform1"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Hoarder's Cloud",
+        "description": "A (not) relaxing experience of taking care of the plants in VR on a rooftop lost in the clouds\nOnly tested on the oculus rift and oculus quest via linkfeel free to leave any gameplay video in the commentsHave fun :)Winner of the 2021 Epic Mega Jam:IS THIS REAL LIFE?: Hoarder’s Cloud | What a TeamLinkCredits:\nART:  Carles DomingoPROGRAMMING: Toni Rebollo, Enrique MoltoMUSIC: Pau RodriguezADDITIONAL HELP: Angel Rebollo\nFont used: Grooker by ZafontsBird Sprite:",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTE4MzU5MS84MDU5NjY5LmpwZw==/original/JCuFc1.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTE4MzU5MS82OTAyNjY2LmdpZg==/original/%2BBCSKS.gif",
+          "https://img.itch.zone/aW1hZ2UvMTE4MzU5MS82OTAyNTkwLnBuZw==/original/kJ3S%2Bs.png",
+          "https://img.itch.zone/aW1hZ2UvMTE4MzU5MS82OTAyNTkxLnBuZw==/original/iWkOZ2.png",
+          "https://img.itch.zone/aW1hZ2UvMTE4MzU5MS82OTAyNTkyLnBuZw==/original/Ly8f5d.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(6 total ratings)",
+          "Author": "Tonire",
+          "Genre": "Strategy",
+          "Made with": "Unreal Engine",
+          "Tags": "cloud, contemplative, megajam, plant, Virtual Reality (VR)"
+        }
+      }
+    },
+    {
+      "gameId": 1183056,
+      "gameUrl": "https://othersidebay.itch.io/underquest",
+      "overallRank": 6,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/2021-epic-megajam/rate/1183056",
+        "created_at": "2021-09-02 18:48:49",
+        "id": 251683,
+        "game": {
+          "id": 1183056,
+          "short_text": "Fantasy inventory management roguelite",
+          "url": "https://othersidebay.itch.io/underquest",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzE4MTYyODYxLnBuZw==/300x240%23c/FwCliz.png",
+          "title": "Underquest",
+          "user": {
+            "id": 3220857,
+            "url": "https://othersidebay.itch.io",
+            "name": "Otherside Bay Studio"
+          },
+          "cover_color": "#1a121b"
+        },
+        "field_responses": [
+          "14669:Platform1"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Underquest",
+        "description": "Real-time inventory management roguelite. Combine items to create powerful skills and use them in fast-paced combat. Explore randomly generated dungeons in the Underkingdom and discover the secrets of its inhabitants!\nUse left mouse click or drag&drop in the bag to apply or move them.\nCombine two segments to forge the skill.\nUpgrade your equipment by forging the same items with equal quality.\n\nThe game has been released and is available on Steam. There is also a free demo version of the game available. We would love to hear your thoughts and stay tuned for new updates!\nhttps://store.steampowered.com/widget/2265420/",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTE4MzA1Ni8xODA4NDA5Ny5wbmc=/original/4HLpBl.png",
+          "https://img.itch.zone/aW1hZ2UvMTE4MzA1Ni8xODA4NDA5OC5wbmc=/original/BThomK.png",
+          "https://img.itch.zone/aW1hZ2UvMTE4MzA1Ni8xODA4NDA4Ny5wbmc=/original/ABR%2FTZ.png",
+          "https://img.itch.zone/aW1hZ2UvMTE4MzA1Ni8xODA4NDA5OS5wbmc=/original/gVDw4v.png",
+          "https://img.itch.zone/aW1hZ2UvMTE4MzA1Ni8xODA4NDA4Ni5wbmc=/original/3Osvbt.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(3 total ratings)",
+          "Author": "Otherside Bay Studio",
+          "Genre": "Role Playing, Strategy",
+          "Made with": "Unreal Engine, Blender",
+          "Tags": "3D, Casual, Cute, Dungeon Crawler, Fantasy, Roguelike, Roguelite, Short, Tactical",
+          "Average session": "About a half-hour",
+          "Languages": "English, Russian",
+          "Inputs": "Keyboard, Mouse",
+          "Accessibility": "Subtitles",
+          "Links": "Steam, Twitter/X"
+        }
+      }
+    },
+    {
+      "gameId": 1183826,
+      "gameUrl": "https://snougi.itch.io/add-it-to-the-list",
+      "overallRank": 7,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/2021-epic-megajam/rate/1183826",
+        "created_at": "2021-09-02 13:58:56",
+        "id": 251255,
+        "game": {
+          "short_text": "Horrible things happen in space...",
+          "url": "https://snougi.itch.io/add-it-to-the-list",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzY5MDAxMzkucG5n/300x240%23c/8Aosnk.png",
+          "title": "Add it to the list - Game Jam Entry",
+          "user": {
+            "id": 3284394,
+            "url": "https://snougi.itch.io",
+            "name": "Joakim \"Chef\" Lundstrom"
+          },
+          "id": 1183826
+        },
+        "field_responses": [
+          "14669:Platform1"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Add it to the list - Game Jam Entry",
+        "description": "\"Add it to the list\" is my entry to the Epic Mega Jam 2021.\nYou wake up as your captain is looking for your aid. After a horrible incident, you have to rebuild the spaceship before it is too late...!\nThe game is not the best optimized, hopefully, you can enjoy it non the less...!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTE4MzgyNi82OTAwMTQxLnBuZw==/original/7DyRj5.png",
+          "https://img.itch.zone/aW1hZ2UvMTE4MzgyNi82OTAwMTQzLnBuZw==/original/eDZXo8.png",
+          "https://img.itch.zone/aW1hZ2UvMTE4MzgyNi82OTAwMTQyLnBuZw==/original/%2FmWsl2.png",
+          "https://img.itch.zone/aW1hZ2UvMTE4MzgyNi82OTAwMTQ1LnBuZw==/original/3%2F8Wkz.png",
+          "https://img.itch.zone/aW1hZ2UvMTE4MzgyNi82OTAwMTc4LnBuZw==/original/rHxMsw.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(4 total ratings)",
+          "Author": "Joakim \"Chef\" Lundstrom",
+          "Genre": "Puzzle, Adventure",
+          "Tags": "Atmospheric, Comedy, First-Person, Funny, Sci-fi, Unreal Engine"
+        }
+      }
+    },
+    {
+      "gameId": 1178744,
+      "gameUrl": "https://chozabu.itch.io/super-macro-space",
+      "overallRank": 8,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/2021-epic-megajam/rate/1178744",
+        "created_at": "2021-08-29 22:15:58",
+        "id": 249492,
+        "game": {
+          "id": 1178744,
+          "short_text": "Local multiplayer space race",
+          "url": "https://chozabu.itch.io/super-macro-space",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzY5MDAxMjEuanBlZw==/300x240%23c/TYAEJm.jpeg",
+          "title": "Super Macro Space",
+          "user": {
+            "id": 336225,
+            "url": "https://chozabu.itch.io",
+            "name": "chozabu"
+          },
+          "cover_color": "#eeeeee"
+        },
+        "field_responses": [
+          "14669:Platform1"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Super Macro Space",
+        "description": "Grab some buddies and Race until you are out of space! (Or play alone against bots)\nSpeed along a cosmic course, blast your buddies with power ups.\nLocal multiplayer game designed to be played with gamepads (player 1 can also use keyboard)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTE3ODc0NC82OTAwMTI1LmpwZWc=/original/Ejk6YV.jpeg",
+          "https://img.itch.zone/aW1hZ2UvMTE3ODc0NC82OTAwMTMzLmpwZWc=/original/OlYwNH.jpeg",
+          "https://img.itch.zone/aW1hZ2UvMTE3ODc0NC82OTAwMTM3LnBuZw==/original/%2FuOhNb.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Author": "chozabu",
+          "Genre": "Racing"
+        }
+      }
+    },
+    {
+      "gameId": 1184272,
+      "gameUrl": "https://sirmilomilo.itch.io/running-out-of-space-time",
+      "overallRank": 9,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/2021-epic-megajam/rate/1184272",
+        "rating_count": 0,
+        "created_at": "2021-09-02 18:56:43",
+        "id": 251773,
+        "game": {
+          "short_text": "Guide a rescue operation in proximity of a black hole in VR.",
+          "url": "https://sirmilomilo.itch.io/running-out-of-space-time",
+          "id": 1184272,
+          "cover": "https://img.itch.zone/aW1nLzY5MDQwNjUuanBn/300x240%23c/XCJ7rX.jpg",
+          "title": "Running out of Space-Time",
+          "user": {
+            "id": 2661167,
+            "url": "https://sirmilomilo.itch.io",
+            "name": "sirmilomilo"
+          },
+          "cover_color": "#000000"
+        },
+        "field_responses": [
+          "14669:Platform1",
+          "14669:Platform6"
+        ],
+        "coolness": 0,
+        "contributors": [
+          {
+            "url": "https://sirmilomilo.itch.io",
+            "name": "sirmilomilo"
+          },
+          {
+            "url": "https://raio-devduo.itch.io",
+            "name": "Raio_devduo"
+          }
+        ]
+      },
+      "details": {
+        "title": "Running out of Space-Time",
+        "description": "Team\nDevDuo made of Raio and SirMiloMilo.\nGameplay\nGuide rescue ships to the space station through asteroids and debris, take on board the survivors and escape through an intergalactic portal.\nOh, BTW, there's a giant black hole nearby that is going to annihilate every life form on the space station, so hurry up, you don't have much time!\nP.S. rescue ships are very fragile, they will insta-explode when touching something, so just keep them away from anything that is not a dock or a portal.\nTo draw a path put your hand (little sphere) on a rescue ship, press trigger and move the hand.\nPlatfom\nWindows\nTested on Oculus Rift and Oculus Rift S. \nShould work on Quest with Oculus Link.\nCould work on Vive and Index.\nExternal content\nSFX & Music from weloveindiesGargantua black-hole based on the one by brunogbrito.Explosion based on Explosions BuilderHumanoid mesh based on one in Polygon prototypeHumanoid anims from MixamoSkysphere from StarSphere\n\nGameplay footage\n\n\nUnzip and run \"RunningOutOfSpace.exe\"",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTE4NDI3Mi82OTAzNTIwLmpwZw==/original/7qUvYc.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTE4NDI3Mi82OTA1Mjc0LmpwZw==/original/PqMvTn.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTE4NDI3Mi82OTAzNTIyLmpwZw==/original/v6TLiY.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Authors": "sirmilomilo, Raio_devduo",
+          "Tags": "Atmospheric, Gravity, Low-poly, Oculus Quest, Oculus Rift, Sci-fi, Space, Unreal Engine, unrealjam, Virtual Reality (VR)",
+          "Inputs": "Oculus Rift"
+        }
+      }
+    },
+    {
+      "gameId": 1183998,
+      "gameUrl": "https://hollowdilnik.itch.io/in-space-no-one-can-hear-you-click",
+      "overallRank": 10,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/2021-epic-megajam/rate/1183998",
+        "created_at": "2021-09-02 18:57:01",
+        "id": 251779,
+        "game": {
+          "id": 1183998,
+          "short_text": "Surreal VR platformer inside of an RGB keyboard",
+          "url": "https://hollowdilnik.itch.io/in-space-no-one-can-hear-you-click",
+          "platforms": [
+            "windows",
+            "android"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzcwODYxNzUucG5n/300x240%23c/o6f8Wg.png",
+          "title": "In SPACE no one can hear you CLICK",
+          "user": {
+            "id": 4683962,
+            "url": "https://hollowdilnik.itch.io",
+            "name": "hollowdilnik"
+          },
+          "cover_color": "#eeeeee"
+        },
+        "field_responses": [
+          "14669:Platform1",
+          "14669:Platform5"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "In SPACE no one can hear you CLICK",
+        "description": "Enter an experimental keyboard and run out of the space bar, testing the keys you find along the way.\nOculus Quest version with achievements and leaderboards available on AppLab! People in our discord are speedrunning the game. Can you complete it in under 2 minutes?\nThis is a VR-only game. Don't have a headset? Watch a full playthrough here!\nControls:Swing your arms and push off objects to move around (like in Gorilla Tag). Press the left Menu / B key to restart from the last checkpoint.\nMade for the 2021 Epic MegaJam  with the \"Running out of space\" theme.\nSupported platforms: The game has been tested with  HTC Vive Pro using SteamVR, Oculus Quest 2 - standalone and using  Oculus Link. Should probably run with any SteamVR-compatible headset. \nJoin our Discord server to share your feedback, suggestions or chat about VR dev stuff! https://discord.gg/d7gqjtKQm4\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTE4Mzk5OC83MTg1Mzk5LnBuZw==/original/WwBZwe.png",
+          "https://img.itch.zone/aW1hZ2UvMTE4Mzk5OC82OTM1MzQyLnBuZw==/original/ZpwqK4.png",
+          "https://img.itch.zone/aW1hZ2UvMTE4Mzk5OC83MTg1NDAyLnBuZw==/original/6J%2FzJS.png",
+          "https://img.itch.zone/aW1hZ2UvMTE4Mzk5OC82OTM1MzQzLnBuZw==/original/uXGb13.png",
+          "https://img.itch.zone/aW1hZ2UvMTE4Mzk5OC83MTg1NDAxLnBuZw==/original/31gZYD.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows, Android",
+          "Rating": "Rated 3.7 out of 5 stars(3 total ratings)",
+          "Author": "hollowdilnik",
+          "Genre": "Platformer",
+          "Tags": "3D Platformer, Oculus Quest, Surreal, Unreal Engine, Virtual Reality (VR)"
+        }
+      }
+    },
+    {
+      "gameId": 1171964,
+      "gameUrl": "https://enzomannaert.itch.io/oogies-spacepark",
+      "overallRank": 11,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/2021-epic-megajam/rate/1171964",
+        "rating_count": 0,
+        "created_at": "2021-09-02 18:50:23",
+        "id": 251699,
+        "game": {
+          "id": 1171964,
+          "short_text": "Epic MegaJam 2021 Entry (UE4)",
+          "url": "https://enzomannaert.itch.io/oogies-spacepark",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzY5MTYxNTguanBn/300x240%23c/%2BeTMOn.jpg",
+          "title": "Oogies Spacepark",
+          "user": {
+            "id": 2190726,
+            "url": "https://enzomannaert.itch.io",
+            "name": "Enzo Mannaert"
+          },
+          "cover_color": "#000000"
+        },
+        "field_responses": [
+          "14669:Platform1"
+        ],
+        "coolness": 0,
+        "contributors": [
+          {
+            "url": "https://enzomannaert.itch.io",
+            "name": "Enzo Mannaert"
+          },
+          {
+            "url": "https://eezehdev.itch.io",
+            "name": "Wouter De Moor"
+          },
+          {
+            "url": "https://oliverlam2.itch.io",
+            "name": "Oliverlam2"
+          },
+          {
+            "url": "https://headlessart.itch.io",
+            "name": "Antijn van der Gun"
+          },
+          {
+            "url": "https://hary766.itch.io",
+            "name": "Yvette Kooke"
+          }
+        ]
+      },
+      "details": {
+        "title": "Oogies Spacepark",
+        "description": "Team\nProgrammers\nWouter De Moor\nOliver Lambreghts\nEnzo Mannaert\nArtists\nYvette Kooke\nAntijn Van Der Gun\nGame summary\nYou are stuck in an abandoned theme park in the middle of the night, there is no power and no way out. You walk through the park hoping to find a way out, but wait.. you are not alone! An alien mascot is patrolling around the park hungry for human blood, and he has smelled yours. The mascot does not like to be filmed,  luckily you brought your camera with you but you only have one memory card so you'll better use your memory wisely.\n\nControls\n\nWalk around using \"W\" \"A\" \"S\" \"D\"Start recording by holding \"RIGHT MOUS BUTTON\"\nLook around using your mouse\nInteract with items with \"E\"\nTurn your flashlight on/off \"F\"Reload memory card \"R\"",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTE3MTk2NC82OTE2MTk4LnBuZw==/original/P2AqjI.png",
+          "https://img.itch.zone/aW1hZ2UvMTE3MTk2NC82OTE2MjAyLnBuZw==/original/ZJ6W7N.png",
+          "https://img.itch.zone/aW1hZ2UvMTE3MTk2NC82OTE2MjA0LnBuZw==/original/mxwh9J.png",
+          "https://img.itch.zone/aW1hZ2UvMTE3MTk2NC82OTE2MjAzLnBuZw==/original/Jsw2Za.png",
+          "https://img.itch.zone/aW1hZ2UvMTE3MTk2NC82OTAzNzQ4LnBuZw==/original/T9pFI%2F.png",
+          "https://img.itch.zone/aW1hZ2UvMTE3MTk2NC82OTAzODM1LnBuZw==/original/HSYKE5.png",
+          "https://img.itch.zone/aW1hZ2UvMTE3MTk2NC82OTAzODM2LnBuZw==/original/1axqTj.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 3.0 out of 5 stars(1 total ratings)",
+          "Authors": "Enzo Mannaert, Wouter De Moor, Oliverlam2, Antijn van der Gun, Yvette Kooke",
+          "Tags": "Horror, Non violent, Scary, Unreal Engine"
+        }
+      }
+    },
+    {
+      "gameId": 1182934,
+      "gameUrl": "https://vaerys.itch.io/the-rat-way-home",
+      "overallRank": 12,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/2021-epic-megajam/rate/1182934",
+        "created_at": "2021-09-01 19:37:30",
+        "id": 250952,
+        "game": {
+          "id": 1182934,
+          "short_text": "Follow the story of an old man struggling with hoarding  through the eyes of a rat trying to keep its baby safe",
+          "url": "https://vaerys.itch.io/the-rat-way-home",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzY4OTM4MTUucG5n/300x240%23c/s%2Bozhh.png",
+          "title": "The Rat Way Home",
+          "user": {
+            "id": 4750451,
+            "url": "https://vaerys.itch.io",
+            "name": "Vaerys"
+          },
+          "cover_color": "#18181a"
+        },
+        "field_responses": [
+          "14669:Platform1"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "The Rat Way Home",
+        "description": "\n\n\nFollow the tragic story of an old man as he struggles to keep his fading memories, running out of space within his own mind. Play through the consequences of his illness by traversing his hoarded house, making your way through the many dangers it contains. You play as a rat mom in search of food and a safe haven for your child, traveling through a house that has quite literally ran out of space.\n\nThe way we thought of running out of space is threefold:\n1. The old man is running out of space for memory, he is sick with dementia and struggles with it.\n\n2. The old man is hoarding due to his dementia, cluttering up the space in the apartment.\n\n3. The rat is running out of space to move, as obstacles are closing in.\n\n \"The Rat Way Home\" is a Game Jam submission built in Unreal Engine 4 for the Epic MegaJam 2021 contest. It was built by a group of 3 friends, and it's a story of adventure and heartbreak, but also one of hope and family. We have an immense passion for games, and we poured our hearts into the vision of \"The Rat Way Home\". Hope you enjoy the journey!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTE4MjkzNC82OTA1OTY0LnBuZw==/original/lRDwBU.png",
+          "https://img.itch.zone/aW1hZ2UvMTE4MjkzNC82ODkzNzk2LmpwZw==/original/OiKONc.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTE4MjkzNC82ODk0MTA1LmpwZw==/original/xIymUL.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTE4MjkzNC82ODk0MTEyLmpwZw==/original/qFKg4P.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTE4MjkzNC82ODkzNzk1LmpwZw==/original/CMm0hp.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTE4MjkzNC82ODk0MTA4LmpwZw==/original/E85aQU.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Vaerys",
+          "Genre": "Puzzle",
+          "Made with": "Unreal Engine",
+          "Tags": "3D, PuzzleScript, Top-Down, Top Down Adventure, Unreal Engine",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 1184398,
+      "gameUrl": "https://tobiasrusjan.itch.io/out-of-bounds",
+      "overallRank": 13,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/2021-epic-megajam/rate/1184398",
+        "created_at": "2021-09-02 18:53:50",
+        "id": 251728,
+        "game": {
+          "id": 1184398,
+          "short_text": "Funny action puzzle shooter",
+          "url": "https://tobiasrusjan.itch.io/out-of-bounds",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzY5MTM0NDAuanBn/300x240%23c/hSI6P8.jpg",
+          "title": "Out of Bounds",
+          "user": {
+            "id": 4807247,
+            "url": "https://tobiasrusjan.itch.io",
+            "name": "TobiasRusjan"
+          },
+          "cover_color": "#253144"
+        },
+        "field_responses": [
+          "14669:Platform1"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Out of Bounds",
+        "description": "Out of Bounds is a first person shooter platformer. Try to package your own game by finding and compiling blueprints, meshes, textures and sound effects. But watch out for the bugs!\nThe entire game was created by solo developer Tobias Rusjan during a 7 days period of the Epic Megajam 2021 \"Running out of space\". Only the music played in the game was outsourced, the song and artist are listed below:\nErdfall by Kraftamt:  http://dig.ccmixter.org/files/Karstenholymoly/61277",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTE4NDM5OC82OTEzMzE5LnBuZw==/original/I5uKL3.png",
+          "https://img.itch.zone/aW1hZ2UvMTE4NDM5OC82OTEzMzE1LnBuZw==/original/XBoFO5.png",
+          "https://img.itch.zone/aW1hZ2UvMTE4NDM5OC82OTEzMzE4LnBuZw==/original/Yqb5E1.png",
+          "https://img.itch.zone/aW1hZ2UvMTE4NDM5OC82OTEzMzE3LnBuZw==/original/90jkR7.png",
+          "https://img.itch.zone/aW1hZ2UvMTE4NDM5OC82OTEzMzE0LnBuZw==/original/Dam2%2Fl.png",
+          "https://img.itch.zone/aW1hZ2UvMTE4NDM5OC82OTEzMzE2LnBuZw==/original/eqz8yu.png",
+          "https://img.itch.zone/aW1hZ2UvMTE4NDM5OC82OTEzMzIxLnBuZw==/original/Qn5YIA.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.0 out of 5 stars(2 total ratings)",
+          "Author": "TobiasRusjan",
+          "Genre": "Action, Platformer, Puzzle, Shooter",
+          "Tags": "Colorful, FPS, Low-poly, Sci-fi, Short, Unreal Engine"
+        }
+      }
+    },
+    {
+      "gameId": 1184461,
+      "gameUrl": "https://perfoon.itch.io/tiny-container-city",
+      "overallRank": 14,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/2021-epic-megajam/rate/1184461",
+        "created_at": "2021-09-02 18:55:08",
+        "id": 251743,
+        "game": {
+          "short_text": "Build beautiful container cities in the middle of ocean.",
+          "url": "https://perfoon.itch.io/tiny-container-city",
+          "id": 1184461,
+          "cover": "https://img.itch.zone/aW1nLzY5MTA2MTAucG5n/300x240%23c/7mOcCv.png",
+          "title": "Container City",
+          "user": {
+            "id": 295142,
+            "url": "https://perfoon.itch.io",
+            "name": "Perfoon"
+          },
+          "cover_color": "#a8cfff"
+        },
+        "field_responses": [
+          "14669:Platform1"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Container City",
+        "description": "\nBuild eco-friendly habitats on the sea out of containers and solar panels. Welcome to the city of the future!\nThe game has 3 distinct levels:Cairo - the city of pyramids, is the most beginner-friendly and comes with an interactive tutorial.Paris - the city of love, has a strange foundation shape that encourages organic buildings.New York - the city of opportunities, has a really tiny foundation, that provides quite a lot of challenges.Building Blocks:\n1. Containers - main building blocks of any city. Use Q and E to rotate and lock them securely. One container fits 4 people.2. Solar Panel - containers alone are inhabitable. Attach solar panels to provide a cosy living space.3. Cables - are versatile tools, they can connect multiple containers and share energy between them. They can also be secured to the platform providing more stability to tall structures.4. Buoys - initially the foundation is stable enough to support many containers. But it becomes unstable once the mass gets too high. Add Buoys to lift more weight and avoid dipping.Enjoy the relaxing view and gameplay!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTE4NDQ2MS82OTA0ODkxLnBuZw==/original/wccjEO.png",
+          "https://img.itch.zone/aW1hZ2UvMTE4NDQ2MS82OTA0ODk0LnBuZw==/original/79sJqw.png",
+          "https://img.itch.zone/aW1hZ2UvMTE4NDQ2MS82OTA0OTE0LnBuZw==/original/jJXy0k.png",
+          "https://img.itch.zone/aW1hZ2UvMTE4NDQ2MS82OTA1MTc3LnBuZw==/original/geiUOy.png",
+          "https://img.itch.zone/aW1hZ2UvMTE4NDQ2MS82OTA0OTI0LnBuZw==/original/Csak%2B9.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Author": "Perfoon",
+          "Genre": "Simulation, Puzzle",
+          "Tags": "City Builder"
+        }
+      }
+    },
+    {
+      "gameId": 1180424,
+      "gameUrl": "https://hanymalek3d.itch.io/disk-manager",
+      "overallRank": 15,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/2021-epic-megajam/rate/1180424",
+        "created_at": "2021-08-30 23:44:19",
+        "id": 249973,
+        "game": {
+          "short_text": "Take the role of a floppy disk drive",
+          "url": "https://hanymalek3d.itch.io/disk-manager",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzY4NzYwMDcuanBn/300x240%23c/%2BCbQTH.jpg",
+          "title": "Disk Manager",
+          "user": {
+            "id": 4825369,
+            "url": "https://hanymalek3d.itch.io",
+            "name": "hanymalek3d"
+          },
+          "id": 1180424
+        },
+        "field_responses": [
+          "14669:Platform1"
+        ],
+        "coolness": 0,
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Disk Manager",
+        "description": "You play as a floppy disk drive.\nThe goal is to get as many files on disk as possible before running out of space, while avoiding bad sectors.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTE4MDQyNC82ODc2MTM5LmpwZw==/original/pVWZh9.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTE4MDQyNC82ODc2MTQwLmpwZw==/original/M%2F69fF.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTE4MDQyNC82ODc2MTQxLmpwZw==/original/6bpI7L.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTE4MDQyNC82ODc2MjI5LmpwZw==/original/ojcQds.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "hanymalek3d",
+          "Genre": "Puzzle",
+          "Tags": "Retro, Singleplayer, Tileset"
+        }
+      }
+    }
+  ]
+}

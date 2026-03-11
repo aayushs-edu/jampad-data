@@ -1,0 +1,2235 @@
+{
+  "n": 58,
+  "name": "Kenney Jam 2021",
+  "url": "https://itch.io/jam/kenney-jam-2021",
+  "theme": "Rotation",
+  "slug": "kenney-jam-2021",
+  "jamMeta": {
+    "jamType": "ended",
+    "ratings": "5,950",
+    "entries": "356",
+    "title": "Kenney Jam 2021",
+    "jamURL": "https://itch.io/jam/kenney-jam-2021",
+    "hosts": {
+      "Kenney": "https://kenney.itch.io",
+      "#kenneyjam": "https://bsky.app/hashtag/kenneyjam"
+    },
+    "jamID": "309353"
+  },
+  "totalEntries": 348,
+  "ranked": true,
+  "hasCategories": true,
+  "needsManualSelection": false,
+  "categories": [
+    "Concept (gameplay)",
+    "Presentation (visuals)",
+    "Theme"
+  ],
+  "topGames": [
+    {
+      "gameId": 1166967,
+      "gameUrl": "https://ural89.itch.io/rotorope",
+      "overallRank": 12,
+      "topCategories": [
+        "Concept (gameplay)",
+        "Theme"
+      ],
+      "resultData": {
+        "id": 1166967,
+        "contributors": [
+          {
+            "name": "ural89",
+            "id": 1875393
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzY4MDA2MzkucG5n/300x240%23c/xBEyRM.png",
+        "title": "RotoRope",
+        "score": 4.2190476190476,
+        "rank": 12,
+        "raw_score": 4.2190476190476,
+        "rating_count": 35,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "score": 4.5142857142857,
+            "rank": 1,
+            "raw_score": 4.5142857142857
+          },
+          {
+            "name": "Presentation (visuals)",
+            "score": 3.5714285714286,
+            "rank": 106,
+            "raw_score": 3.5714285714286
+          },
+          {
+            "name": "Theme",
+            "score": 4.5714285714286,
+            "rank": 4,
+            "raw_score": 4.5714285714286
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2021/rate/1166967"
+      },
+      "entryData": {
+        "coolness": 22,
+        "rating_count": 35,
+        "created_at": "2021-08-22 14:21:03",
+        "id": 245701,
+        "game": {
+          "short_text": "A game for Kenney's game jam 2021",
+          "cover": "https://img.itch.zone/aW1nLzY4MDA2MzkucG5n/300x240%23c/xBEyRM.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 1166967,
+          "cover_color": "#0484d1",
+          "user": {
+            "name": "ural89",
+            "url": "https://ural89.itch.io",
+            "id": 1875393
+          },
+          "url": "https://ural89.itch.io/rotorope",
+          "title": "RotoRope"
+        },
+        "url": "/jam/kenney-jam-2021/rate/1166967"
+      },
+      "details": {
+        "title": "RotoRope",
+        "description": "Controls: Only use mouse. Press and hold mouse click to use the rope. Roll the mouse around the ball to roll the rope (do not release button while doing this).  R to restart.\nYour goal is to go to the doors to advance next level.\nTheme: Rotation\nAssets: Kenney's assets.\nGame design & SFX & programming: ural89\nMusic: Parker Walker\nRotoRope is a game for Kenney's Game Jam 2021. ",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzY4MDA2MzkucG5n/original/pvDStt.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.6 out of 5 stars(5 total ratings)",
+          "Author": "ural89",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "2D, Brain Training, Cute, minigames, Minimalist, Mouse only, rope, Short, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 1167955,
+      "gameUrl": "https://leonardokelvin.itch.io/isle-of-treasure",
+      "overallRank": 3,
+      "topCategories": [
+        "Concept (gameplay)",
+        "Presentation (visuals)"
+      ],
+      "resultData": {
+        "id": 1167955,
+        "contributors": [
+          {
+            "name": "Leonardo Kelvin",
+            "id": 979619
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzY3OTY0OTAuanBn/300x240%23c/1vtAvZ.jpg",
+        "title": "Isle of treasure",
+        "score": 4.358024691358,
+        "rank": 3,
+        "raw_score": 4.358024691358,
+        "rating_count": 27,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "score": 4.3333333333333,
+            "rank": 2,
+            "raw_score": 4.3333333333333
+          },
+          {
+            "name": "Presentation (visuals)",
+            "score": 4.5185185185185,
+            "rank": 6,
+            "raw_score": 4.5185185185185
+          },
+          {
+            "name": "Theme",
+            "score": 4.2222222222222,
+            "rank": 38,
+            "raw_score": 4.2222222222222
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2021/rate/1167955"
+      },
+      "entryData": {
+        "coolness": 0,
+        "rating_count": 27,
+        "created_at": "2021-08-22 04:19:12",
+        "id": 245382,
+        "game": {
+          "short_text": "Game developed for Kenney Game Jam",
+          "cover": "https://img.itch.zone/aW1nLzY3OTY0OTAuanBn/300x240%23c/1vtAvZ.jpg",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 1167955,
+          "cover_color": "#75c3c8",
+          "user": {
+            "name": "Leonardo Kelvin",
+            "url": "https://leonardokelvin.itch.io",
+            "id": 979619
+          },
+          "url": "https://leonardokelvin.itch.io/isle-of-treasure",
+          "title": "Isle of treasure"
+        },
+        "url": "/jam/kenney-jam-2021/rate/1167955"
+      },
+      "details": {
+        "title": "Isle of treasure",
+        "description": "3D game developed for Kenney Game Jam.\n\nTheme: Rotation\n\nThe game is a plataform and adventure game and you need to use the arrows of keyboard to rotate the camera and see other parts of scenario to solve the puzzles.\n\n\n\n\n\n\n\n\n\nDevelopers:\nLeonardo Kelvin: Game and Level Design\nLucas Rocha: Code\nMarcos Yokota: Environment",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTE2Nzk1NS82Nzk2MzgyLnBuZw==/original/HwVxXx.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2Nzk1NS82Nzk2MzgzLnBuZw==/original/QdYMrJ.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2Nzk1NS82Nzk2MzgxLnBuZw==/original/woj38O.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2Nzk1NS82Nzk2Mzg0LnBuZw==/original/TP41SC.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2Nzk1NS82Nzk2Mzg1LnBuZw==/original/pF4dTf.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2Nzk1NS82Nzk2Mzg2LnBuZw==/original/wb8whX.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows",
+          "Author": "Leonardo Kelvin",
+          "Genre": "Adventure, Platformer",
+          "Made with": "Unity",
+          "Tags": "3D, Game Jam, kenney-game-jam, Low-poly, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 1168702,
+      "gameUrl": "https://akaruidev.itch.io/the-box",
+      "overallRank": 40,
+      "topCategories": [
+        "Concept (gameplay)"
+      ],
+      "resultData": {
+        "id": 1168702,
+        "contributors": [
+          {
+            "name": "Akarui",
+            "id": 4660969
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzY4MDEwMTIucG5n/300x240%23c/%2B7SQZI.png",
+        "title": "The Box",
+        "score": 3.9773018544174,
+        "rank": 40,
+        "raw_score": 4.5925925925926,
+        "rating_count": 9,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "score": 4.3301270189222,
+            "rank": 3,
+            "raw_score": 5
+          },
+          {
+            "name": "Presentation (visuals)",
+            "score": 3.3678765702728,
+            "rank": 141,
+            "raw_score": 3.8888888888889
+          },
+          {
+            "name": "Theme",
+            "score": 4.2339019740573,
+            "rank": 35,
+            "raw_score": 4.8888888888889
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2021/rate/1168702"
+      },
+      "entryData": {
+        "coolness": 0,
+        "rating_count": 9,
+        "created_at": "2021-08-22 14:56:51",
+        "id": 245829,
+        "game": {
+          "short_text": "Escape the box by traversing the walls and changing the worlds rotation",
+          "cover": "https://img.itch.zone/aW1nLzY4MDEwMTIucG5n/300x240%23c/%2B7SQZI.png",
+          "id": 1168702,
+          "cover_color": "#eeeeee",
+          "user": {
+            "name": "Akarui",
+            "url": "https://akaruidev.itch.io",
+            "id": 4660969
+          },
+          "url": "https://akaruidev.itch.io/the-box",
+          "title": "The Box"
+        },
+        "url": "/jam/kenney-jam-2021/rate/1168702"
+      },
+      "details": {
+        "title": "The Box",
+        "description": "Escape the box by traversing the walls and changing the worlds rotationMy first ever submission for a game jam, and was done in less than 48 hours!\nControls:\nWASD to moveLeft click to pick up cubes\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTE2ODcwMi82ODUzODg4LnBuZw==/original/V7tUNH.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2ODcwMi82ODUzODg5LnBuZw==/original/kZHXHQ.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2ODcwMi82ODUzODkyLnBuZw==/original/YyUqfq.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Author": "Akarui",
+          "Genre": "Puzzle"
+        }
+      }
+    },
+    {
+      "gameId": 1167441,
+      "gameUrl": "https://woum.itch.io/orbital-defense",
+      "overallRank": 6,
+      "topCategories": [
+        "Concept (gameplay)",
+        "Theme"
+      ],
+      "resultData": {
+        "id": 1167441,
+        "contributors": [
+          {
+            "name": "Woum",
+            "id": 1090878
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzY4MDAwMTUucG5n/300x240%23c/vcKkKA.png",
+        "title": "Orbital Defense",
+        "score": 4.3055555555556,
+        "rank": 6,
+        "raw_score": 4.3055555555556,
+        "rating_count": 36,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "score": 4.3055555555556,
+            "rank": 4,
+            "raw_score": 4.3055555555556
+          },
+          {
+            "name": "Presentation (visuals)",
+            "score": 3.9722222222222,
+            "rank": 51,
+            "raw_score": 3.9722222222222
+          },
+          {
+            "name": "Theme",
+            "score": 4.6388888888889,
+            "rank": 1,
+            "raw_score": 4.6388888888889
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2021/rate/1167441"
+      },
+      "entryData": {
+        "coolness": 58,
+        "rating_count": 36,
+        "created_at": "2021-08-22 13:59:17",
+        "id": 245655,
+        "game": {
+          "short_text": "Fight the waves of ennemies coming at you. Your only weapon, you orbiting bullets.",
+          "cover": "https://img.itch.zone/aW1nLzY4MDAwMTUucG5n/300x240%23c/vcKkKA.png",
+          "id": 1167441,
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Woum",
+            "url": "https://woum.itch.io",
+            "id": 1090878
+          },
+          "url": "https://woum.itch.io/orbital-defense",
+          "title": "Orbital Defense"
+        },
+        "url": "/jam/kenney-jam-2021/rate/1167441"
+      },
+      "details": {
+        "title": "Orbital Defense",
+        "description": "Fight the waves of ennemies coming at you. Your only weapon, you bullets that you can control only by orbiting them around. After each wave you gain a power up.\nMove your bullet :\nright/left arrow\na/d for qwerty\nq/d for azerty\nspace for special\np for pause\n\nLast boss is a bit visually bugged, the orbiting ennemies disappear after a while, you can still kill him.\nHe's a bit long to kill too ^^.\nThanks for playing!\n\nCreditsSprites, Sounds & Fonts by Kenney\nMusic by Wavecont, https://www.wavecont.com/free-download\nVideo Link: https://youtu.be/GCCgkgKvgXg\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTE2NzQ0MS82ODAwNDc0LnBuZw==/original/DhogCV.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2NzQ0MS82ODAwNDc1LnBuZw==/original/kszpmv.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2NzQ0MS82ODAwNDc2LnBuZw==/original/rpGGjS.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(3 total ratings)",
+          "Author": "Woum",
+          "Genre": "Action",
+          "Made with": "Unity"
+        }
+      }
+    },
+    {
+      "gameId": 1167780,
+      "gameUrl": "https://nszym.itch.io/stranded",
+      "overallRank": 9,
+      "topCategories": [
+        "Concept (gameplay)",
+        "Theme"
+      ],
+      "resultData": {
+        "id": 1167780,
+        "contributors": [
+          {
+            "name": "Szym",
+            "id": 4505973
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzY3OTk2ODguZ2lm/300x240%23c/mgkAoC.gif",
+        "title": "Stranded",
+        "score": 4.2543859649123,
+        "rank": 9,
+        "raw_score": 4.2543859649123,
+        "rating_count": 38,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "score": 4.2894736842105,
+            "rank": 5,
+            "raw_score": 4.2894736842105
+          },
+          {
+            "name": "Presentation (visuals)",
+            "score": 3.8684210526316,
+            "rank": 67,
+            "raw_score": 3.8684210526316
+          },
+          {
+            "name": "Theme",
+            "score": 4.6052631578947,
+            "rank": 3,
+            "raw_score": 4.6052631578947
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2021/rate/1167780"
+      },
+      "entryData": {
+        "coolness": 80,
+        "rating_count": 38,
+        "created_at": "2021-08-22 12:01:35",
+        "id": 245536,
+        "game": {
+          "short_text": "Use your damaged ship to kill as many enemies as you can.",
+          "id": 1167780,
+          "user": {
+            "name": "Szym",
+            "url": "https://nszym.itch.io",
+            "id": 4505973
+          },
+          "url": "https://nszym.itch.io/stranded",
+          "cover": "https://img.itch.zone/aW1nLzY3OTk2ODguZ2lm/300x240%23c/mgkAoC.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzY3OTk2ODguZ2lm/original/%2FM2DUA.gif",
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#292D34",
+          "title": "Stranded"
+        },
+        "url": "/jam/kenney-jam-2021/rate/1167780"
+      },
+      "details": {
+        "title": "Stranded",
+        "description": "This game was made in 48h for the Kenney Game Jam 2021 with the theme \"Rotation\" using only Kenney's visual assets.\n\nThis is the end...\nYour whole squad is dead.\nYour left thruster is busted, sending you spinning endlessly, in the cold darkness of space.\nThe Imperial fleet is closing up on you to finish the job; and your blasters are offline...\nBut you won't go quietly...\nYour tractor beam is still operational. It is too weak to affect their ships, but you're in the middle of an asteroid field.\nYou will smash as many of their ships as you can ! They will follow you in death !\nFOR THE REPUBLIC !\n\n\n\n\n\n\n\nSprites, Sounds & Fonts by Kenney\nMusics : \n\"Tyrant\" by Kevin MacLeod\n\"Beauty Flow\" by Kevin MacLeod",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzY3OTk2ODguZ2lm/original/%2FM2DUA.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Szym",
+          "Genre": "Action",
+          "Made with": "Unity",
+          "Tags": "2D, Arcade, lone-survivor, Sci-fi, Short, Singleplayer, Space, Top down shooter, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 1167183,
+      "gameUrl": "https://am1tanaka.itch.io/wall-walker",
+      "overallRank": 5,
+      "topCategories": [
+        "Concept (gameplay)",
+        "Theme"
+      ],
+      "resultData": {
+        "id": 1167183,
+        "contributors": [
+          {
+            "name": "たなかゆう-TANAKA Yu-",
+            "id": 625113
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzY3OTg5MDYucG5n/300x240%23c/kN2zdi.png",
+        "title": "Wall Walker",
+        "score": 4.3333333333333,
+        "rank": 5,
+        "raw_score": 4.3333333333333,
+        "rating_count": 21,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "score": 4.2857142857143,
+            "rank": 6,
+            "raw_score": 4.2857142857143
+          },
+          {
+            "name": "Presentation (visuals)",
+            "score": 4.2857142857143,
+            "rank": 17,
+            "raw_score": 4.2857142857143
+          },
+          {
+            "name": "Theme",
+            "score": 4.4285714285714,
+            "rank": 9,
+            "raw_score": 4.4285714285714
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2021/rate/1167183"
+      },
+      "entryData": {
+        "coolness": 15,
+        "rating_count": 21,
+        "created_at": "2021-08-22 13:02:15",
+        "id": 245596,
+        "game": {
+          "short_text": "Walk and Rotation!!",
+          "cover": "https://img.itch.zone/aW1nLzY3OTg5MDYucG5n/300x240%23c/kN2zdi.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 1167183,
+          "cover_color": "#252525",
+          "user": {
+            "name": "たなかゆう-TANAKA Yu-",
+            "url": "https://am1tanaka.itch.io",
+            "id": 625113
+          },
+          "url": "https://am1tanaka.itch.io/wall-walker",
+          "title": "Wall Walker"
+        },
+        "url": "/jam/kenney-jam-2021/rate/1167183"
+      },
+      "details": {
+        "title": "Wall Walker",
+        "description": "This game was created for Kenney Game Jam 2021. All assets are from kenney.nl!!\nHow to play\nWalk to left  : Left arrow key or [A] keyWalk to right : Right arrow key or [D] keyRetry stage : [R] key\nWhen you walk towards a wall or a cliff, the world spins and becomes the ground there.\nGet the key and open the door.\nBlocks will fall in the direction of gravity.\nBe careful not to get stuck in the spikes or get crushed by the blocks.\nGood luck!!\nVer0.8.1(31 Aug 2021) Fixed the problem of not rotating. / Add retry key.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTE2NzE4My82Nzk4OTA1LmdpZg==/original/%2BnMgIf.gif",
+          "https://img.itch.zone/aW1hZ2UvMTE2NzE4My82Nzk4OTgzLnBuZw==/original/1jjnXu.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2NzE4My82ODAwNjY5LnBuZw==/original/y9k2Yh.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.0 out of 5 stars(3 total ratings)",
+          "Author": "たなかゆう-TANAKA Yu-",
+          "Genre": "Puzzle",
+          "Tags": "1-bit, kenneyjam, Puzzle-Platformer"
+        }
+      }
+    },
+    {
+      "gameId": 1168369,
+      "gameUrl": "https://lethian.itch.io/machinery-operator",
+      "overallRank": 18,
+      "topCategories": [
+        "Concept (gameplay)"
+      ],
+      "resultData": {
+        "id": 1168369,
+        "contributors": [
+          {
+            "name": "Lethian",
+            "id": 4304
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzY4MDI1OTIucG5n/300x240%23c/dY0YFa.png",
+        "title": "Wormhole Machinery Operator",
+        "score": 4.1428571428571,
+        "rank": 18,
+        "raw_score": 4.1428571428571,
+        "rating_count": 21,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "score": 4.2857142857143,
+            "rank": 6,
+            "raw_score": 4.2857142857143
+          },
+          {
+            "name": "Presentation (visuals)",
+            "score": 3.8571428571429,
+            "rank": 68,
+            "raw_score": 3.8571428571429
+          },
+          {
+            "name": "Theme",
+            "score": 4.2857142857143,
+            "rank": 25,
+            "raw_score": 4.2857142857143
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2021/rate/1168369"
+      },
+      "entryData": {
+        "coolness": 16,
+        "rating_count": 21,
+        "created_at": "2021-08-22 14:54:30",
+        "id": 245808,
+        "game": {
+          "short_text": "Operate wormhole machinery to prevent enemies entering the portal",
+          "cover": "https://img.itch.zone/aW1nLzY4MDI1OTIucG5n/300x240%23c/dY0YFa.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 1168369,
+          "cover_color": "#a58989",
+          "user": {
+            "name": "Lethian",
+            "url": "https://lethian.itch.io",
+            "id": 4304
+          },
+          "url": "https://lethian.itch.io/machinery-operator",
+          "title": "Wormhole Machinery Operator"
+        },
+        "url": "/jam/kenney-jam-2021/rate/1168369"
+      },
+      "details": {
+        "title": "Wormhole Machinery Operator",
+        "description": "Welcome, Operator #008\nYour mission is to operate wormhole machinery to prevent spies (yellow aliens) from entering the teleport, but also keep the new employees alive (teal/green aliens). To play you only need a mouse (or finger and a touch device) - try to rotate the highlighted gears to manage the gates and platforms.\nEarly game prototype made in ~24hrs, thus the game consists only of four playable levels. If you encounter any game breaking bugs, please let me know.\nGame made for Kenney Jam 2021 - Rotation -https://itch.io/jam/kenney-jam-2021\nCredits:Programming - Konrad Nowakowski (me)Graphics and Sound Effects - KenneyMusic - Children's March Theme by Cleyton Kauffman\nThanks for checking my game!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTE2ODM2OS82ODAwOTQwLnBuZw==/original/g8%2B2cv.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2ODM2OS82ODAwOTQxLnBuZw==/original/GYkNvt.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2ODM2OS82ODAwOTQ0LnBuZw==/original/9PAjJr.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 2.0 out of 5 stars(1 total ratings)",
+          "Author": "Lethian",
+          "Genre": "Puzzle",
+          "Made with": "Aseprite, Godot, GIMP, Audacity",
+          "Tags": "2D, Funny, Short, Singleplayer",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Mouse, Touchscreen"
+        }
+      }
+    },
+    {
+      "gameId": 1168274,
+      "gameUrl": "https://leo102.itch.io/asteroidattack",
+      "overallRank": 8,
+      "topCategories": [
+        "Concept (gameplay)"
+      ],
+      "resultData": {
+        "id": 1168274,
+        "contributors": [
+          {
+            "name": "leo102",
+            "id": 3359999
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzExMTY2MDE0LnBuZw==/300x240%23c/bXS%2FPH.png",
+        "title": "AsteroidAttack!",
+        "score": 4.280701754386,
+        "rank": 8,
+        "raw_score": 4.280701754386,
+        "rating_count": 19,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "score": 4.2631578947368,
+            "rank": 8,
+            "raw_score": 4.2631578947368
+          },
+          {
+            "name": "Presentation (visuals)",
+            "score": 4.3684210526316,
+            "rank": 14,
+            "raw_score": 4.3684210526316
+          },
+          {
+            "name": "Theme",
+            "score": 4.2105263157895,
+            "rank": 40,
+            "raw_score": 4.2105263157895
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2021/rate/1168274"
+      },
+      "entryData": {
+        "coolness": 23,
+        "rating_count": 19,
+        "created_at": "2021-08-22 11:00:17",
+        "id": 245500,
+        "game": {
+          "short_text": "survive and get the best record destroying asteroids",
+          "cover": "https://img.itch.zone/aW1nLzExMTY2MDE0LnBuZw==/300x240%23c/bXS%2FPH.png",
+          "platforms": [
+            "windows",
+            "linux",
+            "web"
+          ],
+          "id": 1168274,
+          "cover_color": "#0c121b",
+          "user": {
+            "name": "leo102",
+            "url": "https://leo102.itch.io",
+            "id": 3359999
+          },
+          "url": "https://leo102.itch.io/asteroidattack",
+          "title": "AsteroidAttack!"
+        },
+        "url": "/jam/kenney-jam-2021/rate/1168274"
+      },
+      "details": {
+        "title": "AsteroidAttack!",
+        "description": "Destroy asteroids and enemies and survive to get the best record, but good luck, the things will go harder and harder\n\n#KeneyJam2021 version: #KenneyJam2021 - AsteroidAttack!\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzExMTY2MDE0LnBuZw==/original/yevRAJ.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, Linux",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "leo102",
+          "Genre": "Shooter",
+          "Made with": "Godot, GIMP",
+          "Tags": "Arcade, Asteroids, kenneyjam, kenneyjam2021, Singleplayer, Space, space-shooter, survive, Top-Down",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 1166418,
+      "gameUrl": "https://thejaspel.itch.io/oops-no-brakes",
+      "overallRank": 43,
+      "topCategories": [
+        "Concept (gameplay)"
+      ],
+      "resultData": {
+        "id": 1166418,
+        "contributors": [
+          {
+            "name": "Thejaspel",
+            "id": 3057125
+          },
+          {
+            "name": "Zachary Pinkham",
+            "id": 2583370
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzY4OTAzMDUuZ2lm/300x240%23c/bNj47J.gif",
+        "title": "Oops! No Brakes",
+        "score": 3.959595959596,
+        "rank": 43,
+        "raw_score": 3.959595959596,
+        "rating_count": 66,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "score": 4.2272727272727,
+            "rank": 9,
+            "raw_score": 4.2272727272727
+          },
+          {
+            "name": "Presentation (visuals)",
+            "score": 4.1818181818182,
+            "rank": 24,
+            "raw_score": 4.1818181818182
+          },
+          {
+            "name": "Theme",
+            "score": 3.469696969697,
+            "rank": 157,
+            "raw_score": 3.469696969697
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2021/rate/1166418"
+      },
+      "entryData": {
+        "coolness": 6,
+        "rating_count": 66,
+        "created_at": "2021-08-22 14:54:46",
+        "id": 245813,
+        "contributors": [
+          {
+            "name": "Thejaspel",
+            "url": "https://thejaspel.itch.io"
+          },
+          {
+            "name": "Zachary Pinkham",
+            "url": "https://zacharypinkham.itch.io"
+          }
+        ],
+        "url": "/jam/kenney-jam-2021/rate/1166418",
+        "game": {
+          "short_text": "Now with more levels! More cars! And even fewer brakes! Oops!",
+          "id": 1166418,
+          "user": {
+            "name": "Thejaspel",
+            "url": "https://thejaspel.itch.io",
+            "id": 3057125
+          },
+          "url": "https://thejaspel.itch.io/oops-no-brakes",
+          "cover": "https://img.itch.zone/aW1nLzY4OTAzMDUuZ2lm/300x240%23c/bNj47J.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzY4OTAzMDUuZ2lm/original/jLndx6.gif",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#000000",
+          "title": "Oops! No Brakes"
+        }
+      },
+      "details": {
+        "title": "Oops! No Brakes",
+        "description": "Oops! No Brakes \n More Oops! Update \n\n\n\n\nOops! No Brakes is a non-stop racing obstacle course! Get to the flag at the end of each level! Sounds easy, but these cars don't have brakes! Collect coins and go for the fastest time you can manage! No brakes? No problem!\n\nThe More Oops! Update includes two new environments including the \"Gloopy Grotto\" and the \"Spicy Shore\"! You can skip to any environment from the beginning. There's also two new cars, a new soundtrack, numerous bug-fixes, and all the non-stop driving you can handle!\n\nControls:\n  Mouse - Rotate the car \n R - Retry the level  \nNew Mobile Port!\nWant to barrel into the sea or defy death over lava from anywhere? Oops! No Brakes! is now available to download from the Google Play store for FREE! Download it here:\n\n\nProgramming and Design by TheJaspel (https://twitter.com/thejaspel1)\nMusic by Zachary Pinkham (https://soundcloud.com/zachary-pinkham)\nOriginally made for the Kenney Jam 2021 - Theme: Rotation",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTE2NjQxOC82ODkwMjQ4LmdpZg==/original/wIYTkZ.gif",
+          "https://img.itch.zone/aW1hZ2UvMTE2NjQxOC82ODgxODU4LnBuZw==/original/ZNBhc7.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2NjQxOC82ODgxODYwLnBuZw==/original/UrfYCz.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2NjQxOC82ODAwMzQzLnBuZw==/original/eOTDrt.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2NjQxOC82ODAwMzUwLnBuZw==/original/KdbaXC.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2NjQxOC82ODgxODczLnBuZw==/original/LktuIB.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2NjQxOC82ODgxODU5LnBuZw==/original/AKL%2BZo.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2NjQxOC82ODAwMzQ4LnBuZw==/original/w2uwKi.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2NjQxOC82ODAwMzUzLnBuZw==/original/%2FtJmRu.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.5 out of 5 stars(40 total ratings)",
+          "Authors": "Thejaspel, Zachary Pinkham",
+          "Genre": "Action, Platformer, Racing",
+          "Made with": "Unity",
+          "Tags": "3D, 3D Platformer, Colorful, Driving, intense, Low-poly, Mouse only, Physics",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Mouse, Touchscreen",
+          "Accessibility": "Color-blind friendly, High-contrast"
+        }
+      }
+    },
+    {
+      "gameId": 1167065,
+      "gameUrl": "https://aidinz.itch.io/warmachine",
+      "overallRank": 21,
+      "topCategories": [
+        "Concept (gameplay)"
+      ],
+      "resultData": {
+        "id": 1167065,
+        "contributors": [
+          {
+            "name": "Shotgun Surgeons",
+            "id": 2140
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzE1NjA0OTY1LmdpZg==/300x240%23c/fvguno.gif",
+        "title": "WARMACHINE",
+        "score": 4.1296296296296,
+        "rank": 21,
+        "raw_score": 4.1296296296296,
+        "rating_count": 18,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "score": 4.2222222222222,
+            "rank": 10,
+            "raw_score": 4.2222222222222
+          },
+          {
+            "name": "Presentation (visuals)",
+            "score": 3.9444444444444,
+            "rank": 57,
+            "raw_score": 3.9444444444444
+          },
+          {
+            "name": "Theme",
+            "score": 4.2222222222222,
+            "rank": 38,
+            "raw_score": 4.2222222222222
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2021/rate/1167065"
+      },
+      "entryData": {
+        "coolness": 0,
+        "rating_count": 18,
+        "created_at": "2021-08-22 13:20:22",
+        "id": 245617,
+        "game": {
+          "gif_cover": "https://img.itch.zone/aW1nLzE1NjA0OTY1LmdpZg==/original/vnaJkj.gif",
+          "cover": "https://img.itch.zone/aW1nLzE1NjA0OTY1LmdpZg==/300x240%23c/fvguno.gif",
+          "cover_color": "#000000",
+          "id": 1167065,
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Shotgun Surgeons",
+            "url": "https://aidinz.itch.io",
+            "id": 2140
+          },
+          "url": "https://aidinz.itch.io/warmachine",
+          "title": "WARMACHINE"
+        },
+        "url": "/jam/kenney-jam-2021/rate/1167065"
+      },
+      "details": {
+        "title": "WARMACHINE",
+        "description": "Gather gun modules and create the ultimate WARMACHINE!\nKeys: Arrow keys + Z OR WASD + L",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTE2NzA2NS82ODAwNTEyLmpwZw==/original/jbJA9b.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTE2NzA2NS82ODAwNTE0LmpwZw==/original/uBFfq%2F.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTE2NzA2NS82ODAwNTE1LmpwZw==/original/Pj3Z0L.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTE2NzA2NS82ODAwNTE2LmpwZw==/original/H0dUSc.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 3.5 out of 5 stars(2 total ratings)",
+          "Author": "Shotgun Surgeons",
+          "Genre": "Action",
+          "Made with": "Unity",
+          "Tags": "2D, Arcade, Bullet Hell, Casual, Fast-Paced, Singleplayer, Space, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 1168707,
+      "gameUrl": "https://datablob.itch.io/spaaaace-elevator",
+      "overallRank": 1,
+      "topCategories": [
+        "Presentation (visuals)"
+      ],
+      "resultData": {
+        "id": 1168707,
+        "contributors": [
+          {
+            "name": "datablob",
+            "id": 4637634
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzY4MDE1MjYucG5n/300x240%23c/hY5ngF.png",
+        "title": "Spaaaace Elevator",
+        "score": 4.4038461538462,
+        "rank": 1,
+        "raw_score": 4.4038461538462,
+        "rating_count": 52,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "score": 4.0961538461538,
+            "rank": 17,
+            "raw_score": 4.0961538461538
+          },
+          {
+            "name": "Presentation (visuals)",
+            "score": 4.7307692307692,
+            "rank": 1,
+            "raw_score": 4.7307692307692
+          },
+          {
+            "name": "Theme",
+            "score": 4.3846153846154,
+            "rank": 14,
+            "raw_score": 4.3846153846154
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2021/rate/1168707"
+      },
+      "entryData": {
+        "coolness": 23,
+        "rating_count": 52,
+        "created_at": "2021-08-22 14:53:14",
+        "id": 245796,
+        "game": {
+          "short_text": "Ride the space elevator as far as you can! Use arrow keys or A and D",
+          "cover": "https://img.itch.zone/aW1nLzY4MDE1MjYucG5n/300x240%23c/hY5ngF.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 1168707,
+          "cover_color": "#a91ba3",
+          "user": {
+            "name": "datablob",
+            "url": "https://datablob.itch.io",
+            "id": 4637634
+          },
+          "url": "https://datablob.itch.io/spaaaace-elevator",
+          "title": "Spaaaace Elevator"
+        },
+        "url": "/jam/kenney-jam-2021/rate/1168707"
+      },
+      "details": {
+        "title": "Spaaaace Elevator",
+        "description": "use ARROW KEYS or A and D to control!\nMy first jam game, but also a first for procedural level generation and recycling game objects from a pool to create a resource-light endless runner.Nerdy detail: the center column rotates using a sine function with y-world-axis-driven offsets for the individual pieces.You rotate around the center of the space elevator.Segments are rotated back into view as they fly past you.Enemies and obstacles rotate around the center column.Everything rotates because Spaaaaaaace. ;)\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTE2ODcwNy82ODAxNDEwLnBuZw==/original/%2F0qhVa.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2ODcwNy82ODAxNDExLnBuZw==/original/O6X5D%2F.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2ODcwNy82ODAxNDEyLnBuZw==/original/tno6Qm.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(3 total ratings)",
+          "Author": "datablob",
+          "Genre": "Action",
+          "Made with": "Unity",
+          "Tags": "Endless, Game Jam, kenney, Procedural Generation, Space",
+          "Average session": "A few seconds",
+          "Languages": "English",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": 1168257,
+      "gameUrl": "https://stefan-pijnacker.itch.io/stellar-luminosity",
+      "overallRank": 7,
+      "topCategories": [
+        "Presentation (visuals)"
+      ],
+      "resultData": {
+        "id": 1168257,
+        "contributors": [
+          {
+            "name": "Stefan Pijnacker",
+            "id": 1592386
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzY3OTg2MTIucG5n/300x240%23c/U8TteL.png",
+        "title": "STELLAR LUMINOSITY",
+        "score": 4.2941176470588,
+        "rank": 7,
+        "raw_score": 4.2941176470588,
+        "rating_count": 34,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "score": 3.9117647058824,
+            "rank": 32,
+            "raw_score": 3.9117647058824
+          },
+          {
+            "name": "Presentation (visuals)",
+            "score": 4.6764705882353,
+            "rank": 2,
+            "raw_score": 4.6764705882353
+          },
+          {
+            "name": "Theme",
+            "score": 4.2941176470588,
+            "rank": 24,
+            "raw_score": 4.2941176470588
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2021/rate/1168257"
+      },
+      "entryData": {
+        "coolness": 25,
+        "rating_count": 34,
+        "created_at": "2021-08-22 10:42:19",
+        "id": 245490,
+        "game": {
+          "short_text": "Travel through SPACE by rotating around ORBITS!",
+          "cover": "https://img.itch.zone/aW1nLzY3OTg2MTIucG5n/300x240%23c/U8TteL.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 1168257,
+          "cover_color": "#0c0519",
+          "user": {
+            "name": "Stefan Pijnacker",
+            "url": "https://stefan-pijnacker.itch.io",
+            "id": 1592386
+          },
+          "url": "https://stefan-pijnacker.itch.io/stellar-luminosity",
+          "title": "STELLAR LUMINOSITY"
+        },
+        "url": "/jam/kenney-jam-2021/rate/1168257"
+      },
+      "details": {
+        "title": "STELLAR LUMINOSITY",
+        "description": "About the game:STELLAR LUMINOSITY is a small puzzle game where you BOOST from ORBIT to ORBIT and reach the SPACE STATION. Play through 18 different levels.Each level you've a limited amount of jumps you can make so make sure you timed it right. Try to avoid the dangerous asteroids or to hit nothing at all and fly off in the emptiness of space..THIS GAME WAS MADE IN 48 HOURS DURING THE KENNEY JAM 2021:Kenney Jam 2021",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTE2ODI1Ny82Nzk4NzM0LnBuZw==/original/XXiejK.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2ODI1Ny82Nzk4NzM1LnBuZw==/original/vamKoy.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2ODI1Ny82Nzk4NzM3LnBuZw==/original/jm1Ff%2F.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Stefan Pijnacker",
+          "Genre": "Puzzle",
+          "Tags": "2D, kenney, kenneyjam, kenneyjam2021, Retro, Sci-fi, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 1168368,
+      "gameUrl": "https://duckgoosegames.itch.io/laser-launch",
+      "overallRank": 2,
+      "topCategories": [
+        "Presentation (visuals)"
+      ],
+      "resultData": {
+        "id": 1168368,
+        "contributors": [
+          {
+            "name": "Magpie",
+            "id": 2359222
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzY3OTkwNjkucG5n/300x240%23c/8jnJQC.png",
+        "title": "Laser Launch",
+        "score": 4.3786008230453,
+        "rank": 2,
+        "raw_score": 4.3786008230453,
+        "rating_count": 81,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "score": 4.1975308641975,
+            "rank": 11,
+            "raw_score": 4.1975308641975
+          },
+          {
+            "name": "Presentation (visuals)",
+            "score": 4.6049382716049,
+            "rank": 3,
+            "raw_score": 4.6049382716049
+          },
+          {
+            "name": "Theme",
+            "score": 4.3333333333333,
+            "rank": 18,
+            "raw_score": 4.3333333333333
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2021/rate/1168368"
+      },
+      "entryData": {
+        "coolness": 67,
+        "rating_count": 81,
+        "created_at": "2021-08-22 12:36:14",
+        "id": 245561,
+        "game": {
+          "short_text": "Retarget lasers to escape from Mars!",
+          "cover": "https://img.itch.zone/aW1nLzY3OTkwNjkucG5n/300x240%23c/8jnJQC.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 1168368,
+          "cover_color": "#A17859",
+          "user": {
+            "name": "Magpie",
+            "url": "https://duckgoosegames.itch.io",
+            "id": 2359222
+          },
+          "url": "https://duckgoosegames.itch.io/laser-launch",
+          "title": "Laser Launch"
+        },
+        "url": "/jam/kenney-jam-2021/rate/1168368"
+      },
+      "details": {
+        "title": "Laser Launch",
+        "description": "\nCreated in 48 hours for Kenney Jam 2021. Theme: Rotation \nResult: 2nd Place!\n(If you're getting audio glitches, try switching to low quality mode, muting the audio or playing the PC build).\n\nRotate the radar dishes to retarget lasers and escape Mars! \n\nHover the mouse over a radar and \n- hold or press left click to turn it anti-clockwise \n- hold or press right click to turn it clockwise.\n\nIf you get stuck, you can press 's' to skip the current level.\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTE2ODM2OC82Nzk4OTU1LnBuZw==/original/e%2FyOIM.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2ODM2OC82Nzk4OTU3LnBuZw==/original/7Qa2Fl.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2ODM2OC82Nzk4OTU2LnBuZw==/original/Y5fz0W.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.6 out of 5 stars(5 total ratings)",
+          "Author": "Magpie",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "3D, Atmospheric, kenney, Low-poly, Space, Top-Down",
+          "Average session": "A few seconds",
+          "Languages": "English",
+          "Inputs": "Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 1168381,
+      "gameUrl": "https://alvinding.itch.io/underworld-test",
+      "overallRank": 61,
+      "topCategories": [
+        "Presentation (visuals)"
+      ],
+      "resultData": {
+        "id": 1168381,
+        "contributors": [
+          {
+            "name": "AlvinDing",
+            "id": 3371418
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzY3OTk3NjEucG5n/300x240%23c/jrpSR3.png",
+        "title": "UnderWorld",
+        "score": 3.85,
+        "rank": 61,
+        "raw_score": 3.85,
+        "rating_count": 20,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "score": 3.4,
+            "rank": 113,
+            "raw_score": 3.4
+          },
+          {
+            "name": "Presentation (visuals)",
+            "score": 4.55,
+            "rank": 4,
+            "raw_score": 4.55
+          },
+          {
+            "name": "Theme",
+            "score": 3.6,
+            "rank": 137,
+            "raw_score": 3.6
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2021/rate/1168381"
+      },
+      "entryData": {
+        "coolness": 18,
+        "rating_count": 20,
+        "created_at": "2021-08-22 14:52:38",
+        "id": 245795,
+        "game": {
+          "short_text": "A mysterious world waiting for Ben to explore...",
+          "cover": "https://img.itch.zone/aW1nLzY3OTk3NjEucG5n/300x240%23c/jrpSR3.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 1168381,
+          "cover_color": "#67c4e9",
+          "user": {
+            "name": "AlvinDing",
+            "url": "https://alvinding.itch.io",
+            "id": 3371418
+          },
+          "url": "https://alvinding.itch.io/underworld-test",
+          "title": "UnderWorld"
+        },
+        "url": "/jam/kenney-jam-2021/rate/1168381"
+      },
+      "details": {
+        "title": "UnderWorld",
+        "description": "Made for Kenney Jam 2021 - Theme \"Rotation\"\n\n\n## Plot\nOne day, Ben is out adventuring the world.....\nHe found his way into a mysterious land.\nA voice echo around him.....\n\"Ben, find the monument\"\n## Gameplay Instruction\n- Remember your path\nMemorize the path shown on the may.\n- Plan your path\nUse mouse left button to click on the tile to plan Ben's next move.\nClick the \"Start Actions\" button when finishing planning.\nRULE: Can only click the adjacent tile and can't click the tile planned.\n- Way Ben go\nSee Ben trace the path you planned for him and found out where it leads him to!\n\n## How to break the game?\nWell, that's easy! We haven't done any much playtesting yet, but this is the only one we've found:\nYou can start the actions without adding any moves, Ben will idle forever..... until you refresh the page.\n\n## Interested in how the game was made?\nYou can clone the repository here: https://github.com/Dusti-Mili/Kenney-Jam-2021\nBut be ready to see tons of last-minute hardcoded scripts!\nThe programmer is certainly not happy and has smashed two of his keyboard already, but hey, it's game jam! \n\n\n\nHope you enjoy \"Underworld\", pleaseleave a comment down below if you enjoyed it. It would mean a lot for us!! : ) \nCheck out other works from the artist -> Battle Bunny - Alvin Ding\nCheck out other works from the programmer -> Norris Wu",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTE2ODM4MS82ODAwNzk5LmdpZg==/original/BIDRIi.gif",
+          "https://img.itch.zone/aW1hZ2UvMTE2ODM4MS82ODAwNjc4LnBuZw==/original/cqNzk9.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2ODM4MS82ODAwNjk4LnBuZw==/original/5pe4vo.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2ODM4MS82ODAwODAxLnBuZw==/original/XHGgig.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "AlvinDing",
+          "Genre": "Puzzle",
+          "Made with": "Unity"
+        }
+      }
+    },
+    {
+      "gameId": 1168133,
+      "gameUrl": "https://tinytreats.itch.io/pancar-kenney-jam-2021",
+      "overallRank": 17,
+      "topCategories": [
+        "Presentation (visuals)"
+      ],
+      "resultData": {
+        "id": 1168133,
+        "contributors": [
+          {
+            "name": "Tiny Treats",
+            "id": 4359058
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzY3OTk4ODMucG5n/300x240%23c/t8KOrb.png",
+        "title": "PANCAR - Kenney Jam 2021",
+        "score": 4.1496598639456,
+        "rank": 17,
+        "raw_score": 4.1496598639456,
+        "rating_count": 49,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "score": 3.7551020408163,
+            "rank": 57,
+            "raw_score": 3.7551020408163
+          },
+          {
+            "name": "Presentation (visuals)",
+            "score": 4.530612244898,
+            "rank": 5,
+            "raw_score": 4.530612244898
+          },
+          {
+            "name": "Theme",
+            "score": 4.1632653061224,
+            "rank": 47,
+            "raw_score": 4.1632653061224
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2021/rate/1168133"
+      },
+      "entryData": {
+        "coolness": 20,
+        "rating_count": 49,
+        "created_at": "2021-08-22 14:23:12",
+        "id": 245706,
+        "game": {
+          "short_text": "PANCAR - Game for the Kenney Jam 2021",
+          "cover": "https://img.itch.zone/aW1nLzY3OTk4ODMucG5n/300x240%23c/t8KOrb.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 1168133,
+          "cover_color": "#faae73",
+          "user": {
+            "name": "Tiny Treats",
+            "url": "https://tinytreats.itch.io",
+            "id": 4359058
+          },
+          "url": "https://tinytreats.itch.io/pancar-kenney-jam-2021",
+          "title": "PANCAR - Kenney Jam 2021"
+        },
+        "url": "/jam/kenney-jam-2021/rate/1168133"
+      },
+      "details": {
+        "title": "PANCAR - Kenney Jam 2021",
+        "description": "Welcome to PANCAR™ the premier breakfast racing league!\nPut your culinary cruising skills to the test and see how many laps you can complete without ruining your breakfast. \nHow to play\nPress the number keys (1, 2, 3, 4) on your keyboard in order, to jump.Time your jump just right to leap over the bacon strips. \nMade in 48 hours by me, for the Kenney Jam 2021. The theme was 'Rotation'.I interpreted 'rotation' as a sequence, you have to 'rotate' through the sequence in order to jump over the bacon and succesfully complete a lap/rotation around the pan.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTE2ODEzMy82ODAwMTM5LnBuZw==/original/LqFr%2Fk.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2ODEzMy82ODAwMTQxLnBuZw==/original/46BUu%2B.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2ODEzMy82ODAwMTQ5LmpwZw==/original/QzWqCz.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTE2ODEzMy82ODAwMTUyLnBuZw==/original/V6kTtt.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.3 out of 5 stars(4 total ratings)",
+          "Author": "Tiny Treats",
+          "Genre": "Rhythm, Racing",
+          "Made with": "Unity",
+          "Tags": "breakfast, kenneyjam2021, Rotation, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 1168417,
+      "gameUrl": "https://texx.itch.io/mister-twister",
+      "overallRank": 13,
+      "topCategories": [
+        "Presentation (visuals)"
+      ],
+      "resultData": {
+        "id": 1168417,
+        "contributors": [
+          {
+            "name": "TeXx",
+            "id": 2125274
+          },
+          {
+            "name": "Sara Lövgren",
+            "id": 3103249
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzY4MDAxNjQucG5n/300x240%23c/OeX149.png",
+        "title": "Mister Twister",
+        "score": 4.2098765432099,
+        "rank": 13,
+        "raw_score": 4.2098765432099,
+        "rating_count": 27,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "score": 3.8518518518519,
+            "rank": 42,
+            "raw_score": 3.8518518518519
+          },
+          {
+            "name": "Presentation (visuals)",
+            "score": 4.5185185185185,
+            "rank": 6,
+            "raw_score": 4.5185185185185
+          },
+          {
+            "name": "Theme",
+            "score": 4.2592592592593,
+            "rank": 29,
+            "raw_score": 4.2592592592593
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2021/rate/1168417"
+      },
+      "entryData": {
+        "coolness": 23,
+        "rating_count": 27,
+        "created_at": "2021-08-22 12:45:53",
+        "id": 245572,
+        "contributors": [
+          {
+            "name": "TeXx",
+            "url": "https://texx.itch.io"
+          },
+          {
+            "name": "Sara Lövgren",
+            "url": "https://nelowe.itch.io"
+          }
+        ],
+        "url": "/jam/kenney-jam-2021/rate/1168417",
+        "game": {
+          "short_text": "You are the eye of the storm! Try to get as big as you can! Submitted to kenney jam 2021",
+          "cover": "https://img.itch.zone/aW1nLzY4MDAxNjQucG5n/300x240%23c/OeX149.png",
+          "platforms": [
+            "windows"
+          ],
+          "id": 1168417,
+          "cover_color": "#bcdaeb",
+          "user": {
+            "name": "TeXx",
+            "url": "https://texx.itch.io",
+            "id": 2125274
+          },
+          "url": "https://texx.itch.io/mister-twister",
+          "title": "Mister Twister"
+        }
+      },
+      "details": {
+        "title": "Mister Twister",
+        "description": "Play like a tornado and try to get everything in your way!\n You can take everything from an apple to a house with you if you just get big enough!\n\n\n\nSubmitted to kenney jam 2021 with the theme rotation.Made with unreal engine and using only kenney assets.\n \nUse cursor to sweep everything up in your path \n ",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTE2ODQxNy82ODAwNDQxLnBuZw==/original/fMAZ6N.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2ODQxNy82ODAwNDQzLnBuZw==/original/FCq2vm.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2ODQxNy82ODAwNDQ2LnBuZw==/original/2zwvVG.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2ODQxNy82ODAwNDUwLnBuZw==/original/3KUT%2Fb.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2ODQxNy82ODAwNDUzLnBuZw==/original/KF2wxt.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "TeXx, Sara Lövgren",
+          "Genre": "Adventure",
+          "Tags": "3D, Casual, Colorful, kenney, Low-poly"
+        }
+      }
+    },
+    {
+      "gameId": 1167337,
+      "gameUrl": "https://jsigvard.itch.io/twirly-worldy",
+      "overallRank": 11,
+      "topCategories": [
+        "Presentation (visuals)"
+      ],
+      "resultData": {
+        "id": 1167337,
+        "contributors": [
+          {
+            "name": "Jakob Stålander Sigvard",
+            "id": 1570687
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzY3OTE3NTkucG5n/300x240%23c/Ud3pq7.png",
+        "title": "Twirly Worldy",
+        "score": 4.2222222222222,
+        "rank": 11,
+        "raw_score": 4.2222222222222,
+        "rating_count": 39,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "score": 4,
+            "rank": 21,
+            "raw_score": 4
+          },
+          {
+            "name": "Presentation (visuals)",
+            "score": 4.5128205128205,
+            "rank": 8,
+            "raw_score": 4.5128205128205
+          },
+          {
+            "name": "Theme",
+            "score": 4.1538461538462,
+            "rank": 48,
+            "raw_score": 4.1538461538462
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2021/rate/1167337"
+      },
+      "entryData": {
+        "coolness": 19,
+        "rating_count": 39,
+        "created_at": "2021-08-21 19:19:25",
+        "id": 245216,
+        "game": {
+          "short_text": "A relaxing calm strategy game about aligning hexes through rotation.",
+          "cover": "https://img.itch.zone/aW1nLzY3OTE3NTkucG5n/300x240%23c/Ud3pq7.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 1167337,
+          "cover_color": "#40b152",
+          "user": {
+            "name": "Jakob Stålander Sigvard",
+            "url": "https://jsigvard.itch.io",
+            "id": 1570687
+          },
+          "url": "https://jsigvard.itch.io/twirly-worldy",
+          "title": "Twirly Worldy"
+        },
+        "url": "/jam/kenney-jam-2021/rate/1167337"
+      },
+      "details": {
+        "title": "Twirly Worldy",
+        "description": "A relaxing strategy game about rotating hexes into the most advantageous positions.\nYou have a limited amount of moves to either place down hexes on grass tiles, or rotate around the terrain. Try your best to get as many points as possible through various synergies explained below (or in game of course).\nControls: Very simple. \n    Simply left-click where you want to place or rotate hexes.\n    Hold down Right-click and move your mouse to rotate the camera.\n    Scroll-wheel to zoom in or out.\n    Escape to either return to main menu or restart the game.\n\nHexes: \n\n    Mine:  1 point per adjacent mountain or rocky terrain\n    Smelter:  3 point per adjacent mine\n    Village:  1 point for each adjacent building of any kind\n    Castle:  8 points if surrounded by 4 or more villages\n    Field:  2 points per adjacent water\n    Mill:  1 point per adjacent field of wheat\n    Sheep:  1 point per adjacent sheep or field tile\n    Tower:  1 point per adjacent empty grass or water tile\n    Dock:  10 points if adjacent to at least 3 water tiles\n\nGame Created for Kenney Jam 2021, using the Unity game engine.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTE2NzMzNy82ODAwMTMxLmpwZw==/original/GjIVyX.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTE2NzMzNy82ODAwNDc3LmpwZw==/original/pMa7bq.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTE2NzMzNy82ODAwNDc4LmpwZw==/original/7o87tm.jpg"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Author": "Jakob Stålander Sigvard",
+          "Genre": "Strategy",
+          "Made with": "Unity",
+          "Tags": "3D, Atmospheric, Casual, Relaxing, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 1168539,
+      "gameUrl": "https://reinoangelo.itch.io/seafoamer",
+      "overallRank": 127,
+      "topCategories": [
+        "Presentation (visuals)"
+      ],
+      "resultData": {
+        "id": 1168539,
+        "contributors": [
+          {
+            "name": "ReinoAngelo",
+            "id": 2315471
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzY4MDAyMjgucG5n/300x240%23c/sk6sst.png",
+        "title": "Seafoamer",
+        "score": 3.4761904761905,
+        "rank": 127,
+        "raw_score": 3.4761904761905,
+        "rating_count": 21,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "score": 3.3809523809524,
+            "rank": 117,
+            "raw_score": 3.3809523809524
+          },
+          {
+            "name": "Presentation (visuals)",
+            "score": 4.4761904761905,
+            "rank": 9,
+            "raw_score": 4.4761904761905
+          },
+          {
+            "name": "Theme",
+            "score": 2.5714285714286,
+            "rank": 269,
+            "raw_score": 2.5714285714286
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2021/rate/1168539"
+      },
+      "entryData": {
+        "coolness": 4,
+        "rating_count": 21,
+        "created_at": "2021-08-22 14:27:09",
+        "id": 245712,
+        "game": {
+          "short_text": "Relaxing game where you collect forgotten bounties scattered in the world...",
+          "cover": "https://img.itch.zone/aW1nLzY4MDAyMjgucG5n/300x240%23c/sk6sst.png",
+          "id": 1168539,
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "ReinoAngelo",
+            "url": "https://reinoangelo.itch.io",
+            "id": 2315471
+          },
+          "url": "https://reinoangelo.itch.io/seafoamer",
+          "title": "Seafoamer"
+        },
+        "url": "/jam/kenney-jam-2021/rate/1168539"
+      },
+      "details": {
+        "title": "Seafoamer",
+        "description": "A relaxing boat game where you collect all 10 bounties that are scattered and left in the world, explore different areas and collect paddles to increase row speed.Controls :WASD to control the rowboatMade by :ReinoAngelo",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTE2ODUzOS82ODAwMjg2LnBuZw==/original/iE%2B47K.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2ODUzOS82ODAwMjg3LnBuZw==/original/P3r9hp.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2ODUzOS82ODAwMzQxLnBuZw==/original/1JXtEL.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "ReinoAngelo",
+          "Genre": "Adventure",
+          "Made with": "Unity",
+          "Tags": "Relaxing, Third Person"
+        }
+      }
+    },
+    {
+      "gameId": 1168484,
+      "gameUrl": "https://wittyadrian.itch.io/alien-hunt",
+      "overallRank": 52,
+      "topCategories": [
+        "Presentation (visuals)"
+      ],
+      "resultData": {
+        "id": 1168484,
+        "contributors": [
+          {
+            "name": "WittyWare",
+            "id": 1606741
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzY3OTk1ODcucG5n/300x240%23c/Ui8OeI.png",
+        "title": "Alien Hunt",
+        "score": 3.8974358974359,
+        "rank": 52,
+        "raw_score": 3.8974358974359,
+        "rating_count": 13,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "score": 3.7692307692308,
+            "rank": 53,
+            "raw_score": 3.7692307692308
+          },
+          {
+            "name": "Presentation (visuals)",
+            "score": 4.4615384615385,
+            "rank": 10,
+            "raw_score": 4.4615384615385
+          },
+          {
+            "name": "Theme",
+            "score": 3.4615384615385,
+            "rank": 160,
+            "raw_score": 3.4615384615385
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2021/rate/1168484"
+      },
+      "entryData": {
+        "coolness": 18,
+        "rating_count": 13,
+        "created_at": "2021-08-22 14:30:17",
+        "id": 245719,
+        "game": {
+          "short_text": "Prop Hunt meets Where's Waldo",
+          "cover": "https://img.itch.zone/aW1nLzY3OTk1ODcucG5n/300x240%23c/Ui8OeI.png",
+          "platforms": [
+            "windows"
+          ],
+          "id": 1168484,
+          "cover_color": "#ffffff",
+          "user": {
+            "name": "WittyWare",
+            "url": "https://wittyadrian.itch.io",
+            "id": 1606741
+          },
+          "url": "https://wittyadrian.itch.io/alien-hunt",
+          "title": "Alien Hunt"
+        },
+        "url": "/jam/kenney-jam-2021/rate/1168484"
+      },
+      "details": {
+        "title": "Alien Hunt",
+        "description": "Story\nYou play as a soldier who is trained to hunt down aliens. But these aliens aren't simply going to reveal themselves in their green suit. They disguised themselves as everyday, regular objects. It's up to you to track these aliens down and annihilate them from the face of the earth, before it's too late!!\nGameplay\nThe game plays as a mix between Prop Hunt and Where's Waldo. It features a total of 20 levels across 2 unique locations. You use the keyboard to control the camera and try to get the right angle in order to see in each little nook and cranny of the map. Once you've spotted your target, you can use the mouse to identify them as an alien and blast them away.\nControls\nUse W/S to zoom the camera in and outUse A/D to rotate the camera left and rightUse E/Q to pan the camera up and downUse the left mouse button to select aliens\nCredits\nThis was a part of the Kenney 2021 Game Jam and as per the rules, all of the assets have been from various packs released by Kenney over the years. The only exception to this rule have been the music and a couple of sound effects that I simply couldn't find amongst the packs. Besides that everything has been made by me, WittyAdrian.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTE2ODQ4NC82Nzk5Njc2LnBuZw==/original/OG0WOS.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2ODQ4NC82Nzk5NjgyLnBuZw==/original/Eb2UlQ.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2ODQ4NC82Nzk5Njg3LnBuZw==/original/ucJrn7.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2ODQ4NC82Nzk5Njg0LnBuZw==/original/XoR4t5.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Author": "WittyWare",
+          "Genre": "Puzzle",
+          "Tags": "3D, Aliens, Casual, Funny, Low-poly, Relaxing, Short, Singleplayer, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 1167720,
+      "gameUrl": "https://easypeasy.itch.io/spin-the-world",
+      "overallRank": 4,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "id": 1167720,
+        "contributors": [
+          {
+            "name": "easypeasy",
+            "id": 144859
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzY3OTU0MjMucG5n/300x240%23c/0YA%2FX0.png",
+        "title": "Spin the World",
+        "score": 4.3472222222222,
+        "rank": 4,
+        "raw_score": 4.3472222222222,
+        "rating_count": 24,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "score": 4.0416666666667,
+            "rank": 20,
+            "raw_score": 4.0416666666667
+          },
+          {
+            "name": "Presentation (visuals)",
+            "score": 4.375,
+            "rank": 13,
+            "raw_score": 4.375
+          },
+          {
+            "name": "Theme",
+            "score": 4.625,
+            "rank": 2,
+            "raw_score": 4.625
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2021/rate/1167720"
+      },
+      "entryData": {
+        "coolness": 11,
+        "rating_count": 24,
+        "created_at": "2021-08-22 01:42:40",
+        "id": 245321,
+        "game": {
+          "short_text": "Rotate the world to complete each level.",
+          "cover": "https://img.itch.zone/aW1nLzY3OTU0MjMucG5n/300x240%23c/0YA%2FX0.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 1167720,
+          "cover_color": "#344655",
+          "user": {
+            "name": "easypeasy",
+            "url": "https://easypeasy.itch.io",
+            "id": 144859
+          },
+          "url": "https://easypeasy.itch.io/spin-the-world",
+          "title": "Spin the World"
+        },
+        "url": "/jam/kenney-jam-2021/rate/1167720"
+      },
+      "details": {
+        "title": "Spin the World",
+        "description": "[Spin the World]\nHelp the bunny get to the goal by spinning the world.\nFor Kenney Jam 2021 (Theme: Rotation)\n[Objective]: Get to the goal  to complete the level.[Controls]: Using the mouse, left-click and drag to rotate the world.\nThe bunny will always try to walk forward and will turn around if he encounters a wall.Collect the key  to unlock blocks with keyholes Collect the gem  to get 100% completion for the level \nThere are 9 levels. Try to 100% all 9 levels.\n\nAll art assets are by KenneyMusic, SFX, Programming by me ( https://eazypeasy.itch.io/ )\nSoftware used:UnityMuLab (music)SFXR (sound effects)GIMP (for some color adjustments)",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzY3OTU0MjMucG5n/original/EgTKYP.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 3.7 out of 5 stars(3 total ratings)",
+          "Author": "easypeasy",
+          "Genre": "Puzzle",
+          "Made with": "Unity"
+        }
+      }
+    },
+    {
+      "gameId": 1168091,
+      "gameUrl": "https://markmcgregor.itch.io/cooking-round-the-clock",
+      "overallRank": 48,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "id": 1168091,
+        "contributors": [
+          {
+            "name": "Mark McGregor",
+            "id": 2248277
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzY4MjY3OTQucG5n/300x240%23c/eJUNPm.png",
+        "title": "Cooking 'round the Clock",
+        "score": 3.9166666666667,
+        "rank": 48,
+        "raw_score": 3.9166666666667,
+        "rating_count": 16,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "score": 3.5,
+            "rank": 91,
+            "raw_score": 3.5
+          },
+          {
+            "name": "Presentation (visuals)",
+            "score": 3.75,
+            "rank": 83,
+            "raw_score": 3.75
+          },
+          {
+            "name": "Theme",
+            "score": 4.5,
+            "rank": 5,
+            "raw_score": 4.5
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2021/rate/1168091"
+      },
+      "entryData": {
+        "coolness": 34,
+        "rating_count": 16,
+        "created_at": "2021-08-22 11:00:13",
+        "id": 245499,
+        "game": {
+          "short_text": "Cook quickly on a supersized Lazy Susan!",
+          "cover": "https://img.itch.zone/aW1nLzY4MjY3OTQucG5n/300x240%23c/eJUNPm.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 1168091,
+          "cover_color": "#f5a661",
+          "user": {
+            "name": "Mark McGregor",
+            "url": "https://markmcgregor.itch.io",
+            "id": 2248277
+          },
+          "url": "https://markmcgregor.itch.io/cooking-round-the-clock",
+          "title": "Cooking 'round the Clock"
+        },
+        "url": "/jam/kenney-jam-2021/rate/1168091"
+      },
+      "details": {
+        "title": "Cooking 'round the Clock",
+        "description": "\nWelcome to Cooking 'round the Clock!\nGrab your controller and get ready to roll out some dishes!\nMade for the Kenney Jam 2021\n❓How To:\nRotate the Lazy Susan with the gamepad triggersActivate chefs with XYAB (corresponding to the location of the chef)The TOP chef places ingredients onto the Lazy SusanThe RIGHT chef prepares ingredientsThe LEFT chef cooks raw ingredientsThe BOTTOM chef serves the food to hungry customersChange selected ingredients with the D-Pad (gamepad arrow selector)Once a chef has cooked or prepared an item, activate them again to place the result back onto the Lazy SusanPay attention to your current order in the lower-left corner!\nServing the wrong dish or an ingredient will cost you money!\n🤫Hints:\nTry to spread ingredients out on the Lazy SusanBe mindful of clutter, don't run out of space!Try to keep your chefs busy at all timesAvocado soup must be prepared, then cookedHot dogs must be cooked, then preparedEggs and Bacon only require cookingRotate! Rotate! Rotate!\n🎮Controls (gamepad-only):\nXYAB - activates each corresponding chefD-Pad - selects ingredients for the TOP chef to place on the Lazy SusanRight/Left Trigger - rotates the Lazy Susan clockwise and counterclockwise\n🎥Take a peek behind the scenes:\nA timelapse and detailed behind-the-scenes video are in the works!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTE2ODA5MS82Nzk4MjI2LnBuZw==/original/Xc7qxx.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2ODA5MS82Nzk4MjI3LnBuZw==/original/BCWOV%2F.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2ODA5MS82Nzk4MjQ1LnBuZw==/original/%2F423vc.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2ODA5MS82Nzk4MjI5LnBuZw==/original/5G14IG.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Author": "Mark McGregor",
+          "Genre": "Simulation",
+          "Made with": "Unity",
+          "Tags": "chef, Cooking, Food, kitchen, overcooked, rotate, Rotation, round",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Gamepad (any)"
+        }
+      }
+    },
+    {
+      "gameId": 1167139,
+      "gameUrl": "https://philieve.itch.io/rota",
+      "overallRank": 22,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "id": 1167139,
+        "contributors": [
+          {
+            "name": "Philieve",
+            "id": 1450529
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzY4MDA5ODYucG5n/300x240%23c/FR63n7.png",
+        "title": "Rota",
+        "score": 4.1111111111111,
+        "rank": 22,
+        "raw_score": 4.1111111111111,
+        "rating_count": 21,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "score": 3.8571428571429,
+            "rank": 40,
+            "raw_score": 3.8571428571429
+          },
+          {
+            "name": "Presentation (visuals)",
+            "score": 4,
+            "rank": 45,
+            "raw_score": 4
+          },
+          {
+            "name": "Theme",
+            "score": 4.4761904761905,
+            "rank": 6,
+            "raw_score": 4.4761904761905
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2021/rate/1167139"
+      },
+      "entryData": {
+        "coolness": 1,
+        "rating_count": 21,
+        "created_at": "2021-08-22 12:15:15",
+        "id": 245544,
+        "game": {
+          "short_text": "This platformer has  a twist. Rotate your view to see what is hidden.",
+          "cover": "https://img.itch.zone/aW1nLzY4MDA5ODYucG5n/300x240%23c/FR63n7.png",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "id": 1167139,
+          "cover_color": "#baf9fc",
+          "user": {
+            "name": "Philieve",
+            "url": "https://philieve.itch.io",
+            "id": 1450529
+          },
+          "url": "https://philieve.itch.io/rota",
+          "title": "Rota"
+        },
+        "url": "/jam/kenney-jam-2021/rate/1167139"
+      },
+      "details": {
+        "title": "Rota",
+        "description": "Controlls:\nMove: A/D \nJump: Space\nSpin Camera: Q/E\nMenu: Esc/ P",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTE2NzEzOS82Nzk5NzUzLnBuZw==/original/nTB60T.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2NzEzOS82Nzk5NzY2LnBuZw==/original/pUAADd.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2NzEzOS82Nzk5NzY3LnBuZw==/original/eVISJU.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Philieve",
+          "Made with": "Unity"
+        }
+      }
+    },
+    {
+      "gameId": 1167465,
+      "gameUrl": "https://berriis.itch.io/tumble-toolkit",
+      "overallRank": 14,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "id": 1167465,
+        "contributors": [
+          {
+            "name": "Berriis",
+            "id": 1748363
+          },
+          {
+            "name": "Lunasii",
+            "id": 1716110
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzY3OTk4MzAuZ2lm/300x240%23c/BzSzQn.gif",
+        "title": "Tumble Toolkit",
+        "score": 4.1778637429367,
+        "rank": 14,
+        "raw_score": 4.3636363636364,
+        "rating_count": 11,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "score": 4.1778637429367,
+            "rank": 12,
+            "raw_score": 4.3636363636364
+          },
+          {
+            "name": "Presentation (visuals)",
+            "score": 3.9167472590032,
+            "rank": 60,
+            "raw_score": 4.0909090909091
+          },
+          {
+            "name": "Theme",
+            "score": 4.4389802268703,
+            "rank": 7,
+            "raw_score": 4.6363636363636
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2021/rate/1167465"
+      },
+      "entryData": {
+        "coolness": 3,
+        "rating_count": 11,
+        "created_at": "2021-08-22 14:04:56",
+        "id": 245672,
+        "contributors": [
+          {
+            "name": "Berriis",
+            "url": "https://berriis.itch.io"
+          },
+          {
+            "name": "Lunasii",
+            "url": "https://lunasii.itch.io"
+          }
+        ],
+        "url": "/jam/kenney-jam-2021/rate/1167465",
+        "game": {
+          "short_text": "Rotating box blueprint puzzler",
+          "id": 1167465,
+          "user": {
+            "name": "Berriis",
+            "url": "https://berriis.itch.io",
+            "id": 1748363
+          },
+          "url": "https://berriis.itch.io/tumble-toolkit",
+          "cover": "https://img.itch.zone/aW1nLzY3OTk4MzAuZ2lm/300x240%23c/BzSzQn.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzY3OTk4MzAuZ2lm/original/8wHVsU.gif",
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#3a3a3a",
+          "title": "Tumble Toolkit"
+        }
+      },
+      "details": {
+        "title": "Tumble Toolkit",
+        "description": "- Drag pieces onto the board to plan the machine\n- Press left arrow or right arrow to rotate currently held piece\n- Reach all goals to win\n\nSubmission for the Kenney 2021 Game Jam with a theme of \"rotation.\"\nLink to solutions (but not necessarily the best)https://github.com/LOWERCASE-repo/kenney-2021",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTE2NzQ2NS82Nzk5NjY3LnBuZw==/original/lhfLAc.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2NzQ2NS82Nzk5NjY5LnBuZw==/original/%2Bo4tBH.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2NzQ2NS82Nzk5NjcxLnBuZw==/original/W68ajp.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2NzQ2NS82Nzk5NzgzLnBuZw==/original/PTyxvQ.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2NzQ2NS82Nzk5NjY4LnBuZw==/original/epksUE.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Rating": "Rated 2.5 out of 5 stars(2 total ratings)",
+          "Authors": "Berriis, Lunasii",
+          "Genre": "Puzzle",
+          "Tags": "2D, Abstract, Casual, Low-poly, Minimalist, Point & Click, Short, Singleplayer, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 1168456,
+      "gameUrl": "https://steventus.itch.io/chair-spinning-simulator-2021",
+      "overallRank": 31,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "id": 1168456,
+        "contributors": [
+          {
+            "name": "Steventus",
+            "id": 2412180
+          },
+          {
+            "name": "Waved/Glasshouse",
+            "id": 4797715
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzc2MzIxNDUucG5n/300x240%23c/DhFOHs.png",
+        "title": "Chair Spinning Simulator 2021",
+        "score": 4.0444444444444,
+        "rank": 31,
+        "raw_score": 4.0444444444444,
+        "rating_count": 30,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "score": 3.6333333333333,
+            "rank": 73,
+            "raw_score": 3.6333333333333
+          },
+          {
+            "name": "Presentation (visuals)",
+            "score": 4.0666666666667,
+            "rank": 38,
+            "raw_score": 4.0666666666667
+          },
+          {
+            "name": "Theme",
+            "score": 4.4333333333333,
+            "rank": 8,
+            "raw_score": 4.4333333333333
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2021/rate/1168456"
+      },
+      "entryData": {
+        "coolness": 14,
+        "rating_count": 30,
+        "created_at": "2021-08-22 14:01:41",
+        "id": 245659,
+        "contributors": [
+          {
+            "name": "Steventus",
+            "url": "https://steventus.itch.io"
+          },
+          {
+            "name": "Waved/Glasshouse",
+            "url": "https://this-is-the-glasshouse.itch.io"
+          }
+        ],
+        "url": "/jam/kenney-jam-2021/rate/1168456",
+        "game": {
+          "short_text": "Literally spin to win.",
+          "id": 1168456,
+          "price": "$2",
+          "user": {
+            "name": "Steventus",
+            "url": "https://steventus.itch.io",
+            "id": 2412180
+          },
+          "url": "https://steventus.itch.io/chair-spinning-simulator-2021",
+          "cover": "https://img.itch.zone/aW1nLzc2MzIxNDUucG5n/300x240%23c/DhFOHs.png",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#4E6363",
+          "title": "Chair Spinning Simulator 2021"
+        }
+      },
+      "details": {
+        "title": "Chair Spinning Simulator 2021",
+        "description": "If you're here, you definitely know what an office chair is. And you definitely know office chairs can spin. You've spun in one before, everyone does. \n  \nAnd yet you can't shake this feeling: you crave more.\nGameplay\n Spin Your Chair As Fast As Possible!\n Fly your chair into space as high as possible!\n Get money\n Upgrade chair\n Try again!\n\nFeatures\n Chair\n Spinning\n Destruction Of Rocks and Local Fauna\n Space\n Soundtrack by This is the Glasshouse\nClick here to Try out the Newgrounds Demo!\nPackaged as a short 60-second high-score chaser, comes with leaderboards too! \nExtra Fluff\nThis was a submission to KenneyJam 2021 with the theme: Rotation! This game was made possible with the help of @GlassedHouse for his awesome music! With additional credits from zapsplat.com for the sound.\nAnd hey, if you love my stuff, check me out on my Twitter!\nAnd check out This is the Glasshouse in his twitter!\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTE2ODQ1Ni83NjMyMTQ2LnBuZw==/original/xVjKWY.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2ODQ1Ni83NjMyMTQ3LnBuZw==/original/%2FjJQy0.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2ODQ1Ni83NjMyMTQ4LnBuZw==/original/%2Bn3t48.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2ODQ1Ni83NjMyMTQ5LnBuZw==/original/UudKK8.png",
+          "https://img.itch.zone/aW1hZ2UvMTE2ODQ1Ni83NjMyMTUwLnBuZw==/original/9l2AJg.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Authors": "Steventus, Waved/Glasshouse",
+          "Genre": "Simulation",
+          "Made with": "Unity",
+          "Tags": "3D, demo, diffi, rhyth, Short, Singleplayer",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Mouse",
+          "Accessibility": "One button"
+        }
+      }
+    },
+    {
+      "gameId": 1168649,
+      "gameUrl": "https://shiesh.itch.io/rotating-ball-game",
+      "overallRank": 50,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "id": 1168649,
+        "contributors": [
+          {
+            "name": "Shiesh",
+            "id": 4789520
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzY4MDA5NzYucG5n/300x240%23c/4DlFTR.png",
+        "title": "Rotating Ball Game",
+        "score": 3.9019607843137,
+        "rank": 50,
+        "raw_score": 3.9019607843137,
+        "rating_count": 17,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "score": 3.6470588235294,
+            "rank": 71,
+            "raw_score": 3.6470588235294
+          },
+          {
+            "name": "Presentation (visuals)",
+            "score": 3.6470588235294,
+            "rank": 100,
+            "raw_score": 3.6470588235294
+          },
+          {
+            "name": "Theme",
+            "score": 4.4117647058824,
+            "rank": 10,
+            "raw_score": 4.4117647058824
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2021/rate/1168649"
+      },
+      "entryData": {
+        "coolness": 11,
+        "rating_count": 17,
+        "created_at": "2021-08-22 14:35:40",
+        "id": 245728,
+        "game": {
+          "short_text": "My submission for the 2021 Kenny Jam",
+          "cover": "https://img.itch.zone/aW1nLzY4MDA5NzYucG5n/300x240%23c/4DlFTR.png",
+          "id": 1168649,
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Shiesh",
+            "url": "https://shiesh.itch.io",
+            "id": 4789520
+          },
+          "url": "https://shiesh.itch.io/rotating-ball-game",
+          "title": "Rotating Ball Game"
+        },
+        "url": "/jam/kenney-jam-2021/rate/1168649"
+      },
+      "details": {
+        "title": "Rotating Ball Game",
+        "description": "This is my submission for the Kenny Jam 2021.\nGoal of the game is to move the red ball to the hole by rotating the level.\nDon't touch the spikes and avoid falling off the level.\nControls:\n[rotate left]: A, Left Arrow Key\n[rotate right]: D, Right Arrow Key\n[restart]: R\nMade with Godot 3.3.2\nArt (made by Kenney):\nRolling Ball AssetsSimplified Platformer PackGame Icons (expansion)Kenney Fonts",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzY4MDA5NzYucG5n/original/Mb%2BA5D.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Shiesh",
+          "Genre": "Platformer, Puzzle",
+          "Tags": "ball-game, My First Game Jam, skill"
+        }
+      }
+    }
+  ]
+}

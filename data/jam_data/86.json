@@ -1,0 +1,823 @@
+{
+  "n": 86,
+  "name": "2025 Epic MegaJam",
+  "url": "https://itch.io/jam/2025-epic-megajam",
+  "theme": "Here We Go Again",
+  "slug": "2025-epic-megajam",
+  "jamMeta": {
+    "jamType": "ongoing",
+    "joined": "",
+    "entries": "493",
+    "title": "2025 Epic MegaJam",
+    "jamURL": "https://itch.io/jam/2025-epic-megajam",
+    "hosts": {
+      "Unreal Engine": "https://unrealengine.itch.io",
+      "#MegaJam": "https://bsky.app/hashtag/MegaJam"
+    },
+    "jamID": "409962"
+  },
+  "totalEntries": 488,
+  "ranked": false,
+  "hasCategories": false,
+  "needsManualSelection": true,
+  "categories": [],
+  "topGames": [
+    {
+      "gameId": 3985204,
+      "gameUrl": "https://co5monaut.itch.io/alucar-d",
+      "overallRank": 1,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "created_at": "2025-10-25 02:54:46",
+        "url": "/jam/2025-epic-megajam/rate/3985204",
+        "id": 784328,
+        "game": {
+          "url": "https://co5monaut.itch.io/alucar-d",
+          "cover": "https://img.itch.zone/aW1nLzIzNzg5MTEwLmdpZg==/300x240%23c/qsHrRS.gif",
+          "title": "Alucar D",
+          "short_text": "Survivor Game on the Car against Vampires",
+          "cover_color": "#f20000",
+          "platforms": [
+            "windows"
+          ],
+          "gif_cover": "https://img.itch.zone/aW1nLzIzNzg5MTEwLmdpZg==/original/oVyIle.gif",
+          "user": {
+            "id": 107083,
+            "url": "https://co5monaut.itch.io",
+            "name": "CO5MONAUT"
+          },
+          "id": 3985204
+        },
+        "rating_count": 0,
+        "coolness": 0,
+        "field_responses": [
+          "39344:Platform1"
+        ]
+      },
+      "details": {
+        "title": "Alucar D",
+        "description": "A game inspired by Vampire Survivor, but in a car, where you can run over vampires with your car and burn them with your headlights. \nYou are a wandering vampire hunter who has learned that ghouls have taken up residence in the local cemetery. Eliminate the vampires in this town without leaving your car. You will be assisted by a small but effective arsenal of machine guns, holy grenades, and daylight headlights.\nDo not stop, run them all over!\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzk4NTIwNC8yMzc4OTEzMy5naWY=/original/IMs9%2Fd.gif",
+          "https://img.itch.zone/aW1hZ2UvMzk4NTIwNC8yMzc4OTEzNC5naWY=/original/b4SRIp.gif",
+          "https://img.itch.zone/aW1hZ2UvMzk4NTIwNC8yMzc4OTE0MS5naWY=/original/b197bL.gif"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "CO5MONAUT",
+          "Genre": "Survival, Racing",
+          "Tags": "Horror, Low-poly, PSX (PlayStation), Retro, Singleplayer, Survivor-like, Unreal Engine, Vampire",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 3984647,
+      "gameUrl": "https://bevium.itch.io/starcyte",
+      "overallRank": 2,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "created_at": "2025-10-25 01:07:13",
+        "url": "/jam/2025-epic-megajam/rate/3984647",
+        "id": 784169,
+        "game": {
+          "id": 3984647,
+          "user": {
+            "id": 15186974,
+            "url": "https://bevium.itch.io",
+            "name": "Bevium"
+          },
+          "url": "https://bevium.itch.io/starcyte",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzIzNzYzOTA1LnBuZw==/300x240%23c/4rqgKH.png",
+          "title": "Starcyte",
+          "short_text": "The Last Defender of Stellar Life",
+          "cover_color": "#191a1c"
+        },
+        "rating_count": 0,
+        "coolness": 0,
+        "field_responses": [
+          "39344:Platform1"
+        ]
+      },
+      "details": {
+        "title": "Starcyte",
+        "description": "The Last Defender of Stellar Life.\n\nYou are a Starcyte, the last bastion against the entropic forces of darkness. Venture inside BV33's core, a dying star being invaded by dark enemies.\n\nRe-ignite the star's core by turning on all Star Embers with your Light Harpoon, collect all Helium pickups, and power the Solar Gate to access the Inner Core.Team Name: Bevium\nTeam Members:Darakuu, ManuelGerardZuccaro, Daniele Calanna, rtorrisi\nGame name: Starcyte\nWhich Theme did you created your game based on?However vast the darkness, we must supply our own light\nLink to Gameplay Footagehttps://youtu.be/44yaIYE7zac?si=TaiukPvAqcVL3-nY\nCommands:\nIn-Game tutorial is provided.\nWASD - MovementMouse - Camera movementLMB - ShootQ - DashE - Backstab your enemiesF - Swap position with your enemiesShift - Change weaponSpace - JumpSpace - Jetpack (while in air)\nWhich Engine version did you use to create your entry?5.6.1\nWhat platform is your game built for?Windows\nList any content that was created before the jam.\n\n    Black Hole\n    Basic Rusty Scifi Teleporter (Edit/Extension)\n    Faujasite\n    Free Sci-fi Pistol\n    Magma - SciFi Pistol\n    Hand RailGun\n    Star Citizen Workflow to Sketchfab\n            - Decals 3\n    The Sea Hunter\n    Space Nebula Skyboxes\n    Basic VFX Pack\n    ASC Teuthisan\n    Mutant\n    Modular Scifi Season 2 Starter\n            Bundle\n    Necro's Utility\n            Material Pack\n    Iggy & Scorch\n    Some royalty free sound effects.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzk4NDY0Ny8yMzc2NTU5Ny5qcGc=/original/lvrmiE.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzk4NDY0Ny8yMzc2NTU5OS5qcGc=/original/hL4Asi.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzk4NDY0Ny8yMzc2NTU5OC5qcGc=/original/UxtDjU.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzk4NDY0Ny8yMzc2NTYwMC5qcGc=/original/TdhNp9.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Bevium",
+          "Genre": "Shooter",
+          "Tags": "3D, FPS, Indie, Sci-fi, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 3978934,
+      "gameUrl": "https://manzzanacrew.itch.io/orbi-puss",
+      "overallRank": 3,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "created_at": "2025-10-25 03:58:20",
+        "url": "/jam/2025-epic-megajam/rate/3978934",
+        "id": 784532,
+        "game": {
+          "url": "https://manzzanacrew.itch.io/orbi-puss",
+          "id": 3978934,
+          "cover": "https://img.itch.zone/aW1nLzIzNzY3NzIzLnBuZw==/300x240%23c/yaJrYK.png",
+          "title": "Orbi-Puss",
+          "user": {
+            "id": 15170388,
+            "url": "https://manzzanacrew.itch.io",
+            "name": "Manzzana.crew"
+          },
+          "cover_color": "#eeeeee"
+        },
+        "rating_count": 0,
+        "coolness": 0,
+        "field_responses": [
+          "39344:Platform1"
+        ]
+      },
+      "details": {
+        "title": "Orbi-Puss",
+        "description": "Team Name\nManzzana.Crew\nGame Name Orbi-Puss\nWe have used this theme modifier:  Space Cats (from 2019’s “Down to Earth” Modifier)\nList any content that was created before the jam.\nhttps://pixabay.com/es/music/trampa-silly-beat-149323  - Silly Beat,  saavane.\nGameplay Instructions:\nMovement\nleft arrow -> leftright arrow -> rightup arrow -> updown arrow  -> down\nActions\nleft click -> shoot\nWhich Engine version did you use to create your entry?  \nUE 5.5.4",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzk3ODkzNC8yMzc2ODMyNC5wbmc=/original/AT67le.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Rating": "Rated 4.0 out of 5 stars(2 total ratings)",
+          "Author": "Manzzana.crew",
+          "Genre": "Shooter",
+          "Tags": "Arcade, Cats, Meme, No AI, Space, Unreal Engine, y2k"
+        }
+      }
+    },
+    {
+      "gameId": 3984917,
+      "gameUrl": "https://literallyjustzach.itch.io/the-final-cut",
+      "overallRank": 4,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "created_at": "2025-10-25 01:03:24",
+        "url": "/jam/2025-epic-megajam/rate/3984917",
+        "id": 784162,
+        "game": {
+          "id": 3984917,
+          "user": {
+            "id": 259236,
+            "url": "https://literallyjustzach.itch.io",
+            "name": "LiterallyJustZach"
+          },
+          "url": "https://literallyjustzach.itch.io/the-final-cut",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzIzNzY1ODgxLnBuZw==/300x240%23c/ZSVGtp.png",
+          "title": "The Final Cut",
+          "short_text": "retro-horror",
+          "cover_color": "#eeeeee"
+        },
+        "rating_count": 0,
+        "coolness": 0,
+        "field_responses": [
+          "39344:Platform1"
+        ]
+      },
+      "details": {
+        "title": "The Final Cut",
+        "description": "Step into \"The Final Cut,\" a retro horror experience where you're the last line of defense in a haunted video rental store. As the night shift clerk, your job is simple: inspect returned VHS tapes for damage and suspicious markings. Accept the clean tapes, reject the damaged ones. But be warned, every tape holds a secret, and accepting the wrong one will unleash paranormal chaos. Can you survive the night, or will the final cut be yours?\nCreated for the 2025 Epic MegaJam under the theme \"Here We Go Again\"Download zip file, unzip and run the \"TheFinalCut\" executable.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzk4NDkxNy8yMzc2NjAxNi5qcGc=/original/o6uzXC.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzk4NDkxNy8yMzc2NjAxMy5qcGc=/original/4V8U5p.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzk4NDkxNy8yMzc2NjAxNS5qcGc=/original/Sd91UN.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzk4NDkxNy8yMzc2NjAxNC5qcGc=/original/mxfIyo.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzk4NDkxNy8yMzc2NjAxOC5qcGc=/original/UQa1fR.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "LiterallyJustZach",
+          "Tags": "3D, First-Person, Horror, megajam, Pixel Art, PSX (PlayStation), Retro, Short, Singleplayer, Unreal Engine"
+        }
+      }
+    },
+    {
+      "gameId": 3985039,
+      "gameUrl": "https://akithealchemist.itch.io/pachinko",
+      "overallRank": 5,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "created_at": "2025-10-25 02:54:13",
+        "url": "/jam/2025-epic-megajam/rate/3985039",
+        "id": 784324,
+        "game": {
+          "id": 3985039,
+          "url": "https://akithealchemist.itch.io/pachinko",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzIzNzY2Njc1LnBuZw==/300x240%23c/Fr50ga.png",
+          "title": "Pachinko",
+          "short_text": "Here we go again here not just only reviving on death and keep fighting, its going back to the OLD SCHOOL way.",
+          "user": {
+            "id": 15126914,
+            "url": "https://akithealchemist.itch.io",
+            "name": "Akithealchemist"
+          }
+        },
+        "rating_count": 0,
+        "coolness": 0,
+        "field_responses": [
+          "39344:Platform1"
+        ]
+      },
+      "details": {
+        "title": "Pachinko",
+        "description": "\n//------PLEASE USE THIS CRASH HOTFIX BUILD INSTEAD------//\nhttps://drive.google.com/file/d/1mIrob4r5OUb4rqA2oLqRsjVZamZUvOIH/view?usp=sharingThis is basically the same build, but contain hotfix that address the crashing issue. or else, the game will crash, sooner or later. i want everybody to have a funtime in my game. thats it, this is not a cheating build that sneaking in some play element or enemy. i promise.\nYou, through the arcade machine now rain down destruction to the enemy that overtook the system. choose from Naval attilery, Grenade Launcher, or even a train to ram through enemy, this game offer you a new perspective of the survival bullet hell gerne. and its also an FPS too. Send enemies fly to the sky with the custom physic developed for this project. You will have so much fun playing this.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzk4NTAzOS8yMzc2NzcxOS5qcGc=/original/ylsUG6.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzk4NTAzOS8yMzc4OTE1MC5qcGc=/original/4lQRUJ.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzk4NTAzOS8yMzc4OTMyMi5qcGc=/original/YESyr1.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzk4NTAzOS8yMzc4OTMyOS5qcGc=/original/7egNpI.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzk4NTAzOS8yMzc4OTMzMy5qcGc=/original/qvfGU0.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzk4NTAzOS8yMzc4OTMzNy5qcGc=/original/ygt0R7.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzk4NTAzOS8yMzc4OTM2MS5qcGc=/original/jXAWen.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzk4NTAzOS8yMzc4OTM2Ni5qcGc=/original/z6wvKg.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzk4NTAzOS8yMzc4OTM3MC5qcGc=/original/r8oVN%2B.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzk4NTAzOS8yMzg1MjI0Ni5qcGc=/original/6rCcke.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzk4NTAzOS8yMzg1MjI0Ny5qcGc=/original/dbFNDT.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Akithealchemist"
+        }
+      }
+    },
+    {
+      "gameId": 3982830,
+      "gameUrl": "https://bpgame.itch.io/echo-on-the-roof",
+      "overallRank": 6,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "created_at": "2025-10-24 11:12:05",
+        "url": "/jam/2025-epic-megajam/rate/3982830",
+        "id": 783628,
+        "game": {
+          "id": 3982830,
+          "url": "https://bpgame.itch.io/echo-on-the-roof",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzIzNzUzNjc5LnBuZw==/300x240%23c/3yGAQA.png",
+          "title": "Echo On The Roof",
+          "short_text": "Every signal has a sender. What if it’s you?",
+          "user": {
+            "id": 1197333,
+            "url": "https://bpgame.itch.io",
+            "name": "BPGame"
+          }
+        },
+        "rating_count": 0,
+        "coolness": 0,
+        "field_responses": [
+          "39344:Platform1",
+          "39344:Platform2",
+          "39344:Platform3",
+          "39344:Platform4",
+          "39344:Platform5"
+        ]
+      },
+      "details": {
+        "title": "Echo On The Roof",
+        "description": "Echo On The Roof is a short psychological experience about solitude, memory, and endless return.\nYou wake up on a ruined rooftop. The wind howls, the radio crackles — and a familiar voice calls out from the static. Searching for a signal, you descend deeper through the crumbling building, slipping between moments that no longer belong to time. Each cycle changes something — the rooms, the sounds, maybe even you.\n \nFind the batteries. Tune the signal. Follow the echo. But be careful — some voices should never be found.\n1) Download the archive.2) Extract it to any folder you like.3) Run EchoOnTheRoof.exe.4) Play",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzk4MjgzMC8yMzc1MzY4MS5wbmc=/original/xYxnjf.png",
+          "https://img.itch.zone/aW1hZ2UvMzk4MjgzMC8yMzc1MzY4NS5wbmc=/original/%2F8tz6f.png",
+          "https://img.itch.zone/aW1hZ2UvMzk4MjgzMC8yMzc1MzY4NC5wbmc=/original/9mVOLn.png",
+          "https://img.itch.zone/aW1hZ2UvMzk4MjgzMC8yMzc1MzY4My5wbmc=/original/Don0Ct.png",
+          "https://img.itch.zone/aW1hZ2UvMzk4MjgzMC8yMzc1MzY4Mi5wbmc=/original/%2F4dL22.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "BPGame",
+          "Tags": "3D, First-Person, FPS, Horror, Immersive, Indie, Psychological Horror, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 3964691,
+      "gameUrl": "https://dexied.itch.io/mega-jam-2025",
+      "overallRank": 7,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "created_at": "2025-10-22 18:00:40",
+        "url": "/jam/2025-epic-megajam/rate/3964691",
+        "id": 783033,
+        "game": {
+          "id": 3964691,
+          "url": "https://dexied.itch.io/mega-jam-2025",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzIzNzY3NjQ5LnBuZw==/300x240%23c/FFJNwP.png",
+          "title": "Farm Again",
+          "short_text": "Become a fearless farmer!",
+          "user": {
+            "id": 15002021,
+            "url": "https://dexied.itch.io",
+            "name": "dexied"
+          }
+        },
+        "rating_count": 0,
+        "coolness": 0,
+        "field_responses": [
+          "39344:Platform1"
+        ]
+      },
+      "details": {
+        "title": "Farm Again",
+        "description": "Welcome to the strangest farm in the world!\nYou’re a farmer who decided to start a new life in a very suspicious place. Sounds simple enough: raise animals, collect manure, sell it, and get rich. But there’s one small catch…Your animals produce more manure when they’re scared!\nSo every night, when monsters crawl out from the darkness, you’re not just fighting for your life - you’re fighting for your manure harvest!\n\nYour loyal companions:- Boar - a manure factory! Produces it only when frightened (that is, at night).- Dog - protects the herd and barks at everything that moves (and at some things that don’t).- Cabbage – sometimes appears on the map automatically! It needs to bloom, and once it does, it will automatically explode as soon as an enemy enters its range! To bloom, it requires manure!\nEach night the monster waves get stronger, and every third night, a boss arrives who can turn your whole farm upside down!\nMorning — time to choose!- After a tough night, you get the chance to pick a new ability that will help you survive longer (and, of course, earn even more money).\nGameplay! It’s simple:- Move!- Shoot!- Buy animals!- Sell manure!- Upgrade your abilities!- Don’t let the monsters kill you!\nFeatures!- A fun TopDown shooter in LowPoly style!- Automatic abilities and simple controls!- Increasingly difficult monster waves!- All sound effects voiced by the developer himself :D!- Humor and chaos guaranteed\nFarm Again — where fear makes profits grow!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzk2NDY5MS8yMzc2NzQ5OC5qcGc=/original/3AH0nW.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzk2NDY5MS8yMzc2NzQ5OS5qcGc=/original/CRK4j2.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzk2NDY5MS8yMzc2NzUwMC5qcGc=/original/88KS8P.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzk2NDY5MS8yMzc2NzUwMi5qcGc=/original/3ZkUQf.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzk2NDY5MS8yMzc2NzUwNS5qcGc=/original/j3Dhhv.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzk2NDY5MS8yMzc2NzUwNy5qcGc=/original/9U0HNU.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzk2NDY5MS8yMzc2NzUwOS5qcGc=/original/%2BwgXH1.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzk2NDY5MS8yMzc2NzUxMi5qcGc=/original/t1cUQz.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzk2NDY5MS8yMzc2NzUxNi5qcGc=/original/2%2FmpmO.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzk2NDY5MS8yMzc2NzUxNy5qcGc=/original/IJe6y2.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzk2NDY5MS8yMzc2NzUxOC5qcGc=/original/Kg9z03.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzk2NDY5MS8yMzc2NzUyMy5qcGc=/original/gENG79.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzk2NDY5MS8yMzc2NzUyNS5qcGc=/original/izjRfi.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzk2NDY5MS8yMzc2NzUyNy5qcGc=/original/YgaW9n.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzk2NDY5MS8yMzc2NzUzMS5qcGc=/original/FSgRq5.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzk2NDY5MS8yMzc2NzUzNC5qcGc=/original/vJrR%2Ft.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Release date": "Oct 22, 2025",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "dexied",
+          "Made with": "Unreal Engine",
+          "Tags": "alone, armyofone, farm-again, game, herewegoagain, one, solo, solodev, the-best, Unreal Engine",
+          "Average session": "A few seconds",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 3983311,
+      "gameUrl": "https://glukaz.itch.io/zombie-survive",
+      "overallRank": 8,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "created_at": "2025-10-24 13:44:18",
+        "url": "/jam/2025-epic-megajam/rate/3983311",
+        "id": 783697,
+        "game": {
+          "id": 3983311,
+          "user": {
+            "id": 1592979,
+            "url": "https://glukaz.itch.io",
+            "name": "GLukaz"
+          },
+          "url": "https://glukaz.itch.io/zombie-survive",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzIzNzU2MTY1LmpwZw==/300x240%23c/w4BUZ7.jpg",
+          "title": "Zombie Survive",
+          "short_text": "Survive to the never ending night",
+          "cover_color": "#000000"
+        },
+        "rating_count": 0,
+        "coolness": 0,
+        "field_responses": [
+          "39344:Platform1",
+          "39344:Platform2",
+          "39344:Platform3",
+          "39344:Platform4",
+          "39344:Platform5"
+        ]
+      },
+      "details": {
+        "title": "Zombie Survive",
+        "description": "The story begins in the cabin where the protagonist has taken refuge from the zombie apocalypse. The forest is the only safe place, since the cities are overrun with the undead. The cabin is a shelter, but every now and then, it’s necessary to go out in search of food. Today, he plans to go into the forest to gather berries. But first, he needs to get an axe — for that, he’ll have to visit the neighbor down the path and borrow one, because it’s not safe to enter the forest unarmed.Unzip and execute ZombieSurvive.exe",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzk4MzMxMS8yMzc1NjA1Ni5wbmc=/original/RJFuNc.png",
+          "https://img.itch.zone/aW1hZ2UvMzk4MzMxMS8yMzc1NjA1NS5wbmc=/original/uoCyY6.png",
+          "https://img.itch.zone/aW1hZ2UvMzk4MzMxMS8yMzc1NjA1NC5wbmc=/original/FDvlX7.png",
+          "https://img.itch.zone/aW1hZ2UvMzk4MzMxMS8yMzc1NjA1Ny5wbmc=/original/Ic18M1.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "GLukaz",
+          "Genre": "Role Playing, Adventure, Shooter",
+          "Made with": "Unreal Engine",
+          "Tags": "3D, Horror, Singleplayer, Zombies",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 3983233,
+      "gameUrl": "https://sirmadness.itch.io/kitten-island",
+      "overallRank": 9,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "created_at": "2025-10-24 15:06:43",
+        "url": "/jam/2025-epic-megajam/rate/3983233",
+        "id": 783734,
+        "game": {
+          "id": 3983233,
+          "user": {
+            "id": 675994,
+            "url": "https://sirmadness.itch.io",
+            "name": "SirMadness"
+          },
+          "url": "https://sirmadness.itch.io/kitten-island",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzIzNzU3OTE0LnBuZw==/300x240%23c/imrO01.png",
+          "title": "Kitten Island",
+          "short_text": "UE MegaJam 2025 : Another one bites the Ducks. Find and bite all the 100 ducks out of the island.",
+          "cover_color": "#000000"
+        },
+        "rating_count": 0,
+        "coolness": 0,
+        "field_responses": [
+          "39344:Platform1"
+        ]
+      },
+      "details": {
+        "title": "Kitten Island",
+        "description": "KITTEN ISLAND\n- Chase the 100 evil ducks as fast as you can and free your island from the invasion. (20 per area). \n- Try your best to beat your time. \n- Explore the 5 areas of the island. \n- Chill with the fully human made music. 5 Tracks made during the jam for this game, full playlist (listen on youtube)\n\n\n- Enjoy the colorfull and quack journey in this game specially made to please the 8 yo son of Alien, a kid like we all were one day ! Shoutout to all grown old kids that are reading this and make games :p\n\nWARNING/KNOWN ISSUES :\n- There might be a \"first duck freeze\", the freeze is just a loading process no worry, just wait a bit if so. Apologies for this. (check below)\nNOTES\nGame made by Alien Creation and SirMadness for a first time doing together and early learning on UE5. Applying for the DUO category of MegaJam 2025.\nYou might experience bugs as it's a first time. (like first duck freeze)\nYou might feel the animation a bit swappy: we were surprised by the difference between bipede and animal animations.\nNot enough time to learn motion matching for animal properly and it's apparently very difficult, so.. Now we'll know ^^'\nAlso we did our best with game optimization but it's a learning in progress too.\nStill we hope you'll have fun with this peacfull quacky adventure! Thanks for playing!GAME CONTROLS :Keyboard & Gamepad + mouse for options menu (no gamepad support in menu)\nGAME FEATURES :\n- Kitten that bites ducks\n- Pick up that boost and slow speed\n- Mini map\n- Smooth Camera\n- Timer\n- Respawn system for swimmers\n- 5 Areas to unlock and explore\n- 6 100% HumanMade Music (5 themes + 1 Menu)\n- Maybe some other stuff that I forget...RESSOURCES DONE BEFORE THE JAM :None.\nASSET PACKS USED from FAB.com :\n- Advanced cel shader lite\n- Advanced village pack\n- Fantastic village ack\n- Lootdrop_vfx\n- Meleeweaponauravfx\n- Stylized forest environment\n- Lowpoly stylized game item poison\n- Potion B\nSUPPORT :\nDo not hesitate to leave feedback and your best times! (Dev time is about 8.44 ! Can do better ? :p)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzk4MzIzMy8yMzc1Njg3NS5qcGc=/original/eQ64%2Fe.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzk4MzIzMy8yMzc1Njg3MS5qcGc=/original/eF288W.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzk4MzIzMy8yMzc1Njg3My5qcGc=/original/uXELf5.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzk4MzIzMy8yMzc1Njg3Mi5qcGc=/original/zsVTy1.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzk4MzIzMy8yMzc1Njg3NC5qcGc=/original/p9f5wa.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "SirMadness",
+          "Genre": "Adventure, Racing",
+          "Tags": "3D, Cats, Colorful, duck, Game Jam, Low-poly, megajam, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 3985226,
+      "gameUrl": "https://dev-abraxas.itch.io/superhost",
+      "overallRank": 10,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "created_at": "2025-10-25 03:30:33",
+        "url": "/jam/2025-epic-megajam/rate/3985226",
+        "id": 784404,
+        "game": {
+          "id": 3985226,
+          "user": {
+            "id": 14250310,
+            "url": "https://dev-abraxas.itch.io",
+            "name": "Dev_Abraxas"
+          },
+          "url": "https://dev-abraxas.itch.io/superhost",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzIzNzc4NDY4LmpwZw==/300x240%23c/PNpboy.jpg",
+          "title": "SuperHost",
+          "short_text": "Play as an Airbnb owner and clean up after your guests. They never manage to leave it spotless.",
+          "cover_color": "#2f2f2f"
+        },
+        "rating_count": 0,
+        "coolness": 0,
+        "field_responses": [
+          "39344:Platform1"
+        ]
+      },
+      "details": {
+        "title": "SuperHost",
+        "description": "\"Step into the shoes of a diligent Airbnb owner, armed with mop, duster, and a keen eye for oddities. Every guest leaves behind a little chaos — a single shoe, a mysterious trinket, or something you can’t quite explain — and it’s up to you to tidy up and earn your five-star rating.\"\nCreated by a solo developer for the Epic MegaJam 2025: https://itch.io/jam/2025-epic-megajamCONTROLS:\nZoom: Mouse-Scroll - On certain spotsWipe: Hold left-mouse buttonMenu: ESC / Tab\n\nCREDITS (to be finalized)\nDekogonFab\nMusic: \"Bossa Antigua\" Kevin MacLeod (incompetech.com)Licensed under Creative Commons: By Attribution 4.0 Licensehttp://creativecommons.org/licenses/by/4.0/",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzk4NTIyNi8yMzc2ODQ2OS5qcGc=/original/s4yTf6.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzk4NTIyNi8yMzc2ODQ2OC5qcGc=/original/XcFScn.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzk4NTIyNi8yMzc2ODQ3MC5qcGc=/original/u3vxVX.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzk4NTIyNi8yMzc2ODQ3MS5qcGc=/original/hWtSFJ.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Dev_Abraxas",
+          "Genre": "Puzzle",
+          "Tags": "epic-megajam, Hidden Object, miniature, tilt-shift, Unreal Engine"
+        }
+      }
+    },
+    {
+      "gameId": 3967868,
+      "gameUrl": "https://nyxline-interactive.itch.io/the-halpine-extraction",
+      "overallRank": 11,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "created_at": "2025-10-22 22:57:30",
+        "url": "/jam/2025-epic-megajam/rate/3967868",
+        "id": 783084,
+        "game": {
+          "id": 3967868,
+          "user": {
+            "id": 13826889,
+            "url": "https://nyxline-interactive.itch.io",
+            "name": "Nyxline Interactive"
+          },
+          "url": "https://nyxline-interactive.itch.io/the-halpine-extraction",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzIzNzMyNzk1LnBuZw==/300x240%23c/s5Fjer.png",
+          "title": "The Halpine extraction (FULL VR SUPPORT)",
+          "short_text": "a short horror game where you find documents",
+          "cover_color": "#f606e9"
+        },
+        "rating_count": 0,
+        "coolness": 0,
+        "field_responses": [
+          "39344:Platform1"
+        ]
+      },
+      "details": {
+        "title": "The Halpine extraction (FULL VR SUPPORT)",
+        "description": "this is a short extraction game where you need to find all the yellow envelopes but beware there maby somthing after you\nthis game supports vr and flat (i was only up till 11 last night trying to get this to work..... I'm completely sane)\nthis takes place 5 years before the Xythorite protocol \noh and dont look in the envelopes \nI made this for epic games mega jamextract and play!for VR make sure that steamvr is open and connected to your pc",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzk2Nzg2OC8yMzc2NDQ2MS5wbmc=/original/0akm5X.png",
+          "https://img.itch.zone/aW1hZ2UvMzk2Nzg2OC8yMzc2NDQ2Mi5wbmc=/original/6bWhp1.png",
+          "https://img.itch.zone/aW1hZ2UvMzk2Nzg2OC8yMzc2NDQ2MC5wbmc=/original/4IDfiB.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Nyxline Interactive",
+          "Genre": "Survival",
+          "Made with": "Unreal Engine",
+          "Tags": "Horror, loooooooooorrrrrrre, No AI, Virtual Reality (VR)",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 3984100,
+      "gameUrl": "https://ventricolodx.itch.io/tablebots",
+      "overallRank": 12,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "created_at": "2025-10-24 19:24:23",
+        "url": "/jam/2025-epic-megajam/rate/3984100",
+        "id": 783894,
+        "game": {
+          "id": 3984100,
+          "user": {
+            "id": 13727524,
+            "url": "https://ventricolodx.itch.io",
+            "name": "Ventricolodx"
+          },
+          "url": "https://ventricolodx.itch.io/tablebots",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzIzNzYxNDc5LnBuZw==/300x240%23c/L33pIe.png",
+          "title": "Tablebots",
+          "short_text": "Tablebots roll out!",
+          "cover_color": "#193d3f"
+        },
+        "rating_count": 0,
+        "coolness": 0,
+        "field_responses": [
+          "39344:Platform1"
+        ]
+      },
+      "details": {
+        "title": "Tablebots",
+        "description": "This is a game made for the 2025 Epic MegaJam.\nThe main theme for this jam was \"Here we go again\", so we decided to make a game where you literally have to start the level over again in order to complete it. The core mechanic lets you \"power off\" the Tablebot (Left Shif or Gamepad B Xbox). After doing this you respawn but your previous Tablebot remains in the level, so that you can use its shell to reach the end.Credits:\nAndrea Piccolo - Game and Level DesignGiorgio Angiolella - Concept and 3D ArtLeonardo Madia - Game Design and Programming\nSounds collected from Pixabay and Mixkit.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzk4NDEwMC8yMzc2MDkyMi5wbmc=/original/rxDh%2Fz.png",
+          "https://img.itch.zone/aW1hZ2UvMzk4NDEwMC8yMzc2MDkyNC5wbmc=/original/UVtkjD.png",
+          "https://img.itch.zone/aW1hZ2UvMzk4NDEwMC8yMzc2MDkyOS5wbmc=/original/5RBJjE.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Ventricolodx",
+          "Genre": "Puzzle",
+          "Tags": "3D, Isometric, Puzzle-Platformer, Retro"
+        }
+      }
+    },
+    {
+      "gameId": 3983038,
+      "gameUrl": "https://dokka-testier.itch.io/sentinel",
+      "overallRank": 13,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "created_at": "2025-10-24 11:29:36",
+        "url": "/jam/2025-epic-megajam/rate/3983038",
+        "id": 783633,
+        "game": {
+          "url": "https://dokka-testier.itch.io/sentinel",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzIzNzU0NDM5LnBuZw==/300x240%23c/G9YCcv.png",
+          "title": "the last rite",
+          "user": {
+            "id": 2625488,
+            "url": "https://dokka-testier.itch.io",
+            "name": "Dokka_Testier"
+          },
+          "id": 3983038
+        },
+        "rating_count": 0,
+        "coolness": 0,
+        "field_responses": [
+          "39344:Platform1",
+          "39344:Platform2",
+          "39344:Platform3",
+          "39344:Platform4",
+          "39344:Platform5"
+        ]
+      },
+      "details": {
+        "title": "the last rite",
+        "description": "Team Name \n Brandon Buchan.\nGame Name \n The Last rite.\nLink to Gameplay Footage:\n\n\nList any content that was created before the jam.Store assets:\nhttps://freestylized.com/material/snow_01/\nhttps://freestylized.com/material/ground_with_rocks_03/\nGameplay Instructions:\nWASD: Move\nL-Shift: Run\nClick-Shoot\nR:Reload\nE: Interact\nSpace: Jump\nF: Flashlight\nGameplay InstructionsGoal:\nFind at least 5 light boxes and head to the warehouse to win.\nBe quick, or the sentries will finish you off.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzk4MzAzOC8yMzc1NDQzMS5wbmc=/original/EmpibO.png",
+          "https://img.itch.zone/aW1hZ2UvMzk4MzAzOC8yMzc1NDQzMi5wbmc=/original/ft94pb.png",
+          "https://img.itch.zone/aW1hZ2UvMzk4MzAzOC8yMzc1NDQzNS5wbmc=/original/qhNRgc.png",
+          "https://img.itch.zone/aW1hZ2UvMzk4MzAzOC8yMzc1NDQzMy5wbmc=/original/Qu80wC.png",
+          "https://img.itch.zone/aW1hZ2UvMzk4MzAzOC8yMzc1NDQzNC5wbmc=/original/RirUou.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Dokka_Testier",
+          "Genre": "Adventure, Shooter",
+          "Tags": "gamepad"
+        }
+      }
+    },
+    {
+      "gameId": 3980942,
+      "gameUrl": "https://yoavhevlin.itch.io/a-jammed-robot",
+      "overallRank": 14,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "created_at": "2025-10-23 14:07:57",
+        "url": "/jam/2025-epic-megajam/rate/3980942",
+        "id": 783287,
+        "game": {
+          "id": 3980942,
+          "user": {
+            "id": 8228545,
+            "url": "https://yoavhevlin.itch.io",
+            "name": "yoavhevlin"
+          },
+          "url": "https://yoavhevlin.itch.io/a-jammed-robot",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzIzNzQxMTYwLnBuZw==/300x240%23c/%2Bcs6WP.png",
+          "title": "A Jammed Robot",
+          "short_text": "The jam is starting you piece of metal!",
+          "cover_color": "#5f5f5f"
+        },
+        "rating_count": 0,
+        "coolness": 0,
+        "field_responses": [
+          "39344:Platform1"
+        ]
+      },
+      "details": {
+        "title": "A Jammed Robot",
+        "description": "You play as a game-making robot, participating in game jams throughout the years, each time facing the challenge of creating a game with a different theme, which adds to the difficulty.Unzip->Have fun ;)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzk4MDk0Mi8yMzc0MTMzNC5wbmc=/original/cozRo0.png",
+          "https://img.itch.zone/aW1hZ2UvMzk4MDk0Mi8yMzc0MTMzNS5wbmc=/original/oRfSnU.png",
+          "https://img.itch.zone/aW1hZ2UvMzk4MDk0Mi8yMzc0MTM5NC5wbmc=/original/uh%2B6p%2F.png",
+          "https://img.itch.zone/aW1hZ2UvMzk4MDk0Mi8yMzc0MTM5Mi5wbmc=/original/LaZhDm.png",
+          "https://img.itch.zone/aW1hZ2UvMzk4MDk0Mi8yMzc0MTM5My5wbmc=/original/PA3LgE.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "yoavhevlin",
+          "Genre": "Action",
+          "Tags": "3D, Arcade, Magical Realism, no, Robots, Sci-fi",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": 3985275,
+      "gameUrl": "https://multivitae.itch.io/58-seconds",
+      "overallRank": 15,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "created_at": "2025-10-25 03:04:56",
+        "url": "/jam/2025-epic-megajam/rate/3985275",
+        "id": 784349,
+        "game": {
+          "id": 3985275,
+          "url": "https://multivitae.itch.io/58-seconds",
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzIzNzY3NzcwLnBuZw==/300x240%23c/I5PcfC.png",
+          "title": "58 Seconds",
+          "short_text": "Caught in the failing memory buffer of an experimental machine, you must escape, before the circuits fall silent.",
+          "user": {
+            "id": 1063780,
+            "url": "https://multivitae.itch.io",
+            "name": "Multivitae"
+          }
+        },
+        "rating_count": 0,
+        "coolness": 0,
+        "field_responses": [
+          "39344:Platform1"
+        ]
+      },
+      "details": {
+        "title": "58 Seconds",
+        "description": "Caught in the failing memory buffer of an experimental machine, you must find a way to free yourself, or risk looping till the circuits fall quiet, one by one.Extract all files and folders from .zip file to your computer and run 58 Seconds.exe",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzk4NTI3NS8yMzc2ODEzMC5wbmc=/original/aUAZ%2Bc.png",
+          "https://img.itch.zone/aW1hZ2UvMzk4NTI3NS8yMzc2ODEzMS5wbmc=/original/pjwUKH.png",
+          "https://img.itch.zone/aW1hZ2UvMzk4NTI3NS8yMzc2ODEyOS5wbmc=/original/KcMgzd.png",
+          "https://img.itch.zone/aW1hZ2UvMzk4NTI3NS8yMzc2ODEzMi5wbmc=/original/HH2q3o.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Multivitae"
+        }
+      }
+    }
+  ]
+}

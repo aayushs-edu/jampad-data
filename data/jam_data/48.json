@@ -1,0 +1,3207 @@
+{
+  "n": 48,
+  "name": "Gamedev.js Jam 2023",
+  "url": "https://itch.io/jam/gamedevjs-2023",
+  "theme": "TIME",
+  "slug": "gamedevjs-2023",
+  "jamMeta": {
+    "jamType": "ended",
+    "ratings": "3,800",
+    "entries": "192",
+    "title": "Gamedev.js Jam 2023",
+    "jamURL": "https://itch.io/jam/gamedevjs-2023",
+    "hosts": {
+      "End3r": "https://end3r.itch.io",
+      "Enclave Games": "https://enclavegames.itch.io",
+      "#gamedevjs": "https://bsky.app/hashtag/gamedevjs"
+    },
+    "jamID": "321991"
+  },
+  "totalEntries": 187,
+  "ranked": true,
+  "hasCategories": true,
+  "needsManualSelection": false,
+  "categories": [
+    "Gameplay",
+    "Theme",
+    "Innovation",
+    "Graphics",
+    "Audio"
+  ],
+  "topGames": [
+    {
+      "gameId": 2036137,
+      "gameUrl": "https://chickenmission.itch.io/slush",
+      "overallRank": 3,
+      "topCategories": [
+        "Gameplay",
+        "Graphics",
+        "Audio"
+      ],
+      "resultData": {
+        "rank": 3,
+        "id": 2036137,
+        "raw_score": 3.9428571428571,
+        "rating_count": 21,
+        "contributors": [
+          {
+            "name": "ChickenMission",
+            "id": 3338230
+          }
+        ],
+        "title": "Slush",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 4.2380952380952,
+            "score": 4.2380952380952,
+            "rank": 1
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.4761904761905,
+            "score": 3.4761904761905,
+            "rank": 42
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.5238095238095,
+            "score": 3.5238095238095,
+            "rank": 31
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.3333333333333,
+            "score": 4.3333333333333,
+            "rank": 5
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.1428571428571,
+            "score": 4.1428571428571,
+            "rank": 1
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzExOTgwNjQ5LnBuZw==/300x240%23c/78T4%2FT.png",
+        "score": 3.9428571428571,
+        "url": "https://itch.io/jam/gamedevjs-2023/rate/2036137"
+      },
+      "entryData": {
+        "coolness": 17,
+        "id": 407269,
+        "created_at": "2023-04-26 00:22:50",
+        "url": "/jam/gamedevjs-2023/rate/2036137",
+        "rating_count": 21,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzExOTgwNjQ5LnBuZw==/300x240%23c/78T4%2FT.png",
+          "title": "Slush",
+          "cover_color": "#6ba3e6",
+          "id": 2036137,
+          "short_text": "A time looping platformer",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "ChickenMission",
+            "url": "https://chickenmission.itch.io",
+            "id": 3338230
+          },
+          "url": "https://chickenmission.itch.io/slush"
+        }
+      },
+      "details": {
+        "title": "Slush",
+        "description": "Full screen the game so that the UI isn't cut off. A download is available if the web build has a reduced frame rate\nThe world is stuck in a time loop, and you have to stop the clock to try and escape,  get to the end quickly or else you'll be forced back to the beginning.!\nThe faster you are, the higher your score - comment your score below :)\nControls:\nA/D to move left / right\nSpace to jump\nK to spawn a platform",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAzNjEzNy8xMTk4MDcxMC5wbmc=/original/z7AXye.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzNjEzNy8xMTk4MDcwOC5wbmc=/original/KnkpQj.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzNjEzNy8xMTk4MDcwOS5wbmc=/original/cmBLv3.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzNjEzNy8xMTk4MDcwNy5wbmc=/original/UukUC%2B.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Author": "ChickenMission",
+          "Genre": "Platformer",
+          "Made with": "Unity",
+          "Tags": "High Score, Speedrun, Time Travel"
+        }
+      }
+    },
+    {
+      "gameId": 2032567,
+      "gameUrl": "https://gubebra.itch.io/evade",
+      "overallRank": 11,
+      "topCategories": [
+        "Gameplay",
+        "Audio"
+      ],
+      "resultData": {
+        "rank": 11,
+        "id": 2032567,
+        "raw_score": 3.7545454545455,
+        "rating_count": 44,
+        "contributors": [
+          {
+            "name": "gubebra",
+            "id": 1656764
+          },
+          {
+            "name": "mikomoares",
+            "id": 2306766
+          }
+        ],
+        "title": "Evade - Jam version",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 4.2272727272727,
+            "score": 4.2272727272727,
+            "rank": 2
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.5909090909091,
+            "score": 3.5909090909091,
+            "rank": 37
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.3636363636364,
+            "score": 3.3636363636364,
+            "rank": 41
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.7045454545455,
+            "score": 3.7045454545455,
+            "rank": 34
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.8863636363636,
+            "score": 3.8863636363636,
+            "rank": 7
+          },
+          {
+            "name": "Flash Revival",
+            "raw_score": 0,
+            "score": 0,
+            "rank": 1
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzExOTc3Mzc5LmdpZg==/300x240%23c/lvOMl7.gif",
+        "score": 3.7545454545455,
+        "url": "https://itch.io/jam/gamedevjs-2023/rate/2032567"
+      },
+      "entryData": {
+        "coolness": 11,
+        "url": "/jam/gamedevjs-2023/rate/2032567",
+        "rating_count": 44,
+        "id": 407287,
+        "created_at": "2023-04-26 02:41:56",
+        "contributors": [
+          {
+            "name": "gubebra",
+            "url": "https://gubebra.itch.io"
+          },
+          {
+            "name": "mikomoares",
+            "url": "https://mikomoares.itch.io"
+          }
+        ],
+        "field_responses": [
+          "18633:1",
+          "18633:2"
+        ],
+        "game": {
+          "gif_cover": "https://img.itch.zone/aW1nLzExOTc3Mzc5LmdpZg==/original/RgOPUQ.gif",
+          "id": 2032567,
+          "user": {
+            "name": "gubebra",
+            "url": "https://gubebra.itch.io",
+            "id": 1656764
+          },
+          "cover": "https://img.itch.zone/aW1nLzExOTc3Mzc5LmdpZg==/300x240%23c/lvOMl7.gif",
+          "title": "Evade - Jam version",
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#000000",
+          "short_text": "Dodge and control time to avoid obstacles.",
+          "url": "https://gubebra.itch.io/evade"
+        }
+      },
+      "details": {
+        "title": "Evade - Jam version",
+        "description": "THE FINAL VERSION CAN BE PLAYED IN CRAZYGAMES IN THIS LINK.Left mouse click to use time / ESC to pause.\nControl TIME and gain power ups for each wave completed. To complete a wave, you need to survive a certain TIME. This game was made for  Gamedev.js Jam 2023 with the theme TIME in a week.\nA game made by gubebra and mikomoares.\n\nFlash Revival Challenge\nGame inspired by Avoider. Avoider is also a mouse avoider type game. The minimalistic and simple colors were inspired by the game. Three of the six enemies types in Evade were also inspired by the flash game (circle bounces the window, arrow shoots torwards player and triangle moves like the rockets from the game). Avoider enemy function in phases, that we decided to portrait as waves. Last but not least, Evade is a hypercasual and simple game to play rigt away.\nOpen Source Challenge\nJam code on Github. The game is made entirely in shaders, with no assets/sprites whatsoever.\n\nMusic by BjoKib. \nSFX1, SFX2, SFX3, SFX4, \nIf you are having low fps issues, make sure hardware acceleration is turned on for your browser. That’s probably the fix.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAzMjU2Ny8xMTk3NzM5MC5naWY=/original/0CRIW3.gif",
+          "https://img.itch.zone/aW1hZ2UvMjAzMjU2Ny8xMTk3NzM3NC5naWY=/original/rwYkYk.gif",
+          "https://img.itch.zone/aW1hZ2UvMjAzMjU2Ny8xMTk3NzM3MS5naWY=/original/O2oPSK.gif",
+          "https://img.itch.zone/aW1hZ2UvMjAzMjU2Ny8xMTk3NzQyNS5naWY=/original/abdGfz.gif",
+          "https://img.itch.zone/aW1hZ2UvMjAzMjU2Ny8xMTk3NzQyNi5naWY=/original/yfojGd.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.8 out of 5 stars(6 total ratings)",
+          "Authors": "gubebra, mikomoares",
+          "Genre": "Survival, Adventure",
+          "Tags": "2D, Arcade, Bullet Hell, Indie, Minimalist, one-button, Pixel Art, Retro"
+        }
+      }
+    },
+    {
+      "gameId": 2018672,
+      "gameUrl": "https://dream-jam-games.itch.io/potion-panic",
+      "overallRank": 6,
+      "topCategories": [
+        "Gameplay",
+        "Graphics",
+        "Audio"
+      ],
+      "resultData": {
+        "rank": 6,
+        "id": 2018672,
+        "raw_score": 3.8958904109589,
+        "rating_count": 73,
+        "contributors": [
+          {
+            "name": "Dream Jam Games",
+            "id": 7876740
+          },
+          {
+            "name": "TroldeAnsigt",
+            "id": 3782909
+          },
+          {
+            "name": "duendue",
+            "id": 3618897
+          },
+          {
+            "name": "LaDane",
+            "id": 4198669
+          },
+          {
+            "name": "Mathias V",
+            "id": 7911868
+          }
+        ],
+        "title": "Potion Panic",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 4.1780821917808,
+            "score": 4.1780821917808,
+            "rank": 3
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.3287671232877,
+            "score": 3.3287671232877,
+            "rank": 50
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.4246575342466,
+            "score": 3.4246575342466,
+            "rank": 36
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.4794520547945,
+            "score": 4.4794520547945,
+            "rank": 2
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.0684931506849,
+            "score": 4.0684931506849,
+            "rank": 3
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzExOTUzNjE5LnBuZw==/300x240%23c/Q1A6Ke.png",
+        "score": 3.8958904109589,
+        "url": "https://itch.io/jam/gamedevjs-2023/rate/2018672"
+      },
+      "entryData": {
+        "coolness": 84,
+        "url": "/jam/gamedevjs-2023/rate/2018672",
+        "id": 407083,
+        "created_at": "2023-04-24 20:49:13",
+        "contributors": [
+          {
+            "name": "Dream Jam Games",
+            "url": "https://dream-jam-games.itch.io"
+          },
+          {
+            "name": "TroldeAnsigt",
+            "url": "https://troldeansigt.itch.io"
+          },
+          {
+            "name": "duendue",
+            "url": "https://duendue.itch.io"
+          },
+          {
+            "name": "LaDane",
+            "url": "https://ladane.itch.io"
+          },
+          {
+            "name": "Mathias V",
+            "url": "https://dennisdovendyr.itch.io"
+          }
+        ],
+        "rating_count": 73,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzExOTUzNjE5LnBuZw==/300x240%23c/Q1A6Ke.png",
+          "title": "Potion Panic",
+          "cover_color": "#dbaf7b",
+          "id": 2018672,
+          "short_text": "See if you can keep calm while handling orders, brewing potions, earning money and buying upgrades in Potion Panic!",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "user": {
+            "name": "Dream Jam Games",
+            "url": "https://dream-jam-games.itch.io",
+            "id": 7876740
+          },
+          "url": "https://dream-jam-games.itch.io/potion-panic"
+        }
+      },
+      "details": {
+        "title": "Potion Panic",
+        "description": "Brew potions, handle orders and manage your own potion shop! Can you keep track of everything as the shop evolves as you play?\nThe Grand Wizard is going on a well deserved vacation, and has put you in charge of running his potion shop. To make sure you do your job, he has cast a hex on you, so you can't stop moving!\nAdventurers need potions for their quests, so now you must brew their potions and manage the shop. The potion recipes are very delicate so be careful! If you miss a step, you will have to wait for the brew to evaporate before you can try again.\nThe shop is full of delicate magical artefacts and ancient tomes. Try not to break anything!\nControls:Move the apprentice with the mouse.\nPress 'Left-Click' to throw ingredients and potions. This is useful when you are in a rush to deliver a potion, or you need to discard an unwanted ingredient.\nPress 'P' to pause the game when you need a break.\n\nNOTE: At the moment, the performance of the web build for Mac OS is suboptimal. If you are using a Mac, we recommend playing in windowed mode with reduced graphic settings, or using the downloadable build.\n\nFeatures:\nThis game consist of approximately 30-40 minutes of gameplay to gain all unlocks. \n\nThrow ingredients and potions\n\nMix different ingredients and make potions\n\nSell your potions to questing adventurers and earn money\n\n\nBuy new recipes and upgrades \n\n\n\n  \n    Enjoyed Potion Panic?\n    Experience the skies as Gizmo Rabbit in our vehicle-building simulation game.\n  \n\n\n\nCredits:\nPotion Panic is a game jam game developed by Dream Jam Games. We are a small party of hobbyist game developers, participating in occasional game jams, whenever possible.\n Our games each seek to deliver a joyous experience, delivered in  small packages of easily ingestible little pieces  - Like delicious jars  of jam.\n So grab a spoon, load it up with one of our games and dig in!\nThe following members took part in the creation of Potion Panic:https://ladane.itch.io/https://troldeansigt.itch.io/https://duendue.itch.io/https://dennisdovendyr.itch.io/\n\n\nThird Party Assets:\nFont: Motley Forces Regular - 1001 Fonts\nArrow Graphics:Image by juicy_fish on Freepik \nSounds:All sounds are from Freesound.org\nMusic:Main Menu Theme - Puzzle Game by Viacheslav_Okhrymenko, pond5.comGame soundtrack - Electro Swing Fun by SunlightAudio, pond5.com\nHigh Res Images in picture frames and at Game Over screen:Generated with chatbot\n\n\nThanks for playing!\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAxODY3Mi8xMTk1Nzg0Mi5naWY=/original/a5vraP.gif",
+          "https://img.itch.zone/aW1hZ2UvMjAxODY3Mi8xMTk3NTgxMC5naWY=/original/vJEHZY.gif",
+          "https://img.itch.zone/aW1hZ2UvMjAxODY3Mi8xMTk1Nzg2OC5naWY=/original/9dnCXr.gif",
+          "https://img.itch.zone/aW1hZ2UvMjAxODY3Mi8xMTk1Nzg0My5naWY=/original/mSkylz.gif",
+          "https://img.itch.zone/aW1hZ2UvMjAxODY3Mi8xMTk1Nzg0NS5naWY=/original/knzL4j.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 4.7 out of 5 stars(6 total ratings)",
+          "Authors": "Dream Jam Games, TroldeAnsigt, duendue, LaDane, Mathias V",
+          "Genre": "Simulation",
+          "Made with": "Unity",
+          "Tags": "3D, Arcade, Casual, Cozy, Fantasy, Funny, Low-poly, Medieval, Physics, Working Simulator",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Mouse",
+          "Accessibility": "One button"
+        }
+      }
+    },
+    {
+      "gameId": 2015380,
+      "gameUrl": "https://nnda.itch.io/timekeeper",
+      "overallRank": 1,
+      "topCategories": [
+        "Gameplay",
+        "Graphics",
+        "Audio"
+      ],
+      "resultData": {
+        "rank": 1,
+        "id": 2015380,
+        "raw_score": 4.0888888888889,
+        "rating_count": 18,
+        "contributors": [
+          {
+            "name": "nnda",
+            "id": 4664498
+          }
+        ],
+        "title": "Timekeeper",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 4.1666666666667,
+            "score": 4.1666666666667,
+            "rank": 4
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.0555555555556,
+            "score": 4.0555555555556,
+            "rank": 11
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.5,
+            "score": 3.5,
+            "rank": 32
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.7222222222222,
+            "score": 4.7222222222222,
+            "rank": 1
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4,
+            "score": 4,
+            "rank": 5
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzExOTc4NTgwLnBuZw==/300x240%23c/fSVcKJ.png",
+        "score": 4.0888888888889,
+        "url": "https://itch.io/jam/gamedevjs-2023/rate/2015380"
+      },
+      "entryData": {
+        "coolness": 33,
+        "url": "/jam/gamedevjs-2023/rate/2015380",
+        "id": 407345,
+        "created_at": "2023-04-26 09:39:25",
+        "rating_count": 18,
+        "field_responses": [
+          "18633:1"
+        ],
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzExOTc4NTgwLnBuZw==/300x240%23c/fSVcKJ.png",
+          "title": "Timekeeper",
+          "cover_color": "#0e0a05",
+          "id": 2015380,
+          "platforms": [
+            "windows",
+            "linux",
+            "web"
+          ],
+          "user": {
+            "name": "nnda",
+            "url": "https://nnda.itch.io",
+            "id": 4664498
+          },
+          "url": "https://nnda.itch.io/timekeeper"
+        }
+      },
+      "details": {
+        "title": "Timekeeper",
+        "description": "\n\nYou are a caretaker of The TimekeeperKeep its gearwheel running\n\nCredits\n\nArts & Programming\n\n\n\nnnda\n\n\n\nSound Effects\n\n\n\nMixkit.co\nSteamboat Engine Sound by Spring Spring\n\n\n\nMusic\n\n\n\n\nFantasy RPG Soundtrack Music by alkakrab\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAxNTM4MC8xMTk3ODU4Mi5wbmc=/original/Dlc24M.png",
+          "https://img.itch.zone/aW1hZ2UvMjAxNTM4MC8xMTk3ODU4My5wbmc=/original/LdywVq.png",
+          "https://img.itch.zone/aW1hZ2UvMjAxNTM4MC8xMTk3ODU4NC5wbmc=/original/Y73GKH.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, Linux",
+          "Rating": "Rated 4.0 out of 5 stars(3 total ratings)",
+          "Author": "nnda",
+          "Genre": "Platformer",
+          "Made with": "Godot, Paint.net",
+          "Tags": "2D, clockwork, Godot, Pixel Art, Puzzle-Platformer, Short, Singleplayer",
+          "Code license": "MIT License",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Touchscreen",
+          "Links": "Source code"
+        }
+      }
+    },
+    {
+      "gameId": 2033353,
+      "gameUrl": "https://jiaoshouma.itch.io/time-matrix",
+      "overallRank": 5,
+      "topCategories": [
+        "Gameplay",
+        "Theme",
+        "Innovation",
+        "Audio"
+      ],
+      "resultData": {
+        "rank": 5,
+        "id": 2033353,
+        "raw_score": 3.9,
+        "rating_count": 20,
+        "contributors": [
+          {
+            "name": "JiaoshouMa",
+            "id": 6379631
+          }
+        ],
+        "title": "Time Matrix",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 4.1,
+            "score": 4.1,
+            "rank": 5
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.2,
+            "score": 4.2,
+            "rank": 4
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 4.05,
+            "score": 4.05,
+            "rank": 1
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.3,
+            "score": 3.3,
+            "rank": 69
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.85,
+            "score": 3.85,
+            "rank": 9
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzExOTY3NzEzLnBuZw==/300x240%23c/IsIHjd.png",
+        "score": 3.9,
+        "url": "https://itch.io/jam/gamedevjs-2023/rate/2033353"
+      },
+      "entryData": {
+        "coolness": 16,
+        "id": 406759,
+        "created_at": "2023-04-24 13:08:34",
+        "url": "/jam/gamedevjs-2023/rate/2033353",
+        "rating_count": 20,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzExOTY3NzEzLnBuZw==/300x240%23c/IsIHjd.png",
+          "title": "Time Matrix",
+          "id": 2033353,
+          "short_text": "Match people in a matrix of time#Gamedev.js Jam",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "JiaoshouMa",
+            "url": "https://jiaoshouma.itch.io",
+            "id": 6379631
+          },
+          "url": "https://jiaoshouma.itch.io/time-matrix"
+        }
+      },
+      "details": {
+        "title": "Time Matrix",
+        "description": "People live in a magical matrix where time flows discretely.\nMatch them by clicking before their time run out and turn into ghosts.\nA game for Gamedev.js Jam 2023.The theme is :TIME.\nHave fun!\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzExOTY3NzEzLnBuZw==/original/kwUIfL.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "JiaoshouMa",
+          "Made with": "Unity",
+          "Tags": "Casual"
+        }
+      }
+    },
+    {
+      "gameId": 2029528,
+      "gameUrl": "https://crisschiaff.itch.io/nostalgia",
+      "overallRank": 10,
+      "topCategories": [
+        "Gameplay",
+        "Audio"
+      ],
+      "resultData": {
+        "rank": 10,
+        "id": 2029528,
+        "raw_score": 3.7583333333333,
+        "rating_count": 24,
+        "contributors": [
+          {
+            "name": "Cristiano",
+            "id": 7569013
+          }
+        ],
+        "title": "nostalgia",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 4.0833333333333,
+            "score": 4.0833333333333,
+            "rank": 6
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.1666666666667,
+            "score": 3.1666666666667,
+            "rank": 58
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.2083333333333,
+            "score": 3.2083333333333,
+            "rank": 51
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.2083333333333,
+            "score": 4.2083333333333,
+            "rank": 12
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.125,
+            "score": 4.125,
+            "rank": 2
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzExOTcyMjU2LmpwZw==/300x240%23c/RZ5ztx.jpg",
+        "score": 3.7583333333333,
+        "url": "https://itch.io/jam/gamedevjs-2023/rate/2029528"
+      },
+      "entryData": {
+        "coolness": 52,
+        "id": 407168,
+        "created_at": "2023-04-25 11:06:47",
+        "url": "/jam/gamedevjs-2023/rate/2029528",
+        "rating_count": 24,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzExOTcyMjU2LmpwZw==/300x240%23c/RZ5ztx.jpg",
+          "title": "nostalgia",
+          "cover_color": "#0B0B0B",
+          "id": 2029528,
+          "short_text": "In the darkness of an abandoned box, an old television set gains self-awareness and new, interesting skills.",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Cristiano",
+            "url": "https://crisschiaff.itch.io",
+            "id": 7569013
+          },
+          "url": "https://crisschiaff.itch.io/nostalgia"
+        }
+      },
+      "details": {
+        "title": "nostalgia",
+        "description": "\n\n\nIn the darkness of an abandoned box, an old television set gains self-awareness and new, interesting skills. Will nostalgia be enough to prevent him from a sad fate? \"Nostalgia\" is a rhythm game prepared for Gamedev.js Jam 2023.\n\n\n\nThe game supports two modes:\nStory mode - RECOMMENDED: Play this mode if you want to have fun and enjoy the story without facing a difficult challenge that will require multiple attempts.\nChallenge mode: Can you keep up with the rhythm and master the game? Play this mode if you want a higher level of challenge!\nDuring the creative process, I was inspired to interpret the theme of the Game Jam \"Time\" in a unique way. The result is a play where the main character is transported back in time through an encounter with an ancient artifact. While remaining in the present, the protagonist is able to witness a past time and experience a different era first-hand.\nI invite you to share your feedback and scores in the comments below. Your input allows me to continually improve and enhance this game for an even better gaming experience. Thank you for playing!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAyOTUyOC8xMTk2ODQ1Mi5wbmc=/original/d5y%2Brq.png",
+          "https://img.itch.zone/aW1hZ2UvMjAyOTUyOC8xMTk2ODQ2OC5wbmc=/original/I0LfSU.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Cristiano",
+          "Genre": "Rhythm",
+          "Made with": "Unity, Inkscape",
+          "Tags": "Creepy, Music, Mystery, old-school, Retro, Singleplayer, vintage",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard",
+          "Accessibility": "Interactive tutorial"
+        }
+      }
+    },
+    {
+      "gameId": 2030617,
+      "gameUrl": "https://abhishan.itch.io/yurei",
+      "overallRank": 8,
+      "topCategories": [
+        "Gameplay",
+        "Theme"
+      ],
+      "resultData": {
+        "rank": 8,
+        "id": 2030617,
+        "raw_score": 3.8555555555556,
+        "rating_count": 18,
+        "contributors": [
+          {
+            "name": "abhishan",
+            "id": 77687
+          }
+        ],
+        "title": "Yurei - The Spirit",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 4,
+            "score": 4,
+            "rank": 7
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.1666666666667,
+            "score": 4.1666666666667,
+            "rank": 6
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.7777777777778,
+            "score": 3.7777777777778,
+            "rank": 13
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.8333333333333,
+            "score": 3.8333333333333,
+            "rank": 27
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.5,
+            "score": 3.5,
+            "rank": 27
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzExOTczMjczLnBuZw==/300x240%23c/sUMYs8.png",
+        "score": 3.8555555555556,
+        "url": "https://itch.io/jam/gamedevjs-2023/rate/2030617"
+      },
+      "entryData": {
+        "coolness": 7,
+        "id": 405962,
+        "created_at": "2023-04-22 23:00:24",
+        "url": "/jam/gamedevjs-2023/rate/2030617",
+        "rating_count": 18,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzExOTczMjczLnBuZw==/300x240%23c/sUMYs8.png",
+          "title": "Yurei - The Spirit",
+          "cover_color": "#743f39",
+          "id": 2030617,
+          "short_text": "A Wizard uses the Yurei spell to conjure sprits to rewind & control time",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "abhishan",
+            "url": "https://abhishan.itch.io",
+            "id": 77687
+          },
+          "url": "https://abhishan.itch.io/yurei"
+        }
+      },
+      "details": {
+        "title": "Yurei - The Spirit",
+        "description": "As the Wizard, your ultimate goal is to escape the 7 levels of Hell Underground by finding and collecting 3 keys. However, the journey to freedom won't be an easy one, as each level is filled with traps & puzzles.\nTo help you on your quest, you possess the \"Yurei\" (幽霊) spell, which allows you to rewind and control time. After you cast the spell, you have a few seconds to act, and your Yurei or Spirit will mimic the actions you performed when time rewinds. This can be a valuable tool to help you avoid traps and solve puzzles.\n\n\nTiming and positioning are crucial when using the Yurei spell. You must carefully plan your actions and decide when and where to cast the spell to ensure that your Yurei will perform the actions you need to progress through the level.\nAs you progress through each level, the challenges and obstacles become more difficult. Only by using your wit, strategy, and magic can you hope to escape the depths of Hell Underground and claim your freedom.\nAre you ready to take on the challenge and escape the 7 levels of Hell Underground as the Wizard?\n------------------------------------------\nDeveloped for Gamedev.JS Jam 2023. Theme is  TIME.\nArrow Keys to MoveSpace to invoke Yurei spellR to restart a level ",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAzMDYxNy8xMTk0NDIzMi5naWY=/original/ht2hYl.gif",
+          "https://img.itch.zone/aW1hZ2UvMjAzMDYxNy8xMTk3NTg2My5wbmc=/original/sO4iVg.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMDYxNy8xMTk3NTg2Ny5wbmc=/original/sTcdEE.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMDYxNy8xMTk0NDI2NS5wbmc=/original/mfSIZy.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "abhishan",
+          "Genre": "Puzzle",
+          "Made with": "Construct",
+          "Tags": "2D, Construct 2, dungeon, Indie, Pixel Art, rewind, Singleplayer, Time Travel, Wizards"
+        }
+      }
+    },
+    {
+      "gameId": 2036394,
+      "gameUrl": "https://fe26.itch.io/quopture",
+      "overallRank": 49,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "rank": 49,
+        "id": 2036394,
+        "raw_score": 3.2636363636364,
+        "rating_count": 22,
+        "contributors": [
+          {
+            "name": "Fe26",
+            "id": 1675443
+          }
+        ],
+        "title": "quopture",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.8636363636364,
+            "score": 3.8636363636364,
+            "rank": 8
+          },
+          {
+            "name": "Theme",
+            "raw_score": 2.5909090909091,
+            "score": 2.5909090909091,
+            "rank": 97
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 2.9545454545455,
+            "score": 2.9545454545455,
+            "rank": 74
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.4545454545455,
+            "score": 3.4545454545455,
+            "rank": 56
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.4545454545455,
+            "score": 3.4545454545455,
+            "rank": 31
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzEyMDA1Mjg2LmdpZg==/300x240%23c/TAK9UY.gif",
+        "score": 3.2636363636364,
+        "url": "https://itch.io/jam/gamedevjs-2023/rate/2036394"
+      },
+      "entryData": {
+        "coolness": 18,
+        "url": "/jam/gamedevjs-2023/rate/2036394",
+        "id": 407314,
+        "created_at": "2023-04-26 04:59:51",
+        "rating_count": 22,
+        "field_responses": [
+          "18633:1"
+        ],
+        "game": {
+          "gif_cover": "https://img.itch.zone/aW1nLzEyMDA1Mjg2LmdpZg==/original/E0GA8n.gif",
+          "id": 2036394,
+          "user": {
+            "name": "Fe26",
+            "url": "https://fe26.itch.io",
+            "id": 1675443
+          },
+          "cover": "https://img.itch.zone/aW1nLzEyMDA1Mjg2LmdpZg==/300x240%23c/TAK9UY.gif",
+          "title": "quopture",
+          "platforms": [
+            "windows",
+            "android",
+            "web"
+          ],
+          "cover_color": "#120619",
+          "short_text": "A short arcade experience",
+          "url": "https://fe26.itch.io/quopture"
+        }
+      },
+      "details": {
+        "title": "quopture",
+        "description": "\n.\n.\n. .\n. . .\n. . . . .\n. . . . . . . .\n. . . . . . . . . . . . .\nAn arcade experience. \n\n\n\n-- Controls--\nArrows or WASD to move\n\nZ, X, J, K or Space to interact\n\n+ / - or F1 / F2 to adjust the volume \nF or  F3 to fullscreen/window mode (only executable)\n\nM to mute / unmute\n\nNumbers for \"something else\"\n\n(also compatible with gamepad)\n\n\n-- Soudtrack--     \nBandcamp\nSoundcloud\nYoutube\n\n-- Medals (Newgrounds API) --\nhttps://www.newgrounds.com/portal/view/898706\n\n\n\n(Originally made for Gamedev.js Jam)\n\n. . . . . . . . . . . . . . . . . . . . \n. . . . . . . .\n. . . . \n. . \n. .\n\n.\n\n.\n\n\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAzNjM5NC8xMTk4NjA0Mi5wbmc=/original/EeV4%2FR.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzNjM5NC8xMTk4NjA0NC5wbmc=/original/03mWqN.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzNjM5NC8xMTk4NjA0Ny5wbmc=/original/SA8KO8.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzNjM5NC8xMTk4NjA0OC5wbmc=/original/u61c%2Bg.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, Android",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Fe26",
+          "Made with": "GameMaker",
+          "Tags": "Arcade, Atmospheric, Dreams, experience, Exploration, Narrative"
+        }
+      }
+    },
+    {
+      "gameId": 2023879,
+      "gameUrl": "https://terrycrow.itch.io/boom-time",
+      "overallRank": 35,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "rank": 35,
+        "id": 2023879,
+        "raw_score": 3.3882352941176,
+        "rating_count": 34,
+        "contributors": [
+          {
+            "name": "翼比天高",
+            "id": 476423
+          }
+        ],
+        "title": "Boom Time",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.8529411764706,
+            "score": 3.8529411764706,
+            "rank": 9
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.1470588235294,
+            "score": 3.1470588235294,
+            "rank": 59
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.4117647058824,
+            "score": 3.4117647058824,
+            "rank": 38
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.4705882352941,
+            "score": 3.4705882352941,
+            "rank": 53
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.0588235294118,
+            "score": 3.0588235294118,
+            "rank": 67
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzExOTE5MTUwLmpwZw==/300x240%23c/UyHWUs.jpg",
+        "score": 3.3882352941176,
+        "url": "https://itch.io/jam/gamedevjs-2023/rate/2023879"
+      },
+      "entryData": {
+        "coolness": 84,
+        "id": 407185,
+        "created_at": "2023-04-25 13:53:13",
+        "url": "/jam/gamedevjs-2023/rate/2023879",
+        "rating_count": 34,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzExOTE5MTUwLmpwZw==/300x240%23c/UyHWUs.jpg",
+          "title": "Boom Time",
+          "cover_color": "#cfc7bc",
+          "id": 2023879,
+          "short_text": "Slow! Explode! Survive!",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "翼比天高",
+            "url": "https://terrycrow.itch.io",
+            "id": 476423
+          },
+          "url": "https://terrycrow.itch.io/boom-time"
+        }
+      },
+      "details": {
+        "title": "Boom Time",
+        "description": "There was a bug in the Tutorial, Sorry about that!\nMouse to move, hold down the left mouse button to charge.\nrelease the left mouse button to explode.\nThe longer you hold down the left mouse button, the larger the explosion range.\n\nIt still an early prototype for testing an idea out, fate of project unknown\nIf you like it please let me know",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzExOTE5MTUwLmpwZw==/original/1Crtkd.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Author": "翼比天高",
+          "Genre": "Survival",
+          "Made with": "Construct"
+        }
+      }
+    },
+    {
+      "gameId": 2033472,
+      "gameUrl": "https://m0hm0h.itch.io/time-rush",
+      "overallRank": 20,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "rank": 20,
+        "id": 2033472,
+        "raw_score": 3.58,
+        "rating_count": 20,
+        "contributors": [
+          {
+            "name": "MOHMOH",
+            "id": 6165905
+          }
+        ],
+        "title": "Time Rush",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.85,
+            "score": 3.85,
+            "rank": 10
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.25,
+            "score": 3.25,
+            "rank": 51
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.1,
+            "score": 3.1,
+            "rank": 60
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.05,
+            "score": 4.05,
+            "rank": 19
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.65,
+            "score": 3.65,
+            "rank": 18
+          },
+          {
+            "name": "Open Source",
+            "raw_score": 0,
+            "score": 0,
+            "rank": 2
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzExOTcwMTU1LnBuZw==/300x240%23c/vVnAAj.png",
+        "score": 3.58,
+        "url": "https://itch.io/jam/gamedevjs-2023/rate/2033472"
+      },
+      "entryData": {
+        "coolness": 8,
+        "url": "/jam/gamedevjs-2023/rate/2033472",
+        "id": 406817,
+        "created_at": "2023-04-24 14:47:34",
+        "rating_count": 20,
+        "field_responses": [
+          "18633:1"
+        ],
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzExOTcwMTU1LnBuZw==/300x240%23c/vVnAAj.png",
+          "title": "Time Rush",
+          "cover_color": "#ffffff",
+          "id": 2033472,
+          "short_text": "Time Rush is a GameDevjs Submition",
+          "platforms": [
+            "android",
+            "web"
+          ],
+          "user": {
+            "name": "MOHMOH",
+            "url": "https://m0hm0h.itch.io",
+            "id": 6165905
+          },
+          "url": "https://m0hm0h.itch.io/time-rush"
+        }
+      },
+      "details": {
+        "title": "Time Rush",
+        "description": "\nAh, Time Rush! My  submission to the game Jam, brought to life in just five days. Now, I know what you're thinking: \"Five days? Weren't you given two whole weeks?\" Well, in my defense, I didn't exactly join the party on time. You see, I completely missed the memo until a full week had already passed me by. But hey, that's what caffeine-fueled coding binges are for, am I right? With a little sleep deprivation and a lot of determination, I managed to churn out Time Rush in record time. Who needs a full two weeks, anyway? I'll take my five-day masterpiece any day of the week!\nThe Android got a small bug :)\nGame concept\nThe game concept revolves around the jam's theme of \"Time,\" where Time Rush emphasizes that time is the ultimate currency. Every aspect of the game, including ammunition, health terminals, and the timer, are all interconnected, and using any of them consumes time while providing a beneficial outcome. Whether it be replenishing ammo for your weapons, repairing your level, or unlocking the portal at the end of each level, each action requires a careful balance of time management to progress through the game.\nTerminals\n\nPick Ups\nLike most games, Time Rush offers a variety of pickups to help players heal and protect themselves. Throughout the levels, you will come across time capsules that heal your timer by five units, thereby also healing yourself. Additionally, you will encounter shield capsules that enable you to ignore a single instance of damage, with the number of capsules you collect directly influencing how many instances of damage you can ignore. With these pickups at your disposal, you can carefully strategize and maneuver through each level, minimizing the damage taken while optimizing your use of time to progress through the game.\n\nAh, the age-old struggle of a game developer: too many ideas, too little time. I could have taken Time Rush to the next level, with all sorts of crazy features and gameplay mechanics. Alas, pesky old work kept getting in the way, and my time was running short. But just in case anyone's curious, here are a few of the ideas\n \nBoss 2 second faze\n\nBoss 3\n\nSkills that I wanted to add (I added only the shield)\n\nWow, if you're still reading this, you deserve a medal! Seriously though, from the bottom of my heart, thank you for taking the time to play Time Rush. I know there are a million and one other things you could be doing right now, so the fact that you've chosen to spend even a small chunk of your day on my little game means the world to me.\n\nAnd fear not, my dear reader, for Time Rush is far from over. I'll be continuing to work on the game and document my progress through regular devlogs, so you can stay in the loop and watch as this little project of mine grows into something truly special.\n\nOf course, I couldn't have done any of this without the amazing folks over at GameDevjs, who provided the perfect platform for me to showcase my skills and creativity. This game jam was my first, but it certainly won't be my last. So thanks again, and I hope to see you in the next one!\n\n\nAssets Used\nwibuka - Trevor-pupkin - bdragon1727\n\n\nTHANK YOU AGAIN",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAzMzQ3Mi8xMTk1OTAxMi5wbmc=/original/3VPgwf.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMzQ3Mi8xMTk1OTAxMy5wbmc=/original/jvF7WO.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMzQ3Mi8xMTk1OTAxNS5wbmc=/original/hZThQx.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMzQ3Mi8xMTk1OTAxNi5wbmc=/original/%2FDgczo.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzMzQ3Mi8xMTk1OTAxNC5wbmc=/original/lLzvz1.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Android",
+          "Author": "MOHMOH",
+          "Genre": "Action, Adventure, Shooter",
+          "Made with": "GDevelop",
+          "Tags": "2D, Game Jam, gdevelop, Pixel Art"
+        }
+      }
+    },
+    {
+      "gameId": 2026070,
+      "gameUrl": "https://briandouglasie.itch.io/time-match",
+      "overallRank": 16,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "rank": 16,
+        "id": 2026070,
+        "raw_score": 3.6538461538462,
+        "rating_count": 26,
+        "contributors": [
+          {
+            "name": "BrianDouglasIE",
+            "id": 834147
+          }
+        ],
+        "title": "Time Match",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.5384615384615,
+            "score": 3.5384615384615,
+            "rank": 27
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.3846153846154,
+            "score": 4.3846153846154,
+            "rank": 1
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.6923076923077,
+            "score": 3.6923076923077,
+            "rank": 19
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.3846153846154,
+            "score": 3.3846153846154,
+            "rank": 62
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.2692307692308,
+            "score": 3.2692307692308,
+            "rank": 49
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzExOTc5MDM1LnBuZw==/300x240%23c/2mXlvv.png",
+        "score": 3.6538461538462,
+        "url": "https://itch.io/jam/gamedevjs-2023/rate/2026070"
+      },
+      "entryData": {
+        "coolness": 20,
+        "url": "/jam/gamedevjs-2023/rate/2026070",
+        "id": 407341,
+        "created_at": "2023-04-26 08:57:05",
+        "rating_count": 26,
+        "field_responses": [
+          "18633:1"
+        ],
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzExOTc5MDM1LnBuZw==/300x240%23c/2mXlvv.png",
+          "title": "Time Match",
+          "cover_color": "#271646",
+          "id": 2026070,
+          "short_text": "Match the digital clock's time with the analog clock.",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "BrianDouglasIE",
+            "url": "https://briandouglasie.itch.io",
+            "id": 834147
+          },
+          "url": "https://briandouglasie.itch.io/time-match"
+        }
+      },
+      "details": {
+        "title": "Time Match",
+        "description": "Description\nIt's time for analog to fight back!\nThe evil digital clocks have left their home galaxy of the Digital Nebula and come to invade the peaceful Analog Star Cluster.\nChoose one of three analog heroes to represent you in the fight against digitization.\nA special targeting system has been developed by the Analog War engineers. To use it you must match the time on the incoming digital clock, using the hour and minute hands. Once they match, a special homing missile will be fired to destroy the evil digital tyrant.\nBut be careful, if the digital clock strikes the analog clock it will loose one of it's three lives.\nScore high and you will be rewarded with your own spot on the galactic score board.\nMay the seconds be with you!\nThe Goal\n Time match is intended to be an educational game. In this digital age, the opportunity for children to learn analog time is low. \nTime Match seeks to teach kids how to associate analog time with it's digital equivalent in a fun manner. Enhance pattern matching skills by giving control of the hour and minute hand to the player. As well as develop quick recall by adding a time based incentive.\nDevices\nThis version of Time Match, the itch.io version, is intended to be played on Desktop using the keyboard. There are also UI controls, the plus and minus buttons, if the player wishes to use the mouse.\nKeyboard Controls\n\n\n\nHour Hand\n\n\n\n\nUp Arrow Key\nIncrement Hour\n\n\nDown Arrow Key\nDecrement Hour\n\n\n\n\n\n\nMinute Hand\n\n\n\n\nRight Arrow Key\nIncrement Hour\n\n\nLeft Arrow Key\nDecrement Hour\n\n\n\nThe Team\nBrian Douglas - ProgrammerEmma Douglas - Graphic DesignerAndres De La Espriella - Sound and Music Designer\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAyNjA3MC8xMTk3NjYwNC5wbmc=/original/VPWNOq.png",
+          "https://img.itch.zone/aW1hZ2UvMjAyNjA3MC8xMTk3NjYwNS5wbmc=/original/%2FAxVZm.png",
+          "https://img.itch.zone/aW1hZ2UvMjAyNjA3MC8xMTk3NjYwNi5wbmc=/original/gRYxDt.png",
+          "https://img.itch.zone/aW1hZ2UvMjAyNjA3MC8xMTk3NjYwNy5wbmc=/original/vmgiaX.png",
+          "https://img.itch.zone/aW1hZ2UvMjAyNjA3MC8xMTk3NjYwOC5wbmc=/original/sWFt43.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "BrianDouglasIE",
+          "Genre": "Educational",
+          "Tags": "clock"
+        }
+      }
+    },
+    {
+      "gameId": 2010325,
+      "gameUrl": "https://nothing-d.itch.io/cowboy-conundrum",
+      "overallRank": 2,
+      "topCategories": [
+        "Theme",
+        "Innovation",
+        "Graphics",
+        "Audio"
+      ],
+      "resultData": {
+        "rank": 2,
+        "id": 2010325,
+        "raw_score": 4.0090909090909,
+        "rating_count": 22,
+        "contributors": [
+          {
+            "name": "Nothing",
+            "id": 2451005
+          },
+          {
+            "name": "Victroium",
+            "id": 1883590
+          },
+          {
+            "name": "Andre Roz",
+            "id": 6017436
+          }
+        ],
+        "title": "Cowboy Conundrum",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.6818181818182,
+            "score": 3.6818181818182,
+            "rank": 16
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.2727272727273,
+            "score": 4.2727272727273,
+            "rank": 2
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.9090909090909,
+            "score": 3.9090909090909,
+            "rank": 5
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.3181818181818,
+            "score": 4.3181818181818,
+            "rank": 6
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.8636363636364,
+            "score": 3.8636363636364,
+            "rank": 8
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzExOTgyMDU3LnBuZw==/300x240%23c/XVKL6X.png",
+        "score": 4.0090909090909,
+        "url": "https://itch.io/jam/gamedevjs-2023/rate/2010325"
+      },
+      "entryData": {
+        "coolness": 5,
+        "url": "/jam/gamedevjs-2023/rate/2010325",
+        "rating_count": 22,
+        "id": 407468,
+        "created_at": "2023-04-26 14:57:39",
+        "contributors": [
+          {
+            "name": "Nothing",
+            "url": "https://nothing-d.itch.io"
+          },
+          {
+            "name": "Victroium",
+            "url": "https://victroium.itch.io"
+          },
+          {
+            "name": "Andre Roz",
+            "url": "https://goljistudios.itch.io"
+          }
+        ],
+        "field_responses": [
+          "18633:1"
+        ],
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzExOTgyMDU3LnBuZw==/300x240%23c/XVKL6X.png",
+          "title": "Cowboy Conundrum",
+          "cover_color": "#422445",
+          "id": 2010325,
+          "short_text": "The ultimate heist awaits in a land where time is just a number.",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "user": {
+            "name": "Nothing",
+            "url": "https://nothing-d.itch.io",
+            "id": 2451005
+          },
+          "url": "https://nothing-d.itch.io/cowboy-conundrum"
+        }
+      },
+      "details": {
+        "title": "Cowboy Conundrum",
+        "description": "\n\nA poor boy dreams of becoming rich the old fashioned way: traveling back in time to the gold rush!\n\n\nControls (rebindable)\nMoveWASD or ⬆️⬇️⬅️➡️InteractJ or CWarpK or XPauseP\n\n\nCredits\nCode - Nothing#3367Art - Victorium#4459Audio - AndreRoz#8755\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAxMDMyNS8xMTk4MjM2Ni5naWY=/original/wAKfGi.gif",
+          "https://img.itch.zone/aW1hZ2UvMjAxMDMyNS8xMTk4MjE1MC5qcGc=/original/CErTh5.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjAxMDMyNS8xMTk4MjE0OC5qcGc=/original/K95YV4.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjAxMDMyNS8xMTk4MjM1MS5naWY=/original/svU%2FmW.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "Nothing, Victroium, Andre Roz",
+          "Genre": "Adventure, Action, Puzzle",
+          "Tags": "Pixel Art, Singleplayer, Time Travel"
+        }
+      }
+    },
+    {
+      "gameId": 2036334,
+      "gameUrl": "https://tsapper.itch.io/time-warp",
+      "overallRank": 29,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "rank": 29,
+        "id": 2036334,
+        "raw_score": 3.4774193548387,
+        "rating_count": 31,
+        "contributors": [
+          {
+            "name": "Tsapper",
+            "id": 5728861
+          }
+        ],
+        "title": "Time Warp",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.5483870967742,
+            "score": 3.5483870967742,
+            "rank": 26
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.258064516129,
+            "score": 4.258064516129,
+            "rank": 3
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.741935483871,
+            "score": 3.741935483871,
+            "rank": 16
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.1935483870968,
+            "score": 3.1935483870968,
+            "rank": 77
+          },
+          {
+            "name": "Audio",
+            "raw_score": 2.6451612903226,
+            "score": 2.6451612903226,
+            "rank": 102
+          },
+          {
+            "name": "Open Source",
+            "raw_score": 0,
+            "score": 0,
+            "rank": 12
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzExOTc3NTA2LnBuZw==/300x240%23c/DfIFjx.png",
+        "score": 3.4774193548387,
+        "url": "https://itch.io/jam/gamedevjs-2023/rate/2036334"
+      },
+      "entryData": {
+        "coolness": 12,
+        "url": "/jam/gamedevjs-2023/rate/2036334",
+        "id": 407294,
+        "created_at": "2023-04-26 03:18:09",
+        "rating_count": 31,
+        "field_responses": [
+          "18633:1"
+        ],
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzExOTc3NTA2LnBuZw==/300x240%23c/DfIFjx.png",
+          "title": "Time Warp",
+          "cover_color": "#282229",
+          "id": 2036334,
+          "short_text": "A puzzle platformer about time.",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Tsapper",
+            "url": "https://tsapper.itch.io",
+            "id": 5728861
+          },
+          "url": "https://tsapper.itch.io/time-warp"
+        }
+      },
+      "details": {
+        "title": "Time Warp",
+        "description": "     This is a puzzle platformer where you have shift between the present and the future. It was made in 5 days for the Gamedev.js Jam. If you feel stuck there is a video walkthrough.\nControls:\nWASD to moveSpace to jumpLeft shift to shift timeE to pick up objectscontrol to reset",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAzNjMzNC8xMTk3NzY1OS5wbmc=/original/Ep65NU.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzNjMzNC8xMTk3NzY2MC5wbmc=/original/MkH49%2B.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzNjMzNC8xMTk3NzY1OC5wbmc=/original/VgRhdn.png"
+        ],
+        "moreInfo": {
+          "Status": "On hold",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Tsapper",
+          "Genre": "Puzzle, Platformer",
+          "Made with": "Unity",
+          "Tags": "Dark, Pixel Art, Short, Singleplayer, Time Travel"
+        }
+      }
+    },
+    {
+      "gameId": 2035355,
+      "gameUrl": "https://jeankouss.itch.io/the-last-hour",
+      "overallRank": 15,
+      "topCategories": [
+        "Theme",
+        "Innovation"
+      ],
+      "resultData": {
+        "rank": 15,
+        "id": 2035355,
+        "raw_score": 3.68,
+        "rating_count": 20,
+        "contributors": [
+          {
+            "name": "JeanKouss",
+            "id": 6470164
+          }
+        ],
+        "title": "The Last Hour",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.75,
+            "score": 3.75,
+            "rank": 14
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.2,
+            "score": 4.2,
+            "rank": 4
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 4,
+            "score": 4,
+            "rank": 2
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.35,
+            "score": 3.35,
+            "rank": 64
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.1,
+            "score": 3.1,
+            "rank": 65
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzExOTgxMzg2LnBuZw==/300x240%23c/9qr5jL.png",
+        "score": 3.68,
+        "url": "https://itch.io/jam/gamedevjs-2023/rate/2035355"
+      },
+      "entryData": {
+        "coolness": 79,
+        "url": "/jam/gamedevjs-2023/rate/2035355",
+        "id": 407189,
+        "created_at": "2023-04-25 15:00:46",
+        "rating_count": 20,
+        "field_responses": [
+          "18633:1"
+        ],
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzExOTgxMzg2LnBuZw==/300x240%23c/9qr5jL.png",
+          "title": "The Last Hour",
+          "cover_color": "#76d0ff",
+          "id": 2035355,
+          "short_text": "Fear the seconds, Beware the minutes, Survive",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "JeanKouss",
+            "url": "https://jeankouss.itch.io",
+            "id": 6470164
+          },
+          "url": "https://jeankouss.itch.io/the-last-hour"
+        }
+      },
+      "details": {
+        "title": "The Last Hour",
+        "description": "Hello every one. This is my submission for Gamedev.js Jam 2023. \nYou have to survive as long as possible by collecting time from time agents and find your way through the clock. But the game is not finished yet and nothing happens when you survive an hour. At it current state, if you survive 3 minutes you end the game!\nControls :\nwasd / zqsd / Directional Arrows => move\nLeft click (hold) => shoot",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAzNTM1NS8xMjIyODAzNC5naWY=/original/f%2BZudK.gif",
+          "https://img.itch.zone/aW1hZ2UvMjAzNTM1NS8xMjIyNzcyNi5qcGc=/original/kPiyWS.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjAzNTM1NS8xMjIyNzcyOC5qcGc=/original/oheM3e.jpg"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Author": "JeanKouss",
+          "Genre": "Shooter",
+          "Made with": "Godot",
+          "Tags": "2D, Top down shooter"
+        }
+      }
+    },
+    {
+      "gameId": 2037026,
+      "gameUrl": "https://grapegummygames.itch.io/how-do-you-measure-a-year",
+      "overallRank": 80,
+      "topCategories": [
+        "Theme",
+        "Innovation"
+      ],
+      "resultData": {
+        "rank": 80,
+        "id": 2037026,
+        "raw_score": 2.9,
+        "rating_count": 16,
+        "contributors": [
+          {
+            "name": "Grape Gummy Games",
+            "id": 2690625
+          }
+        ],
+        "title": "How Do You Measure a Year",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 2.625,
+            "score": 2.625,
+            "rank": 113
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.125,
+            "score": 4.125,
+            "rank": 7
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.8125,
+            "score": 3.8125,
+            "rank": 10
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 2.375,
+            "score": 2.375,
+            "rank": 146
+          },
+          {
+            "name": "Audio",
+            "raw_score": 1.5625,
+            "score": 1.5625,
+            "rank": 157
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzExOTgxNTk3LnBuZw==/300x240%23c/6dhCg5.png",
+        "score": 2.9,
+        "url": "https://itch.io/jam/gamedevjs-2023/rate/2037026"
+      },
+      "entryData": {
+        "coolness": 18,
+        "url": "/jam/gamedevjs-2023/rate/2037026",
+        "id": 407427,
+        "created_at": "2023-04-26 14:14:07",
+        "rating_count": 16,
+        "field_responses": [
+          "18633:1"
+        ],
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzExOTgxNTk3LnBuZw==/300x240%23c/6dhCg5.png",
+          "title": "How Do You Measure a Year",
+          "cover_color": "#444",
+          "id": 2037026,
+          "short_text": "A time management simulation.",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Grape Gummy Games",
+            "url": "https://grapegummygames.itch.io",
+            "id": 2690625
+          },
+          "url": "https://grapegummygames.itch.io/how-do-you-measure-a-year"
+        }
+      },
+      "details": {
+        "title": "How Do You Measure a Year",
+        "description": "How Do You Measure a Year\nA time management simulation.\nMade for Gamedev.js Jam 2023.\nManage your time between money, health and mental, try to survive a year.\nControl\nDrag the white border \"action\" cards on the clock wheel to manage your daily schedule.",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzExOTgxNTk3LnBuZw==/original/22G3eF.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Grape Gummy Games",
+          "Genre": "Simulation",
+          "Made with": "Unity"
+        }
+      }
+    },
+    {
+      "gameId": 2026198,
+      "gameUrl": "https://mortis-666.itch.io/save-your-time",
+      "overallRank": 40,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "rank": 40,
+        "id": 2026198,
+        "raw_score": 3.34,
+        "rating_count": 20,
+        "contributors": [
+          {
+            "name": "Mortis_666",
+            "id": 5447200
+          },
+          {
+            "name": "BrBa2",
+            "id": 7780880
+          }
+        ],
+        "title": "Save Your Time",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3,
+            "score": 3,
+            "rank": 74
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.1,
+            "score": 4.1,
+            "rank": 8
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.75,
+            "score": 3.75,
+            "rank": 15
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3,
+            "score": 3,
+            "rank": 94
+          },
+          {
+            "name": "Audio",
+            "raw_score": 2.85,
+            "score": 2.85,
+            "rank": 86
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzExOTU5NDI2LnBuZw==/300x240%23c/VUgYws.png",
+        "score": 3.34,
+        "url": "https://itch.io/jam/gamedevjs-2023/rate/2026198"
+      },
+      "entryData": {
+        "coolness": 30,
+        "url": "/jam/gamedevjs-2023/rate/2026198",
+        "rating_count": 20,
+        "id": 407423,
+        "created_at": "2023-04-26 14:01:03",
+        "contributors": [
+          {
+            "name": "Mortis_666",
+            "url": "https://mortis-666.itch.io"
+          },
+          {
+            "name": "BrBa2",
+            "url": "https://brba2.itch.io"
+          }
+        ],
+        "field_responses": [
+          "18633:1"
+        ],
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzExOTU5NDI2LnBuZw==/300x240%23c/VUgYws.png",
+          "title": "Save Your Time",
+          "cover_color": "#000000",
+          "id": 2026198,
+          "short_text": "A shooter game",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Mortis_666",
+            "url": "https://mortis-666.itch.io",
+            "id": 5447200
+          },
+          "url": "https://mortis-666.itch.io/save-your-time"
+        }
+      },
+      "details": {
+        "title": "Save Your Time",
+        "description": "Source code\nSave Your Time\nThis game is made for the Gamedev.js Jam 2023\nIntro\nIn a world where time is everything, a powerful clock at the center of the universe is the only source of time. However, an army of greedy monsters want to steal time from the clock.\nAs the controller of the clock, you are the last line of defense against an never-ending invasion of time-wasting monsters that threaten to steal time and create chaos in the universe. With your quick reflexes and precise aiming, you fire powerful time vortexes from the clock's hands to defeat the monsters that are approaching from all directions.\nAs you progress through the game, you will encounter more challenging monsters that require different strategies to defeat. You'll need to carefully choose which powerups to use and when to fire to maximize your effectiveness and save your time.\nWill you be able to save the clock from endless wave of monsters? The fate of the world depends on your skills and bravery. Enter the world of \"Save Your Time!\" and find out!\nHow to Play\nHow to Survive\nIn this game, you control a clock and monsters will come at you from all directions. Your objective is to stay alive by shooting them. A timer will be displayed and it will decrease second by second, and if it runs out, you lose the game. The only way to lengthen the timer is to kill monsters.\nShooting\nTo shoot enemies, you can left-click on the screen or press the SPACE key. The projectiles will come out from each hand of the clock.\nAiming\nAiming with keyboard\nYou can aim by adjusting the time on the sidebar. Alternatively, you can use the keyboard to adjust the time. If you look at your numpad, you can imagine the 4, 5, 6, 1, 2, 3 keys to be aligned with the arrows on the sidebar. To use this shortcut, you must have the num lock on. Q, A, W, S, E, D keys are also an option and they are aligned with the arrows on the sidebar.\nAiming with mouse\nYou can aim by adjusting the time with up and down button on the top right side in Controls. The buttons are dark blue. Up buttons stand for increasing time by 1 for whatever you press in hour/minute/second. Down buttons stand for decreasing time by 1.\n\nControls table for keyboard\n\n\n\nType\nKeys\n\n\n\n\nsecond-up\nnumpad 4 & q\n\n\nsecond-down\nnumpad 1 & a\n\n\nminute-up\nnumpad 5 & w\n\n\nminute-down\nnumpad 2 & s\n\n\nhour-up\nnumpad 6 & e\n\n\nhour-down\nnumpad 3 & d\n\n\nshoot\nspace    & left-click\n\n\n\nRewards\nShooting down enemies will earn you rewarded time. Each enemy holds a different value of reward. The closer the enemy gets to you, the lower the reward will be.\nMonsters\n\n\n\nType\nHealth\nSpeed\nDamage\nMax reward\nSpecial ability\nQuantity per spawn\n\n\n\n\nNormal \n5\n0.0200\n20\n6\n-\n1\n\n\nTank \n25\n0.0170\n15\n15\n-\n1\n\n\nSpeedy \n4\n0.0500\n10\n7\n-\n1\n\n\nAssassin \n5\n0.0300\n60\n9\n-\n1\n\n\nSpeedy tank \n25\n0.0335\n15\n22\nhybrid\n1\n\n\nSpeedy assassin \n5\n0.0400\n60\n16\nhybrid\n1\n\n\nTank assassin \n25\n0.0235\n60\n23\nhybrid\n1\n\n\nHorde/each \n4\n0.0200\n10\n5\narmy\n10\n\n\nTank horde/each \n20\n0.0185\n15\n14\nhybrid army\n10\n\n\n\nPowerup:\nUse it wisely to survive the endless waves of monsters!\n\n\n\nType\nCooldown (min)\nDescription\n\n\n\n\nMirror \n3\nYou can shoot enemies behind and in front of the clock hand.\n\n\nDouble trouble \n5\nSummon a second clock to fight enemies alongside\n\n\nTime bomb \n10\nA bomb that that will kill all enemy in less than 5 seconds\n\n\n\nUpgrades:\nUpgrades that will boost your survival from the never-ending waves of monsters! Use your time from timer to buy time.\n\n\n\nType\nCost(second)\nMax level\nDescription\n\n\n\n\nBullet size \n50\n5\nIncrease size of bullet\n\n\nHelping hand \n40\n5\nAdd more hand that automatically shoot enemies. Maximum: 5\n\n\nDecrease powerup cooldown\n30\n5\nSpeed up reload time of powerups.\n\n\nShield \n40\n10\nAdd a shield around the clock to protect it.\n\n\nReward booster \n30\n10\nIncrease the amount of time gain after killing enemies\n\n\n\nCreators:\n\n@Mortis66666\n@BrBa2\n\nCredits:\nNote: Some of the assets do not belong to us.\nMusic:\n\nMusic by Jesper Kyd. Found in griffpatch zombie cube escape.\n\nArt:\n\nAll art was created by us.\n\nSound Effects:\n\nSound effects by theChAOTic. Found in his soundpack.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAyNjE5OC8xMTk4MTA1NC5wbmc=/original/CqoeHi.png",
+          "https://img.itch.zone/aW1hZ2UvMjAyNjE5OC8xMTk4MTA1NS5wbmc=/original/4yhIsO.png",
+          "https://img.itch.zone/aW1hZ2UvMjAyNjE5OC8xMTk4MTA1Ny5wbmc=/original/%2BHDs2W.png",
+          "https://img.itch.zone/aW1hZ2UvMjAyNjE5OC8xMTk4MTA1Ni5wbmc=/original/KYHWJ9.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Authors": "Mortis_666, BrBa2",
+          "Genre": "Shooter, Survival",
+          "Tags": "2D, Pixel Art, Singleplayer, Space, Tower Defense"
+        }
+      }
+    },
+    {
+      "gameId": 2019696,
+      "gameUrl": "https://jomarcenter-mjm.itch.io/waitingatdeathdoors",
+      "overallRank": 53,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "rank": 53,
+        "id": 2019696,
+        "raw_score": 3.5846153846154,
+        "rating_count": 13,
+        "contributors": [
+          {
+            "name": "jomarcenter-mjm",
+            "id": 1397964
+          }
+        ],
+        "title": "Waiting at death doors",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.6923076923077,
+            "score": 3.3282011773514,
+            "rank": 50
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.5384615384615,
+            "score": 4.0909139471611,
+            "rank": 9
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.7692307692308,
+            "score": 3.3975387018795,
+            "rank": 39
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 2.8461538461538,
+            "score": 2.5654884075417,
+            "rank": 129
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.0769230769231,
+            "score": 2.7735009811261,
+            "rank": 92
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzExOTQ1NzI0LnBuZw==/300x240%23c/Q4pKVJ.png",
+        "score": 3.231128643012,
+        "url": "https://itch.io/jam/gamedevjs-2023/rate/2019696"
+      },
+      "entryData": {
+        "coolness": 8,
+        "url": "/jam/gamedevjs-2023/rate/2019696",
+        "id": 404736,
+        "created_at": "2023-04-17 03:22:46",
+        "rating_count": 13,
+        "field_responses": [
+          "18633:1"
+        ],
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzExOTQ1NzI0LnBuZw==/300x240%23c/Q4pKVJ.png",
+          "title": "Waiting at death doors",
+          "id": 2019696,
+          "short_text": "A game where you buy and sell time",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "jomarcenter-mjm",
+            "url": "https://jomarcenter-mjm.itch.io",
+            "id": 1397964
+          },
+          "url": "https://jomarcenter-mjm.itch.io/waitingatdeathdoors"
+        }
+      },
+      "details": {
+        "title": "Waiting at death doors",
+        "description": "Entry for the gamedev.js jam https://itch.io/jam/gamedevjs-2023/rate/2019696A game where you buy and sell time.\nYears ago, Humanity achieved immortality.\nDeath hates it",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAxOTY5Ni8xMTk3ODQ1NS5wbmc=/original/VuEdjn.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows",
+          "Author": "jomarcenter-mjm",
+          "Genre": "Simulation",
+          "Made with": "GDevelop",
+          "Tags": "Psychological Horror, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 2035943,
+      "gameUrl": "https://bethfromabove.itch.io/survival-of-the-flippest",
+      "overallRank": 37,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "rank": 37,
+        "id": 2035943,
+        "raw_score": 3.3806451612903,
+        "rating_count": 31,
+        "contributors": [
+          {
+            "name": "BethFromAbove",
+            "id": 1887296
+          },
+          {
+            "name": "Kimbsy",
+            "id": 1310512
+          },
+          {
+            "name": "papamaemae",
+            "id": 7999405
+          },
+          {
+            "name": "grinky",
+            "id": 1780
+          }
+        ],
+        "title": "Survival of the Flippest",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 2.8709677419355,
+            "score": 2.8709677419355,
+            "rank": 91
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.0645161290323,
+            "score": 4.0645161290323,
+            "rank": 10
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.4838709677419,
+            "score": 3.4838709677419,
+            "rank": 34
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.1935483870968,
+            "score": 3.1935483870968,
+            "rank": 77
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.2903225806452,
+            "score": 3.2903225806452,
+            "rank": 45
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzExOTc1Mjk0LnBuZw==/300x240%23c/Z%2FR%2Flm.png",
+        "score": 3.3806451612903,
+        "url": "https://itch.io/jam/gamedevjs-2023/rate/2035943"
+      },
+      "entryData": {
+        "coolness": 23,
+        "url": "/jam/gamedevjs-2023/rate/2035943",
+        "rating_count": 31,
+        "id": 407251,
+        "created_at": "2023-04-25 22:10:09",
+        "contributors": [
+          {
+            "name": "BethFromAbove",
+            "url": "https://bethfromabove.itch.io"
+          },
+          {
+            "name": "Kimbsy",
+            "url": "https://kimbsy.itch.io"
+          },
+          {
+            "name": "papamaemae",
+            "url": "https://papamaemae.itch.io"
+          },
+          {
+            "name": "grinky",
+            "url": "https://grinky.itch.io"
+          }
+        ],
+        "field_responses": [
+          "18633:1"
+        ],
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzExOTc1Mjk0LnBuZw==/300x240%23c/Z%2FR%2Flm.png",
+          "title": "Survival of the Flippest",
+          "cover_color": "#a0ced9",
+          "id": 2035943,
+          "short_text": "A game of second chances",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "BethFromAbove",
+            "url": "https://bethfromabove.itch.io",
+            "id": 1887296
+          },
+          "url": "https://bethfromabove.itch.io/survival-of-the-flippest"
+        }
+      },
+      "details": {
+        "title": "Survival of the Flippest",
+        "description": "Death has finally come for you, hourglass in hand, as the final seconds of your life pour away... But wait! He's left the hourglass out where you can reach!\nKeep flipping the hourglasses to buy yourself more precious time and see how many seconds you can extend your life by. How many hourglasses could he have?\nDon't ask yourself if the time you gained was well spent flipping hourglasses again and again. Don't ask yourself if you're wasting your life now playing this game as actual real seconds of your life pass never to be recouped. Just keep flipping!Music by PJ Kimber (Spotify)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAzNTk0My8xMTk3NTI5Ni5wbmc=/original/lu4QRo.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzNTk0My8xMTk3NTQ4My5wbmc=/original/X0piam.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Authors": "BethFromAbove, Kimbsy, papamaemae, grinky",
+          "Genre": "Survival",
+          "Tags": "death, Funny, hourglass, Short, terry-pratchett, time"
+        }
+      }
+    },
+    {
+      "gameId": 2035862,
+      "gameUrl": "https://therulermeasure.itch.io/sharp-dance",
+      "overallRank": 47,
+      "topCategories": [
+        "Innovation"
+      ],
+      "resultData": {
+        "rank": 47,
+        "id": 2035862,
+        "raw_score": 3.275,
+        "rating_count": 24,
+        "contributors": [
+          {
+            "name": "TheRulerMeasure",
+            "id": 4829860
+          }
+        ],
+        "title": "Sharp Dance",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.2083333333333,
+            "score": 3.2083333333333,
+            "rank": 61
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.5,
+            "score": 3.5,
+            "rank": 40
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.9583333333333,
+            "score": 3.9583333333333,
+            "rank": 3
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 2.4166666666667,
+            "score": 2.4166666666667,
+            "rank": 143
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.2916666666667,
+            "score": 3.2916666666667,
+            "rank": 44
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzExOTc4OTIyLnBuZw==/300x240%23c/6qmkQ8.png",
+        "score": 3.275,
+        "url": "https://itch.io/jam/gamedevjs-2023/rate/2035862"
+      },
+      "entryData": {
+        "coolness": 75,
+        "url": "/jam/gamedevjs-2023/rate/2035862",
+        "id": 407240,
+        "created_at": "2023-04-25 20:45:33",
+        "rating_count": 24,
+        "field_responses": [
+          "18633:1"
+        ],
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzExOTc4OTIyLnBuZw==/300x240%23c/6qmkQ8.png",
+          "title": "Sharp Dance",
+          "cover_color": "#33434f",
+          "id": 2035862,
+          "short_text": "The dodging and attacking.",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "user": {
+            "name": "TheRulerMeasure",
+            "url": "https://therulermeasure.itch.io",
+            "id": 4829860
+          },
+          "url": "https://therulermeasure.itch.io/sharp-dance"
+        }
+      },
+      "details": {
+        "title": "Sharp Dance",
+        "description": "Sharp Dance\nDodging and assemble attacking the opponent.\n\nHow to Play\nDrag the attacks to the timeline below and press attack when done assembling. Press arrow keys to control the player dodging the attack from the opponent.\n\nControls\nArrow Keys\n\nCredits\nmusic by Minigame Music Pack [BGM] by JDSherbert (itch.io)\nArtwork by Me\nProgramming by MeRun the executable file to run the game.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAzNTg2Mi8xMTk3NDgzMS5naWY=/original/mDsTwE.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Author": "TheRulerMeasure",
+          "Genre": "Strategy",
+          "Made with": "Godot",
+          "Tags": "2D, Top-Down",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 2036305,
+      "gameUrl": "https://dezhango.itch.io/cardcaster-s",
+      "overallRank": 31,
+      "topCategories": [
+        "Innovation"
+      ],
+      "resultData": {
+        "rank": 31,
+        "id": 2036305,
+        "raw_score": 3.5733333333333,
+        "rating_count": 15,
+        "contributors": [
+          {
+            "name": "dezhango",
+            "id": 4980439
+          }
+        ],
+        "title": "Cardcaster: Synchronize",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.6,
+            "score": 3.4856850115867,
+            "rank": 30
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.6666666666667,
+            "score": 3.5502347340235,
+            "rank": 38
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 4.0666666666667,
+            "score": 3.9375330686442,
+            "rank": 4
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.1333333333333,
+            "score": 3.0338369545291,
+            "rank": 91
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.4,
+            "score": 3.2920358442763,
+            "rank": 41
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzExOTc3NDE2LnBuZw==/300x240%23c/2VF5%2BR.png",
+        "score": 3.459865122612,
+        "url": "https://itch.io/jam/gamedevjs-2023/rate/2036305"
+      },
+      "entryData": {
+        "coolness": 5,
+        "url": "/jam/gamedevjs-2023/rate/2036305",
+        "id": 407334,
+        "created_at": "2023-04-26 07:43:53",
+        "rating_count": 15,
+        "field_responses": [
+          "18633:1"
+        ],
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzExOTc3NDE2LnBuZw==/300x240%23c/2VF5%2BR.png",
+          "title": "Cardcaster: Synchronize",
+          "cover_color": "#31005f",
+          "id": 2036305,
+          "short_text": "Turn based card game where you sync up spells for awesome combos",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "dezhango",
+            "url": "https://dezhango.itch.io",
+            "id": 4980439
+          },
+          "url": "https://dezhango.itch.io/cardcaster-s"
+        }
+      },
+      "details": {
+        "title": "Cardcaster: Synchronize",
+        "description": "About\nSubmission for Gamedev.js Jam 2023. Card Caster: Synchronize is a turn-based card game where you must TIME your spells up to deal maximum damage against monsters. \nJust a prototype for now. More to come in the future! (Maybe)\nCredits\nProgramming: dezhango\nArt:  stripedpants (Title screen, cards, background image, spell animations). Kenney (wizard, cyclops, spider) \nSFX: \"Heal Sound\" by Taiki. Other SFX was found on Youtube and freesound.org\nMusic: Battle theme: \"Automatic Love\" by Siix0, Title screen: \"Dance with Me\" by Dayz Musiq",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzExOTc3NDE2LnBuZw==/original/gkEKv8.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Author": "dezhango",
+          "Genre": "Card Game",
+          "Tags": "2D, Magic, Pixel Art, Short, Turn-Based Combat"
+        }
+      }
+    },
+    {
+      "gameId": 2036732,
+      "gameUrl": "https://sandiph.itch.io/clock-clockers",
+      "overallRank": 55,
+      "topCategories": [
+        "Innovation"
+      ],
+      "resultData": {
+        "rank": 55,
+        "id": 2036732,
+        "raw_score": 3.2133333333333,
+        "rating_count": 30,
+        "contributors": [
+          {
+            "name": "sandiph",
+            "id": 6619614
+          }
+        ],
+        "title": "Clock Clockers",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.3,
+            "score": 3.3,
+            "rank": 52
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.4333333333333,
+            "score": 3.4333333333333,
+            "rank": 45
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.8666666666667,
+            "score": 3.8666666666667,
+            "rank": 6
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 2.9333333333333,
+            "score": 2.9333333333333,
+            "rank": 100
+          },
+          {
+            "name": "Audio",
+            "raw_score": 2.5333333333333,
+            "score": 2.5333333333333,
+            "rank": 109
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzExOTc5ODk5LmpwZw==/300x240%23c/xKDO%2FG.jpg",
+        "score": 3.2133333333333,
+        "url": "https://itch.io/jam/gamedevjs-2023/rate/2036732"
+      },
+      "entryData": {
+        "coolness": 19,
+        "url": "/jam/gamedevjs-2023/rate/2036732",
+        "id": 407366,
+        "created_at": "2023-04-26 12:01:40",
+        "rating_count": 30,
+        "field_responses": [
+          "18633:1"
+        ],
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzExOTc5ODk5LmpwZw==/300x240%23c/xKDO%2FG.jpg",
+          "title": "Clock Clockers",
+          "id": 2036732,
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "sandiph",
+            "url": "https://sandiph.itch.io",
+            "id": 6619614
+          },
+          "url": "https://sandiph.itch.io/clock-clockers"
+        }
+      },
+      "details": {
+        "title": "Clock Clockers",
+        "description": "There are two clocks , one is used to move player and another is used to move platforms . Have fun . More levels and polishing needed to be done. This is my very first game jam submission. I felt a lot of motivated when the jam started, and slowly i lost the motivation and barely finished the game. I am a terrible artist.  If responses are good i will polish and improve this game slowly. Make sure to leave a comment. Can be played on mobile too. Cover made with StableDiffusion :)",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzExOTc5ODk5LmpwZw==/original/BzmWoT.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "sandiph",
+          "Genre": "Platformer",
+          "Tags": "html5, mobile, phaser, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 2025735,
+      "gameUrl": "https://lmartim.itch.io/echoes-in-time",
+      "overallRank": 3,
+      "topCategories": [
+        "Innovation",
+        "Graphics"
+      ],
+      "resultData": {
+        "rank": 3,
+        "id": 2025735,
+        "raw_score": 3.9428571428571,
+        "rating_count": 21,
+        "contributors": [
+          {
+            "name": "lmartim",
+            "id": 665744
+          }
+        ],
+        "title": "Echoes in Time",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.8095238095238,
+            "score": 3.8095238095238,
+            "rank": 11
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.047619047619,
+            "score": 4.047619047619,
+            "rank": 12
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.8571428571429,
+            "score": 3.8571428571429,
+            "rank": 7
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.2857142857143,
+            "score": 4.2857142857143,
+            "rank": 9
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.7142857142857,
+            "score": 3.7142857142857,
+            "rank": 13
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzExOTIxNDM2LmpwZw==/300x240%23c/Cdnu5Y.jpg",
+        "score": 3.9428571428571,
+        "url": "https://itch.io/jam/gamedevjs-2023/rate/2025735"
+      },
+      "entryData": {
+        "coolness": 0,
+        "id": 405455,
+        "created_at": "2023-04-20 19:27:09",
+        "url": "/jam/gamedevjs-2023/rate/2025735",
+        "rating_count": 21,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzExOTIxNDM2LmpwZw==/300x240%23c/Cdnu5Y.jpg",
+          "title": "Echoes in Time",
+          "cover_color": "#001b23",
+          "id": 2025735,
+          "short_text": "​Guide the echoes through the corridors of time.",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "lmartim",
+            "url": "https://lmartim.itch.io",
+            "id": 665744
+          },
+          "url": "https://lmartim.itch.io/echoes-in-time"
+        }
+      },
+      "details": {
+        "title": "Echoes in Time",
+        "description": "Guide the echoes through the corridors of time.",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzExOTIxNDM2LmpwZw==/original/VaJRKN.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Author": "lmartim",
+          "Genre": "Platformer, Adventure",
+          "Tags": "2D, Pixel Art, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 2027611,
+      "gameUrl": "https://slickle.itch.io/latency",
+      "overallRank": 22,
+      "topCategories": [
+        "Innovation"
+      ],
+      "resultData": {
+        "rank": 22,
+        "id": 2027611,
+        "raw_score": 3.5578947368421,
+        "rating_count": 19,
+        "contributors": [
+          {
+            "name": "Slickle",
+            "id": 2410113
+          }
+        ],
+        "title": "Latency",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.3157894736842,
+            "score": 3.3157894736842,
+            "rank": 51
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.6842105263158,
+            "score": 3.6842105263158,
+            "rank": 32
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.8421052631579,
+            "score": 3.8421052631579,
+            "rank": 8
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.3684210526316,
+            "score": 3.3684210526316,
+            "rank": 63
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.5789473684211,
+            "score": 3.5789473684211,
+            "rank": 23
+          },
+          {
+            "name": "Open Source",
+            "raw_score": 0,
+            "score": 0,
+            "rank": 3
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzExOTgwNzgxLnBuZw==/300x240%23c/6FAiUZ.png",
+        "score": 3.5578947368421,
+        "url": "https://itch.io/jam/gamedevjs-2023/rate/2027611"
+      },
+      "entryData": {
+        "coolness": 6,
+        "url": "/jam/gamedevjs-2023/rate/2027611",
+        "id": 407298,
+        "created_at": "2023-04-26 03:52:21",
+        "rating_count": 19,
+        "field_responses": [
+          "18633:1"
+        ],
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzExOTgwNzgxLnBuZw==/300x240%23c/6FAiUZ.png",
+          "title": "Latency",
+          "cover_color": "#000000",
+          "id": 2027611,
+          "short_text": "A Packet Manager has a stressful job",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Slickle",
+            "url": "https://slickle.itch.io",
+            "id": 2410113
+          },
+          "url": "https://slickle.itch.io/latency"
+        }
+      },
+      "details": {
+        "title": "Latency",
+        "description": "You are a Packet Manager, trying your best to sort the packets to their correct ports! Run around, throw some data, and enjoy the CHAOS.\nHOW TO PLAY: \nYou must get the colored packets into their respective ports to reduce latency. Keep your total latency (red plus green numbers) below 100, or else you lose! Packets that are sitting out will also start decaying, and after 30 seconds they'll disappear. They also count for less time the longer they are out so move move move!\nCONTROLS:\nWASD/Arrows Move\nSpace       Jump\nE           Pickup Packets\nF           Throw Packets\nR           Reset Level\nESC         Main Menu\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzExOTgwNzgxLnBuZw==/original/NU2YIA.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Slickle",
+          "Genre": "Platformer",
+          "Tags": "2D, Godot",
+          "Average session": "A few minutes",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": 2015729,
+      "gameUrl": "https://stiggstogg.itch.io/time",
+      "overallRank": 32,
+      "topCategories": [
+        "Innovation"
+      ],
+      "resultData": {
+        "rank": 32,
+        "id": 2015729,
+        "raw_score": 3.4444444444444,
+        "rating_count": 27,
+        "contributors": [
+          {
+            "name": "Stiggstogg",
+            "id": 2307064
+          }
+        ],
+        "title": "Birds!",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.2962962962963,
+            "score": 3.2962962962963,
+            "rank": 53
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.7407407407407,
+            "score": 3.7407407407407,
+            "rank": 29
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.8148148148148,
+            "score": 3.8148148148148,
+            "rank": 9
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.2222222222222,
+            "score": 3.2222222222222,
+            "rank": 75
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.1481481481481,
+            "score": 3.1481481481481,
+            "rank": 57
+          },
+          {
+            "name": "Open Source",
+            "raw_score": 0,
+            "score": 0,
+            "rank": 13
+          },
+          {
+            "name": "Overlord's Arena",
+            "raw_score": 0,
+            "score": 0,
+            "rank": 1
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzExOTc4NTI0LnBuZw==/300x240%23c/vwKACk.png",
+        "score": 3.4444444444444,
+        "url": "https://itch.io/jam/gamedevjs-2023/rate/2015729"
+      },
+      "entryData": {
+        "coolness": 43,
+        "url": "/jam/gamedevjs-2023/rate/2015729",
+        "id": 407369,
+        "created_at": "2023-04-26 12:15:33",
+        "rating_count": 27,
+        "field_responses": [
+          "18633:1",
+          "18633:5"
+        ],
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzExOTc4NTI0LnBuZw==/300x240%23c/vwKACk.png",
+          "title": "Birds!",
+          "cover_color": "#7c4bb0",
+          "id": 2015729,
+          "short_text": "Help the OVERLORD to find his birds lost in space!",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Stiggstogg",
+            "url": "https://stiggstogg.itch.io",
+            "id": 2307064
+          },
+          "url": "https://stiggstogg.itch.io/time"
+        }
+      },
+      "details": {
+        "title": "Birds!",
+        "description": "Help the mighty overlord in five missions to find his birds in space. Estimate how long it will take for you to get the birds and the overlord will make you an offer. If you make it you will get the reward, but if not you need to pay the overlord!\nTry to beat my highscore: 26265 CZD\nMy submission to Gamedev.js Jam 2023!Challenges I participated for this jam:\nOpen Source: Code is available on GitHub.Overlord's Arena: Used assets and some lore from OVERLORD.\nControls\nTouch / click the screen or press SPACE.\nHow to Play\nComplete all 5 missions and get rich! Every mission consists of the following steps:\nEstimate: Have a look at the map, estimate how long you will need to get the birds and get an offer from the overlord.Flying: Take your spaceship and collect all birds. Ensure you make it in time and do not crash into space debris.\nScoring\nYou get paid in CREEPZ DOLLARZ!\nWhen you complete a mission within the time you estimated you get the reward the overlord offered you. For every crash you had during the mission you will loose 100 CZD. If you do not make it within the estimated time you need to pay the overlord half of what he offered instead and try again.\nTips and Tricks\nWhen the spaceship is idle and rotating (at the start and after a crash) you can clearly predict in which direction it will move when you start again. The ship will turn in the same direction as it is currently rotating.If the ship is rotating clockwise, the left engine will turn on and it will move clockwise.If the ship is rotating counter clockwise, the right engine will turn on and it will move counter clockwise.The lower the time you estimate is, the more the overlord will offer (and vice versa).Setting the time so high that you for sure make it, will result in a low offer and not much CZDs. You do not get more CZDs if you finish before the time you estimated. You will always get what the overlord offered you before the mission (minus the crash fee).Setting the time too low will increase the chance of failure and you will loose CZDs.Estimating just the right time, not too low to be able to make it and not too high to get a good offer is key to become rich!\nCredits and Tools\nGitHub PageFramework: Phaser 3\nCode: Home made typescript spaghetti code using WebStormBundler: vite.js\nGraphics: Hand painted and adapted assets from OVERLORD using Aseprite\nSound: Almost :) all by myself using Reaper, Focusrite Scarlett 2i2 interface, MODO DRUM plugin, AmpliTube 5 plugin, a Gibson SG Special and a vacuum cleaner.Bird chirping in the music was taken from taavhaap from Freesound (license).Bird chirping when collecting was taken from InspectorJ from Freesound (license).\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAxNTcyOS8xMjgwMzI4NC5wbmc=/original/1wjdzd.png",
+          "https://img.itch.zone/aW1hZ2UvMjAxNTcyOS8xMTk3ODU3Ni5wbmc=/original/d7iZuH.png",
+          "https://img.itch.zone/aW1hZ2UvMjAxNTcyOS8xMTk3ODU3Ny5wbmc=/original/WIdqVj.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Stiggstogg",
+          "Genre": "Racing",
+          "Tags": "2D, bird, Casual, hypercasual, overlord, Singleplayer, Space, spaceship, Speedrun, time"
+        }
+      }
+    },
+    {
+      "gameId": 2036720,
+      "gameUrl": "https://arisen.itch.io/exiles",
+      "overallRank": 44,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "rank": 44,
+        "id": 2036720,
+        "raw_score": 3.4133333333333,
+        "rating_count": 15,
+        "contributors": [
+          {
+            "name": "arisen",
+            "id": 2061742
+          }
+        ],
+        "title": "EXILES",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.5333333333333,
+            "score": 3.4211352891499,
+            "rank": 40
+          },
+          {
+            "name": "Theme",
+            "raw_score": 2.7333333333333,
+            "score": 2.6465386199084,
+            "rank": 93
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 2.8666666666667,
+            "score": 2.775638064782,
+            "rank": 85
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.6,
+            "score": 4.4539308481385,
+            "rank": 3
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.3333333333333,
+            "score": 3.2274861218395,
+            "rank": 51
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzExOTc5ODIyLnBuZw==/300x240%23c/dCfu%2BD.png",
+        "score": 3.3049457887637,
+        "url": "https://itch.io/jam/gamedevjs-2023/rate/2036720"
+      },
+      "entryData": {
+        "coolness": 0,
+        "url": "/jam/gamedevjs-2023/rate/2036720",
+        "id": 407358,
+        "created_at": "2023-04-26 11:03:37",
+        "rating_count": 15,
+        "field_responses": [
+          "18633:2"
+        ],
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzExOTc5ODIyLnBuZw==/300x240%23c/dCfu%2BD.png",
+          "title": "EXILES",
+          "cover_color": "#000000",
+          "id": 2036720,
+          "short_text": "Game submited to Gamedev.js Jam 2023",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "arisen",
+            "url": "https://arisen.itch.io",
+            "id": 2061742
+          },
+          "url": "https://arisen.itch.io/exiles"
+        }
+      },
+      "details": {
+        "title": "EXILES",
+        "description": "Inspired by games like extreme pamplona and other classic flash games, exiles delivers sidescroller action with a more modern twist.\nCONTROLS:\nMovement: A, SJump/Double jump: Space Bar Ability: E (You have to collect items to use the ability)Pause: ESC,P\nINSTRUCTIONS: In every mission you must reach the extraction point and evade the enemies. Tips: If you get stuck at any level remember that all levels are unlocked so you can try again or choose the next level. The items to collect are red orbs, each orb will give you a charge, which you will need to use the character's special ability.\nDeveloper:\nGustavo Arapa - https://www.artstation.com/forjadestinos_dev\nGame submited to Gamedev.js Jam 2023",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAzNjcyMC8xMTk4MDg2NS5wbmc=/original/evjYDA.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzNjcyMC8xMTk4MDg2Ni5wbmc=/original/0aTj%2FL.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzNjcyMC8xMTk4MDg2Ny5wbmc=/original/vQJiyW.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "arisen",
+          "Genre": "Action",
+          "Tags": "Action-Adventure"
+        }
+      }
+    },
+    {
+      "gameId": 2037103,
+      "gameUrl": "https://lovbos.itch.io/the-darkest-hour",
+      "overallRank": 9,
+      "topCategories": [
+        "Graphics",
+        "Audio"
+      ],
+      "resultData": {
+        "rank": 9,
+        "id": 2037103,
+        "raw_score": 3.7923076923077,
+        "rating_count": 26,
+        "contributors": [
+          {
+            "name": "lovbos",
+            "id": 7917367
+          },
+          {
+            "name": "Borna",
+            "id": 6235629
+          }
+        ],
+        "title": "The Darkest Hour",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.3846153846154,
+            "score": 3.3846153846154,
+            "rank": 44
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.7307692307692,
+            "score": 3.7307692307692,
+            "rank": 30
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.5,
+            "score": 3.5,
+            "rank": 32
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.3076923076923,
+            "score": 4.3076923076923,
+            "rank": 7
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.0384615384615,
+            "score": 4.0384615384615,
+            "rank": 4
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzExOTgyMDE2LnBuZw==/300x240%23c/kU5Wcz.png",
+        "score": 3.7923076923077,
+        "url": "https://itch.io/jam/gamedevjs-2023/rate/2037103"
+      },
+      "entryData": {
+        "coolness": 50,
+        "url": "/jam/gamedevjs-2023/rate/2037103",
+        "rating_count": 26,
+        "id": 407472,
+        "created_at": "2023-04-26 14:58:35",
+        "contributors": [
+          {
+            "name": "lovbos",
+            "url": "https://lovbos.itch.io"
+          },
+          {
+            "name": "Borna",
+            "url": "https://bornabesic.itch.io"
+          }
+        ],
+        "field_responses": [
+          "18633:1"
+        ],
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzExOTgyMDE2LnBuZw==/300x240%23c/kU5Wcz.png",
+          "title": "The Darkest Hour",
+          "cover_color": "#000000",
+          "id": 2037103,
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "lovbos",
+            "url": "https://lovbos.itch.io",
+            "id": 7917367
+          },
+          "url": "https://lovbos.itch.io/the-darkest-hour"
+        }
+      },
+      "details": {
+        "title": "The Darkest Hour",
+        "description": "The Darkest Hour\nA legends says that deep down in this ruins a secret can be found. A secret such worthy that told by many. But tried by few. A risky venture with a terrible curse for the ones who try. A curse trapping them forever, never letting them to return. Becoming something dark and vile. A loss of light, endless darkness. A creature of dark, endless dweller of the ruins.\nAfter a daylong exploration of a dungeon underneath the ruins of an old abandoned castle, you ought to return to the surface. As the night slowly falls outside, you come to realize the rooms you have been wandering suddenly feel different. Is someone or something watching? The suspense has grown to the point it can physically be felt.\nThe lantern you have been carrying has been running out of oil and there is no much time before everything becomes completely dark. You must leave the place now. Or this might be the darkest hour of your life...\nInfo\nPlaying on a larger screen (e.g. PC) with headphones is recommended!\nMade for: https://itch.io/jam/gamedevjs-2023\nSource code, art and sound: https://github.com/lorentzo/ribiz-jam\nControls\nActionBindingMoveW A S D / Arrow KeysRunShift\nTeam\nlovbos: Art & Graphicsbornabesic: Scripting & SoundLeo: Level Design\nTechnologies\nGodot Engine: Game DevelopmentBlender: Art, Assets, Environment Art, Characters and AnimationKrita: TexturesLMMS: MusicAudacity: Processing of Sound FX",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAzNzEwMy8xMTk4MjEyMi5wbmc=/original/abcFh4.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzNzEwMy8xMTk4MjEyNS5wbmc=/original/RNtlBt.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzNzEwMy8xMTk4MjE1Mi5wbmc=/original/Uj1qNv.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzNzEwMy8xMTk4MjE1NS5wbmc=/original/YBUhsz.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzNzEwMy8xMTk4MjE5NC5wbmc=/original/6xHxi6.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzNzEwMy8xMTk4MjE5Ni5wbmc=/original/0pUYdJ.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzNzEwMy8xMTk4MjIzMi5wbmc=/original/aiT4rN.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzNzEwMy8xMTk4MjIzNC5wbmc=/original/q75BoX.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Authors": "lovbos, Borna",
+          "Genre": "Adventure",
+          "Made with": "Blender, Godot, Audacity, LMMS, Krita",
+          "Tags": "2D, Arcade, Atmospheric, Dark, Indie",
+          "Code license": "GNU General Public License v3.0 (GPL)",
+          "Asset license": "Creative Commons Attribution_NonCommercial_NoDerivatives v4.0 International",
+          "Average session": "A few seconds",
+          "Languages": "English",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": 2035240,
+      "gameUrl": "https://giuliosa.itch.io/capys-timeporium",
+      "overallRank": 7,
+      "topCategories": [
+        "Graphics",
+        "Audio"
+      ],
+      "resultData": {
+        "rank": 7,
+        "id": 2035240,
+        "raw_score": 3.86,
+        "rating_count": 20,
+        "contributors": [
+          {
+            "name": "Giulio Sá",
+            "id": 4906693
+          }
+        ],
+        "title": "Capy's Timeporium",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.6,
+            "score": 3.6,
+            "rank": 22
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.9,
+            "score": 3.9,
+            "rank": 20
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.7,
+            "score": 3.7,
+            "rank": 18
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.3,
+            "score": 4.3,
+            "rank": 8
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.8,
+            "score": 3.8,
+            "rank": 10
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzExOTcwNTc2LnBuZw==/300x240%23c/OOY807.png",
+        "score": 3.86,
+        "url": "https://itch.io/jam/gamedevjs-2023/rate/2035240"
+      },
+      "entryData": {
+        "coolness": 30,
+        "url": "/jam/gamedevjs-2023/rate/2035240",
+        "id": 407422,
+        "created_at": "2023-04-26 14:00:14",
+        "rating_count": 20,
+        "field_responses": [
+          "18633:1"
+        ],
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzExOTcwNTc2LnBuZw==/300x240%23c/OOY807.png",
+          "title": "Capy's Timeporium",
+          "cover_color": "#193d3f",
+          "id": 2035240,
+          "short_text": "Puzzle game about a watchmaking Capybara",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "Giulio Sá",
+            "url": "https://giuliosa.itch.io",
+            "id": 4906693
+          },
+          "url": "https://giuliosa.itch.io/capys-timeporium"
+        }
+      },
+      "details": {
+        "title": "Capy's Timeporium",
+        "description": "Capy inherited a watchmaking business from his grandfather. Now he has to follow his family's legacy.\nThis is a puzzle game, click on one of the cat's clocks to start a puzzle, drag the gears to the correct spots to make them all connect!\nGame made for Gamedev.js Jam 2023",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAzNTI0MC8xMTk4MTM0OS5wbmc=/original/puPLo4.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzNTI0MC8xMTk4MTM1MS5wbmc=/original/SMqHUM.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzNTI0MC8xMTk4MTM1My5wbmc=/original/xEFtZK.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzNTI0MC8xMTk4MTM1NC5wbmc=/original/DQubIZ.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzNTI0MC8xMTk4MTM1Mi5wbmc=/original/dz9lJ5.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzNTI0MC8xMTk4MTM1MC5wbmc=/original/mKDbCT.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzNTI0MC8xMTk4MTM1Ny5wbmc=/original/aSs7Ia.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Release date": "Apr 26, 2023",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Giulio Sá",
+          "Genre": "Puzzle",
+          "Made with": "Godot, Clip Studio Paint, Pyxel Edit",
+          "Tags": "Casual, Godot",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 2036942,
+      "gameUrl": "https://breixogames.itch.io/on-time",
+      "overallRank": 72,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "rank": 72,
+        "id": 2036942,
+        "raw_score": 2.9851851851852,
+        "rating_count": 27,
+        "contributors": [
+          {
+            "name": "BreixoGames",
+            "id": 7480508
+          }
+        ],
+        "title": "On time",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.2962962962963,
+            "score": 3.2962962962963,
+            "rank": 53
+          },
+          {
+            "name": "Theme",
+            "raw_score": 2.2962962962963,
+            "score": 2.2962962962963,
+            "rank": 127
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 2.2962962962963,
+            "score": 2.2962962962963,
+            "rank": 127
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.2592592592593,
+            "score": 4.2592592592593,
+            "rank": 10
+          },
+          {
+            "name": "Audio",
+            "raw_score": 2.7777777777778,
+            "score": 2.7777777777778,
+            "rank": 91
+          },
+          {
+            "name": "Open Source",
+            "raw_score": 0,
+            "score": 0,
+            "rank": 4
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzExOTgwOTY3LnBuZw==/300x240%23c/7hQ5QI.png",
+        "score": 2.9851851851852,
+        "url": "https://itch.io/jam/gamedevjs-2023/rate/2036942"
+      },
+      "entryData": {
+        "coolness": 2,
+        "url": "/jam/gamedevjs-2023/rate/2036942",
+        "id": 407409,
+        "created_at": "2023-04-26 13:28:56",
+        "rating_count": 27,
+        "field_responses": [
+          "18633:1"
+        ],
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzExOTgwOTY3LnBuZw==/300x240%23c/7hQ5QI.png",
+          "title": "On time",
+          "cover_color": "#262424",
+          "id": 2036942,
+          "short_text": "platformer game",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "BreixoGames",
+            "url": "https://breixogames.itch.io",
+            "id": 7480508
+          },
+          "url": "https://breixogames.itch.io/on-time"
+        }
+      },
+      "details": {
+        "title": "On time",
+        "description": "2D platformer game\nOnly playable in browser,   move using arrow keys and shoot with spacebar.\nI hope you have fun trying out the 3  levels.\nAudio on/off - a\nContinue - c\n\n\nTry not to die soon\n\nEnjoy it!!!!\n\nBreixo Games  \n\nMore games\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAzNjk0Mi8xMTk4MDk3Ni5wbmc=/original/ezai5I.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzNjk0Mi8xMTk4MDk3Ny5wbmc=/original/4v52n%2B.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Author": "BreixoGames",
+          "Genre": "Platformer, Action",
+          "Tags": "2D, Arcade, Pixel Art, Retro"
+        }
+      }
+    },
+    {
+      "gameId": 2035610,
+      "gameUrl": "https://copperfrog.itch.io/lone-knight-to-the-past",
+      "overallRank": 50,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "rank": 50,
+        "id": 2035610,
+        "raw_score": 3.25,
+        "rating_count": 20,
+        "contributors": [
+          {
+            "name": "copperfrog",
+            "id": 6478070
+          }
+        ],
+        "title": "Lone Knight: To The Past",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.6,
+            "score": 3.6,
+            "rank": 22
+          },
+          {
+            "name": "Theme",
+            "raw_score": 2.25,
+            "score": 2.25,
+            "rank": 130
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 2.35,
+            "score": 2.35,
+            "rank": 123
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.25,
+            "score": 4.25,
+            "rank": 11
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.8,
+            "score": 3.8,
+            "rank": 10
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzExOTc4NDI1LnBuZw==/300x240%23c/x2nWF8.png",
+        "score": 3.25,
+        "url": "https://itch.io/jam/gamedevjs-2023/rate/2035610"
+      },
+      "entryData": {
+        "coolness": 14,
+        "id": 407362,
+        "created_at": "2023-04-26 11:28:56",
+        "url": "/jam/gamedevjs-2023/rate/2035610",
+        "rating_count": 20,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzExOTc4NDI1LnBuZw==/300x240%23c/x2nWF8.png",
+          "title": "Lone Knight: To The Past",
+          "cover_color": "#8f8f8f",
+          "id": 2035610,
+          "short_text": "The demon slime has become too powerful. Take a journey to the past and defeat it when it's still weak.",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "copperfrog",
+            "url": "https://copperfrog.itch.io",
+            "id": 6478070
+          },
+          "url": "https://copperfrog.itch.io/lone-knight-to-the-past"
+        }
+      },
+      "details": {
+        "title": "Lone Knight: To The Past",
+        "description": "Hi there, thanks for your visit.\n\"The Demon slime has become too strong to handle. Make a quick trip to the past and slay it when it's weak.\"\n\nDefeat all the enemies you meet, level up, collect items, and finally face the future demon slime before the guardian of time notices your action.\n\nKeyboard Controls:\n\nA / D => Move Left / Right\nSpace => Jump\nE => Inventory\nP => Pause\n\nMouse: \n\nPrimary (Left) => Attack\nSecondary (Right) => Dash\n\nExternal Asset:\n\nSome of the sound effects: KenneyMusic: Alkakrab, SVL",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAzNTYxMC8xMTk3ODQ0OC5wbmc=/original/N1XbLz.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzNTYxMC8xMTk3ODQ0OS5wbmc=/original/oooIBB.png",
+          "https://img.itch.zone/aW1hZ2UvMjAzNTYxMC8xMTk3ODQ1MC5wbmc=/original/GX0T87.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Author": "copperfrog",
+          "Genre": "Role Playing, Adventure",
+          "Made with": "Unity",
+          "Tags": "2D, Pixel Art"
+        }
+      }
+    },
+    {
+      "gameId": 2022099,
+      "gameUrl": "https://hegcool.itch.io/tix",
+      "overallRank": 18,
+      "topCategories": [
+        "Audio"
+      ],
+      "resultData": {
+        "rank": 18,
+        "id": 2022099,
+        "raw_score": 3.6347826086957,
+        "rating_count": 23,
+        "contributors": [
+          {
+            "name": "heg.cool",
+            "id": 2812810
+          }
+        ],
+        "title": "Tix",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.1739130434783,
+            "score": 3.1739130434783,
+            "rank": 63
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.7826086956522,
+            "score": 3.7826086956522,
+            "rank": 26
+          },
+          {
+            "name": "Innovation",
+            "raw_score": 3.6521739130435,
+            "score": 3.6521739130435,
+            "rank": 22
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.6521739130435,
+            "score": 3.6521739130435,
+            "rank": 39
+          },
+          {
+            "name": "Audio",
+            "raw_score": 3.9130434782609,
+            "score": 3.9130434782609,
+            "rank": 6
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzExOTc1MjQ1LnBuZw==/300x240%23c/Z2oSna.png",
+        "score": 3.6347826086957,
+        "url": "https://itch.io/jam/gamedevjs-2023/rate/2022099"
+      },
+      "entryData": {
+        "coolness": 43,
+        "url": "/jam/gamedevjs-2023/rate/2022099",
+        "id": 405976,
+        "created_at": "2023-04-23 00:19:39",
+        "rating_count": 23,
+        "field_responses": [
+          "18633:1"
+        ],
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzExOTc1MjQ1LnBuZw==/300x240%23c/Z2oSna.png",
+          "title": "Tix",
+          "cover_color": "#a7dbe7",
+          "id": 2022099,
+          "short_text": "A rhythm game made for gamedev.js 2023",
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "name": "heg.cool",
+            "url": "https://hegcool.itch.io",
+            "id": 2812810
+          },
+          "url": "https://hegcool.itch.io/tix"
+        }
+      },
+      "details": {
+        "title": "Tix",
+        "description": "Tix is a rhythm game made as part of Gamedev.js game jam 2023. Navigate a treacherous clockwork factory to find the mischievous Tix the Cat. Just make sure to keep your movements in time and not raise the suspicion of the factory's security systems.\nTix is open source. Its source code can be found here:\nhttps://github.com/Liam-Hegarty/tix\nhttps://gitlab.com/heggroup/tix",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjAyMjA5OS8xMTk0MjY4Ni5wbmc=/original/YNP%2B5s.png",
+          "https://img.itch.zone/aW1hZ2UvMjAyMjA5OS8xMTk0MjY5OS5wbmc=/original/wZKHcO.png",
+          "https://img.itch.zone/aW1hZ2UvMjAyMjA5OS8xMTk0MjcyMS5wbmc=/original/EkXHU4.png",
+          "https://img.itch.zone/aW1hZ2UvMjAyMjA5OS8xMTk3NTE3OC5wbmc=/original/uX0MIW.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Rating": "Rated 2.0 out of 5 stars(1 total ratings)",
+          "Author": "heg.cool",
+          "Genre": "Puzzle, Rhythm",
+          "Tags": "2D, Robots"
+        }
+      }
+    }
+  ]
+}

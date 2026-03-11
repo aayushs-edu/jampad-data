@@ -1,0 +1,1778 @@
+{
+  "n": 96,
+  "name": "Kenney Jam 2022",
+  "url": "https://itch.io/jam/kenney-jam-2022",
+  "theme": "Growth",
+  "slug": "kenney-jam-2022",
+  "jamMeta": {
+    "jamType": "ended",
+    "ratings": "3,805",
+    "entries": "295",
+    "title": "Kenney Jam 2022",
+    "jamURL": "https://itch.io/jam/kenney-jam-2022",
+    "hosts": {
+      "Kenney": "https://kenney.itch.io",
+      "#kenneyjam": "https://bsky.app/hashtag/kenneyjam"
+    },
+    "jamID": "322803"
+  },
+  "totalEntries": 281,
+  "ranked": true,
+  "hasCategories": true,
+  "needsManualSelection": false,
+  "categories": [
+    "Concept (gameplay)",
+    "Presentation (visuals)",
+    "Theme"
+  ],
+  "topGames": [
+    {
+      "gameId": 1671336,
+      "gameUrl": "https://canisborealis.itch.io/zenless-garden",
+      "overallRank": 5,
+      "topCategories": [
+        "Concept (gameplay)",
+        "Theme"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzk4NDE1NTgucG5n/300x240%23c/Kr3kq1.png",
+        "contributors": [
+          {
+            "name": "CanisBorealis",
+            "id": 1417665
+          }
+        ],
+        "id": 1671336,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "rank": 1,
+            "score": 4.5625,
+            "raw_score": 4.5625
+          },
+          {
+            "name": "Presentation (visuals)",
+            "rank": 32,
+            "score": 3.9375,
+            "raw_score": 3.9375
+          },
+          {
+            "name": "Theme",
+            "rank": 5,
+            "score": 4.4375,
+            "raw_score": 4.4375
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2022/rate/1671336",
+        "raw_score": 4.3125,
+        "rating_count": 16,
+        "score": 4.3125,
+        "title": "Zenless Garden",
+        "rank": 5
+      },
+      "entryData": {
+        "url": "/jam/kenney-jam-2022/rate/1671336",
+        "id": 346597,
+        "rating_count": 16,
+        "coolness": 19,
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzk4NDE1NTgucG5n/300x240%23c/Kr3kq1.png",
+          "cover_color": "#1c7f30",
+          "short_text": "A hectic typing infused gardening experience",
+          "title": "Zenless Garden",
+          "url": "https://canisborealis.itch.io/zenless-garden",
+          "id": 1671336,
+          "user": {
+            "name": "CanisBorealis",
+            "url": "https://canisborealis.itch.io",
+            "id": 1417665
+          }
+        },
+        "created_at": "2022-08-21 05:36:02"
+      },
+      "details": {
+        "title": "Zenless Garden",
+        "description": "Rapidly grow crops to fulfill customer orders in this fast paced typing gardening game.  Kenney Jam 2022 submission made in approximately 18 dev hours with breaks.  Theme: Growth\nArt assets by Kenney.\nMusic by Andrey Sitkov.\nFont by Rodrigo Fuenzalida.Follow my GameDev account on Twitter at https://twitter.com/CanisBorealis",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTY3MTMzNi85OTY0NTk0LmdpZg==/original/MK4iYS.gif",
+          "https://img.itch.zone/aW1hZ2UvMTY3MTMzNi85ODQxMjQ0LnBuZw==/original/2S4EwT.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3MTMzNi85ODQxMjQ1LnBuZw==/original/FGFAqC.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "CanisBorealis",
+          "Genre": "Action",
+          "Tags": "Fast-Paced, Gardening, Godot, kenney-jam, Typing",
+          "Average session": "A few minutes"
+        }
+      }
+    },
+    {
+      "gameId": 1670678,
+      "gameUrl": "https://jules5.itch.io/feed-the-horde",
+      "overallRank": 3,
+      "topCategories": [
+        "Concept (gameplay)",
+        "Presentation (visuals)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzk4NDQzNjUucG5n/300x240%23c/zfiN50.png",
+        "contributors": [
+          {
+            "name": "Jules5",
+            "id": 2701433
+          }
+        ],
+        "id": 1670678,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "rank": 2,
+            "score": 4.5,
+            "raw_score": 4.5
+          },
+          {
+            "name": "Presentation (visuals)",
+            "rank": 9,
+            "score": 4.25,
+            "raw_score": 4.25
+          },
+          {
+            "name": "Theme",
+            "rank": 14,
+            "score": 4.3125,
+            "raw_score": 4.3125
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2022/rate/1670678",
+        "raw_score": 4.3541666666667,
+        "rating_count": 16,
+        "score": 4.3541666666667,
+        "title": "Feed the Horde",
+        "rank": 3
+      },
+      "entryData": {
+        "url": "/jam/kenney-jam-2022/rate/1670678",
+        "id": 346379,
+        "rating_count": 16,
+        "coolness": 1,
+        "game": {
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzk4NDQzNjUucG5n/300x240%23c/zfiN50.png",
+          "cover_color": "#4e4e4e",
+          "short_text": "Confront humanity and grow your horde !",
+          "title": "Feed the Horde",
+          "url": "https://jules5.itch.io/feed-the-horde",
+          "id": 1670678,
+          "user": {
+            "name": "Jules5",
+            "url": "https://jules5.itch.io",
+            "id": 2701433
+          }
+        },
+        "created_at": "2022-08-20 18:15:38"
+      },
+      "details": {
+        "title": "Feed the Horde",
+        "description": "A game developped in two days for the Kenney Jam 2022.\nStarting as one confused zombie lost in the city jungle, make your way to the top of the food chain. Chase people, grow your horde, destroy everything in your path !\nControls :\n    \nUse the left stick or the arrow keys to move the horde.\n    Press A or space to sprint. This ability is limited so use it wisely !\nSome hints : \n It's a dangerous world out there. But if your horde become big enough, you will be the danger.The northern districts are more populated but also more geared, be ready.We heard that some evil corporation has its headquarters in the business district of the city. Drop by to say hello if you pass by !\n\nBonus : If you want to unleash your true potential, press \"P\" on your keyboard to add zombies to your horde ;)Made by Jules Girard & Clément Baudonnel\nSpecial thanks to Youri Charbonnel for playtests and game design advices :) !",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTY3MDY3OC85ODQ0ODU5LnBuZw==/original/mZIpFO.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3MDY3OC85ODQ0ODUzLnBuZw==/original/DBJTJk.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3MDY3OC85ODQ0ODU0LnBuZw==/original/EU5JLZ.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3MDY3OC85ODQ0ODU2LnBuZw==/original/kqLW0R.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Jules5",
+          "Genre": "Action",
+          "Made with": "Unity",
+          "Tags": "Arcade, Zombies",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Gamepad (any)"
+        }
+      }
+    },
+    {
+      "gameId": 1671638,
+      "gameUrl": "https://priyankaj.itch.io/conflagrow",
+      "overallRank": 2,
+      "topCategories": [
+        "Concept (gameplay)",
+        "Presentation (visuals)",
+        "Theme"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzk4NDM4NzUucG5n/300x240%23c/7OZfMz.png",
+        "contributors": [
+          {
+            "name": "Priyankaj",
+            "id": 6360799
+          },
+          {
+            "name": "Tamasik",
+            "id": 6491158
+          }
+        ],
+        "id": 1671638,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "rank": 3,
+            "score": 4.4659090909091,
+            "raw_score": 4.4659090909091
+          },
+          {
+            "name": "Presentation (visuals)",
+            "rank": 2,
+            "score": 4.5795454545455,
+            "raw_score": 4.5795454545455
+          },
+          {
+            "name": "Theme",
+            "rank": 3,
+            "score": 4.5113636363636,
+            "raw_score": 4.5113636363636
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2022/rate/1671638",
+        "raw_score": 4.5189393939394,
+        "rating_count": 88,
+        "score": 4.5189393939394,
+        "title": "Conflagrow",
+        "rank": 2
+      },
+      "entryData": {
+        "rating_count": 88,
+        "url": "/jam/kenney-jam-2022/rate/1671638",
+        "id": 347009,
+        "coolness": 3,
+        "contributors": [
+          {
+            "name": "Priyankaj",
+            "url": "https://priyankaj.itch.io"
+          },
+          {
+            "name": "Tamasik",
+            "url": "https://tamasik.itch.io"
+          }
+        ],
+        "game": {
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzk4NDM4NzUucG5n/300x240%23c/7OZfMz.png",
+          "cover_color": "#000000",
+          "short_text": "Let the World Burn!!",
+          "title": "Conflagrow",
+          "url": "https://priyankaj.itch.io/conflagrow",
+          "id": 1671638,
+          "user": {
+            "name": "Priyankaj",
+            "url": "https://priyankaj.itch.io",
+            "id": 6360799
+          }
+        },
+        "created_at": "2022-08-21 14:50:55"
+      },
+      "details": {
+        "title": "Conflagrow",
+        "description": "\n\nLet the World Burn!!\nHelp the Forest Fire Grow!! Arrange the items so as to help the fire grow and bring our miserable world to an end.Resources.. decreasing and the population increasing. Soon the world will have nothing but rocks. And as a wise man once said.\n\"Burn Them ALL!!\" :)\nThere is a Fire at one end of the Level and all the burnable bush is scattered around the map. Fire always grows in four directions.With the help of resources provided, arrange the map so as to help the fire burn all the burnable grasslands\n\n\n\nGameplay  Instructions :\n\n#thanoswasright\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTY3MTYzOC85ODQ1MTUyLnBuZw==/original/TBXlAk.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3MTYzOC85ODQ1MTUzLnBuZw==/original/xAjjS1.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Publisher": "",
+          "Release date": "Aug 21, 2022",
+          "Rating": "Rated 4.7 out of 5 stars(3 total ratings)",
+          "Authors": "Priyankaj, Tamasik",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "3D, fire, hard, My First Game Jam, Puzzle-Platformer, Singleplayer, Unity",
+          "Average session": "A few seconds",
+          "Languages": "English",
+          "Inputs": "Touchscreen"
+        }
+      }
+    },
+    {
+      "gameId": 1671726,
+      "gameUrl": "https://sagarredkar1999.itch.io/the-foody-snake",
+      "overallRank": 1,
+      "topCategories": [
+        "Concept (gameplay)",
+        "Presentation (visuals)",
+        "Theme"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzk4NDM1NzUuanBn/300x240%23c/6apgaR.jpg",
+        "contributors": [
+          {
+            "name": "sagar.redkar.1999",
+            "id": 6425466
+          }
+        ],
+        "id": 1671726,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "rank": 4,
+            "score": 4.4545454545455,
+            "raw_score": 4.4545454545455
+          },
+          {
+            "name": "Presentation (visuals)",
+            "rank": 3,
+            "score": 4.5,
+            "raw_score": 4.5
+          },
+          {
+            "name": "Theme",
+            "rank": 2,
+            "score": 4.6060606060606,
+            "raw_score": 4.6060606060606
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2022/rate/1671726",
+        "raw_score": 4.520202020202,
+        "rating_count": 66,
+        "score": 4.520202020202,
+        "title": "The Foody Snake",
+        "rank": 1
+      },
+      "entryData": {
+        "url": "/jam/kenney-jam-2022/rate/1671726",
+        "id": 346847,
+        "rating_count": 66,
+        "coolness": 1,
+        "game": {
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzk4NDM1NzUuanBn/300x240%23c/6apgaR.jpg",
+          "url": "https://sagarredkar1999.itch.io/the-foody-snake",
+          "id": 1671726,
+          "title": "The Foody Snake",
+          "user": {
+            "name": "sagar.redkar.1999",
+            "url": "https://sagarredkar1999.itch.io",
+            "id": 6425466
+          }
+        },
+        "created_at": "2022-08-21 12:47:21"
+      },
+      "details": {
+        "title": "The Foody Snake",
+        "description": "This is the first game jam we have participated. We learnt a lot of things from this game jam.\nThe Foody Snake is a 2d game in which after eating a food the snake will grow. You can pick powerup and make a snake  immortal for a certain amount of time.\nControls : Use Arrow Keys(← ↑ ↓ →) to control the Snake.\nCaution : Don't eat yourself ;)\n\n\n You can download below zip of this game for windows.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTY3MTcyNi85ODQzOTI3LmpwZw==/original/584KVp.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY3MTcyNi85ODQzOTI2LmpwZw==/original/qe6Jba.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY3MTcyNi85ODQzOTI1LmpwZw==/original/Ha23lv.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTY3MTcyNi85ODQzOTQxLmpwZw==/original/oGEZpN.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "sagar.redkar.1999",
+          "Made with": "Unity",
+          "Tags": "1stgamejam, 2D, Casual, kennygamejam, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 1671864,
+      "gameUrl": "https://alankilby.itch.io/thingies-tower",
+      "overallRank": 11,
+      "topCategories": [
+        "Concept (gameplay)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzk4NDQ0NjkucG5n/300x240%23c/0DnyQM.png",
+        "contributors": [
+          {
+            "name": "Alan Kilby",
+            "id": 2148413
+          },
+          {
+            "name": "Ulric Debaert",
+            "id": 5656473
+          }
+        ],
+        "id": 1671864,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "rank": 5,
+            "score": 4.4444444444444,
+            "raw_score": 4.4444444444444
+          },
+          {
+            "name": "Presentation (visuals)",
+            "rank": 23,
+            "score": 4,
+            "raw_score": 4
+          },
+          {
+            "name": "Theme",
+            "rank": 29,
+            "score": 4,
+            "raw_score": 4
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2022/rate/1671864",
+        "raw_score": 4.1481481481481,
+        "rating_count": 9,
+        "score": 4.1481481481481,
+        "title": "Thingies Tower",
+        "rank": 11
+      },
+      "entryData": {
+        "rating_count": 9,
+        "url": "/jam/kenney-jam-2022/rate/1671864",
+        "id": 346887,
+        "coolness": 0,
+        "contributors": [
+          {
+            "name": "Alan Kilby",
+            "url": "https://alankilby.itch.io"
+          },
+          {
+            "name": "Ulric Debaert",
+            "url": "https://ulric-debaert.itch.io"
+          }
+        ],
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzk4NDQ0NjkucG5n/300x240%23c/0DnyQM.png",
+          "cover_color": "#743f39",
+          "short_text": "Build a tower with random objects to escape the lava !",
+          "title": "Thingies Tower",
+          "url": "https://alankilby.itch.io/thingies-tower",
+          "id": 1671864,
+          "user": {
+            "name": "Alan Kilby",
+            "url": "https://alankilby.itch.io",
+            "id": 2148413
+          }
+        },
+        "created_at": "2022-08-21 13:42:07"
+      },
+      "details": {
+        "title": "Thingies Tower",
+        "description": "This project was created for the Kenney Jam 22!\nThingies Tower is a game about building a tower with random objects given to you by a wizard in the form of cards. Go as high as you can to avoid your demise!\nControls :\nLeft Mouse Button - Drag and drop cards in the building area.\nArrow keys / AD  - Rotate the object before placing it.\nH - Reset the high score.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTY3MTg2NC85ODQ1MDIwLnBuZw==/original/L16fA1.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3MTg2NC85ODQ1MDIyLnBuZw==/original/DMMvXW.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3MTg2NC85ODQ1MDIxLnBuZw==/original/gtL%2B9e.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Authors": "Alan Kilby, Ulric Debaert",
+          "Genre": "Puzzle, Card Game",
+          "Made with": "Unity",
+          "Tags": "2D, kenneyjam, Physics, Singleplayer, towerbuilder"
+        }
+      }
+    },
+    {
+      "gameId": 1671720,
+      "gameUrl": "https://mrran.itch.io/castle-blitz",
+      "overallRank": 4,
+      "topCategories": [
+        "Concept (gameplay)",
+        "Presentation (visuals)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzk4NzgxMjIucG5n/300x240%23c/Zqxf54.png",
+        "contributors": [
+          {
+            "name": "MrRan",
+            "id": 1986999
+          }
+        ],
+        "id": 1671720,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "rank": 6,
+            "score": 4.3703703703704,
+            "raw_score": 4.3703703703704
+          },
+          {
+            "name": "Presentation (visuals)",
+            "rank": 1,
+            "score": 4.6296296296296,
+            "raw_score": 4.6296296296296
+          },
+          {
+            "name": "Theme",
+            "rank": 29,
+            "score": 4,
+            "raw_score": 4
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2022/rate/1671720",
+        "raw_score": 4.3333333333333,
+        "rating_count": 27,
+        "score": 4.3333333333333,
+        "title": "Castle Blitz",
+        "rank": 4
+      },
+      "entryData": {
+        "url": "/jam/kenney-jam-2022/rate/1671720",
+        "id": 346810,
+        "rating_count": 27,
+        "coolness": 53,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzk4NzgxMjIucG5n/300x240%23c/Zqxf54.png",
+          "cover_color": "#4f6781",
+          "short_text": "Shoot the zombies on the growing map before they invade your castle!",
+          "title": "Castle Blitz",
+          "url": "https://mrran.itch.io/castle-blitz",
+          "id": 1671720,
+          "user": {
+            "name": "MrRan",
+            "url": "https://mrran.itch.io",
+            "id": 1986999
+          }
+        },
+        "created_at": "2022-08-21 12:01:28"
+      },
+      "details": {
+        "title": "Castle Blitz",
+        "description": "We made a game where the map grows after every wave, spawning unique enemies and new tiles. As you progress, you grow your arsenal of weapons to fight back against the sieging undead. Don't let them destroy your castle!\nPlayer Controls --\nLeft Click - Shoot\nRight Click - Pan Camera\nMiddle Mouse - Center Camera\nScroll Wheel - Zoom in and out\nKill all enemies AND spawners to finish the wave\nSpawners are tiles with an orange highlight that endlessly spawn new enemies. Destroy them fast or you will be overwhelmed!\nThis game was made by a team of three in 48 hours for Kenney Jam 2022!\nKnown Issues:\n-Exit button is not working (press alt f4 to get out)\n-The game ends after pressing the 'next wave' button on wave 10 instead of after you beat the wave\n-Rarely the player loses the ability to target a spawner tile\n-The price shown for the 'projectile speed' and 'damage' upgrades are initially the wrong numbers (shows $10 instead of $5). They update to correct numbers after first purchase",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTY3MTcyMC85ODQzOTU0LnBuZw==/original/kOJGaN.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3MTcyMC85ODQzOTUzLnBuZw==/original/hr8Pm2.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3MTcyMC85ODQzOTUyLnBuZw==/original/p4b7FU.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Author": "MrRan",
+          "Genre": "Action",
+          "Tags": "3D, Low-poly, Short, Singleplayer, Top-Down, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 1671721,
+      "gameUrl": "https://aniol92.itch.io/space-swarm",
+      "overallRank": 16,
+      "topCategories": [
+        "Concept (gameplay)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzk4NDM5MDQucG5n/300x240%23c/4yI4IU.png",
+        "contributors": [
+          {
+            "name": "Aniol92",
+            "id": 1766844
+          }
+        ],
+        "id": 1671721,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "rank": 8,
+            "score": 4.3076923076923,
+            "raw_score": 4.3076923076923
+          },
+          {
+            "name": "Presentation (visuals)",
+            "rank": 17,
+            "score": 4.0769230769231,
+            "raw_score": 4.0769230769231
+          },
+          {
+            "name": "Theme",
+            "rank": 53,
+            "score": 3.7692307692308,
+            "raw_score": 3.7692307692308
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2022/rate/1671721",
+        "raw_score": 4.0512820512821,
+        "rating_count": 13,
+        "score": 4.0512820512821,
+        "title": "Space Swarm",
+        "rank": 16
+      },
+      "entryData": {
+        "url": "/jam/kenney-jam-2022/rate/1671721",
+        "id": 346992,
+        "rating_count": 13,
+        "coolness": 0,
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzk4NDM5MDQucG5n/300x240%23c/4yI4IU.png",
+          "cover_color": "#1dda7c",
+          "id": 1671721,
+          "title": "Space Swarm",
+          "url": "https://aniol92.itch.io/space-swarm",
+          "user": {
+            "name": "Aniol92",
+            "url": "https://aniol92.itch.io",
+            "id": 1766844
+          }
+        },
+        "created_at": "2022-08-21 14:48:06"
+      },
+      "details": {
+        "title": "Space Swarm",
+        "description": "Play in fullscreen for the intended experience.\n----------\nSave the galaxy from the evil mecha-spider! It won't be easy, you'll need to collect energy in order to grow your swarm and defeat all adversities in your way!\nControls:\n- WASD or Arrows to move\n- Click on the different spaceship buttons to create them\n\nArt and Design by: Samuel Moya\nDev and Tech by: Aniol Andrés",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzk4NDM5MDQucG5n/original/7hMhyw.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Aniol92",
+          "Genre": "Action",
+          "Made with": "Unity",
+          "Tags": "Shoot 'Em Up, Side Scroller, Space"
+        }
+      }
+    },
+    {
+      "gameId": 1671400,
+      "gameUrl": "https://spratley.itch.io/golfinity",
+      "overallRank": 9,
+      "topCategories": [
+        "Concept (gameplay)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzk4NDE2NDAucG5n/300x240%23c/pHSPOY.png",
+        "contributors": [
+          {
+            "name": "Spratley",
+            "id": 1904176
+          }
+        ],
+        "id": 1671400,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "rank": 9,
+            "score": 4.2456140350877,
+            "raw_score": 4.2456140350877
+          },
+          {
+            "name": "Presentation (visuals)",
+            "rank": 36,
+            "score": 3.9122807017544,
+            "raw_score": 3.9122807017544
+          },
+          {
+            "name": "Theme",
+            "rank": 13,
+            "score": 4.3157894736842,
+            "raw_score": 4.3157894736842
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2022/rate/1671400",
+        "raw_score": 4.1578947368421,
+        "rating_count": 57,
+        "score": 4.1578947368421,
+        "title": "Golfinity",
+        "rank": 9
+      },
+      "entryData": {
+        "url": "/jam/kenney-jam-2022/rate/1671400",
+        "id": 346664,
+        "rating_count": 57,
+        "coolness": 9,
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzk4NDE2NDAucG5n/300x240%23c/pHSPOY.png",
+          "cover_color": "#535353",
+          "short_text": "Infinite Minigolf!",
+          "title": "Golfinity",
+          "url": "https://spratley.itch.io/golfinity",
+          "id": 1671400,
+          "user": {
+            "name": "Spratley",
+            "url": "https://spratley.itch.io",
+            "id": 1904176
+          }
+        },
+        "created_at": "2022-08-21 08:25:15"
+      },
+      "details": {
+        "title": "Golfinity",
+        "description": "Welcome to Golfinity, the infinite minigolf course!With each turn you take, the course will grow further away from you! Can you play well enough to keep up? Harder difficulties make the course grow more per turn! \nIf you can land your ball in the final segment, you'll pin the course and it won't be able to run away unless you leave or sink the putt! \nCross your fingers that my flood fill algorithm fails and the course gets trapped! \n=-=-=--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Controls:\nW/S - Increase/decrease shot strengthA/D - Adjust aimArrow Keys - Rotate cameraSpacebar - Hit ball (Only on your turn!) Stuck? Press ESCAPE and click Give Up to return to the main menu!=-=-=--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\nMade for the 2022 Kenney jamAll art assets are from KenneyAll sounds are from freesound.org",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzk4NDE2NDAucG5n/original/7BCtE2.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.7 out of 5 stars(3 total ratings)",
+          "Author": "Spratley",
+          "Genre": "Sports, Simulation",
+          "Made with": "Unity",
+          "Tags": "3D, Arcade, Casual, Experimental, Golf, Short, Singleplayer, Top-Down, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 1671692,
+      "gameUrl": "https://flavedogame.itch.io/growing-monster",
+      "overallRank": 11,
+      "topCategories": [
+        "Concept (gameplay)",
+        "Theme"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzk4NDM1NjIucG5n/300x240%23c/KeaQNd.png",
+        "contributors": [
+          {
+            "name": "flavedogame",
+            "id": 3415511
+          }
+        ],
+        "id": 1671692,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "rank": 10,
+            "score": 4.2222222222222,
+            "raw_score": 4.2222222222222
+          },
+          {
+            "name": "Presentation (visuals)",
+            "rank": 73,
+            "score": 3.5555555555556,
+            "raw_score": 3.5555555555556
+          },
+          {
+            "name": "Theme",
+            "rank": 1,
+            "score": 4.6666666666667,
+            "raw_score": 4.6666666666667
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2022/rate/1671692",
+        "raw_score": 4.1481481481481,
+        "rating_count": 9,
+        "score": 4.1481481481481,
+        "title": "Growing Monster",
+        "rank": 11
+      },
+      "entryData": {
+        "url": "/jam/kenney-jam-2022/rate/1671692",
+        "id": 346798,
+        "rating_count": 9,
+        "coolness": 1,
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzk4NDM1NjIucG5n/300x240%23c/KeaQNd.png",
+          "cover_color": "#eeeeee",
+          "id": 1671692,
+          "title": "Growing Monster",
+          "url": "https://flavedogame.itch.io/growing-monster",
+          "user": {
+            "name": "flavedogame",
+            "url": "https://flavedogame.itch.io",
+            "id": 3415511
+          }
+        },
+        "created_at": "2022-08-21 11:44:49"
+      },
+      "details": {
+        "title": "Growing Monster",
+        "description": "Time to build your monster and teach those arrogant human a lesson!\nHint:\nThe antenna would allow you to click an arm or eye to speed it up, it might be a little hard to click, there will be an outline when you can click on it.\nAdd Antenna more than once would not give you anything more than visually show another one... sorry about that...",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTY3MTY5Mi85ODQzNTYzLnBuZw==/original/DYhU5c.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3MTY5Mi85ODQzNTY0LnBuZw==/original/x1Y%2BsJ.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3MTY5Mi85ODQzNTY1LnBuZw==/original/x1Xnzf.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "flavedogame",
+          "Genre": "Simulation, Adventure",
+          "Made with": "Unity",
+          "Tags": "Monsters, upgrades"
+        }
+      }
+    },
+    {
+      "gameId": 1670912,
+      "gameUrl": "https://benjatk.itch.io/terraforma",
+      "overallRank": 7,
+      "topCategories": [
+        "Presentation (visuals)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzk4Mzk5NTUucG5n/300x240%23c/3NtPuH.png",
+        "contributors": [
+          {
+            "name": "BenjaTK",
+            "id": 3112576
+          }
+        ],
+        "id": 1670912,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "rank": 13,
+            "score": 4.1142857142857,
+            "raw_score": 4.1142857142857
+          },
+          {
+            "name": "Presentation (visuals)",
+            "rank": 4,
+            "score": 4.4785714285714,
+            "raw_score": 4.4785714285714
+          },
+          {
+            "name": "Theme",
+            "rank": 25,
+            "score": 4.0857142857143,
+            "raw_score": 4.0857142857143
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2022/rate/1670912",
+        "raw_score": 4.2261904761905,
+        "rating_count": 140,
+        "score": 4.2261904761905,
+        "title": "Terraforma",
+        "rank": 7
+      },
+      "entryData": {
+        "url": "/jam/kenney-jam-2022/rate/1670912",
+        "id": 346909,
+        "rating_count": 140,
+        "coolness": 27,
+        "game": {
+          "platforms": [
+            "windows",
+            "linux",
+            "android",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzk4Mzk5NTUucG5n/300x240%23c/3NtPuH.png",
+          "cover_color": "#c6ac96",
+          "short_text": "Grow your own world from scratch",
+          "title": "Terraforma",
+          "url": "https://benjatk.itch.io/terraforma",
+          "id": 1670912,
+          "user": {
+            "name": "BenjaTK",
+            "url": "https://benjatk.itch.io",
+            "id": 3112576
+          }
+        },
+        "created_at": "2022-08-21 14:03:56"
+      },
+      "details": {
+        "title": "Terraforma",
+        "description": "Terraforma\n\nGrow your land by placing blocks & buildings whilecarefully planning your placements,and make your own little world in this small idle game.\nHow to play:Blocks generate points, some being affected by nearby tiles.Buy cards, place blocks and grow your world.\nMouse to interact, left click to place.Right click/middle click and drag to move.Mouse wheel to zoom in/out.R to center the camera.\nNote: Cookies have to be enabled to save progress.\n\nOriginally made during the Kenney Jam 2022 (Theme: Growth)Assets by KenneySounds from Freesound",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTY3MDkxMi85OTU4MjI3LnBuZw==/original/P1JOjy.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3MDkxMi85OTU4MjE1LmdpZg==/original/XNSUkH.gif",
+          "https://img.itch.zone/aW1hZ2UvMTY3MDkxMi85OTU4MjIyLnBuZw==/original/FfdV9v.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3MDkxMi85OTU4MjIzLnBuZw==/original/Lv4Zo%2F.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, Linux, Android",
+          "Rating": "Rated 4.3 out of 5 stars(252 total ratings)",
+          "Author": "BenjaTK",
+          "Genre": "Simulation, Strategy",
+          "Made with": "Godot, GIMP, Audacity",
+          "Tags": "2D, Creative, Idle, Sandbox",
+          "Average session": "Days or more",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse, Touchscreen"
+        }
+      }
+    },
+    {
+      "gameId": 1671940,
+      "gameUrl": "https://hacktrout.itch.io/spiral",
+      "overallRank": 35,
+      "topCategories": [
+        "Presentation (visuals)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzk4NDU1MTIuZ2lm/300x240%23c/QC3Y0k.gif",
+        "contributors": [
+          {
+            "name": "HackTrout",
+            "id": 1175853
+          }
+        ],
+        "id": 1671940,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "rank": 89,
+            "score": 3.2666666666667,
+            "raw_score": 3.2666666666667
+          },
+          {
+            "name": "Presentation (visuals)",
+            "rank": 5,
+            "score": 4.4666666666667,
+            "raw_score": 4.4666666666667
+          },
+          {
+            "name": "Theme",
+            "rank": 77,
+            "score": 3.5333333333333,
+            "raw_score": 3.5333333333333
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2022/rate/1671940",
+        "raw_score": 3.7555555555556,
+        "rating_count": 15,
+        "score": 3.7555555555556,
+        "title": "Spiral",
+        "rank": 35
+      },
+      "entryData": {
+        "url": "/jam/kenney-jam-2022/rate/1671940",
+        "id": 346934,
+        "rating_count": 15,
+        "coolness": 18,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzk4NDU1MTIuZ2lm/300x240%23c/QC3Y0k.gif",
+          "short_text": "Expand across and extract the galaxy!",
+          "title": "Spiral",
+          "user": {
+            "name": "HackTrout",
+            "url": "https://hacktrout.itch.io",
+            "id": 1175853
+          },
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#4f6781",
+          "gif_cover": "https://img.itch.zone/aW1nLzk4NDU1MTIuZ2lm/original/JJzZzH.gif",
+          "url": "https://hacktrout.itch.io/spiral",
+          "id": 1671940
+        },
+        "created_at": "2022-08-21 14:24:53"
+      },
+      "details": {
+        "title": "Spiral",
+        "description": "Expand across the galaxy by establishing mining colonies on bountiful planets. Before a planet is completely extracted, build ships to colonize new planets. If you do not expand, your species will go extinct!\n\nHow to play\nYou start off on an empty planet and can move to a mining planet by left clicking the route between them. After a while the mining planet will run out of resources and become empty. Before that happens you can build ships that will launch when a mining planet becomes empty. You can make bigger ships that will carry spare resources to other planets.\nThe game ends when all mining planets become empty.\nControls\nMovement: Left Click on travel routes between planets.Building Ships: Left Click on launch points on mining colonies. You can stack the amount of resources that will be launched from the planet and transported to the new planet.Mining: Press space to speed up the extraction of resources on a mining colony.\nRoutes turn bright yellow when ships land on planets that have already been discovered.\nBackground\nSubmitted to Kenney Jam 2022 with the theme of Growth.\nCredits\nMade using Godot. Sprites were made by Kenney. Sound FX made with sfxr. Check out my twitter too!\nCredit to flowerhead for the music track \"Orbish\". Check out their soundcloud and youtube channel!\n\nSpecific Kenney assets used:\n\nUI Pack: Space Expansion\nSimple Space\nBoard Game Icons\nPattern Pack\nGame Icons\nKenney Fonts\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTY3MTk0MC85ODQ2ODMzLnBuZw==/original/a%2BsaQw.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3MTk0MC85ODQ2ODM0LnBuZw==/original/C2DPta.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "HackTrout",
+          "Genre": "Survival",
+          "Tags": "Short, Singleplayer, Space"
+        }
+      }
+    },
+    {
+      "gameId": 1672056,
+      "gameUrl": "https://patrocinioluisf.itch.io/the-growing-mountain",
+      "overallRank": 34,
+      "topCategories": [
+        "Presentation (visuals)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzk4NDU1MTEucG5n/300x240%23c/9W1VJm.png",
+        "contributors": [
+          {
+            "name": "Luis Felipe Patrocinio",
+            "id": 964164
+          }
+        ],
+        "id": 1672056,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "rank": 76,
+            "score": 3.3636363636364,
+            "raw_score": 3.3636363636364
+          },
+          {
+            "name": "Presentation (visuals)",
+            "rank": 6,
+            "score": 4.4545454545455,
+            "raw_score": 4.4545454545455
+          },
+          {
+            "name": "Theme",
+            "rank": 85,
+            "score": 3.4545454545455,
+            "raw_score": 3.4545454545455
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2022/rate/1672056",
+        "raw_score": 3.7575757575758,
+        "rating_count": 11,
+        "score": 3.7575757575758,
+        "title": "The Growing Mountain",
+        "rank": 34
+      },
+      "entryData": {
+        "url": "/jam/kenney-jam-2022/rate/1672056",
+        "id": 347052,
+        "rating_count": 11,
+        "coolness": 13,
+        "game": {
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzk4NDU1MTEucG5n/300x240%23c/9W1VJm.png",
+          "cover_color": "#000075",
+          "short_text": "What awaits you at the top of the mountain?",
+          "title": "The Growing Mountain",
+          "url": "https://patrocinioluisf.itch.io/the-growing-mountain",
+          "id": 1672056,
+          "user": {
+            "name": "Luis Felipe Patrocinio",
+            "url": "https://patrocinioluisf.itch.io",
+            "id": 964164
+          }
+        },
+        "created_at": "2022-08-21 14:57:38"
+      },
+      "details": {
+        "title": "The Growing Mountain",
+        "description": "What awaits you at the top of the mountain?\nGame submitted to Kenney Jam 2022. Theme: GROWTH.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTY3MjA1Ni85ODQ1NTU3LmdpZg==/original/gFi96a.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Luis Felipe Patrocinio",
+          "Genre": "Adventure",
+          "Made with": "GameMaker"
+        }
+      }
+    },
+    {
+      "gameId": 1671993,
+      "gameUrl": "https://atadenizoktay.itch.io/medieval-juice",
+      "overallRank": 117,
+      "topCategories": [
+        "Presentation (visuals)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzEwMDM0MTE2LnBuZw==/300x240%23c/2pylAo.png",
+        "contributors": [
+          {
+            "name": "Ata Deniz Oktay",
+            "id": 2949495
+          }
+        ],
+        "id": 1671993,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "rank": 200,
+            "score": 2.125,
+            "raw_score": 2.125
+          },
+          {
+            "name": "Presentation (visuals)",
+            "rank": 7,
+            "score": 4.3333333333333,
+            "raw_score": 4.3333333333333
+          },
+          {
+            "name": "Theme",
+            "rank": 140,
+            "score": 2.875,
+            "raw_score": 2.875
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2022/rate/1671993",
+        "raw_score": 3.1111111111111,
+        "rating_count": 24,
+        "score": 3.1111111111111,
+        "title": "Medieval Juice",
+        "rank": 117
+      },
+      "entryData": {
+        "url": "/jam/kenney-jam-2022/rate/1671993",
+        "id": 347039,
+        "rating_count": 24,
+        "coolness": 9,
+        "game": {
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEwMDM0MTE2LnBuZw==/300x240%23c/2pylAo.png",
+          "cover_color": "#4092e8",
+          "short_text": "A chill, juicy, medieval-themed building game.",
+          "title": "Medieval Juice",
+          "url": "https://atadenizoktay.itch.io/medieval-juice",
+          "id": 1671993,
+          "user": {
+            "name": "Ata Deniz Oktay",
+            "url": "https://atadenizoktay.itch.io",
+            "id": 2949495
+          }
+        },
+        "created_at": "2022-08-21 14:56:16"
+      },
+      "details": {
+        "title": "Medieval Juice",
+        "description": "Summary\n\nMedieval Juice is a chill, juicy, medieval-themed building game that is initially created during the Kenney Jam 2022 in a few hours and is currently in development.\nAt its current phase, it is more than an interactive application when clicks spawn buildings, rather than a game.\nI plan to add (added in v2) procedural maps, and a point system (abandoned) where each placed building yield points based on its neighbors.\nControls\n\nPlace, Rotate Building: Left Mouse Button\nReset Building Rotation: Right Mouse Button\nRotate Map: Q & E or 1 & 2\nMove Camera: W, A, S & D or Arrow Keys\nRestart: R Key or Spacebar\nCredits\n\nAuthors\nAta Deniz Oktay - Game Design & Programming\nAssets\nVisual Assets - Kenney\nBackground Music - Ben Burnes",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTY3MTk5My85ODQ1ODM5LmdpZg==/original/Z35W9Q.gif",
+          "https://img.itch.zone/aW1hZ2UvMTY3MTk5My85ODQ1NDMxLnBuZw==/original/AKKLrx.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3MTk5My85ODQ1NDMwLnBuZw==/original/QZqxsO.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3MTk5My85ODQ1NDI5LnBuZw==/original/yVF3dY.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Ata Deniz Oktay",
+          "Genre": "Strategy",
+          "Made with": "Blender, Aseprite, Godot, Audacity, Adobe Illustrator",
+          "Tags": "3D, Cartoon, Casual, City Builder, kenney, kenneyjam2022",
+          "Average session": "A few seconds",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse",
+          "Accessibility": "Textless"
+        }
+      }
+    },
+    {
+      "gameId": 1670749,
+      "gameUrl": "https://dandeliondino.itch.io/the-great-tree",
+      "overallRank": 21,
+      "topCategories": [
+        "Presentation (visuals)"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzk4NDE0MDUucG5n/300x240%23c/qKerE3.png",
+        "contributors": [
+          {
+            "name": "dandelion dino",
+            "id": 6120266
+          }
+        ],
+        "id": 1670749,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "rank": 25,
+            "score": 3.8666666666667,
+            "raw_score": 3.8666666666667
+          },
+          {
+            "name": "Presentation (visuals)",
+            "rank": 8,
+            "score": 4.2666666666667,
+            "raw_score": 4.2666666666667
+          },
+          {
+            "name": "Theme",
+            "rank": 59,
+            "score": 3.6666666666667,
+            "raw_score": 3.6666666666667
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2022/rate/1670749",
+        "raw_score": 3.9333333333333,
+        "rating_count": 15,
+        "score": 3.9333333333333,
+        "title": "The Great Tree",
+        "rank": 21
+      },
+      "entryData": {
+        "url": "/jam/kenney-jam-2022/rate/1670749",
+        "id": 346686,
+        "rating_count": 15,
+        "coolness": 17,
+        "game": {
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzk4NDE0MDUucG5n/300x240%23c/qKerE3.png",
+          "cover_color": "#77743b",
+          "short_text": "Save a tree in this retro adventure game created for Kenney Jam 2022",
+          "title": "The Great Tree",
+          "url": "https://dandeliondino.itch.io/the-great-tree",
+          "id": 1670749,
+          "user": {
+            "name": "dandelion dino",
+            "url": "https://dandeliondino.itch.io",
+            "id": 6120266
+          }
+        },
+        "created_at": "2022-08-21 09:22:30"
+      },
+      "details": {
+        "title": "The Great Tree",
+        "description": "The Great Tree\nYou are a witch tasked with saving the Great Tree.\nA short top-down retro adventure game created for Kenney Jam 2022 (theme: \"Growth\").\nKeyboard controls: \"WASD\" or arrow keys to move, \"e\" or \"enter\" to select.\nImportant update: The game tells you to press \"esc\" for \"menu\" and \"back\", but don't do it if you're playing in a browser! I'll upload a fix after the game jam is over, but, until then, you won't be missing out on anything but the menu music as you don't actually need to pause. To get out of \"journal\" and \"inventory\" screens, you can press \"j\" or \"i\" a second time.\nFor an immersive web experience (and crisper pixel art), click the bottom-right arrows to expand to full screen (may need to click again to regain keyboard focus). Or download the Windows exe below.\nCredits\n- All art, fonts and most sound effects from Kenney\n- Music and stingers from JRPG Collection by Yubatake/OpenGameArt.Org\n- \"Fire Crackling\" from AntumDeluge/OpenGameArt.Org\n- \"Stream Sounds\" from kurt/OpenGameArt.Org\n- \"Forest Ambience\" from TinyWorlds/OpenGameArt.Org \n- Pixel art outline shader from weekend, GDQuest and contributors\n- Dialogue and quest-tracking using Ink Engine with paulloz's godot-ink\n- Created with Godot\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTY3MDc0OS85ODQyMjM5LnBuZw==/original/PKMzUJ.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3MDc0OS85ODQyMjQwLnBuZw==/original/Xr9nv%2F.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3MDc0OS85ODQyMjQyLnBuZw==/original/45bvzc.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Author": "dandelion dino",
+          "Genre": "Adventure",
+          "Made with": "Aseprite, Godot",
+          "Tags": "2D, 8-Bit, Godot, ink, Pixel Art, Top-Down",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard",
+          "Accessibility": "Subtitles"
+        }
+      }
+    },
+    {
+      "gameId": 1666836,
+      "gameUrl": "https://drnlab.itch.io/kinoko",
+      "overallRank": 6,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzk4NDM2NTMucG5n/300x240%23c/CuUUuc.png",
+        "contributors": [
+          {
+            "name": "David",
+            "id": 1707379
+          }
+        ],
+        "id": 1666836,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "rank": 15,
+            "score": 4.1,
+            "raw_score": 4.1
+          },
+          {
+            "name": "Presentation (visuals)",
+            "rank": 11,
+            "score": 4.2,
+            "raw_score": 4.2
+          },
+          {
+            "name": "Theme",
+            "rank": 4,
+            "score": 4.45,
+            "raw_score": 4.45
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2022/rate/1666836",
+        "raw_score": 4.25,
+        "rating_count": 20,
+        "score": 4.25,
+        "title": "KINOKO",
+        "rank": 6
+      },
+      "entryData": {
+        "url": "/jam/kenney-jam-2022/rate/1666836",
+        "id": 346803,
+        "rating_count": 20,
+        "coolness": 15,
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzk4NDM2NTMucG5n/300x240%23c/CuUUuc.png",
+          "cover_color": "#434a5f",
+          "short_text": "Make your mushrooms grow by commanding a group of small color-changing creatures born from a cloud.",
+          "title": "KINOKO",
+          "url": "https://drnlab.itch.io/kinoko",
+          "id": 1666836,
+          "user": {
+            "name": "David",
+            "url": "https://drnlab.itch.io",
+            "id": 1707379
+          }
+        },
+        "created_at": "2022-08-21 11:54:04"
+      },
+      "details": {
+        "title": "KINOKO",
+        "description": "\nMake your mushrooms grow by commanding a group of small color-changing creatures born from a cloud... wait... WHAT?\nThis is my submission for the Kenney Jam 2022. The theme was GROWTH.\n\nYour goal is to make grow the three mushrooms until all of them reach (or surpass) the line in the middle of the screen. To achieve this, you can fly around and shout different commands to the creatures.\nThese are your controls:\n\nOk, but what the commands do?\n\"S\" command sends a creature to SLEEP for 5 seconds.\"D\" command makes a creature perfom a fancy DASH to run or avoid mushrooms.\"F\" command FLIPS a creature while walking.\nLet's see them in action...\n\nWhat happens when a creature collide with a mushroom of its same color? Easy: the mushroom grows and the creature flips. It's the only way the mushrooms can grow.\n\nWhat happens then when a creature and a mushroom of different colors collide? The mushroom shrinks, the creature changes its color to the color of the mushroom and flips. It could seem a bad thing, but sometimes you will need to change the color of a creature in spite of the mushroom shrinking.\n\nYou have 5 minutes to exceed the line with all mushrooms at the same time. The remaining time is your score.\nAnd that's all! Please enjoy.\n\nAll images, sounds and fonts by Kenney! :)Design and programming by David (@drnlab).Music included in this (humble) bundle.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTY2NjgzNi85ODQ0MTIzLnBuZw==/original/1YIG9s.png",
+          "https://img.itch.zone/aW1hZ2UvMTY2NjgzNi85ODQ0MTI0LnBuZw==/original/Wv65D0.png",
+          "https://img.itch.zone/aW1hZ2UvMTY2NjgzNi85ODQ0MTI1LnBuZw==/original/UiOu3P.png",
+          "https://img.itch.zone/aW1hZ2UvMTY2NjgzNi85ODQ0MTI2LnBuZw==/original/bevC%2Ba.png",
+          "https://img.itch.zone/aW1hZ2UvMTY2NjgzNi85ODQ0MTI3LnBuZw==/original/b9xPs3.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "David",
+          "Made with": "Unity",
+          "Tags": "2D, Casual, Cute, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 1671349,
+      "gameUrl": "https://knifepoint-games.itch.io/killer-vortex",
+      "overallRank": 13,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzk4NDc3ODMucG5n/300x240%23c/vkA0mR.png",
+        "contributors": [
+          {
+            "name": "Knifepoint Games",
+            "id": 6489195
+          },
+          {
+            "name": "Trashcan Studios",
+            "id": 4538412
+          },
+          {
+            "name": "BRUNOTEMC",
+            "id": 4521718
+          },
+          {
+            "name": "Dillyo",
+            "id": 61933
+          },
+          {
+            "name": "He4thriley",
+            "id": 4980336
+          },
+          {
+            "name": "PieroTechnical",
+            "id": 736295
+          },
+          {
+            "name": "Dr Codex",
+            "id": 4174511
+          },
+          {
+            "name": "HakoTaco",
+            "id": 5039734
+          }
+        ],
+        "id": 1671349,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "rank": 30,
+            "score": 3.8260869565217,
+            "raw_score": 3.8260869565217
+          },
+          {
+            "name": "Presentation (visuals)",
+            "rank": 15,
+            "score": 4.0869565217391,
+            "raw_score": 4.0869565217391
+          },
+          {
+            "name": "Theme",
+            "rank": 7,
+            "score": 4.4347826086957,
+            "raw_score": 4.4347826086957
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2022/rate/1671349",
+        "raw_score": 4.1159420289855,
+        "rating_count": 23,
+        "score": 4.1159420289855,
+        "title": "Killer Vortex",
+        "rank": 13
+      },
+      "entryData": {
+        "rating_count": 23,
+        "url": "/jam/kenney-jam-2022/rate/1671349",
+        "id": 346626,
+        "coolness": 51,
+        "contributors": [
+          {
+            "name": "Knifepoint Games",
+            "url": "https://knifepoint-games.itch.io"
+          },
+          {
+            "name": "Trashcan Studios",
+            "url": "https://trashcanstudios.itch.io"
+          },
+          {
+            "name": "BRUNOTEMC",
+            "url": "https://brunotemc.itch.io"
+          },
+          {
+            "name": "Dillyo",
+            "url": "https://dillyo.itch.io"
+          },
+          {
+            "name": "He4thriley",
+            "url": "https://he4thriley.itch.io"
+          },
+          {
+            "name": "PieroTechnical",
+            "url": "https://pierotechnical.itch.io"
+          },
+          {
+            "name": "Dr Codex",
+            "url": "https://dr-codex.itch.io"
+          },
+          {
+            "name": "HakoTaco",
+            "url": "https://hakotaco.itch.io"
+          }
+        ],
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzk4NDc3ODMucG5n/300x240%23c/vkA0mR.png",
+          "cover_color": "#000000",
+          "short_text": "Black Hole eats the Universe!",
+          "title": "Killer Vortex",
+          "url": "https://knifepoint-games.itch.io/killer-vortex",
+          "id": 1671349,
+          "user": {
+            "name": "Knifepoint Games",
+            "url": "https://knifepoint-games.itch.io",
+            "id": 6489195
+          }
+        },
+        "created_at": "2022-08-21 06:45:28"
+      },
+      "details": {
+        "title": "Killer Vortex",
+        "description": "You are a black hole that aspires to consume the entire Universe!WASD or Arrow Keys to MoveSpace Bar to Spend Mass to increase Speed.Absorb objects smaller than you to gain mass and grow.Watch out for objects that are larger than you marked with a red exclamation point(!)\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTY3MTM0OS85ODQxNDc5LnBuZw==/original/M%2BBbZE.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3MTM0OS85ODQxNDc3LnBuZw==/original/qSd5IA.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3MTM0OS85ODQxNDc2LnBuZw==/original/nL8f5H.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3MTM0OS85ODQxNDkyLnBuZw==/original/yZx0J7.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3MTM0OS85ODQxNDkxLnBuZw==/original/0Dc284.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "Knifepoint Games, Trashcan Studios, BRUNOTEMC, Dillyo, He4thriley, PieroTechnical, Dr Codex, HakoTaco",
+          "Genre": "Action, Simulation, Survival",
+          "Made with": "Unity",
+          "Tags": "2D, Arcade, Atmospheric, Cute, Shaders, Singleplayer, Top-Down, Unity",
+          "Average session": "A few seconds",
+          "Inputs": "Keyboard",
+          "Accessibility": "Color-blind friendly, High-contrast"
+        }
+      }
+    },
+    {
+      "gameId": 1671416,
+      "gameUrl": "https://miclop.itch.io/animal-merge",
+      "overallRank": 8,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzk4NDI5MTkucG5n/300x240%23c/N7n%2BbM.png",
+        "contributors": [
+          {
+            "name": "miclop",
+            "id": 6408042
+          }
+        ],
+        "id": 1671416,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "rank": 11,
+            "score": 4.1428571428571,
+            "raw_score": 4.1428571428571
+          },
+          {
+            "name": "Presentation (visuals)",
+            "rank": 18,
+            "score": 4.0714285714286,
+            "raw_score": 4.0714285714286
+          },
+          {
+            "name": "Theme",
+            "rank": 8,
+            "score": 4.4285714285714,
+            "raw_score": 4.4285714285714
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2022/rate/1671416",
+        "raw_score": 4.2142857142857,
+        "rating_count": 14,
+        "score": 4.2142857142857,
+        "title": "Animal Merge",
+        "rank": 8
+      },
+      "entryData": {
+        "url": "/jam/kenney-jam-2022/rate/1671416",
+        "id": 346723,
+        "rating_count": 14,
+        "coolness": 49,
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzk4NDI5MTkucG5n/300x240%23c/N7n%2BbM.png",
+          "url": "https://miclop.itch.io/animal-merge",
+          "short_text": "KennyJam 2022 --- Growth",
+          "title": "Animal Merge",
+          "id": 1671416,
+          "user": {
+            "name": "miclop",
+            "url": "https://miclop.itch.io",
+            "id": 6408042
+          }
+        },
+        "created_at": "2022-08-21 10:17:20"
+      },
+      "details": {
+        "title": "Animal Merge",
+        "description": "How to Play\n\n\n\nDescription\nInspired by the game \"Watermelon Merge\", with irregular-shaped animals and added items.\nBGM Hermit by Jater\nMade for KennyJam 2022\nKenny Assets used:\nPixel Shmup\nInput Prompts \nPixel 16×Pixel Line Platformer\nAnimal pack\nImpact Sounds\nInterface Sounds\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTY3MTQxNi85ODQyMTIwLnBuZw==/original/%2FW%2BGy5.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3MTQxNi85ODQyMTE5LnBuZw==/original/DSY7hk.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3MTQxNi85ODQyMTIxLnBuZw==/original/tVZ3M5.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "miclop",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "Casual"
+        }
+      }
+    },
+    {
+      "gameId": 1671878,
+      "gameUrl": "https://joopino.itch.io/grow-your-corn",
+      "overallRank": 60,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzk4NDQ2MjUucG5n/300x240%23c/KE%2BC6S.png",
+        "contributors": [
+          {
+            "name": "Joopino",
+            "id": 6434142
+          }
+        ],
+        "id": 1671878,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "rank": 117,
+            "score": 3,
+            "raw_score": 3
+          },
+          {
+            "name": "Presentation (visuals)",
+            "rank": 122,
+            "score": 3.2,
+            "raw_score": 3.2
+          },
+          {
+            "name": "Theme",
+            "rank": 9,
+            "score": 4.4,
+            "raw_score": 4.4
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2022/rate/1671878",
+        "raw_score": 3.5333333333333,
+        "rating_count": 10,
+        "score": 3.5333333333333,
+        "title": "Grow your corn!",
+        "rank": 60
+      },
+      "entryData": {
+        "url": "/jam/kenney-jam-2022/rate/1671878",
+        "id": 346900,
+        "rating_count": 10,
+        "coolness": 97,
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzk4NDQ2MjUucG5n/300x240%23c/KE%2BC6S.png",
+          "url": "https://joopino.itch.io/grow-your-corn",
+          "short_text": "Grow your corn using water and light",
+          "title": "Grow your corn!",
+          "id": 1671878,
+          "user": {
+            "name": "Joopino",
+            "url": "https://joopino.itch.io",
+            "id": 6434142
+          }
+        },
+        "created_at": "2022-08-21 13:53:37"
+      },
+      "details": {
+        "title": "Grow your corn!",
+        "description": "Grow your corn plant to a fully grown.... Corn!\n\nIt seems Corn is not able to multitask and you have to help it get water, do photosyntheses and rotate to the sun. \nControls:Spacebar: Change modes between getting water and photosyntheses\nLeft/Right: Rotate your corn plant to the sun\nGraphic and sound Assets by Kenney\n\nMade for Kenney Jam 2022, theme: Growth",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTY3MTg3OC85ODQ0NjI5LnBuZw==/original/02c7WG.png",
+          "https://img.itch.zone/aW1hZ2UvMTY3MTg3OC85ODYwOTk5LnBuZw==/original/gbKFbP.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Joopino",
+          "Genre": "Adventure",
+          "Tags": "growth, kenney, kenneyjam, Short, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 1669519,
+      "gameUrl": "https://zoped.itch.io/kenneymari",
+      "overallRank": 15,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzk4NDM4NzQucG5n/300x240%23c/gpZ9e9.png",
+        "contributors": [
+          {
+            "name": "zoped",
+            "id": 1123485
+          },
+          {
+            "name": "tfx",
+            "id": 691312
+          },
+          {
+            "name": "Moose",
+            "id": 690939
+          },
+          {
+            "name": "hiijcat",
+            "id": 4146936
+          }
+        ],
+        "id": 1669519,
+        "criteria": [
+          {
+            "name": "Concept (gameplay)",
+            "rank": 22,
+            "score": 4,
+            "raw_score": 4
+          },
+          {
+            "name": "Presentation (visuals)",
+            "rank": 42,
+            "score": 3.8421052631579,
+            "raw_score": 3.8421052631579
+          },
+          {
+            "name": "Theme",
+            "rank": 10,
+            "score": 4.3684210526316,
+            "raw_score": 4.3684210526316
+          }
+        ],
+        "url": "https://itch.io/jam/kenney-jam-2022/rate/1669519",
+        "raw_score": 4.0701754385965,
+        "rating_count": 38,
+        "score": 4.0701754385965,
+        "title": "Kenneymari",
+        "rank": 15
+      },
+      "entryData": {
+        "rating_count": 38,
+        "url": "/jam/kenney-jam-2022/rate/1669519",
+        "id": 346845,
+        "coolness": 32,
+        "contributors": [
+          {
+            "name": "zoped",
+            "url": "https://zoped.itch.io"
+          },
+          {
+            "name": "tfx",
+            "url": "https://saltmonger.itch.io"
+          },
+          {
+            "name": "Moose",
+            "url": "https://xmoose25x.itch.io"
+          },
+          {
+            "name": "hiijcat",
+            "url": "https://hiijcat.itch.io"
+          }
+        ],
+        "game": {
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzk4NDM4NzQucG5n/300x240%23c/gpZ9e9.png",
+          "cover_color": "#2E1F47",
+          "id": 1669519,
+          "title": "Kenneymari",
+          "url": "https://zoped.itch.io/kenneymari",
+          "user": {
+            "name": "zoped",
+            "url": "https://zoped.itch.io",
+            "id": 1123485
+          }
+        },
+        "created_at": "2022-08-21 12:46:29"
+      },
+      "details": {
+        "title": "Kenneymari",
+        "description": "Collect objects to feed the void worm.More mass means you can pick up bigger objects.\nWatch out for meteors!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTY2OTUxOS85ODUwMDIyLmdpZg==/original/%2F3YBMC.gif",
+          "https://img.itch.zone/aW1hZ2UvMTY2OTUxOS85ODUwMDQzLmdpZg==/original/azvxsc.gif"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Release date": "Aug 21, 2022",
+          "Rating": "Rated 2.0 out of 5 stars(1 total ratings)",
+          "Authors": "zoped, tfx, Moose, hiijcat",
+          "Made with": "Unity",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Xbox controller, Gamepad (any), Joystick, Playstation controller"
+        }
+      }
+    }
+  ]
+}

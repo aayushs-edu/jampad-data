@@ -1,0 +1,849 @@
+{
+  "n": 74,
+  "name": "My First Game Jam: Summer 2022",
+  "url": "https://itch.io/jam/my-first-game-jam-summer-2022",
+  "theme": "Heal",
+  "slug": "my-first-game-jam-summer-2022",
+  "jamMeta": {
+    "jamType": "ongoing",
+    "joined": "",
+    "entries": "443",
+    "title": "My First Game Jam: Summer 2022",
+    "jamURL": "https://itch.io/jam/my-first-game-jam-summer-2022",
+    "hosts": {
+      "ludowoods": "https://ludowoods.itch.io",
+      "Adrienne Lombardo": "https://addie-lombardo.itch.io",
+      "lysander": "https://worldendprince.itch.io",
+      "#MyFirstGameJam": "https://bsky.app/hashtag/MyFirstGameJam"
+    },
+    "jamID": "322856"
+  },
+  "totalEntries": 409,
+  "ranked": true,
+  "hasCategories": false,
+  "needsManualSelection": false,
+  "categories": [],
+  "topGames": [
+    {
+      "gameId": 1615070,
+      "gameUrl": "https://flowerpirate.itch.io/the-gardens-plate",
+      "overallRank": 1,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/my-first-game-jam-summer-2022/rate/1615070",
+        "id": 328000,
+        "created_at": "2022-07-15 12:23:15",
+        "rating_count": 0,
+        "game": {
+          "title": "The Garden's Table",
+          "cover_color": "#d23aff",
+          "url": "https://flowerpirate.itch.io/the-gardens-plate",
+          "id": 1615070,
+          "user": {
+            "id": 6112570,
+            "url": "https://flowerpirate.itch.io",
+            "name": "flowerpirate"
+          },
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzk0NTYyNTUucG5n/300x240%23c/yXXmqG.png",
+          "short_text": "A short game where you collect ingredients, cook and make tea <3"
+        },
+        "coolness": 0
+      },
+      "details": {
+        "title": "The Garden's Table",
+        "description": "Downloading to play is recommended :)\nCreated in 5 days for the \"My First Game Jam: Summer 2022\" using Gamemaker Studio 2.\na short,  colorful game with funky art <3\nThanks for playing <3\n(Devlog OUT NOW! ^^)\nDownload and install <3 \nmac version coming soon!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTYxNTA3MC85NDU2MzgzLnBuZw==/original/n65QLm.png",
+          "https://img.itch.zone/aW1hZ2UvMTYxNTA3MC85NDU2Mzg3LnBuZw==/original/4qv0Ph.png",
+          "https://img.itch.zone/aW1hZ2UvMTYxNTA3MC85NDU2Mzg0LnBuZw==/original/MTEMlG.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.5 out of 5 stars(19 total ratings)",
+          "Author": "flowerpirate",
+          "Made with": "GameMaker, Adobe Photoshop",
+          "Tags": "2D, Cooking, Cozy, Cute, Exploration, forager, Point & Click, Short, tea, warm"
+        }
+      }
+    },
+    {
+      "gameId": 1618306,
+      "gameUrl": "https://jorbyte.itch.io/apothekitty",
+      "overallRank": 2,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/my-first-game-jam-summer-2022/rate/1618306",
+        "id": 328837,
+        "created_at": "2022-07-17 01:26:02",
+        "contributors": [
+          {
+            "url": "https://jorbyte.itch.io",
+            "name": "Joybyte"
+          },
+          {
+            "url": "https://bradgnar.itch.io",
+            "name": "Bradgnar"
+          },
+          {
+            "url": "https://cbollin.itch.io",
+            "name": "Cassidy"
+          },
+          {
+            "url": "https://uchimama.itch.io",
+            "name": "UchiMama"
+          },
+          {
+            "url": "https://everdoot.itch.io",
+            "name": "Everett"
+          },
+          {
+            "url": "https://myrk.itch.io",
+            "name": "Myrk"
+          }
+        ],
+        "game": {
+          "title": "Apothekitty",
+          "cover_color": "#ff07c7",
+          "url": "https://jorbyte.itch.io/apothekitty",
+          "id": 1618306,
+          "user": {
+            "id": 47071,
+            "url": "https://jorbyte.itch.io",
+            "name": "Joybyte"
+          },
+          "platforms": [
+            "windows",
+            "android",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzk0NzIzMDAucG5n/300x240%23c/Z2%2B6cX.png",
+          "short_text": "This town's full of sick kitties!"
+        },
+        "coolness": 0
+      },
+      "details": {
+        "title": "Apothekitty",
+        "description": "This town's full of sick kitties!\nControls\nUse the mouse to click and drag ingredients into the cauldron. Click the Recipes tab to see the different recipes you can make! Read each kitty's dialogue to figure out what potion will help them.\nMusic Attribution\n Cozy Place by Keys of Moon | https://soundcloud.com/keysofmoon\nMusic promoted by https://www.chosic.com/free-music/all/\nCreative Commons CC BY 4.0\nhttps://creativecommons.org/licenses/by/4.0/\n---\n Simplicit Nights by Ghostrifter Official | https://soundcloud.com/ghostrifter-official\nCreative Commons — Attribution-NoDerivs 3.0 Unported — CC BY-ND 3.0\nMusic promoted by https://www.chosic.com/free-music/all/\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTYxODMwNi85NDcxODIwLnBuZw==/original/TxcNw6.png",
+          "https://img.itch.zone/aW1hZ2UvMTYxODMwNi85NDczMTA0LnBuZw==/original/inNzMK.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows, Android",
+          "Rating": "Rated 4.9 out of 5 stars(19 total ratings)",
+          "Authors": "Joybyte, Bradgnar, Cassidy, UchiMama, Everett, Myrk",
+          "Genre": "Simulation, Puzzle",
+          "Made with": "Unity",
+          "Tags": "2D, Animals, Casual, Indie, Pixel Art, Relaxing, Short, Singleplayer",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 1615136,
+      "gameUrl": "https://hundi.itch.io/potioneer",
+      "overallRank": 3,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/my-first-game-jam-summer-2022/rate/1615136",
+        "id": 328004,
+        "created_at": "2022-07-15 12:37:17",
+        "rating_count": 0,
+        "game": {
+          "title": "Potioneer",
+          "cover_color": "#eeeeee",
+          "url": "https://hundi.itch.io/potioneer",
+          "id": 1615136,
+          "user": {
+            "id": 3117460,
+            "url": "https://hundi.itch.io",
+            "name": "Hundi"
+          },
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzk0NTY3MzUucG5n/300x240%23c/bMiA2f.png",
+          "short_text": "Potioneer is a game were you craft Potions based on a customer`s order."
+        },
+        "coolness": 0
+      },
+      "details": {
+        "title": "Potioneer",
+        "description": "Potioneer is a game were you craft Potions based on a customer`s order.\nThis is a small game made for the \"My First GameJam 2022\" in the time span of 2 weeks. The theme for this jam was healing (in this game you make and sell healing-potions).\nAttention, this is not the final game. I just want to see what you guys think about the game.\n--------------------------------------\nTutorial:\nYou can press E to interact!\nInteract with the counter to see the customer`s request!\n1. Fill the caudron with water by interacting with it.\n2. Get an ingredient from the boxes for the base potion and throw it into the cauldron.\n3. Now pick other ingredients to give the potion new properties (order does not matter).\n4. Interact withe the cauldron and sell the potion you made at the counter.\n Interact to get all ingredient effects.\n Interact to clear your hand/inventory.\n\n--------------------------------------\nCredits:\nMusic: evilduckk.itch.io/sound-assets-for-your-adventure-game\nSFX: jdwasabi.itch.io/8-bit-16-bit-sound-effects-pack\nFont: mounirtohami.itch.io/minimalpixel-font\nGUI: https: mounirtohami.itch.io/pixel-art-gui-elements\nFood(sprites): henrysoftware.itch.io/pixel-food\nEnviroment(sprites): gif-superretroworld.itch.io/interior-pack",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTYxNTEzNi85NDU2NzM2LnBuZw==/original/g%2FD9Lo.png",
+          "https://img.itch.zone/aW1hZ2UvMTYxNTEzNi85NDU2ODc1LnBuZw==/original/4JJ1mJ.png",
+          "https://img.itch.zone/aW1hZ2UvMTYxNTEzNi85NDU3MDQxLnBuZw==/original/XRm5pk.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.6 out of 5 stars(5 total ratings)",
+          "Author": "Hundi",
+          "Made with": "Unity",
+          "Tags": "2D, alchemy, Crafting, Pixel Art, potion, Singleplayer, Top-Down, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 1599041,
+      "gameUrl": "https://codercommand.itch.io/knight-watch",
+      "overallRank": 4,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/my-first-game-jam-summer-2022/rate/1599041",
+        "id": 328877,
+        "created_at": "2022-07-17 02:25:39",
+        "rating_count": 0,
+        "game": {
+          "title": "Knight Watch",
+          "cover_color": "#6f0000",
+          "url": "https://codercommand.itch.io/knight-watch",
+          "id": 1599041,
+          "user": {
+            "id": 5315024,
+            "url": "https://codercommand.itch.io",
+            "name": "codercommand"
+          },
+          "platforms": [
+            "windows"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzk0NjE0NTkucG5n/300x240%23c/Rd8c4f.png",
+          "short_text": "Keep prisoners locked away till their judgement."
+        },
+        "coolness": 0
+      },
+      "details": {
+        "title": "Knight Watch",
+        "description": "Knight Watch\nIn this game you are a brutal prison guard who will do whatever it takes to keep the prisoners in their cells till tomorrow so they can be judged, and for some executed.\nAbout The Project\nThe team loved making the game over the GAMJAM.\nWe used Unreal Engine 5, Wwise and Perforce to create this game. Advice for anyone doing indie: do not use Wwise or Perforce. They will cause you endless trouble.\nWwise makes adding audio more complicated for everyone & your audio guys will still need to learn UE5.\nPerforce is not user friendly. You will have project files missing & need to manually find files to be uploaded . If your team is remote and spread around the world in different time zones (like ours), anyone who is not in the same country as the server will experience slow downloads.\nGame Controls:\nWASD - MovementLeft ALT - Toggle free camera to look aroundLeft Click Mouse - Attack Prisoners\nThe game was made by the following people: codercommand - Team Leader & ProgrammerDikkus - Environment ArtistKezzy - Prop ArtistSartop - ProgrammerKlea - Sound EffectsNeema - Game Music ComposerRapture - Voice ActorRamyeon - Concept Artist & Illustrator\nSome of our game assets were provided by third parties. Credits:\nPlayer character by SoidevKnight statue by Nick ScottPlayer's mace by Prop Garden LLCSome Props by Infuse StudioUnreal Megascans Medieval Collection used for some props",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTU5OTA0MS85NDYxMjgzLnBuZw==/original/FjuM80.png",
+          "https://img.itch.zone/aW1hZ2UvMTU5OTA0MS85NDYwNzkxLnBuZw==/original/VY2jU8.png",
+          "https://img.itch.zone/aW1hZ2UvMTU5OTA0MS85NDcyMTg3LnBuZw==/original/rSnghi.png",
+          "https://img.itch.zone/aW1hZ2UvMTU5OTA0MS85NDcyMTg5LnBuZw==/original/XCW8Af.png",
+          "https://img.itch.zone/aW1hZ2UvMTU5OTA0MS85NDcyMTg2LnBuZw==/original/XcD6he.png",
+          "https://img.itch.zone/aW1hZ2UvMTU5OTA0MS85NDcyMTg4LnBuZw==/original/te1PHI.png",
+          "https://img.itch.zone/aW1hZ2UvMTU5OTA0MS85NDcyMTkwLnBuZw==/original/13GNRh.png",
+          "https://img.itch.zone/aW1hZ2UvMTU5OTA0MS85NDcyMTkxLnBuZw==/original/lhw8UV.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.5 out of 5 stars(4 total ratings)",
+          "Author": "codercommand",
+          "Genre": "Role Playing, Simulation",
+          "Made with": "Unreal Engine",
+          "Tags": "3D, Atmospheric, Dark, Gore, Medieval, prison, Singleplayer, Unreal Engine",
+          "Average session": "A few minutes",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 1618781,
+      "gameUrl": "https://esmaeil.itch.io/fate-of-kingdom",
+      "overallRank": 5,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/my-first-game-jam-summer-2022/rate/1618781",
+        "id": 329077,
+        "created_at": "2022-07-17 05:28:45",
+        "contributors": [
+          {
+            "url": "https://esmaeil.itch.io",
+            "name": "Esmaeil"
+          },
+          {
+            "url": "https://vicoodi.itch.io",
+            "name": "Vicoodi"
+          },
+          {
+            "url": "https://marianwalczak.itch.io",
+            "name": "Marian Walczak"
+          },
+          {
+            "url": "https://unbirthday.itch.io",
+            "name": "unbirthday"
+          },
+          {
+            "url": "https://tensei-em.itch.io",
+            "name": "ten-ten"
+          }
+        ],
+        "game": {
+          "title": "Fate Of Kingdom",
+          "gif_cover": "https://img.itch.zone/aW1nLzk2MTM0MjAuZ2lm/original/odHRvU.gif",
+          "url": "https://esmaeil.itch.io/fate-of-kingdom",
+          "cover": "https://img.itch.zone/aW1nLzk2MTM0MjAuZ2lm/300x240%23c/R3EtX3.gif",
+          "short_text": "Save the royal family in a top down, action, roguelike game.",
+          "cover_color": "#1b0916",
+          "id": 1618781,
+          "platforms": [
+            "windows"
+          ],
+          "user": {
+            "id": 4743960,
+            "url": "https://esmaeil.itch.io",
+            "name": "Esmaeil"
+          }
+        },
+        "coolness": 0
+      },
+      "details": {
+        "title": "Fate Of Kingdom",
+        "description": "\nSave the royal family in a top down, action, roguelike game.\nThe throne has fallen. This is your last chance to save royal members. You get your staff, Dress your favored hat and gather all your will and strength to save the ones that lived mercifully when no one else believed you: The royal family.\nChallenge the enemies who are responsible for this destruction and end this madness once and for all. Do you think you have what it takes? We'll see.\nControls\nPlayer Movement: WASDAttack: Left Mouse ButtonAim: Mouse\n\nWhat's New in Update 1.0.3\nAdded in-game cursorAdded save slots for New GameAdded playing football with skullsFixed same position enemy spawn bugFixed new wave spawn bug after the room cleared.Fixed in-game music pause bug after changing volume in the options menu. \n\nTeam\nProducer : Esmaeil\n\nDesigners : Unbirthday , Atomic\n\nProgrammers : Esmaeil , Vicoodi\n\nComposer and SFX : Marian Walczak\n\nArt : Tensei \n\nItch.io Assets provided by  jonik9i , 0x72\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTYxODc4MS85NjIyMDg4LmpwZw==/original/plQYgb.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTYxODc4MS85NjIzNjU2LmpwZw==/original/NVG3qU.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTYxODc4MS85NDc0MzAzLnBuZw==/original/6m14sp.png",
+          "https://img.itch.zone/aW1hZ2UvMTYxODc4MS85NDc0MzkzLnBuZw==/original/3qqUBQ.png",
+          "https://img.itch.zone/aW1hZ2UvMTYxODc4MS85NTU1NjcxLmpwZw==/original/%2FdNLo2.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTYxODc4MS85NTU1NjgxLmpwZw==/original/Ods%2FBu.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTYxODc4MS85NTU1NjkwLmpwZw==/original/bx%2FE17.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTYxODc4MS85NTU1NjkxLmpwZw==/original/VDVguM.jpg"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(7 total ratings)",
+          "Authors": "Esmaeil, Vicoodi, Marian Walczak, unbirthday, ten-ten",
+          "Genre": "Action",
+          "Tags": "2D, Dungeon Crawler, Fantasy, Pixel Art, Roguelike, Roguelite, Short, Singleplayer, Unity",
+          "Average session": "About a half-hour",
+          "Inputs": "Keyboard, Mouse",
+          "Links": "art, audio"
+        }
+      }
+    },
+    {
+      "gameId": 1600769,
+      "gameUrl": "https://tmseldon.itch.io/silentwings-2491",
+      "overallRank": 6,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/my-first-game-jam-summer-2022/rate/1600769",
+        "id": 328268,
+        "created_at": "2022-07-16 08:00:48",
+        "rating_count": 0,
+        "game": {
+          "title": "Silent Wings 2491",
+          "gif_cover": "https://img.itch.zone/aW1nLzk0OTA2MDEuZ2lm/original/JtuiIn.gif",
+          "url": "https://tmseldon.itch.io/silentwings-2491",
+          "cover": "https://img.itch.zone/aW1nLzk0OTA2MDEuZ2lm/300x240%23c/8JfXqz.gif",
+          "short_text": "silent Wings 2491 is a lite scrolling shoot'em up with some roguelike elements & #MyFirstGameJam submission",
+          "cover_color": "#322828",
+          "id": 1600769,
+          "platforms": [
+            "web"
+          ],
+          "user": {
+            "id": 2946387,
+            "url": "https://tmseldon.itch.io",
+            "name": "tmseldon"
+          }
+        },
+        "coolness": 0
+      },
+      "details": {
+        "title": "Silent Wings 2491",
+        "description": "#MyFirstGameJam 2022\nSilent Wings 2491\n'Silent Wings 2491' is my submission for #MyFirstGameJam Summer 2022 and homage to one of my favorite games as a kid - Screaming Wings 1942.\nSilent Wings 2491 is a lite scrolling shoot'em up with some roguelike elements. However, you CANNOT shoot in this game! you can only evade your enemies and their bullets. Your objective: look for someone who could help you 'heal' your airplane while surviving the enemies attacks.\nHow to play\n\nUse the arrows to move your airplaneUse 'z' to make a roll*Use 'x' to dash*\n*you are invincible while you are doing a dash or roll \nWatch it played!\nThanks to @browntulstar! he played 'Silent Wing 2491' on his twitch stream.\nCredits\nAsset Packs:Voxel Ancient Environments; Voxel Planes; and Voxel Pirates & Ships by maxparataSimple FX - Cartoon Particles by Synty Studios\nMusic and sounds:The background song is called 'The Moon Is a Harsh Mistress' by Kō-ya Takashi / DOVA-Syndrome8-bit Sfxpack by beepyeahchiptone by sfbgames\nFonts: Black Ops One and Spectral fonts from Google Fonts",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTYwMDc2OS85NTQzOTcwLnBuZw==/original/yUInwo.png",
+          "https://img.itch.zone/aW1hZ2UvMTYwMDc2OS85NTQzOTczLnBuZw==/original/kXPwX%2B.png",
+          "https://img.itch.zone/aW1hZ2UvMTYwMDc2OS85NTQzOTcyLnBuZw==/original/VGD%2FjI.png",
+          "https://img.itch.zone/aW1hZ2UvMTYwMDc2OS85NTQzOTc0LnBuZw==/original/dVfLXo.png",
+          "https://img.itch.zone/aW1hZ2UvMTYwMDc2OS85NTQzOTcxLnBuZw==/original/ob%2Ff6H.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(37 total ratings)",
+          "Author": "tmseldon",
+          "Made with": "Unity",
+          "Tags": "Arcade, mfgj14, My First Game Jam, Retro, Voxel",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": 1609780,
+      "gameUrl": "https://meerian.itch.io/cure-the-cow",
+      "overallRank": 7,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/my-first-game-jam-summer-2022/rate/1609780",
+        "id": 327284,
+        "created_at": "2022-07-11 07:45:19",
+        "rating_count": 0,
+        "game": {
+          "title": "Cure The Cow!",
+          "cover_color": "#eeeeee",
+          "url": "https://meerian.itch.io/cure-the-cow",
+          "id": 1609780,
+          "user": {
+            "id": 6081431,
+            "url": "https://meerian.itch.io",
+            "name": "meerian"
+          },
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzk0MjE2NjUucG5n/300x240%23c/kiHIe8.png",
+          "short_text": "Your only companion is sick!"
+        },
+        "coolness": 0
+      },
+      "details": {
+        "title": "Cure The Cow!",
+        "description": "Your only companion on the island, Cow, is sick! Explore your island home, gather ingredients, figure out the recipe and Cure The Cow!Note: Mouse cursor is disabled in this game.\nControls:WASD/Arrow keys to moveE to interact and Q to close menusEscape to pause\nHints:For the recipe section, \nRed: Ingredient is not present in recipeYellow: Ingredient is in the wrong boxGreen: Ingredient is in the right box\nCredits:Game assets from:Sprout Lands by CupNooble (https://cupnooble.itch.io/sprout-lands-asset-pack)\nMusic from:Dreaming Under The Stars by Darren-Curtis\n\nGame made for My First Game Jam Summer 2022.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTYwOTc4MC85NDIxNzYxLnBuZw==/original/g2AcyS.png",
+          "https://img.itch.zone/aW1hZ2UvMTYwOTc4MC85NDIxNjg4LnBuZw==/original/GMDsqM.png",
+          "https://img.itch.zone/aW1hZ2UvMTYwOTc4MC85NDIxNjkyLnBuZw==/original/BjA7d1.png",
+          "https://img.itch.zone/aW1hZ2UvMTYwOTc4MC85NDIxNjk3LnBuZw==/original/Diwiee.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.9 out of 5 stars(7 total ratings)",
+          "Author": "meerian",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "2D, Casual, Cute, minigames, My First Game Jam, Pixel Art, Singleplayer, Time Attack, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 1611890,
+      "gameUrl": "https://thetra00.itch.io/bee",
+      "overallRank": 8,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/my-first-game-jam-summer-2022/rate/1611890",
+        "id": 327649,
+        "created_at": "2022-07-12 23:59:09",
+        "rating_count": 0,
+        "game": {
+          "title": "B33 - Medic Scavanger",
+          "cover_color": "#eeeeee",
+          "url": "https://thetra00.itch.io/bee",
+          "id": 1611890,
+          "platforms": [
+            "windows",
+            "linux",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzk0MzU2NjkucG5n/300x240%23c/p90Y5%2F.png",
+          "user": {
+            "id": 4840506,
+            "url": "https://thetra00.itch.io",
+            "name": "Thetra00"
+          }
+        },
+        "coolness": 0
+      },
+      "details": {
+        "title": "B33 - Medic Scavanger",
+        "description": "B 33  Medic Scavanger\nIn the far future, medical supplies are rare and so a new job emerged: Medical Scavangers. Captain Lyani and her Bot B33  simply called BEE are one of those. They got a Mission from the Inter Space Clinic to get a left behind Sample in a Research Lab.  Since the Enviroment is harsh only BEE can enter, but Lyani standing by him via many Comlink interactions. \nWhat did they do in this Lab?  Is BEE save? - Find Out and Play B33 Medic Scavanger to find it out for your self!\n--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//\n\nThis Game was made for the \"MyFirstGameJam\" 2022 Summer edition.\nits my 4. GameJam I ever joined and I challanged my self to make a Full Metroidvania with all the things I learned in the last year.\nI used assets from Anzimus Goose Ninja and some CC0 stuff. Many assets where additionaly drawn by me.\nThe Bossfight took me 12 Hours of Coding refactoring and testing.  I know it doesn t look like that but it was very challanging to get the States running.\n\n--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//\n\nPlease leave a comment when you Playes and give me some feedback.\nI hope you have fun with my new Game. Thetra 00 You like my Games and what I do? Join my Discord https://discord.gg/bfGhqSF85D",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTYxMTg5MC85NDM4NjA3LnBuZw==/original/vcSSAv.png",
+          "https://img.itch.zone/aW1hZ2UvMTYxMTg5MC85NDM4NjA4LnBuZw==/original/JuBDBd.png",
+          "https://img.itch.zone/aW1hZ2UvMTYxMTg5MC85NDM4NjA2LnBuZw==/original/WVoljy.png",
+          "https://img.itch.zone/aW1hZ2UvMTYxMTg5MC85NDM4NjA5LnBuZw==/original/%2FyrFrE.png",
+          "https://img.itch.zone/aW1hZ2UvMTYxMTg5MC85NDM4NjEwLnBuZw==/original/gygmi4.png",
+          "https://img.itch.zone/aW1hZ2UvMTYxMTg5MC85NDM4NjEzLnBuZw==/original/3TS9Ax.png",
+          "https://img.itch.zone/aW1hZ2UvMTYxMTg5MC85NDM4NjExLnBuZw==/original/fsrnKE.png",
+          "https://img.itch.zone/aW1hZ2UvMTYxMTg5MC85NDM4NjEyLnBuZw==/original/RZMF02.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, Linux",
+          "Rating": "Rated 4.6 out of 5 stars(10 total ratings)",
+          "Author": "Thetra00",
+          "Genre": "Adventure, Platformer",
+          "Made with": "Unity",
+          "Tags": "Metroidvania, Pixel Art"
+        }
+      }
+    },
+    {
+      "gameId": 1608234,
+      "gameUrl": "https://voltcutter.itch.io/among-us-zombie-overflow",
+      "overallRank": 9,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/my-first-game-jam-summer-2022/rate/1608234",
+        "id": 326892,
+        "created_at": "2022-07-10 02:00:39",
+        "rating_count": 0,
+        "game": {
+          "title": "Among Us: Zombie Overflow",
+          "url": "https://voltcutter.itch.io/among-us-zombie-overflow",
+          "id": 1608234,
+          "user": {
+            "id": 4453957,
+            "url": "https://voltcutter.itch.io",
+            "name": "voltcutter"
+          },
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzk5NDAyMzAucG5n/300x240%23c/JwH%2BqT.png",
+          "short_text": "among us zombie shooter game"
+        },
+        "coolness": 0
+      },
+      "details": {
+        "title": "Among Us: Zombie Overflow",
+        "description": "After all the imposters have been busted, you and your crewmates are on course for Among Us Planet. However, when your spacecraft is about to reach the planet, you hear a faint croaking noise. Suddenly, one of your crewmates reaches and runs for you. You instinctively kick it away and it dies. Could this be another imposter? No, that’s not possible! An alarm starts blaring. A crewmate jumped out of a room, just to be dragged back by something. After that, 2 crewmates, both green, start attempting to grab you. These must be zombies! You quickly break the navigation system in fear of zombies spreading on your planet. But it’s too late. Your ship crashes onto Among Us Planet. Will you survive or will the zombies get the better of everyone.\n\nControls\nWASD - movement\nE - Show shop\nMouse - click to shoot and right click to place an item.\nQ - Switch Weapons\nScroll - Change selected inventory slot",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzk5NDAyMzAucG5n/original/KlbNho.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "voltcutter",
+          "Genre": "Action, Shooter",
+          "Made with": "Unity",
+          "Tags": "2D"
+        }
+      }
+    },
+    {
+      "gameId": 1614751,
+      "gameUrl": "https://concordandcliches.itch.io/itsnotyouitsyourtrauma",
+      "overallRank": 10,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/my-first-game-jam-summer-2022/rate/1614751",
+        "id": 328236,
+        "created_at": "2022-07-16 05:43:34",
+        "rating_count": 0,
+        "game": {
+          "title": "It's Not You, It's Your Trauma",
+          "cover_color": "#eeeeee",
+          "url": "https://concordandcliches.itch.io/itsnotyouitsyourtrauma",
+          "id": 1614751,
+          "user": {
+            "id": 764047,
+            "url": "https://concordandcliches.itch.io",
+            "name": "Contra"
+          },
+          "platforms": [
+            "windows",
+            "linux"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzk0NTQ3ODgucG5n/300x240%23c/JyLNBj.png",
+          "short_text": "a.k.a. \"I Was Transported To Another World To Do Mundane Tasks!?\""
+        },
+        "coolness": 0
+      },
+      "details": {
+        "title": "It's Not You, It's Your Trauma",
+        "description": "The world's most prosaic isekai.\n---\nStuck in an unfamiliar world inside a library that records the entirety of its history through mysteriously magical means, Sammy Baxa must... dust the shelves?\nWell, at least she's got a friend to accompany her while she waits for a way back home.\n\"It's Not You, It's Your Trauma\" is a short character-focused game with lots of dialogue and lots of silly faces and just a little bit of drama.\n---\nContent Warnings:\nImplied Child AbuseImplied Discussion of Suicide\n---\nMISC:\nMade for \"My First Game Jam: Summer 2022\"!Credits + Controls can be found as a .txt file included in the downloadSocials + Other Projects: https://linktr.ee/concord.and.cliches\n---\nThank you so much for checking out \"It's Not You, It's Your Trauma\"!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTYxNDc1MS85NDU0NDcxLnBuZw==/original/mnMaIG.png",
+          "https://img.itch.zone/aW1hZ2UvMTYxNDc1MS85NDU0NDY4LnBuZw==/original/hrE%2FLY.png",
+          "https://img.itch.zone/aW1hZ2UvMTYxNDc1MS85NDU0NDg2LnBuZw==/original/0c%2FesG.png",
+          "https://img.itch.zone/aW1hZ2UvMTYxNDc1MS85NDU0NDgyLnBuZw==/original/HILREP.png",
+          "https://img.itch.zone/aW1hZ2UvMTYxNDc1MS85NDU0NDY5LnBuZw==/original/SE68Y8.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, Linux",
+          "Rating": "Rated 4.8 out of 5 stars(4 total ratings)",
+          "Author": "Contra",
+          "Genre": "Role Playing, Adventure",
+          "Tags": "Characters, Fantasy, LGBT, My First Game Jam, Narrative, RPG Maker, Short, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 1608309,
+      "gameUrl": "https://errantcanadian.itch.io/gbx",
+      "overallRank": 11,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/my-first-game-jam-summer-2022/rate/1608309",
+        "id": 328210,
+        "created_at": "2022-07-16 03:02:16",
+        "rating_count": 0,
+        "game": {
+          "title": "GB/X",
+          "cover_color": "#eeeeee",
+          "url": "https://errantcanadian.itch.io/gbx",
+          "id": 1608309,
+          "user": {
+            "id": 2402489,
+            "url": "https://errantcanadian.itch.io",
+            "name": "Trystan Goetze"
+          },
+          "platforms": [
+            "windows",
+            "osx",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzk0NTEwMzQucG5n/300x240%23c/Zgdpup.png",
+          "short_text": "Old school dungeon crawling for the Game Boy Color"
+        },
+        "coolness": 0
+      },
+      "details": {
+        "title": "GB/X",
+        "description": "This is a proof-of-concept for a dungeon crawling game, made in GB Studio.\nTHIS IS A PROTOTYPE. The following features are not fully implemented:\nEquipmentThe merchantThe cleric and wizard classes (you can choose them, but their spells do nothing)Music and sound effects\nYou can play the game in browser or download the .gb file to play on a Game Boy Color emulator, such as Sameboy. If you have the appropriate hardware, it's also possible to flash the ROM to a cartridge and play on your actual Game Boy Color or Game Boy Advance.\nBrowser Controls\nD-pad: WASD\nStart: Enter\nSelect: Right Shift (unused)\nA: J\nB: K\nAbout\nThe mechanics are a simplified version of the 1981 Tom Moldvay edition of the Dungeons & Dragons Basic Rulebook, with some additional material inspired by the David \"Zeb\" Cook edition of the D&D Expert Rulebook, the Rules Cyclopedia edition of D&D from 1991, and the 5e edition of D&D  from 2014.\nMade for My First Game Jam: Summer 2022.\nYou can find the source code here: https://gitlab.com/errantcandian/gbx\nCredits\nThis game includes assets and code from the following sources, with some modifications:\nhttps://chrismaltby.itch.io/gb-studiohttps://sondanielson.itch.io/gameboy-simple-rpg-tilesethttps://petricakegames.itch.io/retro-green-dungeon-tilesethttps://monkeyimage.itch.io/world-tilesets-remasteredhttps://gumpyfunction.itch.io/game-boy-rpg-fantasy-tileset-freehttps://gamekrazzy.itch.io/gameboy-zelda-like-dungeon-assetshttps://niamov.itch.io/16x16-gb-tilesethttps://elthen.itch.io/2d-pixel-art-goblin-worker-spriteshttps://limezu.itch.io/weaponspriteshttps://route1rodent.itch.io/16x16-rpg-character-sprite-sheethttps://opengameart.org/content/nes-style-rpg-charactershttps://opengameart.org/content/more-nes-style-rpg-charactershttps://github.com/crawl/tilesYou can play the game in-browser from the game's web page.\nIf you download the .gb file, you will need a Game Boy emulator to run it on a computer. I've tested it successfully with Sameboy.\nIf you have the right equipment, you can also flash the .gb file to a cartridge and play the game on an actual Game Boy Color or Game Boy Advance! Follow the instructions that came with your third-party cartridge. I've done this successfully with an EZ-FLASH Junior and a SanDisk MicroSD card. I've received reports that it works on several third-party handhelds as well.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTYwODMwOS85NDYyNzk0LnBuZw==/original/9ONRZ9.png",
+          "https://img.itch.zone/aW1hZ2UvMTYwODMwOS85NDYyNzgyLnBuZw==/original/4mlb8a.png",
+          "https://img.itch.zone/aW1hZ2UvMTYwODMwOS85NDYyNzgzLnBuZw==/original/G9o0mY.png",
+          "https://img.itch.zone/aW1hZ2UvMTYwODMwOS85NDYyNzgwLnBuZw==/original/9X4ln1.png",
+          "https://img.itch.zone/aW1hZ2UvMTYwODMwOS85Njg2MTM4LmpwZw==/original/SJTJj1.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTYwODMwOS85Njg2MTM5LmpwZw==/original/%2F%2FA30Y.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows, macOS",
+          "Rating": "Rated 4.5 out of 5 stars(2 total ratings)",
+          "Author": "Trystan Goetze",
+          "Genre": "Role Playing, Adventure",
+          "Made with": "Tiled, GB Studio",
+          "Tags": "becmi, Dungeon Crawler, Dungeons & Dragons, Fantasy",
+          "Code license": "MIT License",
+          "Asset license": "Creative Commons Attribution_ShareAlike v4.0 International",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": 1609812,
+      "gameUrl": "https://cornd0g.itch.io/doodled-doctor",
+      "overallRank": 12,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/my-first-game-jam-summer-2022/rate/1609812",
+        "id": 327285,
+        "created_at": "2022-07-11 07:45:35",
+        "rating_count": 0,
+        "game": {
+          "title": "Doodled Doctor",
+          "cover_color": "#5cb0d8",
+          "url": "https://cornd0g.itch.io/doodled-doctor",
+          "id": 1609812,
+          "user": {
+            "id": 2225894,
+            "url": "https://cornd0g.itch.io",
+            "name": "Corndog"
+          },
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzk0MjE5NTIucG5n/300x240%23c/pz%2BaW8.png",
+          "short_text": "Warioware - but doodly and about doctors"
+        },
+        "coolness": 0
+      },
+      "details": {
+        "title": "Doodled Doctor",
+        "description": "Rush through several minigames, help patients, and out-do yourself.\n\n\nDoodled Doctor is a game that was created during the My First Game Jam Summer 2022 event, which had an optional theme around healing. The game is centered around rushing through minigames in a warioware-like fashion and getting higher and higher scores.\n\nThis is my first real project and was done (mostly) solo, I hope you enjoy.Though this game mostly uses the mouse, it will sometimes give signs that you need to use the keyboard for a specific minigame.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTYwOTgxMi85NDIyMDg0LmdpZg==/original/IUlLiX.gif",
+          "https://img.itch.zone/aW1hZ2UvMTYwOTgxMi85NDIyMTQyLmdpZg==/original/l9gL0s.gif",
+          "https://img.itch.zone/aW1hZ2UvMTYwOTgxMi85NDIyMTI2LmdpZg==/original/g72Che.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 4.4 out of 5 stars(10 total ratings)",
+          "Author": "Corndog",
+          "Made with": "Unity",
+          "Tags": "Arcade, Global Game Jam, My First Game Jam, warioware"
+        }
+      }
+    },
+    {
+      "gameId": 1617195,
+      "gameUrl": "https://lemele.itch.io/the-birds-begin-acticing-strange",
+      "overallRank": 13,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/my-first-game-jam-summer-2022/rate/1617195",
+        "id": 328421,
+        "created_at": "2022-07-16 15:57:24",
+        "rating_count": 0,
+        "game": {
+          "title": "The birds begin acting strangely. The birds begin acting strangely",
+          "cover_color": "#001755",
+          "url": "https://lemele.itch.io/the-birds-begin-acticing-strange",
+          "id": 1617195,
+          "cover": "https://img.itch.zone/aW1nLzk0NjY5NTMucG5n/300x240%23c/EdHfu8.png",
+          "user": {
+            "id": 4705139,
+            "url": "https://lemele.itch.io",
+            "name": "Lemele20"
+          }
+        },
+        "coolness": 0
+      },
+      "details": {
+        "title": "The birds begin acting strangely. The birds begin acting strangely",
+        "description": "The birds are acting weird again. Cale just wants to stop these nightmares. Em likes to take care of him.\nThis place is collapsing. \n\nWarning: The content of this game includes description, mention and images that may not be suitable for all audiences. Proceed with caution.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTYxNzE5NS8xMDI2NTM1NC5wbmc=/original/zDed%2FJ.png",
+          "https://img.itch.zone/aW1hZ2UvMTYxNzE5NS8xMDI2NTM1Ni5wbmc=/original/cSQn7C.png",
+          "https://img.itch.zone/aW1hZ2UvMTYxNzE5NS8xMDI2NTM1NS5wbmc=/original/CdAzob.png",
+          "https://img.itch.zone/aW1hZ2UvMTYxNzE5NS8xMDI2NTM1My5wbmc=/original/yNdAob.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Rating": "Rated 4.6 out of 5 stars(5 total ratings)",
+          "Author": "Lemele20",
+          "Genre": "Visual Novel",
+          "Tags": "Horror, My First Game Jam, Mystery, Ren'Py"
+        }
+      }
+    },
+    {
+      "gameId": 1616499,
+      "gameUrl": "https://bm-bongtextpro.itch.io/medieval-surgery",
+      "overallRank": 14,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "url": "/jam/my-first-game-jam-summer-2022/rate/1616499",
+        "id": 328235,
+        "created_at": "2022-07-16 05:28:34",
+        "rating_count": 0,
+        "game": {
+          "title": "Medieval Surgery",
+          "cover_color": "#ba2d2d",
+          "url": "https://bm-bongtextpro.itch.io/medieval-surgery",
+          "id": 1616499,
+          "user": {
+            "id": 1804533,
+            "url": "https://bm-bongtextpro.itch.io",
+            "name": "BM bongTextPro"
+          },
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzk0NjM2MTEuanBn/300x240%23c/XdCWw8.jpg",
+          "short_text": "Medieval medical operation"
+        },
+        "coolness": 0
+      },
+      "details": {
+        "title": "Medieval Surgery",
+        "description": "The best in business",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzk0NjM2MTEuanBn/original/AFPN7C.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 2.0 out of 5 stars(1 total ratings)",
+          "Author": "BM bongTextPro",
+          "Genre": "Adventure, Educational",
+          "Made with": "GDevelop",
+          "Tags": "2D, Atmospheric, Creepy, Dark, Exploration, Horror, Singleplayer, Survival Horror, Walking simulator"
+        }
+      }
+    },
+    {
+      "gameId": 1600807,
+      "gameUrl": "https://helloveeb.itch.io/mimis-apothecary",
+      "overallRank": 15,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/my-first-game-jam-summer-2022/rate/1600807",
+        "id": 328789,
+        "created_at": "2022-07-17 00:35:31",
+        "contributors": [
+          {
+            "url": "https://helloveeb.itch.io",
+            "name": "Veeb"
+          },
+          {
+            "url": "https://crunchygoose.itch.io",
+            "name": "crunchygoose"
+          },
+          {
+            "url": "https://lashman.itch.io",
+            "name": "lashman"
+          }
+        ],
+        "game": {
+          "title": "Mimi's Apothecary",
+          "cover_color": "#B69872",
+          "url": "https://helloveeb.itch.io/mimis-apothecary",
+          "id": 1600807,
+          "user": {
+            "id": 6144407,
+            "url": "https://helloveeb.itch.io",
+            "name": "Veeb"
+          },
+          "platforms": [
+            "windows",
+            "osx"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzk0NzY1NzkucG5n/300x240%23c/JvmekI.png",
+          "short_text": "Create healing tonics in this cozy IF/SIM game."
+        },
+        "coolness": 0
+      },
+      "details": {
+        "title": "Mimi's Apothecary",
+        "description": "CW: mention of family loss\nPlay as Sirona, a local apothecary attending to customers alone for the first time since her mimi's passing...and on their busiest day of the year. Mimi's Apothecary is a cozy and comforting interactive fiction game that was developed in 14 days for My First Game Jam.\n\nDevelopment Team:\nveeb - Programmer, Narrative Designer, Writer\ncrunchygoose - Artist\nlashman - Composer\n\nContains the following assets:\nVoice Blip\nDoor SFX\nRummaging SFX\nCrash SFX\n\nDisclaimer: This game is for entertainment purposes only, the information in this game should not be used for treating health problems or disease.If your computer states that it can't open the file, click cancel and then try right clicking on the file and choosing \"open.\" You should now have the option to open the game.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTYwMDgwNy85NDU5NDUwLmpwZw==/original/dx60sy.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTYwMDgwNy85NDU5NDUxLmpwZw==/original/jC1JxD.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTYwMDgwNy85NDU5NTc4LmdpZg==/original/1A9RF4.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS",
+          "Rating": "Rated 4.7 out of 5 stars(3 total ratings)",
+          "Authors": "Veeb, crunchygoose, lashman",
+          "Genre": "Interactive Fiction, Simulation, Visual Novel",
+          "Made with": "Ren'Py",
+          "Tags": "Atmospheric, Cozy, Fantasy, Ren'Py",
+          "Average session": "A few minutes",
+          "Languages": "English"
+        }
+      }
+    }
+  ]
+}

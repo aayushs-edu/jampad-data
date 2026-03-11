@@ -1,0 +1,2372 @@
+{
+  "n": 6,
+  "name": "GMTK Game Jam 2020",
+  "url": "https://itch.io/jam/gmtk-2020",
+  "theme": "Out of Control",
+  "slug": "gmtk-2020",
+  "jamMeta": {
+    "jamType": "ended",
+    "ratings": "143,005",
+    "entries": "5,248",
+    "title": "GMTK Game Jam 2020",
+    "jamURL": "https://itch.io/jam/gmtk-2020",
+    "hosts": {
+      "Game Maker's Toolkit": "https://gmtk.itch.io",
+      "#gmtkjam": "https://bsky.app/hashtag/gmtkjam"
+    },
+    "jamID": "11065"
+  },
+  "totalEntries": 5094,
+  "ranked": true,
+  "hasCategories": true,
+  "needsManualSelection": false,
+  "categories": [
+    "Overall",
+    "Presentation",
+    "Originality",
+    "Fun"
+  ],
+  "topGames": [
+    {
+      "gameId": 701538,
+      "gameUrl": "https://lonebot.itch.io/possessed",
+      "overallRank": 1,
+      "topCategories": [
+        "Overall",
+        "Presentation",
+        "Originality",
+        "Fun"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Lonebot",
+            "id": 298
+          },
+          {
+            "name": "manfish",
+            "id": 11388643
+          },
+          {
+            "name": "Placeholders",
+            "id": 1217145
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Top Marks",
+            "raw_score": 0,
+            "rank": 1,
+            "score": 0
+          },
+          {
+            "name": "Fun",
+            "raw_score": 4.5196850393701,
+            "rank": 2,
+            "score": 4.5196850393701
+          },
+          {
+            "name": "Originality",
+            "raw_score": 4.503937007874,
+            "rank": 9,
+            "score": 4.503937007874
+          },
+          {
+            "name": "Presentation",
+            "raw_score": 4.8110236220472,
+            "rank": 1,
+            "score": 4.8110236220472
+          },
+          {
+            "name": "Overall",
+            "raw_score": 4.6299212598425,
+            "rank": 1,
+            "score": 4.6299212598425
+          }
+        ],
+        "rating_count": 127,
+        "id": 701538,
+        "title": "You are now Possessed",
+        "url": "https://itch.io/jam/gmtk-2020/rate/701538",
+        "rank": 1,
+        "cover_url": "https://img.itch.zone/aW1nLzM4ODQ5NzcucG5n/300x240%23c/2jIDqE.png"
+      },
+      "entryData": {
+        "field_responses": [
+          "8920:1",
+          "8921:1"
+        ],
+        "coolness": 31,
+        "created_at": "2020-07-13 10:00:25",
+        "id": 139695,
+        "url": "/jam/gmtk-2020/rate/701538",
+        "game": {
+          "title": "You are now Possessed",
+          "cover": "https://img.itch.zone/aW1nLzM4ODQ5NzcucG5n/300x240%23c/2jIDqE.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 701538,
+          "url": "https://lonebot.itch.io/possessed",
+          "cover_color": "#eeeeee",
+          "short_text": "A puzzle game where you're not always in control.",
+          "user": {
+            "url": "https://lonebot.itch.io",
+            "name": "Lonebot",
+            "id": 298
+          }
+        },
+        "contributors": [
+          {
+            "name": "Lonebot",
+            "url": "https://lonebot.itch.io"
+          },
+          {
+            "name": "manfish",
+            "url": "https://manfish3am.itch.io"
+          },
+          {
+            "name": "Placeholders",
+            "url": "https://placeholders.itch.io"
+          }
+        ],
+        "rating_count": 127
+      },
+      "details": {
+        "title": "You are now Possessed",
+        "description": "Winner of GMTK Jam 2020 under the theme \"Out of Control\".\nThere are 14 levels.\nControls:\nArrow Keys - Move\nR - Restart\nEnter - Skip Level\n\nCredits:\nMati Ernst / @Mati_Ernst\nItamar Ernst / @Itamar_Ernst\nYotam Frid / @Patacorow\nGuy Maraton / @omknee\nSpecial Thanks:\nYoav Landau / @LivingTombstone\nTimelapse:\n\nView the Submission page: https://itch.io/jam/gmtk-2020/rate/701538",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzM4ODQ5NzcucG5n/original/9HQnsv.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.7 out of 5 stars(575 total ratings)",
+          "Authors": "Lonebot, manfish, Placeholders",
+          "Genre": "Puzzle",
+          "Made with": "GameMaker",
+          "Tags": "arrows, day-of-the-dead, Game Maker's Toolkit Jam, Pixel Art, skulls"
+        }
+      }
+    },
+    {
+      "gameId": 696574,
+      "gameUrl": "https://leko20.itch.io/restless-wing-syndrome",
+      "overallRank": 1,
+      "topCategories": [
+        "Overall",
+        "Presentation",
+        "Originality",
+        "Fun"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Leko",
+            "id": 1709429
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Originality",
+            "raw_score": 4.2291666666667,
+            "rank": 91,
+            "score": 4.2291666666667
+          },
+          {
+            "name": "Top Marks",
+            "raw_score": 0,
+            "rank": 1,
+            "score": 0
+          },
+          {
+            "name": "Overall",
+            "raw_score": 4.5069444444444,
+            "rank": 2,
+            "score": 4.5069444444444
+          },
+          {
+            "name": "Presentation",
+            "raw_score": 4.6180555555556,
+            "rank": 12,
+            "score": 4.6180555555556
+          },
+          {
+            "name": "Fun",
+            "raw_score": 4.5486111111111,
+            "rank": 1,
+            "score": 4.5486111111111
+          }
+        ],
+        "rating_count": 144,
+        "id": 696574,
+        "title": "Restless Wing Syndrome",
+        "url": "https://itch.io/jam/gmtk-2020/rate/696574",
+        "rank": 1,
+        "cover_url": "https://img.itch.zone/aW1nLzM4Mzc3NzgucG5n/300x240%23c/V5g%2Bhd.png"
+      },
+      "entryData": {
+        "field_responses": [
+          "8920:1",
+          "8921:1"
+        ],
+        "created_at": "2020-07-12 18:32:26",
+        "id": 135916,
+        "url": "/jam/gmtk-2020/rate/696574",
+        "game": {
+          "title": "Restless Wing Syndrome",
+          "platforms": [
+            "web"
+          ],
+          "id": 696574,
+          "url": "https://leko20.itch.io/restless-wing-syndrome",
+          "cover_color": "#000000",
+          "cover": "https://img.itch.zone/aW1nLzM4Mzc3NzgucG5n/300x240%23c/V5g%2Bhd.png",
+          "user": {
+            "url": "https://leko20.itch.io",
+            "name": "Leko",
+            "id": 1709429
+          }
+        },
+        "coolness": 70,
+        "rating_count": 144
+      },
+      "details": {
+        "title": "Restless Wing Syndrome",
+        "description": "In Restless Wing Syndrome, you play as a hungry pigeon scavenging the city rooftops for delicious morsels of bread. However, you were born with a condition that causes your wings to spontaneously flap, shooting you upward. Luckily, you know just how long you have between each wing spasm, thanks to your trusty Flap Meter.\nTime your movements in conjunction with your flaps to cross gaps, avoid spikes, and glide across hazards to reach each delectable slice of bread in this puzzle-platformer.Listen to the music here :)\nMADE IN: Game Maker Studio 2\nPALETTE: Pear36 by PineappleOnPizza\nFONT USED: Acknowledge by Brian Kent",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNjk2NTc0LzM4Mzc3OTcucG5n/original/gwgPB9.png",
+          "https://img.itch.zone/aW1hZ2UvNjk2NTc0LzM4Mzc3OTgucG5n/original/5zBsV0.png",
+          "https://img.itch.zone/aW1hZ2UvNjk2NTc0LzM4Mzc4MDAucG5n/original/mSkehR.png",
+          "https://img.itch.zone/aW1hZ2UvNjk2NTc0LzM4Mzc4MDEucG5n/original/u0acfX.png",
+          "https://img.itch.zone/aW1hZ2UvNjk2NTc0LzM4Mzc3OTkucG5n/original/B%2BDP72.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.7 out of 5 stars(174 total ratings)",
+          "Author": "Leko",
+          "Genre": "Platformer, Action, Puzzle, Rhythm",
+          "Made with": "GameMaker",
+          "Tags": "Arcade, Colorful, Difficult, Game Maker's Toolkit Jam, jumping, Pixel Art, Puzzle-Platformer"
+        }
+      }
+    },
+    {
+      "gameId": 699951,
+      "gameUrl": "https://geegaz.itch.io/out-of-controls",
+      "overallRank": 1,
+      "topCategories": [
+        "Overall",
+        "Presentation",
+        "Originality",
+        "Fun"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Geegaz",
+            "id": 1901597
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Presentation",
+            "raw_score": 4.5648854961832,
+            "rank": 20,
+            "score": 4.5648854961832
+          },
+          {
+            "name": "Top Marks",
+            "raw_score": 0,
+            "rank": 1,
+            "score": 0
+          },
+          {
+            "name": "Overall",
+            "raw_score": 4.4503816793893,
+            "rank": 6,
+            "score": 4.4503816793893
+          },
+          {
+            "name": "Originality",
+            "raw_score": 4.4580152671756,
+            "rank": 17,
+            "score": 4.4580152671756
+          },
+          {
+            "name": "Fun",
+            "raw_score": 4.2824427480916,
+            "rank": 17,
+            "score": 4.2824427480916
+          }
+        ],
+        "rating_count": 131,
+        "id": 699951,
+        "title": "A Key(s) Path",
+        "url": "https://itch.io/jam/gmtk-2020/rate/699951",
+        "rank": 1,
+        "cover_url": "https://img.itch.zone/aW1nLzEzNDQwMjgyLmdpZg==/300x240%23c/ccZMUu.gif"
+      },
+      "entryData": {
+        "field_responses": [
+          "8920:1",
+          "8921:2"
+        ],
+        "created_at": "2020-07-12 18:56:36",
+        "id": 137516,
+        "url": "/jam/gmtk-2020/rate/699951",
+        "game": {
+          "id": 699951,
+          "url": "https://geegaz.itch.io/out-of-controls",
+          "cover_color": "#1b1b1b",
+          "user": {
+            "url": "https://geegaz.itch.io",
+            "name": "Geegaz",
+            "id": 1901597
+          },
+          "title": "A Key(s) Path",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "gif_cover": "https://img.itch.zone/aW1nLzEzNDQwMjgyLmdpZg==/original/vG1RiU.gif",
+          "cover": "https://img.itch.zone/aW1nLzEzNDQwMjgyLmdpZg==/300x240%23c/ccZMUu.gif",
+          "short_text": "Use your movement keys as platforms to progress"
+        },
+        "coolness": 65,
+        "rating_count": 131
+      },
+      "details": {
+        "title": "A Key(s) Path",
+        "description": "A Key(s) Path\n- By Geegaz -\n\n\nBuild your way with your own keys.\nWith your 3 movement keys (Left, Right, Jump) available at the bottom of the screen, you can drag them in the world to use them as platforms. But don't use too many, or you could run out of movement options !\nBecause as soon as one is placed, you can't use it for movement. It will be locked until you retrieve the key from the world.\n\n\nA Key(s) Path is a winner of the GMTK Game Jam 2020, with the theme \"Out of Control\". Here is GMTK's video with the jam results !\n\n\nControls\nThe game is played with a mouse & keyboard (controllers are not supported and will not work properly)\nMove: Left and Right arrow / A and D / Q and DJump: Up arrow / W / Z / Space\nPlace Key: Drag & drop the key from the barRetrieve Key: Click the key in the world / Click the empty spot in the bottom barRetrieve All Keys: Shift\nPause / Quit: EscapeFullscreen: F11\n\nCredits\nMade with Godot 3.3.4All design, code and graphics and fonts by me.\nSFX: Interface Sounds & Impact Sounds by Kenney, Wind in Trees by HzandbitsMusic: Reflexions by Lavalamp\nReport issues, find the source code and previous versions here:Github repository\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNjk5OTUxLzgyMTY2NzYuZ2lm/original/gSnozy.gif",
+          "https://img.itch.zone/aW1hZ2UvNjk5OTUxLzgyMTY2NzcuZ2lm/original/mI5qjN.gif",
+          "https://img.itch.zone/aW1hZ2UvNjk5OTUxLzgyMTY2NTkucG5n/original/WXHg0M.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 4.6 out of 5 stars(318 total ratings)",
+          "Author": "Geegaz",
+          "Genre": "Platformer, Puzzle",
+          "Made with": "Aseprite, Godot, GIMP",
+          "Tags": "2D, Game Maker's Toolkit Jam, Pixel Art, Puzzle-Platformer, Short, Singleplayer",
+          "Code license": "GNU General Public License v3.0 (GPL)",
+          "Average session": "A few minutes",
+          "Inputs": "Keyboard, Mouse",
+          "Links": "Source code, Support"
+        }
+      }
+    },
+    {
+      "gameId": 693120,
+      "gameUrl": "https://kz.itch.io/edna",
+      "overallRank": 1,
+      "topCategories": [
+        "Overall",
+        "Presentation",
+        "Originality",
+        "Fun"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "kcaze",
+            "id": 45052
+          },
+          {
+            "name": "Varun R.",
+            "id": 28874
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 4.4321608040201,
+            "rank": 8,
+            "score": 4.4321608040201
+          },
+          {
+            "name": "Presentation",
+            "raw_score": 4.5577889447236,
+            "rank": 22,
+            "score": 4.5577889447236
+          },
+          {
+            "name": "Originality",
+            "raw_score": 4.3165829145729,
+            "rank": 52,
+            "score": 4.3165829145729
+          },
+          {
+            "name": "Top Marks",
+            "raw_score": 0,
+            "rank": 1,
+            "score": 0
+          },
+          {
+            "name": "Fun",
+            "raw_score": 4.321608040201,
+            "rank": 11,
+            "score": 4.321608040201
+          }
+        ],
+        "rating_count": 199,
+        "id": 693120,
+        "title": "Edna - Out of sight, out of control",
+        "url": "https://itch.io/jam/gmtk-2020/rate/693120",
+        "rank": 1,
+        "cover_url": "https://img.itch.zone/aW1nLzM5MzQ1OTguZ2lm/300x240%23c/HKRMq3.gif"
+      },
+      "entryData": {
+        "field_responses": [
+          "8920:1",
+          "8921:2"
+        ],
+        "coolness": 33,
+        "created_at": "2020-07-12 18:48:19",
+        "id": 136723,
+        "url": "/jam/gmtk-2020/rate/693120",
+        "game": {
+          "id": 693120,
+          "url": "https://kz.itch.io/edna",
+          "cover_color": "#000000",
+          "user": {
+            "url": "https://kz.itch.io",
+            "name": "kcaze",
+            "id": 45052
+          },
+          "title": "Edna - Out of sight, out of control",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "gif_cover": "https://img.itch.zone/aW1nLzM5MzQ1OTguZ2lm/original/zY3grn.gif",
+          "cover": "https://img.itch.zone/aW1nLzM5MzQ1OTguZ2lm/300x240%23c/HKRMq3.gif",
+          "short_text": "Puzzle platformer where you control objects in your line of sight."
+        },
+        "contributors": [
+          {
+            "name": "kcaze",
+            "url": "https://kz.itch.io"
+          },
+          {
+            "name": "Varun R.",
+            "url": "https://varunramesh.itch.io"
+          }
+        ],
+        "rating_count": 199
+      },
+      "details": {
+        "title": "Edna - Out of sight, out of control",
+        "description": "Edna - Out of sight, out of control\n\nPlay as Edna and make your way through a castle by possessing statues within your line of sight. Solve puzzles by manipulating doors, switches, and mirrors.\nController support.15~20 minutes playtime.Collect SUSHI!Jam version made in 48h for the GMTK 2020 game jam.\nControls\nMove - arrow keys  |  joystick / d-padJump - up key / space bar  |  'A' button / joystick up / d-padPossess - 'Z' key  |   'X' buttonUse lever - 'X' key  |  'Y' buttonRewind - 'R' key  / backspace |  Left shoulder buttonSkip level - 'O' key while in level\nCredits\nkcaze for making the game. Varun Ramesh for making the music.\"Sonniss.com - GDC 2019 - Game Audio Bundle\" for additional sound effects.Humble Fonts - Free and Bitty for the fonts.WitchWay for inspiration.You for playing ❤️.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNjkzMTIwLzM5MzQ1OTkucG5n/original/e8i5%2FI.png",
+          "https://img.itch.zone/aW1hZ2UvNjkzMTIwLzM5MzQ2MDEucG5n/original/N7qYXG.png",
+          "https://img.itch.zone/aW1hZ2UvNjkzMTIwLzM5MzQ2MDAucG5n/original/JGc7Ej.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 4.7 out of 5 stars(297 total ratings)",
+          "Authors": "kcaze, Varun R.",
+          "Genre": "Platformer, Puzzle",
+          "Made with": "Aseprite, Godot",
+          "Tags": "2D, Pixel Art, Puzzle-Platformer, Singleplayer",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Xbox controller"
+        }
+      }
+    },
+    {
+      "gameId": 696997,
+      "gameUrl": "https://mcannon.itch.io/time-lock",
+      "overallRank": 1,
+      "topCategories": [
+        "Overall",
+        "Presentation",
+        "Originality",
+        "Fun"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Marshall Cannon",
+            "id": 641163
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Overall",
+            "raw_score": 4.3714285714286,
+            "rank": 12,
+            "score": 4.3714285714286
+          },
+          {
+            "name": "Top Marks",
+            "raw_score": 0,
+            "rank": 1,
+            "score": 0
+          },
+          {
+            "name": "Originality",
+            "raw_score": 4.4857142857143,
+            "rank": 11,
+            "score": 4.4857142857143
+          },
+          {
+            "name": "Presentation",
+            "raw_score": 4.2285714285714,
+            "rank": 194,
+            "score": 4.2285714285714
+          },
+          {
+            "name": "Fun",
+            "raw_score": 4.1142857142857,
+            "rank": 62,
+            "score": 4.1142857142857
+          }
+        ],
+        "rating_count": 35,
+        "id": 696997,
+        "title": "Time Lock",
+        "url": "https://itch.io/jam/gmtk-2020/rate/696997",
+        "rank": 1,
+        "cover_url": "https://img.itch.zone/aW1nLzM4ODIzMjEucG5n/300x240%23c/DthyTu.png"
+      },
+      "entryData": {
+        "field_responses": [
+          "8920:1",
+          "8921:1"
+        ],
+        "created_at": "2020-07-12 16:26:44",
+        "id": 134157,
+        "url": "/jam/gmtk-2020/rate/696997",
+        "game": {
+          "title": "Time Lock",
+          "platforms": [
+            "windows"
+          ],
+          "id": 696997,
+          "url": "https://mcannon.itch.io/time-lock",
+          "cover": "https://img.itch.zone/aW1nLzM4ODIzMjEucG5n/300x240%23c/DthyTu.png",
+          "short_text": "Time-bending puzzle game | Winner of the 2020 GMTK Game Jam",
+          "user": {
+            "url": "https://mcannon.itch.io",
+            "name": "Marshall Cannon",
+            "id": 641163
+          }
+        },
+        "coolness": 97,
+        "rating_count": 35
+      },
+      "details": {
+        "title": "Time Lock",
+        "description": "Oh no your space suit is out of control! It must be receiving interference from the third dimension: TIME! Can you navigate this suspiciously hostile space station across multiple timelines?\nDeveloped in 48 hours for the Game Maker's Toolkit Jam 2020 by one tired boy.Download and unzip then run the executable inside.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNjk2OTk3LzM4NzM3NDkucG5n/original/tWrC1E.png",
+          "https://img.itch.zone/aW1hZ2UvNjk2OTk3LzM4NzM3NTAucG5n/original/txSYmt.png",
+          "https://img.itch.zone/aW1hZ2UvNjk2OTk3LzM4NzM3NTEucG5n/original/dUsmp%2B.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.1 out of 5 stars(11 total ratings)",
+          "Author": "Marshall Cannon",
+          "Genre": "Puzzle"
+        }
+      }
+    },
+    {
+      "gameId": 696379,
+      "gameUrl": "https://z-richman.itch.io/two-timin-towers",
+      "overallRank": 1,
+      "topCategories": [
+        "Overall",
+        "Presentation",
+        "Originality",
+        "Fun"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Zachary Richman",
+            "id": 3090532
+          },
+          {
+            "name": "Phoenix Richard",
+            "id": 1031691
+          },
+          {
+            "name": "Huntrox",
+            "id": 1650064
+          },
+          {
+            "name": "adikar1",
+            "id": 2629335
+          },
+          {
+            "name": "🕹️swagshaw",
+            "id": 2862819
+          },
+          {
+            "name": "LordNeptuneMusic",
+            "id": 3110164
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Originality",
+            "raw_score": 4.2213438735178,
+            "rank": 100,
+            "score": 4.2213438735178
+          },
+          {
+            "name": "Overall",
+            "raw_score": 4.3399209486166,
+            "rank": 14,
+            "score": 4.3399209486166
+          },
+          {
+            "name": "Top Marks",
+            "raw_score": 0,
+            "rank": 1,
+            "score": 0
+          },
+          {
+            "name": "Fun",
+            "raw_score": 4.399209486166,
+            "rank": 5,
+            "score": 4.399209486166
+          },
+          {
+            "name": "Presentation",
+            "raw_score": 4.4861660079051,
+            "rank": 44,
+            "score": 4.4861660079051
+          }
+        ],
+        "rating_count": 253,
+        "id": 696379,
+        "title": "Two-Timin' Towers",
+        "url": "https://itch.io/jam/gmtk-2020/rate/696379",
+        "rank": 1,
+        "cover_url": "https://img.itch.zone/aW1nLzQwNDQ0NTcuanBn/300x240%23c/yiajh3.jpg"
+      },
+      "entryData": {
+        "field_responses": [
+          "8920:1",
+          "8921:1"
+        ],
+        "coolness": 74,
+        "created_at": "2020-07-12 18:37:03",
+        "id": 136070,
+        "url": "/jam/gmtk-2020/rate/696379",
+        "game": {
+          "title": "Two-Timin' Towers",
+          "cover": "https://img.itch.zone/aW1nLzQwNDQ0NTcuanBn/300x240%23c/yiajh3.jpg",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "id": 696379,
+          "url": "https://z-richman.itch.io/two-timin-towers",
+          "cover_color": "#234167",
+          "short_text": "Tower defense meets bullet hell! Defend against waves of enemies with towers that also attack YOU!",
+          "user": {
+            "url": "https://z-richman.itch.io",
+            "name": "Zachary Richman",
+            "id": 3090532
+          }
+        },
+        "contributors": [
+          {
+            "name": "Zachary Richman",
+            "url": "https://z-richman.itch.io"
+          },
+          {
+            "name": "Phoenix Richard",
+            "url": "https://phace.itch.io"
+          },
+          {
+            "name": "Huntrox",
+            "url": "https://huntrox.itch.io"
+          },
+          {
+            "name": "adikar1",
+            "url": "https://adikar1.itch.io"
+          },
+          {
+            "name": "🕹️swagshaw",
+            "url": "https://swagshaw.itch.io"
+          },
+          {
+            "name": "LordNeptuneMusic",
+            "url": "https://lordneptunemusic.itch.io"
+          }
+        ],
+        "rating_count": 253
+      },
+      "details": {
+        "title": "Two-Timin' Towers",
+        "description": "Note: This is an older version of the game. We have a NEW DEMO ON STEAM! Click below to play + wishlist for the upcoming full game!‎ ‎\n\n_______\n🏆 Winner of the 2020 GMTK Game Jam 🏆 \nWelcome to Two-Timin' Towers – a tower defense game where your towers have friendly fire. Turning a classic game genre into a bullet hell!\n\nBuild towers to defeat increasingly challenging waves of enemies. But remember, each tower adds more bullets to the screen for you to narrowly avoid!\n\n_______\n\nSOCIAL LINKS:\nJoin our Discord community to chat with devs and other players! Plus, get early access to our new Map Maker!\nFollow us on Twitter for updates as we work towards our full release!\nSupport us on Patreon and get access to behind-the-scenes content, Discord roles, playtesting privileges, and more!\nCheck out our Google Form to send us any comments, suggestions, or bug reports! \n\n_______ \n\nTEAM CREDITS:\nAaron Shaw - Director\nZachary Richman - Director / Writer\nPhoenix Richard - Programmer\nHuntrox - Programmer\nFartfish - Pixel Artist / Animator\nAdrian Karmanski - SFX\nLord Neptune - Music (Check out his tunes: bit.ly/lordneptune)\n\nADDITIONAL CREDITS:\nBluzi - Pixel Artist / Animator\nSlavik Rubash - Splash Art\nVictor Abda - Bullet SFX",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNjk2Mzc5LzUxMTcxOTkuanBn/original/p4Hq%2B%2B.jpg",
+          "https://img.itch.zone/aW1hZ2UvNjk2Mzc5LzQ4OTgyNTYuZ2lm/original/omGIkf.gif",
+          "https://img.itch.zone/aW1hZ2UvNjk2Mzc5LzQ4OTgyNTcuZ2lm/original/i%2Fv9wj.gif",
+          "https://img.itch.zone/aW1hZ2UvNjk2Mzc5LzQ4OTgyNTUuZ2lm/original/gUy6r7.gif",
+          "https://img.itch.zone/aW1hZ2UvNjk2Mzc5LzQ4OTgyNTQuZ2lm/original/q9FbJv.gif",
+          "https://img.itch.zone/aW1hZ2UvNjk2Mzc5LzQ4OTgyNTMuZ2lm/original/vA7WyN.gif"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 4.5 out of 5 stars(240 total ratings)",
+          "Authors": "Zachary Richman, Phoenix Richard, Huntrox, adikar1, 🕹️swagshaw, LordNeptuneMusic",
+          "Genre": "Action, Strategy",
+          "Made with": "Unity",
+          "Tags": "2D, Arcade, Bullet Hell, Game Maker's Toolkit Jam, High Score, Pixel Art, Singleplayer, Tower Defense",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse, Xbox controller, Playstation controller",
+          "Links": "Steam, Patreon, Twitter/X"
+        }
+      }
+    },
+    {
+      "gameId": 694053,
+      "gameUrl": "https://danilo-freire.itch.io/laserguy",
+      "overallRank": 1,
+      "topCategories": [
+        "Overall",
+        "Presentation",
+        "Originality",
+        "Fun"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Danilo Freire",
+            "id": 891020
+          },
+          {
+            "name": "Renato Skhar",
+            "id": 874488
+          },
+          {
+            "name": "Leona",
+            "id": 49417
+          },
+          {
+            "name": "AntonioHR",
+            "id": 492084
+          },
+          {
+            "name": "Filipeagb",
+            "id": 729810
+          },
+          {
+            "name": "konikun",
+            "id": 691365
+          },
+          {
+            "name": "Point N' Sheep",
+            "id": 2461866
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Originality",
+            "raw_score": 4.247619047619,
+            "rank": 81,
+            "score": 4.247619047619
+          },
+          {
+            "name": "Presentation",
+            "raw_score": 4.5428571428571,
+            "rank": 28,
+            "score": 4.5428571428571
+          },
+          {
+            "name": "Top Marks",
+            "raw_score": 0,
+            "rank": 1,
+            "score": 0
+          },
+          {
+            "name": "Overall",
+            "raw_score": 4.2952380952381,
+            "rank": 24,
+            "score": 4.2952380952381
+          },
+          {
+            "name": "Fun",
+            "raw_score": 4.1238095238095,
+            "rank": 56,
+            "score": 4.1238095238095
+          }
+        ],
+        "rating_count": 105,
+        "id": 694053,
+        "title": "Laser Guy (Harold)",
+        "url": "https://itch.io/jam/gmtk-2020/rate/694053",
+        "rank": 1,
+        "cover_url": "https://img.itch.zone/aW1nLzM4NjM2NDUuZ2lm/300x240%23c/6pxPfp.gif"
+      },
+      "entryData": {
+        "field_responses": [
+          "8920:1",
+          "8921:1"
+        ],
+        "coolness": 30,
+        "created_at": "2020-07-12 19:02:53",
+        "id": 138431,
+        "url": "/jam/gmtk-2020/rate/694053",
+        "game": {
+          "id": 694053,
+          "url": "https://danilo-freire.itch.io/laserguy",
+          "cover_color": "#cdaceb",
+          "user": {
+            "url": "https://danilo-freire.itch.io",
+            "name": "Danilo Freire",
+            "id": 891020
+          },
+          "title": "Laser Guy (Harold)",
+          "platforms": [
+            "web"
+          ],
+          "gif_cover": "https://img.itch.zone/aW1nLzM4NjM2NDUuZ2lm/original/1O5QAk.gif",
+          "cover": "https://img.itch.zone/aW1nLzM4NjM2NDUuZ2lm/300x240%23c/6pxPfp.gif",
+          "short_text": "Involuntary twin-stick shooter, do not harm any of your alien co-workers (GMTK 20)"
+        },
+        "contributors": [
+          {
+            "name": "Danilo Freire",
+            "url": "https://danilo-freire.itch.io"
+          },
+          {
+            "name": "Renato Skhar",
+            "url": "https://skhar.itch.io"
+          },
+          {
+            "name": "Leona",
+            "url": "https://leclarc.itch.io"
+          },
+          {
+            "name": "AntonioHR",
+            "url": "https://antoniohr.itch.io"
+          },
+          {
+            "name": "Filipeagb",
+            "url": "https://filipeagb.itch.io"
+          },
+          {
+            "name": "konikun",
+            "url": "https://konikun.itch.io"
+          },
+          {
+            "name": "Point N' Sheep",
+            "url": "https://pointnsheep.itch.io"
+          }
+        ],
+        "rating_count": 105
+      },
+      "details": {
+        "title": "Laser Guy (Harold)",
+        "description": "> PLAY LIKE A SHOOTER, FEEL LIKE A PUZZLE <\nLaser guy is a top-down shooter that feels like a puzzle. An alien worker is in the middle of a laser allergic crisis during his workday and need to get to the infirmary without harming his co-workers !\n> HOW TO PLAY <\n-ASWD controls the caracter and mouse/touchpad controls the aim.\n- Play through your browser on the player above or download the windows version bellow (gmtk20 edition if you intend to rate us)\n\n> THIS IS A GMTK20 SUBSCRIPTION <\nThe game was created during the GMTK Game Jam 2020 here on itch.io in just 48 hours by a team of 6 friends. The versions available to play on the page were submitted within the time limit of the event and therefore cannot be updated until the conclusion of the event on July 19th.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNjk0MDUzLzM4NjE4NTEucG5n/original/kEPUBq.png",
+          "https://img.itch.zone/aW1hZ2UvNjk0MDUzLzM4NjE4NTIucG5n/original/Bf0Nol.png",
+          "https://img.itch.zone/aW1hZ2UvNjk0MDUzLzM4NjE4NTMucG5n/original/AGUUh4.png",
+          "https://img.itch.zone/aW1hZ2UvNjk0MDUzLzM4NjE4NTQucG5n/original/cFTJeL.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.4 out of 5 stars(145 total ratings)",
+          "Authors": "Danilo Freire, Renato Skhar, Leona, AntonioHR, Filipeagb, konikun, Point N' Sheep",
+          "Genre": "Shooter, Puzzle",
+          "Made with": "Unity",
+          "Tags": "Comedy, Game Maker's Toolkit Jam, Pixel Art, Top down shooter, Twin Stick Shooter, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 694490,
+      "gameUrl": "https://kiraroci.itch.io/between-a-clock-and-a-hard-place",
+      "overallRank": 1,
+      "topCategories": [
+        "Overall",
+        "Presentation",
+        "Originality",
+        "Fun"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Kira",
+            "id": 1799141
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Originality",
+            "raw_score": 4.2153846153846,
+            "rank": 105,
+            "score": 4.2153846153846
+          },
+          {
+            "name": "Top Marks",
+            "raw_score": 0,
+            "rank": 1,
+            "score": 0
+          },
+          {
+            "name": "Overall",
+            "raw_score": 4.2538461538462,
+            "rank": 31,
+            "score": 4.2538461538462
+          },
+          {
+            "name": "Presentation",
+            "raw_score": 4.4230769230769,
+            "rank": 61,
+            "score": 4.4230769230769
+          },
+          {
+            "name": "Fun",
+            "raw_score": 4.0153846153846,
+            "rank": 97,
+            "score": 4.0153846153846
+          }
+        ],
+        "rating_count": 130,
+        "id": 694490,
+        "title": "Between a Clock and a Hard Place",
+        "url": "https://itch.io/jam/gmtk-2020/rate/694490",
+        "rank": 1,
+        "cover_url": "https://img.itch.zone/aW1nLzM4NzM5ODIuZ2lm/300x240%23c/GUeCMz.gif"
+      },
+      "entryData": {
+        "field_responses": [
+          "8920:1",
+          "8921:1"
+        ],
+        "created_at": "2020-07-12 18:48:13",
+        "id": 136714,
+        "url": "/jam/gmtk-2020/rate/694490",
+        "game": {
+          "id": 694490,
+          "url": "https://kiraroci.itch.io/between-a-clock-and-a-hard-place",
+          "cover_color": "#362a36",
+          "user": {
+            "url": "https://kiraroci.itch.io",
+            "name": "Kira",
+            "id": 1799141
+          },
+          "title": "Between a Clock and a Hard Place",
+          "platforms": [
+            "web"
+          ],
+          "gif_cover": "https://img.itch.zone/aW1nLzM4NzM5ODIuZ2lm/original/B99Z2c.gif",
+          "cover": "https://img.itch.zone/aW1nLzM4NzM5ODIuZ2lm/300x240%23c/GUeCMz.gif",
+          "short_text": "Physics based action/puzzle platformer. A young hero must retrieve a stolen magic clock from a mysterious entity."
+        },
+        "coolness": 122,
+        "rating_count": 130
+      },
+      "details": {
+        "title": "Between a Clock and a Hard Place",
+        "description": "Ranked top 20 and featured in Mark Brown's Best Games from GMTK Jam 2020 video! Timestamp 19:18\n\n\nIf you want to see what else we're making, drop us a follow!\nProgrammer/designer: KIRAArtist: ALPHA6Musician: VICTORABDAMusician: RUSTOCRATMusician: AJ BOOKER\n\nHTML5 Important Info\n\n\nIf the controls don't work try refreshing the window. Then click the run button without scrolling or pressing anything else. This is a known problem with HTML5 Itch uploads using this engine.\nThe HTML5 version might be laggy in some browsers. If the HTML5 version does not work for you, download the zip version below.\n\nStory\nA young hero is tasked with retrieving a stolen magic clock that can warp space and time. The hero makes it to some ruins, but an ancient trickster spirit has found the clock and wants to have some fun...\n\nTheme\nOut of Control theme connection: We interpreted this meaning \"out of the player's control\" rather than \"chaotic\"\nThe ancient spirit has the clock and is messing with you. The movement of the room cannot be controlled by the player. It can get out of hand if you do not take time to plan. However, you can interact with objects to influence your own movement and get to the exit, solve the ancient spirit's puzzles, and escape.\n\nControls\nWASD to move\nR to restart\nOther controls are in the game\n\nCredits\nKIRA (aka KIRAROCI) (https://twitter.com/Kiraroci_)\nProgramming, game design, level design, sound effects, visual effects, writing, promotion\nALPHONSOSIX (https://alpha6.itch.io/)\nArt assets\nVICTORABDA (Victor and Rafael (Estúdio Oculto))\nMusic\nRUSTOCRAT\nMusic (level theme)\nAJ BOOKER (https://ajbooker.itch.io/) Music (title screen and intro)\n\nCreated in 48 hours for GMTK Jam 2020: Out of Control\nVersion\n\nThe game is currently After Jam version 1.5. With content we didn't get to implement during GMTK Jam because of time.\nThis was a Jam game and we are not planning on updating it more. But if you like what you see, drop us a follow, check out our other games!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNjk0NDkwLzM4NTA5MDYucG5n/original/tMOzy3.png",
+          "https://img.itch.zone/aW1hZ2UvNjk0NDkwLzM4NTI2OTEuZ2lm/original/8bdwZf.gif",
+          "https://img.itch.zone/aW1hZ2UvNjk0NDkwLzM4NTA5MDcucG5n/original/MmVe%2Fd.png",
+          "https://img.itch.zone/aW1hZ2UvNjk0NDkwLzM4NTA5MDgucG5n/original/4Qp45X.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 3.6 out of 5 stars(12 total ratings)",
+          "Author": "Kira",
+          "Genre": "Action, Platformer, Puzzle",
+          "Made with": "GameMaker",
+          "Tags": "2D, Game Maker's Toolkit Jam",
+          "Average session": "A few minutes",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": 694239,
+      "gameUrl": "https://haruzter.itch.io/emergency-protocol",
+      "overallRank": 1,
+      "topCategories": [
+        "Overall",
+        "Presentation",
+        "Originality",
+        "Fun"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Haru",
+            "id": 2689619
+          },
+          {
+            "name": "[Tyr|x]",
+            "id": 2825226
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Top Marks",
+            "raw_score": 0,
+            "rank": 1,
+            "score": 0
+          },
+          {
+            "name": "Overall",
+            "raw_score": 4.2405063291139,
+            "rank": 33,
+            "score": 4.2405063291139
+          },
+          {
+            "name": "Fun",
+            "raw_score": 4.1772151898734,
+            "rank": 36,
+            "score": 4.1772151898734
+          },
+          {
+            "name": "Originality",
+            "raw_score": 4.3037974683544,
+            "rank": 55,
+            "score": 4.3037974683544
+          },
+          {
+            "name": "Presentation",
+            "raw_score": 4.0253164556962,
+            "rank": 376,
+            "score": 4.0253164556962
+          }
+        ],
+        "rating_count": 79,
+        "id": 694239,
+        "title": "Emergency Protocol",
+        "url": "https://itch.io/jam/gmtk-2020/rate/694239",
+        "rank": 1,
+        "cover_url": "https://img.itch.zone/aW1nLzM5OTQxNzQucG5n/300x240%23c/gGLOZ8.png"
+      },
+      "entryData": {
+        "field_responses": [
+          "8920:1",
+          "8921:1"
+        ],
+        "coolness": 51,
+        "created_at": "2020-07-12 11:13:08",
+        "id": 133141,
+        "url": "/jam/gmtk-2020/rate/694239",
+        "game": {
+          "title": "Emergency Protocol",
+          "cover": "https://img.itch.zone/aW1nLzM5OTQxNzQucG5n/300x240%23c/gGLOZ8.png",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ],
+          "id": 694239,
+          "url": "https://haruzter.itch.io/emergency-protocol",
+          "cover_color": "#131140",
+          "short_text": "Control your robot - until you don't!",
+          "user": {
+            "url": "https://haruzter.itch.io",
+            "name": "Haru",
+            "id": 2689619
+          }
+        },
+        "contributors": [
+          {
+            "name": "Haru",
+            "url": "https://haruzter.itch.io"
+          },
+          {
+            "name": "[Tyr|x]",
+            "url": "https://tyrix.itch.io"
+          }
+        ],
+        "rating_count": 79
+      },
+      "details": {
+        "title": "Emergency Protocol",
+        "description": "Control your robot – until you don’t!\n  \nEmergency Protocol is a puzzle game that requires you to plan ahead for moments in which your robot is out of reach. The original version is a submission to and winner of the 2020 GMTK Game Jam. Thank you so much to everyone who played, enjoyed and rated our game! \nAfter almost two weeks of work, we are finally ready to present you with our post-jam version! We’ve made the following changes:\n  \n6 brand new levels and edits to existing ones!\n  Added support for Linux and Mac\n  Adjustable and pauseable movement speed\n  New and improved visuals and sound effects\n  Options Menu and improved level select\n  Level completion is now saved\n  and a few secrets for you to discover!\n  \nIf you are interested in supporting us, we have opened up donations. But we want to emphasize that donations are absolutely not necessary!\n  \n \n  \nEmergency Protocol was developed by:\n  \nTyrix – Programming and Design (https://tyrix.itch.io/)\n  \nHaru – Programming, Art and SFX (https://haruzter.itch.io/)\n  \nIf you enjoyed Emergency Protocol and are interested in potential updates or future games from us, feel free to follow us on itch.\n  \nYou can also join our discord to discuss the game and report any bugs you find: https://discord.gg/dqGh6Yj\n  \nOr, if you don’t have discord, send us an email at EmergencyProtocolGame@gmail.com\n  \n \n  \nSpecial thanks to Jonas for creating the original jam SFX on short notice.\n  1:  Extract the .zip file2:  Execute EmergencyProtocol ",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNjk0MjM5LzM5OTQxNzcucG5n/original/V0zr%2FE.png",
+          "https://img.itch.zone/aW1hZ2UvNjk0MjM5LzM5OTQxODcucG5n/original/gZnJPA.png",
+          "https://img.itch.zone/aW1hZ2UvNjk0MjM5LzM5OTQxNzkuZ2lm/original/LVK80T.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS, Linux",
+          "Rating": "Rated 4.4 out of 5 stars(28 total ratings)",
+          "Authors": "Haru, [Tyr|x]",
+          "Genre": "Puzzle",
+          "Tags": "2D, Game Maker's Toolkit Jam, Pixel Art, Top-Down"
+        }
+      }
+    },
+    {
+      "gameId": 696378,
+      "gameUrl": "https://onefin.itch.io/hellfiler",
+      "overallRank": 1,
+      "topCategories": [
+        "Overall",
+        "Presentation",
+        "Originality",
+        "Fun"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Onefin",
+            "id": 1133358
+          },
+          {
+            "name": "Alex Huang",
+            "id": 1690364
+          },
+          {
+            "name": "Noah Kuhn",
+            "id": 1821852
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Top Marks",
+            "raw_score": 0,
+            "rank": 1,
+            "score": 0
+          },
+          {
+            "name": "Fun",
+            "raw_score": 3.9677419354839,
+            "rank": 118,
+            "score": 3.9677419354839
+          },
+          {
+            "name": "Presentation",
+            "raw_score": 4.3870967741935,
+            "rank": 78,
+            "score": 4.3870967741935
+          },
+          {
+            "name": "Overall",
+            "raw_score": 4.2258064516129,
+            "rank": 37,
+            "score": 4.2258064516129
+          },
+          {
+            "name": "Originality",
+            "raw_score": 4.1935483870968,
+            "rank": 118,
+            "score": 4.1935483870968
+          }
+        ],
+        "rating_count": 31,
+        "id": 696378,
+        "title": "Hellfiler",
+        "url": "https://itch.io/jam/gmtk-2020/rate/696378",
+        "rank": 1,
+        "cover_url": "https://img.itch.zone/aW1nLzM4NDU0MTIucG5n/300x240%23c/NdCsg9.png"
+      },
+      "entryData": {
+        "field_responses": [
+          "8920:1",
+          "8921:2"
+        ],
+        "coolness": 18,
+        "created_at": "2020-07-12 18:07:55",
+        "id": 135306,
+        "url": "/jam/gmtk-2020/rate/696378",
+        "game": {
+          "title": "Hellfiler",
+          "cover": "https://img.itch.zone/aW1nLzM4NDU0MTIucG5n/300x240%23c/NdCsg9.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 696378,
+          "url": "https://onefin.itch.io/hellfiler",
+          "cover_color": "#bea798",
+          "short_text": "A paperwork simulator with your devil friends. Made for the GMTK Jam 2020.",
+          "user": {
+            "url": "https://onefin.itch.io",
+            "name": "Onefin",
+            "id": 1133358
+          }
+        },
+        "contributors": [
+          {
+            "name": "Onefin",
+            "url": "https://onefin.itch.io"
+          },
+          {
+            "name": "Alex Huang",
+            "url": "https://alex-huang.itch.io"
+          },
+          {
+            "name": "Noah Kuhn",
+            "url": "https://noahkuhn.itch.io"
+          }
+        ],
+        "rating_count": 31
+      },
+      "details": {
+        "title": "Hellfiler",
+        "description": "Note: If the web build doesn't run smoothly, you might want to give the Windows build a try. Make sure to play in a 16:9 resolution.\n\"Your satisfaction is on the top 10 of our to-do list.\"\nA game about a workplace from hell that thrives on taking control away from its employees. Play as a new hire for the shadiest company in existence for as long as your sanity holds.\nMade in 48 hours for the Game Maker's Tool Kit Jam 2020. Mouse highly recommended.\nFeatures:\nWhimsical and fully accurate office simulationSix levels that are totally definitely fairRiveting dialogue that made at least one person cryA sense of pride and accomplishment, probably\nCredits:\nMatthew Zhang (@1f1n1ty_): Programming, MusicAlex Huang (@gungamedevr, https://alex-huang.itch.io/): Art, ProgrammingNoah Kuhn (@_noah_kuhn_): Sound, Additional ArtSome music written collaboratively with Stardew (@stardewish)Some sound effects found on freesound.orgMade with Unity and Love™",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNjk2Mzc4LzM4NTEzNDQuZ2lm/original/LHSQF7.gif",
+          "https://img.itch.zone/aW1hZ2UvNjk2Mzc4LzM4NTQxODcuZ2lm/original/LglaI3.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.4 out of 5 stars(70 total ratings)",
+          "Authors": "Onefin, Alex Huang, Noah Kuhn",
+          "Genre": "Simulation",
+          "Made with": "Unity, GIMP, Audacity, Paint Tool SAI, FL Studio, Paint.net",
+          "Tags": "Arcade, Comedy, Game Maker's Toolkit Jam",
+          "Average session": "A few minutes",
+          "Inputs": "Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 700443,
+      "gameUrl": "https://deepnight.itch.io/dumberdwarves",
+      "overallRank": 1,
+      "topCategories": [
+        "Overall",
+        "Presentation",
+        "Originality",
+        "Fun"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Deepnight Games",
+            "id": 121597
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Presentation",
+            "raw_score": 4.28,
+            "rank": 145,
+            "score": 4.28
+          },
+          {
+            "name": "Top Marks",
+            "raw_score": 0,
+            "rank": 1,
+            "score": 0
+          },
+          {
+            "name": "Originality",
+            "raw_score": 4.32,
+            "rank": 49,
+            "score": 4.32
+          },
+          {
+            "name": "Overall",
+            "raw_score": 4.2,
+            "rank": 42,
+            "score": 4.2
+          },
+          {
+            "name": "Fun",
+            "raw_score": 4.2,
+            "rank": 33,
+            "score": 4.2
+          }
+        ],
+        "rating_count": 25,
+        "id": 700443,
+        "title": "Dumber dwarves",
+        "url": "https://itch.io/jam/gmtk-2020/rate/700443",
+        "rank": 1,
+        "cover_url": "https://img.itch.zone/aW1nLzM4Njg5NzEucG5n/300x240%23c/vpHQx9.png"
+      },
+      "entryData": {
+        "field_responses": [
+          "8920:1",
+          "8921:1"
+        ],
+        "created_at": "2020-07-12 21:21:06",
+        "id": 139008,
+        "url": "/jam/gmtk-2020/rate/700443",
+        "game": {
+          "title": "Dumber dwarves",
+          "cover": "https://img.itch.zone/aW1nLzM4Njg5NzEucG5n/300x240%23c/vpHQx9.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 700443,
+          "url": "https://deepnight.itch.io/dumberdwarves",
+          "cover_color": "#29403f",
+          "short_text": "Dumber Dwarves is a dungeon crawler where you can’t control the adventurers. And they are kind of stupid.",
+          "user": {
+            "url": "https://deepnight.itch.io",
+            "name": "Deepnight Games",
+            "id": 121597
+          }
+        },
+        "coolness": 0,
+        "rating_count": 25
+      },
+      "details": {
+        "title": "Dumber dwarves",
+        "description": "Dumber Dwarves is a dungeon crawler where you can’t control the adventurers directly and they are not the sharpest tool in the shed. Slap them or throw some meat on the battlefield to give your “instructions”.\nThe game was created in 48h (well, more like 35h) for the GMTK 2020 game jam. The theme was “Out of Control“. \nI did everything by myself on this one, but I didn't have time to add any sound or music.\nHow to play\nYour goal is to steal all the GEMS.Click on a dwarf to SLAP him when he does something wrong Click anywhere to throw some FOOD to guide your adventurers. You might need to sleep them to get their attention.Click on FOOD to remove it.FOOD refills over time, or when stealing a GEM.\nControls\nLeft mouse button - slap dwarves, drop food or remove existing foodR - Restart levelK - Toggle \"Kid\" mode (I added this one for my 2yrs old boy)\nTrivia\nThe game first started as a god game where you were to teach humans things by only slapping them. So, if a disciple was picking up some food for example, slapping him would teach him to avoid food (ie. “god thinks food is bad“). Problem was: a disciple who learn something tends to repeat the concept on its neighbors. So, someone who thinks food is bad will also slap other disciples picking it. It was even possible to slap someone slapping, so it would teach that slapping someone was bad. And so on :)\nIt was a funny little prototype, but too sandboxy to actually become an interesting jam game. Maybe with some extra work, but definitely not in 48h.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzAwNDQzLzM4ODMxNDYuZ2lm/original/maNjwD.gif",
+          "https://img.itch.zone/aW1hZ2UvNzAwNDQzLzM4Njg5NzIucG5n/original/nnKGPz.png",
+          "https://img.itch.zone/aW1hZ2UvNzAwNDQzLzM4Njg5NzUucG5n/original/62nsc6.png",
+          "https://img.itch.zone/aW1hZ2UvNzAwNDQzLzM4Njg5NzMucG5n/original/jDI9SB.png",
+          "https://img.itch.zone/aW1hZ2UvNzAwNDQzLzM4Njg5NzYucG5n/original/SlRcQe.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.3 out of 5 stars(44 total ratings)",
+          "Author": "Deepnight Games",
+          "Genre": "Adventure",
+          "Tags": "Dungeon Crawler, dwarf, haxe, no-control, Pixel Art, Top-Down"
+        }
+      }
+    },
+    {
+      "gameId": 695355,
+      "gameUrl": "https://lethandralis.itch.io/puffballs",
+      "overallRank": 1,
+      "topCategories": [
+        "Overall",
+        "Presentation",
+        "Originality",
+        "Fun"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "lethandralis",
+            "id": 878044
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Originality",
+            "raw_score": 4.1428571428571,
+            "rank": 146,
+            "score": 4.1428571428571
+          },
+          {
+            "name": "Top Marks",
+            "raw_score": 0,
+            "rank": 1,
+            "score": 0
+          },
+          {
+            "name": "Fun",
+            "raw_score": 3.9642857142857,
+            "rank": 120,
+            "score": 3.9642857142857
+          },
+          {
+            "name": "Overall",
+            "raw_score": 4.1785714285714,
+            "rank": 47,
+            "score": 4.1785714285714
+          },
+          {
+            "name": "Presentation",
+            "raw_score": 4.3571428571429,
+            "rank": 95,
+            "score": 4.3571428571429
+          }
+        ],
+        "rating_count": 28,
+        "id": 695355,
+        "title": "Puffballs",
+        "url": "https://itch.io/jam/gmtk-2020/rate/695355",
+        "rank": 1,
+        "cover_url": "https://img.itch.zone/aW1nLzM4MzI5MTcucG5n/300x240%23c/OtM7Ck.png"
+      },
+      "entryData": {
+        "field_responses": [
+          "8920:1",
+          "8921:1"
+        ],
+        "created_at": "2020-07-12 09:49:20",
+        "id": 132989,
+        "url": "/jam/gmtk-2020/rate/695355",
+        "game": {
+          "title": "Puffballs",
+          "cover": "https://img.itch.zone/aW1nLzM4MzI5MTcucG5n/300x240%23c/OtM7Ck.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 695355,
+          "url": "https://lethandralis.itch.io/puffballs",
+          "cover_color": "#edcb5f",
+          "short_text": "Bring balance to the world!",
+          "user": {
+            "url": "https://lethandralis.itch.io",
+            "name": "lethandralis",
+            "id": 878044
+          }
+        },
+        "coolness": 1,
+        "rating_count": 28
+      },
+      "details": {
+        "title": "Puffballs",
+        "description": "Bring balance to the world by carefully positioning puffballs.\nPuffballs are adorable creatures that multiply uncontrollably. Different puffballs have different abilities and different ways of reproduction. If you're not careful, things can quickly get out of control, and you will find yourself amidst a swarm of puffballs!\nPlay in fullscreen for the best experience. Left mouse button is all you need. Have fun!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNjk1MzU1LzM4MzMwMTIuZ2lm/original/N276mK.gif",
+          "https://img.itch.zone/aW1hZ2UvNjk1MzU1LzM4MzMwMjAuZ2lm/original/Tw%2BEA4.gif",
+          "https://img.itch.zone/aW1hZ2UvNjk1MzU1LzM4MzMwMTUucG5n/original/CYbcz6.png",
+          "https://img.itch.zone/aW1hZ2UvNjk1MzU1LzM4MzMwMTQucG5n/original/apITT8.png",
+          "https://img.itch.zone/aW1hZ2UvNjk1MzU1LzM4MzMwMTMucG5n/original/Q9HTGi.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 3.9 out of 5 stars(23 total ratings)",
+          "Author": "lethandralis",
+          "Genre": "Strategy, Puzzle, Simulation",
+          "Made with": "Unity",
+          "Tags": "Pixel Art"
+        }
+      }
+    },
+    {
+      "gameId": 698594,
+      "gameUrl": "https://imyogurt.itch.io/crystal-ball-chaos",
+      "overallRank": 1,
+      "topCategories": [
+        "Overall",
+        "Presentation",
+        "Originality",
+        "Fun"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "imyogurt",
+            "id": 3061733
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Originality",
+            "raw_score": 4,
+            "rank": 260,
+            "score": 4
+          },
+          {
+            "name": "Top Marks",
+            "raw_score": 0,
+            "rank": 1,
+            "score": 0
+          },
+          {
+            "name": "Fun",
+            "raw_score": 4.3555555555556,
+            "rank": 7,
+            "score": 4.3555555555556
+          },
+          {
+            "name": "Overall",
+            "raw_score": 4.1777777777778,
+            "rank": 48,
+            "score": 4.1777777777778
+          },
+          {
+            "name": "Presentation",
+            "raw_score": 4.2444444444444,
+            "rank": 180,
+            "score": 4.2444444444444
+          }
+        ],
+        "rating_count": 45,
+        "id": 698594,
+        "title": "Crystal Ball Chaos",
+        "url": "https://itch.io/jam/gmtk-2020/rate/698594",
+        "rank": 1,
+        "cover_url": "https://img.itch.zone/aW1nLzM4NDg1ODgucG5n/300x240%23c/MRgmKl.png"
+      },
+      "entryData": {
+        "field_responses": [
+          "8920:1",
+          "8921:1"
+        ],
+        "created_at": "2020-07-12 18:42:36",
+        "id": 136356,
+        "url": "/jam/gmtk-2020/rate/698594",
+        "game": {
+          "title": "Crystal Ball Chaos",
+          "platforms": [
+            "windows",
+            "osx"
+          ],
+          "id": 698594,
+          "url": "https://imyogurt.itch.io/crystal-ball-chaos",
+          "cover": "https://img.itch.zone/aW1nLzM4NDg1ODgucG5n/300x240%23c/MRgmKl.png",
+          "short_text": "Launch items and enemies with chaotic magic!",
+          "user": {
+            "url": "https://imyogurt.itch.io",
+            "name": "imyogurt",
+            "id": 3061733
+          }
+        },
+        "coolness": 27,
+        "rating_count": 45
+      },
+      "details": {
+        "title": "Crystal Ball Chaos",
+        "description": "Version 1.2 (July 24th, 2020)\nAdditions:\nXbox controller support, but I'm not entirely sure it'll work for mac.Minor adjustments to some levels.\nBug fixes:\nThe UI is no longer scaled by the screen resolution (this could prevent it from being seen.)Jumping through a platform doesn't count as landing on the ground.\nVersion 1.1 (July 22nd, 2020)\nAdditions:\n  \nAdded a timer that appears after completing the last level.\n  Added SFX for attack swinging, attack connecting, projectile shooting, and launchable objects bouncing.\n  Added more VFX for player moving, jumping, landing, and attack connected, and launchable object bouncing.\n  Swinging animation for melee attacks.\n  Brief hitpause when landing a melee attack on a launchable object.\n  Added coyote time. There is a brief amount of time where the player can walk off a ledge and jump and still count as a grounded jump.\n  \nBug fixes:\n  \nStanding on a crystal ball now counts as standing on the ground.\n  Shooting a magic bullet under a platform no longer counts as a collision.\n  \nComing soon...\nMusic?More SFX and  VFX?\nSummary\n  \nA young wizard wanders into a dungeon deep underground. Upon entering the dungeon, she discovers that her magic is now far more sensitive and uncontrollable. Explore the dungeon by launching the crystal balls to their pedestals.\n  \nProgramming, artwork, and sound design by Luke Martinez. For Lauren Barnett.\nControls\n  \nWASD to move, you can use space to jump and double jump. Aim with the mouse, attack with left click, and shoot with right click. Using a mouse is heavily advised.\nI've been getting a lot of reports that the  game triggers windows defender or that some people have been not been able to play on mac. So if you run to either of those problems you can try this.\nSearch for \"itch.io app\" on your browser, download, and install the itch.io app.Open the app and then enter the link for this game within the app, it works just like a browser.Click the install button on the bottom right. Don't click the regular download buttons.Click downloads on the bottom left and you should be able to play the game with no problem!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNjk4NTk0LzM4NDc4NzUucG5n/original/k7QQTy.png",
+          "https://img.itch.zone/aW1hZ2UvNjk4NTk0LzM4NDc4ODcucG5n/original/h8wpGX.png",
+          "https://img.itch.zone/aW1hZ2UvNjk4NTk0LzM4NDc4OTkucG5n/original/CJMqA4.png",
+          "https://img.itch.zone/aW1hZ2UvNjk4NTk0LzM4NDc5MDcucG5n/original/oTwg6%2F.png",
+          "https://img.itch.zone/aW1hZ2UvNjk4NTk0LzM4NDc5MTMucG5n/original/7sqX51.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS",
+          "Rating": "Rated 4.3 out of 5 stars(27 total ratings)",
+          "Author": "imyogurt",
+          "Genre": "Platformer, Action",
+          "Tags": "2D, Difficult, Pixel Art, Short, Singleplayer, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 697684,
+      "gameUrl": "https://fishmug.itch.io/genre-hopper",
+      "overallRank": 1,
+      "topCategories": [
+        "Overall",
+        "Presentation",
+        "Originality",
+        "Fun"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Fish Mug Games",
+            "id": 2970926
+          },
+          {
+            "name": "tomcheshire",
+            "id": 300995
+          },
+          {
+            "name": "seanrugg",
+            "id": 1101659
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Top Marks",
+            "raw_score": 0,
+            "rank": 1,
+            "score": 0
+          },
+          {
+            "name": "Presentation",
+            "raw_score": 3.9,
+            "rank": 499,
+            "score": 3.9
+          },
+          {
+            "name": "Fun",
+            "raw_score": 4.1,
+            "rank": 64,
+            "score": 4.1
+          },
+          {
+            "name": "Overall",
+            "raw_score": 4.1222222222222,
+            "rank": 55,
+            "score": 4.1222222222222
+          },
+          {
+            "name": "Originality",
+            "raw_score": 4.3444444444444,
+            "rank": 42,
+            "score": 4.3444444444444
+          }
+        ],
+        "rating_count": 90,
+        "id": 697684,
+        "title": "Genre Hopper",
+        "url": "https://itch.io/jam/gmtk-2020/rate/697684",
+        "rank": 1,
+        "cover_url": "https://img.itch.zone/aW1nLzM4OTIwOTMuZ2lm/300x240%23c/dJwNG5.gif"
+      },
+      "entryData": {
+        "field_responses": [
+          "8920:1",
+          "8921:1"
+        ],
+        "coolness": 42,
+        "created_at": "2020-07-12 17:43:11",
+        "id": 134909,
+        "url": "/jam/gmtk-2020/rate/697684",
+        "game": {
+          "id": 697684,
+          "url": "https://fishmug.itch.io/genre-hopper",
+          "cover_color": "#eeeeee",
+          "user": {
+            "url": "https://fishmug.itch.io",
+            "name": "Fish Mug Games",
+            "id": 2970926
+          },
+          "title": "Genre Hopper",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "gif_cover": "https://img.itch.zone/aW1nLzM4OTIwOTMuZ2lm/original/fyp90w.gif",
+          "cover": "https://img.itch.zone/aW1nLzM4OTIwOTMuZ2lm/300x240%23c/dJwNG5.gif",
+          "short_text": "The constantly changing genre is out of control!"
+        },
+        "contributors": [
+          {
+            "name": "Fish Mug Games",
+            "url": "https://fishmug.itch.io"
+          },
+          {
+            "name": "tomcheshire",
+            "url": "https://tomcheshire.itch.io"
+          },
+          {
+            "name": "seanrugg",
+            "url": "https://seanrugg.itch.io"
+          }
+        ],
+        "rating_count": 90
+      },
+      "details": {
+        "title": "Genre Hopper",
+        "description": "Check out our entry for GMTK Game Jam 2024! https://itch.io/jam/gmtk-2024/rate/2902785\nThis game's constantly changing genre is out of control! \nDefeat as many enemies as you can but watch out for the genre swap! Platformer, Shooter, Pong and more... keep your wits about you and become a masterful Genre Hopper!\nDeveloped by Fish Mug Games (Tom Cheshire & Sean Rugg) in 48 hours for the GMTK Game Jam 2020\nDev log now available! https://www.youtube.com/watch?v=5SrI8pdlXVM",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNjk3Njg0LzM4NzQzNjcuZ2lm/original/LeKXIA.gif",
+          "https://img.itch.zone/aW1hZ2UvNjk3Njg0LzM4NDQyNzMuanBn/original/hke%2B1i.jpg",
+          "https://img.itch.zone/aW1hZ2UvNjk3Njg0LzM4NDQyNzcuanBn/original/GvWnQd.jpg",
+          "https://img.itch.zone/aW1hZ2UvNjk3Njg0LzM4NDQyNzYuanBn/original/4XDmwy.jpg",
+          "https://img.itch.zone/aW1hZ2UvNjk3Njg0LzM4NDQyNzUuanBn/original/bBocRr.jpg",
+          "https://img.itch.zone/aW1hZ2UvNjk3Njg0LzM4NDQyNzQuanBn/original/V2WK8%2B.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.3 out of 5 stars(50 total ratings)",
+          "Authors": "Fish Mug Games, tomcheshire, seanrugg",
+          "Genre": "Action",
+          "Made with": "GameMaker",
+          "Tags": "Arcade, chiptune, Endless, GameMaker, Game Maker's Toolkit Jam, High Score, Pixel Art, Retro, Singleplayer, weird",
+          "Average session": "A few seconds",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": 698219,
+      "gameUrl": "https://ambrits.itch.io/laserwave",
+      "overallRank": 1,
+      "topCategories": [
+        "Overall",
+        "Presentation",
+        "Originality",
+        "Fun"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Dániel Ambrits",
+            "id": 375354
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Originality",
+            "raw_score": 4.2941176470588,
+            "rank": 58,
+            "score": 4.2941176470588
+          },
+          {
+            "name": "Top Marks",
+            "raw_score": 0,
+            "rank": 1,
+            "score": 0
+          },
+          {
+            "name": "Presentation",
+            "raw_score": 4.3529411764706,
+            "rank": 97,
+            "score": 4.3529411764706
+          },
+          {
+            "name": "Overall",
+            "raw_score": 4.1176470588235,
+            "rank": 57,
+            "score": 4.1176470588235
+          },
+          {
+            "name": "Fun",
+            "raw_score": 4.0588235294118,
+            "rank": 80,
+            "score": 4.0588235294118
+          }
+        ],
+        "rating_count": 34,
+        "id": 698219,
+        "title": "Laserwave",
+        "url": "https://itch.io/jam/gmtk-2020/rate/698219",
+        "rank": 1,
+        "cover_url": "https://img.itch.zone/aW1nLzM4ODYyNTMucG5n/300x240%23c/Upe0oM.png"
+      },
+      "entryData": {
+        "field_responses": [
+          "8920:1",
+          "8921:2"
+        ],
+        "created_at": "2020-07-12 18:07:32",
+        "id": 135292,
+        "url": "/jam/gmtk-2020/rate/698219",
+        "game": {
+          "title": "Laserwave",
+          "cover": "https://img.itch.zone/aW1nLzM4ODYyNTMucG5n/300x240%23c/Upe0oM.png",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ],
+          "id": 698219,
+          "url": "https://ambrits.itch.io/laserwave",
+          "cover_color": "#11171f",
+          "short_text": "Synthwave rhythmic shooter",
+          "user": {
+            "url": "https://ambrits.itch.io",
+            "name": "Dániel Ambrits",
+            "id": 375354
+          }
+        },
+        "coolness": 100,
+        "rating_count": 34
+      },
+      "details": {
+        "title": "Laserwave",
+        "description": "Grab your mouse...\nTurn up the volume...\nLet the beats flow through you!\n________________________________________________________\nLaserwave is a synthwave bullet-hell-like rhythmic shooter where your actions are defined by the music!\n_______________________________________________________\nMade originally for the GMTK Game Jam 2020 in 48 hours. It is an ongoing project since then which I work on in my free time.\n_______________________________________________________\n⚠️The itch app is recommended to install the game on macOS and Linux.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNjk4MjE5LzM4NTAwOTMucG5n/original/ZP6xtq.png",
+          "https://img.itch.zone/aW1hZ2UvNjk4MjE5LzM4NTAwOTUucG5n/original/5vGZPi.png",
+          "https://img.itch.zone/aW1hZ2UvNjk4MjE5LzM4NTAwOTYucG5n/original/T7l7tM.png",
+          "https://img.itch.zone/aW1hZ2UvNjk4MjE5LzM4NTAwOTQucG5n/original/umAEOm.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS, Linux",
+          "Rating": "Rated 4.6 out of 5 stars(112 total ratings)",
+          "Author": "Dániel Ambrits",
+          "Genre": "Action, Rhythm, Shooter",
+          "Made with": "Unity",
+          "Tags": "2D, Bullet Hell, Minimalist, Music, Short, Singleplayer, Synthwave",
+          "Average session": "A few minutes",
+          "Inputs": "Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 697038,
+      "gameUrl": "https://default-frog.itch.io/midnight-monorail",
+      "overallRank": 1,
+      "topCategories": [
+        "Overall",
+        "Presentation",
+        "Originality",
+        "Fun"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Default Frog",
+            "id": 1748241
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Originality",
+            "raw_score": 4.2765957446809,
+            "rank": 63,
+            "score": 4.2765957446809
+          },
+          {
+            "name": "Top Marks",
+            "raw_score": 0,
+            "rank": 1,
+            "score": 0
+          },
+          {
+            "name": "Presentation",
+            "raw_score": 3.7446808510638,
+            "rank": 714,
+            "score": 3.7446808510638
+          },
+          {
+            "name": "Overall",
+            "raw_score": 4.1063829787234,
+            "rank": 61,
+            "score": 4.1063829787234
+          },
+          {
+            "name": "Fun",
+            "raw_score": 4.0425531914894,
+            "rank": 88,
+            "score": 4.0425531914894
+          }
+        ],
+        "rating_count": 47,
+        "id": 697038,
+        "title": "Midnight Monorail",
+        "url": "https://itch.io/jam/gmtk-2020/rate/697038",
+        "rank": 1,
+        "cover_url": "https://img.itch.zone/aW1nLzM4NDA4NzMuZ2lm/300x240%23c/i8lVa5.gif"
+      },
+      "entryData": {
+        "field_responses": [
+          "8920:1",
+          "8921:2"
+        ],
+        "created_at": "2020-07-12 17:01:02",
+        "id": 134431,
+        "url": "/jam/gmtk-2020/rate/697038",
+        "game": {
+          "id": 697038,
+          "url": "https://default-frog.itch.io/midnight-monorail",
+          "cover_color": "#feffff",
+          "user": {
+            "url": "https://default-frog.itch.io",
+            "name": "Default Frog",
+            "id": 1748241
+          },
+          "title": "Midnight Monorail",
+          "platforms": [
+            "windows"
+          ],
+          "gif_cover": "https://img.itch.zone/aW1nLzM4NDA4NzMuZ2lm/original/kVCn%2BO.gif",
+          "cover": "https://img.itch.zone/aW1nLzM4NDA4NzMuZ2lm/300x240%23c/i8lVa5.gif",
+          "short_text": "WINNER! GMTK GAME JAM 2020! Can you manage the monorail system you built?"
+        },
+        "coolness": 67,
+        "rating_count": 47
+      },
+      "details": {
+        "title": "Midnight Monorail",
+        "description": "TOP 20 WINNER of the GMTK 2020 Game Jam.\nWelcome conductor, to the MIDNIGHT MONORAIL! It looks like you'll be stuck with the graveyard shift...\nBuild the tracks necessary to transport passengers to their stations. But watch out! Although you are able to build the tracks, trains will spawn out of your control, so it's your job to make sure they don't collide by using your ghostly abilities, letting them phase through one another!\nAfter 5 collisions it's GAME OVER! How high of a score can you get?\nCONTROLS:\nClick to place tracks during build mode.Click on trains to make them incorporeal for a second to avoid collisions.\nPOST-JAM VERSION:\nMisc bug fixes.Less starting lives, now harder to cheese it!Red radius around points now doesn't allow you to place points too close together!Trains are highlighted when hovered over.To play, simply download and unzip! Then run the EXE!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNjk3MDM4LzM4NDE3MTMuZ2lm/original/RTPnLX.gif",
+          "https://img.itch.zone/aW1hZ2UvNjk3MDM4LzM4NDA3MTgucG5n/original/RWpmMv.png",
+          "https://img.itch.zone/aW1hZ2UvNjk3MDM4LzM4NDA3MTUucG5n/original/GY08xA.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Release date": "Jul 12, 2020",
+          "Rating": "Rated 3.6 out of 5 stars(8 total ratings)",
+          "Author": "Default Frog",
+          "Genre": "Strategy, Puzzle",
+          "Made with": "GameMaker",
+          "Tags": "My First Game Jam, Spooky, Trains",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Mouse",
+          "Accessibility": "Color-blind friendly, Subtitles, One button"
+        }
+      }
+    },
+    {
+      "gameId": 695591,
+      "gameUrl": "https://indieburg.itch.io/losing-control",
+      "overallRank": 1,
+      "topCategories": [
+        "Overall",
+        "Presentation",
+        "Originality",
+        "Fun"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "IndieBurg",
+            "id": 2058603
+          },
+          {
+            "name": "gap",
+            "id": 205910
+          },
+          {
+            "name": "littleBugHunter",
+            "id": 151586
+          },
+          {
+            "name": "Laura",
+            "id": 1410339
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Originality",
+            "raw_score": 4.140350877193,
+            "rank": 148,
+            "score": 4.140350877193
+          },
+          {
+            "name": "Top Marks",
+            "raw_score": 0,
+            "rank": 1,
+            "score": 0
+          },
+          {
+            "name": "Fun",
+            "raw_score": 3.9473684210526,
+            "rank": 128,
+            "score": 3.9473684210526
+          },
+          {
+            "name": "Presentation",
+            "raw_score": 4.0526315789474,
+            "rank": 347,
+            "score": 4.0526315789474
+          },
+          {
+            "name": "Overall",
+            "raw_score": 4.0701754385965,
+            "rank": 81,
+            "score": 4.0701754385965
+          }
+        ],
+        "rating_count": 57,
+        "id": 695591,
+        "title": "Losing CTRL",
+        "url": "https://itch.io/jam/gmtk-2020/rate/695591",
+        "rank": 1,
+        "cover_url": "https://img.itch.zone/aW1nLzM4MzY1MjUuZ2lm/300x240%23c/0x5XUe.gif"
+      },
+      "entryData": {
+        "field_responses": [
+          "8920:1",
+          "8921:1"
+        ],
+        "coolness": 50,
+        "created_at": "2020-07-12 14:56:59",
+        "id": 133676,
+        "url": "/jam/gmtk-2020/rate/695591",
+        "game": {
+          "id": 695591,
+          "url": "https://indieburg.itch.io/losing-control",
+          "cover_color": "#0e0e2c",
+          "user": {
+            "url": "https://indieburg.itch.io",
+            "name": "IndieBurg",
+            "id": 2058603
+          },
+          "title": "Losing CTRL",
+          "platforms": [
+            "web"
+          ],
+          "gif_cover": "https://img.itch.zone/aW1nLzM4MzY1MjUuZ2lm/original/pDCYKI.gif",
+          "cover": "https://img.itch.zone/aW1nLzM4MzY1MjUuZ2lm/300x240%23c/0x5XUe.gif",
+          "short_text": "Ctrl+C Ctrl+V your way through this little Puzzle Game and help a robot friend navigate through different levels"
+        },
+        "contributors": [
+          {
+            "name": "IndieBurg",
+            "url": "https://indieburg.itch.io"
+          },
+          {
+            "name": "gap",
+            "url": "https://gap.itch.io"
+          },
+          {
+            "name": "littleBugHunter",
+            "url": "https://littlebughunter.itch.io"
+          },
+          {
+            "name": "Laura",
+            "url": "https://lauramakesgames.itch.io"
+          }
+        ],
+        "rating_count": 57
+      },
+      "details": {
+        "title": "Losing CTRL",
+        "description": "As part of the GMTK GameJam 2020 part of our team decided to participate and came up with this little game.\nCtrl+C Ctrl+V your way through this little Puzzle Game and help a robot friend navigate through different levels.\n\nIn \"Losing Control\" you help a little robot through a world that is falling apart only using his ability to copy and paste. You can select parts or the whole level by clicking and dragging on desktop or using the on screen buttons and touch on mobile browsers.\n\nHow to play\n  \nGOAL of the game is to lead the little ROBOT to the end of each level.\n  \nYou can MOVE by using the ARROW KEYS or WASD and mobile users can use TOUCH and the KEYS ON SCREEN.\n  \nThe world of Losing Control is breaking apart but the purple bot has the special ability to COPY and PASTE parts of the level like shown below.\n\nThere is only a limited amount of CTRL keys to solve each level. So be careful what you use them for. CTRL+C to copy and CTRL+V to paste affect not only the regular floor tiles but also duplicate the VOID surrounding the broken paths. Special Tiles like the END, LAVA, PICK UPS and the ROBOT itself can't be pasted or overwritten.\nWhat about the lava, you say?`\nSometimes the floor is LAVA and it spreads each time you move the little robot.\n\nSome levels come with additional CTRL keys to collect, when you walk over them.\n\nNow you know everything you need to solve this little puzzle game!\nGood Luck and don't lose control!\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNjk1NTkxLzM5MTA5ODkuZ2lm/original/MN9v5G.gif",
+          "https://img.itch.zone/aW1hZ2UvNjk1NTkxLzM5MTA5ODYuZ2lm/original/stNuWn.gif",
+          "https://img.itch.zone/aW1hZ2UvNjk1NTkxLzM5MTA5ODcuZ2lm/original/z7aBj%2B.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.6 out of 5 stars(61 total ratings)",
+          "Authors": "IndieBurg, gap, littleBugHunter, Laura",
+          "Genre": "Puzzle",
+          "Made with": "Aseprite, PixiJS",
+          "Tags": "2D, Pixel Art, Singleplayer, Top-Down",
+          "Average session": "About a half-hour",
+          "Inputs": "Keyboard, Smartphone"
+        }
+      }
+    },
+    {
+      "gameId": 695696,
+      "gameUrl": "https://nasheik.itch.io/cleaning-the-system",
+      "overallRank": 1,
+      "topCategories": [
+        "Overall",
+        "Presentation",
+        "Originality",
+        "Fun"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Nasheik",
+            "id": 1199334
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Originality",
+            "raw_score": 4.2365591397849,
+            "rank": 88,
+            "score": 4.2365591397849
+          },
+          {
+            "name": "Top Marks",
+            "raw_score": 0,
+            "rank": 1,
+            "score": 0
+          },
+          {
+            "name": "Overall",
+            "raw_score": 4.0537634408602,
+            "rank": 87,
+            "score": 4.0537634408602
+          },
+          {
+            "name": "Fun",
+            "raw_score": 4.1182795698925,
+            "rank": 60,
+            "score": 4.1182795698925
+          },
+          {
+            "name": "Presentation",
+            "raw_score": 3.5591397849462,
+            "rank": 1016,
+            "score": 3.5591397849462
+          }
+        ],
+        "rating_count": 93,
+        "id": 695696,
+        "title": "Cleaning The System",
+        "url": "https://itch.io/jam/gmtk-2020/rate/695696",
+        "rank": 1,
+        "cover_url": "https://img.itch.zone/aW1nLzM4MzM5OTUucG5n/300x240%23c/Rzekb%2F.png"
+      },
+      "entryData": {
+        "field_responses": [
+          "8920:1",
+          "8921:2"
+        ],
+        "created_at": "2020-07-12 12:08:05",
+        "id": 133231,
+        "url": "/jam/gmtk-2020/rate/695696",
+        "game": {
+          "title": "Cleaning The System",
+          "cover": "https://img.itch.zone/aW1nLzM4MzM5OTUucG5n/300x240%23c/Rzekb%2F.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 695696,
+          "url": "https://nasheik.itch.io/cleaning-the-system",
+          "cover_color": "#3C3C3C",
+          "short_text": "Bouncing Platformer",
+          "user": {
+            "url": "https://nasheik.itch.io",
+            "name": "Nasheik",
+            "id": 1199334
+          }
+        },
+        "coolness": 56,
+        "rating_count": 93
+      },
+      "details": {
+        "title": "Cleaning The System",
+        "description": "Cleaning The System is now on Steam \\o/\nReach the end of the level by bouncing around.\nDiscord Link: https://discord.gg/2bWKQAQ\n*Important Notes*\nIf you only see a gray/black backgroundWebGL - Clear your browser's cacheWindows - Delete “C:\\Users\\[YourAccount]\\AppData\\LocalLow\\Nasheik\\CleaningTheSystem”\nv1.1 Changes\nGeneral OptimizationsNew Camera Movement + Stick Camera to Stick OptionSkins - Custom textures in Appdata/SkinsAdded Level Details + ImagesGhosts Show/Record/SaveAutoSave needs to be on to save ghosts in speedrun modeSetting's reset button now only resets that tab's settingsFixed Controller UI Navigation\nKnown Issues\n\nScroll Wheel doesn't work on WebGL build - You will have to drag to view the levels off screen\nV1.0 Changes\nLocal Multiplayer with leaderboard - Levels start slightly adjusted to allow thisNew level - Pufferfish New UI Dragon changes - two difficult rooms have been updated to be easier for flow Controller Support (Right Trigger/Middle Mouse to switch between two in MainMenu)Set keyboard keys for all 4 players  (in Settings->Controls)Bumper Animation (Toggle in Settings->Gameplay)(1.01) Changed Ground + Ice Textures(1.01) Changed Wind Sound(1.01) Added Old Spawn Points for Singleplayer mode\nCredits\n3rd Party Assets (Royalty-Free):Music by Eric Matyas - www.soundimage.orgSFX - Bounce + Jump/Bounce - by JustInvokeBackground + Ground Textures - CethielWater Texture + Shader - Seaside StudioIcons by Kenny",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNjk1Njk2LzM4MzQwNzQuZ2lm/original/KHuavm.gif",
+          "https://img.itch.zone/aW1hZ2UvNjk1Njk2LzM4MzQwNzYucG5n/original/dFhyWR.png",
+          "https://img.itch.zone/aW1hZ2UvNjk1Njk2LzM4MzQwNzcucG5n/original/8Ckrve.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.6 out of 5 stars(206 total ratings)",
+          "Author": "Nasheik",
+          "Genre": "Platformer",
+          "Made with": "Unity",
+          "Tags": "2D, Arcade, Short, Singleplayer, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 695693,
+      "gameUrl": "https://vimlark.itch.io/make-the-way",
+      "overallRank": 1,
+      "topCategories": [
+        "Overall",
+        "Presentation",
+        "Originality",
+        "Fun"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "Vimlark",
+            "id": 722144
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Originality",
+            "raw_score": 3.4406779661017,
+            "rank": 1227,
+            "score": 3.4406779661017
+          },
+          {
+            "name": "Top Marks",
+            "raw_score": 0,
+            "rank": 1,
+            "score": 0
+          },
+          {
+            "name": "Presentation",
+            "raw_score": 4.4648910411622,
+            "rank": 49,
+            "score": 4.4648910411622
+          },
+          {
+            "name": "Overall",
+            "raw_score": 4.0508474576271,
+            "rank": 90,
+            "score": 4.0508474576271
+          },
+          {
+            "name": "Fun",
+            "raw_score": 4.1186440677966,
+            "rank": 59,
+            "score": 4.1186440677966
+          }
+        ],
+        "rating_count": 413,
+        "id": 695693,
+        "title": "Make The Way",
+        "url": "https://itch.io/jam/gmtk-2020/rate/695693",
+        "rank": 1,
+        "cover_url": "https://img.itch.zone/aW1nLzM4MzQ0OTQucG5n/300x240%23c/KA1msU.png"
+      },
+      "entryData": {
+        "field_responses": [
+          "8920:1",
+          "8921:2"
+        ],
+        "created_at": "2020-07-12 12:18:29",
+        "id": 133245,
+        "url": "/jam/gmtk-2020/rate/695693",
+        "game": {
+          "title": "Make The Way",
+          "cover": "https://img.itch.zone/aW1nLzM4MzQ0OTQucG5n/300x240%23c/KA1msU.png",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "id": 695693,
+          "url": "https://vimlark.itch.io/make-the-way",
+          "cover_color": "#000000",
+          "short_text": "Build the level for your out of control robot",
+          "user": {
+            "url": "https://vimlark.itch.io",
+            "name": "Vimlark",
+            "id": 722144
+          }
+        },
+        "coolness": 53,
+        "rating_count": 413
+      },
+      "details": {
+        "title": "Make The Way",
+        "description": "Made in 48 hours for the GMTK 2020 Game JamTheme: Out of Control\nYou have lost control of your robot. You must get it out of the lab before it hurts itself or something else. \nControls:Left Mouse Button - Pick up item (From top bar) / Drop item (when held)Right Mouse Button - Remove item (Added to top bar)F - FullscreenM - MuteQ - Return to Menu (In levels)See the making of: ",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNjk1NjkzLzM4MzQ2NDgucG5n/original/0n5VcJ.png",
+          "https://img.itch.zone/aW1hZ2UvNjk1NjkzLzM4MzQ2NDcucG5n/original/x7Oymf.png",
+          "https://img.itch.zone/aW1hZ2UvNjk1NjkzLzM4MzQ2NDkucG5n/original/85gDH%2F.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 4.5 out of 5 stars(132 total ratings)",
+          "Author": "Vimlark",
+          "Genre": "Puzzle",
+          "Made with": "Construct"
+        }
+      }
+    },
+    {
+      "gameId": 696082,
+      "gameUrl": "https://arvz.itch.io/shooty-ballz",
+      "overallRank": 1,
+      "topCategories": [
+        "Overall",
+        "Presentation",
+        "Originality",
+        "Fun"
+      ],
+      "resultData": {
+        "contributors": [
+          {
+            "name": "arvz",
+            "id": 1040579
+          },
+          {
+            "name": "swiney",
+            "id": 3093593
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Top Marks",
+            "raw_score": 0,
+            "rank": 1,
+            "score": 0
+          },
+          {
+            "name": "Originality",
+            "raw_score": 3.6849315068493,
+            "rank": 736,
+            "score": 3.6849315068493
+          },
+          {
+            "name": "Overall",
+            "raw_score": 4.041095890411,
+            "rank": 96,
+            "score": 4.041095890411
+          },
+          {
+            "name": "Presentation",
+            "raw_score": 4.4109589041096,
+            "rank": 63,
+            "score": 4.4109589041096
+          },
+          {
+            "name": "Fun",
+            "raw_score": 4.0547945205479,
+            "rank": 81,
+            "score": 4.0547945205479
+          }
+        ],
+        "rating_count": 73,
+        "id": 696082,
+        "title": "Shooty Ballz",
+        "url": "https://itch.io/jam/gmtk-2020/rate/696082",
+        "rank": 1,
+        "cover_url": "https://img.itch.zone/aW1nLzM5NjY5NzkuZ2lm/300x240%23c/hjHzrt.gif"
+      },
+      "entryData": {
+        "field_responses": [
+          "8920:1",
+          "8921:2"
+        ],
+        "coolness": 78,
+        "created_at": "2020-07-12 18:34:28",
+        "id": 135984,
+        "url": "/jam/gmtk-2020/rate/696082",
+        "game": {
+          "id": 696082,
+          "url": "https://arvz.itch.io/shooty-ballz",
+          "cover_color": "#810ac4",
+          "user": {
+            "url": "https://arvz.itch.io",
+            "name": "arvz",
+            "id": 1040579
+          },
+          "title": "Shooty Ballz",
+          "platforms": [
+            "windows"
+          ],
+          "gif_cover": "https://img.itch.zone/aW1nLzM5NjY5NzkuZ2lm/original/wG2fTp.gif",
+          "cover": "https://img.itch.zone/aW1nLzM5NjY5NzkuZ2lm/300x240%23c/hjHzrt.gif",
+          "short_text": "Keep the green ball alive and protect it from.. YOURSELF! easy when you're in control, but what if you LOSE CONTROL?"
+        },
+        "contributors": [
+          {
+            "name": "arvz",
+            "url": "https://arvz.itch.io"
+          },
+          {
+            "name": "swiney",
+            "url": "https://swiney.itch.io"
+          }
+        ],
+        "rating_count": 73
+      },
+      "details": {
+        "title": "Shooty Ballz",
+        "description": "Picked by Mark Brown himself as one of the Top 20 Games of the 2020 GMTK Game JamPost-Jam Update v1.1: A huge update! We are so excited about making the Top 20 in the GMTK 2020 Game Jam so we've put together an update to enhance player experience in Shooty Ballz!\n- Shooting is more fun!\n- UX Improvements to better communicate game state to players!\n- Graphical updates!\n- Juice dialed up to beyond maximum!\n- Improved obstacles!\n- Better mobility - use dash to dodge!\n- Bug fixes.\nStay tuned for more releases! Follow swiney and arvz on twitter and watch this space! Shooty Ballz is in active development and we'll be posting more updates soon. A sneak peak at whats to come: powerups, more weapons, more enemy types, more juice.\nShooty Ballz is a Twin Stick Shooter with a bit of a twist! Your objective is to protect the green ball.. from yourself! Shoot EVERYTHING Except the green ball.\nPay attention to your Control Gauge. If it runs out, you will go Out of Control. \nPink balls will combine into a bigger, aggressive Big Red ball if they come into contact with one another. \nPink balls spawn yellow eggs when killed. These will hatch new Balls if left alone for too long. Collect the Yellow Eggs to replenish Control, or shoot them.\nWASD MoveSPACE DashLeft ClickFire LaserRight ClickKnockaway Big EnemiesMouseAim\n...and for those who like to fly close to the sun: \nPress 'Q' - Force yourself to Lose Control (v0.8 Game Jam version only)\n\nDevelopment: Sheng Xu, Arvin Gunawan\nMain music: Goran Andrić",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNjk2MDgyLzM4NjIwODUuZ2lm/original/e8kXb2.gif",
+          "https://img.itch.zone/aW1hZ2UvNjk2MDgyLzM4NzYzODkuZ2lm/original/hQhJ1x.gif",
+          "https://img.itch.zone/aW1hZ2UvNjk2MDgyLzM4NjI0MDEuZ2lm/original/HmsnS0.gif",
+          "https://img.itch.zone/aW1hZ2UvNjk2MDgyLzM4NTg0NDQuanBn/original/mWxvSR.jpg",
+          "https://img.itch.zone/aW1hZ2UvNjk2MDgyLzM4NTg0NDUuanBn/original/iLJmkm.jpg",
+          "https://img.itch.zone/aW1hZ2UvNjk2MDgyLzM4ODI1OTQucG5n/original/PT9igx.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows",
+          "Rating": "Rated 3.9 out of 5 stars(8 total ratings)",
+          "Authors": "arvz, swiney",
+          "Genre": "Action",
+          "Made with": "Unity",
+          "Tags": "2D, Arcade, Game Maker's Toolkit Jam, Singleplayer, Twin Stick Shooter",
+          "Average session": "A few minutes",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    }
+  ]
+}

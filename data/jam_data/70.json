@@ -1,0 +1,869 @@
+{
+  "n": 70,
+  "name": "Mental Health Game Dev Champions 2024",
+  "url": "https://itch.io/jam/mental-health-game-dev-champions-2024",
+  "theme": "Mental Health",
+  "slug": "mental-health-game-dev-champions-2024",
+  "jamMeta": {
+    "jamType": "ongoing",
+    "joined": "",
+    "entries": "102",
+    "title": "Mental Health Game Dev Champions 2024",
+    "jamURL": "https://itch.io/jam/mental-health-game-dev-champions-2024",
+    "hosts": {
+      "Safe In Our World": "https://safe-in-our-world.itch.io",
+      "#GameDevChampions": "https://bsky.app/hashtag/GameDevChampions"
+    },
+    "jamID": "387708"
+  },
+  "totalEntries": 99,
+  "ranked": false,
+  "hasCategories": false,
+  "needsManualSelection": true,
+  "categories": [],
+  "topGames": [
+    {
+      "gameId": 2735249,
+      "gameUrl": "https://trainspotter.itch.io/eyeos",
+      "overallRank": 1,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/mental-health-game-dev-champions-2024/rate/2735249",
+        "id": 616989,
+        "coolness": 0,
+        "created_at": "2024-10-30 21:02:45",
+        "game": {
+          "title": "EyeOS",
+          "cover": "https://img.itch.zone/aW1nLzE2MzIxOTgxLnBuZw==/300x240%23c/fnDKBW.png",
+          "short_text": "Find your lost friend by snooping through their Apple II inspired computer.",
+          "cover_color": "#eeeeee",
+          "url": "https://trainspotter.itch.io/eyeos",
+          "id": 2735249,
+          "user": {
+            "id": 8121170,
+            "url": "https://trainspotter.itch.io",
+            "name": "trainspotter"
+          },
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ]
+        }
+      },
+      "details": {
+        "title": "EyeOS",
+        "description": "A short, queer (and borderline nonsensical) mystery game where you are trying to find out what happened to your missing friend by rooting around in their computer. Play by clicking on things and searching terms in the EyeOS home screen! Note: try to keep search terms concise, and *don't press enter*---it'll search on its own, and hitting enter will disrupt results. Also I figured it would be played in one sitting, so it does not currently have save states (but I can add them if people want).\nSubmission to the Safe In our World Game Dev Champions game jam, solo over 25 category.\n\nFind out why!\nThis game is concerned with anxiety, dysphoria, and isolation. It discusses these topics lightheartedly but with sincerity, since that reflects my own approach to my own struggles. Thought it might be a good fit for a game jam about mental health and, well, being \nsafe in our world.\n\nCredits:\n- Written and Designed by Trainspotter\n- Built in Decker, a multimedia sketchpad made by Internet Janitor\n- Wiggly Paint and Twine interpreter by Internet Janitor\n- Moveable macWindow contraption by Faffotron; many, many others by Internet Janitor\n- Lino print by pragmattics on Twitter\n- Song by Maya\n- Icons by Leo Red\nAccidentally (but definitively) inspired by En Abime! Check it out, if you dare >:)\nPS: I included editable versions in the downloads in case anybody likes the format of the game and would enjoy experimenting with making interactive fiction of their own using it as a template! Just please credit me if you do so :)\nDocumentation for using Decker can be found at http://beyondloom.com/decker/",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjczNTI0OS8xNjQ0ODY2My5wbmc=/original/LJhcpU.png",
+          "https://img.itch.zone/aW1hZ2UvMjczNTI0OS8xNjQ0ODkyOS5wbmc=/original/2nPvSF.png",
+          "https://img.itch.zone/aW1hZ2UvMjczNTI0OS8xNjQ0ODY2NS5wbmc=/original/wwvcvg.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 4.7 out of 5 stars(99 total ratings)",
+          "Author": "trainspotter",
+          "Genre": "Interactive Fiction",
+          "Tags": "Casual, Decker, Horror, Indie, LGBT, Mystery, Narrative, Queer, Retro, Short",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 2840341,
+      "gameUrl": "https://liminace.itch.io/exorcize-me",
+      "overallRank": 2,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/mental-health-game-dev-champions-2024/rate/2840341",
+        "id": 613547,
+        "coolness": 0,
+        "created_at": "2024-10-22 23:48:36",
+        "game": {
+          "title": "Exorcize Me",
+          "cover": "https://img.itch.zone/aW1nLzE3ODQ5OTgwLnBuZw==/300x240%23c/LcuZH%2B.png",
+          "short_text": "An exorcism goes perfectly...",
+          "cover_color": "#000000",
+          "url": "https://liminace.itch.io/exorcize-me",
+          "id": 2840341,
+          "user": {
+            "id": 8471173,
+            "url": "https://liminace.itch.io",
+            "name": "LiminAce"
+          },
+          "platforms": [
+            "windows",
+            "osx",
+            "android",
+            "web"
+          ]
+        }
+      },
+      "details": {
+        "title": "Exorcize Me",
+        "description": "--------------------\nYour family believes that a \"demon\" resides in you. Even though you've never believed in that kind of stuff, you can't help but dwell on that idea.\nYou're taken to get this \"demon\" exorcized. Who knows, maybe you'll finally be what's considered \"normal\" to your family. Maybe... you'll be able to stop hiding your true self... if that \"self\" even survives this.\n--------------------\nFeatures:\n-Beautiful artwork (including 20+ cgs!)\n-Beautiful soundtrack\n-A very snarky narrator(we need something to contrast the dread of this one!)\n-Around 20-40 minutes of playtime\n-A single, inescapable ending\n--------------------\nNote: This game, like my other games, contains some pretty sensitive content. Player discretion is advised.\nAnother Note: This game takes place in the same universe as my other games, but you don't need to play them to understand this game!\nCreated for the 6th RPGMaker Horror Jam, hosted by Beregon and Daybloom Project!\nPS: I have the OST and CGs available for purchase, but you don't have to actually buy the pack to get access to them. If you want access, just go into the game files, and dig around in audio and pictures. You can still use them for thumbnails and stuff, even if you haven't purchased the pack!\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjg0MDM0MS8xODE0Nzg0Ny5wbmc=/original/%2BMtpLO.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0MDM0MS8xODE3ODk0My5wbmc=/original/WqXBOF.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0MDM0MS8xODE3ODk0OC5wbmc=/original/au%2B7NS.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0MDM0MS8xODE3ODk0NS5wbmc=/original/8DPwT1.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0MDM0MS8xODE3ODk0Mi5wbmc=/original/hz%2ByWT.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0MDM0MS8xODE3OTE3NC5wbmc=/original/HXlNBl.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Android",
+          "Rating": "Rated 4.6 out of 5 stars(52 total ratings)",
+          "Author": "LiminAce",
+          "Genre": "Visual Novel",
+          "Made with": "RPG Maker, FL Studio",
+          "Tags": "Atmospheric, Creepy, Hand-drawn, Horror, LGBTQIA, Psychological Horror, RPG Maker, Short, Story Rich, Yaoi",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 3023465,
+      "gameUrl": "https://wildsprout.itch.io/flower-boutique",
+      "overallRank": 3,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/mental-health-game-dev-champions-2024/rate/3023465",
+        "id": 608346,
+        "coolness": 0,
+        "created_at": "2024-10-10 19:41:05",
+        "game": {
+          "title": "Flower Boutique",
+          "cover": "https://img.itch.zone/aW1nLzE4MDk4MDcwLnBuZw==/300x240%23c/Y6bHPq.png",
+          "short_text": "Manage your own flower boutique and restore colour to your world!",
+          "cover_color": "#2e541f",
+          "url": "https://wildsprout.itch.io/flower-boutique",
+          "id": 3023465,
+          "user": {
+            "id": 5662288,
+            "url": "https://wildsprout.itch.io",
+            "name": "Sprout"
+          },
+          "platforms": [
+            "windows"
+          ]
+        }
+      },
+      "details": {
+        "title": "Flower Boutique",
+        "description": "Made for the first Safe In Our World Mental Health Game Dev Champions 2024 jam between 1st June & 31st October 2024.\nSolo Dev (18-24) Category Entry\nManage your own flower boutique, growing your business and forging relationships to help restore colour to your world!\n- Customise your character with purchasable clothing & hairstyles\n- Decorate your home & shop with purchasable decor styles\n- Manage your flower shop, growing and foraging for stock and gaining upgrades\n- Help your customers with their own struggles and collect their mementos\nThis is the most complex game I've made so far so any feedback & bug reports are much appreciated!Thanks for downloading, to play just unzip the file and run the .exe!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzAyMzQ2NS8xODA5Nzk4MS5wbmc=/original/lPLyqo.png",
+          "https://img.itch.zone/aW1hZ2UvMzAyMzQ2NS8xODA5Nzk4MC5wbmc=/original/On%2Fd7D.png",
+          "https://img.itch.zone/aW1hZ2UvMzAyMzQ2NS8xODA5NDk3MS5wbmc=/original/sy%2Fosp.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "Sprout",
+          "Genre": "Simulation",
+          "Made with": "Unity, Aseprite",
+          "Tags": "Character Customization, cosy, Cozy, Cute, Life Simulation, Mental Health, shop, shop-simulator, Working Simulator, work-simulator",
+          "Average session": "About an hour",
+          "Languages": "English",
+          "Inputs": "Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 2794610,
+      "gameUrl": "https://dagitabsoft.itch.io/lily-adventuresses-episode-1-she-who-lost-everything-but-her-name",
+      "overallRank": 4,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/mental-health-game-dev-champions-2024/rate/2794610",
+        "id": 605503,
+        "coolness": 0,
+        "created_at": "2024-10-01 23:34:40",
+        "game": {
+          "title": "Lily Adventuresses! Episode 1: She Who Lost Everything but Her Name",
+          "cover": "https://img.itch.zone/aW1nLzE2NjgyMzQ0LnBuZw==/300x240%23c/ByVMY%2B.png",
+          "short_text": "An RPG focusing on loss, love, and grief.",
+          "cover_color": "#eeeeee",
+          "url": "https://dagitabsoft.itch.io/lily-adventuresses-episode-1-she-who-lost-everything-but-her-name",
+          "id": 2794610,
+          "user": {
+            "id": 91321,
+            "url": "https://dagitabsoft.itch.io",
+            "name": "DagitabSoft"
+          },
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ]
+        }
+      },
+      "details": {
+        "title": "Lily Adventuresses! Episode 1: She Who Lost Everything but Her Name",
+        "description": "The first in an RPG anthology series featuring women loving women.\nSpecific category for Safe in Our World Mental Health Game Dev Champions 2024:  [Solo Dev, Ages 25+]\nRecognitions for the Entire Series[2025] Nominee, IGG Philippines Indie Community Awards, Excellence in Storytelling[2025] Entry, Philippine GameDev Expo Indie Game Stars[2025] Entry, Southeast Asia RPG Maker Showcase[2025] Finalist, GDAP GameOn Awards Professional Track[2025] Nominee, GDAP GameOn Awards Professional Track, Best Game Narrative[2025] Entry, Southeast Asia Games Onward[2025] Entry, RPG Maker Spotlight\nImportant NoteIt is HIGHLY recommended to use EasyRPG Player, especially if you are running modern versions of Windows or even non-Windows operating systems. See the site's Downloads section for more details.\nStoryJada Roberta Cockrum is the heroine who has defeated the demon lord Calazzelpha and brought peace to the world of Baihaerun, but at the cost of her dear friends and practically everything else but her name.\nFive months have passed since that climatic battle, and Jada embarks on another journey to find herself and recover from her loss.\nFeatures\nA heartrending and uplifting WLW story about loss, grief, and the will to move onClassic RPG gameplay made possible by RPG Maker 2000Flashbacks that flesh out the characters\nCharacters\n\nThe heroine who, despite having defeated the Demon Lord Calazzelpha alongside her three trusted friends, has lost everything but her name. Fortunately, her rough-and-tumble attitude surprisingly gives her the strength to move forward. She’s also not interested in inheriting her father’s business.\n\nJada’s childhood friend and classmate. She originally aimed to retire from adventuring and become a geologist after the demon lord is defeated, but her frail body stood in her way. Nevertheless, she had a fiery fighting spirit and an awesome singing voice, that she influenced her friends to train as singers. Succumbed to pneumonia minutes after the decisive battle against the demon lord.\n\nShe was once an orphan and distrusted other people, but Jada showed her the way. She is the great antithesis of negativity, cheerful and spreading hope wherever she is. She also has a predilection for “beautiful boys”. She died the morning before the expected victory march due to a stress-induced heart attack.\n\nThe only spellcaster in the team. She is capable at offensive and healing magic, as well as more potent exorcist magic used to banish demons. She also has a thing for new technologies, as she hails from an inventor family. After the decisive battle, she went missing and was declared KIA, but Jada believes she’s not dead.\n\nShe used to fight for the demon lord, but switched sides once the assassin unit she once belonged to was eliminated and her friend was unjustly slain. She’s at first seriously hostile, but later softens up once Jada knows of her circumstances. She hates being called a dark elf and prefers the term “drow” instead.\n\nBest known as “Virgilia the Quantum Wolf”, she’s a gun-slinging lone wolf, but is not really hostile to others, as she just prefers to work alone in the continuing struggle against evil. As an experienced warrior, she can dispatch enemies with ease, and her gun even converts into a sword whenever the need arises.\nCreditsOriginal Concept, Story, Map Design, Event Programming, Planning, and DebuggingBenedict \"Moonlight Bomber\" Villariaza\n Dedicated to and in Memory ofJayson CruzIbn Larry Fe Barra",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjc5NDYxMC8xNjY4MjQ0MC5wbmc=/original/Tj4jRB.png",
+          "https://img.itch.zone/aW1hZ2UvMjc5NDYxMC8xNjY4MjQ0Mi5wbmc=/original/0e83rz.png",
+          "https://img.itch.zone/aW1hZ2UvMjc5NDYxMC8xNjY4MjQ0My5wbmc=/original/a6Q9%2FS.png"
+        ],
+        "moreInfo": {
+          "Updated": "5 days ago",
+          "Status": "Released",
+          "Platforms": "Windows, macOS, Linux",
+          "Release date": "Oct 15, 2024",
+          "Rating": "Rated 4.5 out of 5 stars(2 total ratings)",
+          "Author": "DagitabSoft",
+          "Genre": "Role Playing",
+          "Made with": "RPG Maker",
+          "Tags": "2D, Female Protagonist, Lesbian, Pixel Art, Retro, Singleplayer, Story Rich, wlw",
+          "Average session": "About an hour"
+        }
+      }
+    },
+    {
+      "gameId": 3064962,
+      "gameUrl": "https://microgiantgames.itch.io/seeds-of-hope",
+      "overallRank": 5,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/mental-health-game-dev-champions-2024/rate/3064962",
+        "id": 617063,
+        "coolness": 0,
+        "created_at": "2024-10-31 00:07:17",
+        "game": {
+          "title": "Seeds of Hope",
+          "cover": "https://img.itch.zone/aW1nLzE4MzkyMjQ2LnBuZw==/300x240%23c/BZDHXA.png",
+          "short_text": "🌱 Create unique plants & heal your customers 🌱",
+          "cover_color": "#e5e3d8",
+          "url": "https://microgiantgames.itch.io/seeds-of-hope",
+          "id": 3064962,
+          "user": {
+            "id": 11067896,
+            "url": "https://microgiantgames.itch.io",
+            "name": "MicroGiant"
+          },
+          "platforms": [
+            "web"
+          ]
+        }
+      },
+      "details": {
+        "title": "Seeds of Hope",
+        "description": "🎮 The Game\n\n🌱 Create your own unique plants by combining a variety of seeds. Every plant is different!\n\n🌱 Play as the shop keeper, and let the plants heal your customers - or even yourself.\n\n🌱 Made with love and passion for the Mental Health Game Dev Champions 2024\n \n🖱️ Controls\n🖱️ Use your mouse to play!\n \n👤 About\nSmall games, big wonders\n \nMicroGiant is a brand new hobby project by Joran & Tijmen, two Belgian gamedev study friends. We made \"Seeds of Hope\" as our first game after graduating in the summer of 2024, and hope to grow more of these genuine experiences in the future.\n \nJoran De Pessemier - Code, Design, Story, Sounds\n\nTijmen Matthys - Art, Design, Music, Plant Code\n \n\n❤️ Thanks for playing and take care!\n\n💬 Comment below to share your thoughts.\n\n💬 Follow us & play our future games!\n ",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzA2NDk2Mi8xODM5NDUyMC5naWY=/original/%2F8zHk%2B.gif",
+          "https://img.itch.zone/aW1hZ2UvMzA2NDk2Mi8xODM5MjI1MC5wbmc=/original/IUWL1D.png",
+          "https://img.itch.zone/aW1hZ2UvMzA2NDk2Mi8xODM5NDUzOS5naWY=/original/VIkYpj.gif",
+          "https://img.itch.zone/aW1hZ2UvMzA2NDk2Mi8xODM5MjI1Mi5wbmc=/original/WDL3I%2B.png",
+          "https://img.itch.zone/aW1hZ2UvMzA2NDk2Mi8xODM5NDU3Ni5naWY=/original/rT00ss.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.5 out of 5 stars(6 total ratings)",
+          "Author": "MicroGiant",
+          "Genre": "Interactive Fiction",
+          "Made with": "Unity",
+          "Tags": "Creative, Mental Health, plant, Relaxing, Sandbox, Story Rich",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Mouse, Touchscreen"
+        }
+      }
+    },
+    {
+      "gameId": 2967810,
+      "gameUrl": "https://wombok.itch.io/what-happens",
+      "overallRank": 6,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/mental-health-game-dev-champions-2024/rate/2967810",
+        "id": 600068,
+        "coolness": 0,
+        "created_at": "2024-09-18 11:08:27",
+        "game": {
+          "title": "what happens if we never talk again?",
+          "cover": "https://img.itch.zone/aW1nLzE3NzUwMjI0LnBuZw==/300x240%23c/xbfTFD.png",
+          "short_text": "WELCOME TO ⋆⁺₊⋆ANGELS⋆⁺₊⋆",
+          "cover_color": "#121212",
+          "url": "https://wombok.itch.io/what-happens",
+          "id": 2967810,
+          "user": {
+            "id": 5252373,
+            "url": "https://wombok.itch.io",
+            "name": "wombok"
+          },
+          "platforms": [
+            "web"
+          ]
+        }
+      },
+      "details": {
+        "title": "what happens if we never talk again?",
+        "description": "A story inspired by internet friends and lost connections.\n*ੈ✩‧₊˚\nMade by wombokgames\nTwine css template by danieltalsky\nBig thank you to my playtesters jermythemystic, samuelscaife, riiadesigns ",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE3NzUwMjI0LnBuZw==/original/jX%2F%2FIC.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(7 total ratings)",
+          "Author": "wombok",
+          "Genre": "Interactive Fiction",
+          "Made with": "Twine",
+          "Tags": "Atmospheric, Indie, Narrative, Romance, Sci-fi, Short, Singleplayer, Story Rich, Text based, Twine",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 3078414,
+      "gameUrl": "https://luxille.itch.io/close-knit",
+      "overallRank": 7,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/mental-health-game-dev-champions-2024/rate/3078414",
+        "id": 618267,
+        "created_at": "2024-11-01 22:19:13",
+        "coolness": 0,
+        "contributors": [
+          {
+            "url": "https://luxille.itch.io",
+            "name": "Luxille"
+          },
+          {
+            "url": "https://wtc654666.itch.io",
+            "name": "wtc654666"
+          },
+          {
+            "url": "https://tinhovercarinice.itch.io",
+            "name": "tinhovercarinice"
+          },
+          {
+            "url": "https://emerald8.itch.io",
+            "name": "Emerald8"
+          },
+          {
+            "url": "https://ufolily.itch.io",
+            "name": "alien"
+          }
+        ],
+        "game": {
+          "title": "Close Knit",
+          "cover": "https://img.itch.zone/aW1nLzE4NDExOTAzLnBuZw==/300x240%23c/rdnpvg.png",
+          "short_text": "Hand-drawn 2D narrative adventure about knitting, magic, & believing in yourself",
+          "cover_color": "#eeeeee",
+          "url": "https://luxille.itch.io/close-knit",
+          "id": 3078414,
+          "user": {
+            "id": 2695462,
+            "url": "https://luxille.itch.io",
+            "name": "Luxille"
+          },
+          "platforms": [
+            "windows",
+            "web"
+          ]
+        }
+      },
+      "details": {
+        "title": "Close Knit",
+        "description": "A cozy narrative adventure platformer we crafted for Safe In Our World Mental Health Game Dev Champions 2024. The theme was to make a game centered around mental health, and we wrote about impostor syndrome, returning to a place you once knew, and learning to create out of love and not for validation.\n* * * * *\nUse WASD to move, press space to jump, press E to interact, and hold down left click to speed up text. The web build may experience slight lag in certain browsers; consider downloading the executable if you experience any issues with the web build.\nHint: If you get lost, you can always go home and ask Grandma for directions. If you get stuck towards the end of the game, remember to right click in midair to propel yourself with your magic needles!\nKnown issues: There is currently a collider error in the bakery scene that allows players to walk off the right side of the map and lose control of the character. Thank you to HinmanLantern for pointing out 2 potential softlock spots in the library and sewers (see their comment below for the exact spots)! As this was made for a game jam, we haven't yet implemented save functionality, so you will have to restart the game if this happens. We will fix these issues and add save/reload capability in a post-jam update, so stay tuned!\nOur Game Crafters\nluxille - narrative, programming, music (main theme)ufolily - character & UI arttinhovercarinice - environment art\nwtc654666 - level design, programming\nemerald8 - programming\nFree-to-use sound effects and additional BGM from Sound Effect Lab and Dova. Special thanks to Wise Fish for inspiring the NPC designs :)For Windows download: Unzip the downloaded file and run Close Knit.exe",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzA3ODQxNC8xODQyMzQ0MS5wbmc=/original/34jztF.png",
+          "https://img.itch.zone/aW1hZ2UvMzA3ODQxNC8xODQyMzQzOC5wbmc=/original/vb1AFz.png",
+          "https://img.itch.zone/aW1hZ2UvMzA3ODQxNC8xODQyMzQzOS5wbmc=/original/O00Y8H.png",
+          "https://img.itch.zone/aW1hZ2UvMzA3ODQxNC8xODQyMzQ0MC5wbmc=/original/z%2BiK1e.png",
+          "https://img.itch.zone/aW1hZ2UvMzA3ODQxNC8xODQyNzg3My5wbmc=/original/mkElBO.png",
+          "https://img.itch.zone/aW1hZ2UvMzA3ODQxNC8xODQyNzg3Ny5wbmc=/original/B6SfnR.png",
+          "https://img.itch.zone/aW1hZ2UvMzA3ODQxNC8xODQyNzg3OC5wbmc=/original/0uJAlP.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "Luxille, wtc654666, tinhovercarinice, Emerald8, alien",
+          "Genre": "Platformer, Adventure, Puzzle",
+          "Made with": "Unity",
+          "Tags": "2D, Action-Adventure, Cozy, Cute, Feel Good, Hand-drawn, Narrative, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 2933602,
+      "gameUrl": "https://oxy6.itch.io/gus-is-sad",
+      "overallRank": 8,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/mental-health-game-dev-champions-2024/rate/2933602",
+        "id": 594595,
+        "coolness": 0,
+        "created_at": "2024-09-04 17:02:00",
+        "game": {
+          "title": "GUS IS SAD",
+          "cover": "https://img.itch.zone/aW1nLzE3NjU3NTQyLnBuZw==/300x240%23c/pK2UXD.png",
+          "short_text": "life goes on",
+          "cover_color": "#000000",
+          "url": "https://oxy6.itch.io/gus-is-sad",
+          "id": 2933602,
+          "user": {
+            "id": 3788114,
+            "url": "https://oxy6.itch.io",
+            "name": "OXY"
+          },
+          "platforms": [
+            "web"
+          ]
+        }
+      },
+      "details": {
+        "title": "GUS IS SAD",
+        "description": "\"Why am I like this\"\n\nGUS IS SAD tells the story of Gus, little alien trying to deal with his depression, and how those around him try to support him.\n\nFor an ideal experience, zoom into the webpage and listen to whatever music you feel might be appropriate.\n\nThis game was made for the Safe In Our World Mental Health Game Dev Champions 2024. \nThe goal of this game is to show depression as close to reality as possible. People dealing with depression are still able to talk with their friends, doing things, having fun. Gus will deal with a variety of situations during his little journey, while having a lot of doubts about his own well-being.\n\nThanks Internet Janitor for the Turtle Contraption !\nThanks Louis and Akkfor for playtesting the game ! \n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjkzMzYwMi8xNzU3OTQxNS5wbmc=/original/cwpYZv.png",
+          "https://img.itch.zone/aW1hZ2UvMjkzMzYwMi8xNzU3OTQxOS5wbmc=/original/rir82M.png",
+          "https://img.itch.zone/aW1hZ2UvMjkzMzYwMi8xNzU3OTQ2Mi5wbmc=/original/aBXqxL.png",
+          "https://img.itch.zone/aW1hZ2UvMjkzMzYwMi8xNzU3OTQxNC5wbmc=/original/QnDo81.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.6 out of 5 stars(8 total ratings)",
+          "Author": "OXY",
+          "Genre": "Interactive Fiction, Visual Novel",
+          "Tags": "2D, Atmospheric, Decker, Pixel Art, Retro, Short"
+        }
+      }
+    },
+    {
+      "gameId": 3042223,
+      "gameUrl": "https://lachapeliere.itch.io/life-in-small-steps",
+      "overallRank": 9,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/mental-health-game-dev-champions-2024/rate/3042223",
+        "id": 617691,
+        "created_at": "2024-10-31 21:05:51",
+        "coolness": 0,
+        "contributors": [
+          {
+            "url": "https://lachapeliere.itch.io",
+            "name": "LaChapeliere"
+          },
+          {
+            "url": "https://kinoxklark.itch.io",
+            "name": "KinoxKlark"
+          },
+          {
+            "url": "https://a-sett.itch.io",
+            "name": "a_sett"
+          },
+          {
+            "url": "https://inty701.itch.io",
+            "name": "inty701"
+          },
+          {
+            "url": "https://purbsi.itch.io",
+            "name": "Purbsi"
+          }
+        ],
+        "game": {
+          "title": "Life in Small Steps",
+          "cover": "https://img.itch.zone/aW1nLzE5NDA3MTcwLnBuZw==/300x240%23c/qCGs32.png",
+          "short_text": "Follow Clara as she rebuilds her life, small step after small step, with a severe anxiety disorder.",
+          "cover_color": "#3689E6",
+          "url": "https://lachapeliere.itch.io/life-in-small-steps",
+          "id": 3042223,
+          "user": {
+            "id": 1131005,
+            "url": "https://lachapeliere.itch.io",
+            "name": "LaChapeliere"
+          },
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ]
+        }
+      },
+      "details": {
+        "title": "Life in Small Steps",
+        "description": "\nThe Game\n     \nFor some people, life is lived in small, cautious steps. Follow Clara as she navigates the consequences of her anxiety disorder on her thinking abilities, her work-life and her relationships. Through her discussions with her therapist and her participation in a scientific study, you will dive into the daily struggles of a person with long-term mental illness that impacts their cognitive abilities.\n\nA note: If you can, download the native version for your OS for a smoother experience. The audio is compressed for the web version. Slower machines might also struggle with the web player.\nAccessibility features\n\nWe have our heart set on lowering barriers that might stop people from playing or enjoying our game. In that spirit, Life in Small Steps was designed from the start to include a variety of accessibility features:\nPlay with mouse, keyboard, or controllerPlay the puzzles with symbols with addition to or in place of coloursSet your text speed and sizePlay the dialogues with high contrast textPlay only the narrative parts of the game, or only the puzzlesSimplify animations for visual comfort or slower machinesRemap all controls\nPuzzle screen in colour-blind mode\nThe Team\nLaChapeliere - Design and writing (lead), Art (lead), ProgrammingKinoxKlark - Programming (lead), Design, Arta_sett - Music and audio (lead), DesignPurbsi - Voice acting (Psychiatrist), Proofreadinginty - Voice acting (Clara)\n\nSpecial thanks to our playtesters, who helped us make this game great!\nOur project makes use of the Cadman and Paulo Bitencourt fonts.\nOur experience with the Safe In Our World jam\nThis game was created for the \"Mental Health Game Dev Champions 2024\" jam from Safe In Our World, in the \"Small Team 25+\" category. This jam had the particularity to be longer than most, with a five-month creation time.\n\n          Some early design workWe took this opportunity to dive into a bigger project, but also to polish our game. We appreciated being able to playtest several times with various people, hunt and solve bugs, and generally do a lot of back-and-forth on all aspects of the game.\nAs expected, we also encountered our fair share of challenges: mistakenly saving over recorded files, having to deal with a language which wasn't our first, struggling with our own mental health issues...\nLife In Small Steps is an autofiction, a game born from personal experience, from one of the creator's life and from collected testimonies, rather than scientific research. It was a choice we felt fit the theme of the game jam, that felt like an invitation to share our stories around mental health.\nLife In Small Steps won the \"Technical Innovation\" category prize of the jam!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzA0MjIyMy8xODI0MzY0Ny5wbmc=/original/htEzMu.png",
+          "https://img.itch.zone/aW1hZ2UvMzA0MjIyMy8xODI0MzY0OC5wbmc=/original/ijpYJz.png",
+          "https://img.itch.zone/aW1hZ2UvMzA0MjIyMy8xODI0MzY0OS5wbmc=/original/P%2F4sCE.png",
+          "https://img.itch.zone/aW1hZ2UvMzA0MjIyMy8xODI0MzY1MC5wbmc=/original/n7e8Bn.png",
+          "https://img.itch.zone/aW1hZ2UvMzA0MjIyMy8xODI0MzY0NS5wbmc=/original/1iz9q%2B.png",
+          "https://img.itch.zone/aW1hZ2UvMzA0MjIyMy8xODI0MzY0Ni5wbmc=/original/9%2B%2Fgcx.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Authors": "LaChapeliere, KinoxKlark, a_sett, inty701, Purbsi",
+          "Genre": "Puzzle, Educational",
+          "Made with": "Godot",
+          "Tags": "2D, Female Protagonist, Godot, Narrative, Singleplayer, Story Rich",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse, Gamepad (any)",
+          "Accessibility": "Color-blind friendly, Subtitles, Configurable controls, High-contrast"
+        }
+      }
+    },
+    {
+      "gameId": 3072458,
+      "gameUrl": "https://tojak.itch.io/glass-thoughts",
+      "overallRank": 10,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/mental-health-game-dev-champions-2024/rate/3072458",
+        "id": 617032,
+        "created_at": "2024-10-30 22:29:06",
+        "coolness": 0,
+        "contributors": [
+          {
+            "url": "https://tojak.itch.io",
+            "name": "tojak"
+          },
+          {
+            "url": "https://mechafrog.itch.io",
+            "name": "MechaFrog"
+          },
+          {
+            "url": "https://evvivalarte.itch.io",
+            "name": "Evviva L'arte!"
+          },
+          {
+            "url": "https://koambu.itch.io",
+            "name": "Koambu"
+          }
+        ],
+        "game": {
+          "title": "Glass Thoughts",
+          "cover": "https://img.itch.zone/aW1nLzE4Mzc0MTUzLmpwZw==/300x240%23c/68ulz%2F.jpg",
+          "short_text": "Take the role of a troubled crime investigator, dive into his subconsciousness and face your fears.",
+          "cover_color": "#000000",
+          "url": "https://tojak.itch.io/glass-thoughts",
+          "id": 3072458,
+          "user": {
+            "id": 9254807,
+            "url": "https://tojak.itch.io",
+            "name": "tojak"
+          },
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ]
+        }
+      },
+      "details": {
+        "title": "Glass Thoughts",
+        "description": "Glass thoughts – a downloadable visual novel/point and click game for PCs. \n\nContent warning\nThis game contains mature content, including depictions of violence, blood, death, medical malpractice and themes of mental illness. Viewer discretion is advised.\n\nWitold Miller – a young Polish-German prosecutor is investigating a series of tedious cases around the Free City of Gdansk. This tiny city, being a melting point of different cultures and political movements, cannot be considered a safe place in the middle of the roaring 20’s. Soon, Witold realizes that in order to solve the mystery of a murder, he needs to dive into the depths of his own psyche.\nTraveling deep into his self-consciousness, Witold confronts the surreal, hostile and distorted world of his fears\nThis game was created as a submission for “Safe in our world” Game Jam (2024) in the category: team under 24 years old.\n\n\nApproximate playtime: 2 hours4 unique minigamesOriginal soundtrack and sound effectsMultiple endings based on player choices\n\n\n\nAdvancing the story further (skipping the dialogue): enter/mouse click left/spacebar\nNavigate the dialogue box: left/right arrow\nView History Logs – tilde [~]\n\n\n\nTomasz Maligranda – Programmer, Director, Game Designer\n\nIgnacy Kitłowski – Writer, Story Designer, Co-Director\n\n Ambre Buathier – Lead Character & Prop Designer, Environmental Artist, Additional Art\n\nJon Kušar– Lead Background Designer, UI Artist, Additional Art\n\n Nadia Kasprowicz – Illustrator\n\n Phuwit Sangudomlert – Music & Sounds\n\n\n\n\nOther features:\n  \nPoint&Click minigame – locate the interactive parts and use mouse left click to activate them. You can use the highlight button to show the interactive elements of the surroundings. \n  \nPhone Minigame – during the phone minigame there are in-game instructions on how to use the phone. Use the highlight button to mark interactive elements of the phone, instructions, and numbers the character has to call. \n  \nDocuments minigame – click on the “stamp” circle to mark the document as a suspect. You can mark two documents. In case of an error, you may click on the stamp circle again to remove the stamp and mark another documents.  \n  \nEndings – there are multiple endings in the game, based on the player’s action. Some of your choices may have consequences…\nFor more information, open the in-game help page.\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzA3MjQ1OC8xODM5MTM4MS5qcGc=/original/A2HRt%2B.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzA3MjQ1OC8xODM5MTQwNy5wbmc=/original/RC4JNV.png",
+          "https://img.itch.zone/aW1hZ2UvMzA3MjQ1OC8xODM5MTM5OC5qcGc=/original/cEKlqb.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzA3MjQ1OC8xODM5MTQ2MS5wbmc=/original/3iW64f.png",
+          "https://img.itch.zone/aW1hZ2UvMzA3MjQ1OC8xODM5MTQ5OS5wbmc=/original/Xihs4H.png",
+          "https://img.itch.zone/aW1hZ2UvMzA3MjQ1OC8xODM5MTQyOS5wbmc=/original/2%2BJlHK.png",
+          "https://img.itch.zone/aW1hZ2UvMzA3MjQ1OC8xODM5MTU1Ny5wbmc=/original/aXgOCd.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS, Linux",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "tojak, MechaFrog, Evviva L'arte!, Koambu",
+          "Genre": "Visual Novel, Puzzle",
+          "Tags": "2D, Detective, Horror, Point & Click, Psychological Horror, Singleplayer, Slice Of Life, Story Rich",
+          "Average session": "A few seconds",
+          "Languages": "English"
+        }
+      }
+    },
+    {
+      "gameId": 3076806,
+      "gameUrl": "https://dreim-development.itch.io/for-closure",
+      "overallRank": 11,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/mental-health-game-dev-champions-2024/rate/3076806",
+        "id": 617323,
+        "coolness": 0,
+        "created_at": "2024-10-31 11:13:19",
+        "game": {
+          "title": "For Closure,",
+          "url": "https://dreim-development.itch.io/for-closure",
+          "cover_color": "#000000",
+          "cover": "https://img.itch.zone/aW1nLzI1NjQ5MDI5LnBuZw==/300x240%23c/2Omkhn.png",
+          "id": 3076806,
+          "user": {
+            "id": 10753037,
+            "url": "https://dreim-development.itch.io",
+            "name": "dreim"
+          },
+          "short_text": "A game about nothing"
+        }
+      },
+      "details": {
+        "title": "For Closure,",
+        "description": "\"never felt like just a game—it was so much more than that. [...] every ghostly artifact felt incredibly human.\"\n\nSystem Requirements\n\nWindows: Windows 10 or newer (64-bit), DirectX 12 compatible graphics card\nMac: macOS 10.14 or newer\nMemory: 1 GB RAM minimum\n\nInstallation Windows: Download and extract the ZIP file, then run the .exe file. If you see a security warning, click \"More info\" then \"Run anyway.\"\n\nMac: Download and extract the ZIP file, then run the .app file. If macOS blocks it (sorry), go to System Preferences > Security & Privacy and click \"Open Anyway.\"",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzA3NjgwNi8yNTY5NTE4OS5wbmc=/original/IznNjr.png",
+          "https://img.itch.zone/aW1hZ2UvMzA3NjgwNi8yNTY0OTEwMi5wbmc=/original/zqMCOG.png",
+          "https://img.itch.zone/aW1hZ2UvMzA3NjgwNi8yNTY0OTEwMS5wbmc=/original/og9TxN.png",
+          "https://img.itch.zone/aW1hZ2UvMzA3NjgwNi8yNTY0OTEzMy5wbmc=/original/pWGRPx.png"
+        ],
+        "moreInfo": {
+          "Updated": "7 days ago",
+          "Status": "Prototype",
+          "Rating": "Rated 4.0 out of 5 stars(2 total ratings)",
+          "Author": "dreim",
+          "Tags": "Atmospheric, Liminal space, Narrative, psychedelic, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 3077972,
+      "gameUrl": "https://kick14.itch.io/still-here",
+      "overallRank": 12,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/mental-health-game-dev-champions-2024/rate/3077972",
+        "id": 617720,
+        "coolness": 0,
+        "created_at": "2024-10-31 22:00:17",
+        "game": {
+          "title": "Still Here",
+          "url": "https://kick14.itch.io/still-here",
+          "cover_color": "#fdf6d8",
+          "cover": "https://img.itch.zone/aW1nLzE4NDA4MTc5LnBuZw==/300x240%23c/Q8EcOB.png",
+          "id": 3077972,
+          "user": {
+            "id": 2882004,
+            "url": "https://kick14.itch.io",
+            "name": "Kick14"
+          },
+          "short_text": "Self healing through writing"
+        }
+      },
+      "details": {
+        "title": "Still Here",
+        "description": "STILL HERE\nA short story on self healing through poems and reflection. Hope you have a good time.\n\nThis game is made for Safe In Our World Mental Health Game Dev Champions 2024 with the theme Mental Health.\n\nKrita and Photoshop for Art , Lmms and Audacity for sound and music and Renpy is used for the game engine.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzA3Nzk3Mi8xODQwODMwNy5wbmc=/original/f1ox97.png",
+          "https://img.itch.zone/aW1hZ2UvMzA3Nzk3Mi8xODQwODMwOS5wbmc=/original/wZ8MVd.png",
+          "https://img.itch.zone/aW1hZ2UvMzA3Nzk3Mi8xODQwODMxMC5wbmc=/original/z32DuB.png",
+          "https://img.itch.zone/aW1hZ2UvMzA3Nzk3Mi8xODQwODMxMS5wbmc=/original/whoI1u.png",
+          "https://img.itch.zone/aW1hZ2UvMzA3Nzk3Mi8xODQwODMwOC5wbmc=/original/eo28sw.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Kick14",
+          "Genre": "Visual Novel, Interactive Fiction",
+          "Tags": "2D, Casual, Narrative, Ren'Py, Short, Simple"
+        }
+      }
+    },
+    {
+      "gameId": 2784408,
+      "gameUrl": "https://korremar92.itch.io/dont-quit",
+      "overallRank": 13,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/mental-health-game-dev-champions-2024/rate/2784408",
+        "id": 552588,
+        "coolness": 0,
+        "created_at": "2024-06-20 14:09:18",
+        "game": {
+          "title": "Don't Quit",
+          "cover": "https://img.itch.zone/aW1nLzE2NjIwMTY2LnBuZw==/300x240%23c/uho%2Fj9.png",
+          "short_text": "A narrative platformer about the struggles of wanting to quit.",
+          "cover_color": "#327345",
+          "url": "https://korremar92.itch.io/dont-quit",
+          "id": 2784408,
+          "user": {
+            "id": 10801311,
+            "url": "https://korremar92.itch.io",
+            "name": "korremar92"
+          },
+          "platforms": [
+            "web"
+          ]
+        }
+      },
+      "details": {
+        "title": "Don't Quit",
+        "description": "Don't Quit is a narrative platforming game about the struggles that I and others often have around wanting to quit. Submitted as part of the Safe In Our World Mental Health Game Dev 2024 game jam.\n\nAssets acknowledgments:\nPixel art from: Pixel Adventure by Pixel Frog - https://pixelfrog-assets.itch.io/pixel-adventure-1\nMusic composed by Bert Cole, bitbybitsound.com: Bit by bit sound, 16-bit starter pack - https://bit-by-bit-sound.itch.io/16-bit-starter-pack",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjc4NDQwOC8xNjYyMDE2Ny5wbmc=/original/436LyH.png",
+          "https://img.itch.zone/aW1hZ2UvMjc4NDQwOC8xNjYyMDE2OS5wbmc=/original/tjPmRh.png",
+          "https://img.itch.zone/aW1hZ2UvMjc4NDQwOC8xNjYyMDE2OC5wbmc=/original/BnRolC.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "korremar92",
+          "Genre": "Platformer",
+          "Made with": "Godot",
+          "Tags": "Godot, Narrative, Pixel Art, Short, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 3066961,
+      "gameUrl": "https://lovely-dru.itch.io/grounded",
+      "overallRank": 14,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/mental-health-game-dev-champions-2024/rate/3066961",
+        "id": 615228,
+        "created_at": "2024-10-27 09:07:51",
+        "coolness": 0,
+        "contributors": [
+          {
+            "url": "https://lovely-dru.itch.io",
+            "name": "lovely_dru"
+          },
+          {
+            "url": "https://gamerjk8.itch.io",
+            "name": "GamerJK8"
+          },
+          {
+            "url": "https://wings-poo.itch.io",
+            "name": "Wings-poo"
+          },
+          {
+            "url": "https://ignis-kambing.itch.io",
+            "name": "Ignis Kambing"
+          }
+        ],
+        "game": {
+          "title": "Grounded",
+          "cover": "https://img.itch.zone/aW1nLzE4MzQyNTk0LnBuZw==/300x240%23c/%2FP9LZ3.png",
+          "short_text": "You're living your life as usual. But life suddenly takes a turn for the worse as a global pandemic hits.",
+          "cover_color": "#89bbfe",
+          "url": "https://lovely-dru.itch.io/grounded",
+          "id": 3066961,
+          "user": {
+            "id": 2917901,
+            "url": "https://lovely-dru.itch.io",
+            "name": "lovely_dru"
+          },
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ]
+        }
+      },
+      "details": {
+        "title": "Grounded",
+        "description": "Set in the time of COVID19 pandemic, the story follows the main character as they struggle to get through their daily life while dealing with their anxiety and fear for the future due to the pandemic. \nEach mini game is based on different grounding techniques and the player will help the main character fight their anxiety and fears by keeping them grounded.\nThis game is made as a submission for Safe in Our World Mental Health Game Dev Champions 2024 under small team ages 25+ category.\nMeet the team:lovely_dru - game design, writer, music, programmerWings-poo - game design, editor, programmerGamerJK8 - artistIgnis Kambing - photographer, photo editor",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzA2Njk2MS8xODM0MjY0OC5wbmc=/original/ro9W0V.png",
+          "https://img.itch.zone/aW1hZ2UvMzA2Njk2MS8xODM0MjY0Ni5wbmc=/original/DBt0LB.png",
+          "https://img.itch.zone/aW1hZ2UvMzA2Njk2MS8xODM0MjY0Ny5wbmc=/original/4pkIDM.png",
+          "https://img.itch.zone/aW1hZ2UvMzA2Njk2MS8xODM0MjY0OS5wbmc=/original/8f5ypA.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS, Linux",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Authors": "lovely_dru, GamerJK8, Wings-poo, Ignis Kambing",
+          "Genre": "Interactive Fiction, Visual Novel",
+          "Tags": "Atmospheric, First-Person, Mental Health, Narrative, Ren'Py, Singleplayer, Slice Of Life, storygame"
+        }
+      }
+    },
+    {
+      "gameId": 3074513,
+      "gameUrl": "https://chao.itch.io/to-open-the-enduring-mind",
+      "overallRank": 15,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/mental-health-game-dev-champions-2024/rate/3074513",
+        "id": 617194,
+        "coolness": 0,
+        "created_at": "2024-10-31 07:46:43",
+        "game": {
+          "title": "To Open the enduring Mind",
+          "cover": "https://img.itch.zone/aW1nLzE4NDAxMTMxLmdpZg==/300x240%23c/5acynA.gif",
+          "url": "https://chao.itch.io/to-open-the-enduring-mind",
+          "cover_color": "#66636b",
+          "id": 3074513,
+          "gif_cover": "https://img.itch.zone/aW1nLzE4NDAxMTMxLmdpZg==/original/XQgQpQ.gif",
+          "user": {
+            "id": 412606,
+            "url": "https://chao.itch.io",
+            "name": "Chao"
+          },
+          "short_text": "Rebuild your Mind"
+        }
+      },
+      "details": {
+        "title": "To Open the enduring Mind",
+        "description": "A terrible calamity has occurred, and your mind is clear. Free from doubt, fear and trouble, but also of joy, hope and love. You must build it back up again, from the ground up, or you will have no hope of awakening.\nAn automation game set inside the mind, with all the aspects of the spirit as characters.\nMade in löve2d\nFont used: Komikazba by Apostrophic Labs\nPortrait for \"Love\" character by Danah\nMusic obtained from the Free Music Archive\"Initiation\" by Semion Krivenko-Adamov\"A very minimalist improvisation\" by Circus Marcus\"Nothing Ever Happened\" by Siddharta\nTools used:\nNotepad++Paint.netGitOpen Office WriterDesmos Graphing CalculatorIf you are playing on Mac or Linux, you must download love2d from here: https://love2d.org/\nThen run the .love file using love2d.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzA3NDUxMy8xODM4NzMxNy5wbmc=/original/mYmr3n.png",
+          "https://img.itch.zone/aW1hZ2UvMzA3NDUxMy8xODM4NzMxOC5wbmc=/original/oQ4xqT.png",
+          "https://img.itch.zone/aW1hZ2UvMzA3NDUxMy8xODM4NzMyMS5wbmc=/original/WwXTTa.png",
+          "https://img.itch.zone/aW1hZ2UvMzA3NDUxMy8xODQwMTEzNS5wbmc=/original/YbqnhA.png",
+          "https://img.itch.zone/aW1hZ2UvMzA3NDUxMy8xODQwMTEzOS5qcGc=/original/T076rj.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Author": "Chao",
+          "Genre": "Puzzle, Visual Novel",
+          "Tags": "Automation, LÖVE, mind-bending, Relaxing, Singleplayer, Story Rich"
+        }
+      }
+    }
+  ]
+}

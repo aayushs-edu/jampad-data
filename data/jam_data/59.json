@@ -1,0 +1,524 @@
+{
+  "n": 59,
+  "name": "Kenney Jam 2024",
+  "url": "https://itch.io/jam/kenney-jam-2024",
+  "theme": "Connection",
+  "slug": "kenney-jam-2024",
+  "jamMeta": {
+    "jamType": "ongoing",
+    "joined": "",
+    "entries": "461",
+    "title": "Kenney Jam 2024",
+    "jamURL": "https://itch.io/jam/kenney-jam-2024",
+    "hosts": {
+      "Kenney": "https://kenney.itch.io",
+      "#kenneyjam": "https://bsky.app/hashtag/kenneyjam"
+    },
+    "jamID": "381222"
+  },
+  "totalEntries": 442,
+  "ranked": true,
+  "hasCategories": false,
+  "needsManualSelection": false,
+  "categories": [],
+  "topGames": [
+    {
+      "gameId": null,
+      "gameUrl": "https://osteel.itch.io/ship-it",
+      "overallRank": 1,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "Ship It [Kenney Jam 2024]",
+        "description": "🎉Winning game for the 2024 Kenney Game Jam!🎉What do busy salarymen do on their time off? Play with toy boats of course!\nShip It is a puzzle game about clicking toy boats to make them move, merge and getting them through the goal posts.\n----------------------------------------\nRules:\nBoats will move in the direction they're facingTwo of the same will merge and level up You can destroy boats by colliding mismatching oneGet the correct type of boat through all the goals\nYou will fail if:\nA boat hits the groundA boat leaves the screenIf the wrong boat passes through a goal\nHint:\nThe direction the boats merge will match the one that got hit\n----------------------------------------\nControls:\n[Left Click]: Move Boat[R]: Reset Level\n[S]: Skip Level[ESC]: Quit \n----------------------------------------\nCredits\ncreated by /  matthew ostil (@matthewostil)\naudio by /  dylan king (@xylvnking)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjg0NTE0Ny8xNzAwOTgzNi5wbmc=/original/QMpi%2BT.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0NTE0Ny8xNzAwOTg1NC5wbmc=/original/bZelwh.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0NTE0Ny8xNzAwOTg1NS5wbmc=/original/IIgrTA.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Rating": "Rated 4.8 out of 5 stars(4 total ratings)",
+          "Author": "Osteel",
+          "Genre": "Puzzle"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://xsoodx.itch.io/spirtual-bond",
+      "overallRank": 2,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "Spirtual Bond",
+        "description": "Our submission for the Kenny Jam 2024, in the theme of \"Connection\"\nAs you walk into the castle you hear this eerie yet kind voice asking for help. You see a ghostly figure appear explaining he needs your help to complete his unfinished business to finally leave this world in peace. \nSolve puzzles and help collect items as you navigate through the castle.\nPlay by yourself or with a friend. Ghost and player are connected to each other.\nCONTROLS:\nGhost - Moves with mouse\nPlayer - Moves with WASDMade byMrinmoyee Nandi - Game, Level, UI & Visual Design\nSaurabh Sood - Gameplay, Programing, UI & AudioDownload the file\nUnzip file\nRun .exe",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjg0NTYyMy8xNzAxMjA1Ny5wbmc=/original/ZZfmm7.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0NTYyMy8xNzAxMjA2MC5wbmc=/original/3MBVBC.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0NTYyMy8xNzAxMjA1OS5wbmc=/original/C6p5nN.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0NTYyMy8xNzAxMjA1OC5wbmc=/original/iNHDMZ.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "xSooDx, MOYEE",
+          "Genre": "Puzzle",
+          "Made with": "Unreal Engine",
+          "Tags": "3D, Low-poly, Unreal Engine"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://pixelpun.itch.io/nexify",
+      "overallRank": 3,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "Nexify  🏆",
+        "description": "NEXIFY submission to the Kenney 2024 game jam for \"connection\" For some reason this one was a hard one for me but I knew it would be when I signed up. I mostly get my ideas from doing artwork, with the artwork already created I had to think of gameplay more then just beautiful artwork as Kenney has already provided that. I started and stopped three different times and didn't really have a solid idea until I landed on what I have now, which I am very happy with.\n\nThe idea is the connection between objects and trying to figure how how to get them all in place. Once you figure out what the interactable object is, the rest will follow that object around. You're goal is to figure out the connection between the objects and then connect them in order where they belong. Part of the fun is figuring out what exactly you are supposed to do.\n\nGame Trailer\n\n\nMy goal was to keep it simple as I tend to over complicate my games to the point of never finishing them or thinking up things when I'm almost done that change the scope entirely, I'm really bad about that, I did have to fight that some with this game also.\nSubmitted are 10 levels that go up in difficulty a title screen and an ending of sorts, I don't think the game is overly hard, the last level is tough though. I can imagine a lot of ways to make really neat puzzles what what I have created and I'm excited to work on this more in the future.\n\n\n\nAll the numbers follow the number one box in order, figure out where they go :)\n\nThe idea came to me just messing around with Construct and exploring the different types of behaviors. \nI'm really excited that I actually came up with an idea, I think that is one of the best things about game jams is somethings you make something you never would have otherwise.\n\nWas really cool participating in this game jam, I look forward to any and all feedback :) I wish everyone luck with their projects also thank you for playing!\n\nGame Design - Rob Williams       Music - Jetdarc\n\nBonus Challenges\n⬜ Single Pack   ⬜ Mouse Only\n\nUpdates\n7|27|2024: \nAdded touch controls for the ability to play on tablets and mobile ❤️\nMade the final level slightly easier\n7|27|2024: \n\nFixed a bug with the first stage and added in some title screen extras \n9|08|2024: \n\n10 NEW LEVELS! These levels introduce new game mechanics I wanted to add in originally but didn't have the time to. With these new levels the challenge does increase. There is also a bonus for folks who can find it that adds in a little more depth and might show players where the future of this game could go, it will be a challenge to find it and you might have to think a tad outside the box, so keep your eyes open for things that might be out of the ordinary ;) \n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjg0Mzk2Ni8xNjk5NTUwNS5qcGc=/original/p%2B9UQg.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjg0Mzk2Ni8xNzA3NzI3OS5wbmc=/original/LhsVR8.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0Mzk2Ni8xNzA1OTgzOC5naWY=/original/8kDU1Y.gif",
+          "https://img.itch.zone/aW1hZ2UvMjg0Mzk2Ni8xNzAwNzU5NS5naWY=/original/f%2FrfjA.gif",
+          "https://img.itch.zone/aW1hZ2UvMjg0Mzk2Ni8xNzAwNzg2My5qcGc=/original/pv8neQ.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjg0Mzk2Ni8xNzAxMzIzMi5naWY=/original/Oga6CH.gif",
+          "https://img.itch.zone/aW1hZ2UvMjg0Mzk2Ni8xNjk5NTQwMi5qcGc=/original/9lxRHb.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjg0Mzk2Ni8xODc3NjMxOC5naWY=/original/sDbhW%2B.gif",
+          "https://img.itch.zone/aW1hZ2UvMjg0Mzk2Ni8xNjk5NTQwNS5qcGc=/original/kOVgU9.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjg0Mzk2Ni8xNjk5NjY1Mi5qcGc=/original/2VyQds.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjg0Mzk2Ni8xNjk5NjcwMy5naWY=/original/NWsmSd.gif"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 4.7 out of 5 stars(7 total ratings)",
+          "Author": "PixelPun",
+          "Genre": "Puzzle",
+          "Made with": "Construct",
+          "Tags": "1-bit, 8-Bit, Black and White, Game Jam, hard, kenney, NES (Nintendo Entertainment System), Retro, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://ashdown.itch.io/spellbound-streetcar",
+      "overallRank": 4,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "Spellbound Streetcar",
+        "description": "Drive an enchanted streetcar for the people of a busy city.\nPick up passengers and take them to their desired destination to acquire permanent upgrades. Collect coins to boost your speed and hearts to calm the peoples' patience\nCreated for #KenneyJam 2024.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjg0Njg5NS8xNzAxMzE5NC5wbmc=/original/JddAjf.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0Njg5NS8xNzAxMzE5My5wbmc=/original/XW%2BYSm.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Author": "Ashdown",
+          "Tags": "3D, Cozy, Short"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://pixelpun.itch.io/nexify",
+      "overallRank": 5,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "Nexify  🏆",
+        "description": "NEXIFY submission to the Kenney 2024 game jam for \"connection\" For some reason this one was a hard one for me but I knew it would be when I signed up. I mostly get my ideas from doing artwork, with the artwork already created I had to think of gameplay more then just beautiful artwork as Kenney has already provided that. I started and stopped three different times and didn't really have a solid idea until I landed on what I have now, which I am very happy with.\n\nThe idea is the connection between objects and trying to figure how how to get them all in place. Once you figure out what the interactable object is, the rest will follow that object around. You're goal is to figure out the connection between the objects and then connect them in order where they belong. Part of the fun is figuring out what exactly you are supposed to do.\n\nGame Trailer\n\n\nMy goal was to keep it simple as I tend to over complicate my games to the point of never finishing them or thinking up things when I'm almost done that change the scope entirely, I'm really bad about that, I did have to fight that some with this game also.\nSubmitted are 10 levels that go up in difficulty a title screen and an ending of sorts, I don't think the game is overly hard, the last level is tough though. I can imagine a lot of ways to make really neat puzzles what what I have created and I'm excited to work on this more in the future.\n\n\n\nAll the numbers follow the number one box in order, figure out where they go :)\n\nThe idea came to me just messing around with Construct and exploring the different types of behaviors. \nI'm really excited that I actually came up with an idea, I think that is one of the best things about game jams is somethings you make something you never would have otherwise.\n\nWas really cool participating in this game jam, I look forward to any and all feedback :) I wish everyone luck with their projects also thank you for playing!\n\nGame Design - Rob Williams       Music - Jetdarc\n\nBonus Challenges\n⬜ Single Pack   ⬜ Mouse Only\n\nUpdates\n7|27|2024: \nAdded touch controls for the ability to play on tablets and mobile ❤️\nMade the final level slightly easier\n7|27|2024: \n\nFixed a bug with the first stage and added in some title screen extras \n9|08|2024: \n\n10 NEW LEVELS! These levels introduce new game mechanics I wanted to add in originally but didn't have the time to. With these new levels the challenge does increase. There is also a bonus for folks who can find it that adds in a little more depth and might show players where the future of this game could go, it will be a challenge to find it and you might have to think a tad outside the box, so keep your eyes open for things that might be out of the ordinary ;) \n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjg0Mzk2Ni8xNjk5NTUwNS5qcGc=/original/p%2B9UQg.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjg0Mzk2Ni8xNzA3NzI3OS5wbmc=/original/LhsVR8.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0Mzk2Ni8xNzA1OTgzOC5naWY=/original/8kDU1Y.gif",
+          "https://img.itch.zone/aW1hZ2UvMjg0Mzk2Ni8xNzAwNzU5NS5naWY=/original/f%2FrfjA.gif",
+          "https://img.itch.zone/aW1hZ2UvMjg0Mzk2Ni8xNzAwNzg2My5qcGc=/original/pv8neQ.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjg0Mzk2Ni8xNzAxMzIzMi5naWY=/original/Oga6CH.gif",
+          "https://img.itch.zone/aW1hZ2UvMjg0Mzk2Ni8xNjk5NTQwMi5qcGc=/original/9lxRHb.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjg0Mzk2Ni8xODc3NjMxOC5naWY=/original/sDbhW%2B.gif",
+          "https://img.itch.zone/aW1hZ2UvMjg0Mzk2Ni8xNjk5NTQwNS5qcGc=/original/kOVgU9.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjg0Mzk2Ni8xNjk5NjY1Mi5qcGc=/original/2VyQds.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjg0Mzk2Ni8xNjk5NjcwMy5naWY=/original/NWsmSd.gif"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 4.7 out of 5 stars(7 total ratings)",
+          "Author": "PixelPun",
+          "Genre": "Puzzle",
+          "Made with": "Construct",
+          "Tags": "1-bit, 8-Bit, Black and White, Game Jam, hard, kenney, NES (Nintendo Entertainment System), Retro, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://canisborealis.itch.io/airplane-mode",
+      "overallRank": 6,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "Airplane Mode",
+        "description": "When a rogue gang of cursors severs your internet connection, only you can find out what's behind them and send them back where they belong!\nControls\nMove - Mouse\nFire - Left Click (and hold)\n\nHad the crazy idea to make a full game using only the cursor pack.  Unsurprisingly, it's a bit difficult to convey a storyline with one graphic pack and no text, but I tried my best!\n\nKenney Jam 2024 Entry\nTheme: Connection\nBonus Challenges Attempted:\n1. Single pack: Your game should only use a single asset pack\n \n2. No text: Create a game that doesn't use any text at all\n \n3. Mouse only: Your game should be fully controlled using only the mouse\n\nCreditsGraphics: KenneyMusic: ThiSound, ScythuzSFX: DaydreamSound, Kenney\n(If Browser version doesn't work, you can try the zip files, but I haven't tested those)Downloadable versions have not thoroughly been tested.  Try to use the web version if you're able to!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjg0NjQzNi8xNzAyNDk4NC5naWY=/original/TpcrTl.gif",
+          "https://img.itch.zone/aW1hZ2UvMjg0NjQzNi8xNzAxMjkyOC5wbmc=/original/K4hi0U.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0NjQzNi8xNzAxMjkyOS5wbmc=/original/uI4jlU.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "CanisBorealis",
+          "Genre": "Action",
+          "Made with": "Godot",
+          "Tags": "Pixel Art, Retro"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://pataya.itch.io/kplace",
+      "overallRank": 7,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "k/place",
+        "description": "---- edit 08-05-2024 ----closed the server for now, I'll probably open it for special occasions but for now you can still experience the game in singleplayer. Thanks for playing!welcome to k/place!an online place that everyone gets to build together✨post screenshots of your creations!\npress TAB to open the build menu\nmade for the kenney jam 2024 - connection",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjg0MzgwNi8xNzAxODA1Ny5wbmc=/original/wfKjwe.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0MzgwNi8xNzAxMDUzOC5wbmc=/original/S0Xg%2Fo.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0MzgwNi8xNzAxMTgwNC5wbmc=/original/C3TcyI.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0MzgwNi8xNzAxODA1OC5wbmc=/original/7Ce8v4.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "pataya",
+          "Made with": "Unity",
+          "Tags": "City Builder, Creative, Multiplayer",
+          "Average session": "A few seconds",
+          "Multiplayer": "Server-based networked multiplayer"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://snailpass.itch.io/rollerun",
+      "overallRank": 8,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "Rollerun",
+        "description": "Get the marble from the entrance to the exit with the squiggliest path possible - the longer the marble runs, the more points you get!\nCreated in ~48 hours for Kenney Jam 2024!\n==\nControls:\nLeft Click: Build\nRight Click: Erase\nQ/E: Rotate Pieces\nR/F: Raise/Lower Pieces",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjg0NjIyOC8xNzAxMDI1Ni5naWY=/original/nqxY1a.gif",
+          "https://img.itch.zone/aW1hZ2UvMjg0NjIyOC8xNzAxMDM4OS5naWY=/original/Qz8oQS.gif",
+          "https://img.itch.zone/aW1hZ2UvMjg0NjIyOC8xNzAxMDUxNS5wbmc=/original/jbiVON.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0NjIyOC8xNzAxMDUxMy5wbmc=/original/T%2F%2BTlM.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0NjIyOC8xNzAxMDUxNC5wbmc=/original/ed%2B7Qa.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Author": "snailpass",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "3D, Godot, Short",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://mikanhako.itch.io/fill",
+      "overallRank": 9,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "FILL",
+        "description": "Instructions\n  Move - WASD\n  Undo - Z\n  Reset - R\n  Title - Esc\n\nMade in 48h for KenneyJam 2024 with the theme Connection\nDesign: Mikan\nProgram: Mikan",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjg0Njg1MC8xNzAxMjU3NC5wbmc=/original/vIV0h%2B.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0Njg1MC8xNzAxMjU3NS5wbmc=/original/F%2FM8F4.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0Njg1MC8xNzAxMjU3Ni5wbmc=/original/DyAt4L.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(3 total ratings)",
+          "Author": "MikanHako",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "2D, Sokoban"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://lokasta.itch.io/in-side-u",
+      "overallRank": 10,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "In side U",
+        "description": "Have you ever imagined if all the objects in the world could be connected within you?\nEmbark on a thrilling adventure where the boundaries between the physical and digital worlds. Discover hidden connections, solve intricate puzzles, and unlock the secrets!\nCredits:JinSheng ->  @jjs96449172 Leon Maciel -> Melina Tammisto -> @Goldeywashere",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjg0Njc2NC8xNzAxMjI0Mi5wbmc=/original/oPjNOl.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0Njc2NC8xNzAxMjQxNC5wbmc=/original/MNIWCX.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0Njc2NC8xNzAxMjI0MS5wbmc=/original/pH7HE5.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0Njc2NC8xNzAxMjI0NC5wbmc=/original/jjOeyM.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0Njc2NC8xNzAxMjI0My5wbmc=/original/HUZiS6.png"
+        ],
+        "moreInfo": {
+          "Updated": "4 days ago",
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Author": "Lokasta",
+          "Genre": "Action, Simulation",
+          "Made with": "Unity",
+          "Tags": "Action-Adventure, Physics"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://lethian.itch.io/power-plug-inc",
+      "overallRank": 11,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "Power Plug Inc",
+        "description": "Power Plug Inc\nPower Plug Inc is a minigame made for Kenney Jam 2024. The main goal of the game is to connect all the plugs on each stage.\nThere are few bugs I couldn't iron out before the jam ends, but they shouldn't break the game too much.\nIn case of any problems - you can check out Windows version for more stable experience.\nThanks for the visit, have fun playing!\nControls\nLeft Mouse Button - Grab a cable\nShould also work on mobile devices, but I wasn't testing it on my mobile so there might be some issues related to camera zoom and touch controls.\nCredits\nSprites and Audio - Kenney.nlEverything else - Lethian (Me)\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjg0NjYzOS8xNzAxMTE2OS5naWY=/original/xk5rcE.gif",
+          "https://img.itch.zone/aW1hZ2UvMjg0NjYzOS8xNzAxMTE2MS5wbmc=/original/253G1N.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0NjYzOS8xNzAxMTE2NS5wbmc=/original/49d1oc.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Lethian",
+          "Genre": "Puzzle",
+          "Made with": "Aseprite, Godot, GIMP",
+          "Tags": "2D, Cute, Pixel Art, Singleplayer",
+          "Average session": "A few seconds",
+          "Languages": "English",
+          "Inputs": "Mouse"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://batyo.itch.io/building-roads",
+      "overallRank": 12,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "Building Roads",
+        "description": "Submission to Kenney Jam 2024\nTheme: ConnectionDuration of Jam: 2 days\n\nOverview🟨\nOur poor little guy has just end his watch and is trying to go home but for his surprise all the roads has ben cut.\nHelp our poor little guy to connect all the blocks to reach home!🌉\n\nSupported Controllers🎮\nMouse & Keyboard Throw block: Space [Keyboard]  /  Left click [Mouse]Restart level:  R\n\nBugs🪲\nScore resets when restarting the level(R)\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjg0NTUzOC8xNzAwNTE2Ni5qcGc=/original/IAMce6.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjg0NTUzOC8xNzAwNTIxOS5qcGc=/original/XsMVR1.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjg0NTUzOC8xNzAwNTI1Ny5qcGc=/original/FEiPnn.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjg0NTUzOC8xNzAwNTE4Ny5qcGc=/original/1lnSAQ.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Batyo",
+          "Genre": "Puzzle, Adventure",
+          "Made with": "Unity",
+          "Tags": "2D, Cute, Indie, Singleplayer, Unity"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://aslangames.itch.io/the-arcade",
+      "overallRank": 13,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "The Arcade",
+        "description": "The Arcade is the story of a sister and brother rebuilding a lost connection by their shared passion: Games. \nIt has 2 mini games the separated siblings play together while catching up with each other. Made for Kenney Jam 2024. All visuals assets (excluding fonts) are Kenney assets.\nGamepad is supported and recommended. This is a singleplayer game that you control only the girl.\nProgramming & Game Design\nAhmet Kamil Keles\nFonts\nJelle Roman, VCR OSD Mono\nMusics\nCaketown (Matthew Pablo)\nGeneric 8-bit JRPG (AVGVSTA)\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjg0Mjg0Ni8xNzAxMDk2OC5qcGc=/original/m0%2ByPk.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjg0Mjg0Ni8xNzAwODM5Ni5qcGc=/original/H3pSd1.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjg0Mjg0Ni8xNzAwODM5OC5qcGc=/original/ENwNBr.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Ahmet Kamil Keleş",
+          "Genre": "Action",
+          "Made with": "Unity",
+          "Tags": "Arcade, Cute, Low-poly, Pixel Art, Retro, Wholesome",
+          "Average session": "A few minutes",
+          "Inputs": "Keyboard, Gamepad (any)"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://am1tanaka.itch.io/minecart-rails",
+      "overallRank": 14,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "Minecart Rails",
+        "description": "- for Kenney Jam 2024 -\nConnect the rails and escape from the dungeon!\nControls\n[W][A][S][D] or Game Pad: Move[Ctrl]([Cmd])+[Z]: Undo[Ctrl]([Cmd])+[Y]: Redo[ESC]: Menu\nIf keys are stuck, please use Firefox or Game pad:)\nConnect the rails from the minecart to the exit door. Push the blocks with rails on them to move them.\nIf you get stuck, retry with the [Ctrl]+[Z] or [ESC] key.\nPlaying time : around 10 minutes.\n12 Stages.\nUse Assets\n\nCharacters and map chips and Audios and splash screen\nKenney. Tiny Dungeon\n\nFonts\nItou Hiroki. PixelMplusmaru_ki_ya. marukiya font\nReleases\n2024/12/4 Ver1.1.5Added step count results when cleared.Add 2 stages. Total 12 stages.Adjusted stage difficulty.2024/11/2 Ver1.0.0Rail connect bug is fixed.\nAdd undo / redo.\nStage added.\n\n2024/7/26First release.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE3MDExNTU4LnBuZw==/original/n9owE2.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "たなかゆう-TANAKA Yu-",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "2D, Godot, kenneyjam2024",
+          "Average session": "A few minutes",
+          "Languages": "English, Japanese",
+          "Inputs": "Keyboard, Xbox controller"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://ichbinleon.itch.io/aero-attach",
+      "overallRank": 15,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "Aero Attach",
+        "description": "You're under attack! The only way to get out is by building an even stronger army...Choose between normal and endless mode for the best experience!\nControls : WASD - MoveR - Return to menu\nCredits:This game was made for the Kenney Jam 2024 with help of Kenney assets!If the browser version does not work for you, you are able to download a .zip file for Windows which you can extract. To play the game, open the .exe file.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjg0NTU2OS8xNzAwNDY2Mi5wbmc=/original/cjaeE9.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0NTU2OS8xNzAwNDcyNi5wbmc=/original/vk02KK.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0NTU2OS8xNzAwNDcyNS5wbmc=/original/09JdGZ.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Author": "IchBinLeon",
+          "Genre": "Shooter",
+          "Made with": "GameMaker",
+          "Tags": "2D, Flight, Flying, Pixel Art, Singleplayer, Top-Down, Top down shooter"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://pelax.itch.io/marblelous-connections",
+      "overallRank": 16,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "Marblelous Connections",
+        "description": "Welcome to Marblelous Connections!\nThis is my entry for Kenney Jam 2024. The requisite of the jam is to only use Kenney art and the theme was \"Connection\". So in the game you have to set the correct connection between track segments to keep the marble going.\nI used Kenney's Marble kit for game assets, and also some of Kenney's UI components.\n\nMusic from third parties is allowed, I used Ovani's Chiptune collection tracks.\n\n\nHow to play\nThe next connection in the track is always highlighted in green color.You can change that connection using A/D, arrow keys, or the on-screen buttons (mobile).Once the ball reaches a connection you can't change it anymore and the next connection becomes active.If you get stuck, just hit the reset button (you can also press T)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjg0MzU2MC8xNzAwNzM5MS5naWY=/original/QIZF%2B2.gif",
+          "https://img.itch.zone/aW1hZ2UvMjg0MzU2MC8xNzAwODA2Mi5wbmc=/original/hERK4w.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0MzU2MC8xNzAwNzYwNi5wbmc=/original/znzY0t.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0MzU2MC8xNzAwNzYwNC5wbmc=/original/iWV9O9.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0MzU2MC8xNzAwNzYwNy5wbmc=/original/BAnrFs.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0MzU2MC8xNzAwNzYwMy5wbmc=/original/9BEQZo.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0MzU2MC8xNzAwNzYwNS5wbmc=/original/FfGq8D.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Author": "Pelax",
+          "Made with": "Unity",
+          "Tags": "3D, Runner"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://datalioness.itch.io/disconnected",
+      "overallRank": 17,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "Disconnected",
+        "description": "\n\n\nStep into the boots of a resourceful robot navigating a mysterious space station in Disconnected... Created for the  Kenney Jam 2024 in 48 hours, this game challenges you to traverse levels by connecting with cameras throughout the station. Each camera offers a unique perspective, altering how you view the world around you.Without giving too much spoilers there are some gameplay pictures on the right.Have fun! And stay connected!Controls:Keyboard:WASD: MovingE: InteractingSpace: JumpController:Left Stick: MovingX: InteractingA: JumpThis was made using: Unreal Engine, Kenney.nl assets",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjg0NTE3NS8xNzAwMjYyMC5wbmc=/original/DsGkAU.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0NTE3NS8xNzAwMjYyNy5wbmc=/original/5wxkkL.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0NTE3NS8xNzAwMjY0MC5wbmc=/original/Lw8U8d.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0NTE3NS8xNzAwMjY0Ny5wbmc=/original/ql%2B0JP.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "DataLioness",
+          "Genre": "Puzzle",
+          "Tags": "Cute, kenney, Perspective"
+        }
+      }
+    },
+    {
+      "gameId": null,
+      "gameUrl": "https://ehwhat.itch.io/turbocharge",
+      "overallRank": 18,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": null,
+      "details": {
+        "title": "TurboCharge",
+        "description": "Try your time at the TurboCharge track! You'll have to race twice as fast and twice as much to keep up with your car and make sure it remains charged, while getting the fastest time!\nControls:\nWASD / Left Stick and Triggers: Steer and accelerate car.Left Click: Move player towards mouse cursor.Right Stick: Move player towards directionRight Click / South Button: Jump with player.Q / Left Shoulder: Switch CameraR / Select: Reset Both CharactersESC / Start: Pause\nWould love any feedback! And post your times :)(It appears the HTML one takes a while to load, might take a few minutes)\nMade for Kenney Jam 2024, theme \"Connection\"",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjg0NDA4MS8xNzAxMTQwMi5wbmc=/original/Eh03P3.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0NDA4MS8xNzAxMTQwNC5wbmc=/original/oRofOq.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0NDA4MS8xNzAxMTQwMy5wbmc=/original/mtqNtp.png",
+          "https://img.itch.zone/aW1hZ2UvMjg0NDA4MS8xNzAxMTQwNS5wbmc=/original/csXgkM.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Joshua Stevenson",
+          "Genre": "Racing",
+          "Made with": "Unity, Blender, Adobe Photoshop",
+          "Tags": "Colorful, Short",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse, Xbox controller, Playstation controller"
+        }
+      }
+    }
+  ]
+}

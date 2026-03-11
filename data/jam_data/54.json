@@ -1,0 +1,848 @@
+{
+  "n": 54,
+  "name": "My First Game Jam: Summer 2023",
+  "url": "https://itch.io/jam/my-first-game-jam-summer-2023",
+  "theme": "Cycles",
+  "slug": "my-first-game-jam-summer-2023",
+  "jamMeta": {
+    "jamType": "ongoing",
+    "joined": "",
+    "entries": "570",
+    "title": "My First Game Jam: Summer 2023",
+    "jamURL": "https://itch.io/jam/my-first-game-jam-summer-2023",
+    "hosts": {
+      "ludowoods": "https://ludowoods.itch.io",
+      "lysander": "https://worldendprince.itch.io",
+      "Adrienne Lombardo": "https://addie-lombardo.itch.io",
+      "#MyFirstGameJam": "https://bsky.app/hashtag/MyFirstGameJam"
+    },
+    "jamID": "378344"
+  },
+  "totalEntries": 456,
+  "ranked": true,
+  "hasCategories": false,
+  "needsManualSelection": false,
+  "categories": [],
+  "topGames": [
+    {
+      "gameId": 2203174,
+      "gameUrl": "https://rosesrot.itch.io/mortal-coil",
+      "overallRank": 1,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "created_at": "2023-08-04 03:53:00",
+        "id": 443783,
+        "game": {
+          "url": "https://rosesrot.itch.io/mortal-coil",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "title": "MORTAL COIL",
+          "user": {
+            "id": 8392976,
+            "url": "https://rosesrot.itch.io",
+            "name": "rosesrot"
+          },
+          "id": 2203174,
+          "cover": "https://img.itch.zone/aW1nLzEzMDc0ODMxLmdpZg==/300x240%23c/FWAjZI.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzEzMDc0ODMxLmdpZg==/original/P9WAmw.gif",
+          "short_text": "A reality TV cyberpunk death game: if you die in game, you die in real life!",
+          "cover_color": "#060908"
+        },
+        "rating_count": 0,
+        "coolness": 0,
+        "url": "/jam/my-first-game-jam-summer-2023/rate/2203174"
+      },
+      "details": {
+        "title": "MORTAL COIL",
+        "description": "What if VTubers and Youtubers joined a death game?\n\nYou're Ikuyo, an up-and-coming FPS gamer on the world's biggest video & streaming platform: Eidolon. Your sister Sonoko is the Eidolon goddess @flowerfall: loved by millions for her modelling, self-care, and genuine authenticity.\nAnd she's just been cancelled.\nIkuyo struggles to reach her sister amid the storms of controversy, confused that Sonoko isn't acknowledging the drama that's raging on. Sonoko's only response? It's to join the 99th season of the televised death game, MORTAL COIL.\nFrantic, afraid, and desperate: Ikuyo must choose whether to follow Sonoko into the depths of destruction, risking her life to save her sister who seems all too eager to play.\nWill Sonoko slip away from Ikuyo's grasp? Or will their fates be far worse than that?\n\n▼ A study in human psychology under digital fame. A critique involving the creators, the fans, and the algorithm, deconstructing YouTube, Twitch, and VTuber culture.\n△ This demo includes \"Part 1: Prologue\" and \"Part 2: Entrance\", about Ikuyo and Sonoko's entrance to Mortal Coil. \n\n▼ Cyberpunk and VR themed.\n△ DEMO contains 10k words, 30m-1 hr of playtime.\n▼  CW: dark content, mental health issues.\n△ Part of #MFGJ2023!\n▼ This is the demo version. In the full version, the game will be choice-based as you guide Ikuyo through the death game, choosing who lives... and who dies. \n○ With male and female romance options! \nCREDITS:\nDIRECTOR/WRITER: rosesrot\nPROGRAMMER: doggomakesgames\nARTIST: nitunioFOLLOW ME ON TUMBLR FOR UPDATES ON MORTAL COIL!\n⭐ ENJOYED THE GAME? RATE US!\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjIwMzE3NC8xMzA0MDEwOC5wbmc=/original/sCBL5K.png",
+          "https://img.itch.zone/aW1hZ2UvMjIwMzE3NC8xMzA0MDE3Mi5wbmc=/original/UlU%2BHQ.png",
+          "https://img.itch.zone/aW1hZ2UvMjIwMzE3NC8xMzA0MDEyOC5wbmc=/original/UQ%2FR3u.png",
+          "https://img.itch.zone/aW1hZ2UvMjIwMzE3NC8xMzA0MDA3NC5wbmc=/original/USGlyd.png"
+        ],
+        "moreInfo": {
+          "Status": "On hold",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 4.6 out of 5 stars(19 total ratings)",
+          "Author": "rosesrot",
+          "Genre": "Visual Novel, Interactive Fiction",
+          "Made with": "Ren'Py",
+          "Tags": "Amare, Cyberpunk, Dark, Female Protagonist, Horror, LGBT, Otome, Psychological Horror, Sci-fi",
+          "Average session": "About an hour",
+          "Languages": "English"
+        }
+      }
+    },
+    {
+      "gameId": 2202546,
+      "gameUrl": "https://tokopoko3.itch.io/lovespice",
+      "overallRank": 2,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 0,
+        "created_at": "2023-08-05 15:21:46",
+        "id": 444023,
+        "game": {
+          "id": 2202546,
+          "short_text": "An otome game, but with spices",
+          "url": "https://tokopoko3.itch.io/lovespice",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEzMDMxNjU4LnBuZw==/300x240%23c/oDIQWj.png",
+          "title": "Love: Spice!",
+          "user": {
+            "id": 8577537,
+            "url": "https://tokopoko3.itch.io",
+            "name": "tokopoko3"
+          },
+          "cover_color": "#ffc8df"
+        },
+        "rating_count": 0,
+        "url": "/jam/my-first-game-jam-summer-2023/rate/2202546",
+        "contributors": [
+          {
+            "url": "https://tokopoko3.itch.io",
+            "name": "tokopoko3"
+          },
+          {
+            "url": "https://iamsomebody6.itch.io",
+            "name": "iamsomebody6"
+          },
+          {
+            "url": "https://reallydee.itch.io",
+            "name": "reallydee"
+          }
+        ]
+      },
+      "details": {
+        "title": "Love: Spice!",
+        "description": "\nLove: Spice! is an otome/dating sim game created in 2 weeks for My First Game Jam: Summer 2023.\n✦Story✦\nIn a world where everybody (yes, everybody) is some kind of spice, a regular black pepper, weighed down by the mundanities of life, engages in an interesting hobby to destress: people -- no, spice watching. In a completely respectful manner, of course. It's always cathartic to see hot men just existing. But at some point, these men have begun to take an interest in our unassuming little black pepper! And maybe, just maybe, it'll develop into something more...\nThis game is not suitable for children or those easily disturbed.\nClick for Content Warnings [Contains Major Spoilers]Course language, implied cannibalism and stalking\n\n\n✦Features✦\n3 spicy routes8 endingsUnlock the special ending upon completion of all routes!~27k words8 CGsA guy who carries his guitar everywhere, even on a motorcycle\n\n✦Characters✦\nChase\n\nA red chilli. A university student who lives an active lifestyle - truly a rare species in this day and age. He has a rather foul mouth and can get on your nerves, but he's also incredibly passionate and really just a nice person, contrary to popular belief.\nCallum\n\nA cardamom. A single parent, he's gentle and considerate to a fault and tries his very best to be a good father to his only son, Phil. He's uncertain about entering a new relationship, but maybe that's about to change.\nAdrian\n\nAn anise. He works as a bartender in a cafe and is also the lead guitarist of his rock band. What a dark horse. Outgoing and cheerful, he's very attentive and is the ideal boyfriend. He's the guy who carries his guitar everywhere, even on a motorcycle. Not at work though. \n\n✦The Team✦\nBrought to you by 3 very tired people, namely tokopoko3, iamsomebody6, and reallydee.\nWriting/Programming/Art - tokopoko3\nWriting/Programming - reallydee\nArt - iamsomebody6\n\n✦Walkthrough✦\nWe recommend that you play the game blind for the best experience, but if you're having trouble reaching certain endings we have a guide on how to attain them here.\n\nWARNING: Comment section contains spoilers. If you haven't played the game yet, we really recommend you don't scroll too far down.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjIwMjU0Ni8xMzAzNzExNy5wbmc=/original/xf90LB.png",
+          "https://img.itch.zone/aW1hZ2UvMjIwMjU0Ni8xMzAzNzExOC5wbmc=/original/paPG6k.png",
+          "https://img.itch.zone/aW1hZ2UvMjIwMjU0Ni8xMzAzNzEyMC5wbmc=/original/9sfeg2.png",
+          "https://img.itch.zone/aW1hZ2UvMjIwMjU0Ni8xMzAzNzEyMS5wbmc=/original/7k0DkY.png",
+          "https://img.itch.zone/aW1hZ2UvMjIwMjU0Ni8xMzAzNzExOS5wbmc=/original/z%2FOu2B.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS, Linux",
+          "Rating": "Rated 4.6 out of 5 stars(78 total ratings)",
+          "Authors": "tokopoko3, iamsomebody6, reallydee",
+          "Genre": "Visual Novel, Role Playing",
+          "Made with": "Ren'Py",
+          "Tags": "2D, Anime, Dating Sim, Multiple Endings, Otome, Ren'Py, Romance, Singleplayer",
+          "Average session": "A few hours",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 2205369,
+      "gameUrl": "https://sugarychamomile.itch.io/corpomente",
+      "overallRank": 3,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "created_at": "2023-08-05 20:27:19",
+        "id": 444136,
+        "game": {
+          "id": 2205369,
+          "short_text": "There is no place like your very own home.",
+          "url": "https://sugarychamomile.itch.io/corpomente",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEzMDQwNDUyLnBuZw==/300x240%23c/9TkH9l.png",
+          "title": "CORPO|MENTE",
+          "user": {
+            "id": 1951490,
+            "url": "https://sugarychamomile.itch.io",
+            "name": "Sugary Chamomile"
+          },
+          "cover_color": "#000000"
+        },
+        "rating_count": 0,
+        "coolness": 0,
+        "url": "/jam/my-first-game-jam-summer-2023/rate/2205369"
+      },
+      "details": {
+        "title": "CORPO|MENTE",
+        "description": "Warning: while not aiming at horror, this game contains themes such as death, loss of oneself and others, transhumanism.\nThis game was made in 15 days for \"My first game jam\" - the majority of the game's content was added in the last 6 days.\n\nCORPO | MENTE\nBODY   |   MIND\n\nThe world is ending. Yours is, at least.\nYou lost your body. You lost yourself. \nYou have been selected to participate in an experimental treatment.\nYou will abandon yourself and be born anew.\nYou will not be born a human.\nYou are patient #539.\n\nTraverse the contorted mindscape of Professor Jack Mulligan as he bids farewell to the memories he cherished in life and as he rebuilds a new body and a new mind from the ashes of the person he now must abandon.\nThis is a short point-and-click narrative driven game that takes inspiration from Yume Nikki, the Bag of milk series and LSD Dream Emulator, and _Boisvert's animations on Youtube.\nThis is my first game in the Godot Game engine, and this is the first game I programmed every aspect of - from the dialogue system to the save system. \n\nFeatures:\n(Not full) grayscale graphics!Around 45 minutes - 1 hour of contentOne ending\nThis game is much simpler that my previous ones both due to time constraints and coding inexperience. I tried to focus more on animations, dialogue, storyline and environments rather than puzzles.\n\nWhat I coded myself:\nMulti-saveslot save systemItems and Inventory systemDialogue systemChoices system\nI am quite proud of what I accomplished in around 6 months of learning programming from absolute scratch. Godot's community, tutorials and guides are truly an invaluable resource.\n\nA note by the developer:\nThere are bound to be bugs, both because of the short time I had available for troubleshooting and because I have no previous programming experience.\nIf you find any bugs, please notify me and I will do my best to fix them. \nI poured all the time and energy I could to make this game as polished and as interesting as I could. \n\nKnown bugs:\n (FIXED) You can repeat the pianist scene as many times as you want, making the counter drop below 0. What you are supposed to do after the pianist is use the code in the error, \"silence\", to open the door to Hell and reach the ending. Download the .zip file and extract it. Next,  simply launch the executable file within the folder.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjIwNTM2OS8xMzA0MTMyNi5wbmc=/original/pTAtqB.png",
+          "https://img.itch.zone/aW1hZ2UvMjIwNTM2OS8xMzA0MDMxNC5wbmc=/original/qk3W%2FU.png",
+          "https://img.itch.zone/aW1hZ2UvMjIwNTM2OS8xMzA0MDMxNS5wbmc=/original/hj4BS4.png",
+          "https://img.itch.zone/aW1hZ2UvMjIwNTM2OS8xMzA0MDMxNi5wbmc=/original/fnYb2j.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS, Linux",
+          "Rating": "Rated 4.6 out of 5 stars(15 total ratings)",
+          "Author": "Sugary Chamomile",
+          "Genre": "Interactive Fiction, Role Playing, Visual Novel",
+          "Made with": "Godot",
+          "Tags": "Atmospheric, Creepy, First-Person, Godot, Narrative, Short, Story Rich, Surreal",
+          "Average session": "About an hour",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse",
+          "Accessibility": "Color-blind friendly, Subtitles"
+        }
+      }
+    },
+    {
+      "gameId": 2203205,
+      "gameUrl": "https://ogustavogama.itch.io/enterthedollhouse",
+      "overallRank": 4,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 0,
+        "created_at": "2023-08-06 04:52:06",
+        "id": 444303,
+        "game": {
+          "id": 2203205,
+          "short_text": "A Horror game where you must burn creepy dolls and avoid a killer clown puppet",
+          "url": "https://ogustavogama.itch.io/enterthedollhouse",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEzMDI2MjQyLnBuZw==/300x240%23c/L%2BZuxo.png",
+          "title": "Enter the Dollhouse",
+          "user": {
+            "id": 758181,
+            "url": "https://ogustavogama.itch.io",
+            "name": "Gustavo Gama"
+          },
+          "cover_color": "#000000"
+        },
+        "rating_count": 0,
+        "url": "/jam/my-first-game-jam-summer-2023/rate/2203205",
+        "contributors": [
+          {
+            "url": "https://ogustavogama.itch.io",
+            "name": "Gustavo Gama"
+          },
+          {
+            "url": "https://polomeo.itch.io",
+            "name": "Polomeo"
+          },
+          {
+            "url": "https://gnpsara.itch.io",
+            "name": "Sara Perez"
+          }
+        ]
+      },
+      "details": {
+        "title": "Enter the Dollhouse",
+        "description": "Made in 14 days for the 2023 My First Game JamDo you have what it takes to . . .Enter the DollHouse?Take the role of a scared little girl trying to avoid getting caught by Bobo, a haunted clown doll looking for a best friend forever.You must explore the creepy play place looking for 3 dolls haunted by the spirits of other captured children, take them to the ritual pedestal and give Bobo a run for his life.\nHeadphones are highly recommendedControlsE - InteractWASD/Arrow keys - WalkGustavo Gama - Pixel ArtMartín Germán López - ProgrammingSara Perez - Sound Design",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjIwMzIwNS8xMzAyNjI2MC5wbmc=/original/N%2FNWB%2F.png",
+          "https://img.itch.zone/aW1hZ2UvMjIwMzIwNS8xMzAyNjQ1NS5wbmc=/original/V%2Bq2aF.png",
+          "https://img.itch.zone/aW1hZ2UvMjIwMzIwNS8xMzAyNjI3MS5wbmc=/original/GMw1L6.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.6 out of 5 stars(5 total ratings)",
+          "Authors": "Gustavo Gama, Polomeo, Sara Perez",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "Atmospheric, Creepy, Dark, Female Protagonist, Horror, Pixel Art, Retro, Singleplayer, Survival Horror, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 2192498,
+      "gameUrl": "https://hikary02.itch.io/grow-your-plant",
+      "overallRank": 5,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "created_at": "2023-07-31 10:33:45",
+        "id": 442820,
+        "game": {
+          "cover_color": "#eeeeee",
+          "short_text": "An easy to play little ttrpg that fits in a business card where you grow your little plant to make it bloom",
+          "url": "https://hikary02.itch.io/grow-your-plant",
+          "id": 2192498,
+          "cover": "https://img.itch.zone/aW1nLzEyOTU2OTMzLmpwZw==/300x240%23cb/gBEc94.jpg",
+          "title": "Grow your plant",
+          "user": {
+            "id": 8048543,
+            "url": "https://hikary02.itch.io",
+            "name": "Hikary Games"
+          },
+          "tags": [
+            {
+              "url": "/physical-games",
+              "name": "Physical games"
+            }
+          ]
+        },
+        "rating_count": 0,
+        "coolness": 0,
+        "url": "/jam/my-first-game-jam-summer-2023/rate/2192498"
+      },
+      "details": {
+        "title": "Grow your plant",
+        "description": "Take care of your plant throughout the day and see your results when you get home\n\n“You reap what you sow”\n\nFeatures\nPen, eraser and d6 (rolled twice)Replayable as many times you want (time to get a flower garden)Don’t dry your plant, don’t hide your plant from sun and don’t move roughly your plantLook at what pretty flower you got! (or try again another day…)Draw your creation, no limits of reality \nRatings are really appreciated\nFollow me if you liked this ttrpg for future projects\n\nMockup: Designed by Yeven_Popov / Freepik\nPlant vector: Designed by Shafin_Protic / Freepik",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjE5MjQ5OC8xMjk1MjAwNC5wbmc=/original/LvGY9a.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Category": "Physical game",
+          "Rating": "Rated 4.8 out of 5 stars(5 total ratings)",
+          "Author": "Hikary Games",
+          "Tags": "business-card, Cozy, GM-Less, micro-rpg, Print & Play, rules-lite, Singleplayer, Solo RPG, Tabletop, Tabletop role-playing game"
+        }
+      }
+    },
+    {
+      "gameId": 2204615,
+      "gameUrl": "https://citrusswag.itch.io/liminal",
+      "overallRank": 6,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "created_at": "2023-08-05 02:00:43",
+        "id": 443953,
+        "game": {
+          "id": 2204615,
+          "short_text": "Can you escape the backrooms?",
+          "url": "https://citrusswag.itch.io/liminal",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEzMDM0NTIzLnBuZw==/300x240%23c/5XsRN3.png",
+          "title": "Liminal",
+          "user": {
+            "id": 7873188,
+            "url": "https://citrusswag.itch.io",
+            "name": "CitrusSwag"
+          },
+          "cover_color": "#000000"
+        },
+        "rating_count": 0,
+        "coolness": 0,
+        "url": "/jam/my-first-game-jam-summer-2023/rate/2204615"
+      },
+      "details": {
+        "title": "Liminal",
+        "description": "You find yourself trapped in a backrooms hallway with 8 rooms to explore. Use your critical thinking skills and the tools provided to escape. Death is never the end, and each restart leads to new opportunities.\nCONTENT WARNINGS:\nDeathAnimal DeathEyestrainWeirdcore/Dreamcore/Unreality\nCREDITS:\nKieran Swagstar - Developer\nBees (https://twitter.com/Macaroni_Bees) - ArtistMade for My First Game Jam!\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzEzMDM0NTIzLnBuZw==/original/VmCiYN.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS, Linux",
+          "Rating": "Rated 4.0 out of 5 stars(2 total ratings)",
+          "Author": "CitrusSwag",
+          "Genre": "Puzzle",
+          "Made with": "RPG Maker",
+          "Tags": "Backrooms, Creepy, dreamcore, Escape Game, Horror, Point & Click, Psychological Horror, RPG Maker, Singleplayer, weirdcore",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 2184241,
+      "gameUrl": "https://toribee.itch.io/a-year-in-the-spirit-world",
+      "overallRank": 7,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "created_at": "2023-08-01 22:51:37",
+        "id": 443373,
+        "game": {
+          "cover_color": "#6F849F",
+          "short_text": "A whimsical survival solo journal RPG",
+          "url": "https://toribee.itch.io/a-year-in-the-spirit-world",
+          "id": 2184241,
+          "cover": "https://img.itch.zone/aW1nLzEzMDExODQ1LmpwZWc=/300x240%23cb/3TYleH.jpeg",
+          "title": "A Year in the Spirit World",
+          "user": {
+            "id": 6471624,
+            "url": "https://toribee.itch.io",
+            "name": "toribee"
+          },
+          "tags": [
+            {
+              "url": "/physical-games",
+              "name": "Physical games"
+            }
+          ]
+        },
+        "rating_count": 0,
+        "coolness": 0,
+        "url": "/jam/my-first-game-jam-summer-2023/rate/2184241"
+      },
+      "details": {
+        "title": "A Year in the Spirit World",
+        "description": "The wind rustles through the emerald canopy above as you open your eyes to an unfamiliar world. You're lying on a bed of lush moss, the gentle warmth of the Spirit World sun caressing your face. Around you, a forest of towering ancient trees, each pulsating with an otherworldly glow. It's ethereal, enchanting, and unlike anything you've ever seen.\nYou stand up, a slight dizzy spell reminding you of your predicament. You are a stranger in this fantastical world. A witch's curse cast you into this realm, away from your human existence. The reason? That is yours to recall, a part of your human life that has resulted in this peculiar exile.\n\nFor a year, this is your home – a year in the Spirit World. Your task is not simple; survival is your utmost priority. And survival here doesn't just mean sustaining your life force, denoted by your Spirit Vitality. It involves living in harmony with this alien world and staying true to your core values, representing your Integrity.\n\nBy your side, a familiar presence stirs – your chosen companion, be it the Spirited Soot Sprite, the Loyal Fox-Squirrel, the Wise Kodama Spirit, or the Ancient Automaton. Their eyes meet yours, a silent vow of companionship and protection renewed.\n\nEvery day here is an adventure, split into three distinct parts: Dawn, Day, and Dusk. As time passes, the cycle of the seasons in the Spirit World will change around you. Spring's vibrant life gives way to Summer's resplendent warmth, which then fades into Autumn's mellow hues, before finally surrendering to the frosty embrace of Winter. Each season, each day, each moment brings forth a new set of trials and opportunities.\n\nDrawing from a deck of fate, you'll encounter spirits, creatures, and natural phenomena as enchanting as they are daunting. Each encounter might test your spirit, challenge your harmony with this world, or tempt you to act against your values.\n\nBut remember, human, this world is not your enemy, nor is it your prison. It is your teacher, your test, and ultimately, your path back home. Will you grow with the world or resist it? Will you stay true to yourself or lose your spirit to the enchanting wilderness? The choices are yours to make, and the journey is yours to embark on.\n\nWelcome to the Spirit World. Your year begins now.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjE4NDI0MS8xMjk2OTAyMy5qcGc=/original/rPBRax.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjE4NDI0MS8xMjk2OTAyMi5qcGc=/original/B9oTT1.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjE4NDI0MS8xMjk2OTAyMC5qcGc=/original/yFIDof.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjE4NDI0MS8xMjk2OTAxOS5qcGc=/original/jRL5em.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjE4NDI0MS8xMjk2OTAyMS5qcGc=/original/3nLP2B.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjE4NDI0MS8xMzAwNTY0OS5qcGc=/original/67IZzj.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Category": "Physical game",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "toribee",
+          "Genre": "Card Game, Role Playing, Survival",
+          "Tags": "Singleplayer, Solo RPG"
+        }
+      }
+    },
+    {
+      "gameId": 2206158,
+      "gameUrl": "https://studionivvy.itch.io/nivvysfirstadventure",
+      "overallRank": 8,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "created_at": "2023-08-06 06:38:26",
+        "id": 444365,
+        "game": {
+          "id": 2206158,
+          "short_text": "My first game is about my cat. His name is Nivvy! He loves to play and go on adventures.",
+          "url": "https://studionivvy.itch.io/nivvysfirstadventure",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEzMDQ1MTU5LnBuZw==/300x240%23c/MxlGeo.png",
+          "title": "Nivvy's First Adventure",
+          "user": {
+            "id": 5432744,
+            "url": "https://studionivvy.itch.io",
+            "name": "Studio Nivvy"
+          },
+          "cover_color": "#ff77a8"
+        },
+        "rating_count": 0,
+        "coolness": 0,
+        "url": "/jam/my-first-game-jam-summer-2023/rate/2206158"
+      },
+      "details": {
+        "title": "Nivvy's First Adventure",
+        "description": "My first game is about my cat. His name is Nivvy! He loves to play and go on adventures. This is my submission for the 'My First Game Jam: Summer 2023.' \ncontrols: \nArrow keys - to move left and rightX - to jump\ncredits:\n\nI learned a lot from Nerdy Teachers, SpaceCat, Lexaloffle  because of their platformer game tutorials.\n\nI used assets from dejotak, Gvituri, ElectricLemon, PrettyPinkPansy, Thetgi.  \n\nAnd Appsir Games as my biggest inspiration to make this game.\n\nAll donations from this game will be used for cat food and treats for Nivvy! <3\nPlease enjoy!\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjIwNjE1OC8xMzA0NTA5Ny5wbmc=/original/vw%2B%2B7h.png",
+          "https://img.itch.zone/aW1hZ2UvMjIwNjE1OC8xMzA0NTExOS5naWY=/original/9uIi5K.gif",
+          "https://img.itch.zone/aW1hZ2UvMjIwNjE1OC8xMzA0NTIyNi5wbmc=/original/ShQOCD.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 4.8 out of 5 stars(9 total ratings)",
+          "Author": "Studio Nivvy",
+          "Genre": "Adventure, Platformer",
+          "Made with": "PICO-8",
+          "Tags": "Cats, Cute, Dreams, My First Game Jam, PICO-8, Pixel Art, Retro, Short, Surreal"
+        }
+      }
+    },
+    {
+      "gameId": 2199998,
+      "gameUrl": "https://porchor.itch.io/hamterror",
+      "overallRank": 9,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "created_at": "2023-08-06 01:53:17",
+        "id": 444233,
+        "game": {
+          "id": 2199998,
+          "short_text": "Cute little game about a hamster... with a shotgun!?",
+          "url": "https://porchor.itch.io/hamterror",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEzMDMxNDUzLnBuZw==/300x240%23c/xWHnDw.png",
+          "title": "Hamterror",
+          "user": {
+            "id": 8566190,
+            "url": "https://porchor.itch.io",
+            "name": "PorChor"
+          },
+          "cover_color": "#24142c"
+        },
+        "rating_count": 0,
+        "coolness": 0,
+        "url": "/jam/my-first-game-jam-summer-2023/rate/2199998"
+      },
+      "details": {
+        "title": "Hamterror",
+        "description": "Entry for \"My First Game Jam: Summer 2023\" with the theme “Cycles”\nA hamster with a shotgun cycling around, which player can control and ham-steer using only your mouse bottons!\nThis is our first project with game programming.\nWe worked really hard on this, and hope that you'll enjoy it!\nLeft click - SHOOT to MOVE\nRight click - FLIP the ROTATION\nCredits!\nPorChor - Game Design/ Art/ ProgrammingNakrich N. - Programming",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjE5OTk5OC8xMzA0NjgzOC5wbmc=/original/GP0nue.png",
+          "https://img.itch.zone/aW1hZ2UvMjE5OTk5OC8xMzA0NjgzOS5wbmc=/original/RbTuI3.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.9 out of 5 stars(13 total ratings)",
+          "Author": "PorChor",
+          "Genre": "Survival",
+          "Made with": "Godot",
+          "Tags": "Arcade, earthquack, earthquack-games, Endless, Godot, Mouse only, My First Game Jam, Physics, Pixel Art"
+        }
+      }
+    },
+    {
+      "gameId": 2214405,
+      "gameUrl": "https://silvella.itch.io/la-patisserie-chaton",
+      "overallRank": 10,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "created_at": "2023-08-13 05:05:00",
+        "id": 446189,
+        "game": {
+          "id": 2214405,
+          "url": "https://silvella.itch.io/la-patisserie-chaton",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEzMTAxMTYzLmpwZw==/300x240%23c/keZxxx.jpg",
+          "title": "La Patisserie Chaton",
+          "user": {
+            "id": 8472635,
+            "url": "https://silvella.itch.io",
+            "name": "silvella"
+          },
+          "cover_color": "#f4c7c7"
+        },
+        "rating_count": 0,
+        "coolness": 0,
+        "url": "/jam/my-first-game-jam-summer-2023/rate/2214405"
+      },
+      "details": {
+        "title": "La Patisserie Chaton",
+        "description": "Welcome to La Pâtisserie Chaton! Your job is to bake delicious macarons to satisfy the orders of your cat customers.  Be sure to comment your high score!\nClick the cat to take its order. Click the arrows on the sides of the screen to navigate through the order room, mixing room, oven room and cream room. \nIn the mixing room, choose the flavour for the macaron shells according to the order at the top. Drag the piping bag to the tray to pipe the macaron shells. Click the filled tray to pass it to the oven room. Click the oven to open/close the door, and drag the pan inside. When the timer reaches green, open the oven. If you wait too long, the macarons will burn! In the cream room, choose the right cream flavour and drag the fitting piping bag to the tray. Click the order you have fulfilled on the top, and click the bell to deliver the macarons to their eager cat customer. \nThe cats will rate you out of 5 stars based on your speed, if you got their shell and cream flavours right, and if you didn't burn the macarons. As you are baking, you will receive more and more orders, so try to do as many as you can at once, as fast as you can. Being a macaron chef can be hard work, but always a lot of fun!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjIxNDQwNS8xMzEwMTIwNi5wbmc=/original/34a1bw.png",
+          "https://img.itch.zone/aW1hZ2UvMjIxNDQwNS8xMzEwMTIwMC5wbmc=/original/nRc%2BHj.png",
+          "https://img.itch.zone/aW1hZ2UvMjIxNDQwNS8xMzEwMTE5OC5wbmc=/original/FzNuA9.png",
+          "https://img.itch.zone/aW1hZ2UvMjIxNDQwNS8xMzEwMTE5OS5wbmc=/original/jogxlm.png",
+          "https://img.itch.zone/aW1hZ2UvMjIxNDQwNS8xMzEwMTIwMS5wbmc=/original/LYvNJu.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.2 out of 5 stars(5 total ratings)",
+          "Author": "silvella",
+          "Made with": "Unity",
+          "Tags": "2D, Animals, baking, Cats, Cooking, Cute, Endless, macaron, Point & Click, Relaxing"
+        }
+      }
+    },
+    {
+      "gameId": 2202846,
+      "gameUrl": "https://davidvaan.itch.io/ride-home",
+      "overallRank": 11,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "created_at": "2023-08-05 14:33:05",
+        "id": 444019,
+        "game": {
+          "id": 2202846,
+          "short_text": "In this Deck-Builing Conversation Simulator you get one final chance to get to know your fellow summer resort volunteer.",
+          "url": "https://davidvaan.itch.io/ride-home",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEzMTExOTk2LnBuZw==/300x240%23c/X3kddJ.png",
+          "title": "RIDE HOME",
+          "user": {
+            "id": 8480607,
+            "url": "https://davidvaan.itch.io",
+            "name": "DavidVaan"
+          },
+          "cover_color": "#0f1431"
+        },
+        "rating_count": 0,
+        "coolness": 0,
+        "url": "/jam/my-first-game-jam-summer-2023/rate/2202846"
+      },
+      "details": {
+        "title": "RIDE HOME",
+        "description": "In this Deck-Building Conversation Simulator, you must choose your cards correctly to have a deep conversation with your fellow summer resort volunteer. You guys will go seperate ways after this, so it's your last chance to build a connection and find out what's going on in his mind.\nThis is the first game I ever completed, and I made it for the \"My First Game Jam: Summer 2023\" game jam, whose theme was \"Cycles\". But in a broader sense I made it to get myself out of a long rough patch I'm going through.\nI hope other people will like it and maybe find it useful.\nAll the art in the game was custom made by the talented Sara Antonellini who also helped out with the story.\nThe music you hear was custom made by the amazing IsaDRandom.\nAlso a special thanks goes to Daniele for his professional psychological feedback.\nIt's been real fun making it a group project. Thank you so much for wanting to help me out.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjIwMjg0Ni8xMzAzNzk1MC5qcGVn/original/a%2Ftr6M.jpeg",
+          "https://img.itch.zone/aW1hZ2UvMjIwMjg0Ni8xMzAzNzk0OC5qcGVn/original/pM0pIK.jpeg",
+          "https://img.itch.zone/aW1hZ2UvMjIwMjg0Ni8xMzAzODQzMC5wbmc=/original/cddeIj.png",
+          "https://img.itch.zone/aW1hZ2UvMjIwMjg0Ni8xMzAzODQwMC5wbmc=/original/c77TF4.png",
+          "https://img.itch.zone/aW1hZ2UvMjIwMjg0Ni8xMzAzNzk0Ny5qcGVn/original/PZz14%2F.jpeg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 5.0 out of 5 stars(3 total ratings)",
+          "Author": "DavidVaan",
+          "Genre": "Visual Novel, Card Game",
+          "Made with": "Ren'Py",
+          "Tags": "Atmospheric, Cozy, Lo-fi, Mental Health, My First Game Jam, Narrative, Singleplayer, Slice Of Life, storygame",
+          "Average session": "About a half-hour",
+          "Languages": "English, Italian",
+          "Inputs": "Keyboard, Mouse",
+          "Accessibility": "Color-blind friendly, High-contrast"
+        }
+      }
+    },
+    {
+      "gameId": 2205992,
+      "gameUrl": "https://hadbeen.itch.io/knowing-me",
+      "overallRank": 12,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "created_at": "2023-08-06 03:04:27",
+        "id": 444260,
+        "game": {
+          "id": 2205992,
+          "short_text": "Get attached to a stranger in five minutes or less.",
+          "url": "https://hadbeen.itch.io/knowing-me",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEzMDQ0MTgwLnBuZw==/300x240%23c/k2X%2FFQ.png",
+          "title": "Getting to Know You",
+          "user": {
+            "id": 6298927,
+            "url": "https://hadbeen.itch.io",
+            "name": "hadbeen"
+          },
+          "cover_color": "#323a45"
+        },
+        "rating_count": 0,
+        "coolness": 0,
+        "url": "/jam/my-first-game-jam-summer-2023/rate/2205992"
+      },
+      "details": {
+        "title": "Getting to Know You",
+        "description": "made in two weeks for my first game jam: summer 2023.\nPARTICIPANT 01-01: Has been paired up with far too many people for far too many five-minute research sessions. Small talk, banter, and mild philosophy are their staple foods.\nPARTICIPANT 02-18: The most recent in an extensive line of participants. Here to do some self-discovery and test some boundaries.\nTHE EXPERIMENT: How long does it actually take to feel something, anything?",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzEzMDQ0MTgwLnBuZw==/original/wVB0Ny.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(8 total ratings)",
+          "Author": "hadbeen",
+          "Genre": "Interactive Fiction",
+          "Made with": "Twine",
+          "Tags": "Multiple Endings, My First Game Jam, Narrative, Romance, Short, Story Rich, Text based",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 2205647,
+      "gameUrl": "https://fruitsdancer.itch.io/animal-maker-alpha",
+      "overallRank": 13,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 0,
+        "created_at": "2023-08-05 23:16:43",
+        "id": 444176,
+        "game": {
+          "id": 2205647,
+          "short_text": "Create your own animal and race to the goal!",
+          "url": "https://fruitsdancer.itch.io/animal-maker-alpha",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEzMDQxODgwLnBuZw==/300x240%23c/nCamQk.png",
+          "title": "animal maker α",
+          "user": {
+            "id": 804812,
+            "url": "https://fruitsdancer.itch.io",
+            "name": "fruitsdancer"
+          },
+          "cover_color": "#DEACC8"
+        },
+        "rating_count": 0,
+        "url": "/jam/my-first-game-jam-summer-2023/rate/2205647",
+        "contributors": [
+          {
+            "url": "https://fruitsdancer.itch.io",
+            "name": "fruitsdancer"
+          },
+          {
+            "url": "https://ghostpastry.itch.io",
+            "name": "ghostpastry"
+          }
+        ]
+      },
+      "details": {
+        "title": "animal maker α",
+        "description": "Create your own animal and race to the goal!\nA short game about creating a dysfunctional functional animal and going for the best time in a course that challenges you to run, fly, and swim. Created for My First Game Jam: Summer 2023.\nControls:\nTO MOVE: Arrow Keys / WASDTO JUMP: Space / EnterTO GLIDE: Hold Space / Enter while jumpingTO RESTART RACE: CTRL+D during raceTO SELECT: Click on-screen\nTO CONFIRM: Click on-screen or Space / EnterNot currently compatible with MacOS / iOS.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjIwNTY0Ny8xMzA0MTgwNS5wbmc=/original/ejWw1A.png",
+          "https://img.itch.zone/aW1hZ2UvMjIwNTY0Ny8xMzA0MTgxNC5wbmc=/original/9d84m5.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.7 out of 5 stars(3 total ratings)",
+          "Authors": "fruitsdancer, ghostpastry",
+          "Genre": "Platformer",
+          "Made with": "Aseprite, Godot, Clip Studio Paint",
+          "Tags": "2D, Godot, Pixel Art, Short",
+          "Average session": "A few minutes",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 2195959,
+      "gameUrl": "https://voidgazerbon.itch.io/again",
+      "overallRank": 14,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "created_at": "2023-07-30 15:58:26",
+        "id": 441917,
+        "game": {
+          "id": 2195959,
+          "short_text": "Again! is a puzzle-platformer in which even death moves you forward to the goal.",
+          "url": "https://voidgazerbon.itch.io/again",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEyOTc1ODQwLnBuZw==/300x240%23c/UfbPF9.png",
+          "title": "Again!",
+          "user": {
+            "id": 2935291,
+            "url": "https://voidgazerbon.itch.io",
+            "name": "voidgazerBon"
+          },
+          "cover_color": "#1D2B53"
+        },
+        "rating_count": 0,
+        "coolness": 0,
+        "url": "/jam/my-first-game-jam-summer-2023/rate/2195959"
+      },
+      "details": {
+        "title": "Again!",
+        "description": "Description:\n\nAgain! is a puzzle-platformer game in which even death moves you towards your goal. With a clever use of your previous attempts, you can progress through 9 levels and 3 different environments. Again! was created as an entry to My First Game Jam: Summer 2023 with the theme \"Cycles\". \n\nControls:\nArrow-key: Movement X: Jump (hold to charge)  Z: Reset the level P: menu (turn music on/off)\nDevelopment:\nThe game was created in Pico-8 over one weekend.\n2023-08-11 -- added one new level to improve difficulty curve-- overhaul of level 5-62023-08-15-- animation loop fixed,  jump tweaked,  level order changed,  minor bugs fixed 2023-08-21-- fix acid decay in level 10\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjE5NTk1OS8xMjk3NTkyMC5naWY=/original/l%2FvZ42.gif",
+          "https://img.itch.zone/aW1hZ2UvMjE5NTk1OS8xMjk3NTkyMS5naWY=/original/enARjv.gif",
+          "https://img.itch.zone/aW1hZ2UvMjE5NTk1OS8xMjk3NTkyMi5naWY=/original/0vGFc%2B.gif",
+          "https://img.itch.zone/aW1hZ2UvMjE5NTk1OS8xMjk3NTkyNi5wbmc=/original/3Ioe8G.png",
+          "https://img.itch.zone/aW1hZ2UvMjE5NTk1OS8xMjk3NTkyNy5wbmc=/original/tyd8uK.png",
+          "https://img.itch.zone/aW1hZ2UvMjE5NTk1OS8xMjk3NTkyOC5wbmc=/original/hyPLab.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 3.7 out of 5 stars(6 total ratings)",
+          "Author": "voidgazerBon",
+          "Genre": "Platformer, Puzzle",
+          "Made with": "PICO-8",
+          "Tags": "PICO-8, Pixel Art, Puzzle-Platformer, Retro"
+        }
+      }
+    },
+    {
+      "gameId": 2202027,
+      "gameUrl": "https://tatarmatar.itch.io/ink",
+      "overallRank": 15,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 0,
+        "created_at": "2023-08-03 15:17:01",
+        "id": 443701,
+        "game": {
+          "id": 2202027,
+          "short_text": "INKRUN",
+          "url": "https://tatarmatar.itch.io/ink",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEzMDIwMjcyLnBuZw==/300x240%23c/q601xB.png",
+          "title": "INK",
+          "user": {
+            "id": 6261420,
+            "url": "https://tatarmatar.itch.io",
+            "name": "TatarMatar"
+          },
+          "cover_color": "#000000"
+        },
+        "rating_count": 0,
+        "url": "/jam/my-first-game-jam-summer-2023/rate/2202027",
+        "contributors": [
+          {
+            "url": "https://tatarmatar.itch.io",
+            "name": "TatarMatar"
+          },
+          {
+            "url": "https://jorikjes.itch.io",
+            "name": "JorikJes"
+          }
+        ]
+      },
+      "details": {
+        "title": "INK",
+        "description": "INK\nRunning game\nHelp little Belyash to get home in the rain.\nProtect him from falling ink drops with an umbrella, lay the boards under his feet without allowing him to get dirty.\nKeyboard:\nnumber 2 - Umbrella\nnumber 3 - panel\nMove the mouse and defend yourself\n\n\nCreated:\n\nTatar - Art            \n\nJorik - Code  \n\nCreated for MFGJ-2023",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjIwMjAyNy8xMzAyMDQ4OC5wbmc=/original/BIksW5.png",
+          "https://img.itch.zone/aW1hZ2UvMjIwMjAyNy8xMzAyMDQ3MS5naWY=/original/vaTrFx.gif",
+          "https://img.itch.zone/aW1hZ2UvMjIwMjAyNy8xMzAyMDQ3Mi5naWY=/original/cCPK9t.gif",
+          "https://img.itch.zone/aW1hZ2UvMjIwMjAyNy8xMzAyMDQ4OS5wbmc=/original/VGJPlf.png",
+          "https://img.itch.zone/aW1hZ2UvMjIwMjAyNy8xMzAyMDQ5MS5wbmc=/original/L6K0e5.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.0 out of 5 stars(8 total ratings)",
+          "Authors": "TatarMatar, JorikJes",
+          "Genre": "Action",
+          "Made with": "Unity",
+          "Tags": "Arcade, Bullet Hell, Casual, Cute, Minimalist, My First Game Jam, Relaxing, Runner, Singleplayer, Unity"
+        }
+      }
+    }
+  ]
+}

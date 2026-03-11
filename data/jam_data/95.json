@@ -1,0 +1,2697 @@
+{
+  "n": 95,
+  "name": "GDevelop BIG Game Jam #8",
+  "url": "https://itch.io/jam/gdevelop-big-game-jam-8",
+  "theme": "Take Control",
+  "slug": "gdevelop-big-game-jam-8",
+  "jamMeta": {
+    "jamType": "ended",
+    "ratings": "5,562",
+    "entries": "345",
+    "title": "GDevelop BIG Game Jam #8",
+    "jamURL": "https://itch.io/jam/gdevelop-big-game-jam-8",
+    "hosts": {
+      "GDevelop": "https://gdevelopapp.itch.io",
+      "HelperWesley": "https://helperwesley.itch.io",
+      "#GDevelop": "https://bsky.app/hashtag/GDevelop"
+    },
+    "jamID": "409577"
+  },
+  "totalEntries": 334,
+  "ranked": true,
+  "hasCategories": true,
+  "needsManualSelection": false,
+  "categories": [
+    "Audio",
+    "Fun & Game Design",
+    "Originality & Innovation",
+    "Graphics",
+    "Theme"
+  ],
+  "topGames": [
+    {
+      "gameId": 4043620,
+      "gameUrl": "https://thereal-niromcmuffin.itch.io/phase",
+      "overallRank": 1,
+      "topCategories": [
+        "Audio",
+        "Fun & Game Design",
+        "Originality & Innovation",
+        "Graphics",
+        "Theme"
+      ],
+      "resultData": {
+        "title": "PHASE",
+        "raw_score": 4.4071428571429,
+        "cover_url": "https://img.itch.zone/aW1nLzI0MTA2NTI3LnBuZw==/300x240%23c/w%2FMTK6.png",
+        "id": 4043620,
+        "contributors": [
+          {
+            "name": "NiroMcMuffin",
+            "id": 4186659
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Audio",
+            "raw_score": 4.3214285714286,
+            "score": 4.3214285714286,
+            "rank": 1
+          },
+          {
+            "name": "Fun & Game Design",
+            "raw_score": 4.3928571428571,
+            "score": 4.3928571428571,
+            "rank": 1
+          },
+          {
+            "name": "Originality & Innovation",
+            "raw_score": 4.25,
+            "score": 4.25,
+            "rank": 1
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.6428571428571,
+            "score": 4.6428571428571,
+            "rank": 1
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.4285714285714,
+            "score": 4.4285714285714,
+            "rank": 1
+          }
+        ],
+        "score": 4.4071428571429,
+        "rating_count": 28,
+        "rank": 1,
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-8/rate/4043620"
+      },
+      "entryData": {
+        "coolness": 1,
+        "rating_count": 28,
+        "id": 797099,
+        "game": {
+          "title": "PHASE",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0MTA2NTI3LnBuZw==/300x240%23c/w%2FMTK6.png",
+          "id": 4043620,
+          "short_text": "play as a ghost child and possess (phase) objects to progress",
+          "cover_color": "#000000",
+          "user": {
+            "name": "NiroMcMuffin",
+            "url": "https://thereal-niromcmuffin.itch.io",
+            "id": 4186659
+          },
+          "url": "https://thereal-niromcmuffin.itch.io/phase"
+        },
+        "created_at": "2025-11-16 21:06:23",
+        "url": "/jam/gdevelop-big-game-jam-8/rate/4043620"
+      },
+      "details": {
+        "title": "PHASE",
+        "description": "in Phase. you play as a Little ghost child\nYou wake up in a strange new world called \"the inbetween\"\nand must use your ghostly powers to \"Phase\" objects. possessing them. and using them to progress",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDA0MzYyMC8yNDExNzc5NS5wbmc=/original/kkyB%2Fc.png",
+          "https://img.itch.zone/aW1hZ2UvNDA0MzYyMC8yNDExNzgwNC5wbmc=/original/bXKidk.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows, macOS, Linux",
+          "Release date": "Nov 16, 2025",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "NiroMcMuffin",
+          "Genre": "Platformer, Puzzle",
+          "Made with": "GDevelop",
+          "Tags": "Ghosts, My First Game Jam, No AI, Space",
+          "Average session": "A few minutes",
+          "Inputs": "Keyboard, Touchscreen",
+          "Accessibility": "Configurable controls"
+        }
+      }
+    },
+    {
+      "gameId": 4044193,
+      "gameUrl": "https://jjgamez64.itch.io/breach-phantom",
+      "overallRank": 13,
+      "topCategories": [
+        "Audio",
+        "Theme"
+      ],
+      "resultData": {
+        "title": "BREACH Phantom",
+        "raw_score": 3.6971428571429,
+        "cover_url": "https://img.itch.zone/aW1nLzI0MTE0MTk2LmdpZg==/300x240%23c/4jCdDD.gif",
+        "id": 4044193,
+        "contributors": [
+          {
+            "name": "JJGamez64",
+            "id": 3368461
+          },
+          {
+            "name": "Ren_",
+            "id": 6693530
+          },
+          {
+            "name": "Luckythespacecat",
+            "id": 7685447
+          },
+          {
+            "name": "vincentizghra",
+            "id": 1229525
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Fun & Game Design",
+            "raw_score": 2.9428571428571,
+            "score": 2.9428571428571,
+            "rank": 118
+          },
+          {
+            "name": "Audio",
+            "raw_score": 4.0857142857143,
+            "score": 4.0857142857143,
+            "rank": 2
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.8,
+            "score": 3.8,
+            "rank": 27
+          },
+          {
+            "name": "Originality & Innovation",
+            "raw_score": 3.5142857142857,
+            "score": 3.5142857142857,
+            "rank": 41
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.1428571428571,
+            "score": 4.1428571428571,
+            "rank": 8
+          }
+        ],
+        "score": 3.6971428571429,
+        "rating_count": 35,
+        "rank": 13,
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-8/rate/4044193"
+      },
+      "entryData": {
+        "coolness": 49,
+        "rating_count": 35,
+        "id": 796378,
+        "contributors": [
+          {
+            "name": "JJGamez64",
+            "url": "https://jjgamez64.itch.io"
+          },
+          {
+            "name": "Ren_",
+            "url": "https://renovershares.itch.io"
+          },
+          {
+            "name": "Luckythespacecat",
+            "url": "https://luckythespacecat.itch.io"
+          },
+          {
+            "name": "vincentizghra",
+            "url": "https://vincentizghra.itch.io"
+          }
+        ],
+        "game": {
+          "title": "BREACH Phantom",
+          "cover": "https://img.itch.zone/aW1nLzI0MTE0MTk2LmdpZg==/300x240%23c/4jCdDD.gif",
+          "id": 4044193,
+          "user": {
+            "name": "JJGamez64",
+            "url": "https://jjgamez64.itch.io",
+            "id": 3368461
+          },
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#262b44",
+          "short_text": "Play as a sentient A.I. Companion named Anna to TAKE CONTROL of machines to fight your way back to your Creator!",
+          "url": "https://jjgamez64.itch.io/breach-phantom",
+          "gif_cover": "https://img.itch.zone/aW1nLzI0MTE0MTk2LmdpZg==/original/9RG2mp.gif"
+        },
+        "created_at": "2025-11-16 12:10:24",
+        "url": "/jam/gdevelop-big-game-jam-8/rate/4044193"
+      },
+      "details": {
+        "title": "BREACH Phantom",
+        "description": "Play as a sentient A.I. Companion named Anna to TAKE CONTROL of machines to fight your way back to your Creator!CONTROLSWASD or Arrow Keys to Move/Aim Space to Switch to \"Possession Selection\" and \"Confirm Possession\" K or X to Cancel \"Possession Selection\" or Self-Destruct a Possessed Enemy J or Z to used Possess Action/Fire Gun",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzI0MTE0MTk2LmdpZg==/original/9RG2mp.gif"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Authors": "JJGamez64, Ren_, Luckythespacecat, vincentizghra",
+          "Genre": "Action",
+          "Made with": "GDevelop"
+        }
+      }
+    },
+    {
+      "gameId": 4037500,
+      "gameUrl": "https://rosolowski.itch.io/iron-flow",
+      "overallRank": 6,
+      "topCategories": [
+        "Audio",
+        "Fun & Game Design",
+        "Graphics"
+      ],
+      "resultData": {
+        "title": "Iron Flow",
+        "raw_score": 3.83,
+        "cover_url": "https://img.itch.zone/aW1nLzI0MDcwNjc1LnBuZw==/300x240%23c/6BUA3M.png",
+        "id": 4037500,
+        "contributors": [
+          {
+            "name": "rosolowski_dev",
+            "id": 15321679
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Audio",
+            "raw_score": 4,
+            "score": 4,
+            "rank": 3
+          },
+          {
+            "name": "Fun & Game Design",
+            "raw_score": 4.35,
+            "score": 4.35,
+            "rank": 2
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.2,
+            "score": 4.2,
+            "rank": 8
+          },
+          {
+            "name": "Originality & Innovation",
+            "raw_score": 3.85,
+            "score": 3.85,
+            "rank": 11
+          },
+          {
+            "name": "Theme",
+            "raw_score": 2.75,
+            "score": 2.75,
+            "rank": 130
+          }
+        ],
+        "score": 3.83,
+        "rating_count": 20,
+        "rank": 6,
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-8/rate/4037500"
+      },
+      "entryData": {
+        "coolness": 3,
+        "rating_count": 20,
+        "id": 794511,
+        "game": {
+          "title": "Iron Flow",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0MDcwNjc1LnBuZw==/300x240%23c/6BUA3M.png",
+          "id": 4037500,
+          "short_text": "Keep your fighting flow going while freeing villages overrun by monsters!",
+          "cover_color": "#000000",
+          "user": {
+            "name": "rosolowski_dev",
+            "url": "https://rosolowski.itch.io",
+            "id": 15321679
+          },
+          "url": "https://rosolowski.itch.io/iron-flow"
+        },
+        "created_at": "2025-11-13 19:39:27",
+        "url": "/jam/gdevelop-big-game-jam-8/rate/4037500"
+      },
+      "details": {
+        "title": "Iron Flow",
+        "description": "Welcome to Iron Flow!\nIn this game you play as a cursed warrior who is losing his mind. Your only way to maintain clarity is through action. Run, fight, survive.\nIn the game you will have to beat challenging platforming stages that will push your parkouring skills to the limit. Time your attacks carefully as you defeat various monsters, including scary skeletons, goblins, wolfs and bats!\nYou must keep your flow going. To free the villages from monsters you will have to capture and defend flags from waves of monsters. Hold the point long enough to progress further. In each stage you will meet new enemies and the difficulty will increase!\n\nCHANGELOG:\n1.1 - added difficulty and volume settings in menu, adjusted platforms\n\nWarning: the game can be pretty  difficult, requires a lot of skill!\n\nControls:\nleft and right arrows - move\nspacebar - jump, dash in air\n\nSubmit your best time in the comments... if you can finish the game!\nGame created for the GDevelop Big Game Jam #8You can check out the dev process on my X profile!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDAzNzUwMC8yNDA3MDg2OC5wbmc=/original/sGJhxW.png",
+          "https://img.itch.zone/aW1hZ2UvNDAzNzUwMC8yNDA3MDg3Mi5wbmc=/original/kdTkYp.png",
+          "https://img.itch.zone/aW1hZ2UvNDAzNzUwMC8yNDA3MDg5NS5wbmc=/original/3z79me.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "rosolowski_dev",
+          "Genre": "Action",
+          "Made with": "GDevelop",
+          "Tags": "2D, Arcade, No AI, Pixel Art, Retro, Short, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 4041101,
+      "gameUrl": "https://najolote.itch.io/dont-leave-me",
+      "overallRank": 36,
+      "topCategories": [
+        "Audio"
+      ],
+      "resultData": {
+        "title": "Don't leave me",
+        "raw_score": 3.4714285714286,
+        "cover_url": "https://img.itch.zone/aW1nLzI0MDkxMjg3LnBuZw==/300x240%23c/jwRk6d.png",
+        "id": 4041101,
+        "contributors": [
+          {
+            "name": "Najolote Studios",
+            "id": 11349663
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Audio",
+            "raw_score": 3.7142857142857,
+            "score": 3.7142857142857,
+            "rank": 5
+          },
+          {
+            "name": "Fun & Game Design",
+            "raw_score": 3.4285714285714,
+            "score": 3.4285714285714,
+            "rank": 55
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.0714285714286,
+            "score": 4.0714285714286,
+            "rank": 13
+          },
+          {
+            "name": "Originality & Innovation",
+            "raw_score": 3.5,
+            "score": 3.5,
+            "rank": 42
+          },
+          {
+            "name": "Theme",
+            "raw_score": 2.6428571428571,
+            "score": 2.6428571428571,
+            "rank": 152
+          }
+        ],
+        "score": 3.4714285714286,
+        "rating_count": 14,
+        "rank": 36,
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-8/rate/4041101"
+      },
+      "entryData": {
+        "coolness": 12,
+        "rating_count": 14,
+        "id": 796907,
+        "game": {
+          "title": "Don't leave me",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0MDkxMjg3LnBuZw==/300x240%23c/jwRk6d.png",
+          "id": 4041101,
+          "cover_color": "#000000",
+          "user": {
+            "name": "Najolote Studios",
+            "url": "https://najolote.itch.io",
+            "id": 11349663
+          },
+          "url": "https://najolote.itch.io/dont-leave-me"
+        },
+        "created_at": "2025-11-16 19:18:36",
+        "url": "/jam/gdevelop-big-game-jam-8/rate/4041101"
+      },
+      "details": {
+        "title": "Don't leave me",
+        "description": "\nAfter World War III, only Dexina remains: a dictatorship that controls people with chips that erase pain, memory, and free will.\nYou \"died\"... but you're still alive. Dumped in a junkyard, you decide to escape and find Lily before she suffers the same fate.\nYour body is damaged from years of being deprived of freedom: sometimes it freezes, stiffens, or becomes unresponsive.\nYour mission is to regain control, battling your own body's failings as you navigate through machines, enslaved workers, and a system that wants to leave you for dead again.\nExplore, dodge, endure the pain, and recover your mobility to escape the factory.\nA short game about surviving... and taking control for the first time.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDA0MTEwMS8yNDA5MTI5Mi5wbmc=/original/EsOjbk.png",
+          "https://img.itch.zone/aW1hZ2UvNDA0MTEwMS8yNDA5MTI5NS5wbmc=/original/pboJ0H.png",
+          "https://img.itch.zone/aW1hZ2UvNDA0MTEwMS8yNDExNDU0OS5wbmc=/original/mnC%2F0v.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Author": "Najolote Studios",
+          "Made with": "GDevelop",
+          "Tags": "3D, First-Person, Indie, Narrative, Short, Simple"
+        }
+      }
+    },
+    {
+      "gameId": 4043493,
+      "gameUrl": "https://alfayin.itch.io/the-possession-soul",
+      "overallRank": 10,
+      "topCategories": [
+        "Audio",
+        "Graphics"
+      ],
+      "resultData": {
+        "title": "The possession soul",
+        "raw_score": 3.7407407407407,
+        "cover_url": "https://img.itch.zone/aW1nLzI0MTcwNzg1LnBuZw==/300x240%23c/kPC9m5.png",
+        "id": 4043493,
+        "contributors": [
+          {
+            "name": "Alfayin",
+            "id": 7989851
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Audio",
+            "raw_score": 3.7037037037037,
+            "score": 3.7037037037037,
+            "rank": 6
+          },
+          {
+            "name": "Fun & Game Design",
+            "raw_score": 3.5185185185185,
+            "score": 3.5185185185185,
+            "rank": 47
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.1111111111111,
+            "score": 4.1111111111111,
+            "rank": 11
+          },
+          {
+            "name": "Originality & Innovation",
+            "raw_score": 3.5185185185185,
+            "score": 3.5185185185185,
+            "rank": 40
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.8518518518519,
+            "score": 3.8518518518519,
+            "rank": 18
+          }
+        ],
+        "score": 3.7407407407407,
+        "rating_count": 27,
+        "rank": 10,
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-8/rate/4043493"
+      },
+      "entryData": {
+        "coolness": 5,
+        "rating_count": 27,
+        "id": 796220,
+        "game": {
+          "title": "The possession soul",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0MTcwNzg1LnBuZw==/300x240%23c/kPC9m5.png",
+          "id": 4043493,
+          "cover_color": "#ab06dc",
+          "user": {
+            "name": "Alfayin",
+            "url": "https://alfayin.itch.io",
+            "id": 7989851
+          },
+          "url": "https://alfayin.itch.io/the-possession-soul"
+        },
+        "created_at": "2025-11-16 06:15:23",
+        "url": "/jam/gdevelop-big-game-jam-8/rate/4043493"
+      },
+      "details": {
+        "title": "The possession soul",
+        "description": "You are dead.\n \nAnd now, trapped between two worlds, only one escape remains: take control.\n \nHere, your soul has no weight, no shape. All that’s left is a void — a void that can only be filled by seizing the souls of those who have already departed, using the final spark of life that still lingers within them as fuel to flee the limbo swallowing you whole.\n \nEvery soul holds its final breath — and you choose how to spend it.\n \nStop time. Shift between realms. Plan, evade… all through bodies that are not your own. All of it by stealing seconds that never belonged to you.\n \nDeath is watching you.\n \nDeath is hunting you.\n \nAnd the only way out is simple:\n \nControl\n.\n\nHow to play?\nA E D to move\nSpace to jump\nLShift  to dash\nUse the mouse to aim when possessing a soul, and press the left mouse button to jump from the soul.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDA0MzQ5My8yNDEwNTk5OS5wbmc=/original/5%2FisZi.png",
+          "https://img.itch.zone/aW1hZ2UvNDA0MzQ5My8yNDEwNjAwMi5wbmc=/original/Cp7%2FrG.png",
+          "https://img.itch.zone/aW1hZ2UvNDA0MzQ5My8yNDEwNjAwMS5wbmc=/original/fNAC%2BN.png",
+          "https://img.itch.zone/aW1hZ2UvNDA0MzQ5My8yNDEwNjAwMC5wbmc=/original/jttBPk.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Alfayin",
+          "Genre": "Platformer",
+          "Made with": "GDevelop",
+          "Average session": "A few seconds",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 4026127,
+      "gameUrl": "https://dummy77.itch.io/oh-my-pc",
+      "overallRank": 5,
+      "topCategories": [
+        "Audio",
+        "Fun & Game Design",
+        "Originality & Innovation"
+      ],
+      "resultData": {
+        "title": "Oh, My PC",
+        "raw_score": 3.8646153846154,
+        "cover_url": "https://img.itch.zone/aW1nLzI0MTE0NjkyLnBuZw==/300x240%23c/qMTFeO.png",
+        "id": 4026127,
+        "contributors": [
+          {
+            "name": "AceDummy",
+            "id": 13171231
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Audio",
+            "raw_score": 3.6923076923077,
+            "score": 3.6923076923077,
+            "rank": 7
+          },
+          {
+            "name": "Fun & Game Design",
+            "raw_score": 4.0461538461538,
+            "score": 4.0461538461538,
+            "rank": 7
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.8615384615385,
+            "score": 3.8615384615385,
+            "rank": 26
+          },
+          {
+            "name": "Originality & Innovation",
+            "raw_score": 3.9538461538462,
+            "score": 3.9538461538462,
+            "rank": 8
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.7692307692308,
+            "score": 3.7692307692308,
+            "rank": 25
+          }
+        ],
+        "score": 3.8646153846154,
+        "rating_count": 65,
+        "rank": 5,
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-8/rate/4026127"
+      },
+      "entryData": {
+        "coolness": 16,
+        "rating_count": 65,
+        "id": 797013,
+        "game": {
+          "title": "Oh, My PC",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0MTE0NjkyLnBuZw==/300x240%23c/qMTFeO.png",
+          "id": 4026127,
+          "short_text": "A hacker hijacked your PC. Beat his minigames and—uh—avoid a blue screen?",
+          "cover_color": "#000850",
+          "user": {
+            "name": "AceDummy",
+            "url": "https://dummy77.itch.io",
+            "id": 13171231
+          },
+          "url": "https://dummy77.itch.io/oh-my-pc"
+        },
+        "created_at": "2025-11-16 19:59:17",
+        "url": "/jam/gdevelop-big-game-jam-8/rate/4026127"
+      },
+      "details": {
+        "title": "Oh, My PC",
+        "description": "Oh no! A hacker took control of your PC!\n \nBeat him at his own minigames to take it back. Defuse bombs, pilot a spaceship, and… try not to get a blue screen? Yeah, I don’t know why that’s a thing either.\n \nYou can press X and Z to skip some dialogue if your attention span is that of a goldfish",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDAyNjEyNy8yNDExNjg0MS5wbmc=/original/iWimXy.png",
+          "https://img.itch.zone/aW1hZ2UvNDAyNjEyNy8yNDExNjgzOS5wbmc=/original/EmvTu%2B.png",
+          "https://img.itch.zone/aW1hZ2UvNDAyNjEyNy8yNDExNjgzOC5wbmc=/original/GdVFJc.png",
+          "https://img.itch.zone/aW1hZ2UvNDAyNjEyNy8yNDExNjg0MC5wbmc=/original/V%2BKY%2B4.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "AceDummy",
+          "Genre": "Action",
+          "Made with": "GDevelop",
+          "Tags": "No AI, Pixel Art, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 4044537,
+      "gameUrl": "https://lukbina.itch.io/little-potion-post",
+      "overallRank": 32,
+      "topCategories": [
+        "Audio",
+        "Graphics"
+      ],
+      "resultData": {
+        "title": "Little Potion Post",
+        "raw_score": 3.5297297297297,
+        "cover_url": "https://img.itch.zone/aW1nLzI0MTE0OTY0LnBuZw==/300x240%23c/OJIsh5.png",
+        "id": 4044537,
+        "contributors": [
+          {
+            "name": "lukbina",
+            "id": 2892727
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Audio",
+            "raw_score": 3.6756756756757,
+            "score": 3.6756756756757,
+            "rank": 8
+          },
+          {
+            "name": "Fun & Game Design",
+            "raw_score": 3.4054054054054,
+            "score": 3.4054054054054,
+            "rank": 60
+          },
+          {
+            "name": "Originality & Innovation",
+            "raw_score": 3.4324324324324,
+            "score": 3.4324324324324,
+            "rank": 50
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.4324324324324,
+            "score": 4.4324324324324,
+            "rank": 2
+          },
+          {
+            "name": "Theme",
+            "raw_score": 2.7027027027027,
+            "score": 2.7027027027027,
+            "rank": 138
+          }
+        ],
+        "score": 3.5297297297297,
+        "rating_count": 37,
+        "rank": 32,
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-8/rate/4044537"
+      },
+      "entryData": {
+        "coolness": 71,
+        "rating_count": 37,
+        "id": 796808,
+        "game": {
+          "title": "Little Potion Post",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0MTE0OTY0LnBuZw==/300x240%23c/OJIsh5.png",
+          "id": 4044537,
+          "short_text": "A short, charming potion-making adventure",
+          "cover_color": "#FAEFE4",
+          "user": {
+            "name": "lukbina",
+            "url": "https://lukbina.itch.io",
+            "id": 2892727
+          },
+          "url": "https://lukbina.itch.io/little-potion-post"
+        },
+        "created_at": "2025-11-16 18:09:56",
+        "url": "/jam/gdevelop-big-game-jam-8/rate/4044537"
+      },
+      "details": {
+        "title": "Little Potion Post",
+        "description": "Little Potion Post\nRun a cozy potion stand in the heart of an enchanted forest.\nWhen Mimi the witch must leave unexpectedly, she asks her friend Ash to take control of the shop. \nMix essences, discover 36 potion combinations, and serve adorable fantasy creatures, where the order of ingredients really matters.\nUnlock new essences each day, earn gold, and keep the customers happy… all while a picky magical cat keeps an eye on your cauldron.\nA short, charming potion-making adventure about helping a friend and mastering the magic of the shop.\nLong Version \nTo keep this project under the asset limit for the jam upload, I reduced the game to one simplified level, bringing the asset count down to 970 from 2982. Because of this, many cosmetic details, animations, and progression elements had to be removed or shortened for the online version.\n \nThe full experience includes:\n \n  5 complete days/levels\n   all 36 potion combinations extra animations, visual details, and polish\nIf you'd like to enjoy the complete version of Little Potion Post with all the visuals and features included, you can download it separately. Thank you so much for trying the jam version and for your understanding! 💖✨\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDA0NDUzNy8yNDExMjY0OC5wbmc=/original/45kBJz.png",
+          "https://img.itch.zone/aW1hZ2UvNDA0NDUzNy8yNDExMjY1MS5wbmc=/original/%2FqyZuB.png",
+          "https://img.itch.zone/aW1hZ2UvNDA0NDUzNy8yNDExMjY1Mi5wbmc=/original/juJy8%2F.png",
+          "https://img.itch.zone/aW1hZ2UvNDA0NDUzNy8yNDExMjY0OS5wbmc=/original/BbMwpd.png",
+          "https://img.itch.zone/aW1hZ2UvNDA0NDUzNy8yNDExMjY1My5wbmc=/original/Hz4Ice.png",
+          "https://img.itch.zone/aW1hZ2UvNDA0NDUzNy8yNDExMjY1NC5wbmc=/original/RkTzyc.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Author": "lukbina",
+          "Genre": "Simulation, Puzzle",
+          "Made with": "GDevelop",
+          "Tags": "Animation, Cats, Cozy, Cute, gdeveloper, potions, Short"
+        }
+      }
+    },
+    {
+      "gameId": 4035885,
+      "gameUrl": "https://unskippable-cutscene.itch.io/devs-plan",
+      "overallRank": 2,
+      "topCategories": [
+        "Audio",
+        "Fun & Game Design",
+        "Originality & Innovation",
+        "Graphics",
+        "Theme"
+      ],
+      "resultData": {
+        "title": "Dev's Plan",
+        "raw_score": 4.0571428571429,
+        "cover_url": "https://img.itch.zone/aW1nLzI0MDc1NDAzLnBuZw==/300x240%23c/OxVbn7.png",
+        "id": 4035885,
+        "contributors": [
+          {
+            "name": "Unskippable Cutscene",
+            "id": 13251772
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Audio",
+            "raw_score": 3.6666666666667,
+            "score": 3.6666666666667,
+            "rank": 9
+          },
+          {
+            "name": "Fun & Game Design",
+            "raw_score": 4.2380952380952,
+            "score": 4.2380952380952,
+            "rank": 3
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.1904761904762,
+            "score": 4.1904761904762,
+            "rank": 9
+          },
+          {
+            "name": "Originality & Innovation",
+            "raw_score": 4,
+            "score": 4,
+            "rank": 6
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.1904761904762,
+            "score": 4.1904761904762,
+            "rank": 5
+          }
+        ],
+        "score": 4.0571428571429,
+        "rating_count": 21,
+        "rank": 2,
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-8/rate/4035885"
+      },
+      "entryData": {
+        "coolness": 31,
+        "rating_count": 21,
+        "id": 796604,
+        "game": {
+          "title": "Dev's Plan",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0MDc1NDAzLnBuZw==/300x240%23c/OxVbn7.png",
+          "id": 4035885,
+          "short_text": "Rewrite reality from within a terminal. Gain the power to CREATE and DELETE, and defy the Developer's Rules.",
+          "cover_color": "#000000",
+          "user": {
+            "name": "Unskippable Cutscene",
+            "url": "https://unskippable-cutscene.itch.io",
+            "id": 13251772
+          },
+          "url": "https://unskippable-cutscene.itch.io/devs-plan"
+        },
+        "created_at": "2025-11-16 15:36:44",
+        "url": "/jam/gdevelop-big-game-jam-8/rate/4035885"
+      },
+      "details": {
+        "title": "Dev's Plan",
+        "description": "Dev’s Plan is a short experimental platformer where you explore a digital world built by a watchful, ever-present Dev().\nThey guide you. They instruct you. They monitor every move you make.\n \nUntil you find access to something you shouldn’t have: the system console.\n \nFrom there? Everything changes.\n\n\n🧪 FEATURES\n  🟦 A minimal neon world\n   🟩 Powers that let you bend the rules\n   🟣 A console interface you were “not meant to open”\n   🟥 A story told through system messages and your actions\n   🕳️ A finale that destabilizes everything you thought you understood\n\n\n🎮 HOW TO PLAY\n  Move: WASD / Arrow Keys\n   Jump: Space\n   Console: [C] or [Right Mouse] Use system commands to modify the world\n  [R] to Restart Level\nBuilt solo for the GDevelop BIG Game Jam #8 in just 9 days. Short, strange, and designed to be experienced blind.\n \nIf players enjoy it, I may expand the concept further.\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDAzNTg4NS8yNDEwNTgzMS5wbmc=/original/cF4IE%2F.png",
+          "https://img.itch.zone/aW1hZ2UvNDAzNTg4NS8yNDExMjY2Mi5wbmc=/original/BXwMbi.png",
+          "https://img.itch.zone/aW1hZ2UvNDAzNTg4NS8yNDExMjc5NS5wbmc=/original/s89PIE.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Unskippable Cutscene",
+          "Genre": "Platformer",
+          "Made with": "GDevelop",
+          "Tags": "16-bit, Experimental, gdevelop, mind-bending, Pixel Art, Side Scroller, weird"
+        }
+      }
+    },
+    {
+      "gameId": 4045115,
+      "gameUrl": "https://jakeygamer.itch.io/take-ctrl",
+      "overallRank": 3,
+      "topCategories": [
+        "Audio",
+        "Fun & Game Design",
+        "Theme"
+      ],
+      "resultData": {
+        "title": "TAKE CTRL",
+        "raw_score": 3.8888888888889,
+        "cover_url": "https://img.itch.zone/aW1nLzI0MTU0MDMyLnBuZw==/300x240%23c/G%2FlWG9.png",
+        "id": 4045115,
+        "contributors": [
+          {
+            "name": "Jakeygamer",
+            "id": 13142874
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Audio",
+            "raw_score": 3.6666666666667,
+            "score": 3.6666666666667,
+            "rank": 9
+          },
+          {
+            "name": "Fun & Game Design",
+            "raw_score": 3.9444444444444,
+            "score": 3.9444444444444,
+            "rank": 9
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.8888888888889,
+            "score": 3.8888888888889,
+            "rank": 25
+          },
+          {
+            "name": "Originality & Innovation",
+            "raw_score": 3.7777777777778,
+            "score": 3.7777777777778,
+            "rank": 15
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.1666666666667,
+            "score": 4.1666666666667,
+            "rank": 7
+          }
+        ],
+        "score": 3.8888888888889,
+        "rating_count": 18,
+        "rank": 3,
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-8/rate/4045115"
+      },
+      "entryData": {
+        "coolness": 12,
+        "rating_count": 18,
+        "id": 796760,
+        "game": {
+          "title": "TAKE CTRL",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0MTU0MDMyLnBuZw==/300x240%23c/G%2FlWG9.png",
+          "id": 4045115,
+          "user": {
+            "name": "Jakeygamer",
+            "url": "https://jakeygamer.itch.io",
+            "id": 13142874
+          },
+          "url": "https://jakeygamer.itch.io/take-ctrl"
+        },
+        "created_at": "2025-11-16 17:45:48",
+        "url": "/jam/gdevelop-big-game-jam-8/rate/4045115"
+      },
+      "details": {
+        "title": "TAKE CTRL",
+        "description": "Use questionable telekinetic powers to fling furniture, bully soldiers, and escape a lab that definitely failed its safety inspection.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDA0NTExNS8yNDE3NDc1OS5wbmc=/original/CeeSCQ.png",
+          "https://img.itch.zone/aW1hZ2UvNDA0NTExNS8yNDE3NDc1OC5wbmc=/original/lmGipJ.png",
+          "https://img.itch.zone/aW1hZ2UvNDA0NTExNS8yNDE3NDc1Ny5wbmc=/original/mnvRxz.png",
+          "https://img.itch.zone/aW1hZ2UvNDA0NTExNS8yNDE3NDc2MS5wbmc=/original/hkjoPN.png",
+          "https://img.itch.zone/aW1hZ2UvNDA0NTExNS8yNDE3NDc2MC5wbmc=/original/BiSabT.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Author": "Jakeygamer",
+          "Genre": "Platformer",
+          "Made with": "GDevelop"
+        }
+      }
+    },
+    {
+      "gameId": 4040973,
+      "gameUrl": "https://nanotron-studio.itch.io/pop",
+      "overallRank": 4,
+      "topCategories": [
+        "Audio",
+        "Fun & Game Design",
+        "Originality & Innovation",
+        "Graphics"
+      ],
+      "resultData": {
+        "title": "Pop•Optics (JAM VERSION!)",
+        "raw_score": 3.88,
+        "cover_url": "https://img.itch.zone/aW1nLzI0MDkwNTQ5LnBuZw==/300x240%23c/NQ%2BqdT.png",
+        "id": 4040973,
+        "contributors": [
+          {
+            "name": "Nanotron Studio",
+            "id": 6356972
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Audio",
+            "raw_score": 3.6666666666667,
+            "score": 3.6666666666667,
+            "rank": 9
+          },
+          {
+            "name": "Fun & Game Design",
+            "raw_score": 4.0666666666667,
+            "score": 4.0666666666667,
+            "rank": 6
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.2666666666667,
+            "score": 4.2666666666667,
+            "rank": 7
+          },
+          {
+            "name": "Originality & Innovation",
+            "raw_score": 4.2,
+            "score": 4.2,
+            "rank": 2
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.2,
+            "score": 3.2,
+            "rank": 75
+          }
+        ],
+        "score": 3.88,
+        "rating_count": 15,
+        "rank": 4,
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-8/rate/4040973"
+      },
+      "entryData": {
+        "coolness": 4,
+        "rating_count": 15,
+        "id": 794992,
+        "game": {
+          "title": "Pop•Optics (JAM VERSION!)",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0MDkwNTQ5LnBuZw==/300x240%23c/NQ%2BqdT.png",
+          "id": 4040973,
+          "short_text": "Control the eyeballs to avoid their attacks & pop the balloon!",
+          "cover_color": "#000000",
+          "user": {
+            "name": "Nanotron Studio",
+            "url": "https://nanotron-studio.itch.io",
+            "id": 6356972
+          },
+          "url": "https://nanotron-studio.itch.io/pop"
+        },
+        "created_at": "2025-11-15 04:12:39",
+        "url": "/jam/gdevelop-big-game-jam-8/rate/4040973"
+      },
+      "details": {
+        "title": "Pop•Optics (JAM VERSION!)",
+        "description": "This is a far-out arcadey game where you will be running around avoiding teardrops, explosions, and lasers that you yourself are aiming. My implementation of the theme is that you control where the eyeballs are looking /fire attacks simultaneously with your character. I hope you enjoy!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDA0MDk3My8yNDA5MDU5NS5wbmc=/original/N%2F9Sm0.png",
+          "https://img.itch.zone/aW1hZ2UvNDA0MDk3My8yNDA5MDU5NC5wbmc=/original/FH5yQx.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Nanotron Studio",
+          "Made with": "GDevelop",
+          "Tags": "Arcade, Retro, weird"
+        }
+      }
+    },
+    {
+      "gameId": 4041967,
+      "gameUrl": "https://mumladze.itch.io/trpmn",
+      "overallRank": 23,
+      "topCategories": [
+        "Fun & Game Design",
+        "Originality & Innovation"
+      ],
+      "resultData": {
+        "title": "TRPMN: Master of Traps",
+        "raw_score": 3.6,
+        "cover_url": "https://img.itch.zone/aW1nLzI0MDk3NzkyLnBuZw==/300x240%23c/P%2BnHdn.png",
+        "id": 4041967,
+        "contributors": [
+          {
+            "name": "MUMLADZE",
+            "id": 1500718
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Audio",
+            "raw_score": 3,
+            "score": 3,
+            "rank": 73
+          },
+          {
+            "name": "Fun & Game Design",
+            "raw_score": 4.1052631578947,
+            "score": 4.1052631578947,
+            "rank": 5
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.4736842105263,
+            "score": 3.4736842105263,
+            "rank": 65
+          },
+          {
+            "name": "Originality & Innovation",
+            "raw_score": 3.8947368421053,
+            "score": 3.8947368421053,
+            "rank": 10
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.5263157894737,
+            "score": 3.5263157894737,
+            "rank": 44
+          }
+        ],
+        "score": 3.6,
+        "rating_count": 19,
+        "rank": 23,
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-8/rate/4041967"
+      },
+      "entryData": {
+        "coolness": 2,
+        "rating_count": 19,
+        "id": 795540,
+        "game": {
+          "title": "TRPMN: Master of Traps",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0MDk3NzkyLnBuZw==/300x240%23c/P%2BnHdn.png",
+          "id": 4041967,
+          "short_text": "Take control of traps and stop the player from escaping.",
+          "cover_color": "#101213",
+          "user": {
+            "name": "MUMLADZE",
+            "url": "https://mumladze.itch.io",
+            "id": 1500718
+          },
+          "url": "https://mumladze.itch.io/trpmn"
+        },
+        "created_at": "2025-11-15 17:06:39",
+        "url": "/jam/gdevelop-big-game-jam-8/rate/4041967"
+      },
+      "details": {
+        "title": "TRPMN: Master of Traps",
+        "description": "Take control of traps and stop the player from escaping\n\nYour goal is to stop the player from escaping by activating traps at the right moment.\n\n• Control the traps: spikes, lasers, saws, and more\n• Timing-based strategy\n• Brutal but satisfying kills: with optional gore mode\n• Progressive challenges: new traps and twists unlock as you progress\n• Minimalist pixel-art style: clean, dark, and atmospheric\n\nRecommended Age: 13+\nContains pixelated gore (can be turned off).\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDA0MTk2Ny8yNDA5NzgzOC5qcGc=/original/DcRW28.jpg",
+          "https://img.itch.zone/aW1hZ2UvNDA0MTk2Ny8yNDA5NzgzNS5qcGc=/original/2Y1Ln0.jpg",
+          "https://img.itch.zone/aW1hZ2UvNDA0MTk2Ny8yNDA5NzgzNC5qcGc=/original/iUNThe.jpg",
+          "https://img.itch.zone/aW1hZ2UvNDA0MTk2Ny8yNDA5NzgzNi5qcGc=/original/dIwcNF.jpg",
+          "https://img.itch.zone/aW1hZ2UvNDA0MTk2Ny8yNDA5NzgzNy5qcGc=/original/qDcb7o.jpg"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Author": "MUMLADZE",
+          "Genre": "Platformer, Strategy",
+          "Made with": "GDevelop",
+          "Tags": "2D, gdevelop, Gore, Minimalist, No AI, Pixel Art, Singleplayer, Traps"
+        }
+      }
+    },
+    {
+      "gameId": 4039652,
+      "gameUrl": "https://marschompsvenus.itch.io/make-them-bob",
+      "overallRank": 21,
+      "topCategories": [
+        "Fun & Game Design"
+      ],
+      "resultData": {
+        "title": "Make Them Bob",
+        "raw_score": 3.6121212121212,
+        "cover_url": "https://img.itch.zone/aW1nLzI0MDgzNzMwLnBuZw==/300x240%23c/JeRl%2Ft.png",
+        "id": 4039652,
+        "contributors": [
+          {
+            "name": "MarsChompsVenus Studios",
+            "id": 13687690
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Audio",
+            "raw_score": 3.1515151515152,
+            "score": 3.1515151515152,
+            "rank": 51
+          },
+          {
+            "name": "Fun & Game Design",
+            "raw_score": 3.969696969697,
+            "score": 3.969696969697,
+            "rank": 8
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.4242424242424,
+            "score": 3.4242424242424,
+            "rank": 70
+          },
+          {
+            "name": "Originality & Innovation",
+            "raw_score": 3.6363636363636,
+            "score": 3.6363636363636,
+            "rank": 28
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.8787878787879,
+            "score": 3.8787878787879,
+            "rank": 16
+          }
+        ],
+        "score": 3.6121212121212,
+        "rating_count": 33,
+        "rank": 21,
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-8/rate/4039652"
+      },
+      "entryData": {
+        "coolness": 5,
+        "rating_count": 33,
+        "id": 794834,
+        "game": {
+          "title": "Make Them Bob",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0MDgzNzMwLnBuZw==/300x240%23c/JeRl%2Ft.png",
+          "id": 4039652,
+          "short_text": "Take control of humanity and top the leaderboard in Make Them Bob",
+          "cover_color": "#eeeeee",
+          "user": {
+            "name": "MarsChompsVenus Studios",
+            "url": "https://marschompsvenus.itch.io",
+            "id": 13687690
+          },
+          "url": "https://marschompsvenus.itch.io/make-them-bob"
+        },
+        "created_at": "2025-11-14 17:00:16",
+        "url": "/jam/gdevelop-big-game-jam-8/rate/4039652"
+      },
+      "details": {
+        "title": "Make Them Bob",
+        "description": "NOTE: The fullscreen button is in the bottom left - this is because GDevelop leaderboards put their close button in the bottom right. \n(I can give you this CSS if you wish)\nTake control of humanity and top the leaderboard in this exciting fantasy game.\nIn \"Make Them Bob\" you play as Bob, the protagonist. His only goal in life is to make everyone else Bob. \nSo grab the blueys, and run away from the glueys and the franks while you top the leaderboard in this people-grabbing adventure!\n\nCredits:\nMusic by David Fesliyan:Silly Chicken by David Fesliyan - Royalty Free Music DownloadPlayer art *slightly* inspired by @BrassGlass(But seriously c'mon it's a circle and a trapezoid)Scales by BrassGlassFont is Gloria Hallelujah - part of Google fonts.Gloria Hallelujah - Google Fonts\n\n\nNote: Itch does not seem to allow me to comment. Whenever I try, it just says \"your post will be reviewed by a moderator\" even when it's just \"Hello!\"",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDAzOTY1Mi8yNDA4MjkxNC5wbmc=/original/2yYlrI.png",
+          "https://img.itch.zone/aW1hZ2UvNDAzOTY1Mi8yNDA4MjkxNi5wbmc=/original/4BqIks.png",
+          "https://img.itch.zone/aW1hZ2UvNDAzOTY1Mi8yNDA4MjkxMy5wbmc=/original/TGEq5f.png",
+          "https://img.itch.zone/aW1hZ2UvNDAzOTY1Mi8yNDA4MjkxNS5wbmc=/original/wN5PO%2B.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "MarsChompsVenus Studios",
+          "Genre": "Survival",
+          "Made with": "GDevelop",
+          "Tags": "leaderboard, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 4040010,
+      "gameUrl": "https://damonwakes.itch.io/dont-let-them-take-control",
+      "overallRank": 23,
+      "topCategories": [
+        "Fun & Game Design",
+        "Originality & Innovation",
+        "Theme"
+      ],
+      "resultData": {
+        "title": "Don't Let Them Take Control!",
+        "raw_score": 3.6,
+        "cover_url": "https://img.itch.zone/aW1nLzI0MDg0OTkzLnBuZw==/300x240%23c/6ONucX.png",
+        "id": 4040010,
+        "contributors": [
+          {
+            "name": "Damon L. Wakes",
+            "id": 694795
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Audio",
+            "raw_score": 3.0625,
+            "score": 3.0625,
+            "rank": 67
+          },
+          {
+            "name": "Fun & Game Design",
+            "raw_score": 3.9375,
+            "score": 3.9375,
+            "rank": 10
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 2.625,
+            "score": 2.625,
+            "rank": 181
+          },
+          {
+            "name": "Originality & Innovation",
+            "raw_score": 4.1875,
+            "score": 4.1875,
+            "rank": 4
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.1875,
+            "score": 4.1875,
+            "rank": 6
+          }
+        ],
+        "score": 3.6,
+        "rating_count": 16,
+        "rank": 23,
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-8/rate/4040010"
+      },
+      "entryData": {
+        "coolness": 4,
+        "rating_count": 16,
+        "id": 796054,
+        "game": {
+          "title": "Don't Let Them Take Control!",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0MDg0OTkzLnBuZw==/300x240%23c/6ONucX.png",
+          "id": 4040010,
+          "short_text": "Wait. Where did my buttons go?",
+          "cover_color": "#8AC3D0",
+          "user": {
+            "name": "Damon L. Wakes",
+            "url": "https://damonwakes.itch.io",
+            "id": 694795
+          },
+          "url": "https://damonwakes.itch.io/dont-let-them-take-control"
+        },
+        "created_at": "2025-11-15 22:31:02",
+        "url": "/jam/gdevelop-big-game-jam-8/rate/4040010"
+      },
+      "details": {
+        "title": "Don't Let Them Take Control!",
+        "description": "WASD to move, arrow keys to shoot - for as long as you've got them, anyway! The evil windows are coming to take your buttons away, and it's up to you to hold off for as long as you can.\nMade for GDevelop BIG Game Jam #8, with the theme \"Take Control.\"\nAlso available on gd.games.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDA0MDAxMC8yNDEwMTk3Mi5wbmc=/original/fx5yt1.png",
+          "https://img.itch.zone/aW1hZ2UvNDA0MDAxMC8yNDEwMTk3MC5wbmc=/original/r1VTHl.png",
+          "https://img.itch.zone/aW1hZ2UvNDA0MDAxMC8yNDEwMTk3MS5wbmc=/original/J3cj%2B8.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Author": "Damon L. Wakes",
+          "Genre": "Shooter, Action",
+          "Made with": "GDevelop",
+          "Tags": "2D, High Score, meta, Simple, Top-Down, Top down shooter"
+        }
+      }
+    },
+    {
+      "gameId": 4044717,
+      "gameUrl": "https://vllap.itch.io/tower-control",
+      "overallRank": 30,
+      "topCategories": [
+        "Fun & Game Design"
+      ],
+      "resultData": {
+        "title": "Tower Control",
+        "raw_score": 3.5538461538462,
+        "cover_url": "https://img.itch.zone/aW1nLzI0MTEyODgxLnBuZw==/300x240%23c/Er7uSi.png",
+        "id": 4044717,
+        "contributors": [
+          {
+            "name": "vl.lap",
+            "id": 14854406
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Audio",
+            "raw_score": 3.4615384615385,
+            "score": 3.4615384615385,
+            "rank": 17
+          },
+          {
+            "name": "Fun & Game Design",
+            "raw_score": 3.9230769230769,
+            "score": 3.9230769230769,
+            "rank": 11
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.5384615384615,
+            "score": 3.5384615384615,
+            "rank": 58
+          },
+          {
+            "name": "Originality & Innovation",
+            "raw_score": 3.6153846153846,
+            "score": 3.6153846153846,
+            "rank": 30
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.2307692307692,
+            "score": 3.2307692307692,
+            "rank": 72
+          }
+        ],
+        "score": 3.5538461538462,
+        "rating_count": 13,
+        "rank": 30,
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-8/rate/4044717"
+      },
+      "entryData": {
+        "coolness": 6,
+        "rating_count": 13,
+        "id": 796650,
+        "game": {
+          "title": "Tower Control",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0MTEyODgxLnBuZw==/300x240%23c/Er7uSi.png",
+          "id": 4044717,
+          "short_text": "Take control of the towers to win!",
+          "cover_color": "#8497b3",
+          "user": {
+            "name": "vl.lap",
+            "url": "https://vllap.itch.io",
+            "id": 14854406
+          },
+          "url": "https://vllap.itch.io/tower-control"
+        },
+        "created_at": "2025-11-16 16:21:05",
+        "url": "/jam/gdevelop-big-game-jam-8/rate/4044717"
+      },
+      "details": {
+        "title": "Tower Control",
+        "description": "Take control of the towers to win!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDA0NDcxNy8yNDExMzQ1MC5wbmc=/original/1clBLS.png",
+          "https://img.itch.zone/aW1hZ2UvNDA0NDcxNy8yNDExMzQ1MS5wbmc=/original/ybv7XN.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "vl.lap",
+          "Genre": "Puzzle",
+          "Made with": "GDevelop",
+          "Tags": "2D, Arcade, Golf, Minimalist, Short"
+        }
+      }
+    },
+    {
+      "gameId": 4045271,
+      "gameUrl": "https://cheezman64.itch.io/sibling-scramble",
+      "overallRank": 9,
+      "topCategories": [
+        "Originality & Innovation"
+      ],
+      "resultData": {
+        "title": "Sibling Scramble",
+        "raw_score": 3.77,
+        "cover_url": "https://img.itch.zone/aW1nLzI0MTE1MzkxLnBuZw==/300x240%23c/aK55eJ.png",
+        "id": 4045271,
+        "contributors": [
+          {
+            "name": "Cheezman64",
+            "id": 10308660
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Audio",
+            "raw_score": 3.45,
+            "score": 3.45,
+            "rank": 19
+          },
+          {
+            "name": "Fun & Game Design",
+            "raw_score": 3.8,
+            "score": 3.8,
+            "rank": 17
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.7,
+            "score": 3.7,
+            "rank": 37
+          },
+          {
+            "name": "Originality & Innovation",
+            "raw_score": 4.2,
+            "score": 4.2,
+            "rank": 2
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.7,
+            "score": 3.7,
+            "rank": 29
+          }
+        ],
+        "score": 3.77,
+        "rating_count": 20,
+        "rank": 9,
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-8/rate/4045271"
+      },
+      "entryData": {
+        "coolness": 8,
+        "rating_count": 20,
+        "id": 796829,
+        "game": {
+          "title": "Sibling Scramble",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0MTE1MzkxLnBuZw==/300x240%23c/aK55eJ.png",
+          "id": 4045271,
+          "short_text": "A game about fighting your siblings for the controller",
+          "cover_color": "#5fcde4",
+          "user": {
+            "name": "Cheezman64",
+            "url": "https://cheezman64.itch.io",
+            "id": 10308660
+          },
+          "url": "https://cheezman64.itch.io/sibling-scramble"
+        },
+        "created_at": "2025-11-16 18:25:27",
+        "url": "/jam/gdevelop-big-game-jam-8/rate/4045271"
+      },
+      "details": {
+        "title": "Sibling Scramble",
+        "description": "You're playing a level in a game but your annoying siblings are taking the controller off you! Play minigames to take the controller back and beat the game!\nMusic made by me, link coming soon",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzI0MTE1MzkxLnBuZw==/original/25PT5z.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Cheezman64",
+          "Genre": "Action, Platformer",
+          "Made with": "GDevelop",
+          "Tags": "2D, Pixel Art, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 4044469,
+      "gameUrl": "https://archibald-the-third-games.itch.io/rat-command",
+      "overallRank": 33,
+      "topCategories": [
+        "Originality & Innovation"
+      ],
+      "resultData": {
+        "title": "Rat Command",
+        "raw_score": 3.5,
+        "cover_url": "https://img.itch.zone/aW1nLzI0MTExMjI4LnBuZw==/300x240%23c/JlYkjI.png",
+        "id": 4044469,
+        "contributors": [
+          {
+            "name": "Archiebald The Third Games",
+            "id": 6422965
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Fun & Game Design",
+            "raw_score": 3.6666666666667,
+            "score": 3.6666666666667,
+            "rank": 33
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.75,
+            "score": 3.75,
+            "rank": 31
+          },
+          {
+            "name": "Audio",
+            "raw_score": 2.75,
+            "score": 2.75,
+            "rank": 113
+          },
+          {
+            "name": "Originality & Innovation",
+            "raw_score": 4.1666666666667,
+            "score": 4.1666666666667,
+            "rank": 5
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.1666666666667,
+            "score": 3.1666666666667,
+            "rank": 80
+          }
+        ],
+        "score": 3.5,
+        "rating_count": 12,
+        "rank": 33,
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-8/rate/4044469"
+      },
+      "entryData": {
+        "coolness": 7,
+        "rating_count": 12,
+        "id": 796483,
+        "game": {
+          "title": "Rat Command",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0MTExMjI4LnBuZw==/300x240%23c/JlYkjI.png",
+          "id": 4044469,
+          "short_text": "Command a small pack to conquer the sewers",
+          "cover_color": "#354552",
+          "user": {
+            "name": "Archiebald The Third Games",
+            "url": "https://archibald-the-third-games.itch.io",
+            "id": 6422965
+          },
+          "url": "https://archibald-the-third-games.itch.io/rat-command"
+        },
+        "created_at": "2025-11-16 14:29:40",
+        "url": "/jam/gdevelop-big-game-jam-8/rate/4044469"
+      },
+      "details": {
+        "title": "Rat Command",
+        "description": "Control  a small pack of rats with the use of movement and attack cards. Encounter all sorts of new rats and foes along the way and maybe even take over the sewers.\nThis is a short roguelike where you slowly gain new rats and cards along the way.\nIf you don't know how to play go to the tutorial in the level select (the question mark)\n :)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDA0NDQ2OS8yNDExMTM1OS5wbmc=/original/wQRNY8.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Archiebald The Third Games",
+          "Genre": "Strategy",
+          "Made with": "GDevelop",
+          "Tags": "2D, Cute, gdevelop, rats, Roguelike, Short"
+        }
+      }
+    },
+    {
+      "gameId": 4045224,
+      "gameUrl": "https://bromoja.itch.io/fluffloat",
+      "overallRank": 17,
+      "topCategories": [
+        "Originality & Innovation"
+      ],
+      "resultData": {
+        "title": "Fluffloat",
+        "raw_score": 3.6705882352941,
+        "cover_url": "https://img.itch.zone/aW1nLzI0MTE1MTkxLnBuZw==/300x240%23c/vV3yOK.png",
+        "id": 4045224,
+        "contributors": [
+          {
+            "name": "BroMoja",
+            "id": 7918276
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Audio",
+            "raw_score": 3.2352941176471,
+            "score": 3.2352941176471,
+            "rank": 42
+          },
+          {
+            "name": "Fun & Game Design",
+            "raw_score": 3.6470588235294,
+            "score": 3.6470588235294,
+            "rank": 37
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.5882352941176,
+            "score": 3.5882352941176,
+            "rank": 52
+          },
+          {
+            "name": "Originality & Innovation",
+            "raw_score": 4,
+            "score": 4,
+            "rank": 6
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.8823529411765,
+            "score": 3.8823529411765,
+            "rank": 15
+          }
+        ],
+        "score": 3.6705882352941,
+        "rating_count": 17,
+        "rank": 17,
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-8/rate/4045224"
+      },
+      "entryData": {
+        "coolness": 19,
+        "rating_count": 17,
+        "id": 796814,
+        "game": {
+          "title": "Fluffloat",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0MTE1MTkxLnBuZw==/300x240%23c/vV3yOK.png",
+          "id": 4045224,
+          "short_text": "controlling the wind.",
+          "user": {
+            "name": "BroMoja",
+            "url": "https://bromoja.itch.io",
+            "id": 7918276
+          },
+          "url": "https://bromoja.itch.io/fluffloat"
+        },
+        "created_at": "2025-11-16 18:18:13",
+        "url": "/jam/gdevelop-big-game-jam-8/rate/4045224"
+      },
+      "details": {
+        "title": "Fluffloat",
+        "description": "A physics puzzle where you guide a fragile wisp to the goal by controlling the wind.\n-You don't control the wisp directly—you control the \"wind\" itself.\n-Hold the left mouse button to create wind and gently guide the wisp.\n-The wisp is very fragile! It will break if it hits a wall too hard or touches obstacles like \"boxes,\" \"stones,\" or \"bugs.\"\n-You can also use the wind to push \"boxes\" to move obstacles or clear a path.\n-Lead the wisp from an underground dungeon to the surface with your delicate wind control!The sound effects (SE) used in this game are from the following site:\n\n[soundeffect-lab] ([https://soundeffect-lab.info/sound/button/])\n[dova-s.jp] ([https://dova-s.jp/bgm/play21316.html])\n ([https://dova-s.jp/bgm/play22655.html])\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzI0MTE1MTkxLnBuZw==/original/CNsXAU.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "BroMoja",
+          "Genre": "Action, Puzzle",
+          "Made with": "GDevelop",
+          "Tags": "2D"
+        }
+      }
+    },
+    {
+      "gameId": 4042367,
+      "gameUrl": "https://lsabatucci.itch.io/my-little-war",
+      "overallRank": 90,
+      "topCategories": [
+        "Originality & Innovation"
+      ],
+      "resultData": {
+        "title": "My Little War",
+        "raw_score": 3.04,
+        "cover_url": "https://img.itch.zone/aW1nLzI0MDk5NDk1LnBuZw==/300x240%23c/O2EZXa.png",
+        "id": 4042367,
+        "contributors": [
+          {
+            "name": "Luca Sabatucci",
+            "id": 3734535
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Fun & Game Design",
+            "raw_score": 3.25,
+            "score": 3.25,
+            "rank": 74
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 2.65,
+            "score": 2.65,
+            "rank": 175
+          },
+          {
+            "name": "Audio",
+            "raw_score": 2.7,
+            "score": 2.7,
+            "rank": 125
+          },
+          {
+            "name": "Originality & Innovation",
+            "raw_score": 3.95,
+            "score": 3.95,
+            "rank": 9
+          },
+          {
+            "name": "Theme",
+            "raw_score": 2.65,
+            "score": 2.65,
+            "rank": 149
+          }
+        ],
+        "score": 3.04,
+        "rating_count": 20,
+        "rank": 90,
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-8/rate/4042367"
+      },
+      "entryData": {
+        "coolness": 40,
+        "rating_count": 20,
+        "id": 795677,
+        "game": {
+          "title": "My Little War",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0MDk5NDk1LnBuZw==/300x240%23c/O2EZXa.png",
+          "id": 4042367,
+          "short_text": "Protect your tower whilst eliminating your opponent's to claim victory",
+          "user": {
+            "name": "Luca Sabatucci",
+            "url": "https://lsabatucci.itch.io",
+            "id": 3734535
+          },
+          "url": "https://lsabatucci.itch.io/my-little-war"
+        },
+        "created_at": "2025-11-15 18:51:42",
+        "url": "/jam/gdevelop-big-game-jam-8/rate/4042367"
+      },
+      "details": {
+        "title": "My Little War",
+        "description": "My Little War is a tactical game for two players that blends turn-based strategy with real-time combat. Command military units on a 7×5 grid, then engage in intense arena battles when pieces clash. Protect your Tower whilst eliminating your opponent's to claim victory. Every decision matters in this strategic showdown!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDA0MjM2Ny8yNDEwNzY1My5wbmc=/original/BP7KT4.png",
+          "https://img.itch.zone/aW1hZ2UvNDA0MjM2Ny8yNDEwNzk2OC5wbmc=/original/nt1Fdh.png",
+          "https://img.itch.zone/aW1hZ2UvNDA0MjM2Ny8yNDEwNzk2OS5wbmc=/original/m1W7Ti.png",
+          "https://img.itch.zone/aW1hZ2UvNDA0MjM2Ny8yNDEwNzk3My5wbmc=/original/MoVsTn.png",
+          "https://img.itch.zone/aW1hZ2UvNDA0MjM2Ny8yNDEwNzk3OS5wbmc=/original/hQa6h4.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Luca Sabatucci",
+          "Genre": "Action, Strategy",
+          "Made with": "GDevelop",
+          "Tags": "Arena Shooter, Board Game, Tactical"
+        }
+      }
+    },
+    {
+      "gameId": 4021298,
+      "gameUrl": "https://pundlion.itch.io/terminal-contract",
+      "overallRank": 11,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "title": "Terminal Contract",
+        "raw_score": 3.7384615384615,
+        "cover_url": "https://img.itch.zone/aW1nLzI0MTA2NTc0LnBuZw==/300x240%23c/Ree4jR.png",
+        "id": 4021298,
+        "contributors": [
+          {
+            "name": "Pundlion",
+            "id": 10641111
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Audio",
+            "raw_score": 3.5384615384615,
+            "score": 3.5384615384615,
+            "rank": 13
+          },
+          {
+            "name": "Fun & Game Design",
+            "raw_score": 3.6923076923077,
+            "score": 3.6923076923077,
+            "rank": 30
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.3076923076923,
+            "score": 4.3076923076923,
+            "rank": 4
+          },
+          {
+            "name": "Originality & Innovation",
+            "raw_score": 3.5769230769231,
+            "score": 3.5769230769231,
+            "rank": 34
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.5769230769231,
+            "score": 3.5769230769231,
+            "rank": 37
+          }
+        ],
+        "score": 3.7384615384615,
+        "rating_count": 26,
+        "rank": 11,
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-8/rate/4021298"
+      },
+      "entryData": {
+        "coolness": 36,
+        "rating_count": 26,
+        "id": 791371,
+        "game": {
+          "title": "Terminal Contract",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0MTA2NTc0LnBuZw==/300x240%23c/Ree4jR.png",
+          "id": 4021298,
+          "short_text": "Both 3d and 2d",
+          "cover_color": "#1b3e26",
+          "user": {
+            "name": "Pundlion",
+            "url": "https://pundlion.itch.io",
+            "id": 10641111
+          },
+          "url": "https://pundlion.itch.io/terminal-contract"
+        },
+        "created_at": "2025-11-07 21:01:50",
+        "url": "/jam/gdevelop-big-game-jam-8/rate/4021298"
+      },
+      "details": {
+        "title": "Terminal Contract",
+        "description": "Don't lose the control of the terminal ",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDAyMTI5OC8yNDExNjg5Mi5wbmc=/original/1Z4k7K.png",
+          "https://img.itch.zone/aW1hZ2UvNDAyMTI5OC8yNDExNjg5MS5wbmc=/original/1Hlb6a.png",
+          "https://img.itch.zone/aW1hZ2UvNDAyMTI5OC8yNDExNjY5MC5wbmc=/original/2hxEeo.png",
+          "https://img.itch.zone/aW1hZ2UvNDAyMTI5OC8yNDExNjY4OS5wbmc=/original/DCr0yS.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Rating": "Rated 3.0 out of 5 stars(1 total ratings)",
+          "Author": "Pundlion",
+          "Made with": "Blender, GDevelop",
+          "Tags": "2D, 3D, First-Person, Retro"
+        }
+      }
+    },
+    {
+      "gameId": 4042885,
+      "gameUrl": "https://theavigold.itch.io/the-great-claim",
+      "overallRank": 22,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "title": "The Great Claim",
+        "raw_score": 3.6055555555556,
+        "cover_url": "https://img.itch.zone/aW1nLzI0MTAyMzExLmpwZw==/300x240%23c/r3L3Hw.jpg",
+        "id": 4042885,
+        "contributors": [
+          {
+            "name": "TheAvIGOLD",
+            "id": 11943731
+          },
+          {
+            "name": "Jurfix",
+            "id": 5387982
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Audio",
+            "raw_score": 3.6666666666667,
+            "score": 3.6666666666667,
+            "rank": 9
+          },
+          {
+            "name": "Fun & Game Design",
+            "raw_score": 3.6388888888889,
+            "score": 3.6388888888889,
+            "rank": 39
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.2777777777778,
+            "score": 4.2777777777778,
+            "rank": 5
+          },
+          {
+            "name": "Originality & Innovation",
+            "raw_score": 3.1111111111111,
+            "score": 3.1111111111111,
+            "rank": 93
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.3333333333333,
+            "score": 3.3333333333333,
+            "rank": 57
+          }
+        ],
+        "score": 3.6055555555556,
+        "rating_count": 36,
+        "rank": 22,
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-8/rate/4042885"
+      },
+      "entryData": {
+        "coolness": 111,
+        "rating_count": 36,
+        "id": 796983,
+        "contributors": [
+          {
+            "name": "TheAvIGOLD",
+            "url": "https://theavigold.itch.io"
+          },
+          {
+            "name": "Jurfix",
+            "url": "https://jurfix.itch.io"
+          }
+        ],
+        "game": {
+          "title": "The Great Claim",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0MTAyMzExLmpwZw==/300x240%23c/r3L3Hw.jpg",
+          "id": 4042885,
+          "cover_color": "#282828",
+          "user": {
+            "name": "TheAvIGOLD",
+            "url": "https://theavigold.itch.io",
+            "id": 11943731
+          },
+          "url": "https://theavigold.itch.io/the-great-claim"
+        },
+        "created_at": "2025-11-16 19:51:37",
+        "url": "/jam/gdevelop-big-game-jam-8/rate/4042885"
+      },
+      "details": {
+        "title": "The Great Claim",
+        "description": "\nThe Great Claim\nMade in 9 days for GDevelop BIG Game Jam #8 by a two-person team: TheAvIGOLD & Jurfix\n\n\nAbout lore\nTwo rival Viking clans vie for dominance over a green island under the sun. Every decision matters, every village, mine, and forest can tip the balance of power. You are the young chieftain, inheriting the leadership of your clan and tasked with making it the greatest.\n\n\nTake Control\nThe Great Claim is a tactical, turn-based strategy where you command your warriors, manage resources, and expand your holdings. Hire barbarians, build mines and lumber mills, and capture enemy buildings. Every turn gives you a chance to outsmart your rival and shape the battlefield.\n\n\nYour Clan. Your Decisions. Your Victory.\nThe island belongs to those who act decisively. Strength lies not only in warriors, but in clever management and timely attacks. Take control, and let no enemy or wolf stand in your way. Every move you make can decide the fate of your clan.\n\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDA0Mjg4NS8yNDE1MTk0Ni5wbmc=/original/vMk9ru.png",
+          "https://img.itch.zone/aW1hZ2UvNDA0Mjg4NS8yNDE1MTk0NC5wbmc=/original/uDzbCP.png",
+          "https://img.itch.zone/aW1hZ2UvNDA0Mjg4NS8yNDE1MTk0NS5wbmc=/original/6qs2pH.png",
+          "https://img.itch.zone/aW1hZ2UvNDA0Mjg4NS8yNDE1MTk0Mi5wbmc=/original/5ocO3N.png",
+          "https://img.itch.zone/aW1hZ2UvNDA0Mjg4NS8yNDE1MTk0My5wbmc=/original/%2Fn7p4Y.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Authors": "TheAvIGOLD, Jurfix",
+          "Genre": "Strategy",
+          "Made with": "Blender, Adobe Photoshop, Adobe Illustrator, GDevelop",
+          "Tags": "3D, Arcade, Atmospheric, Endless, Indie, Point & Click, Procedural Generation, Singleplayer, Top-Down",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Mouse, Touchscreen",
+          "Accessibility": "Interactive tutorial, One button"
+        }
+      }
+    },
+    {
+      "gameId": 4044884,
+      "gameUrl": "https://walanpakyuki.itch.io/sheepcontorl",
+      "overallRank": 44,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "title": "SheepControl",
+        "raw_score": 3.3862068965517,
+        "cover_url": "https://img.itch.zone/aW1nLzI0MTE0NTMzLnBuZw==/300x240%23c/duSfRa.png",
+        "id": 4044884,
+        "contributors": [
+          {
+            "name": "Walanpak.yuki",
+            "id": 9611649
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Audio",
+            "raw_score": 3.1724137931034,
+            "score": 3.1724137931034,
+            "rank": 49
+          },
+          {
+            "name": "Fun & Game Design",
+            "raw_score": 3.3448275862069,
+            "score": 3.3448275862069,
+            "rank": 65
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.2758620689655,
+            "score": 4.2758620689655,
+            "rank": 6
+          },
+          {
+            "name": "Originality & Innovation",
+            "raw_score": 3.0689655172414,
+            "score": 3.0689655172414,
+            "rank": 105
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.0689655172414,
+            "score": 3.0689655172414,
+            "rank": 89
+          }
+        ],
+        "score": 3.3862068965517,
+        "rating_count": 29,
+        "rank": 44,
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-8/rate/4044884"
+      },
+      "entryData": {
+        "coolness": 17,
+        "rating_count": 29,
+        "id": 796937,
+        "game": {
+          "title": "SheepControl",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0MTE0NTMzLnBuZw==/300x240%23c/duSfRa.png",
+          "id": 4044884,
+          "short_text": "Control the sheep and bring them back to the pen!",
+          "cover_color": "#eeeeee",
+          "user": {
+            "name": "Walanpak.yuki",
+            "url": "https://walanpakyuki.itch.io",
+            "id": 9611649
+          },
+          "url": "https://walanpakyuki.itch.io/sheepcontorl"
+        },
+        "created_at": "2025-11-16 19:32:00",
+        "url": "/jam/gdevelop-big-game-jam-8/rate/4044884"
+      },
+      "details": {
+        "title": "SheepControl",
+        "description": "\nSheepControl\nControl the sheep and bring them back to the pen!\nThe sheep have run off for a little “Escape Adventure\" and as the Sheepleader, you’ll need to take control fast. Read their arrow “language\" and control them back into their pen! @˘ꈊ˘@\n\n\nTake Control\nCreated in 9 days for GDevelop BIG Game Jam #8  \na solo project by one fluffy sheep!   @•̀ꈊ•́@\nhttps://gd.games/duckkiee/sheepcontrol\n\nHow To Play\nUse the arrow keys on your keyboard.\n\nLevels\n  There are three sheep pens. Go control all of them and bring every sheep back home!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDA0NDg4NC8yNDEyNzM2OS5wbmc=/original/P%2Bwssg.png",
+          "https://img.itch.zone/aW1hZ2UvNDA0NDg4NC8yNDExNzMyNi5wbmc=/original/GZf%2F%2FG.png",
+          "https://img.itch.zone/aW1hZ2UvNDA0NDg4NC8yNDExNzM2MS5wbmc=/original/u7k7u7.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Walanpak.yuki",
+          "Genre": "Rhythm, Action",
+          "Made with": "GDevelop",
+          "Tags": "2D, Casual, Controller, Cute, Indie"
+        }
+      }
+    },
+    {
+      "gameId": 4045258,
+      "gameUrl": "https://br1911.itch.io/once-upon-a-time-in-the-dust-seas",
+      "overallRank": 25,
+      "topCategories": [
+        "Graphics"
+      ],
+      "resultData": {
+        "title": "Once upon a time in the dust seas of Pk-2V-29s726",
+        "raw_score": 3.5833333333333,
+        "cover_url": "https://img.itch.zone/aW1nLzI0MTE1MjA0LnBuZw==/300x240%23c/4nV6VB.png",
+        "id": 4045258,
+        "contributors": [
+          {
+            "name": "BR1911",
+            "id": 13604853
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Audio",
+            "raw_score": 3.4166666666667,
+            "score": 3.4166666666667,
+            "rank": 21
+          },
+          {
+            "name": "Fun & Game Design",
+            "raw_score": 3.2083333333333,
+            "score": 3.2083333333333,
+            "rank": 79
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 4.125,
+            "score": 4.125,
+            "rank": 10
+          },
+          {
+            "name": "Originality & Innovation",
+            "raw_score": 3.7083333333333,
+            "score": 3.7083333333333,
+            "rank": 19
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.4583333333333,
+            "score": 3.4583333333333,
+            "rank": 50
+          }
+        ],
+        "score": 3.5833333333333,
+        "rating_count": 24,
+        "rank": 25,
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-8/rate/4045258"
+      },
+      "entryData": {
+        "coolness": 14,
+        "rating_count": 24,
+        "id": 796844,
+        "game": {
+          "title": "Once upon a time in the dust seas of Pk-2V-29s726",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0MTE1MjA0LnBuZw==/300x240%23c/4nV6VB.png",
+          "id": 4045258,
+          "short_text": "SKIBIDI SIGMA",
+          "cover_color": "#000000",
+          "user": {
+            "name": "BR1911",
+            "url": "https://br1911.itch.io",
+            "id": 13604853
+          },
+          "url": "https://br1911.itch.io/once-upon-a-time-in-the-dust-seas"
+        },
+        "created_at": "2025-11-16 18:36:58",
+        "url": "/jam/gdevelop-big-game-jam-8/rate/4045258"
+      },
+      "details": {
+        "title": "Once upon a time in the dust seas of Pk-2V-29s726",
+        "description": "IM TIRED... ENJOY AAAAAAAA",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzI0MTE1MjA0LnBuZw==/original/1GemwL.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "BR1911",
+          "Made with": "GDevelop",
+          "Tags": "gdvelop, No AI"
+        }
+      }
+    },
+    {
+      "gameId": 4033939,
+      "gameUrl": "https://typed-games.itch.io/mush",
+      "overallRank": 7,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "title": "Mush",
+        "raw_score": 3.8136363636364,
+        "cover_url": "https://img.itch.zone/aW1nLzI0MDY1NTE1LnBuZw==/300x240%23c/%2Fs2R%2F9.png",
+        "id": 4033939,
+        "contributors": [
+          {
+            "name": "Typed Games",
+            "id": 6391758
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Audio",
+            "raw_score": 3.3636363636364,
+            "score": 3.3636363636364,
+            "rank": 28
+          },
+          {
+            "name": "Fun & Game Design",
+            "raw_score": 3.75,
+            "score": 3.75,
+            "rank": 22
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.9545454545455,
+            "score": 3.9545454545455,
+            "rank": 21
+          },
+          {
+            "name": "Originality & Innovation",
+            "raw_score": 3.6818181818182,
+            "score": 3.6818181818182,
+            "rank": 22
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.3181818181818,
+            "score": 4.3181818181818,
+            "rank": 2
+          }
+        ],
+        "score": 3.8136363636364,
+        "rating_count": 44,
+        "rank": 7,
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-8/rate/4033939"
+      },
+      "entryData": {
+        "coolness": 59,
+        "rating_count": 44,
+        "id": 794747,
+        "game": {
+          "title": "Mush",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0MDY1NTE1LnBuZw==/300x240%23c/%2Fs2R%2F9.png",
+          "id": 4033939,
+          "short_text": "A short walk with a mushroom",
+          "cover_color": "#193d3f",
+          "user": {
+            "name": "Typed Games",
+            "url": "https://typed-games.itch.io",
+            "id": 6391758
+          },
+          "url": "https://typed-games.itch.io/mush"
+        },
+        "created_at": "2025-11-14 11:39:11",
+        "url": "/jam/gdevelop-big-game-jam-8/rate/4033939"
+      },
+      "details": {
+        "title": "Mush",
+        "description": "A short Puzzle platformer about taking a walk with a mushroom.\narrow keys for movement\nB - lets you move boxes (don't get them stuck in corners)\nS/space - lets you  release a spore which you can use to control creatures\nM - lets you return to the menu.\nStuck? hit R to reset.\nIF PLAYING ON MOBILE - rotate your phone to landscape.\nMade for the Gdevelop game big game jam 2025.\nplay on gd.games!\nfeedback welcome.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDAzMzkzOS8yNDA3OTM3Ny5wbmc=/original/kit1Xy.png",
+          "https://img.itch.zone/aW1hZ2UvNDAzMzkzOS8yNDA3OTM3OC5wbmc=/original/Z6dmYJ.png",
+          "https://img.itch.zone/aW1hZ2UvNDAzMzkzOS8yNDA3OTM3Ni5wbmc=/original/NpoOLt.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Typed Games",
+          "Genre": "Puzzle, Platformer",
+          "Made with": "GDevelop",
+          "Tags": "2D, No AI, Pixel Art, Puzzle-Platformer, Relaxing"
+        }
+      }
+    },
+    {
+      "gameId": 4041535,
+      "gameUrl": "https://scriptfield.itch.io/take-ctrl",
+      "overallRank": 26,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "title": "Take CTRL",
+        "raw_score": 3.58,
+        "cover_url": "https://img.itch.zone/aW1nLzI0MDkzOTM2LnBuZw==/300x240%23c/5Nn73G.png",
+        "id": 4041535,
+        "contributors": [
+          {
+            "name": "Scriptfield",
+            "id": 13139648
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Fun & Game Design",
+            "raw_score": 3.6,
+            "score": 3.6,
+            "rank": 41
+          },
+          {
+            "name": "Audio",
+            "raw_score": 2.825,
+            "score": 2.825,
+            "rank": 103
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.65,
+            "score": 3.65,
+            "rank": 46
+          },
+          {
+            "name": "Originality & Innovation",
+            "raw_score": 3.6,
+            "score": 3.6,
+            "rank": 31
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.225,
+            "score": 4.225,
+            "rank": 3
+          }
+        ],
+        "score": 3.58,
+        "rating_count": 40,
+        "rank": 26,
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-8/rate/4041535"
+      },
+      "entryData": {
+        "coolness": 17,
+        "rating_count": 40,
+        "id": 795456,
+        "game": {
+          "title": "Take CTRL",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0MDkzOTM2LnBuZw==/300x240%23c/5Nn73G.png",
+          "id": 4041535,
+          "cover_color": "#eeeeee",
+          "user": {
+            "name": "Scriptfield",
+            "url": "https://scriptfield.itch.io",
+            "id": 13139648
+          },
+          "url": "https://scriptfield.itch.io/take-ctrl"
+        },
+        "created_at": "2025-11-15 11:48:49",
+        "url": "/jam/gdevelop-big-game-jam-8/rate/4041535"
+      },
+      "details": {
+        "title": "Take CTRL",
+        "description": "Take CTRL - Made for GDevelop Big Game Jam 8 (Theme: Take Control)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDA0MTUzNS8yNDA5Mzk3Ni5wbmc=/original/5x6lfO.png",
+          "https://img.itch.zone/aW1hZ2UvNDA0MTUzNS8yNDA5Mzk3NC5wbmc=/original/Bf0yU1.png",
+          "https://img.itch.zone/aW1hZ2UvNDA0MTUzNS8yNDA5Mzk3NS5wbmc=/original/m1FfBA.png"
+        ],
+        "moreInfo": {
+          "Updated": "3 hours ago",
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Scriptfield",
+          "Genre": "Action, Strategy",
+          "Made with": "GDevelop",
+          "Tags": "3D, No AI, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 4045458,
+      "gameUrl": "https://telif.itch.io/possesshoot",
+      "overallRank": 15,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "title": "Possesshoot",
+        "raw_score": 3.6842105263158,
+        "cover_url": "https://img.itch.zone/aW1nLzI0MTE2Nzg2LnBuZw==/300x240%23c/eYt6q0.png",
+        "id": 4045458,
+        "contributors": [
+          {
+            "name": "telif",
+            "id": 3597054
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Audio",
+            "raw_score": 3.1052631578947,
+            "score": 3.1052631578947,
+            "rank": 59
+          },
+          {
+            "name": "Fun & Game Design",
+            "raw_score": 3.8421052631579,
+            "score": 3.8421052631579,
+            "rank": 15
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.7894736842105,
+            "score": 3.7894736842105,
+            "rank": 28
+          },
+          {
+            "name": "Originality & Innovation",
+            "raw_score": 3.4736842105263,
+            "score": 3.4736842105263,
+            "rank": 46
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.2105263157895,
+            "score": 4.2105263157895,
+            "rank": 4
+          }
+        ],
+        "score": 3.6842105263158,
+        "rating_count": 19,
+        "rank": 15,
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-8/rate/4045458"
+      },
+      "entryData": {
+        "coolness": 6,
+        "rating_count": 19,
+        "id": 796915,
+        "game": {
+          "title": "Possesshoot",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0MTE2Nzg2LnBuZw==/300x240%23c/eYt6q0.png",
+          "id": 4045458,
+          "short_text": "Shoot to possess everything!",
+          "cover_color": "#000000",
+          "user": {
+            "name": "telif",
+            "url": "https://telif.itch.io",
+            "id": 3597054
+          },
+          "url": "https://telif.itch.io/possesshoot"
+        },
+        "created_at": "2025-11-16 19:23:24",
+        "url": "/jam/gdevelop-big-game-jam-8/rate/4045458"
+      },
+      "details": {
+        "title": "Possesshoot",
+        "description": "GDevelop BIG Jam #8 EntryAlso available on:https://gd.games/telif/possesshootControls: Arrow Keys, Z, X, C\nCredits\nGame by telif\nMusic by telif\nSFX Created using jsfxr\nAssets Used\nKenney Assets by Kenney\nsmall WORLD by Husaria Games on itch.io\nMech Walkers by SomeFarang on itch.io\nMiniBird by LapizWCG\nFree Slime Enemy by PixelMikazuki\nFonts\nDotGothic16\nFibberish by Caffinate\n\nStuck? Here's some tips:\n-Try looking for things to possess, even if far away!\n-You can climb vines with the Up Arrow Key!",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzI0MTE2Nzg2LnBuZw==/original/ubKRos.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "telif",
+          "Genre": "Platformer, Adventure, Puzzle",
+          "Made with": "GDevelop",
+          "Tags": "2D, Atmospheric, No AI, Pixel Art, Retro, Short"
+        }
+      }
+    },
+    {
+      "gameId": 4043972,
+      "gameUrl": "https://hippiegod.itch.io/repossessed",
+      "overallRank": 37,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "title": "Repossessed",
+        "raw_score": 3.4666666666667,
+        "cover_url": "https://img.itch.zone/aW1nLzI0MTE3MTc2LnBuZw==/300x240%23c/8tLfEF.png",
+        "id": 4043972,
+        "contributors": [
+          {
+            "name": "FENRIR Studios",
+            "id": 10835793
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Fun & Game Design",
+            "raw_score": 3.7777777777778,
+            "score": 3.7777777777778,
+            "rank": 19
+          },
+          {
+            "name": "Audio",
+            "raw_score": 2.7777777777778,
+            "score": 2.7777777777778,
+            "rank": 110
+          },
+          {
+            "name": "Originality & Innovation",
+            "raw_score": 3.5555555555556,
+            "score": 3.5555555555556,
+            "rank": 36
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3.1666666666667,
+            "score": 3.1666666666667,
+            "rank": 101
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.0555555555556,
+            "score": 4.0555555555556,
+            "rank": 9
+          }
+        ],
+        "score": 3.4666666666667,
+        "rating_count": 18,
+        "rank": 37,
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-8/rate/4043972"
+      },
+      "entryData": {
+        "coolness": 19,
+        "rating_count": 18,
+        "id": 797086,
+        "game": {
+          "title": "Repossessed",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0MTE3MTc2LnBuZw==/300x240%23c/8tLfEF.png",
+          "id": 4043972,
+          "short_text": "Haunt around your mansion and get your body back from the cult leader!",
+          "cover_color": "#000000",
+          "user": {
+            "name": "FENRIR Studios",
+            "url": "https://hippiegod.itch.io",
+            "id": 10835793
+          },
+          "url": "https://hippiegod.itch.io/repossessed"
+        },
+        "created_at": "2025-11-16 20:58:50",
+        "url": "/jam/gdevelop-big-game-jam-8/rate/4043972"
+      },
+      "details": {
+        "title": "Repossessed",
+        "description": "INTRO\nOne Rich Guy, One Cult, One less Rich Guy! Welcome to Repossessed where you play as the ghost of a rich guy, going through the giant mansion to gain back your body, which was taken from you by the spirit of the previous owner who was the leader of a cult!\n\nCONTROLS\nE in cutscenes = avance text \nLShift = Dash (Control with WASD)\nWASD = Move\nSPACE as Buff Cultist = Punch magic\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzI0MTE3MTc2LnBuZw==/original/%2BJVS4N.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "FENRIR Studios",
+          "Genre": "Puzzle",
+          "Made with": "GDevelop",
+          "Tags": "No AI"
+        }
+      }
+    },
+    {
+      "gameId": 4044655,
+      "gameUrl": "https://gemwinggames.itch.io/possessedportals",
+      "overallRank": 74,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "title": "Possessed Portals",
+        "raw_score": 3.3272727272727,
+        "cover_url": "https://img.itch.zone/aW1nLzI0MTEyNDYwLmpwZw==/300x240%23c/LRvx3r.jpg",
+        "id": 4044655,
+        "contributors": [
+          {
+            "name": "GemwingGames",
+            "id": 14888020
+          }
+        ],
+        "criteria": [
+          {
+            "name": "Audio",
+            "raw_score": 3.2727272727273,
+            "score": 3.1333978072026,
+            "rank": 54
+          },
+          {
+            "name": "Fun & Game Design",
+            "raw_score": 3,
+            "score": 2.872281323269,
+            "rank": 126
+          },
+          {
+            "name": "Graphics",
+            "raw_score": 3,
+            "score": 2.872281323269,
+            "rank": 137
+          },
+          {
+            "name": "Originality & Innovation",
+            "raw_score": 3.1818181818182,
+            "score": 3.0463589792247,
+            "rank": 111
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.1818181818182,
+            "score": 4.003786086981,
+            "rank": 10
+          }
+        ],
+        "score": 3.1856211039893,
+        "rating_count": 11,
+        "rank": 74,
+        "url": "https://itch.io/jam/gdevelop-big-game-jam-8/rate/4044655"
+      },
+      "entryData": {
+        "coolness": 16,
+        "rating_count": 11,
+        "id": 796579,
+        "game": {
+          "title": "Possessed Portals",
+          "platforms": [
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzI0MTEyNDYwLmpwZw==/300x240%23c/LRvx3r.jpg",
+          "id": 4044655,
+          "short_text": "Help a spirit find its way home! There's many portals it needs to take home, but ghosts can't survive portal travel.",
+          "cover_color": "#acaaaa",
+          "user": {
+            "name": "GemwingGames",
+            "url": "https://gemwinggames.itch.io",
+            "id": 14888020
+          },
+          "url": "https://gemwinggames.itch.io/possessedportals"
+        },
+        "created_at": "2025-11-16 15:18:02",
+        "url": "/jam/gdevelop-big-game-jam-8/rate/4044655"
+      },
+      "details": {
+        "title": "Possessed Portals",
+        "description": "Lost in death, the spirit tries to find his way back home. This world only uses portals for long distance travel. Ghosts can't survive portal travel. Help it get home by possessing the corporeal bodies of guards and golems to make it through the portals.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNDA0NDY1NS8yNDExMjQ2NC5qcGc=/original/i6IAxC.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "GemwingGames",
+          "Genre": "Puzzle",
+          "Made with": "GDevelop",
+          "Tags": "2D, Cute, Indie, Pixel Art, Short"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,4719 @@
+{
+  "n": 85,
+  "name": "Black and White Jam #8",
+  "url": "https://itch.io/jam/black-and-white-jam-8",
+  "theme": "Two colors, Loop",
+  "slug": "black-and-white-jam-8",
+  "jamMeta": {
+    "jamType": "ended",
+    "ratings": "4,393",
+    "entries": "337",
+    "title": "Black and White Jam #8↷∞",
+    "jamURL": "https://itch.io/jam/black-and-white-jam-8",
+    "hosts": {
+      "MYline media 👤": "https://mylinemedia.itch.io"
+    },
+    "jamID": "316779"
+  },
+  "totalEntries": 325,
+  "ranked": true,
+  "hasCategories": true,
+  "needsManualSelection": false,
+  "categories": [
+    "Gameplay",
+    "Music",
+    "Art",
+    "Theme",
+    "Black and White",
+    "Originality"
+  ],
+  "topGames": [
+    {
+      "gameId": 1483246,
+      "gameUrl": "https://jijigri.itch.io/cops",
+      "overallRank": 1,
+      "topCategories": [
+        "Gameplay",
+        "Theme",
+        "Originality"
+      ],
+      "resultData": {
+        "rank": 1,
+        "id": 1483246,
+        "raw_score": 4.44,
+        "rating_count": 75,
+        "contributors": [
+          {
+            "name": "jijigri",
+            "id": 2298658
+          }
+        ],
+        "title": "Cave of Past Sorrows",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 4.52,
+            "score": 4.52,
+            "rank": 1
+          },
+          {
+            "name": "Music",
+            "raw_score": 3.8933333333333,
+            "score": 3.8933333333333,
+            "rank": 23
+          },
+          {
+            "name": "Art",
+            "raw_score": 4.3333333333333,
+            "score": 4.3333333333333,
+            "rank": 14
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.6266666666667,
+            "score": 4.6266666666667,
+            "rank": 1
+          },
+          {
+            "name": "Black and White",
+            "raw_score": 4.8266666666667,
+            "score": 4.8266666666667,
+            "rank": 29
+          },
+          {
+            "name": "Originality",
+            "raw_score": 4.44,
+            "score": 4.44,
+            "rank": 6
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzkyNzU1MDgucG5n/300x240%23c/Czq%2Br%2B.png",
+        "score": 4.44,
+        "url": "https://itch.io/jam/black-and-white-jam-8/rate/1483246"
+      },
+      "entryData": {
+        "rating_count": 75,
+        "coolness": 57,
+        "id": 303846,
+        "created_at": "2022-04-12 13:24:19",
+        "game": {
+          "title": "Cave of Past Sorrows",
+          "short_text": "YOU create the Bullet Hell in this time loop-based game!",
+          "user": {
+            "name": "jijigri",
+            "url": "https://jijigri.itch.io",
+            "id": 2298658
+          },
+          "url": "https://jijigri.itch.io/cops",
+          "cover": "https://img.itch.zone/aW1nLzkyNzU1MDgucG5n/300x240%23c/Czq%2Br%2B.png",
+          "id": 1483246,
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "cover_color": "#000000"
+        },
+        "url": "/jam/black-and-white-jam-8/rate/1483246"
+      },
+      "details": {
+        "title": "Cave of Past Sorrows",
+        "description": "\n\nWinner of the 8th Black and White game jam! Thanks, everyone!\nFight alongside your past in this loop-based bullet hell!\nCave of Past Sorrow is a fast-paced bullet hell where you need to shoot enemies, loop back, and shoot more enemies while avoiding the bullets of your previous selves.\nThis makes each bullet a blessing and a curse, and mastering the game means knowing when and when not to shoot.\n(Experiencing issues? Poor framerate? Download the Standalone version below and you'll have a much better time!)\nNo one returns from the Cave of Past Sorrows, but maybe you can die at peace with this past.\n\nAD/QD - MOVE\nSPACE - JUMP\nSPACE (MID-AIR) - DOUBLE JUMP\nS - DROP FROM A PLATFORM\nLEFT CLICK - SHOOT\n\nYou start in a small arena with a gun, and an enemy spawning near you. Shooting or avoiding it might be a good idea.\nEvery 10 seconds, a new loop starts, spawning new enemies, but also creating ghosts of every living creature, and repeating their actions from the previous loops. That includes yourself!\nYour bullets are bouncy, which means they can kill you.\nYou can also die to the bullets of your past ghosts, so you should probably try to limit your shooting as much as you can.\nEvery two loops, the room will extend, giving you more space to run around and more platforms to jump on.\nYou unlock a new colour palette for every new loop you reach. You can swap the palette in the main menu.\nEach enemy type has different behaviour and works with the loops in different ways...\n\n\nMonsters: \nDon't die at the end of the loop.\nWill move towards you trying to eat your soul.\n\nSpikies:\nDie at the end of the loop\nWill shoot bullets around them, and more bullets if they are still alive towards the end of the loop.\n\nMemories:\nYou will hate them.\nDie at the end of the loop.\nWill teleport to one of your ghosts, targeting it with a laser and killing it after a short delay.\nEvery time they kill a ghost, they will shoot bullets toward the player. The more ghosts they kill, the more bullets they shoot.\nWill also shoot bullets toward the player when killed.\nYou really will hate them.\n\nProgramming, Art and Audio by jijigri.\nCreated for the Black and White Jam #8.\nEngine: Unity\nPixel Art: Aseprite\nMusic: FL Studio\nSound Effects: BFXR\nThis one rewind sound I might have used too much: Zapsplat\nHundred of thanks to you for playing the game! I really hope you're enjoying it.\nIf you read that far, let me challenge you. Try and get to loop 15 and you will be crowned king/queen of Cave of Past Sorrows! (I would also be seriously impressed).\nThanks again!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTQ4MzI0Ni84NjUwMDUzLmdpZg==/original/iCiRYp.gif",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MzI0Ni84NjUwMDU0LmdpZg==/original/vp5cFn.gif",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MzI0Ni84NjUwNjU2LmdpZg==/original/HHC0fg.gif",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MzI0Ni84NjUwNjYxLmdpZg==/original/B7xN2R.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 4.8 out of 5 stars(14 total ratings)",
+          "Author": "jijigri",
+          "Genre": "Action, Platformer",
+          "Made with": "Unity, Aseprite, Bfxr, FL Studio",
+          "Tags": "2D, Arcade, Black and White, Bullet Hell, High Score, Monsters, Music, Pixel Art, Unity",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse, Joy-Con",
+          "Accessibility": "Color-blind friendly, High-contrast"
+        }
+      }
+    },
+    {
+      "gameId": 1483412,
+      "gameUrl": "https://treemolo.itch.io/canon",
+      "overallRank": 5,
+      "topCategories": [
+        "Gameplay",
+        "Music"
+      ],
+      "resultData": {
+        "rank": 5,
+        "id": 1483412,
+        "raw_score": 4.1929824561404,
+        "rating_count": 19,
+        "contributors": [
+          {
+            "name": "Treemolo",
+            "id": 3262633
+          }
+        ],
+        "title": "Canon",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 4.4736842105263,
+            "score": 4.4736842105263,
+            "rank": 2
+          },
+          {
+            "name": "Music",
+            "raw_score": 4.5789473684211,
+            "score": 4.5789473684211,
+            "rank": 1
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.6842105263158,
+            "score": 3.6842105263158,
+            "rank": 76
+          },
+          {
+            "name": "Art",
+            "raw_score": 3.7894736842105,
+            "score": 3.7894736842105,
+            "rank": 75
+          },
+          {
+            "name": "Black and White",
+            "raw_score": 4.7368421052632,
+            "score": 4.7368421052632,
+            "rank": 58
+          },
+          {
+            "name": "Originality",
+            "raw_score": 3.8947368421053,
+            "score": 3.8947368421053,
+            "rank": 67
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzg2NTA1MTEucG5n/300x240%23c/1Za60M.png",
+        "score": 4.1929824561404,
+        "url": "https://itch.io/jam/black-and-white-jam-8/rate/1483412"
+      },
+      "entryData": {
+        "rating_count": 19,
+        "coolness": 5,
+        "id": 303814,
+        "created_at": "2022-04-12 12:10:58",
+        "game": {
+          "title": "Canon",
+          "short_text": "A rythm based game to have fun.",
+          "user": {
+            "name": "Treemolo",
+            "url": "https://treemolo.itch.io",
+            "id": 3262633
+          },
+          "url": "https://treemolo.itch.io/canon",
+          "cover": "https://img.itch.zone/aW1nLzg2NTA1MTEucG5n/300x240%23c/1Za60M.png",
+          "id": 1483412,
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#000000"
+        },
+        "url": "/jam/black-and-white-jam-8/rate/1483412"
+      },
+      "details": {
+        "title": "Canon",
+        "description": "Keep the beat up in this musical black and white challenge!\nRelax and enjoy this litle game with amazing music by OcularNebula and myself.\nControls:\nYou can use SPACEBAR or LEFT MOUSE to play.\nPress M to go to menu.\nYou can use SPACEBAR or LEFT MOUSE to play.\nYou can hear the OST on Youtube:\n\nJust download and install! Ready to go!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTQ4MzQxMi84NjUwNTM5LnBuZw==/original/ElsFYi.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MzQxMi84NjUwNTQxLnBuZw==/original/PRFQTp.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MzQxMi84NjUwNTQwLnBuZw==/original/o0Z8o1.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.7 out of 5 stars(6 total ratings)",
+          "Author": "Treemolo",
+          "Genre": "Rhythm",
+          "Made with": "GameMaker",
+          "Tags": "Music"
+        }
+      }
+    },
+    {
+      "gameId": 1483431,
+      "gameUrl": "https://remono.itch.io/recognition-loop",
+      "overallRank": 4,
+      "topCategories": [
+        "Gameplay",
+        "Theme",
+        "Originality"
+      ],
+      "resultData": {
+        "rank": 4,
+        "id": 1483431,
+        "raw_score": 4.2666666666667,
+        "rating_count": 25,
+        "contributors": [
+          {
+            "name": "Mono",
+            "id": 2222911
+          }
+        ],
+        "title": "Recognition Loop",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 4.36,
+            "score": 4.36,
+            "rank": 3
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.4,
+            "score": 4.4,
+            "rank": 6
+          },
+          {
+            "name": "Music",
+            "raw_score": 3.76,
+            "score": 3.76,
+            "rank": 40
+          },
+          {
+            "name": "Art",
+            "raw_score": 3.76,
+            "score": 3.76,
+            "rank": 82
+          },
+          {
+            "name": "Originality",
+            "raw_score": 4.6,
+            "score": 4.6,
+            "rank": 2
+          },
+          {
+            "name": "Black and White",
+            "raw_score": 4.72,
+            "score": 4.72,
+            "rank": 63
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzg2NTAzMjQucG5n/300x240%23c/mzh%2Boa.png",
+        "score": 4.2666666666667,
+        "url": "https://itch.io/jam/black-and-white-jam-8/rate/1483431"
+      },
+      "entryData": {
+        "rating_count": 25,
+        "coolness": 18,
+        "id": 303831,
+        "created_at": "2022-04-12 12:53:05",
+        "game": {
+          "user": {
+            "name": "Mono",
+            "url": "https://remono.itch.io",
+            "id": 2222911
+          },
+          "title": "Recognition Loop",
+          "id": 1483431,
+          "cover": "https://img.itch.zone/aW1nLzg2NTAzMjQucG5n/300x240%23c/mzh%2Boa.png",
+          "platforms": [
+            "web"
+          ],
+          "url": "https://remono.itch.io/recognition-loop"
+        },
+        "url": "/jam/black-and-white-jam-8/rate/1483431"
+      },
+      "details": {
+        "title": "Recognition Loop",
+        "description": "Recognition Loop is a Sokoban inspired puzzle game, where you can't pass the same surroundings twice.I made all the assets myself (graphics, sound effects, music, code) with exception of the font. It's [monogram](https://datagoblin.itch.io/monogram) by datagoblin!\nIn case you can't beat the game, two of my friends posted a playthrough: \n\nThey even added english subtitles! Shoutout to them~\nThe game was made for Black and White Jam and contains 6 different levels (joined late and didn't have time to make more qwq)\nI hope you'll have a lot of fun!",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzg2NTAzMjQucG5n/original/bQ8GL1.png"
+        ],
+        "moreInfo": {
+          "Updated": "10 days ago",
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.6 out of 5 stars(7 total ratings)",
+          "Author": "Mono",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "2D, Black and White, loop, Pixel Art",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Keyboard, Xbox controller, Joystick",
+          "Accessibility": "Color-blind friendly, High-contrast"
+        }
+      }
+    },
+    {
+      "gameId": 1483352,
+      "gameUrl": "https://atta-boy.itch.io/i-need-pain",
+      "overallRank": 26,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "rank": 26,
+        "id": 1483352,
+        "raw_score": 3.9540229885057,
+        "rating_count": 29,
+        "contributors": [
+          {
+            "name": "Atta Boy!",
+            "id": 592829
+          }
+        ],
+        "title": "I NEED PAIN",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 4.3448275862069,
+            "score": 4.3448275862069,
+            "rank": 4
+          },
+          {
+            "name": "Music",
+            "raw_score": 3.9310344827586,
+            "score": 3.9310344827586,
+            "rank": 19
+          },
+          {
+            "name": "Art",
+            "raw_score": 3.9655172413793,
+            "score": 3.9655172413793,
+            "rank": 52
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.1379310344828,
+            "score": 3.1379310344828,
+            "rank": 138
+          },
+          {
+            "name": "Originality",
+            "raw_score": 4,
+            "score": 4,
+            "rank": 40
+          },
+          {
+            "name": "Black and White",
+            "raw_score": 4.3448275862069,
+            "score": 4.3448275862069,
+            "rank": 152
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzg2NTEwMjIucG5n/300x240%23c/s7fVUB.png",
+        "score": 3.9540229885057,
+        "url": "https://itch.io/jam/black-and-white-jam-8/rate/1483352"
+      },
+      "entryData": {
+        "rating_count": 29,
+        "coolness": 56,
+        "id": 303891,
+        "created_at": "2022-04-12 13:56:32",
+        "game": {
+          "title": "I NEED PAIN",
+          "short_text": "Heal, hurt, repeat. You need love. You need pain.",
+          "user": {
+            "name": "Atta Boy!",
+            "url": "https://atta-boy.itch.io",
+            "id": 592829
+          },
+          "url": "https://atta-boy.itch.io/i-need-pain",
+          "cover": "https://img.itch.zone/aW1nLzg2NTEwMjIucG5n/300x240%23c/s7fVUB.png",
+          "id": 1483352,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#000000"
+        },
+        "url": "/jam/black-and-white-jam-8/rate/1483352"
+      },
+      "details": {
+        "title": "I NEED PAIN",
+        "description": "* Best played in fullscreen! Click the button in the bottom right corner.\nI NEED PAIN is a short, 10-level puzzle platformer where you must repeatedly heal and harm yourself in order to progress. Made for the 8th Black-and-White Jam in 2022. All assets are my own.\n\nCONTROLS:\nArrow keys move, space jumps. R resets the current room. Q resets the game.\n\nPlease let me know what you think of the game and what you'd like to see in the future expanded version :)Download the ZIP file, open and extract it somewhere, then run I NEED PAIN.exe",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTQ4MzM1Mi84NjUxNjI0LnBuZw==/original/QNuYza.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MzM1Mi84NjUxNjI1LnBuZw==/original/AJddHd.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MzM1Mi84NjUxNjIzLnBuZw==/original/TVY0%2Br.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(4 total ratings)",
+          "Author": "Atta Boy!",
+          "Genre": "Platformer",
+          "Made with": "GameMaker",
+          "Tags": "Black and White, black-and-white-jam, Indie, pixel, Pixel Art, precision, Speedrun"
+        }
+      }
+    },
+    {
+      "gameId": 1480615,
+      "gameUrl": "https://midnightbaker.itch.io/roboloop-v0",
+      "overallRank": 3,
+      "topCategories": [
+        "Gameplay",
+        "Theme"
+      ],
+      "resultData": {
+        "rank": 3,
+        "id": 1480615,
+        "raw_score": 4.3039215686275,
+        "rating_count": 68,
+        "contributors": [
+          {
+            "name": "MidnightBaker",
+            "id": 5829088
+          }
+        ],
+        "title": "RoboLoop_v0",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 4.3088235294118,
+            "score": 4.3088235294118,
+            "rank": 5
+          },
+          {
+            "name": "Music",
+            "raw_score": 3.9411764705882,
+            "score": 3.9411764705882,
+            "rank": 18
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.4558823529412,
+            "score": 4.4558823529412,
+            "rank": 4
+          },
+          {
+            "name": "Art",
+            "raw_score": 4.2058823529412,
+            "score": 4.2058823529412,
+            "rank": 22
+          },
+          {
+            "name": "Black and White",
+            "raw_score": 4.6911764705882,
+            "score": 4.6911764705882,
+            "rank": 77
+          },
+          {
+            "name": "Originality",
+            "raw_score": 4.2205882352941,
+            "score": 4.2205882352941,
+            "rank": 21
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzg2MzU0ODMuZ2lm/300x240%23c/xfe1Ni.gif",
+        "score": 4.3039215686275,
+        "url": "https://itch.io/jam/black-and-white-jam-8/rate/1480615"
+      },
+      "entryData": {
+        "rating_count": 68,
+        "coolness": 113,
+        "id": 303197,
+        "created_at": "2022-04-10 18:27:36",
+        "game": {
+          "id": 1480615,
+          "short_text": "A game about programming robots",
+          "user": {
+            "name": "MidnightBaker",
+            "url": "https://midnightbaker.itch.io",
+            "id": 5829088
+          },
+          "url": "https://midnightbaker.itch.io/roboloop-v0",
+          "gif_cover": "https://img.itch.zone/aW1nLzg2MzU0ODMuZ2lm/original/AYXIFR.gif",
+          "cover": "https://img.itch.zone/aW1nLzg2MzU0ODMuZ2lm/300x240%23c/xfe1Ni.gif",
+          "platforms": [
+            "web"
+          ],
+          "title": "RoboLoop_v0"
+        },
+        "url": "/jam/black-and-white-jam-8/rate/1480615"
+      },
+      "details": {
+        "title": "RoboLoop_v0",
+        "description": "RoboLoop is a charming hand-animated puzzle game with a simple maze premise that becomes less and less straightforward the further you go. Avoid hazards, collect gems, and help the robots complete their tasks so the factory can run like a well-oiled machine!\n\nCredits:\nProgramming, Art and Level Design: Simon Massad\nWriting: Alex Rose\nMusic: Dominic Lutheran\nYou can find more of Dominic's music here:\nhttps://soundcloud.com/dominic-lutheran\nhttps://www.youtube.com/channel/UCqzHO7tnTkvqWuWAwXz1YNQ\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTQ4MDYxNS84NjM1NDM3LnBuZw==/original/hNMZt3.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MDYxNS84NjM1NTAzLnBuZw==/original/9mSk%2BJ.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MDYxNS84NjM1NDkyLnBuZw==/original/c%2FMDEU.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.6 out of 5 stars(5 total ratings)",
+          "Author": "MidnightBaker",
+          "Genre": "Puzzle",
+          "Tags": "1-bit, 2D, Automation, Cute, Minimalist, relax, Robots, Short"
+        }
+      }
+    },
+    {
+      "gameId": 1483019,
+      "gameUrl": "https://komugi1211s.itch.io/ring-buffer-jam-game",
+      "overallRank": 7,
+      "topCategories": [
+        "Gameplay",
+        "Theme",
+        "Originality"
+      ],
+      "resultData": {
+        "rank": 7,
+        "id": 1483019,
+        "raw_score": 4.1851851851852,
+        "rating_count": 9,
+        "contributors": [
+          {
+            "name": "Komugi1211s",
+            "id": 1015262
+          }
+        ],
+        "title": "\"ring buffer\" (b&w jam 8 submission)",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 4.2222222222222,
+            "score": 4.2222222222222,
+            "rank": 6
+          },
+          {
+            "name": "Art",
+            "raw_score": 3.7777777777778,
+            "score": 3.7777777777778,
+            "rank": 79
+          },
+          {
+            "name": "Music",
+            "raw_score": 3.4444444444444,
+            "score": 3.4444444444444,
+            "rank": 82
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.4444444444444,
+            "score": 4.4444444444444,
+            "rank": 5
+          },
+          {
+            "name": "Originality",
+            "raw_score": 4.4444444444444,
+            "score": 4.4444444444444,
+            "rank": 4
+          },
+          {
+            "name": "Black and White",
+            "raw_score": 4.7777777777778,
+            "score": 4.7777777777778,
+            "rank": 40
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzg2NDgwMDgucG5n/300x240%23c/j0uet7.png",
+        "score": 4.1851851851852,
+        "url": "https://itch.io/jam/black-and-white-jam-8/rate/1483019"
+      },
+      "entryData": {
+        "rating_count": 9,
+        "coolness": 6,
+        "id": 303716,
+        "created_at": "2022-04-12 05:08:30",
+        "game": {
+          "title": "\"ring buffer\" (b&w jam 8 submission)",
+          "short_text": "Robot fights other robots... until one of them runs out of health. pretty much.",
+          "user": {
+            "name": "Komugi1211s",
+            "url": "https://komugi1211s.itch.io",
+            "id": 1015262
+          },
+          "url": "https://komugi1211s.itch.io/ring-buffer-jam-game",
+          "cover": "https://img.itch.zone/aW1nLzg2NDgwMDgucG5n/300x240%23c/j0uet7.png",
+          "id": 1483019,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#000000"
+        },
+        "url": "/jam/black-and-white-jam-8/rate/1483019"
+      },
+      "details": {
+        "title": "\"ring buffer\" (b&w jam 8 submission)",
+        "description": "Submission for black and white jam No 8 (Theme: `Loop`)\nYou, a robot with memory issues, fight against the horde of other robots that looks identical to you.\nHow to play:\nyou specify how your robot fights, by assigning action into a Ring buffer.as the name suggests, this buffer is a looped structure, and robots will repeat the exact sequence of action specified in the buffer until one of you fall.each time you \"Lock in\" after you insert your action, the game will literally lock your action in, unable to remove in the future.you also have 3 chances to reset a buffer completely.\ncarefully form your plan, prepare for any possible situation, and fight against the horde of enemies without getting it 5 times!",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzg2NDgwMDgucG5n/original/VZ5A6c.png"
+        ],
+        "moreInfo": {
+          "Status": "On hold",
+          "Platforms": "HTML5",
+          "Author": "Komugi1211s",
+          "Genre": "Puzzle",
+          "Tags": "2D, Black and White, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 1480860,
+      "gameUrl": "https://sqkriwvy.itch.io/loop",
+      "overallRank": 10,
+      "topCategories": [
+        "Gameplay",
+        "Theme"
+      ],
+      "resultData": {
+        "rank": 10,
+        "id": 1480860,
+        "raw_score": 4.1296296296296,
+        "rating_count": 36,
+        "contributors": [
+          {
+            "name": "sqkriwvy",
+            "id": 1800331
+          }
+        ],
+        "title": "Loop",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 4.2222222222222,
+            "score": 4.2222222222222,
+            "rank": 6
+          },
+          {
+            "name": "Music",
+            "raw_score": 3.8611111111111,
+            "score": 3.8611111111111,
+            "rank": 31
+          },
+          {
+            "name": "Art",
+            "raw_score": 4.0555555555556,
+            "score": 4.0555555555556,
+            "rank": 41
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.3888888888889,
+            "score": 4.3888888888889,
+            "rank": 9
+          },
+          {
+            "name": "Black and White",
+            "raw_score": 4.4722222222222,
+            "score": 4.4722222222222,
+            "rank": 124
+          },
+          {
+            "name": "Originality",
+            "raw_score": 3.7777777777778,
+            "score": 3.7777777777778,
+            "rank": 85
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzg2MzY1NjAucG5n/300x240%23c/fciUh0.png",
+        "score": 4.1296296296296,
+        "url": "https://itch.io/jam/black-and-white-jam-8/rate/1480860"
+      },
+      "entryData": {
+        "rating_count": 36,
+        "coolness": 31,
+        "id": 303225,
+        "created_at": "2022-04-10 20:10:07",
+        "game": {
+          "title": "Loop",
+          "short_text": "Puzzle game where you connect pieces of pipes together",
+          "user": {
+            "name": "sqkriwvy",
+            "url": "https://sqkriwvy.itch.io",
+            "id": 1800331
+          },
+          "url": "https://sqkriwvy.itch.io/loop",
+          "cover": "https://img.itch.zone/aW1nLzg2MzY1NjAucG5n/300x240%23c/fciUh0.png",
+          "id": 1480860,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#422136"
+        },
+        "url": "/jam/black-and-white-jam-8/rate/1480860"
+      },
+      "details": {
+        "title": "Loop",
+        "description": "What could be more fun than connecting pieces of pipes?\nWell, actually, everything, but you really oughta try this game!\nSpecial Thanks to:\nMafk, Veemonic (logo design help);\nmerwok (level picking cursor help);\nMrblackcat (ok);\nGabi King (help with music).\nControls:\nLeft/Right/Up/Down - Move;\nX - Rotate pipe/Confirm;\nZ (O) - Go back.\nHow to play:\nRotate pipes until they are all connected.\nPipes have different types, each type should be connected with the pipes of the same type.\nFeatures:\n32 levels to play with 3 types of pipes;\nChangeable palette in options;\nMusic and SFX on/off.\nPage on official PICO-8 website",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTQ4MDg2MC84NjM2NTYxLmdpZg==/original/pQM2bY.gif",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MDg2MC84NjM2NTYzLmdpZg==/original/Y9Od%2FR.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 3.8 out of 5 stars(4 total ratings)",
+          "Author": "sqkriwvy",
+          "Genre": "Puzzle",
+          "Made with": "PICO-8",
+          "Tags": "1-bit, Casual, Cute, Music, PICO-8, pipe, Pixel Art, Retro, Singleplayer, Two colors",
+          "Code license": "GNU General Public License v3.0 (GPL)",
+          "Asset license": "Creative Commons Attribution_NonCommercial_ShareAlike v4.0 International",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard",
+          "Accessibility": "High-contrast"
+        }
+      }
+    },
+    {
+      "gameId": 1481421,
+      "gameUrl": "https://the4thad.itch.io/closed-circuit",
+      "overallRank": 9,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "rank": 9,
+        "id": 1481421,
+        "raw_score": 4.1347517730496,
+        "rating_count": 47,
+        "contributors": [
+          {
+            "name": "The4thAD",
+            "id": 3229386
+          }
+        ],
+        "title": "Closed Circuit",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 4.2127659574468,
+            "score": 4.2127659574468,
+            "rank": 8
+          },
+          {
+            "name": "Art",
+            "raw_score": 3.9574468085106,
+            "score": 3.9574468085106,
+            "rank": 53
+          },
+          {
+            "name": "Music",
+            "raw_score": 3.5957446808511,
+            "score": 3.5957446808511,
+            "rank": 64
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.2978723404255,
+            "score": 4.2978723404255,
+            "rank": 13
+          },
+          {
+            "name": "Originality",
+            "raw_score": 3.936170212766,
+            "score": 3.936170212766,
+            "rank": 57
+          },
+          {
+            "name": "Black and White",
+            "raw_score": 4.8085106382979,
+            "score": 4.8085106382979,
+            "rank": 36
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzg2NDMzMzkucG5n/300x240%23c/NJ4%2FV5.png",
+        "score": 4.1347517730496,
+        "url": "https://itch.io/jam/black-and-white-jam-8/rate/1481421"
+      },
+      "entryData": {
+        "rating_count": 47,
+        "coolness": 4,
+        "id": 303441,
+        "created_at": "2022-04-11 07:23:37",
+        "game": {
+          "title": "Closed Circuit",
+          "short_text": "A short puzzle game where you find a way to power lights with a single 9-volt battery and a long piece of wire.",
+          "user": {
+            "name": "The4thAD",
+            "url": "https://the4thad.itch.io",
+            "id": 3229386
+          },
+          "url": "https://the4thad.itch.io/closed-circuit",
+          "cover": "https://img.itch.zone/aW1nLzg2NDMzMzkucG5n/300x240%23c/NJ4%2FV5.png",
+          "id": 1481421,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#000000"
+        },
+        "url": "/jam/black-and-white-jam-8/rate/1481421"
+      },
+      "details": {
+        "title": "Closed Circuit",
+        "description": "Closed CircuitYou are a mechanic tasked with repairing a building whose wires have been burned up due to a lightning strike.  Find a way to power all the lights and complete the circuit!\nControls:WASD / Arrow keys to moveR: Restart levelB: Back (not undo)\n\nCredits:Project lead: The4thADProgramming: The4thADAssets: The4thADSound design: The4thAD",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzg2NDMzMzkucG5n/original/0aORSc.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.6 out of 5 stars(8 total ratings)",
+          "Author": "The4thAD",
+          "Genre": "Puzzle"
+        }
+      }
+    },
+    {
+      "gameId": 1479586,
+      "gameUrl": "https://featurekreep.itch.io/looper",
+      "overallRank": 2,
+      "topCategories": [
+        "Gameplay",
+        "Theme",
+        "Originality"
+      ],
+      "resultData": {
+        "rank": 2,
+        "id": 1479586,
+        "raw_score": 4.359649122807,
+        "rating_count": 38,
+        "contributors": [
+          {
+            "name": "FeatureKreep",
+            "id": 878997
+          }
+        ],
+        "title": "Looper",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 4.2105263157895,
+            "score": 4.2105263157895,
+            "rank": 9
+          },
+          {
+            "name": "Music",
+            "raw_score": 3.8684210526316,
+            "score": 3.8684210526316,
+            "rank": 29
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.5,
+            "score": 4.5,
+            "rank": 3
+          },
+          {
+            "name": "Art",
+            "raw_score": 4.2368421052632,
+            "score": 4.2368421052632,
+            "rank": 19
+          },
+          {
+            "name": "Originality",
+            "raw_score": 4.5526315789474,
+            "score": 4.5526315789474,
+            "rank": 3
+          },
+          {
+            "name": "Black and White",
+            "raw_score": 4.7894736842105,
+            "score": 4.7894736842105,
+            "rank": 37
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzg2NDUyOTQuZ2lm/300x240%23c/ZzbqoG.gif",
+        "score": 4.359649122807,
+        "url": "https://itch.io/jam/black-and-white-jam-8/rate/1479586"
+      },
+      "entryData": {
+        "rating_count": 38,
+        "coolness": 19,
+        "id": 303600,
+        "created_at": "2022-04-11 21:12:00",
+        "game": {
+          "url": "https://featurekreep.itch.io/looper",
+          "cover_color": "#eeeeee",
+          "gif_cover": "https://img.itch.zone/aW1nLzg2NDUyOTQuZ2lm/original/%2FDuNOM.gif",
+          "user": {
+            "name": "FeatureKreep",
+            "url": "https://featurekreep.itch.io",
+            "id": 878997
+          },
+          "cover": "https://img.itch.zone/aW1nLzg2NDUyOTQuZ2lm/300x240%23c/ZzbqoG.gif",
+          "id": 1479586,
+          "title": "Looper",
+          "platforms": [
+            "web"
+          ],
+          "short_text": "Use space-looping technology to escape the dungeon"
+        },
+        "url": "/jam/black-and-white-jam-8/rate/1479586"
+      },
+      "details": {
+        "title": "Looper",
+        "description": "Escape the dungeon using the Looper — a cutting-edge technology that lets you fold the space itself.\nMade for Black and White Jam 8 (theme: Loop)\nControls\nArrow keys/WASD — move\n\nUp/Z/W — jump\nSpace/X — activate/deactivate the looping area\n\nR — restart the level\nDown/A — dance\nCredits\nArt & coding: @FeatureKreep\n\nMusic: Badlands\nWant to support me? You can donate to my Ko-fi ☕ or my Patreon",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTQ3OTU4Ni84NjQ1Mjk3LnBuZw==/original/HtqqDb.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ3OTU4Ni84NjQ1NDIxLnBuZw==/original/y1Pfu6.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ3OTU4Ni84NjQ1NDIzLnBuZw==/original/yHyxdI.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ3OTU4Ni84NjQ1NDIyLnBuZw==/original/J993%2Bi.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.7 out of 5 stars(100 total ratings)",
+          "Author": "FeatureKreep",
+          "Genre": "Platformer",
+          "Made with": "Construct",
+          "Tags": "1-bit, Black and White, Pixel Art, Puzzle-Platformer, Retro",
+          "Links": "Twitter/X, Bluesky, Patreon"
+        }
+      }
+    },
+    {
+      "gameId": 1481547,
+      "gameUrl": "https://zcyon.itch.io/loopdog",
+      "overallRank": 47,
+      "topCategories": [
+        "Gameplay",
+        "Theme"
+      ],
+      "resultData": {
+        "rank": 47,
+        "id": 1481547,
+        "raw_score": 3.8211382113821,
+        "rating_count": 41,
+        "contributors": [
+          {
+            "name": "Zcyon",
+            "id": 2424862
+          }
+        ],
+        "title": "LoopDog",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 4.1219512195122,
+            "score": 4.1219512195122,
+            "rank": 10
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.390243902439,
+            "score": 4.390243902439,
+            "rank": 8
+          },
+          {
+            "name": "Originality",
+            "raw_score": 4,
+            "score": 4,
+            "rank": 40
+          },
+          {
+            "name": "Music",
+            "raw_score": 2.5365853658537,
+            "score": 2.5365853658537,
+            "rank": 194
+          },
+          {
+            "name": "Art",
+            "raw_score": 4.0243902439024,
+            "score": 4.0243902439024,
+            "rank": 47
+          },
+          {
+            "name": "Black and White",
+            "raw_score": 3.8536585365854,
+            "score": 3.8536585365854,
+            "rank": 217
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzg2NDg1ODgucG5n/300x240%23c/9eJow5.png",
+        "score": 3.8211382113821,
+        "url": "https://itch.io/jam/black-and-white-jam-8/rate/1481547"
+      },
+      "entryData": {
+        "rating_count": 41,
+        "coolness": 22,
+        "id": 303735,
+        "created_at": "2022-04-12 07:28:08",
+        "game": {
+          "title": "LoopDog",
+          "short_text": "Bite your tail and become the Loopdog!",
+          "user": {
+            "name": "Zcyon",
+            "url": "https://zcyon.itch.io",
+            "id": 2424862
+          },
+          "url": "https://zcyon.itch.io/loopdog",
+          "cover": "https://img.itch.zone/aW1nLzg2NDg1ODgucG5n/300x240%23c/9eJow5.png",
+          "id": 1481547,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#000000"
+        },
+        "url": "/jam/black-and-white-jam-8/rate/1481547"
+      },
+      "details": {
+        "title": "LoopDog",
+        "description": "Welcome to LoopDog!\nA game where you play as a dog that's trying to bite its own tail! *monch*\n\nControls\nThis game was designed to be played on mobile devices so I'm sure you'll find it more comfortable to use your mouse as if it was your finger. This is the recommended way of experiencing the game, but if you still want to use your keyboard, then please continue reading.\n\nThe controls are explained inside the game, but basically:\n\n[WASD/Arrow Keys/Mouse Swipe] = Movement\n\n[R] = Restart Level\n\n[M] = Go to Main Menu \n\n[N] = Go to Next Level \n\n[T] = Toggle Camera View\nMore about LoopDog\nThis game was created as an entry to the Black and White Jam 8. I challenged myself to design a game for mobile devices with support for WebGL; in the future, this game will have links to the App Store and Play Store so you can continue Looping on the go!\nI don't intend to make LoopDog a full-fledged game. It was more of a neat little experiment for me to try out the challenges of deploying for more than one platform (believe me, it was an interesting ride!) and have something that's easy to play and accessible to everyone.\nI hope you enjoy my game and have as much fun playing LoopDog as I had creating it for you!\nMobile Store Links\nOnce the game becomes available on the Play Store and App Store, I'll make sure to put the links here :)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTQ4MTU0Ny84NjQ4NDcwLnBuZw==/original/mHK8kB.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MTU0Ny84NjQ4NDczLnBuZw==/original/9PS1sA.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MTU0Ny84NjQ4NDc3LnBuZw==/original/DmrIi1.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MTU0Ny84NjQ4NDg2LnBuZw==/original/TrOxX2.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MTU0Ny84NjQ4NDkzLnBuZw==/original/7BK9R5.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Zcyon",
+          "Genre": "Puzzle",
+          "Tags": "3D, Black and White, Dogs, Voxel"
+        }
+      }
+    },
+    {
+      "gameId": 1482590,
+      "gameUrl": "https://rilantes.itch.io/beat-box",
+      "overallRank": 11,
+      "topCategories": [
+        "Music"
+      ],
+      "resultData": {
+        "rank": 11,
+        "id": 1482590,
+        "raw_score": 4.1269841269841,
+        "rating_count": 21,
+        "contributors": [
+          {
+            "name": "Rilantes",
+            "id": 1347176
+          }
+        ],
+        "title": "BeatBox",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.8095238095238,
+            "score": 3.8095238095238,
+            "rank": 31
+          },
+          {
+            "name": "Music",
+            "raw_score": 4.4761904761905,
+            "score": 4.4761904761905,
+            "rank": 2
+          },
+          {
+            "name": "Art",
+            "raw_score": 3.6666666666667,
+            "score": 3.6666666666667,
+            "rank": 88
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.952380952381,
+            "score": 3.952380952381,
+            "rank": 41
+          },
+          {
+            "name": "Originality",
+            "raw_score": 4.047619047619,
+            "score": 4.047619047619,
+            "rank": 36
+          },
+          {
+            "name": "Black and White",
+            "raw_score": 4.8095238095238,
+            "score": 4.8095238095238,
+            "rank": 35
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzg2NDU4MDcucG5n/300x240%23c/r%2BLyDL.png",
+        "score": 4.1269841269841,
+        "url": "https://itch.io/jam/black-and-white-jam-8/rate/1482590"
+      },
+      "entryData": {
+        "rating_count": 21,
+        "coolness": 54,
+        "id": 303696,
+        "created_at": "2022-04-12 03:46:55",
+        "game": {
+          "title": "BeatBox",
+          "short_text": "Beat the Box!",
+          "user": {
+            "name": "Rilantes",
+            "url": "https://rilantes.itch.io",
+            "id": 1347176
+          },
+          "url": "https://rilantes.itch.io/beat-box",
+          "cover": "https://img.itch.zone/aW1nLzg2NDU4MDcucG5n/300x240%23c/r%2BLyDL.png",
+          "id": 1482590,
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#000404"
+        },
+        "url": "/jam/black-and-white-jam-8/rate/1482590"
+      },
+      "details": {
+        "title": "BeatBox",
+        "description": "A 2D black and white platformer made for Black and White Jam #8. Run, jump, and dash your way through looping levels as DJ.EXE and finish before your ghost does to win! \nStrongly recommended to play with a controller. Windows executable also runs smoother than playing in browser.\n\nMusic sourced from Epidemic Sound. Thanks to Tarodev for the 2D Character Controller script.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTQ4MjU5MC84NjQ3NzMzLmpwZw==/original/uC7h2s.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MjU5MC84NjQ3NzMyLmpwZw==/original/Qiljid.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MjU5MC84NjQ3NzM0LmpwZw==/original/6wfWvg.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Author": "Rilantes",
+          "Genre": "Platformer",
+          "Tags": "2D, Black and White, jumping, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 1481528,
+      "gameUrl": "https://stefanion.itch.io/lo-bit-loops",
+      "overallRank": 33,
+      "topCategories": [
+        "Music"
+      ],
+      "resultData": {
+        "rank": 33,
+        "id": 1481528,
+        "raw_score": 3.9027777777778,
+        "rating_count": 24,
+        "contributors": [
+          {
+            "name": "stefanion",
+            "id": 5346363
+          }
+        ],
+        "title": "Lo-Bit Loops",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 2.625,
+            "score": 2.625,
+            "rank": 210
+          },
+          {
+            "name": "Music",
+            "raw_score": 4.4166666666667,
+            "score": 4.4166666666667,
+            "rank": 3
+          },
+          {
+            "name": "Art",
+            "raw_score": 3.5416666666667,
+            "score": 3.5416666666667,
+            "rank": 107
+          },
+          {
+            "name": "Originality",
+            "raw_score": 3.9166666666667,
+            "score": 3.9166666666667,
+            "rank": 59
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.1666666666667,
+            "score": 4.1666666666667,
+            "rank": 23
+          },
+          {
+            "name": "Black and White",
+            "raw_score": 4.75,
+            "score": 4.75,
+            "rank": 50
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzg2NDA0NjEucG5n/300x240%23c/xjHmlc.png",
+        "score": 3.9027777777778,
+        "url": "https://itch.io/jam/black-and-white-jam-8/rate/1481528"
+      },
+      "entryData": {
+        "rating_count": 24,
+        "coolness": 20,
+        "id": 303444,
+        "created_at": "2022-04-11 07:33:26",
+        "game": {
+          "title": "Lo-Bit Loops",
+          "user": {
+            "name": "stefanion",
+            "url": "https://stefanion.itch.io",
+            "id": 5346363
+          },
+          "url": "https://stefanion.itch.io/lo-bit-loops",
+          "cover": "https://img.itch.zone/aW1nLzg2NDA0NjEucG5n/300x240%23c/xjHmlc.png",
+          "id": 1481528,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#ffffff"
+        },
+        "url": "/jam/black-and-white-jam-8/rate/1481528"
+      },
+      "details": {
+        "title": "Lo-Bit Loops",
+        "description": "loop - [luːp] - noun - in music a loop is a sample of a performance that has been edited to repeat seamlessly when the audio file is played end to end.\n\ncontrols\n\nhover to preview a loopclick to select / deselect the looppress the button to play / stop the loopsclick the arrows to navigate between different loop volumes",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzg2NDA0NjEucG5n/original/HD%2BGWP.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "stefanion",
+          "Tags": "Music, Music Production, Relaxing"
+        }
+      }
+    },
+    {
+      "gameId": 1483484,
+      "gameUrl": "https://game-joy.itch.io/emimlive-chroma-quest",
+      "overallRank": 64,
+      "topCategories": [
+        "Music"
+      ],
+      "resultData": {
+        "rank": 64,
+        "id": 1483484,
+        "raw_score": 3.7352941176471,
+        "rating_count": 17,
+        "contributors": [
+          {
+            "name": "GAME JOY",
+            "id": 2920632
+          },
+          {
+            "name": "ShoobyTaylor",
+            "id": 2871460
+          }
+        ],
+        "title": "EMIMLIVE: Chroma Quest (DEMO)",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.6470588235294,
+            "score": 3.6470588235294,
+            "rank": 47
+          },
+          {
+            "name": "Music",
+            "raw_score": 4.2941176470588,
+            "score": 4.2941176470588,
+            "rank": 4
+          },
+          {
+            "name": "Art",
+            "raw_score": 3.4117647058824,
+            "score": 3.4117647058824,
+            "rank": 124
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.1176470588235,
+            "score": 3.1176470588235,
+            "rank": 145
+          },
+          {
+            "name": "Black and White",
+            "raw_score": 4.7647058823529,
+            "score": 4.7647058823529,
+            "rank": 48
+          },
+          {
+            "name": "Originality",
+            "raw_score": 3.1764705882353,
+            "score": 3.1764705882353,
+            "rank": 181
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzE0NzY5NTYzLnBuZw==/300x240%23c/pKaMJn.png",
+        "score": 3.7352941176471,
+        "url": "https://itch.io/jam/black-and-white-jam-8/rate/1483484"
+      },
+      "entryData": {
+        "id": 303889,
+        "rating_count": 17,
+        "coolness": 16,
+        "created_at": "2022-04-12 13:56:09",
+        "contributors": [
+          {
+            "name": "GAME JOY",
+            "url": "https://game-joy.itch.io"
+          },
+          {
+            "name": "ShoobyTaylor",
+            "url": "https://shoobytaylor.itch.io"
+          }
+        ],
+        "game": {
+          "title": "EMIMLIVE: Chroma Quest (DEMO)",
+          "short_text": "Three heroes go on a quest to bring back the world's color.",
+          "user": {
+            "name": "GAME JOY",
+            "url": "https://game-joy.itch.io",
+            "id": 2920632
+          },
+          "url": "https://game-joy.itch.io/emimlive-chroma-quest",
+          "cover": "https://img.itch.zone/aW1nLzE0NzY5NTYzLnBuZw==/300x240%23c/pKaMJn.png",
+          "id": 1483484,
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#000000"
+        },
+        "url": "/jam/black-and-white-jam-8/rate/1483484"
+      },
+      "details": {
+        "title": "EMIMLIVE: Chroma Quest (DEMO)",
+        "description": "Description:\nEMIMLIVE: Chroma Quest is a turn-based RPG in a world turned black and white. Control a full-bodied wrestler, a (mad?) scientist, and a guy with an oversized boomerang as you explore the game's world and fight baddies along the way. Invert the colors of the game in-battle to change the heroes' classes on the fly (and find hidden objects while exploring).\n(This is a Pre-Alpha demo, so a lot is subject to change going forward. Please look forward to updates on the project in the future.)\n(Originally made in 11 days for the Black and White Jam #8. The theme was \"Loop\".)\n*Check the Controls screen in-game for a list of controls1. Download and run the setup file\n2. Follow the instructions to complete the installation process\n3. Run \"EMIMLIVE Chroma Quest (DEMO)\" to start the game\n(Designed for 1920x1080p screens)\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTQ4MzQ4NC8xNzY0MjU5NS5wbmc=/original/y62M6s.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MzQ4NC8xNzY0MjU5Ny5wbmc=/original/Z7hPbx.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MzQ4NC8xNzY0MjU5OS5wbmc=/original/pXBK7N.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MzQ4NC8xNzY0MjYwMC5wbmc=/original/9e9MtT.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Authors": "GAME JOY, ShoobyTaylor",
+          "Genre": "Role Playing",
+          "Tags": "Black and White, Turn-Based Combat"
+        }
+      }
+    },
+    {
+      "gameId": 1483338,
+      "gameUrl": "https://psychicfire.itch.io/flushed",
+      "overallRank": 58,
+      "topCategories": [
+        "Music"
+      ],
+      "resultData": {
+        "rank": 58,
+        "id": 1483338,
+        "raw_score": 3.7738095238095,
+        "rating_count": 14,
+        "contributors": [
+          {
+            "name": "psychicfire",
+            "id": 1837274
+          }
+        ],
+        "title": "Flushed",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3,
+            "score": 3,
+            "rank": 139
+          },
+          {
+            "name": "Music",
+            "raw_score": 4.2857142857143,
+            "score": 4.2857142857143,
+            "rank": 5
+          },
+          {
+            "name": "Art",
+            "raw_score": 3.5714285714286,
+            "score": 3.5714285714286,
+            "rank": 101
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.4285714285714,
+            "score": 3.4285714285714,
+            "rank": 101
+          },
+          {
+            "name": "Originality",
+            "raw_score": 3.6428571428571,
+            "score": 3.6428571428571,
+            "rank": 110
+          },
+          {
+            "name": "Black and White",
+            "raw_score": 4.7142857142857,
+            "score": 4.7142857142857,
+            "rank": 64
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzg2NTAwMjEucG5n/300x240%23c/fwg5iN.png",
+        "score": 3.7738095238095,
+        "url": "https://itch.io/jam/black-and-white-jam-8/rate/1483338"
+      },
+      "entryData": {
+        "rating_count": 14,
+        "coolness": 0,
+        "id": 303810,
+        "created_at": "2022-04-12 11:59:15",
+        "game": {
+          "title": "Flushed",
+          "user": {
+            "name": "psychicfire",
+            "url": "https://psychicfire.itch.io",
+            "id": 1837274
+          },
+          "url": "https://psychicfire.itch.io/flushed",
+          "cover": "https://img.itch.zone/aW1nLzg2NTAwMjEucG5n/300x240%23c/fwg5iN.png",
+          "id": 1483338,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#210226"
+        },
+        "url": "/jam/black-and-white-jam-8/rate/1483338"
+      },
+      "details": {
+        "title": "Flushed",
+        "description": "After falling into a sewer by accident, you must avoid spikes, leaky gas pipes, and deadly rats to escape.\nWASD to move\nSPACE to jump\nJump facing against wall to wall jump\nFind all of the keys in each level and bring them to the large, exit pipe to enter it and reach the next level.",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzg2NTAwMjEucG5n/original/cMDuC3.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "psychicfire",
+          "Genre": "Platformer, Action, Adventure",
+          "Made with": "Unity",
+          "Tags": "1-bit, 2D, Black and White, Pixel Art, Retro, Short, Two colors, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 1465409,
+      "gameUrl": "https://unnamed-collective.itch.io/loopy-boxes",
+      "overallRank": 43,
+      "topCategories": [
+        "Music"
+      ],
+      "resultData": {
+        "rank": 43,
+        "id": 1465409,
+        "raw_score": 3.8518518518519,
+        "rating_count": 9,
+        "contributors": [
+          {
+            "name": "Unnamed Collective",
+            "id": 5831836
+          },
+          {
+            "name": "dureddu",
+            "id": 1110741
+          }
+        ],
+        "title": "Loopy Boxes",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.4444444444444,
+            "score": 3.4444444444444,
+            "rank": 72
+          },
+          {
+            "name": "Music",
+            "raw_score": 4.2222222222222,
+            "score": 4.2222222222222,
+            "rank": 6
+          },
+          {
+            "name": "Art",
+            "raw_score": 3.6666666666667,
+            "score": 3.6666666666667,
+            "rank": 88
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.1111111111111,
+            "score": 3.1111111111111,
+            "rank": 146
+          },
+          {
+            "name": "Black and White",
+            "raw_score": 4.8888888888889,
+            "score": 4.8888888888889,
+            "rank": 18
+          },
+          {
+            "name": "Originality",
+            "raw_score": 3.7777777777778,
+            "score": 3.7777777777778,
+            "rank": 85
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzg2MzM4MDUucG5n/300x240%23c/CrBiga.png",
+        "score": 3.8518518518519,
+        "url": "https://itch.io/jam/black-and-white-jam-8/rate/1465409"
+      },
+      "entryData": {
+        "id": 303090,
+        "rating_count": 9,
+        "coolness": 10,
+        "created_at": "2022-04-10 13:11:07",
+        "contributors": [
+          {
+            "name": "Unnamed Collective",
+            "url": "https://unnamed-collective.itch.io"
+          },
+          {
+            "name": "dureddu",
+            "url": "https://dureddu.itch.io"
+          }
+        ],
+        "game": {
+          "title": "Loopy Boxes",
+          "short_text": "A small puzzle game about walking in circles.",
+          "user": {
+            "name": "Unnamed Collective",
+            "url": "https://unnamed-collective.itch.io",
+            "id": 5831836
+          },
+          "url": "https://unnamed-collective.itch.io/loopy-boxes",
+          "cover": "https://img.itch.zone/aW1nLzg2MzM4MDUucG5n/300x240%23c/CrBiga.png",
+          "id": 1465409,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#000000"
+        },
+        "url": "/jam/black-and-white-jam-8/rate/1465409"
+      },
+      "details": {
+        "title": "Loopy Boxes",
+        "description": "Move with WASD or Arrows\nR to undo move.\nShift to sprint.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTQ2NTQwOS84NjMzODA3LnBuZw==/original/9JMmKB.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ2NTQwOS84NjMzODA4LnBuZw==/original/e2b3eF.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "Unnamed Collective, dureddu",
+          "Genre": "Puzzle"
+        }
+      }
+    },
+    {
+      "gameId": 1474522,
+      "gameUrl": "https://wolffurry.itch.io/bw",
+      "overallRank": 56,
+      "topCategories": [
+        "Music"
+      ],
+      "resultData": {
+        "rank": 56,
+        "id": 1474522,
+        "raw_score": 3.7878787878788,
+        "rating_count": 11,
+        "contributors": [
+          {
+            "name": "Wolffuroll",
+            "id": 1353969
+          },
+          {
+            "name": "Piroporopi",
+            "id": 2326987
+          },
+          {
+            "name": "KamTV",
+            "id": 5796551
+          },
+          {
+            "name": "Dom Parker",
+            "id": 5804745
+          },
+          {
+            "name": "VizKa",
+            "id": 4535052
+          }
+        ],
+        "title": "Inconceivable Detective Madness",
+        "criteria": [
+          {
+            "name": "Music",
+            "raw_score": 4.1818181818182,
+            "score": 4.1818181818182,
+            "rank": 7
+          },
+          {
+            "name": "Art",
+            "raw_score": 4.1818181818182,
+            "score": 4.1818181818182,
+            "rank": 25
+          },
+          {
+            "name": "Originality",
+            "raw_score": 3.9090909090909,
+            "score": 3.9090909090909,
+            "rank": 63
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.1818181818182,
+            "score": 3.1818181818182,
+            "rank": 114
+          },
+          {
+            "name": "Theme",
+            "raw_score": 2.8181818181818,
+            "score": 2.8181818181818,
+            "rank": 194
+          },
+          {
+            "name": "Black and White",
+            "raw_score": 4.4545454545455,
+            "score": 4.4545454545455,
+            "rank": 128
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzg2Mjg0MTYucG5n/300x240%23c/zymASr.png",
+        "score": 3.7878787878788,
+        "url": "https://itch.io/jam/black-and-white-jam-8/rate/1474522"
+      },
+      "entryData": {
+        "id": 303766,
+        "rating_count": 11,
+        "coolness": 1,
+        "created_at": "2022-04-12 08:46:29",
+        "contributors": [
+          {
+            "name": "Wolffuroll",
+            "url": "https://wolffurry.itch.io"
+          },
+          {
+            "name": "Piroporopi",
+            "url": "https://piroporopi.itch.io"
+          },
+          {
+            "name": "KamTV",
+            "url": "https://kamtv.itch.io"
+          },
+          {
+            "name": "Dom Parker",
+            "url": "https://dvalkyrie.itch.io"
+          },
+          {
+            "name": "VizKa",
+            "url": "https://vizka.itch.io"
+          }
+        ],
+        "game": {
+          "title": "Inconceivable Detective Madness",
+          "short_text": "Solve the case in this 40s Rougelike!",
+          "user": {
+            "name": "Wolffuroll",
+            "url": "https://wolffurry.itch.io",
+            "id": 1353969
+          },
+          "url": "https://wolffurry.itch.io/bw",
+          "cover": "https://img.itch.zone/aW1nLzg2Mjg0MTYucG5n/300x240%23c/zymASr.png",
+          "id": 1474522,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#191919"
+        },
+        "url": "/jam/black-and-white-jam-8/rate/1474522"
+      },
+      "details": {
+        "title": "Inconceivable Detective Madness",
+        "description": "\n-Pitch-\nYou are a private investigator, usually found daydreaming in your office. You have a unique ability: a justice curse that prevents you from running away from a case. When you get offered a case you get trapped by your justice curse and you're thrown in a loop to resolve the case. Over the time you got tired from this curse and developed a very peculiar way of solving cases: you punch every witness/clue in the face until they surrender to you! It doesn't really matter cause you're in a fake reality made by your curse. Once you get to the bottom of the case you're free to leave the dream!\n-Game Design Documentation-\nLink the to the Drive folder\n-Credits-\nWolffuroll - Programming\n\nVK - Game Design\nDValkyrie - Audio\nKamTV - Art\nPiroporopi - Art\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTQ3NDUyMi84NjI4NDIzLnBuZw==/original/eSt9OI.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ3NDUyMi84NjI4NDM0LnBuZw==/original/VbSxh2.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Authors": "Wolffuroll, Piroporopi, KamTV, Dom Parker, VizKa",
+          "Genre": "Shooter",
+          "Made with": "Unity",
+          "Tags": "2D, Anime, Black and White, Mystery, Pixel Art, Roguelike, Story Rich, Top down shooter, Two colors, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 1478507,
+      "gameUrl": "https://colorplease.itch.io/finuxos",
+      "overallRank": 20,
+      "topCategories": [
+        "Music",
+        "Originality"
+      ],
+      "resultData": {
+        "rank": 20,
+        "id": 1478507,
+        "raw_score": 4.0208333333333,
+        "rating_count": 24,
+        "contributors": [
+          {
+            "name": "colorplease",
+            "id": 3573685
+          },
+          {
+            "name": "CellularPrism6",
+            "id": 5066092
+          },
+          {
+            "name": "nids",
+            "id": 5388671
+          },
+          {
+            "name": "Michael Macapagal",
+            "id": 2369245
+          },
+          {
+            "name": "NUGGet3562",
+            "id": 3455001
+          },
+          {
+            "name": "losero",
+            "id": 5635453
+          }
+        ],
+        "title": "FinuxOS",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 4,
+            "score": 4,
+            "rank": 16
+          },
+          {
+            "name": "Music",
+            "raw_score": 4.0833333333333,
+            "score": 4.0833333333333,
+            "rank": 8
+          },
+          {
+            "name": "Art",
+            "raw_score": 3.8333333333333,
+            "score": 3.8333333333333,
+            "rank": 69
+          },
+          {
+            "name": "Black and White",
+            "raw_score": 4.7083333333333,
+            "score": 4.7083333333333,
+            "rank": 70
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.125,
+            "score": 3.125,
+            "rank": 144
+          },
+          {
+            "name": "Originality",
+            "raw_score": 4.375,
+            "score": 4.375,
+            "rank": 10
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzg2MjcyMTYucG5n/300x240%23c/OVc0%2Fw.png",
+        "score": 4.0208333333333,
+        "url": "https://itch.io/jam/black-and-white-jam-8/rate/1478507"
+      },
+      "entryData": {
+        "id": 302910,
+        "rating_count": 24,
+        "coolness": 11,
+        "created_at": "2022-04-09 13:47:14",
+        "contributors": [
+          {
+            "name": "colorplease",
+            "url": "https://colorplease.itch.io"
+          },
+          {
+            "name": "CellularPrism6",
+            "url": "https://cellularprism6.itch.io"
+          },
+          {
+            "name": "nids",
+            "url": "https://nids.itch.io"
+          },
+          {
+            "name": "Michael Macapagal",
+            "url": "https://michaelmacapagal.itch.io"
+          },
+          {
+            "name": "NUGGet3562",
+            "url": "https://nugget3562.itch.io"
+          },
+          {
+            "name": "losero",
+            "url": "https://losero.itch.io"
+          }
+        ],
+        "game": {
+          "title": "FinuxOS",
+          "short_text": "FishCorp Needs YOU! Work for FishCorp Today!",
+          "user": {
+            "name": "colorplease",
+            "url": "https://colorplease.itch.io",
+            "id": 3573685
+          },
+          "url": "https://colorplease.itch.io/finuxos",
+          "cover": "https://img.itch.zone/aW1nLzg2MjcyMTYucG5n/300x240%23c/OVc0%2Fw.png",
+          "id": 1478507,
+          "platforms": [
+            "windows",
+            "linux",
+            "web"
+          ],
+          "cover_color": "#0a0a0a"
+        },
+        "url": "/jam/black-and-white-jam-8/rate/1478507"
+      },
+      "details": {
+        "title": "FinuxOS",
+        "description": "Welcome to the IT Department of FishCorp,  Newbie!\nFishCorp Doesn't Kid Around,  Complete your tasks as fast as you can, or there will be consequences!\nThanks for joining us, we look forward to working with you.\nCREDITS ----\nMusic/SFX: Mikey0929/NUGGet3562\nArt: Loser/Nids\nProgrammers: Colorplease/CellularPrism6Unzip the zip, it won't run well otherwise",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTQ3ODUwNy84NjI3MzcwLnBuZw==/original/QAED%2Fr.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ3ODUwNy84NjI3MzcxLnBuZw==/original/vXx97B.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ3ODUwNy84NjI3MzcyLnBuZw==/original/hDK7Rb.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ3ODUwNy84NjI3Mzg5LnBuZw==/original/9pjZ7d.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ3ODUwNy84NjMwNjQ0LnBuZw==/original/%2Fq5sWa.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ3ODUwNy84NjgzNDYxLnBuZw==/original/ZJW%2Ff%2F.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, Linux",
+          "Authors": "colorplease, CellularPrism6, nids, Michael Macapagal, NUGGet3562, losero",
+          "Genre": "Action",
+          "Tags": "2D, Two colors"
+        }
+      }
+    },
+    {
+      "gameId": 1476602,
+      "gameUrl": "https://sulek.itch.io/mawari",
+      "overallRank": 46,
+      "topCategories": [
+        "Music",
+        "Black and White"
+      ],
+      "resultData": {
+        "rank": 46,
+        "id": 1476602,
+        "raw_score": 3.8214285714286,
+        "rating_count": 14,
+        "contributors": [
+          {
+            "name": "Sulek",
+            "id": 5813347
+          }
+        ],
+        "title": "Mawari",
+        "criteria": [
+          {
+            "name": "Music",
+            "raw_score": 4.0714285714286,
+            "score": 4.0714285714286,
+            "rank": 9
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.5,
+            "score": 3.5,
+            "rank": 63
+          },
+          {
+            "name": "Theme",
+            "raw_score": 2.5714285714286,
+            "score": 2.5714285714286,
+            "rank": 222
+          },
+          {
+            "name": "Art",
+            "raw_score": 3.8571428571429,
+            "score": 3.8571428571429,
+            "rank": 66
+          },
+          {
+            "name": "Originality",
+            "raw_score": 3.9285714285714,
+            "score": 3.9285714285714,
+            "rank": 58
+          },
+          {
+            "name": "Black and White",
+            "raw_score": 5,
+            "score": 5,
+            "rank": 1
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzg2NTE5NDcucG5n/300x240%23c/fc4pZA.png",
+        "score": 3.8214285714286,
+        "url": "https://itch.io/jam/black-and-white-jam-8/rate/1476602"
+      },
+      "entryData": {
+        "rating_count": 14,
+        "coolness": 16,
+        "id": 303875,
+        "created_at": "2022-04-12 13:50:13",
+        "game": {
+          "title": "Mawari",
+          "user": {
+            "name": "Sulek",
+            "url": "https://sulek.itch.io",
+            "id": 5813347
+          },
+          "url": "https://sulek.itch.io/mawari",
+          "cover": "https://img.itch.zone/aW1nLzg2NTE5NDcucG5n/300x240%23c/fc4pZA.png",
+          "id": 1476602,
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#eeeeee"
+        },
+        "url": "/jam/black-and-white-jam-8/rate/1476602"
+      },
+      "details": {
+        "title": "Mawari",
+        "description": "Created for the Black and White Jam #8\nPlease try it out and give me your feedback!\nControls:\nLeft Click: ActionWASD or Arrow Keys: MoveScroll Wheel or 1-6: Select tool\nObjective:\nDefend your base at the top and destroy the enemy bases to the left, right, and bottom. Gather resources to place defenses, and avoid the water unless there is a raft!\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTQ3NjYwMi84NjUwOTQ1LnBuZw==/original/bL%2BK3j.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ3NjYwMi84NjUwOTQ4LnBuZw==/original/kBG%2FBl.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ3NjYwMi84NjUwOTYwLnBuZw==/original/nzBczF.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows",
+          "Author": "Sulek",
+          "Genre": "Action",
+          "Tags": "2D, Black and White, Godot, Pixel Art, Retro, Top-Down"
+        }
+      }
+    },
+    {
+      "gameId": 1482487,
+      "gameUrl": "https://bojoendergame.itch.io/the-pelican-state-railroad",
+      "overallRank": 41,
+      "topCategories": [
+        "Music"
+      ],
+      "resultData": {
+        "rank": 41,
+        "id": 1482487,
+        "raw_score": 3.8666666666667,
+        "rating_count": 15,
+        "contributors": [
+          {
+            "name": "BojoEnderGame",
+            "id": 2424017
+          }
+        ],
+        "title": "The Pelican State Railroad",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.5333333333333,
+            "score": 3.5333333333333,
+            "rank": 58
+          },
+          {
+            "name": "Music",
+            "raw_score": 4.0666666666667,
+            "score": 4.0666666666667,
+            "rank": 10
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.0666666666667,
+            "score": 3.0666666666667,
+            "rank": 156
+          },
+          {
+            "name": "Art",
+            "raw_score": 4.2,
+            "score": 4.2,
+            "rank": 23
+          },
+          {
+            "name": "Originality",
+            "raw_score": 3.7333333333333,
+            "score": 3.7333333333333,
+            "rank": 95
+          },
+          {
+            "name": "Black and White",
+            "raw_score": 4.6,
+            "score": 4.6,
+            "rank": 92
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzg2NDUzOTMucG5n/300x240%23c/7uYWK2.png",
+        "score": 3.8666666666667,
+        "url": "https://itch.io/jam/black-and-white-jam-8/rate/1482487"
+      },
+      "entryData": {
+        "rating_count": 15,
+        "coolness": 13,
+        "id": 303599,
+        "created_at": "2022-04-11 21:08:31",
+        "game": {
+          "title": "The Pelican State Railroad",
+          "short_text": "Connect Louisiana by rail!",
+          "user": {
+            "name": "BojoEnderGame",
+            "url": "https://bojoendergame.itch.io",
+            "id": 2424017
+          },
+          "url": "https://bojoendergame.itch.io/the-pelican-state-railroad",
+          "cover": "https://img.itch.zone/aW1nLzg2NDUzOTMucG5n/300x240%23c/7uYWK2.png",
+          "id": 1482487,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#211912"
+        },
+        "url": "/jam/black-and-white-jam-8/rate/1482487"
+      },
+      "details": {
+        "title": "The Pelican State Railroad",
+        "description": "PLAY IN FULLSCREEN!\nLouisiana, US, 1920. You are appointed as the head of the state's railways and are tasked to vastly improve it by linking major cities and workplaces throughout the Pelican state. Be careful, as you cannot intersect the railways!\nControls:\nWhile in free cam mode:\nWASD - move\nL. Shift - fly up\nL. Control - fly down\nWhile in build mode:\nMouse - p. much everything\nThere is a very informative tutorial but it is pretty messy.\nCredits:\nMusic by the youtube audio library\nSound effects by:\nhttps://soundcloud.com/third-octave\nhttp://opengameart.org/users/varkalandar\nwobbleboxx.com\nkenney.nl",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTQ4MjQ4Ny84NjQ1MzUwLnBuZw==/original/M4gqdC.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MjQ4Ny84NjQ1MzUxLnBuZw==/original/uvQvAr.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MjQ4Ny84NjQ1MzUyLnBuZw==/original/p10Ynx.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "BojoEnderGame",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "3D, Black and White, Pixel Art"
+        }
+      }
+    },
+    {
+      "gameId": 1483591,
+      "gameUrl": "https://karimzopr0.itch.io/composeyourself",
+      "overallRank": 16,
+      "topCategories": [
+        "Art"
+      ],
+      "resultData": {
+        "rank": 16,
+        "id": 1483591,
+        "raw_score": 4.04,
+        "rating_count": 25,
+        "contributors": [
+          {
+            "name": "KarimZoPr0",
+            "id": 2131338
+          },
+          {
+            "name": "JMCDmusic",
+            "id": 3878276
+          },
+          {
+            "name": "Piroporopi",
+            "id": 2326987
+          }
+        ],
+        "title": "ComposeYourself",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 2.8,
+            "score": 2.8,
+            "rank": 177
+          },
+          {
+            "name": "Music",
+            "raw_score": 3.64,
+            "score": 3.64,
+            "rank": 58
+          },
+          {
+            "name": "Art",
+            "raw_score": 4.76,
+            "score": 4.76,
+            "rank": 1
+          },
+          {
+            "name": "Originality",
+            "raw_score": 4.16,
+            "score": 4.16,
+            "rank": 28
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.24,
+            "score": 4.24,
+            "rank": 18
+          },
+          {
+            "name": "Black and White",
+            "raw_score": 4.64,
+            "score": 4.64,
+            "rank": 87
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzg2NTEyNTMucG5n/300x240%23c/iXM2Hl.png",
+        "score": 4.04,
+        "url": "https://itch.io/jam/black-and-white-jam-8/rate/1483591"
+      },
+      "entryData": {
+        "id": 303914,
+        "rating_count": 25,
+        "coolness": 91,
+        "created_at": "2022-04-12 14:33:29",
+        "contributors": [
+          {
+            "name": "KarimZoPr0",
+            "url": "https://karimzopr0.itch.io"
+          },
+          {
+            "name": "JMCDmusic",
+            "url": "https://jmcdmusic.itch.io"
+          },
+          {
+            "name": "Piroporopi",
+            "url": "https://piroporopi.itch.io"
+          }
+        ],
+        "game": {
+          "title": "ComposeYourself",
+          "user": {
+            "name": "KarimZoPr0",
+            "url": "https://karimzopr0.itch.io",
+            "id": 2131338
+          },
+          "url": "https://karimzopr0.itch.io/composeyourself",
+          "cover": "https://img.itch.zone/aW1nLzg2NTEyNTMucG5n/300x240%23c/iXM2Hl.png",
+          "id": 1483591,
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "cover_color": "#0d0e16"
+        },
+        "url": "/jam/black-and-white-jam-8/rate/1483591"
+      },
+      "details": {
+        "title": "ComposeYourself",
+        "description": "-About-\nYou are a conductor's assistant on your way to the first performance of the Video Game Music Orchestra! As you enter the building, you trip and drop all of the sheet music. It is up to you to remember the correct order before the concert! \nListen carefully to each of the musical blocks as they play to determine where they belong in the song. You can press the 'help' button on the right of the screen to listen to the full original song for reference.\n\n-Controls-\nWASD/ZQSD/Arrows - Move\nE - Listen to musical note\n\n-Credits-\nKarimZoPr0- Programming \nPiroporopi - Art\nJMCD - Audio",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTQ4MzU5MS8xMjk1NzM5MS5wbmc=/original/XV3rDD.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MzU5MS84NjUyNjQwLnBuZw==/original/Hpea4y.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Authors": "KarimZoPr0, JMCDmusic, Piroporopi",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "2D, Black and White, Hand-drawn, Short, Singleplayer, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 1479192,
+      "gameUrl": "https://patera-bach.itch.io/rain-bun",
+      "overallRank": 69,
+      "topCategories": [
+        "Art"
+      ],
+      "resultData": {
+        "rank": 69,
+        "id": 1479192,
+        "raw_score": 3.7179487179487,
+        "rating_count": 13,
+        "contributors": [
+          {
+            "name": "Patera Bach",
+            "id": 3998516
+          }
+        ],
+        "title": "Rain Bun",
+        "criteria": [
+          {
+            "name": "Art",
+            "raw_score": 4.6923076923077,
+            "score": 4.6923076923077,
+            "rank": 2
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 2.7692307692308,
+            "score": 2.7692307692308,
+            "rank": 184
+          },
+          {
+            "name": "Music",
+            "raw_score": 3.4615384615385,
+            "score": 3.4615384615385,
+            "rank": 80
+          },
+          {
+            "name": "Originality",
+            "raw_score": 3.6923076923077,
+            "score": 3.6923076923077,
+            "rank": 99
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.2307692307692,
+            "score": 3.2307692307692,
+            "rank": 124
+          },
+          {
+            "name": "Black and White",
+            "raw_score": 4.4615384615385,
+            "score": 4.4615384615385,
+            "rank": 125
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzg2Mjc3MDUucG5n/300x240%23c/e27BQx.png",
+        "score": 3.7179487179487,
+        "url": "https://itch.io/jam/black-and-white-jam-8/rate/1479192"
+      },
+      "entryData": {
+        "rating_count": 13,
+        "coolness": 8,
+        "id": 302946,
+        "created_at": "2022-04-09 17:00:27",
+        "game": {
+          "title": "Rain Bun",
+          "short_text": "Short game about curing a bunny.",
+          "user": {
+            "name": "Patera Bach",
+            "url": "https://patera-bach.itch.io",
+            "id": 3998516
+          },
+          "url": "https://patera-bach.itch.io/rain-bun",
+          "cover": "https://img.itch.zone/aW1nLzg2Mjc3MDUucG5n/300x240%23c/e27BQx.png",
+          "id": 1479192,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#121212"
+        },
+        "url": "/jam/black-and-white-jam-8/rate/1479192"
+      },
+      "details": {
+        "title": "Rain Bun",
+        "description": "Help lift a curse off a bunny. Repeat it as many times as necessary.This game was made for the Black & White game jam.If you'd like to follow me for project updates, you can follow me on twitter.If you'd like to support me you can do so on my ko-fi!Thanks for playing!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTQ3OTE5Mi84NjI3Nzc2LnBuZw==/original/dTqQxF.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ3OTE5Mi84NjI3Nzc0LnBuZw==/original/8xDbZ5.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ3OTE5Mi84NjI3Nzc1LnBuZw==/original/BiHwq%2B.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ3OTE5Mi84NjI3Nzc3LnBuZw==/original/Jr0kd1.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.5 out of 5 stars(2 total ratings)",
+          "Author": "Patera Bach",
+          "Genre": "Adventure",
+          "Tags": "3D, Atmospheric, Black and White, Casual, Cute"
+        }
+      }
+    },
+    {
+      "gameId": 1481149,
+      "gameUrl": "https://lazyduchess.itch.io/thieving-hexe",
+      "overallRank": 72,
+      "topCategories": [
+        "Art"
+      ],
+      "resultData": {
+        "rank": 72,
+        "id": 1481149,
+        "raw_score": 3.7083333333333,
+        "rating_count": 12,
+        "contributors": [
+          {
+            "name": "Lazy Duchess",
+            "id": 5785753
+          },
+          {
+            "name": "KoryBagel",
+            "id": 5890012
+          },
+          {
+            "name": "lilcjttu",
+            "id": 5814469
+          },
+          {
+            "name": "curtissmithsound",
+            "id": 4126852
+          }
+        ],
+        "title": "Thieving Hexe",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.8333333333333,
+            "score": 3.8333333333333,
+            "rank": 29
+          },
+          {
+            "name": "Music",
+            "raw_score": 3.1666666666667,
+            "score": 3.1666666666667,
+            "rank": 123
+          },
+          {
+            "name": "Theme",
+            "raw_score": 2.75,
+            "score": 2.75,
+            "rank": 198
+          },
+          {
+            "name": "Art",
+            "raw_score": 4.5833333333333,
+            "score": 4.5833333333333,
+            "rank": 3
+          },
+          {
+            "name": "Originality",
+            "raw_score": 3.25,
+            "score": 3.25,
+            "rank": 174
+          },
+          {
+            "name": "Black and White",
+            "raw_score": 4.6666666666667,
+            "score": 4.6666666666667,
+            "rank": 79
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzg2Mzc5NTAucG5n/300x240%23c/6H57yF.png",
+        "score": 3.7083333333333,
+        "url": "https://itch.io/jam/black-and-white-jam-8/rate/1481149"
+      },
+      "entryData": {
+        "id": 303590,
+        "rating_count": 12,
+        "coolness": 7,
+        "created_at": "2022-04-11 20:14:35",
+        "contributors": [
+          {
+            "name": "Lazy Duchess",
+            "url": "https://lazyduchess.itch.io"
+          },
+          {
+            "name": "KoryBagel",
+            "url": "https://korybagel.itch.io"
+          },
+          {
+            "name": "lilcjttu",
+            "url": "https://lilcjttu.itch.io"
+          },
+          {
+            "name": "curtissmithsound",
+            "url": "https://curtissmithsound.itch.io"
+          }
+        ],
+        "game": {
+          "title": "Thieving Hexe",
+          "short_text": "A Challenging Roguelite made for the Black and White Jam #8",
+          "user": {
+            "name": "Lazy Duchess",
+            "url": "https://lazyduchess.itch.io",
+            "id": 5785753
+          },
+          "url": "https://lazyduchess.itch.io/thieving-hexe",
+          "cover": "https://img.itch.zone/aW1nLzg2Mzc5NTAucG5n/300x240%23c/6H57yF.png",
+          "id": 1481149,
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#3f3f3f"
+        },
+        "url": "/jam/black-and-white-jam-8/rate/1481149"
+      },
+      "details": {
+        "title": "Thieving Hexe",
+        "description": "Overview:\nThieving Hexe is an infinite survival roguelite where you have to traverse castles filled with hostile skeletons, find loot and steal a valuable fragment from deep within. Then, make a run for it and go through the level in reverse under a time limit to get away.\nThe levels get longer and more complicated as you progress - You are rewarded for remembering your way back and managing your resources.\nControls:\nWASD: Move around\nLeft Shift: Dash\n1-5 or Mouse scroll wheel: Cycle inventory slots\nQ: Drop item\nE: Interact\nLeft click: Attack/Use held item\nEscape: Pause\nCredits:\nLazy Duchess - Programming, Art, UI\nKoryBagel - Environment and texture art\nCurtisSmithSound - Audio design and implementation\nDaniel Tu/lilcjttu - SFX\nTips:\nYou can take torches off walls with E. You can attack with them and even drop them to make a path and find your way back to the starting room. Get to know the level before stealing the fragment and starting the countdown.\nKeep moving and try to maneuver around the skeletons as much as possible. They're faster than you, but turning and getting hit can throw them off.\nManage your potions and keep an eye on your health - Your state transfers between levels.\nIf you're not finding any enemies, you're likely heading into a dead end.\nYou can sometimes find a Castle Key item that you can use to open closed doors and potentially find more loot.\n\nEngine anti-aliasing is present in UI elements for clearer icons and text.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTQ4MTE0OS84NjM3OTcxLnBuZw==/original/sQ%2FkMI.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MTE0OS84NjM3OTcyLnBuZw==/original/f85Wj0.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MTE0OS84NjM3OTc1LnBuZw==/original/pKqgZ%2F.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MTE0OS84NjM3OTc2LnBuZw==/original/5RcFJn.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MTE0OS84NjM3OTc0LnBuZw==/original/yOlY2r.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MTE0OS84NjM3OTczLnBuZw==/original/IEi%2FMf.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "Lazy Duchess, KoryBagel, lilcjttu, curtissmithsound",
+          "Genre": "Adventure, Action, Survival",
+          "Tags": "3D, Black and White, Exploration, My First Game Jam, Procedural Generation, Roguelite, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 1482027,
+      "gameUrl": "https://blabapple.itch.io/dr-pigs",
+      "overallRank": 59,
+      "topCategories": [
+        "Art"
+      ],
+      "resultData": {
+        "rank": 59,
+        "id": 1482027,
+        "raw_score": 3.7735042735043,
+        "rating_count": 39,
+        "contributors": [
+          {
+            "name": "BlabApple",
+            "id": 5884530
+          }
+        ],
+        "title": "Dr. Pig's Daily Constitutionals",
+        "criteria": [
+          {
+            "name": "Music",
+            "raw_score": 3.8717948717949,
+            "score": 3.8717948717949,
+            "rank": 28
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.1282051282051,
+            "score": 3.1282051282051,
+            "rank": 143
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 2.9487179487179,
+            "score": 2.9487179487179,
+            "rank": 155
+          },
+          {
+            "name": "Originality",
+            "raw_score": 3.6923076923077,
+            "score": 3.6923076923077,
+            "rank": 99
+          },
+          {
+            "name": "Art",
+            "raw_score": 4.5641025641026,
+            "score": 4.5641025641026,
+            "rank": 4
+          },
+          {
+            "name": "Black and White",
+            "raw_score": 4.4358974358974,
+            "score": 4.4358974358974,
+            "rank": 136
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzg2NTE5NTAuZ2lm/300x240%23c/%2Bro9ui.gif",
+        "score": 3.7735042735043,
+        "url": "https://itch.io/jam/black-and-white-jam-8/rate/1482027"
+      },
+      "entryData": {
+        "rating_count": 39,
+        "coolness": 128,
+        "id": 303817,
+        "created_at": "2022-04-12 12:24:30",
+        "game": {
+          "url": "https://blabapple.itch.io/dr-pigs",
+          "cover_color": "#252121",
+          "gif_cover": "https://img.itch.zone/aW1nLzg2NTE5NTAuZ2lm/original/WOcq%2BA.gif",
+          "user": {
+            "name": "BlabApple",
+            "url": "https://blabapple.itch.io",
+            "id": 5884530
+          },
+          "cover": "https://img.itch.zone/aW1nLzg2NTE5NTAuZ2lm/300x240%23c/%2Bro9ui.gif",
+          "id": 1482027,
+          "title": "Dr. Pig's Daily Constitutionals",
+          "platforms": [
+            "web"
+          ],
+          "short_text": "Dodge rowdy rocks and chat up chittering critters as you stroll with Dr. Pig!"
+        },
+        "url": "/jam/black-and-white-jam-8/rate/1482027"
+      },
+      "details": {
+        "title": "Dr. Pig's Daily Constitutionals",
+        "description": "Dr. Pig knows it's healthy to keep active! But the neighborhood sure is in a ruckus today!\nNavigate the angry rocks while completing your loop before you need to take your nap (it's important to maintain a healthy sleep schedule!)\nThe game's difficulty (# of enemies, # of obstacles, and rock speed) increases as you complete more loops - and the dialog changes each time too! So take some time, relax to the music, and just enjoy slowing down for a bit!\nControls: \nWASD/Arrow Keys -  Move\nLeft Shift  - Interact (Talk to creatures, check objects, go to sleep)\nSpacebar - Dash\nEsc - Menu\n----------Credits:\nArt hand drawn by @leftturnonly*\nProgramming hand coded by @octaddust\nSound hand sounded by @octaddust & @leftturnonly",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTQ4MjAyNy84NjUwODEzLmdpZg==/original/Tg2jzi.gif",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MjAyNy84NjQzMDI5LnBuZw==/original/bU1CuG.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MjAyNy84NjQzMDMwLnBuZw==/original/wIG2xP.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MjAyNy84NjQzMDMxLnBuZw==/original/89WlMM.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MjAyNy84NjQzMDMyLnBuZw==/original/b%2Bx6LP.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MjAyNy84NjQzMDM5LmdpZg==/original/lFJdT5.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "BlabApple",
+          "Genre": "Adventure",
+          "Made with": "Unity",
+          "Tags": "2D, Animals, Black and White, chill, Cute, Funny, loop, My First Game Jam, pig, Singleplayer",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard",
+          "Accessibility": "Color-blind friendly, High-contrast"
+        }
+      }
+    },
+    {
+      "gameId": 1483414,
+      "gameUrl": "https://ozrk.itch.io/loop-friends",
+      "overallRank": 40,
+      "topCategories": [
+        "Art"
+      ],
+      "resultData": {
+        "rank": 40,
+        "id": 1483414,
+        "raw_score": 3.8690476190476,
+        "rating_count": 14,
+        "contributors": [
+          {
+            "name": "ozrk",
+            "id": 5515862
+          }
+        ],
+        "title": "Loop Friends",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.3571428571429,
+            "score": 3.3571428571429,
+            "rank": 91
+          },
+          {
+            "name": "Music",
+            "raw_score": 3.2142857142857,
+            "score": 3.2142857142857,
+            "rank": 120
+          },
+          {
+            "name": "Art",
+            "raw_score": 4.5,
+            "score": 4.5,
+            "rank": 6
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.7857142857143,
+            "score": 3.7857142857143,
+            "rank": 59
+          },
+          {
+            "name": "Originality",
+            "raw_score": 4,
+            "score": 4,
+            "rank": 40
+          },
+          {
+            "name": "Black and White",
+            "raw_score": 4.3571428571429,
+            "score": 4.3571428571429,
+            "rank": 150
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzg2NzE4NzYucG5n/300x240%23c/t9vPEa.png",
+        "score": 3.8690476190476,
+        "url": "https://itch.io/jam/black-and-white-jam-8/rate/1483414"
+      },
+      "entryData": {
+        "rating_count": 14,
+        "coolness": 37,
+        "id": 303818,
+        "created_at": "2022-04-12 12:24:31",
+        "game": {
+          "short_text": "Save the Loop Critters!",
+          "user": {
+            "name": "ozrk",
+            "url": "https://ozrk.itch.io",
+            "id": 5515862
+          },
+          "url": "https://ozrk.itch.io/loop-friends",
+          "id": 1483414,
+          "cover": "https://img.itch.zone/aW1nLzg2NzE4NzYucG5n/300x240%23c/t9vPEa.png",
+          "platforms": [
+            "web"
+          ],
+          "title": "Loop Friends"
+        },
+        "url": "/jam/black-and-white-jam-8/rate/1483414"
+      },
+      "details": {
+        "title": "Loop Friends",
+        "description": "A little loop friend has appeared on your space station. Help it find the other loop friends and save your Internet connection.\nControls:\nWASD, Space: Movement\nMouse Wheel: Zoom in/out\nLeft-click: Throw Lupin\nRight-click: Grapple, recall Lupin\nTips: you may have to throw Lupin onto things after doing a grapple jump. He can also phase through walls when you recall him with RMB.\nMade in Godot for the Black & White Jam 2022.\nBGM is \"Daphe Dumpling\" by Origami Repetika, used under CC BY 4.0: https://freemusicarchive.org/music/Origami_Repetika/the-chiptunes-win-compilatio...",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTQ4MzQxNC84NjcxODkyLnBuZw==/original/bmY08p.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MzQxNC84NjcxODkzLnBuZw==/original/4U0bDJ.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MzQxNC84NjcxODkxLnBuZw==/original/GWE5fX.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Author": "ozrk",
+          "Genre": "Platformer",
+          "Tags": "3D"
+        }
+      }
+    },
+    {
+      "gameId": 1482623,
+      "gameUrl": "https://polyducks.itch.io/virtual-trader",
+      "overallRank": 15,
+      "topCategories": [
+        "Art"
+      ],
+      "resultData": {
+        "rank": 15,
+        "id": 1482623,
+        "raw_score": 4.047619047619,
+        "rating_count": 28,
+        "contributors": [
+          {
+            "name": "Polyducks",
+            "id": 56251
+          }
+        ],
+        "title": "GBVR - Virtual Trader",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.4285714285714,
+            "score": 3.4285714285714,
+            "rank": 75
+          },
+          {
+            "name": "Music",
+            "raw_score": 3.75,
+            "score": 3.75,
+            "rank": 43
+          },
+          {
+            "name": "Art",
+            "raw_score": 4.4642857142857,
+            "score": 4.4642857142857,
+            "rank": 7
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.6428571428571,
+            "score": 3.6428571428571,
+            "rank": 81
+          },
+          {
+            "name": "Originality",
+            "raw_score": 4.2857142857143,
+            "score": 4.2857142857143,
+            "rank": 14
+          },
+          {
+            "name": "Black and White",
+            "raw_score": 4.7142857142857,
+            "score": 4.7142857142857,
+            "rank": 64
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzg2NDU5MjcuZ2lm/300x240%23c/eW83cV.gif",
+        "score": 4.047619047619,
+        "url": "https://itch.io/jam/black-and-white-jam-8/rate/1482623"
+      },
+      "entryData": {
+        "rating_count": 28,
+        "coolness": 26,
+        "id": 303619,
+        "created_at": "2022-04-11 22:28:49",
+        "game": {
+          "url": "https://polyducks.itch.io/virtual-trader",
+          "cover_color": "#9DB4B6",
+          "gif_cover": "https://img.itch.zone/aW1nLzg2NDU5MjcuZ2lm/original/o0TV5q.gif",
+          "user": {
+            "name": "Polyducks",
+            "url": "https://polyducks.itch.io",
+            "id": 56251
+          },
+          "cover": "https://img.itch.zone/aW1nLzg2NDU5MjcuZ2lm/300x240%23c/eW83cV.gif",
+          "id": 1482623,
+          "title": "GBVR - Virtual Trader",
+          "platforms": [
+            "web"
+          ],
+          "short_text": "A 1bit gameboy game"
+        },
+        "url": "/jam/black-and-white-jam-8/rate/1482623"
+      },
+      "details": {
+        "title": "GBVR - Virtual Trader",
+        "description": "It is the year 1999, and a revolutionary technology has just been released - the third party Gameboy Color VR. Simply plug in your Headset and get whisked away to another world.This release comes with a .pocket version, as well as a ROM for the Gameboy Color. You can also play it in the browser!Navigate around the free-roam loop of VR and trade with the people you meet. Complete the cycle and return to reality! Explore the infinite loop and remember the locations to navigate and find yourself the most optimal path.WARNING, THE GAMEBOY COLOR VR HEADSET IS AN EXPERIMENTAL TECHNOLOGY AND PROLONGED USE MAY RESULT IN OVERHEATING (for this reason, it automatically shuts down when it becomes too hot).Controls:\nGameboyKeyboardInteractAZCancel, speed textBXShow InventoryStartEnterView MapSelectShiftMovementD-padArrows/WASD\nCredits:Programming by Lance CampbellProgramming and art by PolyducksMusic by Westrayaudio",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTQ4MjYyMy84NjQ2NzUwLmdpZg==/original/KQ0lyY.gif",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MjYyMy84NjQ2NzUxLnBuZw==/original/lLTUQa.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MjYyMy84NjQ2NzU0LnBuZw==/original/ROXx%2F4.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.2 out of 5 stars(12 total ratings)",
+          "Author": "Polyducks",
+          "Genre": "Puzzle",
+          "Made with": "Paint.net, GB Studio",
+          "Tags": "1-bit, 1bit, analogue-pocket, Black and White, Game Boy, Game Boy ROM, Pixel Art, pocket, rom, vaporwave"
+        }
+      }
+    },
+    {
+      "gameId": 1483281,
+      "gameUrl": "https://girroni.itch.io/remorse",
+      "overallRank": 28,
+      "topCategories": [
+        "Art"
+      ],
+      "resultData": {
+        "rank": 28,
+        "id": 1483281,
+        "raw_score": 3.9351851851852,
+        "rating_count": 18,
+        "contributors": [
+          {
+            "name": "girroni",
+            "id": 5525278
+          }
+        ],
+        "title": "REMORSE",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.1666666666667,
+            "score": 3.1666666666667,
+            "rank": 116
+          },
+          {
+            "name": "Music",
+            "raw_score": 3.8888888888889,
+            "score": 3.8888888888889,
+            "rank": 25
+          },
+          {
+            "name": "Art",
+            "raw_score": 4.4444444444444,
+            "score": 4.4444444444444,
+            "rank": 8
+          },
+          {
+            "name": "Black and White",
+            "raw_score": 4.8333333333333,
+            "score": 4.8333333333333,
+            "rank": 28
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.0555555555556,
+            "score": 3.0555555555556,
+            "rank": 159
+          },
+          {
+            "name": "Originality",
+            "raw_score": 4.2222222222222,
+            "score": 4.2222222222222,
+            "rank": 20
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzg2NDk0MTAucG5n/300x240%23c/H5V8mB.png",
+        "score": 3.9351851851852,
+        "url": "https://itch.io/jam/black-and-white-jam-8/rate/1483281"
+      },
+      "entryData": {
+        "rating_count": 18,
+        "coolness": 21,
+        "id": 303789,
+        "created_at": "2022-04-12 10:25:12",
+        "game": {
+          "title": "REMORSE",
+          "short_text": "Short psychological horror",
+          "user": {
+            "name": "girroni",
+            "url": "https://girroni.itch.io",
+            "id": 5525278
+          },
+          "url": "https://girroni.itch.io/remorse",
+          "cover": "https://img.itch.zone/aW1nLzg2NDk0MTAucG5n/300x240%23c/H5V8mB.png",
+          "id": 1483281,
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#000000"
+        },
+        "url": "/jam/black-and-white-jam-8/rate/1483281"
+      },
+      "details": {
+        "title": "REMORSE",
+        "description": "\nA and D or <- and ->  to move \n\nE to talk and to leave rooms.\nKeep an eye on the file directory after completing a loop\nA short psychological horror about a kleptomaniac  bird. Made for the Black & White Game Jam for 2022.  \nthis was my first jam and  was very fun to make and let us know if you enjoy! :>\n\n\nAvery Carpenter: God Artist & Animator\nMin Hyune Bae: Lead Unity Crashing Bird\nBen Krussow: Audio Chimpanzee\nBenay Daniel: Assistant Artist, and Lead Background Character",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzg2NDk0MTAucG5n/original/o4Ejmu.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.0 out of 5 stars(2 total ratings)",
+          "Author": "girroni",
+          "Tags": "Black and White, Horror, Pixel Art"
+        }
+      }
+    },
+    {
+      "gameId": 1480924,
+      "gameUrl": "https://meyaxu.itch.io/a-cashiers-nightmare",
+      "overallRank": 13,
+      "topCategories": [
+        "Art"
+      ],
+      "resultData": {
+        "rank": 13,
+        "id": 1480924,
+        "raw_score": 4.0512820512821,
+        "rating_count": 26,
+        "contributors": [
+          {
+            "name": "Meyaxu",
+            "id": 5862588
+          },
+          {
+            "name": "RealBurger",
+            "id": 1403076
+          }
+        ],
+        "title": "a Cashier's Nightmare",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.6923076923077,
+            "score": 3.6923076923077,
+            "rank": 43
+          },
+          {
+            "name": "Art",
+            "raw_score": 4.4230769230769,
+            "score": 4.4230769230769,
+            "rank": 9
+          },
+          {
+            "name": "Music",
+            "raw_score": 3.5,
+            "score": 3.5,
+            "rank": 76
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.7692307692308,
+            "score": 3.7692307692308,
+            "rank": 66
+          },
+          {
+            "name": "Originality",
+            "raw_score": 4.2307692307692,
+            "score": 4.2307692307692,
+            "rank": 18
+          },
+          {
+            "name": "Black and White",
+            "raw_score": 4.6923076923077,
+            "score": 4.6923076923077,
+            "rank": 75
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzg2NTQ3NTUucG5n/300x240%23c/EhUbo5.png",
+        "score": 4.0512820512821,
+        "url": "https://itch.io/jam/black-and-white-jam-8/rate/1480924"
+      },
+      "entryData": {
+        "id": 303317,
+        "rating_count": 26,
+        "coolness": 32,
+        "created_at": "2022-04-10 22:56:58",
+        "contributors": [
+          {
+            "name": "Meyaxu",
+            "url": "https://meyaxu.itch.io"
+          },
+          {
+            "name": "RealBurger",
+            "url": "https://realburger.itch.io"
+          }
+        ],
+        "game": {
+          "title": "a Cashier's Nightmare",
+          "short_text": "An ordinary day for an ordinary cashier, or is that just a nightmare?",
+          "user": {
+            "name": "Meyaxu",
+            "url": "https://meyaxu.itch.io",
+            "id": 5862588
+          },
+          "url": "https://meyaxu.itch.io/a-cashiers-nightmare",
+          "cover": "https://img.itch.zone/aW1nLzg2NTQ3NTUucG5n/300x240%23c/EhUbo5.png",
+          "id": 1480924,
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#000000"
+        },
+        "url": "/jam/black-and-white-jam-8/rate/1480924"
+      },
+      "details": {
+        "title": "a Cashier's Nightmare",
+        "description": "An ordinary day for an ordinary cashier, or is that just a nightmare?\n\nMouse\n\nConcept & Art - ToProgram & Design - RealjckMusic - Colo.Ko ( Facebook / Mixcloud )Prod & Sound FX - MoonaQA & Play test - Boa\n\n\"Does this nightmare have an end?\"Yes it does\n\"Why does the conveyor belt turn in a loop?\"The theme given for the jam was \"LOOP\"\n\"I beat the game, so what's up next?\"Congrats! You unlocked the extended-play mode\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTQ4MDkyNC84NjQyOTEyLmpwZw==/original/NBx2ug.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MDkyNC84NjQ1MzYwLmpwZw==/original/j%2F%2BoWT.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MDkyNC84NjQ1MzYyLmpwZw==/original/nrkawv.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "Meyaxu, RealBurger",
+          "Genre": "Action",
+          "Made with": "Unity",
+          "Tags": "Arcade, Black and White, Short",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 1482503,
+      "gameUrl": "https://r-goulart.itch.io/the-lair-of-nekro-neko",
+      "overallRank": 54,
+      "topCategories": [
+        "Art"
+      ],
+      "resultData": {
+        "rank": 54,
+        "id": 1482503,
+        "raw_score": 3.7982456140351,
+        "rating_count": 38,
+        "contributors": [
+          {
+            "name": "R_Goulart",
+            "id": 1934250
+          }
+        ],
+        "title": "The Lair of Nekro Neko",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.8421052631579,
+            "score": 3.8421052631579,
+            "rank": 28
+          },
+          {
+            "name": "Music",
+            "raw_score": 2.8684210526316,
+            "score": 2.8684210526316,
+            "rank": 154
+          },
+          {
+            "name": "Art",
+            "raw_score": 4.4210526315789,
+            "score": 4.4210526315789,
+            "rank": 10
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.5,
+            "score": 3.5,
+            "rank": 93
+          },
+          {
+            "name": "Originality",
+            "raw_score": 3.5526315789474,
+            "score": 3.5526315789474,
+            "rank": 124
+          },
+          {
+            "name": "Black and White",
+            "raw_score": 4.6052631578947,
+            "score": 4.6052631578947,
+            "rank": 91
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzg2NTEyMDMucG5n/300x240%23c/IbKHko.png",
+        "score": 3.7982456140351,
+        "url": "https://itch.io/jam/black-and-white-jam-8/rate/1482503"
+      },
+      "entryData": {
+        "rating_count": 38,
+        "coolness": 19,
+        "id": 303897,
+        "created_at": "2022-04-12 13:58:01",
+        "game": {
+          "title": "The Lair of Nekro Neko",
+          "short_text": "Farm your time in this loop to fight the terrible Nekro Neko.",
+          "user": {
+            "name": "R_Goulart",
+            "url": "https://r-goulart.itch.io",
+            "id": 1934250
+          },
+          "url": "https://r-goulart.itch.io/the-lair-of-nekro-neko",
+          "cover": "https://img.itch.zone/aW1nLzg2NTEyMDMucG5n/300x240%23c/IbKHko.png",
+          "id": 1482503,
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#000000"
+        },
+        "url": "/jam/black-and-white-jam-8/rate/1482503"
+      },
+      "details": {
+        "title": "The Lair of Nekro Neko",
+        "description": "Game made for Black and White Jam #8 (Theme: Loop)\nIn this game you are Salem, a cat trapped in a time loop that will only be undone when he defeats the Machiavellian sorcerer Nekro Neko and saves his friends. For this, Salem will need to face evil creatures that increase his time inside the loop.\nThe more time he has, the more he will be able to explore the village and get more equipment to face the necromancer cat, but he will have to be careful as his time inside the loop is reduced when being attacked.\nCONTROLS\nKEYBOARD\nMOVE: W, A, S, DAIM: Mouse PointerATTACK: Mouse Left ButtonDASH: Mouse Right ButtonMENU/PAUSE: Space\nJOYSTICK (XBOX BUTTONS POSITIONS)\nMOVE: Left StickAIM: Right StickSHOT: Right TriggerDASH:  Left TriggerMENU/PAUSE: Start\nGame by Róger Goulart (Instagram: @roger_goulart)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTQ4MjUwMy84NjUxMTAzLnBuZw==/original/fwoLeA.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MjUwMy84NjUxMzI1LnBuZw==/original/4mzYCS.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MjUwMy84NjUxMjMwLnBuZw==/original/BiEW%2Bx.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MjUwMy84NjUxMzI2LnBuZw==/original/n4sB91.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MjUwMy84NjUxMjQ1LnBuZw==/original/2aYwne.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.0 out of 5 stars(7 total ratings)",
+          "Author": "R_Goulart",
+          "Genre": "Action, Adventure",
+          "Made with": "Construct",
+          "Tags": "8-Bit, Black and White, Dungeon Crawler, Medieval, Pixel Art, Retro, Top-Down, Two colors"
+        }
+      }
+    },
+    {
+      "gameId": 1478041,
+      "gameUrl": "https://epicramen3d.itch.io/loopworm",
+      "overallRank": 49,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "rank": 49,
+        "id": 1478041,
+        "raw_score": 3.8157894736842,
+        "rating_count": 19,
+        "contributors": [
+          {
+            "name": "EPIC RAMEN 3D",
+            "id": 2166405
+          }
+        ],
+        "title": "LoopWorm",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.6842105263158,
+            "score": 3.6842105263158,
+            "rank": 44
+          },
+          {
+            "name": "Art",
+            "raw_score": 4.1578947368421,
+            "score": 4.1578947368421,
+            "rank": 29
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.5263157894737,
+            "score": 4.5263157894737,
+            "rank": 2
+          },
+          {
+            "name": "Originality",
+            "raw_score": 3.8947368421053,
+            "score": 3.8947368421053,
+            "rank": 67
+          },
+          {
+            "name": "Music",
+            "raw_score": 1.8947368421053,
+            "score": 1.8947368421053,
+            "rank": 254
+          },
+          {
+            "name": "Black and White",
+            "raw_score": 4.7368421052632,
+            "score": 4.7368421052632,
+            "rank": 58
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzg2MjAwNDQucG5n/300x240%23c/hubn1a.png",
+        "score": 3.8157894736842,
+        "url": "https://itch.io/jam/black-and-white-jam-8/rate/1478041"
+      },
+      "entryData": {
+        "rating_count": 19,
+        "coolness": 8,
+        "id": 302915,
+        "created_at": "2022-04-09 14:14:42",
+        "game": {
+          "title": "LoopWorm",
+          "short_text": "A weird game about a worm that tries to bite his own tail. Made for Black And White Jam #8.",
+          "user": {
+            "name": "EPIC RAMEN 3D",
+            "url": "https://epicramen3d.itch.io",
+            "id": 2166405
+          },
+          "url": "https://epicramen3d.itch.io/loopworm",
+          "cover": "https://img.itch.zone/aW1nLzg2MjAwNDQucG5n/300x240%23c/hubn1a.png",
+          "id": 1478041,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#222323"
+        },
+        "url": "/jam/black-and-white-jam-8/rate/1478041"
+      },
+      "details": {
+        "title": "LoopWorm",
+        "description": "Feed the worm until it fills the path entirely.To do so, use the cards to build usefull stuff or buff the worm.You unlock the cards by having the required size.\nEat theseand these\nAnd avoid these and these\nWARNING : Each loop makes the next wave arrives quicker !\nMade for Black And White Jam #8 with Phaser 3.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTQ3ODA0MS84NjI1NDUyLmdpZg==/original/9Usfn6.gif",
+          "https://img.itch.zone/aW1hZ2UvMTQ3ODA0MS84NjI1NTg3LmdpZg==/original/guuqZG.gif",
+          "https://img.itch.zone/aW1hZ2UvMTQ3ODA0MS84NjI1NTk1LmdpZg==/original/e9pBSi.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 3.5 out of 5 stars(2 total ratings)",
+          "Author": "EPIC RAMEN 3D",
+          "Genre": "Strategy",
+          "Tags": "Black and White, Casual, Experimental, Incremental, Real time strategy, Tower Defense, weird"
+        }
+      }
+    },
+    {
+      "gameId": 1482400,
+      "gameUrl": "https://stm-production.itch.io/life-in-a-loop",
+      "overallRank": 143,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "rank": 143,
+        "id": 1482400,
+        "raw_score": 3.3666666666667,
+        "rating_count": 10,
+        "contributors": [
+          {
+            "name": "RinsableSTM",
+            "id": 4212259
+          }
+        ],
+        "title": "Life in a loop",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.1,
+            "score": 3.1,
+            "rank": 126
+          },
+          {
+            "name": "Art",
+            "raw_score": 3,
+            "score": 3,
+            "rank": 176
+          },
+          {
+            "name": "Music",
+            "raw_score": 1.6,
+            "score": 1.6,
+            "rank": 275
+          },
+          {
+            "name": "Originality",
+            "raw_score": 4.2,
+            "score": 4.2,
+            "rank": 23
+          },
+          {
+            "name": "Black and White",
+            "raw_score": 3.9,
+            "score": 3.9,
+            "rank": 213
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.4,
+            "score": 4.4,
+            "rank": 6
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzg2NDU4NTcucG5n/300x240%23c/RR%2BNWX.png",
+        "score": 3.3666666666667,
+        "url": "https://itch.io/jam/black-and-white-jam-8/rate/1482400"
+      },
+      "entryData": {
+        "rating_count": 10,
+        "coolness": 5,
+        "id": 303728,
+        "created_at": "2022-04-12 06:35:02",
+        "game": {
+          "title": "Life in a loop",
+          "short_text": "A game in a loop",
+          "user": {
+            "name": "RinsableSTM",
+            "url": "https://stm-production.itch.io",
+            "id": 4212259
+          },
+          "url": "https://stm-production.itch.io/life-in-a-loop",
+          "cover": "https://img.itch.zone/aW1nLzg2NDU4NTcucG5n/300x240%23c/RR%2BNWX.png",
+          "id": 1482400,
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "cover_color": "#a6a6a6"
+        },
+        "url": "/jam/black-and-white-jam-8/rate/1482400"
+      },
+      "details": {
+        "title": "Life in a loop",
+        "description": "\nNote: For a better view of the game you must play on fullscreen or dowload the game .\nA game based on text for Black and white Game jam.\nMade By RInsableSTM and SUBARUinstall the game using mouse",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzg2NDU4NTcucG5n/original/oM7L%2FM.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Author": "RinsableSTM",
+          "Genre": "Platformer",
+          "Made with": "Unity"
+        }
+      }
+    },
+    {
+      "gameId": 1475597,
+      "gameUrl": "https://two-separate-gorillas.itch.io/the-circus",
+      "overallRank": 73,
+      "topCategories": [
+        "Theme"
+      ],
+      "resultData": {
+        "rank": 73,
+        "id": 1475597,
+        "raw_score": 3.7028985507246,
+        "rating_count": 23,
+        "contributors": [
+          {
+            "name": "Two Separate Gorillas",
+            "id": 1432661
+          }
+        ],
+        "title": "The Circus",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.5217391304348,
+            "score": 3.5217391304348,
+            "rank": 61
+          },
+          {
+            "name": "Music",
+            "raw_score": 2.7391304347826,
+            "score": 2.7391304347826,
+            "rank": 169
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.3478260869565,
+            "score": 4.3478260869565,
+            "rank": 10
+          },
+          {
+            "name": "Art",
+            "raw_score": 3.0434782608696,
+            "score": 3.0434782608696,
+            "rank": 172
+          },
+          {
+            "name": "Originality",
+            "raw_score": 4,
+            "score": 4,
+            "rank": 40
+          },
+          {
+            "name": "Black and White",
+            "raw_score": 4.5652173913043,
+            "score": 4.5652173913043,
+            "rank": 104
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzg2MDY3NTMuZ2lm/300x240%23c/rInWFo.gif",
+        "score": 3.7028985507246,
+        "url": "https://itch.io/jam/black-and-white-jam-8/rate/1475597"
+      },
+      "entryData": {
+        "rating_count": 23,
+        "coolness": 33,
+        "id": 302528,
+        "created_at": "2022-04-06 23:23:55",
+        "game": {
+          "url": "https://two-separate-gorillas.itch.io/the-circus",
+          "cover_color": "#e53b44",
+          "gif_cover": "https://img.itch.zone/aW1nLzg2MDY3NTMuZ2lm/original/QJgVUU.gif",
+          "user": {
+            "name": "Two Separate Gorillas",
+            "url": "https://two-separate-gorillas.itch.io",
+            "id": 1432661
+          },
+          "cover": "https://img.itch.zone/aW1nLzg2MDY3NTMuZ2lm/300x240%23c/rInWFo.gif",
+          "id": 1475597,
+          "title": "The Circus",
+          "platforms": [
+            "web"
+          ],
+          "short_text": "Start clowning around!"
+        },
+        "url": "/jam/black-and-white-jam-8/rate/1475597"
+      },
+      "details": {
+        "title": "The Circus",
+        "description": "(Note: The Pico-8 loading animation is built in to Pico-8 and is not part of the game. Please don't penalise my black and white score for this!)Come one, come all, to the greatest show on earth! See our daredevil unicyclist deftly leap through hoops, bravely dodge rolling barrels and desperately try to break out of this unicycling hellscape he has been trapped in for what feels like an eternity!\nYou only need one button to play! X! Don't bother touching the others!\nSee if you can beat my score of 150!\nA short game made in Pico-8 for Black and White Jam #8. The theme was \"loop\".",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTQ3NTU5Ny84NjA2NTU5LmdpZg==/original/NrEkAD.gif",
+          "https://img.itch.zone/aW1hZ2UvMTQ3NTU5Ny84NjA2NTYxLmdpZg==/original/1C%2FUlQ.gif",
+          "https://img.itch.zone/aW1hZ2UvMTQ3NTU5Ny84NjEzMjc3LnBuZw==/original/lYMwQ4.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Two Separate Gorillas",
+          "Genre": "Action",
+          "Made with": "PICO-8",
+          "Tags": "1-bit, Black and White, Funny, one-button, Pixel Art, Short",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard",
+          "Accessibility": "High-contrast"
+        }
+      }
+    },
+    {
+      "gameId": 1480674,
+      "gameUrl": "https://paopeaw.itch.io/the-first-month",
+      "overallRank": 6,
+      "topCategories": [
+        "Black and White"
+      ],
+      "resultData": {
+        "rank": 6,
+        "id": 1480674,
+        "raw_score": 4.1862745098039,
+        "rating_count": 17,
+        "contributors": [
+          {
+            "name": "paopeaw",
+            "id": 4040447
+          }
+        ],
+        "title": "The First Month",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 4.0588235294118,
+            "score": 4.0588235294118,
+            "rank": 14
+          },
+          {
+            "name": "Music",
+            "raw_score": 3.8823529411765,
+            "score": 3.8823529411765,
+            "rank": 26
+          },
+          {
+            "name": "Art",
+            "raw_score": 4.1764705882353,
+            "score": 4.1764705882353,
+            "rank": 26
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.9411764705882,
+            "score": 3.9411764705882,
+            "rank": 43
+          },
+          {
+            "name": "Originality",
+            "raw_score": 4.0588235294118,
+            "score": 4.0588235294118,
+            "rank": 33
+          },
+          {
+            "name": "Black and White",
+            "raw_score": 5,
+            "score": 5,
+            "rank": 1
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzg2MzU4MzEucG5n/300x240%23c/%2F4B7q7.png",
+        "score": 4.1862745098039,
+        "url": "https://itch.io/jam/black-and-white-jam-8/rate/1480674"
+      },
+      "entryData": {
+        "rating_count": 17,
+        "coolness": 33,
+        "id": 303750,
+        "created_at": "2022-04-12 08:10:48",
+        "game": {
+          "title": "The First Month",
+          "short_text": "This game simulate the junior developer in the first moth of work from home.",
+          "user": {
+            "name": "paopeaw",
+            "url": "https://paopeaw.itch.io",
+            "id": 4040447
+          },
+          "url": "https://paopeaw.itch.io/the-first-month",
+          "cover": "https://img.itch.zone/aW1nLzg2MzU4MzEucG5n/300x240%23c/%2F4B7q7.png",
+          "id": 1480674,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#000000"
+        },
+        "url": "/jam/black-and-white-jam-8/rate/1480674"
+      },
+      "details": {
+        "title": "The First Month",
+        "description": "Introduction\nThis game simulate the junior developer in the first moth of work from home. Your tasks is to balance the status during this first month, for example, money, happiness, wealthy, knowledge from many sources such as office's tasks, stock market to serve your demand's by shopping or just lazy on the bed.\nControl\nJust.....Click.\nStatus\nStatusResourcesOutMoneydo task, Stock marketbuy needs, shoppingHappinessResting-WealthyBuy something-KnowledgeLearning in coursesUpgrade salary/taskEnergiesResting, CoffeeDo task, Learn\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTQ4MDY3NC84NjQzNzAyLmpwZw==/original/Kp6Zp%2F.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MDY3NC84NjQzNzAxLmpwZw==/original/CrYOTI.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MDY3NC84NjQzNzAwLmpwZw==/original/glO%2BfS.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "paopeaw",
+          "Genre": "Simulation",
+          "Made with": "Unity",
+          "Tags": "2D, Black and White, Cute, Pixel Art, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 1482555,
+      "gameUrl": "https://moonin.itch.io/loop-game",
+      "overallRank": 12,
+      "topCategories": [
+        "Black and White",
+        "Originality"
+      ],
+      "resultData": {
+        "rank": 12,
+        "id": 1482555,
+        "raw_score": 4.0833333333333,
+        "rating_count": 10,
+        "contributors": [
+          {
+            "name": "Moonin",
+            "id": 4782778
+          }
+        ],
+        "title": "Loop Game",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.7,
+            "score": 3.7,
+            "rank": 42
+          },
+          {
+            "name": "Music",
+            "raw_score": 2.8,
+            "score": 2.8,
+            "rank": 165
+          },
+          {
+            "name": "Art",
+            "raw_score": 4,
+            "score": 4,
+            "rank": 48
+          },
+          {
+            "name": "Originality",
+            "raw_score": 4.7,
+            "score": 4.7,
+            "rank": 1
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.3,
+            "score": 4.3,
+            "rank": 12
+          },
+          {
+            "name": "Black and White",
+            "raw_score": 5,
+            "score": 5,
+            "rank": 1
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzg2NDU2NDMucG5n/300x240%23c/TFkO7s.png",
+        "score": 4.0833333333333,
+        "url": "https://itch.io/jam/black-and-white-jam-8/rate/1482555"
+      },
+      "entryData": {
+        "rating_count": 10,
+        "coolness": 6,
+        "id": 303610,
+        "created_at": "2022-04-11 21:59:32",
+        "game": {
+          "title": "Loop Game",
+          "short_text": "Race other players in a deadly loop. #BlackWhiteJam",
+          "user": {
+            "name": "Moonin",
+            "url": "https://moonin.itch.io",
+            "id": 4782778
+          },
+          "url": "https://moonin.itch.io/loop-game",
+          "cover": "https://img.itch.zone/aW1nLzg2NDU2NDMucG5n/300x240%23c/TFkO7s.png",
+          "id": 1482555,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#2f2f2f"
+        },
+        "url": "/jam/black-and-white-jam-8/rate/1482555"
+      },
+      "details": {
+        "title": "Loop Game",
+        "description": "Game made for BlackWhiteJam #8. The theme was: \"Loop\". Local multiplayer available!\nLoop game is a tournament for all the risk lovers. Race your friends on a deadly track or test how many laps you can survive alone.\n*Recommended with sounds on*\nControls:\nEach player is controlled with a single key. Pick your key while in lobby. During the game pressing your key will make your player run while releasing it will make him stop. \nRules:\nAvoid being spot by the Eye and running into pits and try to make it to the end. Just to run one more lap...",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTQ4MjU1NS84NjQ1NjQ1LnBuZw==/original/Zn1f5b.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MjU1NS84NjQ1NjQ2LnBuZw==/original/NjyGFM.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MjU1NS84NjQ1NjQ4LnBuZw==/original/qDuvbR.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Moonin",
+          "Genre": "Action, Racing",
+          "Made with": "Unity",
+          "Tags": "2D, Local multiplayer, squidgame, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 1483441,
+      "gameUrl": "https://cursedsoul.itch.io/stuck-in-a-loop",
+      "overallRank": 138,
+      "topCategories": [
+        "Black and White"
+      ],
+      "resultData": {
+        "rank": 138,
+        "id": 1483441,
+        "raw_score": 3.3833333333333,
+        "rating_count": 10,
+        "contributors": [
+          {
+            "name": "CursedSoul",
+            "id": 2150626
+          },
+          {
+            "name": "BlueFear_Dev",
+            "id": 1757900
+          }
+        ],
+        "title": "Stuck In A Loop",
+        "criteria": [
+          {
+            "name": "Art",
+            "raw_score": 3.1,
+            "score": 3.1,
+            "rank": 166
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3,
+            "score": 3,
+            "rank": 139
+          },
+          {
+            "name": "Music",
+            "raw_score": 3.6,
+            "score": 3.6,
+            "rank": 62
+          },
+          {
+            "name": "Theme",
+            "raw_score": 2.9,
+            "score": 2.9,
+            "rank": 182
+          },
+          {
+            "name": "Originality",
+            "raw_score": 2.7,
+            "score": 2.7,
+            "rank": 248
+          },
+          {
+            "name": "Black and White",
+            "raw_score": 5,
+            "score": 5,
+            "rank": 1
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzg2NTI4NDgucG5n/300x240%23c/%2FCn0AB.png",
+        "score": 3.3833333333333,
+        "url": "https://itch.io/jam/black-and-white-jam-8/rate/1483441"
+      },
+      "entryData": {
+        "id": 303906,
+        "rating_count": 10,
+        "coolness": 15,
+        "created_at": "2022-04-12 14:12:45",
+        "contributors": [
+          {
+            "name": "CursedSoul",
+            "url": "https://cursedsoul.itch.io"
+          },
+          {
+            "name": "BlueFear_Dev",
+            "url": "https://bluefear-dev.itch.io"
+          }
+        ],
+        "game": {
+          "title": "Stuck In A Loop",
+          "short_text": "A small rage game",
+          "user": {
+            "name": "CursedSoul",
+            "url": "https://cursedsoul.itch.io",
+            "id": 2150626
+          },
+          "url": "https://cursedsoul.itch.io/stuck-in-a-loop",
+          "cover": "https://img.itch.zone/aW1nLzg2NTI4NDgucG5n/300x240%23c/%2FCn0AB.png",
+          "id": 1483441,
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#ffffff"
+        },
+        "url": "/jam/black-and-white-jam-8/rate/1483441"
+      },
+      "details": {
+        "title": "Stuck In A Loop",
+        "description": "A small rage game made in the process of a small challenge between CursedSoul and BlueFear_Dev.\nIf you beat the game you'll get the Devs respect! (All Levels are possible and tested!)\nDon't be shy and show us your score in the comment section!\nDon't worry if you rage quit the game, we save the last level for you!\nControls:\nMovements: Arrows (or WASD)\nInteract: F\nRestart: R (Or use the beautiful UI button)\nPause: Escape\nCheck out: https://bluefear-dev.itch.io/\nMusic: https://tallbeard.itch.io/music-loop-bundle\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTQ4MzQ0MS84NjUwOTIzLnBuZw==/original/53w9cn.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MzQ0MS84NjUwOTI1LnBuZw==/original/VCxHtL.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MzQ0MS84NjUwOTI2LnBuZw==/original/AgF%2BeR.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MzQ0MS84NjUwOTI5LnBuZw==/original/1j9aJZ.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MzQ0MS84NjUwOTMwLnBuZw==/original/Qa4q36.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "CursedSoul, BlueFear_Dev",
+          "Genre": "Platformer, Puzzle",
+          "Tags": "2D, Black and White, rage, Singleplayer",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": 1477500,
+      "gameUrl": "https://dragonxchicken.itch.io/space-game",
+      "overallRank": 249,
+      "topCategories": [
+        "Black and White"
+      ],
+      "resultData": {
+        "rank": 249,
+        "id": 1477500,
+        "raw_score": 2.6166666666667,
+        "rating_count": 10,
+        "contributors": [
+          {
+            "name": "DragonChicken",
+            "id": 3721604
+          }
+        ],
+        "title": "Space game",
+        "criteria": [
+          {
+            "name": "Art",
+            "raw_score": 2.3,
+            "score": 2.3,
+            "rank": 265
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 2.8,
+            "score": 2.8,
+            "rank": 177
+          },
+          {
+            "name": "Music",
+            "raw_score": 1.3,
+            "score": 1.3,
+            "rank": 300
+          },
+          {
+            "name": "Theme",
+            "raw_score": 2.6,
+            "score": 2.6,
+            "rank": 219
+          },
+          {
+            "name": "Black and White",
+            "raw_score": 5,
+            "score": 5,
+            "rank": 1
+          },
+          {
+            "name": "Originality",
+            "raw_score": 1.7,
+            "score": 1.7,
+            "rank": 311
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzg2MTY2OTAucG5n/300x240%23c/o7FnJL.png",
+        "score": 2.6166666666667,
+        "url": "https://itch.io/jam/black-and-white-jam-8/rate/1477500"
+      },
+      "entryData": {
+        "rating_count": 10,
+        "coolness": 1,
+        "id": 302741,
+        "created_at": "2022-04-08 08:21:28",
+        "game": {
+          "title": "Space game",
+          "user": {
+            "name": "DragonChicken",
+            "url": "https://dragonxchicken.itch.io",
+            "id": 3721604
+          },
+          "url": "https://dragonxchicken.itch.io/space-game",
+          "cover": "https://img.itch.zone/aW1nLzg2MTY2OTAucG5n/300x240%23c/o7FnJL.png",
+          "id": 1477500,
+          "platforms": [
+            "windows",
+            "linux",
+            "web"
+          ],
+          "cover_color": "#2a2a2a"
+        },
+        "url": "/jam/black-and-white-jam-8/rate/1477500"
+      },
+      "details": {
+        "title": "Space game",
+        "description": "Left arrow to move left\nRight arrow to move right\nX to select\nIf the game is too loud then do the following\nPress enter then select options\nThen go down to volume and slide it with left and right keys\nPress up and down to select",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTQ3NzUwMC84NjE2ODEyLnBuZw==/original/BQTp5z.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ3NzUwMC84NjE2ODA2LmdpZg==/original/JjTlRQ.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, Linux",
+          "Author": "DragonChicken",
+          "Genre": "Adventure",
+          "Made with": "PICO-8",
+          "Tags": "2D, infinite-runner, PICO-8, Pixel Art"
+        }
+      }
+    },
+    {
+      "gameId": 1479039,
+      "gameUrl": "https://apates-dev.itch.io/jump-over-it",
+      "overallRank": 306,
+      "topCategories": [
+        "Black and White"
+      ],
+      "resultData": {
+        "rank": 306,
+        "id": 1479039,
+        "raw_score": 1.962962962963,
+        "rating_count": 9,
+        "contributors": [
+          {
+            "name": "Apates",
+            "id": 5068617
+          }
+        ],
+        "title": "jump over it",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 1.5555555555556,
+            "score": 1.5555555555556,
+            "rank": 306
+          },
+          {
+            "name": "Music",
+            "raw_score": 1,
+            "score": 1,
+            "rank": 318
+          },
+          {
+            "name": "Art",
+            "raw_score": 1,
+            "score": 1,
+            "rank": 337
+          },
+          {
+            "name": "Originality",
+            "raw_score": 1.4444444444444,
+            "score": 1.4444444444444,
+            "rank": 323
+          },
+          {
+            "name": "Theme",
+            "raw_score": 1.7777777777778,
+            "score": 1.7777777777778,
+            "rank": 305
+          },
+          {
+            "name": "Black and White",
+            "raw_score": 5,
+            "score": 5,
+            "rank": 1
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzg2MjU3NDYucG5n/300x240%23c/TAMRet.png",
+        "score": 1.962962962963,
+        "url": "https://itch.io/jam/black-and-white-jam-8/rate/1479039"
+      },
+      "entryData": {
+        "rating_count": 9,
+        "coolness": 2,
+        "id": 302912,
+        "created_at": "2022-04-09 13:58:04",
+        "game": {
+          "short_text": "its short game made for black and white game jam it was made in 1 hour so its isnt that good",
+          "user": {
+            "name": "Apates",
+            "url": "https://apates-dev.itch.io",
+            "id": 5068617
+          },
+          "url": "https://apates-dev.itch.io/jump-over-it",
+          "id": 1479039,
+          "cover": "https://img.itch.zone/aW1nLzg2MjU3NDYucG5n/300x240%23c/TAMRet.png",
+          "platforms": [
+            "web"
+          ],
+          "title": "jump over it"
+        },
+        "url": "/jam/black-and-white-jam-8/rate/1479039"
+      },
+      "details": {
+        "title": "jump over it",
+        "description": "its short game made for black and white game jam it was made in 1 hour so its isnt that good",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTQ3OTAzOS84NjI2MDA2LnBuZw==/original/lffjAg.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Author": "Apates",
+          "Genre": "Platformer",
+          "Made with": "Unity",
+          "Tags": "Black and White, Endless"
+        }
+      }
+    },
+    {
+      "gameId": 1482500,
+      "gameUrl": "https://poopgames.itch.io/drift-racer",
+      "overallRank": 67,
+      "topCategories": [
+        "Black and White"
+      ],
+      "resultData": {
+        "rank": 67,
+        "id": 1482500,
+        "raw_score": 3.724358974359,
+        "rating_count": 26,
+        "contributors": [
+          {
+            "name": "Poop Dollar",
+            "id": 1304774
+          }
+        ],
+        "title": "Black & White Drift Racer",
+        "criteria": [
+          {
+            "name": "Music",
+            "raw_score": 3.7307692307692,
+            "score": 3.7307692307692,
+            "rank": 44
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.1923076923077,
+            "score": 3.1923076923077,
+            "rank": 112
+          },
+          {
+            "name": "Art",
+            "raw_score": 3.1923076923077,
+            "score": 3.1923076923077,
+            "rank": 156
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.2307692307692,
+            "score": 4.2307692307692,
+            "rank": 19
+          },
+          {
+            "name": "Originality",
+            "raw_score": 3.0384615384615,
+            "score": 3.0384615384615,
+            "rank": 201
+          },
+          {
+            "name": "Black and White",
+            "raw_score": 4.9615384615385,
+            "score": 4.9615384615385,
+            "rank": 7
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzg2NDk0ODIuZ2lm/300x240%23c/u7ASRE.gif",
+        "score": 3.724358974359,
+        "url": "https://itch.io/jam/black-and-white-jam-8/rate/1482500"
+      },
+      "entryData": {
+        "rating_count": 26,
+        "coolness": 17,
+        "id": 303826,
+        "created_at": "2022-04-12 12:43:55",
+        "game": {
+          "url": "https://poopgames.itch.io/drift-racer",
+          "cover_color": "#000000",
+          "gif_cover": "https://img.itch.zone/aW1nLzg2NDk0ODIuZ2lm/original/uK7rp2.gif",
+          "user": {
+            "name": "Poop Dollar",
+            "url": "https://poopgames.itch.io",
+            "id": 1304774
+          },
+          "cover": "https://img.itch.zone/aW1nLzg2NDk0ODIuZ2lm/300x240%23c/u7ASRE.gif",
+          "id": 1482500,
+          "title": "Black & White Drift Racer",
+          "platforms": [
+            "web"
+          ],
+          "short_text": "Be one with the drift! Race to complete faster and faster lap times while drifting in this competitive racer."
+        },
+        "url": "/jam/black-and-white-jam-8/rate/1482500"
+      },
+      "details": {
+        "title": "Black & White Drift Racer",
+        "description": "Listen to the Soundtrack\nUse your skills as a drift racer to complete the fastest time on the track! You have a limited time to complete each lap before the track manager will get mad and end your run! Each consecutive lap completed will increase your overall speed and decrease the amount of time you have to keep racing! There are two cars you can select from in the main menu (easy and hard). \n*Tip: Hold the space bar to drift and try turning without the gas on! You can also turn sharper when you are moving slower.\nObjective:\nComplete as many laps as possible before getting kicked off the track\n\nControls\nButtonAlternative ButtonGame ControlWUp ArrowForward (Gas)Space BarNoneHand Brake (Drift)SDown ArrowSlow Down (Reverse)DRight ArrowSteer RightALeft ArrowSteer LeftPNonePauseRNoneRestart The TrackSDown ArrowSlow Down (Reverse)\n*You can adjust the music and sound effect volume in the settings menu.\n\nOther notes:\nYou can go back to the main menu or pause to see your high scores.\nThe harder car will go faster, but you will have less time to complete each lap!\n\n\nGood luck and get to burnin that rubber!\n\n\nAll assets are original. This game was made for Black & White Jam #8 \"Loop\" in one week using Unity, Aseprite and Ableton.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTQ4MjUwMC84NjQ4NDIwLnBuZw==/original/2dPZB3.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MjUwMC84NjQ4NDE4LnBuZw==/original/utYKMd.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MjUwMC84NjQ4NDIxLnBuZw==/original/52L76a.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Poop Dollar",
+          "Genre": "Racing",
+          "Tags": "2D, Abstract, Arcade, Black and White, drift, Driving, Endless, loop, Pixel Art, racer"
+        }
+      }
+    },
+    {
+      "gameId": 1476917,
+      "gameUrl": "https://acurioustea.itch.io/myroyalpanda",
+      "overallRank": 8,
+      "topCategories": [
+        "Black and White"
+      ],
+      "resultData": {
+        "rank": 8,
+        "id": 1476917,
+        "raw_score": 4.1666666666667,
+        "rating_count": 15,
+        "contributors": [
+          {
+            "name": "A Curious Tea",
+            "id": 5823589
+          }
+        ],
+        "title": "My Royal Panda",
+        "criteria": [
+          {
+            "name": "Music",
+            "raw_score": 3.8666666666667,
+            "score": 3.8666666666667,
+            "rank": 30
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.6666666666667,
+            "score": 3.6666666666667,
+            "rank": 45
+          },
+          {
+            "name": "Art",
+            "raw_score": 4.2666666666667,
+            "score": 4.2666666666667,
+            "rank": 18
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.2666666666667,
+            "score": 4.2666666666667,
+            "rank": 15
+          },
+          {
+            "name": "Black and White",
+            "raw_score": 4.9333333333333,
+            "score": 4.9333333333333,
+            "rank": 8
+          },
+          {
+            "name": "Originality",
+            "raw_score": 4,
+            "score": 4,
+            "rank": 40
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzg2MjIyNzUucG5n/300x240%23c/y3SLyb.png",
+        "score": 4.1666666666667,
+        "url": "https://itch.io/jam/black-and-white-jam-8/rate/1476917"
+      },
+      "entryData": {
+        "rating_count": 15,
+        "coolness": 5,
+        "id": 302892,
+        "created_at": "2022-04-09 06:09:29",
+        "game": {
+          "title": "My Royal Panda",
+          "short_text": "Pandas just eat and sleep. Easy to take care of right?",
+          "user": {
+            "name": "A Curious Tea",
+            "url": "https://acurioustea.itch.io",
+            "id": 5823589
+          },
+          "url": "https://acurioustea.itch.io/myroyalpanda",
+          "cover": "https://img.itch.zone/aW1nLzg2MjIyNzUucG5n/300x240%23c/y3SLyb.png",
+          "id": 1476917,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#eeeeee"
+        },
+        "url": "/jam/black-and-white-jam-8/rate/1476917"
+      },
+      "details": {
+        "title": "My Royal Panda",
+        "description": "The royal panda's caretaker is on vacation.  You are the stand-in, just don't piss off the emperor.\nBuilt in 6 days - as part of the Black & White Game Jam 2022 ",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTQ3NjkxNy84NjIyMzEzLnBuZw==/original/TW90X%2B.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ3NjkxNy84NjIyMzE0LnBuZw==/original/hzqLGT.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ3NjkxNy84NjIyMzE1LnBuZw==/original/GCWalh.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.5 out of 5 stars(2 total ratings)",
+          "Author": "A Curious Tea",
+          "Genre": "Simulation",
+          "Made with": "Godot, Clip Studio Paint",
+          "Tags": "2D, Black and White, Management, Mouse only, Short",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 1478565,
+      "gameUrl": "https://alf0186.itch.io/wordy-loops",
+      "overallRank": 18,
+      "topCategories": [
+        "Black and White"
+      ],
+      "resultData": {
+        "rank": 18,
+        "id": 1478565,
+        "raw_score": 4.0222222222222,
+        "rating_count": 15,
+        "contributors": [
+          {
+            "name": "alf0186",
+            "id": 5096353
+          }
+        ],
+        "title": "Wordy Loops",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 4.0666666666667,
+            "score": 4.0666666666667,
+            "rank": 12
+          },
+          {
+            "name": "Music",
+            "raw_score": 3.4666666666667,
+            "score": 3.4666666666667,
+            "rank": 79
+          },
+          {
+            "name": "Art",
+            "raw_score": 3.1333333333333,
+            "score": 3.1333333333333,
+            "rank": 164
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.2666666666667,
+            "score": 4.2666666666667,
+            "rank": 15
+          },
+          {
+            "name": "Black and White",
+            "raw_score": 4.9333333333333,
+            "score": 4.9333333333333,
+            "rank": 8
+          },
+          {
+            "name": "Originality",
+            "raw_score": 4.2666666666667,
+            "score": 4.2666666666667,
+            "rank": 15
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzg2MzczMjcucG5n/300x240%23c/R0ocH7.png",
+        "score": 4.0222222222222,
+        "url": "https://itch.io/jam/black-and-white-jam-8/rate/1478565"
+      },
+      "entryData": {
+        "rating_count": 15,
+        "coolness": 18,
+        "id": 303601,
+        "created_at": "2022-04-11 21:22:38",
+        "game": {
+          "title": "Wordy Loops",
+          "short_text": "Free Web Browser Word Game",
+          "user": {
+            "name": "alf0186",
+            "url": "https://alf0186.itch.io",
+            "id": 5096353
+          },
+          "url": "https://alf0186.itch.io/wordy-loops",
+          "cover": "https://img.itch.zone/aW1nLzg2MzczMjcucG5n/300x240%23c/R0ocH7.png",
+          "id": 1478565,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#ffffff"
+        },
+        "url": "/jam/black-and-white-jam-8/rate/1478565"
+      },
+      "details": {
+        "title": "Wordy Loops",
+        "description": "Welcome to Wordy Loops!  Loop words around to form new words on a 5x5 grid.Controls\n\nArrow KeysNavigateEnter KeyConfirm SelectionMouse and PointerMenu icons\nObjective\nUse a letter from each column to form a word across the top row, then replace a vertical word on the board with the word you just formed.  Repeat until time runs out.  Get as many words as you can to achieve a high score!\nCredits\nCreated for Black & White Jam 8 using just black and white!  All assets including graphics and sound were created by alf0186.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzg2MzczMjcucG5n/original/Rn95qU.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Author": "alf0186",
+          "Genre": "Puzzle, Strategy",
+          "Made with": "Unity",
+          "Tags": "2D, Minimalist, Relaxing, Short, Singleplayer, Word game"
+        }
+      }
+    },
+    {
+      "gameId": 1482292,
+      "gameUrl": "https://zombonline.itch.io/back-again",
+      "overallRank": 97,
+      "topCategories": [
+        "Originality"
+      ],
+      "resultData": {
+        "rank": 97,
+        "id": 1482292,
+        "raw_score": 3.5925925925926,
+        "rating_count": 9,
+        "contributors": [
+          {
+            "name": "Bradley Jones",
+            "id": 3631070
+          },
+          {
+            "name": "Hk2014",
+            "id": 5783740
+          },
+          {
+            "name": "Three Raccoons",
+            "id": 5788604
+          },
+          {
+            "name": "RyanHefford",
+            "id": 5390547
+          },
+          {
+            "name": "SHVR",
+            "id": 5787886
+          }
+        ],
+        "title": "Back Again",
+        "criteria": [
+          {
+            "name": "Music",
+            "raw_score": 3,
+            "score": 3,
+            "rank": 141
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.1111111111111,
+            "score": 3.1111111111111,
+            "rank": 124
+          },
+          {
+            "name": "Theme",
+            "raw_score": 2.5555555555556,
+            "score": 2.5555555555556,
+            "rank": 223
+          },
+          {
+            "name": "Art",
+            "raw_score": 3.5555555555556,
+            "score": 3.5555555555556,
+            "rank": 103
+          },
+          {
+            "name": "Black and White",
+            "raw_score": 4.8888888888889,
+            "score": 4.8888888888889,
+            "rank": 18
+          },
+          {
+            "name": "Originality",
+            "raw_score": 4.4444444444444,
+            "score": 4.4444444444444,
+            "rank": 4
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzg2NDk1MzIucG5n/300x240%23c/TvQsUp.png",
+        "score": 3.5925925925926,
+        "url": "https://itch.io/jam/black-and-white-jam-8/rate/1482292"
+      },
+      "entryData": {
+        "id": 303577,
+        "rating_count": 9,
+        "coolness": 10,
+        "created_at": "2022-04-11 19:21:51",
+        "contributors": [
+          {
+            "name": "Bradley Jones",
+            "url": "https://zombonline.itch.io"
+          },
+          {
+            "name": "Hk2014",
+            "url": "https://hk2014.itch.io"
+          },
+          {
+            "name": "Three Raccoons",
+            "url": "https://threeraccoonsgames.itch.io"
+          },
+          {
+            "name": "RyanHefford",
+            "url": "https://ryanhefford.itch.io"
+          },
+          {
+            "name": "SHVR",
+            "url": "https://shvrmusic.itch.io"
+          }
+        ],
+        "game": {
+          "title": "Back Again",
+          "short_text": "Explore The Past, Create A Future",
+          "user": {
+            "name": "Bradley Jones",
+            "url": "https://zombonline.itch.io",
+            "id": 3631070
+          },
+          "url": "https://zombonline.itch.io/back-again",
+          "cover": "https://img.itch.zone/aW1nLzg2NDk1MzIucG5n/300x240%23c/TvQsUp.png",
+          "id": 1482292,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#000000"
+        },
+        "url": "/jam/black-and-white-jam-8/rate/1482292"
+      },
+      "details": {
+        "title": "Back Again",
+        "description": "Things are coming to an end. The food from the ground can no longer be eaten. The water from the river can no longer be drunk. The air can no longer be breathed. Whether humanity can no longer support the world we live in or the world can no longer support humanity is up for debate, but the fact is if humanity wants to survive, some thing must change.\nThe last-ditch effort of the ones left is in one machine, storing all of our history and simulating scenes from the past in near perfect accuracy. You must explore the past, aiming towards the beginning of human history as a whole to find a way to continue our existence.\nAlong the way, there will be pieces of the past, either artefacts of cultural significance or simply pieces of what used to be a common part of daily life. By reading them, you will understand how people of past thought and behaved, learning better to navigate and understand their spaces.\nHowever, time is limited. Maybe it is your best bet to forgo time-consuming discoveries, instead choosing to push forward blindly towards the beginning, leaving chance to chance and fate to fate.  \n\nControls\nWASD: MovementMouse or Arrow Keys: Look aroundR: Restart LevelEnter/Space: Skip Dialog ScrollEsc: Pause Game\n(Open Options To Change Looking Input)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTQ4MjI5Mi84NjQ5MjQ3LnBuZw==/original/ePamI8.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MjI5Mi84NjQ5Mjg3LnBuZw==/original/9tkAry.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MjI5Mi84NjQ5MzAxLnBuZw==/original/Gvn3PE.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Authors": "Bradley Jones, Hk2014, Three Raccoons, RyanHefford, SHVR",
+          "Genre": "Puzzle, Adventure",
+          "Made with": "Unity",
+          "Tags": "2D, Alternate History, Exploration, Historical, Isometric, maze, Retro, Story Rich, Time Travel"
+        }
+      }
+    },
+    {
+      "gameId": 1482758,
+      "gameUrl": "https://wheelers.itch.io/the-ouroboros-agency",
+      "overallRank": 112,
+      "topCategories": [
+        "Originality"
+      ],
+      "resultData": {
+        "rank": 112,
+        "id": 1482758,
+        "raw_score": 3.5333333333333,
+        "rating_count": 10,
+        "contributors": [
+          {
+            "name": "Wheeler",
+            "id": 5815749
+          }
+        ],
+        "title": "The Ouroboros Agency",
+        "criteria": [
+          {
+            "name": "Music",
+            "raw_score": 2.6,
+            "score": 2.6,
+            "rank": 182
+          },
+          {
+            "name": "Gameplay",
+            "raw_score": 3.3,
+            "score": 3.3,
+            "rank": 99
+          },
+          {
+            "name": "Art",
+            "raw_score": 3.2,
+            "score": 3.2,
+            "rank": 155
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.4,
+            "score": 3.4,
+            "rank": 110
+          },
+          {
+            "name": "Originality",
+            "raw_score": 4.4,
+            "score": 4.4,
+            "rank": 7
+          },
+          {
+            "name": "Black and White",
+            "raw_score": 4.3,
+            "score": 4.3,
+            "rank": 161
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzg2NjI4NDUucG5n/300x240%23c/6ADbMV.png",
+        "score": 3.5333333333333,
+        "url": "https://itch.io/jam/black-and-white-jam-8/rate/1482758"
+      },
+      "entryData": {
+        "rating_count": 10,
+        "coolness": 19,
+        "id": 303663,
+        "created_at": "2022-04-12 01:00:51",
+        "game": {
+          "title": "The Ouroboros Agency",
+          "short_text": "Timeline Management Simulator",
+          "user": {
+            "name": "Wheeler",
+            "url": "https://wheelers.itch.io",
+            "id": 5815749
+          },
+          "url": "https://wheelers.itch.io/the-ouroboros-agency",
+          "cover": "https://img.itch.zone/aW1nLzg2NjI4NDUucG5n/300x240%23c/6ADbMV.png",
+          "id": 1482758,
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#000000"
+        },
+        "url": "/jam/black-and-white-jam-8/rate/1482758"
+      },
+      "details": {
+        "title": "The Ouroboros Agency",
+        "description": "Welcome to the Ouroboros Agency.\nMade for the Black and White game jam, this sandbox was made in 5 days.\nWorked on it for maybe half the time I put aside for it, and had to cut many features such as:\nDialog system with the Skeleton and the Wheel.More idle behaviors for the environmental effects that are alive.Folders of Souls and the Soul-Sending Wheel mechanic.Some quiet music would have been nice, but I couldn't find any free ones online that fit.\nRegardless, I hope it makes you smile! Thanks for playing.",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzg2NjI4NDUucG5n/original/tQrS%2BW.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Author": "Wheeler",
+          "Genre": "Simulation",
+          "Made with": "Godot",
+          "Tags": "2D, Atmospheric, Black and White, Sandbox, Singleplayer",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Mouse",
+          "Accessibility": "High-contrast"
+        }
+      }
+    },
+    {
+      "gameId": 1483285,
+      "gameUrl": "https://yakondu.itch.io/bloop",
+      "overallRank": 76,
+      "topCategories": [
+        "Originality"
+      ],
+      "resultData": {
+        "rank": 76,
+        "id": 1483285,
+        "raw_score": 3.6764705882353,
+        "rating_count": 34,
+        "contributors": [
+          {
+            "name": "Yakondu",
+            "id": 2894994
+          }
+        ],
+        "title": "Bloop",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.1764705882353,
+            "score": 3.1764705882353,
+            "rank": 115
+          },
+          {
+            "name": "Art",
+            "raw_score": 3.6176470588235,
+            "score": 3.6176470588235,
+            "rank": 96
+          },
+          {
+            "name": "Music",
+            "raw_score": 3.3823529411765,
+            "score": 3.3823529411765,
+            "rank": 97
+          },
+          {
+            "name": "Theme",
+            "raw_score": 3.0588235294118,
+            "score": 3.0588235294118,
+            "rank": 158
+          },
+          {
+            "name": "Originality",
+            "raw_score": 4.3823529411765,
+            "score": 4.3823529411765,
+            "rank": 8
+          },
+          {
+            "name": "Black and White",
+            "raw_score": 4.4411764705882,
+            "score": 4.4411764705882,
+            "rank": 135
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzg2NTEzNDUucG5n/300x240%23c/F9toNu.png",
+        "score": 3.6764705882353,
+        "url": "https://itch.io/jam/black-and-white-jam-8/rate/1483285"
+      },
+      "entryData": {
+        "rating_count": 34,
+        "coolness": 29,
+        "id": 303896,
+        "created_at": "2022-04-12 13:58:00",
+        "game": {
+          "title": "Bloop",
+          "short_text": "A short puzzle game about completing a trains loop.",
+          "user": {
+            "name": "Yakondu",
+            "url": "https://yakondu.itch.io",
+            "id": 2894994
+          },
+          "url": "https://yakondu.itch.io/bloop",
+          "cover": "https://img.itch.zone/aW1nLzg2NTEzNDUucG5n/300x240%23c/F9toNu.png",
+          "id": 1483285,
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "cover_color": "#920244"
+        },
+        "url": "/jam/black-and-white-jam-8/rate/1483285"
+      },
+      "details": {
+        "title": "Bloop",
+        "description": "In Bloop, move the pieces into their correct positions to form a loop for the train. \n\nHow to play:\nEach piece has a number, this is how many moves the piece MUST make\nUse the text input to move the pieces using the syntax \"move <coordinate> <direction>\" e.g  \"move a1 up\" then hit return (or enter) to enter your command.\nThe aim is to use every pieces amount of moves so that they end up in a horizontal line, ready for the train to pass: see the last screenshot for a visual of what you are aiming for!\n\nMusic: \"Minimalistic Loops\" by gooseninja:\nhttps://gooseninja.itch.io/minimalistc-loopsDownload the zipped folder, extract it and then run the executable file",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTQ4MzI4NS84NjUxMzI3LnBuZw==/original/blUuLS.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MzI4NS84NjUxMzYzLnBuZw==/original/ABMiP9.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MzI4NS84NjUzNjQ2LnBuZw==/original/7K7gIY.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Author": "Yakondu",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "2D, Pixel Art"
+        }
+      }
+    },
+    {
+      "gameId": 1482495,
+      "gameUrl": "https://mcpepic.itch.io/spiralcopter",
+      "overallRank": 80,
+      "topCategories": [
+        "Originality"
+      ],
+      "resultData": {
+        "rank": 80,
+        "id": 1482495,
+        "raw_score": 3.6587301587302,
+        "rating_count": 21,
+        "contributors": [
+          {
+            "name": "McPepic",
+            "id": 1269384
+          }
+        ],
+        "title": "Spiralcopter",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "raw_score": 3.5238095238095,
+            "score": 3.5238095238095,
+            "rank": 60
+          },
+          {
+            "name": "Music",
+            "raw_score": 2.3809523809524,
+            "score": 2.3809523809524,
+            "rank": 212
+          },
+          {
+            "name": "Art",
+            "raw_score": 2.8571428571429,
+            "score": 2.8571428571429,
+            "rank": 201
+          },
+          {
+            "name": "Theme",
+            "raw_score": 4.1904761904762,
+            "score": 4.1904761904762,
+            "rank": 22
+          },
+          {
+            "name": "Originality",
+            "raw_score": 4.3809523809524,
+            "score": 4.3809523809524,
+            "rank": 9
+          },
+          {
+            "name": "Black and White",
+            "raw_score": 4.6190476190476,
+            "score": 4.6190476190476,
+            "rank": 89
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzg2NDUwNDQucG5n/300x240%23c/dv0dJV.png",
+        "score": 3.6587301587302,
+        "url": "https://itch.io/jam/black-and-white-jam-8/rate/1482495"
+      },
+      "entryData": {
+        "rating_count": 21,
+        "coolness": 11,
+        "id": 303604,
+        "created_at": "2022-04-11 21:39:45",
+        "game": {
+          "title": "Spiralcopter",
+          "short_text": "Loop to Win!",
+          "user": {
+            "name": "McPepic",
+            "url": "https://mcpepic.itch.io",
+            "id": 1269384
+          },
+          "url": "https://mcpepic.itch.io/spiralcopter",
+          "cover": "https://img.itch.zone/aW1nLzg2NDUwNDQucG5n/300x240%23c/dv0dJV.png",
+          "id": 1482495,
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#000000"
+        },
+        "url": "/jam/black-and-white-jam-8/rate/1482495"
+      },
+      "details": {
+        "title": "Spiralcopter",
+        "description": "Dodge enemies, collect powerups, and fly around as you progress through this classic monochromatic arcade game.\nDestroy enemies by looping around them and try to get the highest score!\nThe browser version is from the game jam and serves as a demo. If you like it, the full version is available for download. Have fun flying!\n\nMade by McPepic for the Black & White Game JamDownload the .zip file\nRight click and press extract all\nDouble click the executable in the newly created folder\nTo create a shortcut, right click the .exe, go to send to, and the option to create a shortcut on your desktop should appear.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTQ4MjQ5NS85MzQ4NjQ3LnBuZw==/original/gC2LGB.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MjQ5NS85MzQ4NjUxLnBuZw==/original/kePDWq.png",
+          "https://img.itch.zone/aW1hZ2UvMTQ4MjQ5NS85MzQ4NjUyLnBuZw==/original/tSi6tS.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Author": "McPepic",
+          "Genre": "Simulation",
+          "Made with": "Unity, Paint.net",
+          "Tags": "2D, Arcade, Black and White, helicopter, Pixel Art, plane, sky, Unity",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse",
+          "Accessibility": "Color-blind friendly, Configurable controls, High-contrast"
+        }
+      }
+    }
+  ]
+}

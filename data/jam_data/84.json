@@ -1,0 +1,906 @@
+{
+  "n": 84,
+  "name": "Road Trip Game Jam",
+  "url": "https://itch.io/jam/road-trip-game-jam",
+  "theme": "Road Trip",
+  "slug": "road-trip-game-jam",
+  "jamMeta": {
+    "jamType": "ongoing",
+    "joined": "",
+    "entries": "134",
+    "title": "Road Trip Game Jam",
+    "jamURL": "https://itch.io/jam/road-trip-game-jam",
+    "hosts": {
+      "Meiri": "https://meiri.itch.io",
+      "Nevi": "https://rhythmra.itch.io",
+      "#RoadTripJam2025": "https://bsky.app/hashtag/RoadTripJam2025"
+    },
+    "jamID": "391240"
+  },
+  "totalEntries": 132,
+  "ranked": true,
+  "hasCategories": false,
+  "needsManualSelection": false,
+  "categories": [],
+  "topGames": [
+    {
+      "gameId": 3474799,
+      "gameUrl": "https://liminace.itch.io/road-trip-to-hell",
+      "overallRank": 1,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/road-trip-game-jam/rate/3474799",
+        "id": 685436,
+        "coolness": 0,
+        "created_at": "2025-04-17 14:06:17",
+        "game": {
+          "title": "Road Trip to Hell",
+          "cover": "https://img.itch.zone/aW1nLzIwNzYxNTQ4LnBuZw==/300x240%23c/68vFfy.png",
+          "short_text": "How are you gonna mess the world up?",
+          "cover_color": "#000000",
+          "url": "https://liminace.itch.io/road-trip-to-hell",
+          "id": 3474799,
+          "user": {
+            "id": 8471173,
+            "url": "https://liminace.itch.io",
+            "name": "LiminAce"
+          },
+          "platforms": [
+            "windows",
+            "osx",
+            "android",
+            "web"
+          ]
+        }
+      },
+      "details": {
+        "title": "Road Trip to Hell",
+        "description": "---------\nYou and your husband decide to go on a road trip. A very  long road trip, at that. Then the two of you stop off at a gas station because of your random cravings. Shenanigans ensue from there!!!\nNeither of you two know how much your actions are gonna change the course of so many people's lives...\n---------\nFeatures:\n-20+ CGs\n-Protagonists with questionable morals\n-Slightly edgy humor\n-3000+ words to read\n-Wacky gas station shenanigans!\n-A short puzzle (still 90% a visual novel)\n-A single ending\n---------\nMade in 6 days for the Official RPGMaker Jam 2025 and the Road Trip Game Jam!!! (After a shitton of grinding, of course!!!)\nLink to the RPGMaker Jam:  https://itch.io/jam/rpg-maker-2025-game-jam\nLink to the Road Trip Jam: https://itch.io/jam/road-trip-game-jam\nNote: This game ties heavily into my main game, The Cardinal Park Case. While you don't need to play it to make sense of what's going on, a lot of stuff will make sense (and be satisfying!) if you have some context from both games. This game is essentially an over the top prologue for The Cardinal Park Case!!!!!\n&lt;a href=&quot;<a href=\"https://liminace.itch.io/the-cardinal-park-case-chapters-1-4\">The&quot; class=&quot;redactor-linkify-object&quot;&gt;https://liminace.itch.io/the-cardinal-park-case-chapters-1-4&quot;&gt;The</a> Cardinal Park Case - Chapters 1-4 by LiminAce&lt;/a&gt;\nAnother Note (for the game jam I'm entering!): This game incorporates the theme \"Beyond Expectations\" because the characters are so horrible that it's beyond the initial expectations!!!\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzQ3NDc5OS8yMDc2MDY3NC5wbmc=/original/vPm7xs.png",
+          "https://img.itch.zone/aW1hZ2UvMzQ3NDc5OS8yMDc2MDY2OS5wbmc=/original/beLLa2.png",
+          "https://img.itch.zone/aW1hZ2UvMzQ3NDc5OS8yMDc2MDY3MC5wbmc=/original/VAoTib.png",
+          "https://img.itch.zone/aW1hZ2UvMzQ3NDc5OS8yMDc2MDY3My5wbmc=/original/V6VpVo.png",
+          "https://img.itch.zone/aW1hZ2UvMzQ3NDc5OS8yMDc2MDY3Mi5wbmc=/original/M4XuNY.png",
+          "https://img.itch.zone/aW1hZ2UvMzQ3NDc5OS8yMDc2MDY3MS5wbmc=/original/Gp6b3i.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Android",
+          "Rating": "Rated 4.7 out of 5 stars(29 total ratings)",
+          "Author": "LiminAce",
+          "Genre": "Visual Novel",
+          "Made with": "RPG Maker, FL Studio",
+          "Tags": "Cute, Dark Humor, drama, Hand-drawn, Horror, RPG Maker, RPG Maker MZ, Short, Story Rich, Thriller",
+          "Average session": "A few minutes",
+          "Languages": "English"
+        }
+      }
+    },
+    {
+      "gameId": 3387283,
+      "gameUrl": "https://meiri.itch.io/down-memory-lane",
+      "overallRank": 2,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/road-trip-game-jam/rate/3387283",
+        "id": 686584,
+        "coolness": 0,
+        "created_at": "2025-04-20 16:23:27",
+        "game": {
+          "title": "Down Memory Lane",
+          "cover": "https://img.itch.zone/aW1nLzIwNzI0MjcwLnBuZw==/300x240%23c/TL%2F60W.png",
+          "short_text": "A rocky road trip between a warm-hearted butch lesbian and a cold-hearted runaway gal.",
+          "cover_color": "#af7466",
+          "url": "https://meiri.itch.io/down-memory-lane",
+          "id": 3387283,
+          "user": {
+            "id": 1123143,
+            "url": "https://meiri.itch.io",
+            "name": "Meiri"
+          },
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ]
+        }
+      },
+      "details": {
+        "title": "Down Memory Lane",
+        "description": " CONTENT WARNING (CLICK ME) Child neglect\nOffscreen, implied child abuse\nDrug usage and implied drug abuse\nMentions of offscreen violence\nMentions of past  homophobia and bigotry (not depicted)Emotional manipulation\nVerbal abuse\nOn-screen car crash\nMentions of blood and bodily harm\n\n\nThis game has music! Please redownload if it no audio plays in the menu screen.\nSTORY:\nCharlie, a freelance photographer on a road trip to visit her highschool ex-girlfriend, finds the grumpy runaway schoolgirl, 'Jane Doe', hitchhiking on the a dark road. \nCharlie offers the girl a ride, but little does she know that picking up that particular stray cat signals the start of an adventure she's not ready for...\nDown Memory Lane follows our two often-disagreeing leads across 4 chapters with alternating POVs, as they meet various kinds of people.  From a sweet elderly couple to a boy forgotten in a hotel, each meeting impacts them and changes their worldview and opinion of each other, little by little.\n\nMeanwhile, however, Charlie cannot stop thinking about her ex-girlfriend, Lottie, and how wonderful their days together were... \n...Or were they, really?\n\nA story about finding home in unexpected places, moving on from the past, surviving, and most of all - remembering who you are.\n          \nFEATURES:\nOriginal artwork, including sprites, CGs, and item artChoices that determine how the story will end - will Charlie and Jane's road trip have a good ending, or a bad one...?In-engine animations: the characters run, jump, bounce, move, shake, fall, etc!Cinematic camerawork!38k words of road trippin' goodness!A scrappy camper van named Vonny, who is part of the family!Angst. A whole lot of angst.It accidentally turned into psychological horror halfway through.\n\n\nYOU SHOULD PLAY THIS IF...\nYou enjoy stories with characters who are complete opposites, and how they maneuver their interactions and constant disagreements.\nYou like narratives that slowly build up tension, bitterness, and unresolved issues between its characters.\nYou've played Hydrangea, also written by me, and enjoyed its deep  delving into psychological abuse, emotional manipulation, and  the impacts of it.\n\n\nTEAM 'DOWN MEMORY LANE':\nTeam lead, director, writer: Meiri\nProducer:Rafe \"Raxef\" Altschuler\nArt Director & CG Artist: Nevi\nCharacter Designer: alwaysjmb\nSprite Artist & Final CG Artist: Syllphana\nCG Artist: Cess\nCG Artist: opellac\nBG Artist: GlasswingGames\nItem Artist: nimbusbird\nGUI Artist: Abby Jocson/craboozled\nScripter & Programmer: Breezy\nPlaytesters:  Circus of Viv, Roxy S., Kristi \"HusbandoGoddess\" Jimenez\n(To press: when talking about this game, please utilize 'Team Down Memory Lane' instead of 'Meiri Games'!)\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzM4NzI4My8yMDcyNDMzMC5wbmc=/original/nB1zW0.png",
+          "https://img.itch.zone/aW1hZ2UvMzM4NzI4My8yMDY3NzQyMS5wbmc=/original/y8QQm6.png",
+          "https://img.itch.zone/aW1hZ2UvMzM4NzI4My8yMDcyNDM2MS5wbmc=/original/Kfr7QS.png",
+          "https://img.itch.zone/aW1hZ2UvMzM4NzI4My8yMDcyNDMyOC5wbmc=/original/HHLNhY.png",
+          "https://img.itch.zone/aW1hZ2UvMzM4NzI4My8yMDY3NzM3OC5wbmc=/original/ndyFU0.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS, Linux",
+          "Rating": "Rated 5.0 out of 5 stars(14 total ratings)",
+          "Author": "Meiri",
+          "Genre": "Visual Novel",
+          "Made with": "Ren'Py",
+          "Tags": "Anime, Female Protagonist, LGBT, Multiple Endings, Psychological Horror, Queer, Roadtrip, Story Rich",
+          "Average session": "About an hour",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse, Joystick"
+        }
+      }
+    },
+    {
+      "gameId": 3265867,
+      "gameUrl": "https://indecisiv.itch.io/dont-shoot-the-messenger",
+      "overallRank": 3,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/road-trip-game-jam/rate/3265867",
+        "id": 687720,
+        "created_at": "2025-04-23 05:05:05",
+        "coolness": 0,
+        "contributors": [
+          {
+            "url": "https://indecisiv.itch.io",
+            "name": "indecisiv"
+          },
+          {
+            "url": "https://a-sett.itch.io",
+            "name": "a_sett"
+          },
+          {
+            "url": "https://revierr.itch.io",
+            "name": "Rev"
+          },
+          {
+            "url": "https://william-rockwell.itch.io",
+            "name": "William Rockwell"
+          },
+          {
+            "url": "https://khaosphoenix.itch.io",
+            "name": "KhaosPhoenix"
+          }
+        ],
+        "game": {
+          "title": "Don't Shoot The Messenger",
+          "cover": "https://img.itch.zone/aW1nLzIwODM3MDg4LnBuZw==/300x240%23c/ZDXTsQ.png",
+          "short_text": "No one else knows the war is over.",
+          "cover_color": "#9c9a96",
+          "url": "https://indecisiv.itch.io/dont-shoot-the-messenger",
+          "id": 3265867,
+          "user": {
+            "id": 8158082,
+            "url": "https://indecisiv.itch.io",
+            "name": "indecisiv"
+          },
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ]
+        }
+      },
+      "details": {
+        "title": "Don't Shoot The Messenger",
+        "description": "No one else knows the war is over.\n\nYou are a young courier who must deliver news of the war's end. Travel with a mismatched group of soldiers where you navigate dangerous terrain, unexpected encounters, and tricky relationships on the long road to peace.\nDon't Shoot The Messenger is a fantasy adventure visual novel made for Road Trip Jam 2025! \n\nChoose your main character's pronouns, name, and look.Make choices to decide the fates of your whole party.See how different items change the outcome of each scene.Listen as the sound dynamically changes to match each scene.\n‎ ‎ ‎ ‎ ‎ \n\nPlay day one now!\n\n\na_sett – Composer,  Lead Sound DesignerAndrew Shirey – Additional Sound DesignIndecisiv – Project Manager, WriterKhaosPhoenix – Writing EditorRevierr – Lead Artist William Rockwell – Lead ProgrammerTo play this game you need to:1. Download the file.2. Extract the .zip file.3. Run the .exe file inside of the extracted folder.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzI2NTg2Ny8yMDg1Mjc0OS5wbmc=/original/O48SNQ.png",
+          "https://img.itch.zone/aW1hZ2UvMzI2NTg2Ny8yMDg1Mjc1Mi5wbmc=/original/rvwvxN.png",
+          "https://img.itch.zone/aW1hZ2UvMzI2NTg2Ny8yMDg1Mjc1MS5wbmc=/original/vnMTFi.png",
+          "https://img.itch.zone/aW1hZ2UvMzI2NTg2Ny8yMDg1Mjc1NC5wbmc=/original/pvGQhr.png",
+          "https://img.itch.zone/aW1hZ2UvMzI2NTg2Ny8yMDg1Mjc1My5wbmc=/original/DMWCUa.png",
+          "https://img.itch.zone/aW1hZ2UvMzI2NTg2Ny8yMDg1Mjc1MC5wbmc=/original/vwSxL8.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Release date": "Apr 23, 2025",
+          "Rating": "Rated 5.0 out of 5 stars(5 total ratings)",
+          "Authors": "indecisiv, a_sett, Rev, William Rockwell, KhaosPhoenix",
+          "Genre": "Visual Novel, Interactive Fiction",
+          "Made with": "Ren'Py",
+          "Tags": "Character Customization, Fantasy, LGBT, Meaningful Choices, Multiple Endings, Narrative, No AI, Point & Click, Roadtrip",
+          "Code license": "MIT License",
+          "Asset license": "Creative Commons Attribution v4.0 International",
+          "Average session": "About an hour",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse, Gamepad (any), Touchscreen",
+          "Accessibility": "Subtitles, High-contrast",
+          "Links": "Source code"
+        }
+      }
+    },
+    {
+      "gameId": 3454188,
+      "gameUrl": "https://daybloomproject.itch.io/something-left",
+      "overallRank": 4,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/road-trip-game-jam/rate/3454188",
+        "id": 688146,
+        "created_at": "2025-04-24 16:28:25",
+        "coolness": 0,
+        "contributors": [
+          {
+            "url": "https://daybloomproject.itch.io",
+            "name": "Daybloom Project"
+          },
+          {
+            "url": "https://teacuppo.itch.io",
+            "name": "Teacuppo"
+          },
+          {
+            "url": "https://owen6936.itch.io",
+            "name": "Owen6936"
+          }
+        ],
+        "game": {
+          "title": "Something Left",
+          "cover": "https://img.itch.zone/aW1nLzIwODc0MjU1LnBuZw==/300x240%23c/ScaL1b.png",
+          "short_text": "Left something behind to come to something left.",
+          "cover_color": "#fce3f8",
+          "url": "https://daybloomproject.itch.io/something-left",
+          "id": 3454188,
+          "user": {
+            "id": 5781867,
+            "url": "https://daybloomproject.itch.io",
+            "name": "Daybloom Project"
+          },
+          "platforms": [
+            "windows",
+            "web"
+          ]
+        }
+      },
+      "details": {
+        "title": "Something Left",
+        "description": " \n\n\n \nShe’s been locked away for over three years. But tonight, everything changes.\nSynopsis\nAfter years of isolation caused by a haunting past, a reclusive girl receives an unexpected message—her mother appears in a dream and urges her to seek out the ex-boyfriend she left behind long ago.\n \nDriven by curiosity, unresolved feelings, and a flicker of hope, she sets out from her remote home into the vast city, facing unfamiliar streets, fading memories, and the weight of her own emotions.\n \nWill she find closure... or uncover something she never expected?\n\n \nContent Warning\nThis game contains themes of self-harm, suicide, and domestic violence. Viewer and player discretion are advised.\n \nDetails\n15-25 minutes of gameplay  Story-driven / narrative-focused experience  Not suitable for all audiences\n\n\n\n\n \nCredits\nBabeElena🌻: Game Director, Game Developer, ScreenwriterOwen6936🌻: Programmer, Thai LocalizerTeacuppo: CG Artist, Character Pixel Artist, Co-Screenwritermrhappyartworks: Environment Pixel Artist\nGara Guide: Music Composer\n\n\nThird-Party Assets\nPixel Mart by ghostpixxellsPIXEL FANTASY RPG ICONS - Letter Buttons by CazAvy's IconsetFaithenEBVisuStellaCT_BoltTheoAllenNonolarXthemeCoreK.ChavezTakeshi SunagawaGalvreflector88Shitsudo KeiTsukimiSang Hendrix\n\n \nMade for Thailand Summer Game Jam 2025 & Road Trip Game Jam\nDaybloom Project is also releasing a commercial game on May 27, 2025! Check it out here!\n\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzQ1NDE4OC8yMDk3OTI5MC5wbmc=/original/LtMytm.png",
+          "https://img.itch.zone/aW1hZ2UvMzQ1NDE4OC8yMDk1MTc0OS5wbmc=/original/SFoAn%2B.png",
+          "https://img.itch.zone/aW1hZ2UvMzQ1NDE4OC8yMDg1ODAzOC5wbmc=/original/sft%2BWo.png",
+          "https://img.itch.zone/aW1hZ2UvMzQ1NDE4OC8yMDg1ODA0MC5wbmc=/original/kiDxJV.png",
+          "https://img.itch.zone/aW1hZ2UvMzQ1NDE4OC8yMDg1ODAzOS5wbmc=/original/swjDn7.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.5 out of 5 stars(15 total ratings)",
+          "Authors": "Daybloom Project, Teacuppo, Owen6936",
+          "Genre": "Visual Novel, Adventure",
+          "Made with": "RPG Maker",
+          "Tags": "2D, Fantasy, Female Protagonist, Horror, Psychological Horror, RPG Maker, Side Scroller",
+          "Average session": "About a half-hour",
+          "Languages": "English, Japanese, Thai"
+        }
+      }
+    },
+    {
+      "gameId": 3314242,
+      "gameUrl": "https://sweetheartsquad.itch.io/taxi-quest-67",
+      "overallRank": 5,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/road-trip-game-jam/rate/3314242",
+        "id": 687808,
+        "created_at": "2025-04-23 14:25:39",
+        "coolness": 0,
+        "contributors": [
+          {
+            "url": "https://sweetheartsquad.itch.io",
+            "name": "SweetHeart Squad"
+          },
+          {
+            "url": "https://seansleblanc.itch.io",
+            "name": "Sean"
+          },
+          {
+            "url": "https://ianmart1n.itch.io",
+            "name": "IAN MARTIN"
+          },
+          {
+            "url": "https://sweetheart-michael.itch.io",
+            "name": "Michael"
+          }
+        ],
+        "game": {
+          "title": "Taxi Quest 67",
+          "url": "https://sweetheartsquad.itch.io/taxi-quest-67",
+          "cover_color": "#77C2d4",
+          "platforms": [
+            "web"
+          ],
+          "id": 3314242,
+          "cover": "https://img.itch.zone/aW1nLzIwODE1MjYyLmdpZg==/300x240%23c/GzCc0m.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzIwODE1MjYyLmdpZg==/original/Z3ZIAq.gif",
+          "user": {
+            "id": 51832,
+            "url": "https://sweetheartsquad.itch.io",
+            "name": "SweetHeart Squad"
+          },
+          "short_text": "\"A boat is fundamentally different than a car.\""
+        }
+      },
+      "details": {
+        "title": "Taxi Quest 67",
+        "description": "A game about a road trip.\n\nUse WASD or arrows to advance dialogue and make choices.\nEntries in the series: Taxi Quest 64 | Taxi Quest 65 | Taxi Quest 66 | Taxi Quest 67\n\nMade by Michael, IAN, and Sean for Road Trip Jam 2025.\nContent warnings\nDiscussion of death, loss, disaster.\n\nAudio credits\n\nnylon rope string\nwood_hit\nCrickets At Night\nWind Through Trees\nWater splashing\nSmall River 1\nlaundromat washer\nCampfireMusic by Michael\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzMxNDI0Mi8yMDgxNTI2My5wbmc=/original/6i1D6R.png",
+          "https://img.itch.zone/aW1hZ2UvMzMxNDI0Mi8yMDgxNTI2NS5wbmc=/original/Qe%2B5Ea.png",
+          "https://img.itch.zone/aW1hZ2UvMzMxNDI0Mi8yMDgxNTI2Ni5wbmc=/original/v40DaO.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(5 total ratings)",
+          "Authors": "SweetHeart Squad, Sean, IAN MARTIN, Michael",
+          "Genre": "Interactive Fiction",
+          "Made with": "Blender, Aseprite, PixiJS",
+          "Tags": "3D, Atmospheric, Driving, First-Person, Funny, Narrative, Singleplayer, Story Rich, weird",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse, Xbox controller, Gamepad (any), Touchscreen",
+          "Accessibility": "Blind friendly"
+        }
+      }
+    },
+    {
+      "gameId": 3248943,
+      "gameUrl": "https://jellyfishlines.itch.io/liminal-stations",
+      "overallRank": 6,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/road-trip-game-jam/rate/3248943",
+        "id": 649517,
+        "coolness": 0,
+        "created_at": "2025-01-27 23:46:03",
+        "game": {
+          "title": "Liminal Stations",
+          "url": "https://jellyfishlines.itch.io/liminal-stations",
+          "cover_color": "#363633",
+          "price": "$5",
+          "tags": [
+            {
+              "url": "/physical-games",
+              "name": "Physical games"
+            }
+          ],
+          "id": 3248943,
+          "cover": "https://img.itch.zone/aW1nLzE5NTc2NTYzLmpwZw==/300x240%23cb/L4VXfx.jpg",
+          "user": {
+            "id": 2772058,
+            "url": "https://jellyfishlines.itch.io",
+            "name": "Jellyfishlines"
+          },
+          "short_text": "A collaborative weird gas station building game"
+        }
+      },
+      "details": {
+        "title": "Liminal Stations",
+        "description": "Liminal Stops is a GM-less collaborative weird gas station building game written by me and Quinn Blackwell. You and your friends are on a roadtrip cross country. Except you don't describe the trip - you describe the places you stop. Specifically the gas stations. \nAnd those gas stations can get WEIRD.\nPlay with your friends in an weird and uncanny cross country roadtrip that's about you and your relationships to your friends and others in a temporary (or liminal) space.Needed To Play:\n3-5 playersThis booklet1d20, 1d12, 1d10, 1d8, 2d6, and 1d4.A slightly, just mildly, unhinged imagination.\nMade for The Road Trip Jam 2025 and The Special Interest TTRPG Jam.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzI0ODk0My8xOTU3NzExMC5wbmc=/original/6kWC6W.png",
+          "https://img.itch.zone/aW1hZ2UvMzI0ODk0My8xOTU3NzExNC5wbmc=/original/ny4KcQ.png",
+          "https://img.itch.zone/aW1hZ2UvMzI0ODk0My8xOTU3NzExNS5wbmc=/original/TCoSam.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Category": "Physical game",
+          "Rating": "Rated 5.0 out of 5 stars(6 total ratings)",
+          "Author": "Jellyfishlines",
+          "Tags": "Creepy, No AI, Surreal, Tabletop, Tabletop role-playing game"
+        }
+      }
+    },
+    {
+      "gameId": 3498384,
+      "gameUrl": "https://napticstudio.itch.io/aetherroads",
+      "overallRank": 7,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/road-trip-game-jam/rate/3498384",
+        "id": 687926,
+        "coolness": 0,
+        "created_at": "2025-04-23 21:41:16",
+        "game": {
+          "title": "Aether Roads",
+          "cover": "https://img.itch.zone/aW1nLzIwOTIxNTUxLnBuZw==/300x240%23c/vyb4qE.png",
+          "short_text": "Steampunk Airship Anime Visual novel, Point and click",
+          "cover_color": "#000000",
+          "url": "https://napticstudio.itch.io/aetherroads",
+          "id": 3498384,
+          "user": {
+            "id": 1590686,
+            "url": "https://napticstudio.itch.io",
+            "name": "Naptic Studio"
+          },
+          "platforms": [
+            "windows",
+            "web"
+          ]
+        }
+      },
+      "details": {
+        "title": "Aether Roads",
+        "description": "Naptic Studio (@napticstudio.bsky.social) — BlueskyNaptic Studio (@NapticStudio) / X\nSteampunk Airship Anime Visual Novel, Point and Click Made for Road Trip Jam 2025\n \nRecommend downloading and play on PC. Web version is very buggy.\n \nTake command of a struggling airship as you navigate through violent storms, dwindling fuel, and unpredictable passengers. Manage your altitude, engine heat, and balance to survive. Trust no one, every hitchhiker has a story, and not all of them are true.\n \n  Play time 10-15 min per game\n   Unique 19 characters.\n  \nGame basic\n \n  Click the left and right buttons on the balance panel to stabilize the ship.\n   Click the shovel, then click on the firebox door to add more fuel.\n   Click the hammer to reduce the boiler's heat.\n   Be careful, excess heat can cause the ship to lose balance. Also, bad crew can lead to gameover!\n  \nKnown issues\n \n  Sound volume adjustment system.\n   Display mode system causes screen resolution to change when switching between windowed mode and fullscreen.\n   Game difficulty balance.\n   Pause menu screen.\n  \nTo-do list\n \n  Character history (to fix player getting the same NPC many times issue).\n   Add more sound effects.\n   Add option to let crew work or not (sometimes crew working makes the game harder).\n   Fix bug on Web version (cloud effects not working).\nCredits\nMusic Artist https://linktr.ee/wingoflittleowl2D Artist https://bsky.app/profile/oshimamagame.bsky.socialProgrammer/3D Artist https://x.com/neronx86\nFont x0y0pxFreeFont\nNote The game is still a work in progress, so you may encounter some bugs. If you do, feel free to let us know! This is one of our very first games, and we truly appreciate your support.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzQ5ODM4NC8yMDg2NDM5MS5wbmc=/original/03eOmI.png",
+          "https://img.itch.zone/aW1hZ2UvMzQ5ODM4NC8yMDg2NDM5My5wbmc=/original/CAbjHv.png",
+          "https://img.itch.zone/aW1hZ2UvMzQ5ODM4NC8yMDg2NDM5NS5wbmc=/original/76M%2FRr.png",
+          "https://img.itch.zone/aW1hZ2UvMzQ5ODM4NC8yMDg2NDM5Ni5wbmc=/original/C6kbAh.png",
+          "https://img.itch.zone/aW1hZ2UvMzQ5ODM4NC8yMDg2NDM5Mi5wbmc=/original/dGwz%2Fc.png",
+          "https://img.itch.zone/aW1hZ2UvMzQ5ODM4NC8yMDg2NDM5NC5wbmc=/original/Ki9p6%2B.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.8 out of 5 stars(4 total ratings)",
+          "Author": "Naptic Studio",
+          "Genre": "Visual Novel",
+          "Made with": "Unreal Engine",
+          "Tags": "2D, 3D, Anime, Point & Click, Steampunk, Unreal Engine",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 3426465,
+      "gameUrl": "https://lovinpancake.itch.io/stopover",
+      "overallRank": 8,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/road-trip-game-jam/rate/3426465",
+        "id": 684915,
+        "coolness": 0,
+        "created_at": "2025-04-15 08:42:33",
+        "game": {
+          "title": "STOPOVER - Une Odyssée de Papier",
+          "cover": "https://img.itch.zone/aW1nLzIwNjg4NzU0LnBuZw==/300x240%23cb/BLQWQ3.png",
+          "url": "https://lovinpancake.itch.io/stopover",
+          "cover_color": "#eeeeee",
+          "tags": [
+            {
+              "url": "/physical-games",
+              "name": "Physical games"
+            }
+          ],
+          "id": 3426465,
+          "user": {
+            "id": 6055334,
+            "url": "https://lovinpancake.itch.io",
+            "name": "Lovinpancake 💫"
+          },
+          "short_text": "Tarot Journaling Solo TTRPG - Et si tout plaquer n’était pas une fuite, mais le début d’une nouvelle vie ?"
+        }
+      },
+      "details": {
+        "title": "STOPOVER - Une Odyssée de Papier",
+        "description": "\nEt si tu laissais tout derrière toi, pour prendre la route, un tarot à la main et des rêves plein la tête ?\nLaisse derrière toi les néons fatigués du bureau et prend le volant d’un van-papeterie ambulant. STOPOVER est une aventure solo (ou à deux) qui mêle storytelling intime, hasard poétique et petites victoires du quotidien. Écris des cartes postales, tire les cartes du tarot, et découvre ce qui se cache au détour des routes. Un jeu lent, cozy, pour ceux qui portent l'errance en eux. 🏕️🛻\nLeave behind the tired neon lights of the office and take the wheel of a mobile stationery van. STOPOVER is a solo (or two-player) adventure blending intimate storytelling, poetic chance, and the small victories of everyday life. Write postcards, draw tarot cards, and discover what lies around the bend in the road. A slow, cozy game for those who carry wanderlust in their hearts. 🏕️🛻\n\nUn PDF de 15 pages joliment illustré (et une version imprimable de 11 pages pour jouer partout)Une feuille de papier à Origami pour construire ton vanUne grille de Bingo vierge à remplir au fil de ton voyageUne cocotte en papier à plier pour faire une escaleDes tableaux d’interprétation pour jouer tes cartesUne variante deux joueurs pour partager la routeEt surtout : une infinité de récits à inventer 🌟\nThis illustrated 15-page PDF game (plus an 11-page printable version for playing anywhere) includes an origami sheet to build your own van, a blank bingo grid to fill in as you travel, a paper fortune teller to fold for spontaneous stops, interpretation tables for your cards, a two-player variant to share the journey, and above all—endless stories to create. 🌟\n\nDans STOPOVER on voyage léger :\nUne grille de bingo 5x5 (que tu peux imprimer ou dessiner)Une cocotte en papier (ou un dé à 8 faces)Un jeu de tarot complet sans jokers - à jouer ou divinatoireDes cartes postales, un carnet, ou tout support pour écrire ou dessinerUn stylo et ton imagination ✍️\nIn STOPOVER, you travel light: all you need is a 5x5 bingo grid (which you can print or draw), a paper fortune teller (or an 8-sided die), a full tarot deck (without jokers—for gameplay or divination), postcards, a notebook, or any medium to write or draw on, plus a pen and your imagination. ✍️\nSTOPOVER s’adresse à :\nCelles et ceux qui aiment les jeux solo narratifs\nLes rêveur·ses, les voyageur·ses immobilesLes amoureux·ses de papierToute personne ayant besoin de ralentir et de prendre un moment pour soi\nSTOPOVER is for the solo storytellers, the dreamers who wander without moving, the paper lovers who treasure every fold and scribble, and anyone who craves a gentle pause—to breathe, to wander, to simply be 📜🌿.\n\n\n\n\n🛣️ Créé dans le cadre de la Road Trip Jam 2025,\nSTOPOVER est un jeu sous licence Creative Commons BY-NC-ND.\n\nCela signifie que tu peux partager librement le jeu dans son format original, mais :\nTu ne peux pas le modifier ou en vendre une version dérivéeTu peux créer du contenu additionnel (aventures, journaux de voyage, extensions) si cela reste gratuit et cite clairement le jeu original",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzQyNjQ2NS8yMDY5MjEyMS5wbmc=/original/BJP0Me.png",
+          "https://img.itch.zone/aW1hZ2UvMzQyNjQ2NS8yMDY5MjA1OC5wbmc=/original/iaRZYV.png",
+          "https://img.itch.zone/aW1hZ2UvMzQyNjQ2NS8yMDY5MjE4Mi5wbmc=/original/uDq4Ji.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Category": "Physical game",
+          "Rating": "Rated 5.0 out of 5 stars(6 total ratings)",
+          "Author": "Lovinpancake 💫",
+          "Tags": "Casual, Cozy, journaling, Narrative, Non violent, Print & Play, Singleplayer, Solo RPG, Tabletop, Tabletop role-playing game"
+        }
+      }
+    },
+    {
+      "gameId": 3497217,
+      "gameUrl": "https://yussuna.itch.io/trip-leads-to",
+      "overallRank": 9,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/road-trip-game-jam/rate/3497217",
+        "id": 687802,
+        "created_at": "2025-04-23 14:08:08",
+        "coolness": 0,
+        "contributors": [
+          {
+            "url": "https://yussuna.itch.io",
+            "name": "Yuçuna"
+          },
+          {
+            "url": "https://garula.itch.io",
+            "name": "Garula"
+          }
+        ],
+        "game": {
+          "title": "Trip leads to",
+          "cover": "https://img.itch.zone/aW1nLzIwODU4MzI3LmpwZw==/300x240%23c/Ks0zck.jpg",
+          "short_text": "You are on trip! Where it might lead to?",
+          "cover_color": "#f6e9f6",
+          "url": "https://yussuna.itch.io/trip-leads-to",
+          "id": 3497217,
+          "user": {
+            "id": 12807002,
+            "url": "https://yussuna.itch.io",
+            "name": "Yuçuna"
+          },
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "android",
+            "web"
+          ]
+        }
+      },
+      "details": {
+        "title": "Trip leads to",
+        "description": "You are on vacation with rental car! With no destination, where this trip might lead you to?\nShort VN game with:\n    \n3 endings + 14 CG\nGame made for Road Trip Jam 2025\n\nSprites made by Neko Bueno!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzQ5NzIxNy8yMDg1ODAxMS5wbmc=/original/ryfgec.png",
+          "https://img.itch.zone/aW1hZ2UvMzQ5NzIxNy8yMDg1ODAwOS5wbmc=/original/nuLRWd.png",
+          "https://img.itch.zone/aW1hZ2UvMzQ5NzIxNy8yMDg1ODAxMC5wbmc=/original/kXvQur.png"
+        ],
+        "moreInfo": {
+          "Updated": "2 days ago",
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux, Android",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "Yuçuna, Garula",
+          "Genre": "Visual Novel",
+          "Made with": "Ren'Py, Krita",
+          "Tags": "2D, Cute, Horror, Ren'Py, Romance",
+          "Average session": "About an hour"
+        }
+      }
+    },
+    {
+      "gameId": 3501639,
+      "gameUrl": "https://fisheranimal.itch.io/roadtrip-in-space",
+      "overallRank": 10,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/road-trip-game-jam/rate/3501639",
+        "id": 688289,
+        "created_at": "2025-04-24 23:48:40",
+        "coolness": 0,
+        "contributors": [
+          {
+            "url": "https://fisheranimal.itch.io",
+            "name": "Fisher"
+          },
+          {
+            "url": "https://avoset.itch.io",
+            "name": "avoset"
+          }
+        ],
+        "game": {
+          "title": "Roadtrip: in Space!",
+          "cover": "https://img.itch.zone/aW1nLzIwODgxMDYxLnBuZw==/300x240%23c/WvGcGJ.png",
+          "short_text": "A 3 month contract job and a busted space ship. What could go wrong?",
+          "cover_color": "#9e8b21",
+          "url": "https://fisheranimal.itch.io/roadtrip-in-space",
+          "id": 3501639,
+          "user": {
+            "id": 2597388,
+            "url": "https://fisheranimal.itch.io",
+            "name": "Fisher"
+          },
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ]
+        }
+      },
+      "details": {
+        "title": "Roadtrip: in Space!",
+        "description": "\nA visual novel made for THE ROADTRIP GAME JAM (2025).\n    \n\n\n\n\n\nFEATURES:\n15 thousand lovingly written wordsmusic AND sound effectsAn utterly pathetic protagonistPukegirlA woman who could kill youMommy issuesA little bit of murder. (As a treat.)\n\nLucy just accepted a 3-month contract position.\nAll she has to do is keep a spaceship, The Slipstream, from falling apart...\nDuring a 3-month journey into deep space.\nWhat could possibly go wrong?\n\nThis 15k word visual novel was made by the following team:\n    \nWriting and programming by Fisher (hey that's me!)\nMusic by Avoset\nCharacter Sprites by Cheryl Marill\n    \nEditing by my lovely boyfriend, Rohze\n    \n\n\n\nThis game features creative commons assets, such as:\nSelected works of music by Kyou System\nImages from Flickr, edits to create the backgrounds.\nSounds from freesounds.org\nTo check the licensing or where to find something specific, please check the \"about\" section on the the game's main menu.Download and extract. Open the folder and click the executable file named \"Roadtrip in Space\" - and then, enjoy!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzUwMTYzOS8yMDg4MTA2NS5wbmc=/original/vZivO2.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwMTYzOS8yMDg4MTA2NC5wbmc=/original/VJ5pKX.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwMTYzOS8yMDg4MTA2Ni5wbmc=/original/lh36A6.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwMTYzOS8yMDg4MTA2OC5wbmc=/original/hE1qVd.png",
+          "https://img.itch.zone/aW1hZ2UvMzUwMTYzOS8yMDg4MTA2Ny5wbmc=/original/tCZM%2Bg.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS, Linux",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "Fisher, avoset",
+          "Genre": "Visual Novel",
+          "Tags": "Kinetic Novel, Queer, Roadtrip, Robots, Sci-fi, Space, Yuri"
+        }
+      }
+    },
+    {
+      "gameId": 3493247,
+      "gameUrl": "https://summerbrunchstudios.itch.io/road-to-salvation",
+      "overallRank": 11,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/road-trip-game-jam/rate/3493247",
+        "id": 687722,
+        "coolness": 0,
+        "created_at": "2025-04-23 05:27:27",
+        "game": {
+          "title": "Road to Salvation",
+          "cover": "https://img.itch.zone/aW1nLzIwODM2NjE0LmpwZw==/300x240%23c/SWyMr6.jpg",
+          "short_text": "How long has it been since you've last been outside? It doesn’t matter, the government needs you now.",
+          "cover_color": "#000000",
+          "url": "https://summerbrunchstudios.itch.io/road-to-salvation",
+          "id": 3493247,
+          "user": {
+            "id": 13133983,
+            "url": "https://summerbrunchstudios.itch.io",
+            "name": "Summer Brunch Studios"
+          },
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ]
+        }
+      },
+      "details": {
+        "title": "Road to Salvation",
+        "description": "\nClick to view content warning\nThis game contains sensitive material, including but not limited to suicidal thoughts and substance abuse. Player discretion is advised.\n\n\n\n\n\nYou are a vaelix, a dying species that has been hunted to near extinction. Everyday, you live in fear of being eliminated. And yet, only your blood can be used to treat the deadly virus, Flos. Normally, you’d only have to donate your blood but… the blood supplies are running out. Now, the Department of Disease Prevention sends a letter requesting your presence to perform experiments — at the potential cost of your life. That’s fine by you. \nNonetheless, on your journey, you meet hitchhikers who talk about their life experiences, and that makes you reflect on how much you will miss out. Do you really want to die all for the sake of others?\n\n\n7k+ words2 main story routes and several alternate branches1 CGFully voice actedOriginal soundtrackTime managementCat\n\n\n\nRay GillWriting & Background Art(linktree)\nhalnyeCharacter Art, UI Design, & Coding(carrd)\nSkywardsisterMusic(tumblr) / (instagram) / (youtube)\nSkywardWarriorCGSound Design & Music(youtube) / (ko-fi)\n\n\nCatRay Gill(linktree)\nLachlanSei(twitter/x)Download and extract the zip fileOpen the extracted folderDouble-click the \"RoadtoSalvation\" program file for your operating systemEnjoy!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzQ5MzI0Ny8yNDMzMjUxMi5qcGc=/original/4jyznS.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzQ5MzI0Ny8yNDMzMjUxNC5qcGc=/original/0iIm8F.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzQ5MzI0Ny8yNDMzMjUxNS5qcGc=/original/mecxSB.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzQ5MzI0Ny8yNDMzMjUxMy5qcGc=/original/9DwIZJ.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzQ5MzI0Ny8yNDMzMjUxMS5qcGc=/original/n9WLpC.jpg",
+          "https://img.itch.zone/aW1hZ2UvMzQ5MzI0Ny8yMDg1Mjk2MS5qcGc=/original/7764lB.jpg"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 5.0 out of 5 stars(5 total ratings)",
+          "Author": "Summer Brunch Studios",
+          "Genre": "Visual Novel",
+          "Made with": "Ren'Py",
+          "Tags": "2D, Fantasy, Indie, Meaningful Choices, Mental Health, paranoia, Roadtrip, Short, Slice Of Life, Story Rich"
+        }
+      }
+    },
+    {
+      "gameId": 3438915,
+      "gameUrl": "https://reteryisk.itch.io/the-thousand-trees",
+      "overallRank": 12,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/road-trip-game-jam/rate/3438915",
+        "id": 678896,
+        "coolness": 0,
+        "created_at": "2025-04-01 04:57:03",
+        "game": {
+          "title": "The Thousand Trees (DAY 1 DEMO)",
+          "cover": "https://img.itch.zone/aW1nLzIwNTE3MzI4LnBuZw==/300x240%23c/MZlfmF.png",
+          "short_text": "Magical Girl Road Trip",
+          "cover_color": "#917474",
+          "url": "https://reteryisk.itch.io/the-thousand-trees",
+          "id": 3438915,
+          "user": {
+            "id": 2020329,
+            "url": "https://reteryisk.itch.io",
+            "name": "reteryisk"
+          },
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ]
+        }
+      },
+      "details": {
+        "title": "The Thousand Trees (DAY 1 DEMO)",
+        "description": "In a future time, a devastating illness turns people into cataclysmic monsters when they hit their breaking point  - the only thing that can stop them, of course, is Magical Girls.\nA visual novel made for NANORENO and Road TripJam 2025. The first day (out of four total) is playable in this (rough) demo.\nThe final game will have:\n- approx. 30k+ words\n- 2 endings (plus character-specific ending scenes)\n- magical girls\n- various Road Trip Shenanigans\nvery mild warnings for references to death/corpses, mild political themes, some brushed upon callousness towards mental health, eye-searing imagery.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzQzODkxNS8yMDUxNzY5MC5wbmc=/original/lJMF%2Bv.png",
+          "https://img.itch.zone/aW1hZ2UvMzQzODkxNS8yMDUxNzY5MS5wbmc=/original/5QjW5v.png",
+          "https://img.itch.zone/aW1hZ2UvMzQzODkxNS8yMDUxNzY5My5wbmc=/original/a6UBCp.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 4.8 out of 5 stars(5 total ratings)",
+          "Author": "reteryisk",
+          "Genre": "Visual Novel, Action",
+          "Made with": "Ren'Py",
+          "Tags": "Anime, Forest, Roadtrip"
+        }
+      }
+    },
+    {
+      "gameId": 3403708,
+      "gameUrl": "https://ka1ikasan.itch.io/focus-on-the-road",
+      "overallRank": 13,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/road-trip-game-jam/rate/3403708",
+        "id": 673967,
+        "coolness": 0,
+        "created_at": "2025-03-17 17:06:43",
+        "game": {
+          "title": "Focus on the Road",
+          "cover": "https://img.itch.zone/aW1nLzIyMTY4NjAxLmpwZw==/300x240%23cb/69x6B%2B.jpg",
+          "url": "https://ka1ikasan.itch.io/focus-on-the-road",
+          "cover_color": "#eeeeee",
+          "tags": [
+            {
+              "url": "/physical-games",
+              "name": "Physical games"
+            }
+          ],
+          "id": 3403708,
+          "user": {
+            "id": 6468952,
+            "url": "https://ka1ikasan.itch.io",
+            "name": "ka1ikasan"
+          },
+          "short_text": "Journaling solo TTRPG game about doing a road trip and making new friends"
+        }
+      },
+      "details": {
+        "title": "Focus on the Road",
+        "description": "Focus on the Road is a solo game about doing a road trip across a huge country. Create a unique character with their interests and beliefs, grab your instant camera and step on the gas. Along your journey you will:\nmeet interesting people and try to become friends with them;\nvisit unique places such as impressive natural landmarks, unmissable diners or world famous monuments;\nuse your instant camera to take stunning pictures of people and landmarks;\ntry to get enough fuel to continue your road trip unless you like pushing your car in a desert.\n\nWhat do you need to play?\n\nAn eight sided die (1d8) and a four sided die (1d4);\nPrinted copy of this game or of selected pages (8 printed pages for full experience OR 2 printed pages for compact version). You may also sketch them or take notes on blank paper.\nA fuel tank token (a small cube, button, candy, etc);\n(obviously) A pen or a pencil;\n(optional) A journal if you wish to write down your adventures.Focus on the Road has been created for the Road Trip Game Jam 2025.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzQwMzcwOC8yMDMyNDkwMi5wbmc=/original/F1reRk.png",
+          "https://img.itch.zone/aW1hZ2UvMzQwMzcwOC8yMDMxNjQwOC5wbmc=/original/Td1kA4.png",
+          "https://img.itch.zone/aW1hZ2UvMzQwMzcwOC8yMDMxNjQwOS5wbmc=/original/9fmXWn.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Category": "Physical game",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "ka1ikasan",
+          "Tags": "Board Game, Cozy, Dice, Driving, Exploration, GM-Less, journaling, Roadtrip, Solo RPG, Tabletop role-playing game"
+        }
+      }
+    },
+    {
+      "gameId": 3249608,
+      "gameUrl": "https://shapeshiftst.itch.io/prelude-of-eve",
+      "overallRank": 14,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/road-trip-game-jam/rate/3249608",
+        "id": 667417,
+        "created_at": "2025-02-28 21:03:49",
+        "coolness": 0,
+        "contributors": [
+          {
+            "url": "https://shapeshiftst.itch.io",
+            "name": "Shapeshift Stitch"
+          },
+          {
+            "url": "https://ryqzen.itch.io",
+            "name": "Miiko (THE REAL ONE)"
+          }
+        ],
+        "game": {
+          "title": "Prelude of Eve",
+          "url": "https://shapeshiftst.itch.io/prelude-of-eve",
+          "cover_color": "#000000",
+          "platforms": [
+            "windows",
+            "osx",
+            "web"
+          ],
+          "id": 3249608,
+          "cover": "https://img.itch.zone/aW1nLzIwMDMxNTEzLmdpZg==/300x240%23c/Wm0a8Y.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzIwMDMxNTEzLmdpZg==/original/8YJFDF.gif",
+          "user": {
+            "id": 3318431,
+            "url": "https://shapeshiftst.itch.io",
+            "name": "Shapeshift Stitch"
+          },
+          "short_text": "Share a dream with an old friend"
+        }
+      },
+      "details": {
+        "title": "Prelude of Eve",
+        "description": "Reminisce in all the bad good memories\nHoping to unwind and relax, Arianne instead finds herself caught in the dark history between her friends. Plagued with dreams and memories of a  young girl they left behind along with their childhood.\nWIP - Updated content and assets to be addedMade for Road Trip Jam 2025\nControls\nArrow Keys - MovementZ - Confirm/InteractX - CancelShift (Hold) - Walk or Run, depending on your settings\nContent Warnings\nBloodBullyingKidnappingHome InvasionDeath of a Child\nCredits\nMiiko (ryqzen) - Writing and ArtAngela Ku (Cheeptune) - Programming and SpritesSFX made with jsfxrThis game uses many tracks by John Bartmann, the full list is available in the download filesPlugins used:MultiTweaks by ScSWinterTF_Billboard.js by Tonbi@Tobishima-Factory",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzI0OTYwOC8yMDAzMTY3NS5wbmc=/original/wvKDbG.png",
+          "https://img.itch.zone/aW1hZ2UvMzI0OTYwOC8yMDAzMTc2NC5naWY=/original/tltbs%2B.gif",
+          "https://img.itch.zone/aW1hZ2UvMzI0OTYwOC8yMDAzMTgxMy5wbmc=/original/hFnhl1.png",
+          "https://img.itch.zone/aW1hZ2UvMzI0OTYwOC8yMDAzMTgzMS5wbmc=/original/oHAuuv.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5, Windows, macOS",
+          "Rating": "Rated 5.0 out of 5 stars(4 total ratings)",
+          "Authors": "Shapeshift Stitch, Miiko (THE REAL ONE)",
+          "Genre": "Adventure",
+          "Made with": "RPG Maker",
+          "Tags": "Dark, Dreams, Exploration, Female Protagonist, Ghosts, Horror, Multiple Endings, Pixel Art, Roadtrip, Story Rich",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse, Touchscreen"
+        }
+      }
+    },
+    {
+      "gameId": 3438764,
+      "gameUrl": "https://roguskii.itch.io/closure",
+      "overallRank": 15,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/road-trip-game-jam/rate/3438764",
+        "id": 686278,
+        "coolness": 0,
+        "created_at": "2025-04-20 06:42:50",
+        "game": {
+          "title": "Closure",
+          "url": "https://roguskii.itch.io/closure",
+          "cover_color": "#000000",
+          "cover": "https://img.itch.zone/aW1nLzIwNTE2ODMwLnBuZw==/300x240%23c/9WQlaW.png",
+          "id": 3438764,
+          "user": {
+            "id": 2783705,
+            "url": "https://roguskii.itch.io",
+            "name": "roguskii"
+          },
+          "short_text": "do you remember how it was?"
+        }
+      },
+      "details": {
+        "title": "Closure",
+        "description": "--------------------------------\n\nfeelings you wish you could express, but you're not dead yet, so i guess you'll have to wait\n(when dying together on your road trip forces you to acknowledge some emotions you've tried your best to ignore)\na short visual novel about attachment and avoidance\n\n(cw for a bit of vulgar language, a car crash, and one sudden sound!)\n\n--------------------------------\n\n\nart, music, and game made by meemee roguskii\nhttps://linktr.ee/roguskii\n\nv1.0\n\n--------------------------------\n\nmade for Road Trip Jam 2025",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMzQzODc2NC8yMDUxNjkxMy5wbmc=/original/HdhSSn.png",
+          "https://img.itch.zone/aW1hZ2UvMzQzODc2NC8yMDUxNjkyNi5wbmc=/original/gV8Aot.png",
+          "https://img.itch.zone/aW1hZ2UvMzQzODc2NC8yMDUxNjkyNS5wbmc=/original/fq1r5S.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "roguskii",
+          "Genre": "Visual Novel",
+          "Made with": "Ren'Py",
+          "Tags": "Gay, Queer, Ren'Py, Roadtrip, Short, storygame",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse, Gamepad (any)",
+          "Accessibility": "One button"
+        }
+      }
+    }
+  ]
+}

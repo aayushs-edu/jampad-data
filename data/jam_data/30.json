@@ -1,0 +1,3228 @@
+{
+  "n": 30,
+  "name": "Acerola Jam 0",
+  "url": "https://itch.io/jam/acerola-jam-0",
+  "theme": "Aberration",
+  "slug": "acerola-jam-0",
+  "jamMeta": {
+    "jamType": "ended",
+    "ratings": "11,885",
+    "entries": "928",
+    "title": "Acerola Jam 0",
+    "jamURL": "https://itch.io/jam/acerola-jam-0",
+    "hosts": {
+      "Acerola": "https://acerola-t.itch.io",
+      "#acerolajam": "https://bsky.app/hashtag/acerolajam"
+    },
+    "jamID": "385666"
+  },
+  "totalEntries": 885,
+  "ranked": true,
+  "hasCategories": true,
+  "needsManualSelection": false,
+  "categories": [
+    "Gameplay",
+    "Presentation",
+    "Originality"
+  ],
+  "topGames": [
+    {
+      "gameId": 2578039,
+      "gameUrl": "https://quintin-steiner.itch.io/splice-core",
+      "overallRank": 1,
+      "topCategories": [
+        "Gameplay",
+        "Originality"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1NTU0MTEwLnBuZw==/300x240%23c/d7KmhV.png",
+        "url": "https://itch.io/jam/acerola-jam-0/rate/2578039",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 4.75,
+            "rank": 1,
+            "raw_score": 4.75
+          },
+          {
+            "name": "Presentation",
+            "score": 4.6388888888889,
+            "rank": 30,
+            "raw_score": 4.6388888888889
+          },
+          {
+            "name": "Originality",
+            "score": 4.6388888888889,
+            "rank": 15,
+            "raw_score": 4.6388888888889
+          },
+          {
+            "name": "Judge's Choice",
+            "score": 0,
+            "rank": 2,
+            "raw_score": 0
+          }
+        ],
+        "raw_score": 4.6759259259259,
+        "rating_count": 36,
+        "id": 2578039,
+        "title": "SPLICE CORE (Jam Build)",
+        "score": 4.6759259259259,
+        "rank": 1,
+        "contributors": [
+          {
+            "name": "Quintin Steiner",
+            "id": 7769141
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 36,
+        "coolness": 54,
+        "url": "/jam/acerola-jam-0/rate/2578039",
+        "created_at": "2024-03-13 17:48:07",
+        "id": 516482,
+        "game": {
+          "short_text": "A space folding puzzle game. Submission to Acerola Jam 0",
+          "cover": "https://img.itch.zone/aW1nLzE1NTU0MTEwLnBuZw==/300x240%23c/d7KmhV.png",
+          "user": {
+            "name": "Quintin Steiner",
+            "url": "https://quintin-steiner.itch.io",
+            "id": 7769141
+          },
+          "url": "https://quintin-steiner.itch.io/splice-core",
+          "id": 2578039,
+          "title": "SPLICE CORE (Jam Build)",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#1f2226"
+        }
+      },
+      "details": {
+        "title": "SPLICE CORE (Jam Build)",
+        "description": "In this Sokoban-style puzzle game, navigate your way past security by utilizing a space folding mechanic. Features 8 levels.\nCreated in two weeks for  Acerola Jam 0.\nTools used:\nUnity 2022.3Visual Studio 2022paint.netBlender 4.0FL Studio 21\nListen to the soundtrack here",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjU3ODAzOS8xNTM2NDMzMC5naWY=/original/gRSSUo.gif",
+          "https://img.itch.zone/aW1hZ2UvMjU3ODAzOS8xNTM2NDI3My5wbmc=/original/f11aiF.png",
+          "https://img.itch.zone/aW1hZ2UvMjU3ODAzOS8xNTM2NDI3MS5wbmc=/original/eKjMpR.png",
+          "https://img.itch.zone/aW1hZ2UvMjU3ODAzOS8xNTM2NDI3Mi5wbmc=/original/4M%2B7F4.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(8 total ratings)",
+          "Author": "Quintin Steiner",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "2D, Difficult, mind-bending, Minimalist, Singleplayer, Sokoban, Unity",
+          "Average session": "About an hour",
+          "Languages": "English",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": 2581423,
+      "gameUrl": "https://spratt.itch.io/trichromat",
+      "overallRank": 3,
+      "topCategories": [
+        "Gameplay",
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1MzY3MDg3LnBuZw==/300x240%23c/n5q1jl.png",
+        "url": "https://itch.io/jam/acerola-jam-0/rate/2581423",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 4.72,
+            "rank": 2,
+            "raw_score": 4.72
+          },
+          {
+            "name": "Originality",
+            "score": 4.32,
+            "rank": 50,
+            "raw_score": 4.32
+          },
+          {
+            "name": "Presentation",
+            "score": 4.76,
+            "rank": 13,
+            "raw_score": 4.76
+          }
+        ],
+        "raw_score": 4.6,
+        "rating_count": 25,
+        "id": 2581423,
+        "title": "Trichromat",
+        "score": 4.6,
+        "rank": 3,
+        "contributors": [
+          {
+            "name": "spratt",
+            "id": 2685396
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 25,
+        "coolness": 0,
+        "url": "/jam/acerola-jam-0/rate/2581423",
+        "created_at": "2024-03-13 12:51:33",
+        "id": 516360,
+        "game": {
+          "short_text": "A box-pushing puzzle game.",
+          "cover": "https://img.itch.zone/aW1nLzE1MzY3MDg3LnBuZw==/300x240%23c/n5q1jl.png",
+          "user": {
+            "name": "spratt",
+            "url": "https://spratt.itch.io",
+            "id": 2685396
+          },
+          "url": "https://spratt.itch.io/trichromat",
+          "id": 2581423,
+          "title": "Trichromat",
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#000000"
+        }
+      },
+      "details": {
+        "title": "Trichromat",
+        "description": "This game was made in 2 weeks for the Acerola Jam 0. The theme was \"aberration\" and we were warned against using chromatic aberration as our starting point. Naturally, I ignored this advice.\nI'm very happy with how this game turned out, and I hope you enjoy it! :)Controls:Move: [Arrow keys]Select: [Enter]Undo: [Z]\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjU4MTQyMy8xNTM2NzQ3Ny5wbmc=/original/YNdCie.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MTQyMy8xNTM2NzQ3NC5wbmc=/original/YI%2Bbtn.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MTQyMy8xNTM2NzQ3OC5wbmc=/original/NmpY31.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MTQyMy8xNTM2NzQ3NS5wbmc=/original/sY3BM0.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MTQyMy8xNTM2NzQ3Ni5wbmc=/original/DzKFqc.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.9 out of 5 stars(35 total ratings)",
+          "Author": "spratt",
+          "Genre": "Puzzle",
+          "Made with": "PICO-8",
+          "Tags": "2D, PICO-8, Pixel Art, Sokoban"
+        }
+      }
+    },
+    {
+      "gameId": 2583279,
+      "gameUrl": "https://shearrs.itch.io/the-good-shepherd",
+      "overallRank": 4,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1Mzc5MjIzLnBuZw==/300x240%23c/6XpfEf.png",
+        "url": "https://itch.io/jam/acerola-jam-0/rate/2583279",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 4.5384615384615,
+            "rank": 3,
+            "raw_score": 4.5384615384615
+          },
+          {
+            "name": "Presentation",
+            "score": 4.5769230769231,
+            "rank": 38,
+            "raw_score": 4.5769230769231
+          },
+          {
+            "name": "Originality",
+            "score": 4.5384615384615,
+            "rank": 24,
+            "raw_score": 4.5384615384615
+          },
+          {
+            "name": "Judge's Choice",
+            "score": 0,
+            "rank": 1,
+            "raw_score": 0
+          }
+        ],
+        "raw_score": 4.5512820512821,
+        "rating_count": 26,
+        "id": 2583279,
+        "title": "The Good Shepherd",
+        "score": 4.5512820512821,
+        "rank": 4,
+        "contributors": [
+          {
+            "name": "shearrs",
+            "id": 7507707
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 26,
+        "coolness": 6,
+        "url": "/jam/acerola-jam-0/rate/2583279",
+        "created_at": "2024-03-14 06:43:41",
+        "id": 517177,
+        "game": {
+          "short_text": "Doth he not leave the ninety and nine?",
+          "cover": "https://img.itch.zone/aW1nLzE1Mzc5MjIzLnBuZw==/300x240%23c/6XpfEf.png",
+          "user": {
+            "name": "shearrs",
+            "url": "https://shearrs.itch.io",
+            "id": 7507707
+          },
+          "url": "https://shearrs.itch.io/the-good-shepherd",
+          "id": 2583279,
+          "title": "The Good Shepherd",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#2d2733"
+        }
+      },
+      "details": {
+        "title": "The Good Shepherd",
+        "description": "\"How think ye? if a man have an hundred sheep, and one of them be gone astray, doth he not leave the ninety and nine, and goeth into the mountains, and seeketh that which is gone astray?\nin The Good Shepherd you play as the Shepherd on a quest to rescue the one sheep who has strayed from the herd. the forest is known to house many unsightly creatures, but a Good Shepherd would leave no sheep behind.\n\n*warning* this game contains many moving colors and lights\nIf there is anything unclear while playing, press H to open the help page.\ngameplay:\nThe Good Shepherd is a short turn-based game made for Acerola Jam 0 about resisting temptation, repenting from sin, and knowing when to strike. \ncombat consists of three phases:\n1. lots phase - The Shepherd plays lots to determine His fate in combat.\n - red lots - determine the damage The Shepherd can do.\n- blue lots - determine the defense The Shepherd can put up.\n- black lots - 3 black lots give The Shepherd a random sin.\n- white lots - determine the amount of health The Shepherd can heal with petition, or if 3 are collected, allow the Shepherd to purify a sin with petition.\n2. action phase - all combatants choose their actions for the upcoming Turn Phase.\n3. turn phase - selected actions are played out.\nalong the journey, The Shepherd may give in to temptation and embrace sins with various detrimental effects, but with the gifts of God, The Shepherd can repent.1. Download the zip\n2. Extract the zip\n3. Run \"The Good Shepherd.exe\"",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjU4MzI3OS8xNTM3ODYyMC5wbmc=/original/Wp7zu5.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MzI3OS8xNTM3ODg2Mi5wbmc=/original/gqjTMp.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MzI3OS8xNTM3ODg2NC5wbmc=/original/QEnVYx.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MzI3OS8xNTM3ODg2My5wbmc=/original/rse80N.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MzI3OS8xNTM3ODYxNS5wbmc=/original/xtR0mr.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Author": "shearrs",
+          "Genre": "Card Game",
+          "Tags": "3D, Singleplayer, weird"
+        }
+      }
+    },
+    {
+      "gameId": 2571477,
+      "gameUrl": "https://leth4.itch.io/maintenance",
+      "overallRank": 19,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1MzUzMDAwLmdpZg==/300x240%23c/arceeP.gif",
+        "url": "https://itch.io/jam/acerola-jam-0/rate/2571477",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 4.4516129032258,
+            "rank": 4,
+            "raw_score": 4.4516129032258
+          },
+          {
+            "name": "Presentation",
+            "score": 4.3548387096774,
+            "rank": 85,
+            "raw_score": 4.3548387096774
+          },
+          {
+            "name": "Originality",
+            "score": 4.2258064516129,
+            "rank": 72,
+            "raw_score": 4.2258064516129
+          }
+        ],
+        "raw_score": 4.3440860215054,
+        "rating_count": 93,
+        "id": 2571477,
+        "title": "Maintenance",
+        "score": 4.3440860215054,
+        "rank": 19,
+        "contributors": [
+          {
+            "name": "leth",
+            "id": 5264665
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 93,
+        "coolness": 26,
+        "url": "/jam/acerola-jam-0/rate/2571477",
+        "created_at": "2024-03-12 07:28:27",
+        "id": 515916,
+        "game": {
+          "id": 2571477,
+          "cover_color": "#eeeeee",
+          "url": "https://leth4.itch.io/maintenance",
+          "user": {
+            "name": "leth",
+            "url": "https://leth4.itch.io",
+            "id": 5264665
+          },
+          "gif_cover": "https://img.itch.zone/aW1nLzE1MzUzMDAwLmdpZg==/original/zyqG2n.gif",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "title": "Maintenance",
+          "cover": "https://img.itch.zone/aW1nLzE1MzUzMDAwLmdpZg==/300x240%23c/arceeP.gif",
+          "short_text": "The structure needs calibration."
+        }
+      },
+      "details": {
+        "title": "Maintenance",
+        "description": "\nTHE STRUCTURE MAINTENANCE IS SCHEDULED FOR 05.04.73\nYou are a calibration inspector. Don't hold on to your memories and follow instructions. Contact your supervisor if you have any questions.\nHold N to skip any level. Press ESC to go to the menu; you can replay previous levels there. Your progress is saved between sessions.\n\nGame by Eugene RadaevPlaytested by Maxim Panchenko, Valentine Radaev, Daniil Barbashin",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjU3MTQ3Ny8xNTM1MzAxNy5naWY=/original/PPrbNV.gif",
+          "https://img.itch.zone/aW1hZ2UvMjU3MTQ3Ny8xNTM1MzA0OS5wbmc=/original/5S9se3.png",
+          "https://img.itch.zone/aW1hZ2UvMjU3MTQ3Ny8xNTM1MzAzOS5wbmc=/original/t3V7lT.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.8 out of 5 stars(56 total ratings)",
+          "Author": "leth",
+          "Genre": "Puzzle, Adventure",
+          "Made with": "Unity",
+          "Tags": "2D, Atmospheric, Destruction, Pixel Art, Short, Singleplayer, Turn-based"
+        }
+      }
+    },
+    {
+      "gameId": 2582607,
+      "gameUrl": "https://dragonsproutling.itch.io/shiftscape",
+      "overallRank": 17,
+      "topCategories": [
+        "Gameplay",
+        "Originality"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1Mzc0NzY5LnBuZw==/300x240%23c/Eh%2FHhH.png",
+        "url": "https://itch.io/jam/acerola-jam-0/rate/2582607",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 4.4375,
+            "rank": 5,
+            "raw_score": 4.4375
+          },
+          {
+            "name": "Presentation",
+            "score": 3.8125,
+            "rank": 210,
+            "raw_score": 3.8125
+          },
+          {
+            "name": "Originality",
+            "score": 4.8125,
+            "rank": 3,
+            "raw_score": 4.8125
+          }
+        ],
+        "raw_score": 4.3541666666667,
+        "rating_count": 16,
+        "id": 2582607,
+        "title": "Shiftscape",
+        "score": 4.3541666666667,
+        "rank": 17,
+        "contributors": [
+          {
+            "name": "Dragonsproutling",
+            "id": 9900487
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 16,
+        "coolness": 3,
+        "url": "/jam/acerola-jam-0/rate/2582607",
+        "created_at": "2024-03-14 00:10:56",
+        "id": 516677,
+        "game": {
+          "short_text": "Explore an Aberrant and Shifting Dimension",
+          "cover": "https://img.itch.zone/aW1nLzE1Mzc0NzY5LnBuZw==/300x240%23c/Eh%2FHhH.png",
+          "user": {
+            "name": "Dragonsproutling",
+            "url": "https://dragonsproutling.itch.io",
+            "id": 9900487
+          },
+          "url": "https://dragonsproutling.itch.io/shiftscape",
+          "id": 2582607,
+          "title": "Shiftscape",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#a2adf7"
+        }
+      },
+      "details": {
+        "title": "Shiftscape",
+        "description": "Play as a researcher who has to explore and survive a shifting landscape of puzzles after some multidimensional travel goes haywire.\n\nControls (explained in game):\nMovement: WASD or Arrow Keys\nHints/Solutions: Hold H (revealed from the start of the level to the end)\nRestart Level: R\nPause Game: Esc\nAccept/Interact: Z\n\n\nThis is a game made for the Acerola Jam 0. A lot of functionality,  art, gameplay, and polish could not be included, but I am proud of the  results. It was made in 14 days with only one month's worth of game  development experience, so I hope you enjoy! Feedback is greatly  appreciated.\n    \nI plan to continue development of this game. If you are interested in  receiving updates or following my progress, you can follow me on  itch.io or message me on discord (discord username dragonsproutling). I will make a own dedicated discord server  if enough people are interested.\n    \nAll assets, music, and sounds are made by me. Please do not  redistribute without my expressed consent. The font is m5x7 by Daniel  Linssen.\n    \nThis game runs for windows. A browser version was released for playtesting on Acerola's discord if you want to find the link for that (less functionality and more bugs, but it has the same vibes and overall gameplay).",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE1Mzc0NzY5LnBuZw==/original/HI7tEY.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Author": "Dragonsproutling",
+          "Genre": "Puzzle"
+        }
+      }
+    },
+    {
+      "gameId": 2581887,
+      "gameUrl": "https://kayhan-fatahi.itch.io/ronin-anomaly",
+      "overallRank": 20,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1MzY5OTg0LmpwZw==/300x240%23c/KNJT2G.jpg",
+        "url": "https://itch.io/jam/acerola-jam-0/rate/2581887",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 4.4347826086957,
+            "rank": 6,
+            "raw_score": 4.4347826086957
+          },
+          {
+            "name": "Presentation",
+            "score": 4.2173913043478,
+            "rank": 112,
+            "raw_score": 4.2173913043478
+          },
+          {
+            "name": "Originality",
+            "score": 4.3695652173913,
+            "rank": 44,
+            "raw_score": 4.3695652173913
+          }
+        ],
+        "raw_score": 4.3405797101449,
+        "rating_count": 46,
+        "id": 2581887,
+        "title": "Ronin Anomaly",
+        "score": 4.3405797101449,
+        "rank": 20,
+        "contributors": [
+          {
+            "name": "Kayhan Fatahi",
+            "id": 10089939
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 46,
+        "coolness": 0,
+        "url": "/jam/acerola-jam-0/rate/2581887",
+        "created_at": "2024-03-13 19:07:39",
+        "id": 516508,
+        "game": {
+          "user": {
+            "name": "Kayhan Fatahi",
+            "url": "https://kayhan-fatahi.itch.io",
+            "id": 10089939
+          },
+          "id": 2581887,
+          "url": "https://kayhan-fatahi.itch.io/ronin-anomaly",
+          "title": "Ronin Anomaly",
+          "cover": "https://img.itch.zone/aW1nLzE1MzY5OTg0LmpwZw==/300x240%23c/KNJT2G.jpg",
+          "short_text": "Brave Ronin, with his lone soul, steps into the anomaly world."
+        }
+      },
+      "details": {
+        "title": "Ronin Anomaly",
+        "description": "\n### Ronin Anomaly\n #### Story: In \"Ronin,\" our protagonist, named \"Brave Soul,\" embodies a combination of power and confidence as he seeks revenge against a promise that has led his enemies astray. Along his path, obstacles arise, compelling him to harness his abilities to their fullest to reach his goal.\n #### Features: - Gravity Manipulation: One of the primary features of this game is the ability to manipulate gravity, allowing \"Brave Soul\" to move in three different dimensions and overcome obstacles. - Complex Levels: The game includes challenging and intricate levels that require smart use of gravity manipulation and \"Brave Soul's\" abilities. \n- Narrative Evolution: As players progress, the story evolves into a more complex narrative, with \"Brave Soul\" encountering new challenges and characters. - Engaging Visual Experience: With stunning graphics and captivating environment designs, players will immerse themselves in a visually breathtaking experience.\n #### Game Objective: The main objective of \"Ronin\" is to seek revenge against a promise that has led his enemies astray. By confronting obstacles and various characters, the aim is to achieve this goal. You can experience the game's thrilling features and captivating story alone or with your friends.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjU4MTg4Ny8xNTM3MDE3My5wbmc=/original/JYORgu.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MTg4Ny8xNTM3MDE3Mi5wbmc=/original/df9M58.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MTg4Ny8xNTM3MDE3MS5wbmc=/original/ym9YOC.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Author": "Kayhan Fatahi",
+          "Genre": "Platformer, Action, Adventure",
+          "Tags": "2D, Metroidvania, ronin, Singleplayer, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 2579359,
+      "gameUrl": "https://allpoland.itch.io/research-project-891",
+      "overallRank": 2,
+      "topCategories": [
+        "Gameplay",
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1MzYxMzE0LnBuZw==/300x240%23c/jaAGSa.png",
+        "url": "https://itch.io/jam/acerola-jam-0/rate/2579359",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 4.4166666666667,
+            "rank": 7,
+            "raw_score": 4.4166666666667
+          },
+          {
+            "name": "Presentation",
+            "score": 4.8333333333333,
+            "rank": 4,
+            "raw_score": 4.8333333333333
+          },
+          {
+            "name": "Originality",
+            "score": 4.5833333333333,
+            "rank": 19,
+            "raw_score": 4.5833333333333
+          }
+        ],
+        "raw_score": 4.6111111111111,
+        "rating_count": 12,
+        "id": 2579359,
+        "title": "S.O.U.P. Research Project 891",
+        "score": 4.6111111111111,
+        "rank": 2,
+        "contributors": [
+          {
+            "name": "Polan",
+            "id": 9905188
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 12,
+        "coolness": 7,
+        "url": "/jam/acerola-jam-0/rate/2579359",
+        "created_at": "2024-03-13 02:04:51",
+        "id": 516268,
+        "game": {
+          "short_text": "Aid research of an Aberrant Entity in this short, atmospheric, story-driven game.",
+          "cover": "https://img.itch.zone/aW1nLzE1MzYxMzE0LnBuZw==/300x240%23c/jaAGSa.png",
+          "user": {
+            "name": "Polan",
+            "url": "https://allpoland.itch.io",
+            "id": 9905188
+          },
+          "url": "https://allpoland.itch.io/research-project-891",
+          "id": 2579359,
+          "title": "S.O.U.P. Research Project 891",
+          "platforms": [
+            "windows",
+            "linux"
+          ],
+          "cover_color": "#020202"
+        }
+      },
+      "details": {
+        "title": "S.O.U.P. Research Project 891",
+        "description": "Congratulations ${EMPLOYEE_NAME}! You have been selected to participate in:\n> Research Project 891\nIn this 30 day research activity, you will make full use of our state-of-the-art Facility Access Terminal (patent pending) to interact with Aberration class Entity E-891 in complete safety.\nFollow all instructions accurately and promptly to maintain a safe and productive research environment. S.O.U.P. Incorporated thanks you for your contribution to the continued survival and success of humankind.\nThis game was made in 14 days for Acerola Jam 0\n\nThis Game Includes:\nProfanity, Brief Flashing Lights",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjU3OTM1OS8xNTM2MTA4Ni5wbmc=/original/XCMunh.png",
+          "https://img.itch.zone/aW1hZ2UvMjU3OTM1OS8xNTM2MTA4OC5wbmc=/original/2m3WxP.png",
+          "https://img.itch.zone/aW1hZ2UvMjU3OTM1OS8xNTM2MTA4Ny5wbmc=/original/4ngTI%2F.png",
+          "https://img.itch.zone/aW1hZ2UvMjU3OTM1OS8xNTM2MTA4OS5wbmc=/original/Bx%2FfiX.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, Linux",
+          "Author": "Polan",
+          "Genre": "Interactive Fiction",
+          "Tags": "Atmospheric, Creepy, Short, Story Rich, Walking simulator"
+        }
+      }
+    },
+    {
+      "gameId": 2583312,
+      "gameUrl": "https://dobleadev.itch.io/geomorph",
+      "overallRank": 14,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1Mzc5OTAyLnBuZw==/300x240%23c/vkTmpO.png",
+        "url": "https://itch.io/jam/acerola-jam-0/rate/2583312",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 4.4,
+            "rank": 8,
+            "raw_score": 4.4
+          },
+          {
+            "name": "Presentation",
+            "score": 4.3,
+            "rank": 95,
+            "raw_score": 4.3
+          },
+          {
+            "name": "Originality",
+            "score": 4.4,
+            "rank": 37,
+            "raw_score": 4.4
+          }
+        ],
+        "raw_score": 4.3666666666667,
+        "rating_count": 10,
+        "id": 2583312,
+        "title": "GeoMorph",
+        "score": 4.3666666666667,
+        "rank": 14,
+        "contributors": [
+          {
+            "name": "DobleADev",
+            "id": 4169588
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 10,
+        "coolness": 4,
+        "url": "/jam/acerola-jam-0/rate/2583312",
+        "created_at": "2024-03-14 07:57:57",
+        "id": 517346,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE1Mzc5OTAyLnBuZw==/300x240%23c/vkTmpO.png",
+          "user": {
+            "name": "DobleADev",
+            "url": "https://dobleadev.itch.io",
+            "id": 4169588
+          },
+          "url": "https://dobleadev.itch.io/geomorph",
+          "id": 2583312,
+          "title": "GeoMorph",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#272e33"
+        }
+      },
+      "details": {
+        "title": "GeoMorph",
+        "description": "My entry for the Acerola Game Jam 0! A platformer game where the player is a tar monster that turns on what it covers.HOW TO PLAY:On Menus:A,D or <,> for selectingENTER, SPACE or E for ConfirmOn Game:A,D or <,> for moveSPACE for jumpE for Learn compatible objects and interact with other objectsQ for Select form\nThe Cyan plate is the end of the level, Press E when you reach it",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjU4MzMxMi8xNTM4NDUyMy5wbmc=/original/eVvy98.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MzMxMi8xNTM4NDM0Mi5wbmc=/original/LAmB0U.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MzMxMi8xNTM4NDM0NS5wbmc=/original/YxVkvY.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Author": "DobleADev",
+          "Genre": "Platformer"
+        }
+      }
+    },
+    {
+      "gameId": 2581823,
+      "gameUrl": "https://eggydot.itch.io/grab-box",
+      "overallRank": 116,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1NDU2NjE0LmdpZg==/300x240%23c/3dhLxM.gif",
+        "url": "https://itch.io/jam/acerola-jam-0/rate/2581823",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 4.3846153846154,
+            "rank": 9,
+            "raw_score": 4.3846153846154
+          },
+          {
+            "name": "Presentation",
+            "score": 3.5384615384615,
+            "rank": 300,
+            "raw_score": 3.5384615384615
+          },
+          {
+            "name": "Originality",
+            "score": 3.6923076923077,
+            "rank": 215,
+            "raw_score": 3.6923076923077
+          }
+        ],
+        "raw_score": 3.8717948717949,
+        "rating_count": 13,
+        "id": 2581823,
+        "title": "Grab Box",
+        "score": 3.8717948717949,
+        "rank": 116,
+        "contributors": [
+          {
+            "name": "eggydot",
+            "id": 5580766
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 13,
+        "coolness": 4,
+        "url": "/jam/acerola-jam-0/rate/2581823",
+        "created_at": "2024-03-14 06:46:34",
+        "id": 517184,
+        "game": {
+          "id": 2581823,
+          "cover_color": "#0a0f0a",
+          "url": "https://eggydot.itch.io/grab-box",
+          "user": {
+            "name": "eggydot",
+            "url": "https://eggydot.itch.io",
+            "id": 5580766
+          },
+          "gif_cover": "https://img.itch.zone/aW1nLzE1NDU2NjE0LmdpZg==/original/6JoDRi.gif",
+          "platforms": [
+            "web"
+          ],
+          "title": "Grab Box",
+          "cover": "https://img.itch.zone/aW1nLzE1NDU2NjE0LmdpZg==/300x240%23c/3dhLxM.gif",
+          "short_text": "grabbing is the new pushing"
+        }
+      },
+      "details": {
+        "title": "Grab Box",
+        "description": "A box-pushing game where you can grab onto boxes, with the story of an inexperienced game developer learning to live with bugs mistakes. Despite such a simple premise, things go slightly off the rails.\nInitially made for Acerola Jam 0, with the theme \"Aberration\".\nArrow Keys / WASD (or the equivalent for your keyboard layout) to move\nOther controls are onscreen in the game\n\nThis was heavily inspired by Hempuli's recent series of tiny block pushers (https://itch.io/c/4014684/tiny-block-pushers).Additionally, the grabbing mechanic is pretty much stolen from the upcoming game Lab Rat (Go play the demo if it's still available, because it's amazing)\nJam Version playtested by Gorglomux and Idolon",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjU4MTgyMy8xNjkwNzE0NS5wbmc=/original/IBjU9S.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MTgyMy8xNTQ1NjY3OC5wbmc=/original/WKrxdm.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MTgyMy8xNTM2OTUzMC5wbmc=/original/HzVv%2FF.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MTgyMy8xNjkwNzIxNy5wbmc=/original/4KO6Cu.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.8 out of 5 stars(10 total ratings)",
+          "Author": "eggydot",
+          "Genre": "Puzzle",
+          "Tags": "Minimalist, Short, Sokoban, Top-Down",
+          "Average session": "A few minutes",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": 2581930,
+      "gameUrl": "https://lightpotato.itch.io/parasitism",
+      "overallRank": 33,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1NDAyMjYzLmdpZg==/300x240%23c/1SAFj8.gif",
+        "url": "https://itch.io/jam/acerola-jam-0/rate/2581930",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 4.3571428571429,
+            "rank": 10,
+            "raw_score": 4.3571428571429
+          },
+          {
+            "name": "Presentation",
+            "score": 4.1428571428571,
+            "rank": 134,
+            "raw_score": 4.1428571428571
+          },
+          {
+            "name": "Originality",
+            "score": 4.2857142857143,
+            "rank": 59,
+            "raw_score": 4.2857142857143
+          }
+        ],
+        "raw_score": 4.2619047619048,
+        "rating_count": 14,
+        "id": 2581930,
+        "title": "Parasitism",
+        "score": 4.2619047619048,
+        "rank": 33,
+        "contributors": [
+          {
+            "name": "LightPotato",
+            "id": 1528853
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 14,
+        "coolness": 8,
+        "url": "/jam/acerola-jam-0/rate/2581930",
+        "created_at": "2024-03-14 03:53:05",
+        "id": 516907,
+        "game": {
+          "id": 2581930,
+          "cover_color": "#eeeeee",
+          "url": "https://lightpotato.itch.io/parasitism",
+          "user": {
+            "name": "LightPotato",
+            "url": "https://lightpotato.itch.io",
+            "id": 1528853
+          },
+          "gif_cover": "https://img.itch.zone/aW1nLzE1NDAyMjYzLmdpZg==/original/st3Fvt.gif",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "title": "Parasitism",
+          "cover": "https://img.itch.zone/aW1nLzE1NDAyMjYzLmdpZg==/300x240%23c/1SAFj8.gif",
+          "short_text": "You are a parasite, aberrate your form"
+        }
+      },
+      "details": {
+        "title": "Parasitism",
+        "description": "Become a slime, which exploits the host's ability and kills it when the job is done. Perform various actions by aberrating your form!\n\n[Source Code]\nhttps://github.com/LightPotato99/Parasitism\n[Credits]\nhttps://pixabay.com/music/pulses-laboratory-112141/\nhttps://www.youtube.com/watch?v=0i86_9jMVjg/\nhttps://peritune.com/blog/2020/05/22/cyberpunk_city/\nhttp://osabisi.sakura.ne.jp/m2/",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjU4MTkzMC8xNTM5NDc3NS5naWY=/original/XBpmnS.gif",
+          "https://img.itch.zone/aW1hZ2UvMjU4MTkzMC8xNTM3NjcyNC5wbmc=/original/yg0zIc.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MTkzMC8xNTM3NjkwNC5wbmc=/original/v8DrMz.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "LightPotato",
+          "Genre": "Platformer",
+          "Made with": "Godot",
+          "Tags": "Action-Adventure, Slime"
+        }
+      }
+    },
+    {
+      "gameId": 2565939,
+      "gameUrl": "https://gorglomux.itch.io/megachess",
+      "overallRank": 9,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIxNDE1OTI0LmdpZg==/300x240%23c/LjGCNZ.gif",
+        "url": "https://itch.io/jam/acerola-jam-0/rate/2565939",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 4.3483870967742,
+            "rank": 11,
+            "raw_score": 4.3483870967742
+          },
+          {
+            "name": "Presentation",
+            "score": 4.5290322580645,
+            "rank": 49,
+            "raw_score": 4.5290322580645
+          },
+          {
+            "name": "Judge's Choice",
+            "score": 0,
+            "rank": 1,
+            "raw_score": 0
+          },
+          {
+            "name": "Originality",
+            "score": 4.3741935483871,
+            "rank": 43,
+            "raw_score": 4.3741935483871
+          }
+        ],
+        "raw_score": 4.4172043010753,
+        "rating_count": 155,
+        "id": 2565939,
+        "title": "MEGACHESS",
+        "score": 4.4172043010753,
+        "rank": 9,
+        "contributors": [
+          {
+            "name": "Gorglomux",
+            "id": 1504029
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 155,
+        "coolness": 43,
+        "url": "/jam/acerola-jam-0/rate/2565939",
+        "created_at": "2024-03-11 16:40:31",
+        "id": 515449,
+        "game": {
+          "id": 2565939,
+          "cover_color": "#420e24",
+          "url": "https://gorglomux.itch.io/megachess",
+          "user": {
+            "name": "Gorglomux",
+            "url": "https://gorglomux.itch.io",
+            "id": 1504029
+          },
+          "gif_cover": "https://img.itch.zone/aW1nLzIxNDE1OTI0LmdpZg==/original/skpZdf.gif",
+          "platforms": [
+            "web"
+          ],
+          "title": "MEGACHESS",
+          "cover": "https://img.itch.zone/aW1nLzIxNDE1OTI0LmdpZg==/300x240%23c/LjGCNZ.gif",
+          "short_text": "It's time to destroy the King once and for all."
+        }
+      },
+      "details": {
+        "title": "MEGACHESS",
+        "description": "============CHECK OUT OUR STEAM PAGE HERE !!! ================Wishlist the game on Steam now! https://store.steampowered.com/app/3645080/MEGACHESS/And check out our Discord and be notified when a playtest and a demo is out! https://discord.com/invite/gbVKNwnTWG\n\n============================================================This is the game jam / alpha version of Megachess. The new game has a completely new art direction, sound, and gameplay! Check it out on Steam!============================================================The king is Dead. Long Live the king ! \n\nMEGACHESS is a chess-based roguelike dungeon crawler. Dive across 3 areas with more than a 40 hand crafted levels, and conquer the dungeon with 7 different classes and their unique ability. \nDive fast and gather gold for sacrifices, or play carefully and capture powerful units to improve your army, in order to defeat the forgotten Black King.\n\nAlso come with unique pieces, buffs and effects, powerful passives....\n\n\n    \nCredits \ngorglomux - Everything - except sounds and music\nMusic :\n'The Long Dark' by Scott Buckley - released under CC-BY 4.0. www.scottbuckley.com.au\n\nAction drums by Ashenrise on pixabay -https://pixabay.com/music/build-up-scenes-action-drums-2-154692/\nWar drums - Amaski : https://pixabay.com/music/build-up-scenes-war-drums-173853/\nKarl Casey @ White Bat Audio -  https://www.youtube.com/watch?v=oORJz5HxRpA&list=PLLEnbi5KRv6Z8CMUtLiA81-wQCLVUOKYs&index=9\n  Sounds :\n\nImpacts_Splatter_Pineapple_001.wav - https://freesound.org/people/duckduckpony/sounds/204026/\n\ntap-vocal by Octave Ui Sounds\nhttps://freesound.org/people/0megaMan/sounds/561077/\nhttps://freesound.org/people/newlocknew/sounds/497206/\nhttps://freesound.org/people/slimdog/sounds/392357/\nhttps://freesound.org/people/mh2o/sounds/351518/\nhttps://freesound.org/people/klankbeeld/sounds/212943/\nFonts : \nRockboxcond12 by frizznickrz\nHabbo by Omni\nThickPixels by PetterBergmar\nMade for the Acerola Game Jam 0 !\nGithub link: \nhttps://github.com/Gorglomux/Megachess\nA massive thank you to everyone playtesting and that have supported me through the 2 weeks !\n\n\nJam version, full version coming in the future !\nJoin us on Discord if you want to talk about the game, get some news, and know when the game is released!\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjU2NTkzOS8xNTM0MzkxNi5wbmc=/original/AnD3Zb.png",
+          "https://img.itch.zone/aW1hZ2UvMjU2NTkzOS8xNTM0Mzk2Ni5naWY=/original/e441OU.gif",
+          "https://img.itch.zone/aW1hZ2UvMjU2NTkzOS8xNTM0Mzk4Ni5wbmc=/original/ibKdtn.png",
+          "https://img.itch.zone/aW1hZ2UvMjU2NTkzOS8xNTM2NjQ1NC5wbmc=/original/XM0KZ5.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.7 out of 5 stars(21 total ratings)",
+          "Author": "Gorglomux",
+          "Genre": "Strategy, Puzzle",
+          "Tags": "2D, Chess, Pixel Art, Roguelike, Top-Down"
+        }
+      }
+    },
+    {
+      "gameId": 2583062,
+      "gameUrl": "https://uberchurch1.itch.io/the-color-of-the-room",
+      "overallRank": 5,
+      "topCategories": [
+        "Gameplay",
+        "Originality"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1Mzc5Mjk2LnBuZw==/300x240%23c/%2BdvKSC.png",
+        "url": "https://itch.io/jam/acerola-jam-0/rate/2583062",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 4.3333333333333,
+            "rank": 12,
+            "raw_score": 4.3333333333333
+          },
+          {
+            "name": "Presentation",
+            "score": 4.6111111111111,
+            "rank": 33,
+            "raw_score": 4.6111111111111
+          },
+          {
+            "name": "Originality",
+            "score": 4.6944444444444,
+            "rank": 9,
+            "raw_score": 4.6944444444444
+          }
+        ],
+        "raw_score": 4.5462962962963,
+        "rating_count": 36,
+        "id": 2583062,
+        "title": "The Color of The Room",
+        "score": 4.5462962962963,
+        "rank": 5,
+        "contributors": [
+          {
+            "name": "Uberchurch",
+            "id": 2670565
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 36,
+        "coolness": 24,
+        "url": "/jam/acerola-jam-0/rate/2583062",
+        "created_at": "2024-03-14 06:10:40",
+        "id": 517103,
+        "game": {
+          "short_text": "A retro shroomer-shooter.",
+          "cover": "https://img.itch.zone/aW1nLzE1Mzc5Mjk2LnBuZw==/300x240%23c/%2BdvKSC.png",
+          "user": {
+            "name": "Uberchurch",
+            "url": "https://uberchurch1.itch.io",
+            "id": 2670565
+          },
+          "url": "https://uberchurch1.itch.io/the-color-of-the-room",
+          "id": 2583062,
+          "title": "The Color of The Room",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#6f2a27"
+        }
+      },
+      "details": {
+        "title": "The Color of The Room",
+        "description": "'You wake up to a quiet house, walk downstairs and find the table already set for breakfast. An omelet sits at the head of the table, your partner must have made it. You sit down and look at the omelet stuffed with cheese, onions, peppers, and mushrooms. You weren't the biggest fan of mushrooms, but you ate the omelet anyways, because you were hungry. However, when you looked up from the table something was wrong. It was...'\nThe Color of The Room is a retro Doom-like shooter where you have to split your time between two dimensions all fit within one room. Neither room is safe from the mushrooms. You have to manage your spores which act as ammo, health, and currency while you catch baby mushrooms and consume them to unlock their room bending effects.\nControls:\nw,a,s,d = move\nRight Mouse Button = Shoot (consumes spores)\nLeft Mouse Button = Seek through other rooms (consumes spores)\nSpace = Melee (heals you)\nShift = Heal (consumes spores)\nE = Eat Baby Mushroom\nTab/Escape = Pause Menu\nCredits:\nGame by Gulliver Brower\nVoices by: Kevin Malone, Kevin Peters, Harry Hobler\n\nSongs by Siamese Goldfish: The Color of the Room, Brother Bring Me Near, Ove all from the Portrait With Oranges album\nSpecial Thanks:\nEisen Brower, Aidan Hobler, and everyone else (you know who you are and you don't need an ego boost)Unzip the folder and run the 'Color-of-The-Room.exe' file\nGitHub Repo",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjU4MzA2Mi8xNTM3ODE3Ni5wbmc=/original/nCt4PN.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MzA2Mi8xNTM3ODE3NS5wbmc=/original/xjMO7p.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MzA2Mi8xNTM3ODE3Ny5wbmc=/original/puHxBM.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MzA2Mi8xNTM3ODIxMi5wbmc=/original/YyVAIA.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MzA2Mi8xNTM3ODIxMS5wbmc=/original/S1sSiN.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Uberchurch",
+          "Genre": "Shooter, Action",
+          "Made with": "Unity, Aseprite, Adobe Photoshop, Audacity",
+          "Tags": "3D, Atmospheric, First-Person, Music, Pixel Art, Retro, Shoot 'Em Up, Short, Singleplayer",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 2583180,
+      "gameUrl": "https://bumbleborn.itch.io/echo-comet-coast",
+      "overallRank": 11,
+      "topCategories": [
+        "Gameplay",
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1NDA2NjExLmdpZg==/300x240%23c/FnfveV.gif",
+        "url": "https://itch.io/jam/acerola-jam-0/rate/2583180",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 4.3333333333333,
+            "rank": 12,
+            "raw_score": 4.3333333333333
+          },
+          {
+            "name": "Presentation",
+            "score": 4.8148148148148,
+            "rank": 7,
+            "raw_score": 4.8148148148148
+          },
+          {
+            "name": "Originality",
+            "score": 4,
+            "rank": 118,
+            "raw_score": 4
+          }
+        ],
+        "raw_score": 4.3827160493827,
+        "rating_count": 27,
+        "id": 2583180,
+        "title": "Echo: Comet Coast (Jam Version)",
+        "score": 4.3827160493827,
+        "rank": 11,
+        "contributors": [
+          {
+            "name": "bumbleborn",
+            "id": 2367482
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 27,
+        "coolness": 10,
+        "url": "/jam/acerola-jam-0/rate/2583180",
+        "created_at": "2024-03-14 06:11:23",
+        "id": 517104,
+        "game": {
+          "short_text": "Farming Adventure game where the crops are a little weird.",
+          "url": "https://bumbleborn.itch.io/echo-comet-coast",
+          "user": {
+            "name": "bumbleborn",
+            "url": "https://bumbleborn.itch.io",
+            "id": 2367482
+          },
+          "id": 2583180,
+          "gif_cover": "https://img.itch.zone/aW1nLzE1NDA2NjExLmdpZg==/original/ZpZ4oT.gif",
+          "title": "Echo: Comet Coast (Jam Version)",
+          "cover": "https://img.itch.zone/aW1nLzE1NDA2NjExLmdpZg==/300x240%23c/FnfveV.gif",
+          "cover_color": "#4b68da"
+        }
+      },
+      "details": {
+        "title": "Echo: Comet Coast (Jam Version)",
+        "description": "I'm making a full version of Echo: Comet Coast in 2025, there's a tiny Kickstarter if you're interested, pre-launch page is here\nEcho: Comet Coast  (Jam Version) is a mix of Link's Awakening and Stardew Valley, It's a classic top-down Zelda experience where your key items are also crops you have to farm.\nYou awake on a mysterious island filled with colourful characters, dark forces have taken a special fruit from Mt Comet causing harvests to succumb to the Blight, crops that have been harmless for so long are starting to become monsters!You must embark on a quest to restore the Blissum Fruit to the summit and bring hope to the island once more.\nFeatures:\n10 crops to grow with several of them having special abilities, like the Grokey being used to unlock doors and the Bombshoot blowing things up!A dungeon with a few puzzles.Several small quest-like activities to complete.Roughly 1 hr of gameplay.\nThere's a controls page on the beach but interacting with it requires knowing the interact button (completely my fault!)\nControls\nGamepadMove - Left Stick / D pad\nInteract - A / Y\nUse Selected Item - B / X\nToolbar Move - LB , RB\nPause Menu - Start\n\nKeyboardMove - W,A,S,DInteract - K / ZUse Selected Item - J / XToolbar Move - Q , EPause Menu - Esc / Tab\nCredits: Almost everything was made by me in the space of 2 weeks except for the fonts; The fonts were found on fontstruct, the Link's Awakening one is here, the 3x5 one is here\nThank you so much for checking it out!It's a zipped unity game, so unzip and open the executable.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjU4MzE4MC8xNTQwNzYyNS5naWY=/original/NhZwjh.gif",
+          "https://img.itch.zone/aW1hZ2UvMjU4MzE4MC8xNTM3ODI4NS5wbmc=/original/2j73nD.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MzE4MC8xNTM3ODI4Ni5wbmc=/original/0Tqqqe.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MzE4MC8xNTM3ODI4NC5wbmc=/original/insORM.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MzE4MC8xNTM3ODI4Ny5wbmc=/original/I20h%2Bc.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Author": "bumbleborn",
+          "Genre": "Adventure, Puzzle",
+          "Tags": "Farming, Top-Down, Top Down Adventure"
+        }
+      }
+    },
+    {
+      "gameId": 2571290,
+      "gameUrl": "https://grippus.itch.io/block-jockey",
+      "overallRank": 28,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1Mzc4MjU5LnBuZw==/300x240%23c/mjKwQ7.png",
+        "url": "https://itch.io/jam/acerola-jam-0/rate/2571290",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 4.3333333333333,
+            "rank": 12,
+            "raw_score": 4.3333333333333
+          },
+          {
+            "name": "Presentation",
+            "score": 4.4666666666667,
+            "rank": 63,
+            "raw_score": 4.4666666666667
+          },
+          {
+            "name": "Originality",
+            "score": 4.0666666666667,
+            "rank": 106,
+            "raw_score": 4.0666666666667
+          }
+        ],
+        "raw_score": 4.2888888888889,
+        "rating_count": 15,
+        "id": 2571290,
+        "title": "Block Jockey",
+        "score": 4.2888888888889,
+        "rank": 28,
+        "contributors": [
+          {
+            "name": "grippus",
+            "id": 1885655
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 15,
+        "coolness": 11,
+        "url": "/jam/acerola-jam-0/rate/2571290",
+        "created_at": "2024-03-14 06:14:30",
+        "id": 517108,
+        "game": {
+          "short_text": "Things aren't right. Your job is to put them back together.",
+          "cover": "https://img.itch.zone/aW1nLzE1Mzc4MjU5LnBuZw==/300x240%23c/mjKwQ7.png",
+          "user": {
+            "name": "grippus",
+            "url": "https://grippus.itch.io",
+            "id": 1885655
+          },
+          "url": "https://grippus.itch.io/block-jockey",
+          "id": 2571290,
+          "title": "Block Jockey",
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#0f160f"
+        }
+      },
+      "details": {
+        "title": "Block Jockey",
+        "description": "The data is not ok. You need to fix it.\nPrepare to experience the thrills of the best desk job at... wherever the hell this is.\n---\nContent Warning: Some flashing lights.\n---\nBugs / Notes:\nShortcut labels are not loading correctly for most of the buttons.\nShape tools: Q W EAction Tools: A S\nYou can reset your save in the menu if you run into any progress-related bugs.\nUnfortunately because this game was built in Godot 4, the web build on Mac is unlikely to work. If you're willing to try, sometimes it loads after a long time (if using a Chromium browser).\n---\nCredits:\nKeyboard SFX: https://filmcow.itch.io/\nFont: https://www.pentacom.jp/pentacom/bitfontmaker2/gallery/?id=383Game runs in fullscreen on Windows. There are no in-game resolution/display options, sorry!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjU3MTI5MC8xNTM5NDQwOS5wbmc=/original/%2BWKSsD.png",
+          "https://img.itch.zone/aW1hZ2UvMjU3MTI5MC8xNTM5NDQwOC5wbmc=/original/7iHLE7.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Author": "grippus",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "Creepy, Dark, Funny, Godot, Horror, Pixel Art, Retro"
+        }
+      }
+    },
+    {
+      "gameId": 2583240,
+      "gameUrl": "https://eldskald.itch.io/anger-issues",
+      "overallRank": 56,
+      "topCategories": [
+        "Gameplay"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1MzkwMTk3LnBuZw==/300x240%23c/yfnrY%2F.png",
+        "url": "https://itch.io/jam/acerola-jam-0/rate/2583240",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 4.3333333333333,
+            "rank": 12,
+            "raw_score": 4.3333333333333
+          },
+          {
+            "name": "Presentation",
+            "score": 3.9444444444444,
+            "rank": 179,
+            "raw_score": 3.9444444444444
+          },
+          {
+            "name": "Originality",
+            "score": 4.1111111111111,
+            "rank": 97,
+            "raw_score": 4.1111111111111
+          }
+        ],
+        "raw_score": 4.1296296296296,
+        "rating_count": 18,
+        "id": 2583240,
+        "title": "Anger Issues",
+        "score": 4.1296296296296,
+        "rank": 56,
+        "contributors": [
+          {
+            "name": "Rafael Bordoni",
+            "id": 1718771
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 18,
+        "coolness": 31,
+        "url": "/jam/acerola-jam-0/rate/2583240",
+        "created_at": "2024-03-14 06:26:46",
+        "id": 517126,
+        "game": {
+          "short_text": "A platformer with no jump? Absurd!",
+          "cover": "https://img.itch.zone/aW1nLzE1MzkwMTk3LnBuZw==/300x240%23c/yfnrY%2F.png",
+          "user": {
+            "name": "Rafael Bordoni",
+            "url": "https://eldskald.itch.io",
+            "id": 1718771
+          },
+          "url": "https://eldskald.itch.io/anger-issues",
+          "id": 2583240,
+          "title": "Anger Issues",
+          "platforms": [
+            "windows",
+            "linux",
+            "web"
+          ],
+          "cover_color": "#000000"
+        }
+      },
+      "details": {
+        "title": "Anger Issues",
+        "description": "It's a platformer with no jump button! Heresy, you think? Doesn't make sense? An aberration? Well I say screw the rules! I'm just as mad as the goblin protagonist you play in this game, and just as angry!!! A game submitted to the Acerola Jam 0, where the theme is aberration.\nThis game is about anger, explosions, madness, recklessness and intensity! You play as a very intense and angry goblin that can't walk. He's on a wheelchair but he doesn't need functioning legs to jump and run around. In fact, he can fly higher than any Italian plumber or blue hedgehog you might have heard of! Wanna see how he does it? Play the game!\nIt's filled to the brim with bombs, explosions, intense music and quotes about anger and channeling your emotions for good. It can get pretty challenging too, with tough platforming and even puzzles, in a sense. But what's important is that it's super fun!\n\nAs in the spirit of Acerola Jam 0 and mine own and pretty much every software I used to make this game, it's free and open source! You can see the repository here.\nThe game was made with the Godot engine and is licensed under MIT for its code and CC0 for its assets. I made all the assets except for the music and the font, but the music is also CC0, made by Juhani Junkala while the font is CC BY-ND 2.5, made by Nikos Giannakopoulos.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjU4MzI0MC8xNTM5MDIwMC5wbmc=/original/zAbYKE.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MzI0MC8xNTM5MDIwMy5wbmc=/original/aeaCL%2F.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MzI0MC8xNTM5MDIwOC5wbmc=/original/SjZnM6.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MzI0MC8xNTM5MDIxMS5wbmc=/original/VIfrLN.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MzI0MC8xNTM5MDIxNi5wbmc=/original/AO4xms.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MzI0MC8xNTM5MDIxOC5wbmc=/original/qzl%2BNp.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, Linux",
+          "Author": "Rafael Bordoni",
+          "Genre": "Platformer, Action",
+          "Made with": "Godot",
+          "Tags": "2D, Explosions, Puzzle-Platformer"
+        }
+      }
+    },
+    {
+      "gameId": 2580304,
+      "gameUrl": "https://pixyph.itch.io/lamb",
+      "overallRank": 22,
+      "topCategories": [
+        "Presentation",
+        "Originality"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1MzU5NDA0LnBuZw==/300x240%23c/0KXORw.png",
+        "url": "https://itch.io/jam/acerola-jam-0/rate/2580304",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 3.3,
+            "rank": 215,
+            "raw_score": 3.3
+          },
+          {
+            "name": "Originality",
+            "score": 4.7,
+            "rank": 8,
+            "raw_score": 4.7
+          },
+          {
+            "name": "Presentation",
+            "score": 5,
+            "rank": 1,
+            "raw_score": 5
+          }
+        ],
+        "raw_score": 4.3333333333333,
+        "rating_count": 10,
+        "id": 2580304,
+        "title": "Lamb",
+        "score": 4.3333333333333,
+        "rank": 22,
+        "contributors": [
+          {
+            "name": "Ramiro Almeida Basso",
+            "id": 1544632
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 10,
+        "coolness": 4,
+        "url": "/jam/acerola-jam-0/rate/2580304",
+        "created_at": "2024-03-13 14:30:26",
+        "id": 516385,
+        "game": {
+          "short_text": "You're living a normal day like always... but what if it isn't as normal as you think?",
+          "user": {
+            "name": "Ramiro Almeida Basso",
+            "url": "https://pixyph.itch.io",
+            "id": 1544632
+          },
+          "id": 2580304,
+          "url": "https://pixyph.itch.io/lamb",
+          "title": "Lamb",
+          "cover": "https://img.itch.zone/aW1nLzE1MzU5NDA0LnBuZw==/300x240%23c/0KXORw.png",
+          "cover_color": "#000000"
+        }
+      },
+      "details": {
+        "title": "Lamb",
+        "description": "Just go to work.\nLamb is a first person text adventure game where you just woke up and is headed to work. You could just pick up your keys and leave the apartment, but is that really the right decision?\nText Based Gameplay\nMost of the game's content is based on inspecting your surroundings and checking the different events that happen occasionally. Sometimes you might need to choose something, so be always prepared to write something as well.\nFirst Person\nEven though most of the game is text-based, you can explore your entire apartment in first person. Walk around and get to know your environment.\nVisual Style\nThe game mimics old ASCII-based text adventure games, everything is rendered in the game's own font. Think of this game as a homage to the old times while also giving it some modern glow-ups.\n********************************************************************************************\nSubmission to Acerola Jam 0\nThe game was made for the Acerola Jam 0. I'm a big fan of Acerola's Channel and when I heard that the game was supposed to be worked on alone I couldn't pass the oportunity. Everything in the game was made by myself: 3D, 2D, Font, Audio, Programming. I worked hard for this submission and I hope you guys enjoy it!\nTHE GAME IS OUT!!!\nI hope you guys enjoy this short horror experience!\nDISCLAIMER\nAfter watching DuccW's stream playing my game it came to my attention how I goofed up the typing system. Mostly it was because I left it to be the last implemented system and didn't give it enough polish / thought. I want you guys to appreciate my game and not be frustrated by it, so here are a few tips on how to play while I work on a walkthrough:\n\"Take Item\" is a good approach when prompted to grab / take / \"would you like to get...\" etc.\nTyping the name of the object in question is the best way to select choices in the game. Eg.: \"Knife\" for \"You could take a knife with you...\", etc.\nYou are trying to stop a ritual, so pay attention to what is happening and try to find the things that might be involved with it. Most of the time burning and destroying are good ways of getting rid of rituals.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjU4MDMwNC8xNTM1OTUyMi5wbmc=/original/A1bMjw.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MDMwNC8xNTM1OTUyMS5wbmc=/original/yOwi4s.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MDMwNC8xNTM1OTUyMy5wbmc=/original/qVh1MP.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MDMwNC8xNTM1OTUyNC5wbmc=/original/RPwFTD.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MDMwNC8xNTM1OTUyNS5wbmc=/original/fCKmAf.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Rating": "Rated 4.7 out of 5 stars(3 total ratings)",
+          "Author": "Ramiro Almeida Basso",
+          "Tags": "3D, ascii, Godot, Horror, Text based"
+        }
+      }
+    },
+    {
+      "gameId": 2582893,
+      "gameUrl": "https://bigmorpo.itch.io/rabe",
+      "overallRank": 12,
+      "topCategories": [
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1Mzc2NjA1LnBuZw==/300x240%23c/ytvGp5.png",
+        "url": "https://itch.io/jam/acerola-jam-0/rate/2582893",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 3.6666666666667,
+            "rank": 115,
+            "raw_score": 3.6666666666667
+          },
+          {
+            "name": "Presentation",
+            "score": 4.952380952381,
+            "rank": 2,
+            "raw_score": 4.952380952381
+          },
+          {
+            "name": "Originality",
+            "score": 4.5238095238095,
+            "rank": 27,
+            "raw_score": 4.5238095238095
+          }
+        ],
+        "raw_score": 4.3809523809524,
+        "rating_count": 21,
+        "id": 2582893,
+        "title": "R.A.B.E",
+        "score": 4.3809523809524,
+        "rank": 12,
+        "contributors": [
+          {
+            "name": "BigMorgo",
+            "id": 10192866
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 21,
+        "coolness": 46,
+        "url": "/jam/acerola-jam-0/rate/2582893",
+        "created_at": "2024-03-14 06:18:05",
+        "id": 517115,
+        "game": {
+          "short_text": "An industrial potion mixing game.",
+          "user": {
+            "name": "BigMorgo",
+            "url": "https://bigmorpo.itch.io",
+            "id": 10192866
+          },
+          "id": 2582893,
+          "url": "https://bigmorpo.itch.io/rabe",
+          "title": "R.A.B.E",
+          "cover": "https://img.itch.zone/aW1nLzE1Mzc2NjA1LnBuZw==/300x240%23c/ytvGp5.png",
+          "cover_color": "#031008"
+        }
+      },
+      "details": {
+        "title": "R.A.B.E",
+        "description": "R.A.B.E. is a simple potion mixing game based in a dark, industrial world. You are Employee-1225, a prisoner $120,000 in debt who must work for a faceless company to remove strange aberrations from their \"products.\" Handcuffed to your station, it seems there is no way escape from your grim fate... Or is there?\n\nContent warning for red flashing lights and trypophobia",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjU4Mjg5My8xNTM3NjYwOC5qcGc=/original/P6p095.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjU4Mjg5My8xNTM3NjYwOS5qcGc=/original/UvbsJF.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjU4Mjg5My8xNTM3NjYxMC5qcGc=/original/K1hPDX.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "BigMorgo",
+          "Genre": "Puzzle",
+          "Tags": "2D, aberration, acerola-game-jam, Dark, Dark Humor, Horror, Monsters, satire"
+        }
+      }
+    },
+    {
+      "gameId": 2567539,
+      "gameUrl": "https://mettaseven.itch.io/abby-rayshine",
+      "overallRank": 57,
+      "topCategories": [
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1MjgyMzU5LnBuZw==/300x240%23c/5%2Bjn0R.png",
+        "url": "https://itch.io/jam/acerola-jam-0/rate/2567539",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 3.2727272727273,
+            "rank": 237,
+            "raw_score": 3.2727272727273
+          },
+          {
+            "name": "Presentation",
+            "score": 4.9090909090909,
+            "rank": 3,
+            "raw_score": 4.9090909090909
+          },
+          {
+            "name": "Judge's Choice",
+            "score": 0,
+            "rank": 2,
+            "raw_score": 0
+          },
+          {
+            "name": "Originality",
+            "score": 4.1818181818182,
+            "rank": 82,
+            "raw_score": 4.1818181818182
+          }
+        ],
+        "raw_score": 4.1212121212121,
+        "rating_count": 22,
+        "id": 2567539,
+        "title": "ABBY RAYSHINE",
+        "score": 4.1212121212121,
+        "rank": 57,
+        "contributors": [
+          {
+            "name": "sevdoesgames",
+            "id": 3943626
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 22,
+        "coolness": 9,
+        "url": "/jam/acerola-jam-0/rate/2567539",
+        "created_at": "2024-03-11 08:12:50",
+        "id": 515269,
+        "game": {
+          "short_text": "Kill Ghosts or Something",
+          "cover": "https://img.itch.zone/aW1nLzE1MjgyMzU5LnBuZw==/300x240%23c/5%2Bjn0R.png",
+          "user": {
+            "name": "sevdoesgames",
+            "url": "https://mettaseven.itch.io",
+            "id": 3943626
+          },
+          "url": "https://mettaseven.itch.io/abby-rayshine",
+          "id": 2567539,
+          "title": "ABBY RAYSHINE",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#191919"
+        }
+      },
+      "details": {
+        "title": "ABBY RAYSHINE",
+        "description": "Abby Rayshine (Ab - bee - Ray - shin) is just an ordinary high school girl. Well, except for the fact that she secretly fights ghosts with her psychic powers. One day however, the ghosts come to her and begin haunting her school! Normally she would just exorcise them all, but she can't do that while all her friends are watching, that would be so embarrassing! Help her find items and solve puzzles in order to clear the school so she can kill those dang ghosts in peace.\n\nThis game was made for Acerola's Acerola Jam 0. The main theme of the jam was the word \"aberration\", thus, Abby Rayshine, a girl who is afraid of being seen as an aberration. She also fights apparitions, which isn't the same word but it sounds kinda similar idk.Also apparently I need a Github version of this game so here you go.CONTROLSA - Move leftD - Move RightZ - Interact/ConfirmX - Menu/CancelSHIFT - SprintNEVER PRESS S(if you do press W or else you'll move very slowly)\n\nCHARACTERS\nAbby Rayshine\na anxiety ridden girl who is prone to anger due to her nature as a psychic. She comes from a long line of ghost hunters, which is, in her words, \"so lame\". Because of this, she has attempted to keep her powers hidden from her peers, though she just can't help but exorcise a ghost whenever she comes across one. Good thing only she and her weird family can see ghosts.\nAmy Stake\nAbby's best friend for life, though she is a bit of an empty-headed girl. Though she has witness Abby's escapades numerous times, she always shrugs it off as Abby having a panic attack (which isn't entirely incorrect). \nBrickford Walle\nBrickford is the coolest kid in school, at least in his opinion. He wears shades indoors and gets detention on purpose, all in the name of fighting back against the system. He listens to a lot of Radio Head.\nJustin Case\nThe classic nerd of the school, Justin is a guy who just LOVES to learn (obnoxiously). He'll often stand near other groups of students and wait for them to talk about something remotely related to math or science so he can interject with a fun fact. He's also running for class president, I hope he wins.\nArby Gene Baker\nMuch like Justin, Arby is an unapologetic nerd. However, his interests align more with indie games and niche SoundCloud artists. When he isn't socially reclusive, he'll try to share his favorite video game soundtracks with people, though he is often ignored as the types of videos games that he likes are not very mainstream, leaving him to feel like he is all alone in the world. What a dork.\nMike Hawkinsbig\nMike is the most handsome, beautiful, pretty, gorgeous, charismatic, enchanting, fascinating, interesting, attractive, alluring, charming, appealing, exquisite, radiant, and stunning guy in the whole world. Man, I wish I was that guy.\n Ophelia Pane\nShe, uh, I didn't really think much about this character I don't have anything funny to say.\nEmma Roid\nThe captain of the cheerleading squad. She is also the only member of the cheerleading squad. Nobody likes her.\nLon Moore\nIsn't in the game.\n\nGAME FEATURES\n~20 minutes of gameplay\nWalking (to the left AND right)\nPoorly written dialogue\nMusic that doesn't fit the tone\nGhost murder\n\nCREDITS\nAll music, art, and programing done by me.\nALSO credit to SideMV's RPGmaker side scroller tutorials, without that I wouldn't have been able to figure any of this out.\nYou know what, shoutout to SomeRanDev's RPGmaker tutorials as well, wouldn't know how to use the engine in the first place without that.\nShoutout to my dog too, he a real one.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjU2NzUzOS8xNTMzNTk2Mi5wbmc=/original/SDImUV.png",
+          "https://img.itch.zone/aW1hZ2UvMjU2NzUzOS8xNTMzNTk2NS5wbmc=/original/VFhd6T.png",
+          "https://img.itch.zone/aW1hZ2UvMjU2NzUzOS8xNTMzNTk2NC5wbmc=/original/vhBH1p.png",
+          "https://img.itch.zone/aW1hZ2UvMjU2NzUzOS8xNTMzNTk2My5wbmc=/original/ZWgNDC.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "sevdoesgames",
+          "Genre": "Puzzle",
+          "Tags": "2D, RPG Maker, Side Scroller"
+        }
+      }
+    },
+    {
+      "gameId": 2583244,
+      "gameUrl": "https://kasdf.itch.io/geometric-dreams",
+      "overallRank": 18,
+      "topCategories": [
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1NDEwMzE5LnBuZw==/300x240%23c/AREBGq.png",
+        "url": "https://itch.io/jam/acerola-jam-0/rate/2583244",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 3.7115384615385,
+            "rank": 102,
+            "raw_score": 3.7115384615385
+          },
+          {
+            "name": "Presentation",
+            "score": 4.8269230769231,
+            "rank": 5,
+            "raw_score": 4.8269230769231
+          },
+          {
+            "name": "Originality",
+            "score": 4.5,
+            "rank": 28,
+            "raw_score": 4.5
+          }
+        ],
+        "raw_score": 4.3461538461538,
+        "rating_count": 52,
+        "id": 2583244,
+        "title": "Geometric Dreams",
+        "score": 4.3461538461538,
+        "rank": 18,
+        "contributors": [
+          {
+            "name": "kasdf",
+            "id": 5057883
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 52,
+        "coolness": 125,
+        "url": "/jam/acerola-jam-0/rate/2583244",
+        "created_at": "2024-03-14 06:28:06",
+        "id": 517132,
+        "game": {
+          "short_text": "an atmospheric 3D platformer with raymarched visuals (Acerola Jam 0: Aberration)",
+          "cover": "https://img.itch.zone/aW1nLzE1NDEwMzE5LnBuZw==/300x240%23c/AREBGq.png",
+          "user": {
+            "name": "kasdf",
+            "url": "https://kasdf.itch.io",
+            "id": 5057883
+          },
+          "url": "https://kasdf.itch.io/geometric-dreams",
+          "id": 2583244,
+          "title": "Geometric Dreams",
+          "platforms": [
+            "windows",
+            "linux"
+          ],
+          "cover_color": "#e5e5e5"
+        }
+      },
+      "details": {
+        "title": "Geometric Dreams",
+        "description": "a short atmospheric 3D platformer made for Acerola Jam 0: \"aberration\".my take on the theme was \"geometric aberration\".\nattributions\nI used Godot to make the game, and jfxr to make the sound effects. for the visuals, I used some raymarching maths by Inigo Quilez. the font is Poiret One (OFL). all the music is by ChristmasKrumble666 (CC0):\n\n\t60s is Skies (2022)\n\tMonster Chords (2023)\n\tScary noise in C followed by silence (2023)\n\tTime Advantage (2022)\n\tCold Ambient BGM (Extended) (2023)\n\tMysterious voices (2021)\n\nperformance\nthis game uses real-time raymarching, which is pretty expensive. if you're having performance issues, please try adjusting the graphics options.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjU4MzI0NC8xNTM5NjA1Ni5wbmc=/original/UpSIH6.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MzI0NC8xNTM5NjA1Ny5wbmc=/original/2TFIpf.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MzI0NC8xNTM5NjA1NS5wbmc=/original/jpJjYm.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, Linux",
+          "Author": "kasdf",
+          "Genre": "Platformer",
+          "Made with": "Godot",
+          "Tags": "3D, Atmospheric, Godot, Minimalist, Short, Singleplayer, Surreal",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Gamepad (any)"
+        }
+      }
+    },
+    {
+      "gameId": 2582914,
+      "gameUrl": "https://jahju.itch.io/ooblek",
+      "overallRank": 46,
+      "topCategories": [
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzI1ODE2Njc1LnBuZw==/300x240%23c/vkaPL2.png",
+        "url": "https://itch.io/jam/acerola-jam-0/rate/2582914",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 3.6935483870968,
+            "rank": 110,
+            "raw_score": 3.6935483870968
+          },
+          {
+            "name": "Presentation",
+            "score": 4.8225806451613,
+            "rank": 6,
+            "raw_score": 4.8225806451613
+          },
+          {
+            "name": "Originality",
+            "score": 3.9838709677419,
+            "rank": 132,
+            "raw_score": 3.9838709677419
+          }
+        ],
+        "raw_score": 4.1666666666667,
+        "rating_count": 62,
+        "id": 2582914,
+        "title": "Ooblek",
+        "score": 4.1666666666667,
+        "rank": 46,
+        "contributors": [
+          {
+            "name": "Jahju",
+            "id": 9927965
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 62,
+        "coolness": 16,
+        "url": "/jam/acerola-jam-0/rate/2582914",
+        "created_at": "2024-03-14 05:51:35",
+        "id": 517057,
+        "game": {
+          "short_text": "3D Platformer Where you try not to drown.",
+          "cover": "https://img.itch.zone/aW1nLzI1ODE2Njc1LnBuZw==/300x240%23c/vkaPL2.png",
+          "user": {
+            "name": "Jahju",
+            "url": "https://jahju.itch.io",
+            "id": 9927965
+          },
+          "url": "https://jahju.itch.io/ooblek",
+          "id": 2582914,
+          "title": "Ooblek",
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#ffffff"
+        }
+      },
+      "details": {
+        "title": "Ooblek",
+        "description": "Controls           Keyboard   WASD  +  Spacebar         /        Controller   Joystick  +  A\nPlease Download Ooblek for the best experience\nmade in 2 weeks for a game jam with the theme: Aberration \n\nCREDITS\n\nElijah Judge - Creator\n\n~ Royalty Free Music From Artlist ~\n\nLuc Allieres - La Bella Cafe\nVeaceslav Draganov - Alien\nTilman Sillescu - Courage and Strength\nSouthside Aces - Zutty Charges In\nKyle Preston - The Summoning\nCrosstown Traffic - Pretty Thing",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjU4MjkxNC8xNTM3Njc0OS5wbmc=/original/137%2BHQ.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MjkxNC8xNTM3Njc1Mi5wbmc=/original/49DF5a.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MjkxNC8xNTM3Njc1Ni5wbmc=/original/2gWTIS.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MjkxNC8xNTM3Njc1OS5wbmc=/original/Kb7DdN.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MjkxNC8xNTM3Njc2My5wbmc=/original/FW4vgL.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MjkxNC8xNTM3Njc2NS5wbmc=/original/muTd2o.png"
+        ],
+        "moreInfo": {
+          "Updated": "12 days ago",
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "Jahju",
+          "Genre": "Adventure",
+          "Made with": "Unity",
+          "Tags": "3D Platformer, Cute, oobleck"
+        }
+      }
+    },
+    {
+      "gameId": 2582156,
+      "gameUrl": "https://qer24.itch.io/echo",
+      "overallRank": 43,
+      "topCategories": [
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1NDAzNTI4LnBuZw==/300x240%23c/K0YZdc.png",
+        "url": "https://itch.io/jam/acerola-jam-0/rate/2582156",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 3.7142857142857,
+            "rank": 101,
+            "raw_score": 3.7142857142857
+          },
+          {
+            "name": "Presentation",
+            "score": 4.8095238095238,
+            "rank": 8,
+            "raw_score": 4.8095238095238
+          },
+          {
+            "name": "Originality",
+            "score": 4.047619047619,
+            "rank": 112,
+            "raw_score": 4.047619047619
+          }
+        ],
+        "raw_score": 4.1904761904762,
+        "rating_count": 21,
+        "id": 2582156,
+        "title": "Echo: First Location",
+        "score": 4.1904761904762,
+        "rank": 43,
+        "contributors": [
+          {
+            "name": "Arcy",
+            "id": 1723673
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 21,
+        "coolness": 21,
+        "url": "/jam/acerola-jam-0/rate/2582156",
+        "created_at": "2024-03-14 01:26:43",
+        "id": 516746,
+        "game": {
+          "short_text": "Uncover the secrets of the Complex.",
+          "cover": "https://img.itch.zone/aW1nLzE1NDAzNTI4LnBuZw==/300x240%23c/K0YZdc.png",
+          "user": {
+            "name": "Arcy",
+            "url": "https://qer24.itch.io",
+            "id": 1723673
+          },
+          "url": "https://qer24.itch.io/echo",
+          "id": 2582156,
+          "title": "Echo: First Location",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ],
+          "cover_color": "#0a0b14"
+        }
+      },
+      "details": {
+        "title": "Echo: First Location",
+        "description": "Echo is a first-person horror that lets you explore an abandoned nuclear facility. The Complex is situtated deep underground which makes even the manmade lights useless. You have been equipped with an echolocation device which lets you see in the pitch dark and were tasked with restoring the Reactor to full power.\nMade solo for Acerola Jam 0 in 14 days.\nControls:\nWASD - MoveLeft Mouse/E - interactShift - Sprint\n\n    Security Code Hint\n    The code is on the main floor, you should look carefully at the walls in rooms. Also there's two possible locations for the code.\n\n\nCredits: \n\"Wendigo\" (https://skfb.ly/HCZ7) by DannyAg \n\"Metal Door\" (https://skfb.ly/6TGru) by Shedmon \n\"Isolation Reactor\" (https://skfb.ly/6rNqs) by glewindesign \n\"Electronic panel\" (https://skfb.ly/6UrVs) by aksinia0987 \n\"Key with Tag\" (https://skfb.ly/oAqSG) by AxonDesigns\n \"Cassette Player Low Poly\" (https://skfb.ly/69QwU) by Evan \n\"Keypad\" (https://skfb.ly/6FV6v) by Spellkaze \n\"Pipe Wrench\" (https://skfb.ly/6rqER) by chanmagomed \n\"Crystal stone (rock)\" (https://skfb.ly/6WMAx) by GenEugene \n\"Switchers\" (https://skfb.ly/op68J) by DJMaesen \nElevator Hum 3.wav by Corruptinator \nchopper screech.mp3 by mesmermoon \nbreath3.flac by saha213131 \ndorm door opening.wav by pagancow\nhorror whoosh 001 140729_0313.wav by klankbeeld\n\nAbandoned Asylum by Lukas Bobor\nInput Prompts by Kenney\nMaterial Icons by Google\n\nMade in Unity\n Made using FMOD Studio by Firelight Technologies Pty Ltd. \n\nLinux and Mac versions are untested and may require giving execution perms!\nExample on Mac: chmod -R 755 /Path/to/BuildMac.app\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjU4MjE1Ni8xNTM4MDM2My5naWY=/original/P2JbXy.gif",
+          "https://img.itch.zone/aW1hZ2UvMjU4MjE1Ni8xNTM3NDQ3Ni5wbmc=/original/FkMRd5.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MjE1Ni8xNTM3MjAyOC5wbmc=/original/GRO5vv.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MjE1Ni8xNTM3MjAyOS5wbmc=/original/jTZVIl.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MjE1Ni8xNTM3MjAzMC5wbmc=/original/w%2BHs0H.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS, Linux",
+          "Rating": "Rated 2.0 out of 5 stars(1 total ratings)",
+          "Author": "Arcy",
+          "Genre": "Puzzle, Action",
+          "Tags": "3D, Atmospheric, Creepy, First-Person, Horror, Retro, Short, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 2583351,
+      "gameUrl": "https://pizzart.itch.io/printtown",
+      "overallRank": 27,
+      "topCategories": [
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1NDQwOTE4LnBuZw==/300x240%23c/G6JZX5.png",
+        "url": "https://itch.io/jam/acerola-jam-0/rate/2583351",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 3.725,
+            "rank": 99,
+            "raw_score": 3.725
+          },
+          {
+            "name": "Presentation",
+            "score": 4.8,
+            "rank": 9,
+            "raw_score": 4.8
+          },
+          {
+            "name": "Originality",
+            "score": 4.375,
+            "rank": 41,
+            "raw_score": 4.375
+          }
+        ],
+        "raw_score": 4.3,
+        "rating_count": 40,
+        "id": 2583351,
+        "title": "PRINTTOWN!",
+        "score": 4.3,
+        "rank": 27,
+        "contributors": [
+          {
+            "name": "pizzart",
+            "id": 1762391
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 40,
+        "coolness": 9,
+        "url": "/jam/acerola-jam-0/rate/2583351",
+        "created_at": "2024-03-14 07:04:15",
+        "id": 517264,
+        "game": {
+          "short_text": "Experimental 3D platformer with turn-based combat and a bit of charm",
+          "cover": "https://img.itch.zone/aW1nLzE1NDQwOTE4LnBuZw==/300x240%23c/G6JZX5.png",
+          "user": {
+            "name": "pizzart",
+            "url": "https://pizzart.itch.io",
+            "id": 1762391
+          },
+          "url": "https://pizzart.itch.io/printtown",
+          "id": 2583351,
+          "title": "PRINTTOWN!",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ],
+          "cover_color": "#2c2929"
+        }
+      },
+      "details": {
+        "title": "PRINTTOWN!",
+        "description": "Companies buying out every billboard in town? We've got a simple solution for you: vandalism! With vandalism, you're sure to bring trouble to those pesky businesses looking to earn money with their fancy new AI-powered technology that will completely, 100%, without a shadow of a doubt revolutionize the way you live!\n\nthe gameplay\nIn this interactive experience, your main goal is to reach the top of the highest building in town using some... unique methods. The main gameplay consists of parkouring on top of buildings, collecting treats and fighting stray animals.\ndon't worry, you don't actually kick the poor guy if you win. he simply gets disappointed.\n\n\n\nthe controls\nACTIONKEYSWALKWASDRUNshiftJUMPspaceINTERACTleft mouse buttonWAVE :)FTALKspace / left mouse buttonPAUSEescapeSKIP TEXT (use if you don't want to read dialogue)Q\nNOTE: there is no controller support!\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjU4MzM1MS8xNTM4NDEyNy5naWY=/original/okDcJs.gif",
+          "https://img.itch.zone/aW1hZ2UvMjU4MzM1MS8xNTQwOTc5MS5naWY=/original/qcqTXm.gif",
+          "https://img.itch.zone/aW1hZ2UvMjU4MzM1MS8xNTM4NDA5NS5naWY=/original/%2BVqdhM.gif",
+          "https://img.itch.zone/aW1hZ2UvMjU4MzM1MS8xNTM4NDA5Ni5naWY=/original/NldCRm.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS, Linux",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "pizzart",
+          "Genre": "Platformer, Role Playing",
+          "Tags": "3D, Third Person"
+        }
+      }
+    },
+    {
+      "gameId": 2582165,
+      "gameUrl": "https://xaand.itch.io/opossession",
+      "overallRank": 71,
+      "topCategories": [
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1Mzc2MzkyLnBuZw==/300x240%23c/Mp3nyu.png",
+        "url": "https://itch.io/jam/acerola-jam-0/rate/2582165",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 3.3939393939394,
+            "rank": 187,
+            "raw_score": 3.3939393939394
+          },
+          {
+            "name": "Presentation",
+            "score": 4.7878787878788,
+            "rank": 10,
+            "raw_score": 4.7878787878788
+          },
+          {
+            "name": "Originality",
+            "score": 3.9848484848485,
+            "rank": 131,
+            "raw_score": 3.9848484848485
+          }
+        ],
+        "raw_score": 4.0555555555556,
+        "rating_count": 66,
+        "id": 2582165,
+        "title": "OPOSSESSION",
+        "score": 4.0555555555556,
+        "rank": 71,
+        "contributors": [
+          {
+            "name": "XAND",
+            "id": 251783
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 66,
+        "coolness": 7,
+        "url": "/jam/acerola-jam-0/rate/2582165",
+        "created_at": "2024-03-14 05:30:43",
+        "id": 517030,
+        "game": {
+          "short_text": "find your possum in the depths of the universe",
+          "cover": "https://img.itch.zone/aW1nLzE1Mzc2MzkyLnBuZw==/300x240%23c/Mp3nyu.png",
+          "user": {
+            "name": "XAND",
+            "url": "https://xaand.itch.io",
+            "id": 251783
+          },
+          "url": "https://xaand.itch.io/opossession",
+          "id": 2582165,
+          "title": "OPOSSESSION",
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#0b090d"
+        }
+      },
+      "details": {
+        "title": "OPOSSESSION",
+        "description": "\n●  Year 4102  ●\n\"humanity has reached unparalleled heights of advancement, traversing the vast expanses of space and establishing settlements across the cosmos. With a staggering population of 400 quadrillion souls, our species has become ubiquitous throughout the universe. This era of evolution has heralded the emergence of novel technologies and occupations, among them the enigmatic profession of Mailmans.\n\nThese individuals navigate the expanse of the cosmos aboard spaceships reminiscent of delivery boxes, ferrying parcels and missives across the boundless reaches of space. Yet, amidst this sea of interstellar couriers, there exists a singular figure who stands apart.\n\nA Mailman unlike any other, accompanied not by mere machinery, but by an unconventional companion—a pet opossum named BOB. \"\n\n\n                                                         \n* Click on Images to see in HD *\n●  Adventure Survival  ●\nEmbark on an adventure in search of your pet, who this time ended up in a very far and very dangerous place.\n\nCONTROLS:WASD: MovementX: InteractMouse: Aim & Skip Dialogue\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjU4MjE2NS8xNTM3NzcxMC5naWY=/original/UkcloP.gif",
+          "https://img.itch.zone/aW1hZ2UvMjU4MjE2NS8xNTM3NzcxMS5naWY=/original/YjoA96.gif",
+          "https://img.itch.zone/aW1hZ2UvMjU4MjE2NS8xNTM3NzcxNS5naWY=/original/hBiQRP.gif",
+          "https://img.itch.zone/aW1hZ2UvMjU4MjE2NS8xNTM3NzcxNC5naWY=/original/srRyWV.gif",
+          "https://img.itch.zone/aW1hZ2UvMjU4MjE2NS8xNTM3NjY5Mi5wbmc=/original/MGCdYa.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MjE2NS8xNTM3NjY5My5wbmc=/original/RQTZGR.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MjE2NS8xNTM3NjY5NC5wbmc=/original/LH0oMz.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "XAND",
+          "Genre": "Survival, Adventure, Role Playing",
+          "Made with": "Construct",
+          "Tags": "3D, Creepy, Horror, Pixel Art, Retro, Short, Survival Horror"
+        }
+      }
+    },
+    {
+      "gameId": 2582725,
+      "gameUrl": "https://lyrabird.itch.io/walled-worlds",
+      "overallRank": 6,
+      "topCategories": [
+        "Presentation",
+        "Originality"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1Mzc1NjIzLnBuZw==/300x240%23c/ZYx2Vr.png",
+        "url": "https://itch.io/jam/acerola-jam-0/rate/2582725",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 4.1304347826087,
+            "rank": 31,
+            "raw_score": 4.1304347826087
+          },
+          {
+            "name": "Presentation",
+            "score": 4.7826086956522,
+            "rank": 11,
+            "raw_score": 4.7826086956522
+          },
+          {
+            "name": "Originality",
+            "score": 4.6521739130435,
+            "rank": 13,
+            "raw_score": 4.6521739130435
+          },
+          {
+            "name": "Judge's Choice",
+            "score": 0,
+            "rank": 1,
+            "raw_score": 0
+          }
+        ],
+        "raw_score": 4.5217391304348,
+        "rating_count": 23,
+        "id": 2582725,
+        "title": "Walled Worlds",
+        "score": 4.5217391304348,
+        "rank": 6,
+        "contributors": [
+          {
+            "name": "Lyrabird",
+            "id": 8311732
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 23,
+        "coolness": 2,
+        "url": "/jam/acerola-jam-0/rate/2582725",
+        "created_at": "2024-03-14 01:52:42",
+        "id": 516768,
+        "game": {
+          "short_text": "A short stroll through the unexpected.",
+          "cover": "https://img.itch.zone/aW1nLzE1Mzc1NjIzLnBuZw==/300x240%23c/ZYx2Vr.png",
+          "user": {
+            "name": "Lyrabird",
+            "url": "https://lyrabird.itch.io",
+            "id": 8311732
+          },
+          "url": "https://lyrabird.itch.io/walled-worlds",
+          "id": 2582725,
+          "title": "Walled Worlds",
+          "platforms": [
+            "windows",
+            "linux"
+          ],
+          "cover_color": "#111c20"
+        }
+      },
+      "details": {
+        "title": "Walled Worlds",
+        "description": "A short stroll through the unexpected.made for Acerola Jam 0\nalso my first released game (terrifying concept), so any feedback is greatly appreciated!\n\nknown bugs:\nwalking too far along the yellow road causes the walls to lose collision, allowing you to clip through and soft locking the game.one report of \"return to menu\" not working, although i haven't been able to replicate it.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjU4MjcyNS8xNTM3NTY0My5wbmc=/original/LQgMMi.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MjcyNS8xNTM4MDYxMS5wbmc=/original/Mmxk%2Ft.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MjcyNS8xNTM4MDYxOC5wbmc=/original/aIWxPB.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, Linux",
+          "Rating": "Rated 4.9 out of 5 stars(7 total ratings)",
+          "Author": "Lyrabird",
+          "Made with": "Blender, Godot, GIMP, Audacity",
+          "Tags": "3D, First-Person, Retro, Short",
+          "Average session": "About a half-hour",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 2582647,
+      "gameUrl": "https://filgreen3.itch.io/aberration-well",
+      "overallRank": 29,
+      "topCategories": [
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1Mzc1NzMxLmdpZg==/300x240%23c/jF%2Fysk.gif",
+        "url": "https://itch.io/jam/acerola-jam-0/rate/2582647",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 3.7391304347826,
+            "rank": 96,
+            "raw_score": 3.7391304347826
+          },
+          {
+            "name": "Presentation",
+            "score": 4.7826086956522,
+            "rank": 11,
+            "raw_score": 4.7826086956522
+          },
+          {
+            "name": "Originality",
+            "score": 4.304347826087,
+            "rank": 55,
+            "raw_score": 4.304347826087
+          }
+        ],
+        "raw_score": 4.2753623188406,
+        "rating_count": 23,
+        "id": 2582647,
+        "title": "Aberration Well",
+        "score": 4.2753623188406,
+        "rank": 29,
+        "contributors": [
+          {
+            "name": "filgreen3",
+            "id": 1217522
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 23,
+        "coolness": 8,
+        "url": "/jam/acerola-jam-0/rate/2582647",
+        "created_at": "2024-03-14 01:30:36",
+        "id": 516751,
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzE1Mzc1NzMxLmdpZg==/300x240%23c/jF%2Fysk.gif",
+          "id": 2582647,
+          "user": {
+            "name": "filgreen3",
+            "url": "https://filgreen3.itch.io",
+            "id": 1217522
+          },
+          "url": "https://filgreen3.itch.io/aberration-well",
+          "gif_cover": "https://img.itch.zone/aW1nLzE1Mzc1NzMxLmdpZg==/original/f56%2BGF.gif",
+          "title": "Aberration Well",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#000000"
+        }
+      },
+      "details": {
+        "title": "Aberration Well",
+        "description": "Control\nwasd\nmove\nmouse\naim\nf\ntake\nq/e\nnext item\ng\ndrop item\n\nGame idea \"Aberration well — is a sinister place, where you appear accidental. Through unknown reason, the only way to move forward is sleep, which reassembled well into new shapes. \nYou have to find food, to continue to live, and maybe find the way out. However, dangerous are always near.\"Find pack of food, back to base, sleep, repeat.\nThere are 4 levels in total, each with unique puzzles, but since I'm focusing on the atmosphere of the game rather than the gameplay, they may lack coolness. It's also best played with headphones on.\nIf you're stuck somewhere, leave a comment and I'll help! if you're finish the game, also leave a comment.\nThe game was made in 14 days for Acerola Jam 0 -------------------SFX - https://opengameart.org/\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjU4MjY0Ny8xNTM3NTU1Ny5wbmc=/original/eVwKPv.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MjY0Ny8xNTM3NTU1MS5wbmc=/original/iJ9aH5.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MjY0Ny8xNTM3NTU0OS5wbmc=/original/Dvjfrd.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MjY0Ny8xNTM3NTU0OC5wbmc=/original/ZP47h6.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MjY0Ny8xNTM3NTU1MC5wbmc=/original/TFvfOn.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "filgreen3",
+          "Genre": "Platformer",
+          "Tags": "2D, Atmospheric, Creepy, Pixel Art"
+        }
+      }
+    },
+    {
+      "gameId": 2567826,
+      "gameUrl": "https://charlie-wagner.itch.io/damage-report",
+      "overallRank": 36,
+      "topCategories": [
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1MzczOTA3LmdpZg==/300x240%23c/n3F1sD.gif",
+        "url": "https://itch.io/jam/acerola-jam-0/rate/2567826",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 3.7096774193548,
+            "rank": 103,
+            "raw_score": 3.7096774193548
+          },
+          {
+            "name": "Originality",
+            "score": 4.258064516129,
+            "rank": 65,
+            "raw_score": 4.258064516129
+          },
+          {
+            "name": "Presentation",
+            "score": 4.741935483871,
+            "rank": 14,
+            "raw_score": 4.741935483871
+          }
+        ],
+        "raw_score": 4.2365591397849,
+        "rating_count": 31,
+        "id": 2567826,
+        "title": "Damage Report",
+        "score": 4.2365591397849,
+        "rank": 36,
+        "contributors": [
+          {
+            "name": "Charlie_Wagner",
+            "id": 912986
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 31,
+        "coolness": 10,
+        "url": "/jam/acerola-jam-0/rate/2567826",
+        "created_at": "2024-03-13 21:23:01",
+        "id": 516586,
+        "game": {
+          "id": 2567826,
+          "cover_color": "#545352",
+          "url": "https://charlie-wagner.itch.io/damage-report",
+          "user": {
+            "name": "Charlie_Wagner",
+            "url": "https://charlie-wagner.itch.io",
+            "id": 912986
+          },
+          "gif_cover": "https://img.itch.zone/aW1nLzE1MzczOTA3LmdpZg==/original/Affbue.gif",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "title": "Damage Report",
+          "cover": "https://img.itch.zone/aW1nLzE1MzczOTA3LmdpZg==/300x240%23c/n3F1sD.gif",
+          "short_text": "[EN] Report for authorized ████ personnel only"
+        }
+      },
+      "details": {
+        "title": "Damage Report",
+        "description": "USE THE DOWNLOADABLE BUILD IN CASE OF LOW PERFORMANCE\n\nDamage report n°A-12 regarding ████ ██ ████████\nIn this exploration / horror experience, take the role of agent ██████, sent to investigate 4 ████ type objects. Equipped with a ████-type detector, navigate the ████████ and ████████████ of the ██████████████\nThis report is only for authorized ████████ personnel only\nThis is my first project in Godot, made in 14 days and roughly 70 nonconsecutive hours for the Acerola Jam 0. All assets made by me unless included in the credits.\nAdditional credits (full version at the end of the game) :\nFont : Rabbid Highway Sign 2 by KineticPlasma FontsTruck base mesh: Soviet military off-road vehicle by artie31Aerial photo: autumn-trees by JJ Skys the Limit████ sound : ██████ by SuperPhat█████ sound : ████████████ by u1769092Playtesting : Sonny Sautron, Hugo Anglade\nProject repository\nDownload the .zip and launch DamageReport.exe",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE1MzczOTA3LmdpZg==/original/Affbue.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.6 out of 5 stars(5 total ratings)",
+          "Author": "Charlie_Wagner",
+          "Made with": "Blender, Godot, Adobe Photoshop, Audacity",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse, Gamepad (any)"
+        }
+      }
+    },
+    {
+      "gameId": 2580341,
+      "gameUrl": "https://jasbrela.itch.io/aberration-express",
+      "overallRank": 15,
+      "topCategories": [
+        "Presentation"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzIwNzg4NDA5LnBuZw==/300x240%23c/wwmvAz.png",
+        "url": "https://itch.io/jam/acerola-jam-0/rate/2580341",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 4.2727272727273,
+            "rank": 17,
+            "raw_score": 4.2727272727273
+          },
+          {
+            "name": "Presentation",
+            "score": 4.7272727272727,
+            "rank": 15,
+            "raw_score": 4.7272727272727
+          },
+          {
+            "name": "Originality",
+            "score": 4.0909090909091,
+            "rank": 104,
+            "raw_score": 4.0909090909091
+          }
+        ],
+        "raw_score": 4.3636363636364,
+        "rating_count": 11,
+        "id": 2580341,
+        "title": "Aberration Express",
+        "score": 4.3636363636364,
+        "rank": 15,
+        "contributors": [
+          {
+            "name": "Jasbrela",
+            "id": 2217224
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 11,
+        "coolness": 4,
+        "url": "/jam/acerola-jam-0/rate/2580341",
+        "created_at": "2024-03-12 22:27:19",
+        "id": 516217,
+        "game": {
+          "short_text": "Thoroughly inspect the train, as you will be needed to fill out a report later. Be careful, there's no turning back.",
+          "cover": "https://img.itch.zone/aW1nLzIwNzg4NDA5LnBuZw==/300x240%23c/wwmvAz.png",
+          "user": {
+            "name": "Jasbrela",
+            "url": "https://jasbrela.itch.io",
+            "id": 2217224
+          },
+          "url": "https://jasbrela.itch.io/aberration-express",
+          "id": 2580341,
+          "title": "Aberration Express",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#2A2644"
+        }
+      },
+      "details": {
+        "title": "Aberration Express",
+        "description": "ABERRATION EXPRESS\n\nYou’ve already signed the papers, so let’s skip the formalities. Your job is simple: monitor the train. Move through each coach, observe everything carefully, and take notes. If something doesn't match, it's an aberration. Once you leave a coach, there's no going back. At the end of each coach, you’ll be filling out a report on what you saw.\n\nAvailable in English and Portuguese.\n\nIf you happen to find a bug, please describe it to me in detail and give me the number in the lower right corner of the \"notes.txt\", in the terminal screen, it is going to be something like \"OS-00000\". This number will help me reproduce the bug and investigate further.\nFeel free to leave feedback, it helps me a lot.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjU4MDM0MS8yMDg0NTkxOS5qcGc=/original/i0HBSt.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjU4MDM0MS8yMDc4ODM2My5qcGc=/original/W6yfYe.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjU4MDM0MS8yMDc4ODM2NC5qcGc=/original/NYj5LY.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjU4MDM0MS8yMDc4ODM2Mi5qcGc=/original/d86RZw.jpg",
+          "https://img.itch.zone/aW1hZ2UvMjU4MDM0MS8yMDg0NjA1OC5qcGc=/original/r3eGk%2F.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.6 out of 5 stars(5 total ratings)",
+          "Author": "Jasbrela",
+          "Genre": "Puzzle",
+          "Made with": "Unreal Engine, Blender, Adobe Photoshop, Audacity",
+          "Tags": "3D, Atmospheric, Horror, observation, PSX (PlayStation), Singleplayer, Spooky, Unreal Engine, Walking simulator",
+          "Average session": "About a half-hour",
+          "Languages": "English, Portuguese (Brazil)",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 2582463,
+      "gameUrl": "https://koliao.itch.io/aberrationary",
+      "overallRank": 7,
+      "topCategories": [
+        "Originality"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1Mzc2Mzc2LnBuZw==/300x240%23c/LgvjwX.png",
+        "url": "https://itch.io/jam/acerola-jam-0/rate/2582463",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 4.2222222222222,
+            "rank": 28,
+            "raw_score": 4.2222222222222
+          },
+          {
+            "name": "Presentation",
+            "score": 4.3333333333333,
+            "rank": 89,
+            "raw_score": 4.3333333333333
+          },
+          {
+            "name": "Originality",
+            "score": 4.8888888888889,
+            "rank": 1,
+            "raw_score": 4.8888888888889
+          }
+        ],
+        "raw_score": 4.4814814814815,
+        "rating_count": 9,
+        "id": 2582463,
+        "title": "Aberrationary",
+        "score": 4.4814814814815,
+        "rank": 7,
+        "contributors": [
+          {
+            "name": "Koliao",
+            "id": 248953
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 9,
+        "coolness": 2,
+        "url": "/jam/acerola-jam-0/rate/2582463",
+        "created_at": "2024-03-13 22:34:45",
+        "id": 516619,
+        "game": {
+          "short_text": "A short game about breaking a font",
+          "cover": "https://img.itch.zone/aW1nLzE1Mzc2Mzc2LnBuZw==/300x240%23c/LgvjwX.png",
+          "user": {
+            "name": "Koliao",
+            "url": "https://koliao.itch.io",
+            "id": 248953
+          },
+          "url": "https://koliao.itch.io/aberrationary",
+          "id": 2582463,
+          "title": "Aberrationary",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover_color": "#095766"
+        }
+      },
+      "details": {
+        "title": "Aberrationary",
+        "description": "A short game made for acerola 0 jam, the theme was \"aberration\"\nYou have 15 rounds to maintain the letters readable while drawing some pixels and erasing others\nAt the end you will test how good you did by trying to read the same messed up letters\n\nControls:\n- Mouse for movement and clicking\n- Keyboard for typing\n\nCredits:\nA game by @koliao for the acerola 0 game jam\nTesting:\n - Daiana Manso\nMonogram font\nMonogram is a free and Creative Commons Zero pixel font,\nmade by Vinícius Menézio (@vmenezio).\nhttps://datagoblin.itch.io/monogram\nAudio\nUniversal UI Soundpack\nCreated and distributed by Nathan Gibson (https://nathangibson.myportfolio.com)\nCreation date: 27/9/2021\nLicense: Attribution 4.0 International (CC BY 4.0)\nhttps://creativecommons.org/licenses/by/4.0/\nSupport me by crediting Nathan Gibson or https://nathangibson.myportfolio.com \nAmbient Music by LightMister\nAmbient Music by LightMister -- https://freesound.org/s/691725/ -- License: Creative Commons 0\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjU4MjQ2My8xNTM3NjM3OS5wbmc=/original/GBHbCP.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MjQ2My8xNTM3NjM5OS5wbmc=/original/zdiAMB.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MjQ2My8xNTM3NjQwMC5wbmc=/original/uXiQcc.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MjQ2My8xNTM3NjQwMi5wbmc=/original/nlxeXx.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.7 out of 5 stars(3 total ratings)",
+          "Author": "Koliao",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "Arcade, Casual",
+          "Code license": "MIT License",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 2580810,
+      "gameUrl": "https://puddingdee.itch.io/mix",
+      "overallRank": 99,
+      "topCategories": [
+        "Originality"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1MzcwNjQ1LnBuZw==/300x240%23c/4RHo0O.png",
+        "url": "https://itch.io/jam/acerola-jam-0/rate/2580810",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 3,
+            "rank": 321,
+            "raw_score": 3
+          },
+          {
+            "name": "Presentation",
+            "score": 4,
+            "rank": 159,
+            "raw_score": 4
+          },
+          {
+            "name": "Originality",
+            "score": 4.8333333333333,
+            "rank": 2,
+            "raw_score": 4.8333333333333
+          }
+        ],
+        "raw_score": 3.9444444444444,
+        "rating_count": 12,
+        "id": 2580810,
+        "title": "MIX.",
+        "score": 3.9444444444444,
+        "rank": 99,
+        "contributors": [
+          {
+            "name": "puddingdee",
+            "id": 7869539
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 12,
+        "coolness": 20,
+        "url": "/jam/acerola-jam-0/rate/2580810",
+        "created_at": "2024-03-13 18:20:33",
+        "id": 516493,
+        "game": {
+          "short_text": "DROWN IN DISTORTION. LIVE IN HARMONIC ABERRATION.",
+          "cover": "https://img.itch.zone/aW1nLzE1MzcwNjQ1LnBuZw==/300x240%23c/4RHo0O.png",
+          "user": {
+            "name": "puddingdee",
+            "url": "https://puddingdee.itch.io",
+            "id": 7869539
+          },
+          "url": "https://puddingdee.itch.io/mix",
+          "id": 2580810,
+          "title": "MIX.",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#122205"
+        }
+      },
+      "details": {
+        "title": "MIX.",
+        "description": "DROWN IN DISTORTION. LIVE IN HARMONIC ABERRATION.\nThree bands have asked you to be their stand-in live sound engineer for a basement rave tonight. The venue is equipped with an unreasonably fancy digital mixing and effects console from a few galaxies over. It's got buttons and dials made of stuff you've never seen before, with many different flavors of distortion. You better get to studying the manual before sound check starts!\nPlay through three wacky alien songs where YOU are in control of the sound. Real time audio processing and effects were achieved with Csound. Csound integrates with Unity using Rory Walsh's amazing CsoundUnity package. \nHarmonic aberration is sometimes unwanted in digital signal processing, but these alien rave-rats can't get enough of it. It's up to you to provide them with the auditory distortion they crave.\n\nMOUSE ONLY CONTROLS:\nINTERACT - [LEFT MOUSE BUTTON]\nCANCEL/GO BACK -  [RIGHT MOUSE BUTTON]\n[LEFT MOUSE BUTTON] on the show note you're currently viewing activates the band's set.\n[RIGHT MOUSE BUTTON] without further context exits to menu.\n\nGitHub \nI conceptualized and created this game and all assets within the 2-week time frame of Acerola Jam 0 with the exception of:\nFONT",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjU4MDgxMC8xNTM2NDE5OC5wbmc=/original/atBN3L.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MDgxMC8xNTM2NDEyMS5wbmc=/original/FKftsG.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MDgxMC8xNTM3MDY1Ny5wbmc=/original/TFZA7I.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MDgxMC8xNTM2NDExMS5wbmc=/original/tqsAXn.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MDgxMC8xNTM2NDE4MC5wbmc=/original/tCT3LT.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Author": "puddingdee",
+          "Genre": "Simulation",
+          "Tags": "3D, Aliens, Atmospheric, Audio, Colorful, Funny, Indie, Music, Retro, weird"
+        }
+      }
+    },
+    {
+      "gameId": 2581719,
+      "gameUrl": "https://yzhk-instruments.itch.io/optigolf",
+      "overallRank": 53,
+      "topCategories": [
+        "Originality"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1Mzc1NTkxLnBuZw==/300x240%23c/7fKseZ.png",
+        "url": "https://itch.io/jam/acerola-jam-0/rate/2581719",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 3.5555555555556,
+            "rank": 138,
+            "raw_score": 3.5555555555556
+          },
+          {
+            "name": "Presentation",
+            "score": 4.1111111111111,
+            "rank": 141,
+            "raw_score": 4.1111111111111
+          },
+          {
+            "name": "Originality",
+            "score": 4.7777777777778,
+            "rank": 4,
+            "raw_score": 4.7777777777778
+          }
+        ],
+        "raw_score": 4.1481481481481,
+        "rating_count": 9,
+        "id": 2581719,
+        "title": "optigolf",
+        "score": 4.1481481481481,
+        "rank": 53,
+        "contributors": [
+          {
+            "name": "yzhk instruments",
+            "id": 8216096
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 9,
+        "coolness": 2,
+        "url": "/jam/acerola-jam-0/rate/2581719",
+        "created_at": "2024-03-14 01:39:28",
+        "id": 516763,
+        "game": {
+          "short_text": "\"physics based\" golf game",
+          "cover": "https://img.itch.zone/aW1nLzE1Mzc1NTkxLnBuZw==/300x240%23c/7fKseZ.png",
+          "user": {
+            "name": "yzhk instruments",
+            "url": "https://yzhk-instruments.itch.io",
+            "id": 8216096
+          },
+          "url": "https://yzhk-instruments.itch.io/optigolf",
+          "id": 2581719,
+          "title": "optigolf",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#000000"
+        }
+      },
+      "details": {
+        "title": "optigolf",
+        "description": "play as a photon zipping around atoms on your way to the wormhole in this \"physics based\" golf game! \nquantum tunnel your way around and refract into different colors. mix the colors to match the wormhole and achieve 0% chromatic aberration!\n(made in the acerola game jam 0 2024)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjU4MTcxOS8xNTM3NTU5NS5wbmc=/original/IaaIn0.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MTcxOS8xNTM3NTU5Ny5wbmc=/original/7%2FmgRg.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MTcxOS8xNTM3NTU5NC5wbmc=/original/ZQlYYb.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MTcxOS8xNTM3NTU5Ni5wbmc=/original/bqwFB4.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MTcxOS8xNTM3NTU5OC5wbmc=/original/HCKB%2FB.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Author": "yzhk instruments",
+          "Genre": "Sports",
+          "Tags": "Golf, Physics, physics-based, pool"
+        }
+      }
+    },
+    {
+      "gameId": 2580085,
+      "gameUrl": "https://bobby-popcorn.itch.io/dom-in-the-land-of-dom",
+      "overallRank": 75,
+      "topCategories": [
+        "Originality"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1MzU4NDEzLnBuZw==/300x240%23c/9EbAst.png",
+        "url": "https://itch.io/jam/acerola-jam-0/rate/2580085",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 4.0204081632653,
+            "rank": 43,
+            "raw_score": 4.0204081632653
+          },
+          {
+            "name": "Presentation",
+            "score": 3.3469387755102,
+            "rank": 376,
+            "raw_score": 3.3469387755102
+          },
+          {
+            "name": "Originality",
+            "score": 4.7551020408163,
+            "rank": 5,
+            "raw_score": 4.7551020408163
+          }
+        ],
+        "raw_score": 4.0408163265306,
+        "rating_count": 49,
+        "id": 2580085,
+        "title": "Dom in the land of DOM",
+        "score": 4.0408163265306,
+        "rank": 75,
+        "contributors": [
+          {
+            "name": "bobby popcorn",
+            "id": 6093840
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 49,
+        "coolness": 58,
+        "url": "/jam/acerola-jam-0/rate/2580085",
+        "created_at": "2024-03-12 18:06:34",
+        "id": 516161,
+        "game": {
+          "short_text": "A platformer about saving family built with HTML elements.",
+          "cover": "https://img.itch.zone/aW1nLzE1MzU4NDEzLnBuZw==/300x240%23c/9EbAst.png",
+          "user": {
+            "name": "bobby popcorn",
+            "url": "https://bobby-popcorn.itch.io",
+            "id": 6093840
+          },
+          "url": "https://bobby-popcorn.itch.io/dom-in-the-land-of-dom",
+          "id": 2580085,
+          "title": "Dom in the land of DOM",
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#5d5fff"
+        }
+      },
+      "details": {
+        "title": "Dom in the land of DOM",
+        "description": "This project was made in my spare time over a little more than one week for the Acerola Jam 0\nJoin Dominic Torpedo in his quest to save his family trapped in badly styled HTML.Note: Minimal technical knowledge required to play the game.Note2: Music is off by default for a reason.\nBy the way, look here's a bridge:Lemme fix that for you real quick:\nThere, good as new.\nSome things in the game need to be clicked so it's best if you have a mouse.\n\nThis game is open source:https://github.com/abam-iksde/acerola-jam0\n\nFor those who found this game by chance:The theme of the jam was \"Aberration\" - my interpretation brought me to making a game in JS using HTML elements which normally can be found in browser forms rather than in a video game.One of the rules of the jam was its team size limit of 1 person. I'm a programmer, but I also happen to be an artist, a performance artist, and this is my performance.That's why the game looks and sounds like this.",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE1MzU4NDEzLnBuZw==/original/tZ0XyI.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "bobby popcorn",
+          "Genre": "Platformer, Puzzle",
+          "Made with": "GIMP, Audacity, LMMS",
+          "Tags": "Retro",
+          "Code license": "MIT License",
+          "Average session": "A few seconds",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 2580271,
+      "gameUrl": "https://theeggmo.itch.io/hexed-harvest",
+      "overallRank": 34,
+      "topCategories": [
+        "Originality"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1MzU5NjM4LnBuZw==/300x240%23c/ZTzZZm.png",
+        "url": "https://itch.io/jam/acerola-jam-0/rate/2580271",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 3.9166666666667,
+            "rank": 55,
+            "raw_score": 3.9166666666667
+          },
+          {
+            "name": "Presentation",
+            "score": 4.0833333333333,
+            "rank": 145,
+            "raw_score": 4.0833333333333
+          },
+          {
+            "name": "Originality",
+            "score": 4.75,
+            "rank": 6,
+            "raw_score": 4.75
+          }
+        ],
+        "raw_score": 4.25,
+        "rating_count": 12,
+        "id": 2580271,
+        "title": "Hexed Harvest",
+        "score": 4.25,
+        "rank": 34,
+        "contributors": [
+          {
+            "name": "TheEggmo",
+            "id": 749350
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 12,
+        "coolness": 3,
+        "url": "/jam/acerola-jam-0/rate/2580271",
+        "created_at": "2024-03-13 19:21:38",
+        "id": 516512,
+        "game": {
+          "short_text": "Harvest angry plants while dodging their attacks",
+          "cover": "https://img.itch.zone/aW1nLzE1MzU5NjM4LnBuZw==/300x240%23c/ZTzZZm.png",
+          "user": {
+            "name": "TheEggmo",
+            "url": "https://theeggmo.itch.io",
+            "id": 749350
+          },
+          "url": "https://theeggmo.itch.io/hexed-harvest",
+          "id": 2580271,
+          "title": "Hexed Harvest",
+          "platforms": [
+            "windows",
+            "linux",
+            "web"
+          ],
+          "cover_color": "#000000"
+        }
+      },
+      "details": {
+        "title": "Hexed Harvest",
+        "description": "\nOur brothers have developed a spell that allows us to grow large quantities of food in short time. It's your job to harvest those crops and bring them to the deposit boxes, but be quick! The spell has an unwelcome side effect!\nOnce mature, the plants quickly turn violent, but are also worth more. It's up to you whether to safely harvest them early or risk earning more by letting them turn.\nControls:\nUse WASD or arrow keys to move.\nHold Shift to sprint, but only when not carrying a plant.\nUse Space to pick up, deposit, and toss plants.\nTips:\n- Getting hit causes you to drop your held plant.\n- Some plants will cancel their attack when picked up.\n- You get points for time survived, so don't be afraid to run for safety if things get dangerous.\n- Sometimes it's better to quickly pick and toss multiple corrupted plants to reduce the volume of enemy attacks rather than trying to deposit every single one.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjU4MDI3MS8xNTM2NjM0MC5wbmc=/original/7Mojfk.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MDI3MS8xNTM2NjM0MS5wbmc=/original/E%2BBvKS.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MDI3MS8xNTM2NjM0Mi5wbmc=/original/lfgzgM.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, Linux",
+          "Author": "TheEggmo",
+          "Genre": "Action",
+          "Made with": "Godot",
+          "Tags": "Bullet Hell, Godot, Score Attack, Top-Down"
+        }
+      }
+    },
+    {
+      "gameId": 2579455,
+      "gameUrl": "https://grabbi.itch.io/handofsarkatha",
+      "overallRank": 22,
+      "topCategories": [
+        "Originality"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1Mzc5Njc5LnBuZw==/300x240%23c/YrdJt1.png",
+        "url": "https://itch.io/jam/acerola-jam-0/rate/2579455",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 4.2727272727273,
+            "rank": 17,
+            "raw_score": 4.2727272727273
+          },
+          {
+            "name": "Originality",
+            "score": 4.7272727272727,
+            "rank": 7,
+            "raw_score": 4.7272727272727
+          },
+          {
+            "name": "Presentation",
+            "score": 4,
+            "rank": 159,
+            "raw_score": 4
+          }
+        ],
+        "raw_score": 4.3333333333333,
+        "rating_count": 11,
+        "id": 2579455,
+        "title": "Hand of Sarkatha",
+        "score": 4.3333333333333,
+        "rank": 22,
+        "contributors": [
+          {
+            "name": "Grabbi",
+            "id": 1979133
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 11,
+        "coolness": 6,
+        "url": "/jam/acerola-jam-0/rate/2579455",
+        "created_at": "2024-03-14 07:56:54",
+        "id": 517341,
+        "game": {
+          "short_text": "Sacrifice your enemies to your goddess.",
+          "user": {
+            "name": "Grabbi",
+            "url": "https://grabbi.itch.io",
+            "id": 1979133
+          },
+          "id": 2579455,
+          "url": "https://grabbi.itch.io/handofsarkatha",
+          "title": "Hand of Sarkatha",
+          "cover": "https://img.itch.zone/aW1nLzE1Mzc5Njc5LnBuZw==/300x240%23c/YrdJt1.png",
+          "cover_color": "#f20052"
+        }
+      },
+      "details": {
+        "title": "Hand of Sarkatha",
+        "description": "Hand of the Sarkatha is a game where you control a hand given by your god in order to build a flesh form for her.\nThe surrounding factions are none too happy about the news of this and send armies to try and stop you.\n\nBuild traps and defenses to fight back against the hordes.\nTake their flesh and put it to use.\n\nSarkatha will be born.\n------------------------------------------------------------------------------\nPLEASE READ (I didn't get to make a tutorial)Stab bodies to get resources.\nUse the crafting menu to combine those resources into defenses .The only resources that are detected for crafting are those inside the center square of the menu.\nThe various Turrets (Spitter, Chulker, Ballista) serve the purpose  of freeing your attention to avoid getting overwhelmed.\nIt is easy to get overwhelmed but experimentation is the key to survival.\nIf you struggle try crafting Sacrificial Dagger -> Meatball -> Orb-> Plates->Spitter.\nCONTROLS:\nF:  FullscreenR :  Restart\nLeft Mouse Button:  Pick up\nRight Mouse Button : Navigate\nMiddle Mouse button :  Craft\nScroll Wheel :  Navigate Crafting Menu \n[Click center to confirm craft]\n[Click Materials and Creature buttons on the left side of the menu to change Categories and ]\n------------------------------------------------------------------------------\nDev notes: I really enjoyed making this! Though I had a 5 day time constraint I think I ended up with something rather complete and fun to play.There's a lot extra that didn't make it into the game so I definitely wanna expand on it post jam.\nThanks for playing!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjU3OTQ1NS8xNTM4MDkwNC5wbmc=/original/VBCrEF.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Author": "Grabbi",
+          "Genre": "Strategy",
+          "Made with": "GameMaker",
+          "Tags": "Roguelike, Singleplayer, Tower Defense",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 2578793,
+      "gameUrl": "https://chowbacca.itch.io/viridis-infaction",
+      "overallRank": 97,
+      "topCategories": [
+        "Originality"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1MzcxMDI5LnBuZw==/300x240%23c/EZBiyR.png",
+        "url": "https://itch.io/jam/acerola-jam-0/rate/2578793",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 3.3888888888889,
+            "rank": 188,
+            "raw_score": 3.3888888888889
+          },
+          {
+            "name": "Presentation",
+            "score": 3.7777777777778,
+            "rank": 221,
+            "raw_score": 3.7777777777778
+          },
+          {
+            "name": "Originality",
+            "score": 4.6666666666667,
+            "rank": 10,
+            "raw_score": 4.6666666666667
+          }
+        ],
+        "raw_score": 3.9444444444444,
+        "rating_count": 18,
+        "id": 2578793,
+        "title": "Viridis Infaction",
+        "score": 3.9444444444444,
+        "rank": 97,
+        "contributors": [
+          {
+            "name": "Chowbacca",
+            "id": 9170237
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 18,
+        "coolness": 27,
+        "url": "/jam/acerola-jam-0/rate/2578793",
+        "created_at": "2024-03-13 19:12:17",
+        "id": 516510,
+        "game": {
+          "short_text": "A real-time infestation simulation where you control a swarm of plants and evolve them over time",
+          "cover": "https://img.itch.zone/aW1nLzE1MzcxMDI5LnBuZw==/300x240%23c/EZBiyR.png",
+          "user": {
+            "name": "Chowbacca",
+            "url": "https://chowbacca.itch.io",
+            "id": 9170237
+          },
+          "url": "https://chowbacca.itch.io/viridis-infaction",
+          "id": 2578793,
+          "title": "Viridis Infaction",
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#000f0c"
+        }
+      },
+      "details": {
+        "title": "Viridis Infaction",
+        "description": "Build a plant colony in this real-time strategy game. Evolve your plants and ward off invading species... but be sure to avoid undesirable mutations. Read the description for controls and tips. There are objectives to complete levels but the game is primarily intended as a casual sandbox.\nGameplay\n[WASD] or [RMB+Drag] Let's you move the camera around.\nSelect a tile with [LMB]. Slow down Time with [SPACE]\nGrow Your infection by cloning your first plant. Select it with LMB and wait for it to finish growing and maturing. You can autoselect the nearest matured plant by pressing [TAB].\nPress Clone once it's finished maturing. It will shoot off a new seed and attempt to sail in the direction of your pheromone trace. You can move the pheromone trace around with [MMB], or select the desired tile and press [SHIFT].\nWhen the cloned sibling spawns in, it will have slightly mutated traits. Try to specialize traits through selective breeding in order to evolve new species!\nIf you are unhappy with a sample of foliage, you may mulch it to create goop on the tile. Goop gives a mutation boost to plants that spawn onto it.\nThe map has five beacons. Grow over them all to progress to the next level.\nNot all mutations are desirable, even loyalty can eventually be bred out of a plant.\nGenetic traits:\nThe traits you are provided with are as follows:\n\nAgression:  Ability to overtake tiles occupied by enemies\nDefense: Ability to ward off invading species\nGrowth rate: Speed at which plant establishes itself\nHealth: Ability to not die\nReproductivity: Speed at which a plant can develop seeds or send off runners\nSeed Range: How far the seeds can fly\nSubservience: Your plant's loyalty... or its likelihood of committing mutiny...\n\nSpecies\nStink Plant: Mutates from plants with strong aggression. Damages hostile organisms around it\nBarbed Vine: Mutates from plants with strong defense. Resistant to hostile takeover. Grows into \nCarpet Weeds: Mutates from plants with strong growth. Grows in quickly to cover space\nHealing Vera: Mutates from plants with strong health. heals plants around it\nPitcher plant: Mutates from plants with strong reproductive. Gives surrounding plants a growth boostDandy Launcher: Mutates from plants with strong seed range. Shoots seeds farLike-Me-Nots: Mutates from plants with weak subservience. Spreads fast and attempts overtaking youFlesh Invader: ???Machine Plant: ???\nMade for Acerola Game Jam 0. I wanted to work in the theme aberration through mutations and evolution. The simple shrubs can be selectively bred to specialize into different traits. There's so much more I would like to do with the complexity, intuity, and player agency in this simulation that will end up turning this into a more long-term project.\nCurrent Sources:\nFleshInvaderSquelch.wav:\n Author: EminYILDIRIM Attained from: https://freesound.org/people/EminYILDIRIM/sounds/554285/ Under Attribution: https://creativecommons.org/licenses/by/4.0/   \nScientifica Font:\n Author: Akshay Oppiliappan Attained From: https://fontesk.com/scientifica-typeface/ Under Free Commercial: https://fontesk.com/license/free-for-commercial-use/\nRustlingLeaves.wav:\n Author: TaraMG Attained From: https://freesound.org/people/TaraMG/sounds/386036/ Under Attribution: https://creativecommons.org/licenses/by/4.0/  \nCrashingUFO.wav:\n Author: RICHERlandTV Attained From: https://freesound.org/people/RICHERlandTV/sounds/265772/ Under Attribution: https://creativecommons.org/licenses/by/4.0/\nSpawnSeed.wav:\nAuthor: Andromadax24Attained From: https://freesound.org/people/Andromadax24/sounds/178349/Under Attribution: https://creativecommons.org/licenses/by/4.0/\nLevelComplete.wav:\nAuthor: Kenneth_Cooney Attained From: https://freesound.org/people/Kenneth_Cooney/sounds/609336/ Under Creative Commons: https://creativecommons.org/publicdomain/zero/1.0/\nSpiritBlossom.mp3:\n Author: Roman Belov Attained From: https://pixabay.com/music/beats-spirit-blossom-15285/ Under Pixabay Content License: https://pixabay.com/service/license-summary/\nSubstance.mp3:\n Author: Roman Belov Attained From: https://pixabay.com/music/beats-substance-129390/ Under Pixabay Content License: https://pixabay.com/service/license-summary/\nKaleidoscopes.mp3:\n Author: Roman Belov Attained From: https://pixabay.com/music/beats-kaleidoscopes-15282/ Under Pixabay Content License: https://pixabay.com/service/license-summary/\nRush.mp3:\n Author: Roman Belov Attained From: https://pixabay.com/music/beats-rush-15281/ Under Pixabay Content License: https://pixabay.com/service/license-summary/\nExplosion.mp3:\n Author: Pixabay Attained From: https://pixabay.com/music/explosion-42132/ Under Pixabay Content License: https://pixabay.com/service/license-summary/\nReproduceSound.mp3:\n Author: Pixabay Attained From: https://pixabay.com/sound-effects/bush-cut-103503/ Under Pixabay Content License: https://pixabay.com/service/license-summary/\nBloop.mp3:\n Author: Floraphonic Attained From: https://pixabay.com/sound-effects/bloop-3-186532/ Under Pixabay Content License: https://pixabay.com/service/license-summary/\nErrorSound.mp3:\n Author: Pixabay Attained From: https://pixabay.com/sound-effects/percussive-hit-02-02-105799/ Under Pixabay Content License: https://pixabay.com/service/license-summary/\nMulch.mp3:\n Author: Pixabay Attained From: https://pixabay.com/sound-effects/human-impact-on-ground-6982/ Under Pixabay Content License: https://pixabay.com/service/license-summary/\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjU3ODc5My8xNTQ4MjUwNy5naWY=/original/QhEIrl.gif",
+          "https://img.itch.zone/aW1hZ2UvMjU3ODc5My8xNTM3NjAyOS5wbmc=/original/v%2FSTw7.png",
+          "https://img.itch.zone/aW1hZ2UvMjU3ODc5My8xNTM3NjAzMC5wbmc=/original/iaRCMY.png",
+          "https://img.itch.zone/aW1hZ2UvMjU3ODc5My8xNTQxODEzMi5wbmc=/original/Hak8dO.png",
+          "https://img.itch.zone/aW1hZ2UvMjU3ODc5My8xNTQxODEzMy5wbmc=/original/nPcNvT.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "Chowbacca",
+          "Genre": "Simulation",
+          "Made with": "Godot",
+          "Tags": "2D, Experimental, Forest, infestation, Pixel Art, Real time strategy, Sandbox, Top-Down"
+        }
+      }
+    },
+    {
+      "gameId": 2580199,
+      "gameUrl": "https://mkhadadeh.itch.io/i-dare-you-to-start-this-game",
+      "overallRank": 97,
+      "topCategories": [
+        "Originality"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1MzU5NTAyLnBuZw==/300x240%23c/1f%2BOQp.png",
+        "url": "https://itch.io/jam/acerola-jam-0/rate/2580199",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 3.3888888888889,
+            "rank": 188,
+            "raw_score": 3.3888888888889
+          },
+          {
+            "name": "Presentation",
+            "score": 3.7777777777778,
+            "rank": 221,
+            "raw_score": 3.7777777777778
+          },
+          {
+            "name": "Originality",
+            "score": 4.6666666666667,
+            "rank": 10,
+            "raw_score": 4.6666666666667
+          }
+        ],
+        "raw_score": 3.9444444444444,
+        "rating_count": 18,
+        "id": 2580199,
+        "title": "I Dare You To Start This Game",
+        "score": 3.9444444444444,
+        "rank": 97,
+        "contributors": [
+          {
+            "name": "mkhadadeh",
+            "id": 6776516
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 18,
+        "coolness": 4,
+        "url": "/jam/acerola-jam-0/rate/2580199",
+        "created_at": "2024-03-13 01:30:24",
+        "id": 516261,
+        "game": {
+          "short_text": "​Something is wrong with this menu... Hold on. It can't be.",
+          "cover": "https://img.itch.zone/aW1nLzE1MzU5NTAyLnBuZw==/300x240%23c/1f%2BOQp.png",
+          "user": {
+            "name": "mkhadadeh",
+            "url": "https://mkhadadeh.itch.io",
+            "id": 6776516
+          },
+          "url": "https://mkhadadeh.itch.io/i-dare-you-to-start-this-game",
+          "id": 2580199,
+          "title": "I Dare You To Start This Game",
+          "platforms": [
+            "web"
+          ],
+          "cover_color": "#000000"
+        }
+      },
+      "details": {
+        "title": "I Dare You To Start This Game",
+        "description": "A menu puzzler created for Acerola Jam 0. The theme is \"aberration,\" defined as \"a departure from what is normal, usual, or expected, typically one that is unwelcome.\" So I hope you enjoy this totally normal game with a totally usual menu with buttons that work in a totally expected way.\nTrailer : https://youtu.be/Q_HIl5aMWe4 (it wont appear on the side due to a SharedArrayBuffer glitch)\nControls\nLeft Click - Clicks buttons, Locks buttons, Places points for split lines. (Snap your points. You'll thank me later.)T - Toggles tooltips. (They love you.)\nCredits\nArt, Programming, and Design: MeSound Effects: ZXAudioCraft, Rudmer_Rotteveel, MartianFonts: BagnardSans, Broken GlassMusic by AudioCoffee: https://www.audiocoffee.net/\nPost your scores in the comments if you beat the game! I'm interested to see what people's bests are.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMjU4MDE5OS8xNTM2MjcyNy5wbmc=/original/%2By%2B9W4.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MDE5OS8xNTM2MjcyNi5wbmc=/original/siXX11.png",
+          "https://img.itch.zone/aW1hZ2UvMjU4MDE5OS8xNTM2MjcyNS5wbmc=/original/ihrtdO.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "mkhadadeh",
+          "Genre": "Puzzle",
+          "Made with": "Godot",
+          "Tags": "2D, confusing, Graphical User Interface (GUI), menu-game, puzzler",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Mouse, Touchscreen"
+        }
+      }
+    },
+    {
+      "gameId": 2574400,
+      "gameUrl": "https://arrowmaster1252.itch.io/noise-shift",
+      "overallRank": 132,
+      "topCategories": [
+        "Originality"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1MzU5NDE5LnBuZw==/300x240%23c/ezdE5j.png",
+        "url": "https://itch.io/jam/acerola-jam-0/rate/2574400",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 2.6666666666667,
+            "rank": 468,
+            "raw_score": 2.6666666666667
+          },
+          {
+            "name": "Presentation",
+            "score": 4.0833333333333,
+            "rank": 145,
+            "raw_score": 4.0833333333333
+          },
+          {
+            "name": "Originality",
+            "score": 4.6666666666667,
+            "rank": 10,
+            "raw_score": 4.6666666666667
+          }
+        ],
+        "raw_score": 3.8055555555556,
+        "rating_count": 12,
+        "id": 2574400,
+        "title": "Noise Shift",
+        "score": 3.8055555555556,
+        "rank": 132,
+        "contributors": [
+          {
+            "name": "arrowmaster1252",
+            "id": 1822294
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 12,
+        "coolness": 8,
+        "url": "/jam/acerola-jam-0/rate/2574400",
+        "created_at": "2024-03-12 04:00:03",
+        "id": 515842,
+        "game": {
+          "short_text": "A Mind Melting Game With Unique Graphics",
+          "cover": "https://img.itch.zone/aW1nLzE1MzU5NDE5LnBuZw==/300x240%23c/ezdE5j.png",
+          "user": {
+            "name": "arrowmaster1252",
+            "url": "https://arrowmaster1252.itch.io",
+            "id": 1822294
+          },
+          "url": "https://arrowmaster1252.itch.io/noise-shift",
+          "id": 2574400,
+          "title": "Noise Shift",
+          "platforms": [
+            "windows"
+          ],
+          "cover_color": "#000000"
+        }
+      },
+      "details": {
+        "title": "Noise Shift",
+        "description": "EPILEPSY WARNING - This Game Is ENTIRELY Flashing Lights\nAlso, of course it turned out glitched and the \"You Won\" screen shows up early. Just my luck.\nThis game, built for Acerola Jam 0, uses a unique graphic and audio system to create it's previously unseen experience. Screenshots physically cannot do this game justice,\nThe rendering works by replacing the color value of a pixel with a chance to change the previous frame's pixel. With multiple color schemes and several unique materials, the graphics are made to wow. Make sure to pause often and admire the chaos of the view!\nThe audio is entirely generated on the fly. It doesn't even use samples,  just adding together various waves to form this unique experience. It looks at the situation in the world and decides what notes, and at which volumes, it should play. Be sure to leave it on, because if you listen close the music can warn you when enemies are near.\nCheck the Devlog for a detailed explanation of many choices!\n\nWASD to move\nMouse to look around\nE to clear screen\nTab to pause/unpause",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE1MzU5NDE5LnBuZw==/original/Lc2l7Y.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Author": "arrowmaster1252"
+        }
+      }
+    },
+    {
+      "gameId": 2581939,
+      "gameUrl": "https://macspain.itch.io/wave-decoder",
+      "overallRank": 213,
+      "topCategories": [
+        "Originality"
+      ],
+      "resultData": {
+        "cover_url": "https://img.itch.zone/aW1nLzE1MzcwNDkyLnBuZw==/300x240%23c/EpuVAq.png",
+        "url": "https://itch.io/jam/acerola-jam-0/rate/2581939",
+        "criteria": [
+          {
+            "name": "Gameplay",
+            "score": 3.1739130434783,
+            "rank": 276,
+            "raw_score": 3.1739130434783
+          },
+          {
+            "name": "Presentation",
+            "score": 2.8478260869565,
+            "rank": 544,
+            "raw_score": 2.8478260869565
+          },
+          {
+            "name": "Originality",
+            "score": 4.6521739130435,
+            "rank": 13,
+            "raw_score": 4.6521739130435
+          }
+        ],
+        "raw_score": 3.5579710144928,
+        "rating_count": 46,
+        "id": 2581939,
+        "title": "Wave Decoder",
+        "score": 3.5579710144928,
+        "rank": 213,
+        "contributors": [
+          {
+            "name": "MacSpain",
+            "id": 2551963
+          }
+        ]
+      },
+      "entryData": {
+        "rating_count": 46,
+        "coolness": 243,
+        "url": "/jam/acerola-jam-0/rate/2581939",
+        "created_at": "2024-03-13 17:47:58",
+        "id": 516481,
+        "game": {
+          "id": 2581939,
+          "user": {
+            "name": "MacSpain",
+            "url": "https://macspain.itch.io",
+            "id": 2551963
+          },
+          "url": "https://macspain.itch.io/wave-decoder",
+          "cover": "https://img.itch.zone/aW1nLzE1MzcwNDkyLnBuZw==/300x240%23c/EpuVAq.png",
+          "title": "Wave Decoder",
+          "platforms": [
+            "windows"
+          ],
+          "short_text": "A game made for Acerola Game Jam 0"
+        }
+      },
+      "details": {
+        "title": "Wave Decoder",
+        "description": "GOTY 2024!Decode strange signals sent from space, manipulate waves to match the target. What strange aberrations will humanity get to know from this weird coded message?There's a nice reward for beating the game.\nRemember to lower your volume before you play, this game can get LOUD.All WAVs and project files are stored in Data/Streaming Assets folderJust unzip and run the exe as is. Remember to lower your volume before you play, this game can get LOUD.",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzE1MzcwNDkyLnBuZw==/original/AJxCj1.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Author": "MacSpain",
+          "Genre": "Puzzle, Rhythm",
+          "Tags": "2D, Music, Retro, Short, Singleplayer, Unity"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,832 @@
+{
+  "n": 78,
+  "name": "ATOM GameJam #2",
+  "url": "https://itch.io/jam/atom-gamejam-2",
+  "theme": "You Must Cheat to Win the Game",
+  "slug": "atom-gamejam-2",
+  "jamMeta": {
+    "jamType": "ongoing",
+    "joined": "",
+    "entries": "392",
+    "title": "ATOM GameJam #2 (10.000₺ ÖDÜL)",
+    "jamURL": "https://itch.io/jam/atom-gamejam-2",
+    "hosts": {
+      "at0mdev": "https://at0mdev.itch.io"
+    },
+    "jamID": "277156"
+  },
+  "totalEntries": 367,
+  "ranked": true,
+  "hasCategories": false,
+  "needsManualSelection": false,
+  "categories": [],
+  "topGames": [
+    {
+      "gameId": 921400,
+      "gameUrl": "https://derinozon.itch.io/kopia",
+      "overallRank": 1,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/atom-gamejam-2/rate/921400",
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzUyMDk5OTcucG5n/300x240%23c/W%2FK3MD.png",
+          "cover_color": "#071a30",
+          "url": "https://derinozon.itch.io/kopia",
+          "id": 921400,
+          "short_text": "Sınavı geçebilmek için kopya çek!",
+          "title": "Kopia",
+          "user": {
+            "id": 1114423,
+            "url": "https://derinozon.itch.io",
+            "name": "Derin Özön"
+          },
+          "platforms": [
+            "windows",
+            "osx"
+          ]
+        },
+        "created_at": "2021-02-15 15:00:55",
+        "id": 191792,
+        "contributors": [
+          {
+            "url": "https://derinozon.itch.io",
+            "name": "Derin Özön"
+          },
+          {
+            "url": "https://jerfi.itch.io",
+            "name": "Derin Eriş"
+          },
+          {
+            "url": "https://baykos.itch.io",
+            "name": "BAYKOS"
+          },
+          {
+            "url": "https://frauma.itch.io",
+            "name": "Frauma Entertainment"
+          }
+        ],
+        "coolness": 0
+      },
+      "details": {
+        "title": "Kopia",
+        "description": "(We will translate and re-upload the game after the jam. English version of this page is below)\nVersiyon 0.1\n- Daha rahat görünen sorular.\n-Çeşitli bug düzeltmeleri.\nHikaye\n      Önceki sınavında düşük alan Selami girdiği dersten geçebilmek için bu sınavda gerekli bütün yollara başvuracaktır(Hileye bile).\n  \nMekanikler\n- Kopya çekebilmek için sıradan kalkıp sıralar arasında gezinebilme.\n  \n- Kopya çekebilmek için yakınlaştırma.   \n- Her öğrencinin soruları doğru cevaplama olasılığının farklı olması(Günümüzde de olduğu gibi öne oturan öğrenciklerin başarısı oyunumuzda da daha yüksek).\n  \n- Kopya çekerken hocanın seni yakalaması.\n  \nOynanış\n- 10 dakika içersinde sınavı 85 puan ile tamamlaman gerek.\n  \n- Hoca seni 2.3 saniye boyunca kopya çekerken yakalarsa kaybedersin.\n  \n - F tuşuna basarak sınavını sonlandırabilme.\n  \n- E tuşu ile sıradan kalkarak sıralar arası gezinebilme ve tekrar sırana oturabilme.\n  \n- Sağ Tık ile soruları daha yakından görebilmek için yakınlaştırmayı açabilme.\n  \n-  Sol Tık ile soruları işaretleyebilme.\n  \n- Yön tuşları ile sayfalar arası geçiş yapabilme.\nEkip\nDerin Özön: Developer, ProgrammerDerin Eriş: Sound Designer, 3D ArtistBuğra Mutluer: 3D Artist, Character Artist\nPS: Enes Van 'a oyunun ismini bulduğu için şükranlarımızı sunarız\n !!! Bütün içerik Game Jam süresince yapıldı ve asset kullanılmadı !!!\n\nStory\nSelami, who got low in the previous exam, will apply all the necessary means in this exam (even cheating) to pass the course he took.\nMechanics\n\n- Getting up from the desk and navigating between the rows to cheat.\n - Zoom in for cheating.\n- Each student has a different probability of answering questions correctly.\n - The teacher catches you while cheating.\n\nGameplay\n\n- You have to complete the exam with 85 points in 10 minutes.\n - If the teacher catches you cheating for 2.3 seconds, you will lose.\n- To end the exam press the F key. \n - With the E key, you can navigate in the class. \n - You can zoom with the Right Mouse Button. \n - You can mark the questions with Left Mouse Button. \n - Switching between pages with the arrow keys.\n\nZipten çıkar ve oyna!\nUnzip & play!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvOTIxNDAwLzUyMTA2MzIucG5n/original/eVmGwB.png",
+          "https://img.itch.zone/aW1hZ2UvOTIxNDAwLzUyMTA2MzMucG5n/original/zeD1iH.png",
+          "https://img.itch.zone/aW1hZ2UvOTIxNDAwLzU1NzAyMzQucG5n/original/JQSgWj.png",
+          "https://img.itch.zone/aW1hZ2UvOTIxNDAwLzU1NzAyMzIucG5n/original/DvsK09.png",
+          "https://img.itch.zone/aW1hZ2UvOTIxNDAwLzU1NzAyMzMucG5n/original/w6Af6B.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS",
+          "Rating": "Rated 4.1 out of 5 stars(7 total ratings)",
+          "Authors": "Derin Özön, Derin Eriş, BAYKOS, Frauma Entertainment",
+          "Genre": "Simulation",
+          "Made with": "Unity, 3ds Max, Maya, FL Studio",
+          "Tags": "3D, cheat, classroom, Cute, exam, Math, school, Singleplayer, teacher",
+          "Average session": "About a half-hour",
+          "Languages": "Turkish",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 921727,
+      "gameUrl": "https://bcanusar.itch.io/hacklab",
+      "overallRank": 2,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/atom-gamejam-2/rate/921727",
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzUyMTI0MzMucG5n/300x240%23c/fBYZsn.png",
+          "cover_color": "#202020",
+          "url": "https://bcanusar.itch.io/hacklab",
+          "id": 921727,
+          "short_text": "If you want to live, you have to cheat!",
+          "title": "HackLab",
+          "user": {
+            "id": 3718468,
+            "url": "https://bcanusar.itch.io",
+            "name": "burak016"
+          },
+          "platforms": [
+            "windows"
+          ]
+        },
+        "created_at": "2021-02-15 14:36:54",
+        "id": 191717,
+        "contributors": [
+          {
+            "url": "https://bcanusar.itch.io",
+            "name": "burak016"
+          },
+          {
+            "url": "https://beerusar.itch.io",
+            "name": "Berken Eren Uşar"
+          }
+        ],
+        "coolness": 0
+      },
+      "details": {
+        "title": "HackLab",
+        "description": "Scroll down for English description\nATOM Game Jam #2 için tam olarak 70 saat içerisinde yapılmıştır\nEditör içerisinde sorunsuz çalışan ama build'de ortaya çıkan bir sorunu çözmek için baya uğraştık... Emeğe saygı\n\nHackLab araştırma tesisi, 1997 yılında hileli sistem ve mekanizmalar geliştirmek için kurulmuştur. Bu tesis, uzun yıllar boyunca üst düzey hileli mekanizmalar geliştirerek büyük başarılara imza atmıştır. Ancak 2005 yılında bir talihsizlik meydana gelmiştir, Duvarın arkasını gösteren gözlük, havadaki azot gazını kullanarak otomatik mermi üreten şarjör vb. sistemlerin patentine sahip olan HackLab araştırma tesisi saldırıya uğramıştır! Bu saldırı sebebiyle mahvolan ve yıkılan HackLab araştırma tesisinin çalışanları birer birer öldürülmüştür. Peki ya sen? Sen de HackLab'de çalışan birisin. Saldırganlar, seni de öldürmeyi amaçlıyorlar! O halde, yeteneğini ve HackLab'in hileli mekanizmalarını birlikte kullanarak tesisten kaçmaya çalış! Çünkü, HackLab'in kaderi sadece senin ellerinde.\n\nHalf-Life vb. oyunları seviyorsanız, bu oyunu da seveceğinize emin olabilirsiniz.\n\nDüşmanlar sese tepki verir, gerektiği zaman yakınlaşır, gerektiği zaman uzaklaşır ve kilitli kapıları açabilirler.Hareket halindeyken düşmanların size hasar vermesi zorlaşır ve verdikleri hasar azalır.Oyundaki NPC'lerle konuşabilirsiniz, sizlere bilgi vereceklerdir. (Konuşmaya başlamadan önce etraftaki tüm düşmanları öldürdüğünüzden emin olun. Diyalog sırasında öldürülmek istemezsiniz, değil mi?)Havadaki azotu mermiye dönüştüren şarjöre sahip olduğunuzda, sonsuz merminiz olur.Wallhack gözlüğünü kullanarak düşmanlarınızı duvarların arkasından görebilirsiniz.Çekmeceleri açarak, içlerini kontrol edebilirsiniz.Havalandırma borularına girebilirsiniz.Düşmanlara nişan aldığınızda, crosshair kırmızı renge döner.\nNOT: Oyundaki amaç düşmanları öldürmek değil, tesisten sağ salim kaçmaktır! Dolayısıyla hepsini öldürmek zorunda değilsiniz.\n\n[E] - Kapı ve çekmeceleri açıp kapatmak ve adamlarla konuşmak için[SHIFT] - Koşmak için[CTRL] - Eğilmek için[SAĞ TIK] - Silahla nişan almak için ve \"wallhack\" gözlüğünü takmak için[SOL TIK] - Silahla ateş atmak için[FARE TEKERİ] - Envanterdeki eşyalar arasında geçiş için\n\nBurak Can Uşar (3D modelleme + Arayüz + Ses)Berken Eren Uşar (Kodlama + Ses)\n\nKULLANILAR ASSET'LER\nSilah, patlama ve yürüme sesleri - zapsplat.comYazı tipleri - DigitalDisco, Euxoi, SuperstarYürüme animasyonu - MixamoKarakter sisteminin çok ufak bir kısmı - Easy Character Movement (Bu paketten sadece yürüme ve zıplama sisteminin temel bölümü kullanıldı. Eğilme, eşya alma, envanter, silah sistemi, nişan alma, mouse ile etrafa bakma,  yürüme/çarpma sesi vb. aklınıza gelebilecek diğer her şeyi kendim 3 gün içerisinde kodladım. Unity'nin kendi Character Controller sisteminin isGrounded vb. bir çok değeri olması gerektiği gibi çalışmıyor ve problemlere yol açıyor. Bunun tek çözümü Rigidbody ile custom character controller kodlamak, 3 gün içerisinde bunu yapmak büyük bir zaman kaybı olacağı için yürüme ve zıplamada Easy Character Movement kullanılmıştır)\nNOTLAR\nOyunu iki kardeş birlikte yaptık, kardeşim 12 yaşında ortaokul öğrencisi, ben de 18 yaşındayım ve lise öğrencisiyim. Kardeşim Burak ilk kez bir oyun projesinde yer aldı. Dolayısıyla yaptığınız her güzel yoruma buradan tekrar teşekkür ediyoruz, bizi motive ediyorsunuz :)Oyunda 72 saat süreye rağmen gayet iyi bir yapay zeka var. Sese tepki veriyor, gerektiği zaman yakınlaşıp, gerektiği zaman uzaklaşıyor. Umarım seversiniz Ayrıca düşmanlar, oyundaki kilitli kapıları açabiliyorlar.Oyunda belki fark edilmez ancak düşmanlar bize vuramadığında merminin yanımızdan kayma sesi, vurduklarında ise vücuda mermi girme ve kan sesi geliyor. Ayrıca ofis sandalyesi etrafa çarptığında, çarpmanın gücüne bağlı olarak ses çıkarıyor. Bu tarz bol bol ufak detay var, bunlar belki fark edilmez diye not düşüyoruz.Oyun zor diyen arkadaşlar, oyundaki tüm düşmanları öldürmek zorunda değilsiniz! Zıplayın, eğilin ve hızlı hareket edin, bu şekilde onları atlatmaya çalışın ve kaçış kapısına ulaşın. Zaten \"wallhack\" ve  \"sonsuz mermi\" hileleri olan bir oyunu kolay yapsaydık ne anlamı kalırdı :)Oyunda Türkçe seslendirme var. Elimizden geldiği kadarıyla, duygu yüklü bir şekilde seslendirmeye çalıştık. Umarım hoşunuza gider.Oyundaki tüm kodları olabildiğince modüler bir şekilde yazdık. Bu sayede eğer beğenilirse, kolaylıkla geliştirebilir ve sizlere güncellenmiş, çok daha gelişmiş bir HackLab sunabiliriz.\nİPUCU: Eğer anahtarı bulamazsanız, büyük odadaki havalandırma boşluklarını kontrol edin ;)\nİPUCU 2: NPC'lerle konuşmaya başlamadan önce etrafta düşman olmadığına emin olun. Yoksa diyalog sırasında öldürülebilirsiniz.\n***************************\n\nThis game was made for ATOM Game Jam #2. Theme was \"Cheat to win\"Story\nHackLab Research Facility was founded in 1997 to develop advanced tricky machines and systems. This facility achieved success by developing lots of advanced tricky machines for a while. In 2005, HackLab has been attacked by a group of people. Those people wanted to steal HackLab's projects like wallhack(xray) glasses, infinite bullet-generating magazine... During this attack, workers of HackLab has been killed by enemies one by one! What about you? You're a HackLab worker, too! Enemies want to kill you! So use your skills and HackLab's tricky machines together and escape from facility! Because, only you can save HackLab Research Facility!\n\nIf you like games like Half-Life, be sure that you'll like it too!\nMechanics\nEnemies hear sounds, they come near and move away when needed. They can also open locked doors.If you move, it'll be harder for enemies to shot you and they do less damage.You can talk with NPCs. They'll give you information. (Be sure there are no enemies who're walking around to find you. If so, they can shot you while you're talking with NPC)If you have the magazine that converts nitrogen in the air to bullets, you'll have infinity bullets.If you wear wallhack glasses, you'll be able to see enemies behind the walls.You can open drawers and check inside of them.You can enter vent pipes.When you aim(right-click) to your enemies, the crosshair will turn to red.\nNOTE: The mission is not \"killing all the enemies\", the mission is \"escaping from the facility\"! So you don't have to kill all of them.\nControls\n[E] - Interact (opening doors/drawers...)[SHIFT] - Run[CTRL] - Crouch[RIGHT CLICK] - Aim or wear \"walhack\" glasses[LEFT CLICK] - Shot[MOUSE WHEEL] - Change current selected item in your inventory\nTeam\nBurak Can Uşar (3D modeling + UI + Sounds)Berken Eren Uşar (Programming + Sounds)\nHINT: If you cannot find the key, check the vent pipes in the big room ;)\nDownload English version: http://bit.ly/hacklab-enİndirin ve RAR dosyasını çıkartın. HackLab.exe ile oyunu başlatın!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvOTIxNzI3LzUyMTIzODkucG5n/original/vit%2Fr3.png",
+          "https://img.itch.zone/aW1hZ2UvOTIxNzI3LzUyMTIzODcucG5n/original/opEukj.png",
+          "https://img.itch.zone/aW1hZ2UvOTIxNzI3LzUyMTIzOTEucG5n/original/EsNnUI.png",
+          "https://img.itch.zone/aW1hZ2UvOTIxNzI3LzUyMTIzODgucG5n/original/bnROoI.png",
+          "https://img.itch.zone/aW1hZ2UvOTIxNzI3LzUyMTIzOTIucG5n/original/iQrOdD.png",
+          "https://img.itch.zone/aW1hZ2UvOTIxNzI3LzUyMTIzOTMucG5n/original/tUFg2z.png",
+          "https://img.itch.zone/aW1hZ2UvOTIxNzI3LzUyMjM2NDEucG5n/original/Wfb%2FlW.png",
+          "https://img.itch.zone/aW1hZ2UvOTIxNzI3LzUyMTIzOTQucG5n/original/oAt6fg.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.4 out of 5 stars(7 total ratings)",
+          "Authors": "burak016, Berken Eren Uşar",
+          "Genre": "Action, Puzzle",
+          "Tags": "3D, cheat, Hacking, maze, Sci-fi, Singleplayer, Unity, Voxel"
+        }
+      }
+    },
+    {
+      "gameId": 921674,
+      "gameUrl": "https://marcus7z.itch.io/tricky-destiny",
+      "overallRank": 3,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/atom-gamejam-2/rate/921674",
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzUyMjk3NDYucG5n/300x240%23c/der953.png",
+          "cover_color": "#17154e",
+          "url": "https://marcus7z.itch.io/tricky-destiny",
+          "id": 921674,
+          "short_text": "Kaderi Kandırabilir misin?",
+          "title": "Tricky Destiny",
+          "user": {
+            "id": 2013712,
+            "url": "https://marcus7z.itch.io",
+            "name": "marcus7z"
+          },
+          "platforms": [
+            "web"
+          ]
+        },
+        "created_at": "2021-02-15 14:20:17",
+        "id": 191671,
+        "coolness": 0
+      },
+      "details": {
+        "title": "Tricky Destiny",
+        "description": "Tricky Destinykader aldatılabilir mi ,yada bir insan kendi kaderini çizip, kendi kaderini yanıltabilirmi,babası bir uyuşturucu bağımlısı tarafından vurulan bir gencin  intikam hikayesi.At0m Game Jam #2 İçin  72 Saatte yapılmıstır.OZELLİKLERdizi tadında ara sahnelermükemmel Türkçe dublaj4 saat kafa patlatılmış senaryove beklenmeyen bir finaltüm çizimler ve sesler bize aittirİndirmeden OYNABIZE ULASMarcus7zWendigo\n\n \nhttps://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/986088610&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\nMarcus7z · Tricky Destiny",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvOTIxNjc0LzUyMTM4ODAucG5n/original/C4RKh%2F.png",
+          "https://img.itch.zone/aW1hZ2UvOTIxNjc0LzUyMTM4NzkucG5n/original/6o%2FJ5d.png",
+          "https://img.itch.zone/aW1hZ2UvOTIxNjc0LzUyMTM4ODEucG5n/original/FWGas1.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.3 out of 5 stars(3 total ratings)",
+          "Author": "marcus7z",
+          "Genre": "Adventure",
+          "Tags": "2D, Atmospheric, Pixel Art, Short, Singleplayer, story"
+        }
+      }
+    },
+    {
+      "gameId": 921074,
+      "gameUrl": "https://akdumandev.itch.io/blackback",
+      "overallRank": 4,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/atom-gamejam-2/rate/921074",
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzUyMDc5MDkucG5n/300x240%23c/2rq6VY.png",
+          "cover_color": "#fcda00",
+          "url": "https://akdumandev.itch.io/blackback",
+          "id": 921074,
+          "short_text": "Blackback, farklı hile kartlarıyla farklı şekilde oynanış özgürlüğü sunan bir 3d puzzle platformer oyunudur.",
+          "title": "Blackback",
+          "user": {
+            "id": 1492007,
+            "url": "https://akdumandev.itch.io",
+            "name": "AkdumanDev"
+          },
+          "platforms": [
+            "windows"
+          ]
+        },
+        "created_at": "2021-02-15 06:02:55",
+        "id": 191329,
+        "coolness": 0
+      },
+      "details": {
+        "title": "Blackback",
+        "description": "(Bu oyun ATOM GameJam #2 için yapılmıştır.)\nBlackback, farklı hile kartlarıyla farklı şekilde oynanış özgürlüğü sunan bir 3d aksiyon puzzle platformer oyunudur.\nNasıl Oynanır?\nWASD veya yön tuşları ile hareket edilip, \"Space\" tuşu ile zıplanır. Fare kullanılarak kartlar seçilir veya aktif/deaktif edilir.\nKullandığım Assetler\nUnity'nin eklentisi olan PostProcess, CineMachine tarzı eklentiler dışında kullandığım font ve ses efektleri var. Geri kalan her şey şahsım tarafından tasarlanmış, modellenmiş, animasyonlanmış ve programlanmıştır.\nKullandığım Yazılımlar\nUnity3D, Visual Studio, MagicaVoxel, Blender, Aseprite, Adobe Photoshop\nMüzikler ve SFX\nMüzik: Tunahan Kocaefe (tunahankocaefe@gmail.com)\nSFX: MadRooster Studio ve Asset Store'daki SFX sağlayıcıları.\nYapımcı\nGame Artist, Designer, Developer: Mehmet Akduman(Instagram: m_akduman)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvOTIxMDc0LzUyMDc5MTMucG5n/original/dH%2BJ7b.png",
+          "https://img.itch.zone/aW1hZ2UvOTIxMDc0LzUyMDc5MTQucG5n/original/L0NfkJ.png",
+          "https://img.itch.zone/aW1hZ2UvOTIxMDc0LzUyMDc5MTIucG5n/original/6WqgYi.png",
+          "https://img.itch.zone/aW1hZ2UvOTIxMDc0LzUyMDc5MTEucG5n/original/LR%2BAiV.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.3 out of 5 stars(3 total ratings)",
+          "Author": "AkdumanDev",
+          "Genre": "Puzzle, Card Game, Platformer",
+          "Tags": "3D, 3D Platformer, pixel, Pixel Art, Puzzle-Platformer, Singleplayer, Unity, Voxel"
+        }
+      }
+    },
+    {
+      "gameId": 920633,
+      "gameUrl": "https://sagydemn.itch.io/chipboi",
+      "overallRank": 5,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/atom-gamejam-2/rate/920633",
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzUyMTM0NzAucG5n/300x240%23c/%2Fa6mBw.png",
+          "cover_color": "#ffffff",
+          "url": "https://sagydemn.itch.io/chipboi",
+          "id": 920633,
+          "short_text": "Game with a twist",
+          "title": "Chip-Boi",
+          "user": {
+            "id": 147170,
+            "url": "https://sagydemn.itch.io",
+            "name": "Sagy"
+          },
+          "platforms": [
+            "windows"
+          ]
+        },
+        "created_at": "2021-02-15 14:52:13",
+        "id": 191775,
+        "contributors": [
+          {
+            "url": "https://sagydemn.itch.io",
+            "name": "Sagy"
+          },
+          {
+            "url": "https://roalinn.itch.io",
+            "name": "Roalinn"
+          },
+          {
+            "url": "https://koyan.itch.io",
+            "name": "Koyan"
+          },
+          {
+            "url": "https://furkan-karabudak.itch.io",
+            "name": "Furkan Karabudak"
+          }
+        ],
+        "coolness": 0
+      },
+      "details": {
+        "title": "Chip-Boi",
+        "description": "-Developers-\nMuhammed Emin Altun   (Roalinn#1853)Çağatay Demir   (sagylel#4820)Koyan   (Koyan#4300)Furkan Karabudak   (Furkan Karabudak#2488)\n-Contact-\nDISCORD\n-Used Assets-\nSFX -> SoundSnap.comMusic -> Short Retro Action Loop from Music loops mini setOther things were made by us in 72 hours.\n-Controls-\nWASD - (Movement)E/Space - (Interact)R - (Restart the room)Page Up-Page Down - (Switch Between Rooms [in Debug Mode])\n\nMade with GameMaker Studio 2 for the At0m Jam #2 with the theme of \"Cheat to Win\" in less then 72 hours.\n\n-IMPORTANT NOTE-\n-DON'T FORGET TO EXTRACT THE ZIP; then play it, otherwise the game may crash.\n-Anti-viruses may delete some file's in our game so we suggest you to close it before extract the game file.\n-Please use \"Screen Capture\" to stream the game with OBS, not \"Game Capture\".\n\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvOTIwNjMzLzUyMDk1NTMucG5n/original/DH5Pk4.png",
+          "https://img.itch.zone/aW1hZ2UvOTIwNjMzLzUyMDk1NTQucG5n/original/Z5cwus.png",
+          "https://img.itch.zone/aW1hZ2UvOTIwNjMzLzUyMDk1NTIucG5n/original/6vGLgD.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(17 total ratings)",
+          "Authors": "Sagy, Roalinn, Koyan, Furkan Karabudak",
+          "Genre": "Platformer, Puzzle",
+          "Made with": "GameMaker, Aseprite",
+          "Tags": "2D, 8-Bit, Game Jam, GameMaker, glitch, Pixel Art, Short, Singleplayer",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse",
+          "Accessibility": "Color-blind friendly, High-contrast, Interactive tutorial",
+          "Links": "Discord"
+        }
+      }
+    },
+    {
+      "gameId": 919441,
+      "gameUrl": "https://furkankursav.itch.io/hile",
+      "overallRank": 6,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/atom-gamejam-2/rate/919441",
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzUyMDU1OTUuanBn/300x240%23c/FZE9lD.jpg",
+          "cover_color": "#1e211c",
+          "url": "https://furkankursav.itch.io/hile",
+          "id": 919441,
+          "short_text": "Bu oyunu hile yapmadan kazanamazsınız :)",
+          "title": "Hile",
+          "user": {
+            "id": 2039396,
+            "url": "https://furkankursav.itch.io",
+            "name": "Furkan Kursav"
+          },
+          "platforms": [
+            "windows"
+          ]
+        },
+        "created_at": "2021-02-14 20:42:47",
+        "id": 191197,
+        "coolness": 0
+      },
+      "details": {
+        "title": "Hile",
+        "description": "ATOM GameJam #2 için yapılmıştır.\nHareket etmek için: A-D\nZıplamak için: Space\nGeri kalan kontroller yeri geldiğinde  oyun içerisinde öğretilmiştir.\nSpritelar, tilesetler ve sesler hazır alınmıştır.\nHikaye, kurgu, oyun tasarımı ve programlama şahsıma aittir.Rar dosyasını indirin.İndirdiğiniz dosyayı rar'dan çıkartın.hile.exe 'yi çalıştırınİyi eğlenceler :)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvOTE5NDQxLzUyMDU1MjIucG5n/original/EB8A%2Fv.png",
+          "https://img.itch.zone/aW1hZ2UvOTE5NDQxLzUyMDU1MjMucG5n/original/TqpyW%2F.png",
+          "https://img.itch.zone/aW1hZ2UvOTE5NDQxLzUyMDU1MjYucG5n/original/rq9mpF.png",
+          "https://img.itch.zone/aW1hZ2UvOTE5NDQxLzUyMDU1MjcucG5n/original/UalJpc.png",
+          "https://img.itch.zone/aW1hZ2UvOTE5NDQxLzUyMDU1MjQucG5n/original/fctNTm.png",
+          "https://img.itch.zone/aW1hZ2UvOTE5NDQxLzUyMDU1MjUucG5n/original/X5UduE.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows",
+          "Rating": "Rated 3.7 out of 5 stars(3 total ratings)",
+          "Author": "Furkan Kursav",
+          "Genre": "Puzzle",
+          "Tags": "2D, Pixel Art, Puzzle-Platformer"
+        }
+      }
+    },
+    {
+      "gameId": 921490,
+      "gameUrl": "https://cgrgunay.itch.io/croco-die-a-lot",
+      "overallRank": 7,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/atom-gamejam-2/rate/921490",
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzUyMTIxNjkucG5n/300x240%23c/%2BpOYhk.png",
+          "cover_color": "#58abff",
+          "url": "https://cgrgunay.itch.io/croco-die-a-lot",
+          "id": 921490,
+          "short_text": "Speedrun Hacking Game",
+          "title": "Croco-Die-a-Lot",
+          "user": {
+            "id": 2413208,
+            "url": "https://cgrgunay.itch.io",
+            "name": "CgrGunay"
+          },
+          "platforms": [
+            "windows",
+            "osx"
+          ]
+        },
+        "created_at": "2021-02-15 14:11:05",
+        "id": 191651,
+        "contributors": [
+          {
+            "url": "https://cgrgunay.itch.io",
+            "name": "CgrGunay"
+          },
+          {
+            "url": "https://kaganobik.itch.io",
+            "name": "Kaganobik"
+          },
+          {
+            "url": "https://emirrthepengu.itch.io",
+            "name": "emirrthepengu"
+          },
+          {
+            "url": "https://denixsucks.itch.io",
+            "name": "denixsucks"
+          },
+          {
+            "url": "https://tiggerbow.itch.io",
+            "name": "TiggerBOW"
+          }
+        ],
+        "coolness": 0
+      },
+      "details": {
+        "title": "Croco-Die-a-Lot",
+        "description": "This Game Made For Atom Game Jam #2 In 72 Hours\nThe Theme was \"Hack To Win The Game\"\n-Story- \nOur character who is responsible for major cyber attacks, comes across a newspaper article. Croco-Die-a-Lot has made its release. Known for its difficulty, the game announces that they will give a big reward to the person who finishes the game first by the developer studio. Our character tries to finish the game quickly by using his hacker skills. \n-Hikaye-\nBirçok siber saldırı düzenlemiş ana karakterimiz, gazetede bir haber ile karşılaşır. Croco-Die-a-Lot adlı oyun çıkışını yapmıştır. Zorluğu ile bilinen oyun, stüdyosu tarafından oyunu en hızlı bitiren kişiye büyük bir ödül verecektir. Ana karakterimiz oyunu hacker yeteneklerini kullanarak hızlı bitirmeye çalışır.\n-Controls-\nA - D: Walk\nW / Space: Jump \nLeft Shift: Dash \nLeft Click: Attack \nRight Click / TAB: Transition between Computer and Game view \nUI: \nBack Icon: Restarts the game. \nFlag Icon: Teleports to the last checkpoint.\n-Credits-\nProgrammers: Yusuf Kerman, Çağrı Günay \n2D Artists: Emir Çetinkaya, denixsucks \nMusics: Kağan MorkoçOynamadan önce dosyaları zipten/rardan çıkartın!\nUnzip/Unrar the file before playing!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvOTIxNDkwLzUyMTExNzQucG5n/original/Vmja3X.png",
+          "https://img.itch.zone/aW1hZ2UvOTIxNDkwLzUyMTExNzYucG5n/original/9LialT.png",
+          "https://img.itch.zone/aW1hZ2UvOTIxNDkwLzUyMTExNzgucG5n/original/QYYbFm.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS",
+          "Rating": "Rated 4.9 out of 5 stars(8 total ratings)",
+          "Authors": "CgrGunay, Kaganobik, emirrthepengu, denixsucks, TiggerBOW",
+          "Genre": "Platformer, Puzzle",
+          "Made with": "Unity, Aseprite, FL Studio",
+          "Tags": "2D, Pixel Art, Puzzle-Platformer, Speedrun, Unity",
+          "Average session": "About a half-hour",
+          "Languages": "Turkish",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 920656,
+      "gameUrl": "https://batuhanceyhan.itch.io/tothetop",
+      "overallRank": 8,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/atom-gamejam-2/rate/920656",
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzUyMDYwMzYucG5n/300x240%23c/p7CGFc.png",
+          "url": "https://batuhanceyhan.itch.io/tothetop",
+          "id": 920656,
+          "cover_color": "#000000",
+          "title": "ToTheTop",
+          "user": {
+            "id": 3087009,
+            "url": "https://batuhanceyhan.itch.io",
+            "name": "batuhanceyhan"
+          },
+          "platforms": [
+            "windows"
+          ]
+        },
+        "created_at": "2021-02-14 20:53:58",
+        "id": 191202,
+        "coolness": 0
+      },
+      "details": {
+        "title": "ToTheTop",
+        "description": "ATOM GameJam #2 için yapılmıştır.\n-----------------------------------------\nCoder  -> Batuhan Ceyhan\nUi Design -> Batuhan Ceyhan\n3D Models -> Enes Çubuk , Batuhan Ceyhan\nAnimations -> Batuhan Ceyhan\nSFX -> Ulaş Taşçığlu\nBGM -> Batuhan Ceyhan\nScenario -> Kadir Cem Yılmaz\nCredits & Trailer -> Enes Çubuk \n\n-----------------------------------------\nArkaplan müzikleri FL Studio ile yapılmıştır.\nArkaplandaki ses Replica Plug-ini ile yapılmıştır\nBaşarım Sistemi Epic MarketPlace'den alınmıştır\n------------------------------------------------\nTo The Top içerisinde, To The Top isminde bir VR oyun olan ve karakterimizin yani sizlerin bu oyunu oynamaya çalıştığı ancak işlerin aslında pek de göründüğü gibi olmadığını sonradan farkedeceğiniz bir 3d puzzle oyunudur.\n--------------------------------------------------------------------------\nKontroller\n---------------------------------\nF - VR Takma\nWASD - Hareket\nSpace - Zıplama \nP/ESC - Duraklama menüsü\nMouse Sol Tık - Ateş\nMouse Sağ Tık - Telekines\nReload - R \nDash - Left Shift\nSlow Motion - CTRL\nSlide - Left Alt\n-----------------------------------------------------------------------------\nOyun Hileleri\n-------------------------------------\nHarektsiz 5 sn boyunca bekledikten sonra yazarsanız aktifleşicektir.\n***********************\nCANEKLE -> Can fullenir\nMANAVERLAN -> Mana fullenir\nGODMODE -> Canı 100000 yapar\n************************\nOYUN İLERLEYİŞİNİ ETKİLEYECEK HİLELER\n----------------------------------------------------------------------------------\n----------------------------------------------------------------------------------\n----------------------------------------------------------------------------------\n----------------------------------------------------------------------------------\nOyunun ikinci bölümünde sütunların içerisinde gizli ok vardır.Bu oklara yeterince yaklaşırsanız görünür olacaktır ve belirli bir alanı göstermektedir eğer bu alanı bulup 3 defa zıplarsanız gizli panel yıkılıp başka bir geçit ortaya çıkacaktır.\n************************************\nSon levelde bilgisayar saatini otomatik algıladan çıkarıp 3 dk ve üzeri ileri alıp ayarladıktan,5sn -6sn bekledikten sonra tekrar otomatik algıla dediğinizde kapı 3dk geçmiş olarak algılayıp açılacaktır böylece beklemek zorunda kalmayacaksınız.\n************************************\nEğer yukarıdaki örneklerdeki gibi ;\nATOMGAMEJAM yazarsanız 2. levele atar (ister  ilk levelde olun,isterseniz de son farketmez)\n\nDİPNOT: SAYIN ATOM BEY TEMA OYUNU KAZANMAK İÇİN HİLE YAPMALISIN FAKAT SON LEVELDE YAPILMASI HİLE TAHMİN EDİLMEYEBİLİR DİYE YİNE DE BİR SÜRE SONRA GEÇİLMESİNİ MÜMKÜN KILDIK DİKKATE ALIRSANIZ SEVİNİRİZ.\n ",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvOTIwNjU2LzUyMDYwNjAucG5n/original/1NHrBn.png",
+          "https://img.itch.zone/aW1hZ2UvOTIwNjU2LzUyMDYwNTkucG5n/original/FGZ10w.png",
+          "https://img.itch.zone/aW1hZ2UvOTIwNjU2LzUyMDYwODAucG5n/original/Njpko%2B.png",
+          "https://img.itch.zone/aW1hZ2UvOTIwNjU2LzUyMDYwODEucG5n/original/NqcSdD.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 4.3 out of 5 stars(3 total ratings)",
+          "Author": "batuhanceyhan",
+          "Genre": "Puzzle",
+          "Tags": "3D, FPS, FPS Platformer, upgrades"
+        }
+      }
+    },
+    {
+      "gameId": 921643,
+      "gameUrl": "https://ihakan.itch.io/balanchacked",
+      "overallRank": 9,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/atom-gamejam-2/rate/921643",
+        "game": {
+          "url": "https://ihakan.itch.io/balanchacked",
+          "title": "BalanceHacked",
+          "cover": "https://img.itch.zone/aW1nLzUyNzMzMDkuZ2lm/300x240%23c/%2BuZUtU.gif",
+          "short_text": "A short platformer game where you have limited time",
+          "id": 921643,
+          "cover_color": "#181819",
+          "gif_cover": "https://img.itch.zone/aW1nLzUyNzMzMDkuZ2lm/original/v4GfHK.gif",
+          "user": {
+            "id": 3239231,
+            "url": "https://ihakan.itch.io",
+            "name": "ihakan"
+          },
+          "platforms": [
+            "windows",
+            "android"
+          ]
+        },
+        "created_at": "2021-02-15 14:23:29",
+        "id": 191677,
+        "coolness": 0
+      },
+      "details": {
+        "title": "BalanceHacked",
+        "description": "Türkçe için aşağı kaydırın\nThis game was made for Atom GameJam #2 (2021 February) in 72 hours.\n\nThe game has been taken over by a mysterious hacker. Can you manage to bring balance back to the game?\n\nBeat the impossible levels with using hacks before the time is up, save the game!\n\n\n\nNew Update:\nThe Game Optimized.\nUndertale like dialogue sound added.\nIn-game language selection added.\nPause Menu added.(esc)\nLevel Select Menu(android)\nControls:\nControlled by WASD or Arrow keys.\nJump with the Space key\nThe controls of the cheats are written on the right in the game.\n\nSkip Level Button:\nYou can skip to the next level with the F1 key (Jam specific). But if you cannot beat the level, you can watch the Tutorial video.\n\nWalkthrough:\nIf you have a hard time beating the levels, you can check this video.\n\nNote: The video shows how to beat the levels and there are spoilers. If you want to look at the game, you can watch the Trailer Video from the top right.\n\n\n\n\n\n\nMusics:\nMusic and sound effects are not mine.\nAnsia Orchestra - Hack The Planet\nZelda: Great Fairy Fountain (Piano Etude) - YouTube \nChinese Memory - Ramol (Original)\nThe team:\n Me, 16 years old, Discord: ihakan # 5959\n\nI'm thinking of adding more levels and a nice escape from boss sequence when the jam is over.\n\nDo not forget to state your opinion by commenting. The game will be updated after GameJam.\n\nPre-made Assets\n\nPre-made assets were not used except for sound and music. All sprites are drawn from scratch.\n\nBut since I am not a good illustrator, I was inspired by the following game -> Edna - Out of sight, out of control\n\n\nTÜRKÇE\n\nBu oyun Atom GameJam #2 (2021 Şubat) için  72 saatte yapılmıştır. \n\nGizemli bir hacker tarafından oyun ele geçirildi. Oyuna dengeyi tekrar geri getirmeyi başarabilir misin?\n\nGeçilmesi imkansız bölümleri hile yaparak süre bitmeden geç, oyunu kurtar!\n\n\n\nYeni Güncelleme:\nOyun optimize edildi.\nUndertale tarzı diyalog sesi eklendi.\nOyun içi dil seçme eklendi.\nPause Menu eklendi (esc).\nBölüm seçme eklendi(android)\nKontroller:\nWASD veya Ok tuşları ile kontrol edilir.\nSpace tuşu ile zıplanır\nHilelerin kontrolleri oyun içinde sağ tarafta yazıyor.\n\nHile Tuşu:\nF1 tuşu ile bir sonraki bölüme atlayabilirsiniz(Jam'e özel).\nFakat bölümü geçemiyorsanız Tutorial videosunu izleyebilirsiniz.\n\nOynanış Videosu:\nBölümlerde zorlanırsanız bu videoya bakabilirsiniz.\n\nNot: Video bölümlerin nasıl geçileceğini göstermektedir ve spoiler vardır. Oyuna bakmak istiyorsanız sağ üstten Trailer Videosunu izleyebilirsiniz\n\n\n\nMüzikler:\nMüzik ve ses efektleri bana ait değildir.\n\nAnsia Orchestra - Hack The Planet\nZelda: Great Fairy Fountain (Piano Etude) - YouTube \nChinese Memory - Ramol (Original)\nEkip: 16 yaşında olan ben\nDiscord: ihakan#5959\n\nJam bitince daha fazla bölüm ve güzel bir kaçışlı boss sekansı eklemeyi düşünüyorum.\n\nGörüşlerinizi yorum yaparak belirtmeyi unutmayın. Gamejam sonrasında oyun güncellenecektir.\n\nHazır Assetler:\n\nSes ve müzikler dışında hazır asset kullanılmadı. Bütün spritelar sıfırdan çizilme.\n\nFakat iyi bir çizer olmadığımdan şu oyundan tasarım olarak ilham aldım -->Edna - Out of sight, out of control\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvOTIxNjQzLzUyMTEyNjIucG5n/original/dPLqCR.png",
+          "https://img.itch.zone/aW1hZ2UvOTIxNjQzLzUyMTEyNjMucG5n/original/e%2BO97f.png",
+          "https://img.itch.zone/aW1hZ2UvOTIxNjQzLzUyMTEyNjAucG5n/original/SQK7Pa.png",
+          "https://img.itch.zone/aW1hZ2UvOTIxNjQzLzUyMTEyNjEucG5n/original/jqOsc%2F.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, Android",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "ihakan",
+          "Genre": "Platformer",
+          "Made with": "Unity",
+          "Tags": "2D, Difficult, Pixel Art, Puzzle-Platformer, Short, Singleplayer, Unity",
+          "Average session": "A few seconds",
+          "Languages": "English, Turkish",
+          "Inputs": "Keyboard, Mouse, Touchscreen",
+          "Accessibility": "Subtitles"
+        }
+      }
+    },
+    {
+      "gameId": 921563,
+      "gameUrl": "https://talhemin.itch.io/hack-your-life",
+      "overallRank": 10,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/atom-gamejam-2/rate/921563",
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzUyMTE1OTYucG5n/300x240%23c/Lmpuc3.png",
+          "cover_color": "#14090f",
+          "url": "https://talhemin.itch.io/hack-your-life",
+          "id": 921563,
+          "short_text": "At0m GameJam #2",
+          "title": "Hack Your Life",
+          "user": {
+            "id": 3311819,
+            "url": "https://talhemin.itch.io",
+            "name": "Emin Talha Arık"
+          },
+          "platforms": [
+            "windows"
+          ]
+        },
+        "created_at": "2021-02-15 14:27:23",
+        "id": 191693,
+        "coolness": 0
+      },
+      "details": {
+        "title": "Hack Your Life",
+        "description": "Bu oyun, At0m Game Jam 2 için oluşturulmuştur.\nUyandın ve her zamanki işlerini yapmak için yatağından kalktın. Ancak dünyanın kaderinin senin ellerinde olduğundan haberin yoktu. \nBirden televizyon gözüne çarptı ve o günkü haberleri merak ettin. Gördüğün haber karşısında şok oldun. Dünya oyun karakterleri tarafından istila edilmişti.Artık dünyanın kaderi senin ellerindeydi. Ya doğru hileler ile oyun karakterlerini bilgisayarlara hapsedecektin ya da bir zamanlar insanların kölesi olanoyun karakterlerinin ebedi esiri olucaktın.\n\nOyunda hile kağıtlarını dikkatli takip et. Doğru hileyi kodunu doğru bilgisayarda kullanman gerekiyor.\nNasıl Oynanır ?\n\n            \n\n\n            \n\nYapımcılar\n\nGraphic Designer: Efe Yiğit BeyhanInstagram: https://www.instagram.com/efe_yigit_beyhan/Twitter: https://twitter.com/EfeYiit93770975\n\nPixel Artist: Gökhan PerçemDiscord: kiplunch#3956\n\nGame Developer: Emin Talha Arıkİletişim Bilgileri: https://www.linktr.ee/talhemin\n\nPixel Artist & Explorer: Mehmethan Sağır\n\nAssetler\nArkaplan Müziği : https://www.youtube.com/watch?v=l7SwiFWOQqM&list=PLwJjxqYuirCLkq42mGw4XKGQlpZSfxsYd&index=5\nBazı retro oyun sprite'larında değişiklikler yapılarak eklenmiştir. Onun dışında bütün sprite'lar bizimdir.\nTakılanlar için;\n1. Şifre  Kağıdı -> Minecraft Bölgesi Bilgisayarı (aezakmi)\n2.Şifre Kağıdı -> Mario Bölgesi Bilgisayarı (getMantar)\n3. Şifre Kağıdı -> Oyunu Bitir  (endgame)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvOTIxNTYzLzUyMTE4MDcucG5n/original/AAg44G.png",
+          "https://img.itch.zone/aW1hZ2UvOTIxNTYzLzUyMTEyNTEucG5n/original/5a%2F1LV.png",
+          "https://img.itch.zone/aW1hZ2UvOTIxNTYzLzUyMTEyNTMucG5n/original/r1VKqt.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "Emin Talha Arık",
+          "Genre": "Platformer, Adventure",
+          "Tags": "2D, anonymus, Hacking, Minecraft, pacman, Pixel Art, Singleplayer, super-mario"
+        }
+      }
+    },
+    {
+      "gameId": 921201,
+      "gameUrl": "https://vlonderz.itch.io/p",
+      "overallRank": 11,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/atom-gamejam-2/rate/921201",
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzYwODI3ODgucG5n/300x240%23c/M1fWVR.png",
+          "cover_color": "#250202",
+          "url": "https://vlonderz.itch.io/p",
+          "id": 921201,
+          "short_text": "Kapımıza gelen gizemli kutunun hikayesi",
+          "title": "Payloader's",
+          "user": {
+            "id": 3311281,
+            "url": "https://vlonderz.itch.io",
+            "name": "vLondeRz"
+          },
+          "platforms": [
+            "windows"
+          ]
+        },
+        "created_at": "2021-02-15 08:46:13",
+        "id": 191359,
+        "coolness": 0
+      },
+      "details": {
+        "title": "Payloader's",
+        "description": "\n1920x1080 Oynayın\n<Güncel Sürüm>\n https://s5.dosya.tc/server/ur0oy0/PAYLOADER_BUGFIX__EDITION.rar.html \n\nEğer indirmek istemezseniz bu sayfanın aşşağısındaki butondan indirirseniz Kutuyu masaya koyduktan sonra \"E tuşuna basmayınız !\"\n\n<Peki ya neden ?> \nOyun aslında GameJam de bahşedilen süre zarfı içersinde bitmiş bulunmakta ama ufak bir kod hatası yüzünden buraya bu linki koyuyorum.\n\n<Detaylı Anlatım>\nBuraya güncel sürüm koyma sebebim oyunun itch io sayfasında bulunan versiyonda tek satırlık bir kodu unutmam. Oyunda hikayesel olarak kutuyu alıp masaya koymanız gerekiyor ama bir kod hatası yüzünden kutuyu koyarken eğer \"E\" tuşuna basarsanız oyun buga giriyor. Buradaki sürümde o düzeltilmiştir !\n\n\n\n\n\n<Oynanış Videosu>\n\n\n\n\nPayloader aslında büyük bir şirkettir. Amacı kendine yetenekli elemanları katıp  kirli işlerde kullanmak. Bu ndenle belirli insanlara \"Denek adı altında\" Kutu şeklinde oyun yollarlar. Bu oyunu geçmek imkansızdır. Geçmek isterseler illaki hile yapmak zorundadırlar. Payloader şirketide oyunu geçenleri zorla işe alır.\n\n\n• Yusuf Şimşek - vLondeRz#0001 (Coder, 2D Designer, SFX, Level designer,Seslendirmen,Animator,Uİ Designer)\n• Eren Özdemir - ErenLS#3017 (Coder, 2D Game Designer)\n• Ege İpek - aigenn#4876 (Coder, 2D Game Designer)\n<Kontroller>\n\n\n\nOyun başladıktan sonra mutfağa gitmelisiniz(İkinci oda)Mutfaktaki hamburgeri yemelisiniz\nHamburgeri yedikten sonra tekrar içeri girmelisiniz\nGirdikten sonra kapı çalıcak\n\"Kapı açılır, kapının önünden bir kutu çıkar\"\nKutuyu alıp Biligsayar masanıza götürün\nİçinden çıkan CD yi alın ve PC masasına oturun\nPc Şifresini bulamadıysanız odadaki  beyaz tahta nın üstünde yazıyor\nBulamadınız mı ? kullanıcı adı = admin, şifre = 125499\nKutuyu açtıktan sonra gelen oyunu açın\nOyunu geçemezseniz başka bir yöntem dene seçeneğini seçin\nLonder Browser'e (Mavi Kurt Logolu App) \"Hile nasıl yapılır\" yazın\nÇıkan popuptan indire tıklayın\nİnen appi çalıştırın\nKodlama için istenilen leri yapın\nKonsol ekranını geçemediniz mi ? \nKonsolun alt kısmında bulunan yazı bölümüne \"StartPayloader();\" yazınız.\nÇıkan 3 mini oyunu oynayınız\nMini oyun 1 {Platformer tarzı kırmızı kodlara ve güvenlik duvarına deymeden sona ulaşın}\nMini oyun 2 {Bir ucundan değişkeni alıp ortdada değiştirip sonra çıkıştaki uca götürün}\nMini oyun 3 {Sol taraftaki renkleri sağ taraftaki eşlerine bağlayın}\nOyununuzu hackledeniz.\nHackli oyunu bitirin\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvOTIxMjAxLzUyMDg4MjUucG5n/original/5s693Q.png",
+          "https://img.itch.zone/aW1hZ2UvOTIxMjAxLzUyMDg4MjYucG5n/original/FSFh49.png",
+          "https://img.itch.zone/aW1hZ2UvOTIxMjAxLzUyMDg4MjcucG5n/original/JQRByi.png",
+          "https://img.itch.zone/aW1hZ2UvOTIxMjAxLzUyMDg4MjgucG5n/original/nGEwD2.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "vLondeRz"
+        }
+      }
+    },
+    {
+      "gameId": 921405,
+      "gameUrl": "https://mehmetselman.itch.io/hacker-ball",
+      "overallRank": 12,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/atom-gamejam-2/rate/921405",
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzUyMTE4NDUucG5n/300x240%23c/xLV2sr.png",
+          "cover_color": "#776af6",
+          "url": "https://mehmetselman.itch.io/hacker-ball",
+          "id": 921405,
+          "short_text": "Mahnut Tucner hayranı ana karakterimizin oyunu başarıyla geçememesinin hikayesi.",
+          "title": "Hacker Ball",
+          "user": {
+            "id": 3905112,
+            "url": "https://mehmetselman.itch.io",
+            "name": "mehmetselman"
+          },
+          "platforms": [
+            "windows"
+          ]
+        },
+        "created_at": "2021-02-15 11:35:51",
+        "id": 191449,
+        "coolness": 0
+      },
+      "details": {
+        "title": "Hacker Ball",
+        "description": "Hacker Ball Atom GameJam #2'de 72 saatte  yapılmıştır.\nOyunun Hikayesi:\nHacker Ball dünyanın en sinir bozucu oyunuydu ama bu durum değişmek üzereydi , bir gün Mahnut Tucner hayranı bir kişi bu oyunu oynamaya karar verdi. Oyunu oynadıkça sinirlendi, sinirlendikçe oyunu geçememeye başladı.  2. Bölüme yeni geçmişken sinirden klavyeye vurdu. Bu vuruş ile birlikte oyunda bir alan olduğunu keşfetti artık kendisi oyundaki bazı nesnelerin yerlerini değiştirebiliyordu. Mahnut Tucner hayranı bu kişi bu bulduğu bu alan sayesinde oyunu hackleyerek bölümü kendine göre düzenleyerek oynamaya devam eder ve oyunu kazanır.\nOyun Kontrolleri:\nE tuşu, editör modu ve oyun modu arasında geçiş yapmayı sağlar.  R, bölümü tekrar başlatır.Mouse kontrolü drag & drop şeklindedir.\n\n\nMekanikler\nOyun Modu: Oyun modu içerisinde drag & drop mantığı bulunmaktadır. Bırakılan  top bölüm geçme koşulu olarak duvarlardan sekip yıldızları toplamalıdır. Top ekranın herhangi bir yerinden basılı tutularak fırlatılabilmektedir.\nEditör Modu: Editör modu açıldığında ekranda hafif bir kararma olur. Bu kararma sonrasında hareket ettirilebilen nesneler parlak bir halde kalır.  Bu nesnelerin bölüme göre -yatay ya da dikey pozisyonda- yeri değiştirilebilir.  Ayrıyeten editör modunda iken top hareket ettirilemez.\nGeliştirenler: \nAlpay Bayık: DeveloperMehmet Selman: Level Designer, Pixel ArtistCeren Bolluk: Pixel ArtistÇağdaş Kaçkın: SFX\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvOTIxNDA1LzUyMTA1MTUucG5n/original/qrvEwr.png",
+          "https://img.itch.zone/aW1hZ2UvOTIxNDA1LzUyMTA1NjAucG5n/original/lFwt08.png",
+          "https://img.itch.zone/aW1hZ2UvOTIxNDA1LzUyMTA1NzQucG5n/original/46g%2FMb.png",
+          "https://img.itch.zone/aW1hZ2UvOTIxNDA1LzUyMTA1NDcucG5n/original/Y0JtdK.png",
+          "https://img.itch.zone/aW1hZ2UvOTIxNDA1LzUyMTA1NjUucG5n/original/TmSRmW.png",
+          "https://img.itch.zone/aW1hZ2UvOTIxNDA1LzUyMTA1ODAucG5n/original/tdyFLG.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows",
+          "Rating": "Rated 5.0 out of 5 stars(3 total ratings)",
+          "Author": "mehmetselman",
+          "Genre": "Puzzle",
+          "Tags": "2D, jumping, One-shot, Parkour, Pixel Art, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 893737,
+      "gameUrl": "https://fikret.itch.io/hacklenme-simulator",
+      "overallRank": 13,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/atom-gamejam-2/rate/893737",
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzUwNDc1ODIucG5n/300x240%23c/XHkl8Y.png",
+          "url": "https://fikret.itch.io/hacklenme-simulator",
+          "id": 893737,
+          "cover_color": "#000000",
+          "title": "Hacklenme Simulator",
+          "user": {
+            "id": 3774894,
+            "url": "https://fikret.itch.io",
+            "name": "fikret"
+          },
+          "short_text": ":) hacklendin ama hacklenmedin. İşte bütün mesele bu..."
+        },
+        "created_at": "2021-02-15 10:17:43",
+        "id": 191406,
+        "coolness": 0
+      },
+      "details": {
+        "title": "Hacklenme Simulator",
+        "description": "Bir gün bilgisayarında dolaşırken, GG Team'ın saldırısına uğrarsın.\nVe görevin onu hacklemektir!Zip dosyasını herhangi bir klasöre çıkartın.\nDosyayı açın.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvODkzNzM3LzUwNDc1ODYucG5n/original/vBKzBi.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Rating": "Rated 4.5 out of 5 stars(2 total ratings)",
+          "Author": "fikret"
+        }
+      }
+    },
+    {
+      "gameId": 921741,
+      "gameUrl": "https://benaytu.itch.io/dogal-zeka",
+      "overallRank": 14,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/atom-gamejam-2/rate/921741",
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzUyMjc4MzQucG5n/300x240%23c/B31WX0.png",
+          "url": "https://benaytu.itch.io/dogal-zeka",
+          "id": 921741,
+          "title": "Dogal Zeka",
+          "user": {
+            "id": 3306826,
+            "url": "https://benaytu.itch.io",
+            "name": "BenAytu"
+          },
+          "cover_color": "#eeeeee"
+        },
+        "created_at": "2021-02-15 14:39:39",
+        "id": 191730,
+        "coolness": 0
+      },
+      "details": {
+        "title": "Dogal Zeka",
+        "description": "Karakterimiz, gözünü bir testin ortasında açmıştır. Kendisine zeka testi yapılmaktadır. Zeka testi sırasında karakterimiz, bir yeteneğinin olduğunu fark eder ama fark eden sadece karakterimiz değildir.  Artık karakterimizin amacı testi tamamlamak değil, bu korkunç labirentten kaçmaya çalışmaktır. Kaçmayı başarabilecek midir ?\nOyun toplam 8 bölümden oluşmaktadır.  Ortalama oynanış süresi 8-10 dakikadır.\n-------------------------------------------------------------------------\nDeveloper - Aytuğ Bengü \n-------------------------------------------------------------------------\nOyunda, bir bölümü tamamlayamadıysanız, Gameplay'i  izleyin ya da sayfanın en altındaki \"SPOİLER\" bölümünü kontrol edin. \nYine geçemezseniz oyun içinde, sağ üstte \"Pause\" tuşuna basıp, ardından \"Skip\" tuşuna basarsanız sonraki bölüme atlar.\n-------------------------------------------------------------------------\nKontroller;\nYürüme = A - D  / Sol Ok Tuşu  - Sağ Ok Tuşu\nZıplama =  W / Space / Yukarı Ok Tuşu\n£#$ #£>$# = £#½$½ $#£ £#$ \n-------------------------------------------------------------------------\nMüzik ve Font harici hazır Asset kullanılmamıştır.\nMusic : https://www.bensound.com/royalty-free-music/track/a-day-to-remember-wedding-music\nFont: Minecraft - Upheaval\n-------------------------------------------------------------------------\nATOM Game Jam 2 için 72 Saatte yapılmıştır.\n-------------------------------------------------------------------------\nOyun yapım aşamasını yine videoya çektim :(\nUmarım bu sefer 3 aydan kısa sürede montajlayıp paylaşırım :(\n\nYoutube: Ben Aytu\nLink : https://www.youtube.com/c/BenAytu\nVideo: ....\n-------------------------------------------------------------------------\n- SPOİLER - Karakterimizin özelliği objeleri akıl gücüyle hareket ettirebilmesidir.\n- SPOİLER - Karakter objeleri, Mouse'un Sol tıkıyla hareket ettirmektedir.\n- SPOİLER - Dış sesin aşağı atlamamızı istediği sahneden itibaren karakterimiz,  o bölümü geçmemiz için gerekli bir obje seçer ve  o objeyi kullanarak bölümü geçmeye çalışır.  (Karakter gerekli objeyi bulamazsa oyun içinde o obje parlayacaktı fakat süre yetmedi)\n- SPOİLER - Bu obje bir kapı olabilir, Lamba olabilir, Paslı bir demir olabilir veya bir kamera olabilir.  \n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvOTIxNzQxLzUyMTMwMzUucG5n/original/sODak%2F.png",
+          "https://img.itch.zone/aW1hZ2UvOTIxNzQxLzUyMTMwNzQucG5n/original/bTMvVa.png",
+          "https://img.itch.zone/aW1hZ2UvOTIxNzQxLzUyMTMwNzMucG5n/original/km%2F56n.png",
+          "https://img.itch.zone/aW1hZ2UvOTIxNzQxLzUyMTMwOTIucG5n/original/P0Q96w.png",
+          "https://img.itch.zone/aW1hZ2UvOTIxNzQxLzUyMTMxMDAucG5n/original/pGl66w.png",
+          "https://img.itch.zone/aW1hZ2UvOTIxNzQxLzUyMTMxMjkucG5n/original/5g7TUB.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Author": "BenAytu",
+          "Genre": "Adventure",
+          "Tags": "2D, Action-Adventure, Singleplayer, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 921434,
+      "gameUrl": "https://mehmetduhan.itch.io/sabotage-the-heist-game",
+      "overallRank": 15,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "rating_count": 0,
+        "url": "/jam/atom-gamejam-2/rate/921434",
+        "game": {
+          "cover": "https://img.itch.zone/aW1nLzUyMTAwMzEucG5n/300x240%23c/lke0Zm.png",
+          "cover_color": "#3e0303",
+          "url": "https://mehmetduhan.itch.io/sabotage-the-heist-game",
+          "id": 921434,
+          "short_text": "Sabotage is a RPG heist game with various endings. Still in development.",
+          "title": "Sabotage - The Heist Game",
+          "user": {
+            "id": 3927142,
+            "url": "https://mehmetduhan.itch.io",
+            "name": "mehmetduhan"
+          },
+          "platforms": [
+            "windows",
+            "osx"
+          ]
+        },
+        "created_at": "2021-02-15 11:55:22",
+        "id": 191459,
+        "coolness": 0
+      },
+      "details": {
+        "title": "Sabotage - The Heist Game",
+        "description": "ATOM GameJam #2 için yapılmıştır.\nSabotage the heist game is a RPG game with various finals. Explore the bank with Ricardo. He is a selfish pscyho that wants to have all the money in the world. Help him in his operation.\nCONTROLS\nWASD - Move\nF - Kill\nLMB\n\nSPOILER\nTrue Ending Gameplay:\n\nTEAM MEMBERS\n- Servet Gülnaroğlu:                            Coding and SFX                  - Zeki 'BizoNelleme' Kuş:                 Assets and Scenario          - Mehmet Duhan Yalçınkaya:        Map Design and Models   \nMUSICS\nJered's Choice by Philip RiceLink: https://filmmusic.io/song/6814-jered-s-choiceLicense: https://filmmusic.io/standard-license\nDark Secrets (DECISION) by Sascha EndeLink: https://filmmusic.io/song/246-dark-secrets-decision-License: https://filmmusic.io/standard-license\nPositive Reflection  by chilledmusicLink: https://filmmusic.io/song/7530-positive-reflection-License: https://filmmusic.io/standard-license\nVoxel Revolution by Kevin MacLeodLink: https://incompetech.filmmusic.io/song/7017-voxel-revolutionLicense: https://filmmusic.io/standard-license\n\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvOTIxNDM0LzUyMTAwMzkucG5n/original/fNCod1.png",
+          "https://img.itch.zone/aW1hZ2UvOTIxNDM0LzUyMTAwNDAucG5n/original/hhjFZ0.png",
+          "https://img.itch.zone/aW1hZ2UvOTIxNDM0LzUyMTAwNDEucG5n/original/%2B7NrCw.png",
+          "https://img.itch.zone/aW1hZ2UvOTIxNDM0LzUyMTAwNDYucG5n/original/NWF%2BPo.png",
+          "https://img.itch.zone/aW1hZ2UvOTIxNDM0LzUyMTAwNDIucG5n/original/WA3M9u.png",
+          "https://img.itch.zone/aW1hZ2UvOTIxNDM0LzUyMTAwNDMucG5n/original/9Y46mH.png",
+          "https://img.itch.zone/aW1hZ2UvOTIxNDM0LzUyMTAwNDQucG5n/original/I4P23k.png",
+          "https://img.itch.zone/aW1hZ2UvOTIxNDM0LzUyMTAwNDUucG5n/original/W2qKTz.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Windows, macOS",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "mehmetduhan",
+          "Genre": "Role Playing",
+          "Made with": "Unity",
+          "Tags": "2D, Heist, robbery, Singleplayer"
+        }
+      }
+    }
+  ]
+}

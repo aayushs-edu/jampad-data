@@ -1,0 +1,3472 @@
+{
+  "n": 75,
+  "name": "Miz Jam 1",
+  "url": "https://itch.io/jam/miz-jam-1",
+  "theme": "No theme",
+  "slug": "miz-jam-1",
+  "jamMeta": {
+    "jamType": "ended",
+    "ratings": "10,019",
+    "entries": "668",
+    "title": "Miz Jam 1",
+    "jamURL": "https://itch.io/jam/miz-jam-1",
+    "hosts": {
+      "miziziziz": "https://nartier.itch.io",
+      "#mizjam1": "https://bsky.app/hashtag/mizjam1"
+    },
+    "jamID": "17097"
+  },
+  "totalEntries": 658,
+  "ranked": true,
+  "hasCategories": true,
+  "needsManualSelection": false,
+  "categories": [
+    "Engagement",
+    "Creative use of art assets",
+    "Overall polish"
+  ],
+  "topGames": [
+    {
+      "gameId": 731422,
+      "gameUrl": "https://andrerm.itch.io/minigame-madness",
+      "overallRank": 2,
+      "topCategories": [
+        "Engagement",
+        "Overall polish"
+      ],
+      "resultData": {
+        "id": 731422,
+        "contributors": [
+          {
+            "name": "AndreRM",
+            "id": 2109026
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzQxMTMxNzIucG5n/300x240%23c/ONXYTf.png",
+        "title": "Minigame Madness",
+        "score": 4.3333333333333,
+        "rank": 2,
+        "raw_score": 4.3333333333333,
+        "rating_count": 13,
+        "criteria": [
+          {
+            "name": "Engagement",
+            "score": 4.7692307692308,
+            "rank": 1,
+            "raw_score": 4.7692307692308
+          },
+          {
+            "name": "Creative use of art assets",
+            "score": 3.9230769230769,
+            "rank": 56,
+            "raw_score": 3.9230769230769
+          },
+          {
+            "name": "Overall polish",
+            "score": 4.3076923076923,
+            "rank": 13,
+            "raw_score": 4.3076923076923
+          }
+        ],
+        "url": "https://itch.io/jam/miz-jam-1/rate/731422"
+      },
+      "entryData": {
+        "created_at": "2020-08-24 01:47:15",
+        "id": 150904,
+        "url": "/jam/miz-jam-1/rate/731422",
+        "game": {
+          "title": "Minigame Madness",
+          "cover": "https://img.itch.zone/aW1nLzQxMTMxNzIucG5n/300x240%23c/ONXYTf.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 731422,
+          "url": "https://andrerm.itch.io/minigame-madness",
+          "cover_color": "#431322",
+          "short_text": "Frenetic Minigames",
+          "user": {
+            "url": "https://andrerm.itch.io",
+            "name": "AndreRM",
+            "id": 2109026
+          }
+        },
+        "coolness": 1,
+        "rating_count": 13
+      },
+      "details": {
+        "title": "Minigame Madness",
+        "description": "Try to master all minigames in different speeds and difficulties!\nBeat 20 Minigames to win the game (and unlock the Challenge Mode)\nHow to play:\nUse Arrow keys (or WASD) or Spacebar to play the Minigames. Each one has its own controls shown in the bottom right of the screen when playing it.\nFeatures:\n2 frenetic gamemodes8+ different minigames3 speed levels3 difficulty levels\nAssets used:\nArt - Kenney's Bit Pack\nMusic and SFX - OpenGameArt\n\nIf you are having trouble running the game in your browser, try another browser (Chrome can sometimes block some resources) or download the game.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzMxNDIyLzQxMTM2ODgucG5n/original/qJIz71.png",
+          "https://img.itch.zone/aW1hZ2UvNzMxNDIyLzQxMTM1NDUuanBn/original/7QmlIF.jpg",
+          "https://img.itch.zone/aW1hZ2UvNzMxNDIyLzQxMTM1NDMuanBn/original/Fgu1rA.jpg",
+          "https://img.itch.zone/aW1hZ2UvNzMxNDIyLzQxMTM1NDQuanBn/original/gP8Ysg.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.5 out of 5 stars(8 total ratings)",
+          "Author": "AndreRM",
+          "Tags": "minigames"
+        }
+      }
+    },
+    {
+      "gameId": 738477,
+      "gameUrl": "https://louis-denizet.itch.io/raindrop",
+      "overallRank": 1,
+      "topCategories": [
+        "Engagement",
+        "Overall polish"
+      ],
+      "resultData": {
+        "id": 738477,
+        "contributors": [
+          {
+            "name": "Louis Denizet",
+            "id": 7676
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzQxMTE2OTkuanBn/300x240%23c/A2SqBR.jpg",
+        "title": "Raindrop",
+        "score": 4.3555555555556,
+        "rank": 1,
+        "raw_score": 4.3555555555556,
+        "rating_count": 15,
+        "criteria": [
+          {
+            "name": "Engagement",
+            "score": 4.6,
+            "rank": 2,
+            "raw_score": 4.6
+          },
+          {
+            "name": "Creative use of art assets",
+            "score": 3.9333333333333,
+            "rank": 54,
+            "raw_score": 3.9333333333333
+          },
+          {
+            "name": "Overall polish",
+            "score": 4.5333333333333,
+            "rank": 4,
+            "raw_score": 4.5333333333333
+          }
+        ],
+        "url": "https://itch.io/jam/miz-jam-1/rate/738477"
+      },
+      "entryData": {
+        "created_at": "2020-08-23 22:17:37",
+        "id": 150673,
+        "url": "/jam/miz-jam-1/rate/738477",
+        "game": {
+          "title": "Raindrop",
+          "cover": "https://img.itch.zone/aW1nLzQxMTE2OTkuanBn/300x240%23c/A2SqBR.jpg",
+          "platforms": [
+            "web"
+          ],
+          "id": 738477,
+          "url": "https://louis-denizet.itch.io/raindrop",
+          "cover_color": "#ba7a7a",
+          "short_text": "Overall winner of Mizjam_1",
+          "user": {
+            "url": "https://louis-denizet.itch.io",
+            "name": "Louis Denizet",
+            "id": 7676
+          }
+        },
+        "coolness": 7,
+        "rating_count": 15
+      },
+      "details": {
+        "title": "Raindrop",
+        "description": "Raindrop is a very small prototype of an adventure game mixed with metroidvania elements.I was made for Mizjam 1, a game jam with forced asset pack : view my submission page.I totally ran out of time, started working way too late on the jam but I learned new things and prototyped some ideas, it turned out with totally unexpected results!\nControls :Key arrows to move and jump Mouse for hook (once unlocked)\n\nResults :\nCredits :Music 1 : https://www.scottbuckley.com.au/library/reverie/Music 2 : https://www.scottbuckley.com.au/library/luminance/SFX 1 : https://freesound.org/people/InspectorJ/sounds/352101/SFX 2 : https://freesound.org/people/NicknameLarry/sounds/489901/SFX 3 : https://freesound.org/people/crazymonke9/sounds/418106/",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzM4NDc3LzQxMTE1NjkuanBn/original/e95647.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.6 out of 5 stars(10 total ratings)",
+          "Author": "Louis Denizet",
+          "Genre": "Adventure, Platformer",
+          "Made with": "Construct",
+          "Tags": "2D, Metroidvania"
+        }
+      }
+    },
+    {
+      "gameId": 734680,
+      "gameUrl": "https://itsnemo.itch.io/line",
+      "overallRank": 6,
+      "topCategories": [
+        "Engagement"
+      ],
+      "resultData": {
+        "id": 734680,
+        "contributors": [
+          {
+            "name": "itsNemo",
+            "id": 134802
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzQwOTQwNzAucG5n/300x240%23c/qvY0%2Bi.png",
+        "title": "Line",
+        "score": 4.2456140350877,
+        "rank": 6,
+        "raw_score": 4.2456140350877,
+        "rating_count": 19,
+        "criteria": [
+          {
+            "name": "Engagement",
+            "score": 4.5789473684211,
+            "rank": 3,
+            "raw_score": 4.5789473684211
+          },
+          {
+            "name": "Creative use of art assets",
+            "score": 3.9473684210526,
+            "rank": 48,
+            "raw_score": 3.9473684210526
+          },
+          {
+            "name": "Overall polish",
+            "score": 4.2105263157895,
+            "rank": 19,
+            "raw_score": 4.2105263157895
+          }
+        ],
+        "url": "https://itch.io/jam/miz-jam-1/rate/734680"
+      },
+      "entryData": {
+        "created_at": "2020-08-21 10:18:19",
+        "id": 149448,
+        "url": "/jam/miz-jam-1/rate/734680",
+        "game": {
+          "title": "Line",
+          "cover": "https://img.itch.zone/aW1nLzQwOTQwNzAucG5n/300x240%23c/qvY0%2Bi.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 734680,
+          "url": "https://itsnemo.itch.io/line",
+          "cover_color": "#414141",
+          "short_text": "Dash through a line.",
+          "user": {
+            "url": "https://itsnemo.itch.io",
+            "name": "itsNemo",
+            "id": 134802
+          }
+        },
+        "coolness": 0,
+        "rating_count": 19
+      },
+      "details": {
+        "title": "Line",
+        "description": "This is Line.\nDash through the line and avoid all obstacles.\nEasy to learn controlOver 25 uniquely challenging levelsAn original attempt at making a soundtrack\nLine was made in 48 hours (non consecutive) for the Miz 1 Game Jam 2020\nFollow me on Twitter",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzQwOTQwNzAucG5n/original/fcr%2FKE.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.7 out of 5 stars(12 total ratings)",
+          "Author": "itsNemo",
+          "Genre": "Action",
+          "Made with": "Unity",
+          "Tags": "Fast-Paced, flow, one-button, Unity",
+          "Accessibility": "One button"
+        }
+      }
+    },
+    {
+      "gameId": 733811,
+      "gameUrl": "https://yeeteth-von-yeetenheimer.itch.io/10-seconds-to-zombie-apocalypse",
+      "overallRank": 11,
+      "topCategories": [
+        "Engagement"
+      ],
+      "resultData": {
+        "id": 733811,
+        "contributors": [
+          {
+            "name": "Yeeteth Von Yeetenheimer",
+            "id": 3207601
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzQwODI4ODYucG5n/300x240%23c/igVSiz.png",
+        "title": "10 Seconds to Zombie Apocalypse",
+        "score": 4.1034482758621,
+        "rank": 11,
+        "raw_score": 4.1034482758621,
+        "rating_count": 29,
+        "criteria": [
+          {
+            "name": "Engagement",
+            "score": 4.4137931034483,
+            "rank": 4,
+            "raw_score": 4.4137931034483
+          },
+          {
+            "name": "Creative use of art assets",
+            "score": 3.8275862068966,
+            "rank": 73,
+            "raw_score": 3.8275862068966
+          },
+          {
+            "name": "Overall polish",
+            "score": 4.0689655172414,
+            "rank": 34,
+            "raw_score": 4.0689655172414
+          }
+        ],
+        "url": "https://itch.io/jam/miz-jam-1/rate/733811"
+      },
+      "entryData": {
+        "created_at": "2020-08-19 08:05:07",
+        "id": 149152,
+        "url": "/jam/miz-jam-1/rate/733811",
+        "game": {
+          "title": "10 Seconds to Zombie Apocalypse",
+          "platforms": [
+            "web"
+          ],
+          "id": 733811,
+          "url": "https://yeeteth-von-yeetenheimer.itch.io/10-seconds-to-zombie-apocalypse",
+          "cover": "https://img.itch.zone/aW1nLzQwODI4ODYucG5n/300x240%23c/igVSiz.png",
+          "user": {
+            "url": "https://yeeteth-von-yeetenheimer.itch.io",
+            "name": "Yeeteth Von Yeetenheimer",
+            "id": 3207601
+          }
+        },
+        "coolness": 5,
+        "rating_count": 29
+      },
+      "details": {
+        "title": "10 Seconds to Zombie Apocalypse",
+        "description": "Travel from town to town gathering fuel and weapons. Everywhere you stop you have 10 seconds before a horde of super zombies appears and attacks you. Get what you need and escape!\n\nmade for MizJam1",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzMzODExLzQwODI5MDQucG5n/original/q2rxx%2F.png",
+          "https://img.itch.zone/aW1hZ2UvNzMzODExLzQwODI5MDMucG5n/original/r3oLdo.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.8 out of 5 stars(10 total ratings)",
+          "Author": "Yeeteth Von Yeetenheimer",
+          "Genre": "Action, Puzzle"
+        }
+      }
+    },
+    {
+      "gameId": 737554,
+      "gameUrl": "https://blastbyte.itch.io/pixel-paths",
+      "overallRank": 66,
+      "topCategories": [
+        "Engagement"
+      ],
+      "resultData": {
+        "id": 737554,
+        "contributors": [
+          {
+            "name": "BlastByte",
+            "id": 5578
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzQxMDYzOTIucG5n/300x240%23c/Wup1Zx.png",
+        "title": "Pixel Paths",
+        "score": 3.7948717948718,
+        "rank": 66,
+        "raw_score": 3.7948717948718,
+        "rating_count": 13,
+        "criteria": [
+          {
+            "name": "Engagement",
+            "score": 4.3846153846154,
+            "rank": 5,
+            "raw_score": 4.3846153846154
+          },
+          {
+            "name": "Creative use of art assets",
+            "score": 3.6153846153846,
+            "rank": 118,
+            "raw_score": 3.6153846153846
+          },
+          {
+            "name": "Overall polish",
+            "score": 3.3846153846154,
+            "rank": 189,
+            "raw_score": 3.3846153846154
+          }
+        ],
+        "url": "https://itch.io/jam/miz-jam-1/rate/737554"
+      },
+      "entryData": {
+        "created_at": "2020-08-23 11:51:49",
+        "id": 150129,
+        "url": "/jam/miz-jam-1/rate/737554",
+        "game": {
+          "title": "Pixel Paths",
+          "cover": "https://img.itch.zone/aW1nLzQxMDYzOTIucG5n/300x240%23c/Wup1Zx.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 737554,
+          "url": "https://blastbyte.itch.io/pixel-paths",
+          "cover_color": "#29742d",
+          "short_text": "Get the vehicles to their goal by completing their path.",
+          "user": {
+            "url": "https://blastbyte.itch.io",
+            "name": "BlastByte",
+            "id": 5578
+          }
+        },
+        "coolness": 5,
+        "rating_count": 13
+      },
+      "details": {
+        "title": "Pixel Paths",
+        "description": "Get the vehicles to their goal by completing their paths!\nLeft click a path tile to rotate it 90 degrees.\nMade for Miz Jam 1\n\nNotes\nI only managed to spend around 15 hours on this so it only has a handful of levels and is missing a bunch of things I wanted to add but the core gameplay is there. I'm just happy I finally managed to release something after all these years!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzM3NTU0LzQxMDY0MDEucG5n/original/vtqVNP.png",
+          "https://img.itch.zone/aW1hZ2UvNzM3NTU0LzQxMDY0MDIucG5n/original/LRbnew.png",
+          "https://img.itch.zone/aW1hZ2UvNzM3NTU0LzQxMDY0MDMucG5n/original/tlT%2BLb.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.5 out of 5 stars(2 total ratings)",
+          "Author": "BlastByte",
+          "Genre": "Puzzle",
+          "Made with": "Unity",
+          "Tags": "Casual, Retro"
+        }
+      }
+    },
+    {
+      "gameId": 738735,
+      "gameUrl": "https://fowlest.itch.io/may-i-have-your-attention-please-jam-version",
+      "overallRank": 18,
+      "topCategories": [
+        "Engagement"
+      ],
+      "resultData": {
+        "id": 738735,
+        "contributors": [
+          {
+            "name": "Fowlest",
+            "id": 3145355
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzQxMTMxMTQucG5n/300x240%23c/rRDEXH.png",
+        "title": "May I Have Your Attention, Please - Jam Version",
+        "score": 4.0555555555556,
+        "rank": 18,
+        "raw_score": 4.0555555555556,
+        "rating_count": 24,
+        "criteria": [
+          {
+            "name": "Engagement",
+            "score": 4.375,
+            "rank": 6,
+            "raw_score": 4.375
+          },
+          {
+            "name": "Creative use of art assets",
+            "score": 3.875,
+            "rank": 66,
+            "raw_score": 3.875
+          },
+          {
+            "name": "Overall polish",
+            "score": 3.9166666666667,
+            "rank": 62,
+            "raw_score": 3.9166666666667
+          }
+        ],
+        "url": "https://itch.io/jam/miz-jam-1/rate/738735"
+      },
+      "entryData": {
+        "created_at": "2020-08-24 01:51:12",
+        "id": 150919,
+        "url": "/jam/miz-jam-1/rate/738735",
+        "game": {
+          "title": "May I Have Your Attention, Please - Jam Version",
+          "platforms": [
+            "web"
+          ],
+          "id": 738735,
+          "url": "https://fowlest.itch.io/may-i-have-your-attention-please-jam-version",
+          "cover": "https://img.itch.zone/aW1nLzQxMTMxMTQucG5n/300x240%23c/rRDEXH.png",
+          "short_text": "Play four minigames simultaneously!  How long can you last?",
+          "user": {
+            "url": "https://fowlest.itch.io",
+            "name": "Fowlest",
+            "id": 3145355
+          }
+        },
+        "coolness": 30,
+        "rating_count": 24
+      },
+      "details": {
+        "title": "May I Have Your Attention, Please - Jam Version",
+        "description": "Play four minigames simultaneously!  Each round is shorter than the last - how long can you survive?\nGames on the left side of the screen use WASD and mouse.Games on the right side of the screen use the arrow keys and mouse.\nMade in 48 hours over 9 days for the Miz Game Jam:https://itch.io/jam/miz-jam-1\nMy notes:\nWhen I first saw the art kit, I was blown away by how many different sprites there were, and for so many different genres.  I immediately wondered how I could use as many different sprites as possible, and so I had the idea to try making minigames from all different genres.\nI tried to repurpose and creatively use sprites when I could.  As an example, in the space shooter game, I used a house sprite to create the ship's cockpit and swords to build the ship's frame.  I also used a tree sprite to make asteroids.\nI hope you guys have as much fun playing this as I did making it!\nCredits:\nWerq by Kevin MacLeodLink: https://incompetech.filmmusic.io/song/4616-werqLicense: http://creativecommons.org/licenses/by/4.0/\nTech Live by Kevin MacLeodLink: https://incompetech.filmmusic.io/song/4463-tech-liveLicense: http://creativecommons.org/licenses/by/4.0/\nOuroboros by Kevin MacLeodLink: https://incompetech.filmmusic.io/song/4996-ouroborosLicense: http://creativecommons.org/licenses/by/4.0/\nSound effects from www.freesound.org and from me.\n\"Lychee Soda\" font from www.fontenddev.com.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzM4NzM1LzQxMTYzMTAucG5n/original/yNrp6K.png",
+          "https://img.itch.zone/aW1hZ2UvNzM4NzM1LzQxMTYzMDkucG5n/original/990JVg.png",
+          "https://img.itch.zone/aW1hZ2UvNzM4NzM1LzQxMTYzMDgucG5n/original/sg6V2b.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Author": "Fowlest",
+          "Made with": "Unity"
+        }
+      }
+    },
+    {
+      "gameId": 738758,
+      "gameUrl": "https://arjenk.itch.io/nomnom",
+      "overallRank": 104,
+      "topCategories": [
+        "Engagement"
+      ],
+      "resultData": {
+        "id": 738758,
+        "contributors": [
+          {
+            "name": "ArjenK",
+            "id": 2757074
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzQxMTMwNjIucG5n/300x240%23c/TnmmBc.png",
+        "title": "Nomnom",
+        "score": 3.6565656565657,
+        "rank": 104,
+        "raw_score": 3.6565656565657,
+        "rating_count": 33,
+        "criteria": [
+          {
+            "name": "Engagement",
+            "score": 4.3030303030303,
+            "rank": 7,
+            "raw_score": 4.3030303030303
+          },
+          {
+            "name": "Creative use of art assets",
+            "score": 3.0606060606061,
+            "rank": 309,
+            "raw_score": 3.0606060606061
+          },
+          {
+            "name": "Overall polish",
+            "score": 3.6060606060606,
+            "rank": 125,
+            "raw_score": 3.6060606060606
+          }
+        ],
+        "url": "https://itch.io/jam/miz-jam-1/rate/738758"
+      },
+      "entryData": {
+        "created_at": "2020-08-24 01:43:43",
+        "id": 150890,
+        "url": "/jam/miz-jam-1/rate/738758",
+        "game": {
+          "title": "Nomnom",
+          "platforms": [
+            "web"
+          ],
+          "id": 738758,
+          "url": "https://arjenk.itch.io/nomnom",
+          "cover": "https://img.itch.zone/aW1nLzQxMTMwNjIucG5n/300x240%23c/TnmmBc.png",
+          "short_text": "GameJam animal puzzle game",
+          "user": {
+            "url": "https://arjenk.itch.io",
+            "name": "ArjenK",
+            "id": 2757074
+          }
+        },
+        "coolness": 69,
+        "rating_count": 33
+      },
+      "details": {
+        "title": "Nomnom",
+        "description": "Short puzzle prototype made for game jam, had many more ideas but didn't have time to implement them.\nIf text on title screen is not clearly visible: Press S to start the game!\nMusic: Darren Curtis - The Town that Time Forgot:\n(https://godotforums.org/discussion/18704/royalty-free-music-for-commercial-use)",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzQxMTMwNjIucG5n/original/yep0WO.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Author": "ArjenK",
+          "Genre": "Puzzle"
+        }
+      }
+    },
+    {
+      "gameId": 735803,
+      "gameUrl": "https://pixlhero.itch.io/seedbox",
+      "overallRank": 17,
+      "topCategories": [
+        "Engagement"
+      ],
+      "resultData": {
+        "id": 735803,
+        "contributors": [
+          {
+            "name": "pixlhero",
+            "id": 670701
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzQxMDEzMTgucG5n/300x240%23c/r7RlQ3.png",
+        "title": "Gooby, Gabo, Gibi, Gluglu and Gubu",
+        "score": 4.0606060606061,
+        "rank": 17,
+        "raw_score": 4.0606060606061,
+        "rating_count": 11,
+        "criteria": [
+          {
+            "name": "Engagement",
+            "score": 4.2727272727273,
+            "rank": 8,
+            "raw_score": 4.2727272727273
+          },
+          {
+            "name": "Creative use of art assets",
+            "score": 3.8181818181818,
+            "rank": 75,
+            "raw_score": 3.8181818181818
+          },
+          {
+            "name": "Overall polish",
+            "score": 4.0909090909091,
+            "rank": 29,
+            "raw_score": 4.0909090909091
+          }
+        ],
+        "url": "https://itch.io/jam/miz-jam-1/rate/735803"
+      },
+      "entryData": {
+        "created_at": "2020-08-22 14:29:45",
+        "id": 149790,
+        "url": "/jam/miz-jam-1/rate/735803",
+        "game": {
+          "title": "Gooby, Gabo, Gibi, Gluglu and Gubu",
+          "cover": "https://img.itch.zone/aW1nLzQxMDEzMTgucG5n/300x240%23c/r7RlQ3.png",
+          "platforms": [
+            "windows",
+            "osx"
+          ],
+          "id": 735803,
+          "url": "https://pixlhero.itch.io/seedbox",
+          "cover_color": "#594339",
+          "short_text": "A tight 3D puzzle game made for  Miz Jam 1",
+          "user": {
+            "url": "https://pixlhero.itch.io",
+            "name": "pixlhero",
+            "id": 670701
+          }
+        },
+        "coolness": 4,
+        "rating_count": 11
+      },
+      "details": {
+        "title": "Gooby, Gabo, Gibi, Gluglu and Gubu",
+        "description": "Find all the Keys in this compact puzzle-game to find something beautiful at the end. The more keys you collect, the more dimensions you unlock. Your 5 connected selfs have to work together to find a path to the goal.\nMade in non-consecutive 48 hours for the Miz Jam 1.\nCode: Github\nP.S. On some browsers the shaders are not displaying correctly... that's why I had to disable the web-version.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzM1ODAzLzQxMDEzMjAucG5n/original/0kWdZ4.png",
+          "https://img.itch.zone/aW1hZ2UvNzM1ODAzLzQxMDEzMjUucG5n/original/WBf7mp.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, macOS",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "pixlhero",
+          "Genre": "Puzzle",
+          "Tags": "3D, Retro, Short"
+        }
+      }
+    },
+    {
+      "gameId": 732141,
+      "gameUrl": "https://pato-ingeniero.itch.io/treasure-cave",
+      "overallRank": 19,
+      "topCategories": [
+        "Engagement",
+        "Overall polish"
+      ],
+      "resultData": {
+        "id": 732141,
+        "contributors": [
+          {
+            "name": "Pato Ingeniero",
+            "id": 3192695
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzQxMDQyNDQucG5n/300x240%23c/N6DoSl.png",
+        "title": "Treasure Cave",
+        "score": 4.0530303030303,
+        "rank": 19,
+        "raw_score": 4.0530303030303,
+        "rating_count": 44,
+        "criteria": [
+          {
+            "name": "Engagement",
+            "score": 4.2727272727273,
+            "rank": 8,
+            "raw_score": 4.2727272727273
+          },
+          {
+            "name": "Creative use of art assets",
+            "score": 3.5,
+            "rank": 149,
+            "raw_score": 3.5
+          },
+          {
+            "name": "Overall polish",
+            "score": 4.3863636363636,
+            "rank": 7,
+            "raw_score": 4.3863636363636
+          }
+        ],
+        "url": "https://itch.io/jam/miz-jam-1/rate/732141"
+      },
+      "entryData": {
+        "created_at": "2020-08-23 00:58:45",
+        "id": 149936,
+        "url": "/jam/miz-jam-1/rate/732141",
+        "game": {
+          "title": "Treasure Cave",
+          "cover": "https://img.itch.zone/aW1nLzQxMDQyNDQucG5n/300x240%23c/N6DoSl.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 732141,
+          "url": "https://pato-ingeniero.itch.io/treasure-cave",
+          "cover_color": "#eeeeee",
+          "short_text": "Puzzle & Adventure game created for MizJam 1",
+          "user": {
+            "url": "https://pato-ingeniero.itch.io",
+            "name": "Pato Ingeniero",
+            "id": 3192695
+          }
+        },
+        "coolness": 73,
+        "rating_count": 44
+      },
+      "details": {
+        "title": "Treasure Cave",
+        "description": "Life in the village is soooo boring... let's go. Join me on this adventure and I promise we'll find some awesome treasures on the way!\n\nHow To Play\nPlay with WASD or arrow keys. Once you move you have to wait until you hit a wall to move again.\n\nTry to get as much coins and diamonds as you can! Post your record on the comments!Complete the 10 levels to have a big reward :)If you get stuck on a level due to a bug, use the Restart Level button on the top right of the screen\n\n---------------------------------------------------------------------------\nComments from Developer:\nThis was my first Game Jam experience, this game was done in under 48 hours of development. This was also my first experience creating a game with Godot, I just started learning it 3 months ago. I do have game development experience creating Flash games but last one I created was more than 6 years ago. I've been mainly focused on other types of software development (mobile apps and web). Since I graduated as a software engineer last year I have more time now and very recently I decided to come back to the Game Development world as a hobbie, and here I am :) \nDuring the week this game jam lasted I worked full-time on my day job and I worked hard on this game at night so it was a VERY exhausting week for me. I didn't do anything else other than work the hole week really to get done as much as I could for this game. But I think it was worth it. All in all I'm very proud of the results :)\nDuring the development process I kept a Dev Log on a Google Docs that you can access here (but please play the game first since it contains spoilers!): Google Docs\nSpecial Thanks to my girlfriend Vero that supported me the hole week, and to my brother Guille that created the music and sound effects for the game.\nIf you loved the music and sounds consider hiring him for your next project ;) Guillermo Dorfman - guillermodorfman@gmail.com\nI hope you enjoy the game as much as I enjoyed creating it. If you do please leave a comment bellow :)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzMyMTQxLzQxMDQyMDkucG5n/original/qX6YoE.png",
+          "https://img.itch.zone/aW1hZ2UvNzMyMTQxLzQxMDQyMTAucG5n/original/6kd%2Ftd.png",
+          "https://img.itch.zone/aW1hZ2UvNzMyMTQxLzQxMDQyMTMucG5n/original/OVArSw.png",
+          "https://img.itch.zone/aW1hZ2UvNzMyMTQxLzQxMDQyMTEucG5n/original/TxnAP9.png",
+          "https://img.itch.zone/aW1hZ2UvNzMyMTQxLzQxMDQyMTIucG5n/original/qaJWKZ.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.7 out of 5 stars(9 total ratings)",
+          "Author": "Pato Ingeniero",
+          "Genre": "Puzzle, Adventure",
+          "Made with": "Godot, Adobe Photoshop",
+          "Tags": "1-bit, 2D, My First Game Jam, Retro, Singleplayer, Tileset, top-down-puzzle",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": 736673,
+      "gameUrl": "https://hacktrout.itch.io/symmetry",
+      "overallRank": 8,
+      "topCategories": [
+        "Engagement",
+        "Overall polish"
+      ],
+      "resultData": {
+        "id": 736673,
+        "contributors": [
+          {
+            "name": "HackTrout",
+            "id": 1175853
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzQxMDA1MjMuZ2lm/300x240%23c/nw5BfN.gif",
+        "title": "Symmetry",
+        "score": 4.2312925170068,
+        "rank": 8,
+        "raw_score": 4.2312925170068,
+        "rating_count": 98,
+        "criteria": [
+          {
+            "name": "Engagement",
+            "score": 4.265306122449,
+            "rank": 10,
+            "raw_score": 4.265306122449
+          },
+          {
+            "name": "Creative use of art assets",
+            "score": 3.8979591836735,
+            "rank": 64,
+            "raw_score": 3.8979591836735
+          },
+          {
+            "name": "Overall polish",
+            "score": 4.530612244898,
+            "rank": 5,
+            "raw_score": 4.530612244898
+          }
+        ],
+        "url": "https://itch.io/jam/miz-jam-1/rate/736673"
+      },
+      "entryData": {
+        "created_at": "2020-08-23 20:22:55",
+        "id": 150547,
+        "url": "/jam/miz-jam-1/rate/736673",
+        "game": {
+          "id": 736673,
+          "url": "https://hacktrout.itch.io/symmetry",
+          "cover_color": "#eeeeee",
+          "user": {
+            "url": "https://hacktrout.itch.io",
+            "name": "HackTrout",
+            "id": 1175853
+          },
+          "title": "Symmetry",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "gif_cover": "https://img.itch.zone/aW1nLzQxMDA1MjMuZ2lm/original/Phie0%2B.gif",
+          "cover": "https://img.itch.zone/aW1nLzQxMDA1MjMuZ2lm/300x240%23c/nw5BfN.gif",
+          "short_text": "Use reflections to solve mind bending puzzles!"
+        },
+        "coolness": 52,
+        "rating_count": 98
+      },
+      "details": {
+        "title": "Symmetry",
+        "description": "Rotate the world's reflection and even fuse the real world and the reflected together to solve mind bending puzzles!\nFollow me on twitter @HackTrout if you enjoyed the game!\n\nDetails:\nMade in 48 hours for the first Miziziz Jam! The condition was to use art pack made by Kenney which you can find here.\nMusic was obtained from zapsplat.com.\nControls:\nA and D to moveSpace to JumpW to interactLeft and Right arrow keys to rotate the reflectionEnter to fuse the two sides together",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzM2NjczLzQxMTA1ODkucG5n/original/thqGxJ.png",
+          "https://img.itch.zone/aW1hZ2UvNzM2NjczLzQxMTA1ODcucG5n/original/gt1%2B5M.png",
+          "https://img.itch.zone/aW1hZ2UvNzM2NjczLzQxMTA1ODgucG5n/original/HlFtlr.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(6 total ratings)",
+          "Author": "HackTrout",
+          "Genre": "Puzzle",
+          "Made with": "Godot, Audacity, GraphicsGale",
+          "Tags": "2D, Colorful, Cute, Godot, Pixel Art, Puzzle-Platformer",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard"
+        }
+      }
+    },
+    {
+      "gameId": 736758,
+      "gameUrl": "https://pierre-vandermaesen.itch.io/townfolks",
+      "overallRank": 4,
+      "topCategories": [
+        "Engagement",
+        "Overall polish"
+      ],
+      "resultData": {
+        "id": 736758,
+        "contributors": [
+          {
+            "name": "Pierre Vandermaesen",
+            "id": 34245
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzQxMjM4MjIuZ2lm/300x240%23c/EV%2FXGy.gif",
+        "title": "Townfolks",
+        "score": 4.2925170068027,
+        "rank": 4,
+        "raw_score": 4.2925170068027,
+        "rating_count": 49,
+        "criteria": [
+          {
+            "name": "Engagement",
+            "score": 4.2448979591837,
+            "rank": 11,
+            "raw_score": 4.2448979591837
+          },
+          {
+            "name": "Creative use of art assets",
+            "score": 3.9591836734694,
+            "rank": 46,
+            "raw_score": 3.9591836734694
+          },
+          {
+            "name": "Overall polish",
+            "score": 4.6734693877551,
+            "rank": 1,
+            "raw_score": 4.6734693877551
+          }
+        ],
+        "url": "https://itch.io/jam/miz-jam-1/rate/736758"
+      },
+      "entryData": {
+        "created_at": "2020-08-22 15:51:15",
+        "id": 149806,
+        "url": "/jam/miz-jam-1/rate/736758",
+        "game": {
+          "id": 736758,
+          "url": "https://pierre-vandermaesen.itch.io/townfolks",
+          "cover_color": "#2F3E46",
+          "user": {
+            "url": "https://pierre-vandermaesen.itch.io",
+            "name": "Pierre Vandermaesen",
+            "id": 34245
+          },
+          "title": "Townfolks",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "gif_cover": "https://img.itch.zone/aW1nLzQxMjM4MjIuZ2lm/original/KxSLm%2B.gif",
+          "cover": "https://img.itch.zone/aW1nLzQxMjM4MjIuZ2lm/300x240%23c/EV%2FXGy.gif",
+          "short_text": "A short townbuilding RPG (1h-2h)"
+        },
+        "coolness": 8,
+        "rating_count": 49
+      },
+      "details": {
+        "title": "Townfolks",
+        "description": "WHAT IS TOWNFOLKS ?\nHelp a doomed island fight back against an evil wizard in this town-building RPG.\nBattle monsters, get gold, rebuild your town and upgrade your gear. But be careful, you don't have much time left...\nControls : Clic on stuff to do stuff\nNB : this is a 30min - 1h game\nThis game saves every time a day end, so feel free to stop and come back later, I'll be waiting for you ! \nDon't feel like playing on your browser ? Download the game as an executable !\nYou'll find the original Unity 2019.4 jam project (1.3) as a .zip bellow, download it and mess around, maybe you'll find some cool unity / c# tips hidden inside.\nDEVLOG\n\nSorry if I missed some details in the devlog, didn't felt like posting a 30 min video. If you want to know more, leave a comment here and I'll try to respond !\n\"Only took an hour and a half ! That went by pretty quick though\" - Miziziziz\nUPDATES\n1.4 : Adventure bounty feature + Achievements + New ennemies + Fixed a lot of bugs1.3 : Fixed some late game balancing issues + improved the hunter power descriptions + fixed the post processing that wasn't affecting some UI elements1.2 : Fixed some balancing issues (rapid fire too powerful & moved day limit from 50 days to 40 days) 1.1 : Fixed some sprites in the bad ending animation, and game breaking bug when restarting a new game after completing one\nSUPPORT ME",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzM2NzU4LzQxMDEzNDEucG5n/original/Z56Xv5.png",
+          "https://img.itch.zone/aW1hZ2UvNzM2NzU4LzQxMDEzNDAucG5n/original/Ik4lu%2F.png",
+          "https://img.itch.zone/aW1hZ2UvNzM2NzU4LzQxMDEzNDIucG5n/original/cB5fXP.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.8 out of 5 stars(58 total ratings)",
+          "Author": "Pierre Vandermaesen",
+          "Genre": "Strategy, Role Playing",
+          "Made with": "Unity",
+          "Tags": "City Builder, Retro",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 737905,
+      "gameUrl": "https://lukvargen.itch.io/ducklike",
+      "overallRank": 14,
+      "topCategories": [
+        "Engagement"
+      ],
+      "resultData": {
+        "id": 737905,
+        "contributors": [
+          {
+            "name": "Lukvargen",
+            "id": 524793
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzQxMDg0NDQucG5n/300x240%23c/%2FhQG06.png",
+        "title": "Ducklike",
+        "score": 4.0769230769231,
+        "rank": 14,
+        "raw_score": 4.0769230769231,
+        "rating_count": 26,
+        "criteria": [
+          {
+            "name": "Engagement",
+            "score": 4.2307692307692,
+            "rank": 12,
+            "raw_score": 4.2307692307692
+          },
+          {
+            "name": "Creative use of art assets",
+            "score": 3.7692307692308,
+            "rank": 87,
+            "raw_score": 3.7692307692308
+          },
+          {
+            "name": "Overall polish",
+            "score": 4.2307692307692,
+            "rank": 17,
+            "raw_score": 4.2307692307692
+          }
+        ],
+        "url": "https://itch.io/jam/miz-jam-1/rate/737905"
+      },
+      "entryData": {
+        "created_at": "2020-08-23 15:40:26",
+        "id": 150365,
+        "url": "/jam/miz-jam-1/rate/737905",
+        "game": {
+          "title": "Ducklike",
+          "cover": "https://img.itch.zone/aW1nLzQxMDg0NDQucG5n/300x240%23c/%2FhQG06.png",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "id": 737905,
+          "url": "https://lukvargen.itch.io/ducklike",
+          "cover_color": "#202020",
+          "short_text": "A roguelite with a duck and guns",
+          "user": {
+            "url": "https://lukvargen.itch.io",
+            "name": "Lukvargen",
+            "id": 524793
+          }
+        },
+        "coolness": 16,
+        "rating_count": 26
+      },
+      "details": {
+        "title": "Ducklike",
+        "description": "Controls:F11 to toggle fullscreenESC for menuWalk with WASD\n\nMade for Miz Jam 1\n\nArt by Kenney Music and sound effects by Juhani JunkalaMade in Godot",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzM3OTA1LzQxMDg1NDkucG5n/original/qqBBgU.png",
+          "https://img.itch.zone/aW1hZ2UvNzM3OTA1LzQxMDg1NDgucG5n/original/%2FWJ0pu.png",
+          "https://img.itch.zone/aW1hZ2UvNzM3OTA1LzQxMDg1NDcucG5n/original/k9NLds.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Author": "Lukvargen",
+          "Genre": "Action",
+          "Made with": "Godot",
+          "Tags": "2D, Godot, Pixel Art, Roguelike, Roguelite, Singleplayer, Top down shooter",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 738791,
+      "gameUrl": "https://ralfsawazki.itch.io/hungover-hero",
+      "overallRank": 52,
+      "topCategories": [
+        "Engagement"
+      ],
+      "resultData": {
+        "id": 738791,
+        "contributors": [
+          {
+            "name": "Ralf Sawazki",
+            "id": 1987789
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzQxMzg2OTYuZ2lm/300x240%23c/sevsWW.gif",
+        "title": "Hungover Hero",
+        "score": 3.8461538461538,
+        "rank": 52,
+        "raw_score": 3.8461538461538,
+        "rating_count": 13,
+        "criteria": [
+          {
+            "name": "Engagement",
+            "score": 4.2307692307692,
+            "rank": 12,
+            "raw_score": 4.2307692307692
+          },
+          {
+            "name": "Creative use of art assets",
+            "score": 3.6923076923077,
+            "rank": 99,
+            "raw_score": 3.6923076923077
+          },
+          {
+            "name": "Overall polish",
+            "score": 3.6153846153846,
+            "rank": 122,
+            "raw_score": 3.6153846153846
+          }
+        ],
+        "url": "https://itch.io/jam/miz-jam-1/rate/738791"
+      },
+      "entryData": {
+        "created_at": "2020-08-24 01:53:49",
+        "id": 150930,
+        "url": "/jam/miz-jam-1/rate/738791",
+        "game": {
+          "title": "Hungover Hero",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 738791,
+          "url": "https://ralfsawazki.itch.io/hungover-hero",
+          "cover": "https://img.itch.zone/aW1nLzQxMzg2OTYuZ2lm/300x240%23c/sevsWW.gif",
+          "gif_cover": "https://img.itch.zone/aW1nLzQxMzg2OTYuZ2lm/original/TP9%2FZe.gif",
+          "user": {
+            "url": "https://ralfsawazki.itch.io",
+            "name": "Ralf Sawazki",
+            "id": 1987789
+          }
+        },
+        "coolness": 17,
+        "rating_count": 13
+      },
+      "details": {
+        "title": "Hungover Hero",
+        "description": "Metroid Prime-style game about finding something to get over your hangover.Find and collect 2 weapons and 4 upgrades, before facing your greatest challenge...\nAFTER SUBMITTING I NOTICED THE WEB VERSION DIDN'T CAPTURE THE MOUSE. I HAD TO RE-EXPORT AS WINDOWS AND UPLOAD THAT. MY APOLOGIES!\nEDIT: I have now uploaded a version that should capture the mouse when clicked! No other changes were made!\nControls:WASD - MoveSpace - JumpClick - AttackQ/Mouse Wheel - Switch Weapons (When they are found)\nMade with: Godot, Audacity, Paint.net, Trenchbroom, Qodot, Freesound.org, Incompetech.filmmusic.io\nArt is from Kenney.nl, https://kenney.nl/assets/bit-pack\nI unfortunately ran out of time, and the final cutscene piece of the game has no voiceover. This causes the text to scroll by before you can read it, unfortunately. You also cannot exit on the final screen besides Alt+f4 on the Windows version. I plan to add it all in post-jam (in a marked POST-JAM version).\nThere's a bug with the html version, which sometimes makes shadows not work properly. If that bothers you, please try the windows version.\nI've uploaded a windows version that's gles3 that fixes the problem, I believe.\nAttribution and resources used: https://pastebin.com/aebXSq5x\nCurrent windows download is the post-jam version, it includes a voice line I missed, and makes the boss more fair.\nDev log will be coming in the next few days eventually!Download and Unzip the archive, and run HungoverHero.exe, make sure to keep HungoverHero.pck in the same directory",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzM4NzkxLzQxMzg2OTgucG5n/original/6%2F6Uqk.png",
+          "https://img.itch.zone/aW1hZ2UvNzM4NzkxLzQxMjM0MTEucG5n/original/UjQsiq.png",
+          "https://img.itch.zone/aW1hZ2UvNzM4NzkxLzQxMjM0MTMucG5n/original/ropqHU.png",
+          "https://img.itch.zone/aW1hZ2UvNzM4NzkxLzQxMjM0MTIucG5n/original/p7ugqy.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Author": "Ralf Sawazki",
+          "Genre": "Adventure",
+          "Tags": "3D, Godot, Metroidvania, miz-jam-1"
+        }
+      }
+    },
+    {
+      "gameId": 733692,
+      "gameUrl": "https://unitymember.itch.io/paraglider",
+      "overallRank": 66,
+      "topCategories": [
+        "Engagement"
+      ],
+      "resultData": {
+        "id": 733692,
+        "contributors": [
+          {
+            "name": "UnityMember",
+            "id": 960128
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzQwOTkyOTgucG5n/300x240%23c/0Fm8pa.png",
+        "title": "PARAGLIDER",
+        "score": 3.7948717948718,
+        "rank": 66,
+        "raw_score": 3.7948717948718,
+        "rating_count": 13,
+        "criteria": [
+          {
+            "name": "Engagement",
+            "score": 4.2307692307692,
+            "rank": 12,
+            "raw_score": 4.2307692307692
+          },
+          {
+            "name": "Creative use of art assets",
+            "score": 3.4615384615385,
+            "rank": 166,
+            "raw_score": 3.4615384615385
+          },
+          {
+            "name": "Overall polish",
+            "score": 3.6923076923077,
+            "rank": 105,
+            "raw_score": 3.6923076923077
+          }
+        ],
+        "url": "https://itch.io/jam/miz-jam-1/rate/733692"
+      },
+      "entryData": {
+        "created_at": "2020-08-23 15:03:44",
+        "id": 150345,
+        "url": "/jam/miz-jam-1/rate/733692",
+        "game": {
+          "title": "PARAGLIDER",
+          "cover": "https://img.itch.zone/aW1nLzQwOTkyOTgucG5n/300x240%23c/0Fm8pa.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 733692,
+          "url": "https://unitymember.itch.io/paraglider",
+          "cover_color": "#290e0e",
+          "short_text": "A Bat that glides its way to victory.",
+          "user": {
+            "url": "https://unitymember.itch.io",
+            "name": "UnityMember",
+            "id": 960128
+          }
+        },
+        "coolness": 33,
+        "rating_count": 13
+      },
+      "details": {
+        "title": "PARAGLIDER",
+        "description": "\nPlaying with a Controller is recommended.\nYou can also play on mobile, but a controller is needed.\n---------------------------------------------------------------------------------------------------------------------------------------------------------------------\nMade by UnityMember using Godot 3.2.2 for the MizJam 1 Gamejam in 48 hours (non consecutive)\nSprites by Kenney (1-Bit Pack)\nFont by Yuji Adachi (Arcade)\nMusic by Azureflux (The Precession of the Equinoxes in the Inverted Alps)\nSFX by OwlStorm (https://freesound.org/people/OwlStorm/sounds/404794/)                 Mativve (https://freesound.org/people/Mativve/sounds/414329/)                 stomachache (https://freesound.org/people/stomachache/sounds/29813/)                 jeckkech (https://freesound.org/people/jeckkech/sounds/391655/)                 Free-Rush (https://freesound.org/people/Free-Rush/sounds/336933/)                 Mike Koenig (http://soundbible.com/2108-Shoot-Arrow.html)\nSPECIAL THANKS to Miziziziz for hosting the event.\n---------------------------------------------------------------------------------------------------------------------------------------------------------------------",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzQwOTkyOTgucG5n/original/1UtrHI.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.0 out of 5 stars(1 total ratings)",
+          "Author": "UnityMember",
+          "Genre": "Platformer",
+          "Made with": "Godot, Inkscape, Audacity",
+          "Tags": "2D, mizjam, mizjam1, Pixel Art, Singleplayer",
+          "Code license": "MIT License",
+          "Average session": "A few minutes",
+          "Languages": "Greek Modern, English",
+          "Inputs": "Keyboard, Gamepad (any)"
+        }
+      }
+    },
+    {
+      "gameId": 735247,
+      "gameUrl": "https://vi7o.itch.io/skull-ball",
+      "overallRank": 32,
+      "topCategories": [
+        "Engagement"
+      ],
+      "resultData": {
+        "id": 735247,
+        "contributors": [
+          {
+            "name": "vi7o",
+            "id": 1739386
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzQxMTIwNDguZ2lm/300x240%23c/68MNO4.gif",
+        "title": "Skull Ball",
+        "score": 3.9298245614035,
+        "rank": 32,
+        "raw_score": 3.9298245614035,
+        "rating_count": 19,
+        "criteria": [
+          {
+            "name": "Engagement",
+            "score": 4.2105263157895,
+            "rank": 15,
+            "raw_score": 4.2105263157895
+          },
+          {
+            "name": "Creative use of art assets",
+            "score": 3.8421052631579,
+            "rank": 70,
+            "raw_score": 3.8421052631579
+          },
+          {
+            "name": "Overall polish",
+            "score": 3.7368421052632,
+            "rank": 96,
+            "raw_score": 3.7368421052632
+          }
+        ],
+        "url": "https://itch.io/jam/miz-jam-1/rate/735247"
+      },
+      "entryData": {
+        "created_at": "2020-08-23 23:47:46",
+        "id": 150749,
+        "url": "/jam/miz-jam-1/rate/735247",
+        "game": {
+          "id": 735247,
+          "url": "https://vi7o.itch.io/skull-ball",
+          "cover_color": "#000000",
+          "user": {
+            "url": "https://vi7o.itch.io",
+            "name": "vi7o",
+            "id": 1739386
+          },
+          "title": "Skull Ball",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "gif_cover": "https://img.itch.zone/aW1nLzQxMTIwNDguZ2lm/original/gkMYsE.gif",
+          "cover": "https://img.itch.zone/aW1nLzQxMTIwNDguZ2lm/300x240%23c/68MNO4.gif",
+          "short_text": "Fight in the deadly arena to become the undefeated champion"
+        },
+        "coolness": 17,
+        "rating_count": 19
+      },
+      "details": {
+        "title": "Skull Ball",
+        "description": "CreditsArt and SFX Assets by:     Kenney - www.kenney.nlMusic by:Battle:    Alexandr Zhelanov -  https://soundcloud.com/alexandr-zhelanovTitle (\"Against All Odds\"):    Jascha (@CreaPracticus) -  https://creapracticus.itch.io/jascha-free-epic-orchestral-sountrack-pack",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzM1MjQ3LzQxMTIxMDAuZ2lm/original/kZYX%2F%2F.gif",
+          "https://img.itch.zone/aW1hZ2UvNzM1MjQ3LzQxMTIxMTQuZ2lm/original/nEf0W4.gif",
+          "https://img.itch.zone/aW1hZ2UvNzM1MjQ3LzQxMTIxMzEucG5n/original/KZGloJ.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows",
+          "Author": "vi7o",
+          "Genre": "Sports"
+        }
+      }
+    },
+    {
+      "gameId": 738768,
+      "gameUrl": "https://pinnit4.itch.io/krab-kart",
+      "overallRank": 28,
+      "topCategories": [
+        "Creative use of art assets"
+      ],
+      "resultData": {
+        "id": 738768,
+        "contributors": [
+          {
+            "name": "Pinnit4",
+            "id": 788365
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzQxMTMxNTQucG5n/300x240%23c/NEdC29.png",
+        "title": "Krab Kart",
+        "score": 3.9479166666667,
+        "rank": 28,
+        "raw_score": 3.9479166666667,
+        "rating_count": 32,
+        "criteria": [
+          {
+            "name": "Engagement",
+            "score": 3.40625,
+            "rank": 208,
+            "raw_score": 3.40625
+          },
+          {
+            "name": "Creative use of art assets",
+            "score": 4.71875,
+            "rank": 1,
+            "raw_score": 4.71875
+          },
+          {
+            "name": "Overall polish",
+            "score": 3.71875,
+            "rank": 98,
+            "raw_score": 3.71875
+          }
+        ],
+        "url": "https://itch.io/jam/miz-jam-1/rate/738768"
+      },
+      "entryData": {
+        "created_at": "2020-08-24 01:46:51",
+        "id": 150902,
+        "url": "/jam/miz-jam-1/rate/738768",
+        "game": {
+          "title": "Krab Kart",
+          "cover": "https://img.itch.zone/aW1nLzQxMTMxNTQucG5n/300x240%23c/NEdC29.png",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ],
+          "id": 738768,
+          "url": "https://pinnit4.itch.io/krab-kart",
+          "cover_color": "#3f2832",
+          "short_text": "You got krabs, and you got karts! What else do you want!",
+          "user": {
+            "url": "https://pinnit4.itch.io",
+            "name": "Pinnit4",
+            "id": 788365
+          }
+        },
+        "coolness": 8,
+        "rating_count": 32
+      },
+      "details": {
+        "title": "Krab Kart",
+        "description": "A kart race against 5 rivals controlled by the best AI my poop brain could make!Small prototype done in ~30 hours for the Miz Jam 1. #mizjam #mizjam1\nSprite pack used by Kenney: https://kenney.nl/assets/bit-pac\nListen to the song here: https://soundcloud.com/drop-j-636673803/rodando",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzM4NzY4LzQxMTMzNzEucG5n/original/AIW6c9.png",
+          "https://img.itch.zone/aW1hZ2UvNzM4NzY4LzQxMTMzNzAucG5n/original/ORypQY.png",
+          "https://img.itch.zone/aW1hZ2UvNzM4NzY4LzQxMTMzNzIucG5n/original/o5ALos.png",
+          "https://img.itch.zone/aW1hZ2UvNzM4NzY4LzQxMTMzNzQucG5n/original/zymih8.png",
+          "https://img.itch.zone/aW1hZ2UvNzM4NzY4LzQxMTMzNzMucG5n/original/fkkhAW.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows, macOS, Linux",
+          "Rating": "Rated 3.0 out of 5 stars(1 total ratings)",
+          "Author": "Pinnit4",
+          "Genre": "Racing",
+          "Tags": "3D, Game Jam, karts, Pixel Art"
+        }
+      }
+    },
+    {
+      "gameId": 734314,
+      "gameUrl": "https://fattoadgames.itch.io/book-of-faces",
+      "overallRank": 5,
+      "topCategories": [
+        "Creative use of art assets",
+        "Overall polish"
+      ],
+      "resultData": {
+        "id": 734314,
+        "contributors": [
+          {
+            "name": "Fat Toad Games",
+            "id": 3202258
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzQwOTUzMjAucG5n/300x240%23c/nS0Ivt.png",
+        "title": "Book of Faces",
+        "score": 4.2727272727273,
+        "rank": 5,
+        "raw_score": 4.2727272727273,
+        "rating_count": 11,
+        "criteria": [
+          {
+            "name": "Engagement",
+            "score": 3.8181818181818,
+            "rank": 78,
+            "raw_score": 3.8181818181818
+          },
+          {
+            "name": "Creative use of art assets",
+            "score": 4.6363636363636,
+            "rank": 2,
+            "raw_score": 4.6363636363636
+          },
+          {
+            "name": "Overall polish",
+            "score": 4.3636363636364,
+            "rank": 8,
+            "raw_score": 4.3636363636364
+          }
+        ],
+        "url": "https://itch.io/jam/miz-jam-1/rate/734314"
+      },
+      "entryData": {
+        "created_at": "2020-08-19 20:54:21",
+        "id": 149230,
+        "url": "/jam/miz-jam-1/rate/734314",
+        "game": {
+          "title": "Book of Faces",
+          "cover": "https://img.itch.zone/aW1nLzQwOTUzMjAucG5n/300x240%23c/nS0Ivt.png",
+          "platforms": [
+            "windows",
+            "osx"
+          ],
+          "id": 734314,
+          "url": "https://fattoadgames.itch.io/book-of-faces",
+          "cover_color": "#7b6e7e",
+          "short_text": "Earn your face in a dice builder roguelite",
+          "user": {
+            "url": "https://fattoadgames.itch.io",
+            "name": "Fat Toad Games",
+            "id": 3202258
+          }
+        },
+        "coolness": 17,
+        "rating_count": 11
+      },
+      "details": {
+        "title": "Book of Faces",
+        "description": "\"In his life, a man wears many faces. God forbid he lose his own.\" - Abelard Tollert.\nTo reclaim your identity, you sought the book of faces. Now it lies in your hands, and within it's page may be the key to who you are. All that remains is to open it.\nA roguelike dice-builder.\ntwitter.com/cardthinker Follow me on the tweeter.\nThis is an entry into Miz Game Jam 1! The theme was to the use the provided asset pack (shown below!)\n\nI don't have a Youtube video, but I do (will have) a blog post here about how I made it and the numerous things that went wrong along the way.\nNo game breaking bugs found but you never know.\nhttps://itch.io/jam/miz-jam-1\n\n\nDownload and upzip contents into folder.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzM0MzE0LzQwODU4MDEucG5n/original/AD4dAb.png",
+          "https://img.itch.zone/aW1hZ2UvNzM0MzE0LzQwOTUzMjIucG5n/original/fPfKLC.png",
+          "https://img.itch.zone/aW1hZ2UvNzM0MzE0LzQwODU4MDQucG5n/original/fhMRTw.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows, macOS",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "Fat Toad Games",
+          "Made with": "Unity",
+          "Tags": "Dice, Roguelite, weird",
+          "Average session": "About a half-hour",
+          "Inputs": "Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 735049,
+      "gameUrl": "https://peterofferman.itch.io/raiders-of-mizburgh",
+      "overallRank": 25,
+      "topCategories": [
+        "Creative use of art assets"
+      ],
+      "resultData": {
+        "id": 735049,
+        "contributors": [
+          {
+            "name": "Peter Offerman",
+            "id": 2293655
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzQwOTM4NjQucG5n/300x240%23c/NAAm2x.png",
+        "title": "Raiders of Mizburgh",
+        "score": 4,
+        "rank": 25,
+        "raw_score": 4,
+        "rating_count": 21,
+        "criteria": [
+          {
+            "name": "Engagement",
+            "score": 3.6666666666667,
+            "rank": 123,
+            "raw_score": 3.6666666666667
+          },
+          {
+            "name": "Creative use of art assets",
+            "score": 4.5238095238095,
+            "rank": 3,
+            "raw_score": 4.5238095238095
+          },
+          {
+            "name": "Overall polish",
+            "score": 3.8095238095238,
+            "rank": 81,
+            "raw_score": 3.8095238095238
+          }
+        ],
+        "url": "https://itch.io/jam/miz-jam-1/rate/735049"
+      },
+      "entryData": {
+        "created_at": "2020-08-21 12:24:49",
+        "id": 149460,
+        "url": "/jam/miz-jam-1/rate/735049",
+        "game": {
+          "title": "Raiders of Mizburgh",
+          "cover": "https://img.itch.zone/aW1nLzQwOTM4NjQucG5n/300x240%23c/NAAm2x.png",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "id": 735049,
+          "url": "https://peterofferman.itch.io/raiders-of-mizburgh",
+          "cover_color": "#333",
+          "short_text": "MizJam 1 entry by Peter Offerman",
+          "user": {
+            "url": "https://peterofferman.itch.io",
+            "name": "Peter Offerman",
+            "id": 2293655
+          }
+        },
+        "coolness": 15,
+        "rating_count": 21
+      },
+      "details": {
+        "title": "Raiders of Mizburgh",
+        "description": "RAIDERS OF MIZBURGHYou are a knight of Mizburgh. All your knight buddies have left to plunder other towns, and they've left you to defend the city. This game was completed within 24 hours of work, spread across 6 days. It's an entry for MizJam1: a gamejam where each game uses the same art assets. These assets were provided by the amazing Kenney. If you're into game development but don't know him, do yourself a favor and check out his website.GOALProtect the treasures of Mizburgh from the looters. Enemies will try to take the amazing treasures, like the diamond, the crown, and the cyclops' eye. I don't know why they kept the eye, but whatever. Stay alive, and keep at least 1 treasure in the city. Endure 10 waves of enemies, upgrade your skills between waves, and emerge victorious.\nCONTROLS\nButtonActionWASD/Arrow keysMove aroundAimMouseSelect sword/shield1Select bow2AttackLeft mouse buttonBlock (shield)Right mouse button\nSOURCEIf you want to check out how the game works, take a look at the source code at https://gitlab.com/peterofferman/mizjam1_peterofferman.Many of the implemented solutions are hacky, quick ways to get stuff done. It's a gamejam game after all. If you have any questions about the game and its development, let me know.ABOUT ME\nMy name is Peter Offerman, and I make video games for fun. Because I'm unable to support myself and my family with this amazing hobby, I make a living by programming business software.peterofferman.comTwitter.com/GamesByPeter\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzM1MDQ5LzQwOTM4ODAucG5n/original/tOitY6.png",
+          "https://img.itch.zone/aW1hZ2UvNzM1MDQ5LzQwOTM4NzgucG5n/original/ismzws.png",
+          "https://img.itch.zone/aW1hZ2UvNzM1MDQ5LzQwOTM4ODIucG5n/original/1ZqxIe.png",
+          "https://img.itch.zone/aW1hZ2UvNzM1MDQ5LzQwOTM4ODMucG5n/original/FNQ9zz.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Release date": "Aug 21, 2020",
+          "Rating": "Rated 4.0 out of 5 stars(5 total ratings)",
+          "Author": "Peter Offerman",
+          "Genre": "Action",
+          "Made with": "Godot",
+          "Tags": "2D, Archery, Hack and Slash, Perma Death, Pixel Art, Singleplayer",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse",
+          "Accessibility": "Subtitles"
+        }
+      }
+    },
+    {
+      "gameId": 733685,
+      "gameUrl": "https://blip-id-did-dip.itch.io/scp",
+      "overallRank": 126,
+      "topCategories": [
+        "Creative use of art assets"
+      ],
+      "resultData": {
+        "id": 733685,
+        "contributors": [
+          {
+            "name": "Blip-id-did-dip",
+            "id": 3217817
+          },
+          {
+            "name": "FaithHeart",
+            "id": 2197609
+          },
+          {
+            "name": "SeatSalt",
+            "id": 3218399
+          },
+          {
+            "name": "BadRAM",
+            "id": 508970
+          },
+          {
+            "name": "kilroy13",
+            "id": 3218478
+          },
+          {
+            "name": "remkoa",
+            "id": 2079206
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzQwODE3ODUucG5n/300x240%23c/pLnjtU.png",
+        "title": "SCP Image Protect",
+        "score": 3.5833333333333,
+        "rank": 126,
+        "raw_score": 3.5833333333333,
+        "rating_count": 16,
+        "criteria": [
+          {
+            "name": "Engagement",
+            "score": 2.875,
+            "rank": 371,
+            "raw_score": 2.875
+          },
+          {
+            "name": "Creative use of art assets",
+            "score": 4.5,
+            "rank": 4,
+            "raw_score": 4.5
+          },
+          {
+            "name": "Overall polish",
+            "score": 3.375,
+            "rank": 194,
+            "raw_score": 3.375
+          }
+        ],
+        "url": "https://itch.io/jam/miz-jam-1/rate/733685"
+      },
+      "entryData": {
+        "coolness": 7,
+        "created_at": "2020-08-24 01:39:00",
+        "id": 150879,
+        "url": "/jam/miz-jam-1/rate/733685",
+        "game": {
+          "title": "SCP Image Protect",
+          "cover": "https://img.itch.zone/aW1nLzQwODE3ODUucG5n/300x240%23c/pLnjtU.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 733685,
+          "url": "https://blip-id-did-dip.itch.io/scp",
+          "cover_color": "#eeeeee",
+          "short_text": "A terminal interface image identification game",
+          "user": {
+            "url": "https://blip-id-did-dip.itch.io",
+            "name": "Blip-id-did-dip",
+            "id": 3217817
+          }
+        },
+        "contributors": [
+          {
+            "name": "Blip-id-did-dip",
+            "url": "https://blip-id-did-dip.itch.io"
+          },
+          {
+            "name": "FaithHeart",
+            "url": "https://faithheart.itch.io"
+          },
+          {
+            "name": "SeatSalt",
+            "url": "https://seatsalt.itch.io"
+          },
+          {
+            "name": "BadRAM",
+            "url": "https://badram.itch.io"
+          },
+          {
+            "name": "kilroy13",
+            "url": "https://kilroy13.itch.io"
+          },
+          {
+            "name": "remkoa",
+            "url": "https://remkoa.itch.io"
+          }
+        ],
+        "rating_count": 16
+      },
+      "details": {
+        "title": "SCP Image Protect",
+        "description": "Welcome back to the foundation cognitohazard protection department. The terminal interface will protect you. Please log in and begin censoring pending assignments.\n\nInstructions:\nRMB to zooms out or cancels the current tool.\nThe RGB buttons disable color channels in the source image.\nSometimes the zoom button gets stuck and you need to right click to unstuck it.\nSource Code:https://github.com/BadRAM/Miz-Jam-1",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzMzNjg1LzQxMTA4NjUuanBn/original/YF0r%2Fk.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 3.0 out of 5 stars(2 total ratings)",
+          "Authors": "Blip-id-did-dip, FaithHeart, SeatSalt, BadRAM, kilroy13, remkoa",
+          "Genre": "Interactive Fiction",
+          "Tags": "2D, Atmospheric, Horror, scp, Singleplayer, Two colors, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 737536,
+      "gameUrl": "https://nuvares.itch.io/mizjam-shock",
+      "overallRank": 20,
+      "topCategories": [
+        "Creative use of art assets"
+      ],
+      "resultData": {
+        "id": 737536,
+        "contributors": [
+          {
+            "name": "Nuvares",
+            "id": 3208219
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzQxMDY3MzYucG5n/300x240%23c/%2B6mnY8.png",
+        "title": "Mizjam Shock",
+        "score": 4.040404040404,
+        "rank": 20,
+        "raw_score": 4.040404040404,
+        "rating_count": 33,
+        "criteria": [
+          {
+            "name": "Engagement",
+            "score": 3.9090909090909,
+            "rank": 52,
+            "raw_score": 3.9090909090909
+          },
+          {
+            "name": "Creative use of art assets",
+            "score": 4.4848484848485,
+            "rank": 5,
+            "raw_score": 4.4848484848485
+          },
+          {
+            "name": "Overall polish",
+            "score": 3.7272727272727,
+            "rank": 97,
+            "raw_score": 3.7272727272727
+          }
+        ],
+        "url": "https://itch.io/jam/miz-jam-1/rate/737536"
+      },
+      "entryData": {
+        "created_at": "2020-08-24 00:58:06",
+        "id": 150818,
+        "url": "/jam/miz-jam-1/rate/737536",
+        "game": {
+          "title": "Mizjam Shock",
+          "cover": "https://img.itch.zone/aW1nLzQxMDY3MzYucG5n/300x240%23c/%2B6mnY8.png",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux"
+          ],
+          "id": 737536,
+          "url": "https://nuvares.itch.io/mizjam-shock",
+          "cover_color": "#124B53",
+          "short_text": "A System shock inspired game for Miz Jam 1",
+          "user": {
+            "url": "https://nuvares.itch.io",
+            "name": "Nuvares",
+            "id": 3208219
+          }
+        },
+        "coolness": 51,
+        "rating_count": 33
+      },
+      "details": {
+        "title": "Mizjam Shock",
+        "description": "A quick game made in 22 hours, didn't have a ton of time to work but it was fun working with everyone.\nSee if you can solve the lack of mystery at Miziziziz Station. Where the Quadoptimum corp is doing nefarious things.\n\nAll 2d art assets were from the sprite pack. All 3d assets were made by me, Font asset a collaboration with Neverknow247.\n\nMusic Attributions:\nAnxiety by Kevin MacLeodVery Low Note by Kevin MacLeodLink: https://filmmusic.io/song/3374-anxietyLink: https://filmmusic.io/song/4581-very-low-noteLicense: http://creativecommons.org/licenses/by/4.0/\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzQxMDY3MzYucG5n/original/Hklmno.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Windows, macOS, Linux",
+          "Release date": "Aug 24, 2020",
+          "Author": "Nuvares",
+          "Genre": "Shooter",
+          "Made with": "Unity",
+          "Tags": "3D, First-Person, Game Jam, miz-jam-1, Singleplayer",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse",
+          "Accessibility": "Subtitles"
+        }
+      }
+    },
+    {
+      "gameId": 737917,
+      "gameUrl": "https://gapagames.itch.io/stellar-king",
+      "overallRank": 101,
+      "topCategories": [
+        "Creative use of art assets"
+      ],
+      "resultData": {
+        "id": 737917,
+        "contributors": [
+          {
+            "name": "GapaGames",
+            "id": 3233927
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzQxMDg2MjEucG5n/300x240%23c/eKNPTg.png",
+        "title": "Stellar King",
+        "score": 3.6666666666667,
+        "rank": 101,
+        "raw_score": 3.6666666666667,
+        "rating_count": 17,
+        "criteria": [
+          {
+            "name": "Engagement",
+            "score": 2.4705882352941,
+            "rank": 502,
+            "raw_score": 2.4705882352941
+          },
+          {
+            "name": "Creative use of art assets",
+            "score": 4.4705882352941,
+            "rank": 6,
+            "raw_score": 4.4705882352941
+          },
+          {
+            "name": "Overall polish",
+            "score": 4.0588235294118,
+            "rank": 36,
+            "raw_score": 4.0588235294118
+          }
+        ],
+        "url": "https://itch.io/jam/miz-jam-1/rate/737917"
+      },
+      "entryData": {
+        "created_at": "2020-08-23 15:05:52",
+        "id": 150347,
+        "url": "/jam/miz-jam-1/rate/737917",
+        "game": {
+          "title": "Stellar King",
+          "cover": "https://img.itch.zone/aW1nLzQxMDg2MjEucG5n/300x240%23c/eKNPTg.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 737917,
+          "url": "https://gapagames.itch.io/stellar-king",
+          "cover_color": "#ff48c4",
+          "short_text": "Overscoped Medieval-Space-Strategy-Sim in weird retro style!",
+          "user": {
+            "url": "https://gapagames.itch.io",
+            "name": "GapaGames",
+            "id": 3233927
+          }
+        },
+        "coolness": 12,
+        "rating_count": 17
+      },
+      "details": {
+        "title": "Stellar King",
+        "description": "Controls:\nW,A,S,D and Mouse\nTo progress a year CLICK on the Throne.\nTry to get as much Prestige and Population as possible before the king dies.\n\nPlease be aware that I added the html version later on because it's more convenient to play. It's not optimized for it though, you may have frame drops and music glitches. So I suggest the desktop version instead.\nMade for Miz Jam 1This was a 2 person project.\n\nStellar King is a strategy/simulation Space game, but you are a medieval king. Manage your servants and alien emissaries. Colonize planets, let your population grow to the highest numbers, gain prestige to be remembered for ever!\nOriginally, the idea was to make a fantasy game where you have to manage your court as the king. My wife wanted to go more into the space direction, so we did both! I was listening to 80s synth music which then led to the final aesthetic style.\nI had way to little time for actual playtesting. I wanted to include more sound effects, the balance is horrible and many calculations probably not how I imagined them. And be sure there will be bugs. I had more NPCs planned and they all should have been more unique. Unfortunately, the Queen is pretty useles right now. And allthought it should have been a major mechanic, there aren't any negative consequences for letting relations go low. I couldn't do that in time, at the end I prioritized a Start Menu / End Screen and the tutorial. Obviously all done in a hurry, but I hope the game is playable right now, let me know! :)\nBesides that, I'm really happy with the game. It's only my second Game Jam after one in late 2018. And it's amazing to see how much I have improved. That gives me hope for the future!\n\nA huge thanks to Miziziziz for hosting this Jam and especially for the way it's organized. I can completly participate even with a full time job. That's amazing!\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzM3OTE3LzQxMDg3NzAucG5n/original/xO0m%2FX.png",
+          "https://img.itch.zone/aW1hZ2UvNzM3OTE3LzQxMDg3NzIucG5n/original/ML8wpN.png",
+          "https://img.itch.zone/aW1hZ2UvNzM3OTE3LzQxMDg3NzEucG5n/original/upFv6l.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 3.0 out of 5 stars(1 total ratings)",
+          "Author": "GapaGames",
+          "Genre": "Strategy, Simulation",
+          "Made with": "Godot, Adobe Photoshop",
+          "Tags": "2D, 80s, aiva, grand-strategy, miziziziz, Pixel Art, Sci-fi, Space"
+        }
+      }
+    },
+    {
+      "gameId": 735142,
+      "gameUrl": "https://ggbot.itch.io/neon-desert",
+      "overallRank": 161,
+      "topCategories": [
+        "Creative use of art assets"
+      ],
+      "resultData": {
+        "id": 735142,
+        "contributors": [
+          {
+            "name": "GGBotNet",
+            "id": 1661923
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzQxMjM1OTIucG5n/300x240%23c/Bj36Ti.png",
+        "title": "Neon Desert",
+        "score": 3.4444444444444,
+        "rank": 161,
+        "raw_score": 3.4444444444444,
+        "rating_count": 30,
+        "criteria": [
+          {
+            "name": "Engagement",
+            "score": 2.8666666666667,
+            "rank": 384,
+            "raw_score": 2.8666666666667
+          },
+          {
+            "name": "Creative use of art assets",
+            "score": 4.4666666666667,
+            "rank": 7,
+            "raw_score": 4.4666666666667
+          },
+          {
+            "name": "Overall polish",
+            "score": 3,
+            "rank": 281,
+            "raw_score": 3
+          }
+        ],
+        "url": "https://itch.io/jam/miz-jam-1/rate/735142"
+      },
+      "entryData": {
+        "created_at": "2020-08-23 22:18:05",
+        "id": 150674,
+        "url": "/jam/miz-jam-1/rate/735142",
+        "game": {
+          "title": "Neon Desert",
+          "cover": "https://img.itch.zone/aW1nLzQxMjM1OTIucG5n/300x240%23c/Bj36Ti.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 735142,
+          "url": "https://ggbot.itch.io/neon-desert",
+          "cover_color": "#000000",
+          "short_text": "Isometric shooter, '80s inspired arcade game",
+          "user": {
+            "url": "https://ggbot.itch.io",
+            "name": "GGBotNet",
+            "id": 1661923
+          }
+        },
+        "coolness": 20,
+        "rating_count": 30
+      },
+      "details": {
+        "title": "Neon Desert",
+        "description": "Neon Desert is an isometric shooter arcade game, the world inspired by '80s with their neon lights.Gameplay:At each stage, the player moves through the desert from an isometric perspective, where the goal is always to kill every enemy in it. Development:This is my first Game Jam and that was made solo in 48 hours for Miz Jam 1. The Jam Art Kit was the 1-Bit Pack by Kenney.It was developed using the Godot Engine.Controls:[Left Mouse button] = Movement[Right Mouse button] = Shoot",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzM1MTQyLzQxMTEzNTgucG5n/original/nVyu3f.png",
+          "https://img.itch.zone/aW1hZ2UvNzM1MTQyLzQxMTEzNTkucG5n/original/W1XO01.png",
+          "https://img.itch.zone/aW1hZ2UvNzM1MTQyLzQxMTEzNjEucG5n/original/HMe42t.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "GGBotNet",
+          "Genre": "Shooter",
+          "Made with": "Godot",
+          "Tags": "80s, Arcade, Atmospheric, Godot, godot-engine, Isometric, kenney, mizjam, Neon, Top down shooter"
+        }
+      }
+    },
+    {
+      "gameId": 734457,
+      "gameUrl": "https://mysda.itch.io/deep-below-the-cacti",
+      "overallRank": 39,
+      "topCategories": [
+        "Creative use of art assets"
+      ],
+      "resultData": {
+        "id": 734457,
+        "contributors": [
+          {
+            "name": "Mysda",
+            "id": 2701513
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzQwODY3MjYucG5n/300x240%23c/PYRP6H.png",
+        "title": "Deep Below The Cacti",
+        "score": 3.8947368421053,
+        "rank": 39,
+        "raw_score": 3.8947368421053,
+        "rating_count": 19,
+        "criteria": [
+          {
+            "name": "Engagement",
+            "score": 3.6315789473684,
+            "rank": 133,
+            "raw_score": 3.6315789473684
+          },
+          {
+            "name": "Creative use of art assets",
+            "score": 4.4210526315789,
+            "rank": 8,
+            "raw_score": 4.4210526315789
+          },
+          {
+            "name": "Overall polish",
+            "score": 3.6315789473684,
+            "rank": 118,
+            "raw_score": 3.6315789473684
+          }
+        ],
+        "url": "https://itch.io/jam/miz-jam-1/rate/734457"
+      },
+      "entryData": {
+        "created_at": "2020-08-19 23:55:07",
+        "id": 149249,
+        "url": "/jam/miz-jam-1/rate/734457",
+        "game": {
+          "title": "Deep Below The Cacti",
+          "cover": "https://img.itch.zone/aW1nLzQwODY3MjYucG5n/300x240%23c/PYRP6H.png",
+          "platforms": [
+            "windows",
+            "linux",
+            "web"
+          ],
+          "id": 734457,
+          "url": "https://mysda.itch.io/deep-below-the-cacti",
+          "cover_color": "#3d2734",
+          "short_text": "Dig in this 2D game using weird physics",
+          "user": {
+            "url": "https://mysda.itch.io",
+            "name": "Mysda",
+            "id": 2701513
+          }
+        },
+        "coolness": 23,
+        "rating_count": 19
+      },
+      "details": {
+        "title": "Deep Below The Cacti",
+        "description": "Warning : The game might be laggy on browser, download available!\nMove : WASD or Arrow keys or D-pad + CIRCLE - CROSS(PS)/A - B(NINTENDO)\nExplode : ENTER or SPACE or TRIANGLE(PS)/X(NINTENDO) (Or on the screen)\nUpgrade everything available: F or SQUARE(PS)/Y(Nintendo) (Or on the screen)\n(Upgrades are availables if you have enought diamonds or rubis. If you are stuck, you might want to go back higher to get them !)\n\nGo as deep as you can in this 2D drilling game ! \nUse water to cool down  your driller and remove lava. \nRubis can upgrade your heat resistance while diamonds help you drill harder rocks.\n\nWhat's your best depth ? and score ?\n\nCredit : \nArt asset by Kenney.nl\nSounds all found on 99 Sounds or made by me\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzM0NDU3LzQwODY3NzAucG5n/original/J84zX4.png",
+          "https://img.itch.zone/aW1hZ2UvNzM0NDU3LzQwODY3NzMucG5n/original/DDwBL1.png",
+          "https://img.itch.zone/aW1hZ2UvNzM0NDU3LzQxMTIwMjcucG5n/original/Fenc0s.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, Linux",
+          "Rating": "Rated 4.3 out of 5 stars(3 total ratings)",
+          "Author": "Mysda",
+          "Genre": "Survival",
+          "Made with": "Godot",
+          "Tags": "2D, Arcade, cactus, mining, Roguelike",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse, Xbox controller, Playstation controller"
+        }
+      }
+    },
+    {
+      "gameId": 738646,
+      "gameUrl": "https://lxrdstumpy.itch.io/deal-with-the-devil",
+      "overallRank": 101,
+      "topCategories": [
+        "Creative use of art assets"
+      ],
+      "resultData": {
+        "id": 738646,
+        "contributors": [
+          {
+            "name": "LxrdStumpy",
+            "id": 2269366
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzQxMTI1MTkucG5n/300x240%23c/lneiGZ.png",
+        "title": "Deal With The Devil",
+        "score": 3.6666666666667,
+        "rank": 101,
+        "raw_score": 3.6666666666667,
+        "rating_count": 12,
+        "criteria": [
+          {
+            "name": "Engagement",
+            "score": 3.4166666666667,
+            "rank": 205,
+            "raw_score": 3.4166666666667
+          },
+          {
+            "name": "Creative use of art assets",
+            "score": 4.4166666666667,
+            "rank": 9,
+            "raw_score": 4.4166666666667
+          },
+          {
+            "name": "Overall polish",
+            "score": 3.1666666666667,
+            "rank": 245,
+            "raw_score": 3.1666666666667
+          }
+        ],
+        "url": "https://itch.io/jam/miz-jam-1/rate/738646"
+      },
+      "entryData": {
+        "created_at": "2020-08-24 01:02:39",
+        "id": 150825,
+        "url": "/jam/miz-jam-1/rate/738646",
+        "game": {
+          "title": "Deal With The Devil",
+          "cover": "https://img.itch.zone/aW1nLzQxMTI1MTkucG5n/300x240%23c/lneiGZ.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 738646,
+          "url": "https://lxrdstumpy.itch.io/deal-with-the-devil",
+          "cover_color": "#597185",
+          "short_text": "The Devil cheated you out of your soul. Now it's your turn to kick some ***.",
+          "user": {
+            "url": "https://lxrdstumpy.itch.io",
+            "name": "LxrdStumpy",
+            "id": 2269366
+          }
+        },
+        "coolness": 5,
+        "rating_count": 12
+      },
+      "details": {
+        "title": "Deal With The Devil",
+        "description": "*I forgot to mention that you can exit the game to the main menu at any time by pressing the Escape Key!**Also you can jump through floating platforms, going through a platform resets your double jump!*\nGreetings, everyone! This right here is my submission to the Mizi Game Jam 2020 Event! In this Game Jam we only had 48 Hours to complete a game using a predetermined art pack!Deal With The Devil is a short and typical platformer in which you take the reins of a nameless soul, trying to convince the Devil to give him eternal life. Of course the Devil had a slight trick up his sleeve, and after signing the eternal contract, you are immediately sent directly to Hell. It's up to you to track down that pesky Devil and redeem your soul!I apologize for any bugs xD I playtested as much as I could, but you know, we humans make mistakes. Please feel free to share your feedback in the comments below. I will have a DevLog discussing my process of tackling this project! You can check out my YouTube channel  HERE!\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzQxMTI1MTkucG5n/original/TDWKia.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Author": "LxrdStumpy",
+          "Genre": "Platformer, Action, Shooter",
+          "Made with": "Unity",
+          "Tags": "My First Game Jam, Shoot 'Em Up"
+        }
+      }
+    },
+    {
+      "gameId": 738753,
+      "gameUrl": "https://plagueware.itch.io/boxen",
+      "overallRank": 62,
+      "topCategories": [
+        "Creative use of art assets"
+      ],
+      "resultData": {
+        "id": 738753,
+        "contributors": [
+          {
+            "name": "Plagueware",
+            "id": 544283
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzQxMTMwNDQucG5n/300x240%23c/j%2BYDVl.png",
+        "title": "Boxen",
+        "score": 3.8039215686275,
+        "rank": 62,
+        "raw_score": 3.8039215686275,
+        "rating_count": 17,
+        "criteria": [
+          {
+            "name": "Engagement",
+            "score": 3.1764705882353,
+            "rank": 271,
+            "raw_score": 3.1764705882353
+          },
+          {
+            "name": "Creative use of art assets",
+            "score": 4.4117647058824,
+            "rank": 10,
+            "raw_score": 4.4117647058824
+          },
+          {
+            "name": "Overall polish",
+            "score": 3.8235294117647,
+            "rank": 79,
+            "raw_score": 3.8235294117647
+          }
+        ],
+        "url": "https://itch.io/jam/miz-jam-1/rate/738753"
+      },
+      "entryData": {
+        "created_at": "2020-08-24 01:41:34",
+        "id": 150886,
+        "url": "/jam/miz-jam-1/rate/738753",
+        "game": {
+          "title": "Boxen",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 738753,
+          "url": "https://plagueware.itch.io/boxen",
+          "cover_color": "#38171b",
+          "cover": "https://img.itch.zone/aW1nLzQxMTMwNDQucG5n/300x240%23c/j%2BYDVl.png",
+          "user": {
+            "url": "https://plagueware.itch.io",
+            "name": "Plagueware",
+            "id": 544283
+          }
+        },
+        "coolness": 8,
+        "rating_count": 17
+      },
+      "details": {
+        "title": "Boxen",
+        "description": "Mizjam1 entry.\nBoxen, a Puzzle Platformer by Plagueware.\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzM4NzUzLzQxMTMxNjAucG5n/original/PrZQPK.png",
+          "https://img.itch.zone/aW1hZ2UvNzM4NzUzLzQxMTMzMzkucG5n/original/hyiZpk.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Author": "Plagueware",
+          "Genre": "Platformer, Puzzle",
+          "Made with": "Unity",
+          "Tags": "Puzzle-Platformer"
+        }
+      }
+    },
+    {
+      "gameId": 734286,
+      "gameUrl": "https://fedealvarez.itch.io/a-truck-o",
+      "overallRank": 69,
+      "topCategories": [
+        "Creative use of art assets"
+      ],
+      "resultData": {
+        "id": 734286,
+        "contributors": [
+          {
+            "name": "Fede Alvarez",
+            "id": 89177
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzQwOTcxNzIuZ2lm/300x240%23c/Rh%2BPly.gif",
+        "title": "A-truck-o!",
+        "score": 3.7878787878788,
+        "rank": 69,
+        "raw_score": 3.7878787878788,
+        "rating_count": 11,
+        "criteria": [
+          {
+            "name": "Engagement",
+            "score": 3.5454545454545,
+            "rank": 165,
+            "raw_score": 3.5454545454545
+          },
+          {
+            "name": "Creative use of art assets",
+            "score": 4.3636363636364,
+            "rank": 11,
+            "raw_score": 4.3636363636364
+          },
+          {
+            "name": "Overall polish",
+            "score": 3.4545454545455,
+            "rank": 174,
+            "raw_score": 3.4545454545455
+          }
+        ],
+        "url": "https://itch.io/jam/miz-jam-1/rate/734286"
+      },
+      "entryData": {
+        "created_at": "2020-08-22 16:59:08",
+        "id": 149822,
+        "url": "/jam/miz-jam-1/rate/734286",
+        "game": {
+          "id": 734286,
+          "url": "https://fedealvarez.itch.io/a-truck-o",
+          "cover_color": "#472D3C",
+          "user": {
+            "url": "https://fedealvarez.itch.io",
+            "name": "Fede Alvarez",
+            "id": 89177
+          },
+          "title": "A-truck-o!",
+          "platforms": [
+            "web"
+          ],
+          "gif_cover": "https://img.itch.zone/aW1nLzQwOTcxNzIuZ2lm/original/Y7UE1r.gif",
+          "cover": "https://img.itch.zone/aW1nLzQwOTcxNzIuZ2lm/300x240%23c/Rh%2BPly.gif",
+          "short_text": "Protect the cargo at all cost. Humanity depends on you!"
+        },
+        "coolness": 9,
+        "rating_count": 11
+      },
+      "details": {
+        "title": "A-truck-o!",
+        "description": "A-truck-o!  \nIt's my entry for the Miz Jam 1 (#mizjam). Developed in Javascript (Phaser 3). Controls\nW, A, S, D  - MovementMouse  - AIM & Shoot\nStory\nIn a very near future the polluted earth lost almost completly the vegetation on it, making the primary resources such as food and water more valuable than money, making the big corporations fought for control them.\nThe cargo holds the final hope for last humans on earth, YOU MUST BE CAREFUL!\nCreditsAssets Pack - KenneyMusic & Sounds - freesound.org",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzM0Mjg2LzQwOTcyMjUucG5n/original/Jmy0E1.png",
+          "https://img.itch.zone/aW1hZ2UvNzM0Mjg2LzQwOTcyMjcucG5n/original/F83HFu.png",
+          "https://img.itch.zone/aW1hZ2UvNzM0Mjg2LzQwOTcyMjkucG5n/original/j3xBya.png",
+          "https://img.itch.zone/aW1hZ2UvNzM0Mjg2LzQwOTcyMjYucG5n/original/lwXKd5.png",
+          "https://img.itch.zone/aW1hZ2UvNzM0Mjg2LzQwOTcyMjgucG5n/original/CMwcbm.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(2 total ratings)",
+          "Author": "Fede Alvarez",
+          "Genre": "Action",
+          "Made with": "Phaser",
+          "Tags": "Asset Pack, jam, Pixel Art, Singleplayer, Top down shooter",
+          "Average session": "A few seconds",
+          "Languages": "English",
+          "Inputs": "Keyboard, Mouse"
+        }
+      }
+    },
+    {
+      "gameId": 738515,
+      "gameUrl": "https://g82game.itch.io/squeak-greek-antique",
+      "overallRank": 34,
+      "topCategories": [
+        "Creative use of art assets"
+      ],
+      "resultData": {
+        "id": 738515,
+        "contributors": [
+          {
+            "name": "g82game",
+            "id": 2412915
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzQxMTk1ODIucG5n/300x240%23c/NqVAmj.png",
+        "title": "Squeak Greek Antique",
+        "score": 3.9166666666667,
+        "rank": 34,
+        "raw_score": 3.9166666666667,
+        "rating_count": 12,
+        "criteria": [
+          {
+            "name": "Engagement",
+            "score": 3.3333333333333,
+            "rank": 235,
+            "raw_score": 3.3333333333333
+          },
+          {
+            "name": "Creative use of art assets",
+            "score": 4.3333333333333,
+            "rank": 12,
+            "raw_score": 4.3333333333333
+          },
+          {
+            "name": "Overall polish",
+            "score": 4.0833333333333,
+            "rank": 31,
+            "raw_score": 4.0833333333333
+          }
+        ],
+        "url": "https://itch.io/jam/miz-jam-1/rate/738515"
+      },
+      "entryData": {
+        "created_at": "2020-08-23 22:52:07",
+        "id": 150706,
+        "url": "/jam/miz-jam-1/rate/738515",
+        "game": {
+          "title": "Squeak Greek Antique",
+          "cover": "https://img.itch.zone/aW1nLzQxMTk1ODIucG5n/300x240%23c/NqVAmj.png",
+          "platforms": [
+            "windows",
+            "linux"
+          ],
+          "id": 738515,
+          "url": "https://g82game.itch.io/squeak-greek-antique",
+          "cover_color": "#a43434",
+          "short_text": "antique tycoon / simulation game made for miz jam 1",
+          "user": {
+            "url": "https://g82game.itch.io",
+            "name": "g82game",
+            "id": 2412915
+          }
+        },
+        "coolness": 28,
+        "rating_count": 12
+      },
+      "details": {
+        "title": "Squeak Greek Antique",
+        "description": "Squeak Greek Antique tells a story of a man, a Greek immigrant in New York, who's living a hard life in the dim reality of the 21st century. His father is no longer alive and that leaves him in charge of the family business - the antique shop. With the help of father's former friends, he puts his father's shop back on its feet and eventually moves back to his homeland.\n\nControls (supports controller):\nWASD, arrow keys (D-pad) - movement\nspacebar (cross, A) - use, confirm\nESC (circle, B) - cancel\n\nAttributes\nsmart, dicker, bargain - improves your chances to make a better deal\ngreek - learn greek language to level 9 (and have 3000$) to achieve end game goal\nYou can increase attributes at you laptop or earn some extra bucks in there (use fiverr). \n\nThis game is part of Miz Jam 1. It must have been done uder 48 hours of work. Theme was common art kit:  https://kenney.nl/assets/bit-pack\n\nGame is missing some planned features like load/save, more items variety, game menu, better code. But the time is limited. I still consider myself a beginner (I finished my 1st game 3 months ago)\nEnjoy!\n24.08.2020 21:37 reuploaded since some gamefiles were missing. Download, unpack and play.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzM4NTE1LzQxMTE4NzIucG5n/original/1%2FHHvq.png",
+          "https://img.itch.zone/aW1hZ2UvNzM4NTE1LzQxMTE4NzAucG5n/original/alTItT.png",
+          "https://img.itch.zone/aW1hZ2UvNzM4NTE1LzQxMTE4NjkucG5n/original/YNC6%2Bp.png",
+          "https://img.itch.zone/aW1hZ2UvNzM4NTE1LzQxMTE4NjgucG5n/original/4wfy33.png",
+          "https://img.itch.zone/aW1hZ2UvNzM4NTE1LzQxMTE4NzEucG5n/original/jhtSDM.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows, Linux",
+          "Author": "g82game",
+          "Genre": "Simulation",
+          "Tags": "2D, Controller, Funny, Game Jam, Godot, pop-culture, Short, Story Rich, Tycoon",
+          "Inputs": "Gamepad (any)"
+        }
+      }
+    },
+    {
+      "gameId": 737354,
+      "gameUrl": "https://jxrdxndev.itch.io/skeletonlike",
+      "overallRank": 260,
+      "topCategories": [
+        "Creative use of art assets"
+      ],
+      "resultData": {
+        "id": 737354,
+        "contributors": [
+          {
+            "name": "Jxrdxn",
+            "id": 1620
+          },
+          {
+            "name": "Trex373",
+            "id": 1032047
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzQxMTMyMzAucG5n/300x240%23c/WdkBcG.png",
+        "title": "Skeletonlike",
+        "score": 3.1875,
+        "rank": 260,
+        "raw_score": 3.1875,
+        "rating_count": 32,
+        "criteria": [
+          {
+            "name": "Engagement",
+            "score": 2.71875,
+            "rank": 433,
+            "raw_score": 2.71875
+          },
+          {
+            "name": "Creative use of art assets",
+            "score": 4.28125,
+            "rank": 13,
+            "raw_score": 4.28125
+          },
+          {
+            "name": "Overall polish",
+            "score": 2.5625,
+            "rank": 430,
+            "raw_score": 2.5625
+          }
+        ],
+        "url": "https://itch.io/jam/miz-jam-1/rate/737354"
+      },
+      "entryData": {
+        "coolness": 32,
+        "created_at": "2020-08-24 01:58:45",
+        "id": 150962,
+        "url": "/jam/miz-jam-1/rate/737354",
+        "game": {
+          "title": "Skeletonlike",
+          "cover": "https://img.itch.zone/aW1nLzQxMTMyMzAucG5n/300x240%23c/WdkBcG.png",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "id": 737354,
+          "url": "https://jxrdxndev.itch.io/skeletonlike",
+          "cover_color": "#161616",
+          "short_text": "Skeletonlike ​is a local co-op side-scrolling beat-em-up made for Miz Jam 1",
+          "user": {
+            "url": "https://jxrdxndev.itch.io",
+            "name": "Jxrdxn",
+            "id": 1620
+          }
+        },
+        "contributors": [
+          {
+            "name": "Jxrdxn",
+            "url": "https://jxrdxndev.itch.io"
+          },
+          {
+            "name": "Trex373",
+            "url": "https://trex373.itch.io"
+          }
+        ],
+        "rating_count": 32
+      },
+      "details": {
+        "title": "Skeletonlike",
+        "description": "Skeletonlike is a side-scrolling beat-em-up made for Miz Jam 1 (08/23/2020), programmed by JordanXion (Itch: Jordan4762) and art/design by Nuggetzrago (Itch: Trex373)\nSkeletonlike supports 1-4 players (Local Co-op). 1 person can play on keyboard, with 3 people on controllers, or alternatively all 4 players can use controllers.  Tested with Xbox One and PS4 controllers on Windows.\nPlease leave a rating and any Comments/Suggestions/Bug Reports etc in the comment section below, it would be hugely appreciated! \nControls:Join Game: Enter / Controller Start (Per keyboard / controller player)\nRestart Level: J / Controller Select\nMove: WASD / Left Joystick / D-Pad\nLight Attack: Left Arrow / Xbox X / PS4 Square\nHeavy Attack: Right Arrow / Xbox B / PS4 Circle\nJump: Up Arrow / Xbox Y / PS4 Triangle\n\nKnown Issues/Bugs:\nIn multiplayer, players can walk off cameraMoving camera appears jitteryLeaf shadows in Forest section appear checkered on WebGLIf player joins game after initial players have already walked away from spawn, they will be far off screen\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzM3MzU0LzQxMTMwNTgucG5n/original/W297nN.png",
+          "https://img.itch.zone/aW1hZ2UvNzM3MzU0LzQxMTMwNTcucG5n/original/eWZF%2Br.png",
+          "https://img.itch.zone/aW1hZ2UvNzM3MzU0LzQxMTMwNTkucG5n/original/TYk0OS.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Release date": "Aug 23, 2020",
+          "Rating": "Rated 3.0 out of 5 stars(1 total ratings)",
+          "Authors": "Jxrdxn, Trex373",
+          "Genre": "Fighting",
+          "Made with": "Unity",
+          "Average session": "A few minutes",
+          "Languages": "English",
+          "Inputs": "Keyboard, Xbox controller, Playstation controller",
+          "Multiplayer": "Local multiplayer",
+          "Player count": "1 - 4"
+        }
+      }
+    },
+    {
+      "gameId": 737032,
+      "gameUrl": "https://dairydog.itch.io/monster-casino",
+      "overallRank": 10,
+      "topCategories": [
+        "Creative use of art assets"
+      ],
+      "resultData": {
+        "id": 737032,
+        "contributors": [
+          {
+            "name": "billy",
+            "id": 1637410
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzQxMjc0OTQuZ2lm/300x240%23c/xh4a%2BT.gif",
+        "title": "Monster Casino",
+        "score": 4.1071428571429,
+        "rank": 10,
+        "raw_score": 4.1071428571429,
+        "rating_count": 28,
+        "criteria": [
+          {
+            "name": "Engagement",
+            "score": 3.9285714285714,
+            "rank": 49,
+            "raw_score": 3.9285714285714
+          },
+          {
+            "name": "Creative use of art assets",
+            "score": 4.2142857142857,
+            "rank": 14,
+            "raw_score": 4.2142857142857
+          },
+          {
+            "name": "Overall polish",
+            "score": 4.1785714285714,
+            "rank": 24,
+            "raw_score": 4.1785714285714
+          }
+        ],
+        "url": "https://itch.io/jam/miz-jam-1/rate/737032"
+      },
+      "entryData": {
+        "created_at": "2020-08-22 19:48:51",
+        "id": 149857,
+        "url": "/jam/miz-jam-1/rate/737032",
+        "game": {
+          "id": 737032,
+          "url": "https://dairydog.itch.io/monster-casino",
+          "cover_color": "#471514",
+          "user": {
+            "url": "https://dairydog.itch.io",
+            "name": "billy",
+            "id": 1637410
+          },
+          "title": "Monster Casino",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "gif_cover": "https://img.itch.zone/aW1nLzQxMjc0OTQuZ2lm/original/C%2BFj7%2B.gif",
+          "cover": "https://img.itch.zone/aW1nLzQxMjc0OTQuZ2lm/300x240%23c/xh4a%2BT.gif",
+          "short_text": "The Gambling RPG where you can coerce monsters to cheat for you."
+        },
+        "coolness": 26,
+        "rating_count": 28
+      },
+      "details": {
+        "title": "Monster Casino",
+        "description": "Chelly and Dog, citizens of Hell, are forced into a gauntlet of high stakes Poker death matches in order to secure their rent, which was unfairly jacked up by Satan.\nWith her high emotional intelligence, Chelly is able to recruit monsters to her side. Using the secret technique of \"cheating\", these monsters can tip the scales in her favor.\nCreated in 48 hours for Miz Jam 1.\nSource code available here: https://github.com/billymonks/monster-casino\nInstructions\nMonster Casino is played exclusively using the mouse and left mouse button. Cutscenes can be skipped with the space bar.\nWhen exploring, click on the ground to walk to a location, and click on a monster to interact with them. Some monsters will challenge you to a poker battle when interacted with.\nPoker battles play out similarly to standard Texas Hold 'em, with an added twist: monsters in your party can cheat to assist you during play. To activate these cheats on your turn, just click on the party member's icon on the bottom-left corner of the screen. When you hover the mouse over the icon a tooltip will be displayed showing your party member's ability, and how much \"security alert %\" the ability will cost to use. The current \"security alert %\" can be seen on your turn on the top-right corner of the screen, designated by a yellow \"!\". If an ability would bring this alert level above 100%, you will be unable to use the ability.\nTexas Hold 'em basics\nAside from that, battles play out like standard Texas Hold 'em. The objective of the game is to bankrupt your opponent by betting on who has the stronger hand.\nEach player receives two cards (known as \"hole cards\", which are hidden from the other player. Five additional cards are placed on the table, known as \"community cards\". A player's hand value is calculated from the strongest possible 5 card hand from that player's hole cards and the community cards.\nGame flow\nEach turn, player and opponent take turns betting as cards are revealed.\nFirst, before any cards have been dealt, one player pays the \"small blind\", and the other pays the \"big blind\". This money goes into the \"pot\". The pot is a pile of money on the table that is at stake for the current hand.\nNext, each player is dealt their two hole cards and are given the opportunity to bet.\nNext turn, 3 of the 5 community cards are revealed. Both player have an opportunity to bet.\nNext, an additional community card is revealed and both players have another opportunity to bet.\nNext, the last community card is revealed and both players get one last chance to bet.\nFinally, if neither player has folded, it's time for the showdown. Both players' hole cards are revealed, and the player with the strongest hand wins the pot.\nAfter each hand, the price of the big blind and small blind doubles, and which player is paying the big blind or small blind, and who plays first each turn (known as the dealer) switches.\nBetting\nEach turn, each player has the opportunity to increase the stakes, match the stakes, or fold and give up the pot. The player's options are: \"Check\" (if both players are currently betting the same stakes, checking passes your turn without betting any additional money.), \"Call\" (place money into the pot to match the opponent's stake and stay in the current hand), \"Fold\" (surrender the pot to the other player, ending the current hand and not placing any more money into the pot), or \"Raise\" (to match the opponent's stake, and bet additional money in the pot. If the opponent would like to stay in the current hand, they will have to \"Call\" your additional bet, or else surrender the pot.)\nHand strength from strongest to weakest\nNameDescriptionExampleRoyal FlushA straight flush from 10 to AceStraight FlushA straight of the same suitFour of a kindFour cards of the same valueFull houseThree of a kind and a pairFlushFive cards of the same suitStraightFive cards in sequential orderThree of a kindThree cards of the same valueTwo pairsTwo sets of pairsPairTwo cards with the same value\nIn the case that the player and opponent have the same hand, the hand with the higher value will win. (Example: a pair of Kings will beat a pair of Queens. If both players have the same pair, the tie will be split by who has the highest value card in their hand outside that pair.)\nIn the event that both players have an identically valued hand, the pot will be split among both.\nCredits\nKenney - 1-Bit Pack 1-Bit PackKenney - 54 Casino sound effects 54 Casino sound effectsSHADOWFOX2 - Casino, title, credits music SHADOWFOX2Maoudamashii - Battle themes and many sfx Maoudamashiibilly - Designer and developer dairy.dog\nInterested in the future of Monster Casino's development? Join the discord!\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzM3MDMyLzQxMDM3MDIuanBn/original/AiDoPx.jpg",
+          "https://img.itch.zone/aW1hZ2UvNzM3MDMyLzQxMDM3MTAuanBn/original/IJF1YL.jpg",
+          "https://img.itch.zone/aW1hZ2UvNzM3MDMyLzQxMDM3MTYuanBn/original/b8%2Fbz7.jpg",
+          "https://img.itch.zone/aW1hZ2UvNzM3MDMyLzQxMDM3MjEuanBn/original/kAhnJ%2B.jpg",
+          "https://img.itch.zone/aW1hZ2UvNzM3MDMyLzQxMDM3MzMuanBn/original/5520v8.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.6 out of 5 stars(8 total ratings)",
+          "Author": "billy",
+          "Genre": "Role Playing",
+          "Made with": "Unity",
+          "Tags": "Female Protagonist, gambling, Mouse only, Pixel Art, poker, Singleplayer",
+          "Code license": "MIT License",
+          "Average session": "About a half-hour",
+          "Languages": "English",
+          "Inputs": "Mouse",
+          "Links": "Source code"
+        }
+      }
+    },
+    {
+      "gameId": 738593,
+      "gameUrl": "https://edalbung.itch.io/runvive",
+      "overallRank": 243,
+      "topCategories": [
+        "Creative use of art assets"
+      ],
+      "resultData": {
+        "id": 738593,
+        "contributors": [
+          {
+            "name": "Edalbung",
+            "id": 1890479
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzQyMDE0OTYucG5n/300x240%23c/MFEfO6.png",
+        "title": "RunVive!",
+        "score": 3.2380952380952,
+        "rank": 243,
+        "raw_score": 3.2380952380952,
+        "rating_count": 14,
+        "criteria": [
+          {
+            "name": "Engagement",
+            "score": 2.6428571428571,
+            "rank": 452,
+            "raw_score": 2.6428571428571
+          },
+          {
+            "name": "Creative use of art assets",
+            "score": 4.2142857142857,
+            "rank": 14,
+            "raw_score": 4.2142857142857
+          },
+          {
+            "name": "Overall polish",
+            "score": 2.8571428571429,
+            "rank": 329,
+            "raw_score": 2.8571428571429
+          }
+        ],
+        "url": "https://itch.io/jam/miz-jam-1/rate/738593"
+      },
+      "entryData": {
+        "created_at": "2020-08-24 01:06:23",
+        "id": 150827,
+        "url": "/jam/miz-jam-1/rate/738593",
+        "game": {
+          "title": "RunVive!",
+          "cover": "https://img.itch.zone/aW1nLzQyMDE0OTYucG5n/300x240%23c/MFEfO6.png",
+          "platforms": [
+            "windows"
+          ],
+          "id": 738593,
+          "url": "https://edalbung.itch.io/runvive",
+          "cover_color": "#bdcfff",
+          "short_text": "Survive in a Sci-Fi desert from something really strange... and sticky!",
+          "user": {
+            "url": "https://edalbung.itch.io",
+            "name": "Edalbung",
+            "id": 1890479
+          }
+        },
+        "coolness": 31,
+        "rating_count": 14
+      },
+      "details": {
+        "title": "RunVive!",
+        "description": "Survive in a Sci-Fi desert from something really strange... and sticky! \nGame made during the \"Miz Jam 1\", where the main rule was to use the art kit provided by the host, \"Miziziziz\".\n* Controls:\nBoth Keyboard and Gamepad are supported (tested only with Xbox Controller but it should work with other types) => \n- Move: WASD or ZQSD or Left Stick- Attack: Space or X button (Square on a PS4 controller)\n(Unused action: Flame=> Enter or B button (Circle on PS4 controller), currently it does the same thing as the sword)\n*Music & SFX credits: \n- Main menu => \"Inner Space 2\" by AliceMako (link: https://www.newgrounds.com/audio/listen/958960)\n- Gameplay => \"Operation\" by Sekter (link: https://www.newgrounds.com/audio/listen/958051)\n- Effect sounds are from the sonniss free royalty bank sounds of GDC 2019, here is the link:https://sonniss.com/gameaudiogdc19/ (Except the walk sound, which is from the feet of my girlfriend, her instagram: https://www.instagram.com/ninakirovakan/)\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzM4NTkzLzQxMTMwNjguanBn/original/oy00k6.jpg",
+          "https://img.itch.zone/aW1hZ2UvNzM4NTkzLzQxMTMwNjkuanBn/original/rXUJgk.jpg",
+          "https://img.itch.zone/aW1hZ2UvNzM4NTkzLzQxMTMwNzEuanBn/original/2yHwWW.jpg",
+          "https://img.itch.zone/aW1hZ2UvNzM4NTkzLzQxMTMwNzIuanBn/original/%2FlH4%2BB.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Author": "Edalbung",
+          "Genre": "Survival, Action",
+          "Tags": "3D, Action-Adventure, Fast-Paced, mizjam, Sci-fi, Short, Singleplayer, Top-Down, Unreal Engine"
+        }
+      }
+    },
+    {
+      "gameId": 737800,
+      "gameUrl": "https://anttihaavikko.itch.io/chainitaire",
+      "overallRank": 7,
+      "topCategories": [
+        "Overall polish"
+      ],
+      "resultData": {
+        "id": 737800,
+        "contributors": [
+          {
+            "name": "anttihaavikko",
+            "id": 194445
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzQxMDgwMTguZ2lm/300x240%23c/Jq0SgI.gif",
+        "title": "Chainitaire",
+        "score": 4.2352941176471,
+        "rank": 7,
+        "raw_score": 4.2352941176471,
+        "rating_count": 17,
+        "criteria": [
+          {
+            "name": "Engagement",
+            "score": 4.1176470588235,
+            "rank": 26,
+            "raw_score": 4.1176470588235
+          },
+          {
+            "name": "Creative use of art assets",
+            "score": 3.9411764705882,
+            "rank": 49,
+            "raw_score": 3.9411764705882
+          },
+          {
+            "name": "Overall polish",
+            "score": 4.6470588235294,
+            "rank": 2,
+            "raw_score": 4.6470588235294
+          }
+        ],
+        "url": "https://itch.io/jam/miz-jam-1/rate/737800"
+      },
+      "entryData": {
+        "created_at": "2020-08-23 14:31:22",
+        "id": 150264,
+        "url": "/jam/miz-jam-1/rate/737800",
+        "game": {
+          "id": 737800,
+          "url": "https://anttihaavikko.itch.io/chainitaire",
+          "cover_color": "#5D2A42",
+          "user": {
+            "url": "https://anttihaavikko.itch.io",
+            "name": "anttihaavikko",
+            "id": 194445
+          },
+          "title": "Chainitaire",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "gif_cover": "https://img.itch.zone/aW1nLzQxMDgwMTguZ2lm/original/RaqHh%2B.gif",
+          "cover": "https://img.itch.zone/aW1nLzQxMDgwMTguZ2lm/300x240%23c/Jq0SgI.gif",
+          "short_text": "Solitaire game about making long chains of cards."
+        },
+        "coolness": 13,
+        "rating_count": 17
+      },
+      "details": {
+        "title": "Chainitaire",
+        "description": "Chainitaire is a solitare type score attack game made for #mizjam1 where the gist was that everyone was using the same art kit.\nYou play by placing cards on the playing field making big chains of cards connected by same suit or card value and get more points the more successful links you make with a single placement. There are also some bonus items on the field which give multipliers to score gained from the card on the same cell.\nDo you have what it takes to climb to the top of the leaderboards?\nTools used:\nUnity 2019.3BeepBox.coGarageBandBfxr\nSource code:https://github.com/anttihaavikko/chainitaire",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzM3ODAwLzQxMDc4NzcuanBn/original/BEt7tO.jpg",
+          "https://img.itch.zone/aW1hZ2UvNzM3ODAwLzQxMDc4NzQuanBn/original/DLzD8r.jpg",
+          "https://img.itch.zone/aW1hZ2UvNzM3ODAwLzQxMDc4NzYuanBn/original/NVtXwP.jpg",
+          "https://img.itch.zone/aW1hZ2UvNzM3ODAwLzQxMDc4NzguanBn/original/MNlKNr.jpg",
+          "https://img.itch.zone/aW1hZ2UvNzM3ODAwLzQxMDc4NzUuanBn/original/KnwCrg.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 4.4 out of 5 stars(9 total ratings)",
+          "Author": "anttihaavikko",
+          "Genre": "Card Game, Puzzle",
+          "Made with": "Unity",
+          "Tags": "Arcade, combos, High Score, Mouse only, Pixel Art, Retro, Singleplayer, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 734667,
+      "gameUrl": "https://bas-hoogeboom.itch.io/miner-inconvenience",
+      "overallRank": 3,
+      "topCategories": [
+        "Overall polish"
+      ],
+      "resultData": {
+        "id": 734667,
+        "contributors": [
+          {
+            "name": "Bas_Hoogeboom",
+            "id": 3181521
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzQwODk2NjQucG5n/300x240%23c/ZnW1Bs.png",
+        "title": "Miner Inconvenience",
+        "score": 4.3063063063063,
+        "rank": 3,
+        "raw_score": 4.3063063063063,
+        "rating_count": 74,
+        "criteria": [
+          {
+            "name": "Engagement",
+            "score": 4.1351351351351,
+            "rank": 23,
+            "raw_score": 4.1351351351351
+          },
+          {
+            "name": "Creative use of art assets",
+            "score": 4.2027027027027,
+            "rank": 16,
+            "raw_score": 4.2027027027027
+          },
+          {
+            "name": "Overall polish",
+            "score": 4.5810810810811,
+            "rank": 3,
+            "raw_score": 4.5810810810811
+          }
+        ],
+        "url": "https://itch.io/jam/miz-jam-1/rate/734667"
+      },
+      "entryData": {
+        "created_at": "2020-08-20 16:36:04",
+        "id": 149348,
+        "url": "/jam/miz-jam-1/rate/734667",
+        "game": {
+          "title": "Miner Inconvenience",
+          "cover": "https://img.itch.zone/aW1nLzQwODk2NjQucG5n/300x240%23c/ZnW1Bs.png",
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "id": 734667,
+          "url": "https://bas-hoogeboom.itch.io/miner-inconvenience",
+          "cover_color": "#000c29",
+          "short_text": "A submission for Miz Jam 1. Crash into planets, repair your ship, and apologize to your pilot!",
+          "user": {
+            "url": "https://bas-hoogeboom.itch.io",
+            "name": "Bas_Hoogeboom",
+            "id": 3181521
+          }
+        },
+        "coolness": 32,
+        "rating_count": 74
+      },
+      "details": {
+        "title": "Miner Inconvenience",
+        "description": "A submission for Miz Jam 1.\nHighly advised to play in full-screen mode!\nDevlog:\n\nFull playthrough:\n\n\nControls: \nWASD or Arrow keys to move.Click or Spacebar or Return to advance messages.\n\nStory:\nJack and Daryl roam the solarsystem as a Pilot and Miner duo. Miner Daryl runs into a bit of a problem with his pilot and, together with the Board Computer, tries to get out of this situation. \n\nPremise:\nCrash into planets, dig up all the minerals and get out before the planet becomes too unstable and explodes!\n\nCredits:\nArt: Kenney (https://kenney.nl/)\nProgramming, Design, Sound design: Bas Hoogeboom",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzM0NjY3LzQwODk3NDYucG5n/original/vYik8U.png",
+          "https://img.itch.zone/aW1hZ2UvNzM0NjY3LzQwODk3NDkucG5n/original/yxpYuu.png",
+          "https://img.itch.zone/aW1hZ2UvNzM0NjY3LzQwODk3NTAucG5n/original/uNPbEG.png",
+          "https://img.itch.zone/aW1hZ2UvNzM0NjY3LzQwODk3NDcucG5n/original/c91B%2Fo.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 4.5 out of 5 stars(36 total ratings)",
+          "Author": "Bas_Hoogeboom",
+          "Made with": "Unity, Aseprite, Bfxr",
+          "Tags": "2D, mining, mizjam, Pixel Art, Short, Space, Unity",
+          "Average session": "A few minutes"
+        }
+      }
+    },
+    {
+      "gameId": 733352,
+      "gameUrl": "https://ricenoodles.itch.io/hands-off-my-tavern",
+      "overallRank": 13,
+      "topCategories": [
+        "Overall polish"
+      ],
+      "resultData": {
+        "id": 733352,
+        "contributors": [
+          {
+            "name": "ricenoodles",
+            "id": 753165
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzQxMTc1NDAucG5n/300x240%23c/IrZgoE.png",
+        "title": "Hands Off My Tavern",
+        "score": 4.0897435897436,
+        "rank": 13,
+        "raw_score": 4.0897435897436,
+        "rating_count": 26,
+        "criteria": [
+          {
+            "name": "Engagement",
+            "score": 3.9230769230769,
+            "rank": 50,
+            "raw_score": 3.9230769230769
+          },
+          {
+            "name": "Creative use of art assets",
+            "score": 3.9230769230769,
+            "rank": 56,
+            "raw_score": 3.9230769230769
+          },
+          {
+            "name": "Overall polish",
+            "score": 4.4230769230769,
+            "rank": 6,
+            "raw_score": 4.4230769230769
+          }
+        ],
+        "url": "https://itch.io/jam/miz-jam-1/rate/733352"
+      },
+      "entryData": {
+        "created_at": "2020-08-18 17:45:12",
+        "id": 149094,
+        "url": "/jam/miz-jam-1/rate/733352",
+        "game": {
+          "title": "Hands Off My Tavern",
+          "cover": "https://img.itch.zone/aW1nLzQxMTc1NDAucG5n/300x240%23c/IrZgoE.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 733352,
+          "url": "https://ricenoodles.itch.io/hands-off-my-tavern",
+          "cover_color": "#1a404a",
+          "short_text": "Defend your favourite tavern from these foul demons!",
+          "user": {
+            "url": "https://ricenoodles.itch.io",
+            "name": "ricenoodles",
+            "id": 753165
+          }
+        },
+        "coolness": 5,
+        "rating_count": 26
+      },
+      "details": {
+        "title": "Hands Off My Tavern",
+        "description": "*recommended playing on Google Chrome for sounds/music*\nOh no! A portal from hell just opened in your favourite local tavern! And there's demons coming out from it, who would've thought!?\n Save everyone and everything from these wicked creatures!\nControls: Mouse only------------------------------------\nEngine: Construct 3Music made in Bosca CeoilSound FX: opengameart.comArtkit: Kenney.CL\nMade for game jam Miz Jam 1 - 2020\n________________________________________________________\nfix- the game  was starting at enemy 3... oopsfix2-the Wizard and Rogue were unlocked already.... oops.fix3- fixed some audio bugs, balanced enemy nº8 and fixed a bug with the easy mode option disappearing magically.fix4- more balance, more bugs.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzMzMzUyLzQwOTQ0NzYuZ2lm/original/PpEKqe.gif",
+          "https://img.itch.zone/aW1hZ2UvNzMzMzUyLzQwOTQ0NzkuZ2lm/original/W5odfC.gif",
+          "https://img.itch.zone/aW1hZ2UvNzMzMzUyLzQwOTQ0NzguZ2lm/original/%2Bk2c7v.gif",
+          "https://img.itch.zone/aW1hZ2UvNzMzMzUyLzQwNzk2MzAucG5n/original/sfRv1V.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(3 total ratings)",
+          "Author": "ricenoodles",
+          "Genre": "Action",
+          "Made with": "Construct",
+          "Tags": "Bullet Hell, Retro"
+        }
+      }
+    },
+    {
+      "gameId": 736288,
+      "gameUrl": "https://ambientmelancholy.itch.io/battle-of-battles",
+      "overallRank": 23,
+      "topCategories": [
+        "Overall polish"
+      ],
+      "resultData": {
+        "id": 736288,
+        "contributors": [
+          {
+            "name": "Ambient Melancholy",
+            "id": 1513313
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzQwOTg1MjUuZ2lm/300x240%23c/SAy98q.gif",
+        "title": "Battle of Battles",
+        "score": 4.0266666666667,
+        "rank": 23,
+        "raw_score": 4.0266666666667,
+        "rating_count": 25,
+        "criteria": [
+          {
+            "name": "Engagement",
+            "score": 4.16,
+            "rank": 19,
+            "raw_score": 4.16
+          },
+          {
+            "name": "Creative use of art assets",
+            "score": 3.56,
+            "rank": 137,
+            "raw_score": 3.56
+          },
+          {
+            "name": "Overall polish",
+            "score": 4.36,
+            "rank": 9,
+            "raw_score": 4.36
+          }
+        ],
+        "url": "https://itch.io/jam/miz-jam-1/rate/736288"
+      },
+      "entryData": {
+        "created_at": "2020-08-23 13:10:38",
+        "id": 150178,
+        "url": "/jam/miz-jam-1/rate/736288",
+        "game": {
+          "id": 736288,
+          "url": "https://ambientmelancholy.itch.io/battle-of-battles",
+          "cover_color": "#1a1a27",
+          "user": {
+            "url": "https://ambientmelancholy.itch.io",
+            "name": "Ambient Melancholy",
+            "id": 1513313
+          },
+          "title": "Battle of Battles",
+          "platforms": [
+            "web"
+          ],
+          "gif_cover": "https://img.itch.zone/aW1nLzQwOTg1MjUuZ2lm/original/9gaLdz.gif",
+          "cover": "https://img.itch.zone/aW1nLzQwOTg1MjUuZ2lm/300x240%23c/SAy98q.gif",
+          "short_text": "Arcade Single Player Royale"
+        },
+        "coolness": 45,
+        "rating_count": 25
+      },
+      "details": {
+        "title": "Battle of Battles",
+        "description": "\nOnly the fierce ones \nshall receive the crown!\n_________________________________________________________________________________\nFor best experience play with controller and download windows version!_______________________________________________________________________________\n\nThis game was made for the #mizJam1!  in 48 hours.\nEveryone participated used the same art kit from Kenney! https://kenney.nl/\nMusic and sound effects  are public domain from some very generous people!\nThank you very much!\n_________________________________________________________________________\nAlternative controls for Keyboard\nJ K L ( red,blue,dash)",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzM2Mjg4LzQxMDQ5OTEucG5n/original/aDN72O.png",
+          "https://img.itch.zone/aW1hZ2UvNzM2Mjg4LzQxMDUwMTIucG5n/original/oHvNp1.png",
+          "https://img.itch.zone/aW1hZ2UvNzM2Mjg4LzQxMDUwMTMucG5n/original/FlXvAo.png",
+          "https://img.itch.zone/aW1hZ2UvNzM2Mjg4LzQxMDQ5OTkucG5n/original/APWYyz.png",
+          "https://img.itch.zone/aW1hZ2UvNzM2Mjg4LzQxMDUwMTQucG5n/original/Aoflm0.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "HTML5",
+          "Rating": "Rated 4.4 out of 5 stars(14 total ratings)",
+          "Author": "Ambient Melancholy",
+          "Genre": "Action, Platformer",
+          "Made with": "Unity",
+          "Tags": "2D, Arcade, Fast-Paced, Game Boy, Pixel Art, Roguelike, Roguelite, royale, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 738523,
+      "gameUrl": "https://milkshakedev.itch.io/red-paint",
+      "overallRank": 77,
+      "topCategories": [
+        "Overall polish"
+      ],
+      "resultData": {
+        "id": 738523,
+        "contributors": [
+          {
+            "name": "Milkshake",
+            "id": 1348450
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzQxMjcwODIuZ2lm/300x240%23c/RAvfNK.gif",
+        "title": "Red Paint.",
+        "score": 3.7606837606838,
+        "rank": 77,
+        "raw_score": 3.7606837606838,
+        "rating_count": 39,
+        "criteria": [
+          {
+            "name": "Engagement",
+            "score": 3.6923076923077,
+            "rank": 114,
+            "raw_score": 3.6923076923077
+          },
+          {
+            "name": "Creative use of art assets",
+            "score": 3.2307692307692,
+            "rank": 232,
+            "raw_score": 3.2307692307692
+          },
+          {
+            "name": "Overall polish",
+            "score": 4.3589743589744,
+            "rank": 10,
+            "raw_score": 4.3589743589744
+          }
+        ],
+        "url": "https://itch.io/jam/miz-jam-1/rate/738523"
+      },
+      "entryData": {
+        "created_at": "2020-08-23 23:02:29",
+        "id": 150713,
+        "url": "/jam/miz-jam-1/rate/738523",
+        "game": {
+          "id": 738523,
+          "url": "https://milkshakedev.itch.io/red-paint",
+          "cover_color": "#472D3C",
+          "user": {
+            "url": "https://milkshakedev.itch.io",
+            "name": "Milkshake",
+            "id": 1348450
+          },
+          "title": "Red Paint.",
+          "platforms": [
+            "windows"
+          ],
+          "gif_cover": "https://img.itch.zone/aW1nLzQxMjcwODIuZ2lm/original/nfJoUh.gif",
+          "cover": "https://img.itch.zone/aW1nLzQxMjcwODIuZ2lm/300x240%23c/RAvfNK.gif",
+          "short_text": "a game about mass murdering people"
+        },
+        "coolness": 12,
+        "rating_count": 39
+      },
+      "details": {
+        "title": "Red Paint.",
+        "description": "this game was made for the miz jam 1. its a game about mass murdering a bunch of people who have stolen your sacred diamond! :0 \nmusic used:\nhttps://opengameart.org/content/spooky-dungeonhttps://opengameart.org/content/boss-battle-6-8-bithttps://opengameart.org/content/leap-8bit\nart used:\nhttps://kenney.nl/assets/bit-pack\n- install and unzip \"Red Paint.zip\" \n- run \"Red Paint.exe\"",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzM4NTIzLzQxMTIzMDEuZ2lm/original/AdBnfV.gif",
+          "https://img.itch.zone/aW1hZ2UvNzM4NTIzLzQxMTIzMjMuZ2lm/original/wDFRo2.gif",
+          "https://img.itch.zone/aW1hZ2UvNzM4NTIzLzQxMTIzNDUuZ2lm/original/yeh6NQ.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Windows",
+          "Rating": "Rated 3.7 out of 5 stars(3 total ratings)",
+          "Author": "Milkshake",
+          "Genre": "Action, Shooter",
+          "Tags": "2D, 8-Bit, Arcade, blood, GameMaker, Pixel Art, Retro, Shoot 'Em Up, Short"
+        }
+      }
+    },
+    {
+      "gameId": 737664,
+      "gameUrl": "https://red-voxel.itch.io/sneaky-time",
+      "overallRank": 15,
+      "topCategories": [
+        "Overall polish"
+      ],
+      "resultData": {
+        "id": 737664,
+        "contributors": [
+          {
+            "name": "RedVoxel",
+            "id": 607770
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzQxMDg2MzcucG5n/300x240%23c/YWuaIR.png",
+        "title": "Sneaky Time",
+        "score": 4.0758245397726,
+        "rank": 15,
+        "raw_score": 4.2962962962963,
+        "rating_count": 9,
+        "criteria": [
+          {
+            "name": "Engagement",
+            "score": 4.1109609582189,
+            "rank": 27,
+            "raw_score": 4.3333333333333
+          },
+          {
+            "name": "Creative use of art assets",
+            "score": 3.7947331922021,
+            "rank": 83,
+            "raw_score": 4
+          },
+          {
+            "name": "Overall polish",
+            "score": 4.3217794688968,
+            "rank": 11,
+            "raw_score": 4.5555555555556
+          }
+        ],
+        "url": "https://itch.io/jam/miz-jam-1/rate/737664"
+      },
+      "entryData": {
+        "created_at": "2020-08-23 16:40:28",
+        "id": 150388,
+        "url": "/jam/miz-jam-1/rate/737664",
+        "game": {
+          "title": "Sneaky Time",
+          "cover": "https://img.itch.zone/aW1nLzQxMDg2MzcucG5n/300x240%23c/YWuaIR.png",
+          "platforms": [
+            "web"
+          ],
+          "id": 737664,
+          "url": "https://red-voxel.itch.io/sneaky-time",
+          "cover_color": "#240e18",
+          "short_text": "Sneak past guards and be stealthy - Made for Miz-Jam #1",
+          "user": {
+            "url": "https://red-voxel.itch.io",
+            "name": "RedVoxel",
+            "id": 607770
+          }
+        },
+        "coolness": 4,
+        "rating_count": 9
+      },
+      "details": {
+        "title": "Sneaky Time",
+        "description": "Music: http://www.patreon.com/shiru8bitControls:\nWASD or Arrow keys to move\nAim grappling hook by moving your mouse\nLeft Click to fire grappling hook",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzM3NjY0LzQxMDg5MDMucG5n/original/ygDQxD.png",
+          "https://img.itch.zone/aW1hZ2UvNzM3NjY0LzQxMDg5MDQucG5n/original/PO21Md.png",
+          "https://img.itch.zone/aW1hZ2UvNzM3NjY0LzQxMDg5MDIucG5n/original/xVMvXG.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "RedVoxel",
+          "Genre": "Puzzle, Strategy",
+          "Made with": "Construct",
+          "Tags": "2D, Difficult, Futuristic, Pixel Art, Short, Singleplayer, Stealth"
+        }
+      }
+    },
+    {
+      "gameId": 738377,
+      "gameUrl": "https://hypergardens.itch.io/the-technomagical-method",
+      "overallRank": 40,
+      "topCategories": [
+        "Overall polish"
+      ],
+      "resultData": {
+        "id": 738377,
+        "contributors": [
+          {
+            "name": "Hypergardens",
+            "id": 1608233
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzQxMTEwNzIuZ2lm/300x240%23c/L%2BHsM%2F.gif",
+        "title": "The Technomagical Method",
+        "score": 3.8939393939394,
+        "rank": 40,
+        "raw_score": 3.8939393939394,
+        "rating_count": 22,
+        "criteria": [
+          {
+            "name": "Engagement",
+            "score": 3.7727272727273,
+            "rank": 92,
+            "raw_score": 3.7727272727273
+          },
+          {
+            "name": "Creative use of art assets",
+            "score": 3.5909090909091,
+            "rank": 127,
+            "raw_score": 3.5909090909091
+          },
+          {
+            "name": "Overall polish",
+            "score": 4.3181818181818,
+            "rank": 12,
+            "raw_score": 4.3181818181818
+          }
+        ],
+        "url": "https://itch.io/jam/miz-jam-1/rate/738377"
+      },
+      "entryData": {
+        "created_at": "2020-08-23 22:08:06",
+        "id": 150665,
+        "url": "/jam/miz-jam-1/rate/738377",
+        "game": {
+          "id": 738377,
+          "url": "https://hypergardens.itch.io/the-technomagical-method",
+          "cover_color": "#3f2832",
+          "user": {
+            "url": "https://hypergardens.itch.io",
+            "name": "Hypergardens",
+            "id": 1608233
+          },
+          "title": "The Technomagical Method",
+          "platforms": [
+            "windows",
+            "osx",
+            "linux",
+            "web"
+          ],
+          "gif_cover": "https://img.itch.zone/aW1nLzQxMTEwNzIuZ2lm/original/k539XF.gif",
+          "cover": "https://img.itch.zone/aW1nLzQxMTEwNzIuZ2lm/300x240%23c/L%2BHsM%2F.gif",
+          "short_text": "A tough, silly puzzle game about gnomes, inductive logic and BIG BRAINS."
+        },
+        "coolness": 23,
+        "rating_count": 22
+      },
+      "details": {
+        "title": "The Technomagical Method",
+        "description": "IMPORTANT:\nIf you experience lag or stuttering, download the version for your system, below.Press 1 for hints (you get told about them at level 4)Press 9 to instantly win a level if you get stuck, to see all the writing\nAll of these \"alchemists\" and \"sorcerors\" running around with their haphazard, chaotic \"experiments\".\nYou are not like them. You are a scientist!\nSo dust off your alchemical tablet, gather your lizard skulls, your fire salts, your lab gnomes and your cheese and crack the secrets of alchemy once and for all!\n\nThe Technomagical Method is a tough puzzle game about the scientific method. Every ritual has secret rules that you must gradually crack with inductive logic: \"Why does this work and not that? What do these patterns have in common\".\nWith a tutorial, tips, and greedy gnome helpers, you might, MIGHT be able to untangle the rules of magic.\nDevlog video: ",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzM4Mzc3LzQxMTEwMTAuZ2lm/original/Ics0cU.gif",
+          "https://img.itch.zone/aW1hZ2UvNzM4Mzc3LzQxMTEwMTEuZ2lm/original/YbCp%2FE.gif",
+          "https://img.itch.zone/aW1hZ2UvNzM4Mzc3LzQxMTEwMTIucG5n/original/sUpGSl.png",
+          "https://img.itch.zone/aW1hZ2UvNzM4Mzc3LzQxMTEwMTMuZ2lm/original/3l0MwF.gif"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, macOS, Linux",
+          "Rating": "Rated 4.0 out of 5 stars(6 total ratings)",
+          "Author": "Hypergardens",
+          "Genre": "Puzzle",
+          "Tags": "alchemy, mind-bending, Mouse only, pattern, silly"
+        }
+      }
+    },
+    {
+      "gameId": 736007,
+      "gameUrl": "https://hamdogu.itch.io/boating-for-bread",
+      "overallRank": 64,
+      "topCategories": [
+        "Overall polish"
+      ],
+      "resultData": {
+        "id": 736007,
+        "contributors": [
+          {
+            "name": "Hamdogu",
+            "id": 2026743
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzQxMDQzODUuZ2lm/300x240%23c/WNH%2Fzs.gif",
+        "title": "Boating for Bread",
+        "score": 3.8,
+        "rank": 64,
+        "raw_score": 3.8,
+        "rating_count": 10,
+        "criteria": [
+          {
+            "name": "Engagement",
+            "score": 3.6,
+            "rank": 143,
+            "raw_score": 3.6
+          },
+          {
+            "name": "Creative use of art assets",
+            "score": 3.5,
+            "rank": 149,
+            "raw_score": 3.5
+          },
+          {
+            "name": "Overall polish",
+            "score": 4.3,
+            "rank": 14,
+            "raw_score": 4.3
+          }
+        ],
+        "url": "https://itch.io/jam/miz-jam-1/rate/736007"
+      },
+      "entryData": {
+        "created_at": "2020-08-24 01:22:21",
+        "id": 150845,
+        "url": "/jam/miz-jam-1/rate/736007",
+        "game": {
+          "id": 736007,
+          "url": "https://hamdogu.itch.io/boating-for-bread",
+          "cover_color": "#40c4d9",
+          "user": {
+            "url": "https://hamdogu.itch.io",
+            "name": "Hamdogu",
+            "id": 2026743
+          },
+          "title": "Boating for Bread",
+          "platforms": [
+            "web"
+          ],
+          "gif_cover": "https://img.itch.zone/aW1nLzQxMDQzODUuZ2lm/original/xBUtFz.gif",
+          "cover": "https://img.itch.zone/aW1nLzQxMDQzODUuZ2lm/300x240%23c/WNH%2Fzs.gif",
+          "short_text": "Become a boating trader with the dream of getting bread"
+        },
+        "coolness": 10,
+        "rating_count": 10
+      },
+      "details": {
+        "title": "Boating for Bread",
+        "description": "Controls:\nWASD / Arrows - Movement\nSpace - Dock/Undock at Islands & Continue dialogue\ni - open Inventory\n\nAbout:\n Become a captain on your little ship, trading up to finally get your hands on some bread! \nCredits:\nMusic - HzA\nGame Testing - Tay\nProgramming + other - Hamdogu",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzM2MDA3LzQxMDQzODguZ2lm/original/wA%2FUL%2F.gif",
+          "https://img.itch.zone/aW1hZ2UvNzM2MDA3LzQxMDE4NDguZ2lm/original/Yyjwms.gif",
+          "https://img.itch.zone/aW1hZ2UvNzM2MDA3LzQxMDE4NDcuZ2lm/original/TSPGY1.gif",
+          "https://img.itch.zone/aW1hZ2UvNzM2MDA3LzQwOTY4MDEuZ2lm/original/iJQHfg.gif",
+          "https://img.itch.zone/aW1hZ2UvNzM2MDA3LzQxMDQzODkuZ2lm/original/%2BZKDOG.gif"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "HTML5",
+          "Author": "Hamdogu",
+          "Genre": "Adventure",
+          "Made with": "Unity",
+          "Tags": "2D, boat, chill, Cute, Exploration, Pixel Art, sea, Singleplayer, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 734043,
+      "gameUrl": "https://its-meii.itch.io/chess-hop",
+      "overallRank": 115,
+      "topCategories": [
+        "Overall polish"
+      ],
+      "resultData": {
+        "id": 734043,
+        "contributors": [
+          {
+            "name": "it´s_ME",
+            "id": 1974080
+          }
+        ],
+        "cover_url": "https://img.itch.zone/aW1nLzQwOTAyNjMucG5n/300x240%23c/QHsLNI.png",
+        "title": "Chess Hop",
+        "score": 3.6190476190476,
+        "rank": 115,
+        "raw_score": 3.6190476190476,
+        "rating_count": 14,
+        "criteria": [
+          {
+            "name": "Engagement",
+            "score": 3.6428571428571,
+            "rank": 128,
+            "raw_score": 3.6428571428571
+          },
+          {
+            "name": "Creative use of art assets",
+            "score": 2.9285714285714,
+            "rank": 346,
+            "raw_score": 2.9285714285714
+          },
+          {
+            "name": "Overall polish",
+            "score": 4.2857142857143,
+            "rank": 15,
+            "raw_score": 4.2857142857143
+          }
+        ],
+        "url": "https://itch.io/jam/miz-jam-1/rate/734043"
+      },
+      "entryData": {
+        "created_at": "2020-08-19 15:02:00",
+        "id": 149188,
+        "url": "/jam/miz-jam-1/rate/734043",
+        "game": {
+          "title": "Chess Hop",
+          "cover": "https://img.itch.zone/aW1nLzQwOTAyNjMucG5n/300x240%23c/QHsLNI.png",
+          "platforms": [
+            "windows",
+            "linux",
+            "web"
+          ],
+          "id": 734043,
+          "url": "https://its-meii.itch.io/chess-hop",
+          "cover_color": "#ffffff",
+          "short_text": "HOP through dungeons to become the new CHESSMASTER !",
+          "user": {
+            "url": "https://its-meii.itch.io",
+            "name": "it´s_ME",
+            "id": 1974080
+          }
+        },
+        "coolness": 4,
+        "rating_count": 14
+      },
+      "details": {
+        "title": "Chess Hop",
+        "description": "Go and become the new CHESSMASTER !! \nHop through dungeons to get the scrolls of knowledge ...\nA Game made in 48hours for the  \"Miz Jam 1\" !       --> made in Godot \nYoutube-Trailer might be there soon ;D\nPRESS ENTER to skip the intro!\nControlsA , D  --> moveW , S --> switch\nVersion 1.10 --> Music bug fix",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvNzM0MDQzLzQwODQwNzkucG5n/original/bxEUkK.png",
+          "https://img.itch.zone/aW1hZ2UvNzM0MDQzLzQwODQwODAucG5n/original/%2FnDWkX.png",
+          "https://img.itch.zone/aW1hZ2UvNzM0MDQzLzQwODQwODEucG5n/original/FlJRdC.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows, Linux",
+          "Rating": "Rated 4.0 out of 5 stars(3 total ratings)",
+          "Author": "it´s_ME",
+          "Genre": "Platformer, Action, Adventure",
+          "Tags": "2D, Chess, Godot, Pixel Art"
+        }
+      }
+    }
+  ]
+}

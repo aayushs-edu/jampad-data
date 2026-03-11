@@ -1,0 +1,822 @@
+{
+  "n": 83,
+  "name": "Quick Play 2022",
+  "url": "https://itch.io/jam/quick-play-2022",
+  "theme": "Tradition",
+  "slug": "quick-play-2022",
+  "jamMeta": {
+    "jamType": "ongoing",
+    "joined": "",
+    "entries": "56",
+    "title": "Quick Play 2022 ($80,000 in Prizes)",
+    "jamURL": "https://itch.io/jam/quick-play-2022",
+    "hosts": {
+      "Latinx in Gaming": "https://latinxingaming.itch.io",
+      "alhvi": "https://alhvi.itch.io",
+      "Chulatastic": "https://chulatastic.itch.io",
+      "#QuickPlay2022": "https://bsky.app/hashtag/QuickPlay2022"
+    },
+    "jamID": "324600"
+  },
+  "totalEntries": 42,
+  "ranked": false,
+  "hasCategories": false,
+  "needsManualSelection": true,
+  "categories": [],
+  "topGames": [
+    {
+      "gameId": 1787476,
+      "gameUrl": "https://namidasai.itch.io/retro-pilkki",
+      "overallRank": 1,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 0,
+        "url": "/jam/quick-play-2022/rate/1787476",
+        "id": 370333,
+        "created_at": "2022-11-19 01:20:07",
+        "contributors": [
+          {
+            "url": "https://namidasai.itch.io",
+            "name": "Geoffrey Mugford"
+          },
+          {
+            "url": "https://comfiedev.itch.io",
+            "name": "Samuli Pietikäinen"
+          }
+        ],
+        "game": {
+          "cover_color": "#8bc6f8",
+          "title": "Retro Pilkki",
+          "url": "https://namidasai.itch.io/retro-pilkki",
+          "id": 1787476,
+          "platforms": [
+            "android",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEwNTU5MzM5LnBuZw==/300x240%23c/jut55H.png",
+          "user": {
+            "id": 2423491,
+            "url": "https://namidasai.itch.io",
+            "name": "Geoffrey Mugford"
+          },
+          "short_text": "An arcade ice fishing game"
+        },
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Retro Pilkki",
+        "description": "Keeping it reel 🎣\nCatch fish to keep the timer going!\nFor the best experience, play on mobile. \n\n3RD PRIZE WINNER  \n QUICK PLAY GAME JAM 2022\n\n\n------------------------------\n\nControls:\n\nSwipe or Click & Drag up/down to reel\nSwipe or Click & Drag left/right to swing\nReel up to go back to menu\n------------------------------\nDescription:\nPilkki is a physics-based ice fishing game.  Try to catch as many fish as you can before the day runs out. Luckily, time seems to slow down when you have fun - and catching fish is fun, right? Be careful not to lose all your hooks though!\nThis game was made in 6 weeks for the Quickplay 2022 Game Jam. The theme of the jam was \"Tradition.\" Ice fishing is a big tradition in Finland, and as Comfie is Finnish, we just had to make a fun little game about it!\n\n------------------------------\nCredits:\n\nGame Engine: Unity 2021.3.1f1\n\nGame Design & Programming by Namida Sai\n\nArt, VFX & Audio by \"Comfie\"\nMusic by Abstraction\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTc4NzQ3Ni8xMDU1OTc0NC5wbmc=/original/woWb%2B5.png",
+          "https://img.itch.zone/aW1hZ2UvMTc4NzQ3Ni8xMDU1OTc0Mi5wbmc=/original/Mh%2FdE3.png",
+          "https://img.itch.zone/aW1hZ2UvMTc4NzQ3Ni8xMDU1OTc0NS5wbmc=/original/thrWuZ.png",
+          "https://img.itch.zone/aW1hZ2UvMTc4NzQ3Ni8xMDU1OTc0My5wbmc=/original/%2Bcd6R6.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Android",
+          "Rating": "Rated 4.8 out of 5 stars(6 total ratings)",
+          "Authors": "Geoffrey Mugford, Samuli Pietikäinen",
+          "Made with": "Unity, Aseprite, Audacity, Krita",
+          "Tags": "2D, Casual, Endless, Fishing, Minimalist, Pixel Art, Relaxing, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 1798089,
+      "gameUrl": "https://ray-ark.itch.io/pulang-kampung",
+      "overallRank": 2,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 0,
+        "url": "/jam/quick-play-2022/rate/1798089",
+        "id": 370367,
+        "created_at": "2022-11-19 04:44:09",
+        "contributors": [
+          {
+            "url": "https://ray-ark.itch.io",
+            "name": "ray_ark"
+          },
+          {
+            "url": "https://vulkan1k.itch.io",
+            "name": "Vulkan1k"
+          },
+          {
+            "url": "https://helmikazero.itch.io",
+            "name": "helmikazero"
+          },
+          {
+            "url": "https://harnarinder.itch.io",
+            "name": "Bill"
+          }
+        ],
+        "game": {
+          "cover_color": "#ceebed",
+          "title": "Pulang Kampung",
+          "url": "https://ray-ark.itch.io/pulang-kampung",
+          "id": 1798089,
+          "platforms": [
+            "android"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEwNTYyNDE5LnBuZw==/300x240%23c/jKscMi.png",
+          "user": {
+            "id": 302894,
+            "url": "https://ray-ark.itch.io",
+            "name": "ray_ark"
+          },
+          "short_text": "An Endless Tale of Going Back to Home"
+        },
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Pulang Kampung",
+        "description": "Travel through perilous obstacles, face various dangers, and meet new friends in this fantasy endless runner -roguelike hybrid game based on the traditions of Mudik where you strive to reach back to your ancestral land after living far away. \n\n\nWatch your food supplies, fight (or avoid) dark spirits and dangerous foes, encounter various events…\nSafe Travels!The game was made during the Quick Play 2022.\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTc5ODA4OS8xMDU2MzU4My5wbmc=/original/fsjR1P.png",
+          "https://img.itch.zone/aW1hZ2UvMTc5ODA4OS8xMDU2MzU4NC5wbmc=/original/1Q%2BaaP.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Android",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Authors": "ray_ark, Vulkan1k, helmikazero, Bill",
+          "Genre": "Adventure, Role Playing",
+          "Tags": "3D, android, Arcade, Endless Runner, mobile, Roguelike, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 1768572,
+      "gameUrl": "https://timirlankenji.itch.io/phantasma-hotel",
+      "overallRank": 3,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 0,
+        "url": "/jam/quick-play-2022/rate/1768572",
+        "id": 370225,
+        "created_at": "2022-11-18 03:42:59",
+        "contributors": [
+          {
+            "url": "https://timirlankenji.itch.io",
+            "name": "TimirlanKenji"
+          },
+          {
+            "url": "https://birdroid.itch.io",
+            "name": "birdroid"
+          },
+          {
+            "url": "https://crunchy-fox.itch.io",
+            "name": "Crunchy_Fox"
+          },
+          {
+            "url": "https://rindelin.itch.io",
+            "name": "Rindelin"
+          },
+          {
+            "url": "https://4dis.itch.io",
+            "name": "4DIS"
+          }
+        ],
+        "game": {
+          "cover_color": "#ff3434",
+          "url": "https://timirlankenji.itch.io/phantasma-hotel",
+          "id": 1768572,
+          "title": "Phantasma Hotel",
+          "cover": "https://img.itch.zone/aW1nLzE1MTkxMjUxLnBuZw==/300x240%23c/VbAsuk.png",
+          "user": {
+            "id": 2371196,
+            "url": "https://timirlankenji.itch.io",
+            "name": "TimirlanKenji"
+          },
+          "short_text": "A creepy RPG game in which you will have to face deadly danger and difficult moral choices."
+        },
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Phantasma Hotel",
+        "description": "EN\nFeel the quiet horror as you wander through the corridors where maniacs and madmen are waiting for you. Travel through a hellish hotel in roguelike style with turn-based battles and ruthless choices. Experiment in choosing different events to discover new forms of atmospheric horror in each playthrough.\n===============================================================\nRU\nПочувствуйте тихий ужас, блуждая по коридорам, где вас ждут маньяки и безумцы. Путешествуйте по адскому отелю в стиле roguelike с пошаговыми сражениями и безжалостным выбором. Экспериментируйте, выбирая разные события, чтобы открывать новые формы атмосферного ужаса в каждом прохождении.\nLanguage: English, Русский\nControl:\nWASD/Arrows/LMB/Touch- MovementEnter /Space/LMB- Interact/OkESC/Ins/RMB- Cancel/Menu\n\nJoin to our DISCORD server!\nприсоединиться к нашему сообществу ВКонтакте (join our VKontakte community)\nDOWNLOADitch.io does not allow uploading more than 1 GB file\nWORK IN PROGRESS!\n===============================================================\n                                                        CREDITS\nNarrative designer: Dmitriy Shemyatin\nNarrative designer: Igor SvyatkinQA tester, editor: Nikolay Tsykatunov  [Telegram; Linkedin]2d designer (Random events): 4DIS  [VK]2d designer (Enemies): RindelinSound designer (Background music and sound effect): Ilya Kolmakov [kolmakov525@gmail.com; Telegram]Game designer: Kenji [timkenji88@gmail.com; Telegram]\n\nThank you very much: KZarubin, Birdroid [Twitter], Dasha_Silence [Instagram, Telegram], Zamatay [Instagram], Crunchy_fox [Telegram; CV]\n===============================================================\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTc2ODU3Mi8xNzYwODA3NC5wbmc=/original/VlFmEU.png",
+          "https://img.itch.zone/aW1hZ2UvMTc2ODU3Mi8xNzYwODA3OC5wbmc=/original/xRdrS%2B.png",
+          "https://img.itch.zone/aW1hZ2UvMTc2ODU3Mi8xNzYwODA4OS5wbmc=/original/LSU%2F2R.png",
+          "https://img.itch.zone/aW1hZ2UvMTc2ODU3Mi8yMzA5ODExNy5wbmc=/original/I%2BcUbn.png",
+          "https://img.itch.zone/aW1hZ2UvMTc2ODU3Mi8yMzA5ODExOC5wbmc=/original/k6H7io.png",
+          "https://img.itch.zone/aW1hZ2UvMTc2ODU3Mi8yMzA5ODExOS5wbmc=/original/CcKk%2Bf.png",
+          "https://img.itch.zone/aW1hZ2UvMTc2ODU3Mi8yMzA5ODEyMC5wbmc=/original/gaXito.png",
+          "https://img.itch.zone/aW1hZ2UvMTc2ODU3Mi8yMzA5ODEyMi5wbmc=/original/qQBEDs.png",
+          "https://img.itch.zone/aW1hZ2UvMTc2ODU3Mi8yMzA5ODEyMS5wbmc=/original/SlfP21.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Rating": "Rated 3.3 out of 5 stars(8 total ratings)",
+          "Authors": "TimirlanKenji, birdroid, Crunchy_Fox, Rindelin, 4DIS",
+          "Genre": "Role Playing",
+          "Made with": "RPG Maker",
+          "Tags": "Creepy, Horror, Meaningful Choices, Retro, Roguelike, RPG Maker, RPG Maker MV, Thriller, Turn-Based Combat",
+          "Average session": "A few seconds",
+          "Languages": "English, Russian",
+          "Links": "Homepage"
+        }
+      }
+    },
+    {
+      "gameId": 1794285,
+      "gameUrl": "https://paulohdsousa.itch.io/sumo",
+      "overallRank": 4,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 0,
+        "url": "/jam/quick-play-2022/rate/1794285",
+        "id": 370253,
+        "created_at": "2022-11-18 11:34:16",
+        "game": {
+          "title": "Sumô",
+          "url": "https://paulohdsousa.itch.io/sumo",
+          "id": 1794285,
+          "platforms": [
+            "windows",
+            "web"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEwNTU3MDQ4LmpwZw==/300x240%23c/%2FT0Ca%2F.jpg",
+          "user": {
+            "id": 2463230,
+            "url": "https://paulohdsousa.itch.io",
+            "name": "PauloHDSousa"
+          },
+          "short_text": "Online fighting game"
+        },
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Sumô",
+        "description": "A Multiplayer game, call your friends and fight in a 1x1 battle of sumô",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTc5NDI4NS8xMDU1NzA1NC5qcGc=/original/j3drm3.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTc5NDI4NS8xMDU1NzA1My5qcGc=/original/b72qLi.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "HTML5, Windows",
+          "Rating": "Rated 1.0 out of 5 stars(1 total ratings)",
+          "Author": "PauloHDSousa",
+          "Genre": "Action, Fighting",
+          "Made with": "Unity",
+          "Tags": "Multiplayer"
+        }
+      }
+    },
+    {
+      "gameId": 1792255,
+      "gameUrl": "https://ale2tobias.itch.io/soulpango",
+      "overallRank": 5,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 0,
+        "url": "/jam/quick-play-2022/rate/1792255",
+        "id": 370161,
+        "created_at": "2022-11-17 09:29:08",
+        "game": {
+          "cover_color": "#eeeeee",
+          "title": "SoulPango",
+          "url": "https://ale2tobias.itch.io/soulpango",
+          "id": 1792255,
+          "platforms": [
+            "android"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzE2NDkxODU3LnBuZw==/300x240%23c/cFlLeA.png",
+          "user": {
+            "id": 89202,
+            "url": "https://ale2tobias.itch.io",
+            "name": "kami'86"
+          },
+          "short_text": "Mobile vertical scroll physics platform and shooting"
+        },
+        "rating_count": 0
+      },
+      "details": {
+        "title": "SoulPango",
+        "description": "\n\nShe uses the kites, to reach the sky...\nEvery now and then,\na few souls get lost,\nnot reaching the sky,\nthey need to go high\nbut the risk too lost track,\nmake some soul crack.\nShe appears in place,\nyoung and happy,\ngive the best, \nthe path ahead\nso, the souls can rest,\nin a quieter place.\n1 November all the souls that are stock in the earth has a chance to go up and rest. but some of them has trouble to reach the sky, you are a soul guide with one job, lead the way so they can finally rest in peace. every soul\t\t\thas his story, every soul has right to rest after they give their best.Nixiq is a Soul guider who dies feeling lost, and when you find the way to past to the afterlife, she refuses because was so hard and difficult to her, that she decides to help other soul to reach the sky. \n- Throw Nixiq to the kites and guide a lost soul to the nearest place of rest.\n- Purify the area so the soul can reach a proper rest\n- Hand draw graphics and intuitive controls\n* Android Cellphone.Download on Android, activate \"Developer Mode\"... Then install. Enjoy",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTc5MjI1NS8xMDUzODQwNy5wbmc=/original/cbEl4r.png",
+          "https://img.itch.zone/aW1hZ2UvMTc5MjI1NS8xMDUzODQwNi5wbmc=/original/AKUAj%2B.png",
+          "https://img.itch.zone/aW1hZ2UvMTc5MjI1NS8xMDUzODQwOS5wbmc=/original/56V3yX.png",
+          "https://img.itch.zone/aW1hZ2UvMTc5MjI1NS8xMDUzODQwOC5wbmc=/original/vHHfDm.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Android",
+          "Rating": "Rated 5.0 out of 5 stars(1 total ratings)",
+          "Author": "kami'86",
+          "Tags": "2D, Cute, Experimental, Female Protagonist, Indie, Prototype, Short, Singleplayer, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 1798180,
+      "gameUrl": "https://havana24.itch.io/pop-totem",
+      "overallRank": 6,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 0,
+        "url": "/jam/quick-play-2022/rate/1798180",
+        "id": 370350,
+        "created_at": "2022-11-19 03:21:11",
+        "game": {
+          "cover_color": "#96dbfc",
+          "url": "https://havana24.itch.io/pop-totem",
+          "platforms": [
+            "android"
+          ],
+          "title": "Pop Totem",
+          "gif_cover": "https://img.itch.zone/aW1nLzEwNTcyMTc3LmdpZg==/original/qleVqv.gif",
+          "id": 1798180,
+          "cover": "https://img.itch.zone/aW1nLzEwNTcyMTc3LmdpZg==/300x240%23c/qJ3Cis.gif",
+          "user": {
+            "id": 8232,
+            "url": "https://havana24.itch.io",
+            "name": "havana24"
+          },
+          "short_text": "Jump and dash in this two buttons puzzle platformer. Remove wrong tiles and try to recreate the original Animal Totem."
+        },
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Pop Totem",
+        "description": "Jump and dash in this two buttons mobile puzzle platformer. Remove wrong tiles and try to recreate the original Animal Totem!Carry on the tradition and learn the meaning of each one of them!(The game is a .apk and you can install it only on mobile android devices)\n Follow me on twitter if you like my game @hav24  \n\nControls\n(It's a mobile game)- Dash button on the bottom left of the screen to Dash.- Jump button on the bottom right to jump/double jump/wall jump.\nCredits\nAll assets were made by me,  Alessandro Pezzetti aka havana24\n8bit sound effects made with Bfxr and Freesound.\n\nBackground music by MelodyloopsGame made with Godot.\n\nA game made by havana24.net Twitter @hav24  \n\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTc5ODE4MC8xMDU2Mjk3OS5wbmc=/original/oMZ5wA.png",
+          "https://img.itch.zone/aW1hZ2UvMTc5ODE4MC8xMDU2Mjk5MC5wbmc=/original/88RIKK.png",
+          "https://img.itch.zone/aW1hZ2UvMTc5ODE4MC8xMDU2Mjk5Ny5wbmc=/original/llYDoy.png",
+          "https://img.itch.zone/aW1hZ2UvMTc5ODE4MC8xMDU2Mjk5OC5wbmc=/original/oKtbUD.png"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Android",
+          "Rating": "Rated 3.0 out of 5 stars(2 total ratings)",
+          "Author": "havana24",
+          "Genre": "Platformer",
+          "Tags": "android, Animals, mobile, Puzzle-Platformer, Speedrun, totem"
+        }
+      }
+    },
+    {
+      "gameId": 1797725,
+      "gameUrl": "https://barelyags.itch.io/mateman",
+      "overallRank": 7,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 0,
+        "url": "/jam/quick-play-2022/rate/1797725",
+        "id": 370370,
+        "created_at": "2022-11-19 04:51:18",
+        "game": {
+          "cover_color": "#eeeeee",
+          "url": "https://barelyags.itch.io/mateman",
+          "id": 1797725,
+          "platforms": [
+            "android"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEwNTYwNjcwLnBuZw==/300x240%23c/aF8Bp7.png",
+          "user": {
+            "id": 6151191,
+            "url": "https://barelyags.itch.io",
+            "name": "BarelyAgs"
+          },
+          "title": "Mateman"
+        },
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Mateman",
+        "description": "\nMATEMAN: Join the round\nGame Description\nA mobile game designed around the southamerican tradition of drinking mate tea.Mate is a hot infusion that is drunk in groups. There is a person who is the \"cebador\", who pours mates and shares them in turns to each member of the round. In our culture, sharing some matecitos is a synonym of communion and fellowship.Mateman fights growing intolerance and polarization by sharing mates with people of different interests.It's an overcooked-like game, where you have to gather angry NPCs of different interests and postures and share some mates between them before intolerance grows!Disclaimer: some testers reported that the \"tutorial\" of level 1 did not appear and that they could not move. As far as we know, it depends of the device where the game is running. We ll be working on that.",
+        "screenshots": [
+          "https://img.itch.zone/aW1nLzEwNTYwNjcwLnBuZw==/original/K50%2Ffa.png"
+        ],
+        "moreInfo": {
+          "Status": "In development",
+          "Platforms": "Android",
+          "Author": "BarelyAgs"
+        }
+      }
+    },
+    {
+      "gameId": 1796781,
+      "gameUrl": "https://t2smiles.itch.io/floppy-turd",
+      "overallRank": 8,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 0,
+        "url": "/jam/quick-play-2022/rate/1796781",
+        "id": 370228,
+        "created_at": "2022-11-18 04:03:55",
+        "game": {
+          "cover_color": "#9b6724",
+          "title": "Floppy Turd",
+          "url": "https://t2smiles.itch.io/floppy-turd",
+          "id": 1796781,
+          "platforms": [
+            "android"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEwNTU1MTA2LmpwZw==/300x240%23c/ArEvPZ.jpg",
+          "user": {
+            "id": 5795155,
+            "url": "https://t2smiles.itch.io",
+            "name": "T2Smiles"
+          },
+          "short_text": "Who doesn't like a good poop joke!? This game was made in hopes of offering a smile to anyone who plays it."
+        },
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Floppy Turd",
+        "description": "This game was developed simply to share some laughs and smiles. I could definitely see myself expanding it later, but this is what I have for now. Hope you enjoy it and it brings you some smiles :)\nCan you get further than 30!?\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTc5Njc4MS8xMDU1NTIxOC5qcGc=/original/Xw1RdD.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTc5Njc4MS8xMDU1NTIxOS5qcGc=/original/ZfeHnR.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Android",
+          "Author": "T2Smiles",
+          "Genre": "Platformer",
+          "Tags": "Arcade, Cute, Funny, High Score, one-button, Simple, Singleplayer, Touch-Friendly"
+        }
+      }
+    },
+    {
+      "gameId": 1797497,
+      "gameUrl": "https://albertoaznaran.itch.io/song-to-the-snow",
+      "overallRank": 9,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 0,
+        "url": "/jam/quick-play-2022/rate/1797497",
+        "id": 370378,
+        "created_at": "2022-11-19 05:07:17",
+        "contributors": [
+          {
+            "url": "https://albertoaznaran.itch.io",
+            "name": "alberto.aznaran"
+          },
+          {
+            "url": "https://doctorcien.itch.io",
+            "name": "doctorcien"
+          },
+          {
+            "url": "https://roguedriguez.itch.io",
+            "name": "roguedriguez"
+          },
+          {
+            "url": "https://fallthem000.itch.io",
+            "name": "Jose Cahuana"
+          },
+          {
+            "url": "https://gabriel-alayza.itch.io",
+            "name": "gabriel alayza"
+          },
+          {
+            "url": "https://mateo-alayza.itch.io",
+            "name": "Mateo Alayza"
+          },
+          {
+            "url": "https://panchosama.itch.io",
+            "name": "PanchoSama"
+          },
+          {
+            "url": "https://ledl.itch.io",
+            "name": "ledl"
+          }
+        ],
+        "game": {
+          "cover_color": "#4f0618",
+          "title": "The Song to the Snow",
+          "url": "https://albertoaznaran.itch.io/song-to-the-snow",
+          "id": 1797497,
+          "platforms": [
+            "android"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEwNTU4ODU5LnBuZw==/300x240%23c/2CWeT0.png",
+          "user": {
+            "id": 5046957,
+            "url": "https://albertoaznaran.itch.io",
+            "name": "alberto.aznaran"
+          },
+          "short_text": "Musical/Card Game"
+        },
+        "rating_count": 0
+      },
+      "details": {
+        "title": "The Song to the Snow",
+        "description": " \nTHE MIX: SYNCRETISM\nOn July 28, 1821, the independence of Peru from the Spanish monarchy was declared, marking the most important chapter in the history of the Latin American wars of independence.\nRecently, Peru has celebrated 200 years of independence, however, it is undeniable that the native Peruvian culture has been indelibly marked with Spanish traditions, producing a fusion that encompasses all cultural manifestations. This is what we call syncretism.\nFor example, the set of elements of Catholicism and the cult of pre-Hispanic gods influence the identity of the different traditions of Peru and, in general, of all Latin American customs.\nOur team has decided to capture this syncretism in a video game project. This is intended to represent a tributary tradition of this mixture or fusion of cultural artifacts.\nThe tradition that we have chosen, due to its representativeness and history, is the pilgrimage of the Lord of Qoylluriti (lord of the snow star). This festivity consists of a massive pilgrimage to the snowy peaks of the Peruvian Andes, in the Vilcanota mountain range.\n\n\n\n\nTHE GAME\nThe Song to the Snow is a musical game that develops the story of a musician and the challenges he must face to save and commemorate the tradition of the Lord of Qoylluriti, because, over the years, it has been forgotten by the younger.\nThrough songs and music, the main character faces the challenge of transmitting the importance of the tradition of pilgrimage to the snow-capped mountain and sanctuary of the Lord of Qoylluriti.\n\n\n\n\nSTATEMENT\nThe game also highlights an unquestionable reality: that referring to the dangers and detrimental effects that climate change generates on nature and the loss of cultural heritage. The main character will face one last situation in which he will discover the environmental damage and its relationship with his traditions.\n\nemails team: \nalberto.aznaran@pucp.pe\nfmoraarmbulo@gmail.com\ngabrielalayza@gmail.com\njosecahuanat@gmail.com\nldavelouis@gmail.com\nmateoalayza@gmail.com\nrodrigodlcf@gmail.com\nmartinrmiglio@gmail.com",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTc5NzQ5Ny8xMDU1ODk1OC5qcGVn/original/nUtH5r.jpeg",
+          "https://img.itch.zone/aW1hZ2UvMTc5NzQ5Ny8xMDU1ODk1OS5qcGVn/original/CilkBs.jpeg",
+          "https://img.itch.zone/aW1hZ2UvMTc5NzQ5Ny8xMDU1ODk2MC5qcGVn/original/tTKUJ4.jpeg"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Android",
+          "Authors": "alberto.aznaran, doctorcien, roguedriguez, Jose Cahuana, gabriel alayza, Mateo Alayza, PanchoSama, ledl",
+          "Genre": "Rhythm, Card Game, Educational",
+          "Tags": "2D, artgame, Hand-drawn, Indie, Music, Narrative"
+        }
+      }
+    },
+    {
+      "gameId": 1798005,
+      "gameUrl": "https://wellitonsouza.itch.io/standandfight",
+      "overallRank": 10,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 0,
+        "url": "/jam/quick-play-2022/rate/1798005",
+        "id": 370376,
+        "created_at": "2022-11-19 04:57:54",
+        "game": {
+          "cover_color": "#de9292",
+          "url": "https://wellitonsouza.itch.io/standandfight",
+          "id": 1798005,
+          "title": "Stand & Fight",
+          "cover": "https://img.itch.zone/aW1nLzEyNDQzMTI1LnBuZw==/300x240%23c/V3Sj1O.png",
+          "user": {
+            "id": 649286,
+            "url": "https://wellitonsouza.itch.io",
+            "name": "WellitonSouza"
+          },
+          "short_text": "Find your spirit from the past, and use your new powers to keep your traditions!"
+        },
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Stand & Fight",
+        "description": "Stand & Fight is a game about looking for the past to understand where your strength comes from, and fight back against those who try to push you down for who you are.Find your spirit from the past, and use your new powers to keep your traditions!\nOur game is available at the Play Store\nCREDITS\nBeatriz Teles - Character Artist, Environment 2D Artist and 2D AnimatorInstagram: @bizcochiito_chanClovis Vilela -Sound Designer and Music ComposerRicardo Niclas Lopes - Game Designer, Gameplay Programmer and VFX ArtistInstagram: @ricniclasWelliton Souza - Game Designer, Level Designer, UI Design and Technical Artist and System Programmer",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTc5ODAwNS8xMjQ0MzEwMi5qcGc=/original/whBv5A.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTc5ODAwNS8xMjQ0MzEwMy5qcGc=/original/WY2H6G.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTc5ODAwNS8xMjQ0MzEwNS5qcGc=/original/WfbfCy.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTc5ODAwNS8xMjQ0MzEwNC5qcGc=/original/bojoED.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTc5ODAwNS8xMjQ0MzEwNi5qcGc=/original/ztvmVB.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Author": "WellitonSouza",
+          "Genre": "Action",
+          "Tags": "mobile, qucikplayjam, quickplay"
+        }
+      }
+    },
+    {
+      "gameId": 1797547,
+      "gameUrl": "https://rufusmcklein.itch.io/citas-con-monstruos-dating-with-monters",
+      "overallRank": 11,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 0,
+        "url": "/jam/quick-play-2022/rate/1797547",
+        "id": 370289,
+        "created_at": "2022-11-18 17:24:31",
+        "game": {
+          "cover_color": "#eeeeee",
+          "url": "https://rufusmcklein.itch.io/citas-con-monstruos-dating-with-monters",
+          "id": 1797547,
+          "cover": "https://img.itch.zone/aW1nLzEwNTU5MTMwLnBuZw==/300x240%23c/9tABHR.png",
+          "user": {
+            "id": 2192169,
+            "url": "https://rufusmcklein.itch.io",
+            "name": "RufusMcKlein"
+          },
+          "title": "Citas con Monstruos. Dating with Monters"
+        },
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Citas con Monstruos. Dating with Monters",
+        "description": "Dating with Monsters is a visual novel in which you will play the role of a university historian determined to learn about and collect the lives of the myths that inhabit the city.\n\nThe monsters of the legends have settled among us, trying to lead a normal but discreet life. Your job is to collect their stories so that the tradition does not fall into oblivion.\n\nThe objective is to learn about the legend of the monsters and develop deep relationships with them that allow us to discover their secrets. It is a way of delving into the tradition and folklore of the Spanish bestiary (and Latin American in the final version).\n\nCitas con Monstruos es una novela visual en la que interpretarás el papel de historiador universitario decidido a conocer y recopilar las vidas de los mitos que habitan en la ciudad. \nLos monstruos de las leyendas se han asentado entre nosotros, tratando de llevar una vida normal aunque discreta. Tu labor es recopilar sus historias para que la tradición no caiga en el olvido.\n\nEl objetivo conocer la leyenda de los monstruos y desarrollar relaciones profundas con ellos que nos permitan conocer sus secretos. Es una forma de adentrarse en la tradición y el folklore del bestiario español (y latinoamericano en la versión final).\n\n\n\n(Check the pitch pdf document to know more)\nIMPORTANT: If you installed the v1, you need to uninstall completely and install the v2.Download the APK and install in your Android Device\nIMPORTANT: If you installed the v1, you need to uninstall completely and install the v2.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTc5NzU0Ny8xMDU1OTIxNC5wbmc=/original/yPjamc.png",
+          "https://img.itch.zone/aW1hZ2UvMTc5NzU0Ny8xMDU1OTIxMi5wbmc=/original/SnJnZN.png",
+          "https://img.itch.zone/aW1hZ2UvMTc5NzU0Ny8xMDU1OTIxNS5wbmc=/original/JnGBvk.png",
+          "https://img.itch.zone/aW1hZ2UvMTc5NzU0Ny8xMDU1OTIxNi5wbmc=/original/%2B3iuMp.png",
+          "https://img.itch.zone/aW1hZ2UvMTc5NzU0Ny8xMDU1OTIxNy5wbmc=/original/8QYFMj.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Author": "RufusMcKlein",
+          "Genre": "Visual Novel, Adventure, Simulation",
+          "Tags": "2D, bestiary, Dating Sim, latinx, Monsters, Singleplayer, tradition"
+        }
+      }
+    },
+    {
+      "gameId": 1788015,
+      "gameUrl": "https://ro-baca.itch.io/maria-chi",
+      "overallRank": 12,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 0,
+        "url": "/jam/quick-play-2022/rate/1788015",
+        "id": 370375,
+        "created_at": "2022-11-19 04:57:32",
+        "game": {
+          "cover_color": "#ff7a35",
+          "title": "Maria-chi",
+          "url": "https://ro-baca.itch.io/maria-chi",
+          "id": 1788015,
+          "platforms": [
+            "android"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEwNTYzNzMwLnBuZw==/300x240%23c/MTjnjQ.png",
+          "user": {
+            "id": 3911383,
+            "url": "https://ro-baca.itch.io",
+            "name": "ro_baca"
+          },
+          "short_text": "a mariachi game where you can play guitar, trumpet and maracas to try and win the heart of Angela the towns beauty"
+        },
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Maria-chi",
+        "description": "If something characterizes us as Mexicans is our love for music, fiesta and friends. That's why we invite you to take part on our Mariachi group and have some fun with us playing some music.\nYou'll need to buckle up and play the instruments that are needed for the occasion, as we say \"nosotros no le sacamos\".\nHere grab these guitar \n\na trumpet and  maracas\ntake a chili, \"more spicy is better!\"\n\nselect your favorite song\n\nTo play it you need to press the strings while strumming them with the other hand like this.\n\nwait the next instrument\n\n\nto play it, touch the note before time is up\n\nwait the next instrument \n\nto play it only shake your phone!\n\nbe the best mariachi and say!\n\n",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTc4ODAxNS8xMDU2MzE5Mi5naWY=/original/oixiKM.gif",
+          "https://img.itch.zone/aW1hZ2UvMTc4ODAxNS8xMDU2MzE5MS5naWY=/original/NXl33D.gif",
+          "https://img.itch.zone/aW1hZ2UvMTc4ODAxNS8xMDU2MzI1OS5naWY=/original/Wg5IvO.gif"
+        ],
+        "moreInfo": {
+          "Status": "Prototype",
+          "Platforms": "Android",
+          "Author": "ro_baca",
+          "Genre": "Rhythm",
+          "Made with": "Unity",
+          "Tags": "Music, Unity",
+          "Average session": "A few minutes",
+          "Languages": "English, Spanish; Latin America",
+          "Inputs": "Touchscreen"
+        }
+      }
+    },
+    {
+      "gameId": 1787364,
+      "gameUrl": "https://jorava.itch.io/di-sagree",
+      "overallRank": 13,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 0,
+        "url": "/jam/quick-play-2022/rate/1787364",
+        "id": 370309,
+        "created_at": "2022-11-18 21:46:54",
+        "contributors": [
+          {
+            "url": "https://jorava.itch.io",
+            "name": "Jorava"
+          },
+          {
+            "url": "https://japeness.itch.io",
+            "name": "JapeNess"
+          }
+        ],
+        "game": {
+          "cover_color": "#101010",
+          "title": "D.I. Sagree",
+          "url": "https://jorava.itch.io/di-sagree",
+          "id": 1787364,
+          "platforms": [
+            "android"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEwNTUyOTcwLmpwZw==/300x240%23c/fq6LIa.jpg",
+          "user": {
+            "id": 1902967,
+            "url": "https://jorava.itch.io",
+            "name": "Jorava"
+          },
+          "short_text": "Narrative Adventure Game"
+        },
+        "rating_count": 0
+      },
+      "details": {
+        "title": "D.I. Sagree",
+        "description": "Act I: Wake Up Call\nJoin D.I. Sagree as his partner in this Film Noir -style narrative adventure game!\nMade in one month for Quick Play 2022 Game Jam. Due to jam's rules, there's only an Android build available.\nThe theme for the jam was \"Tradition\". We incorporated this theme in two ways:\n1. We used the traditions of Film Noir, with a heavy-drinking, hard-boiled detective as the protagonist, and a femme fatale, and of course the visual style and music.\n2. We explore the tradition of player-character interactions, where usually the protagonist of a game follows the players commands without question. Sagree is strong-willed, and often outright refuses to do what the player wants. Player will have to coax, pressure, force or manipulate him.\nMade by two Finnish developers:\nJorava - Game Design, Story, Code, Sound Design, Music (Piano Improvisation)JapeNess - 3D-Modelling, Rigging, Animations, Lighting, Music (Arrangement and Production)\nYou'll need to have Android 11 or newer. At least 4GB memory.When installing, you'll get a warning, since we signed the build ourselves, but we promise we didn't put any malware in it!",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTc4NzM2NC8xMDU2MTE1Mi5qcGc=/original/mr8RXI.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTc4NzM2NC8xMDU2MTE0NS5qcGc=/original/NUBR1J.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTc4NzM2NC8xMDU2MTE1MS5qcGc=/original/Ck7A4j.jpg",
+          "https://img.itch.zone/aW1hZ2UvMTc4NzM2NC8xMDU2MTE1Ny5qcGc=/original/EMtux9.jpg"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Android",
+          "Authors": "Jorava, JapeNess",
+          "Genre": "Adventure",
+          "Tags": "Atmospheric, construct-3, Dark, Detective, Funny, Male protagonist, metafiction, Mystery, Noir, Singleplayer"
+        }
+      }
+    },
+    {
+      "gameId": 1798149,
+      "gameUrl": "https://brakillius.itch.io/qandisha",
+      "overallRank": 14,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 0,
+        "url": "/jam/quick-play-2022/rate/1798149",
+        "id": 370343,
+        "created_at": "2022-11-19 02:33:56",
+        "game": {
+          "title": "Qandisha",
+          "url": "https://brakillius.itch.io/qandisha",
+          "id": 1798149,
+          "platforms": [
+            "android"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEwNTYyNzQ2LnBuZw==/300x240%23c/RXO1zS.png",
+          "user": {
+            "id": 5283215,
+            "url": "https://brakillius.itch.io",
+            "name": "brakillius"
+          },
+          "short_text": "A horror Game where you should escape from Qandisha"
+        },
+        "rating_count": 0
+      },
+      "details": {
+        "title": "Qandisha",
+        "description": "Locked inside a Moroccan riad (hotel) with the woman djin qandisha, she won't let you escape, but fortunately, someone left behind him some spell books that will grants you some abilities and help you escape but be aware that using those abilities will drain your stamina, so use them wisely and happy horror escape. ",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTc5ODE0OS8xMDU2Mjc1NC5wbmc=/original/vxDYLc.png",
+          "https://img.itch.zone/aW1hZ2UvMTc5ODE0OS8xMDU2Mjc1My5wbmc=/original/i0CbZX.png",
+          "https://img.itch.zone/aW1hZ2UvMTc5ODE0OS8xMDU2Mjc1NS5wbmc=/original/ntcjvu.png",
+          "https://img.itch.zone/aW1hZ2UvMTc5ODE0OS8xMDU2Mjc1Ni5wbmc=/original/i2rJ8U.png",
+          "https://img.itch.zone/aW1hZ2UvMTc5ODE0OS8xMDU2Mjc1Ny5wbmc=/original/EI6zZ6.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Android",
+          "Author": "brakillius",
+          "Genre": "Adventure",
+          "Tags": "Atmospheric, First-Person, Horror, Singleplayer, Unity"
+        }
+      }
+    },
+    {
+      "gameId": 1748749,
+      "gameUrl": "https://rafaelcraftero.itch.io/blacksmith-trial",
+      "overallRank": 15,
+      "topCategories": [],
+      "resultData": null,
+      "entryData": {
+        "coolness": 0,
+        "url": "/jam/quick-play-2022/rate/1748749",
+        "id": 361604,
+        "created_at": "2022-10-16 15:57:46",
+        "game": {
+          "cover_color": "#121212",
+          "title": "blacksmith trial",
+          "url": "https://rafaelcraftero.itch.io/blacksmith-trial",
+          "id": 1748749,
+          "platforms": [
+            "android"
+          ],
+          "cover": "https://img.itch.zone/aW1nLzEwMjg4NDAyLnBuZw==/300x240%23c/1SPWlc.png",
+          "user": {
+            "id": 6767351,
+            "url": "https://rafaelcraftero.itch.io",
+            "name": "Rafaelcraftero"
+          },
+          "short_text": "Android puzzle game"
+        },
+        "rating_count": 0
+      },
+      "details": {
+        "title": "blacksmith trial",
+        "description": "blacksmith trial is a puzzle game based on reconstructing  statues in which speed, memory and the ability to recognize shapes at a glance are rewarded.\nIn this game, you have to face a traditional trial that the player, a son of the blacksmith god, has to get over to be recognized as an adult in the heaven world. In this trial, the player has to reforge a series of ancient sacred statues that are a memory of an old civilization.",
+        "screenshots": [
+          "https://img.itch.zone/aW1hZ2UvMTc0ODc0OS8xMDI4OTQ3MC5wbmc=/original/LsYOJs.png",
+          "https://img.itch.zone/aW1hZ2UvMTc0ODc0OS8xMDI4OTQ3Ni5wbmc=/original/zW3%2Bg8.png",
+          "https://img.itch.zone/aW1hZ2UvMTc0ODc0OS8xMDI4OTQ5NC5wbmc=/original/XU47X0.png"
+        ],
+        "moreInfo": {
+          "Status": "Released",
+          "Platforms": "Android",
+          "Author": "Rafaelcraftero",
+          "Genre": "Puzzle",
+          "Tags": "3D, android, Low-poly, Minimalist, quick-play-2022, Short, Unity"
+        }
+      }
+    }
+  ]
+}
