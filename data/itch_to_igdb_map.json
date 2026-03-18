@@ -1,0 +1,2755 @@
+{
+  "_meta": {
+    "built_at": "2026-03-17T20:06:24.093Z",
+    "description": "Maps itch.io freeform terms to IGDB taxonomy IDs. null = intentionally skipped."
+  },
+  "genres": {
+    "Puzzle": {
+      "igdb_type": "genre",
+      "igdb_id": 9,
+      "igdb_name": "Puzzle"
+    },
+    "Action": {
+      "igdb_type": "genre",
+      "igdb_id": 25,
+      "igdb_name": "Hack and slash/Beat 'em up"
+    },
+    "Platformer": {
+      "igdb_type": "genre",
+      "igdb_id": 8,
+      "igdb_name": "Platform"
+    },
+    "Adventure": {
+      "igdb_type": "genre",
+      "igdb_id": 31,
+      "igdb_name": "Adventure"
+    },
+    "Shooter": {
+      "igdb_type": "genre",
+      "igdb_id": 5,
+      "igdb_name": "Shooter"
+    },
+    "Simulation": {
+      "igdb_type": "genre",
+      "igdb_id": 13,
+      "igdb_name": "Simulator"
+    },
+    "Strategy": {
+      "igdb_type": "genre",
+      "igdb_id": 15,
+      "igdb_name": "Strategy"
+    },
+    "Survival": {
+      "igdb_type": "theme",
+      "igdb_id": 21,
+      "igdb_name": "Survival"
+    },
+    "Visual Novel": {
+      "igdb_type": "genre",
+      "igdb_id": 34,
+      "igdb_name": "Visual Novel"
+    },
+    "Interactive Fiction": {
+      "igdb_type": "genre",
+      "igdb_id": 31,
+      "igdb_name": "Adventure"
+    },
+    "Role Playing": {
+      "igdb_type": "genre",
+      "igdb_id": 12,
+      "igdb_name": "Role-playing (RPG)"
+    },
+    "Rhythm": {
+      "igdb_type": "genre",
+      "igdb_id": 7,
+      "igdb_name": "Music"
+    },
+    "Card Game": {
+      "igdb_type": "genre",
+      "igdb_id": 35,
+      "igdb_name": "Card & Board Game"
+    },
+    "Fighting": {
+      "igdb_type": "genre",
+      "igdb_id": 4,
+      "igdb_name": "Fighting"
+    },
+    "Racing": {
+      "igdb_type": "genre",
+      "igdb_id": 10,
+      "igdb_name": "Racing"
+    },
+    "Sports": {
+      "igdb_type": "genre",
+      "igdb_id": 14,
+      "igdb_name": "Sport"
+    },
+    "Educational": {
+      "igdb_type": "genre",
+      "igdb_id": 26,
+      "igdb_name": "Quiz/Trivia"
+    }
+  },
+  "tags": {
+    "2D": {
+      "igdb_type": "perspective",
+      "igdb_id": 4,
+      "igdb_name": "Side view"
+    },
+    "Singleplayer": {
+      "igdb_type": "game_mode",
+      "igdb_id": 1,
+      "igdb_name": "Single player"
+    },
+    "Pixel Art": null,
+    "Short": null,
+    "3D": {
+      "igdb_type": "perspective",
+      "igdb_id": 2,
+      "igdb_name": "Third person"
+    },
+    "Unity": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Retro": null,
+    "Atmospheric": null,
+    "Horror": {
+      "igdb_type": "theme",
+      "igdb_id": 19,
+      "igdb_name": "Horror"
+    },
+    "Arcade": null,
+    "Cute": null,
+    "Godot": {
+      "igdb_type": "engine",
+      "igdb_id": 507,
+      "igdb_name": "Godot Engine"
+    },
+    "Indie": null,
+    "Casual": null,
+    "Top-Down": {
+      "igdb_type": "perspective",
+      "igdb_id": null,
+      "igdb_name": "Bird view/Isometric"
+    },
+    "No AI": null,
+    "Puzzle-Platformer": null,
+    "Game Maker's Toolkit Jam": null,
+    "Funny": {
+      "igdb_type": "theme",
+      "igdb_id": 27,
+      "igdb_name": "Comedy"
+    },
+    "First-Person": {
+      "igdb_type": "perspective",
+      "igdb_id": 1,
+      "igdb_name": "First person"
+    },
+    "Space": {
+      "igdb_type": "theme",
+      "igdb_id": 18,
+      "igdb_name": "Science fiction"
+    },
+    "Roguelike": {
+      "igdb_type": "keyword",
+      "igdb_id": 416,
+      "igdb_name": "roguelike"
+    },
+    "Story Rich": {
+      "igdb_type": "theme",
+      "igdb_id": 31,
+      "igdb_name": "Drama"
+    },
+    "My First Game Jam": null,
+    "Point & Click": {
+      "igdb_type": "genre",
+      "igdb_id": 2,
+      "igdb_name": "Point-and-click"
+    },
+    "Creepy": {
+      "igdb_type": "theme",
+      "igdb_id": 19,
+      "igdb_name": "Horror"
+    },
+    "Bullet Hell": {
+      "igdb_type": "keyword",
+      "igdb_id": 911,
+      "igdb_name": "bullet hell"
+    },
+    "Narrative": {
+      "igdb_type": "theme",
+      "igdb_id": 31,
+      "igdb_name": "Drama"
+    },
+    "Sci-fi": {
+      "igdb_type": "theme",
+      "igdb_id": 18,
+      "igdb_name": "Science fiction"
+    },
+    "Fantasy": {
+      "igdb_type": "theme",
+      "igdb_id": 17,
+      "igdb_name": "Fantasy"
+    },
+    "Music": null,
+    "Dark": {
+      "igdb_type": "theme",
+      "igdb_id": 19,
+      "igdb_name": "Horror"
+    },
+    "Game Jam": null,
+    "Minimalist": null,
+    "Fast-Paced": null,
+    "Relaxing": {
+      "igdb_type": "keyword",
+      "igdb_id": 2084,
+      "igdb_name": "relaxing"
+    },
+    "Low-poly": null,
+    "Psychological Horror": {
+      "igdb_type": "theme",
+      "igdb_id": 19,
+      "igdb_name": "Horror"
+    },
+    "Roguelite": {
+      "igdb_type": "keyword",
+      "igdb_id": 17292,
+      "igdb_name": "roguelite"
+    },
+    "Physics": {
+      "igdb_type": "keyword",
+      "igdb_id": 287,
+      "igdb_name": "physics"
+    },
+    "Hand-drawn": null,
+    "Exploration": {
+      "igdb_type": "theme",
+      "igdb_id": 33,
+      "igdb_name": "Sandbox"
+    },
+    "Top down shooter": {
+      "igdb_type": "perspective",
+      "igdb_id": null,
+      "igdb_name": "Bird view/Isometric"
+    },
+    "Boss battle": {
+      "igdb_type": "keyword",
+      "igdb_id": 3486,
+      "igdb_name": "boss fight"
+    },
+    "1-bit": null,
+    "Comedy": {
+      "igdb_type": "theme",
+      "igdb_id": 27,
+      "igdb_name": "Comedy"
+    },
+    "Mystery": {
+      "igdb_type": "theme",
+      "igdb_id": 43,
+      "igdb_name": "Mystery"
+    },
+    "Difficult": null,
+    "Unreal Engine": {
+      "igdb_type": "engine",
+      "igdb_id": null,
+      "igdb_name": "Unreal Engine"
+    },
+    "High Score": null,
+    "Cozy": {
+      "igdb_type": "keyword",
+      "igdb_id": 24685,
+      "igdb_name": "cozy"
+    },
+    "Colorful": null,
+    "Experimental": {
+      "igdb_type": "keyword",
+      "igdb_id": 308,
+      "igdb_name": "experimental"
+    },
+    "Mouse only": {
+      "igdb_type": "keyword",
+      "igdb_id": 24693,
+      "igdb_name": "mouse only"
+    },
+    "Spooky": {
+      "igdb_type": "keyword",
+      "igdb_id": 2940,
+      "igdb_name": "spooky"
+    },
+    "Black and White": {
+      "igdb_type": "keyword",
+      "igdb_id": 43151,
+      "igdb_name": "bl"
+    },
+    "Game Boy": {
+      "igdb_type": "keyword",
+      "igdb_id": 4370,
+      "igdb_name": "super game boy enhancement"
+    },
+    "8-Bit": {
+      "igdb_type": "keyword",
+      "igdb_id": 3079,
+      "igdb_name": "8-bit"
+    },
+    "Tower Defense": {
+      "igdb_type": "keyword",
+      "igdb_id": 77,
+      "igdb_name": "tower defense"
+    },
+    "weird": {
+      "igdb_type": "keyword",
+      "igdb_id": 220,
+      "igdb_name": "weird"
+    },
+    "storygame": {
+      "igdb_type": "keyword",
+      "igdb_id": 50847,
+      "igdb_name": "am"
+    },
+    "Shoot 'Em Up": {
+      "igdb_type": "keyword",
+      "igdb_id": 166,
+      "igdb_name": "shoot 'em up"
+    },
+    "Cats": {
+      "igdb_type": "keyword",
+      "igdb_id": 570,
+      "igdb_name": "cats"
+    },
+    "Dungeon Crawler": {
+      "igdb_type": "keyword",
+      "igdb_id": 2228,
+      "igdb_name": "dungeon crawler"
+    },
+    "Side Scroller": {
+      "igdb_type": "keyword",
+      "igdb_id": 50610,
+      "igdb_name": "side scroller"
+    },
+    "Endless": {
+      "igdb_type": "keyword",
+      "igdb_id": 42847,
+      "igdb_name": "endless"
+    },
+    "Robots": {
+      "igdb_type": "keyword",
+      "igdb_id": 575,
+      "igdb_name": "robots"
+    },
+    "Speedrun": {
+      "igdb_type": "keyword",
+      "igdb_id": 5962,
+      "igdb_name": "speedrun"
+    },
+    "Turn-based": {
+      "igdb_type": "genre",
+      "igdb_id": 16,
+      "igdb_name": "Turn-based strategy (TBS)"
+    },
+    "Multiple Endings": {
+      "igdb_type": "keyword",
+      "igdb_id": 1313,
+      "igdb_name": "multiple endings"
+    },
+    "Female Protagonist": {
+      "igdb_type": "keyword",
+      "igdb_id": 962,
+      "igdb_name": "female protagonist"
+    },
+    "Isometric": {
+      "igdb_type": "perspective",
+      "igdb_id": null,
+      "igdb_name": "Bird view/Isometric"
+    },
+    "PSX (PlayStation)": null,
+    "GameMaker": {
+      "igdb_type": "engine",
+      "igdb_id": 340,
+      "igdb_name": "GameMaker"
+    },
+    "3D Platformer": {
+      "igdb_type": "genre",
+      "igdb_id": 8,
+      "igdb_name": "Platform"
+    },
+    "Simple": {
+      "igdb_type": "keyword",
+      "igdb_id": 1160,
+      "igdb_name": "simple"
+    },
+    "Surreal": {
+      "igdb_type": "keyword",
+      "igdb_id": 1721,
+      "igdb_name": "surreal"
+    },
+    "Cartoon": {
+      "igdb_type": "keyword",
+      "igdb_id": 38902,
+      "igdb_name": "cartoon"
+    },
+    "minigames": {
+      "igdb_type": "keyword",
+      "igdb_id": 274,
+      "igdb_name": "minigames"
+    },
+    "GitHub": null,
+    "Aliens": {
+      "igdb_type": "keyword",
+      "igdb_id": 3,
+      "igdb_name": "aliens"
+    },
+    "Action-Adventure": {
+      "igdb_type": "genre",
+      "igdb_id": 31,
+      "igdb_name": "Adventure"
+    },
+    "FPS": {
+      "igdb_type": "keyword",
+      "igdb_id": 4282,
+      "igdb_name": "60 fps on consoles"
+    },
+    "Management": {
+      "igdb_type": "keyword",
+      "igdb_id": 994,
+      "igdb_name": "management"
+    },
+    "Dice": {
+      "igdb_type": "keyword",
+      "igdb_id": 1931,
+      "igdb_name": "dice"
+    },
+    "Ghosts": {
+      "igdb_type": "keyword",
+      "igdb_id": 16,
+      "igdb_name": "ghosts"
+    },
+    "Procedural Generation": {
+      "igdb_type": "keyword",
+      "igdb_id": 577,
+      "igdb_name": "procedural generation"
+    },
+    "Stealth": {
+      "igdb_type": "theme",
+      "igdb_id": 23,
+      "igdb_name": "Stealth"
+    },
+    "Survival Horror": {
+      "igdb_type": "theme",
+      "igdb_id": 19,
+      "igdb_name": "Horror"
+    },
+    "Animals": {
+      "igdb_type": "keyword",
+      "igdb_id": 153,
+      "igdb_name": "animals"
+    },
+    "Monsters": {
+      "igdb_type": "keyword",
+      "igdb_id": 98,
+      "igdb_name": "monsters"
+    },
+    "Detective": {
+      "igdb_type": "keyword",
+      "igdb_id": 215,
+      "igdb_name": "detective"
+    },
+    "artgame": {
+      "igdb_type": "keyword",
+      "igdb_id": 1074,
+      "igdb_name": "art"
+    },
+    "Fishing": {
+      "igdb_type": "keyword",
+      "igdb_id": 509,
+      "igdb_name": "fishing"
+    },
+    "Text based": {
+      "igdb_type": "perspective",
+      "igdb_id": 5,
+      "igdb_name": "Text"
+    },
+    "Deck Building": {
+      "igdb_type": "keyword",
+      "igdb_id": 52703,
+      "igdb_name": "deck building"
+    },
+    "Metroidvania": {
+      "igdb_type": "keyword",
+      "igdb_id": 477,
+      "igdb_name": "metroidvania"
+    },
+    "brackeys": {
+      "igdb_type": "keyword",
+      "igdb_id": 46658,
+      "igdb_name": "brackeys game jam"
+    },
+    "Halloween": {
+      "igdb_type": "keyword",
+      "igdb_id": 1207,
+      "igdb_name": "halloween"
+    },
+    "Top Down Adventure": {
+      "igdb_type": "genre",
+      "igdb_id": 31,
+      "igdb_name": "Adventure"
+    },
+    "Time Travel": {
+      "igdb_type": "keyword",
+      "igdb_id": 170,
+      "igdb_name": "time travel"
+    },
+    "upgrades": {
+      "igdb_type": "keyword",
+      "igdb_id": 47576,
+      "igdb_name": "upgrades"
+    },
+    "Medieval": {
+      "igdb_type": "keyword",
+      "igdb_id": 151,
+      "igdb_name": "medieval"
+    },
+    "Twin Stick Shooter": {
+      "igdb_type": "genre",
+      "igdb_id": 5,
+      "igdb_name": "Shooter"
+    },
+    "GBJam": {
+      "igdb_type": "keyword",
+      "igdb_id": 44419,
+      "igdb_name": "gbjam"
+    },
+    "nature": {
+      "igdb_type": "keyword",
+      "igdb_id": 1111,
+      "igdb_name": "nature"
+    },
+    "Dating Sim": {
+      "igdb_type": "keyword",
+      "igdb_id": 43508,
+      "igdb_name": "dating sim"
+    },
+    "Turn-Based Combat": {
+      "igdb_type": "keyword",
+      "igdb_id": 2399,
+      "igdb_name": "turn-based combat"
+    },
+    "Global Game Jam": {
+      "igdb_type": "keyword",
+      "igdb_id": 8222,
+      "igdb_name": "global game jam"
+    },
+    "Anime": {
+      "igdb_type": "keyword",
+      "igdb_id": 78,
+      "igdb_name": "anime"
+    },
+    "Multiplayer": {
+      "igdb_type": "game_mode",
+      "igdb_id": 2,
+      "igdb_name": "Multiplayer"
+    },
+    "Cooking": {
+      "igdb_type": "keyword",
+      "igdb_id": 758,
+      "igdb_name": "cooking"
+    },
+    "Walking simulator": {
+      "igdb_type": "genre",
+      "igdb_id": 13,
+      "igdb_name": "Simulator"
+    },
+    "Golf": {
+      "igdb_type": "keyword",
+      "igdb_id": 30,
+      "igdb_name": "golf"
+    },
+    "Turn-based Strategy": {
+      "igdb_type": "genre",
+      "igdb_id": 15,
+      "igdb_name": "Strategy"
+    },
+    "Dark Fantasy": {
+      "igdb_type": "theme",
+      "igdb_id": 17,
+      "igdb_name": "Fantasy"
+    },
+    "underwater": {
+      "igdb_type": "keyword",
+      "igdb_id": 138,
+      "igdb_name": "underwater"
+    },
+    "Incremental": {
+      "igdb_type": "keyword",
+      "igdb_id": 45034,
+      "igdb_name": "incremental"
+    },
+    "Third Person": {
+      "igdb_type": "perspective",
+      "igdb_id": 2,
+      "igdb_name": "Third person"
+    },
+    "Magic": {
+      "igdb_type": "keyword",
+      "igdb_id": 226,
+      "igdb_name": "magic"
+    },
+    "Romance": {
+      "igdb_type": "theme",
+      "igdb_id": 44,
+      "igdb_name": "Romance"
+    },
+    "Clicker": {
+      "igdb_type": "keyword",
+      "igdb_id": 2072,
+      "igdb_name": "clicker"
+    },
+    "Abstract": null,
+    "Meaningful Choices": {
+      "igdb_type": "keyword",
+      "igdb_id": 25527,
+      "igdb_name": "meaningful choices"
+    },
+    "Local multiplayer": {
+      "igdb_type": "game_mode",
+      "igdb_id": 4,
+      "igdb_name": "Split screen"
+    },
+    "Voxel": {
+      "igdb_type": "keyword",
+      "igdb_id": 595,
+      "igdb_name": "voxel"
+    },
+    "RPG Maker": {
+      "igdb_type": "engine",
+      "igdb_id": 305,
+      "igdb_name": "RPG Maker"
+    },
+    "City Builder": {
+      "igdb_type": "keyword",
+      "igdb_id": 3533,
+      "igdb_name": "city builder"
+    },
+    "Open Source": {
+      "igdb_type": "keyword",
+      "igdb_id": 604,
+      "igdb_name": "open-source"
+    },
+    "Sandbox": {
+      "igdb_type": "theme",
+      "igdb_id": 33,
+      "igdb_name": "Sandbox"
+    },
+    "jumping": {
+      "igdb_type": "keyword",
+      "igdb_id": 43160,
+      "igdb_name": "jumping"
+    },
+    "16-bit": {
+      "igdb_type": "keyword",
+      "igdb_id": 382,
+      "igdb_name": "16-bit"
+    },
+    "Gravity": {
+      "igdb_type": "keyword",
+      "igdb_id": 137,
+      "igdb_name": "gravity"
+    },
+    "Cyberpunk": {
+      "igdb_type": "keyword",
+      "igdb_id": 103,
+      "igdb_name": "cyberpunk"
+    },
+    "Time Attack": {
+      "igdb_type": "keyword",
+      "igdb_id": 3660,
+      "igdb_name": "time attack"
+    },
+    "Zombies": {
+      "igdb_type": "keyword",
+      "igdb_id": 5,
+      "igdb_name": "zombies"
+    },
+    "Escape Game": {
+      "igdb_type": "keyword",
+      "igdb_id": 23568,
+      "igdb_name": "escape game"
+    },
+    "Neon": {
+      "igdb_type": "keyword",
+      "igdb_id": 42063,
+      "igdb_name": "neon"
+    },
+    "gdevelop": {
+      "igdb_type": "engine",
+      "igdb_id": 1345,
+      "igdb_name": "GDevelop"
+    },
+    "brackeys-game-jam": {
+      "igdb_type": "keyword",
+      "igdb_id": 46658,
+      "igdb_name": "brackeys game jam"
+    },
+    "gamepad": {
+      "igdb_type": "keyword",
+      "igdb_id": 6013,
+      "igdb_name": "wii u gamepad microphone use"
+    },
+    "Sokoban": {
+      "igdb_type": "keyword",
+      "igdb_id": 17177,
+      "igdb_name": "sokoban"
+    },
+    "chiptune": {
+      "igdb_type": "keyword",
+      "igdb_id": 50326,
+      "igdb_name": "chiptune soundtrack"
+    },
+    "Idle": {
+      "igdb_type": "keyword",
+      "igdb_id": 42080,
+      "igdb_name": "idle"
+    },
+    "one-button": {
+      "igdb_type": "keyword",
+      "igdb_id": 1152,
+      "igdb_name": "button"
+    },
+    "Voice Acting": {
+      "igdb_type": "keyword",
+      "igdb_id": 4287,
+      "igdb_name": "voice acting"
+    },
+    "Chess": {
+      "igdb_type": "keyword",
+      "igdb_id": 380,
+      "igdb_name": "chess"
+    },
+    "secrets": {
+      "igdb_type": "keyword",
+      "igdb_id": 50828,
+      "igdb_name": "secrets"
+    },
+    "Dreams": {
+      "igdb_type": "keyword",
+      "igdb_id": 2170,
+      "igdb_name": "dreams"
+    },
+    "Drawing": {
+      "igdb_type": "keyword",
+      "igdb_id": 38038,
+      "igdb_name": "drawing"
+    },
+    "Gore": {
+      "igdb_type": "keyword",
+      "igdb_id": 1308,
+      "igdb_name": "gore"
+    },
+    "Score Attack": {
+      "igdb_type": "keyword",
+      "igdb_id": 2216,
+      "igdb_name": "score attack"
+    },
+    "LGBT": {
+      "igdb_type": "keyword",
+      "igdb_id": 51021,
+      "igdb_name": "lgbt"
+    },
+    "Farming": {
+      "igdb_type": "keyword",
+      "igdb_id": 1103,
+      "igdb_name": "farming"
+    },
+    "Dogs": {
+      "igdb_type": "keyword",
+      "igdb_id": 16999,
+      "igdb_name": "dogs"
+    },
+    "PICO-8": {
+      "igdb_type": "engine",
+      "igdb_id": 829,
+      "igdb_name": "PICO-8"
+    },
+    "Working Simulator": {
+      "igdb_type": "genre",
+      "igdb_id": 13,
+      "igdb_name": "Simulator"
+    },
+    "Non violent": {
+      "igdb_type": "keyword",
+      "igdb_id": 22764,
+      "igdb_name": "non-violent"
+    },
+    "Driving": {
+      "igdb_type": "keyword",
+      "igdb_id": 778,
+      "igdb_name": "driving"
+    },
+    "Hack and Slash": {
+      "igdb_type": "genre",
+      "igdb_id": 25,
+      "igdb_name": "Hack and slash/Beat 'em up"
+    },
+    "Sprites": null,
+    "Controller": {
+      "igdb_type": "keyword",
+      "igdb_id": 2240,
+      "igdb_name": "custom controller"
+    },
+    "Two colors": null,
+    "Math": {
+      "igdb_type": "keyword",
+      "igdb_id": 918,
+      "igdb_name": "math"
+    },
+    "Mechs": {
+      "igdb_type": "keyword",
+      "igdb_id": 46709,
+      "igdb_name": "mechs"
+    },
+    "Characters": {
+      "igdb_type": "keyword",
+      "igdb_id": 4272,
+      "igdb_name": "customizable characters"
+    },
+    "Noir": {
+      "igdb_type": "keyword",
+      "igdb_id": 1136,
+      "igdb_name": "noir"
+    },
+    "maze": {
+      "igdb_type": "keyword",
+      "igdb_id": 687,
+      "igdb_name": "maze"
+    },
+    "Typing": {
+      "igdb_type": "keyword",
+      "igdb_id": 38116,
+      "igdb_name": "typing"
+    },
+    "Runner": {
+      "igdb_type": "keyword",
+      "igdb_id": 726,
+      "igdb_name": "runner"
+    },
+    "Forest": {
+      "igdb_type": "keyword",
+      "igdb_id": 1119,
+      "igdb_name": "forest"
+    },
+    "Shadows": null,
+    "Ren'Py": {
+      "igdb_type": "engine",
+      "igdb_id": 876,
+      "igdb_name": "Ren'Py"
+    },
+    "Flying": {
+      "igdb_type": "keyword",
+      "igdb_id": 1283,
+      "igdb_name": "flying"
+    },
+    "Immersive": {
+      "igdb_type": "keyword",
+      "igdb_id": 17092,
+      "igdb_name": "immersive"
+    },
+    "rewind": {
+      "igdb_type": "keyword",
+      "igdb_id": 4180,
+      "igdb_name": "time rewind"
+    },
+    "Swords": {
+      "igdb_type": "keyword",
+      "igdb_id": 53403,
+      "igdb_name": "swords"
+    },
+    "artificial-intelligence": {
+      "igdb_type": "keyword",
+      "igdb_id": 1440,
+      "igdb_name": "artificial intelligence"
+    },
+    "kenney": {
+      "igdb_type": "keyword",
+      "igdb_id": 46640,
+      "igdb_name": "kenney jam"
+    },
+    "mind-bending": null,
+    "Real time strategy": {
+      "igdb_type": "genre",
+      "igdb_id": 11,
+      "igdb_name": "Real Time Strategy (RTS)"
+    },
+    "Food": {
+      "igdb_type": "keyword",
+      "igdb_id": 38887,
+      "igdb_name": "food"
+    },
+    "Futuristic": {
+      "igdb_type": "keyword",
+      "igdb_id": 923,
+      "igdb_name": "futuristic"
+    },
+    "glitch": {
+      "igdb_type": "keyword",
+      "igdb_id": 5158,
+      "igdb_name": "fake glitch"
+    },
+    "Dark Humor": {
+      "igdb_type": "keyword",
+      "igdb_id": 1754,
+      "igdb_name": "dark humor"
+    },
+    "Survivor-like": {
+      "igdb_type": "keyword",
+      "igdb_id": 53414,
+      "igdb_name": "survivor-like"
+    },
+    "Endless Runner": {
+      "igdb_type": "keyword",
+      "igdb_id": 2388,
+      "igdb_name": "endless runner"
+    },
+    "suspense": {
+      "igdb_type": "keyword",
+      "igdb_id": 25274,
+      "igdb_name": "suspense"
+    },
+    "Co-op": {
+      "igdb_type": "game_mode",
+      "igdb_id": 3,
+      "igdb_name": "Co-operative"
+    },
+    "LÖVE": null,
+    "Thriller": {
+      "igdb_type": "theme",
+      "igdb_id": 20,
+      "igdb_name": "Thriller"
+    },
+    "gamedevtv": {
+      "igdb_type": "keyword",
+      "igdb_id": 4093,
+      "igdb_name": "gamedev"
+    },
+    "blocks": {
+      "igdb_type": "keyword",
+      "igdb_id": 1395,
+      "igdb_name": "blocks"
+    },
+    "Vector": {
+      "igdb_type": "keyword",
+      "igdb_id": 2334,
+      "igdb_name": "vector graphics"
+    },
+    "Virtual Pet": {
+      "igdb_type": "keyword",
+      "igdb_id": 818,
+      "igdb_name": "virtual pet"
+    },
+    "Asteroids": {
+      "igdb_type": "keyword",
+      "igdb_id": 1618,
+      "igdb_name": "asteroids"
+    },
+    "Tactical": {
+      "igdb_type": "genre",
+      "igdb_id": 24,
+      "igdb_name": "Tactical"
+    },
+    "Board Game": {
+      "igdb_type": "genre",
+      "igdb_id": 35,
+      "igdb_name": "Card & Board Game"
+    },
+    "Explosions": {
+      "igdb_type": "keyword",
+      "igdb_id": 3831,
+      "igdb_name": "explosion"
+    },
+    "satire": {
+      "igdb_type": "keyword",
+      "igdb_id": 1539,
+      "igdb_name": "satire"
+    },
+    "Tetris": {
+      "igdb_type": "keyword",
+      "igdb_id": 1394,
+      "igdb_name": "tetris"
+    },
+    "Touch-Friendly": null,
+    "Hacking": {
+      "igdb_type": "keyword",
+      "igdb_id": 1423,
+      "igdb_name": "hacking"
+    },
+    "Slice Of Life": {
+      "igdb_type": "keyword",
+      "igdb_id": 1430,
+      "igdb_name": "slice of life"
+    },
+    "Destruction": {
+      "igdb_type": "keyword",
+      "igdb_id": 160,
+      "igdb_name": "destruction"
+    },
+    "Tycoon": {
+      "igdb_type": "keyword",
+      "igdb_id": 379,
+      "igdb_name": "tycoon"
+    },
+    "Parkour": {
+      "igdb_type": "keyword",
+      "igdb_id": 390,
+      "igdb_name": "parkour"
+    },
+    "Gothic": {
+      "igdb_type": "keyword",
+      "igdb_id": 423,
+      "igdb_name": "gothic"
+    },
+    "fish": {
+      "igdb_type": "keyword",
+      "igdb_id": 42298,
+      "igdb_name": "fish"
+    },
+    "Creative": {
+      "igdb_type": "keyword",
+      "igdb_id": 531,
+      "igdb_name": "creative"
+    },
+    "infinite-runner": {
+      "igdb_type": "keyword",
+      "igdb_id": 42413,
+      "igdb_name": "infinite runner"
+    },
+    "Synthwave": {
+      "igdb_type": "keyword",
+      "igdb_id": 3784,
+      "igdb_name": "synthwave"
+    },
+    "Beat 'em up": {
+      "igdb_type": "genre",
+      "igdb_id": 25,
+      "igdb_name": "Hack and slash/Beat 'em up"
+    },
+    "Historical": {
+      "igdb_type": "theme",
+      "igdb_id": 22,
+      "igdb_name": "Historical"
+    },
+    "Slime": {
+      "igdb_type": "keyword",
+      "igdb_id": 53231,
+      "igdb_name": "oneslime"
+    },
+    "Game Boy ROM": {
+      "igdb_type": "keyword",
+      "igdb_id": 29726,
+      "igdb_name": "rom"
+    },
+    "wowie": {
+      "igdb_type": "keyword",
+      "igdb_id": 47224,
+      "igdb_name": "wowie jam"
+    },
+    "bigmode": {
+      "igdb_type": "keyword",
+      "igdb_id": 46778,
+      "igdb_name": "bigmode game jam 2025"
+    },
+    "Roadtrip": {
+      "igdb_type": "keyword",
+      "igdb_id": 37806,
+      "igdb_name": "roadtrip"
+    },
+    "Snake": {
+      "igdb_type": "keyword",
+      "igdb_id": 1756,
+      "igdb_name": "snake"
+    },
+    "jam": {
+      "igdb_type": "keyword",
+      "igdb_id": 1173,
+      "igdb_name": "james bond"
+    },
+    "Action RPG": {
+      "igdb_type": "theme",
+      "igdb_id": 1,
+      "igdb_name": "Action"
+    },
+    "Economy": {
+      "igdb_type": "keyword",
+      "igdb_id": 2002,
+      "igdb_name": "economy"
+    },
+    "Painting": {
+      "igdb_type": "keyword",
+      "igdb_id": 17188,
+      "igdb_name": "painting"
+    },
+    "Space Sim": {
+      "igdb_type": "keyword",
+      "igdb_id": 23,
+      "igdb_name": "space simulation"
+    },
+    "Crafting": {
+      "igdb_type": "keyword",
+      "igdb_id": 510,
+      "igdb_name": "crafting"
+    },
+    "gameoff": {
+      "igdb_type": "keyword",
+      "igdb_id": 50847,
+      "igdb_name": "am"
+    },
+    "Post-apocalyptic": {
+      "igdb_type": "keyword",
+      "igdb_id": 69,
+      "igdb_name": "post-apocalyptic"
+    },
+    "Wizards": {
+      "igdb_type": "keyword",
+      "igdb_id": 147,
+      "igdb_name": "wizards"
+    },
+    "construct-3": null,
+    "pixel": {
+      "igdb_type": "keyword",
+      "igdb_id": 51713,
+      "igdb_name": "pixel"
+    },
+    "Mental Health": {
+      "igdb_type": "keyword",
+      "igdb_id": 3749,
+      "igdb_name": "mental health"
+    },
+    "Life Simulation": {
+      "igdb_type": "keyword",
+      "igdb_id": 43,
+      "igdb_name": "life simulation"
+    },
+    "Audio": {
+      "igdb_type": "keyword",
+      "igdb_id": 2791,
+      "igdb_name": "audio based"
+    },
+    "kenneyjam": {
+      "igdb_type": "keyword",
+      "igdb_id": 50847,
+      "igdb_name": "am"
+    },
+    "Virtual Reality (VR)": {
+      "igdb_type": "perspective",
+      "igdb_id": 7,
+      "igdb_name": "Virtual Reality"
+    },
+    "Dystopian": {
+      "igdb_type": "keyword",
+      "igdb_id": 429,
+      "igdb_name": "dystopian"
+    },
+    "Gardening": {
+      "igdb_type": "keyword",
+      "igdb_id": 976,
+      "igdb_name": "gardening"
+    },
+    "Wholesome": {
+      "igdb_type": "keyword",
+      "igdb_id": 23931,
+      "igdb_name": "wholesome"
+    },
+    "chill": {
+      "igdb_type": "keyword",
+      "igdb_id": 43527,
+      "igdb_name": "chill"
+    },
+    "Furry": {
+      "igdb_type": "keyword",
+      "igdb_id": 17073,
+      "igdb_name": "furry"
+    },
+    "Parody": {
+      "igdb_type": "keyword",
+      "igdb_id": 413,
+      "igdb_name": "parody"
+    },
+    "Frogs": {
+      "igdb_type": "keyword",
+      "igdb_id": 669,
+      "igdb_name": "frog"
+    },
+    "Trains": {
+      "igdb_type": "keyword",
+      "igdb_id": 915,
+      "igdb_name": "trains"
+    },
+    "Pirates": {
+      "igdb_type": "keyword",
+      "igdb_id": 4,
+      "igdb_name": "pirates"
+    },
+    "Perma Death": {
+      "igdb_type": "keyword",
+      "igdb_id": 558,
+      "igdb_name": "death"
+    },
+    "Violent": {
+      "igdb_type": "keyword",
+      "igdb_id": 3257,
+      "igdb_name": "violent"
+    },
+    "NES (Nintendo Entertainment System)": {
+      "igdb_type": "keyword",
+      "igdb_id": 1435,
+      "igdb_name": "nintendo"
+    },
+    "Automation": {
+      "igdb_type": "keyword",
+      "igdb_id": 12950,
+      "igdb_name": "automation"
+    },
+    "chaos": {
+      "igdb_type": "keyword",
+      "igdb_id": 38862,
+      "igdb_name": "chaos"
+    },
+    "Flight": {
+      "igdb_type": "keyword",
+      "igdb_id": 992,
+      "igdb_name": "flight"
+    },
+    "Liminal space": {
+      "igdb_type": "keyword",
+      "igdb_id": 31542,
+      "igdb_name": "liminal space"
+    },
+    "Solo RPG": null,
+    "1bit": {
+      "igdb_type": "keyword",
+      "igdb_id": 41008,
+      "igdb_name": "1bit"
+    },
+    "Lovecraftian Horror": {
+      "igdb_type": "theme",
+      "igdb_id": 19,
+      "igdb_name": "Horror"
+    },
+    "megajam": {
+      "igdb_type": "keyword",
+      "igdb_id": 50847,
+      "igdb_name": "am"
+    },
+    "Third-Person Shooter": {
+      "igdb_type": "genre",
+      "igdb_id": 5,
+      "igdb_name": "Shooter"
+    },
+    "Dragons": {
+      "igdb_type": "keyword",
+      "igdb_id": 332,
+      "igdb_name": "dragons"
+    },
+    "submarine": {
+      "igdb_type": "keyword",
+      "igdb_id": 5825,
+      "igdb_name": "submarine"
+    },
+    "mythology": {
+      "igdb_type": "keyword",
+      "igdb_id": 953,
+      "igdb_name": "mythology"
+    },
+    "Western": {
+      "igdb_type": "keyword",
+      "igdb_id": 9,
+      "igdb_name": "western"
+    },
+    "JRPG": {
+      "igdb_type": "keyword",
+      "igdb_id": 521,
+      "igdb_name": "jrpg"
+    },
+    "Hex Based": null,
+    "hard": {
+      "igdb_type": "keyword",
+      "igdb_id": 38908,
+      "igdb_name": "hard"
+    },
+    "Construct 2": null,
+    "story": {
+      "igdb_type": "keyword",
+      "igdb_id": 283,
+      "igdb_name": "story driven"
+    },
+    "githubgameoff": {
+      "igdb_type": "keyword",
+      "igdb_id": 50847,
+      "igdb_name": "am"
+    },
+    "Animation": {
+      "igdb_type": "keyword",
+      "igdb_id": 50320,
+      "igdb_name": "animation"
+    },
+    "Queer": {
+      "igdb_type": "keyword",
+      "igdb_id": 24965,
+      "igdb_name": "queer"
+    },
+    "loop": {
+      "igdb_type": "keyword",
+      "igdb_id": 2158,
+      "igdb_name": "time loop"
+    },
+    "Open World": {
+      "igdb_type": "theme",
+      "igdb_id": 38,
+      "igdb_name": "Open world"
+    },
+    "Heist": {
+      "igdb_type": "keyword",
+      "igdb_id": 243,
+      "igdb_name": "heist"
+    },
+    "Strategy RPG": {
+      "igdb_type": "genre",
+      "igdb_id": 15,
+      "igdb_name": "Strategy"
+    },
+    "brackeysgamejam": {
+      "igdb_type": "keyword",
+      "igdb_id": 50847,
+      "igdb_name": "am"
+    },
+    "mining": {
+      "igdb_type": "keyword",
+      "igdb_id": 2177,
+      "igdb_name": "mining"
+    },
+    "psychedelic": {
+      "igdb_type": "keyword",
+      "igdb_id": 1467,
+      "igdb_name": "psychedelic"
+    },
+    "alchemy": {
+      "igdb_type": "keyword",
+      "igdb_id": 2668,
+      "igdb_name": "alchemy"
+    },
+    "FPS Platformer": {
+      "igdb_type": "genre",
+      "igdb_id": 8,
+      "igdb_name": "Platform"
+    },
+    "ascii": {
+      "igdb_type": "keyword",
+      "igdb_id": 603,
+      "igdb_name": "ascii"
+    },
+    "Hidden Object": {
+      "igdb_type": "keyword",
+      "igdb_id": 1140,
+      "igdb_name": "hidden object"
+    },
+    "Prototype": {
+      "igdb_type": "keyword",
+      "igdb_id": 43785,
+      "igdb_name": "prototype"
+    },
+    "Game Design": {
+      "igdb_type": "keyword",
+      "igdb_id": 42730,
+      "igdb_name": "design"
+    },
+    "Skeletons": {
+      "igdb_type": "keyword",
+      "igdb_id": 4407,
+      "igdb_name": "skeletons"
+    },
+    "piano": {
+      "igdb_type": "keyword",
+      "igdb_id": 42166,
+      "igdb_name": "piano"
+    },
+    "keyboard": {
+      "igdb_type": "keyword",
+      "igdb_id": 8906,
+      "igdb_name": "boar"
+    },
+    "Souls-like": {
+      "igdb_type": "keyword",
+      "igdb_id": 44290,
+      "igdb_name": "souls"
+    },
+    "Vampire": {
+      "igdb_type": "keyword",
+      "igdb_id": 211,
+      "igdb_name": "vampire"
+    },
+    "boss-rush": {
+      "igdb_type": "keyword",
+      "igdb_id": 38864,
+      "igdb_name": "boss rush"
+    },
+    "mobile": {
+      "igdb_type": "keyword",
+      "igdb_id": 4240,
+      "igdb_name": "playstation mobile"
+    },
+    "LGBTQIA": {
+      "igdb_type": "keyword",
+      "igdb_id": 46884,
+      "igdb_name": "lgbtq"
+    },
+    "Tabletop": {
+      "igdb_type": "keyword",
+      "igdb_id": 1704,
+      "igdb_name": "tabletop"
+    },
+    "phaser": {
+      "igdb_type": "engine",
+      "igdb_id": 382,
+      "igdb_name": "Phaser"
+    }
+  },
+  "engines": {
+    "Unity": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Godot": {
+      "igdb_type": "engine",
+      "igdb_id": 507,
+      "igdb_name": "Godot Engine"
+    },
+    "GameMaker": {
+      "igdb_type": "engine",
+      "igdb_id": 340,
+      "igdb_name": "GameMaker"
+    },
+    "GDevelop": {
+      "igdb_type": "engine",
+      "igdb_id": 1345,
+      "igdb_name": "GDevelop"
+    },
+    "Construct": {
+      "igdb_type": "engine",
+      "igdb_id": 905,
+      "igdb_name": "Construct"
+    },
+    "Unreal Engine": {
+      "igdb_type": "engine",
+      "igdb_id": null,
+      "igdb_name": "Unreal Engine"
+    },
+    "Unity, Aseprite": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Aseprite, Godot": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Ren'Py": {
+      "igdb_type": "engine",
+      "igdb_id": 876,
+      "igdb_name": "Ren'Py"
+    },
+    "PICO-8": {
+      "igdb_type": "engine",
+      "igdb_id": 829,
+      "igdb_name": "PICO-8"
+    },
+    "Unity, Blender": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Phaser": {
+      "igdb_type": "engine",
+      "igdb_id": 382,
+      "igdb_name": "Phaser"
+    },
+    "LÖVE": {
+      "igdb_type": "engine",
+      "igdb_id": 400,
+      "igdb_name": "LÖVE"
+    },
+    "GameMaker, Aseprite": {
+      "igdb_type": "engine",
+      "igdb_id": 340,
+      "igdb_name": "GameMaker"
+    },
+    "RPG Maker": {
+      "igdb_type": "engine",
+      "igdb_id": 305,
+      "igdb_name": "RPG Maker"
+    },
+    "Aseprite, Godot, Audacity": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Unity, Adobe Photoshop": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Godot, Krita": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Godot, GIMP": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Godot, Adobe Photoshop": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Unity, Krita": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, Blender, Adobe Photoshop, Audacity": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "GameMaker, Aseprite, FL Studio": {
+      "igdb_type": "engine",
+      "igdb_id": 340,
+      "igdb_name": "GameMaker"
+    },
+    "Godot, Audacity, Krita": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Blender, Godot": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Unity, Adobe Photoshop, Audacity": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "GB Studio": {
+      "igdb_type": "engine",
+      "igdb_id": 1069,
+      "igdb_name": "GB Studio"
+    },
+    "Unity, Aseprite, FL Studio": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Godot, Audacity": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Aseprite, Godot, LMMS": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Unity, Adobe Photoshop, Adobe Illustrator": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Aseprite, Godot, FL Studio": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "pygame": {
+      "igdb_type": "engine",
+      "igdb_id": 344,
+      "igdb_name": "Pygame"
+    },
+    "Unity, Paint.net": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Aseprite, Audacity, GDevelop": {
+      "igdb_type": "engine",
+      "igdb_id": 883,
+      "igdb_name": "Aseprite"
+    },
+    "Godot, Clip Studio Paint": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Defold": {
+      "igdb_type": "engine",
+      "igdb_id": 700,
+      "igdb_name": "Defold"
+    },
+    "Unity, Audacity, Paint.net": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, FL Studio": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, Inkscape": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, Blender, GIMP, Audacity": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, Krita, FL Studio": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "PixiJS": {
+      "igdb_type": "engine",
+      "igdb_id": 493,
+      "igdb_name": "PixiJS"
+    },
+    "GameMaker, FL Studio": {
+      "igdb_type": "engine",
+      "igdb_id": 340,
+      "igdb_name": "GameMaker"
+    },
+    "Blender, Godot, Audacity, Krita": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Unity, Logic Pro": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, Clip Studio Paint": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Aseprite, Godot, GIMP": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Godot, GIMP, Audacity": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Blender, Aseprite, Godot": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Unreal Engine, Blender, Audacity": {
+      "igdb_type": "engine",
+      "igdb_id": 408,
+      "igdb_name": "Un"
+    },
+    "Unity, Audacity": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, GIMP, Audacity": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, Blender, Audacity": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "p5.js": null,
+    "Unity, Blender, Krita": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, Aseprite, Audacity": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, Bfxr, Adobe Photoshop, Audacity": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, Adobe Photoshop, Clip Studio Paint": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "bitsy": {
+      "igdb_type": "engine",
+      "igdb_id": 837,
+      "igdb_name": "Bitsy"
+    },
+    "GameMaker, FL Studio, Paint.net": {
+      "igdb_type": "engine",
+      "igdb_id": 340,
+      "igdb_name": "GameMaker"
+    },
+    "Unity, Blender, Adobe Photoshop, Substance Painter & designer, Audacity": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Blender, Godot, FL Studio": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Unity, Aseprite, Adobe Photoshop, Audacity": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Blender, Godot, GIMP, Audacity": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Unreal Engine, Blender, Adobe Photoshop, Audacity": {
+      "igdb_type": "engine",
+      "igdb_id": 408,
+      "igdb_name": "Un"
+    },
+    "Godot, Inkscape": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "GameMaker, Aseprite, Audacity": {
+      "igdb_type": "engine",
+      "igdb_id": 340,
+      "igdb_name": "GameMaker"
+    },
+    "Rust": null,
+    "Aseprite, Godot, GIMP, Audacity": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Unreal Engine, Blender": {
+      "igdb_type": "engine",
+      "igdb_id": 408,
+      "igdb_name": "Un"
+    },
+    "Aseprite, Rust": {
+      "igdb_type": "engine",
+      "igdb_id": 883,
+      "igdb_name": "Aseprite"
+    },
+    "Blender, Godot, Audacity": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Unity, Aseprite, Bfxr, FL Studio": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Twine": {
+      "igdb_type": "engine",
+      "igdb_id": 235,
+      "igdb_name": "Twine"
+    },
+    "Aseprite, Godot, Clip Studio Paint": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "RPG Maker, FL Studio": {
+      "igdb_type": "engine",
+      "igdb_id": 305,
+      "igdb_name": "RPG Maker"
+    },
+    "AppGameKit": {
+      "igdb_type": "engine",
+      "igdb_id": 1502,
+      "igdb_name": "AppGameKit Classic (AGK)"
+    },
+    "GameMaker, Adobe Photoshop": {
+      "igdb_type": "engine",
+      "igdb_id": 340,
+      "igdb_name": "GameMaker"
+    },
+    "Tiled, GB Studio": {
+      "igdb_type": "engine",
+      "igdb_id": 1069,
+      "igdb_name": "GB Studio"
+    },
+    "Blender, Adobe Photoshop, Adobe Illustrator, GDevelop": {
+      "igdb_type": "engine",
+      "igdb_id": 984,
+      "igdb_name": "Adobe Photoshop"
+    },
+    "Blender, GDevelop": {
+      "igdb_type": "engine",
+      "igdb_id": 1345,
+      "igdb_name": "GDevelop"
+    },
+    "Godot, Bfxr, Logic Pro": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Aseprite, Clickteam Fusion, Bfxr, Audacity": {
+      "igdb_type": "engine",
+      "igdb_id": 156,
+      "igdb_name": "Clickteam Fusion"
+    },
+    "Aseprite, Godot, Krita, Paint.net": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Unity, Adobe Photoshop, Adobe After Effects": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, Blender, Clip Studio Paint": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Processing, p5.js": {
+      "igdb_type": "engine",
+      "igdb_id": 1327,
+      "igdb_name": "Processing"
+    },
+    "Unity, Aseprite, Adobe Photoshop, FL Studio": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, Maya, Clip Studio Paint": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Godot, Clip Studio Paint, Paint.net": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Phaser, Clip Studio Paint, FL Studio": {
+      "igdb_type": "engine",
+      "igdb_id": 382,
+      "igdb_name": "Phaser"
+    },
+    "GameMaker, Aseprite, Bfxr, Clip Studio Paint": {
+      "igdb_type": "engine",
+      "igdb_id": 340,
+      "igdb_name": "GameMaker"
+    },
+    "Construct, Aseprite": {
+      "igdb_type": "engine",
+      "igdb_id": 883,
+      "igdb_name": "Aseprite"
+    },
+    "Unreal Engine, Aseprite, Audacity, MagicaVoxel": {
+      "igdb_type": "engine",
+      "igdb_id": 142,
+      "igdb_name": "AGI"
+    },
+    "GameMaker, Aseprite, Bfxr, FL Studio": {
+      "igdb_type": "engine",
+      "igdb_id": 340,
+      "igdb_name": "GameMaker"
+    },
+    "Unity, Krita, FL Studio, Piskel": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, GIMP, Audacity, Paint Tool SAI, FL Studio, Paint.net": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Aseprite, PixiJS": {
+      "igdb_type": "engine",
+      "igdb_id": 389,
+      "igdb_name": "Pixi"
+    },
+    "Godot, GIMP, Krita": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Blender, Aseprite, Godot, Adobe Photoshop, Audacity": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Unreal Engine, Blender, Maya, Adobe Photoshop, Substance Painter & designer, Adobe Illustrator": {
+      "igdb_type": "engine",
+      "igdb_id": 408,
+      "igdb_name": "Un"
+    },
+    "Godot, Bosca Ceoil, Bfxr": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Aseprite, Godot, Bfxr": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Blender, Godot, Krita": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Tiled": {
+      "igdb_type": "engine",
+      "igdb_id": 1301,
+      "igdb_name": "Tiled"
+    },
+    "Aseprite, Audacity": {
+      "igdb_type": "engine",
+      "igdb_id": 883,
+      "igdb_name": "Aseprite"
+    },
+    "Aseprite": {
+      "igdb_type": "engine",
+      "igdb_id": 883,
+      "igdb_name": "Aseprite"
+    },
+    "Godot, FL Studio, Piskel": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Blender, Aseprite, Godot, Audacity, FL Studio": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Unity, GIMP, Inkscape, FL Studio": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, Adobe Photoshop, FL Studio, Cinema 4D": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, GIMP, Inkscape": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "PuzzleScript": {
+      "igdb_type": "engine",
+      "igdb_id": 831,
+      "igdb_name": "PuzzleScript"
+    },
+    "Aseprite, Godot, Bosca Ceoil, Clip Studio Paint": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Godot, GIMP, Inkscape, LMMS": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Unity, Aseprite, GIMP, Audacity, FL Studio": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, Maya": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, Piskel": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, Blender, Audacity, Paint.net": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, Audacity, Krita": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, Blender, Maya, FL Studio": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, Adobe Photoshop, Audacity, Adobe Illustrator": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Aseprite, Godot, Audacity, FL Studio": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Godot, Bosca Ceoil, Paint.net": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Unity, Blender, Adobe Photoshop, Krita": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Aseprite, Godot, Adobe Photoshop, FL Studio": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "GameMaker, Bfxr, Audacity": {
+      "igdb_type": "engine",
+      "igdb_id": 340,
+      "igdb_name": "GameMaker"
+    },
+    "Unity, Aseprite, Adobe Photoshop": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, Aseprite, Audacity, FL Studio": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, Bosca Ceoil, GIMP, Audacity, Krita": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, Blender, MagicaVoxel, FL Studio": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, Blender, 3ds Max": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Aseprite, Godot, Audacity, ChipTone": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "TIC-80": {
+      "igdb_type": "engine",
+      "igdb_id": 975,
+      "igdb_name": "TIC-80"
+    },
+    "Godot, Pyxel Edit": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Construct, Aseprite, Audacity, FL Studio": {
+      "igdb_type": "engine",
+      "igdb_id": 883,
+      "igdb_name": "Aseprite"
+    },
+    "Aseprite, Godot, Bfxr, Audacity": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Blender, Aseprite, Tiled, Godot": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Blender, Godot, Inkscape, Krita": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Aseprite, PixiJS, Clip Studio Paint": {
+      "igdb_type": "engine",
+      "igdb_id": 389,
+      "igdb_name": "Pixi"
+    },
+    "Unity, Blender, Adobe Photoshop, FL Studio": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Aseprite, p5.js": {
+      "igdb_type": "engine",
+      "igdb_id": 883,
+      "igdb_name": "Aseprite"
+    },
+    "GameMaker, GIMP": {
+      "igdb_type": "engine",
+      "igdb_id": 340,
+      "igdb_name": "GameMaker"
+    },
+    "Godot, Inkscape, FL Studio": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Unity, MagicaVoxel": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, Blender, FL Studio": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, 3ds Max, Adobe Photoshop": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Blender, Aseprite, Godot, Krita": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "RPG Maker, Aseprite, LMMS": {
+      "igdb_type": "engine",
+      "igdb_id": 305,
+      "igdb_name": "RPG Maker"
+    },
+    "Unity, Blender, Bfxr": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, Audacity, Krita, Paint.net": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, Blender, Bosca Ceoil, GIMP, Audacity": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Blender, Aseprite, Godot, FL Studio": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Unreal Engine, Blender, Substance Painter & designer, Clip Studio Paint": {
+      "igdb_type": "engine",
+      "igdb_id": 408,
+      "igdb_name": "Un"
+    },
+    "GameMaker, Adobe Photoshop, Clip Studio Paint": {
+      "igdb_type": "engine",
+      "igdb_id": 340,
+      "igdb_name": "GameMaker"
+    },
+    "Ren'Py, Paint Tool SAI, Clip Studio Paint": {
+      "igdb_type": "engine",
+      "igdb_id": 876,
+      "igdb_name": "Ren'Py"
+    },
+    "Unreal Engine, Maya, Adobe Photoshop, Adobe Illustrator": {
+      "igdb_type": "engine",
+      "igdb_id": 408,
+      "igdb_name": "Un"
+    },
+    "Unity, Blender, Aseprite, Crocotile 3D, FL Studio": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unreal Engine, Maya, Substance Painter & designer": {
+      "igdb_type": "engine",
+      "igdb_id": 408,
+      "igdb_name": "Un"
+    },
+    "Godot, Logic Pro": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Unity, Bfxr, Audacity": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Haxe": {
+      "igdb_type": "engine",
+      "igdb_id": 373,
+      "igdb_name": "HaxeFlixel"
+    },
+    "Unity, Blender, Substance Painter & designer, Audacity": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Aseprite, Adobe Photoshop": {
+      "igdb_type": "engine",
+      "igdb_id": 883,
+      "igdb_name": "Aseprite"
+    },
+    "Unity, Blender, Inkscape, Substance Painter & designer": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Blender, Godot, Adobe Photoshop, Audacity": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "GIMP, Audacity, LMMS": {
+      "igdb_type": "engine",
+      "igdb_id": 884,
+      "igdb_name": "LMMS"
+    },
+    "SFML, Aseprite": {
+      "igdb_type": "engine",
+      "igdb_id": 883,
+      "igdb_name": "Aseprite"
+    },
+    "Aseprite, Tiled, Phaser, Logic Pro, Audacity": {
+      "igdb_type": "engine",
+      "igdb_id": 382,
+      "igdb_name": "Phaser"
+    },
+    "Blender, Aseprite, Godot, ChipTone": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Unity, Audacity, Paint.net, Piskel": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, Blender, Audacity, LMMS": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Godot, Audacity, ChipTone": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Aseprite, Godot, Adobe Photoshop": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Bevy Engine": {
+      "igdb_type": "engine",
+      "igdb_id": 1569,
+      "igdb_name": "Bevy Engine"
+    },
+    "Tiled, Bfxr, GIMP": {
+      "igdb_type": "engine",
+      "igdb_id": 1301,
+      "igdb_name": "Tiled"
+    },
+    "Construct, Pyxel Edit": {
+      "igdb_type": "engine",
+      "igdb_id": 905,
+      "igdb_name": "Construct"
+    },
+    "Phaser, PixiJS": {
+      "igdb_type": "engine",
+      "igdb_id": 382,
+      "igdb_name": "Phaser"
+    },
+    "Unity, Adobe Photoshop, FL Studio": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, Blender, Audacity, LMMS, Adobe Illustrator": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, Blender, Adobe Photoshop, Substance Painter & designer": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, Audacity, ChipTone": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "MonoGame, Adobe Photoshop": {
+      "igdb_type": "engine",
+      "igdb_id": 104,
+      "igdb_name": "MonoGame"
+    },
+    "Blender, Godot, Inkscape, Audacity, Krita": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Unity, Inkscape, Audacity": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, Adventure Game Studio": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, Blender, Adobe Photoshop, Audacity, FL Studio": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "GameMaker, Adobe Illustrator": {
+      "igdb_type": "engine",
+      "igdb_id": 340,
+      "igdb_name": "GameMaker"
+    },
+    "Construct, Audacity, Clip Studio Paint": {
+      "igdb_type": "engine",
+      "igdb_id": 905,
+      "igdb_name": "Construct"
+    },
+    "Unity, Pyxel Edit": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, Aseprite, Bosca Ceoil, Audacity": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, Blender, GIMP, Substance Painter & designer, Audacity, FL Studio": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Aseprite, Godot, Renoise": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Aseprite, Tiled, Phaser": {
+      "igdb_type": "engine",
+      "igdb_id": 382,
+      "igdb_name": "Phaser"
+    },
+    "Blender, Godot, GIMP, Krita": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "libGDX": {
+      "igdb_type": "engine",
+      "igdb_id": 369,
+      "igdb_name": "libgdx"
+    },
+    "Adobe Photoshop, Clip Studio Paint, GDevelop": {
+      "igdb_type": "engine",
+      "igdb_id": 984,
+      "igdb_name": "Adobe Photoshop"
+    },
+    "Construct, Aseprite, Adobe Photoshop, Adobe After Effects, Adobe Illustrator": {
+      "igdb_type": "engine",
+      "igdb_id": 883,
+      "igdb_name": "Aseprite"
+    },
+    "GameMaker, Aseprite, Bfxr, Audacity": {
+      "igdb_type": "engine",
+      "igdb_id": 340,
+      "igdb_name": "GameMaker"
+    },
+    "Unity, Bfxr, GIMP, Audacity": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Blender, Aseprite, Adventure Game Studio": {
+      "igdb_type": "engine",
+      "igdb_id": 31,
+      "igdb_name": "Adventure Game Studio"
+    },
+    "GameMaker, Bfxr, LMMS": {
+      "igdb_type": "engine",
+      "igdb_id": 340,
+      "igdb_name": "GameMaker"
+    },
+    "Godot, Bfxr, Inkscape": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Unity, Aseprite, Bosca Ceoil, Bfxr, Audacity": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, Blender, Bfxr, Adobe Photoshop, MagicaVoxel, FL Studio": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, GIMP, LMMS": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Godot, Bosca Ceoil": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Godot, Paint.net": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Blender, Godot, Audacity, LMMS, Krita": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Godot, Clip Studio Paint, Pyxel Edit": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Unity, Blender, Aseprite": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Godot, GIMP, Inkscape, Audacity, LMMS": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Aseprite, Adobe Photoshop, Clip Studio Paint, GDevelop": {
+      "igdb_type": "engine",
+      "igdb_id": 883,
+      "igdb_name": "Aseprite"
+    },
+    "Unity, Aseprite, LMMS": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "KAPLAY (formerly Kaboom)": {
+      "igdb_type": "engine",
+      "igdb_id": 1564,
+      "igdb_name": "BOOM"
+    },
+    "Unreal Engine, Blender, Clip Studio Paint": {
+      "igdb_type": "engine",
+      "igdb_id": 408,
+      "igdb_name": "Un"
+    },
+    "Aseprite, Godot, ChipTone": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Unity, LMMS, Krita": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Construct, Aseprite, Bfxr, Audacity, Paint.net, Pyxel Edit, Piskel": {
+      "igdb_type": "engine",
+      "igdb_id": 883,
+      "igdb_name": "Aseprite"
+    },
+    "Godot, Adobe Photoshop, Audacity": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Unity, Blender, Adobe Photoshop": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unreal Engine, Krita": {
+      "igdb_type": "engine",
+      "igdb_id": 408,
+      "igdb_name": "Un"
+    },
+    "Godot, LMMS, Paint.net": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "GameMaker, Paint.net": {
+      "igdb_type": "engine",
+      "igdb_id": 340,
+      "igdb_name": "GameMaker"
+    },
+    "Unreal Engine, Blender, Audacity, MagicaVoxel, Clip Studio Paint, Piskel": {
+      "igdb_type": "engine",
+      "igdb_id": 142,
+      "igdb_name": "AGI"
+    },
+    "Unity, FL Studio, Paint.net": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, Aseprite, Audacity, LMMS": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, Adobe Photoshop, Audacity, Adobe Illustrator, SketchUp": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "GIMP, GB Studio": {
+      "igdb_type": "engine",
+      "igdb_id": 1069,
+      "igdb_name": "GB Studio"
+    },
+    "Aseprite, Tiled, GB Studio": {
+      "igdb_type": "engine",
+      "igdb_id": 883,
+      "igdb_name": "Aseprite"
+    },
+    "Tiled, Clickteam Fusion, Pyxel Edit": {
+      "igdb_type": "engine",
+      "igdb_id": 156,
+      "igdb_name": "Clickteam Fusion"
+    },
+    "Unity, Blender, 3ds Max, Maya, Krita": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unreal Engine, Blender, Inkscape": {
+      "igdb_type": "engine",
+      "igdb_id": 408,
+      "igdb_name": "Un"
+    },
+    "Blender, GIMP, Adobe Photoshop, Audacity, GDevelop": {
+      "igdb_type": "engine",
+      "igdb_id": 984,
+      "igdb_name": "Adobe Photoshop"
+    },
+    "Inkscape, Phaser": {
+      "igdb_type": "engine",
+      "igdb_id": 382,
+      "igdb_name": "Phaser"
+    },
+    "Blender, Adobe Photoshop, Three.js, Audacity, Clip Studio Paint, FL Studio, Paint.net": {
+      "igdb_type": "engine",
+      "igdb_id": 984,
+      "igdb_name": "Adobe Photoshop"
+    },
+    "Blender, Haxe": null,
+    "RPG Maker, Adobe Photoshop": {
+      "igdb_type": "engine",
+      "igdb_id": 305,
+      "igdb_name": "RPG Maker"
+    },
+    "Unity, GIMP, Adobe Photoshop": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Godot, Audacity, Paint.net": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "OpenFL": {
+      "igdb_type": "engine",
+      "igdb_id": 476,
+      "igdb_name": "OpenFL"
+    },
+    "Godot, Audacity, GraphicsGale": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Godot, Inkscape, Audacity": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Unity, Aseprite, Bfxr": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Krita, FL Studio, Defold": {
+      "igdb_type": "engine",
+      "igdb_id": 700,
+      "igdb_name": "Defold"
+    },
+    "Piskel, GDevelop": {
+      "igdb_type": "engine",
+      "igdb_id": 1344,
+      "igdb_name": "Piskel"
+    },
+    "LMMS, Krita, GDevelop": {
+      "igdb_type": "engine",
+      "igdb_id": 884,
+      "igdb_name": "LMMS"
+    },
+    "Unity, 3ds Max, Maya, FL Studio": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unreal Engine, GIMP, Audacity": {
+      "igdb_type": "engine",
+      "igdb_id": 408,
+      "igdb_name": "Un"
+    },
+    "Aseprite, SDL": {
+      "igdb_type": "engine",
+      "igdb_id": 527,
+      "igdb_name": "SDL"
+    },
+    "Clickteam Fusion": {
+      "igdb_type": "engine",
+      "igdb_id": 156,
+      "igdb_name": "Clickteam Fusion"
+    },
+    "Godot, Krita, FL Studio": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Unity, Aseprite, Audacity, Krita": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Blender, Aseprite, PixiJS": {
+      "igdb_type": "engine",
+      "igdb_id": 389,
+      "igdb_name": "Pixi"
+    },
+    "Ren'Py, Krita": {
+      "igdb_type": "engine",
+      "igdb_id": 876,
+      "igdb_name": "Ren'Py"
+    },
+    "Paint.net, GB Studio": {
+      "igdb_type": "engine",
+      "igdb_id": 1069,
+      "igdb_name": "GB Studio"
+    },
+    "Unity, Aseprite, ChipTone": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, Aseprite, Adobe Photoshop, Clip Studio Paint": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "Unity, Audacity, MagicaVoxel, Pyxel Edit": {
+      "igdb_type": "engine",
+      "igdb_id": 13,
+      "igdb_name": "Unity"
+    },
+    "LÖVE, Aseprite": {
+      "igdb_type": "engine",
+      "igdb_id": 400,
+      "igdb_name": "LÖVE"
+    },
+    "Aseprite, Audacity, Paint.net, GDevelop": {
+      "igdb_type": "engine",
+      "igdb_id": 883,
+      "igdb_name": "Aseprite"
+    },
+    "Aseprite, Clip Studio Paint, GB Studio": {
+      "igdb_type": "engine",
+      "igdb_id": 883,
+      "igdb_name": "Aseprite"
+    },
+    "Ren'Py, Clip Studio Paint, FL Studio": {
+      "igdb_type": "engine",
+      "igdb_id": 876,
+      "igdb_name": "Ren'Py"
+    },
+    "Blender, Aseprite, Godot, Audacity, Adobe Illustrator": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "Aseprite, Godot, Bfxr, LMMS": {
+      "igdb_type": "engine",
+      "igdb_id": 456,
+      "igdb_name": "Godot"
+    },
+    "GameMaker, Audacity": {
+      "igdb_type": "engine",
+      "igdb_id": 340,
+      "igdb_name": "GameMaker"
+    },
+    "Unreal Engine, Audacity, Adobe Illustrator, FL Studio, Wings3D": {
+      "igdb_type": "engine",
+      "igdb_id": 408,
+      "igdb_name": "Un"
+    },
+    "GameMaker, Aseprite, Bfxr": {
+      "igdb_type": "engine",
+      "igdb_id": 340,
+      "igdb_name": "GameMaker"
+    },
+    "Stencyl, OpenFL": {
+      "igdb_type": "engine",
+      "igdb_id": 420,
+      "igdb_name": "Stencyl"
+    }
+  }
+}
