@@ -1,33 +1,32 @@
 /**
  * inspiration_engine.js
  *
- * JamPad's Inspiration Engine — the core query pipeline.
- *
- * Takes a user's jam theme + constraints and returns 3-5 inspiration paths,
- * each grounded in real jam games and (optionally) commercial IGDB references.
+ * JamPad's Inspiration Engine — itch tag search pipeline.
  *
  * Pipeline:
- *   1. Theme interpreter  (LLM)  — maps freeform theme → index terms
- *   2. Retrieve + filter  (code) — inverted index lookup + hard filters
- *   3. Score + diversify  (code) — weighted composite + genre/jam spread
- *   4. IGDB reference     (API)  — commercial games per genre cluster
- *   5. Path narrator      (LLM)  — synthesizes inspiration paths
+ *   1. Tag match     (exact + fuzzy via itch_tag_matcher)
+ *   2. LLM interpret (enrich tags, extract concepts, get IGDB terms)
+ *   3. Parallel fetch (itch games + IGDB reference games)
+ *   4. Jam fallback  (pull from local jam data if theme directly matches a jam)
+ *   5. LLM narrate   (generate 3-5 inspiration paths)
  *
  * Usage:
  *   const engine = require("./inspiration_engine");
  *   await engine.init();
  *   const result = await engine.query({
  *     theme: "gravity",
- *     engine: "Unity",
- *     perspective: "2d",
- *     team: "solo",
- *     scope: 2,
- *     genres: ["puzzle", "platformer"],
+ *     timeHours: 48,
+ *     skillLevel: "intermediate",
+ *     engine: "godot",
+ *     genres: ["platformer", "puzzle"],
+ *     dimensions: "2d",
+ *     teamSize: "solo",
  *   });
  *
  * Environment:
- *   GEMINI_API_KEY  — required for LLM steps (falls back to substring matcher)
- *   DATA_DIR        — optional, default: ../data
+ *   GEMINI_API_KEY       — required for LLM steps
+ *   TWITCH_CLIENTID      — required for IGDB
+ *   TWITCH_CLIENTSECRET  — required for IGDB
  */
 
 "use strict";
@@ -35,606 +34,361 @@
 const fs   = require("fs");
 const path = require("path");
 
-const llm = require("./llm_client");
+const itchSearch = require("./itch_tag_search");
+const matcher    = require("./itch_tag_matcher");
+const fetcher    = require("./itch_game_fetcher");
+const llm        = require("./llm_client");
 
 // ─── Config ───────────────────────────────────────────────────────────────────
 
-const DATA_DIR = process.env.DATA_DIR ||
-                 path.resolve(__dirname, "../data");
+const DATA_DIR = process.env.DATA_DIR || path.resolve(__dirname, "../data");
+const LOG      = process.env.ENGINE_LOG === "1";
 
-const LOG = process.env.ENGINE_LOG === "1" || process.env.LLM_LOG === "1";
+// ─── State ────────────────────────────────────────────────────────────────────
 
-// ─── State (loaded on init) ───────────────────────────────────────────────────
-
-let idx      = null;  // inverted_index.json
-let profiles = null;  // game_profiles.json
-let catalog  = null;  // theme_catalog.json
-let igdb     = null;  // igdb_client (optional)
-
-const norm = s => (s || "").toLowerCase().trim();
+let jamProfiles = null;   // game_profiles.json keyed by id (for jam fallback)
+let jamCatalog  = null;   // theme_catalog.json (for jam theme matching)
+let igdb        = null;   // igdb_client (optional)
 
 // ─── Init ─────────────────────────────────────────────────────────────────────
 
-/**
- * Load data files. Call once at startup.
- * @param {Object} [opts]
- * @param {boolean} [opts.skipIGDB=false] — skip IGDB client init
- */
 async function init(opts = {}) {
-  const t0 = Date.now();
+  // Itch tag search (tag index + matcher + fetcher)
+  await itchSearch.init();
 
-  idx = JSON.parse(
-    fs.readFileSync(path.join(DATA_DIR, "inverted_index.json"), "utf-8")
-  );
-  profiles = JSON.parse(
-    fs.readFileSync(path.join(DATA_DIR, "game_profiles.json"), "utf-8")
-  );
-  catalog = JSON.parse(
-    fs.readFileSync(path.join(DATA_DIR, "theme_catalog.json"), "utf-8")
-  );
+  // Jam data — loaded for fallback only, failures are non-fatal
+  try {
+    jamProfiles = JSON.parse(fs.readFileSync(path.join(DATA_DIR, "game_profiles.json"), "utf-8"));
+    jamCatalog  = JSON.parse(fs.readFileSync(path.join(DATA_DIR, "theme_catalog.json"), "utf-8"));
+    if (LOG) console.error(`[engine] Loaded ${Object.keys(jamProfiles).length} jam profiles`);
+  } catch (err) {
+    jamProfiles = null;
+    jamCatalog  = null;
+    if (LOG) console.error(`[engine] Jam data unavailable: ${err.message}`);
+  }
 
-  // Try loading IGDB client (optional — engine works without it)
+  // IGDB client — optional
   if (!opts.skipIGDB) {
     try {
       igdb = require("./igdb_client");
       await igdb.init();
-      if (LOG) console.error(`[engine] IGDB client initialized`);
+      if (LOG) console.error(`[engine] IGDB ready`);
     } catch (err) {
       igdb = null;
-      if (LOG) console.error(`[engine] IGDB not available: ${err.message}`);
+      if (LOG) console.error(`[engine] IGDB unavailable: ${err.message}`);
     }
-  }
-
-  if (LOG) {
-    const gameCount = Object.keys(profiles).length;
-    const elapsed = Date.now() - t0;
-    console.error(`[engine] Loaded ${gameCount} profiles, ${catalog.jam_themes.length} themes in ${elapsed}ms`);
-    console.error(`[engine] LLM status:`, llm.status().ready ? "ready" : "not configured");
   }
 }
 
-// ─── Step 1: Theme Interpreter ────────────────────────────────────────────────
+// ─── Step 1: Tag matching (exact + fuzzy, no LLM) ────────────────────────────
 
-const INTERPRETER_SYSTEM = `You are JamPad's theme interpreter. Given a game jam theme and optional constraints, return the most relevant search terms from JamPad's database.
-
-Your job is semantic bridging — mapping the user's words to terms that exist in the database. Be creative with thematic connections but ONLY return exact strings from the provided vocabulary lists. Do not invent or modify terms.`;
-
-function buildInterpreterPrompt(theme, limitation) {
-  let prompt = `Theme: "${theme}"`;
-  if (limitation) prompt += `\nLimitation: "${limitation}"`;
-
-  prompt += `
-
-VOCABULARY — return ONLY exact strings from these lists:
-
-Jam themes: ${JSON.stringify(catalog.jam_themes)}
-
-Genres: ${JSON.stringify(catalog.genres)}
-
-Tags (pick the most relevant): ${JSON.stringify(catalog.top_tags)}
-
-Return the terms most semantically related to the theme.`;
-
-  return prompt;
+async function matchBaseTags(theme) {
+  // Run exact + fuzzy only — LLM enrichment happens in a combined interpreter call
+  return matcher.matchTags(theme, { useLLM: false, maxResults: 8 });
 }
 
-/**
- * Call the LLM to interpret the user's theme into index terms.
- * Falls back to substring matching if the LLM is unavailable.
- */
-async function interpretTheme(theme, limitation) {
-  // Try LLM first
-  if (llm.status().ready) {
-    try {
-      const result = await llm.complete({
-        system: INTERPRETER_SYSTEM,
-        user:   buildInterpreterPrompt(theme, limitation),
-        schema: llm.THEME_INTERPRETER_SCHEMA,
-        quality: "fast",
-        temperature: 0.3,
-      });
+// ─── Step 2: LLM theme interpreter ───────────────────────────────────────────
 
-      // Validate: strip any terms that aren't in our index
-      const validThemes = new Set(Object.keys(idx.themes));
-      const validTags   = new Set(Object.keys(idx.tags));
-      const validGenres = new Set(Object.keys(idx.genres));
+const INTERPRETER_SYSTEM = `You are JamPad's theme interpreter for itch.io game jams. Given a game jam theme and a list of already-matched itch.io tag slugs, your job is to:
+1. Suggest any additional itch.io tag/genre slugs from the vocabulary that the fuzzy matcher may have missed
+2. Extract abstract creative concepts the theme evokes (used to guide the narrator)
+3. Identify relevant IGDB genres and themes for finding commercial reference games
 
-      return {
-        themeMatches: (result.theme_matches || []).filter(t => validThemes.has(norm(t))).map(norm),
-        tagMatches:   (result.tag_matches || []).filter(t => validTags.has(norm(t))).map(norm),
-        genreMatches: (result.genre_hints || []).filter(g => validGenres.has(norm(g))).map(norm),
-        concepts:     result.concepts || [],
-        llmUsed:      true,
-      };
-    } catch (err) {
-      if (LOG) console.error(`[engine] LLM interpreter failed, falling back: ${err.message}`);
-    }
+Only suggest tag slugs that appear verbatim in the provided vocabulary. Do not invent slugs.`;
+
+async function interpretTheme(theme, baseTagSlugs, tagVocab) {
+  if (!llm.status().ready) return { additional_tags: [], creative_concepts: [], igdb_genres: [], igdb_themes: [] };
+
+  const vocabStr = Object.entries(tagVocab)
+    .map(([key, { name }]) => `${key} (${name})`)
+    .slice(0, 500)
+    .join(", ");
+
+  const alreadyMatched = baseTagSlugs.length
+    ? `\nAlready matched: ${baseTagSlugs.join(", ")}`
+    : "";
+
+  try {
+    return await llm.complete({
+      system:      INTERPRETER_SYSTEM,
+      user:        `Theme: "${theme}"${alreadyMatched}\n\nAvailable tag vocabulary:\n${vocabStr}`,
+      schema:      llm.THEME_INTERPRETER_SCHEMA,
+      quality:     "fast",
+      temperature: 0.3,
+    });
+  } catch (err) {
+    if (LOG) console.error(`[engine] Interpreter LLM failed: ${err.message}`);
+    return { additional_tags: [], creative_concepts: [], igdb_genres: [], igdb_themes: [] };
   }
-
-  // Fallback: substring matching (same logic as query_test.js)
-  return fallbackMatch(theme);
 }
 
-function fallbackMatch(theme) {
-  const q = norm(theme);
-  const words = q.split(/\s+/).filter(w => w.length > 2);
+// ─── Step 3a: Fetch itch games ────────────────────────────────────────────────
 
-  const themeMatches = [];
-  const tagMatches = [];
-  const genreMatches = [];
+async function fetchItchGames(slugs, dimensions, debug = false) {
+  if (slugs.length === 0) return debug ? { games: [], perTag: {} } : [];
 
-  for (const t of catalog.jam_themes) {
-    const tn = norm(t);
-    if (tn.includes(q) || q.includes(tn)) { themeMatches.push(tn); continue; }
-    const tWords = tn.split(/\s+/);
-    const overlap = words.filter(w => tWords.some(tw => tw.includes(w) || w.includes(tw)));
-    if (overlap.length > 0 && overlap.length >= Math.min(words.length, tWords.length) * 0.5) {
-      themeMatches.push(tn);
-    }
+  // Prepend tag-2d / tag-3d as an extra search slug rather than combining
+  // with every other slug — combined-tag URLs (e.g. /games/tag-gravity/tag-2d)
+  // trigger Cloudflare 403; separate tag slugs do not.
+  const fetchSlugs = [...slugs];
+  if (dimensions === "2d" && !fetchSlugs.includes("tag-2d")) {
+    fetchSlugs.unshift("tag-2d");
+  } else if (dimensions === "3d" && !fetchSlugs.includes("tag-3d")) {
+    fetchSlugs.unshift("tag-3d");
   }
 
-  for (const tag of catalog.top_tags) {
-    const tn = norm(tag);
-    if (tn.includes(q) || q.includes(tn)) { tagMatches.push(tn); continue; }
-    for (const w of words) {
-      if (tn.includes(w) || w.includes(tn)) { tagMatches.push(tn); break; }
-    }
-  }
-
-  for (const genre of catalog.genres) {
-    const gn = norm(genre);
-    if (gn.includes(q) || q.includes(gn)) { genreMatches.push(gn); continue; }
-    for (const w of words) {
-      if (gn === w || gn.includes(w)) { genreMatches.push(gn); break; }
-    }
-  }
-
-  return { themeMatches, tagMatches, genreMatches, concepts: [], llmUsed: false };
+  return fetcher.fetchMultiTagGames(fetchSlugs, {
+    limitPerTag:  20,
+    limitTotal:   50,
+    returnPerTag: debug,
+  });
 }
 
-// ─── Step 2: Retrieve ─────────────────────────────────────────────────────────
+// ─── Step 3b: Fetch IGDB references ──────────────────────────────────────────
 
-function retrieve(matches) {
-  const candidates = new Set();
-
-  for (const t of matches.themeMatches) {
-    for (const id of idx.themes[t] || []) candidates.add(id);
-  }
-  for (const t of matches.tagMatches) {
-    for (const id of idx.tags[t] || []) candidates.add(id);
-  }
-  for (const g of matches.genreMatches) {
-    for (const id of idx.genres[g] || []) candidates.add(id);
-  }
-
-  return candidates;
-}
-
-// ─── Step 3: Filter + Score ───────────────────────────────────────────────────
-
-function filterAndScore(candidateIds, constraints, matches) {
-  let games = [...candidateIds]
-    .map(id => profiles[id])
-    .filter(Boolean);
-
-  const beforeFilter = games.length;
-
-  // Hard filters
-  if (constraints.engine) {
-    const eng = norm(constraints.engine);
-    games = games.filter(p =>
-      !p.engine || norm(p.engine).includes(eng) || eng.includes(norm(p.engine))
-    );
-  }
-  if (constraints.perspective) {
-    const persp = norm(constraints.perspective);
-    games = games.filter(p =>
-      p.perspectives.length === 0 || p.perspectives.includes(persp)
-    );
-  }
-
-  // Graceful degradation: if filters killed everything, relax
-  if (games.length === 0 && beforeFilter > 0) {
-    if (LOG) console.error(`[engine] Filters too strict (${beforeFilter} → 0), relaxing`);
-    // Re-retrieve without engine filter
-    games = [...candidateIds].map(id => profiles[id]).filter(Boolean);
-    if (constraints.perspective) {
-      const persp = norm(constraints.perspective);
-      games = games.filter(p =>
-        p.perspectives.length === 0 || p.perspectives.includes(persp)
-      );
-    }
-  }
-
-  // Score
-  const boostGenres = (constraints.genres || []).map(norm);
-
-  for (const p of games) {
-    let s = 0;
-    const breakdown = {};
-
-    // Theme match (0.35) — game came from a matched jam theme
-    const jamNorm = norm(p.jamTheme);
-    if (matches.themeMatches.includes(jamNorm)) {
-      s += 0.35; breakdown.theme = 0.35;
-    }
-
-    // Tag overlap (0.15) — game's tags match LLM-suggested tags
-    const gameTags = (p.tags || []).map(norm);
-    const tagHits = gameTags.filter(t => matches.tagMatches.includes(t)).length;
-    const tagScore = Math.min(tagHits * 0.05, 0.15);
-    if (tagScore > 0) { s += tagScore; breakdown.tags = tagScore; }
-
-    // Genre match (0.20)
-    const gameGenres = (p.genres || []).map(norm);
-    const genreHit = gameGenres.some(g =>
-      matches.genreMatches.includes(g) || boostGenres.includes(g)
-    );
-    if (genreHit) { s += 0.20; breakdown.genre = 0.20; }
-
-    // Team size fit (0.10)
-    if (constraints.team && p.teamBucket === constraints.team) {
-      s += 0.10; breakdown.team = 0.10;
-    }
-
-    // Scope fit (0.10)
-    if (constraints.scope && p.scope > 0) {
-      const diff = Math.abs(p.scope - constraints.scope);
-      const scopeScore = diff === 0 ? 0.10 : diff === 1 ? 0.05 : 0;
-      if (scopeScore > 0) { s += scopeScore; breakdown.scope = scopeScore; }
-    }
-
-    // Quality signal (0.10)
-    if (p.overallRank && p.overallRank <= 10) {
-      s += 0.10; breakdown.quality = 0.10;
-    } else if (p.overallRank && p.overallRank <= 30) {
-      s += 0.05; breakdown.quality = 0.05;
-    }
-
-    p._score = s;
-    p._breakdown = breakdown;
-  }
-
-  games.sort((a, b) => b._score - a._score);
-  return games;
-}
-
-// ─── Step 4: Diversity Pass ───────────────────────────────────────────────────
-
-function diversify(games, limit = 10) {
-  const result = [];
-  const genreCounts = {};
-  const jamCounts   = {};
-  const MAX_PER_GENRE = 3;
-  const MAX_PER_JAM   = 3;
-
-  for (const g of games) {
-    if (result.length >= limit) break;
-
-    const primaryGenre = norm(g.genres[0] || "unknown");
-    const jam = g.jamSlug;
-
-    if ((genreCounts[primaryGenre] || 0) >= MAX_PER_GENRE) continue;
-    if ((jamCounts[jam] || 0) >= MAX_PER_JAM) continue;
-
-    result.push(g);
-    genreCounts[primaryGenre] = (genreCounts[primaryGenre] || 0) + 1;
-    jamCounts[jam] = (jamCounts[jam] || 0) + 1;
-  }
-
-  return result;
-}
-
-// ─── Step 5: IGDB Reference Games ─────────────────────────────────────────────
-
-/**
- * For each genre cluster in the results, find 1-2 polished commercial games.
- * Returns an array of IGDB game objects, or [] if IGDB is not available.
- */
-async function fetchIGDBReferences(games) {
+async function fetchIGDBRefs(igdbGenres, igdbThemes) {
   if (!igdb) return [];
-
-  // Group result games by primary genre
-  const genreClusters = {};
-  for (const g of games) {
-    const genre = g.genres[0] || "Action";
-    if (!genreClusters[genre]) genreClusters[genre] = [];
-    genreClusters[genre].push(g);
+  try {
+    return await igdb.findGames({
+      genres:    igdbGenres,
+      themes:    igdbThemes,
+      minRating: 70,
+      limit:     5,
+    });
+  } catch (err) {
+    if (LOG) console.error(`[engine] IGDB fetch failed: ${err.message}`);
+    return [];
   }
-
-  const igdbGames = [];
-  const seenIds = new Set();
-
-  // Limit to top 3 genre clusters to stay within rate limits
-  const topClusters = Object.entries(genreClusters)
-    .sort((a, b) => b[1].length - a[1].length)
-    .slice(0, 3);
-
-  for (const [genre, clusterGames] of topClusters) {
-    try {
-      // Collect tags from cluster games for richer queries
-      const clusterTags = [...new Set(
-        clusterGames.flatMap(g => g.tags || []).filter(t =>
-          !["2D", "3D", "Singleplayer", "Short", "Pixel Art"].includes(t)
-        )
-      )].slice(0, 3);
-
-      const results = await igdb.findGames({
-        genres: [genre],
-        themes: clusterTags,
-        minRating: 70,
-        limit: 2,
-      });
-
-      for (const r of results) {
-        if (!seenIds.has(r.id)) {
-          seenIds.add(r.id);
-          igdbGames.push({
-            source: "igdb",
-            id:     r.id,
-            title:  r.name,
-            genres: (r.genres || []).map(g => g.name),
-            themes: (r.themes || []).map(t => t.name),
-            summary: (r.summary || "").slice(0, 200),
-            rating: r.rating ? Math.round(r.rating) : null,
-            coverUrl:    r._images?.cover || null,
-            screenshots: r._images?.screenshots || [],
-            url: r.url || null,
-            forGenreCluster: genre,
-          });
-        }
-      }
-    } catch (err) {
-      if (LOG) console.error(`[engine] IGDB query failed for ${genre}: ${err.message}`);
-    }
-  }
-
-  return igdbGames;
 }
 
-// ─── Step 6: Path Narrator ────────────────────────────────────────────────────
+// ─── Step 4: Jam data fallback ────────────────────────────────────────────────
 
-const NARRATOR_SYSTEM = `You are JamPad's inspiration narrator. Given a game jam theme, user constraints, and a set of real games (both indie jam games and commercial reference games), create 3-5 distinct "inspiration paths" — each representing a different creative direction the user could take.
+function normalize(s) {
+  return (s || "").toLowerCase().replace(/[^a-z0-9 ]/g, " ").replace(/\s+/g, " ").trim();
+}
 
-Rules:
-- Every path MUST reference at least one real game by its ID from the provided list
-- Do NOT invent games or IDs — only use IDs from the "Candidate games" list
-- Keep descriptions actionable for someone with limited time
-- Each path should feel meaningfully different from the others
-- scope_hint should say what to build in the first 4 hours, then what to add if time permits`;
+function jamFallback(theme) {
+  if (!jamProfiles || !jamCatalog) return [];
 
-function buildNarratorPrompt(theme, constraints, itchGames, igdbGames, concepts) {
-  const constraintLines = [];
-  if (constraints.engine)      constraintLines.push(`Engine: ${constraints.engine}`);
-  if (constraints.perspective) constraintLines.push(`Perspective: ${constraints.perspective}`);
-  if (constraints.team)        constraintLines.push(`Team: ${constraints.team}`);
-  if (constraints.scope)       constraintLines.push(`Time: scope tier ${constraints.scope} (1=seconds, 2=mins, 3=half-hour, 4=hour, 5=hours)`);
-  if (concepts.length)         constraintLines.push(`Abstract concepts: ${concepts.join(", ")}`);
+  const q = normalize(theme);
 
-  const gameEntries = itchGames.map(g => {
-    const desc = (g.description || "").replace(/\n/g, " ").slice(0, 150);
-    return `  ID:${g.id} "${g.title}" [${g.genres.join("/")}] tags:[${(g.tags||[]).slice(0,5).join(",")}] jam:"${g.jamTheme}" rank:#${g.overallRank} desc:"${desc}"`;
+  // Only exact or very close matches qualify
+  const matchedTheme = jamCatalog.jam_themes.find(t => {
+    const tn = normalize(t);
+    return tn === q || tn.includes(q) || q.includes(tn);
   });
 
-  let prompt = `Theme: "${theme}"`;
-  if (constraints.limitation) prompt += `\nLimitation: "${constraints.limitation}"`;
-  if (constraintLines.length) prompt += `\n${constraintLines.join("\n")}`;
+  if (!matchedTheme) return [];
 
-  prompt += `\n\nCandidate games:\n${gameEntries.join("\n")}`;
+  if (LOG) console.error(`[engine] Jam fallback matched: "${matchedTheme}"`);
 
-  if (igdbGames.length > 0) {
-    const igdbEntries = igdbGames.map(g =>
-      `  "${g.title}" [${g.genres.join("/")}] — ${(g.summary || "").slice(0, 100)}`
-    );
-    prompt += `\n\nCommercial reference games (for context, not for game_ids):\n${igdbEntries.join("\n")}`;
-  }
-
-  prompt += `\n\nCreate 3-5 inspiration paths. Each path's game_ids must ONLY contain IDs from the candidate games list above.`;
-
-  return prompt;
+  return Object.values(jamProfiles)
+    .filter(p => normalize(p.jamTheme) === normalize(matchedTheme))
+    .sort((a, b) => (a.overallRank || 999) - (b.overallRank || 999))
+    .slice(0, 8)
+    .map(p => ({
+      title:          p.title,
+      url:            p.gameUrl,
+      cover:          p.coverUrl || null,
+      description:    p.description || null,
+      author:         null,
+      genre:          (p.genres || [])[0] || null,
+      browserPlayable: false,
+      _tags:          [matchedTheme],
+      _source:        "jam",
+    }));
 }
 
-/**
- * Call the LLM to generate inspiration paths from scored games.
- * Falls back to a simple auto-grouping if the LLM is unavailable.
- */
-async function narratePaths(theme, constraints, itchGames, igdbGames, concepts) {
-  // Try LLM narrator
-  if (llm.status().ready && itchGames.length > 0) {
-    try {
-      const result = await llm.complete({
-        system: NARRATOR_SYSTEM,
-        user:   buildNarratorPrompt(theme, constraints, itchGames, igdbGames, concepts),
-        schema: llm.NARRATOR_SCHEMA,
-        quality: "smart",
-        temperature: 0.5,
-      });
+// ─── Step 5: LLM narrator ────────────────────────────────────────────────────
 
-      // Validate: ensure game_ids reference actual candidates
-      const validIds = new Set(itchGames.map(g => g.id));
-      for (const p of result.paths || []) {
-        p.game_ids = (p.game_ids || []).filter(id => validIds.has(id));
-      }
-      // Drop paths with no valid game references
-      result.paths = (result.paths || []).filter(p => p.game_ids.length > 0);
+const NARRATOR_SYSTEM = `You are JamPad's inspiration narrator for game jam participants. Given a theme, user constraints, and a pool of real games, create 3-5 distinct inspiration paths — each a meaningfully different creative direction a developer could take.
 
-      return { paths: result.paths, llmUsed: true };
-    } catch (err) {
-      if (LOG) console.error(`[engine] LLM narrator failed, falling back: ${err.message}`);
+Rules:
+- Only reference games from the provided itch.io and IGDB lists — do not invent games
+- Each path must feel genuinely different from the others
+- Scope advice must be realistic for the given time and skill level
+- Keep pitches concrete and actionable, not vague or generic`;
+
+function buildNarratorPrompt(theme, opts, itchGames, igdbGames, concepts) {
+  const lines = [`Theme: "${theme}"`];
+  if (opts.timeHours)   lines.push(`Time available: ${opts.timeHours} hours`);
+  if (opts.skillLevel)  lines.push(`Skill level: ${opts.skillLevel}`);
+  if (opts.engine)      lines.push(`Engine: ${opts.engine}`);
+  if (opts.teamSize)    lines.push(`Team: ${opts.teamSize}`);
+  if (opts.dimensions && opts.dimensions !== "either") lines.push(`Dimensions: ${opts.dimensions}`);
+  if (opts.genres?.length) lines.push(`Preferred genres: ${opts.genres.join(", ")}`);
+  if (concepts.length)  lines.push(`Creative concepts: ${concepts.join(", ")}`);
+
+  lines.push("\nitch.io games (use these for example_games):");
+  for (const g of itchGames.slice(0, 40)) {
+    const tags = (g._tags || []).join(", ");
+    lines.push(`  - "${g.title}" [${g.genre || "?"}] tags:${tags} ${g.url}`);
+    if (g.description) lines.push(`    "${g.description.slice(0, 120)}"`);
+  }
+
+  if (igdbGames.length > 0) {
+    lines.push("\nIGDB commercial references (use these for reference_games):");
+    for (const g of igdbGames) {
+      const genres = (g.genres || []).map(x => x.name || x).join(", ");
+      lines.push(`  - "${g.name || g.title}" [${genres}] rating:${Math.round(g.rating || 0)}`);
+      if (g.summary) lines.push(`    "${(g.summary || "").slice(0, 120)}"`);
     }
   }
 
-  // Fallback: auto-group by primary genre
-  return fallbackNarrate(itchGames);
+  lines.push("\nGenerate 3-5 inspiration paths.");
+  return lines.join("\n");
+}
+
+async function narratePaths(theme, opts, itchGames, igdbGames, concepts) {
+  if (!llm.status().ready || itchGames.length === 0) {
+    return fallbackNarrate(itchGames);
+  }
+
+  try {
+    const result = await llm.complete({
+      system:      NARRATOR_SYSTEM,
+      user:        buildNarratorPrompt(theme, opts, itchGames, igdbGames, concepts),
+      schema:      llm.NARRATOR_SCHEMA,
+      quality:     "smart",
+      temperature: 0.6,
+    });
+    return result.paths || [];
+  } catch (err) {
+    if (LOG) console.error(`[engine] Narrator LLM failed: ${err.message}`);
+    return fallbackNarrate(itchGames);
+  }
 }
 
 function fallbackNarrate(games) {
+  // Group by genre, return one path per genre cluster
   const groups = {};
   for (const g of games) {
-    const genre = g.genres[0] || "Other";
+    const genre = g.genre || "Other";
     if (!groups[genre]) groups[genre] = [];
     groups[genre].push(g);
   }
 
-  const paths = Object.entries(groups).slice(0, 5).map(([genre, groupGames]) => ({
-    name:        `${genre} direction`,
-    pitch:       `Explore a ${genre.toLowerCase()} approach inspired by ${groupGames.length} jam games.`,
-    why_it_fits: `These games were made for jams with similar themes.`,
-    game_ids:    groupGames.map(g => g.id),
-    scope_hint:  "Start with the core mechanic, add polish later.",
-    mood:        "varied",
+  return Object.entries(groups).slice(0, 4).map(([genre, gs]) => ({
+    name:          `${genre} approach`,
+    pitch:         `Build a ${genre.toLowerCase()} game inspired by ${gs.length} jam entries.`,
+    core_mechanic: "Implement the core loop first, polish later.",
+    why_it_fits:   "Games with this genre tag matched the theme.",
+    example_games: gs.slice(0, 2).map(g => ({ title: g.title, url: g.url, relevance: "Strong theme match" })),
+    reference_games: [],
+    scope_plan:    { first_hours: "Core mechanic", if_time_permits: "Polish + juice", cut_if_behind: "Any secondary mechanics" },
+    art_direction: "Keep it simple and readable.",
+    tone:          "Match the theme's energy.",
+    title_ideas:   ["Jam Entry", "Theme Game"],
+    jam_pitch:     `A ${genre.toLowerCase()} game built for the jam.`,
   }));
-
-  return { paths, llmUsed: false };
 }
 
-// ─── Main Query ───────────────────────────────────────────────────────────────
+// ─── Main query ───────────────────────────────────────────────────────────────
 
 /**
- * Run the full Inspiration Engine pipeline.
+ * Run the full pipeline.
  *
  * @param {Object} opts
- * @param {string} opts.theme           — jam theme (required)
- * @param {string} [opts.limitation]    — optional jam limitation/constraint
- * @param {string} [opts.engine]        — hard filter: game engine
- * @param {string} [opts.perspective]   — hard filter: "2d", "3d", etc.
- * @param {string} [opts.team]          — soft filter: "solo", "small_team", etc.
- * @param {number} [opts.scope]         — soft filter: 1-5
- * @param {string[]} [opts.genres]      — boost these genres
- * @param {number} [opts.limit]         — max games to pass to narrator (default 10)
- * @param {boolean} [opts.skipNarrator] — skip step 5 (useful for testing)
- * @param {boolean} [opts.skipIGDB]     — skip step 4
+ * @param {string}   opts.theme       — jam theme (required)
+ * @param {number}   [opts.timeHours] — available hours
+ * @param {string}   [opts.skillLevel]
+ * @param {string}   [opts.engine]
+ * @param {string[]} [opts.genres]
+ * @param {string}   [opts.dimensions] — "2d" | "3d" | "either"
+ * @param {string}   [opts.teamSize]
  *
- * @returns {Object} { paths, games, igdbGames, meta }
+ * @returns {{ paths, meta }}
  */
 async function query(opts) {
-  if (!idx) throw new Error("Engine not initialized. Call init() first.");
-  if (!opts.theme) throw new Error("opts.theme is required");
-
+  if (!opts?.theme) throw new Error("opts.theme is required");
   const t0 = Date.now();
-  const limit = opts.limit || 10;
 
-  // ── Step 1: Theme interpreter ──
-  const tInterp0 = Date.now();
-  const matches = await interpretTheme(opts.theme, opts.limitation);
+  // 1. Base tag matching (exact + fuzzy, no LLM)
+  const baseTags  = await matchBaseTags(opts.theme);
+  const baseSlugs = baseTags.map(t => t.slug);
+  if (LOG) console.error(`[engine] Base tags: ${baseSlugs.join(", ") || "(none)"}`);
 
-  // If user specified genres, merge them in
-  if (opts.genres) {
-    for (const g of opts.genres.map(norm)) {
-      if (!matches.genreMatches.includes(g)) matches.genreMatches.push(g);
-    }
-  }
-  const tInterp = Date.now() - tInterp0;
+  // 2. LLM theme interpreter (enriches tags + extracts IGDB terms + concepts)
+  const tagVocab   = matcher.getIndex() || {};
+  const interpreted = await interpretTheme(opts.theme, baseSlugs, tagVocab);
 
-  if (LOG) {
-    console.error(`[engine] Interpreted (${tInterp}ms, llm=${matches.llmUsed}):`);
-    console.error(`  themes: ${matches.themeMatches.join(", ") || "(none)"}`);
-    console.error(`  tags:   ${matches.tagMatches.join(", ") || "(none)"}`);
-    console.error(`  genres: ${matches.genreMatches.join(", ") || "(none)"}`);
-    console.error(`  concepts: ${matches.concepts.join(", ") || "(none)"}`);
-  }
+  // Validate LLM-suggested tags against the index
+  const llmTags = (interpreted.additional_tags || [])
+    .filter(slug => tagVocab[slug])
+    .map(slug => ({ slug, score: 0.7, strategy: "llm" }));
 
-  // ── Step 2: Retrieve ──
-  const candidateIds = retrieve(matches);
-  const candidateCount = candidateIds.size;
-
-  // ── Step 3: Filter + Score ──
-  const scored = filterAndScore(candidateIds, opts, matches);
-  const filteredCount = scored.length;
-
-  // ── Step 3b: Diversity pass ──
-  const diverse = diversify(scored, limit);
-
-  if (LOG) {
-    console.error(`[engine] Candidates: ${candidateCount} → filtered: ${filteredCount} → diverse: ${diverse.length}`);
+  // Merge: base tags first, append LLM additions not already present
+  const seenSlugs = new Set(baseSlugs);
+  const mergedTags = [...baseTags];
+  for (const t of llmTags) {
+    if (!seenSlugs.has(t.slug)) { mergedTags.push(t); seenSlugs.add(t.slug); }
   }
 
-  // ── Step 4: IGDB references ──
-  let igdbGames = [];
-  if (!opts.skipIGDB && igdb) {
-    const tIgdb0 = Date.now();
-    igdbGames = await fetchIGDBReferences(diverse);
-    if (LOG) console.error(`[engine] IGDB: ${igdbGames.length} games (${Date.now() - tIgdb0}ms)`);
+  const finalSlugs = mergedTags.slice(0, 8).map(t => t.slug);
+  if (LOG) console.error(`[engine] Final tags: ${finalSlugs.join(", ")}`);
+  if (LOG) console.error(`[engine] Concepts: ${(interpreted.creative_concepts || []).join(", ")}`);
+
+  const debug = !!opts.debug;
+
+  // 3. Parallel: fetch itch games + IGDB refs + jam fallback
+  const [itchResult, igdbRaw, jamGames] = await Promise.all([
+    fetchItchGames(finalSlugs, opts.dimensions, debug),
+    fetchIGDBRefs(interpreted.igdb_genres || [], interpreted.igdb_themes || []),
+    Promise.resolve(jamFallback(opts.theme)),
+  ]);
+
+  const itchGames = debug ? itchResult.games : itchResult;
+  const itchPerTag = debug ? itchResult.perTag : null;
+
+  if (LOG) console.error(`[engine] Itch: ${itchGames.length}, IGDB: ${igdbRaw.length}, Jam fallback: ${jamGames.length}`);
+
+  // Merge jam fallback games (deduplicate by URL)
+  const seenUrls = new Set(itchGames.map(g => g.url));
+  const allItchGames = [...itchGames];
+  for (const g of jamGames) {
+    if (g.url && !seenUrls.has(g.url)) { allItchGames.push(g); seenUrls.add(g.url); }
   }
 
-  // ── Step 5: Narrator ──
-  let narratorResult = { paths: [], llmUsed: false };
-  if (!opts.skipNarrator && diverse.length > 0) {
-    const tNarr0 = Date.now();
-    narratorResult = await narratePaths(
-      opts.theme, opts, diverse, igdbGames, matches.concepts
-    );
-    if (LOG) console.error(`[engine] Narrator: ${narratorResult.paths.length} paths (${Date.now() - tNarr0}ms)`);
-  }
+  // 4. Narrate paths
+  const paths = await narratePaths(
+    opts.theme, opts, allItchGames, igdbRaw, interpreted.creative_concepts || []
+  );
 
-  // ── Build response ──
+  const meta = {
+    theme:          opts.theme,
+    tags:           mergedTags.map(t => ({ slug: t.slug, score: t.score, strategy: t.strategy })),
+    concepts:       interpreted.creative_concepts || [],
+    igdbGenres:     interpreted.igdb_genres || [],
+    igdbThemes:     interpreted.igdb_themes || [],
+    itchCount:      itchGames.length,
+    jamCount:       jamGames.length,
+    igdbCount:      igdbRaw.length,
+    igdbGames:      igdbRaw.map(g => ({ title: g.name || g.title, rating: Math.round(g.rating || 0) })),
+    pathCount:      paths.length,
+    llmAvailable:   llm.status().ready,
+    queryTimeMs:    Date.now() - t0,
+  };
 
-  // Attach game data to each path
-  const profileMap = {};
-  for (const g of diverse) {
-    profileMap[g.id] = {
-      source:        "itch",
-      id:            g.id,
-      title:         g.title,
-      genres:        g.genres,
-      tags:          g.tags,
-      engine:        g.engine,
-      perspectives:  g.perspectives,
-      teamSize:      g.teamSize,
-      description:   g.description,
-      coverUrl:      g.coverUrl,
-      gameUrl:       g.gameUrl,
-      screenshots:   g.screenshots,
-      jamTheme:      g.jamTheme,
-      jamName:       g.jamName,
-      overallRank:   g.overallRank,
-      topCategories: g.topCategories,
-      ratingCount:   g.ratingCount,
-      _score:        g._score,
-      _breakdown:    g._breakdown,
+  if (debug) {
+    meta.debug = {
+      itchPerTag,
+      igdbQuery: {
+        genres: interpreted.igdb_genres || [],
+        themes: interpreted.igdb_themes || [],
+        minRating: 70,
+      },
+      igdbFull: igdbRaw.map(g => ({
+        title:    g.name || g.title,
+        rating:   Math.round(g.rating || 0),
+        genres:   (g.genres  || []).map(x => x.name || x),
+        themes:   (g.themes  || []).map(x => x.name || x),
+        summary:  g.summary ? g.summary.slice(0, 200) : null,
+        url:      g.url || null,
+      })),
     };
   }
 
-  const paths = narratorResult.paths.map(p => ({
-    ...p,
-    games: [
-      ...(p.game_ids || []).map(id => profileMap[id]).filter(Boolean),
-      // Attach relevant IGDB games if they match this path's genre cluster
-      ...igdbGames.filter(ig => {
-        const pathGenres = (p.game_ids || [])
-          .map(id => profileMap[id])
-          .filter(Boolean)
-          .flatMap(g => g.genres.map(norm));
-        return pathGenres.some(pg =>
-          ig.genres.some(ig2 => norm(ig2) === pg)
-        );
-      }),
-    ],
-  }));
-
-  const totalMs = Date.now() - t0;
-
-  return {
-    paths,
-    meta: {
-      theme:          opts.theme,
-      limitation:     opts.limitation || null,
-      candidateCount,
-      filteredCount,
-      resultCount:    diverse.length,
-      pathCount:      paths.length,
-      interpreterLLM: matches.llmUsed,
-      narratorLLM:    narratorResult.llmUsed,
-      igdbCount:      igdbGames.length,
-      queryTimeMs:    totalMs,
-      interpretation: {
-        themes:   matches.themeMatches,
-        tags:     matches.tagMatches,
-        genres:   matches.genreMatches,
-        concepts: matches.concepts,
-      },
-    },
-  };
+  return { paths, meta };
 }
 
 // ─── Exports ──────────────────────────────────────────────────────────────────

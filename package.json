@@ -3,9 +3,8 @@
   "version": "1.0.0",
   "description": "Data collection and processing scripts for Jampad",
   "scripts": {
-    "collect": "node scripts/collect_jam_data.js",
-    "dry-run": "node scripts/collect_jam_data.js --dry-run",
-    "test-jam": "node scripts/collect_jam_data.js --dry-run --jam 1"
+    "start": "node server.js",
+    "dev": "node --watch server.js"
   },
   "dependencies": {
     "dotenv": "^17.3.1",

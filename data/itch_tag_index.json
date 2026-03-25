@@ -1,0 +1,2090 @@
+{
+  "tag-no-ai": {
+    "name": "No AI",
+    "category": "tags"
+  },
+  "tag-2d": {
+    "name": "2D",
+    "category": "styles"
+  },
+  "tag-pixel-art": {
+    "name": "Pixel Art",
+    "category": "styles"
+  },
+  "tag-horror": {
+    "name": "Horror",
+    "category": "tags"
+  },
+  "genre-visual-novel": {
+    "name": "Visual Novel",
+    "category": "genres"
+  },
+  "tag-singleplayer": {
+    "name": "Singleplayer",
+    "category": "tags"
+  },
+  "genre-adventure": {
+    "name": "Adventure",
+    "category": "genres"
+  },
+  "tag-3d": {
+    "name": "3D",
+    "category": "styles"
+  },
+  "tag-retro": {
+    "name": "Retro",
+    "category": "tags"
+  },
+  "genre-rpg": {
+    "name": "Role Playing",
+    "category": "genres"
+  },
+  "tag-fantasy": {
+    "name": "Fantasy",
+    "category": "tags"
+  },
+  "tag-short": {
+    "name": "Short",
+    "category": "tags"
+  },
+  "tag-atmospheric": {
+    "name": "Atmospheric",
+    "category": "tags"
+  },
+  "tag-romance": {
+    "name": "Romance",
+    "category": "tags"
+  },
+  "genre-simulation": {
+    "name": "Simulation",
+    "category": "genres"
+  },
+  "genre-action": {
+    "name": "Action",
+    "category": "genres"
+  },
+  "tag-indie": {
+    "name": "Indie",
+    "category": "tags"
+  },
+  "genre-platformer": {
+    "name": "Platformer",
+    "category": "genres"
+  },
+  "genre-puzzle": {
+    "name": "Puzzle",
+    "category": "genres"
+  },
+  "tag-cute": {
+    "name": "Cute",
+    "category": "tags"
+  },
+  "tag-first-person": {
+    "name": "First-Person",
+    "category": "styles"
+  },
+  "tag-psychological-horror": {
+    "name": "Psychological Horror",
+    "category": "tags"
+  },
+  "tag-interactive-fiction": {
+    "name": "Interactive Fiction",
+    "category": "genres"
+  },
+  "tag-top-down": {
+    "name": "Top-Down",
+    "category": "styles"
+  },
+  "tag-story-rich": {
+    "name": "Story Rich",
+    "category": "tags"
+  },
+  "tag-unity": {
+    "name": "Unity",
+    "category": "tools"
+  },
+  "tag-science-fiction": {
+    "name": "Sci-fi",
+    "category": "tags"
+  },
+  "tag-dating-sim": {
+    "name": "Dating Sim",
+    "category": "tags"
+  },
+  "tag-survival": {
+    "name": "Survival",
+    "category": "genres"
+  },
+  "tag-casual": {
+    "name": "Casual",
+    "category": "tags"
+  },
+  "tag-godot": {
+    "name": "Godot",
+    "category": "tools"
+  },
+  "tag-creepy": {
+    "name": "Creepy",
+    "category": "tags"
+  },
+  "genre-strategy": {
+    "name": "Strategy",
+    "category": "genres"
+  },
+  "tag-rpgmaker": {
+    "name": "RPG Maker",
+    "category": "tools"
+  },
+  "tag-low-poly": {
+    "name": "Low-poly",
+    "category": "styles"
+  },
+  "tag-roguelike": {
+    "name": "Roguelike",
+    "category": "tags"
+  },
+  "genre-shooter": {
+    "name": "Shooter",
+    "category": "genres"
+  },
+  "tag-anime": {
+    "name": "Anime",
+    "category": "tags"
+  },
+  "tag-arcade": {
+    "name": "Arcade",
+    "category": "tags"
+  },
+  "tag-narrative": {
+    "name": "Narrative",
+    "category": "tags"
+  },
+  "tag-psx": {
+    "name": "PSX (PlayStation)",
+    "category": "platforms"
+  },
+  "tag-multiple-endings": {
+    "name": "Multiple Endings",
+    "category": "tags"
+  },
+  "tag-dark": {
+    "name": "Dark",
+    "category": "tags"
+  },
+  "tag-female-protagonist": {
+    "name": "Female Protagonist",
+    "category": "tags"
+  },
+  "tag-exploration": {
+    "name": "Exploration",
+    "category": "tags"
+  },
+  "tag-lgbt": {
+    "name": "LGBT",
+    "category": "tags"
+  },
+  "tag-comedy": {
+    "name": "Comedy",
+    "category": "tags"
+  },
+  "tag-ai-generated": {
+    "name": "AI Generated",
+    "category": "tags"
+  },
+  "tag-cozy": {
+    "name": "Cozy",
+    "category": "tags"
+  },
+  "tag-mystery": {
+    "name": "Mystery",
+    "category": "tags"
+  },
+  "tag-16-bit": {
+    "name": "16-bit",
+    "category": "styles"
+  },
+  "tag-music": {
+    "name": "Music",
+    "category": "tags"
+  },
+  "tag-otome": {
+    "name": "Otome",
+    "category": "tags"
+  },
+  "tag-8-bit": {
+    "name": "8-Bit",
+    "category": "styles"
+  },
+  "tag-point-and-click": {
+    "name": "Point & Click",
+    "category": "tags"
+  },
+  "tag-renpy": {
+    "name": "Ren'Py",
+    "category": "tools"
+  },
+  "tag-space": {
+    "name": "Space",
+    "category": "tags"
+  },
+  "tag-survival-horror": {
+    "name": "Survival Horror",
+    "category": "tags"
+  },
+  "tag-multiplayer": {
+    "name": "Multiplayer",
+    "category": "tags"
+  },
+  "tag-relaxing": {
+    "name": "Relaxing",
+    "category": "tags"
+  },
+  "tag-dungeon-crawler": {
+    "name": "Dungeon Crawler",
+    "category": "tags"
+  },
+  "tag-funny": {
+    "name": "Funny",
+    "category": "tags"
+  },
+  "tag-monsters": {
+    "name": "Monsters",
+    "category": "tags"
+  },
+  "tag-card-game": {
+    "name": "Card Game",
+    "category": "genres"
+  },
+  "tag-medieval": {
+    "name": "Medieval",
+    "category": "tags"
+  },
+  "tag-fangame": {
+    "name": "Fangame",
+    "category": "tags"
+  },
+  "tag-roguelite": {
+    "name": "Roguelite",
+    "category": "tags"
+  },
+  "tag-dark-fantasy": {
+    "name": "Dark Fantasy",
+    "category": "tags"
+  },
+  "tag-minimalist": {
+    "name": "Minimalist",
+    "category": "tags"
+  },
+  "tag-unreal-engine": {
+    "name": "Unreal Engine",
+    "category": "tools"
+  },
+  "tag-amare": {
+    "name": "Amare",
+    "category": "tags"
+  },
+  "tag-experimental": {
+    "name": "Experimental",
+    "category": "tags"
+  },
+  "tag-text-based": {
+    "name": "Text based",
+    "category": "tags"
+  },
+  "tag-side-scroller": {
+    "name": "Side Scroller",
+    "category": "tags"
+  },
+  "tag-metroidvania": {
+    "name": "Metroidvania",
+    "category": "tags"
+  },
+  "tag-furry": {
+    "name": "Furry",
+    "category": "tags"
+  },
+  "tag-fighting": {
+    "name": "Fighting",
+    "category": "genres"
+  },
+  "tag-idle": {
+    "name": "Idle",
+    "category": "tags"
+  },
+  "tag-cyberpunk": {
+    "name": "Cyberpunk",
+    "category": "tags"
+  },
+  "tag-gameboy": {
+    "name": "Game Boy",
+    "category": "platforms"
+  },
+  "tag-yandere": {
+    "name": "Yandere",
+    "category": "tags"
+  },
+  "tag-incremental": {
+    "name": "Incremental",
+    "category": "tags"
+  },
+  "tag-magic": {
+    "name": "Magic",
+    "category": "tags"
+  },
+  "tag-turn-based": {
+    "name": "Turn-based",
+    "category": "tags"
+  },
+  "tag-walking-simulator": {
+    "name": "Walking simulator",
+    "category": "tags"
+  },
+  "tag-gamemaker": {
+    "name": "GameMaker",
+    "category": "tools"
+  },
+  "tag-action-adventure": {
+    "name": "Action-Adventure",
+    "category": "tags"
+  },
+  "tag-hand-drawn": {
+    "name": "Hand-drawn",
+    "category": "styles"
+  },
+  "tag-procedural": {
+    "name": "Procedural Generation",
+    "category": "tags"
+  },
+  "tag-jrpg": {
+    "name": "JRPG",
+    "category": "tags"
+  },
+  "tag-fast-paced": {
+    "name": "Fast-Paced",
+    "category": "tags"
+  },
+  "tag-surreal": {
+    "name": "Surreal",
+    "category": "tags"
+  },
+  "tag-gay": {
+    "name": "Gay",
+    "category": "tags"
+  },
+  "tag-animals": {
+    "name": "Animals",
+    "category": "tags"
+  },
+  "tag-zine": {
+    "name": "zine",
+    "category": "tags"
+  },
+  "tag-difficult": {
+    "name": "Difficult",
+    "category": "tags"
+  },
+  "tag-physics": {
+    "name": "Physics",
+    "category": "tags"
+  },
+  "tag-educational": {
+    "name": "Educational",
+    "category": "genres"
+  },
+  "tag-queer": {
+    "name": "Queer",
+    "category": "tags"
+  },
+  "tag-fps": {
+    "name": "FPS",
+    "category": "tags"
+  },
+  "tag-lgbtqia": {
+    "name": "LGBTQIA",
+    "category": "tags"
+  },
+  "tag-character-customization": {
+    "name": "Character Customization",
+    "category": "tags"
+  },
+  "tag-spooky": {
+    "name": "Spooky",
+    "category": "tags"
+  },
+  "tag-rhythm": {
+    "name": "Rhythm",
+    "category": "genres"
+  },
+  "tag-racing": {
+    "name": "Racing",
+    "category": "genres"
+  },
+  "tag-meaningful-choices": {
+    "name": "Meaningful Choices",
+    "category": "tags"
+  },
+  "tag-weird": {
+    "name": "weird",
+    "category": "tags"
+  },
+  "tag-artgame": {
+    "name": "artgame",
+    "category": "tags"
+  },
+  "tag-sandbox": {
+    "name": "Sandbox",
+    "category": "tags"
+  },
+  "tag-shoot-em-up": {
+    "name": "Shoot 'Em Up",
+    "category": "tags"
+  },
+  "tag-management": {
+    "name": "Management",
+    "category": "tags"
+  },
+  "tag-farming": {
+    "name": "Farming",
+    "category": "tags"
+  },
+  "local-multiplayer": {
+    "name": "Local multiplayer",
+    "category": "tags"
+  },
+  "tag-colorful": {
+    "name": "Colorful",
+    "category": "styles"
+  },
+  "tag-clicker": {
+    "name": "Clicker",
+    "category": "tags"
+  },
+  "tag-cats": {
+    "name": "Cats",
+    "category": "tags"
+  },
+  "tag-action-rpg": {
+    "name": "Action RPG",
+    "category": "tags"
+  },
+  "tag-isometric": {
+    "name": "Isometric",
+    "category": "styles"
+  },
+  "tag-bullet-hell": {
+    "name": "Bullet Hell",
+    "category": "tags"
+  },
+  "tag-slice-of-life": {
+    "name": "Slice Of Life",
+    "category": "tags"
+  },
+  "tag-pico-8": {
+    "name": "PICO-8",
+    "category": "tools"
+  },
+  "tag-tower-defense": {
+    "name": "Tower Defense",
+    "category": "tags"
+  },
+  "tag-1-bit": {
+    "name": "1-bit",
+    "category": "styles"
+  },
+  "tag-nature": {
+    "name": "nature",
+    "category": "tags"
+  },
+  "tag-yuri": {
+    "name": "Yuri",
+    "category": "tags"
+  },
+  "tag-dice": {
+    "name": "Dice",
+    "category": "tags"
+  },
+  "tag-twine": {
+    "name": "Twine",
+    "category": "tools"
+  },
+  "tag-top-down-shooter": {
+    "name": "Top down shooter",
+    "category": "tags"
+  },
+  "tag-post-apocalyptic": {
+    "name": "Post-apocalyptic",
+    "category": "tags"
+  },
+  "tag-puzzle-platformer": {
+    "name": "Puzzle-Platformer",
+    "category": "tags"
+  },
+  "tag-co-op": {
+    "name": "Co-op",
+    "category": "tags"
+  },
+  "tag-transgender": {
+    "name": "Transgender",
+    "category": "tags"
+  },
+  "tag-turn-based-combat": {
+    "name": "Turn-Based Combat",
+    "category": "tags"
+  },
+  "tag-boss-battle": {
+    "name": "Boss battle",
+    "category": "tags"
+  },
+  "tag-mouse-only": {
+    "name": "Mouse only",
+    "category": "tags"
+  },
+  "tag-zombies": {
+    "name": "Zombies",
+    "category": "tags"
+  },
+  "tag-3d-platformer": {
+    "name": "3D Platformer",
+    "category": "tags"
+  },
+  "tag-board-game": {
+    "name": "Board Game",
+    "category": "tags"
+  },
+  "tag-rpg-maker-mz": {
+    "name": "RPG Maker MZ",
+    "category": "tools"
+  },
+  "tag-open-world": {
+    "name": "Open World",
+    "category": "tags"
+  },
+  "tag-detective": {
+    "name": "Detective",
+    "category": "tags"
+  },
+  "tag-historical": {
+    "name": "Historical",
+    "category": "tags"
+  },
+  "genre-sports": {
+    "name": "Sports",
+    "category": "genres"
+  },
+  "tag-lesbian": {
+    "name": "Lesbian",
+    "category": "tags"
+  },
+  "tag-tactical": {
+    "name": "Tactical",
+    "category": "tags"
+  },
+  "tag-endless": {
+    "name": "Endless",
+    "category": "tags"
+  },
+  "tag-robots": {
+    "name": "Robots",
+    "category": "tags"
+  },
+  "tag-forest": {
+    "name": "Forest",
+    "category": "tags"
+  },
+  "tag-game-design": {
+    "name": "Game Design",
+    "category": "tags"
+  },
+  "tag-city-builder": {
+    "name": "City Builder",
+    "category": "tags"
+  },
+  "tag-deck-building": {
+    "name": "Deck Building",
+    "category": "tags"
+  },
+  "tag-cartoon": {
+    "name": "Cartoon",
+    "category": "styles"
+  },
+  "tag-dark-humor": {
+    "name": "Dark Humor",
+    "category": "tags"
+  },
+  "tag-high-score": {
+    "name": "High Score",
+    "category": "tags"
+  },
+  "tag-simple": {
+    "name": "Simple",
+    "category": "tags"
+  },
+  "tag-turn-based-strategy": {
+    "name": "Turn-based Strategy",
+    "category": "tags"
+  },
+  "tag-controller": {
+    "name": "Controller",
+    "category": "tags"
+  },
+  "tag-halloween": {
+    "name": "Halloween",
+    "category": "tags"
+  },
+  "tag-minigames": {
+    "name": "minigames",
+    "category": "tags"
+  },
+  "tag-stealth": {
+    "name": "Stealth",
+    "category": "tags"
+  },
+  "tag-abstract": {
+    "name": "Abstract",
+    "category": "tags"
+  },
+  "tag-third-person": {
+    "name": "Third Person",
+    "category": "styles"
+  },
+  "tag-chiptune": {
+    "name": "chiptune",
+    "category": "tags"
+  },
+  "tag-aliens": {
+    "name": "Aliens",
+    "category": "tags"
+  },
+  "tag-gore": {
+    "name": "Gore",
+    "category": "tags"
+  },
+  "tag-black-and-white": {
+    "name": "Black and White",
+    "category": "styles"
+  },
+  "tag-scary": {
+    "name": "Scary",
+    "category": "tags"
+  },
+  "tag-supernatural": {
+    "name": "supernatural",
+    "category": "tags"
+  },
+  "tag-vampire": {
+    "name": "Vampire",
+    "category": "tags"
+  },
+  "tag-escape-game": {
+    "name": "Escape Game",
+    "category": "tags"
+  },
+  "tag-life-simulation": {
+    "name": "Life Simulation",
+    "category": "tags"
+  },
+  "tag-thriller": {
+    "name": "Thriller",
+    "category": "tags"
+  },
+  "tag-ghosts": {
+    "name": "Ghosts",
+    "category": "tags"
+  },
+  "tag-virtual-reality": {
+    "name": "Virtual Reality (VR)",
+    "category": "tags"
+  },
+  "tag-generator": {
+    "name": "Generator",
+    "category": "tags"
+  },
+  "tag-parody": {
+    "name": "Parody",
+    "category": "tags"
+  },
+  "tag-crafting": {
+    "name": "Crafting",
+    "category": "tags"
+  },
+  "tag-mechs": {
+    "name": "Mechs",
+    "category": "tags"
+  },
+  "tag-driving": {
+    "name": "Driving",
+    "category": "tags"
+  },
+  "tag-commodore-64": {
+    "name": "Commodore 64",
+    "category": "platforms"
+  },
+  "tag-gothic": {
+    "name": "Gothic",
+    "category": "tags"
+  },
+  "tag-western": {
+    "name": "Western",
+    "category": "tags"
+  },
+  "tag-upgrades": {
+    "name": "upgrades",
+    "category": "tags"
+  },
+  "tag-war": {
+    "name": "War",
+    "category": "tags"
+  },
+  "tag-bitsy": {
+    "name": "Bitsy",
+    "category": "tools"
+  },
+  "tag-playdate": {
+    "name": "Playdate",
+    "category": "platforms"
+  },
+  "tag-futuristic": {
+    "name": "Futuristic",
+    "category": "tags"
+  },
+  "tag-homebrew": {
+    "name": "Homebrew",
+    "category": "tags"
+  },
+  "tag-real-time-strategy": {
+    "name": "Real time strategy",
+    "category": "tags"
+  },
+  "tag-aseprite": {
+    "name": "Aseprite",
+    "category": "tools"
+  },
+  "tag-speedrun": {
+    "name": "Speedrun",
+    "category": "tags"
+  },
+  "tag-food": {
+    "name": "Food",
+    "category": "tags"
+  },
+  "tag-voice-acting": {
+    "name": "Voice Acting",
+    "category": "tags"
+  },
+  "tag-zx-spectrum": {
+    "name": "ZX Spectrum",
+    "category": "platforms"
+  },
+  "tag-drawing": {
+    "name": "Drawing",
+    "category": "tags"
+  },
+  "tag-cooking": {
+    "name": "Cooking",
+    "category": "tags"
+  },
+  "tag-party-game": {
+    "name": "party-game",
+    "category": "tags"
+  },
+  "tag-parallax": {
+    "name": "parallax",
+    "category": "tags"
+  },
+  "tag-creative": {
+    "name": "Creative",
+    "category": "tags"
+  },
+  "tag-open-source": {
+    "name": "Open Source",
+    "category": "tags"
+  },
+  "tag-non-violent": {
+    "name": "Non violent",
+    "category": "tags"
+  },
+  "tag-lo-fi": {
+    "name": "Lo-fi",
+    "category": "tags"
+  },
+  "tag-rpg-maker-mv": {
+    "name": "RPG Maker MV",
+    "category": "tools"
+  },
+  "tag-dystopian": {
+    "name": "Dystopian",
+    "category": "tags"
+  },
+  "tag-top-down-adventure": {
+    "name": "Top Down Adventure",
+    "category": "tags"
+  },
+  "tag-virtual-pet": {
+    "name": "Virtual Pet",
+    "category": "tags"
+  },
+  "tag-maze": {
+    "name": "maze",
+    "category": "tags"
+  },
+  "tag-male-protagonist": {
+    "name": "Male protagonist",
+    "category": "tags"
+  },
+  "tag-fishing": {
+    "name": "Fishing",
+    "category": "tags"
+  },
+  "tag-gameboy-rom": {
+    "name": "Game Boy ROM",
+    "category": "platforms"
+  },
+  "tag-sprunki": {
+    "name": "Sprunki",
+    "category": "tags"
+  },
+  "tag-fnaf": {
+    "name": "Five Nights at Freddy's",
+    "category": "tags"
+  },
+  "tag-love2d": {
+    "name": "LÖVE",
+    "category": "tools"
+  },
+  "tag-remake": {
+    "name": "Remake",
+    "category": "tags"
+  },
+  "tag-dragons": {
+    "name": "Dragons",
+    "category": "tags"
+  },
+  "tag-score-attack": {
+    "name": "Score Attack",
+    "category": "tags"
+  },
+  "tag-runner": {
+    "name": "Runner",
+    "category": "tags"
+  },
+  "tag-mental-health": {
+    "name": "Mental Health",
+    "category": "tags"
+  },
+  "tag-prototype": {
+    "name": "Prototype",
+    "category": "tags"
+  },
+  "tag-strategy-rpg": {
+    "name": "Strategy RPG",
+    "category": "tags"
+  },
+  "tag-jumping": {
+    "name": "jumping",
+    "category": "tags"
+  },
+  "tag-pirates": {
+    "name": "Pirates",
+    "category": "tags"
+  },
+  "tag-one-button": {
+    "name": "one-button",
+    "category": "tags"
+  },
+  "tag-alternate-history": {
+    "name": "Alternate History",
+    "category": "tags"
+  },
+  "tag-underwater": {
+    "name": "underwater",
+    "category": "tags"
+  },
+  "tag-incredibox": {
+    "name": "Incredibox",
+    "category": "tags"
+  },
+  "tag-nes": {
+    "name": "NES (Nintendo Entertainment System)",
+    "category": "platforms"
+  },
+  "tag-voxel": {
+    "name": "Voxel",
+    "category": "tags"
+  },
+  "tag-drm-free": {
+    "name": "DRM Free",
+    "category": "tags"
+  },
+  "tag-explosions": {
+    "name": "Explosions",
+    "category": "tags"
+  },
+  "tag-violent": {
+    "name": "Violent",
+    "category": "tags"
+  },
+  "tag-tycoon": {
+    "name": "Tycoon",
+    "category": "tags"
+  },
+  "tag-my-first-game-jam": {
+    "name": "My First Game Jam",
+    "category": "events"
+  },
+  "tag-kinetic-novel": {
+    "name": "Kinetic Novel",
+    "category": "tags"
+  },
+  "tag-sokoban": {
+    "name": "Sokoban",
+    "category": "tags"
+  },
+  "tag-lovecraft": {
+    "name": "Lovecraftian Horror",
+    "category": "tags"
+  },
+  "tag-tarot": {
+    "name": "Tarot",
+    "category": "tags"
+  },
+  "tag-gamepad": {
+    "name": "gamepad",
+    "category": "tags"
+  },
+  "tag-typing": {
+    "name": "Typing",
+    "category": "tags"
+  },
+  "tag-monster-girls": {
+    "name": "Monster Girls",
+    "category": "tags"
+  },
+  "tag-bara": {
+    "name": "Bara",
+    "category": "tags"
+  },
+  "tag-hack-and-slash": {
+    "name": "Hack and Slash",
+    "category": "tags"
+  },
+  "tag-beat-em-up": {
+    "name": "Beat 'em up",
+    "category": "tags"
+  },
+  "tag-liminal-space": {
+    "name": "Liminal space",
+    "category": "tags"
+  },
+  "tag-immersive": {
+    "name": "Immersive",
+    "category": "tags"
+  },
+  "tag-psychedelic": {
+    "name": "psychedelic",
+    "category": "tags"
+  },
+  "tag-satire": {
+    "name": "satire",
+    "category": "tags"
+  },
+  "tag-swords": {
+    "name": "Swords",
+    "category": "tags"
+  },
+  "tag-local-co-op": {
+    "name": "Local Co-Op",
+    "category": "tags"
+  },
+  "tag-pvp": {
+    "name": "PvP",
+    "category": "tags"
+  },
+  "tag-secrets": {
+    "name": "secrets",
+    "category": "tags"
+  },
+  "tag-economy": {
+    "name": "Economy",
+    "category": "tags"
+  },
+  "tag-yaoi": {
+    "name": "Yaoi",
+    "category": "tags"
+  },
+  "tag-dreams": {
+    "name": "Dreams",
+    "category": "tags"
+  },
+  "tag-sourcecode": {
+    "name": "sourcecode",
+    "category": "tags"
+  },
+  "tag-space-sim": {
+    "name": "Space Sim",
+    "category": "tags"
+  },
+  "tag-souls-like": {
+    "name": "Souls-like",
+    "category": "tags"
+  },
+  "tag-crime": {
+    "name": "Crime",
+    "category": "tags"
+  },
+  "tag-twin-stick-shooter": {
+    "name": "Twin Stick Shooter",
+    "category": "tags"
+  },
+  "tag-global-game-jam": {
+    "name": "Global Game Jam",
+    "category": "events"
+  },
+  "tag-family-friendly": {
+    "name": "Family Friendly",
+    "category": "tags"
+  },
+  "tag-touch-friendly": {
+    "name": "Touch-Friendly",
+    "category": "tags"
+  },
+  "tag-vector": {
+    "name": "Vector",
+    "category": "tags"
+  },
+  "tag-boys-love": {
+    "name": "Boys' Love",
+    "category": "tags"
+  },
+  "tag-dogs": {
+    "name": "Dogs",
+    "category": "tags"
+  },
+  "tag-mmorpg": {
+    "name": "MMORPG",
+    "category": "tags"
+  },
+  "tag-fairy-tale": {
+    "name": "Fairy Tale",
+    "category": "tags"
+  },
+  "tag-meme": {
+    "name": "Meme",
+    "category": "tags"
+  },
+  "tag-mythology": {
+    "name": "mythology",
+    "category": "tags"
+  },
+  "tag-time-travel": {
+    "name": "Time Travel",
+    "category": "tags"
+  },
+  "tag-neon": {
+    "name": "Neon",
+    "category": "styles"
+  },
+  "tag-wizards": {
+    "name": "Wizards",
+    "category": "tags"
+  },
+  "tag-photorealistic": {
+    "name": "Photorealistic",
+    "category": "tags"
+  },
+  "tag-doom": {
+    "name": "Doom",
+    "category": "tags"
+  },
+  "tag-suspense": {
+    "name": "suspense",
+    "category": "tags"
+  },
+  "tag-tactical-rpg": {
+    "name": "Tactical RPG",
+    "category": "tags"
+  },
+  "tag-word-game": {
+    "name": "Word game",
+    "category": "tags"
+  },
+  "tag-loot": {
+    "name": "Loot",
+    "category": "tags"
+  },
+  "tag-flight": {
+    "name": "Flight",
+    "category": "tags"
+  },
+  "tag-solitaire": {
+    "name": "solitaire",
+    "category": "tags"
+  },
+  "tag-artificial-intelligence": {
+    "name": "artificial-intelligence",
+    "category": "tags"
+  },
+  "tag-relationship": {
+    "name": "relationship",
+    "category": "tags"
+  },
+  "tag-chess": {
+    "name": "Chess",
+    "category": "tags"
+  },
+  "tag-wholesome": {
+    "name": "Wholesome",
+    "category": "tags"
+  },
+  "tag-blocks": {
+    "name": "blocks",
+    "category": "tags"
+  },
+  "tag-dress-up": {
+    "name": "Dress Up",
+    "category": "tags"
+  },
+  "tag-superhero": {
+    "name": "Superhero",
+    "category": "tags"
+  },
+  "tag-gravity": {
+    "name": "Gravity",
+    "category": "tags"
+  },
+  "tag-third-person-shooter": {
+    "name": "Third-Person Shooter",
+    "category": "tags"
+  },
+  "tag-real-time": {
+    "name": "Real-Time",
+    "category": "tags"
+  },
+  "tag-folklore": {
+    "name": "Folklore",
+    "category": "tags"
+  },
+  "tag-dinosaurs": {
+    "name": "Dinosaurs",
+    "category": "tags"
+  },
+  "tag-christmas": {
+    "name": "Christmas",
+    "category": "tags"
+  },
+  "tag-creepypasta": {
+    "name": "creepypasta",
+    "category": "tags"
+  },
+  "tag-touhou": {
+    "name": "Touhou",
+    "category": "tags"
+  },
+  "tag-tutorial": {
+    "name": "Tutorial",
+    "category": "tags"
+  },
+  "tag-puzzlescript": {
+    "name": "PuzzleScript",
+    "category": "tools"
+  },
+  "tag-automation": {
+    "name": "Automation",
+    "category": "tags"
+  },
+  "tag-steampunk": {
+    "name": "Steampunk",
+    "category": "tags"
+  },
+  "tag-manga": {
+    "name": "Manga",
+    "category": "tags"
+  },
+  "tag-frog": {
+    "name": "Frogs",
+    "category": "tags"
+  },
+  "tag-ascii": {
+    "name": "ascii",
+    "category": "tags"
+  },
+  "tag-tetris": {
+    "name": "Tetris",
+    "category": "tags"
+  },
+  "tag-noir": {
+    "name": "Noir",
+    "category": "tags"
+  },
+  "tag-endless-runner": {
+    "name": "Endless Runner",
+    "category": "tags"
+  },
+  "tag-skeletons": {
+    "name": "Skeletons",
+    "category": "tags"
+  },
+  "tag-versus": {
+    "name": "Versus",
+    "category": "tags"
+  },
+  "tag-slime": {
+    "name": "Slime",
+    "category": "tags"
+  },
+  "tag-painting": {
+    "name": "Painting",
+    "category": "tags"
+  },
+  "tag-infinite-runner": {
+    "name": "infinite-runner",
+    "category": "tags"
+  },
+  "tag-hacking": {
+    "name": "Hacking",
+    "category": "tags"
+  },
+  "tag-hex-based": {
+    "name": "Hex Based",
+    "category": "tags"
+  },
+  "tag-desktop-pet": {
+    "name": "Desktop Pet",
+    "category": "tags"
+  },
+  "tag-snake": {
+    "name": "Snake",
+    "category": "tags"
+  },
+  "tag-trains": {
+    "name": "Trains",
+    "category": "tags"
+  },
+  "tag-ludum-dare": {
+    "name": "Ludum Dare",
+    "category": "events"
+  },
+  "tag-gardening": {
+    "name": "Gardening",
+    "category": "tags"
+  },
+  "tag-slasher": {
+    "name": "Slasher",
+    "category": "tags"
+  },
+  "tag-math": {
+    "name": "Math",
+    "category": "tags"
+  },
+  "tag-ninja": {
+    "name": "Ninja",
+    "category": "tags"
+  },
+  "tag-amiga": {
+    "name": "Amiga",
+    "category": "platforms"
+  },
+  "tag-synthwave": {
+    "name": "Synthwave",
+    "category": "tags"
+  },
+  "tag-auto-battler": {
+    "name": "Auto Battler",
+    "category": "tags"
+  },
+  "tag-minecraft": {
+    "name": "Minecraft",
+    "category": "tags"
+  },
+  "tag-parkour": {
+    "name": "Parkour",
+    "category": "tags"
+  },
+  "tag-survivor-like": {
+    "name": "Survivor-like",
+    "category": "tags"
+  },
+  "tag-decker": {
+    "name": "Decker",
+    "category": "tags"
+  },
+  "tag-demake": {
+    "name": "Demake",
+    "category": "tags"
+  },
+  "tag-feel-good": {
+    "name": "Feel Good",
+    "category": "tags"
+  },
+  "tag-destruction": {
+    "name": "Destruction",
+    "category": "tags"
+  },
+  "tag-gmtkjam": {
+    "name": "Game Maker's Toolkit Jam",
+    "category": "events"
+  },
+  "tag-time-attack": {
+    "name": "Time Attack",
+    "category": "tags"
+  },
+  "tag-streaming": {
+    "name": "Streaming",
+    "category": "tags"
+  },
+  "tag-tanks": {
+    "name": "Tanks",
+    "category": "tags"
+  },
+  "tag-flappy-bird": {
+    "name": "Flappy Bird",
+    "category": "tags"
+  },
+  "tag-flying": {
+    "name": "Flying",
+    "category": "tags"
+  },
+  "tag-gorilla-tag": {
+    "name": "Gorilla Tag",
+    "category": "tags"
+  },
+  "tag-moddable": {
+    "name": "Moddable",
+    "category": "tags"
+  },
+  "tag-gacha": {
+    "name": "Gacha",
+    "category": "tags"
+  },
+  "tag-atari": {
+    "name": "atari",
+    "category": "tags"
+  },
+  "tag-superpowers": {
+    "name": "Superpowers",
+    "category": "tools"
+  },
+  "tag-scratch": {
+    "name": "Scratch",
+    "category": "tags"
+  },
+  "tag-working-simulator": {
+    "name": "Working Simulator",
+    "category": "tags"
+  },
+  "tag-combos": {
+    "name": "combos",
+    "category": "tags"
+  },
+  "tag-urban": {
+    "name": "Urban",
+    "category": "tags"
+  },
+  "tag-altgame": {
+    "name": "Altgame",
+    "category": "tags"
+  },
+  "tag-coming-of-age": {
+    "name": "Coming Of Age",
+    "category": "tags"
+  },
+  "tag-dreamcast": {
+    "name": "Dreamcast",
+    "category": "platforms"
+  },
+  "tag-mega-drive": {
+    "name": "Mega Drive",
+    "category": "platforms"
+  },
+  "tag-quiz": {
+    "name": "Quiz",
+    "category": "tags"
+  },
+  "tag-nonogram": {
+    "name": "Nonogram",
+    "category": "tags"
+  },
+  "tag-backrooms": {
+    "name": "Backrooms",
+    "category": "tags"
+  },
+  "tag-asteroids": {
+    "name": "Asteroids",
+    "category": "tags"
+  },
+  "tag-emulator": {
+    "name": "Emulator",
+    "category": "tags"
+  },
+  "tag-heist": {
+    "name": "Heist",
+    "category": "tags"
+  },
+  "tag-nes-rom": {
+    "name": "NES ROM",
+    "category": "platforms"
+  },
+  "tag-undertale": {
+    "name": "Undertale",
+    "category": "tags"
+  },
+  "tag-breakout": {
+    "name": "Breakout",
+    "category": "tags"
+  },
+  "tag-fps-platformer": {
+    "name": "FPS Platformer",
+    "category": "tags"
+  },
+  "tag-classes": {
+    "name": "Classes",
+    "category": "tags"
+  },
+  "tag-tyranobuilder": {
+    "name": "TyranoBuilder",
+    "category": "tools"
+  },
+  "tag-sega-genesis": {
+    "name": "Sega Genesis",
+    "category": "platforms"
+  },
+  "tag-wild-west": {
+    "name": "Wild West",
+    "category": "tags"
+  },
+  "tag-cult-classic": {
+    "name": "Cult Classic",
+    "category": "tags"
+  },
+  "tag-oculus-quest": {
+    "name": "Oculus Quest",
+    "category": "platforms"
+  },
+  "tag-picross": {
+    "name": "Picross",
+    "category": "tags"
+  },
+  "tag-world-war-ii": {
+    "name": "World War II",
+    "category": "tags"
+  },
+  "tag-pastel": {
+    "name": "pastel",
+    "category": "styles"
+  },
+  "tag-chicken": {
+    "name": "Chicken",
+    "category": "tags"
+  },
+  "tag-victorian": {
+    "name": "Victorian",
+    "category": "tags"
+  },
+  "tag-watercolor": {
+    "name": "watercolor",
+    "category": "styles"
+  },
+  "tag-construct-2": {
+    "name": "Construct 2",
+    "category": "tools"
+  },
+  "tag-football": {
+    "name": "Football",
+    "category": "tags"
+  },
+  "tag-amstrad-cpc": {
+    "name": "Amstrad CPC",
+    "category": "platforms"
+  },
+  "tag-brain-training": {
+    "name": "Brain Training",
+    "category": "tags"
+  },
+  "tag-glitch": {
+    "name": "glitch",
+    "category": "tags"
+  },
+  "tag-episodic": {
+    "name": "Episodic",
+    "category": "tags"
+  },
+  "tag-soccer": {
+    "name": "Soccer",
+    "category": "tags"
+  },
+  "tag-minesweeper": {
+    "name": "Minesweeper",
+    "category": "tags"
+  },
+  "tag-golf": {
+    "name": "Golf",
+    "category": "tags"
+  },
+  "tag-trading": {
+    "name": "Trading",
+    "category": "tags"
+  },
+  "tag-hidden-object": {
+    "name": "Hidden Object",
+    "category": "tags"
+  },
+  "tag-filipino": {
+    "name": "filipino",
+    "category": "tags"
+  },
+  "tag-pinball": {
+    "name": "Pinball",
+    "category": "tags"
+  },
+  "tag-grayscale": {
+    "name": "Grayscale",
+    "category": "styles"
+  },
+  "tag-lowrezjam": {
+    "name": "LOWREZJAM",
+    "category": "events"
+  },
+  "tag-perma-death": {
+    "name": "Perma Death",
+    "category": "tags"
+  },
+  "tag-lone-survivor": {
+    "name": "lone-survivor",
+    "category": "tags"
+  },
+  "tag-mind-bending": {
+    "name": "mind-bending",
+    "category": "tags"
+  },
+  "tag-visualization": {
+    "name": "Visualization",
+    "category": "tags"
+  },
+  "tag-spoopy": {
+    "name": "Spoopy",
+    "category": "tags"
+  },
+  "tag-video": {
+    "name": "video",
+    "category": "tags"
+  },
+  "tag-gbjam": {
+    "name": "GBJam",
+    "category": "events"
+  },
+  "tag-github": {
+    "name": "GitHub",
+    "category": "tags"
+  },
+  "tag-pizza-tower": {
+    "name": "Pizza Tower",
+    "category": "tags"
+  },
+  "tag-ludum-dare-46": {
+    "name": "Ludum Dare 46",
+    "category": "events"
+  },
+  "tag-moe": {
+    "name": "moe",
+    "category": "tags"
+  },
+  "tag-team-based": {
+    "name": "Team-Based",
+    "category": "tags"
+  },
+  "tag-non-eucledian": {
+    "name": "non-eucledian",
+    "category": "styles"
+  },
+  "tag-ludum-dare-48": {
+    "name": "Ludum Dare 48",
+    "category": "events"
+  },
+  "tag-4x": {
+    "name": "4X",
+    "category": "tags"
+  },
+  "tag-trashcore": {
+    "name": "trashcore",
+    "category": "tags"
+  },
+  "tag-internet": {
+    "name": "Internet",
+    "category": "tags"
+  },
+  "tag-horses": {
+    "name": "Horses",
+    "category": "tags"
+  },
+  "tag-kickstarter": {
+    "name": "Kickstarter",
+    "category": "tags"
+  },
+  "tag-one-hit-kill": {
+    "name": "one-hit-kill",
+    "category": "tags"
+  },
+  "tag-two-colors": {
+    "name": "Two colors",
+    "category": "styles"
+  },
+  "tag-shadows": {
+    "name": "Shadows",
+    "category": "tags"
+  },
+  "tag-ludum-dare-41": {
+    "name": "Ludum Dare 41",
+    "category": "events"
+  },
+  "tag-ludum-dare-38": {
+    "name": "Ludum Dare 38",
+    "category": "events"
+  },
+  "tag-memoir": {
+    "name": "memoir",
+    "category": "tags"
+  },
+  "tag-ludum-dare-42": {
+    "name": "Ludum Dare 42",
+    "category": "events"
+  },
+  "tag-dos": {
+    "name": "DOS",
+    "category": "platforms"
+  },
+  "tag-world-war-i": {
+    "name": "World War I",
+    "category": "tags"
+  },
+  "tag-gameboy-advance": {
+    "name": "Game Boy Advance",
+    "category": "platforms"
+  },
+  "tag-deathmatch": {
+    "name": "deathmatch",
+    "category": "tags"
+  },
+  "tag-non-linear": {
+    "name": "Nonlinear",
+    "category": "tags"
+  },
+  "tag-ms-dos": {
+    "name": "MS-DOS",
+    "category": "platforms"
+  },
+  "tag-siren-head": {
+    "name": "Siren Head",
+    "category": "tags"
+  },
+  "tag-flat-shading": {
+    "name": "flat-shading",
+    "category": "styles"
+  },
+  "tag-arena-shooter": {
+    "name": "Arena Shooter",
+    "category": "tags"
+  },
+  "tag-mountains": {
+    "name": "Mountains",
+    "category": "tags"
+  },
+  "tag-modeling": {
+    "name": "Modeling",
+    "category": "tags"
+  },
+  "tag-ludum-dare-44": {
+    "name": "Ludum Dare 44",
+    "category": "events"
+  },
+  "tag-job-system": {
+    "name": "job-system",
+    "category": "tags"
+  },
+  "tag-msx": {
+    "name": "MSX",
+    "category": "platforms"
+  },
+  "tag-ludum-dare-50": {
+    "name": "Ludum Dare 50",
+    "category": "events"
+  },
+  "tag-period-piece": {
+    "name": "Period Piece",
+    "category": "tags"
+  },
+  "tag-traps": {
+    "name": "Traps",
+    "category": "tags"
+  },
+  "tag-trivia": {
+    "name": "Trivia",
+    "category": "tags"
+  },
+  "tag-gender": {
+    "name": "Gender",
+    "category": "tags"
+  },
+  "tag-nintendo64": {
+    "name": "Nintendo 64",
+    "category": "platforms"
+  },
+  "tag-ludum-dare-49": {
+    "name": "Ludum Dare 49",
+    "category": "events"
+  },
+  "tag-7drl": {
+    "name": "Seven Day Roguelike Challenge",
+    "category": "events"
+  },
+  "tag-split-screen": {
+    "name": "Split Screen",
+    "category": "tags"
+  },
+  "tag-doom-wad": {
+    "name": "DOOM WAD",
+    "category": "tags"
+  },
+  "tag-ludum-dare-45": {
+    "name": "Ludum Dare 45",
+    "category": "events"
+  },
+  "tag-ludum-dare-40": {
+    "name": "Ludum Dare 40",
+    "category": "events"
+  },
+  "tag-ludum-dare-43": {
+    "name": "Ludum Dare 43",
+    "category": "events"
+  },
+  "tag-massively-multiplayer": {
+    "name": "Massively multiplayer",
+    "category": "tags"
+  },
+  "tag-hypercard": {
+    "name": "HyperCard",
+    "category": "tags"
+  },
+  "tag-oculus-rift": {
+    "name": "Oculus Rift",
+    "category": "platforms"
+  },
+  "tag-mashup": {
+    "name": "mashup",
+    "category": "tags"
+  },
+  "tag-horrible": {
+    "name": "Horrible",
+    "category": "tags"
+  },
+  "tag-magical-realism": {
+    "name": "Magical Realism",
+    "category": "tags"
+  },
+  "tag-stop-motion": {
+    "name": "stop-motion",
+    "category": "tags"
+  },
+  "tag-roadtrip": {
+    "name": "Roadtrip",
+    "category": "tags"
+  },
+  "tag-ludum-dare-54": {
+    "name": "Ludum Dare 54",
+    "category": "events"
+  },
+  "tag-ludum-dare-47": {
+    "name": "Ludum Dare 47",
+    "category": "events"
+  },
+  "tag-celtic": {
+    "name": "Celtic",
+    "category": "tags"
+  },
+  "tag-movement-shooter": {
+    "name": "Movement Shooter",
+    "category": "tags"
+  },
+  "tag-screensaver": {
+    "name": "screensaver",
+    "category": "tags"
+  },
+  "tag-ludum-dare-53": {
+    "name": "Ludum Dare 53",
+    "category": "events"
+  },
+  "tag-soundtoy": {
+    "name": "Soundtoy",
+    "category": "tags"
+  },
+  "tag-procjam": {
+    "name": "PROCJAM",
+    "category": "events"
+  },
+  "tag-ludum-dare-57": {
+    "name": "Ludum Dare 57",
+    "category": "tags"
+  },
+  "tag-ludum-dare-51": {
+    "name": "Ludum Dare 51",
+    "category": "events"
+  },
+  "tag-ludum-dare-56": {
+    "name": "Ludum Dare 56",
+    "category": "events"
+  },
+  "tag-skating": {
+    "name": "Skating",
+    "category": "tags"
+  },
+  "tag-tic-80": {
+    "name": "TIC-80",
+    "category": "tools"
+  },
+  "tag-basketball": {
+    "name": "Basketball",
+    "category": "tags"
+  },
+  "tag-voice-controlled": {
+    "name": "voice-controlled",
+    "category": "tags"
+  },
+  "tag-ludum-dare-37": {
+    "name": "Ludum Dare 37",
+    "category": "events"
+  },
+  "tag-psp": {
+    "name": "Playstation Portable",
+    "category": "platforms"
+  },
+  "tag-fantasy-console": {
+    "name": "fantasy-console",
+    "category": "tags"
+  },
+  "tag-trijam": {
+    "name": "Trijam",
+    "category": "events"
+  },
+  "tag-suika-game": {
+    "name": "Suika Game",
+    "category": "tags"
+  },
+  "tag-ludum-dare-55": {
+    "name": "Ludum Dare 55",
+    "category": "events"
+  },
+  "tag-7dfps": {
+    "name": "7dfps",
+    "category": "events"
+  },
+  "tag-chip8": {
+    "name": "CHIP-8",
+    "category": "platforms"
+  },
+  "tag-wordle": {
+    "name": "Wordle",
+    "category": "tags"
+  },
+  "tag-instrument": {
+    "name": "Instrument",
+    "category": "tags"
+  },
+  "tag-fmv": {
+    "name": "FMV",
+    "category": "tags"
+  },
+  "tag-archery": {
+    "name": "Archery",
+    "category": "tags"
+  },
+  "tag-ludum-dare-52": {
+    "name": "Ludum Dare 52",
+    "category": "events"
+  },
+  "tag-ludum-dare-39": {
+    "name": "Ludum Dare 39",
+    "category": "events"
+  },
+  "tag-discord": {
+    "name": "discord",
+    "category": "tags"
+  },
+  "tag-ludum-dare-35": {
+    "name": "Ludum Dare 35",
+    "category": "events"
+  },
+  "tag-on-rails-shooter": {
+    "name": "On-Rails Shooter",
+    "category": "tags"
+  },
+  "tag-unicorns": {
+    "name": "Unicorns",
+    "category": "tags"
+  },
+  "tag-midi": {
+    "name": "MIDI",
+    "category": "tags"
+  },
+  "tag-boring": {
+    "name": "Boring",
+    "category": "tags"
+  },
+  "tag-tentacles": {
+    "name": "Tentacles",
+    "category": "tags"
+  },
+  "tag-perspective": {
+    "name": "Perspective",
+    "category": "tags"
+  },
+  "tag-norse": {
+    "name": "Norse",
+    "category": "tags"
+  },
+  "tag-ludum-dare-36": {
+    "name": "Ludum Dare 36",
+    "category": "events"
+  },
+  "tag-sitting-simulator": {
+    "name": "sitting-simulator",
+    "category": "tags"
+  },
+  "tag-ludum-dare-58": {
+    "name": "Ludum Dare 58",
+    "category": "tags"
+  },
+  "tag-stencyl": {
+    "name": "Stencyl",
+    "category": "tools"
+  },
+  "tag-tennis": {
+    "name": "Tennis",
+    "category": "tags"
+  },
+  "tag-ludum-dare-34": {
+    "name": "Ludum Dare 34",
+    "category": "events"
+  },
+  "tag-railroad": {
+    "name": "Railroad",
+    "category": "tags"
+  },
+  "tag-sailing": {
+    "name": "Sailing",
+    "category": "tags"
+  },
+  "tag-tablet": {
+    "name": "tablet",
+    "category": "tags"
+  },
+  "tag-boxing": {
+    "name": "boxing",
+    "category": "tags"
+  },
+  "tag-wobbly": {
+    "name": "Wobbly",
+    "category": "tags"
+  },
+  "tag-zero-gravity": {
+    "name": "Zero Gravity",
+    "category": "tags"
+  },
+  "tag-ludum-dare-33": {
+    "name": "Ludum Dare 33",
+    "category": "events"
+  },
+  "tag-live-action": {
+    "name": "live-action",
+    "category": "tags"
+  },
+  "tag-kung-fu": {
+    "name": "Kung Fu",
+    "category": "tags"
+  },
+  "tag-ciphers": {
+    "name": "Ciphers",
+    "category": "tags"
+  },
+  "tag-binaural": {
+    "name": "binaural",
+    "category": "tags"
+  },
+  "tag-norway": {
+    "name": "norway",
+    "category": "tags"
+  },
+  "tag-ludum-dare-30": {
+    "name": "Ludum Dare 30",
+    "category": "events"
+  },
+  "tag-rotation": {
+    "name": "Rotation",
+    "category": "tags"
+  },
+  "tag-vic-20": {
+    "name": "VIC-20",
+    "category": "platforms"
+  },
+  "tag-libgdx": {
+    "name": "libGDX",
+    "category": "tools"
+  },
+  "tag-thanksgiving": {
+    "name": "Thanksgiving",
+    "category": "tags"
+  },
+  "tag-sharecart1000": {
+    "name": "SHARECART1000",
+    "category": "tags"
+  },
+  "tag-barfcade": {
+    "name": "Barfcade",
+    "category": "events"
+  },
+  "tag-ludum-dare-31": {
+    "name": "Ludum Dare 31",
+    "category": "events"
+  },
+  "tag-turbografx": {
+    "name": "TurboGrafx-16",
+    "category": "platforms"
+  },
+  "tag-ludum-dare-29": {
+    "name": "Ludum Dare 29",
+    "category": "events"
+  },
+  "tag-ggj15": {
+    "name": "ggj15",
+    "category": "events"
+  },
+  "tag-ludum-dare-32": {
+    "name": "Ludum Dare 32",
+    "category": "events"
+  },
+  "tag-1gam": {
+    "name": "1GAM",
+    "category": "events"
+  },
+  "tag-leap-motion": {
+    "name": "Leap Motion",
+    "category": "platforms"
+  },
+  "tag-augmented-reality": {
+    "name": "Augmented Reality",
+    "category": "tags"
+  },
+  "tag-kinect": {
+    "name": "kinect",
+    "category": "platforms"
+  },
+  "tag-sfml": {
+    "name": "SFML",
+    "category": "tools"
+  },
+  "tag-ggj2020": {
+    "name": "Global Game Jam 2020",
+    "category": "events"
+  },
+  "tag-corona-sdk": {
+    "name": "Corona SDK",
+    "category": "tools"
+  }
+}

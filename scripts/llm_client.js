@@ -156,7 +156,7 @@ function modelForQuality(quality) {
 /**
  * Build the request body for Gemini's generateContent endpoint.
  */
-function buildRequestBody({ system, user, schema, temperature = 0.3 }) {
+function buildRequestBody({ system, user, schema, temperature = 0.3, maxTokens = 8192 }) {
   const body = {
     contents: [
       {
@@ -166,7 +166,7 @@ function buildRequestBody({ system, user, schema, temperature = 0.3 }) {
     ],
     generationConfig: {
       temperature,
-      maxOutputTokens: 2048,
+      maxOutputTokens: maxTokens,
     },
   };
 
@@ -253,6 +253,7 @@ async function complete(opts) {
     schema,
     quality = "fast",
     temperature = 0.3,
+    maxTokens = 8192,
   } = opts;
 
   if (!API_KEY) {
@@ -264,7 +265,7 @@ async function complete(opts) {
 
   const model   = modelForQuality(quality);
   const limiter = limiters[quality] || limiters.fast;
-  const body    = buildRequestBody({ system, user, schema, temperature });
+  const body    = buildRequestBody({ system, user, schema, temperature, maxTokens });
 
   if (LOG) {
     console.error(`\n[llm] ── ${quality}/${model} ──`);
@@ -357,60 +358,92 @@ function status() {
 
 /**
  * JSON Schema for the theme interpreter response.
- * Gemini will enforce this structure — the model cannot return anything else.
+ * Used to enrich tag matches with IGDB terms and abstract concepts.
  */
 const THEME_INTERPRETER_SCHEMA = {
   type: "object",
   properties: {
-    theme_matches: {
+    additional_tags: {
       type: "array",
-      description: "2-6 jam themes from the vocabulary that are semantically related to the user's theme",
+      description: "2-5 itch.io tag/genre keys (e.g. 'tag-gravity', 'genre-puzzle') from the provided vocabulary that relate to the theme but may not have been caught by fuzzy matching",
       items: { type: "string" },
     },
-    tag_matches: {
+    creative_concepts: {
       type: "array",
-      description: "3-8 tags from the vocabulary that relate to the user's theme",
+      description: "3-5 abstract concepts the theme evokes (used to guide the narrator, not for retrieval)",
       items: { type: "string" },
     },
-    genre_hints: {
+    igdb_genres: {
       type: "array",
-      description: "1-3 genres from the vocabulary most likely to contain games matching this theme",
+      description: "1-3 IGDB genre names most likely to contain commercial reference games for this theme (e.g. 'Platformer', 'Puzzle', 'Shooter')",
       items: { type: "string" },
     },
-    concepts: {
+    igdb_themes: {
       type: "array",
-      description: "3-5 freeform abstract concepts the theme evokes (for the narrator, not for retrieval)",
+      description: "1-2 IGDB theme names that match the feel of this theme (e.g. 'Science fiction', 'Fantasy', 'Horror')",
       items: { type: "string" },
     },
   },
-  required: ["theme_matches", "tag_matches", "genre_hints", "concepts"],
+  required: ["additional_tags", "creative_concepts", "igdb_genres", "igdb_themes"],
 };
 
 /**
  * JSON Schema for the narrator response.
- * Produces 3-5 inspiration paths with game references.
+ * Produces 3-5 rich inspiration paths grounded in real games.
  */
 const NARRATOR_SCHEMA = {
   type: "object",
   properties: {
     paths: {
       type: "array",
-      description: "3-5 distinct inspiration paths, each a different creative direction",
+      description: "3-5 distinct inspiration paths, each a meaningfully different creative direction",
       items: {
         type: "object",
         properties: {
-          name:        { type: "string", description: "Short catchy name for this path (2-5 words)" },
-          pitch:       { type: "string", description: "1-2 sentence game concept pitch" },
-          why_it_fits: { type: "string", description: "1 sentence connecting this to the user's theme" },
-          game_ids:    {
+          name:          { type: "string", description: "Short catchy name for this direction (2-5 words)" },
+          pitch:         { type: "string", description: "2-3 sentence elevator pitch for a concrete game concept" },
+          core_mechanic: { type: "string", description: "The single mechanic to build first — one sentence" },
+          why_it_fits:   { type: "string", description: "One sentence explaining how this direction interprets the theme" },
+          example_games: {
             type: "array",
-            description: "Game IDs from the provided candidates that inspired this path",
-            items: { type: "number" },
+            description: "1-3 itch.io games from the provided list that best represent or inspire this direction",
+            items: {
+              type: "object",
+              properties: {
+                title:     { type: "string" },
+                url:       { type: "string" },
+                relevance: { type: "string", description: "One sentence on why this game is relevant to the path" },
+              },
+              required: ["title", "url", "relevance"],
+            },
           },
-          scope_hint:  { type: "string", description: "What to build first in 4 hours, then what to add" },
-          mood:        { type: "string", description: "One word: cozy, tense, frantic, comedic, eerie, chill, etc." },
+          reference_games: {
+            type: "array",
+            description: "0-2 commercial reference games from the provided IGDB list that inspire this direction",
+            items: {
+              type: "object",
+              properties: {
+                title:     { type: "string" },
+                relevance: { type: "string", description: "One sentence on what to borrow from this game" },
+              },
+              required: ["title", "relevance"],
+            },
+          },
+          scope_plan: {
+            type: "object",
+            properties: {
+              first_hours:     { type: "string", description: "What to build in the first quarter of available time" },
+              if_time_permits: { type: "string", description: "What to add if ahead of schedule" },
+              cut_if_behind:   { type: "string", description: "What to cut if behind schedule" },
+            },
+            required: ["first_hours", "if_time_permits", "cut_if_behind"],
+          },
+          art_direction: { type: "string", description: "Suggested visual style in one sentence" },
+          tone:          { type: "string", description: "Suggested mood/tone in one sentence" },
+          title_ideas:   { type: "array", items: { type: "string" }, description: "2 working title ideas" },
+          jam_pitch:     { type: "string", description: "One-sentence submission description for the jam page" },
         },
-        required: ["name", "pitch", "why_it_fits", "game_ids", "scope_hint", "mood"],
+        required: ["name", "pitch", "core_mechanic", "why_it_fits", "example_games", "reference_games", "scope_plan", "art_direction", "tone", "title_ideas", "jam_pitch"],
       },
     },
   },

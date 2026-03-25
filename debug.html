@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>JamPad — Engine Debug</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  :root {
+    --bg: #0f1117; --surface: #1a1d27; --border: #2a2d3a;
+    --text: #e2e4ef; --muted: #6b7280; --accent: #7c6af7;
+    --green: #4ade80; --yellow: #facc15; --red: #f87171; --blue: #60a5fa;
+    --exact: #4ade80; --fuzzy: #60a5fa; --llm: #c084fc;
+  }
+  body { background: var(--bg); color: var(--text); font-family: system-ui, sans-serif; font-size: 14px; min-height: 100vh; }
+  h1 { font-size: 18px; font-weight: 700; color: var(--accent); letter-spacing: -0.3px; }
+
+  .layout { display: grid; grid-template-columns: 300px 1fr; min-height: 100vh; }
+  .sidebar { background: var(--surface); border-right: 1px solid var(--border); padding: 20px; display: flex; flex-direction: column; gap: 20px; position: sticky; top: 0; height: 100vh; overflow-y: auto; }
+  .main { padding: 20px; display: flex; flex-direction: column; gap: 16px; }
+
+  .sidebar header { display: flex; align-items: center; gap: 8px; padding-bottom: 16px; border-bottom: 1px solid var(--border); }
+  label { display: block; font-size: 12px; color: var(--muted); margin-bottom: 4px; }
+  input[type=text], input[type=number], select {
+    width: 100%; background: var(--bg); border: 1px solid var(--border); border-radius: 6px;
+    color: var(--text); padding: 7px 10px; font-size: 13px; outline: none; transition: border-color 0.15s;
+  }
+  input:focus, select:focus { border-color: var(--accent); }
+  .check-group { display: flex; flex-wrap: wrap; gap: 6px; }
+  .check-group label { display: flex; align-items: center; gap: 4px; font-size: 12px; color: var(--text); cursor: pointer; background: var(--bg); border: 1px solid var(--border); border-radius: 4px; padding: 3px 8px; margin: 0; }
+  .check-group input[type=checkbox] { width: auto; accent-color: var(--accent); }
+  .field { display: flex; flex-direction: column; gap: 4px; }
+  .row { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+  button#run {
+    width: 100%; padding: 10px; background: var(--accent); border: none; border-radius: 8px;
+    color: #fff; font-size: 14px; font-weight: 600; cursor: pointer; transition: opacity 0.15s; margin-top: auto;
+  }
+  button#run:hover { opacity: 0.85; }
+  button#run:disabled { opacity: 0.4; cursor: not-allowed; }
+
+  .card { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 16px; }
+  .card-title { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: var(--muted); margin-bottom: 10px; }
+
+  .step-header { display: flex; align-items: center; gap: 8px; margin-bottom: 14px; }
+  .step-num { width: 22px; height: 22px; border-radius: 50%; background: var(--accent); color: #fff; font-size: 11px; font-weight: 700; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
+  .step-title { font-size: 13px; font-weight: 600; }
+  .step-time { margin-left: auto; font-size: 11px; color: var(--muted); font-family: monospace; }
+
+  /* Tags */
+  .tags { display: flex; flex-wrap: wrap; gap: 6px; }
+  .tag { display: inline-flex; align-items: center; gap: 5px; padding: 3px 9px; border-radius: 20px; font-size: 12px; font-family: monospace; border: 1px solid; }
+  .tag.exact { color: var(--exact); border-color: var(--exact); background: rgba(74,222,128,.08); }
+  .tag.fuzzy { color: var(--fuzzy); border-color: var(--fuzzy); background: rgba(96,165,250,.08); }
+  .tag.llm   { color: var(--llm);   border-color: var(--llm);   background: rgba(192,132,252,.08); }
+  .tag .score { font-size: 10px; opacity: 0.7; }
+  .legend { display: flex; gap: 12px; margin-top: 10px; }
+  .legend span { font-size: 11px; display: flex; align-items: center; gap: 4px; color: var(--muted); }
+  .dot { width: 8px; height: 8px; border-radius: 50%; display: inline-block; }
+
+  /* Chips */
+  .chips { display: flex; flex-wrap: wrap; gap: 6px; }
+  .chip { padding: 3px 9px; border-radius: 20px; font-size: 12px; background: rgba(124,106,247,.12); color: var(--accent); border: 1px solid rgba(124,106,247,.25); }
+
+  /* Stats */
+  .stats { display: flex; gap: 12px; flex-wrap: wrap; }
+  .stat { background: var(--bg); border: 1px solid var(--border); border-radius: 8px; padding: 10px 16px; display: flex; flex-direction: column; gap: 2px; }
+  .stat .val { font-size: 22px; font-weight: 700; }
+  .stat .lbl { font-size: 11px; color: var(--muted); }
+
+  /* Per-tag breakdown */
+  .tag-section { border: 1px solid var(--border); border-radius: 8px; overflow: hidden; margin-bottom: 8px; }
+  .tag-section:last-child { margin-bottom: 0; }
+  .tag-section summary {
+    display: flex; align-items: center; gap: 10px; padding: 10px 12px;
+    cursor: pointer; list-style: none; user-select: none; background: var(--bg);
+  }
+  .tag-section summary::-webkit-details-marker { display: none; }
+  .tag-section[open] summary { border-bottom: 1px solid var(--border); }
+  .tag-slug { font-family: monospace; font-size: 12px; font-weight: 600; }
+  .tag-count { margin-left: auto; font-size: 12px; color: var(--muted); font-family: monospace; }
+  .tag-games-list { padding: 8px 12px; display: flex; flex-direction: column; gap: 4px; max-height: 280px; overflow-y: auto; }
+  .tag-game-row { display: flex; align-items: baseline; gap: 8px; font-size: 12px; }
+  .tag-game-row a { color: var(--blue); text-decoration: none; flex: 1; min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .tag-game-row a:hover { text-decoration: underline; }
+  .tag-game-genre { font-size: 11px; color: var(--muted); flex-shrink: 0; }
+
+  /* IGDB detail */
+  .igdb-query-box { background: var(--bg); border: 1px solid var(--border); border-radius: 6px; padding: 10px 12px; font-family: monospace; font-size: 12px; margin-bottom: 12px; color: var(--muted); }
+  .igdb-query-box span { color: var(--text); }
+  .igdb-game-card { border: 1px solid var(--border); border-radius: 8px; padding: 12px; display: flex; flex-direction: column; gap: 6px; background: var(--bg); }
+  .igdb-game-title { font-size: 13px; font-weight: 600; display: flex; align-items: center; gap: 8px; }
+  .igdb-rating-badge { background: rgba(250,204,21,.1); border: 1px solid rgba(250,204,21,.3); color: var(--yellow); border-radius: 4px; padding: 1px 7px; font-size: 11px; font-family: monospace; }
+  .igdb-game-meta { display: flex; flex-wrap: wrap; gap: 5px; }
+  .igdb-genre-tag { background: rgba(96,165,250,.1); border: 1px solid rgba(96,165,250,.2); color: var(--blue); border-radius: 4px; padding: 1px 7px; font-size: 11px; }
+  .igdb-theme-tag { background: rgba(192,132,252,.1); border: 1px solid rgba(192,132,252,.2); color: var(--llm); border-radius: 4px; padding: 1px 7px; font-size: 11px; }
+  .igdb-summary { font-size: 12px; color: var(--muted); line-height: 1.5; }
+  .igdb-grid { display: flex; flex-direction: column; gap: 8px; }
+
+  /* Paths */
+  .path { border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
+  .path summary { padding: 12px 14px; cursor: pointer; display: flex; align-items: center; gap: 10px; background: var(--bg); list-style: none; user-select: none; }
+  .path summary::-webkit-details-marker { display: none; }
+  .path[open] summary { border-bottom: 1px solid var(--border); }
+  .path-name { font-weight: 600; font-size: 13px; }
+  .path-pitch { font-size: 12px; color: var(--muted); margin-top: 2px; }
+  .path-body { padding: 14px; display: flex; flex-direction: column; gap: 10px; }
+  .path-row { display: flex; flex-direction: column; gap: 3px; }
+  .path-row .lbl { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.5px; }
+  .path-row .val { font-size: 13px; line-height: 1.5; }
+  .game-link { display: inline-flex; align-items: center; gap: 4px; color: var(--blue); font-size: 12px; text-decoration: none; }
+  .game-link:hover { text-decoration: underline; }
+  .relevance { font-size: 12px; color: var(--muted); margin-top: 1px; }
+  .scope-grid { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 8px; }
+  .scope-cell { background: var(--bg); border: 1px solid var(--border); border-radius: 6px; padding: 8px 10px; }
+  .scope-cell .lbl { font-size: 10px; color: var(--muted); text-transform: uppercase; margin-bottom: 3px; }
+  .scope-cell .val { font-size: 12px; }
+  .titles { display: flex; gap: 8px; flex-wrap: wrap; }
+  .title-pill { background: rgba(250,204,21,.08); border: 1px solid rgba(250,204,21,.2); color: var(--yellow); border-radius: 4px; padding: 2px 8px; font-size: 12px; }
+
+  .empty { color: var(--muted); font-size: 13px; text-align: center; padding: 40px 0; }
+  .error-msg { background: rgba(248,113,113,.1); border: 1px solid rgba(248,113,113,.3); color: var(--red); border-radius: 8px; padding: 14px; font-size: 13px; font-family: monospace; white-space: pre-wrap; }
+  .spinner { display: inline-block; width: 16px; height: 16px; border: 2px solid rgba(255,255,255,.2); border-top-color: #fff; border-radius: 50%; animation: spin 0.6s linear infinite; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  .section-divider { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: var(--muted); padding: 4px 0 8px; border-bottom: 1px solid var(--border); margin-bottom: 12px; }
+</style>
+</head>
+<body>
+<div class="layout">
+
+<aside class="sidebar">
+  <header>
+    <h1>JamPad</h1>
+    <span style="font-size:11px;color:var(--muted);margin-left:auto">engine debug</span>
+  </header>
+
+  <div class="field">
+    <label for="theme">Theme *</label>
+    <input type="text" id="theme" placeholder="e.g. gravity, primal…" autocomplete="off">
+  </div>
+
+  <div class="row">
+    <div class="field">
+      <label for="timeHours">Time (hours)</label>
+      <input type="number" id="timeHours" value="48" min="1" max="720">
+    </div>
+    <div class="field">
+      <label for="skillLevel">Skill level</label>
+      <select id="skillLevel">
+        <option value="">Any</option>
+        <option value="beginner">Beginner</option>
+        <option value="intermediate" selected>Intermediate</option>
+        <option value="advanced">Advanced</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="field">
+      <label for="dimensions">Dimensions</label>
+      <select id="dimensions">
+        <option value="either">Either</option>
+        <option value="2d" selected>2D</option>
+        <option value="3d">3D</option>
+      </select>
+    </div>
+    <div class="field">
+      <label for="teamSize">Team size</label>
+      <select id="teamSize">
+        <option value="">Any</option>
+        <option value="solo" selected>Solo</option>
+        <option value="2-3">2–3</option>
+        <option value="4+">4+</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="field">
+    <label for="engine">Engine</label>
+    <input type="text" id="engine" placeholder="e.g. godot, unity…">
+  </div>
+
+  <div class="field">
+    <label>Genres</label>
+    <div class="check-group">
+      <label><input type="checkbox" value="platformer"> Platformer</label>
+      <label><input type="checkbox" value="puzzle"> Puzzle</label>
+      <label><input type="checkbox" value="shooter"> Shooter</label>
+      <label><input type="checkbox" value="horror"> Horror</label>
+      <label><input type="checkbox" value="rpg"> RPG</label>
+      <label><input type="checkbox" value="strategy"> Strategy</label>
+      <label><input type="checkbox" value="adventure"> Adventure</label>
+      <label><input type="checkbox" value="simulation"> Simulation</label>
+    </div>
+  </div>
+
+  <button id="run">Run</button>
+</aside>
+
+<main class="main" id="results">
+  <div class="empty">Enter a theme and click Run.</div>
+</main>
+
+</div>
+<script>
+const $ = id => document.getElementById(id);
+$('theme').addEventListener('keydown', e => { if (e.key === 'Enter') run(); });
+$('run').addEventListener('click', run);
+
+async function run() {
+  const theme = $('theme').value.trim();
+  if (!theme) { $('theme').focus(); return; }
+
+  const genres = [...document.querySelectorAll('.check-group input:checked')].map(el => el.value);
+  const body = { theme, debug: true };
+  const timeHours = parseInt($('timeHours').value);
+  if (timeHours) body.timeHours = timeHours;
+  const skillLevel = $('skillLevel').value; if (skillLevel) body.skillLevel = skillLevel;
+  const dimensions = $('dimensions').value; if (dimensions && dimensions !== 'either') body.dimensions = dimensions;
+  const teamSize = $('teamSize').value; if (teamSize) body.teamSize = teamSize;
+  const engine = $('engine').value.trim(); if (engine) body.engine = engine;
+  if (genres.length) body.genres = genres;
+
+  $('run').disabled = true;
+  $('run').innerHTML = '<span class="spinner"></span>';
+  $('results').innerHTML = `<div class="empty"><span class="spinner"></span>&nbsp; Running pipeline…</div>`;
+
+  const t0 = Date.now();
+  try {
+    const resp = await fetch('/inspire', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) });
+    const data = await resp.json();
+    if (data.error) throw new Error(data.error);
+    $('results').innerHTML = buildViews(data, Date.now() - t0);
+  } catch (err) {
+    $('results').innerHTML = `<div class="error-msg">Error: ${esc(err.message)}</div>`;
+  } finally {
+    $('run').disabled = false;
+    $('run').textContent = 'Run';
+  }
+}
+
+function buildViews(data, wallMs) {
+  const { paths = [], meta = {} } = data;
+  const dbg = meta.debug || {};
+  let html = '';
+
+  // ── Step 1: Tag matching ──────────────────────────────────
+  const tagHTML = (meta.tags || []).map(t => {
+    const cls = t.strategy === 'exact' ? 'exact' : t.strategy === 'fuzzy' ? 'fuzzy' : 'llm';
+    return `<span class="tag ${cls}">${esc(t.slug)}<span class="score">${Math.round(t.score*100)}%</span></span>`;
+  }).join('');
+
+  html += `<div class="card">
+    <div class="step-header"><div class="step-num">1</div><div class="step-title">Tag Matching</div></div>
+    <div class="tags">${tagHTML || '<span style="color:var(--muted)">No tags matched</span>'}</div>
+    <div class="legend">
+      <span><span class="dot" style="background:var(--exact)"></span>exact</span>
+      <span><span class="dot" style="background:var(--fuzzy)"></span>fuzzy</span>
+      <span><span class="dot" style="background:var(--llm)"></span>LLM</span>
+    </div>
+  </div>`;
+
+  // ── Step 2: LLM Interpreter ───────────────────────────────
+  const concepts = meta.concepts || [];
+  const igdbG = meta.igdbGenres || [];
+  const igdbT = meta.igdbThemes || [];
+
+  html += `<div class="card">
+    <div class="step-header">
+      <div class="step-num">2</div><div class="step-title">LLM Interpreter</div>
+      ${!meta.llmAvailable ? '<span style="color:var(--red);font-size:11px;margin-left:auto">LLM unavailable</span>' : ''}
+    </div>
+    <div style="display:flex;flex-direction:column;gap:12px">
+      <div>
+        <div class="card-title">Creative concepts</div>
+        <div class="chips">${concepts.map(c => `<span class="chip">${esc(c)}</span>`).join('') || '<span style="color:var(--muted);font-size:12px">none</span>'}</div>
+      </div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px">
+        <div>
+          <div class="card-title">IGDB genres queried</div>
+          <div class="chips">${igdbG.map(g => `<span class="chip">${esc(g)}</span>`).join('') || '<span style="color:var(--muted);font-size:12px">none</span>'}</div>
+        </div>
+        <div>
+          <div class="card-title">IGDB themes queried</div>
+          <div class="chips">${igdbT.map(t => `<span class="chip">${esc(t)}</span>`).join('') || '<span style="color:var(--muted);font-size:12px">none</span>'}</div>
+        </div>
+      </div>
+    </div>
+  </div>`;
+
+  // ── Step 3: Game Fetch (detailed) ─────────────────────────
+  const perTag = dbg.itchPerTag || {};
+  const perTagEntries = Object.entries(perTag);
+
+  // Per-tag itch breakdown
+  let itchDetailHTML = '';
+  if (perTagEntries.length > 0) {
+    const tagSections = perTagEntries.map(([slug, info]) => {
+      const strategy = (meta.tags || []).find(t => t.slug === slug)?.strategy || '';
+      const cls = strategy === 'exact' ? 'exact' : strategy === 'fuzzy' ? 'fuzzy' : 'llm';
+      const dotColor = strategy === 'exact' ? 'var(--exact)' : strategy === 'fuzzy' ? 'var(--blue)' : 'var(--llm)';
+      const gamesHTML = (info.games || []).map(g =>
+        `<div class="tag-game-row">
+          <a href="${esc(g.url)}" target="_blank">${esc(g.title)}</a>
+          ${g.genre ? `<span class="tag-game-genre">${esc(g.genre)}</span>` : ''}
+        </div>`
+      ).join('');
+
+      return `<details class="tag-section">
+        <summary>
+          <span class="dot" style="background:${dotColor}"></span>
+          <span class="tag-slug">${esc(slug)}</span>
+          <span class="tag-count">${info.total} game${info.total !== 1 ? 's' : ''}</span>
+        </summary>
+        <div class="tag-games-list">${gamesHTML || '<span style="color:var(--muted);font-size:12px">none</span>'}</div>
+      </details>`;
+    }).join('');
+
+    itchDetailHTML = `<div style="margin-top:14px">
+      <div class="section-divider">Itch.io — per tag</div>
+      ${tagSections}
+    </div>`;
+  }
+
+  // IGDB full detail
+  let igdbDetailHTML = '';
+  const igdbFull = dbg.igdbFull || [];
+  if (igdbFull.length > 0) {
+    const igdbCards = igdbFull.map(g => {
+      const genreTags = (g.genres || []).map(x => `<span class="igdb-genre-tag">${esc(x)}</span>`).join('');
+      const themeTags = (g.themes || []).map(x => `<span class="igdb-theme-tag">${esc(x)}</span>`).join('');
+      const matchedGenres = (g.genres || []).filter(x => igdbG.includes(x));
+      const matchedThemes = (g.themes || []).filter(x => igdbT.includes(x));
+      const whyHTML = [...matchedGenres.map(x => `genre: ${x}`), ...matchedThemes.map(x => `theme: ${x}`)];
+
+      return `<div class="igdb-game-card">
+        <div class="igdb-game-title">
+          ${g.url ? `<a href="${esc(g.url)}" target="_blank" style="color:var(--text);text-decoration:none">${esc(g.title)}</a>` : esc(g.title)}
+          <span class="igdb-rating-badge">⭐ ${g.rating}</span>
+          ${whyHTML.length ? `<span style="font-size:11px;color:var(--muted);font-weight:400;margin-left:4px">matched via: ${whyHTML.join(', ')}</span>` : ''}
+        </div>
+        ${genreTags || themeTags ? `<div class="igdb-game-meta">${genreTags}${themeTags}</div>` : ''}
+        ${g.summary ? `<div class="igdb-summary">${esc(g.summary)}</div>` : ''}
+      </div>`;
+    }).join('');
+
+    const queryBox = dbg.igdbQuery
+      ? `<div class="igdb-query-box">query: genres=[<span>${esc((dbg.igdbQuery.genres||[]).join(', ') || 'none')}</span>] · themes=[<span>${esc((dbg.igdbQuery.themes||[]).join(', ') || 'none')}</span>] · minRating=<span>${dbg.igdbQuery.minRating}</span> · sort=rating desc</div>`
+      : '';
+
+    igdbDetailHTML = `<div style="margin-top:14px">
+      <div class="section-divider">IGDB — reference games</div>
+      ${queryBox}
+      <div class="igdb-grid">${igdbCards}</div>
+    </div>`;
+  }
+
+  html += `<div class="card">
+    <div class="step-header">
+      <div class="step-num">3</div><div class="step-title">Game Fetch</div>
+    </div>
+    <div class="stats">
+      <div class="stat"><div class="val" style="color:var(--green)">${meta.itchCount ?? 0}</div><div class="lbl">itch.io (merged)</div></div>
+      <div class="stat"><div class="val" style="color:var(--yellow)">${meta.igdbCount ?? 0}</div><div class="lbl">IGDB refs</div></div>
+      <div class="stat"><div class="val" style="color:var(--blue)">${meta.jamCount ?? 0}</div><div class="lbl">jam fallback</div></div>
+    </div>
+    ${itchDetailHTML}
+    ${igdbDetailHTML}
+  </div>`;
+
+  // ── Step 4: Inspiration Paths ─────────────────────────────
+  const pathsHTML = paths.map((p, i) => `
+    <details class="path" ${i === 0 ? 'open' : ''}>
+      <summary>
+        <div>
+          <div class="path-name">${esc(p.name)}</div>
+          <div class="path-pitch">${esc((p.pitch || '').slice(0, 110))}…</div>
+        </div>
+      </summary>
+      <div class="path-body">
+        <div class="path-row"><div class="lbl">Core mechanic</div><div class="val">${esc(p.core_mechanic)}</div></div>
+        <div class="path-row"><div class="lbl">Why it fits</div><div class="val">${esc(p.why_it_fits)}</div></div>
+        <div class="path-row"><div class="lbl">Art direction</div><div class="val">${esc(p.art_direction)}</div></div>
+        <div class="path-row"><div class="lbl">Tone</div><div class="val">${esc(p.tone)}</div></div>
+        ${p.scope_plan ? `<div class="path-row">
+          <div class="lbl">Scope plan</div>
+          <div class="scope-grid">
+            <div class="scope-cell"><div class="lbl">First hours</div><div class="val">${esc(p.scope_plan.first_hours)}</div></div>
+            <div class="scope-cell"><div class="lbl">If ahead</div><div class="val">${esc(p.scope_plan.if_time_permits)}</div></div>
+            <div class="scope-cell"><div class="lbl">Cut if behind</div><div class="val">${esc(p.scope_plan.cut_if_behind)}</div></div>
+          </div>
+        </div>` : ''}
+        ${p.example_games?.length ? `<div class="path-row">
+          <div class="lbl">Example games</div>
+          <div style="display:flex;flex-direction:column;gap:6px">
+            ${p.example_games.map(g => `<div>
+              <a class="game-link" href="${esc(g.url)}" target="_blank">↗ ${esc(g.title)}</a>
+              <div class="relevance">${esc(g.relevance)}</div>
+            </div>`).join('')}
+          </div>
+        </div>` : ''}
+        ${p.reference_games?.length ? `<div class="path-row">
+          <div class="lbl">Reference games</div>
+          <div style="display:flex;flex-direction:column;gap:4px">
+            ${p.reference_games.map(g => `<div>
+              <span style="font-size:13px;font-weight:500">${esc(g.title)}</span>
+              <div class="relevance">${esc(g.relevance)}</div>
+            </div>`).join('')}
+          </div>
+        </div>` : ''}
+        ${p.title_ideas?.length ? `<div class="path-row">
+          <div class="lbl">Title ideas</div>
+          <div class="titles">${p.title_ideas.map(t => `<span class="title-pill">${esc(t)}</span>`).join('')}</div>
+        </div>` : ''}
+        ${p.jam_pitch ? `<div class="path-row"><div class="lbl">Jam pitch</div><div class="val" style="font-style:italic">"${esc(p.jam_pitch)}"</div></div>` : ''}
+      </div>
+    </details>
+  `).join('');
+
+  html += `<div class="card">
+    <div class="step-header">
+      <div class="step-num">4</div><div class="step-title">Inspiration Paths</div>
+      <span class="step-time">${meta.queryTimeMs}ms engine · ${wallMs}ms wall</span>
+    </div>
+    ${pathsHTML || '<div class="empty">No paths generated</div>'}
+  </div>`;
+
+  return html;
+}
+
+function esc(s) {
+  if (s == null) return '';
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+</script>
+</body>
+</html>
